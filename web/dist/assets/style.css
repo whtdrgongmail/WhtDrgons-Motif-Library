@@ -94,3 +94,13 @@ main{max-width:1560px;padding:0 4.6% 100px;margin:auto;min-height:65vh}.page-hea
 .detail-tabs{margin-top:27px}
 @media(max-width:800px){.detail-layout{grid-template-columns:230px minmax(0,1fr);gap:28px}.detail-cover-card{min-height:320px;padding:18px}.cover-title{margin-top:50px}.cover-title h2{font-size:27px}.cover-bookmark{top:49px}}
 @media(max-width:540px){.detail-layout{display:flex;flex-direction:column;gap:26px}.detail-cover{display:block;order:0;width:100%;max-width:340px;align-self:center}.detail-cover-card{min-height:300px}.detail-reading{order:1;width:100%;padding:0}.detail-reading h1{font-size:33px}.detail-meta{order:initial;padding:0}.detail-meta summary{padding:15px 18px}.detail-meta-body{padding:4px 18px 18px}}
+
+/* Official MEJE wordmark: white source for dark mode, black silhouette on white. */
+.brand-cluster{display:flex;align-items:center;gap:14px;flex-shrink:0;min-width:0}
+.meje-brand{display:flex;align-items:center;justify-content:center;min-height:42px;padding-left:13px;border-left:1px solid var(--line-strong);flex-shrink:0}
+.meje-brand img{display:block;width:86px;height:auto;filter:brightness(0);transition:opacity .18s}
+html[data-theme=dark] .meje-brand img{filter:none}
+.meje-brand:hover img{opacity:.68}
+.meje-brand:focus-visible{outline:2px solid var(--green);outline-offset:4px}
+@media(max-width:800px){.brand-cluster{gap:10px}.meje-brand{padding-left:9px;min-height:37px}.meje-brand img{width:72px}}
+@media(max-width:540px){.brand-cluster{gap:7px}.brand-cluster .brand{gap:7px}.meje-brand{padding-left:7px}.meje-brand img{width:60px}}
