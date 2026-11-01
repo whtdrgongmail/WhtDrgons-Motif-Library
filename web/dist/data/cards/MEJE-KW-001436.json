@@ -5,23 +5,28 @@
   "original": "Always Murder",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "primary_tag_id": "ML-F28",
   "description": {
-    "definition": "수사물에서 실종이나 절도 등으로 시작한 사건도 끝내 살인 사건으로 이어지는 반복 구성. 작품의 장르 기대를 유지하지만 사건의 폭을 좁힐 수 있다.",
+    "definition": "수사물에서 실종·절도 등으로 시작한 조사도 결국 살인 사건으로 바뀌는 반복 관습. 처음 제시한 사건의 종류와 최종 사건의 종류가 다를 때 적용한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "28",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "실종이나 절도 사건을 조사하던 인물들이 결국 살인 사건을 마주하는 일이 반복된다. 처음에는 다른 문제처럼 보여도 수사의 중심이 늘 살인으로 바뀌는 방식이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

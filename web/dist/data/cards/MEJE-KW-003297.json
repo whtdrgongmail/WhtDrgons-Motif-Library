@@ -5,23 +5,28 @@
   "original": "Bizarro Episode",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "primary_tag_id": "ML-F28",
   "description": {
-    "definition": "한 회차가 평소의 인물 행동이나 장르, 사건의 흐름과 크게 어긋난다. 이후에 거의 언급되지 않으면 시리즈 안에서 독립된 경험처럼 남는다. 한 회차가 [[앞이야기와 동떨어진 기묘한 시작]]으로 시작할 수 있다.",
+    "definition": "한 회차가 연속물의 평소 인물 행동, 사건 규칙 또는 장르에서 크게 벗어나는 변주 관습. 변화가 이후 회차에 이어지는지는 작품마다 다르다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "28",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "같은 시리즈의 평소 회차와 비교해 인물의 행동이나 사건의 방식이 크게 다른 편이다. 그 차이가 다음 회차에도 이어질 수도 있고 한 회차에만 머물 수도 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

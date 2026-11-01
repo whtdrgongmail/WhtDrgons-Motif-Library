@@ -5,23 +5,28 @@
   "original": "Ageless Birthday Episode",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "primary_tag_id": "ML-F28",
   "description": {
-    "definition": "생일을 중심으로 한 에피소드가 지나도 인물의 새 나이가 언급되지 않거나 이후 이야기의 나이에 반영되지 않는 연속물 관습. 축하 행사는 남기고 성장에 따른 변화는 유예한다.",
+    "definition": "생일을 다룬 회차가 있어도 인물의 나이가 이후 연속물에 반영되지 않는 시간 관습. 생일 축하는 일어나지만 인물의 공식 나이는 유지된다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-01",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "28",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "작품에서 생일을 맞은 인물이 다음 회차에도 같은 나이로 등장한다. 생일 행사는 있었지만 인물의 나이와 성장 시간은 바뀌지 않는 연속물의 관습이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

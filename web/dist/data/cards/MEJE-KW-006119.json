@@ -5,23 +5,28 @@
   "original": "Credit Card Plot",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "primary_tag_id": "ML-F07",
   "description": {
-    "definition": "인물이 신용카드 사용을 빚으로 이해하지 못하고 마음껏 지출한다. 뒤늦은 청구가 돈을 갚아야 하는 소동으로 이어진다. 결제 실패를 눈에 보이는 소동으로 만들 때 [[가게에서 잘라 버리는 신용카드]] 장면을 사용할 수 있다.",
+    "definition": "인물이 신용카드 결제를 갚아야 할 빚으로 이해하지 못해 과도하게 지출하고 청구 문제를 겪는 사건. 결제 거절 장면인 [[가게에서 잘라 버리는 신용카드]]와 구별한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "신용카드로 쓴 돈도 나중에 갚아야 한다는 사실을 모른 채 물건을 산다. 청구서를 받은 뒤 지출 때문에 생긴 문제를 겪는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
