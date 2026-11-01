@@ -20,8 +20,19 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "classification_semantics": {
+    "semantic_kind": "participation_mode",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "사람들이 [[테이블톱 게임]]을 실제로 진행하는 대화와 선택을 영상이나 음성으로 보여준다. 준비된 시나리오가 있어도 규칙에 따른 판정과 즉흥적인 연기가 전개를 바꿀 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

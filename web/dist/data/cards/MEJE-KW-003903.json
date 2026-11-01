@@ -20,7 +20,13 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "영국에서 만든 [[상황 코미디]]를 찾아보는 지역별 분류다. 같은 집이나 일터에서 마주치는 일상 문제를 대화와 회차별 소동으로 풀어 가는 모습은 작품마다 다르게 나타난다.",
     "review_status": "reviewed",

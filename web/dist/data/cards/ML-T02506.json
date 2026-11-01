@@ -7,20 +7,26 @@
   "tag_id": "ML-T02506",
   "primary_tag_id": "ML-T02506",
   "description": {
-    "definition": "광고, 완구, 전승 자료, 체험 공간처럼 표준적인 예술·오락 매체 구분에 잘 들어맞지 않는 자료와 형식을 모아 다루는 확장 분류다. 작품의 표현 매체인지, 현실의 대상·장소인지, 이야기의 기원이나 참고 자료인지에 따라 하위 항목을 판별한다.",
+    "definition": "광고·완구·체험 공간·현실 사례·전승 자료와 아직 알맞은 미디어 입구가 없는 항목을 함께 찾는 탐색 색인이다. 구성원에는 작품 매체·상품·장소·참조 자료가 섞여 있으므로 한 매체의 하위 종류로 전파하거나 이 색인을 작품의 매체 태그로 쓰지 않는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "02.018",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "collection",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "광고나 완구, 놀이 공간, 오래 전해진 이야기는 영화·책·게임 중 하나로만 넣기 어려울 때가 있습니다. 이 갈래는 그 대상을 버리지 않고 무엇을 분류하는지 다시 묻기 위한 자리입니다. 대상 자체가 이야기를 표현하는 매체인지, 작품이 참조한 현실 자료인지, 사람들이 경험하는 장소인지를 확인한 뒤 더 정확한 하위 항목을 고릅니다.",
     "review_status": "reviewed",

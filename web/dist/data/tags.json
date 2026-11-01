@@ -733,7 +733,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "facet",
+        "parent_relation": "root",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00072",
@@ -748,7 +754,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "production_culture",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00073",
@@ -763,7 +775,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00074",
@@ -778,7 +796,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00075",
@@ -793,7 +817,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00049",
@@ -808,7 +838,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "production_culture",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02480",
@@ -823,7 +859,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02481",
@@ -838,7 +880,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02482",
@@ -853,7 +901,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "distribution_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02483",
@@ -868,7 +922,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "distribution_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00051",
@@ -883,7 +943,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00052",
@@ -898,7 +966,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00053",
@@ -913,7 +987,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00054",
@@ -928,7 +1008,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "contextual",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00106",
@@ -943,7 +1029,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "source_relation",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02484",
@@ -958,7 +1050,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02485",
@@ -973,7 +1071,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02486",
@@ -988,7 +1092,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02487",
@@ -1003,7 +1113,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00055",
@@ -1018,7 +1136,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00058",
@@ -1033,7 +1159,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02488",
@@ -1048,7 +1182,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02489",
@@ -1063,7 +1205,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "game_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02490",
@@ -1078,7 +1228,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "game_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02491",
@@ -1093,7 +1251,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "participation_mode",
+        "parent_relation": "contextual",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02492",
@@ -1108,7 +1272,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "participation_mode",
+        "parent_relation": "contextual",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02493",
@@ -1123,7 +1293,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "participation_mode",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00066",
@@ -1138,7 +1314,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00067",
@@ -1153,7 +1337,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00068",
@@ -1168,7 +1360,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00069",
@@ -1183,7 +1383,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00070",
@@ -1198,7 +1406,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00071",
@@ -1213,7 +1429,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00164",
@@ -1228,7 +1452,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00139",
@@ -1243,7 +1475,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00140",
@@ -1258,7 +1498,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00141",
@@ -1273,7 +1521,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00142",
@@ -1288,7 +1544,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "contextual",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00143",
@@ -1303,7 +1565,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "contextual",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02494",
@@ -1318,22 +1588,36 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02495",
       "facet_id": "ML-F02",
       "parent_id": "ML-F02",
-      "node_kind": "group",
-      "taggable": true,
-      "row_version": 1,
+      "node_kind": "collection",
+      "taggable": false,
+      "row_version": 2,
       "label": "뉴미디어",
       "classification": {
         "code": "02.009",
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "collection",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00094",
@@ -1348,7 +1632,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00100",
@@ -1363,7 +1655,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00163",
@@ -1378,7 +1678,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "production_context",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00112",
@@ -1393,7 +1699,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00167",
@@ -1408,7 +1722,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "distribution_form",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00194",
@@ -1423,7 +1743,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "participation_mode",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00195",
@@ -1438,7 +1764,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00196",
@@ -1453,7 +1787,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02496",
@@ -1468,7 +1810,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "carrier",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02497",
@@ -1483,7 +1833,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02498",
@@ -1498,7 +1856,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02499",
@@ -1513,7 +1879,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02500",
@@ -1528,7 +1902,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00135",
@@ -1543,7 +1925,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "advertising_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00147",
@@ -1558,7 +1946,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00148",
@@ -1573,7 +1969,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00149",
@@ -1588,7 +1992,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00150",
@@ -1603,7 +2015,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00151",
@@ -1618,7 +2038,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02501",
@@ -1633,7 +2061,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00050",
@@ -1648,7 +2084,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "production_culture",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02502",
@@ -1663,7 +2105,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "production_culture",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02503",
@@ -1678,7 +2126,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "production_culture",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00144",
@@ -1693,7 +2147,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00084",
@@ -1708,7 +2170,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "participation_mode",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00085",
@@ -1723,7 +2191,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "game_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00086",
@@ -1738,7 +2212,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "game_form",
+        "parent_relation": "contextual",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00087",
@@ -1753,7 +2233,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "game_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00088",
@@ -1768,7 +2254,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "game_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00089",
@@ -1783,7 +2275,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "game_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00061",
@@ -1798,7 +2296,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00062",
@@ -1813,7 +2319,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00063",
@@ -1828,7 +2342,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00064",
@@ -1843,7 +2365,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00065",
@@ -1858,7 +2388,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02504",
@@ -1873,7 +2411,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02505",
@@ -1888,7 +2434,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00152",
@@ -1903,7 +2457,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00153",
@@ -1918,7 +2480,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00154",
@@ -1933,7 +2503,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00155",
@@ -1948,7 +2526,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00156",
@@ -1963,7 +2549,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00157",
@@ -1978,7 +2572,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00158",
@@ -1993,7 +2595,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00076",
@@ -2008,7 +2618,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00077",
@@ -2023,7 +2641,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "platform",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00078",
@@ -2038,7 +2662,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "platform",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00079",
@@ -2053,7 +2683,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "platform",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00080",
@@ -2068,7 +2704,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "platform",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00081",
@@ -2083,7 +2725,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "platform",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00082",
@@ -2098,7 +2746,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "interface",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00083",
@@ -2113,7 +2767,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "interface",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00090",
@@ -2128,7 +2788,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00091",
@@ -2143,7 +2811,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00092",
@@ -2158,7 +2834,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00093",
@@ -2173,22 +2857,36 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T02506",
       "facet_id": "ML-F02",
       "parent_id": "ML-F02",
-      "node_kind": "group",
-      "taggable": true,
-      "row_version": 1,
+      "node_kind": "collection",
+      "taggable": false,
+      "row_version": 2,
       "label": "추가 미디어·사례 출처",
       "classification": {
         "code": "02.018",
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "collection",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00133",
@@ -2203,7 +2901,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "advertising_form",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00116",
@@ -2218,7 +2922,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00122",
@@ -2233,7 +2945,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "participation_mode",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00126",
@@ -2248,7 +2966,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "immersive_space",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00130",
@@ -2263,7 +2989,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "game_form",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00169",
@@ -2278,7 +3012,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "physical_object",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00175",
@@ -2293,7 +3033,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "production_culture",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00105",
@@ -2308,7 +3054,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "source_relation",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00179",
@@ -2323,7 +3075,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "reference_source",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00184",
@@ -2338,7 +3096,13 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "reference_source",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-T00188",
@@ -2353,7 +3117,15 @@
         "review_status": "provisional",
         "row_version": 1
       },
-      "semantics": null
+      "semantics": {
+        "semantic_kind": "immersive_space",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
     },
     {
       "id": "ML-F03",
@@ -40329,6 +41101,52 @@
           "subject"
         ],
         "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02512",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-F02",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "애니메이션",
+      "classification": {
+        "code": "02.019",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02513",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-F02",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "만화",
+      "classification": {
+        "code": "02.020",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "provisional",
         "row_version": 1
       }
     }

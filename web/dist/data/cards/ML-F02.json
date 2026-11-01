@@ -20,7 +20,13 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "같은 이야기도 [[영화]]로 보면 화면과 시간이 정해지고, [[비디오게임]]으로 만나면 이용자의 조작이 전개에 끼어듭니다. 이곳에서는 작품이 어떤 통로로 전달되는지 찾습니다. 매체를 알면 비슷한 장면이 왜 다르게 경험되는지도 이해하기 쉽습니다.",
     "review_status": "reviewed",

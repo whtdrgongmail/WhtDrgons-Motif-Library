@@ -20,8 +20,19 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "세상을 떠난 유명인을 기리는 노래다. 업적을 열거하는 데 그치지 않고 노래를 만든 사람이 무엇을 기억하거나 그리워하는지 들려줄 때 추모의 성격이 뚜렷해진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

@@ -20,7 +20,13 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "벨기에에서 만들어졌거나 벨기에 문화권과 연결되는 만화·영화·방송·음악을 찾아볼 때 쓰는 [[미디어]] 분류다. 작품의 장르를 뜻하는 말이 아니라 제작 지역을 기준으로 자료를 모으는 표지다.",
     "review_status": "reviewed",

@@ -7,20 +7,26 @@
   "tag_id": "ML-T02495",
   "primary_tag_id": "ML-T02495",
   "description": {
-    "definition": "웹과 디지털 환경을 바탕으로 유통되거나 참여하는 콘텐츠를 찾는 매체 분류다. [[웹영상]]·[[팟캐스트]]·[[SNS 서사]] 등 여러 형식을 포함한다.",
+    "definition": "웹과 디지털 환경에 관계된 작품·유통·참여 방식을 함께 찾는 탐색 색인이다. [[웹영상]]·[[팟캐스트]]·[[SNS 서사]]는 같은 단일 매체의 하위 종류가 아니므로 이 색인 자체를 작품의 매체 태그로 쓰지 않는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "02.009",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "collection",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "뉴미디어는 웹이나 디지털 환경을 통해 새 방식으로 만들고 퍼뜨리거나 참여하는 콘텐츠를 찾는 큰 갈래입니다. 짧은 웹영상, 소리 중심의 팟캐스트, 게시물이 이어지는 이야기는 이용 방식이 서로 다릅니다. 인터넷에 올라왔다는 한 사실만으로 이 작품들이 같은 형식이나 같은 수준의 상호작용을 가진다고 보지 않습니다.",
     "review_status": "reviewed",

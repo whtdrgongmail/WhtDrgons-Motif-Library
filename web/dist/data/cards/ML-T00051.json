@@ -20,7 +20,15 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "코믹북에서는 그림을 나눈 칸을 읽는 순서와 화면·지면의 배열이 이야기를 전합니다. 같은 만화라도 한 권으로 묶였는지, 연재됐는지, 긴 독립 이야기로 구성됐는지에 따라 읽는 형식이 달라집니다. 그래서 [[그래픽 노블]] 같은 작품 형식은 코믹북이라는 매체 이름과 구별해 살핍니다.",
     "review_status": "reviewed",

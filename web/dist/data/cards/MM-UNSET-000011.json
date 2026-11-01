@@ -20,7 +20,15 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "앨리스가 토끼를 따라 낯선 세계로 들어가면서 익숙한 논리와 크기 감각이 흔들리는 작품입니다. 이 카드는 루이스 캐럴의 소설 《이상한 나라의 앨리스》를 가리킵니다. 그 영향을 받아 만든 모든 [[판타지]] 작품이나 비슷한 [[세계관·규칙]]을 한 작품으로 합치지 않습니다.",
     "review_status": "reviewed",

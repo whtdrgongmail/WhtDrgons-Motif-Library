@@ -20,7 +20,15 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "라디오·오디오 작품은 화면을 보지 않아도 목소리와 소리만 따라 내용을 이해할 수 있게 만듭니다. 배우의 대사와 효과음으로 장면을 떠올리게 하는 [[라디오 드라마]], 책의 글을 낭독하는 [[오디오북]]이 서로 다른 예입니다. 듣는 매체라는 공통점이 있어도 이야기의 구성 방식까지 같지는 않습니다.",
     "review_status": "reviewed",

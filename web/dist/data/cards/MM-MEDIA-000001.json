@@ -20,7 +20,15 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "《매트릭스》는 인물이 현실이라고 믿던 세계의 조건을 다시 의심하게 되는 [[SF]] [[영화]]입니다. 가상 환경의 규칙을 알게 되면서 인물의 선택과 갈등이 바뀝니다. 작품을 읽을 때는 그 조건을 [[세계관·규칙]] 카드와 연결해 볼 수 있습니다.",
     "review_status": "reviewed",

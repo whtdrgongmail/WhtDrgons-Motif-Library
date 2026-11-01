@@ -4130,6 +4130,1016 @@
       "allowed_roles": [],
       "review_status": "reviewed",
       "row_version": 1
+    },
+    {
+      "tag_id": "ML-F02",
+      "semantic_kind": "facet",
+      "parent_relation": "root",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00072",
+      "semantic_kind": "production_culture",
+      "parent_relation": "facet_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00073",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00074",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00075",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00049",
+      "semantic_kind": "production_culture",
+      "parent_relation": "facet_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02480",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02481",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02482",
+      "semantic_kind": "distribution_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02483",
+      "semantic_kind": "distribution_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00051",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00052",
+      "semantic_kind": "publication_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00053",
+      "semantic_kind": "publication_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00054",
+      "semantic_kind": "work_form",
+      "parent_relation": "contextual",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00106",
+      "semantic_kind": "source_relation",
+      "parent_relation": "facet_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02484",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02485",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02486",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02487",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00055",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00058",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02488",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02489",
+      "semantic_kind": "game_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02490",
+      "semantic_kind": "game_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02491",
+      "semantic_kind": "participation_mode",
+      "parent_relation": "contextual",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02492",
+      "semantic_kind": "participation_mode",
+      "parent_relation": "contextual",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02493",
+      "semantic_kind": "participation_mode",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00066",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00067",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00068",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00069",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00070",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00071",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00164",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00139",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00140",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00141",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00142",
+      "semantic_kind": "publication_form",
+      "parent_relation": "contextual",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00143",
+      "semantic_kind": "work_form",
+      "parent_relation": "contextual",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02494",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02495",
+      "semantic_kind": "collection",
+      "parent_relation": "facet_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00094",
+      "semantic_kind": "work_form",
+      "parent_relation": "collection_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00100",
+      "semantic_kind": "work_form",
+      "parent_relation": "collection_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00163",
+      "semantic_kind": "production_context",
+      "parent_relation": "collection_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00112",
+      "semantic_kind": "work_form",
+      "parent_relation": "collection_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00167",
+      "semantic_kind": "distribution_form",
+      "parent_relation": "collection_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00194",
+      "semantic_kind": "participation_mode",
+      "parent_relation": "collection_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00195",
+      "semantic_kind": "work_form",
+      "parent_relation": "collection_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00196",
+      "semantic_kind": "work_form",
+      "parent_relation": "collection_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02496",
+      "semantic_kind": "carrier",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02497",
+      "semantic_kind": "publication_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02498",
+      "semantic_kind": "publication_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02499",
+      "semantic_kind": "publication_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02500",
+      "semantic_kind": "publication_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00135",
+      "semantic_kind": "advertising_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00147",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00148",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00149",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00150",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00151",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02501",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00050",
+      "semantic_kind": "production_culture",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02502",
+      "semantic_kind": "production_culture",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02503",
+      "semantic_kind": "production_culture",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00144",
+      "semantic_kind": "publication_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00084",
+      "semantic_kind": "participation_mode",
+      "parent_relation": "facet_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00085",
+      "semantic_kind": "game_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00086",
+      "semantic_kind": "game_form",
+      "parent_relation": "contextual",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00087",
+      "semantic_kind": "game_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00088",
+      "semantic_kind": "game_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00089",
+      "semantic_kind": "game_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00061",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00062",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00063",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00064",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00065",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02504",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02505",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00152",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00153",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00154",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00155",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00156",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00157",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00158",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00076",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00077",
+      "semantic_kind": "platform",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00078",
+      "semantic_kind": "platform",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00079",
+      "semantic_kind": "platform",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00080",
+      "semantic_kind": "platform",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00081",
+      "semantic_kind": "platform",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00082",
+      "semantic_kind": "interface",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00083",
+      "semantic_kind": "interface",
+      "parent_relation": "is_a",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00090",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00091",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00092",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00093",
+      "semantic_kind": "work_form",
+      "parent_relation": "is_a",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02506",
+      "semantic_kind": "collection",
+      "parent_relation": "facet_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00133",
+      "semantic_kind": "advertising_form",
+      "parent_relation": "collection_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00116",
+      "semantic_kind": "medium_family",
+      "parent_relation": "collection_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00122",
+      "semantic_kind": "participation_mode",
+      "parent_relation": "collection_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00126",
+      "semantic_kind": "immersive_space",
+      "parent_relation": "collection_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00130",
+      "semantic_kind": "game_form",
+      "parent_relation": "collection_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00169",
+      "semantic_kind": "physical_object",
+      "parent_relation": "collection_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00175",
+      "semantic_kind": "production_culture",
+      "parent_relation": "collection_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00105",
+      "semantic_kind": "source_relation",
+      "parent_relation": "collection_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00179",
+      "semantic_kind": "reference_source",
+      "parent_relation": "collection_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00184",
+      "semantic_kind": "reference_source",
+      "parent_relation": "collection_member",
+      "allowed_roles": [],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T00188",
+      "semantic_kind": "immersive_space",
+      "parent_relation": "collection_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02512",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02513",
+      "semantic_kind": "medium_family",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "medium"
+      ],
+      "review_status": "provisional",
+      "row_version": 1
     }
   ]
 }

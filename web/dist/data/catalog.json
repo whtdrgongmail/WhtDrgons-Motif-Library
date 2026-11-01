@@ -1,14 +1,14 @@
 {
   "version": "0.2",
   "stats": {
-    "cards": 13522,
-    "keyword_cards": 13516,
+    "cards": 13531,
+    "keyword_cards": 13525,
     "rule_cards": 2,
     "entity_cards": 2,
     "facets": 30,
     "selectable_tags": 2422,
-    "defined_cards": 13522,
-    "original_terms": 11164
+    "defined_cards": 13531,
+    "original_terms": 11165
   },
   "cards": [
     {
@@ -1805,7 +1805,7 @@
       "facet": "미디어",
       "bookmark": "그래픽 노블",
       "classification_code": "02.003.003",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "코믹북"
@@ -2121,7 +2121,7 @@
       "facet": "미디어",
       "bookmark": "신체 놀이",
       "classification_code": "02.006.003",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "게임"
@@ -2150,7 +2150,7 @@
       "facet": "미디어",
       "bookmark": "역할놀이",
       "classification_code": "02.006.004",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "게임"
@@ -2496,7 +2496,7 @@
       "facet": "미디어",
       "bookmark": "앨범",
       "classification_code": "02.008.003",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "음악·음향"
@@ -2525,7 +2525,7 @@
       "facet": "미디어",
       "bookmark": "뮤직비디오",
       "classification_code": "02.008.004",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "음악·음향"
@@ -2563,29 +2563,29 @@
     },
     {
       "id": "ML-T02495",
-      "row_version": 2,
+      "row_version": 3,
       "title": "뉴미디어",
       "original": "New Media",
       "aliases": [],
       "kind": "keyword",
       "facet_id": "ML-F02",
-      "node_kind": "group",
+      "node_kind": "collection",
       "parent_id": "ML-F02",
       "tag_path": [],
       "browse_path": [
         "ML-F02",
         "ML-T02495"
       ],
-      "summary": "웹과 디지털 환경을 바탕으로 유통되거나 참여하는 콘텐츠를 찾는 매체 분류다. 웹영상·팟캐스트·SNS 서사 등 여러 형식을 포함한다.",
+      "summary": "웹과 디지털 환경에 관계된 작품·유통·참여 방식을 함께 찾는 탐색 색인이다. 웹영상·팟캐스트·SNS 서사는 같은 단일 매체의 하위 종류가 아니므로 이 색인 자체를 작품의 매체 태그로 쓰지 않는다.",
       "accent": "#55758A",
       "tab": "#71969D",
       "facet": "미디어",
-      "bookmark": "뉴미디어",
+      "bookmark": "색인",
       "classification_code": "02.009",
-      "address_kind": "분류",
+      "address_kind": "색인",
       "applied_tags": [],
       "thumbnail_tags": [
-        "미디어"
+        "미디어 · 색인"
       ],
       "entry_url": "cards/ML-T02495/index.html"
     },
@@ -2611,7 +2611,7 @@
       "facet": "미디어",
       "bookmark": "웹영상",
       "classification_code": "02.009.001",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "뉴미디어"
@@ -2640,7 +2640,7 @@
       "facet": "미디어",
       "bookmark": "웹애니메이션",
       "classification_code": "02.009.002",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "뉴미디어"
@@ -2669,7 +2669,7 @@
       "facet": "미디어",
       "bookmark": "웹 오리지널",
       "classification_code": "02.009.003",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "뉴미디어"
@@ -2698,7 +2698,7 @@
       "facet": "미디어",
       "bookmark": "팟캐스트",
       "classification_code": "02.009.004",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "뉴미디어"
@@ -2727,7 +2727,7 @@
       "facet": "미디어",
       "bookmark": "SNS 서사",
       "classification_code": "02.009.005",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "뉴미디어"
@@ -2760,7 +2760,7 @@
       "facet": "미디어",
       "bookmark": "대체 현실 게임",
       "classification_code": "02.009.006",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "뉴미디어"
@@ -2789,7 +2789,7 @@
       "facet": "미디어",
       "bookmark": "대화형 캐릭터 콘텐츠",
       "classification_code": "02.009.007",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "뉴미디어"
@@ -2818,7 +2818,7 @@
       "facet": "미디어",
       "bookmark": "가상세계 콘텐츠",
       "classification_code": "02.009.008",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "뉴미디어"
@@ -3365,7 +3365,7 @@
       "facet": "미디어",
       "bookmark": "카드게임",
       "classification_code": "02.013.002",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "테이블톱 게임"
@@ -4213,29 +4213,29 @@
     },
     {
       "id": "ML-T02506",
-      "row_version": 2,
+      "row_version": 3,
       "title": "추가 미디어·사례 출처",
       "original": "",
       "aliases": [],
       "kind": "keyword",
       "facet_id": "ML-F02",
-      "node_kind": "group",
+      "node_kind": "collection",
       "parent_id": "ML-F02",
       "tag_path": [],
       "browse_path": [
         "ML-F02",
         "ML-T02506"
       ],
-      "summary": "광고, 완구, 전승 자료, 체험 공간처럼 표준적인 예술·오락 매체 구분에 잘 들어맞지 않는 자료와 형식을 모아 다루는 확장 분류다. 작품의 표현 매체인지, 현실의 대상·장소인지, 이야기의 기원이나 참고 자료인지에 따라 하위 항목을 판별한다.",
+      "summary": "광고·완구·체험 공간·현실 사례·전승 자료와 아직 알맞은 미디어 입구가 없는 항목을 함께 찾는 탐색 색인이다. 구성원에는 작품 매체·상품·장소·참조 자료가 섞여 있으므로 한 매체의 하위 종류로 전파하거나 이 색인을 작품의 매체 태그로 쓰지 않는다.",
       "accent": "#55758A",
       "tab": "#8B8C83",
       "facet": "미디어",
-      "bookmark": "추가 미디어·사례 출처",
+      "bookmark": "색인",
       "classification_code": "02.018",
-      "address_kind": "분류",
+      "address_kind": "색인",
       "applied_tags": [],
       "thumbnail_tags": [
-        "미디어"
+        "미디어 · 색인"
       ],
       "entry_url": "cards/ML-T02506/index.html"
     },
@@ -4261,7 +4261,7 @@
       "facet": "미디어",
       "bookmark": "광고",
       "classification_code": "02.018.001",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -4290,7 +4290,7 @@
       "facet": "미디어",
       "bookmark": "미술",
       "classification_code": "02.018.002",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -4319,7 +4319,7 @@
       "facet": "미디어",
       "bookmark": "프로레슬링",
       "classification_code": "02.018.003",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -4348,7 +4348,7 @@
       "facet": "미디어",
       "bookmark": "어트랙션",
       "classification_code": "02.018.004",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -4377,7 +4377,7 @@
       "facet": "미디어",
       "bookmark": "핀볼",
       "classification_code": "02.018.005",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -4406,7 +4406,7 @@
       "facet": "미디어",
       "bookmark": "완구",
       "classification_code": "02.018.006",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -4435,7 +4435,7 @@
       "facet": "미디어",
       "bookmark": "아시아 애니메이션",
       "classification_code": "02.018.007",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -4467,7 +4467,7 @@
       "facet": "미디어",
       "bookmark": "팬 창작물",
       "classification_code": "02.018.008",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -4496,7 +4496,7 @@
       "facet": "미디어",
       "bookmark": "신화·전승 자료",
       "classification_code": "02.018.009",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -4525,7 +4525,7 @@
       "facet": "미디어",
       "bookmark": "현실 사례",
       "classification_code": "02.018.010",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -4554,7 +4554,7 @@
       "facet": "미디어",
       "bookmark": "체험·공간 콘텐츠",
       "classification_code": "02.018.011",
-      "address_kind": "분류",
+      "address_kind": "탐색",
       "applied_tags": [],
       "thumbnail_tags": [
         "추가 미디어·사례 출처"
@@ -11459,7 +11459,7 @@
     },
     {
       "id": "ML-T00435",
-      "row_version": 2,
+      "row_version": 3,
       "title": "액션 RPG",
       "original": "Action RPG",
       "aliases": [],
@@ -11469,14 +11469,16 @@
       "parent_id": "ML-T00434",
       "tag_path": [],
       "browse_path": [
-        "ML-F03"
+        "ML-F03",
+        "ML-T00434",
+        "ML-T00435"
       ],
       "summary": "역할 수행 게임의 성장·장비·탐험 구조와 실시간 직접 조작 전투를 결합한 게임 장르. 수치에 따른 성장이 중요하면서도 공격과 회피의 순간 판단이 결과를 바꾼다.",
       "accent": "#8A687E",
-      "tab": "#9A6A55",
+      "tab": "#7F9C91",
       "facet": "장르",
-      "bookmark": "",
-      "classification_code": "03",
+      "bookmark": "액션 RPG",
+      "classification_code": "03.204.001",
       "address_kind": "분류",
       "applied_tags": [],
       "thumbnail_tags": [
@@ -33381,7 +33383,7 @@
     },
     {
       "id": "ML-T01184",
-      "row_version": 3,
+      "row_version": 4,
       "title": "포켓 차원",
       "original": "Pocket Dimension",
       "aliases": [],
@@ -33391,14 +33393,16 @@
       "parent_id": "ML-T01179",
       "tag_path": [],
       "browse_path": [
-        "ML-F13"
+        "ML-F13",
+        "ML-T01179",
+        "ML-T01184"
       ],
       "summary": "현재 세계에 붙어 있으면서 보통 공간보다 더 넓은 내부나 숨겨진 장소를 제공하는 작은 별도 공간. 보관, 피신, 비밀 거주지처럼 쓰인다.",
       "accent": "#497A73",
-      "tab": "#9A6A55",
+      "tab": "#778F70",
       "facet": "세계관·규칙",
-      "bookmark": "",
-      "classification_code": "13",
+      "bookmark": "포켓 차원",
+      "classification_code": "13.002.005",
       "address_kind": "분류",
       "applied_tags": [],
       "thumbnail_tags": [
@@ -51019,7 +51023,7 @@
     },
     {
       "id": "ML-T01787",
-      "row_version": 2,
+      "row_version": 3,
       "title": "마술적 리얼리즘",
       "original": "Magic Realism",
       "aliases": [],
@@ -51029,14 +51033,16 @@
       "parent_id": "ML-T01781",
       "tag_path": [],
       "browse_path": [
-        "ML-F21"
+        "ML-F21",
+        "ML-T01781",
+        "ML-T01787"
       ],
       "summary": "현실과 가까운 일상·사회 문제 속에 불가사의한 사건이 들어오되 인물들이 그것을 세계의 일부처럼 받아들이는 이야기의 표현 방식. 경이로운 요소가 있어도 그 자체를 해명하는 모험이 중심일 필요는 없다. 세계 안에서 실제로 작동하는 마법은 주문의 작동 여부를 다루는 다른 층위다.",
       "accent": "#947C8F",
-      "tab": "#9A6A55",
+      "tab": "#778F70",
       "facet": "미학·스타일",
-      "bookmark": "",
-      "classification_code": "21",
+      "bookmark": "마술적 리얼리즘",
+      "classification_code": "21.002.006",
       "address_kind": "분류",
       "applied_tags": [],
       "thumbnail_tags": [
@@ -65137,7 +65143,7 @@
     },
     {
       "id": "ML-T02279",
-      "row_version": 3,
+      "row_version": 4,
       "title": "배우 교체",
       "original": "Actor Swap",
       "aliases": [],
@@ -65147,14 +65153,16 @@
       "parent_id": "ML-T02277",
       "tag_path": [],
       "browse_path": [
-        "ML-F27"
+        "ML-F27",
+        "ML-T02277",
+        "ML-T02279"
       ],
       "summary": "작품 속 같은 배역을 다른 배우가 이어 맡거나 한 작품 안에서 나누어 맡는 제작 방식. 인물은 이어져도 외형과 연기의 결이 달라져 관객이 연속성을 받아들이는 방법을 새로 정해야 한다.",
       "accent": "#7F8A85",
-      "tab": "#9A6A55",
+      "tab": "#528982",
       "facet": "메타·제작·유통",
-      "bookmark": "",
-      "classification_code": "27",
+      "bookmark": "배우 교체",
+      "classification_code": "27.005.002",
       "address_kind": "분류",
       "applied_tags": [],
       "thumbnail_tags": [
@@ -71262,7 +71270,6 @@
       "node_kind": null,
       "parent_id": null,
       "tag_path": [
-        "ML-F02",
         "ML-T02487",
         "ML-T00231"
       ],
@@ -71291,7 +71298,7 @@
           "role": "medium",
           "tag_id": "ML-T02487",
           "label": "영화",
-          "semantic_kind": null,
+          "semantic_kind": "medium_family",
           "row_version": 1
         }
       ],
@@ -86857,7 +86864,7 @@
     },
     {
       "id": "MEJE-KW-000730",
-      "row_version": 1,
+      "row_version": 2,
       "title": "저울질 횟수가 제한된 다른 무게 찾기",
       "original": "12 Coins Puzzle",
       "aliases": [],
@@ -86871,7 +86878,7 @@
       "browse_path": [
         "ML-F25"
       ],
-      "summary": "여러 동전이나 물건 가운데 무게가 다른 하나를 제한된 저울 사용 횟수 안에 찾아야 하는 퍼즐. 무게의 차이와 각 측정 결과를 어떻게 나눌지가 핵심 선택이다. 합계가 같게 숫자를 놓는 마방진 퍼즐은 수 배열을 이용하는 별도 논리 퍼즐이다.",
+      "summary": "여러 동전이나 물건 가운데 무게가 다른 하나를 제한된 저울 사용 횟수 안에 찾아야 하는 퍼즐. 무게의 차이와 각 측정 결과를 어떻게 나눌지가 핵심 선택이다.",
       "accent": "#667E94",
       "tab": "#9A6A55",
       "facet": "게임·상호작용",
@@ -87336,7 +87343,6 @@
       "node_kind": null,
       "parent_id": null,
       "tag_path": [
-        "ML-F02",
         "ML-T00061",
         "ML-T00065"
       ],
@@ -91227,7 +91233,6 @@
       "node_kind": null,
       "parent_id": null,
       "tag_path": [
-        "ML-F02",
         "ML-T00084"
       ],
       "browse_path": [
@@ -101609,7 +101614,6 @@
       "node_kind": null,
       "parent_id": null,
       "tag_path": [
-        "ML-F02",
         "ML-T00066",
         "ML-T00067"
       ],
@@ -118703,7 +118707,7 @@
     },
     {
       "id": "MEJE-KW-001794",
-      "row_version": 4,
+      "row_version": 5,
       "title": "기도에 응답하는 신적 존재",
       "original": "Answer to Prayers",
       "aliases": [],
@@ -118717,7 +118721,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "인물의 기도 뒤에 신적 존재의 말이나 사건의 변화가 뒤따르는 세계 규칙. 우연과 응답의 경계를 어떻게 제시하느냐에 따라 신앙의 의미가 달라진다. 말장난으로 신을 자처하는 신의 이름을 자기 호칭으로 받아들이기와는 응답의 주체가 다르다.",
+      "summary": "인물의 기도 뒤에 신적 존재의 말이나 사건의 변화가 뒤따르는 세계 규칙. 우연과 응답의 경계를 어떻게 제시하느냐에 따라 신앙의 의미가 달라진다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -127138,7 +127142,7 @@
     },
     {
       "id": "MEJE-KW-002086",
-      "row_version": 3,
+      "row_version": 4,
       "title": "우주 공간에 만드는 인공 중력",
       "original": "Artificial Gravity",
       "aliases": [],
@@ -127152,7 +127156,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "우주선이나 거주 시설 안에서 지상처럼 아래쪽을 느끼게 하는 기술 설정. 중력의 작동과 고장 조건이 이동·생활·전투의 규칙이 된다. 빛과 열까지 통제하는 인위적으로 만든 태양은 더 큰 규모의 환경 기술이다.",
+      "summary": "우주선이나 거주 시설 안에서 지상처럼 아래쪽을 느끼게 하는 기술 설정. 중력의 작동과 고장 조건이 이동·생활·전투의 규칙이 된다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -130670,7 +130674,7 @@
     },
     {
       "id": "MEJE-KW-002211",
-      "row_version": 2,
+      "row_version": 3,
       "title": "악이 남아 있는 한 사라지지 않는 적",
       "original": "As Long as There Is Evil",
       "aliases": [],
@@ -130684,7 +130688,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "세계에 악의가 존재하는 한 적도 완전히 죽지 않거나 되돌아온다는 규칙. 한 전투의 승리와 악의 근원을 바꾸는 일 사이에 간격을 둔다. 적이 되살아나는 규칙은 한 사람이 남아 있으면 저항은 이어지기와 지속의 방향이 다르다.",
+      "summary": "세계에 악의가 존재하는 한 적도 완전히 죽지 않거나 되돌아온다는 규칙. 한 전투의 승리와 악의 근원을 바꾸는 일 사이에 간격을 둔다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -137576,7 +137580,7 @@
     },
     {
       "id": "MEJE-KW-002449",
-      "row_version": 3,
+      "row_version": 4,
       "title": "아이를 거래의 대가로 요구하기",
       "original": "Baby as Payment",
       "aliases": [],
@@ -137590,7 +137594,7 @@
       "browse_path": [
         "ML-F08"
       ],
-      "summary": "어른 사이의 약속이나 빚 때문에 아이의 양육권이나 자유를 대가로 삼는다. 아이를 물건처럼 취급하는 권력 관계와 그에 맞서는 선택이 갈등의 핵심이다. 아이를 대가로 삼는 제도는 어른을 출산 수단으로 취급되는 사람으로 보는 사회와 연결된다.",
+      "summary": "어른 사이의 약속이나 빚 때문에 아이의 양육권이나 자유를 대가로 삼는다. 아이를 물건처럼 취급하는 권력 관계와 그에 맞서는 선택이 갈등의 핵심이다.",
       "accent": "#936E72",
       "tab": "#9A6A55",
       "facet": "갈등·장애",
@@ -143086,7 +143090,7 @@
     },
     {
       "id": "MEJE-KW-002639",
-      "row_version": 2,
+      "row_version": 3,
       "title": "죽음을 대신 떠안을 사람을 찾기",
       "original": "Balancing Death's Books",
       "aliases": [],
@@ -143100,7 +143104,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "죽음이 정해진 사람을 살리려면 다른 생명이 대가가 되어야 하는 세계 규칙. 누구에게 그 값을 요구할 권리가 있는지가 사건의 윤리적 갈등이 된다. 목숨을 맞바꾸는 거래는 선과 악이 함께 있어야 유지되는 세계의 잔혹한 적용이 될 수 있다.",
+      "summary": "죽음이 정해진 사람을 살리려면 다른 생명이 대가가 되어야 하는 세계 규칙. 누구에게 그 값을 요구할 권리가 있는지가 사건의 윤리적 갈등이 된다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -150220,7 +150224,7 @@
     },
     {
       "id": "MEJE-KW-002885",
-      "row_version": 2,
+      "row_version": 3,
       "title": "꾸밈을 바꾸자 뒤늦게 아름답다고 알아보기",
       "original": "Beautiful All Along",
       "aliases": [],
@@ -150234,7 +150238,7 @@
       "browse_path": [
         "ML-F21"
       ],
-      "summary": "안경과 머리, 옷차림을 바꾼 인물에게 주변이 갑자기 매력을 발견했다고 반응한다. 아름다움이 원래 없었던 것이 아니라 타인의 시선이 달라졌다는 관습이다. 외모의 변화가 연인을 얻으려 성적 이미지로 바뀌기처럼 관계의 압력에서 시작될 수도 있다.",
+      "summary": "안경과 머리, 옷차림을 바꾼 인물에게 주변이 갑자기 매력을 발견했다고 반응한다. 아름다움이 원래 없었던 것이 아니라 타인의 시선이 달라졌다는 관습이다.",
       "accent": "#947C8F",
       "tab": "#9A6A55",
       "facet": "미학·스타일",
@@ -152047,7 +152051,7 @@
     },
     {
       "id": "MEJE-KW-002948",
-      "row_version": 2,
+      "row_version": 3,
       "title": "어둠이 오기 전의 번영을 기억하기",
       "original": "Before the Dark Times",
       "aliases": [],
@@ -152061,7 +152065,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "지금은 무너진 나라가 한때 풍요롭고 평화로웠다는 기억을 남긴다. 그 시절을 되찾으려는 집단마다 무엇을 복원할지 다르게 그릴 수 있다. 잃어버린 시대를 되찾는 이야기는 속편에서 늦게 밝혀진 행복한 결말로 끝날 수도 있다.",
+      "summary": "지금은 무너진 나라가 한때 풍요롭고 평화로웠다는 기억을 남긴다. 그 시절을 되찾으려는 집단마다 무엇을 복원할지 다르게 그릴 수 있다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -153671,7 +153675,7 @@
     },
     {
       "id": "MEJE-KW-003004",
-      "row_version": 2,
+      "row_version": 3,
       "title": "사람을 돕기로 선택한 인공지능",
       "original": "Benevolent A.I.",
       "aliases": [],
@@ -153685,7 +153689,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "자율적 판단을 할 수 있는 기계가 인간과 함께 살고 돕는 방향을 택한다. 명령에 따른 행동과 스스로 내린 선택을 구분해 볼 수 있다. 도움을 주는 존재가 도움을 주려는 외계 세력의 침공의 세력이라면 통치의 문제가 더해진다.",
+      "summary": "자율적 판단을 할 수 있는 기계가 인간과 함께 살고 돕는 방향을 택한다. 명령에 따른 행동과 스스로 내린 선택을 구분해 볼 수 있다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -153700,7 +153704,7 @@
     },
     {
       "id": "MEJE-KW-003005",
-      "row_version": 2,
+      "row_version": 3,
       "title": "도움을 주려는 외계 세력의 침공",
       "original": "Benevolent Alien Invasion",
       "aliases": [],
@@ -153714,7 +153718,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "낯선 세력이 강제로 들어와 기존의 문제를 해결하겠다고 주장한다. 실제 도움이 있더라도 동의와 통치권을 빼앗는 방식은 남는다. 선의를 믿어도 사람들을 몰래 돕는 비밀 조직처럼 비공개 권력의 책임을 물을 수 있다.",
+      "summary": "낯선 세력이 강제로 들어와 기존의 문제를 해결하겠다고 주장한다. 실제 도움이 있더라도 동의와 통치권을 빼앗는 방식은 남는다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -153961,7 +153965,7 @@
     },
     {
       "id": "MEJE-KW-003014",
-      "row_version": 3,
+      "row_version": 4,
       "title": "후대에 안전장치를 남긴 옛 문명",
       "original": "Benevolent Precursors",
       "aliases": [],
@@ -153975,7 +153979,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "사라진 문명이 위험한 물건을 봉인하고 경고와 대처 수단까지 남겨 둔다. 과거의 사람들이 미래의 낯선 사용자를 어떻게 상상했는지가 설정이 된다. 옛 문명이 남긴 장치가 죽음을 앞두고 힘을 넘겨주기의 수단이 될 수도 있다.",
+      "summary": "사라진 문명이 위험한 물건을 봉인하고 경고와 대처 수단까지 남겨 둔다. 과거의 사람들이 미래의 낯선 사용자를 어떻게 상상했는지가 설정이 된다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -155701,7 +155705,7 @@
     },
     {
       "id": "MEJE-KW-003074",
-      "row_version": 3,
+      "row_version": 4,
       "title": "괴물보다 살아 있는 사람이 더 위협적이기",
       "original": "Beware the Living",
       "aliases": [],
@@ -155715,7 +155719,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "재난 속에서 괴물의 행동보다 사람의 탐욕과 폭력이 생존을 더 어렵게 한다. 위협의 초점을 외부 존재에서 공동체의 선택으로 돌린다. 괴물뿐 아니라 통제되지 않은 초인의 힘이 사회를 위협하는 세계도 공동체를 위협한다.",
+      "summary": "재난 속에서 괴물의 행동보다 사람의 탐욕과 폭력이 생존을 더 어렵게 한다. 위협의 초점을 외부 존재에서 공동체의 선택으로 돌린다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -156020,7 +156024,7 @@
     },
     {
       "id": "MEJE-KW-003085",
-      "row_version": 2,
+      "row_version": 3,
       "title": "세계가 정한 한계를 넘어서는 사건",
       "original": "Beyond the Impossible",
       "aliases": [],
@@ -156034,7 +156038,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "이야기가 세운 힘과 가능성의 경계를 인물이 뜻밖에 넘는다. 예외가 이후의 세계 규칙을 어떻게 바꾸는지까지 살필 필요가 있다. 도움도 통하지 않던 초자연적 도움도 소용없는 일의 반대로 보이지만 규칙의 설명이 필요하다.",
+      "summary": "이야기가 세운 힘과 가능성의 경계를 인물이 뜻밖에 넘는다. 예외가 이후의 세계 규칙을 어떻게 바꾸는지까지 살필 필요가 있다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -162081,7 +162085,7 @@
     },
     {
       "id": "MEJE-KW-003294",
-      "row_version": 2,
+      "row_version": 3,
       "title": "현실의 규칙까지 뒤틀리는 종말",
       "original": "Bizarro Apocalypse",
       "aliases": [],
@@ -162095,7 +162099,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "세계가 무너지는 동안 시간과 공간, 생물의 형태가 함께 달라진다. 생존의 문제와 더불어 새 현실의 규칙을 이해해야 한다. 현실 자체가 뒤틀리면 익숙한 관계가 뒤집힌 평행 세계와 다른 종류의 낯선 세계가 된다.",
+      "summary": "세계가 무너지는 동안 시간과 공간, 생물의 형태가 함께 달라진다. 생존의 문제와 더불어 새 현실의 규칙을 이해해야 한다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -162139,7 +162143,7 @@
     },
     {
       "id": "MEJE-KW-003296",
-      "row_version": 2,
+      "row_version": 3,
       "title": "낯선 대상을 원소로 삼은 능력 체계",
       "original": "Bizarro Elements",
       "aliases": [],
@@ -162153,7 +162157,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "불과 물처럼 익숙한 요소 밖의 물질이나 개념을 세계의 기본 힘으로 다룬다. 무엇을 원소로 인정하는지가 마법 체계의 경계를 정한다. 세계의 기본 힘을 바꾸면 익숙한 관계가 뒤집힌 평행 세계의 차이가 선명해진다.",
+      "summary": "불과 물처럼 익숙한 요소 밖의 물질이나 개념을 세계의 기본 힘으로 다룬다. 무엇을 원소로 인정하는지가 마법 체계의 경계를 정한다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -174000,7 +174004,7 @@
     },
     {
       "id": "MEJE-KW-003706",
-      "row_version": 2,
+      "row_version": 3,
       "title": "화장실에 갈 필요가 없는 주인공",
       "original": "Bottomless Bladder",
       "aliases": [],
@@ -174014,7 +174018,7 @@
       "browse_path": [
         "ML-F13"
       ],
-      "summary": "긴 여정과 전투를 겪는 인물이 기본적인 생리적 필요를 거의 드러내지 않는다. 이야기의 속도를 위해 일상적 몸의 시간을 생략한 규칙이다. 몸의 필요를 생략한다는 점에서 줄지 않는 연료통의 자원 생략과 닮았다.",
+      "summary": "긴 여정과 전투를 겪는 인물이 기본적인 생리적 필요를 거의 드러내지 않는다. 이야기의 속도를 위해 일상적 몸의 시간을 생략한 규칙이다.",
       "accent": "#497A73",
       "tab": "#9A6A55",
       "facet": "세계관·규칙",
@@ -213150,7 +213154,7 @@
     },
     {
       "id": "MEJE-KW-005058",
-      "row_version": 3,
+      "row_version": 4,
       "title": "내전",
       "original": "Civil War",
       "aliases": [],
@@ -213164,7 +213168,7 @@
       "browse_path": [
         "ML-F08"
       ],
-      "summary": "같은 국가나 공동체 안의 세력이 통치권과 독립, 제도를 두고 무장 충돌한다. 외부의 적보다 가까운 사람들 사이의 분열이 세계의 질서를 흔든다. 전략 게임은 전략 게임에서 같은 진영끼리 싸우기을 같은 진영의 유닛끼리 맞붙는 임무로 구현한다.",
+      "summary": "같은 국가나 공동체 안의 세력이 통치권과 독립, 제도를 두고 무장 충돌한다. 외부의 적보다 가까운 사람들 사이의 분열이 세계의 질서를 흔든다.",
       "accent": "#936E72",
       "tab": "#9A6A55",
       "facet": "갈등·장애",
@@ -231246,7 +231250,7 @@
     },
     {
       "id": "MEJE-KW-005685",
-      "row_version": 2,
+      "row_version": 3,
       "title": "주변 인물이 이어받는 능력",
       "original": "Contagious Powers",
       "aliases": [],
@@ -231260,7 +231264,7 @@
       "browse_path": [
         "ML-F17"
       ],
-      "summary": "영웅과 가까운 조력자나 연인이 별도의 능력을 영구적으로 얻어 역할이 커지는 전개. 힘이 전염되는 듯 보이지만 반드시 접촉하거나 같은 능력을 얻는 것은 아니다. 능력이 주변 사람에게 퍼질 때 그 영향이 위험하다면 착용자가 특별한 옷을 입어야 할 수도 있다: 위험한 힘을 억누르는 옷.",
+      "summary": "영웅과 가까운 조력자나 연인이 별도의 능력을 영구적으로 얻어 역할이 커지는 전개. 힘이 전염되는 듯 보이지만 반드시 접촉하거나 같은 능력을 얻는 것은 아니다.",
       "accent": "#75799A",
       "tab": "#9A6A55",
       "facet": "능력·기술·초자연",
@@ -255316,7 +255320,7 @@
     },
     {
       "id": "MEJE-KW-006525",
-      "row_version": 2,
+      "row_version": 3,
       "title": "우아하면서도 효과적인 전투 방식",
       "original": "Dainty Combat",
       "aliases": [],
@@ -255330,7 +255334,7 @@
       "browse_path": [
         "ML-F22"
       ],
-      "summary": "인물이 효과적으로 싸우면서 동작은 우아하고 미적으로 정돈된 방식으로 그려진다. 특히 여성 전투력을 성별화된 미적 기준에 맞추는 관습으로 쓰일 수 있다. 여성의 몸짓을 아름다움에 맞추는 전투 연출은 무용수의 힘을 지우는 발레 무용수를 연약하게 그리기와 표현상의 편견을 공유한다.",
+      "summary": "인물이 효과적으로 싸우면서 동작은 우아하고 미적으로 정돈된 방식으로 그려진다. 특히 여성 전투력을 성별화된 미적 기준에 맞추는 관습으로 쓰일 수 있다.",
       "accent": "#688397",
       "tab": "#9A6A55",
       "facet": "시각·공간 연출",
@@ -257810,7 +257814,7 @@
     },
     {
       "id": "MEJE-KW-006612",
-      "row_version": 4,
+      "row_version": 5,
       "title": "어둠을 악의 신호로 쓰기",
       "original": "Dark Is Evil",
       "aliases": [],
@@ -257824,7 +257828,7 @@
       "browse_path": [
         "ML-F20"
       ],
-      "summary": "빛이 없는 공간과 검은 색조를 악역이나 위험의 상징으로 연결한다. 익숙한 시각 약속이며 실제 어둠이나 색에 도덕적 성질이 있다는 뜻은 아니다. 어둠을 악의 표지로 쓰는 선택은 작품의 톤을 더 어둡고 거칠어진 후속 이야기 방향으로 이끌 수 있다.",
+      "summary": "빛이 없는 공간과 검은 색조를 악역이나 위험의 상징으로 연결한다. 익숙한 시각 약속이며 실제 어둠이나 색에 도덕적 성질이 있다는 뜻은 아니다.",
       "accent": "#85835C",
       "tab": "#9A6A55",
       "facet": "상징·이미지",
@@ -269004,7 +269008,7 @@
     },
     {
       "id": "MEJE-KW-007000",
-      "row_version": 2,
+      "row_version": 3,
       "title": "의도적으로 드러내는 시대의 가치 차이",
       "original": "Deliberate Values Dissonance",
       "aliases": [],
@@ -269018,7 +269022,7 @@
       "browse_path": [
         "ML-F27"
       ],
-      "summary": "작품이 다른 시대나 문화의 가치관을 오늘날 관객에게 불편하게 느껴지더라도 그대로 드러낸다. 인물의 행동을 현대의 기준에 맞춰 순화하지 않아 문화적 거리를 보여 준다. 과거의 정치적 태도를 그대로 재현한 작품은 민주주의를 악으로 그리기이라는 현재의 평가를 받을 수도 있다.",
+      "summary": "작품이 다른 시대나 문화의 가치관을 오늘날 관객에게 불편하게 느껴지더라도 그대로 드러낸다. 인물의 행동을 현대의 기준에 맞춰 순화하지 않아 문화적 거리를 보여 준다.",
       "accent": "#7F8A85",
       "tab": "#9A6A55",
       "facet": "메타·제작·유통",
@@ -269468,7 +269472,7 @@
     },
     {
       "id": "MEJE-KW-007016",
-      "row_version": 4,
+      "row_version": 5,
       "title": "모든 일을 환상으로 돌리는 해석",
       "original": "Delusion Conclusion",
       "aliases": [],
@@ -269482,7 +269486,7 @@
       "browse_path": [
         "ML-F30"
       ],
-      "summary": "관객이 작품 속 비현실적 사건을 실제 사건이 아니라 꿈이나 환각이었다고 해석한다. 작품의 세계관을 인정하기보다 현실적인 틀에 맞추려는 수용 방식이다. 특별한 경험을 실제가 아니었다고 여기는 해석은 인물 내부에서는 지난 영광을 꿈으로 치부하기으로 나타난다.",
+      "summary": "관객이 작품 속 비현실적 사건을 실제 사건이 아니라 꿈이나 환각이었다고 해석한다. 작품의 세계관을 인정하기보다 현실적인 틀에 맞추려는 수용 방식이다.",
       "accent": "#8B817D",
       "tab": "#9A6A55",
       "facet": "대상·수용맥락",
@@ -376536,7 +376540,7 @@
     },
     {
       "id": "MEJE-KW-010725",
-      "row_version": 2,
+      "row_version": 3,
       "title": "프랑스를 알리는 아코디언 소리",
       "original": "French Accordion",
       "aliases": [],
@@ -376550,7 +376554,7 @@
       "browse_path": [
         "ML-F24"
       ],
-      "summary": "작품이 프랑스, 특히 파리를 보여 주는 장면에 아코디언 선율을 붙여 장소를 즉시 알아보게 한다. 지역 음악의 다양성을 한 소리로 압축하는 관습이다. 음악으로 프랑스를 쉽게 알아보게 하는 관습은 격식과 우월감으로 그린 프랑스 요리처럼 요리 문화도 몇 가지 이미지로 단순화하기 쉽다.",
+      "summary": "작품이 프랑스, 특히 파리를 보여 주는 장면에 아코디언 선율을 붙여 장소를 즉시 알아보게 한다. 지역 음악의 다양성을 한 소리로 압축하는 관습이다.",
       "accent": "#8A7893",
       "tab": "#9A6A55",
       "facet": "소리·음악",
@@ -393584,6 +393588,269 @@
         "분석·분류"
       ],
       "entry_url": "cards/ML-T02511/index.html"
+    },
+    {
+      "id": "MM-CORE-000016",
+      "row_version": 1,
+      "title": "예언",
+      "original": "",
+      "aliases": [],
+      "kind": "keyword",
+      "facet_id": "ML-F13",
+      "node_kind": null,
+      "parent_id": null,
+      "tag_path": [
+        "ML-F13"
+      ],
+      "browse_path": [
+        "ML-F13"
+      ],
+      "summary": "아직 일어나지 않은 사건이나 인물의 운명을 미리 안다고 제시하는 말 또는 기록이다. 실현 여부와 진위는 별개이며 바꿀 수 있는 예언과 자기실현적 예언은 예언이 행동과 결과에 작용하는 서로 다른 방식이다.",
+      "accent": "#497A73",
+      "tab": "#9A6A55",
+      "facet": "세계관·규칙",
+      "bookmark": "",
+      "classification_code": "13",
+      "address_kind": "분류",
+      "applied_tags": [],
+      "thumbnail_tags": [
+        "세계관·규칙"
+      ],
+      "entry_url": "cards/MM-CORE-000016/index.html"
+    },
+    {
+      "id": "MM-CORE-000017",
+      "row_version": 1,
+      "title": "인과",
+      "original": "",
+      "aliases": [],
+      "kind": "keyword",
+      "facet_id": "ML-F13",
+      "node_kind": null,
+      "parent_id": null,
+      "tag_path": [
+        "ML-F13"
+      ],
+      "browse_path": [
+        "ML-F13"
+      ],
+      "summary": "한 사건이나 선택이 다른 사건이 일어나는 원인이 되는 관계다. 사건들이 차례로 등장한다는 사실만으로 인과가 성립하지는 않으며 원인에서 결과로 이어지는 연결을 살핀다.",
+      "accent": "#497A73",
+      "tab": "#9A6A55",
+      "facet": "세계관·규칙",
+      "bookmark": "",
+      "classification_code": "13",
+      "address_kind": "분류",
+      "applied_tags": [],
+      "thumbnail_tags": [
+        "세계관·규칙"
+      ],
+      "entry_url": "cards/MM-CORE-000017/index.html"
+    },
+    {
+      "id": "MM-CORE-000018",
+      "row_version": 1,
+      "title": "운명",
+      "original": "",
+      "aliases": [],
+      "kind": "keyword",
+      "facet_id": "ML-F13",
+      "node_kind": null,
+      "parent_id": null,
+      "tag_path": [
+        "ML-F13"
+      ],
+      "browse_path": [
+        "ML-F13"
+      ],
+      "summary": "인물에게 미리 정해져 있다고 여겨지는 삶의 경로나 결과다. 예정된 운명은 그 예정이 작품 세계의 실제 규칙으로 작동하는 경우이며 인물의 믿음이나 타인의 기대만으로 확정된 결과와 구분한다.",
+      "accent": "#497A73",
+      "tab": "#9A6A55",
+      "facet": "세계관·규칙",
+      "bookmark": "",
+      "classification_code": "13",
+      "address_kind": "분류",
+      "applied_tags": [],
+      "thumbnail_tags": [
+        "세계관·규칙"
+      ],
+      "entry_url": "cards/MM-CORE-000018/index.html"
+    },
+    {
+      "id": "MM-CORE-000019",
+      "row_version": 1,
+      "title": "차원",
+      "original": "",
+      "aliases": [],
+      "kind": "keyword",
+      "facet_id": "ML-F13",
+      "node_kind": null,
+      "parent_id": null,
+      "tag_path": [
+        "ML-F13"
+      ],
+      "browse_path": [
+        "ML-F13"
+      ],
+      "summary": "공간에서 한 위치를 지정하는 데 필요한 서로 독립적인 좌표의 수다. 앞뒤·좌우·위아래 외에 추가 방향이 있는 세 차원을 넘는 공간과 같은 설정을 설명할 때 이 뜻으로 쓴다.",
+      "accent": "#497A73",
+      "tab": "#9A6A55",
+      "facet": "세계관·규칙",
+      "bookmark": "",
+      "classification_code": "13",
+      "address_kind": "분류",
+      "applied_tags": [],
+      "thumbnail_tags": [
+        "세계관·규칙"
+      ],
+      "entry_url": "names/ecc76b0f4d87a670/index.html"
+    },
+    {
+      "id": "MM-CORE-000020",
+      "row_version": 1,
+      "title": "차원",
+      "original": "",
+      "aliases": [],
+      "kind": "keyword",
+      "facet_id": "ML-F13",
+      "node_kind": null,
+      "parent_id": null,
+      "tag_path": [
+        "ML-F13",
+        "ML-T01179"
+      ],
+      "browse_path": [
+        "ML-F13",
+        "ML-T01179"
+      ],
+      "summary": "기본 현실과 경계나 작동 조건이 구분되는 별도의 공간 또는 현실 층위를 가리킨다. 평행세계처럼 다른 역사를 지닌 세계일 수도 있고 포켓 차원처럼 현재 세계에 붙은 작은 공간일 수도 있다.",
+      "accent": "#497A73",
+      "tab": "#778F70",
+      "facet": "세계관·규칙",
+      "bookmark": "세계 층위",
+      "classification_code": "13.002",
+      "address_kind": "분류",
+      "applied_tags": [],
+      "thumbnail_tags": [
+        "세계 층위"
+      ],
+      "entry_url": "names/ecc76b0f4d87a670/index.html"
+    },
+    {
+      "id": "MM-CORE-000021",
+      "row_version": 1,
+      "title": "사후세계",
+      "original": "",
+      "aliases": [],
+      "kind": "keyword",
+      "facet_id": "ML-F13",
+      "node_kind": null,
+      "parent_id": null,
+      "tag_path": [
+        "ML-F13",
+        "ML-T01202"
+      ],
+      "browse_path": [
+        "ML-F13",
+        "ML-T01202"
+      ],
+      "summary": "죽은 뒤의 존재가 머무르거나 간다고 여겨지는 영역이나 상태를 가리킨다. 사후세계의 실재는 그 영역이 작품 안에서 실제로 확인되는 경우이며 믿음이나 전승으로만 언급된 사후세계와 구분한다.",
+      "accent": "#497A73",
+      "tab": "#528982",
+      "facet": "세계관·규칙",
+      "bookmark": "생사·영혼",
+      "classification_code": "13.005",
+      "address_kind": "분류",
+      "applied_tags": [],
+      "thumbnail_tags": [
+        "생사·영혼"
+      ],
+      "entry_url": "cards/MM-CORE-000021/index.html"
+    },
+    {
+      "id": "MM-CORE-000022",
+      "row_version": 1,
+      "title": "마법",
+      "original": "",
+      "aliases": [],
+      "kind": "keyword",
+      "facet_id": "ML-F13",
+      "node_kind": null,
+      "parent_id": null,
+      "tag_path": [
+        "ML-F13"
+      ],
+      "browse_path": [
+        "ML-F13"
+      ],
+      "summary": "주문·의식·타고난 능력 등으로 발동하여 일상적인 물리·기술의 설명과 구별되는 초자연적 힘 또는 행위다. 원천과 대가와 한계를 정한 힘의 체계일 수도 있지만 마법이 등장한다는 사실만으로 체계가 완성되지는 않는다.",
+      "accent": "#497A73",
+      "tab": "#9A6A55",
+      "facet": "세계관·규칙",
+      "bookmark": "",
+      "classification_code": "13",
+      "address_kind": "분류",
+      "applied_tags": [],
+      "thumbnail_tags": [
+        "세계관·규칙"
+      ],
+      "entry_url": "cards/MM-CORE-000022/index.html"
+    },
+    {
+      "id": "ML-T02512",
+      "row_version": 1,
+      "title": "애니메이션",
+      "original": "Animation",
+      "aliases": [],
+      "kind": "keyword",
+      "facet_id": "ML-F02",
+      "node_kind": "group",
+      "parent_id": "ML-F02",
+      "tag_path": [],
+      "browse_path": [
+        "ML-F02",
+        "ML-T02512"
+      ],
+      "summary": "그림·인형·모형·디지털 이미지에 움직임을 만들어 영상으로 보여 주는 표현 매체와 작품군이다. 일본 애니메이션처럼 제작 문화권으로, TV 애니메이션·애니메이션 영화처럼 공개 형식으로 더 찾아볼 수 있으며 특정 연령이나 장르로 한정되지 않는다.",
+      "accent": "#55758A",
+      "tab": "#A07A87",
+      "facet": "미디어",
+      "bookmark": "애니메이션",
+      "classification_code": "02.019",
+      "address_kind": "분류",
+      "applied_tags": [],
+      "thumbnail_tags": [
+        "미디어"
+      ],
+      "entry_url": "cards/ML-T02512/index.html"
+    },
+    {
+      "id": "ML-T02513",
+      "row_version": 1,
+      "title": "만화",
+      "original": "",
+      "aliases": [],
+      "kind": "keyword",
+      "facet_id": "ML-F02",
+      "node_kind": "group",
+      "parent_id": "ML-F02",
+      "tag_path": [],
+      "browse_path": [
+        "ML-F02",
+        "ML-T02513"
+      ],
+      "summary": "그림 한 컷이나 이어지는 장면으로 사건·상황·생각을 읽게 하는 표현 매체와 작품군이다. 글·칸·여백의 쓰임과 종이·웹 등 공개 경로는 다양하다. 연속그림은 장면의 이어짐, 웹코믹은 웹 공개, 웹툰은 웹 감상 방식, 일본 만화는 제작 문화권에 초점을 둔다.",
+      "accent": "#55758A",
+      "tab": "#79866C",
+      "facet": "미디어",
+      "bookmark": "만화",
+      "classification_code": "02.020",
+      "address_kind": "분류",
+      "applied_tags": [],
+      "thumbnail_tags": [
+        "미디어"
+      ],
+      "entry_url": "cards/ML-T02513/index.html"
     }
   ]
 }

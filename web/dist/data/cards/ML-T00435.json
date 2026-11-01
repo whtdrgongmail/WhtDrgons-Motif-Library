@@ -4,8 +4,8 @@
   "title": "액션 RPG",
   "original": "Action RPG",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00435",
+  "primary_tag_id": "ML-T00435",
   "description": {
     "definition": "역할 수행 게임의 성장·장비·탐험 구조와 실시간 직접 조작 전투를 결합한 게임 장르. 수치에 따른 성장이 중요하면서도 공격과 회피의 순간 판단이 결과를 바꾼다.",
     "detail": "",
@@ -14,16 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-10-31",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.204.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },

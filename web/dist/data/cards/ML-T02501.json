@@ -20,7 +20,15 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "연속그림은 한 장의 그림보다 이어지는 그림 사이를 읽으며 사건의 앞뒤를 이해하게 하는 표현 방식입니다. 칸 사이에 생략된 움직임이나 시간을 독자가 채워 넣을 수 있습니다. 인쇄 만화와 [[웹코믹]]은 공개 경로가 달라도 이렇게 그림의 순서로 이야기를 만든다는 공통점이 있습니다.",
     "review_status": "reviewed",

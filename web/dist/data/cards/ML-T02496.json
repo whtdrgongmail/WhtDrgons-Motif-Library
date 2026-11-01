@@ -20,7 +20,15 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "carrier",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인쇄 매체는 글과 그림을 종이에 찍어 읽고 보게 하는 전달 방식입니다. 책, 신문, 잡지, 광고는 모두 인쇄될 수 있지만 담는 내용과 목적은 다릅니다. 따라서 소설인지 [[코믹북]]인지 같은 작품의 표현 형식과 종이에 전달됐는지는 별도로 기록합니다.",
     "review_status": "reviewed",

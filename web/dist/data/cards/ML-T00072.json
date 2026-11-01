@@ -20,7 +20,13 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "production_culture",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서구권 애니메이션은 특정 그림체가 아니라 미국·유럽 등 서구권의 제작·유통 맥락에서 나온 애니메이션을 찾는 갈래입니다. 짧은 극장용 작품과 여러 회의 방송 시리즈는 모두 포함될 수 있습니다. 작품의 문화권과 공개 형식을 한 가지 기준으로 섞지 않기 위해 둘을 따로 기록합니다.",
     "review_status": "reviewed",

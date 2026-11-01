@@ -7,21 +7,26 @@
   "tag_id": null,
   "primary_tag_id": "ML-F13",
   "description": {
-    "definition": "자율적 판단을 할 수 있는 기계가 인간과 함께 살고 돕는 방향을 택한다. 명령에 따른 행동과 스스로 내린 선택을 구분해 볼 수 있다. 도움을 주는 존재가 [[도움을 주려는 외계 세력의 침공]]의 세력이라면 통치의 문제가 더해진다.",
+    "definition": "자율적 판단을 할 수 있는 기계가 인간과 함께 살고 돕는 방향을 택한다. 명령에 따른 행동과 스스로 내린 선택을 구분해 볼 수 있다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "13",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "스스로 판단할 수 있는 인공지능이 사람을 돕기로 택합니다. 친절한 결과만 보여 주는 대신 무엇을 돕고 언제 요청을 거절하는지 드러내면 명령을 따르는 기계와 구별됩니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

@@ -20,7 +20,13 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서구권에서 만든 텔레비전용 애니메이션을 찾을 때 쓰는 분류다. 한 편의 극장 영화가 아니라 방송 회차로 공개되는 형식인지 살펴보면 [[미디어]]를 구분하기 쉽다.",
     "review_status": "reviewed",

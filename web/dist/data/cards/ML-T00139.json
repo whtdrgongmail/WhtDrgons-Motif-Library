@@ -20,7 +20,15 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "음악·음향 카드는 노래, 연주, 음반, 효과음처럼 소리 자체를 중심으로 만드는 작품과 자료를 찾습니다. 한 영화에서 불안감을 높이는 음악의 역할을 분석할 때는 작품의 매체가 아니라 [[소리·음악]]이라는 연출 분류를 보는 편이 맞습니다. 소리로 된 작품인지, 다른 작품 안에서 소리가 어떤 기능을 하는지를 먼저 구별합니다.",
     "review_status": "reviewed",

@@ -20,7 +20,13 @@
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "종이 카드를 펼치는 대신 화면에서 카드를 얻고 조합해 대결한다. [[카드게임]]의 손패 운용에 화면만 가능한 변화와 효과를 더할 수 있어, 어떤 카드를 모을지와 언제 낼지가 함께 전략이 된다.",
     "review_status": "reviewed",
