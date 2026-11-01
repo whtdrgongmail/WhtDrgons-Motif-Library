@@ -7,27 +7,32 @@
   "tag_id": "ML-T00175",
   "primary_tag_id": "ML-T00175",
   "description": {
-    "definition": "아시아 여러 지역에서 제작·발표된 애니메이션을 찾는 매체 분류. 한 나라의 제작 양식을 아시아 전체의 공통 형식으로 묶지 않고 국가와 형식의 차이를 살핀다.",
-    "detail": "",
+    "definition": "아시아의 제작 주체나 창작 문화권에서 만들어진 [[애니메이션]]을 지역 맥락으로 찾는 탐색 카드다. 아시아에는 일본이 포함되므로 [[일본 애니메이션]]과 범위가 겹친다. TV·극장·웹 공개 형식과 작품의 장르는 별도 기준으로 기록한다.",
+    "detail": "여러 지역에 걸친 공동 제작은 한 문화권으로 단정하지 않고 확인된 제작 맥락을 함께 적는다. 작품에 아시아풍 미술이나 배경이 등장한다는 이유만으로 제작 문화권을 판정하지 않는다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "02.018.007",
+    "code": "02.019.001",
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "classification_semantics": {
     "semantic_kind": "production_culture",
-    "parent_relation": "collection_member",
+    "parent_relation": "contextual",
     "allowed_roles": [],
     "review_status": "provisional",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "아시아 여러 지역에서 만든 [[애니메이션]]을 제작 문화권으로 찾아볼 때 쓰는 카드다. 일본 작품도 이 범주에 들어갈 수 있고 [[일본 애니메이션]]으로 더 좁혀 찾을 수 있다. TV 방영인지 극장용인지는 다른 기준이므로 별도로 본다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
     "row_version": 1
   },
-  "easy_explanation": null,
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
