@@ -15,6 +15,28 @@
   "content_status": "defined",
   "updated_at": "2026-10-31",
   "row_version": 2,
+  "classification": {
+    "code": "03.102",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "모험은 익숙한 곳을 떠난 인물이 낯선 장소에서 위험과 발견을 거치며 앞으로 나아가는 이야기입니다. 여정마다 무엇을 찾고 어떤 선택을 해야 하는지가 바뀌면 이동 자체가 사건의 뼈대가 됩니다. [[모험에 유리하게 짜인 세계]]는 이런 여정이 자주 가능하도록 만든 배경이고, 모험 장르는 실제 이야기가 어떻게 진행되는지를 가리킵니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

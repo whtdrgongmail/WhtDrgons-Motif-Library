@@ -15,6 +15,28 @@
   "content_status": "defined",
   "updated_at": "2026-11-01",
   "row_version": 3,
+  "classification": {
+    "code": "03.116",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "스포츠·경쟁 이야기는 정해진 경기나 심사에서 승패와 기록이 인물의 목표를 만듭니다. 훈련하며 기술을 익히거나 팀과 역할을 조정하는 과정도 결과만큼 중요할 수 있습니다. 운동선수가 등장해도 경기가 배경에 머물고 다른 문제가 중심이라면 스포츠 장르라고 바로 정하지 않습니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

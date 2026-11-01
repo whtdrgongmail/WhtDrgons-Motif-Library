@@ -7,14 +7,31 @@
   "tag_id": "ML-T00338",
   "primary_tag_id": "ML-T00338",
   "description": {
-    "definition": "실제 역사의 특정 분기점 이후 다른 사건이 이어졌다고 가정해 변화한 사회와 세계를 그리는 장르·설정. 바뀐 원인과 그 결과의 연결이 세계의 설득력을 만든다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "definition": "실제 역사의 분기점이 다르게 전개되었다고 가정해 변화한 사회와 세계를 그리는 이야기 유형이다. 대체된 사건과 그 이후의 인과관계가 작품의 주요 구조일 때 장르로 적용한다.",
+    "detail": "한 번의 역사적 변경에서 정치·기술·생활·국제 관계가 어떻게 달라지는지 탐구할 수 있다. 분기점과 변화의 결과가 서로 연결되어야 설정이 단순한 장식에 그치지 않는다.",
+    "usage": "실제 역사와 다른 전개가 작품의 핵심 질문과 갈등을 조직할 때 장르 적용을 검토한다. 역사와 닮은 가공 세계라는 이유만으로 적용하지 않는다.",
+    "boundary": "역사를 바꾼 설정만 짧게 언급한다면 장르보다 [[세계관]]이나 서사 장치의 주제로 연결하는 편이 정확하다. [[역사·시대극]] 아래의 현재 위치는 탐색 맥락이며 모든 대체역사가 시대극이라는 뜻은 아니다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
+  "classification": {
+    "code": "03.112.008",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "contextual",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": null,
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

@@ -15,6 +15,28 @@
   "content_status": "defined",
   "updated_at": "2026-11-01",
   "row_version": 2,
+  "classification": {
+    "code": "03.205.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "부대와 자원을 지휘하는 [[실시간 전략]] 게임에 한 인물을 직접 움직이는 액션 조작을 결합한다. 넓게 전장을 관리하는 판단과 눈앞의 공격을 피하거나 맞서는 판단을 번갈아 하게 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

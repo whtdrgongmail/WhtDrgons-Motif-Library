@@ -7,14 +7,27 @@
   "tag_id": "ML-F27",
   "primary_tag_id": "ML-F27",
   "description": {
-    "definition": "작품의 [[자기반영]]과 제작·각색·유통·수용 관행을 구분한다. 작품 안의 설정과 작품 밖의 제작 조건을 구별한다.",
+    "definition": "작품의 [[자기반영]]과 제작·각색·유통·수용 관행, 그리고 모티브와 [[장르]]를 설명하는 분석·분류 방법을 구분한다. 작품 안의 설정, 작품 밖의 제작 조건, 이를 연구하는 기준을 각각 나누어 읽는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
+  "classification": {
+    "code": "27",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "작품 안에서 벌어진 일과 작품을 만든 뒤 일어난 일을 구별해 보세요. 한 소설을 영화로 옮기는 [[각색·확장]]과 작품을 읽기 위해 만든 [[장르 분류법]]은 서로 다른 활동입니다. 이 축은 창작, 유통, 분석의 자리를 찾아줍니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

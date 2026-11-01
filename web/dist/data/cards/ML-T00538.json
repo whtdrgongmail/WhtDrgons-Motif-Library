@@ -7,14 +7,28 @@
   "tag_id": "ML-T00538",
   "primary_tag_id": "ML-T00538",
   "description": {
-    "definition": "예술·전통음악은 감상과 작곡의 자율성을 추구하는 예술음악 및 특정 [[공동체]]에서 전승되어 온 전통음악을 함께 다루는 상위 범주다. 두 영역은 목적과 전승 방식이 다를 수 있으므로 작품의 형식과 문화적 기능을 살펴 세부적으로 분류한다.",
+    "definition": "예술음악과 전통·의례음악을 함께 찾기 위한 탐색 묶음이다. 작곡·연주·전승·의례의 기준이 다르므로 이 표제를 작품 장르로 직접 적용하지 않는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 3,
+  "row_version": 4,
+  "classification": {
+    "code": "03.306",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "collection",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 2
+  },
+  "easy_explanation": null,
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

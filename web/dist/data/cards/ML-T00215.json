@@ -17,6 +17,28 @@
   "content_status": "defined",
   "updated_at": "2026-11-01",
   "row_version": 3,
+  "classification": {
+    "code": "03.103",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "판타지에서는 현실에서 불가능한 조건이 이야기의 실제 규칙으로 작동합니다. [[하이 판타지]]처럼 별도의 세계가 중요한 갈래와 일상에 낯선 힘이 스며드는 갈래를 비교해 보세요. 괴물이 잠깐 나온다는 사실보다 그 힘이 세계의 중요한 조건인지가 핵심입니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 2
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

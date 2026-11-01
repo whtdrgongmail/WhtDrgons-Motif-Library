@@ -4,8 +4,8 @@
   "title": "요원끼리의 데이트",
   "original": "Agents Dating",
   "aliases": [],
-  "tag_id": "ML-T00979",
-  "primary_tag_id": "ML-T00979",
+  "tag_id": "ML-F10",
+  "primary_tag_id": "ML-F10",
   "description": {
     "definition": "비슷한 임무를 맡은 두 요원이 데이트하거나 연애하는 관계. 사적인 신뢰와 직업상 비밀, 임무의 우선순위가 한 관계 안에서 부딪힌다.",
     "detail": "",
@@ -14,7 +14,15 @@
   },
   "content_status": "defined",
   "updated_at": "2026-10-31",
-  "row_version": 1,
+  "row_version": 2,
+  "classification": {
+    "code": "10",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": null,
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

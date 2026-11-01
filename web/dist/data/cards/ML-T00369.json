@@ -7,14 +7,31 @@
   "tag_id": "ML-T00369",
   "primary_tag_id": "ML-T00369",
   "description": {
-    "definition": "경연물은 참가자들이 심사나 규칙에 따라 실력·작품·성과를 겨루고 순위나 탈락을 결정받는 이야기를 다룬다. 평가 과정과 결과가 인물의 선택 및 전개를 좌우하는지 살피며, 심사 없는 경쟁이나 스포츠 경기와 구별한다.",
+    "definition": "참가자가 심사·규칙에 따라 실력이나 작품을 겨루고 순위·탈락·보상이 이야기 전개를 좌우하는 유형이다. 스포츠 경기뿐 아니라 예능·예술·직업 경연에도 나타난다.",
     "detail": "",
-    "usage": "",
-    "boundary": ""
+    "usage": "평가 절차와 결과가 인물의 선택과 관계를 계속 바꿀 때 적용한다. 경쟁자가 있다는 사실만으로는 충분하지 않다.",
+    "boundary": "[[스포츠·경쟁]] 아래의 현재 위치는 탐색을 위한 맥락이다. 심사 없는 스포츠 경기나 일회성 시합은 이 표제의 핵심 조건을 충족하지 않을 수 있다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
+  "classification": {
+    "code": "03.116.007",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "contextual",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": null,
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

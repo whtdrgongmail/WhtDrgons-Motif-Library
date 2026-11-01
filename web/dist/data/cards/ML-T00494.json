@@ -7,14 +7,28 @@
   "tag_id": "ML-T00494",
   "primary_tag_id": "ML-T00494",
   "description": {
-    "definition": "대중음악의 팝과 록 계열 양식을 아우르는 상위 음악 분류다. 이는 게임의 플레이 유형이 아니라 음악의 소리와 작곡 관습을 가리키므로, 하위 장르의 음악적 특징을 기준으로 적용한다.",
+    "definition": "팝과 록 계열의 음악 장르를 함께 찾기 위한 탐색 묶음이다. 팝과 록 전체를 하나의 음악 양식으로 합친 태그가 아니며, 작품에는 검토한 개별 장르를 적용한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
+  "classification": {
+    "code": "03.301",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "collection",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 2
+  },
+  "easy_explanation": null,
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

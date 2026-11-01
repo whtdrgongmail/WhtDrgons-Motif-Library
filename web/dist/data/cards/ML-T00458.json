@@ -15,6 +15,28 @@
   "content_status": "defined",
   "updated_at": "2026-11-01",
   "row_version": 2,
+  "classification": {
+    "code": "03.207",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "게임 장르·퍼즐은 주어진 상태를 살피고 규칙을 이용해 해답에 이르는 일을 반복하게 합니다. 조각의 위치를 옮기거나 단서를 조합해 다음 상태를 만드는 선택이 핵심입니다. 다른 장르의 게임에도 퍼즐 한두 개가 들어갈 수 있으므로, 그것이 전체 플레이의 주된 도전인지 봅니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

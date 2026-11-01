@@ -4,8 +4,8 @@
   "title": "안데스 지역의 민속 음악",
   "original": "Andean Music",
   "aliases": [],
-  "tag_id": "ML-T00527",
-  "primary_tag_id": "ML-T00527",
+  "tag_id": "MEJE-KW-001600",
+  "primary_tag_id": "MEJE-KW-001600",
   "description": {
     "definition": "안데스 지역의 여러 [[공동체]]에서 이어 온 노래와 악기 연주를 아우르는 음악 범주. 지역과 언어에 따라 서로 다른 전통이 있어 하나의 소리로 단정하지 않는다.",
     "detail": "",
@@ -14,7 +14,24 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
+  "classification": {
+    "code": "03.305.012",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "easy_explanation": null,
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

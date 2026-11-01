@@ -7,14 +7,27 @@
   "tag_id": null,
   "primary_tag_id": "ML-F26",
   "description": {
-    "definition": "같은 집안의 사람들이 연주와 노래를 나누는 밴드. 무대의 역할과 가족 안의 관계가 서로 영향을 준다. 가족 구성원이 [[친구들이 밴드를 만드는 회차]]를 겪으면 무대 밖 관계까지 흔들린다.",
+    "definition": "친척이 함께하는 음악 그룹은 [[가족·친족]] 관계에 있는 사람들이 연주와 노래를 함께하는 밴드다. 무대에서 맡은 역할과 집안에서 맺은 관계가 서로 영향을 줄 수 있다. 가족이라는 사실만으로 음악적 협력이 쉬워지는 것은 아니며, 공연 중 생긴 다툼이 일상으로 이어질 수도 있다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
+  "classification": {
+    "code": "26",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "가족이나 친척끼리 모여 노래하고 연주하는 음악 그룹이다. 무대에서 노래와 악기를 나누는 방식과 가족으로 맺은 [[관계]]가 서로 영향을 줄 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

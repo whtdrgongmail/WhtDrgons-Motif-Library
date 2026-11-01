@@ -7,14 +7,33 @@
   "tag_id": "ML-T01011",
   "primary_tag_id": "ML-T01011",
   "description": {
-    "definition": "보호·의존은 한 인물이 안전이나 생존을 위해 다른 인물에게 기대고, 상대가 보호 역할을 맡는 관계 양상이다. 작품에서 보호 능력과 의존이 관계의 균형을 좌우할 때 적용하며, 일시적 도움만으로 지속적 의존을 가정하지 않는다.",
+    "definition": "보호·의존은 인물 사이의 보호, 의존, 돌봄, 공생, 착취를 찾아보는 탐색 색인이다. [[보호자와 피보호자]]와 [[착취 관계]]는 작동 조건이 다르다. 이 색인에 묶였다는 이유만으로 모든 관계에 보호나 지속적인 의존이 있다고 판단하지 않는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
+  "classification": {
+    "code": "10.006",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "collection",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "보호·의존은 누가 누구를 지키고 기대며 돌보는지, 또는 그 차이를 이용해 착취하는지를 찾아보는 색인입니다. [[보호자와 피보호자]]의 책임과 [[착취 관계]]의 힘 사용은 서로 다르게 작동합니다. 이 묶음에 들어 있다는 이유만으로 모든 관계가 다정하거나 오래 지속되는 의존이라고 생각하지 않습니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

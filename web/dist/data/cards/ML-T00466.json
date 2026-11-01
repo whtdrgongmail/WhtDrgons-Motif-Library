@@ -7,14 +7,28 @@
   "tag_id": "ML-T00466",
   "primary_tag_id": "ML-T00466",
   "description": {
-    "definition": "음악 수행이나 스포츠 활동의 규칙을 게임 플레이의 핵심으로 삼는 장르들을 함께 묶는 분류다. 아래 항목은 음악 장르가 아니라 게임의 플레이 유형이므로, 실제 음악 양식 분류와 혼동하지 않는다.",
+    "definition": "음악 활동과 스포츠 활동을 중심으로 하는 게임 유형을 함께 찾기 위한 탐색 묶음이다. 두 활동이 하나의 단일 [[게임]] 장르라는 뜻은 아니다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
+  "classification": {
+    "code": "03.208",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "collection",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 2
+  },
+  "easy_explanation": null,
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

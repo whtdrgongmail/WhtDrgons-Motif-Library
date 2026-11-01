@@ -15,6 +15,28 @@
   "content_status": "defined",
   "updated_at": "2026-11-01",
   "row_version": 2,
+  "classification": {
+    "code": "03.202",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "게임 장르·슈팅은 조준하고 발사한 결과가 반복 플레이를 이끄는 게임을 묶습니다. 적의 위치를 읽고 사격 시점을 정하는 일이 주요 기술이 됩니다. 총이 이야기 소품으로 나오거나 자동 전투 장면이 재생된다는 이유만으로 슈팅 게임이라 하지 않습니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

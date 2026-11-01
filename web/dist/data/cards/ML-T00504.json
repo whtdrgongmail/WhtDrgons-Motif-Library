@@ -15,6 +15,28 @@
   "content_status": "defined",
   "updated_at": "2026-11-01",
   "row_version": 2,
+  "classification": {
+    "code": "03.302",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "음악 장르·메탈은 강하게 왜곡한 기타 소리와 두드러진 리듬을 다양한 방식으로 사용하는 음악의 큰 갈래입니다. 빠르게 몰아치는 곡도 있고 느리고 무거운 소리를 길게 쌓는 곡도 있습니다. 시끄럽거나 기타가 크다는 인상만으로 판단하지 말고 연주와 음색, 곡의 구성이 어떻게 맞물리는지 들어야 합니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

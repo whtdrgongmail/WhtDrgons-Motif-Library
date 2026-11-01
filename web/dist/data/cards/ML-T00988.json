@@ -1,20 +1,41 @@
 {
   "id": "ML-T00988",
   "kind": "keyword",
-  "title": "관계 출발",
+  "title": "관계 형성·형태",
   "original": "",
-  "aliases": [],
+  "aliases": [
+    "관계 출발"
+  ],
   "tag_id": "ML-T00988",
   "primary_tag_id": "ML-T00988",
   "description": {
-    "definition": "관계 출발은 인물 사이의 지속적인 관계가 처음 성립하거나 새로운 형태로 전환되는 계기와 조건을 가리킨다. 작품에서 만남이나 계약, 공동 상황이 이후 관계의 틀을 정할 때 적용하며, 이미 형성된 관계의 단순한 변화는 구분한다.",
+    "definition": "관계 형성·형태는 인물 사이의 관계가 시작되거나 관계 형식이 정해지는 여러 설정을 찾아보는 탐색 색인이다. [[계약 결혼 관계]]처럼 관계의 형식과 [[소꿉친구]]처럼 오래 이어진 관계를 함께 찾을 수 있다. 구성원 모두가 한 번의 만남에서 출발한다는 뜻은 아니다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 4,
+  "classification": {
+    "code": "10.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "collection",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "관계 형성·형태는 인물 사이의 관계가 어떤 조건으로 만들어지고 어떤 모습으로 이어지는지 찾아보는 색인입니다. [[계약 결혼 관계]]는 약속으로 관계의 형식을 정하고, [[소꿉친구]]는 오랜 시간 쌓인 친분을 보여줍니다. 모두 첫 만남에서 시작한 같은 종류의 관계라는 뜻은 아니므로 각 하위 카드를 따로 읽어야 합니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

@@ -50,7 +50,10 @@
       return chunkCache.get(number);
     }
     const collator = new Intl.Collator('ko');
-    const cardHTML = c => `<a class="motif-card" data-card-id="${esc(c.id)}" data-row-version="${esc(c.row_version)}" href="${esc(c.entry_url || `cards/${c.id}/index.html`)}" style="--accent:${esc(c.accent)};--tab:${esc(c.tab)}"><div class="tile-top"><span>${esc(c.facet)}</span><span class="tile-kind">${c.kind === 'rule' ? '규칙' : c.kind === 'work' ? '미디어' : c.kind === 'person' ? '인물' : c.kind === 'organization' ? '조직' : c.node_kind === 'facet' ? '분류축' : '키워드'}</span></div>${c.bookmark ? `<span class="bookmark">${esc(c.bookmark)}</span>` : ''}<div class="tile-title"><h3>${esc(c.title)}</h3>${c.original ? `<p class="tile-original" lang="en">${esc(c.original)}</p>` : ''}</div><p class="tile-summary ${c.summary ? '' : 'unwritten'}">${c.summary ? esc(c.summary) : '설명을 준비하고 있습니다.'}</p><div class="tile-bottom"><span>${c.summary ? '설명 수록' : '키워드 등록'}</span><span aria-hidden="true">↗</span></div></a>`;
+    const cardHTML = c => {
+      const chips = (c.thumbnail_tags || []).map((label, index) => `<span class="thumb-chip ${index ? 'thumb-chip-applied' : 'thumb-chip-primary'}">${esc(label)}</span>`).join('');
+      return `<a class="motif-card" data-card-id="${esc(c.id)}" data-row-version="${esc(c.row_version)}" href="${esc(c.entry_url || `cards/${c.id}/index.html`)}" style="--accent:${esc(c.accent)};--tab:${esc(c.tab)}"><div class="thumb-mark" aria-hidden="true"></div><h3 class="thumb-title">${esc(c.title)}</h3><div class="thumb-tags">${chips}</div></a>`;
+    };
     function readURL() {
       const p = new URLSearchParams(location.search);
       search.value = p.get('q') || ''; facet.value = p.get('facet') || ''; state.value = p.get('state') || ''; tagFilter = p.get('tag') || '';
@@ -76,7 +79,7 @@
       const grid = $('#card-grid');
       grid.setAttribute('aria-busy', 'true');
       const q = norm(search.value);
-      let matches = cards.filter(c => (!facet.value || c.facet_id === facet.value) && (!tagFilter || (c.tag_path || []).includes(tagFilter)) && (state.value === 'defined' ? c.has_summary : state.value === 'unset' ? !c.has_summary : true) && (!q || norm([c.title, c.original, ...c.aliases].join(' ')).includes(q)));
+      let matches = cards.filter(c => (!facet.value || c.facet_id === facet.value) && (!tagFilter || (c.browse_path || c.tag_path || []).includes(tagFilter)) && (state.value === 'defined' ? c.has_summary : state.value === 'unset' ? !c.has_summary : true) && (!q || norm([c.title, c.original, ...c.aliases].join(' ')).includes(q)));
       if (sort.value === 'title') matches = [...matches].sort((a, b) => collator.compare(a.title, b.title) || a.id.localeCompare(b.id));
       const total = Math.max(1, Math.ceil(matches.length / pageSize));
       current = Math.min(current, total);

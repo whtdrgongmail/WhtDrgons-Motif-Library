@@ -15,6 +15,28 @@
   "content_status": "defined",
   "updated_at": "2026-11-01",
   "row_version": 2,
+  "classification": {
+    "code": "03.205",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "게임 장르·전략은 눈앞의 반응보다 자원과 행동 순서를 계획해 목표에 이르는 게임을 묶습니다. 지금 병력을 어디에 두느냐가 몇 차례 뒤의 선택지를 바꾸는 식입니다. 모든 게임에 전략적인 순간은 있으므로, 계획과 운영이 가장 중요한 반복 과제인지 확인합니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

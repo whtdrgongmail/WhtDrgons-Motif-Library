@@ -7,14 +7,27 @@
   "tag_id": null,
   "primary_tag_id": "ML-F04",
   "description": {
-    "definition": "평소에는 서커스와 관계없는 작품이 한 회차 동안 공연장과 단원들의 사건을 다룬다. 낯선 무대가 익숙한 인물들의 행동을 바꾼다. 일행이 공연장에 머무는 동안 [[서커스에서 자란 인물]]의 성장 배경을 드러낼 수 있다. 즐거운 외출을 예상한 회차가 [[공포의 서커스]]의 분위기로 바뀔 수도 있다.",
+    "definition": "평소에는 서커스와 관계없는 작품이 한 회차 동안 공연장과 단원들의 사건을 다룬다. 낯선 무대가 익숙한 인물들의 행동을 바꾼다. 즐거운 외출을 예상한 회차가 [[공포의 서커스]]의 분위기로 바뀔 수도 있다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 3,
+  "row_version": 4,
+  "classification": {
+    "code": "04",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "평소 서커스 이야기가 아닌 연속극이 한 회차 동안 공연장으로 무대를 옮긴다. 화려한 공연을 즐기는 회차가 될 수도 있고, 무대 뒤 비밀이나 실종 사건을 따라가는 회차가 될 수도 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []

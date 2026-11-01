@@ -15,6 +15,28 @@
   "content_status": "defined",
   "updated_at": "2026-11-01",
   "row_version": 3,
+  "classification": {
+    "code": "03.104.008",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "이 장르에서는 뛰어난 정보 기술이 모두의 삶을 낫게 만들지만은 않습니다. 몸을 바꾸는 기술을 가진 기업이 사람을 통제하는 이야기라면 [[SF]]의 사회적 질문과 맞닿습니다. 네온 도시 같은 [[사이버펑크 미학]]만 있다고 장르까지 같아지는 것은 아닙니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
+  "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
   "references": []
