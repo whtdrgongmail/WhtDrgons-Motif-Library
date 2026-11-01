@@ -60,7 +60,7 @@
       document.querySelectorAll('.site-header nav a').forEach(a => a.removeAttribute('aria-current'));
       const active = document.querySelector(`.site-header nav a[data-menu="${state.value === 'unset' ? 'unset' : 'cards'}"]`);
       if (active) active.setAttribute('aria-current', 'page');
-      sort.value = p.get('sort') || 'curated'; current = Math.max(1, Number.parseInt(p.get('page'), 10) || 1);
+      sort.value = p.get('sort') === 'newest' ? 'newest' : 'title'; current = Math.max(1, Number.parseInt(p.get('page'), 10) || 1);
     }
     function setURL(push = false) {
       const p = new URLSearchParams();
@@ -68,7 +68,7 @@
       if (facet.value) p.set('facet', facet.value);
       if (tagFilter) p.set('tag', tagFilter);
       if (state.value) p.set('state', state.value);
-      if (sort.value && sort.value !== 'curated') p.set('sort', sort.value);
+      if (sort.value === 'newest') p.set('sort', sort.value);
       if (current > 1) p.set('page', current);
       const url = location.pathname + (p.size ? '?' + p : '');
       history[push ? 'pushState' : 'replaceState'](null, '', url);
@@ -80,7 +80,11 @@
       grid.setAttribute('aria-busy', 'true');
       const q = norm(search.value);
       let matches = cards.filter(c => (!facet.value || c.facet_id === facet.value) && (!tagFilter || (c.browse_path || c.tag_path || []).includes(tagFilter)) && (state.value === 'defined' ? c.has_summary : state.value === 'unset' ? !c.has_summary : true) && (!q || norm([c.title, c.original, ...c.aliases].join(' ')).includes(q)));
-      if (sort.value === 'title') matches = [...matches].sort((a, b) => collator.compare(a.title, b.title) || a.id.localeCompare(b.id));
+      if (sort.value === 'newest') {
+        matches = [...matches].sort((a, b) => b.updated_at.localeCompare(a.updated_at) || b.source_order - a.source_order);
+      } else {
+        matches = [...matches].sort((a, b) => collator.compare(a.title, b.title) || a.id.localeCompare(b.id));
+      }
       const total = Math.max(1, Math.ceil(matches.length / pageSize));
       current = Math.min(current, total);
       if (updateURL) setURL(push);
