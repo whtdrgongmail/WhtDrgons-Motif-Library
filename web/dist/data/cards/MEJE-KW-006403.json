@@ -5,23 +5,34 @@
   "original": "Current Events Blog",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "primary_tag_id": "ML-F02",
   "description": {
-    "definition": "뉴스와 현재의 사건을 모으고 논평하는 블로그 형식이다. 기사 소개·의견·독자 댓글이 정보 전달과 토론의 흐름을 만든다.",
+    "definition": "현재 벌어지는 사회·정치·문화 사건을 골라 소개하거나 논평하는 블로그 출판 형식. 기사 연결·의견 제시는 가능하지만 독자 댓글이나 토론을 필수 조건으로 삼지 않는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "02",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "글쓴이가 최근 일어난 일을 골라 블로그 글로 알리는 형식이다. 때로는 의견을 덧붙이지만 꼭 논평하거나 댓글 토론을 해야 하는 것은 아니다. 개인의 하루 기록보다 시사 소식이 중심이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

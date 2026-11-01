@@ -5,23 +5,28 @@
   "original": "Crossover Cameo",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "primary_tag_id": "ML-F27",
   "description": {
-    "definition": "별개의 작품에 속한 인물이 한 장면이나 짧은 회차에 나타난다. 본격적인 이야기 합류보다 알아보는 [[즐거움]]이 중심이다. 잠깐 나타난 다른 작품의 인물이 웃음의 결말을 맡는다면 [[농담을 위해 잠깐 만나는 두 작품]]와 겹친다.",
+    "definition": "별개 작품에 속한 인물이 다른 작품에 짧게 나타나는 작품 간 참조. 방문한 인물이 이야기 전체를 함께 이끄는 본격적인 크로스오버와 구별하며, 관객의 웃음을 필수 결과로 삼지 않는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 3,
+  "row_version": 4,
   "classification": {
-    "code": "04",
+    "code": "27",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "다른 작품에서 보던 인물이 이번 작품에 잠깐 나타난다. 알아보는 즐거움이나 농담이 될 수 있지만 꼭 웃기려고 넣는 것은 아니다. 두 작품의 인물이 오래 함께 활동하는 이야기와도 다르다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
