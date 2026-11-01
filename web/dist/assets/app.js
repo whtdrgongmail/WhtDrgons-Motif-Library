@@ -98,6 +98,9 @@
       }
       $('#result-count').textContent = `${tagFilter ? (cardTitles.get(tagFilter) || tagFilter) : state.value === 'unset' ? '미설정 카드' : q || facet.value || state.value ? '검색 결과' : '전체'} ${matches.length.toLocaleString('ko')}장${matches.length ? ` · ${current} / ${total}` : ''}`;
       $('#empty-state').hidden = matches.length > 0;
+      $('#empty-state').textContent = state.value === 'unset' && !q && !facet.value && !tagFilter
+        ? '현재 설명을 기다리는 카드가 없습니다.'
+        : '일치하는 카드가 없습니다. 다른 이름이나 분류로 찾아보세요.';
       $('#pagination').innerHTML = matches.length ? `<button type="button" data-page="${current - 1}" ${current === 1 ? 'disabled' : ''}>← 이전</button><label><span class="sr-only">목록 페이지</span><select id="page-select">${Array.from({length:total}, (_, i) => `<option value="${i+1}" ${i+1 === current ? 'selected' : ''}>${i+1}</option>`).join('')}</select></label><span>/ ${total}</span><button type="button" data-page="${current + 1}" ${current === total ? 'disabled' : ''}>다음 →</button>` : '';
       document.querySelectorAll('[data-facet-link]').forEach(a => {
         const selected = a.dataset.facetLink === facet.value;
