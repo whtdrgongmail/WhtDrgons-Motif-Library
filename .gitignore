@@ -1,0 +1,21 @@
+# This repository publishes only the generated website and its deployment workflow.
+# Editorial CSV, archived HTML, review ledgers, notes, and local build scripts stay local.
+/*
+!/.gitignore
+!/.github/
+/.github/*
+!/.github/workflows/
+/.github/workflows/*
+!/.github/workflows/pages.yml
+!/web/
+/web/*
+!/web/dist/
+
+# Windows/Drive metadata can be created inside every generated card directory.
+desktop.ini
+*.csv
+*.sqlite3
+*.sqlite3-*
+.env
+.env.*
+*.bak

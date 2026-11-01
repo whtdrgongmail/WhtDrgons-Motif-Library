@@ -1,0 +1,47 @@
+name: Publish the motif library
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'web/dist/**'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out public files
+        uses: actions/checkout@v6
+      - name: Check release contents
+        shell: bash
+        run: |
+          test -s web/dist/index.html
+          if find web/dist -type f \( -name '*.csv' -o -name '*.sqlite3' -o -name 'desktop.ini' \) -print -quit | grep -q .; then
+            echo 'Private or system files were included in the release.' >&2
+            exit 1
+          fi
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: web/dist
+      - name: Deploy static site
+        id: deployment
+        uses: actions/deploy-pages@v4
