@@ -2,7 +2,7 @@
   "id": "ML-T00479",
   "kind": "keyword",
   "title": "일꾼 놓기",
-  "original": "",
+  "original": "Worker Placement",
   "aliases": [],
   "tag_id": "ML-T00479",
   "primary_tag_id": "ML-T00479",
@@ -14,23 +14,27 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03.209.004",
-    "review_status": "provisional",
-    "row_version": 1
+    "code": "25.013.002",
+    "review_status": "reviewed",
+    "row_version": 2
   },
   "classification_semantics": {
-    "semantic_kind": "game_genre",
-    "parent_relation": "collection_member",
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "is_a",
     "allowed_roles": [
-      "genre",
       "subject"
     ],
-    "review_status": "provisional",
+    "review_status": "reviewed",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "플레이어가 자신의 일꾼 말을 행동 칸에 놓아 그 칸의 자원이나 행동을 얻는 방식이다. 먼저 놓은 사람이 자리를 차지해 다른 사람의 선택을 제한할 수 있다. 말이 단지 지도 위를 이동하는 게임과 달리 어디에 놓느냐가 가능한 행동을 정한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
     "row_version": 1
   },
-  "easy_explanation": null,
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

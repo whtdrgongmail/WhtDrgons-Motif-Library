@@ -5,7 +5,7 @@
   "original": "Elemental Hair Colors",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "primary_tag_id": "ML-F21",
   "description": {
     "definition": "인물의 머리색을 불·물·번개 같은 힘의 색과 맞춰 능력의 종류를 암시한다. 머리색으로 원소를 알리는 대신 머리카락의 재질 자체를 바꾸면 [[원소로 이루어진 머리카락]]이다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "21",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "불과 번개, 물의 이미지를 머리카락 색에 맞춰 인물의 능력을 알리는 디자인이다. 멀리서도 보이는 색이 역할을 구분하는 표지가 되며, 힘을 직접 사용하기 전에도 어떤 속성일지 관객이 예상하도록 돕는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

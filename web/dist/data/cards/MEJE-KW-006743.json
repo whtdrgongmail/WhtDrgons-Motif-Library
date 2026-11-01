@@ -5,23 +5,28 @@
   "original": "Dead Person Impersonation",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "primary_tag_id": "ML-F07",
   "description": {
-    "definition": "인물이 이미 죽은 사람의 이름과 [[정체성]]을 빌려 다른 사람을 속인다. 죽은 이가 더는 직접 반박할 수 없다는 점이 전개의 조건이 된다.",
+    "definition": "살아 있는 인물이 이미 사망한 사람의 이름이나 신분을 자기 것처럼 사용해 타인을 속이는 행위. 죽은 사람의 신원을 이용한다는 점에서 단순한 가명 사용과 구별한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "06",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "인물이 죽은 사람의 이름과 신분으로 생활하며 주변 사람을 속인다. 원래 신분의 주인이 직접 나서서 위장을 밝힐 수 없다는 점을 이용한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

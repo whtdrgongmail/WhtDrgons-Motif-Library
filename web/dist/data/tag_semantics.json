@@ -3078,36 +3078,33 @@
     },
     {
       "tag_id": "ML-T00478",
-      "semantic_kind": "game_genre",
-      "parent_relation": "collection_member",
+      "semantic_kind": "game_mechanic",
+      "parent_relation": "is_a",
       "allowed_roles": [
-        "genre",
         "subject"
       ],
-      "review_status": "provisional",
-      "row_version": 1
+      "review_status": "reviewed",
+      "row_version": 2
     },
     {
       "tag_id": "ML-T00479",
-      "semantic_kind": "game_genre",
-      "parent_relation": "collection_member",
+      "semantic_kind": "game_mechanic",
+      "parent_relation": "is_a",
       "allowed_roles": [
-        "genre",
         "subject"
       ],
-      "review_status": "provisional",
-      "row_version": 1
+      "review_status": "reviewed",
+      "row_version": 2
     },
     {
       "tag_id": "ML-T00480",
-      "semantic_kind": "game_genre",
-      "parent_relation": "collection_member",
+      "semantic_kind": "game_mechanic",
+      "parent_relation": "is_a",
       "allowed_roles": [
-        "genre",
         "subject"
       ],
-      "review_status": "provisional",
-      "row_version": 1
+      "review_status": "reviewed",
+      "row_version": 2
     },
     {
       "tag_id": "ML-T00481",
@@ -5139,6 +5136,16 @@
         "medium"
       ],
       "review_status": "provisional",
+      "row_version": 1
+    },
+    {
+      "tag_id": "ML-T02514",
+      "semantic_kind": "game_mechanic",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "subject"
+      ],
+      "review_status": "reviewed",
       "row_version": 1
     }
   ]

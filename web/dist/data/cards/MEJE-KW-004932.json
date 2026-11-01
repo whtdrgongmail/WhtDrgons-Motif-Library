@@ -5,7 +5,7 @@
   "original": "Choke Holds",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "격투 [[장면]]에서 한 인물이 조르기만으로 상대를 짧은 순간에 기절시키고 곧바로 장면이 넘어가는 표현 관습.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "격투 중 조르기를 당한 인물이 아주 빨리 의식을 잃고 다음 [[장면]]으로 넘어가는 표현 관습이다. 실제 신체 반응과 위험을 단순화해 사건을 빠르게 진행하는 방식이며, 안전한 제압 수단이나 실제 실행 방법으로 이해해서는 안 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

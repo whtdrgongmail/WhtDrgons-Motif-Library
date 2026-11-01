@@ -5,7 +5,7 @@
   "original": "Bombers on the Screen",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F22",
   "description": {
     "definition": "전장의 인물 대신 지도 위의 표시와 이동으로 전투를 보여 준다. 관객이 먼 거리의 판단과 전체 흐름을 한눈에 읽게 한다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "22",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "전투 현장의 사람들을 직접 보여 주지 않고 지도나 감시 화면의 점과 선으로 각 부대의 위치와 이동을 나타내는 연출이다. 관객은 개별 싸움보다 전장 전체에서 무엇이 바뀌는지 한눈에 읽는다. 지도에 표시되지 않는 피해나 현장의 경험은 다른 장면에서 따로 보여 줄 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

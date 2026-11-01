@@ -7,21 +7,26 @@
   "tag_id": "ML-T02167",
   "primary_tag_id": "ML-T02167",
   "description": {
-    "definition": "방치 진행은 [[플레이어]]가 직접 조작하지 않는 동안에도 게임 내 수치나 보상이 자동으로 쌓이는 구조다. 진행이 실제 게임 [[규칙]]에 따라 계속 계산될 때 해당하며, 접속 후에만 시간이 지난 것으로 처리되는 방식과 구별한다.",
+    "definition": "방치 진행은 플레이어가 직접 조작하지 않는 시간에도 규칙에 따라 자원이나 진행 수치가 자동으로 늘어나는 구조다. 접속 중 방치와 미접속 시간 계산을 모두 포함할 수 있다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 4,
+  "row_version": 5,
   "classification": {
     "code": "25.011.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "직접 버튼을 누르지 않아도 정해진 규칙에 따라 자원이나 진행 수치가 자동으로 늘어나는 구조다. 플레이어가 게임을 켠 채 기다릴 수도 있고, 일부 게임은 접속을 끊은 시간도 계산한다. [[접속하지 않는 동안의 진행]]과 서로 겹칠 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

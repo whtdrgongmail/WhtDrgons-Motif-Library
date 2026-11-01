@@ -5,7 +5,7 @@
   "original": "Ceiling Smash",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "힘센 인물이 싸움 도중 상대를 위로 날려 천장에 닿게 한다. 가로로 오가던 전투에 높이를 더해 힘의 차이를 보여 준다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "싸우던 인물이 상대를 강하게 들어 올리거나 쳐서 천장에 부딪치게 하는 장면이다. 공격의 방향이 바닥과 벽뿐 아니라 위로 넓어져 전투 공간 전체가 위험해진다. 상대가 천장까지 날아갈 만큼 큰 힘이 쓰였다는 사실을 한 번의 충돌로 전달하며 두 인물의 힘 차이도 드러낸다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

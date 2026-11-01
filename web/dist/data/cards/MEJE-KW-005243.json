@@ -5,7 +5,7 @@
   "original": "Coat, Hat, Mask",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "primary_tag_id": "ML-F21",
   "description": {
     "definition": "코트, 모자와 얼굴 가리개를 함께 착용해 정체를 숨기면서도 한눈에 알아볼 수 있는 영웅의 외형을 만드는 복장.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "21",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "코트와 모자, 얼굴 가리개로 신원을 감추면서도 특징적인 윤곽을 만드는 영웅의 복장이다. 얼굴은 알아보기 어려워도 옷의 조합으로 같은 인물임을 기억하게 하며, 익명성과 상징적인 외형을 함께 유지하는 디자인이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

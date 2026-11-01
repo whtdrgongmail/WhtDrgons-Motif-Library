@@ -5,7 +5,7 @@
   "original": "Breast Attack",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "싸움 장면에서 인물의 가슴 부위를 노려 타격을 가한다. 신체 부위를 과장된 웃음이나 성적 시선의 대상으로만 쓰는지 살핀다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "싸움에서 상대의 가슴 부위를 공격 대상으로 삼는 장면이다. 타격 자체가 승부를 결정할 수도 있고, 공격을 받은 사람의 당황스러운 반응을 강조하는 연출이 될 수도 있다. 특히 여성 인물의 신체를 웃음이나 성적 구경거리로 사용하는 경우에는 공격의 결과보다 시선의 방향이 장면의 의미를 좌우한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

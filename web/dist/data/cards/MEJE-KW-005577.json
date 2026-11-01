@@ -5,23 +5,28 @@
   "original": "Condensation Clue",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "평소에는 보이지 않던 유리의 흔적이 김이 서리자 메시지처럼 드러난다. 사라진 줄 알았던 글이 사건의 단서가 된다.",
+    "definition": "유리나 거울에 남은 글씨·그림의 흔적이 수증기로 김이 서릴 때 다시 보이는 정보 제시 방식. 숨은 단서 발견 또는 말없이 메시지를 전하는 데 쓰인다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "06",
+    "code": "23",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "마른 유리에서는 보이지 않던 글이나 그림이 김이 서리면 드러난다. 인물은 그 흔적에서 단서를 찾거나 다른 사람이 남긴 메시지를 읽을 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

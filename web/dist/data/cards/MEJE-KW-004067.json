@@ -5,7 +5,7 @@
   "original": "Burning Rubber",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F22",
   "description": {
     "definition": "달리는 인물이나 차량 뒤에 과장된 불꽃 자국을 그린다. 실제 마찰의 결과보다 속도의 인상을 시각화하는 기호다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "22",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "차량이 급출발하거나 인물이 매우 빠르게 달린 뒤 이동 경로에 불꽃 같은 흔적이 남는 표현이다. 바퀴와 지면의 마찰이나 움직임의 열기를 과장해 속도가 대단했다는 인상을 준다. 실제로 길에 불이 붙었는지, 빠른 동작을 표시하는 그림인지 작품의 표현 방식에 따라 달라진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

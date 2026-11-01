@@ -5,7 +5,7 @@
   "original": "Brightness Shadows",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F22",
   "description": {
     "definition": "매우 밝은 빛을 보여 주려고 주변의 그림자와 명암 차이를 더 강하게 그린다. 화면 전체의 밝기보다 대비가 눈부심을 전한다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "22",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "매우 밝은 빛이 비치는 장면에서 빛 주변을 오히려 짙은 그림자로 그려 밝고 어두운 부분의 차이를 크게 만드는 표현이다. 화면 전체를 하얗게 칠하지 않아도 관객은 눈부신 빛의 강도를 알아볼 수 있다. 특히 빛이 닿은 물체의 윤곽과 주변의 어둠이 함께 보일 때 대비가 뚜렷해진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

@@ -5,7 +5,7 @@
   "original": "Berserker Tears",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "상대와 맞서는 인물의 얼굴에 분노와 슬픔의 눈물이 함께 흐른다. 강한 행동과 상처받은 감정이 동시에 보이는 몸짓이다. 눈물의 계기가 [[작은 말 하나에 분노가 폭발하기]]였는지는 인물의 과거에 달려 있다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "21",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "인물이 격렬하게 싸우는 동안 눈물을 흘리는 장면이다. 몸의 움직임은 공격적이어도 얼굴에는 슬픔이나 상처받은 감정이 함께 나타나므로 싸움의 이유가 단순한 승부만은 아님을 알 수 있다. 눈물이 왜 나는지와 상대를 향한 감정은 앞뒤 사건에서 확인해야 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

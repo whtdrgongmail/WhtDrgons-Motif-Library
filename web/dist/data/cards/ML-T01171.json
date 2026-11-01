@@ -7,23 +7,38 @@
   "tag_id": "ML-T01171",
   "primary_tag_id": "ML-T01171",
   "description": {
-    "definition": "아랍·이슬람권 전승에서 불과 연기 등으로 창조된 비가시적 존재로, 인간과 다른 의지와 능력을 지닌다. 소원을 들어주는 램프의 정령으로만 축소하지 말고, 작품이 지니 전승의 독립된 존재성과 성격을 반영하는지 살핀다.",
+    "definition": "지니는 아랍·이슬람 전승에 등장하는 인간과 다른 존재다. 이슬람 경전에는 불에서 창조된 존재로 설명되며, 소원을 들어주는 램프의 존재는 여러 대중문화적 변형 가운데 하나다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "12.009.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "아랍·이슬람 전승의 지니는 인간과 구별되는 존재이며, 이슬람 경전에서는 불에서 창조되었다고 설명한다. 서구 대중문화의 램프 속 소원 해결사는 수많은 변형 가운데 한 가지다. 모든 지니가 물건에 갇혀 있거나 소원을 들어준다고 가정하지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000021",
+      "card_id": "ML-T01171",
+      "label_ko": "꾸란 55장 15절 지니 창조 관련 구절",
+      "url": "https://quran.com/55/14-24",
+      "description_ko": "전승과 작품 속 표현을 대조할 수 있는 관련 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ]
 }

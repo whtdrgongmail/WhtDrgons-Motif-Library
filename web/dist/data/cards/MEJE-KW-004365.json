@@ -5,7 +5,7 @@
   "original": "Car Chase Shoot-Out",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "달리는 차들이 서로를 쫓는 동안 무장한 인물들이 공격을 주고받는다. 속도와 가려지는 시야가 장면의 혼란을 만든다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "서로 다른 차에 탄 사람들이 빠르게 달리며 상대 차를 쫓고 총을 쏘는 액션 장면이다. 운전자는 길을 피해야 하고 탑승자는 움직이는 목표를 겨냥해야 하므로 두 종류의 위험이 동시에 생긴다. 차가 방향을 바꾸거나 건물 뒤로 사라질 때 공격할 수 있는 순간도 계속 달라진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

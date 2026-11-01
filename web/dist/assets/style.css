@@ -105,3 +105,7 @@ html[data-theme=dark] .meje-brand img{filter:none}
 .meje-brand:focus-visible{outline:2px solid var(--green);outline-offset:4px}
 @media(max-width:800px){.brand-cluster{gap:10px}.meje-brand{padding-left:9px;min-height:37px}.meje-brand img{width:72px}}
 @media(max-width:540px){.brand-cluster{gap:7px}.brand-cluster .brand{gap:7px}.meje-brand{padding-left:7px}.meje-brand img{width:60px}}
+.site-footer>.footer-identity{display:flex;flex-direction:column;align-items:flex-start;gap:7px;flex:1 1 290px;min-width:0;margin:0}
+.site-version{display:block;max-width:100%;color:var(--text-subtle);font:500 10px/1.5 ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:0;overflow-wrap:anywhere;text-decoration:none}
+.site-version:hover,.site-version:focus-visible{color:var(--green);text-decoration:underline}
+@media(max-width:800px){.site-footer>.footer-identity{flex-basis:100%}}

@@ -5,7 +5,7 @@
   "original": "Captive Push",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "손이 묶인 인물을 무장한 사람들이 재촉하며 이동시킨다. 느린 행렬이 힘의 차이와 탈출의 어려움을 드러낸다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "붙잡힌 사람의 손을 묶은 뒤 무장한 사람들이 뒤에서 밀거나 팔을 잡아 이동시키는 장면이다. 포로는 가고 싶은 방향을 스스로 정할 수 없고 호송하는 사람들은 계속 움직이라고 압박한다. 두 사람 사이의 권력 차이가 몸의 움직임으로 드러나며 탈출이 어려운 상태도 분명해진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

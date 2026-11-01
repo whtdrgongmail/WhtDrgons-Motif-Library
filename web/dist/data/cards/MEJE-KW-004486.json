@@ -5,23 +5,28 @@
   "original": "Casual High Drop",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F07",
   "description": {
-    "definition": "인물이 보통 사람에게 위험한 높이에서 망설임 없이 떨어져 멀쩡히 일어난다. 몸의 특별한 능력을 긴 전투 없이 보여 준다. 위험을 대수롭지 않게 여기는 태도는 [[위험한 상황에서 태연히 대화하기]]의 말에서도 드러난다.",
+    "definition": "인물이 보통 사람에게 위험한 높이에서 망설임 없이 떨어져 멀쩡히 일어난다. 긴 설명 없이도 특별한 신체 능력을 보여 주는 행동이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "21",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "인물이 보통 사람이라면 다칠 만큼 높은 곳에서 뛰어내린 뒤 아무렇지 않게 걸어가는 장면이다. 긴 싸움이나 설명 없이도 그 인물이 특별한 신체 능력을 가졌다는 사실을 전달할 수 있다. 다른 사람들이 놀라는데 그 인물만 평온하다면 위험을 대수롭지 않게 여기는 성격도 함께 드러난다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

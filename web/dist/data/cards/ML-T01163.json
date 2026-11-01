@@ -7,23 +7,38 @@
   "tag_id": "ML-T01163",
   "primary_tag_id": "ML-T01163",
   "description": {
-    "definition": "한국 민간 전승에서 사람과 교류하거나 변신하고, 신묘한 능력과 장난스러운 성격을 보이는 초자연적 존재다. 뿔이나 방망이 같은 한 가지 도상만으로 한정하지 말고, 작품이 한국 도깨비 전승의 특징을 실제로 활용하는지 판단한다.",
+    "definition": "도깨비는 한국 민간 전승에서 사람과 관계를 맺고 여러 모습으로 나타나는 초자연적 존재다. 씨름이나 장난, 재물의 증감 등 다양한 이야기와 연결되며 뿔이나 방망이 한 가지 모습으로 정의하지 않는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "12.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "[[한국 전승]]의 도깨비는 사람과 씨름하거나 장난을 치고, 재물을 주거나 피해를 주는 등 여러 모습으로 이야기된다. 옛이야기에서 모습과 성격이 일정하지 않으므로 뿔 달린 빨간 괴물이라는 그림 하나로 정의하지 않는다. 작품이 도깨비의 어떤 전승을 선택했는지 함께 기록한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000014",
+      "card_id": "ML-T01163",
+      "label_ko": "한국민족문화대백과사전 도깨비",
+      "url": "https://encykorea.aks.ac.kr/Article/E0015527",
+      "description_ko": "전승과 작품 속 표현을 대조할 수 있는 관련 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ]
 }

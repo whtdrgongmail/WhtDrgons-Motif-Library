@@ -7,23 +7,38 @@
   "tag_id": "ML-T01167",
   "primary_tag_id": "ML-T01167",
   "description": {
-    "definition": "[[동아시아 전승]]에서 용이 되기 전 단계의 큰 뱀 또는 물속의 영물로 여겨지는 존재다. 단순한 거대 뱀이나 완성된 용과 구별해, 용으로 승천하거나 변할 가능성이 핵심 설정인지 살핀다.",
+    "definition": "이무기는 한국의 용 전승에서 큰 뱀이나 용과 가까운 존재로 이야기된다. 용이 되기 전 단계 또는 용으로 변할 가능성과 연결되는 경우가 있으며, 단순한 거대 뱀과 구별한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 3,
+  "row_version": 4,
   "classification": {
     "code": "12.009.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "[[한국 전승]]에서 [[용]]과 가까운 큰 뱀이나 용이 되기 전의 존재로 이야기되는 이무기를 가리킨다. 물과 연결되거나 용으로 변할 가능성이 설정에 나타날 수 있다. 뱀처럼 생겼다는 사실만으로 모든 괴물을 이무기로 분류하지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000017",
+      "card_id": "ML-T01167",
+      "label_ko": "한국민족문화대백과사전 용·이무기",
+      "url": "https://encykorea.aks.ac.kr/Article/E0039355",
+      "description_ko": "전승과 작품 속 표현을 대조할 수 있는 관련 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ]
 }

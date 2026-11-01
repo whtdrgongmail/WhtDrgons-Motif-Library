@@ -5,7 +5,7 @@
   "original": "Clawing at Own Throat",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "인물이 극심한 불안이나 혼란 속에서 스스로 목 주변을 긁는 모습을 보인다. 신체 동작 하나로 위태로운 심리 상태를 암시한다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "불안하거나 혼란스러운 인물이 목 주변을 반복해 긁는 행동으로 위태로운 마음을 암시하는 표현이다. 말로 설명하지 않은 긴장을 작은 몸짓에 담지만, 행동 하나만으로 실제 정신 건강 상태나 원인을 확정하는 뜻은 아니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

@@ -5,23 +5,28 @@
   "original": "Attack! Attack! Attack!",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "primary_tag_id": "ML-F09",
   "description": {
-    "definition": "큰 손실을 겪어도 후퇴보다 공격을 반복하는 전투 태도. 용기·집착·퇴로의 부재 가운데 무엇이 원인인지에 따라 의미가 달라진다. 상황이 뒤집힐 때는 [[돌격을 외치다 갑자기 후퇴를 외치기]]가 반대 선택을 드러낸다.",
+    "definition": "큰 손실을 입거나 전황이 불리해져도 후퇴하지 않고 공격을 이어가는 인물의 전투 성향. 용기·집착·퇴로의 부재 등 동기는 다를 수 있으며, 불리한 상황에서도 공격을 지속하는 행동이 판정 기준이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "09",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "전투에서 다치거나 불리해져도 물러나지 않고 계속 공격하는 인물을 가리킨다. 끝까지 싸우는 이유는 작품마다 다르다. 용감해서 그럴 수도 있고, 물러날 곳이 없거나 상황을 잘못 판단했을 수도 있다. [[돌격을 외치다 갑자기 후퇴를 외치기]]와는 전투 중 선택이 다르다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

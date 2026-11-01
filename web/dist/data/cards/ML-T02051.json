@@ -7,23 +7,38 @@
   "tag_id": "ML-T02051",
   "primary_tag_id": "ML-T02051",
   "description": {
-    "definition": "합창은 여러 사람이 함께 노래해 선율을 unison으로 부르거나 여러 성부와 화음을 이루는 방식이다. 복수의 가창자가 집단적 음향을 형성할 때 적용하고, 한 사람의 노래에 악기 반주나 녹음된 겹침만 더해진 경우와 구별한다.",
+    "definition": "합창은 여러 사람이 함께 노래하여 같은 선율을 동시에 부르거나 서로 다른 성부의 화음을 이루는 방식이다. 복수 가창자의 집단적 소리가 핵심이며, 한 사람의 노래를 녹음으로 겹치거나 악기 반주를 더한 경우와 구별한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "24.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "여러 사람이 같은 선율을 함께 부르거나 서로 다른 성부를 맡아 화음을 이루는 경우다. 여럿이 실제로 가창에 참여해 집단적인 소리를 만든다는 점이 중요하다. 한 사람이 부른 소리를 녹음으로 겹친 것과 [[독창]]에 악기 반주만 더한 경우를 구별한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000013",
+      "card_id": "ML-T02051",
+      "label_ko": "카네기홀 제창과 화음 교육 자료",
+      "url": "https://www.carnegiehall.org/Education/Programs/Link-Up/National-Program/The-Orchestra-Sings/Building-on-Melody-Layers",
+      "description_ko": "복수 가창자의 같은 선율 노래와 성부 화음 구별",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ]
 }

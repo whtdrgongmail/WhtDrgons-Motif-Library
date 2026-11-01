@@ -5,7 +5,7 @@
   "original": "Clothing Combat",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "인물이 입고 있는 의상이나 액세서리를 전투의 도구로 삼아 복장과 동작을 하나의 액션으로 엮는 연출. 전투에 쓰는 옷이 별도의 천 조각일 때에는 [[천을 활용한 격투 연출]]으로 범위를 좁힐 수 있다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "인물이 입은 옷과 액세서리를 싸움의 도구로 사용해 복장과 동작을 연결하는 연출이다. 평소에는 장식이나 보호를 위한 물건이 행동에 직접 참여하며, 의상의 재질과 형태가 다른 전투 장면과 구별되는 볼거리를 만든다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

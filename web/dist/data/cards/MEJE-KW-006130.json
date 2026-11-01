@@ -5,7 +5,7 @@
   "original": "Creepy Asymmetry",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "primary_tag_id": "ML-F21",
   "description": {
     "definition": "얼굴이나 몸의 좌우 균형을 의도적으로 어긋나게 만들어 낯선 느낌을 준다. 위험한 존재인지와 관계없이 익숙한 형태가 깨진다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "21",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "몸과 얼굴의 좌우를 일부러 다르게 만들어 익숙한 균형을 깨는 디자인이다. 자세와 윤곽의 어긋남이 낯선 느낌을 줄 수 있지만, 비대칭이라는 외형 자체가 위험함이나 실제 사람의 성격을 뜻하는 것은 아니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

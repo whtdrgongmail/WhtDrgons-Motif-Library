@@ -7,23 +7,38 @@
   "tag_id": "ML-T01887",
   "primary_tag_id": "ML-T01887",
   "description": {
-    "definition": "높은 위치에서 넓은 공간을 비스듬히 내려다보아 [[장면]]의 전체 배치와 관계를 보여 주는 시점이다. 일반적인 [[하이앵글]]보다 시야가 넓고 공간 전체를 조망하는 구성이 중심인지 확인한다.",
+    "definition": "높은 위치에서 공간 전체를 내려다보는 시점이다. 이 라이브러리에서는 비스듬한 조망을 버드아이뷰, 거의 수직인 시점을 [[수직 탑다운]]으로 구분한다. 현장에서는 두 명칭이 겹쳐 쓰일 수 있으므로 카메라 각도를 함께 기록한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 4,
+  "row_version": 5,
   "classification": {
     "code": "22.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "높은 곳에서 아래의 사람과 장소를 넓게 본다. 바로 위에서 바닥을 수직으로 찍는 장면과 달리 비스듬한 각도에서도 공간 전체의 배치를 읽을 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000009",
+      "card_id": "ML-T01887",
+      "label_ko": "Adobe 촬영 시점 용어 자료",
+      "url": "https://helpx.adobe.com/pdf/adobe_story_reference.pdf",
+      "description_ko": "버드아이뷰의 높은 시점과 비스듬한 조망 설명",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ]
 }

@@ -5,7 +5,7 @@
   "original": "Blade Run",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "인물이 상대가 내민 큰 칼 위에 올라 빠르게 접근한다. 현실의 균형보다 과장된 운동감과 우위를 드러내는 장면이다. 칼날을 지지대로 삼는 또 다른 장면으로 [[칼날을 박아 움직임 멈추기]]가 있다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "21",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "인물이 상대가 내민 커다란 칼날 위에 발을 딛고 빠르게 달려 상대에게 접근하는 과장된 전투 장면이다. 위험한 무기를 피하는 대신 발판으로 이용해 공격의 흐름을 뒤집는다. 현실적인 균형보다 인물의 속도와 대담함을 보여 주는 데 중점을 둔다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

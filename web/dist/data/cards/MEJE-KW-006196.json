@@ -5,23 +5,28 @@
   "original": "Criminal Mind Games",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "primary_tag_id": "ML-F07",
   "description": {
-    "definition": "[[범죄자]]가 붙잡히지 않으려고 흔적을 숨기기보다 일부러 단서를 남겨 수사관을 시험한다. 추적은 사건 해결과 심리전이 겹친 게임처럼 전개된다.",
+    "definition": "범죄자가 수사관이 따라오도록 의도적으로 단서를 남겨 추적 능력을 시험하거나 함정으로 유인하는 행동. 우연히 남은 범행 흔적과 구별한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "06",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "범죄자가 수사관에게 일부러 단서를 남겨 자신을 쫓게 한다. 수사관을 시험하거나 함정으로 유인하려는 행동이며, 실수로 흘린 증거와 다르다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

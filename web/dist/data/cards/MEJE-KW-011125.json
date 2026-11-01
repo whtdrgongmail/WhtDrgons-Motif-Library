@@ -1,27 +1,34 @@
 {
   "id": "MEJE-KW-011125",
   "kind": "keyword",
-  "title": "자동차 개조·복원 방송",
+  "title": "탈것 개조·복원 방송",
   "original": "Gearhead Show",
-  "aliases": [],
+  "aliases": [
+    "자동차 개조·복원 방송"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F04",
   "description": {
-    "definition": "낡은 [[자동차]]를 수리하거나 평범한 차를 특별하게 꾸미는 과정을 보여 주는 방송 형식이다. 작업 과정과 완성된 차의 변화가 볼거리가 된다.",
+    "definition": "자동차·오토바이 등 탈것을 제작·개조·복원하는 과정을 보여 주는 방송 형식이다. 작업 과정과 완성된 탈것의 변화를 주요 내용으로 삼는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "04",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "자동차나 오토바이 같은 탈것을 수리하고 꾸미거나 새 기능을 더하는 과정을 보여 주는 방송이다. 작업 전후의 변화와 제작 과정이 주요 볼거리다. 탈것을 타고 이동하거나 경기하는 방송과는 개조·복원 작업이 중심이라는 점이 다르다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

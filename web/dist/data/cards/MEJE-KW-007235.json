@@ -21,7 +21,12 @@
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "가로 한 칸과 세로 한 칸의 변화가 동시에 일어나는 대각선 이동도 한 번의 이동으로만 계산해 더 먼 거리를 같은 비용에 가는 현상이다. 특별한 가속 능력 때문이 아니라 좌표와 이동 비용의 처리에서 생기며 최단 경로와 추격 속도에 예상치 못한 이득을 줄 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

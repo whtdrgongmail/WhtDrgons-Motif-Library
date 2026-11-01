@@ -5,7 +5,7 @@
   "original": "Brig Ball Bouncing",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "좁은 방에서 나갈 수 없는 인물이 공을 벽에 반복해서 던지고 받는다. 단조로운 몸짓이 기다림과 답답함을 보여 준다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "감금되거나 움직일 공간이 적은 인물이 공을 벽에 던졌다가 다시 받아 같은 동작을 되풀이하는 장면이다. 특별한 일이 일어나지 않는 시간을 화면에 짧게 보여 줄 수 있다. 공이 벽을 치는 일정한 소리와 반복된 몸짓이 인물의 지루함, 초조함, 고립된 처지를 전달한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

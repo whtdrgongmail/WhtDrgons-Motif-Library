@@ -5,7 +5,7 @@
   "original": "Burning the Flag",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "인물이 집단을 나타내는 깃발에 불을 붙여 적대나 항의의 뜻을 공개한다. 상징을 해치는 행동과 사람들이 받는 모욕감이 함께 드러난다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "나라나 조직을 상징하는 깃발에 불을 붙여 그 집단에 반대하거나 적대한다는 뜻을 공개적으로 나타내는 행동이다. 깃발은 단순한 천이 아니라 구성원들이 자신과 연결하는 상징이므로 이를 태우면 강한 반응이 일어날 수 있다. 누가 어떤 상황에서 깃발을 태우는지가 장면의 정치적 의미를 정한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

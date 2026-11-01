@@ -7,23 +7,38 @@
   "tag_id": "ML-T01168",
   "primary_tag_id": "ML-T01168",
   "description": {
-    "definition": "서구 신화·[[판타지]] 계열에서 인간과 다른 생애와 문화를 지닌 종족으로, 흔히 자연·마법과 가까운 존재로 그려진다. 뾰족한 귀 같은 외형만으로 분류하지 말고, 작품이 엘프라는 전승·장르 관습의 종족 [[정체성]]을 활용하는지 본다.",
+    "definition": "엘프는 유럽의 전승과 현대 판타지에서 쓰이는 존재 또는 종족의 이름이다. 작품마다 수명, 외형, 문화가 다르므로 뾰족한 귀나 자연과의 친화성만으로 판정하지 않고 작품의 종족 설정을 따른다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 3,
+  "row_version": 4,
   "classification": {
     "code": "12.009.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "[[판타지]] 작품에서 엘프라는 이름의 종족이 독자적인 생활 방식, 언어 또는 역사와 함께 등장하는 경우다. 오래 사는 존재나 자연과 가까운 존재로 그려지는 일이 많지만 작품마다 다르다. 뾰족한 귀만 달린 인간형 인물을 자동으로 엘프로 분류하지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000018",
+      "card_id": "ML-T01168",
+      "label_ko": "톨킨 에스테이트 엘프 등 세계관 해설",
+      "url": "https://www.tolkienestate.com/scholarship/carl-hostetter-tolkiens-invented-languages/",
+      "description_ko": "전승과 작품 속 표현을 대조할 수 있는 관련 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ]
 }

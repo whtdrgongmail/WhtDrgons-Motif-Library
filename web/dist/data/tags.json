@@ -3635,7 +3635,7 @@
       "node_kind": "tag",
       "taggable": true,
       "row_version": 1,
-      "label": "서사 판타지",
+      "label": "대서사 판타지",
       "classification": {
         "code": "03.103.003",
         "review_status": "provisional",
@@ -9858,74 +9858,71 @@
     },
     {
       "id": "ML-T00478",
-      "facet_id": "ML-F03",
-      "parent_id": "ML-T00475",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02514",
       "node_kind": "tag",
       "taggable": true,
-      "row_version": 1,
+      "row_version": 2,
       "label": "트릭테이킹",
       "classification": {
-        "code": "03.209.003",
-        "review_status": "provisional",
-        "row_version": 1
+        "code": "25.013.001",
+        "review_status": "reviewed",
+        "row_version": 2
       },
       "semantics": {
-        "semantic_kind": "game_genre",
-        "parent_relation": "collection_member",
+        "semantic_kind": "game_mechanic",
+        "parent_relation": "is_a",
         "allowed_roles": [
-          "genre",
           "subject"
         ],
-        "review_status": "provisional",
-        "row_version": 1
+        "review_status": "reviewed",
+        "row_version": 2
       }
     },
     {
       "id": "ML-T00479",
-      "facet_id": "ML-F03",
-      "parent_id": "ML-T00475",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02514",
       "node_kind": "tag",
       "taggable": true,
-      "row_version": 1,
+      "row_version": 2,
       "label": "일꾼 놓기",
       "classification": {
-        "code": "03.209.004",
-        "review_status": "provisional",
-        "row_version": 1
+        "code": "25.013.002",
+        "review_status": "reviewed",
+        "row_version": 2
       },
       "semantics": {
-        "semantic_kind": "game_genre",
-        "parent_relation": "collection_member",
+        "semantic_kind": "game_mechanic",
+        "parent_relation": "is_a",
         "allowed_roles": [
-          "genre",
           "subject"
         ],
-        "review_status": "provisional",
-        "row_version": 1
+        "review_status": "reviewed",
+        "row_version": 2
       }
     },
     {
       "id": "ML-T00480",
-      "facet_id": "ML-F03",
-      "parent_id": "ML-T00475",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02514",
       "node_kind": "tag",
       "taggable": true,
-      "row_version": 1,
-      "label": "영역 점유 게임",
+      "row_version": 2,
+      "label": "영역 점유",
       "classification": {
-        "code": "03.209.005",
-        "review_status": "provisional",
-        "row_version": 1
+        "code": "25.013.003",
+        "review_status": "reviewed",
+        "row_version": 2
       },
       "semantics": {
-        "semantic_kind": "game_genre",
-        "parent_relation": "collection_member",
+        "semantic_kind": "game_mechanic",
+        "parent_relation": "is_a",
         "allowed_roles": [
-          "genre",
           "subject"
         ],
-        "review_status": "provisional",
-        "row_version": 1
+        "review_status": "reviewed",
+        "row_version": 2
       }
     },
     {
@@ -41147,6 +41144,29 @@
           "medium"
         ],
         "review_status": "provisional",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02514",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "보드·카드게임 규칙",
+      "classification": {
+        "code": "25.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_mechanic",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
         "row_version": 1
       }
     }

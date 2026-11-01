@@ -5,7 +5,7 @@
   "original": "Chalk Outline",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F22",
   "description": {
     "definition": "수사 장면의 바닥에 사람 모양의 선이 남아 앞서 있었던 사건을 알린다. 실제 절차보다 범죄 현장이라는 화면 기호로 쓰인다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "22",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "범죄 현장의 바닥에 사람 몸을 따라 그린 듯한 윤곽선이 남아 있어 이전에 시신이 놓였던 자리를 알리는 표현이다. 시신이 화면에 없어도 관객은 그 장소에서 심각한 일이 벌어졌다고 이해한다. 실제 수사에서 언제나 이런 선을 그리는 것은 아니며 작품에서는 사건 현장을 빠르게 알아보게 하는 기호로 쓰인다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

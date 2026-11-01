@@ -5,7 +5,7 @@
   "original": "Dressed in Layers",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "primary_tag_id": "ML-F21",
   "description": {
     "definition": "평상복 아래 영웅의 복장이나 제복을 미리 입어 위기 때 곧바로 갈아입을 수 있게 한다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "21",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "영웅의 복장이나 제복을 평상복 아래에 미리 입고 다녀 위기 때 겉옷만 벗고 활동하는 설정이다. 준비에 걸리는 시간을 줄여 빠른 전환을 가능하게 하며, 평범한 생활과 숨은 역할이 한 몸에 공존한다는 시각적 대비가 생긴다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

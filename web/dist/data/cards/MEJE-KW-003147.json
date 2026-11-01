@@ -5,7 +5,7 @@
   "original": "Big Finale Crowd Song",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "primary_tag_id": "ML-F24",
   "description": {
     "definition": "공연의 끝에 여러 인물이 같은 노래에 참여해 갈등의 마무리와 공동의 감정을 전한다. 각자의 목소리가 합류하는 순서도 의미를 만든다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "24",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "공연이나 음악 중심 이야기의 마지막에서 주요 인물들이 같은 노래를 차례로 또는 함께 부르는 장면이다. 각자가 겪은 일을 하나의 무대로 모아 관계가 어떻게 달라졌는지 전달한다. 독창으로 시작해 합창으로 넓어지는 순서는 개인의 감정이 공동의 감정으로 이어짐을 보여 줄 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

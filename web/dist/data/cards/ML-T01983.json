@@ -7,21 +7,26 @@
   "tag_id": "ML-T01983",
   "primary_tag_id": "ML-T01983",
   "description": {
-    "definition": "직유는 한 대상을 ‘처럼’, ‘같이’ 등의 표지로 다른 대상에 빗대어 공통된 특징을 드러낸다. 유사성이 암시될 뿐 비교 표지가 없는 은유와 구분해, 문장에 명시적인 비교가 있는지 확인하라.",
+    "definition": "직유는 한 대상을 ‘처럼’, ‘같이’ 등의 비교 표지로 다른 대상에 빗대어 공통된 특징을 드러낸다. 유사성이 암시될 뿐 비교 표지가 없는 [[은유]]와 구별한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "23.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "한 대상을 다른 대상에 빗대면서 ‘처럼’이나 ‘같이’라는 말을 드러낸다. 예를 들어 ‘눈처럼 하얗다’는 비교를 읽을 수 있으며 비교 표지를 숨기는 은유와 구분한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

@@ -5,7 +5,7 @@
   "original": "Dressed to Heal",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "primary_tag_id": "ML-F21",
   "description": {
     "definition": "흰 가운과 청진기 같은 소품으로 등장인물이 의사나 간호사임을 곧바로 알리는 시각적 관습이다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "21",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "흰 가운과 청진기 같은 소품을 이용해 인물이 의료인임을 쉽게 알아보게 하는 표현이다. 복장의 표지가 전문성과 돌봄의 역할을 암시하며, 실제 직무와 자격은 그 모습만으로 모두 확정되지 않는다는 점과는 구분한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

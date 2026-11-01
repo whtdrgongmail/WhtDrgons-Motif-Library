@@ -5,7 +5,7 @@
   "original": "Brick Break",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F21",
+  "primary_tag_id": "ML-F07",
   "description": {
     "definition": "무술을 익힌 인물이 단단한 물체를 깨며 힘과 집중력을 보여 준다. 성공 여부가 훈련의 결과나 허세를 드러내는 장면이 된다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "21",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "무술을 익힌 인물이 손이나 발로 벽돌 또는 판자를 깨 자신의 기술을 보여 주는 장면이다. 물체가 깨지면 관객은 인물의 힘과 훈련 성과를 즉시 알아볼 수 있다. 반대로 실패하면 준비되지 않은 인물이 실력을 과시하려 했다는 농담이 된다. 물체의 종류와 두께가 성공의 인상을 바꾼다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

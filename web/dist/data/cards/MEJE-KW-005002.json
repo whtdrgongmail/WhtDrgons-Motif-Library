@@ -5,23 +5,28 @@
   "original": "Chute Sabotage",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "primary_tag_id": "ML-F07",
   "description": {
-    "definition": "하늘에서의 낙하 사고를 우연한 장비 고장처럼 보이게 해 살해 의도를 숨기는 범죄 [[서사]]의 장치.",
+    "definition": "범인이 낙하산이나 관련 장비를 조작해 추락사를 우발적인 장비 사고처럼 꾸미는 살인 수법. 조작과 살해 의도가 있는지로 실제 사고와 구별한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "06",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "범인이 낙하산이 제대로 펴지지 않도록 장비를 조작해 사람을 죽인다. 겉으로는 낙하산 사고처럼 보이지만 장비 조작이 밝혀지면 범행을 확인할 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

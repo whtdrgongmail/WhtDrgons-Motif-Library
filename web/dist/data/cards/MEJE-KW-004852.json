@@ -5,7 +5,7 @@
   "original": "Chest of Medals",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "primary_tag_id": "ML-F21",
   "description": {
     "definition": "인물이 제복에 비정상적으로 많은 훈장과 표창을 단다. 실제 공적을 강조하거나 과시적인 권위를 풍자하는 장치로 쓰인다.",
     "detail": "",
@@ -14,14 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "21",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "제복에 훈장과 표창을 아주 많이 붙여 인물의 경력과 권위를 강조하는 표현이다. 공적이 큰 인물임을 빠르게 알릴 수도 있지만, 정도가 지나치면 실력보다 지위를 과시하는 태도를 풍자하는 시각적인 농담이 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

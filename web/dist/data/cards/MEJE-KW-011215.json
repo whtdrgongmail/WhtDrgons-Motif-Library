@@ -5,29 +5,28 @@
   "original": "Genre-Busting",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "primary_tag_id": "ML-F28",
   "description": {
-    "definition": "익숙한 장르의 경계를 크게 벗어난 작품이 기존 분류로는 설명하기 어려운 새 표현 방식을 보여주는 현상이다. 새 장르의 길을 연 작품은 뒤따르는 작품들에 [[장르의 전환점이 된 작품]]이 될 수 있다.",
+    "definition": "기존 장르의 소재·구성·전개 관습에 분명하게 들어맞지 않아 기존 분류만으로 설명하기 어려운 작품이다. 장르 요소를 단순히 혼합하거나 장면마다 장르를 바꾸는 사례와 구별한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "28",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "이야기의 소재와 전개 방식이 익숙한 장르의 기대를 크게 벗어나 기존 장르 하나로 설명하기 어려운 작품이다. 비슷한 작품이 뒤따르면 새로운 갈래의 출발점으로 평가될 수 있다. 두 장르의 규칙을 한 작품에 결합한 [[장르 혼합]]과는 구별한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
     "row_version": 1
   },
-  "easy_explanation": null,
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

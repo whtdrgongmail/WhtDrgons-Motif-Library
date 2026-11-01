@@ -5,23 +5,28 @@
   "original": "Cutlery Escape Aid",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "primary_tag_id": "ML-F07",
   "description": {
-    "definition": "갇힌 인물이 음식과 함께 받은 식기를 예상 밖의 탈출 기회로 삼는다. 평범한 물건이 감금의 허점을 드러내는 [[서사]] 장치다.",
+    "definition": "감금된 인물이 식사 때 받은 식기를 몰래 확보해 즉석 무기나 탈출 도구로 활용하는 행동. 일상용 물건을 경비 대응이나 출입구 탈출에 사용한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "06",
+    "code": "07",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "갇힌 인물이 식사에 딸려 나온 숟가락·포크·칼 등을 몰래 확보해 탈출에 사용한다. 식기를 무기로 쓰거나 결박·출입구를 해결하는 도구로 삼을 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

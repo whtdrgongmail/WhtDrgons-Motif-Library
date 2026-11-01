@@ -7,21 +7,26 @@
   "tag_id": "ML-T01999",
   "primary_tag_id": "ML-T01999",
   "description": {
-    "definition": "오역은 한 언어의 발화나 문장을 다른 언어로 옮기는 과정에서 원래 의미가 잘못 전달된 결과다. 의도적인 말장난이나 서로 다른 언어를 이해하지 못하는 상황과 구분해, 번역 내용과 원문의 뜻이 어긋나는지 확인하라.",
+    "definition": "오역은 한 언어의 발화나 문장을 다른 언어로 옮기는 과정에서 원래 의미가 잘못 전달된 결과다. 의도적인 말장난이나 단순한 언어 장벽과 달리 번역 내용과 원문의 뜻이 어긋난다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "23.009.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "한 언어의 말을 다른 언어로 옮기는 동안 원래 뜻이 달라졌다. 누가 어느 말을 잘못 옮겼고 그 결과 사람들이 무엇을 다르게 이해했는지가 중요하다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],

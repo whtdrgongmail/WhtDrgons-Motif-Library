@@ -7,23 +7,38 @@
   "tag_id": "ML-T01164",
   "primary_tag_id": "ML-T01164",
   "description": {
-    "definition": "[[한국 전승]]에서 사람으로 변신하거나 사람과 관계를 맺는 여우 정령으로, 흔히 오랜 수련과 신비한 능력이 함께 묘사된다. 여우 모양의 요괴 전반과 구별해 구미호라는 전승적 정체성이나 변신 [[모티프]]가 [[서사]]에 작동하는지 본다.",
+    "definition": "구미호는 한국의 여우 전승과 연결된 존재로, 사람 모습으로 둔갑하거나 인간과 관계를 맺는 이야기에서 등장한다. 여우구슬 등 설화 요소는 유형마다 다르며 모든 구미호의 공통 능력으로 보지 않는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 4,
+  "row_version": 5,
   "classification": {
     "code": "12.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "[[한국 전승]]의 구미호는 사람의 모습으로 나타나는 여우 이야기와 연결된다. 여우구슬을 둘러싼 설화처럼 변신과 인간과의 만남이 줄거리에 영향을 줄 수 있다. 현대 작품의 설정은 다양하므로 아름다운 여성이나 무조건 사람을 해치는 존재라는 특징을 필수 조건으로 삼지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-01",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000015",
+      "card_id": "ML-T01164",
+      "label_ko": "한국민족문화대백과사전 여우구슬 설화",
+      "url": "https://encykorea.aks.ac.kr/Article/E0036434",
+      "description_ko": "전승과 작품 속 표현을 대조할 수 있는 관련 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ]
 }
