@@ -32,6 +32,7 @@
     const search = $('#card-search'), facet = $('#facet-filter'), state = $('#state-filter'), sort = $('#sort');
     let current = 1, tagFilter = '';
     let cards = [], cardTitles = new Map(), ready = false, renderToken = 0;
+    let visitContext = '', visitedPages = new Set();
     const chunkCache = new Map();
     window.MOTIF_CATALOG_CHUNKS = Object.create(null);
     function loadChunk(number) {
@@ -73,6 +74,29 @@
       const url = location.pathname + (p.size ? '?' + p : '');
       history[push ? 'pushState' : 'replaceState'](null, '', url);
     }
+    function rememberPage() {
+      const context = JSON.stringify([search.value, facet.value, tagFilter, state.value, sort.value]);
+      if (context !== visitContext) {
+        visitContext = context;
+        visitedPages = new Set();
+        try {
+          const saved = JSON.parse(sessionStorage.getItem('motif-visited-pages') || 'null');
+          if (saved?.context === context && Array.isArray(saved.pages)) visitedPages = new Set(saved.pages);
+        } catch (_) {}
+      }
+      visitedPages.add(current);
+      try { sessionStorage.setItem('motif-visited-pages', JSON.stringify({context, pages: [...visitedPages]})); } catch (_) {}
+    }
+    function paginationHTML(total) {
+      const start = Math.floor((current - 1) / 10) * 10 + 1;
+      const end = Math.min(total, start + 9);
+      const numbers = Array.from({length: end - start + 1}, (_, index) => {
+        const page = start + index;
+        const state = page === current ? ' is-current' : visitedPages.has(page) ? ' is-visited' : '';
+        return `<button type="button" class="page-number${state}" data-page="${page}" ${page === current ? 'aria-current="page"' : ''} aria-label="${page}페이지">${page}</button>`;
+      }).join('');
+      return `<button type="button" class="page-skip" data-page="${Math.max(1, start - 10)}" aria-label="이전 10페이지" ${start === 1 ? 'disabled' : ''}>‹</button>${numbers}<button type="button" class="page-skip" data-page="${Math.min(total, start + 10)}" aria-label="다음 10페이지" ${end === total ? 'disabled' : ''}>›</button>`;
+    }
     async function render(updateURL = true, push = false) {
       if (!ready) return;
       const token = ++renderToken;
@@ -108,7 +132,10 @@
       $('#empty-state').textContent = state.value === 'unset' && !q && !facet.value && !tagFilter
         ? '현재 설명을 기다리는 카드가 없습니다.'
         : '일치하는 카드가 없습니다. 다른 이름이나 분류로 찾아보세요.';
-      $('#pagination').innerHTML = matches.length ? `<button type="button" data-page="${current - 1}" ${current === 1 ? 'disabled' : ''}>← 이전</button><label><span class="sr-only">목록 페이지</span><select id="page-select">${Array.from({length:total}, (_, i) => `<option value="${i+1}" ${i+1 === current ? 'selected' : ''}>${i+1}</option>`).join('')}</select></label><span>/ ${total}</span><button type="button" data-page="${current + 1}" ${current === total ? 'disabled' : ''}>다음 →</button>` : '';
+      if (matches.length) rememberPage();
+      const pageMarkup = matches.length ? paginationHTML(total) : '';
+      $('#pagination-top').innerHTML = pageMarkup;
+      $('#pagination').innerHTML = pageMarkup;
       document.querySelectorAll('[data-facet-link]').forEach(a => {
         const selected = a.dataset.facetLink === facet.value;
         a.classList.toggle('selected', selected);
@@ -123,15 +150,11 @@
       if (e.ctrlKey || e.metaKey || e.shiftKey || e.button) return;
       e.preventDefault(); facet.value = a.dataset.facetLink; tagFilter = ''; current = 1; render(true, true);
     }));
-    $('#pagination').addEventListener('click', e => {
+    document.querySelectorAll('.pagination').forEach(nav => nav.addEventListener('click', e => {
       const button = e.target.closest('button[data-page]');
       if (!button || button.disabled) return;
       current = Number(button.dataset.page); render(true, true); $('#catalog-form').scrollIntoView({block:'start'});
-    });
-    $('#pagination').addEventListener('change', e => {
-      if (e.target.id !== 'page-select') return;
-      current = Number(e.target.value); render(true, true); $('#catalog-form').scrollIntoView({block:'start'});
-    });
+    }));
     addEventListener('popstate', () => { readURL(); render(false); });
     readURL();
     try {
