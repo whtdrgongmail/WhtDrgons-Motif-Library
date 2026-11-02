@@ -96,6 +96,27 @@ main{max-width:1560px;padding:0 4.6% 100px;margin:auto;min-height:65vh}.page-hea
 @media(max-width:800px){.detail-layout{grid-template-columns:230px minmax(0,1fr);gap:28px}.detail-cover-card{min-height:320px;padding:18px}.cover-title{margin-top:50px}.cover-title h2{font-size:27px}.cover-bookmark{top:49px}}
 @media(max-width:540px){.detail-layout{display:flex;flex-direction:column;gap:26px}.detail-cover{display:block;order:0;width:100%;max-width:340px;align-self:center}.detail-cover-card{min-height:300px}.detail-reading{order:1;width:100%;padding:0}.detail-reading h1{font-size:33px}.detail-meta{order:initial;padding:0}.detail-meta summary{padding:15px 18px}.detail-meta-body{padding:4px 18px 18px}}
 
+/* Detail pages read as a continuous wiki article; the basic card stays compact above the prose. */
+.detail-layout{display:flex;flex-direction:column;align-items:stretch;gap:30px;max-width:950px;margin:10px auto 0}
+.detail-cover{display:block;width:min(100%,420px);align-self:flex-start}
+.detail-cover-card{min-height:0;overflow:visible}
+.cover-title{margin-bottom:18px}
+.cover-summary{display:block;-webkit-line-clamp:unset;overflow:visible;max-height:none}
+.detail-reading{width:100%;padding:0}
+@media(max-width:800px){.detail-layout{display:flex;gap:25px}.detail-cover{width:min(100%,380px)}.detail-cover-card{min-height:0}}
+@media(max-width:540px){.detail-layout{display:flex;flex-direction:column;gap:22px}.detail-cover{display:block;order:0;width:100%;max-width:340px;align-self:flex-start}.detail-cover-card{min-height:0}.detail-reading{order:1;width:100%;padding:0}}
+
+/* A personal, browser-local "seen" marker. The action sits beside the card link. */
+.catalog-card{position:relative;min-width:0}.catalog-card .motif-card{height:100%}
+.seen-button{display:inline-grid;place-items:center;width:40px;height:40px;padding:0;border:1px solid var(--line-strong);border-radius:50%;background:var(--card);color:var(--text-subtle);box-shadow:0 3px 10px var(--shadow);cursor:pointer;transition:color .15s,background .15s,border-color .15s}
+.seen-button:hover{color:#bf344d;border-color:#bf344d;background:color-mix(in srgb,#e95c72 9%,var(--card))}
+.seen-button[aria-pressed=true]{color:#c62645;border-color:color-mix(in srgb,#c62645 48%,var(--line));background:color-mix(in srgb,#e95c72 12%,var(--card))}
+.seen-button .heart{font-size:27px;line-height:1;transform:translateY(-1px)}
+.catalog-card>.seen-button{position:absolute;top:10px;right:10px;z-index:2}
+.detail-seen-button{display:inline-flex;align-items:center;justify-content:center;gap:8px;width:auto;min-height:38px;padding:5px 13px;margin:0 0 15px;border-radius:20px;box-shadow:none}
+.detail-seen-button .heart{font-size:23px}.detail-seen-button .seen-label{font-size:12px;font-weight:600}
+@media(max-width:540px){.catalog-card>.seen-button{top:8px;right:8px;width:36px;height:36px}.catalog-card>.seen-button .heart{font-size:24px}}
+
 /* Official MEJE wordmark: white source for dark mode, black silhouette on white. */
 .brand-cluster{display:flex;align-items:center;gap:14px;flex-shrink:0;min-width:0}
 .meje-brand{display:flex;align-items:center;justify-content:center;min-height:42px;padding-left:13px;border-left:1px solid var(--line-strong);flex-shrink:0}

@@ -19,6 +19,70 @@
   themeButton?.addEventListener('click', () => setTheme(document.documentElement.dataset.theme !== 'dark'));
   const norm = s => (s || '').normalize('NFKC').toLocaleLowerCase().replace(/[\s_-]+/g, '');
   const esc = s => String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const seenKey = 'meje-seen-cards-v1';
+  // Public GA4 measurement ID. Leave blank until the property is ready.
+  const analyticsMeasurementId = 'G-6YDW0J42W6';
+  if (/^G-[A-Z0-9]+$/.test(analyticsMeasurementId)) {
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function () { window.dataLayer.push(arguments); };
+    window.gtag('js', new Date());
+    window.gtag('config', analyticsMeasurementId);
+    const analyticsScript = document.createElement('script');
+    analyticsScript.async = true;
+    analyticsScript.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(analyticsMeasurementId)}`;
+    document.head.append(analyticsScript);
+  }
+  const cardIdPattern = /^(?:MEJE-KW|ML-[FT]|MM-[A-Z]+)-[A-Z0-9-]+$/;
+  function readSeenCards() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(seenKey) || '[]');
+      return new Set(Array.isArray(saved) ? saved.filter(id => typeof id === 'string' && cardIdPattern.test(id)) : []);
+    } catch (_) { return new Set(); }
+  }
+  let seenCards = readSeenCards();
+  const track = (name, params) => { if (typeof window.gtag === 'function') window.gtag('event', name, params); };
+  function seenButtonHTML(id, title, detail = false) {
+    const marked = seenCards.has(id);
+    const label = `${title} · ${marked ? '본 카드 표시 해제' : '본 카드로 표시'}`;
+    return `<button type="button" class="seen-button${detail ? ' detail-seen-button' : ''}" data-seen-card="${esc(id)}" data-seen-title="${esc(title)}" aria-pressed="${marked}" aria-label="${esc(label)}" title="${esc(label)}"><span class="heart" aria-hidden="true">${marked ? '♥' : '♡'}</span>${detail ? `<span class="seen-label">${marked ? '봤어요' : '본 카드로 표시'}</span>` : ''}</button>`;
+  }
+  function refreshSeenButtons(id) {
+    document.querySelectorAll('button[data-seen-card]').forEach(button => {
+      if (id && button.dataset.seenCard !== id) return;
+      const marked = seenCards.has(button.dataset.seenCard);
+      const label = `${button.dataset.seenTitle} · ${marked ? '본 카드 표시 해제' : '본 카드로 표시'}`;
+      button.setAttribute('aria-pressed', String(marked));
+      button.setAttribute('aria-label', label);
+      button.title = label;
+      button.querySelector('.heart').textContent = marked ? '♥' : '♡';
+      const text = button.querySelector('.seen-label');
+      if (text) text.textContent = marked ? '봤어요' : '본 카드로 표시';
+    });
+  }
+  document.addEventListener('click', event => {
+    const button = event.target.closest('button[data-seen-card]');
+    if (!button) return;
+    event.preventDefault();
+    event.stopPropagation();
+    const id = button.dataset.seenCard;
+    if (!cardIdPattern.test(id)) return;
+    const marked = !seenCards.has(id);
+    if (marked) seenCards.add(id); else seenCards.delete(id);
+    try { localStorage.setItem(seenKey, JSON.stringify([...seenCards])); } catch (_) {}
+    refreshSeenButtons(id);
+    track('motif_seen_toggle', {card_id: id, seen_status: marked ? 'marked' : 'unmarked'});
+  });
+  addEventListener('storage', event => {
+    if (event.key !== seenKey) return;
+    seenCards = readSeenCards();
+    refreshSeenButtons();
+  });
+  const detailCard = $('.detail-reading[data-card-id]');
+  if (detailCard) {
+    const heading = detailCard.querySelector('h1');
+    const after = detailCard.querySelector(':scope > .original-term') || heading;
+    if (after) after.insertAdjacentHTML('afterend', seenButtonHTML(detailCard.dataset.cardId, heading?.textContent?.trim() || '카드', true));
+  }
   const input = $('#card-search') || $('#tree-search');
   document.addEventListener('keydown', event => {
     if (event.key === '/' && !/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName) && input) {
@@ -53,7 +117,7 @@
     const collator = new Intl.Collator('ko');
     const cardHTML = c => {
       const chips = (c.thumbnail_tags || []).map((label, index) => `<span class="thumb-chip ${index ? 'thumb-chip-applied' : 'thumb-chip-primary'}">${esc(label)}</span>`).join('');
-      return `<a class="motif-card" data-card-id="${esc(c.id)}" data-row-version="${esc(c.row_version)}" href="${esc(c.entry_url || `cards/${c.id}/index.html`)}" style="--accent:${esc(c.accent)};--tab:${esc(c.tab)}"><div class="thumb-mark" aria-hidden="true"></div><h3 class="thumb-title">${esc(c.title)}</h3><div class="thumb-tags">${chips}</div></a>`;
+      return `<div class="catalog-card"><a class="motif-card" data-card-id="${esc(c.id)}" data-row-version="${esc(c.row_version)}" href="${esc(c.entry_url || `cards/${c.id}/index.html`)}" style="--accent:${esc(c.accent)};--tab:${esc(c.tab)}"><div class="thumb-mark" aria-hidden="true"></div><h3 class="thumb-title">${esc(c.title)}</h3><div class="thumb-tags">${chips}</div></a>${seenButtonHTML(c.id, c.title)}</div>`;
     };
     function readURL() {
       const p = new URLSearchParams(location.search);
@@ -143,17 +207,39 @@
       });
       grid.setAttribute('aria-busy', 'false');
     }
-    search.addEventListener('input', () => { current = 1; render(); });
-    [facet, state, sort].forEach(el => el.addEventListener('change', () => { if (el === facet) tagFilter = ''; current = 1; render(); }));
-    $('#catalog-form').addEventListener('submit', e => { e.preventDefault(); current = 1; render(); });
+    let searchTimer = 0, lastTrackedSearch = '';
+    function trackSearch() {
+      clearTimeout(searchTimer);
+      const term = search.value.trim();
+      if (!term || term.length > 100 || /@|\d{3}[-. ]?\d{3,4}[-. ]?\d{4}/.test(term)) { lastTrackedSearch = ''; return; }
+      searchTimer = setTimeout(() => {
+        if (term !== lastTrackedSearch) {
+          track('view_search_results', {search_term: term});
+          lastTrackedSearch = term;
+        }
+      }, 800);
+    }
+    search.addEventListener('input', () => { current = 1; render(); trackSearch(); });
+    [facet, state, sort].forEach(el => el.addEventListener('change', () => {
+      if (el === facet) tagFilter = '';
+      current = 1; render();
+      track('catalog_filter', {filter_type: el.id, filter_value: el.value || 'all'});
+    }));
+    $('#catalog-form').addEventListener('submit', e => { e.preventDefault(); current = 1; render(); trackSearch(); });
+    $('#card-grid').addEventListener('click', event => {
+      const card = event.target.closest('a.motif-card[data-card-id]');
+      if (card) track('select_content', {content_type: 'motif_card', item_id: card.dataset.cardId});
+    });
     document.querySelectorAll('[data-facet-link]').forEach(a => a.addEventListener('click', e => {
       if (e.ctrlKey || e.metaKey || e.shiftKey || e.button) return;
       e.preventDefault(); facet.value = a.dataset.facetLink; tagFilter = ''; current = 1; render(true, true);
+      track('catalog_filter', {filter_type: 'facet', filter_value: facet.value || 'all'});
     }));
     document.querySelectorAll('.pagination').forEach(nav => nav.addEventListener('click', e => {
       const button = e.target.closest('button[data-page]');
       if (!button || button.disabled) return;
       current = Number(button.dataset.page); render(true, true); $('#catalog-form').scrollIntoView({block:'start'});
+      track('catalog_page', {page_number: current});
     }));
     addEventListener('popstate', () => { readURL(); render(false); });
     readURL();
