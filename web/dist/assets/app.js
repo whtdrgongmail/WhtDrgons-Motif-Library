@@ -125,7 +125,7 @@
       document.querySelectorAll('.site-header nav a').forEach(a => a.removeAttribute('aria-current'));
       const active = document.querySelector(`.site-header nav a[data-menu="${state.value === 'unset' ? 'unset' : 'cards'}"]`);
       if (active) active.setAttribute('aria-current', 'page');
-      sort.value = p.get('sort') === 'newest' ? 'newest' : 'title'; current = Math.max(1, Number.parseInt(p.get('page'), 10) || 1);
+      sort.value = p.get('sort') === 'title' ? 'title' : 'newest'; current = Math.max(1, Number.parseInt(p.get('page'), 10) || 1);
     }
     function setURL(push = false) {
       const p = new URLSearchParams();
@@ -133,7 +133,7 @@
       if (facet.value) p.set('facet', facet.value);
       if (tagFilter) p.set('tag', tagFilter);
       if (state.value) p.set('state', state.value);
-      if (sort.value === 'newest') p.set('sort', sort.value);
+      if (sort.value === 'title') p.set('sort', sort.value);
       if (current > 1) p.set('page', current);
       const url = location.pathname + (p.size ? '?' + p : '');
       history[push ? 'pushState' : 'replaceState'](null, '', url);
