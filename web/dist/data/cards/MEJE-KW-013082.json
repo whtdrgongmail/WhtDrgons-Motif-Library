@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "함께 자처하여 책임자 감추기",
   "original": "I Am Spartacus",
-  "aliases": [],
+  "aliases": [
+    "붙잡힐 사람을 대신해 같은 정체를 자처하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "당사자가 아닌 사람들이 자발적으로 자신도 해당 [[인물]]이나 책임자라고 나서서 실제 대상을 식별하거나 처벌하기 어렵게 만드는 [[행동]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "추적자가 전원을 처벌해 비극으로 끝날 수도 있고, 혼란을 틈타 탈출하거나 반격할 수도 있다. 한 명이 대신 나서는 형태와 집단 전체가 나서는 형태를 포함한다.\n\n작품 사례: 《[[스파르타쿠스]]》에서 로마 병사들이 지도자를 내놓으라고 하자 동료들이 차례로 자신이 스파르타쿠스라고 외친다.",
+    "usage": "위험을 나눠 지는 충성과 연대를 행동으로 드러내거나 추적을 교란하는 장면을 구성할 때 쓴다.",
     "boundary": "우연히 같은 [[집단]]에 있어 함께 처벌받는 상황과 구분한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001524",
+      "description_ko": "《스파르타쿠스》에서 로마 병사들이 지도자를 내놓으라고 하자 동료들이 차례로 자신이 스파르타쿠스라고 외친다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

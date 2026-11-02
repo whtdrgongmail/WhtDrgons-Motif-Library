@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "분해하면 다른 물건처럼 보이는 무기",
   "original": "Scaramanga Special",
-  "aliases": [],
+  "aliases": [
+    "일상 물건으로 위장된 조립 무기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "분리된 구성품이 각각 무기와 무관한 물건으로 보이도록 설정하여 무장 상태를 숨기는 소품 유형이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "부품은 위장한 물건의 본래 기능을 할 수도 있으며, 분산된 외형이 무기의 존재를 감춘다.",
+    "usage": "소품으로 보였던 것들이 하나의 위협으로 연결되는 공개 순간을 설계한다.",
     "boundary": "단순히 작은 가방에 감춘 무기와 달리 구성품의 위장된 정체가 핵심이다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",

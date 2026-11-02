@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "구하지 못한 죽음의 자책",
   "original": "I Let Gwen Stacy Die",
-  "aliases": [],
+  "aliases": [
+    "구하지 못한 사람의 죽음을 짊어진 영웅"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "가까운 이를 살리지 못했다는 이유로 [[영웅]]이 자신에게 [[죽음]]의 책임을 돌리는 [[죄책감]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "실제 책임이나 구할 가능성이 있었는지와 별개로 인물이 책임을 떠안는 것이 핵심이다. 개인뿐 아니라 고향의 상실도 같은 기능을 할 수 있다.\n\n작품 사례: 《[[블리치]]》에서 이치고는 어머니의 죽음을 오랫동안 자기 탓으로 여기며, 주변 사람들을 지키려는 인물로 변한다.",
+    "usage": "죽음의 사실, 자기 비난, 이후 보호 행동의 [[인과]]를 연결한다.",
     "boundary": "실제 인과적 책임과 [[인물]]의 자기 비난을 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001295",
+      "description_ko": "《블리치》에서 이치고는 어머니의 죽음을 오랫동안 자기 탓으로 여기며, 주변 사람들을 지키려는 인물로 변한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-016876",
+  "kind": "keyword",
+  "title": "층마다 다른 자원을 얻는 다단계 초기화",
+  "original": "Prestige Tree-likes",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "초기화 보상 체계를 여러 층으로 만들고 각 층에서 다른 자원을 얻어 앞선 생산 구조를 더 강하게 만드는 게임 규칙이다.",
+    "detail": "한 층의 초기화가 다른 층의 진행을 지우며 후속 업그레이드가 자동 획득이나 초기화 없는 보상을 열 수 있다.",
+    "usage": "어느 층을 초기화하고 어떤 자원이 남는지 관계를 기록한다.",
+    "boundary": "한 종류의 보너스만 반복해서 얻는 단층 초기화와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "한 번 환생하는 데서 끝나지 않고 환생 체계 위에 또 환생 단계가 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-02",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

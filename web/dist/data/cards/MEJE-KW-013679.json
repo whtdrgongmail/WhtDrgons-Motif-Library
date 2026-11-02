@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "유모레스크형 화음 진행",
   "original": "\"Humoresque\" Progression",
-  "aliases": [],
+  "aliases": [
+    "단조에서 관계장조로 향하는 네 화음"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "단조에서 i–VI–VII–III를 중심으로 이어지는 반복적인 화음 진행이다.",
     "detail": "작품 사례: [[Mike Oldfield]]의 [[Moonlight Shadow]]는 단조의 i–VI–VII–III를 중심으로 이어지는 유모레스크형 진행의 사례로 제시된다.",
-    "usage": "",
+    "usage": "선율과 앞뒤 화음이 어느 조성을 중심으로 듣게 하는지 살피며 반복과 전환에 활용한다.",
     "boundary": "동명 작품이나 유머 있는 곡 일반과 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -40,6 +42,13 @@
       "media_tag_id": "ML-F02",
       "work_card_id": "MM-MEDIA-000629",
       "description_ko": "Mike Oldfield의 Moonlight Shadow는 단조의 i–VI–VII–III를 중심으로 이어지는 유모레스크형 진행의 사례로 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-001471",
+      "description_ko": "드보르자크의 〈유모레스크 제7번〉 중간 부분은 i–VI–VII–III 진행으로 단조에서 관계장조를 향하는 화성의 움직임을 들려준다.",
       "spoiler_level": "unreviewed",
       "row_version": 1
     }

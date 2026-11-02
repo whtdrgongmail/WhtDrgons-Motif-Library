@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-018213",
+  "kind": "keyword",
+  "title": "사진에 덧그려 정체 알아내기",
+  "original": "Photo Doodle Recognition",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F07",
+  "description": {
+    "definition": "인물 사진에 수염·안경 같은 세부 요소를 덧그린 결과 낯익은 다른 모습이 드러나 그 사람의 정체를 알아내는 장면이다.",
+    "detail": "실제 외형과 가려진 모습의 연결을 시각적으로 재현하는 추론이다.",
+    "usage": "덧그리는 행위가 신원 확인의 직접 계기가 되는 경우에 사용한다.",
+    "boundary": "사진을 단순 확대하거나 웃기게 낙서할 뿐 알아보는 결과가 없는 경우는 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "07",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "사진에 몇 가지를 그려 넣자 아는 얼굴이 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-02",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

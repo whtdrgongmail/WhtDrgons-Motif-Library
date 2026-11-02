@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "서로 다른 무기를 합친 장비",
   "original": "Mix-and-Match Weapon",
-  "aliases": [],
+  "aliases": [
+    "여러 무기를 결합한 복합 무기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "서로 다른 무기 종류의 형태와 기능을 하나의 장비에 결합하는 가상 무기 설계이다.",
     "detail": "",
-    "usage": "",
+    "usage": "사거리·공격 방식 전환과 독특한 장비 구성을 설계할 때 쓴다.",
     "boundary": "별개의 무기를 번갈아 들거나 수치만 강화하는 것과 구분한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",

@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "결함을 극복하는 인간의 가치",
   "original": "Humans Are Flawed",
-  "aliases": [],
+  "aliases": [
+    "불완전함 속에서 선을 택하는 인간"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F18",
   "description": {
     "definition": "인간의 불완전함을 인정하면서도 그 결함을 고치려는 노력에서 인간의 존엄과 가능성을 찾는 관점이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "불멸이나 완벽한 통제로 결함을 없애려는 계획에 맞서 자유로운 선택의 의미를 지킬 수 있다.\n\n작품 사례: 《[[드래곤볼 슈퍼]]》에서 고와스는 필멸자가 실수하는 존재임을 인정하면서도 배워서 달라질 수 있으므로 신이 보호하고 이끌어야 한다고 말한다.",
+    "usage": "결함의 실제 피해를 인정한 뒤에도 학습·책임·관계 회복의 선택을 보여 준다.",
     "boundary": "인간을 완전한 선으로 이상화하거나 본질적으로 구제 불가능하다고 보는 관점과 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "18",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001447",
+      "description_ko": "《드래곤볼 슈퍼》에서 고와스는 필멸자가 실수하는 존재임을 인정하면서도 배워서 달라질 수 있으므로 신이 보호하고 이끌어야 한다고 말한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

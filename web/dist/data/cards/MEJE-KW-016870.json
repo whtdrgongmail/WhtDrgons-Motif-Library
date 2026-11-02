@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-016870",
+  "kind": "keyword",
+  "title": "입력 없이 기다릴 때 나오는 동작",
+  "original": "Idle Animation",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 조작하지 않고 인물을 세워 두었을 때 자동으로 재생되는 짧은 동작이다. 멈춘 상태에 생동감과 인물의 개성을 더한다.",
+    "detail": "주변을 살피기, 쉬기, 소지품 만지기, 동료와 상호작용하기, 플레이어를 재촉하기 등으로 변형된다.\n\n작품 사례: 《[[포켓몬 GO]]》의 플레이어 캐릭터는 가만히 두면 기지개를 켜거나 무언가 밟은 듯 신발 밑창을 살핀다.",
+    "usage": "입력이 없는 시간이 동작의 발동 조건인지 확인한다.",
+    "boundary": "플레이어가 버튼을 눌러 시키는 감정 표현이나 도발 동작과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "가만히 두면 캐릭터가 혼자 기지개를 켜거나 딴짓을 한다.\n\n작품 사례: 《[[포켓몬 GO]]》의 플레이어 캐릭터는 가만히 두면 기지개를 켜거나 무언가 밟은 듯 신발 밑창을 살핀다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-02",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001570",
+      "description_ko": "《포켓몬 GO》의 플레이어 캐릭터는 가만히 두면 기지개를 켜거나 무언가 밟은 듯 신발 밑창을 살핀다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

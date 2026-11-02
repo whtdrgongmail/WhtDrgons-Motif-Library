@@ -4,19 +4,20 @@
   "title": "명절에 벌어지는 공포",
   "original": "Horror Doesn't Settle for Simple Tuesday",
   "aliases": [
-    "명절과 겹치는 공포 사건"
+    "명절과 겹치는 공포 사건",
+    "특별한 날의 공포"
   ],
   "tag_id": null,
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "할로윈이나 다른 명절의 기대·[[관습]]과 [[공포]] [[사건]]을 결합하여 특정 기념일이 사건의 [[배경]]이 되게 하는 구성이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[그렘린]]》은 크리스마스 선물로 받은 모과이가 재난의 출발점이 된다. 따뜻한 선물과 휴일의 기대를 괴물의 소동으로 뒤집는다.",
     "usage": "",
     "boundary": "단순히 공포물의 공개일이 명절인 경우와 구분한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 3,
+  "row_version": 4,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -30,7 +31,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001316",
+      "description_ko": "《그렘린》은 크리스마스 선물로 받은 모과이가 재난의 출발점이 된다. 따뜻한 선물과 휴일의 기대를 괴물의 소동으로 뒤집는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

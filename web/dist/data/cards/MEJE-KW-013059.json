@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "응답이 끊기는 경비초소",
   "original": "Guard Stations Terminally Unattended",
-  "aliases": [],
+  "aliases": [
+    "응답자가 제거된 경비 연락망"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "지휘자가 차례로 경비초소에 연락하지만 이미 제압된 경비원들이 응답하지 않아 침입자의 접근을 드러내는 긴장 연출이다.",
     "detail": "",
-    "usage": "",
+    "usage": "보이지 않는 침투와 경계망 붕괴를 알릴 때 쓴다.",
     "boundary": "통신기 고장 자체보다 경비 병력이 제거되었다는 의미가 있어야 한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",

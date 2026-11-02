@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "인물이 눈앞의 증거와 맞지 않는 설명을 끝까지 우긴다. 들키지 않을 기대보다 인정하기 싫은 마음이 말에 드러난다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "창피함·공포·자존심이 동기일 수 있으며, 보호받는 조직 안에서는 말이 거짓임을 알아도 처벌을 피하려고 우길 수 있다.\n\n작품 사례: 《[[데스노트]]》의 라이토는 자신이 키라라는 증거가 드러난 뒤에도 함정에 빠졌다며 부인하지만 아이자와는 연기를 그만두라고 한다.",
+    "usage": "궁지의 허세·자기기만·권력에 기대는 책임 회피를 보여 줄 때 쓴다.",
+    "boundary": "진실이 아직 불확실한 상태에서 혐의를 부인하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001526",
+      "description_ko": "《데스노트》의 라이토는 자신이 키라라는 증거가 드러난 뒤에도 함정에 빠졌다며 부인하지만 아이자와는 연기를 그만두라고 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

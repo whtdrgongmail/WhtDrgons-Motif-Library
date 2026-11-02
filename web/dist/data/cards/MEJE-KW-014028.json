@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "제약을 걸고 하는 훈련",
   "original": "Imposed Handicap Training",
-  "aliases": [],
+  "aliases": [
+    "일부러 제약을 더하는 훈련"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "일부러 무게나 다른 불리한 조건을 부과한 상태에서 연습하여 능력을 키우는 훈련 방식이다.",
-    "detail": "",
+    "detail": "능력 봉인, 강화 상태 금지, 무게 추가, 불균형한 대련, 집중 방해, 익숙하지 않은 방식의 수행이 있다.\n\n작품 사례: 《[[신의 탑]]》 3부에서 밤은 에반켈에게 훈련받는 동안 가시와 검은삼월의 힘을 쓰지 못하게 되어 기본 능력을 단련한다.",
     "usage": "스스로 부과한 제약이 성장 수단으로 설명되는지 본다.",
     "boundary": "적이 가한 불리함이나 훈련 목적 없는 무거운 장비와 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-001296",
+      "description_ko": "《신의 탑》 3부에서 밤은 에반켈에게 훈련받는 동안 가시와 검은삼월의 힘을 쓰지 못하게 되어 기본 능력을 단련한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

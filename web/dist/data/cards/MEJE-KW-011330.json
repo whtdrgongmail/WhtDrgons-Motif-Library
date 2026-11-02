@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "여러 작가가 공유하는 출판 필명",
   "original": "House Pseudonym",
-  "aliases": [],
+  "aliases": [
+    "여러 작가가 공유하는 필명"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "출판사가 하나의 저자 명의를 마련하고 서로 다른 작가들이 그 이름으로 작품을 집필하게 하는 제작 체계다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[리틀 위치 아카데미아]]》에서 장편 소설 시리즈의 저자 이름은 여러 마녀에게 대대로 이어지는 필명으로 밝혀진다. 계속 같은 작가가 쓰는 듯한 외형과 실제 집필자의 교체가 대비된다.",
     "usage": "",
     "boundary": "한 사람이 개인적으로 쓰는 필명이나 특정 실존 [[인물]]을 대신하는 단독 대필과 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001378",
+      "description_ko": "《리틀 위치 아카데미아》에서 장편 소설 시리즈의 저자 이름은 여러 마녀에게 대대로 이어지는 필명으로 밝혀진다. 계속 같은 작가가 쓰는 듯한 외형과 실제 집필자의 교체가 대비된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

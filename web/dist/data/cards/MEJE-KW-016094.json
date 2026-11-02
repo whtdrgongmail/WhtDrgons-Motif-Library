@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "카메라 안에서 만들어 내는 특수 효과",
   "original": "In-Camera Effects",
-  "aliases": [],
+  "aliases": [
+    "촬영 순간에 완성하는 특수 효과"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "카메라나 그 부품의 조작을 통해 촬영 단계에서 영상의 비현실적 효과를 만들어 내는 제작 기법이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[죠스]]》는 브로디의 얼굴 크기를 유지하며 카메라 이동과 줌을 반대로 조절해 주변 원근이 갑자기 일그러져 보이게 한다.",
     "usage": "효과의 생성이 기록 시점의 카메라 조작에 있을 때 쓴다.",
     "boundary": "카메라 앞에 설치한 모든 세트나 촬영 뒤의 디지털 합성을 같은 방식으로 묶지 않는다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001688",
+      "description_ko": "《죠스》는 브로디의 얼굴 크기를 유지하며 카메라 이동과 줌을 반대로 조절해 주변 원근이 갑자기 일그러져 보이게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

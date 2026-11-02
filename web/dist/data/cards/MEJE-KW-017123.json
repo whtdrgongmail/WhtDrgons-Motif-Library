@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-017123",
+  "kind": "keyword",
+  "title": "피격 경직을 견디는 능력",
+  "original": "Immune to Flinching",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "공격을 맞아 피해를 입더라도 동작이 중단되거나 밀려나는 피격 반응을 무시하는 게임 규칙.",
+    "detail": "허용 피격 횟수, 특정 기술의 동작 구간, 강화 상태, 보스의 기본 성질 등으로 적용 범위를 제한할 수 있다.\n\n작품 사례: 《[[그랜드체이스]]》의 슈퍼 아머는 맞을 때의 경직을 막지만 일부 공격에는 넘어지며, 하이퍼 아머는 대부분의 넘어짐까지 막는다.",
+    "usage": "느린 공격자의 반격 기회와 연속 공격의 한계를 설계할 때 쓴다.",
+    "boundary": "공격 피해 자체를 받지 않는 무적 상태와는 다르다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "체력은 줄어도 하던 공격을 끝까지 이어 갈 수 있다.\n\n작품 사례: 《[[그랜드체이스]]》의 슈퍼 아머는 맞을 때의 경직을 막지만 일부 공격에는 넘어지며, 하이퍼 아머는 대부분의 넘어짐까지 막는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-02",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001637",
+      "description_ko": "《그랜드체이스》의 슈퍼 아머는 맞을 때의 경직을 막지만 일부 공격에는 넘어지며, 하이퍼 아머는 대부분의 넘어짐까지 막는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

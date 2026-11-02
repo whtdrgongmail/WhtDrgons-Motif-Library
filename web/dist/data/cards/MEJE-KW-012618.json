@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "자격이 없다고 느껴 거절하는 보상",
   "original": "I Feel Guilty; You Take It",
-  "aliases": [],
+  "aliases": [
+    "정당하지 않다고 느낀 승리의 상을 양보하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "공을 인정받은 [[인물]]이 자신은 받을 자격이 없다고 느껴 [[보상]]을 거절하거나 남에게 넘기는 [[행동]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "편파 판정, 우연, 놓친 실수, 상대의 불리한 사정이나 절실함 등이 양보의 계기가 된다.\n\n작품 사례: 《[[드래곤볼]]》에서 천진반은 결승의 승리가 착지 순서의 운에 달렸다고 여겨 오공에게 상금 절반을 나누자고 제안한다.",
+    "usage": "승리 뒤의 양심적 판단과 보상 포기가 연결되는지 확인한다.",
     "boundary": "단순한 겸손이나 보상 자체에 관심 없는 태도와 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001375",
+      "description_ko": "《드래곤볼》에서 천진반은 결승의 승리가 착지 순서의 운에 달렸다고 여겨 오공에게 상금 절반을 나누자고 제안한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

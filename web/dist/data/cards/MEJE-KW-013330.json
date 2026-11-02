@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "인간과 악마의 계통을 함께 지녀 두 존재 유형의 속성과 [[정체성]]을 갖는 [[인물]] [[설정]]이다.",
-    "detail": "",
+    "detail": "태어날 때부터 두 혈통을 지닌 경우와 후천적으로 악마의 성질을 얻는 경우가 있다. 겉모습에 일부 악마 특징이 남거나 인간형과 악마형을 바꾸는 방식으로 표현된다.\n\n작품 사례: 《[[케이팝 데몬 헌터스]]》의 루미는 인간인 악마 사냥꾼 어머니와 악마 아버지 사이에서 태어났다. 자신의 혈통을 감추려는 마음과 사냥꾼으로서의 역할이 충돌한다.",
     "usage": "",
     "boundary": "악마에게 빙의되거나 [[계약]]으로 [[능력]]만 얻은 인간과 구분한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001348",
+      "description_ko": "《케이팝 데몬 헌터스》의 루미는 인간인 악마 사냥꾼 어머니와 악마 아버지 사이에서 태어났다. 자신의 혈통을 감추려는 마음과 사냥꾼으로서의 역할이 충돌한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

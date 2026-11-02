@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "치료하면 정체가 드러나는 딜레마",
   "original": "Inconvenient Hippocratic Oath",
-  "aliases": [],
+  "aliases": [
+    "정체를 숨기다가도 환자를 돕기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "의료 지식이나 능력을 숨겨야 안전한 인물이 도움이 절박한 환자를 만나 자기 위험과 치료 의무 사이에서 선택하는 [[갈등]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[도망자]]》에서 청소부로 위장한 킴블은 오진받은 아이에게 응급 수술이 필요함을 알아보고 적절한 부서로 보내다가 붙잡힐 위험을 감수한다.",
+    "usage": "인물의 도덕적 선택을 행동으로 증명하고 추격의 위험을 다시 키울 때 쓴다.",
     "boundary": "치료 자원이 부족한 갈등과 달리 도움을 주는 행위 자체가 치료자의 위험을 높인다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001698",
+      "description_ko": "《도망자》에서 청소부로 위장한 킴블은 오진받은 아이에게 응급 수술이 필요함을 알아보고 적절한 부서로 보내다가 붙잡힐 위험을 감수한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

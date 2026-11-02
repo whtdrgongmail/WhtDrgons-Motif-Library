@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "스스로 요란하게 등장하는 인물",
   "original": "Incoming Ham",
-  "aliases": [],
+  "aliases": [
+    "과장된 한마디로 자기 등장 알리기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "과장된 연기 성향의 [[인물]]이 등장과 동시에 자신을 크게 알리며 [[장면]]의 주의를 장악하는 연출이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[베르세르크]]》의 아돈은 전장에 나타날 때 자신의 이름과 긴 부대명을 호통치듯 내세워, 허세 넘치는 성격부터 드러낸다.",
+    "usage": "과장된 인물의 첫인상이나 반복 등장 신호를 만들 때 쓴다.",
     "boundary": "다른 소개자가 등장 인물을 과장해 알리는 장면과 구분한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001301",
+      "description_ko": "《베르세르크》의 아돈은 전장에 나타날 때 자신의 이름과 긴 부대명을 호통치듯 내세워, 허세 넘치는 성격부터 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

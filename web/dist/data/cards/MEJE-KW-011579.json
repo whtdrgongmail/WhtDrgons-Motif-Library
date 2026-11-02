@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "가정 돌봄을 중심으로 그린 아내",
   "original": "Housewife",
-  "aliases": [],
+  "aliases": [
+    "가사와 돌봄을 맡는 아내"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "배우자와 가사를 돌보는 역할이 [[인물]]의 일상과 [[정체성]] 대부분을 차지하도록 묘사된 아내 유형이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[도라에몽]]》의 노진구 어머니는 장보기, 요리, 청소 등 가족의 일상을 맡는 인물로 등장한다. 가정의 규칙과 자녀의 생활을 관리하는 역할도 함께 드러난다.",
     "usage": "",
     "boundary": "실제 전업주부 모두의 [[성격]]이나 삶을 정의하는 개념이 아니다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001382",
+      "description_ko": "《도라에몽》의 노진구 어머니는 장보기, 요리, 청소 등 가족의 일상을 맡는 인물로 등장한다. 가정의 규칙과 자녀의 생활을 관리하는 역할도 함께 드러난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

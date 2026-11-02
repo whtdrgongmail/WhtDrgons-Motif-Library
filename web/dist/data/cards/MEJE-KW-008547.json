@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "작품이 수명이나 성장 속도가 다른 존재의 정서적 성숙도를 실제 경험보다 겉으로 보이는 신체 나이에 맞춰 그리는 재현 관습.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "불멸자에게 노화·죽음·책임을 통한 성장 압력이 적다는 설명을 붙이거나, 종족의 성장 속도가 다르다고 설정할 수 있다. 어린 행동 뒤에 오랜 고뇌를 감추었다는 변형은 겉모습과 실제 성숙을 다시 구별한다.\n\n작품 사례: 《[[드래곤볼 슈퍼]]》의 전왕은 우주들을 지울 수 있는 지위와 힘을 지녔지만 어린아이처럼 쉽게 들뜨고, 그런 파괴의 윤리적 무게를 충분히 헤아리지 못한다.",
+    "usage": "존재의 실제 나이와 관객이 읽는 행동 나이의 관계를 정하거나 불멸자의 인물성을 설계한다.",
+    "boundary": "오래 살면 반드시 어떤 성격이 된다는 현실 법칙이 아니다. 미숙한 척하는 연기만으로 실제 정서가 어리다고 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001447",
+      "description_ko": "《드래곤볼 슈퍼》의 전왕은 우주들을 지울 수 있는 지위와 힘을 지녔지만 어린아이처럼 쉽게 들뜨고, 그런 파괴의 윤리적 무게를 충분히 헤아리지 못한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

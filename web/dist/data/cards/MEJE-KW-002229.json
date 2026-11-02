@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "싸움 실력을 통치 자격의 기준으로 삼는 집단 규칙. 전투력과 협상·돌봄 능력이 다를 때 사회의 약점이 드러난다. 문화의 선악을 나눈 [[지혜의 도시와 전사의 도시를 맞세우기]]와 지도력의 기준이 연결된다.",
-    "detail": "",
+    "detail": "더 강한 상대에게 패하면 지도권의 정당성이 무너질 수 있다.\n\n작품 사례: 《[[워해머 40,000]]》의 오크 전쟁군주는 가장 크고 강하다는 이유로 전사들을 이끌며, 그 힘을 계속 증명하지 못하면 지도권을 빼앗길 수 있다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "강한 사람이 우연히 지도자인 경우보다 힘과 지도권의 연결이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00084",
+      "work_card_id": "MM-MEDIA-001290",
+      "description_ko": "《워해머 40,000》의 오크 전쟁군주는 가장 크고 강하다는 이유로 전사들을 이끌며, 그 힘을 계속 증명하지 못하면 지도권을 빼앗길 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

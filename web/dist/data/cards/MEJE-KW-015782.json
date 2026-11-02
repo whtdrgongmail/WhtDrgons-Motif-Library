@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "갇힌 보호자 때문에 비어 버린 방어",
   "original": "Protector Behind Bars",
-  "aliases": [],
+  "aliases": [
+    "보호자가 잡혀 보호 대상이 노출되기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F08",
   "description": {
     "definition": "사람들을 지킬 수 있는 인물이 감옥에 갇혀 바깥의 위기에 개입하지 못하게 되는 [[갈등]] 구조다.",
-    "detail": "",
+    "detail": "포로 한 사람의 위기가 별도의 보호 대상에게도 전파된다.",
     "usage": "구금이 보호 행동을 막는 장애로 작용하는지 본다.",
     "boundary": "수감 장면 자체보다 보호자의 부재가 외부 사람들의 위험과 연결되는 것이 핵심이다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "08",
     "review_status": "provisional",

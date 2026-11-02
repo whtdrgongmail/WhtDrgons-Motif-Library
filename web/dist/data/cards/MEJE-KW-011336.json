@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "실제 [[인물]]을 체스의 말로 [[배치]]하고 그들의 [[이동]]과 대결을 체스 [[규칙]]에 따라 진행하는 장치다.",
-    "detail": "",
+    "detail": "작품 사례: 소설 《[[해리 포터와 마법사의 돌]]》에서 해리와 친구들은 거대한 체스판의 일부 말을 대신해 경기를 치른다. 론이 잡히는 위치를 선택하면서 규칙상 희생이 실제 위험을 동반한다.",
     "usage": "",
     "boundary": "인물 [[관계]]를 체스에 비유하는 말만으로는 부족하고 사람이 실제 말의 역할을 해야 한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001417",
+      "description_ko": "소설 《해리 포터와 마법사의 돌》에서 해리와 친구들은 거대한 체스판의 일부 말을 대신해 경기를 치른다. 론이 잡히는 위치를 선택하면서 규칙상 희생이 실제 위험을 동반한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

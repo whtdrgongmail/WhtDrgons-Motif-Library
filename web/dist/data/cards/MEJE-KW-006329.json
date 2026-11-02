@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "촬영 화면 속 지나치게 선명한 모니터",
   "original": "Crystal Clear Picture",
-  "aliases": [],
+  "aliases": [
+    "화면 속 모니터의 깜박임을 동기화로 없애기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "촬영된 장면에 등장한 모니터 영상이 주사선이나 깜박임 없이 유난히 깨끗하게 보인다. 합성이나 촬영 장치의 조정이 실제 [[카메라]]로 본 화면과 다른 인상을 만든다.",
     "detail": "",
-    "usage": "",
-    "boundary": ""
+    "usage": "촬영 속 화면의 정보 전달과 장비 간 시간 관계를 설명할 때 쓴다.",
+    "boundary": "영상 해상도나 선명도를 일반적으로 높이는 모든 작업을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "27",
     "review_status": "provisional",

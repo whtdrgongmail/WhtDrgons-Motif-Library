@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "술을 그만 주라는 제지에 반발",
   "original": "I'll Tell You When I've Had Enough!",
-  "aliases": [],
+  "aliases": [
+    "술을 그만 마시라는 말에 발끈하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "과음 중인 인물이 술을 줄이라는 점원의 권고에 자신의 한계는 자신이 정한다며 적대적으로 반응하는 장면이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "바텐더의 제지에 대한 반응이 전형적이며 비알코올 음료나 사소한 소비로 바꾸면 패러디가 된다.\n\n작품 사례: 《[[원피스]]》에서 흰 수염은 건강 때문에 음주를 줄이라는 간호사의 말에도 그만 마실 때는 자신이 정한다는 태도로 반발한다.",
+    "usage": "돌보거나 제한하려는 말과 인물의 통제권 주장을 충돌시킨다.",
     "boundary": "단순히 더 주문하는 행동과 달리 외부의 제지에 대한 충돌이 중심이다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001346",
+      "description_ko": "《원피스》에서 흰 수염은 건강 때문에 음주를 줄이라는 간호사의 말에도 그만 마실 때는 자신이 정한다는 태도로 반발한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

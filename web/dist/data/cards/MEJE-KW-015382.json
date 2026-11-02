@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "우연히 생긴 불로 요리하기",
   "original": "Impromptu Campfire Cookout",
-  "aliases": [],
+  "aliases": [
+    "뜻밖의 불길로 느긋하게 음식 굽기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "원래 취사 목적으로 마련하지 않은 불을 발견하고 그 열로 음식을 익히는 장면이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[젤다의 전설 브레스 오브 더 와일드]]》에서는 쓰러뜨린 적에게 남은 불길 근처에 사과를 놓아 구울 수 있다.",
     "usage": "기존 화재나 우연한 열원을 식사에 이용하는지 본다.",
     "boundary": "처음부터 캠핑용으로 준비한 모닥불에서의 취사와 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001485",
+      "description_ko": "《젤다의 전설 브레스 오브 더 와일드》에서는 쓰러뜨린 적에게 남은 불길 근처에 사과를 놓아 구울 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

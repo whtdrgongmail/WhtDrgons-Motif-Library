@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "아이들의 놀이터가 되는 큰 몸",
   "original": "Human Jungle Gym",
-  "aliases": [],
+  "aliases": [
+    "아이들의 놀이터가 되는 몸"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "몸집이 큰 [[인물]]이 아이들이 몸 위로 오르내리게 허용하여 친근함과 다정함을 보여 주는 [[장면]]이다.",
-    "detail": "",
+    "detail": "아이의 신뢰와 상대의 인내심을 보여 준다. 겉모습이 무서운 인물의 다정함을 드러내거나 짜증을 견디는 모습을 희극적으로 사용할 수 있다.\n\n작품 사례: 《[[스파이더맨: 어크로스 더 유니버스]]》에서 메이데이는 진지하게 말하려는 미겔의 몸을 기어오른다. 미겔은 성가셔하면서도 아이가 떨어지자 즉시 받아 준다.",
     "usage": "",
     "boundary": "강제로 몸에 매달려 싸우는 장면과 달리 자발적인 놀이와 [[돌봄]]이 중심이다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001427",
+      "description_ko": "《스파이더맨: 어크로스 더 유니버스》에서 메이데이는 진지하게 말하려는 미겔의 몸을 기어오른다. 미겔은 성가셔하면서도 아이가 떨어지자 즉시 받아 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-018200",
+  "kind": "keyword",
+  "title": "서로 다른 신분의 증명서 묶음",
+  "original": "Multiple Identity IDs",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F16",
+  "description": {
+    "definition": "한 인물이 이름이나 신상 정보가 서로 다른 여러 여권·면허증·신분증을 지니고 있는 설정이다. 문서마다 다른 신분을 사용할 수 있다.",
+    "detail": "위조 여부를 확정하지 않아도 복수의 문서 신분이 존재한다는 점을 보여 줄 수 있다.",
+    "usage": "문서의 차이가 신분 변경 능력이나 숨은 활동을 드러낼 때 사용한다.",
+    "boundary": "한 사람의 여권과 운전면허처럼 동일한 정보를 적은 서로 다른 종류의 증명서는 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "16",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "가방 속 신분증마다 이름과 이력이 다르다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-02",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

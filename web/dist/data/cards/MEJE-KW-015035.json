@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "말소리 자체를 즐김",
   "original": "I Just Like Saying the Word",
-  "aliases": [],
+  "aliases": [
+    "말하는 재미 때문에 단어를 반복하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "어떤 단어나 표현을 발음하는 느낌이 좋아 의미나 필요와 관계없이 반복해서 말하는 성향이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "설명 직후 같은 말을 다시 반복해 말맛 자체를 웃음거리로 삼을 수 있다.\n\n작품 사례: 《[[수퍼 소닉]]》에서 소닉은 마지막으로 할 말을 묻자 좋아하는 단어를 고르고, 그저 말하는 게 재미있어서 골랐다고 설명한다.",
+    "usage": "반복의 동기가 정보 전달보다 발음과 표현의 즐거움인지 드러낸다.",
     "boundary": "정보 전달이나 주문의 기능 때문에 반복하는 경우와 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001599",
+      "description_ko": "《수퍼 소닉》에서 소닉은 마지막으로 할 말을 묻자 좋아하는 단어를 고르고, 그저 말하는 게 재미있어서 골랐다고 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

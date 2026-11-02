@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "평범한 것을 마약처럼 다루기",
   "original": "I Can't Believe It's Not Heroin!",
-  "aliases": [],
+  "aliases": [
+    "평범한 것을 강한 약물처럼 묘사하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "통상 약물이 아닌 음식이나 물건에 의존하는 모습을 마약 사용의 말투와 [[행동]]으로 과장하는 장치다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[보글보글 스폰지밥]]》에서 스폰지밥과 뚱이는 아이스크림을 먹고 술에 취한 사람들처럼 흐트러진 모습을 보인다.",
+    "usage": "약물 [[서사]]를 우회하거나 일상적인 대상에 과장된 의존과 취기를 붙여 희극을 만들 때 쓴다.",
     "boundary": "그 물질의 실제 약리 작용을 주장하는 설명이 아니다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001532",
+      "description_ko": "《보글보글 스폰지밥》에서 스폰지밥과 뚱이는 아이스크림을 먹고 술에 취한 사람들처럼 흐트러진 모습을 보인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

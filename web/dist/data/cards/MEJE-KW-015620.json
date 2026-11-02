@@ -3,7 +3,9 @@
   "kind": "keyword",
   "title": "자주 빗나가는 적의 사격",
   "original": "Imperial Stormtrooper Marksmanship Academy",
-  "aliases": [],
+  "aliases": [
+    "주인공에게만 빗나가는 적의 사격"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F28",
   "description": {
@@ -14,7 +16,7 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -33,6 +35,13 @@
       "media_tag_id": "ML-T02487",
       "work_card_id": "MM-MEDIA-000522",
       "description_ko": "Knight and Day의 적들은 주인공이 차분히 걸어가 입맞춤하는 동안에도 제대로 맞히지 못해, 쏟아지는 공격과 실제 명중 능력의 차이가 과장된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001646",
+      "description_ko": "《디지몬 크로스워즈》의 트루프몬들은 총으로 가까운 거리에서 공격해도 목표를 맞히지 못하는 소모성 병사로 묘사된다.",
       "spoiler_level": "unreviewed",
       "row_version": 1
     }

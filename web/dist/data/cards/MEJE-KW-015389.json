@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "죽음 직전의 춥다는 말",
   "original": "I'm Cold... So Cold...",
-  "aliases": [],
+  "aliases": [
+    "춥다는 말로 드러나는 치명적 위기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "죽어 가는 인물이 추위를 호소하여 생명이 꺼져 가는 상태를 전달하는 장면이다.",
-    "detail": "",
+    "detail": "마지막 말로 등장하거나 정체를 모르는 인물이 [[유령]]이라는 단서가 될 수 있다. 피로와 졸음 같은 다른 위기 표지와 함께 쓰이기도 한다.\n\n작품 사례: 《[[반지의 제왕]]》에서 프로도는 모르굴 칼에 찔린 뒤 계속 떨며 추위를 호소해 상처의 심각한 위협을 드러낸다.",
     "usage": "추위 호소가 죽음의 징후로 기능하는지 본다.",
     "boundary": "평범한 저온 노출의 불평과 달리 임종 맥락이 필요하다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001446",
+      "description_ko": "《반지의 제왕》에서 프로도는 모르굴 칼에 찔린 뒤 계속 떨며 추위를 호소해 상처의 심각한 위협을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

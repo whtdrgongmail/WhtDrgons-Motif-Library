@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "건장한 남성의 매력형",
   "original": "Hunk",
-  "aliases": [],
+  "aliases": [
+    "근육질의 남성 미인"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "강인한 체격과 전통적인 남성미를 주요한 외적 매력으로 강조하는 인물 유형이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "몸에 붙는 간단한 옷이나 수염 그림자로 체격과 성숙함을 강조하기도 한다. 외모의 매력과 선량한 성격은 별개의 속성이다.\n\n작품 사례: 《[[헤라클레스]]》의 헤라클레스는 잘생긴 얼굴과 크게 발달한 상체를 지닌 영웅으로 그려지며, 그 육체적 매력이 대사로도 강조된다.",
+    "usage": "인물 디자인에서 강건한 육체미를 정하거나 매력적인 겉모습과 실제 성격 사이의 차이를 만들 때 쓴다.",
     "boundary": "실제 힘이나 유능함까지 외모에서 자동으로 추정하지 않는다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001475",
+      "description_ko": "《헤라클레스》의 헤라클레스는 잘생긴 얼굴과 크게 발달한 상체를 지닌 영웅으로 그려지며, 그 육체적 매력이 대사로도 강조된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

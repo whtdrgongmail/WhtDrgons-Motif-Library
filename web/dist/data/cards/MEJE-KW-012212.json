@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "이상주의자와 현실주의자의 대립",
   "original": "Idealist vs. Pragmatist",
-  "aliases": [],
+  "aliases": [
+    "이상을 지킬지 실효를 택할지의 대립"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F08",
   "description": {
     "definition": "원칙과 이상을 우선하는 [[인물]]과 실제 성과와 가능한 수단을 우선하는 인물이 방법과 [[선택]]을 두고 충돌하는 구도다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[오징어 게임]]》에서 기훈은 동료를 돕고 게임을 멈추려는 선택을 하지만 상우는 살아남기 위해 동료를 희생하는 수단까지 받아들인다.",
+    "usage": "동료들이 목표를 공유하면서도 수단 때문에 갈등하게 하거나 선택의 윤리적 비용을 드러낼 때 쓴다.",
     "boundary": "단순한 선악 대립과 달리 목표를 공유하더라도 수단의 기준이 다르다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "08",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001228",
+      "description_ko": "《오징어 게임》에서 기훈은 동료를 돕고 게임을 멈추려는 선택을 하지만 상우는 살아남기 위해 동료를 희생하는 수단까지 받아들인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

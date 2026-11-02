@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "사람의 머리로 만든 잭오랜턴",
   "original": "Human Jack-O-Lantern",
-  "aliases": [],
+  "aliases": [
+    "사람의 머리로 만든 등불"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "호박등의 자리에 사람의 머리를 놓아 축제의 익숙한 장식을 잔혹한 [[공포]] 이미지로 바꾸는 [[모티프]]이다.",
-    "detail": "",
+    "detail": "축제 장식과 신체 훼손의 대비가 핵심이다. 제작 절차 대신 [[상징]]과 장면의 효과를 다룬다.\n\n작품 사례: 《[[심슨 가족]]》의 「Treehouse of Horror IX」에 등장하는 극중 애니메이션은 스크래치의 머리를 할로윈 등불로 바꾸는 과장된 잔혹 개그를 사용한다.",
     "usage": "",
     "boundary": "호박 머리의 살아 있는 괴물이나 일반 해골 장식과 구분한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》의 「Treehouse of Horror IX」에 등장하는 극중 애니메이션은 스크래치의 머리를 할로윈 등불로 바꾸는 과장된 잔혹 개그를 사용한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

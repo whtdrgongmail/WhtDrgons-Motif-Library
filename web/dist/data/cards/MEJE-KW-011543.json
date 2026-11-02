@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "해동까지 노화를 멈추는 동결 보존",
   "original": "Human Popsicle",
-  "aliases": [],
+  "aliases": [
+    "냉동 보존으로 시간을 건너뛴 인물"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "사람을 얼려 노화를 멈춘 상태로 보존하고 미래의 해동을 통해 다시 활동하게 하는 [[설정]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "사고나 [[마법]]으로 얼어붙기도 하고, 장거리 항해나 미래의 치료를 기다리려고 계획적으로 잠들기도 한다. 깨어난 뒤에는 [[다른 시대에 놓인 낯선 사람]]이 되며 고향과 문화가 사라졌을 수 있다.\n\n작품 사례: 《[[퍼스트 어벤져]]》의 스티브 로저스는 폭격기를 북극 바다에 추락시킨 뒤 얼어붙어 보존되고, 훗날 과학자들에게 살아 있는 상태로 발견된다.",
+    "usage": "과거 인물을 미래의 시점 인물로 옮기거나 긴 시간의 변화와 개인의 연속성을 대비할 때 쓴다.",
     "boundary": "시체의 저온 보관이나 단순한 수면과 구별하며, 생존과 재개가 가능한 정지 상태가 전제다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001438",
+      "description_ko": "《퍼스트 어벤져》의 스티브 로저스는 폭격기를 북극 바다에 추락시킨 뒤 얼어붙어 보존되고, 훗날 과학자들에게 살아 있는 상태로 발견된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

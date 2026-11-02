@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "깊어 보이지만 뜻이 빈 말",
   "original": "Ice-Cream Koan",
-  "aliases": [],
+  "aliases": [
+    "깊은 가르침처럼 들리는 빈말"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "울림 있는 표현과 추상적인 단어를 사용하지만 따져 보면 분명한 의미나 통찰이 성립하지 않는 말이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "의도적인 농담일 수도 있고 진지한 척하려다 뜻을 잃은 표현일 수도 있다. 이런 발언이 길게 이어지면 철학적 설명처럼 꾸민 무의미한 독백이 된다.\n\n작품 사례: 《[[아바타: 아앙의 전설]]》에서 주코는 삼촌의 격언을 흉내 내다가 구름을 은빛 샌드위치에 빗대고, 자신도 무슨 말을 했는지 모르겠다고 인정한다.",
+    "usage": "현자인 척하는 인물의 허세를 드러내거나 격언과 선문답의 말투를 희극적으로 비틀 때 쓴다.",
     "boundary": "의미가 어렵거나 여러 해석을 허용한다는 이유만으로 같은 유형이 되지는 않는다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》에서 주코는 삼촌의 격언을 흉내 내다가 구름을 은빛 샌드위치에 빗대고, 자신도 무슨 말을 했는지 모르겠다고 인정한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

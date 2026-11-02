@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "상관의 악행을 모르는 부하",
   "original": "Ignorant Minion",
-  "aliases": [],
+  "aliases": [
+    "악행을 모른 채 따르는 부하"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "고용주나 지도자의 사악한 목적을 알지 못한 채 일하다 진상을 알면 충성을 재검토할 수 있는 부하 유형이다.",
-    "detail": "",
+    "detail": "진실을 알게 된 뒤의 선택은 달라질 수 있으며 무지가 곧 무해한 결과를 보장하지는 않는다.\n\n작품 사례: 《[[심슨 가족]]》에서 호머는 친절한 새 상사가 세계 정복을 노리는 악당임을 모르고, 전투가 벌어지는 중에도 평범한 회사 문제로 받아들인다.",
     "usage": "부하의 정보 범위와 도덕적 동의를 나누어 본다.",
     "boundary": "악행을 알면서 따르거나 모른 척한 인물과 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》에서 호머는 친절한 새 상사가 세계 정복을 노리는 악당임을 모르고, 전투가 벌어지는 중에도 평범한 회사 문제로 받아들인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

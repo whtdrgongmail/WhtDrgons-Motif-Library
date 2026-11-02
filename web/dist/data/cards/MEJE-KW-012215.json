@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "영웅이라는 호칭의 거부",
   "original": "I'm Not a Hero, I'm...",
-  "aliases": [],
+  "aliases": [
+    "영웅이라는 호칭을 다른 정체로 바꾸기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "영웅적 [[행동]]을 한 [[인물]]이 자신은 [[영웅]]이 아니라며 다른 정체나 이유로 행동을 설명하는 반응이다.",
-    "detail": "",
+    "detail": "같은 부정문이라도 실제 겸손, 허세, 거짓 겸손, 소명 거부, 실패의 자각, 영웅의 제약에서 벗어나겠다는 선언이 될 수 있다.\n\n작품 사례: 《[[강철의 연금술사]]》의 이즈미 커티스는 뛰어난 무술과 연금술 실력을 드러내면서도 자신을 평범한 주부라고 소개해 그 말 자체를 강한 인상으로 만든다.",
     "usage": "실제 영웅적 행위와 자신에게 붙이는 호칭이 어긋나는지 확인한다.",
     "boundary": "실제 악행을 숨기는 거짓말과 달리 행동의 선함과 자기 호칭의 차이가 중심이다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 3,
+  "row_version": 4,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001331",
+      "description_ko": "《강철의 연금술사》의 이즈미 커티스는 뛰어난 무술과 연금술 실력을 드러내면서도 자신을 평범한 주부라고 소개해 그 말 자체를 강한 인상으로 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "임종 직전의 중요한 물건 인계",
   "original": "I'm Dying, Please Take My MacGuffin",
-  "aliases": [],
+  "aliases": [
+    "죽음을 앞두고 중요한 물건을 넘기기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F06",
   "description": {
     "definition": "[[죽음]]을 앞둔 [[인물]]이 중요한 물건을 다른 이에게 넘겨 임무·비밀·책임이 이어지게 하는 장치다.",
-    "detail": "",
-    "usage": "",
+    "detail": "평범한 사람이 물건의 의미도 모른 채 책임을 이어받으면 이후의 추적과 신뢰 문제가 생긴다. 물건은 맥거핀일 수도 실제 기능이 중요한 도구일 수도 있다.\n\n작품 사례: 《[[엘더스크롤 4: 오블리비언]]》에서 황제 유리엘 셉팀 7세는 암살당하기 직전 주인공에게 왕의 아뮬렛을 넘겨 후계자를 찾는 사건을 이어 가게 한다.",
+    "usage": "주인공을 큰 사건에 끌어들이거나 죽은 인물의 과제를 물리적 대상으로 남긴다.",
     "boundary": "사후에 정리되는 일반 유산과 달리 임종의 인계가 이후 [[사건]]의 방향을 만든다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "06",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001622",
+      "description_ko": "《엘더스크롤 4: 오블리비언》에서 황제 유리엘 셉팀 7세는 암살당하기 직전 주인공에게 왕의 아뮬렛을 넘겨 후계자를 찾는 사건을 이어 가게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

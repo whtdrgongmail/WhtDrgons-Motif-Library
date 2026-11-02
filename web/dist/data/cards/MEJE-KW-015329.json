@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "따뜻한 음료로 돌보는 장면",
   "original": "Hot Drink Cure",
-  "aliases": [],
+  "aliases": [
+    "아픈 사람을 돌보는 따뜻한 음료"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "아프거나 다치거나 몸이 차가워진 인물이 따뜻한 음료를 마시는 행동을 회복의 수단과 돌봄의 표지로 제시하는 관습이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[아바타: 아앙의 전설]]》에서 주코는 아줄라에게 공격당한 아이로를 위해 차를 끓인다. 따뜻한 음료를 준비하는 일이 부상자를 돌보는 관계를 드러낸다.",
     "usage": "",
     "boundary": "실제 질환의 치료법이나 응급처치 효과를 단정하지 않는다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》에서 주코는 아줄라에게 공격당한 아이로를 위해 차를 끓인다. 따뜻한 음료를 준비하는 일이 부상자를 돌보는 관계를 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

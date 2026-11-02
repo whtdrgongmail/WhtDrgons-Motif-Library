@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "거대한 머리의 전투 망치",
   "original": "Humongous-Headed Hammer",
-  "aliases": [],
+  "aliases": [
+    "머리가 터무니없이 큰 망치"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "망치의 타격부를 비정상적으로 크고 무거워 보이게 만들어 사용자의 힘과 무기의 위력을 강조하는 무기 디자인이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[워크래프트 III]]》의 성기사는 자기 몸통만큼 큰 머리가 달린 양손 망치를 들고 싸운다.",
     "usage": "머리의 과장된 크기가 전투용 망치의 특징적인 시각 장치인지 확인한다.",
     "boundary": "평범한 작업용 망치나 실제 역사 무기의 크기를 설명하는 개념과 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001468",
+      "description_ko": "《워크래프트 III》의 성기사는 자기 몸통만큼 큰 머리가 달린 양손 망치를 들고 싸운다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

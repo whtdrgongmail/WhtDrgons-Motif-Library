@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "영원히 살기를 추구하는 인물",
   "original": "Immortality Seeker",
-  "aliases": [],
+  "aliases": [
+    "영생을 구하는 인물"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "[[죽음]]을 피하고 끝없는 삶을 얻는 것을 주요 목표로 삼는 [[인물]] 유형이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[원피스]]》의 도플라밍고는 사용자의 목숨을 대가로 불로 수술을 할 수 있는 수술수술 열매를 얻으려 하고, 로를 그 계획에 이용하려 한다.",
+    "usage": "인물의 여정과 [[갈등]]을 생명 연장이라는 목표로 조직할 때 쓴다.",
     "boundary": "신의 지위나 다른 초능력의 획득까지 반드시 원해야 하는 것은 아니다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001346",
+      "description_ko": "《원피스》의 도플라밍고는 사용자의 목숨을 대가로 불로 수술을 할 수 있는 수술수술 열매를 얻으려 하고, 로를 그 계획에 이용하려 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "선해지면 인간형 악해지면 짐승형",
   "original": "Humanoid Good Side, Bestial Bad Side",
-  "aliases": [],
+  "aliases": [
+    "선한 인간형과 악한 야수형의 변신 분기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "같은 존재의 도덕적 상태 변화가 인간에 가까운 형태와 짐승에 가까운 형태의 변화로 표현되는 [[규칙]]이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[디지몬 테이머즈]]》에서 분노에 휩싸인 테이머의 요구는 길몬을 파괴적인 메기드라몬으로 이끈다. 이후 서로를 이해하고 함께 싸우려는 선택은 기사형 듀크몬으로의 변화와 연결된다.",
     "usage": "",
     "boundary": "다른 종족끼리의 외모 대비와 달리 한 존재의 상태 변화가 형태를 바꾸어야 한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001414",
+      "description_ko": "《디지몬 테이머즈》에서 분노에 휩싸인 테이머의 요구는 길몬을 파괴적인 메기드라몬으로 이끈다. 이후 서로를 이해하고 함께 싸우려는 선택은 기사형 듀크몬으로의 변화와 연결된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

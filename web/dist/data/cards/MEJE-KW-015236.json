@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "괴물로 만든 존재에 대한 원한",
   "original": "I Hate You, Vampire Dad",
-  "aliases": [],
+  "aliases": [
+    "흡혈귀로 만든 이를 원망하는 후손"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "자신을 원치 않는 괴물 상태로 바꾼 존재를 변신의 책임자로 여기며 증오하는 관계이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "변화의 대가, 선택권 박탈, 성장 불가능이나 가치관 차이가 원인이 된다. 변화시킨 쪽이 타락한 후손을 거부하는 역방향도 있다.\n\n작품 사례: 《[[뱀파이어와의 인터뷰]]》에서 클로디아는 세월이 흐를수록 레스타를 증오하게 되어 결국 그를 죽이려 한다.",
+    "usage": "변화 이전의 관계와 변화가 초래한 상실을 연결해 적대의 이유를 만든다.",
     "boundary": "일반적인 부모 [[갈등]]과 달리 괴물화의 원인 관계가 핵심이다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001595",
+      "description_ko": "《뱀파이어와의 인터뷰》에서 클로디아는 세월이 흐를수록 레스타를 증오하게 되어 결국 그를 죽이려 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

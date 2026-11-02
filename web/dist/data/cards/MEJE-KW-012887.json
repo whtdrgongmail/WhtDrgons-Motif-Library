@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "떠난 부모를 그리워하기",
   "original": "I Miss Mom",
-  "aliases": [],
+  "aliases": [
+    "다시 만날 수 없는 부모를 그리워한다고 말하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "죽었거나 사라진 부모의 부재를 그리워하며 현재의 정서와 [[관계]]를 드러내는 모티프다.",
-    "detail": "",
-    "usage": "",
+    "detail": "주로 어머니를 그리워하는 말로 나타나며 남은 부모나 형제자매가 같은 그리움을 나눌 수 있다. 부모는 이전에 인물의 삶에 존재했던 관계여야 한다.\n\n작품 사례: 《[[강철의 연금술사]]》의 회상에서 어린 알폰스는 어머니가 세상을 떠난 뒤 어머니가 보고 싶다고 말한다.",
+    "usage": "상실의 감정을 짧은 대화로 드러내거나 남겨진 가족 사이의 유대를 만든다.",
     "boundary": "부모와 잠시 떨어진 일상적 심심함과 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001331",
+      "description_ko": "《강철의 연금술사》의 회상에서 어린 알폰스는 어머니가 세상을 떠난 뒤 어머니가 보고 싶다고 말한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

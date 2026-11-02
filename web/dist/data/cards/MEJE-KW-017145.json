@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-017145",
+  "kind": "keyword",
+  "title": "전송 중 사라진 메시지 일부",
+  "original": "Lost in Transmission",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F08",
+  "description": {
+    "definition": "통신 장애 때문에 전송된 메시지의 일부만 도착하여 중요한 내용이나 맥락이 빠지는 상황.",
+    "detail": "",
+    "usage": "불완전한 경고와 오해, 추가 확인의 필요를 만들 때 쓴다.",
+    "boundary": "일부러 편집하거나 발신자가 말을 중단하는 경우와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "08",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "말은 들렸지만 가장 필요한 부분이 잡음 속으로 사라졌다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-02",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

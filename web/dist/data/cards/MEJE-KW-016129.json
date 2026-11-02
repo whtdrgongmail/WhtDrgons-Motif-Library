@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "배역을 유지한 음성 해설",
   "original": "In-Character Commentaries",
-  "aliases": [],
+  "aliases": [
+    "캐릭터로 진행하는 작품 해설"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F04",
   "description": {
     "definition": "배우가 실제 제작 경험을 설명하는 대신 맡은 등장인물인 척하며 작품 속 사건을 회상하는 부가 해설 형식이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[마다가스카]]》의 DVD 부가 영상에서는 펭귄들이 자신의 등장 장면을 캐릭터의 입장에서 해설한다.",
     "usage": "해설자가 배역의 관점과 말투를 유지하는지 확인한다.",
     "boundary": "배우 본인의 제작 뒷이야기나 본편 속 내레이션과 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "04",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001509",
+      "description_ko": "《마다가스카》의 DVD 부가 영상에서는 펭귄들이 자신의 등장 장면을 캐릭터의 입장에서 해설한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T00248",
   "description": {
     "definition": "공포는 위협과 불안, 혐오 또는 무력감을 조성해 두려움의 경험을 중심에 두는 이야기 장르다. 관객이나 독자의 공포가 주요한 효과이자 전개 동력일 때 쓰고, 폭력적 장면이나 어두운 분위기만으로 분류하지 않는다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[싸이코]]》는 인물과 상황에 대한 심리적 불안에 직접적인 폭력의 충격을 결합한다. 공포가 하나의 수단에만 의존하지 않고 긴장과 육체적 위협을 함께 사용할 수 있음을 보여 준다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "괴물이나 초자연 현상은 선택 가능한 수단이며 평범한 인간만으로도 공포를 만들 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "03.105",
     "review_status": "provisional",
@@ -37,7 +37,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001315",
+      "description_ko": "《싸이코》는 인물과 상황에 대한 심리적 불안에 직접적인 폭력의 충격을 결합한다. 공포가 하나의 수단에만 의존하지 않고 긴장과 육체적 위협을 함께 사용할 수 있음을 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

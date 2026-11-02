@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-016364",
+  "kind": "keyword",
+  "title": "외부 링크 이미지의 역이용",
+  "original": "Hotlinked Image Switch",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F27",
+  "description": {
+    "definition": "다른 사이트가 원본 서버의 이미지를 직접 불러 쓰는 상황에서 원본 제공자가 이미지를 바꾸어 외부 페이지에도 다른 내용이 표시되게 만드는 대응.",
+    "detail": "",
+    "usage": "",
+    "boundary": "개인에게 저장된 이미지 파일을 바꾸는 행위와 다르다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "27",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "남의 서버에 있는 그림을 그대로 연결해 쓰면 그 서버가 그림을 바꿀 때 연결한 곳의 그림도 바뀐다. 이 의존 관계가 항의나 장난의 수단이 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-02",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

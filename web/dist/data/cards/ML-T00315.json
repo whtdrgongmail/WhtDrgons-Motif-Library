@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T00315",
   "description": {
     "definition": "[[공포]]의 위협과 긴장을 [[코미디]]의 웃음과 결합하는 이야기 장르다. 무서운 소재에 농담을 덧붙인 정도가 아니라 공포의 긴장과 희극적 반응이 서로 작용해야 한다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[그렘린]]》은 괴물의 위협을 진지하게 유지하면서 희극적인 소동을 섞는다. 같은 전제에서 공포와 웃음이 함께 작동하는 사례이다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "의도하지 않게 우스워진 공포 연출과 구별한다. 작품 전체에서 두 효과를 배치하는 방식이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-02",
+  "row_version": 4,
   "classification": {
     "code": "03.110.009",
     "review_status": "provisional",
@@ -37,7 +37,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001316",
+      "description_ko": "《그렘린》은 괴물의 위협을 진지하게 유지하면서 희극적인 소동을 섞는다. 같은 전제에서 공포와 웃음이 함께 작동하는 사례이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

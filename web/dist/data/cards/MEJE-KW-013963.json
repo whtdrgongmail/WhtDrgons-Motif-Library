@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "오래 버티는 체력 소모전",
   "original": "Padded Sumo Gameplay",
-  "aliases": [],
+  "aliases": [
+    "모두가 오래 버티는 소모전"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "양측의 체력이나 방어력이 피해량에 비해 높아 조금씩 깎는 긴 전투가 반복되는 게임 양상이다.",
     "detail": "",
-    "usage": "",
+    "usage": "전투의 속도와 자원 소모가 전체 규칙에서 어떻게 생기는지 설명할 때 쓴다.",
     "boundary": "플레이어만 약하거나 적만 체력이 많은 비대칭과 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",

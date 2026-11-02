@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "조력자를 곤란하게 하는 신",
   "original": "Incredibly Inconvenient Deity",
-  "aliases": [],
+  "aliases": [
+    "선택한 인간의 삶을 뒤흔드는 신"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "신이 자신을 돕는 [[인물]]에게 번거로운 요구와 방해를 일으켜 협력 [[관계]] 자체를 어려움의 원인으로 만드는 모티프다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[에반 올마이티]]》에서 신의 지시를 받는 에반은 갑자기 자라는 수염과 사무실로 몰려드는 새들 때문에 평범한 직장 생활을 유지하기 어려워진다.",
+    "usage": "초월적 사명과 평범한 삶의 충돌, 이유를 설명하지 않는 권위와의 관계를 다룰 때 쓴다.",
     "boundary": "신을 상대하는 과제가 어렵기만 한 경우보다 [[조력자]]에게 가하는 지속적인 곤란이 중심이다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001704",
+      "description_ko": "《에반 올마이티》에서 신의 지시를 받는 에반은 갑자기 자라는 수염과 사무실로 몰려드는 새들 때문에 평범한 직장 생활을 유지하기 어려워진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

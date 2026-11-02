@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-018573",
+  "kind": "keyword",
+  "title": "정해진 시간 안에 쓰러뜨려야 하는 보스",
+  "original": "Time-Limit Boss",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "제한 시간이 끝날 때까지 처치하지 못하면 즉시 실패 상태가 되는 보스전 규칙이다. 남은 시간 자체가 승패 조건이다.",
+    "detail": "",
+    "usage": "공격 효율과 자원 사용을 제한 시간에 맞추는 결전을 설계할 때 쓴다.",
+    "boundary": "시간이 지나 적이 강해질 뿐 전투를 계속할 수 있는 경우와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "시간 안에 이기지 못하면 아직 살아 있어도 패배한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-02",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

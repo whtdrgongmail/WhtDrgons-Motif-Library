@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "노래로 말을 듣지 않음",
   "original": "Ignoring by Singing",
-  "aliases": [],
+  "aliases": [
+    "귀를 막고 노래해 듣기를 거부하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "다른 사람의 말을 피하려 스스로 노래하거나 소리를 내어 듣기를 거부하는 행동이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "비밀 폭로, 불쾌한 정보, 지나친 수다나 원치 않는 결말을 피하는 데 쓰인다.\n\n작품 사례: 《[[심슨 가족]]》에서 러브조이 목사는 딸이 도둑질을 인정하며 관심을 원했다고 말하자 귀를 막고 노래하며 달아난다.",
+    "usage": "듣기를 방해하는 소리를 수신자가 의도적으로 만드는지 확인한다.",
     "boundary": "헤드폰처럼 수동적인 차단 장치를 이용하는 것과 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》에서 러브조이 목사는 딸이 도둑질을 인정하며 관심을 원했다고 말하자 귀를 막고 노래하며 달아난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

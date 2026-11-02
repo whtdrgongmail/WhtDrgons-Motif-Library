@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "불사를 이용한 반복 살해",
   "original": "Immortal Life Is Cheap",
-  "aliases": [],
+  "aliases": [
+    "불멸자를 향한 거리낌 없는 폭력"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "주변 [[인물]]이 대상이 다시 살아난다는 사실을 이유로 그를 죽이거나 희생시키는 일을 가볍게 취급하는 [[관계]] 모티프다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[진격의 거인]]》의 리바이는 에렌이 재생한다는 점을 이용해 법정에서 거칠게 폭행하고, 폭주 시 팔다리를 잘라 거인에게서 꺼내는 대응까지 생각한다.",
+    "usage": "불살 원칙의 예외나 재생 능력자의 비인간화를 드러낼 때 쓴다.",
     "boundary": "[[회복]] 능력자가 우연히 자주 다치는 경우와 달리 타인이 불사를 알고 생명을 함부로 다루어야 한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001312",
+      "description_ko": "《진격의 거인》의 리바이는 에렌이 재생한다는 점을 이용해 법정에서 거칠게 폭행하고, 폭주 시 팔다리를 잘라 거인에게서 꺼내는 대응까지 생각한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

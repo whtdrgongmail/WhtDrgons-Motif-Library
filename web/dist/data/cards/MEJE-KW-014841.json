@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "한눈에 생물의 분류를 알아내기",
   "original": "Improbable Taxonomy Skills",
-  "aliases": [],
+  "aliases": [
+    "단서 하나로 생물의 종을 알아맞히기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F17",
   "description": {
     "definition": "낯선 생물을 잠깐 보는 것만으로 상세한 계통과 종까지 정확히 판단하는 과장된 지식 능력이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[빅뱅 이론]]》에서 크롤리 교수는 귀뚜라미를 잠깐 보고 종을 판별하며 세계의 모든 곤충과 거미류를 알아볼 수 있다고 말한다.",
     "usage": "관찰 정보에 비해 지나치게 정확한 분류가 즉시 제공될 때 쓴다.",
     "boundary": "이미 익숙한 생물을 알아보거나 충분한 조사 뒤에 분류하는 경우와 구별한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "17",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001466",
+      "description_ko": "《빅뱅 이론》에서 크롤리 교수는 귀뚜라미를 잠깐 보고 종을 판별하며 세계의 모든 곤충과 거미류를 알아볼 수 있다고 말한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

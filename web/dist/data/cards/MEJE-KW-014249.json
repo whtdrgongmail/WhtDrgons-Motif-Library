@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "정체성의 충격으로 무너지는 자아",
   "original": "Identity Breakdown",
-  "aliases": [],
+  "aliases": [
+    "자기 정체성의 붕괴"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "자신이 누구이며 어떤 존재인지에 관한 폭로와 의문이 기존 자기 이해를 흔들어 정상적인 판단과 행동을 어렵게 만드는 전개다.",
-    "detail": "",
+    "detail": "출생이나 복제의 비밀, 기억의 진위, 맡아 온 역할의 허구성이 계기가 될 수 있다. 이후 새 자기 인식을 만들거나 혼란이 깊어지는 방향은 모두 가능하며 선악 변화 자체를 뜻하지 않는다.\n\n작품 사례: 《[[토이 스토리]]》의 버즈는 날 수 없는 자신이 우주 전사가 아니라 장난감임을 깨닫자 의욕을 잃지만, 이후 아이에게 기쁨을 주는 역할에서 새 의미를 찾는다.",
     "usage": "새 정체 정보가 이전의 자아상을 어떻게 무너뜨리는지 본다.",
     "boundary": "외부 사건에 대한 일반적 슬픔과 달리 자기 정체의 붕괴가 원인이다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001462",
+      "description_ko": "《토이 스토리》의 버즈는 날 수 없는 자신이 우주 전사가 아니라 장난감임을 깨닫자 의욕을 잃지만, 이후 아이에게 기쁨을 주는 역할에서 새 의미를 찾는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "후유증 없는 동결",
   "original": "Harmless Freezing",
-  "aliases": [],
+  "aliases": [
+    "얼어도 해동하면 무사히 돌아오기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "인물이 얼어붙거나 얼음에 갇혔다가 녹은 뒤 거의 손상 없이 활동을 재개하는 비현실적 관습이다.",
     "detail": "작품 사례: [[Fushigi Yuugi]]의 미아카는 시험을 위해 얼음에 갇혔다가 주작의 불꽃으로 구해지며, 마법적 동결과 해동 뒤에도 활동을 이어 간다.",
-    "usage": "",
+    "usage": "냉기를 일시적인 제압 수단으로 쓰거나 얼어 있는 동안의 구조와 보호를 과제로 만들 때 쓴다.",
     "boundary": "현실의 냉동 보존이나 저체온에 대한 사실 설명이 아니라 작품 속 회복의 생략이다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -33,6 +35,13 @@
       "media_tag_id": "ML-T00050",
       "work_card_id": "MM-MEDIA-000358",
       "description_ko": "Fushigi Yuugi의 미아카는 시험을 위해 얼음에 갇혔다가 주작의 불꽃으로 구해지며, 마법적 동결과 해동 뒤에도 활동을 이어 간다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001406",
+      "description_ko": "《둠 이터널》에서 얼음 폭탄에 얼어붙은 악마들은 그동안 공격받지 않으면, 녹은 뒤 멀쩡히 다시 공격을 이어 간다.",
       "spoiler_level": "unreviewed",
       "row_version": 1
     }

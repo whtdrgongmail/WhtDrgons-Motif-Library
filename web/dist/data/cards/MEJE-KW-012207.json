@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "선행에 보답하는 무료 환대",
   "original": "Hospitality for Heroes",
-  "aliases": [],
+  "aliases": [
+    "영웅에게 베푸는 무료 대접"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "[[상인]]이나 주민이 [[영웅]]의 선행에 감사하여 상품·음식·서비스를 대가 없이 제공하는 [[관계]] 모티프다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[나루토]]》에서 일락 라멘의 주인은 마을을 구한 나루토에게 무료로 음식을 대접한다. 일상적인 가게의 서비스가 선행에 대한 구체적인 보답이 된다.",
     "usage": "상인이나 주민의 무상 제공이 앞선 선행에 대한 자발적인 감사인지 본다.",
     "boundary": "계약된 임무 보수와 달리 자발적 감사와 환대가 중심이다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 3,
+  "row_version": 4,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001303",
+      "description_ko": "《나루토》에서 일락 라멘의 주인은 마을을 구한 나루토에게 무료로 음식을 대접한다. 일상적인 가게의 서비스가 선행에 대한 구체적인 보답이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

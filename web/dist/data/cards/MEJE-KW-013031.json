@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "맛없어야 건강하다는 관습",
   "original": "If It Tastes Bad, It Must Be Good for You",
-  "aliases": [],
+  "aliases": [
+    "몸에 좋은 음식은 맛없다는 관습"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "건강에 좋다는 음식일수록 맛이 없다는 대비를 웃음과 [[갈등]]에 사용하는 [[관습]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "건강을 위해 억지로 먹는 반응이나 맛없어야 효과가 있다는 말로 희극을 만들며, 실제로 해로운 음식이라는 역전도 가능하다.\n\n작품 사례: 《[[원피스]]》에서 히루루크는 쵸파의 수프가 맛없으니 약효가 있을 것이라 격려하지만, 그 버섯은 실제로 독성이 있어 기대가 뒤집힌다.",
+    "usage": "작품이 맛의 불쾌함과 건강 효과를 어떻게 연결하는지 확인한다.",
     "boundary": "[[현실]]에서 맛과 건강성이 반비례한다는 뜻이 아니다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001346",
+      "description_ko": "《원피스》에서 히루루크는 쵸파의 수프가 맛없으니 약효가 있을 것이라 격려하지만, 그 버섯은 실제로 독성이 있어 기대가 뒤집힌다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

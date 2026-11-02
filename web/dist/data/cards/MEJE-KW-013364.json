@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "사탕 대신 받은 엉뚱한 물건",
   "original": "I Got a Rock",
-  "aliases": [],
+  "aliases": [
+    "핼러윈에 사탕 대신 실망스러운 선물을 받기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "할로윈의 사탕 받기에서 한 [[인물]]이 기대한 사탕 대신 무관하거나 실망스러운 물건을 받아 웃음을 만드는 상황이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "주는 쪽은 건강을 생각하거나 아이들을 싫어할 수 있고, 아이들은 불평하거나 장난으로 보복할 수 있다. 먹을 수 없는 물건도 포함한다.\n\n작품 사례: 《[[심슨 가족]]》에서 마지가 핼러윈 방문객들에게 과일을 내밀며 자연의 사탕이라고 설득하자 아이들은 더 크게 불평한다.",
+    "usage": "축제에서 기대한 보상과 실제로 받은 것의 어긋남을 만든다.",
     "boundary": "해로운 것을 몰래 섞는 [[범죄]]나 선물을 받지 못하는 상황과 구분한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》에서 마지가 핼러윈 방문객들에게 과일을 내밀며 자연의 사탕이라고 설득하자 아이들은 더 크게 불평한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

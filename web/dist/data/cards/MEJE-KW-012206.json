@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "말을 타고 행하는 영웅적 행동",
   "original": "Horseback Heroism",
-  "aliases": [],
+  "aliases": [
+    "말을 타고 나타나는 구원자"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "[[인물]]이 말을 탄 상태로 [[구조]]와 보호 같은 고귀한 [[행동]]을 수행하여 영웅적 이미지를 만드는 [[장면]]이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[슈렉 2]]》에서 차밍 왕자는 말을 타고 피오나를 구하러 오지만 이미 구조가 끝나 있다. 구원자의 등장을 준비한 연출이 뒤늦은 도착 때문에 패러디로 바뀐다.",
     "usage": "승마의 동작과 구조·보호의 행위가 같은 장면에서 결합되는지 본다.",
     "boundary": "평범한 승마나 [[이동]] 장면과 달리 영웅적 행위가 결합되어야 한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 4,
+  "row_version": 5,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001327",
+      "description_ko": "《슈렉 2》에서 차밍 왕자는 말을 타고 피오나를 구하러 오지만 이미 구조가 끝나 있다. 구원자의 등장을 준비한 연출이 뒤늦은 도착 때문에 패러디로 바뀐다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "체격의 다른 이유를 들어 체중 평가 부인하기",
   "original": "I Am Big Boned",
-  "aliases": [],
+  "aliases": [
+    "살쪘다는 말을 다른 설명으로 돌리기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "자신이 살쪘다는 평가를 받아들이지 않고 뼈대 등 다른 신체적 이유를 들어 체형을 설명하는 인물의 반응이다. 자기 인식과 외부 평가의 마찰을 대사로 드러낸다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[블리치]]》의 오마에다 마레치요는 뚱뚱하다는 말을 들으면 통통하거나 풍채가 좋은 것이라고 표현을 고쳐 말한다.",
     "usage": "체중 평가에 대한 방어로 다른 신체 원인을 내세우는지 확인한다.",
     "boundary": "실제 체성분을 설명하는 의학적 판단과 구별하며 대사만으로 상대의 건강이나 몸을 판정하지 않는다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001295",
+      "description_ko": "《블리치》의 오마에다 마레치요는 뚱뚱하다는 말을 들으면 통통하거나 풍채가 좋은 것이라고 표현을 고쳐 말한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }
