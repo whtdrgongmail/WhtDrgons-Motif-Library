@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "자녀가 어머니나 아버지라는 호칭 대신 부모의 이름을 쓴다. 친근함이나 거리감 등 의미는 가족의 관계에서 결정된다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[Bridge to Terabithia]]의 레슬리는 부모의 권유에 따라 두 사람을 이름으로 부르며 친근하게 지내지만, 이를 본 제스는 낯설어한다.",
+    "usage": "부모 자녀 관계에서 이름 호칭이 의미 있는 선택으로 제시되는지 본다.",
+    "boundary": "이름으로 부른다고 항상 무례한 것은 아니며 문화와 가족의 합의를 함께 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-000138",
+      "description_ko": "Bridge to Terabithia의 레슬리는 부모의 권유에 따라 두 사람을 이름으로 부르며 친근하게 지내지만, 이를 본 제스는 낯설어한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

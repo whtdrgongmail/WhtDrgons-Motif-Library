@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "선하거나 악한 의사가 의료 지식·도구·상징을 대결에 활용하는 인물 유형. 돌봄과 전투의 역할이 한 인물 안에서 맞물린다.",
-    "detail": "",
+    "detail": "작품 사례: [[Lost Dimension]]의 Sojiro Sagara는 적을 최대 체력 이상으로 회복시켜 오히려 피해를 주는 기술로, 치료자의 능력을 공격에 이용한다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "치료를 시도하다 실수하는 인물과 달리 해침의 목적이나 기능이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000555",
+      "description_ko": "Lost Dimension의 Sojiro Sagara는 적을 최대 체력 이상으로 회복시켜 오히려 피해를 주는 기술로, 치료자의 능력을 공격에 이용한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

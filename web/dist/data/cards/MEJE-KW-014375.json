@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-014375",
+  "kind": "keyword",
+  "title": "위기 상황의 숨은 생존 보정",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 죽기 직전일 때 남은 체력을 더 오래 버티게 하거나 적의 명중률을 낮춰 극적인 생존 기회를 늘리는 내부 규칙이다.",
+    "detail": "",
+    "usage": "낮은 체력 상태가 게임의 보호 보정을 발동시키는 조건인지 확인한다.",
+    "boundary": "모든 상황에 일정하게 적용되는 높은 방어력이나 공개된 회복 능력과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "체력이 거의 없는데도 마지막 한 칸이 유난히 오래 남아 역전할 틈이 생긴다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

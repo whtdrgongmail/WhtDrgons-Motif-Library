@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014638",
+  "kind": "keyword",
+  "title": "저항 판정으로 타격 결과 결정하기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "공격을 받을 때마다 내구력·저항 판정을 하고 성공 여부나 실패 정도에 따라 무효·부상·기절 등 결과를 정하는 피해 체계다.",
+    "detail": "누적 부상이 다음 저항 판정을 어렵게 만드는 변형도 가능하다.\n\n작품 사례: [[Mutants & Masterminds]]에서는 공격을 받은 뒤 내구력 판정을 한다. 성공하면 충격을 견디고, 얼마나 크게 실패했느냐에 따라 멍이 들거나 한 번에 쓰러질 수도 있다.",
+    "usage": "공통 체력을 정해진 양만큼 깎는 대신 개별 저항 판정이 결과를 결정하는지 확인한다.",
+    "boundary": "명중을 피하는 회피 판정만 하거나 체력 감소량만 조금 조정하는 방식과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "맞을 때마다 버티기 판정을 하여 멀쩡할지 크게 다칠지가 정해진다.\n\n작품 사례: [[Mutants & Masterminds]]에서는 공격을 받은 뒤 내구력 판정을 한다. 성공하면 충격을 견디고, 얼마나 크게 실패했느냐에 따라 멍이 들거나 한 번에 쓰러질 수도 있다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00084",
+      "work_card_id": "MM-MEDIA-000641",
+      "description_ko": "Mutants & Masterminds에서는 공격을 받은 뒤 내구력 판정을 한다. 성공하면 충격을 견디고, 얼마나 크게 실패했느냐에 따라 멍이 들거나 한 번에 쓰러질 수도 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

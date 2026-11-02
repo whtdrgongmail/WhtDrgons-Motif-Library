@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014920",
+  "kind": "keyword",
+  "title": "명중 계산을 따라 휘어지는 비유도 탄체",
+  "original": "Homing Boulders",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "게임이 충돌 화면보다 먼저 정한 명중 결과를 유지하려고 원래 추적 기능이 없는 투사체를 표적에 따라 움직이게 하는 현상이다.",
+    "detail": "작품 사례: [[Civilization V]]의 전투 화면에서는 옛 무기로 비행기를 공격할 때 화살과 창, 바위가 움직이는 비행기를 뒤쫓아 날아간다.",
+    "usage": "유도 설정 없이 시각적 비행이 선결된 피해 판정을 따르는지 확인한다.",
+    "boundary": "마법이나 장치로 추적 능력이 명시된 발사체와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "평범한 돌이 발사 뒤 방향을 바꿔 도망가는 유닛을 끝까지 맞힌다.\n\n작품 사례: [[Civilization V]]의 전투 화면에서는 옛 무기로 비행기를 공격할 때 화살과 창, 바위가 움직이는 비행기를 뒤쫓아 날아간다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000180",
+      "description_ko": "Civilization V의 전투 화면에서는 옛 무기로 비행기를 공격할 때 화살과 창, 바위가 움직이는 비행기를 뒤쫓아 날아간다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

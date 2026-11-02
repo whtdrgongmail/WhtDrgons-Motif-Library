@@ -1,0 +1,44 @@
+{
+  "id": "MEJE-KW-013140",
+  "kind": "keyword",
+  "title": "즉시 명중 판정",
+  "original": "Hitscan",
+  "aliases": [
+    "히트스캔"
+  ],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "발사체의 비행 과정을 따로 계산하지 않고 발사 순간 직선 경로에서 먼저 만나는 대상에 명중을 판정하는 [[게임]] 방식이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "화면에 탄도 효과가 보이더라도 실제 판정에 비행 [[시간]]이 있는지와는 별개이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 3,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "쏘는 즉시 조준선 앞 대상이 맞은 것으로 처리된다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001268",
+      "description_ko": "Overwatch의 아나는 조준경을 들여다볼 때 발사 순간의 경로로 명중을 처리한다. 조준경을 쓰지 않으면 이동하는 탄환을 발사하는 방식으로 바뀐다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

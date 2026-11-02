@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T01526",
   "description": {
     "definition": "치유 능력은 자신이나 타인의 상처·질병·기능 손상을 낫게 하는 능력이다. 살아 있는 신체의 회복을 돕는 작동을 기준으로 하며, 자연적인 재생이나 죽은 이를 되살리는 효과와 구별한다.",
-    "detail": "",
+    "detail": "작품 사례: [[unOrdinary]]의 Elaine은 부상자에게 손을 대어 심각한 상처도 몇 분 만에 회복시키며, 다른 인물들이 그녀에게 치료를 요청한다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "손 접촉이 흔하지만 필수는 아니며 자기 재생·사자 부활만 가능한 능력·외부 회복 도구와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "17.005.001",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-001128",
+      "description_ko": "unOrdinary의 Elaine은 부상자에게 손을 대어 심각한 상처도 몇 분 만에 회복시키며, 다른 인물들이 그녀에게 치료를 요청한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

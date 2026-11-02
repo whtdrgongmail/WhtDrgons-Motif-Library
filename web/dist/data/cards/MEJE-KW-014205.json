@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-014205",
+  "kind": "keyword",
+  "title": "가까운 대상에게 이어지는 연쇄 공격",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "첫 대상을 맞힌 공격이 일정 거리 안의 다음 대상으로 옮겨 가며 여러 대상을 차례로 타격하는 게임 규칙이다.",
+    "detail": "",
+    "usage": "개별 대상 사이의 거리와 공격의 전파 순서를 본다.",
+    "boundary": "한 영역을 한꺼번에 공격하는 효과와 달리 대상 사이의 순차 연결이 중요하다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "가까이 붙어 있으면 한 사람의 피격이 옆 사람에게도 이어진다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

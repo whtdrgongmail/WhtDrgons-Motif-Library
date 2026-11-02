@@ -1,0 +1,44 @@
+{
+  "id": "MEJE-KW-012539",
+  "kind": "keyword",
+  "title": "시간에 따른 점진 회복",
+  "original": "Gradual Regeneration",
+  "aliases": [
+    "시간에 걸친 점진적 회복"
+  ],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "[[시간]]·턴·이동량 등 일정한 진행 단위마다 소모된 자원이 조금씩 회복되는 [[게임]] [[규칙]]이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "즉시 [[회복]]이나 최대치 증가와 다르며 회복 자원은 체력에 한정되지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 3,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "한꺼번에 회복약을 쓰지 않아도 몇 턴이 지나면 체력이나 마력이 조금씩 돌아온다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001270",
+      "description_ko": "Remnant: From the Ashes에서 Bloodroot 추출액을 사용하면 체력이 한 번에 차지 않고, 일정 시간 동안 조금씩 회복된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

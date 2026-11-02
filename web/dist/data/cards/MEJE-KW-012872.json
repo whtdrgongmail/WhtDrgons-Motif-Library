@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-012872",
+  "kind": "keyword",
+  "title": "격자 배치 퍼즐",
+  "original": "Grid Puzzle",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "칸으로 구획된 판에 숫자·문자·물체를 배치하여 행과 열 또는 다른 위치 [[관계]]의 조건을 만족시키는 퍼즐 유형이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "원문은 자유 [[배치]]와 [[이동]] 순서 제약을 구별하면서도 슬라이딩 퍼즐을 목록에 함께 넣으므로 하위 범주의 경계는 별도 검토한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "각 칸에 무엇을 놓아야 전체 [[규칙]]이 맞는지 추론한다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

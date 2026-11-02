@@ -7,14 +7,14 @@
   "tag_id": null,
   "primary_tag_id": "ML-F24",
   "description": {
-    "definition": "여럿이 〈보기 대령 행진곡〉을 함께 휘파람으로 불어 한마음이라는 인상을 만든다. 말 대신 같은 선율을 공유해 집단의 결속을 보여준다.",
+    "definition": "여럿이 〈[[보기 대령 행진곡]]〉을 함께 휘파람으로 불어 한마음이라는 인상을 만든다. 말 대신 같은 선율을 공유해 집단의 결속을 보여준다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00140",
+      "work_card_id": "MM-MEDIA-000003",
+      "description_ko": "여럿이 같은 선율을 휘파람으로 부르는 음악 작품",
+      "spoiler_level": "none",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

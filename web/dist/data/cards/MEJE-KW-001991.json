@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "주거·생산·서비스가 거대 구조물 안에 모여 하나의 도시처럼 운영되는 공간 [[설정]]. 건물의 높이보다 내부 자원 순환과 인구 밀도가 세계의 규칙을 만든다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[Oath of Fealty]]의 토도스산토스는 내부 경제를 갖춘 거대 생활시설이며, 바버라는 새 기업들을 유치해 그 경제를 키우는 일을 맡는다.",
+    "usage": "도시 기능의 내부 통합과 자족성을 확인한다.",
+    "boundary": "단지 건물들이 연결된 거대도시 전체보다 자족 체계라는 조건이 강하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-000666",
+      "description_ko": "Oath of Fealty의 토도스산토스는 내부 경제를 갖춘 거대 생활시설이며, 바버라는 새 기업들을 유치해 그 경제를 키우는 일을 맡는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

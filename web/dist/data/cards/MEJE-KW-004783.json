@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "서로 사랑하는 두 인물이 애정 관계를 유지하면서도 신체 접촉을 거의 하지 않는다. 관계의 친밀함을 접촉보다 대화와 신뢰로 표현한다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[Warhammer 40,000: Rogue Trader]]에서 이르리엣과 연애하면 마음속 여행으로 깊이 연결되지만, 포옹을 생각하기만 해도 거부할 만큼 신체 접촉은 제한된다.",
+    "usage": "연애 관계라는 사실이 확인되면서 육체적 친밀감의 절제가 특징인 경우 적용한다.",
+    "boundary": "서로 연애 감정이 없는 깊은 우정과는 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001155",
+      "description_ko": "Warhammer 40,000: Rogue Trader에서 이르리엣과 연애하면 마음속 여행으로 깊이 연결되지만, 포옹을 생각하기만 해도 거부할 만큼 신체 접촉은 제한된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

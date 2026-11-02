@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "작품이 성소수자 인물의 존재는 인정하지만 연인 사이의 애정 표현은 거의 보이지 않는다. 다른 연인에게 허용된 장면과의 차이를 살핀다.",
-    "detail": "",
+    "detail": "작품 사례: [[Buffy the Vampire Slayer]]에서 타라와 윌로의 관계는 처음에 암시 위주로 표현되고 첫 키스도 오래 뒤에 나오는 반면, 이성 연인들의 애정 장면은 더 직접적으로 제시되어 표현 허용 범위의 차이가 드러난다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "정체성만 말로 알리고 연애를 전혀 보여 주지 않는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-000141",
+      "description_ko": "Buffy the Vampire Slayer에서 타라와 윌로의 관계는 처음에 암시 위주로 표현되고 첫 키스도 오래 뒤에 나오는 반면, 이성 연인들의 애정 장면은 더 직접적으로 제시되어 표현 허용 범위의 차이가 드러난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

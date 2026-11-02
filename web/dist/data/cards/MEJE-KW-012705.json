@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-012705",
+  "kind": "keyword",
+  "title": "보이지 않는 이동 장벽",
+  "original": "Invisible Wall",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "화면에는 막는 물체가 없지만 [[이동]] 판정이 더 이상의 진행을 허용하지 않는 경계다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "설정상 투명한 실제 방어막과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "열린 들판처럼 보이는데 [[캐릭터]]가 보이지 않는 면에 막힌다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

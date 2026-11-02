@@ -1,0 +1,44 @@
+{
+  "id": "MEJE-KW-011700",
+  "kind": "keyword",
+  "title": "서로 먼저 맞히면 끝나는 전투",
+  "original": "Rocket-Tag Gameplay",
+  "aliases": [
+    "서로 순식간에 쓰러지는 전투"
+  ],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "양쪽의 공격력이 생존 [[능력]]에 비해 지나치게 커서 먼저 유효타를 넣는 쪽이 짧은 [[시간]] 안에 승부를 결정하는 [[전투]] 구성이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "한쪽만 취약한 유리 대포인 경우와 달리 대결 [[구조]] 전체가 선제타 중심으로 작동한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 4,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "전투가 오래 버티는 싸움보다 누가 먼저 맞히느냐에 달려 있다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001262",
+      "description_ko": "MADNESS: Project Nexus 2의 Madness 난이도는 적의 체력을 낮추는 대신 공격력을 높여, 양쪽 모두 먼저 제대로 맞히는 쪽이 유리한 전투를 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

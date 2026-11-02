@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-014606",
+  "kind": "keyword",
+  "title": "공격 범위와 피격 범위의 분리",
+  "original": "disjointed hitbox",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "공격 판정이 공격자의 피격 영역과 겹치지 않는 바깥 공간에 형성되어 공격 부분을 맞혀도 공격자에게 되받아칠 수 없는 판정 구조다.",
+    "detail": "",
+    "usage": "공격 영역과 공격자 피격 영역이 공간적으로 분리되어 있는지 확인한다.",
+    "boundary": "단순히 공격 그림과 판정 위치가 어긋난 오류나 모든 긴 사거리 공격과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "멀리 뻗은 공격은 상대를 때리지만 그 공격 끝을 쳐도 사용자의 몸은 맞지 않는다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

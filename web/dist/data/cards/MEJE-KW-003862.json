@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F17",
   "description": {
     "definition": "생물이나 인물이 숨과 함께 불이나 다른 힘을 뿜어낸다. 사정거리와 사용 뒤의 부담이 세계 안의 전투 규칙이 된다.",
-    "detail": "",
+    "detail": "작품 사례: [[Pete's Dragon (1977)]]의 엘리엇은 폭풍 속 등대에 불을 붙이려 하지만, 좁은 계단에 목과 가슴이 끼어 숨을 충분히 들이마시지 못해 불을 내뿜는 데 여러 번 실패한다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "머리 위의 무장이나 눈의 광선과 발사 기관이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "17",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-000706",
+      "description_ko": "Pete's Dragon (1977)의 엘리엇은 폭풍 속 등대에 불을 붙이려 하지만, 좁은 계단에 목과 가슴이 끼어 숨을 충분히 들이마시지 못해 불을 내뿜는 데 여러 번 실패한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

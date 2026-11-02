@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "인물이 치유되거나 재생할 때 손상된 옷과 얼룩도 설명 없이 원래대로 돌아오는 화면 [[관습]]. 몸에만 작용해야 할 회복이 의상에까지 적용되어 장면 간 흔적을 지운다. [[치유 능력]] 자체와 의상의 [[연속성]] 처리를 구분한다.",
-    "detail": "",
+    "detail": "작품 사례: [[The Order of the Stick]]에서 [[회복 물약]]은 상처뿐 아니라 찢어진 옷도 꿰매 주며, 등장인물들조차 왜 옷까지 고쳐지는지 이상하게 여긴다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "몸만 재생하고 옷은 남는 설정과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-02",
+  "row_version": 4,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-001027",
+      "description_ko": "The Order of the Stick에서 회복 물약은 상처뿐 아니라 찢어진 옷도 꿰매 주며, 등장인물들조차 왜 옷까지 고쳐지는지 이상하게 여긴다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

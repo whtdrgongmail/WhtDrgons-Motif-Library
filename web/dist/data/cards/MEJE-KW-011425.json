@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-011425",
+  "kind": "keyword",
+  "title": "개인전과 단체전 점수를 합산하는 경기",
+  "original": "Thunder Queen",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F26",
+  "description": {
+    "definition": "팀원들의 개별 시간제 대결을 치른 뒤 단체 대결을 이어 가며 모든 점수를 팀 단위로 합산하는 경기다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "여러 개인전의 승리 개수만 세는 단체전과 달리 연속된 득점 합계가 핵심이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "26",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "각자 벌어 온 점수에 마지막 팀 경기 점수를 더해 승자를 정한다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

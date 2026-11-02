@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "인물이 익숙하지 않은 지역의 음식을 보고 놀라거나 거부감을 드러내는 작품 속 반응이다. 그 음식이나 문화를 실제로 열등한 것으로 판단하는 뜻은 아니다.",
-    "detail": "",
+    "detail": "작품 사례: [[Tinker]]의 팅커는 오니에게 붙잡힌 동안 익숙하지 않은 음식에 거부감을 느끼지만, 기근 지역 출신 요리사는 남기지 말라고 화를 내어 서로 다른 음식 경험이 [[갈등]]으로 이어진다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "실제 문화의 음식에 대한 평가가 아니라 낯섦을 불쾌함으로 바꾸는 작품의 시선이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001088",
+      "description_ko": "Tinker의 팅커는 오니에게 붙잡힌 동안 익숙하지 않은 음식에 거부감을 느끼지만, 기근 지역 출신 요리사는 남기지 말라고 화를 내어 서로 다른 음식 경험이 갈등으로 이어진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

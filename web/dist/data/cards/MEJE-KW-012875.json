@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-012875",
+  "kind": "keyword",
+  "title": "상태를 뒤집는 퍼즐",
+  "original": "Tile-Flipping Puzzle",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "여러 대상의 앞뒤나 활성 상태를 뒤집어 목표 상태 조합을 만드는 퍼즐이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "위치만 옮기고 상태는 바뀌지 않는 [[배치]]와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "타일의 상태를 바꾸며 판 전체의 조건을 맞춘다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

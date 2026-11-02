@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T02098",
   "description": {
     "definition": "피해를 견디거나 생존 상태를 유지하기 위해 관리하는 체력 수치 또는 이에 준하는 자원이다. 실패 횟수나 생명 수와 혼동하지 말고, 전투·위험 상황에서 소모와 회복이 생존 판정에 연결되는지 확인한다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "표시는 숫자·막대·색 단계 등으로 달라질 수 있다. 최대치는 성장·장비로 늘어나기도 하며 캐릭터 외에 탈것·도시·행성의 기능 유지에도 같은 원리를 적용할 수 있다.\n\n작품 사례: [[Trick & Treat]]에서 아멜리아가 함정에 맞으면 메뉴에 표시되는 체력 수치가 줄어든다. 시작 질문에 제대로 답하면 초기 체력이 300에서 350으로 늘어난다.",
+    "usage": "피해와 회복에 따라 관리되는 자원이 생존·기능 유지의 판정에 연결되는지 확인한다.",
+    "boundary": "실패해도 다시 시작할 수 있는 목숨 수나 공격 기술에만 쓰는 마력과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "25.004.001",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001112",
+      "description_ko": "Trick & Treat에서 아멜리아가 함정에 맞으면 메뉴에 표시되는 체력 수치가 줄어든다. 시작 질문에 제대로 답하면 초기 체력이 300에서 350으로 늘어난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

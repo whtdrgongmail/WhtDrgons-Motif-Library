@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014639",
+  "kind": "keyword",
+  "title": "능력 등급을 체력 대신 소모하기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "피해를 받으면 인물의 기술·성질·능력 등급을 낮추어 생존 비용을 처리하는 규칙이다. 어떤 능력을 먼저 희생할지 선택할 수 있으면 현재 전투와 이후 활동 사이의 손익이 생긴다.",
+    "detail": "작품 사례: [[Prose Descriptive Qualities]]에서 공격으로 피해를 받은 플레이어는 어떤 능력 등급을 낮출지 고른다. 전투 능력을 끝까지 남기려고 다른 특성부터 희생할 수 있다.",
+    "usage": "능력 등급 감소가 피해를 견디는 기본 자원으로 사용되는지 확인한다.",
+    "boundary": "부상이 별도 체력 감소에 덧붙여 일시적 능력 페널티를 주는 방식과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "맞을 때 체력 대신 자기 능력 하나의 등급을 낮춰야 한다.\n\n작품 사례: [[Prose Descriptive Qualities]]에서 공격으로 피해를 받은 플레이어는 어떤 능력 등급을 낮출지 고른다. 전투 능력을 끝까지 남기려고 다른 특성부터 희생할 수 있다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00084",
+      "work_card_id": "MM-MEDIA-000725",
+      "description_ko": "Prose Descriptive Qualities에서 공격으로 피해를 받은 플레이어는 어떤 능력 등급을 낮출지 고른다. 전투 능력을 끝까지 남기려고 다른 특성부터 희생할 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

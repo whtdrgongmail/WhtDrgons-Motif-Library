@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-014519",
+  "kind": "keyword",
+  "title": "시간이 지나면 나오는 힌트",
+  "original": "Hint on delay",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 일정 시간 동안 진행하지 못하면 시스템이 막혔다고 판단해 단서를 제공하는 방식이다.",
+    "detail": "",
+    "usage": "경과 시간이 도움의 발동 조건인지 확인한다.",
+    "boundary": "실패 횟수나 사용자의 직접 요청에 따라 나오는 힌트와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "오래 같은 방을 살펴보자 동료가 다음에 볼 곳을 알려 준다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "인물이 빠진 공간에 물이 차오르거나 빠져나올 길이 막혀 시간이 지날수록 위험이 커지는 함정이다.",
-    "detail": "",
+    "detail": "작품 사례: [[A Song of Ice and Fire]]에서 타이윈은 레인 가문 사람들이 피한 광산의 출입구를 막은 뒤 강물을 끌어들여, 방어에 유리했던 피난처를 탈출할 수 없는 수몰 함정으로 바꾼다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "일반적인 수중 배경이나 시야를 가리는 물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-000021",
+      "description_ko": "A Song of Ice and Fire에서 타이윈은 레인 가문 사람들이 피한 광산의 출입구를 막은 뒤 강물을 끌어들여, 방어에 유리했던 피난처를 탈출할 수 없는 수몰 함정으로 바꾼다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

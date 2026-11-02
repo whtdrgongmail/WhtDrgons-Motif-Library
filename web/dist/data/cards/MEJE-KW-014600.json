@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014600",
+  "kind": "keyword",
+  "title": "화면과 충돌 판정이 어긋나기",
+  "original": "Hitbox Dissonance",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "게임에서 보이는 물체의 크기·위치·모양과 실제 충돌·[[피격 판정 영역]]이 맞지 않아 접촉 여부가 시각적 예상과 다르게 처리되는 현상이다. 의도적인 난도 조절과 구현상의 오류가 모두 원인이 될 수 있다.",
+    "detail": "작품 사례: [[Screamer]]에서는 조금 앞선 차량의 뒤쪽이 상대 차를 통과하기도 한다. 화면상 차체가 겹치는데도 앞선 차는 지나가고 뒤따르던 차가 사고를 당한다.",
+    "usage": "보이는 형상과 실제 판정 영역의 불일치가 플레이 결과에 영향을 주는지 확인한다.",
+    "boundary": "단순한 시각 모델 차이나 판정 범위를 정확히 알린 별도의 규칙 자체와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "몸에 닿은 것처럼 보이는 공격이 빗나가거나 빈 공간을 맞혔는데 피해가 들어간다.\n\n작품 사례: [[Screamer]]에서는 조금 앞선 차량의 뒤쪽이 상대 차를 통과하기도 한다. 화면상 차체가 겹치는데도 앞선 차는 지나가고 뒤따르던 차가 사고를 당한다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000787",
+      "description_ko": "Screamer에서는 조금 앞선 차량의 뒤쪽이 상대 차를 통과하기도 한다. 화면상 차체가 겹치는데도 앞선 차는 지나가고 뒤따르던 차가 사고를 당한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

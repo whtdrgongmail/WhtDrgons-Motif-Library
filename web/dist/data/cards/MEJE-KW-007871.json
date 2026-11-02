@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "인물은 모르는 사실을 관객이 먼저 알기 때문에 같은 말과 행동이 두 층위로 읽히는 [[서사]] 기법이다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[Much Ado About Nothing]]에서 클라우디오는 히어로가 죽었다고 믿고 다른 여성과의 결혼을 받아들이지만, 관객은 히어로가 살아 있고 이것이 시험임을 안다.",
+    "usage": "관객과 등장인물 사이의 정보 차이가 장면의 의미나 긴장을 바꾸는지 확인한다.",
+    "boundary": "관객과 인물이 동시에 진실을 알아차리는 단순 반전과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00152",
+      "work_card_id": "MM-MEDIA-000635",
+      "description_ko": "Much Ado About Nothing에서 클라우디오는 히어로가 죽었다고 믿고 다른 여성과의 결혼을 받아들이지만, 관객은 히어로가 살아 있고 이것이 시험임을 안다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

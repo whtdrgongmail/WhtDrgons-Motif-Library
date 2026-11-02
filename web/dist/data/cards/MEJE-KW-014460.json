@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014460",
+  "kind": "keyword",
+  "title": "관객에게 그대로 보이는 비밀번호",
+  "original": "Highly Visible Password",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F22",
+  "description": {
+    "definition": "인물이 입력하는 비밀번호를 가림 문자 없이 화면에 읽을 수 있게 보여 주어 관객이 내용이나 [[말장난]]을 알아보게 하는 인터페이스 표현이다.",
+    "detail": "작품 사례: [[The X-Files]]에서 스컬리가 멀더의 파일 비밀번호를 추측할 때 입력한 단어들이 가림 없이 보여, 관객도 실패한 추측과 성공한 암호를 그대로 읽는다.",
+    "usage": "비밀 인증 문자열의 내용이 관객에게 직접 읽히도록 제시되는지 확인한다.",
+    "boundary": "암호를 추측하는 과정 자체나 안전한 실제 인터페이스의 기준과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "22",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "접속 화면에 비밀번호가 별표 대신 완전한 단어로 표시된다.\n\n작품 사례: [[The X-Files]]에서 스컬리가 멀더의 파일 비밀번호를 추측할 때 입력한 단어들이 가림 없이 보여, 관객도 실패한 추측과 성공한 암호를 그대로 읽는다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001079",
+      "description_ko": "The X-Files에서 스컬리가 멀더의 파일 비밀번호를 추측할 때 입력한 단어들이 가림 없이 보여, 관객도 실패한 추측과 성공한 암호를 그대로 읽는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

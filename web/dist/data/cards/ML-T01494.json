@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T01494",
   "description": {
     "definition": "재생 능력은 손상된 신체 조직이나 잃은 신체 부위가 비정상적으로 빠르거나 완전하게 회복되는 능력이다. 신체가 스스로 복구되는 작동을 기준으로 하고, 외부 치료나 타인의 치유와 구분한다.",
-    "detail": "",
+    "detail": "작품 사례: [[Universal Soldier]]의 UniSol은 강화된 신진대사와 영양 보충 덕분에 부상에서 빠르게 회복하지만, 그 신진대사 때문에 몸이 쉽게 과열된다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "타인 치료와 구별하며 회복 한계·속도·재료나 에너지 비용은 작품마다 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "17.001.004",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001127",
+      "description_ko": "Universal Soldier의 UniSol은 강화된 신진대사와 영양 보충 덕분에 부상에서 빠르게 회복하지만, 그 신진대사 때문에 몸이 쉽게 과열된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

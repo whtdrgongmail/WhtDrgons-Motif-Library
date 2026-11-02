@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "작품 속 지배 집단이 다른 종족이나 집단을 거주지 한곳에 모아 분리하고 감시하는 공간 설정이다. 차별이 도시의 구조에 드러난다. 이 거주 구역은 [[가상 종족 사이의 차별]]이 도시 공간의 분리와 통제로 나타난 사례다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[Wear Your Soul Round Your Neck]]의 괴물의 땅은 다양한 말폼과 불완전한 인간들을 가둔 오염된 황무지로, 완벽한 인간들의 사회와 강제로 분리되어 있다.",
+    "usage": "격리 거주가 주민의 선택이 아니라 강제된 조건인지 확인한다.",
+    "boundary": "안전을 위해 스스로 숨어 지내는 마을이나 자발적 공동체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001166",
+      "description_ko": "Wear Your Soul Round Your Neck의 괴물의 땅은 다양한 말폼과 불완전한 인간들을 가둔 오염된 황무지로, 완벽한 인간들의 사회와 강제로 분리되어 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

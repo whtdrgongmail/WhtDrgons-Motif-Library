@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T01885",
   "description": {
     "definition": "[[카메라]]를 피사체보다 낮게 두고 위쪽을 향해 촬영한다. 피사체가 커 보인다는 인상만으로 판단하지 말고, 실제 카메라의 시선이 아래에서 위로 향하는지 살핀다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[Mobile Suit Gundam]]에서 기렌 자비가 가르마의 장례식에서 연설할 때 화면은 그를 아래에서 위로 바라본다. 연단의 인물이 관객 위로 솟아 보인다.",
+    "usage": "카메라의 위치와 시선이 실제로 피사체 아래에서 위로 향하는지 확인한다.",
+    "boundary": "인물이 커 보인다는 결과만으로 적용하지 않으며 화면을 옆으로 기울이는 더치 앵글과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-02",
+  "row_version": 4,
   "classification": {
     "code": "22.006.003",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00049",
+      "work_card_id": "MM-MEDIA-000614",
+      "description_ko": "Mobile Suit Gundam에서 기렌 자비가 가르마의 장례식에서 연설할 때 화면은 그를 아래에서 위로 바라본다. 연단의 인물이 관객 위로 솟아 보인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "인물들이 오래 고통을 겪고 어려움을 넘어선 뒤 행복한 결말에 이르는 이야기 구조다.",
-    "detail": "",
+    "detail": "작품 사례: [[She's Come Undone]]의 돌로레스는 타인에게 받은 고통과 자기 선택이 만든 불행을 겪은 뒤, 더 나은 사람이 되려는 결단을 통해 행복한 결말을 얻는다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "행복한 결과가 있다는 사실만으로 적용하지 않으며 그 결과를 얻는 노력이 인과적으로 연결되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-000799",
+      "description_ko": "She's Come Undone의 돌로레스는 타인에게 받은 고통과 자기 선택이 만든 불행을 겪은 뒤, 더 나은 사람이 되려는 결단을 통해 행복한 결말을 얻는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

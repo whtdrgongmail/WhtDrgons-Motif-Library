@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F30",
   "description": {
     "definition": "창작자는 긍정적 해결로 제시했지만 [[관객]]은 남겨진 피해나 모순 때문에 불안한 결말로 받아들이는 경우. [[이전 이야기를 무효로 만드는 후속 전개]]와 달리 한 결말 안에서 해석이 갈린다.",
-    "detail": "",
+    "detail": "작품 사례: [[Whiplash]]의 마지막 공연은 앤드루와 플레처가 만족하는 성취로 보이지만, 학대가 정당화되는 결과로 읽으면 그 성공 자체가 불편한 결말이 된다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "작품이 의도적으로 씁쓸함을 인정하는 결말과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "30",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001172",
+      "description_ko": "Whiplash의 마지막 공연은 앤드루와 플레처가 만족하는 성취로 보이지만, 학대가 정당화되는 결과로 읽으면 그 성공 자체가 불편한 결말이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014625",
+  "kind": "keyword",
+  "title": "여러 층으로 나뉜 생존 자원",
+  "original": "Multiple Life Bars",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "하나의 대상에게 여러 체력 표시나 자원을 두고 공격 종류·방어층·상태에 따라 서로 다른 자원이 피해를 받도록 설계하는 방식이다.",
+    "detail": "작품 사례: [[Halo: Combat Evolved]]에서는 자동으로 다시 차는 방어 자원과 별도로 회복해야 하는 체력을 함께 관리한다. 피해를 견디는 여력이 하나의 막대로만 끝나지 않는다.",
+    "usage": "한 대상의 피해 처리에 여러 독립 자원이 사용되는지 확인한다.",
+    "boundary": "서로 다른 여러 캐릭터의 체력 표시나 같은 수치를 여러 곳에 중복 표시한 경우와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "보호막이 먼저 줄고 그 뒤에는 몸의 체력이 따로 줄어든다.\n\n작품 사례: [[Halo: Combat Evolved]]에서는 자동으로 다시 차는 방어 자원과 별도로 회복해야 하는 체력을 함께 관리한다. 피해를 견디는 여력이 하나의 막대로만 끝나지 않는다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000405",
+      "description_ko": "Halo: Combat Evolved에서는 자동으로 다시 차는 방어 자원과 별도로 회복해야 하는 체력을 함께 관리한다. 피해를 견디는 여력이 하나의 막대로만 끝나지 않는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

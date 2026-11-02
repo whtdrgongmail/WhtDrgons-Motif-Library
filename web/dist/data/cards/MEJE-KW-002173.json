@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "[[플레이어]]가 즐기던 우연한 오류를 제작자가 수정판이나 후속작에 의도적인 기능으로 넣는다. 작동의 우연성과 채택 이후의 규칙을 구분한다. 플레이어가 의도적으로 만든 [[이용자 규칙이 공식 게임 규칙이 되기]]와 발견의 출발점이 다르다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[Hitman 2]]는 느리게 날아가 목표를 쫓던 서류가방 현상을 수정하면서도, 그 우스운 추적 속도를 별도 해금 장비의 의도적인 특징으로 다시 넣었다.",
+    "usage": "오류였던 기원과 정식 기능으로 바뀐 후속 단계가 모두 확인되는지 본다.",
+    "boundary": "단순히 방치된 오류와 달리 제작 측의 의도적인 수용이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-02",
+  "row_version": 5,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000437",
+      "description_ko": "Hitman 2는 느리게 날아가 목표를 쫓던 서류가방 현상을 수정하면서도, 그 우스운 추적 속도를 별도 해금 장비의 의도적인 특징으로 다시 넣었다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

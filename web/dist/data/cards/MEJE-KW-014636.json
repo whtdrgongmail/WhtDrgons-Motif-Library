@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-014636",
+  "kind": "keyword",
+  "title": "개별 부상을 단계로 기록하기",
+  "original": "wound track",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "누적된 총체력 하나 대신 각각의 상처와 심각도·상태를 기록하여 부상과 행동 가능성을 판정하는 피해 체계다. 피해가 합계 수치뿐 아니라 구체적 상태로 남는다.",
+    "detail": "",
+    "usage": "부상의 개별 상태와 심각도가 규칙의 직접 단위인지 확인한다.",
+    "boundary": "단일 체력 수치에 부상이라는 이름만 붙인 체계와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "체력이 몇 남았는지보다 가벼운 상처인지 중상인지, 어떤 부상을 입었는지를 기록한다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

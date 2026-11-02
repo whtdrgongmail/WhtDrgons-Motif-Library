@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014642",
+  "kind": "keyword",
+  "title": "덱의 카드 수를 최대 체력으로 쓰기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 구성한 카드 덱의 장수를 최대 생존 자원과 연동하여 덱 규모가 버틸 수 있는 피해량을 정하게 하는 규칙이다.",
+    "detail": "작품 사례: [[Quantum Protocol]]에서 방어되지 않은 열로 공격이 들어오면 운용자가 피해를 받는다. 그 운용자가 버틸 수 있는 최대 체력은 구성한 덱의 카드 장수로 정해진다.",
+    "usage": "덱의 장수와 최대 체력 사이에 직접적인 규칙 관계가 있는지 확인한다.",
+    "boundary": "카드를 소모해 회복하거나 덱이 비었을 때만 패배하는 방식과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "덱에 넣은 카드가 많을수록 시작할 때 더 많은 피해를 견딜 수 있다.\n\n작품 사례: [[Quantum Protocol]]에서 방어되지 않은 열로 공격이 들어오면 운용자가 피해를 받는다. 그 운용자가 버틸 수 있는 최대 체력은 구성한 덱의 카드 장수로 정해진다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000730",
+      "description_ko": "Quantum Protocol에서 방어되지 않은 열로 공격이 들어오면 운용자가 피해를 받는다. 그 운용자가 버틸 수 있는 최대 체력은 구성한 덱의 카드 장수로 정해진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

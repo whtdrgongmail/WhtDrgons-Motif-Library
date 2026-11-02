@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-013635",
+  "kind": "keyword",
+  "title": "에뮬레이션이 어려운 소프트웨어",
+  "original": "Hard-to-Emulate Software",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F27",
+  "description": {
+    "definition": "특정 기기의 구조나 최적화·복제 방지 방식 등에 강하게 의존하여 다른 실행 환경에서 동작을 재현하기 어려운 소프트웨어이다.",
+    "detail": "작품 사례: [[Klonoa 2: Lunatea's Veil]]은 과거 에뮬레이터 실행에서 특정 지역의 정지 문제가 반복되어, 해당 동작을 재현하기 위한 별도 수정이 필요했던 사례다.",
+    "usage": "",
+    "boundary": "구하기 어렵다는 유통 문제와 기술적인 재현 난도를 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "27",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "원래 기기에서는 잘 돌아가지만 그 기기를 흉내 내는 프로그램으로는 제대로 실행하기 어렵다.\n\n작품 사례: [[Klonoa 2: Lunatea's Veil]]은 과거 에뮬레이터 실행에서 특정 지역의 정지 문제가 반복되어, 해당 동작을 재현하기 위한 별도 수정이 필요했던 사례다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000520",
+      "description_ko": "Klonoa 2: Lunatea's Veil은 과거 에뮬레이터 실행에서 특정 지역의 정지 문제가 반복되어, 해당 동작을 재현하기 위한 별도 수정이 필요했던 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

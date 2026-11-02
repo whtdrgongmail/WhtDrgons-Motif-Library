@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014630",
+  "kind": "keyword",
+  "title": "부상으로 줄어드는 회복 한도",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "일부 피해가 즉시 회복할 수 없는 상처로 남아 현재 회복 가능한 체력의 상한을 낮추는 규칙이다. 일반 회복과 상처 치료를 구분해야 원래 상태로 돌아갈 수 있다.",
+    "detail": "작품 사례: [[마비노기]]에서 상처를 입으면 일반 회복으로 채울 수 없는 체력 구간이 남는다. 회복약만 계속 마셔도 원래 한도에 닿지 못하고 상처를 별도로 치료해야 한다.",
+    "usage": "지속 부상이 회복 가능 상한을 줄이고 별도 치료를 요구하는지 확인한다.",
+    "boundary": "체력 최대치 자체의 영구 성장·감소나 단지 회복 속도가 느린 경우와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "치유 물약을 써도 흉터처럼 남은 손상 때문에 체력이 끝까지 차지 않는다.\n\n작품 사례: [[마비노기]]에서 상처를 입으면 일반 회복으로 채울 수 없는 체력 구간이 남는다. 회복약만 계속 마셔도 원래 한도에 닿지 못하고 상처를 별도로 치료해야 한다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001224",
+      "description_ko": "마비노기에서 상처를 입으면 일반 회복으로 채울 수 없는 체력 구간이 남는다. 회복약만 계속 마셔도 원래 한도에 닿지 못하고 상처를 별도로 치료해야 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

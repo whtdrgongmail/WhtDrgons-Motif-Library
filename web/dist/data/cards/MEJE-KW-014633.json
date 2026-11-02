@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014633",
+  "kind": "keyword",
+  "title": "피해 뒤 서서히 차감되는 체력",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "타격 시 결정된 피해량을 체력에 즉시 반영하지 않고 시간이 걸려 차감하여 수치가 바닥나기 전의 행동·회복 기회를 주는 규칙이다. 치명상을 받아도 빠르게 대응하면 생존할 수 있다.",
+    "detail": "작품 사례: [[EarthBound Series]]에서는 치명적인 피해를 받아도 체력 표시가 서서히 내려간다. 숫자가 0이 되기 전에 회복하면 죽을 상황에서 살아남을 수 있다.",
+    "usage": "피해 계산과 실제 체력 소진 사이의 시간차가 플레이에 영향을 주는지 확인한다.",
+    "boundary": "시각적 막대만 늦게 움직이고 패배는 이미 확정된 연출과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "죽을 만큼 맞았어도 체력 숫자가 내려가는 동안 급히 회복하면 살아남는다.\n\n작품 사례: [[EarthBound Series]]에서는 치명적인 피해를 받아도 체력 표시가 서서히 내려간다. 숫자가 0이 되기 전에 회복하면 죽을 상황에서 살아남을 수 있다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000285",
+      "description_ko": "EarthBound Series에서는 치명적인 피해를 받아도 체력 표시가 서서히 내려간다. 숫자가 0이 되기 전에 회복하면 죽을 상황에서 살아남을 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

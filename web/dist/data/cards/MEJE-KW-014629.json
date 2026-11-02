@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014629",
+  "kind": "keyword",
+  "title": "체력이 줄수록 기능도 저하되기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "체력이나 부상 누적이 임계점에 도달하면 죽기 전부터 이동·행동·판정 능력이 단계적으로 나빠지는 규칙이다. 피해가 최종 실패 전의 수행에도 영향을 준다.",
+    "detail": "작품 사례: [[Left 4 Dead]]에서 생존자의 체력이 40 이하로 떨어지면 움직임이 점점 느려진다. 체력이 1만 남으면 간신히 절뚝여 적에게서 달아나는 일도 어려워진다.",
+    "usage": "피해 누적과 기능 저하 사이에 명시적인 연결이 있는지 확인한다.",
+    "boundary": "체력이 얼마 남지 않아도 마지막까지 능력이 같은 방식과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "아직 살아 있지만 크게 다친 뒤에는 느리게 걷고 행동도 어려워진다.\n\n작품 사례: [[Left 4 Dead]]에서 생존자의 체력이 40 이하로 떨어지면 움직임이 점점 느려진다. 체력이 1만 남으면 간신히 절뚝여 적에게서 달아나는 일도 어려워진다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000536",
+      "description_ko": "Left 4 Dead에서 생존자의 체력이 40 이하로 떨어지면 움직임이 점점 느려진다. 체력이 1만 남으면 간신히 절뚝여 적에게서 달아나는 일도 어려워진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

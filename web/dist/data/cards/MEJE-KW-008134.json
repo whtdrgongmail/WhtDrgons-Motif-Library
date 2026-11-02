@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "위험한 임무를 함께 시작한 동료가 진행될수록 한 사람씩 사라져 남은 인물의 위기감을 키운다. 동료가 차례로 사라지는 여정에서 한 인물의 마지막 행동을 강조하면 [[마지막 순간의 위대한 행동]]으로 이어진다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[The Raid]]에서는 아파트 급습에 실패한 경찰들이 범죄자들이 사는 건물에 갇히고, 계속 줄어드는 동료들과 함께 살아 나갈 길을 찾는다.",
+    "usage": "집단의 연속적인 감소가 긴장을 누적시키는지 확인한다.",
+    "boundary": "한꺼번에 모두가 피해를 입는 사건이나 단순히 팀이 나뉘는 이동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001039",
+      "description_ko": "The Raid에서는 아파트 급습에 실패한 경찰들이 범죄자들이 사는 건물에 갇히고, 계속 줄어드는 동료들과 함께 살아 나갈 길을 찾는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

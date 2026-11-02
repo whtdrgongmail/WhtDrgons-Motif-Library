@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014626",
+  "kind": "keyword",
+  "title": "자동 회복 방어막과 별도 회복 체력",
+  "original": "Regenerating Shield, Static Health",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "자동으로 재충전되는 방어 자원과 자동 회복하지 않는 본체 체력을 겹쳐 두는 피해 처리 방식이다. 잠시 피하면 회복되는 여력과 회복 수단을 따로 구해야 하는 손상이 구분된다.",
+    "detail": "작품 사례: [[Halo: Combat Evolved]]에서 위험을 피한 뒤 방어막의 회복을 기다릴 수 있어도 본체의 손상까지 자동으로 낫지는 않는다. 체력을 보충하는 회복 수단이 따로 필요하다.",
+    "usage": "회복 규칙이 다른 방어층과 본체 체력이 함께 존재하는지 확인한다.",
+    "boundary": "전체 체력이 자동으로 재생되거나 두 자원이 똑같이 회복되는 방식과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "방어막은 쉬면 돌아오지만 그 안쪽 체력이 닳으면 치료가 필요하다.\n\n작품 사례: [[Halo: Combat Evolved]]에서 위험을 피한 뒤 방어막의 회복을 기다릴 수 있어도 본체의 손상까지 자동으로 낫지는 않는다. 체력을 보충하는 회복 수단이 따로 필요하다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000405",
+      "description_ko": "Halo: Combat Evolved에서 위험을 피한 뒤 방어막의 회복을 기다릴 수 있어도 본체의 손상까지 자동으로 낫지는 않는다. 체력을 보충하는 회복 수단이 따로 필요하다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

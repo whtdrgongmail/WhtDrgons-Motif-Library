@@ -9,12 +9,12 @@
   "description": {
     "definition": "게임이 [[플레이어]]의 성과를 살펴 적의 세기나 도움의 양을 조절해 도전 수준을 바꾼다.",
     "detail": "",
-    "usage": "",
-    "boundary": ""
+    "usage": "고정된 난도 선택 이후에도 실제 진행 상태에 따라 규칙이 변하는지 본다.",
+    "boundary": "플레이어가 메뉴에서 직접 난도를 변경하는 일과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "25",
     "review_status": "provisional",

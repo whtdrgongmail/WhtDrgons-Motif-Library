@@ -9,12 +9,12 @@
   "description": {
     "definition": "게임에서 인물이나 적이 공격을 받았을 때 화면 속 몸색을 잠깐 바꾸어 피해가 들어갔음을 알리는 시각적 반응이다.",
     "detail": "",
-    "usage": "",
-    "boundary": ""
+    "usage": "피해를 입은 대상 자체의 짧은 점멸에 적용한다.",
+    "boundary": "접촉 지점에 별도로 생기는 충격 도형과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-02",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",

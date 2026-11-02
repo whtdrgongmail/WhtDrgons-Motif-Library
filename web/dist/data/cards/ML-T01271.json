@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T01271",
   "description": {
     "definition": "기온이 매우 높아 사람과 환경에 열 부담을 주는 날씨 상태다. 지속적인 고온이 행동이나 생활 조건에 영향을 줄 때 적용하며, 계절이 여름이라는 사실만으로는 충분하지 않다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[The Garfield Show]]에서는 폭염 때문에 일행이 고생하며, 에어컨과 간식을 팔려는 사업가가 날씨 조작 장치로 더위를 지속시킨 사실이 밝혀진다.",
+    "usage": "폭염의 지속과 인물 반응의 연결을 살핀다.",
+    "boundary": "평범한 여름 배경과 달리 비정상적 더위가 행동과 분위기에 영향을 줘야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "14.004.007",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00072",
+      "work_card_id": "MM-MEDIA-000970",
+      "description_ko": "The Garfield Show에서는 폭염 때문에 일행이 고생하며, 에어컨과 간식을 팔려는 사업가가 날씨 조작 장치로 더위를 지속시킨 사실이 밝혀진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

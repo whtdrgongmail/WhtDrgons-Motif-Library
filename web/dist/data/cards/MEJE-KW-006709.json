@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "높은 벽보다 주변의 험한 자연환경이 탈출을 불가능하게 만드는 수용 장소다. 시설의 경계와 세계의 경계가 겹쳐 보인다. 주변 환경이 탈출을 가로막는 사례로 [[목숨을 위협하는 모래폭풍]]을 배치할 수 있다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[Alien³]]의 피오리나 161 수용소는 우주선 없이는 떠날 수 없는 행성에 있어, 무기조차 거의 두지 않은 채 주변 환경을 탈출 방지 장치로 삼는다.",
+    "usage": "거주자가 떠나려 해도 환경 때문에 자유를 얻지 못하는지 확인한다.",
+    "boundary": "그 환경을 견딜 능력이 있어 스스로 살기로 한 은신처와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-02",
+  "row_version": 3,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-000044",
+      "description_ko": "Alien³의 피오리나 161 수용소는 우주선 없이는 떠날 수 없는 행성에 있어, 무기조차 거의 두지 않은 채 주변 환경을 탈출 방지 장치로 삼는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

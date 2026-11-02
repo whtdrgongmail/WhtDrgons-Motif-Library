@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-014607",
+  "kind": "keyword",
+  "title": "배경 지형과 어긋난 탄환 차단",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "벽이나 엄폐물의 보이는 위치와 실제 차단 판정이 맞지 않아 탄환이 벽을 통과하거나 빈 공간에서 막히는 현상이다.",
+    "detail": "",
+    "usage": "배경 물체의 차단 판정과 외형의 불일치가 사격 결과를 바꾸는지 확인한다.",
+    "boundary": "게임 규칙상 명시된 관통 사격이나 정확히 표시된 보이지 않는 장벽과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "벽 뒤를 쐈는데 통과하거나 열린 틈으로 쐈는데 보이지 않는 벽에 막힌다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

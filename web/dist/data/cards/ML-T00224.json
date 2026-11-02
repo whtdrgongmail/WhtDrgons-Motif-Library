@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T00224",
   "description": {
     "definition": "역사 [[판타지]]는 특정 역사 시대나 과거 사회의 질서에 마법과 초자연적 요소를 더해 전개한다. 역사적 시대상이 설정과 갈등에 중요하게 작용할 때 쓰며, 과거풍 의상이나 막연한 옛 배경만으로 분류하지 않는다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: [[Brath]]는 로마 제국 시대에 해당하는 집단과 갈등을 무대로 삼으면서 신과 마법을 실제 힘으로 등장시킨다. 역사적 세력의 충돌에 초자연적 작용이 더해진다.",
+    "usage": "특정 역사 환경과 환상적 규칙이 함께 [[서사]]를 형성하는지 확인한다.",
+    "boundary": "막연히 옛 유럽처럼 보이는 완전한 별세계나 초자연 요소를 제거해 전설을 현실화한 각색과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-02",
+  "row_version": 4,
   "classification": {
     "code": "03.103.009",
     "review_status": "provisional",
@@ -37,7 +37,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00051",
+      "work_card_id": "MM-MEDIA-000133",
+      "description_ko": "Brath는 로마 제국 시대에 해당하는 집단과 갈등을 무대로 삼으면서 신과 마법을 실제 힘으로 등장시킨다. 역사적 세력의 충돌에 초자연적 작용이 더해진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

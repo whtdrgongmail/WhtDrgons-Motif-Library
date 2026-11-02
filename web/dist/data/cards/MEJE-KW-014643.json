@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014643",
+  "kind": "keyword",
+  "title": "체력 고갈 뒤 의지 판정으로 버티기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "체력이 기준 이하로 내려가도 즉시 쓰러지지 않고 의지 판정에 성공하는 동안 행동을 이어 가게 하는 규칙이다. 피해는 계속 누적되므로 버티기의 대가는 남는다.",
+    "detail": "작품 사례: [[마비노기]]에서는 체력이 0 아래로 내려가도 의지 판정에 버티면 계속 행동한다. 쓰러지지 않았다고 피해가 사라지는 것은 아니어서 손상이 더 누적될 수 있다.",
+    "usage": "체력 고갈과 행동 불능 사이에 지속적인 의지 판정이 개입하는지 확인한다.",
+    "boundary": "처음부터 피해를 무효로 하는 내구 판정이나 체력 수치와 무관한 서사적 근성만의 묘사와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "체력이 바닥났어도 마음을 다잡는 판정에 성공하면 계속 싸울 수 있다.\n\n작품 사례: [[마비노기]]에서는 체력이 0 아래로 내려가도 의지 판정에 버티면 계속 행동한다. 쓰러지지 않았다고 피해가 사라지는 것은 아니어서 손상이 더 누적될 수 있다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001224",
+      "description_ko": "마비노기에서는 체력이 0 아래로 내려가도 의지 판정에 버티면 계속 행동한다. 쓰러지지 않았다고 피해가 사라지는 것은 아니어서 손상이 더 누적될 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

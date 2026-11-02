@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "[[플레이어]]에게 보이는 체력이나 목표 표시가 게임 속 인물도 볼 수 있는 장비나 환경 정보로 설명된다. 화면의 안내 요소가 세계 내부의 사물이 된다. 관객용 화면 효과가 세계 내부의 사실이 되는 다른 경우는 [[실제로 존재한 화면 효과]]이다.",
-    "detail": "",
+    "detail": "작품 사례: [[SWAT 3]]의 조준선과 표시 정보는 인물이 착용한 헬멧의 디지털 표시로 설정되어, 플레이어용 안내 화면이 작중 장비의 기능으로 설명된다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "플레이어만 보는 설명 표시와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-02",
+  "row_version": 4,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-000892",
+      "description_ko": "SWAT 3의 조준선과 표시 정보는 인물이 착용한 헬멧의 디지털 표시로 설정되어, 플레이어용 안내 화면이 작중 장비의 기능으로 설명된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

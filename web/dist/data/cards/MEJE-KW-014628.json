@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-014628",
+  "kind": "keyword",
+  "title": "한도를 넘었다가 줄어드는 임시 체력",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "회복이나 강화 효과로 정상 최대치를 넘는 체력을 잠시 얻지만 초과분이 시간이 지나면 원래 상한까지 줄어드는 규칙이다.",
+    "detail": "",
+    "usage": "정상 상한 초과와 초과분의 시간적 소멸이 함께 있는지 확인한다.",
+    "boundary": "영구적인 최대 체력 증가나 피해 때문에만 줄어드는 일반 회복과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "강화 아이템으로 체력이 평소보다 높아지지만 가만히 있어도 추가분은 사라진다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

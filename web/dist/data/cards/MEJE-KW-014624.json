@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-014624",
+  "kind": "keyword",
+  "title": "부위별로 따로 누적되는 손상",
+  "original": "Sub System Damage",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "몸이나 기계의 각 부위에 별도 체력·손상 상태를 두어 특정 부분의 피해와 기능 상실을 독립적으로 처리하는 규칙이다.",
+    "detail": "작품 사례: [[BattleTech]]에서 다리의 구동 장치가 손상되면 이동 속도가 줄고 넘어지기 쉬워진다. 다른 부분이 남아 있어도 특정 부위의 고장이 전투 능력을 떨어뜨린다.",
+    "usage": "각 부위의 손상과 기능이 전체 체력과 구별되어 계산되는지 확인한다.",
+    "boundary": "머리를 맞으면 총체력 피해만 커지는 부위 배율이나 외형상 상처 표시만 있는 경우와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-02",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "몸 전체가 버티더라도 다리에 피해가 쌓이면 걷기부터 어려워진다.\n\n작품 사례: [[BattleTech]]에서 다리의 구동 장치가 손상되면 이동 속도가 줄고 넘어지기 쉬워진다. 다른 부분이 남아 있어도 특정 부위의 고장이 전투 능력을 떨어뜨린다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-02",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00084",
+      "work_card_id": "MM-MEDIA-000097",
+      "description_ko": "BattleTech에서 다리의 구동 장치가 손상되면 이동 속도가 줄고 넘어지기 쉬워진다. 다른 부분이 남아 있어도 특정 부위의 고장이 전투 능력을 떨어뜨린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}
