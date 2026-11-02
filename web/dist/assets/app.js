@@ -32,7 +32,7 @@
     analyticsScript.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(analyticsMeasurementId)}`;
     document.head.append(analyticsScript);
   }
-  const cardIdPattern = /^(?:MEJE-KW|ML-[FT]|MM-[A-Z]+)-[A-Z0-9-]+$/;
+  const cardIdPattern = /^(?:MEJE-KW-\d+|ML-[FT]\d+|MM-[A-Z]+-[A-Z0-9-]+)$/;
   function readSeenCards() {
     try {
       const saved = JSON.parse(localStorage.getItem(seenKey) || '[]');
