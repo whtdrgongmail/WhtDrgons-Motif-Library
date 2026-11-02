@@ -5,33 +5,35 @@
   "original": "Prospero in Hell",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "primary_tag_id": "ML-T00066",
   "description": {
-    "definition": "이 카드는 매체 분류를 확인 중인 작품 《Prospero in Hell》를 가리킨다. 이 라이브러리에서는 [[지옥에 갔다가 돌아오기]]의 작품 사례와 연결된다.",
+    "definition": "이 카드는 L. Jagi Lamplighter의 판타지 소설 《Prospero in Hell》를 가리킨다. 이 라이브러리에서는 [[지옥에 갔다가 돌아오기]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: Prospero in Hell의 일행은 지옥 사냥개가 나오던 상자와 그 뒤의 터널을 기어 들어가, 지옥에서 목적을 이루고 돌아올 여정을 시작한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Prospero in Hell의 일행은 지옥 사냥개가 나오던 상자와 그 뒤의 터널을 기어 들어가, 지옥에서 목적을 이루고 돌아올 여정을 시작한다.",
-    "review_status": "draft",
+    "easy_ko": "L. Jagi Lamplighter의 판타지 소설 《Prospero in Hell》에서 일행은 지옥 사냥개가 나왔던 상자 뒤의 터널을 기어가며 지옥으로 향한다. 이 작품은 《Prospero Lost》의 후속편이다.",
+    "review_status": "reviewed",
     "updated_at": "2026-11-02",
-    "row_version": 1
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],

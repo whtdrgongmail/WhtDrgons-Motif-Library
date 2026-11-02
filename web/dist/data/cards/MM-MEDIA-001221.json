@@ -5,33 +5,35 @@
   "original": "경이로운 소문2: 카운터 펀치",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "primary_tag_id": "ML-T00061",
   "description": {
-    "definition": "이 카드는 매체 분류를 확인 중인 작품 《경이로운 소문2: 카운터 펀치》를 가리킨다. 이 라이브러리에서는 [[성인이 되어 영웅 활동을 직업으로 삼기]]의 작품 사례와 연결된다.",
+    "definition": "이 카드는 한국 텔레비전 시리즈 《경이로운 소문2: 카운터 펀치》를 가리킨다. 이 라이브러리에서는 [[성인이 되어 영웅 활동을 직업으로 삼기]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: 경이로운 소문2: 카운터 펀치의 소문은 스무 살에도 악귀 사냥꾼으로 일한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.014",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
     "easy_ko": "경이로운 소문2: 카운터 펀치의 소문은 스무 살에도 악귀 사냥꾼으로 일한다.",
-    "review_status": "draft",
+    "review_status": "reviewed",
     "updated_at": "2026-11-02",
-    "row_version": 1
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],

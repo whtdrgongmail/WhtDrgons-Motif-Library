@@ -5,33 +5,33 @@
   "original": "Midnight Mayhem",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "primary_tag_id": "ML-T00106",
   "description": {
-    "definition": "이 카드는 매체 분류를 확인 중인 작품 《Midnight Mayhem》를 가리킨다. 이 라이브러리에서는 [[급한 용변을 볼 곳이 없는 상황]]의 작품 사례와 연결된다.",
+    "definition": "이 카드는 House of Mouse 팬픽 ‘Midnight Mayhem’을 가리킨다. 이 라이브러리에서는 [[급한 용변을 볼 곳이 없는 상황]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: Midnight Mayhem에서 구피는 늑대인간으로 변하는 모습을 숨기려고 남자 화장실을 차지하지만, 도널드의 용변이 급해지자 나와야 한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "source_relation",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Midnight Mayhem에서 구피는 늑대인간으로 변하는 모습을 숨기려고 남자 화장실을 차지하지만, 도널드의 용변이 급해지자 나와야 한다.",
-    "review_status": "draft",
+    "easy_ko": "House of Mouse 팬픽 ‘Midnight Mayhem’에서 구피는 늑대인간으로 변하는 동안 남자 화장실에 숨어 있다. 도널드가 화장실을 급히 써야 하자 구피는 더는 그곳을 차지하고 있을 수 없다.",
+    "review_status": "reviewed",
     "updated_at": "2026-11-02",
-    "row_version": 1
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],

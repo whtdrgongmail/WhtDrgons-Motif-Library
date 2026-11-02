@@ -5,33 +5,35 @@
   "original": "Monster",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "이 카드는 매체 분류를 확인 중인 작품 《Monster》를 가리킨다. 이 라이브러리에서는 [[변화한 자신을 드러내는 노래]]의 작품 사례와 연결된다.",
+    "definition": "이 카드는 EPIC: The Musical의 노래 ‘Monster’를 가리킨다. 이 라이브러리에서는 [[변화한 자신을 드러내는 노래]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: EPIC: The Musical의 오디세우스는 Monster에서 동료를 잃게 한 자신의 자비를 돌아보고, 가족에게 돌아가기 위해 두려워하던 냉혹한 존재가 되겠다고 결심한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "EPIC: The Musical의 오디세우스는 Monster에서 동료를 잃게 한 자신의 자비를 돌아보고, 가족에게 돌아가기 위해 두려워하던 냉혹한 존재가 되겠다고 결심한다.",
-    "review_status": "draft",
+    "easy_ko": "EPIC: The Musical의 노래 ‘Monster’에서 오디세우스는 동료와 어머니의 죽음을 돌아본 뒤, 가족에게 돌아가기 위해 냉혹한 존재가 되겠다고 결심한다.",
+    "review_status": "reviewed",
     "updated_at": "2026-11-02",
-    "row_version": 1
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],

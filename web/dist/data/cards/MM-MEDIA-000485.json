@@ -5,33 +5,33 @@
   "original": "It's a Wonderfully Splendid Magnificent Life",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "primary_tag_id": "ML-T00106",
   "description": {
-    "definition": "이 카드는 매체 분류를 확인 중인 작품 《It's a Wonderfully Splendid Magnificent Life》를 가리킨다. 이 라이브러리에서는 [[관객의 동정을 끊는 악행]]의 작품 사례와 연결된다.",
+    "definition": "이 카드는 Ouran High School Host Club 팬픽 ‘It's a Wonderfully Splendid Magnificent Life’를 가리킨다. 이 라이브러리에서는 [[관객의 동정을 끊는 악행]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: It's a Wonderfully Splendid Magnificent Life에서 Tamaki의 할머니는 병든 어머니를 찾아가면 치료비를 끊겠다고 협박해, 가족에게도 관계를 부정당한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "source_relation",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "It's a Wonderfully Splendid Magnificent Life에서 Tamaki의 할머니는 병든 어머니를 찾아가면 치료비를 끊겠다고 협박해, 가족에게도 관계를 부정당한다.",
-    "review_status": "draft",
+    "easy_ko": "Ouran High School Host Club 팬픽 ‘It's a Wonderfully Splendid Magnificent Life’에서 유즈루는 타마키의 할머니를 이름이나 호칭으로 부르지 않고 계속 ‘그녀’라고만 부른다. 상대를 가족으로 인정하지 않는 태도를 드러내는 장면이다.",
+    "review_status": "reviewed",
     "updated_at": "2026-11-02",
-    "row_version": 1
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],

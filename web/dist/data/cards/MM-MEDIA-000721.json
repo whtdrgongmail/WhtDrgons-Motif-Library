@@ -5,33 +5,35 @@
   "original": "Popular",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "이 카드는 매체 분류를 확인 중인 작품 《Popular》를 가리킨다. 이 라이브러리에서는 [[인물을 소개하는 자기 노래]]의 작품 사례와 연결된다.",
+    "definition": "이 카드는 뮤지컬 《Wicked》의 노래 ‘Popular’를 가리킨다. 이 라이브러리에서는 [[인물을 소개하는 자기 노래]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: Wicked의 글린다는 Popular에서 좋은 사람이 되는 것보다 다른 사람에게 호감을 얻는 일이 성공에 유리하다는 믿음을 드러내, 노래로 자신의 가치관과 사회적 전략을 소개한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Wicked의 글린다는 Popular에서 좋은 사람이 되는 것보다 다른 사람에게 호감을 얻는 일이 성공에 유리하다는 믿음을 드러내, 노래로 자신의 가치관과 사회적 전략을 소개한다.",
-    "review_status": "draft",
+    "easy_ko": "뮤지컬 《Wicked》의 노래 ‘Popular’에서 글린다는 좋은 사람이 되는 것보다 다른 사람에게 호감을 얻는 일이 성공에 도움이 된다고 주장한다.",
+    "review_status": "reviewed",
     "updated_at": "2026-11-02",
-    "row_version": 1
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],

@@ -5,33 +5,35 @@
   "original": "Papa Loved Mama",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "이 카드는 매체 분류를 확인 중인 작품 《Papa Loved Mama》를 가리킨다. 이 라이브러리에서는 [[불륜이 죽음과 심각한 파국으로 이어지기]]의 작품 사례와 연결된다.",
+    "definition": "이 카드는 Garth Brooks의 노래 ‘Papa Loved Mama’를 가리킨다. 이 라이브러리에서는 [[불륜이 죽음과 심각한 파국으로 이어지기]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: Papa Loved Mama는 아내의 불륜을 알게 된 트럭 운전사가 호텔로 차를 몰아 아내를 죽이고 감옥에 가는 일을 아들의 시점에서 노래한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Papa Loved Mama는 아내의 불륜을 알게 된 트럭 운전사가 호텔로 차를 몰아 아내를 죽이고 감옥에 가는 일을 아들의 시점에서 노래한다.",
-    "review_status": "draft",
+    "easy_ko": "Garth Brooks의 노래 ‘Papa Loved Mama’는 트럭 운전사 아버지가 아내의 외도를 알고 호텔로 차를 몰아 두 사람을 죽이는 사건을 트럭 운전사 아들의 시점에서 들려준다.",
+    "review_status": "reviewed",
     "updated_at": "2026-11-02",
-    "row_version": 1
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],

@@ -5,33 +5,33 @@
   "original": "A Foolishly Foolish Christmas Carol",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "primary_tag_id": "ML-T00106",
   "description": {
-    "definition": "이 카드는 매체 분류를 확인 중인 작품 《A Foolishly Foolish Christmas Carol》를 가리킨다. 이 라이브러리에서는 [[냉담하던 인물의 친절한 변화]]의 작품 사례와 연결된다.",
+    "definition": "이 카드는 Ace Attorney 팬픽 소설 《A Foolishly Foolish Christmas Carol》를 가리킨다. 이 라이브러리에서는 [[냉담하던 인물의 친절한 변화]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: A Foolishly Foolish Christmas Carol의 Franziska는 자신의 성격을 고쳐, 법정 패배 때문에 Phoenix를 죽이고 비극을 이어 갈 미래를 막는다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "source_relation",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
     "easy_ko": "A Foolishly Foolish Christmas Carol의 Franziska는 자신의 성격을 고쳐, 법정 패배 때문에 Phoenix를 죽이고 비극을 이어 갈 미래를 막는다.",
-    "review_status": "draft",
+    "review_status": "reviewed",
     "updated_at": "2026-11-02",
-    "row_version": 1
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
