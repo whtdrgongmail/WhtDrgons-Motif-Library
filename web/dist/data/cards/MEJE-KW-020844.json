@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-020844",
+  "kind": "keyword",
+  "title": "공식 로그인 화면을 가장해 정보를 빼내기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F07",
+  "description": {
+    "definition": "기관의 안내처럼 보이는 메시지로 가짜 로그인 화면에 유도하여 상대가 정상 서비스에 입력한다고 믿은 계정 정보를 빼내는 [[사칭]] 수법이다.",
+    "detail": "",
+    "usage": "신뢰하는 기관의 외형을 흉내 내는 디지털 기만을 설명할 때 쓴다.",
+    "boundary": "단순한 광고나 공식 사이트의 로그인 요청과 다르다. 사칭 화면과 정보 탈취의 연결이 있어야 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "07",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "진짜 기관에 접속한 줄 알고 입력한 정보가 속인 사람에게 넘어간다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

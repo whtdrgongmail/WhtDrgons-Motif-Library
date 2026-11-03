@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-020705",
+  "kind": "keyword",
+  "title": "영상 선택으로 진행하는 인터랙티브 무비 게임",
+  "original": "Interactive Movie",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "미리 제작된 영상 클립을 중심에 두고 플레이어의 선택이나 적절한 시점의 입력으로 다음 장면을 이어 가는 게임 형식이다.",
+    "detail": "실사와 애니메이션을 모두 사용할 수 있으며 장면 선택, 타이밍 입력, 영상 배경 위의 별도 조작 등으로 구현된다.\n\n작품 사례: 《[[드래곤즈 레어]]》에서는 애니메이션이 재생되는 동안 적절한 순간에 방향이나 버튼을 입력해야 장면을 성공적으로 이어 갈 수 있다.",
+    "usage": "촬영·애니메이션의 표현력과 플레이어의 선택을 결합하되 마련해야 할 영상 분기의 범위를 설계한다.",
+    "boundary": "일반 게임에 영상 컷신이 일부 들어간 경우와 구별한다. 영상 재생과 선택이 플레이의 중심 구조여야 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "영화를 보는 듯한 화면 속에서 입력한 선택이 다음 영상이나 성공 여부를 결정한다.\n\n작품 사례: 《[[드래곤즈 레어]]》에서는 애니메이션이 재생되는 동안 적절한 순간에 방향이나 버튼을 입력해야 장면을 성공적으로 이어 갈 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001909",
+      "description_ko": "《드래곤즈 레어》에서는 애니메이션이 재생되는 동안 적절한 순간에 방향이나 버튼을 입력해야 장면을 성공적으로 이어 갈 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

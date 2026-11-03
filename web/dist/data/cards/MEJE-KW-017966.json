@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "맞는 말이라 모욕을 인정하기",
   "original": "Insult Accuracy Acceptance",
-  "aliases": [],
+  "aliases": [
+    "모욕이 사실이라고 인정하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "자신을 비하하는 말에 불쾌할 수 있으면서도 그 내용이 사실이라고 인정하는 반응이다. 말투의 공격성과 지적의 정확성을 따로 받아들인다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[아바타: 아앙의 전설]]》에서 아줄라는 어머니가 자신을 괴물로 여겼다는 말이 맞다고 인정하면서도 상처가 됐다고 덧붙인다.",
     "usage": "방어적으로 대응할 것이라는 기대를 솔직한 수용으로 바꿔 인물의 태도를 드러낸다.",
     "boundary": "모욕에 반박할 힘이 없어 침묵하거나 비꼬아 동의하는 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》에서 아줄라는 어머니가 자신을 괴물로 여겼다는 말이 맞다고 인정하면서도 상처가 됐다고 덧붙인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

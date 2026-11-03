@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "장갑 안에서 터지는 위험",
   "original": "Insert Grenade Here",
-  "aliases": [],
+  "aliases": [
+    "장갑 안의 폭발로 쓰러지는 적"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "외부 공격을 막던 장갑의 내부에서 폭발이 발생하여 방호의 우위가 무너지는 [[전투]] [[장면]] 장치다.",
     "detail": "",
-    "usage": "",
+    "usage": "불리한 전투에서 위험을 감수한 접근과 반격의 순간을 만든다.",
     "boundary": "방호 내부에 위험이 놓인 [[서사 구조]]이며 [[현실]]의 공격 절차를 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 4,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001331",
+      "description_ko": "《강철의 연금술사》에서는 브래들리가 전차의 단단한 외부 장갑 대신 안쪽에서 폭발이 일어나게 하여 전차를 제압한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

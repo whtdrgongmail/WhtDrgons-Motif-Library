@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-021966",
+  "kind": "keyword",
+  "title": "통과할 수 있는 가짜 벽",
+  "original": "Illusory Walls",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "단단한 벽처럼 보이지만 충돌 판정이 없어 캐릭터가 그대로 지나갈 수 있는 게임 공간의 장치다.",
+    "detail": "시각적으로 막혀 있다는 정보와 실제 이동 가능 여부가 반대다.",
+    "usage": "탐색을 통해 숨은 길을 발견하게 하거나 보이는 지형을 의심하게 만든다.",
+    "boundary": "투명하지만 이동을 막는 벽이나 공격해서 부수어야 하는 벽과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "막다른 벽처럼 보여도 걸어 들어가면 몸이 통과한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

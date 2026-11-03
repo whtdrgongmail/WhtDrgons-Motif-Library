@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-020761",
+  "kind": "keyword",
+  "title": "게임 인터페이스를 의도적으로 흐트러뜨리기",
+  "original": "Interface Screw",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "게임이 이야기나 상태 변화를 체감시키려고 플레이어의 입력·시야·정보 표시 기능을 의도적으로 방해하거나 바꾸는 장치다.",
+    "detail": "버튼 방향을 뒤집고 지도나 통신을 막으며 화면에 오염을 덧씌우는 식으로 구현된다. 효과를 적 AI에게 적용할 때는 사람의 인터페이스 장애와 다른 규칙이 필요할 수 있다.\n\n작품 사례: 《[[패러사이트 이브]]》의 혼란 상태는 이동 방향의 대응을 바꿔, 플레이어가 의도한 방향과 실제 이동을 다시 맞춰야 하게 만든다.",
+    "usage": "[[서사]] 속 손상과 혼란을 조작 경험에 연결하되 이해 가능한 규칙과 답답함의 경계를 설계한다.",
+    "boundary": "프로그램 오류로 우연히 망가진 조작과 구별한다. 플레이 경험을 바꾸기 위한 의도적인 효과다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "캐릭터가 겪는 혼란이 버튼 반응과 화면의 불편으로 직접 전해진다.\n\n작품 사례: 《[[패러사이트 이브]]》의 혼란 상태는 이동 방향의 대응을 바꿔, 플레이어가 의도한 방향과 실제 이동을 다시 맞춰야 하게 만든다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001515",
+      "description_ko": "《패러사이트 이브》의 혼란 상태는 이동 방향의 대응을 바꿔, 플레이어가 의도한 방향과 실제 이동을 다시 맞춰야 하게 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

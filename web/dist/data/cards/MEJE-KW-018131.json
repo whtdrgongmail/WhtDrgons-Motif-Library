@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "인물의 순수함을 세상의 악의와 해로운 행동을 아직 잘 모르는 상태로 표현하는 인물 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼(연작)]]》에서 산속에서 자란 손오공은 세상의 기본 관습을 잘 몰라 결혼을 음식으로 생각할 만큼 순진한 인물로 등장한다.",
     "usage": "순수한 인물이 낯선 환경의 악의를 만나며 겪는 인식 변화를 구성할 때 쓴다.",
     "boundary": "악의를 알아도 선한 선택을 하는 인물과 구별한다. 순진함의 결과가 보호인지 위험인지는 작품에 따라 달라진다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-001840",
+      "description_ko": "《드래곤볼(연작)》에서 산속에서 자란 손오공은 세상의 기본 관습을 잘 몰라 결혼을 음식으로 생각할 만큼 순진한 인물로 등장한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

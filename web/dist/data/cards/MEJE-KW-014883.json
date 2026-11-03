@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "자기 작품의 과거에 보내는 오마주",
   "original": "Internal Homage",
-  "aliases": [],
+  "aliases": [
+    "자기 작품의 과거 장면을 되살리는 오마주"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F29",
   "description": {
     "definition": "한 연작이 자신의 이전 장면·표현·사건을 의도적으로 떠올리게 하여 작품 내부의 역사에 경의를 표하는 방식이다.",
-    "detail": "",
+    "detail": "작품 속 인물은 그 반복을 알아차리지 않아도 된다. 다른 연속성의 재시작 작품에서도 프랜차이즈의 과거 장면을 되살릴 수 있다.\n\n작품 사례: 《[[아바타: 아앙의 전설]]》의 두 번째 시즌 마지막에 아앙이 깨어나는 장면은 첫 회에서 카타라와 처음 만난 장면의 구도를 되살린다.",
     "usage": "반복이 자가 참조와 회상의 효과를 의도할 때 쓴다.",
     "boundary": "외부 작품을 기리는 오마주나 우연한 장면 재사용과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "29",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》의 두 번째 시즌 마지막에 아앙이 깨어나는 장면은 첫 회에서 카타라와 처음 만난 장면의 구도를 되살린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

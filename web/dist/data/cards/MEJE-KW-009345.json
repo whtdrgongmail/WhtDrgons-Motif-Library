@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "표정만으로 나누는 대화",
   "original": "Facial Dialogue",
-  "aliases": [],
+  "aliases": [
+    "표정만으로 주고받는 대화"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "말을 주고받지 않아도 두 인물의 표정 변화만으로 복잡한 뜻과 감정을 전달하는 비언어적 대화 연출이다.",
     "detail": "",
     "usage": "",
-    "boundary": ""
+    "boundary": "다른 사람의 머릿속 문장을 실제로 듣는 설정과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",

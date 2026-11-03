@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-021251",
+  "kind": "keyword",
+  "title": "아이템 하나를 여러 대상에게 적용하기",
+  "original": "Item Splitting",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "한 번 사용할 때 아이템 한 개만 소모하면서도 그 효과를 여러 대상에게 나누거나 동시에 적용하는 게임 능력이다.",
+    "detail": "",
+    "usage": "소모품 수량과 행동 횟수의 효율을 높이는 지원 역할을 만들 때 쓴다.",
+    "boundary": "처음부터 광역용으로 만들어진 아이템과 달리 사용자의 능력이나 조건이 단일 아이템의 적용 대상을 확장하는 경우를 다룬다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "회복약 하나로 한 명 대신 여러 동료를 회복시킨다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

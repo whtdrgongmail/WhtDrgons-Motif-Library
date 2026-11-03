@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-020483",
+  "kind": "keyword",
+  "title": "새 행동의 성공을 알리는 작은 보상",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 새 규칙을 제대로 활용했을 때 작은 즉각적 보상을 주어 학습 성공을 알아차리게 하는 피드백이다.",
+    "detail": "",
+    "usage": "학습의 정답을 알려 주고 새 기능을 다시 사용하도록 장려한다.",
+    "boundary": "행동의 이해와 무관하게 주는 일반 보상과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "큰 승리가 아니어도 올바른 행동 뒤 아이템이나 점수를 주어 방금 한 풀이가 유효했음을 알려 준다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

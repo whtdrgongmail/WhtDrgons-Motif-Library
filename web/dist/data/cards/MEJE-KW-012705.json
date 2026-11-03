@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "화면에는 막는 물체가 없지만 [[이동]] 판정이 더 이상의 진행을 허용하지 않는 경계다.",
-    "detail": "",
-    "usage": "",
+    "detail": "화면 끝이나 보스전 구역을 제한할 수 있다. 이동 가능한 것처럼 보이는 길을 이유 없이 가로막으면 탐색과 조작을 혼란스럽게 만든다. 설정상 방어막이 나타나는 변형은 경계에 세계 내부의 설명을 부여한다.\n\n작품 사례: 《[[킹덤 하츠]]》의 엔드 오브 더 월드에는 보이지 않는 벽으로 된 미로가 있고, 갈림길의 바위 배열이 진행 방향을 알려 준다.",
+    "usage": "공간의 한계를 정하되 플레이어가 예상하는 이동 경로와 충돌 경계를 조율한다.",
     "boundary": "설정상 투명한 실제 방어막과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001388",
+      "description_ko": "《킹덤 하츠》의 엔드 오브 더 월드에는 보이지 않는 벽으로 된 미로가 있고, 갈림길의 바위 배열이 진행 방향을 알려 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

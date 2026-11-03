@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "[[전투]]나 사고로 [[인물]]의 몸통이 수평·수직 등으로 둘로 갈라지는 [[장면]]을 위력·[[공포]]·희극의 표현에 사용하는 [[관습]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[바이오하자드]]》 시리즈의 특수 사망 연출에는 몸이 둘로 나뉘는 경우도 있어, 단순히 쓰러지는 것보다 적의 공격 결과를 강하게 보여 준다.",
+    "usage": "극단적인 신체 분리를 위력과 [[장르]]의 신체 규칙으로 표현한다.",
     "boundary": "스스로 분리하는 [[능력]]이나 [[신체]] 일부의 기능 상실과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-001820",
+      "description_ko": "《바이오하자드》 시리즈의 특수 사망 연출에는 몸이 둘로 나뉘는 경우도 있어, 단순히 쓰러지는 것보다 적의 공격 결과를 강하게 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

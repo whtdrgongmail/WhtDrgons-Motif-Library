@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "차별받는 집단에 속한 인물이 그 집단에 씌워진 부정적 고정관념을 내면화하여 자신도 그 결함을 지녔다고 느끼는 태도다.",
-    "detail": "",
+    "detail": "현실의 인종·성별·장애뿐 아니라 가상 종족과 초능력자 집단에도 나타날 수 있다. 편견을 거부하고 자기 존중을 회복하는 변화나, 낙인에 맞춰 행동을 제한하는 전개로 이어진다.\n\n작품 사례: 《[[목소리의 형태]]》의 쇼코는 청각장애 때문에 자신이 다른 사람들을 힘들게 한다고 믿으며, 그 자기 비하를 받아들이지 않는 법을 배워 간다.",
     "usage": "인물의 판단과 행동이 어떤 조건에서 모순을 드러내는지 설명하거나 해당 [[갈등]]을 설계할 때 쓴다.",
     "boundary": "실제 잘못을 성찰하는 일이나 집단 밖 사람의 편견과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001922",
+      "description_ko": "《목소리의 형태》의 쇼코는 청각장애 때문에 자신이 다른 사람들을 힘들게 한다고 믿으며, 그 자기 비하를 받아들이지 않는 법을 배워 간다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

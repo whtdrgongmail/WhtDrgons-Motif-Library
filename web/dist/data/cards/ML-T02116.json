@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T02116",
   "description": {
     "definition": "발견하거나 획득한 항목을 기록해 목록의 완성도와 수집 현황을 관리하는 체계다. 아이템을 많이 모으는 플레이와 구별해, 항목별 기록·등록이나 완성 목표가 시스템으로 제공되는지 확인한다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "외형까지 보관하면 수집물을 감상하는 공간이 된다. 낮은 획득 확률이나 한 번뿐인 기회가 도감 완성의 난도를 높일 수 있다.\n\n작품 사례: 《[[스타듀 밸리]]》의 수집 기록은 플레이어가 출하 상자에 넣어 보낸 물품을 목록에 남겨, 손에서 떠난 물건의 수집 이력을 확인하게 한다.",
+    "usage": "수집의 진행도를 보여 주고 아이템에 담긴 설정을 나중에도 읽게 하거나, 본편 밖의 완성 목표를 제공할 때 쓴다.",
+    "boundary": "단순히 아이템을 많이 모으는 플레이와 달리 항목별 등록과 열람 기능이 있어야 한다. 도감 완성과 본편 진행의 필수 조건은 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "25.006.001",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002030",
+      "description_ko": "《스타듀 밸리》의 수집 기록은 플레이어가 출하 상자에 넣어 보낸 물품을 목록에 남겨, 손에서 떠난 물건의 수집 이력을 확인하게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

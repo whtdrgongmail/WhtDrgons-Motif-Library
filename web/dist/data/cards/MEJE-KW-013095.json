@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "즉각적인 후회",
   "original": "Instant Regret",
-  "aliases": [],
+  "aliases": [
+    "말과 행동 직후 밀려오는 후회"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "말이나 [[행동]]을 한 직후 그 잘못을 깨닫고 곧바로 후회하는 [[감정]] 전환이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "상처 준 말을 거두려는 관계 장면뿐 아니라 성급한 선택이 곧 나쁜 결과로 드러나는 경우에도 쓰인다.\n\n작품 사례: 《[[아바타: 아앙의 전설]]》에서 아줄라는 타이리에게 상처 주는 말을 했다가 눈물을 보자 곧 후회하며 자신의 질투였다고 털어놓는다.",
+    "usage": "충동과 양심의 간격을 짧게 보여 주거나 뒤이을 사과·화해·돌이킬 수 없는 결과를 시작한다.",
     "boundary": "오랜 결과를 겪은 뒤 생긴 후회와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》에서 아줄라는 타이리에게 상처 주는 말을 했다가 눈물을 보자 곧 후회하며 자신의 질투였다고 털어놓는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

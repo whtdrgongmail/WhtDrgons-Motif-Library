@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T00532",
   "description": {
     "definition": "재즈 퓨전은 재즈의 즉흥성과 화성에 록·펑크·전자음악 등의 리듬과 음색을 결합한 양식이다. 여러 장르의 악기를 함께 썼다는 사실만으로 정하지 말고 재즈식 즉흥과 합주가 결합의 중심에 있는지 확인한다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "간단한 반복 화음 위의 그루브부터 복잡한 박자·대선율·화성까지 구성의 난도는 다양하다.\n\n작품 사례: 뷔의 《[[Layover]]》는 팝·R&B를 중심으로 재즈 영향을 더한 음반으로 소개된다. 재즈 요소가 다른 대중음악과 만나는 사례로 볼 수 있지만, 앨범 전체를 재즈 퓨전으로 단정하지 않는다.",
+    "usage": "연주자의 자유로운 전개와 강한 전자적 질감을 함께 설계한다.",
+    "boundary": "단지 여러 악기를 썼다는 사실만으로는 부족하며 재즈의 연주 원리가 결합에 작용해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 4,
   "classification": {
     "code": "03.305.005",
     "review_status": "provisional",
@@ -37,7 +37,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00142",
+      "work_card_id": "MM-MEDIA-002085",
+      "description_ko": "뷔의 《Layover》는 재즈·팝·알앤비를 함께 결합한 음반으로 제시되어 재즈가 다른 대중음악과 만나는 양상을 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

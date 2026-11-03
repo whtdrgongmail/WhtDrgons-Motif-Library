@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "장례의 슬픔과 대조되도록 지나치게 밝고 화창한 날씨를 배치하는 정서적 연출이다.",
-    "detail": "",
+    "detail": "화창한 하늘은 삶이 계속된다는 느낌을 줄 수도 있고, 더위가 몸까지 지치게 하여 슬픔을 가중할 수도 있다.\n\n작품 사례: 《[[강철의 연금술사]]》에서 휴즈의 장례식은 맑은 하늘 아래 열리지만, 로이는 자신의 눈물을 감추려 비가 온다고 말한다.",
     "usage": "기후와 [[애도]]의 불일치가 장면의 의미를 만드는지 본다.",
     "boundary": "밝은 날 장례가 있었다는 사실보다 정서적 부조화가 강조되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001331",
+      "description_ko": "《강철의 연금술사》에서 휴즈의 장례식은 맑은 하늘 아래 열리지만, 로이는 자신의 눈물을 감추려 비가 온다고 말한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

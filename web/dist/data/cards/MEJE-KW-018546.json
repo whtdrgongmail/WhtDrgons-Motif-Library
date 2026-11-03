@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "관객에게만 알아듣기 어려운 말",
   "original": "Intelligible Unintelligible",
-  "aliases": [],
+  "aliases": [
+    "알 수 없는 말을 동료만 알아듣기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "한 인물의 발화가 관객에게는 횡설수설처럼 들리지만 이야기 속 다른 인물들은 어려움 없이 이해하고 응답하는 표현 방식이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[포켓몬스터(애니메이션 연작)]]》에서 피카츄는 자기 이름으로 말하지만 지우는 그 소리의 뜻을 알아듣고 대화를 이어 간다.",
     "usage": "특이한 언어를 쓰는 인물을 설명 없이 대화에 참여시키거나 관객과 인물의 정보 차이를 만들 때 쓴다.",
     "boundary": "등장인물들도 뜻을 전혀 이해하지 못하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001747",
+      "description_ko": "《포켓몬스터(애니메이션 연작)》에서 피카츄는 자기 이름으로 말하지만 지우는 그 소리의 뜻을 알아듣고 대화를 이어 간다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "인물이 원치 않게 몸이나 정신의 나이가 어려지거나 어린 존재로 취급되도록 강제되어 공포를 겪는 설정.",
-    "detail": "",
+    "detail": "작품 사례: 《[[디지몬 어드벤처]]》에서 바데몬에게 붙잡힌 텐타몬은 파트너의 도움을 받지 못한 채 유아 단계로 퇴화하면서 도움을 청할 능력마저 잃어 간다.",
     "usage": "",
     "boundary": "즐거운 회춘이나 자발적인 역할놀이와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001345",
+      "description_ko": "《디지몬 어드벤처》에서 바데몬에게 붙잡힌 텐타몬은 파트너의 도움을 받지 못한 채 유아 단계로 퇴화하면서 도움을 청할 능력마저 잃어 간다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

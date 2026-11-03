@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "샘플링",
   "original": "Sampling",
-  "aliases": [],
+  "aliases": [
+    "녹음된 소리 일부를 새 음악에 재사용하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "이미 녹음된 음성이나 악기 소리의 일부를 가져와 새로운 음악의 재료로 사용하는 제작 방식.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: 스키니 퍼피의 〈[[월록]]〉는 이미 녹음된 노랫소리를 가져와 새 곡의 재료로 사용하는 사례다.",
+    "usage": "익숙한 소리의 기억을 새 맥락에 연결하거나, 독특한 음색과 리듬 재료를 만들 때 쓴다.",
+    "boundary": "기존 곡을 새로 연주하는 재해석과 달리 녹음된 소리 자체를 사용한다. 단순히 비슷한 소리를 직접 만들어 내는 모방과도 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-002024",
+      "description_ko": "스키니 퍼피의 〈월록〉는 이미 녹음된 노랫소리를 가져와 새 곡의 재료로 사용하는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

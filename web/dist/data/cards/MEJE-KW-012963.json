@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "바게트가 보이는 종이 장바구니",
   "original": "ISO-Standard Urban Groceries",
-  "aliases": [],
+  "aliases": [
+    "장보기를 한눈에 알리는 정형적인 식료품 봉투"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F20",
   "description": {
     "definition": "종이봉투 밖으로 긴 빵이 보이는 조합으로 식료품 장보기를 한눈에 알리는 소품 [[관습]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "긴 빵과 채소가 갈색 종이봉투 밖으로 보이는 조합이 흔하며, 지역에 따라 대파·무 같은 식재료가 같은 역할을 한다. 특정 브랜드보다 식료품이라는 범주를 빠르게 전달하는 소품이다.\n\n작품 사례: 《[[포켓몬스터 X·Y]]》의 아가씨 트레이너는 대결 화면에서 바게트가 삐져나온 장바구니를 들고 있어 장을 본 사람처럼 보인다.",
+    "usage": "설명 없이 장보기 직후라는 상황을 전달하고 봉투가 쏟아지는 동작에 알아보기 쉬운 내용물을 마련한다.",
     "boundary": "모든 [[현실]]의 장보기 방식이나 지역 식습관을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "20",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002014",
+      "description_ko": "《포켓몬스터 X·Y》의 아가씨 트레이너는 대결 화면에서 바게트가 삐져나온 장바구니를 들고 있어 장을 본 사람처럼 보인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

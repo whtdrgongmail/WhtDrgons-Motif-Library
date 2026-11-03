@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "본능만으로 움직인다고 생각한 괴물이 판단·계획·학습 능력을 보이면서 위협의 성격이 바뀌는 발견.",
-    "detail": "",
-    "usage": "",
+    "detail": "처음의 단순한 행동 목적 때문에 지능이 가려져 있다가 예상 밖의 대응으로 드러날 수 있다. 지능이 확인되면 상대를 어떻게 대할지에 관한 윤리적 질문도 생긴다.\n\n작품 사례: 《[[신세기 에반게리온]]》에서 사도들은 단순한 거대 괴물처럼 보이지만, 에바를 우회하거나 맞서는 새로운 전략을 사용하면서 판단 능력을 드러낸다.",
+    "usage": "괴물의 위협을 단순한 힘에서 판단과 전략의 문제로 전환하거나, 상대를 생각 없는 짐승으로 본 편견을 흔들 때 쓴다.",
     "boundary": "원래 지능이 있다고 알려진 적과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001359",
+      "description_ko": "《신세기 에반게리온》에서 사도들은 단순한 거대 괴물처럼 보이지만, 에바를 우회하거나 맞서는 새로운 전략을 사용하면서 판단 능력을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

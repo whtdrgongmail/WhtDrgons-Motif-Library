@@ -3,7 +3,9 @@
   "kind": "keyword",
   "title": "출생 기록이 없는 사람",
   "original": "No Living Record",
-  "aliases": [],
+  "aliases": [
+    "공식 기록에 존재하지 않는 인물"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F15",
   "description": {
@@ -13,8 +15,8 @@
     "boundary": "있던 기록을 나중에 지워 버린 경우나 단순히 신분증을 분실한 상황과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",

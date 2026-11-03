@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "[[사건]]의 책임을 과도하게 자기에게 돌리며 자신이 모든 불행의 원인이라고 표현하는 [[장면]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "주변은 책임이 없다고 위로하거나 자신들도 잘못했다고 나눌 수 있다. 무엇을 할 것인지 되물어 자책에서 수습 행동으로 옮기게 하기도 한다.\n\n작품 사례: 《[[역전재판 2]]》에서 리지나는 자신의 행동이 바트를 혼수상태로 만든 사고와 아버지의 죽음으로 이어졌음을 깨닫고 모든 일이 자기 탓이라고 자책한다.",
+    "usage": "공동의 실패를 자기 책임으로 받아들이는 인물과 주변의 반응을 통해 [[죄책감]]과 책임 범위를 드러낼 때 쓴다.",
     "boundary": "지속적인 [[성격]] 특성인 과잉 자책과 달리 특정 사건에서의 책임 [[선언]]에 초점을 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001805",
+      "description_ko": "《역전재판 2》에서 리지나는 자신의 행동이 바트를 혼수상태로 만든 사고와 아버지의 죽음으로 이어졌음을 깨닫고 모든 일이 자기 탓이라고 자책한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "돌아올 수 없는 숙소",
   "original": "Inn of No Return",
-  "aliases": [],
+  "aliases": [
+    "손님을 살해해 이익을 얻는 숙박업소"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "손님을 죽이거나 해쳐 밖으로 돌아가지 못하게 만드는 숙박시설 설정.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "손님의 시신을 음식으로 가공해 다음 손님에게 제공하는 변형도 있으며, 친절한 접객과 착취가 대비된다.\n\n작품 사례: 《[[수호전]]》의 일부 여관은 투숙객을 살해해 재산을 빼앗고, 그 시신을 다음 손님에게 음식으로 제공하기도 한다.",
+    "usage": "여행자의 신뢰와 휴식의 기대를 위험으로 바꾸는 공간을 설계할 때 쓴다.",
+    "boundary": "외부의 적이 여관을 습격하는 사건과 구별한다. 서비스 제공자 자체가 손님에게 치명적인 위협을 가하는 구조가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001844",
+      "description_ko": "《수호전》의 일부 여관은 투숙객을 살해해 재산을 빼앗고, 그 시신을 다음 손님에게 음식으로 제공하기도 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "인기 있는 지배적 [[인물]]의 가까운 부하이지만 그 지도자보다 다정하고 악의가 적은 인물형이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "판단력이 부족해 지도자의 행동을 그대로 따르거나, 지나친 잔혹함에 실망해 그 관계를 끊는 전개가 가능하다.\n\n작품 사례: 《[[캐리]]》에서 수는 크리스와 함께 캐리를 괴롭힌 일을 후회하고, 남자친구 토미에게 자신 대신 캐리와 무도회에 가 달라고 부탁한다.",
+    "usage": "집단 압력과 개인의 성품을 대비하고 측근이 독립적으로 선택하는 전환을 만들 때 쓴다.",
     "boundary": "같이 행동한다는 이유만으로 둘의 [[성격]]과 책임이 동일하다고 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001835",
+      "description_ko": "《캐리》에서 수는 크리스와 함께 캐리를 괴롭힌 일을 후회하고, 남자친구 토미에게 자신 대신 캐리와 무도회에 가 달라고 부탁한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

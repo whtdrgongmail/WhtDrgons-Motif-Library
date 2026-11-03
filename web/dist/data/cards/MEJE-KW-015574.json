@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "지식인이 뒷받침하는 독재",
   "original": "Intellectually Supported Tyranny",
-  "aliases": [],
+  "aliases": [
+    "폭정을 논리로 지지하는 지식인"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "학자와 지식인 등 높은 지적 권위를 가진 사람들이 독재 정권을 지지하고 그 지배를 정당화하는 구도다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[데스노트]]》의 다카다 기요미는 지적 능력을 갖춘 방송인으로서 키라를 지지하고 그 영향력을 넓히는 선전 역할을 맡는다.",
     "usage": "지적 권위가 정치 권력에 어떤 정당성을 주는지 본다.",
     "boundary": "독재 아래에서 강제로 일하는 연구자와 달리 지지와 정당화가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001526",
+      "description_ko": "《데스노트》의 다카다 기요미는 지적 능력을 갖춘 방송인으로서 키라를 지지하고 그 영향력을 넓히는 선전 역할을 맡는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

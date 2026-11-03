@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-020813",
+  "kind": "keyword",
+  "title": "닫기 동작을 빗나가게 하는 광고창",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F22",
+  "description": {
+    "definition": "이용자가 광고창을 닫으려는 순간 창의 표시 위치나 앞뒤 순서가 바뀌어 다른 창을 닫게 만들고 광고는 남기는 인터페이스 장치다.",
+    "detail": "",
+    "usage": "닫기 버튼에 대한 사용자의 예상과 실제 창의 동작이 어긋나도록 설계된 방해를 표현할 때 쓴다.",
+    "boundary": "단순히 닫기 버튼이 작거나 팝업이 많다는 경우와 달리 닫으려는 동작을 다른 창으로 유도해야 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "22",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "광고를 끄려던 클릭이 엉뚱한 작업 창에 가고 광고창은 계속 남는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

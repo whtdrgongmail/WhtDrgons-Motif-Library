@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-019930",
+  "kind": "keyword",
+  "title": "영상 장면에서만 초기 장비로 돌아가기",
+  "original": "No Cutscene Inventory Inertia",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이 중 교체한 장비가 별도 영상 장면에는 반영되지 않아 인물이 초기 또는 고정 장비를 사용하는 모습으로 등장한다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "일반 플레이 화면에서도 장비가 보이지 않는 경우와 구분한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "플레이 화면의 장비와 영상 속 장비가 서로 다르다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

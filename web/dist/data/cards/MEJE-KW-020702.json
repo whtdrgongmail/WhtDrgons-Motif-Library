@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-020702",
+  "kind": "keyword",
+  "title": "문장 입력을 게임 명령으로 해석하기",
+  "original": "Text Parser",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 입력한 단어나 문장을 분석하여 게임이 수행할 행동과 대상을 결정하는 입력 방식이다.",
+    "detail": "",
+    "usage": "언어로 여러 행동을 제안할 자유와 인식 가능한 표현의 범위를 함께 설계한다.",
+    "boundary": "글을 출력하기만 하는 화면이나 정해진 선택지만 고르는 메뉴와 구별한다. 입력한 표현을 명령으로 읽는 단계가 필요하다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "버튼 목록 대신 ‘무엇을 어떻게 한다’는 말을 적으면 프로그램이 그 의미를 해석한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

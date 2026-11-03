@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "다른 사람들이 반복해 낮춰 부른 말을 인물이 사실로 믿고 자신을 판단하는 기준으로 삼는다. 외부의 공격이 내부의 자기 비하로 이어진다.",
-    "detail": "",
+    "detail": "한 번의 말이 즉시 영향을 주기도 하고, 반복된 비난이나 뒤이은 실패를 거쳐 굳어지기도 한다. 능력이 없다는 믿음 때문에 노력을 줄이고 실제 성과가 떨어지면 [[자기실현적 예언]]과 겹친다. 처음부터 모욕의 내용이 맞다고 인정하는 [[모욕이 사실이라고 인정하기]]와는 출발점이 다르다.\n\n작품 사례: 《[[블루 아카이브]]》의 미카는 자신을 마녀라 부르던 비난을 받아들여, 구제할 수 없는 존재라고 여기며 아리우스에 보복하려 한다.",
     "usage": "타인의 언어가 혼잣말과 선택을 제한하는 과정을 보여 준다.",
     "boundary": "독립적인 반성이나 모욕을 전략적으로 받아치는 말과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001668",
+      "description_ko": "《블루 아카이브》의 미카는 자신을 마녀라 부르던 비난을 받아들여, 구제할 수 없는 존재라고 여기며 아리우스에 보복하려 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

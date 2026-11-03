@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "어둠과 거친 날씨를 이야기의 시작에 제시하여 불안과 위험을 예상하게 하는 관습적 [[배경]] [[설정]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[포켓몬스터(애니메이션 연작)]]》에서 로이는 꾸며 낸 어린 시절 이야기를 어둡고 폭풍이 치던 밤이라는 말로 시작한다.",
+    "usage": "폭풍과 밤의 이미지로 불길한 이야기의 문을 열거나 익숙한 도입을 패러디할 때 쓴다.",
     "boundary": "[[폭풍]]이 단지 중간 [[사건]]의 날씨인 경우보다 시작의 [[분위기 설정]] 기능을 가리킨다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001747",
+      "description_ko": "《포켓몬스터(애니메이션 연작)》에서 로이는 꾸며 낸 어린 시절 이야기를 어둡고 폭풍이 치던 밤이라는 말로 시작한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

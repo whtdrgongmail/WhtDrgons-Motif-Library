@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-020736",
+  "kind": "keyword",
+  "title": "키워드를 입력해 이어 가는 대화",
+  "original": "Keywords Conversation",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 주제어나 핵심 단어를 입력하면 그 말에 대응하는 비플레이어 인물의 반응을 얻는 대화 방식이다.",
+    "detail": "",
+    "usage": "발견한 단서를 질문에 다시 사용하게 하며 조사와 대화를 연결한다.",
+    "boundary": "정해진 문장 선택지만 고르는 대화나 명령문으로 사물을 조작하는 입력과 구별한다. 대화 주제의 키워드를 직접 지정한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "알고 싶은 말이나 단서를 적어 넣어 상대가 어떤 설명을 하는지 확인한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "살아 돌아오지 못할 수 있는 싸움을 앞두고 함께 싸운 것을 영광으로 여긴다고 동료들에게 전하는 작별 인사이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "말 대신 악수나 경례로 표현할 수도 있다. 희생하는 사람과 살아남을 동료가 서로 인사하거나, 존중하는 적에게 마지막 경의를 표할 수도 있다.\n\n작품 사례: 《[[드래곤볼 Z]]》에서 인조인간 16호는 셀과 싸우러 나서며 동료들에게 함께 보낸 시간이 즐거웠다고 말해, 마지막일 수 있는 작별을 전한다.",
+    "usage": "죽음을 앞둔 인물 사이의 존경과 동료애를 짧은 말이나 몸짓으로 결산할 때 쓴다.",
     "boundary": "일반적인 감사보다 죽음의 가능성을 공유한 상황이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001299",
+      "description_ko": "《드래곤볼 Z》에서 인조인간 16호는 셀과 싸우러 나서며 동료들에게 함께 보낸 시간이 즐거웠다고 말해, 마지막일 수 있는 작별을 전한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

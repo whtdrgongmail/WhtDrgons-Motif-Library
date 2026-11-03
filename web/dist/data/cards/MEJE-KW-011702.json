@@ -5,19 +5,20 @@
   "original": "One-Hit-Point Wonder",
   "aliases": [
     "한 번의 유효타로 쓰러지는 캐릭터",
-    "체력이 하나뿐인 존재"
+    "체력이 하나뿐인 존재",
+    "한 번의 유효타로 끝나는 플레이어"
   ],
   "tag_id": null,
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "유효한 피해를 한 번만 받아도 패배하거나 사망하도록 생존 한계가 설정된 [[인물]] 또는 플레이 방식이다.",
     "detail": "",
-    "usage": "",
+    "usage": "회피와 정밀 조작을 생존의 중심 과제로 만든다.",
     "boundary": "단순히 방어력이 낮아 여러 공격 중 일부에만 즉사하는 것과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 4,
+  "updated_at": "2026-11-03",
+  "row_version": 5,
   "classification": {
     "code": "25",
     "review_status": "provisional",

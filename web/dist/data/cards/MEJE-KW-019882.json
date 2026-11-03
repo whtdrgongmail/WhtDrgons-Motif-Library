@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-019882",
+  "kind": "keyword",
+  "title": "사용한 자원을 전부 돌려받기",
+  "original": "Total Resource Reimbursement",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "능력을 실행하며 소모한 자원을 효과 처리 뒤 전부 되돌려 반복 사용의 순비용을 없애는 규칙이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "시작할 자원이 필요한지와 환급의 성공 조건은 별도로 정한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "쓰기는 쓰지만 다 돌려받아 자원이 줄지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "기존에는 특정 집단에게 허용되지 않던 자리나 지위에 한 인물이 처음 들어간다. 개인의 성취와 그 뒤에도 남은 제도적 장벽을 함께 본다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "동료의 도움을 받으면서도 스스로의 실력으로 인정받으려는 [[갈등]]과, 마지막 시험을 통해 성취를 확인하는 구성이 자주 쓰인다.\n\n작품 사례: 《[[아바타: 아앙의 전설]]》에서 카타라는 여성이라는 이유로 전투 수련을 거절당하지만 파쿠에게 실력을 보여 수업에 참여할 길을 연다.",
+    "usage": "개인의 성취와 제도적 배제의 저항을 함께 보여 주는 성장 [[서사]]에 쓴다.",
+    "boundary": "단순한 성공담보다 집단을 이유로 한 진입 장벽이 핵심이다. 성공한 한 사람이 차별의 구조 전체를 없앴다고 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》에서 카타라는 여성이라는 이유로 전투 수련을 거절당하지만 파쿠에게 실력을 보여 수업에 참여할 길을 연다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "특정 상대에게 해롭게 행동하면서 다른 사람이 있을 때는 그 태도를 감추어 공개 이미지와 피해자의 경험이 갈라지게 하는 행동 방식이다.",
-    "detail": "",
+    "detail": "영향력 있는 특정 인물이 있을 때만 친절을 연기하고 자리를 비우면 즉시 태도를 바꾼다. 피해자를 거꾸로 가해자처럼 보이게 할 수 있으며, 목격자의 확인이 관계를 뒤집는 계기가 된다.\n\n작품 사례: 《[[네모바지 스폰지밥]]》의 퍼피 플러피는 스폰지밥이 없는 틈마다 핑핑이를 괴롭히고, 돌아오면 얌전한 척해 핑핑이에게 잘못이 돌아가게 한다.",
     "usage": "관찰자와 대상에 따라 악한 태도가 선택적으로 드러나는지 확인한다.",
     "boundary": "누구에게나 공개적으로 무례한 사람이나 단지 친밀도에 따라 말투가 달라지는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001395",
+      "description_ko": "《네모바지 스폰지밥》의 퍼피 플러피는 스폰지밥이 없는 틈마다 핑핑이를 괴롭히고, 돌아오면 얌전한 척해 핑핑이에게 잘못이 돌아가게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

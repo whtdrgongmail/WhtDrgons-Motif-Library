@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "서로 다른 혈통·종족을 이어받은 [[인물]]이 어느 쪽에도 온전히 속하지 못한다고 느끼는 [[정체성 갈등]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[스타트렉: 오리지널 시리즈]]》의 스팍은 인간의 혈통을 부끄럽게 여기며, 우정 같은 감정을 느끼는 것까지 부담스러워한다.",
+    "usage": "서로 다른 혈통과 집단 사이에서 자기 자리를 찾는 갈등을 인물의 시점으로 보여 준다.",
     "boundary": "외부인의 차별 행위 자체와 달리 당사자의 [[내적 갈등]]에 초점을 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001923",
+      "description_ko": "《스타트렉: 오리지널 시리즈》의 스팍은 인간의 혈통을 부끄럽게 여기며, 우정 같은 감정을 느끼는 것까지 부담스러워한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

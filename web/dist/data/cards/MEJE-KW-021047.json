@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-021047",
+  "kind": "keyword",
+  "title": "보이지 않는 이동 격자",
+  "original": "Invisible Grid",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "화면에 그려지지 않는 공간상의 기준점과 제약이 이동·착지·매달리기 같은 캐릭터 행동의 위치를 정하는 설계이다.",
+    "detail": "점프의 추측을 줄이는 대신 공중 방향 전환이나 이동 거리의 자유를 제한할 수 있다.\n\n작품 사례: 《[[Phantom Brave]]》는 격자를 눈에 드러내지 않지만, 캐릭터가 때때로 특정 위치로 맞춰 이동하는 모습에서 숨은 기준점을 알 수 있다.",
+    "usage": "조작의 편의와 공간 이동의 제한이 함께 생기는 규칙을 설명할 때 쓴다.",
+    "boundary": "화면에 명시적으로 표시한 전술 격자나 단순한 충돌 벽과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "자유롭게 움직이는 듯해도 캐릭터가 정해진 위치에 맞춰 붙는다.\n\n작품 사례: 《[[Phantom Brave]]》는 격자를 눈에 드러내지 않지만, 캐릭터가 때때로 특정 위치로 맞춰 이동하는 모습에서 숨은 기준점을 알 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001982",
+      "description_ko": "《Phantom Brave》는 격자를 눈에 드러내지 않지만, 캐릭터가 때때로 특정 위치로 맞춰 이동하는 모습에서 숨은 기준점을 알 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

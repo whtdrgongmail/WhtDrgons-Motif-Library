@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-021195",
+  "kind": "keyword",
+  "title": "등각투영",
+  "original": "Isometric Projection",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F22",
+  "description": {
+    "definition": "입체의 세 좌표축을 같은 비율로 축소하고 화면상에서 서로 120도를 이루게 하는 평행 투영 방식이다.",
+    "detail": "게임의 등각 시점이라는 말은 실제로는 이등각·삼등각 화면까지 넓게 부르기도 한다. 수학적 형식과 업계의 통칭을 구분한다.",
+    "usage": "평면 화면에서 입체의 여러 면을 동시에 읽게 한다.",
+    "boundary": "사선에서 본 모든 게임 화면을 엄밀한 등각투영이라고 단정하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "22",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "세 방향이 같은 비율로 보이고 멀리 있는 물체도 같은 크기로 그려진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

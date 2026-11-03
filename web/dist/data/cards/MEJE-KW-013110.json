@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F30",
   "description": {
     "definition": "대상이 대중적으로 널리 사랑받기 시작했다는 사실 때문에 그 가치를 낮추거나 더는 좋아하지 않는다고 하는 수용 태도이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품의 내용이 실제로 바뀌거나 새 팬의 행동이 불쾌해서 떠나는 경우도 있으므로, 인기 그 자체에 대한 반감과 원인을 나누어 본다.\n\n작품 사례: 《[[심슨 가족]]》에서 스프링필드가 가장 멋진 도시로 보도되자, 유행을 선도하던 주민들은 이제 너무 유명해졌다며 떠난다.",
+    "usage": "팬층 확대가 소유감과 취향 정체성에 미치는 [[갈등]]을 설계할 때 쓴다.",
     "boundary": "작품 자체가 변해 평가가 달라진 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "30",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》에서 스프링필드가 가장 멋진 도시로 보도되자, 유행을 선도하던 주민들은 이제 너무 유명해졌다며 떠난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

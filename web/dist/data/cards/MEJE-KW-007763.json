@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "영화 두 편을 한 상영으로 보기",
   "original": "Double Feature",
-  "aliases": [],
+  "aliases": [
+    "두 영화를 한 프로그램으로 연속 상영하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "서로 독립된 [[영화]] 두 편을 하나의 상영 프로그램으로 묶어 연속해서 보여 주는 상영 기획. 한 영화 속 두 이야기나 한 작품의 2부작과 구별한다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: 《[[토이 스토리]]》와 《[[토이 스토리 2]]》의 3D 재개봉은 두 작품을 이어 상영하며 영화 사이에 휴식 시간을 두었다.",
+    "usage": "주제·분위기의 연결이나 대비를 만들어 작품을 함께 경험하게 한다.",
+    "boundary": "한 영화의 전후반부나 속편이 별도 일정으로 개봉하는 경우와 구별한다. 두 독립 작품을 한 프로그램으로 묶는 것이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +30,22 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001462",
+      "description_ko": "《토이 스토리》와 《[[토이 스토리 2]]》의 3D 재개봉은 두 작품을 이어 상영하며 영화 사이에 휴식 시간을 두었다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001602",
+      "description_ko": "《[[토이 스토리]]》와 《토이 스토리 2》의 3D 재개봉은 두 작품을 이어 상영하며 영화 사이에 휴식 시간을 두었다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

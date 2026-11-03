@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "공연 중간 휴식",
   "original": "Intermission",
-  "aliases": [],
+  "aliases": [
+    "공연과 상영 중간의 휴식"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F04",
   "description": {
     "definition": "긴 공연이나 상영을 일정 지점에서 멈추어 [[관객]]이 쉬었다가 다시 관람하도록 하는 구성 단위다.",
-    "detail": "",
-    "usage": "",
+    "detail": "무대 전환과 출연자 교대, 관객의 이동과 휴식을 위한 시간이 되며, 별도의 음악이나 짧은 안내가 이어질 수 있다.\n\n작품 사례: 《[[킹덤 오브 헤븐]]》의 확장판은 제한 극장 상영에 중간 휴식을 두었으며, 그 구성을 DVD판에서도 유지했다.",
+    "usage": "긴 관람 경험의 호흡을 나누고 무대·상영 운영과 관객의 신체적 필요를 함께 고려한다.",
     "boundary": "작품 내 [[시간]] 경과나 [[광고]] 편집과 달리 관객의 관람 휴식이 목적이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "04",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001528",
+      "description_ko": "《킹덤 오브 헤븐》의 확장판은 제한 극장 상영에 중간 휴식을 두었으며, 그 구성을 DVD판에서도 유지했다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

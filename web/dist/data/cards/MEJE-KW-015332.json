@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "인물이 예방 접종이나 치료 등의 주사를 받아야 하는 일을 중심 목표나 [[갈등]]으로 삼는 이야기이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[마다가스카의 펭귄(TV 애니메이션)]]》의 「Needle Point」에서 스키퍼는 주사를 두려워해 검진을 피하고 동료들이 그를 설득하려 한다. 주사를 맞아야 한다는 과제가 에피소드의 추격과 갈등을 이끈다.",
     "usage": "",
     "boundary": "주사를 두려워하는 성격 표현만이 아니라 주사 받기 자체가 전개의 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001814",
+      "description_ko": "《마다가스카의 펭귄(TV 애니메이션)》의 「Needle Point」에서 스키퍼는 주사를 두려워해 검진을 피하고 동료들이 그를 설득하려 한다. 주사를 맞아야 한다는 과제가 에피소드의 추격과 갈등을 이끈다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

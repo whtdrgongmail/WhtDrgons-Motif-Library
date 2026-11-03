@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "인물이 정상적인 방법으로 작동을 멈추려 해도 기기가 계속 켜져 있어 통제 상실과 불안을 만드는 장치이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "스위치와 전원 차단을 무시하거나 부숴도 계속 작동할 수 있다. 초자연적 원인 외에도 단순 고장으로 끌 수 없는 코미디 변형이 있다.\n\n작품 사례: 《[[디지몬 어드벤처:]]》에서 도쿄의 인터넷 연결 기기들은 전력이 끊겨도 켜진 채로 남고, 당국은 이를 통신 유지에 활용한다.",
+    "usage": "익숙한 기계에 대한 통제 상실로 공포나 끈질긴 코미디를 만들 때 쓴다.",
     "boundary": "원인이 반드시 유령이어야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002053",
+      "description_ko": "《디지몬 어드벤처:》에서 도쿄의 인터넷 연결 기기들은 전력이 끊겨도 켜진 채로 남고, 당국은 이를 통신 유지에 활용한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

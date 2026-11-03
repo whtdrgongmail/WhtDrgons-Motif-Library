@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "술에 취한 인물의 말과 행동을 평소 감추던 마음이나 성향이 드러난 것으로 제시하는 관습이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "성격의 반전·증폭, 연애 감정의 표출, 비밀 누설 등으로 나눌 수 있다. 인물의 취중 발언을 작품이 진실로 취급하는 방식에 초점을 둔다.\n\n작품 사례: 《[[나루토 질풍전(애니메이션)]]》의 애니메이션 번외에서 시즈네는 술에 취해 츠나데의 일 때문에 연애할 틈이 없다며 쿠레나이를 부러워하는 속마음을 털어놓는다.",
+    "usage": "취중 행동이 평소 억눌린 감정과 성향을 드러내는 장면인지 확인한다.",
     "boundary": "실제 취중 발언이 언제나 진실이라는 법칙으로 사용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001976",
+      "description_ko": "《나루토 질풍전(애니메이션)》의 애니메이션 번외에서 시즈네는 술에 취해 츠나데의 일 때문에 연애할 틈이 없다며 쿠레나이를 부러워하는 속마음을 털어놓는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

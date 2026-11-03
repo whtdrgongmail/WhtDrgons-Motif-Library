@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "모르는 언어로 앞에서 험담하기",
   "original": "Insulting from Behind the Language Barrier",
-  "aliases": [],
+  "aliases": [
+    "상대가 모르는 언어로 면전에서 모욕하기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "상대가 알아듣지 못할 것이라 믿는 언어로 그 사람을 곁에서 모욕하거나 험담하는 행동이다. 언어 차이를 직접적인 반발을 피하는 수단으로 쓴다.",
-    "detail": "",
+    "detail": "공통 언어로 대화하다 잠시 다른 언어로 바꾸거나 다른 사람에게 말하는 척할 수 있다.\n\n작품 사례: 《[[프렌즈]]》에서 조이는 챈들러에게 화가 난 뒤 그가 알아듣지 못하는 이탈리아어로만 말하며 불만을 드러낸다.",
     "usage": "상대의 이해 불가능을 이용해 모욕의 내용을 숨기는지 확인한다.",
     "boundary": "상대도 이해하는 공개적인 비난이나 내용이 무관한 외국어 대화와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001344",
+      "description_ko": "《프렌즈》에서 조이는 챈들러에게 화가 난 뒤 그가 알아듣지 못하는 이탈리아어로만 말하며 불만을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

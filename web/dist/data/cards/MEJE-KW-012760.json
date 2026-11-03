@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "이야기에서 어떤 문제를 만나든 필요한 정보를 제공하여 진행을 돕는 포괄적인 지식의 책이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[파이널 크라이시스]]》의 슈퍼맨 비욘드 이야기에는 모든 가능한 현실의 페이지가 무한히 들어 있다고 하는 책이 등장한다.",
+    "usage": "질문마다 답이 나오는 책을 정보 탐색의 중심 도구로 둔다.",
     "boundary": "한 분야의 상세한 전문서나 읽기 이외의 용도로 쓰이는 책과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001787",
+      "description_ko": "《파이널 크라이시스》의 슈퍼맨 비욘드 이야기에는 모든 가능한 현실의 페이지가 무한히 들어 있다고 하는 책이 등장한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

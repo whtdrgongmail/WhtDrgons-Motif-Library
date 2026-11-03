@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "치료 수단을 가진 인물이 이익이나 통제를 위해 필요한 사람에게 전달하지 않아 질병과 고통을 지속시키는 [[갈등]]이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[공각기동대 STAND ALONE COMPLEX]]》에서 치료법의 발견을 억누르는 세력은 기존 치료 사업의 이해관계와 결부된다.",
     "usage": "",
     "boundary": "치료 자원이 실제로 부족한 상황과 의도적인 접근 차단을 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001788",
+      "description_ko": "《공각기동대 STAND ALONE COMPLEX》에서 치료법의 발견을 억누르는 세력은 기존 치료 사업의 이해관계와 결부된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

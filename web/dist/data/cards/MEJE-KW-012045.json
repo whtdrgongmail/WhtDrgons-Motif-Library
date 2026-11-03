@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "무서운 오락을 함께 보면서 한 사람이 놀라는 반응을 다른 사람이 위로나 접촉의 기회로 삼는 [[연애]] [[장면]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "공포영화·귀신의 집·[[담력 시험]] 같은 상황을 의도적으로 마련한다. 무서운 척하는 쪽이 접촉을 유도할 수도 있고, 계획한 사람이 더 겁먹어 실패할 수도 있다.\n\n작품 사례: 《[[카구야 님은 고백받고 싶어 ~천재들의 연애 두뇌전~]]》에서 이시가미는 츠바메와 귀신의 집에서 가까워지려 하지만, 성별에 따라 갈라 놓는 규칙 때문에 계획이 막힌다.",
+    "usage": "공포에 대한 반응을 통해 접촉과 보호의 기대가 성공하거나 빗나가는 연애 장면을 만든다.",
     "boundary": "실제 위험에서의 [[구조]]와 달리 함께 즐기는 [[공포]] 오락이 계기를 제공한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-03",
+  "row_version": 4,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001726",
+      "description_ko": "《카구야 님은 고백받고 싶어 ~천재들의 연애 두뇌전~》에서 이시가미는 츠바메와 귀신의 집에서 가까워지려 하지만, 성별에 따라 갈라 놓는 규칙 때문에 계획이 막힌다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F03",
   "description": {
     "definition": "재즈의 음악 요소를 랩과 결합하는 힙합의 갈래다. 랩의 리듬적 발화와 재즈에서 가져온 소리의 결합이 스타일의 중심이 된다.",
-    "detail": "",
+    "detail": "재즈 음원을 샘플링하거나 연주자를 참여시켜 실제 악기 연주를 녹음할 수 있다.\n\n작품 사례: 《[[Jazzmatazz]]》는 재즈 음원의 샘플링과 재즈 연주자들의 실제 연주를 랩에 결합해 두 음악의 만남을 구성한다.",
     "usage": "재즈 요소와 랩이 곡의 구성에서 실제로 결합되는지 확인한다.",
     "boundary": "재즈를 좋아한다는 래퍼의 취향이나 힙합과 관계없는 재즈 보컬만으로는 해당하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "03",
     "review_status": "provisional",
@@ -34,7 +34,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00142",
+      "work_card_id": "MM-MEDIA-002086",
+      "description_ko": "《Jazzmatazz》는 재즈 음원의 샘플링과 재즈 연주자들의 실제 연주를 랩에 결합해 두 음악의 만남을 구성한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -9,12 +9,12 @@
   "description": {
     "definition": "유효하게 적중하면 대상의 전투나 생존 상태를 한 번에 끝내는 공격 규칙.",
     "detail": "",
-    "usage": "",
-    "boundary": ""
+    "usage": "한 번의 명중이 결과를 확정하는 위험과 결정력을 설계한다.",
+    "boundary": "여러 차례 누적된 피해의 마지막 타격과 구분한다. 조건부 즉사와 큰 피해량에 의한 단발 처치를 함께 구분해 설명할 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",

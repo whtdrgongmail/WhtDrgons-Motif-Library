@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "사랑받을 자격을 의심하는 연인",
   "original": "Insecure Love Interest",
-  "aliases": [],
+  "aliases": [
+    "연인에게 부족하다고 느껴 물러나기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "좋아하는 상대에게 자신은 어울리지 않거나 사랑받을 가치가 없다고 여기는 인물이다. 거절을 미리 받아들이거나 관계를 포기하려는 태도로 불안이 드러난다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[시라노 드 베르주라크]]》에서 시라노는 자신의 큰 코 때문에 사랑하는 록산에게 어울리지 않는 사람이라고 여긴다.",
     "usage": "상대의 애정 표현과 본인의 자기 평가가 어긋나는 장면을 만든다.",
     "boundary": "상대가 실제로 원치 않는다는 의사를 존중하는 행동과 자기 가치에 대한 불신을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00152",
+      "work_card_id": "MM-MEDIA-001855",
+      "description_ko": "《시라노 드 베르주라크》에서 시라노는 자신의 큰 코 때문에 사랑하는 록산에게 어울리지 않는 사람이라고 여긴다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

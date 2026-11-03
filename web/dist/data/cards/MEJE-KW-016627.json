@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "정해진 소지 한도 안에서 어떤 물건을 가져가고 보관하거나 버릴지 판단해야 하는 게임상의 문제다. 유용한 도구를 모두 휴대할 수 없다는 제약이 별도의 선택 과제가 된다.",
-    "detail": "",
+    "detail": "개수·무게·크기의 한도가 가져갈 도구와 소모품을 고르게 한다. 저장 장소가 제한되거나 버린 물건이 사라지면 되돌아가기와 소모품 사용의 비용이 커진다.\n\n작품 사례: 《[[패러사이트 이브]]》에서는 소지품이 한정되고 보관소로 돌아가기 어려운 구간이 있어 무엇을 버리고 챙길지 선택해야 한다.",
     "usage": "자원 관리의 긴장과 도구 선택을 게임 진행에 넣을 때 쓴다.",
     "boundary": "한도가 있어도 선택에 실질적인 부담이 없다면 퍼즐의 비중은 낮다. 공간의 형태가 반드시 격자일 필요는 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001515",
+      "description_ko": "《패러사이트 이브》에서는 소지품이 한정되고 보관소로 돌아가기 어려운 구간이 있어 무엇을 버리고 챙길지 선택해야 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

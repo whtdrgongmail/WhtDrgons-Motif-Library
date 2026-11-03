@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "누군가를 행사에 초대하는 행위 자체를 그 사람을 공개적으로 조롱하고 모욕하기 위한 장치로 쓰는 상황이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "인기 없는 사람을 구경거리로 부르거나, 전 연인·과거의 가해자에게 자신의 성공을 과시하는 초대가 포함된다. 다른 손님이 가담하거나 잔혹함에 반발하면서 계획이 뒤집힐 수도 있다.\n\n작품 사례: 《[[네모바지 스폰지밥]]》에서 케빈은 스폰지밥을 해파리 사냥 모임에 초대해 쏘이게 만들려 하지만 오히려 자신만 해파리에게 당한다.\n작품 사례: 《[[빅뱅 이론]]》에서 하워드는 스튜어트를 복장 장난에 끌어들여, 함께 즐기는 모임의 초대를 혼자 민망해지는 상황으로 바꾼다.",
+    "usage": "환대처럼 보이는 초대에 공개적인 모욕의 의도를 숨겨 관계의 적대감을 드러낸다.",
     "boundary": "진심 어린 초대 뒤에 우연히 민망한 일이 생긴 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,22 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001395",
+      "description_ko": "《네모바지 스폰지밥》에서 케빈은 스폰지밥을 해파리 사냥 모임에 초대해 쏘이게 만들려 하지만 오히려 자신만 해파리에게 당한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001466",
+      "description_ko": "《빅뱅 이론》에서 하워드는 스튜어트를 복장 장난에 끌어들여, 함께 즐기는 모임의 초대를 혼자 민망해지는 상황으로 바꾼다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

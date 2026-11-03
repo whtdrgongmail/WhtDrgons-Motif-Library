@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "정신 지배도 꺾지 못하는 맹세",
   "original": "Intrinsic Vow",
-  "aliases": [],
+  "aliases": [
+    "자기 통제를 잃어도 남는 맹세"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "인물의 깊이 자리한 [[서약]]이 정신 조작의 영향 아래에서도 깨지지 않아 강제된 행동에 한계를 만드는 초자연적 규칙이다.",
-    "detail": "",
+    "detail": "정신 지배뿐 아니라 기억 상실과 의식 상실 속에서도 약속이 남아 행동을 막거나 저항을 일으킨다. 세계의 규칙에 새겨진 계약이라면 문구의 허점이 작동할 수 있다.\n\n작품 사례: 《[[The Hollow Kingdom Trilogy]]》에서 케이트는 [[마법]]에 지배된 남편에게 임신 사실을 알려 공격을 멈추게 한다. 왕국의 후계자를 지킨다는 의무가 조종보다 강하게 작동한다.",
     "usage": "맹세가 외부 통제보다 강한 제약으로 작동하는지 본다.",
     "boundary": "외부 장치가 강제로 막는 규칙이나 평상시의 의지로 지키는 약속과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001959",
+      "description_ko": "《The Hollow Kingdom Trilogy》에서 케이트는 마법에 지배된 남편에게 임신 사실을 알려 공격을 멈추게 한다. 왕국의 후계자를 지킨다는 의무가 조종보다 강하게 작동한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

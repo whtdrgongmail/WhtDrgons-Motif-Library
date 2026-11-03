@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "경험을 고백하게 하는 술자리 놀이",
   "original": "I Never",
-  "aliases": [],
+  "aliases": [
+    "경험을 털어놓게 하는 해 본 적 없다 놀이"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F26",
   "description": {
     "definition": "참가자가 해 본 적 없다고 말한 경험을 실제로 해 본 사람들이 정해진 반응을 하게 하여 서로의 과거를 드러내는 집단 놀이이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[로스트]]》에서 소이어와 케이트가 이 놀이를 하면서 각자의 과거에 살인과 결혼 등 상대가 몰랐던 경험이 있다는 사실이 드러난다.",
     "usage": "",
     "boundary": "마시는 양의 승부보다 경험 공개와 참가자 사이의 정보 변화가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "26",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001400",
+      "description_ko": "《로스트》에서 소이어와 케이트가 이 놀이를 하면서 각자의 과거에 살인과 결혼 등 상대가 몰랐던 경험이 있다는 사실이 드러난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

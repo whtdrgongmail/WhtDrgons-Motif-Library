@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "다른 인물보다 장비나 소모품의 사용에서 높은 효율과 이점을 얻도록 설계된 역할이다.",
-    "detail": "",
+    "detail": "아이템을 여러 대상에게 나누거나 소모하지 않고 쓰는 능력, 특별한 아이템 사용권, 획득 확률과 수량의 보정이 대표적이다.\n\n작품 사례: 《[[포켓몬스터(연작)]]》의 픽업 특성을 지닌 포켓몬은 전투 뒤 일정 확률로 아이템을 얻어, 직접적인 전투력과 별도로 일행의 물품 확보에 기여한다.",
     "usage": "직업 능력이 물품 사용의 효과나 범위를 바꾸는지 본다.",
     "boundary": "무거운 무기만 사용할 수 있는 직업과 달리 아이템 활용 전반이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-002029",
+      "description_ko": "《포켓몬스터(연작)》의 픽업 특성을 지닌 포켓몬은 전투 뒤 일정 확률로 아이템을 얻어, 직접적인 전투력과 별도로 일행의 물품 확보에 기여한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "독특하거나 엉뚱한 성격과 행동이 여러 친척에게 반복되어 한 가족의 특징처럼 제시되는 인물 구성이다.",
-    "detail": "",
+    "detail": "가족 대부분은 자신들이 평범하다고 여기며, 한 구성원만 외부의 기준을 대변하기도 한다. 외모의 유전이나 특정 질환의 진단을 뜻하는 설정은 아니다.\n\n작품 사례: 《[[강철의 연금술사]]》에서 암스트롱 가문은 과장된 몸짓과 초인적인 힘, 초상화 재주 같은 기이한 특징을 여러 세대의 가풍처럼 보여 준다.",
     "usage": "개별 버릇이 가족 집단의 반복 패턴으로 확장되는지 본다.",
     "boundary": "한 구성원만 별나거나 단순히 닮은 외모를 지닌 가족과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001331",
+      "description_ko": "《강철의 연금술사》에서 암스트롱 가문은 과장된 몸짓과 초인적인 힘, 초상화 재주 같은 기이한 특징을 여러 세대의 가풍처럼 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

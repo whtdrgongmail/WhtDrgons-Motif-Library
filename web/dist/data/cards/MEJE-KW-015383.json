@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "불에 닿자마자 완성되는 구이",
   "original": "Instant Roast",
-  "aliases": [],
+  "aliases": [
+    "충격을 받자 완성된 구이가 되는 동물"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "불에 노출된 음식이나 대상이 정상적인 조리 시간 없이 즉시 먹을 만한 구이로 바뀌는 과장이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[젤다의 전설 브레스 오브 더 와일드]]》에서는 불 속성 공격으로 잡은 동물이 생고기 대신 바로 구운 고기를 남긴다.",
     "usage": "짧은 화염 노출이 완성된 조리 결과로 이어지는지 본다.",
     "boundary": "단순히 타거나 재가 되는 결과와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001485",
+      "description_ko": "《젤다의 전설 브레스 오브 더 와일드》에서는 불 속성 공격으로 잡은 동물이 생고기 대신 바로 구운 고기를 남긴다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

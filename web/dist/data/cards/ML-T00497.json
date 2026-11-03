@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T00497",
   "description": {
     "definition": "팝의 선율과 곡 구성을 유지하면서 독립적인 제작·유통 맥락이나 비주류적 표현을 보이는 음악이다. 단지 소규모로 발표됐다는 사실보다 인디 음악권의 미학이나 제작 관습이 드러나는지 판단한다.",
-    "detail": "",
+    "detail": "직접 쓰는 곡과 이미지에 대한 결정권이 강조된다. 기타 중심의 맑은 소리부터 전자음과 여러 [[장르]]의 혼합까지 표현 폭이 있어 하나의 음색으로 환원하기 어렵다.\n\n작품 사례: 바스틸의 〈[[폼페이]]〉는 인디 팝 곡의 사례다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "특정 악기나 유통사 한 가지로 모든 작품을 분류하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "03.301.003",
     "review_status": "provisional",
@@ -37,7 +37,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-001723",
+      "description_ko": "바스틸의 〈폼페이〉는 인디 팝 곡의 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

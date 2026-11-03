@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "선물이어서 소중한 물건",
   "original": "It Was a Gift",
-  "aliases": [],
+  "aliases": [
+    "선물 받은 사연이 중요해지는 물건"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "물건의 효용이나 가격보다 누군가에게 받았다는 사연 때문에 [[인물]]이 그것에 특별한 가치를 부여하는 [[설정]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[블리치]]》에서 오리히메의 머리핀은 죽은 오빠가 준 선물이어서, 장식품이면서 그를 기억하는 유품이 된다.",
+    "usage": "물건을 누가 주었는지 밝혀 관계와 이후 역할에 의미를 더할 때 쓴다.",
     "boundary": "희귀성이나 교환가치만을 이유로 한 소유와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001295",
+      "description_ko": "《블리치》에서 오리히메의 머리핀은 죽은 오빠가 준 선물이어서, 장식품이면서 그를 기억하는 유품이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

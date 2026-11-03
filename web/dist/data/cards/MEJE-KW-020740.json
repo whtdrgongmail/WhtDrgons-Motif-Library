@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-020740",
+  "kind": "keyword",
+  "title": "정해진 사건 순서를 플레이로 벗어나기",
+  "original": "Script Breaking",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 예정된 [[서사]] 사건의 순서를 깨뜨려 원래의 선형 흐름과 다른 진행을 만들어 내는 현상이다.",
+    "detail": "",
+    "usage": "자유로운 플레이와 사건 의존성이 충돌하는 지점을 분석하거나 예상 밖의 진행을 서사에 수용한다.",
+    "boundary": "제작자가 정상 분기로 제공한 선택을 따르는 경우와 구별한다. 사전에 전제된 사건 순서가 무너지는 것이 핵심이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "게임이 기대한 순서대로 하지 않아 나중 사건을 먼저 보거나 연결이 달라진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

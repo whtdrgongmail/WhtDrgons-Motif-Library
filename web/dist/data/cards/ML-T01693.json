@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-T01693",
   "description": {
     "definition": "힐링은 갈등과 긴장이 누그러지고 안정감, 위안, 회복의 [[감정]]을 얻는 경험을 가리킨다. 등장인물이 쉬거나 평화로운 장면이 있다는 이유만으로 붙이지 말고, 감정적 안정이 작품의 주요한 감상 효용인지 본다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "일본 애니메이션·만화에서 이야기되는 이야시케이는 이 감상 목적을 전면에 둔다. 귀여운 인물의 활동이나 전원 풍경과 자주 겹치지만 특정 인물 성별이나 장소가 필수는 아니다.\n\n작품 사례: 《[[케모노 프렌즈]]》는 동물 소녀들이 서로를 보살피는 관계를 통해 다정하고 편안한 감상을 제공한다.",
+    "usage": "긴장 위주의 이야기와 다른 감상 목적을 정하거나 일상 장면의 정서적 기능을 설계할 때 쓴다.",
+    "boundary": "평화로운 장면이 있다는 이유만으로 충분하지 않으며 편안함과 위안이 감상의 중심이어야 한다. 실제 치료 효과를 보장하는 개념은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-03",
+  "row_version": 4,
   "classification": {
     "code": "19.008.001",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001451",
+      "description_ko": "《케모노 프렌즈》는 동물 소녀들이 서로를 보살피는 관계를 통해 다정하고 편안한 감상을 제공한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

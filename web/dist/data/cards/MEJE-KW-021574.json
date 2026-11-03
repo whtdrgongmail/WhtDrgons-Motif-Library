@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-021574",
+  "kind": "keyword",
+  "title": "기계 번역에서 흔들리는 대명사",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F23",
+  "description": {
+    "definition": "문맥에 맡기거나 생략한 대상을 번역 과정에서 잘못 추정하여 같은 대상의 인칭이나 성별 대명사가 문장마다 달라지는 오류다.",
+    "detail": "",
+    "usage": "언어 간 생략 규칙 차이가 번역의 일관성을 무너뜨리는 지점을 설명한다.",
+    "boundary": "원래 여러 인물을 지칭하는 문장이나 의도적으로 호칭이 바뀌는 서술과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "같은 사람을 말하는데 번역문 속 호칭이 계속 바뀐다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

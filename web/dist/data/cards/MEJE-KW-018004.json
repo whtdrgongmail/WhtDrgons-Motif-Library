@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "인더스트리얼 음악의 기계적·전자적 음향과 헤비메탈의 무거운 연주를 결합하는 음악 갈래다.",
-    "detail": "",
+    "detail": "작품 사례: 갓플레시의 〈[[스트리트클리너]]〉는 인더스트리얼 메탈 곡의 사례다.",
     "usage": "무거운 밴드 음향과 기계적인 질감이 함께 중심이 되는 음악을 분류할 때 쓴다.",
     "boundary": "금속적인 소리가 난다는 이유나 전자 악기를 썼다는 이유만으로 분류하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-001750",
+      "description_ko": "갓플레시의 〈스트리트클리너〉는 인더스트리얼 메탈 곡의 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

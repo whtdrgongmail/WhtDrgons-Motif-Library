@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "넘을 수 없어 보이지 않는 낮은 장애물",
   "original": "Insurmountable Waist-Height Fence",
-  "aliases": [],
+  "aliases": [
+    "넘을 수 없어 보이지 않는데 못 넘는 장애물"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "외형상 쉽게 넘을 수 있을 높이의 장애물이 [[게임]] 규칙상 진행을 완전히 막는 불일치다.",
-    "detail": "",
-    "usage": "",
+    "detail": "문·통나무·잔해·숲·경사·낮은 통로·얕은 물 등 외형은 다양하다. 보통의 장애물에 보이지 않는 이동 경계를 겹쳐 구현하기도 한다.\n\n작품 사례: 《[[해리 포터와 아즈카반의 죄수]]》 게임에서는 호그와트 앞 호수의 물이 무릎 정도인데도 조금만 들어가면 구역이 재설정된다.",
+    "usage": "경로와 사건 순서를 제한하는 게임 설계의 설득력 문제를 설명한다.",
     "boundary": "[[능력]]과 높이가 일관되게 설명된 장벽과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001897",
+      "description_ko": "《해리 포터와 아즈카반의 죄수》 게임에서는 호그와트 앞 호수의 물이 무릎 정도인데도 조금만 들어가면 구역이 재설정된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-020706",
+  "kind": "keyword",
+  "title": "미리 제작된 영상을 재생하는 게임 장면",
+  "original": "Full Motion Video",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F22",
+  "description": {
+    "definition": "게임 엔진이 그 순간 생성하는 화면 대신 미리 촬영하거나 렌더링한 영상을 재생해 보여 주는 표현 방식이다.",
+    "detail": "작품 사례: 《[[드래곤즈 레어]]》는 미리 제작한 애니메이션 영상을 재생하고, 정해진 입력 시점에 따라 이어질 장면을 결정한다.",
+    "usage": "실시간 표현과 다른 질감·연기·연출을 장면에 사용하고 조작 구간과 영상 구간의 연결을 설계한다.",
+    "boundary": "실사 여부만으로 나뉘지 않는다. 미리 만든 애니메이션도 포함하며, 게임 전체가 영상 선택형일 필요는 없다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "22",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "플레이 중인 화면에서 완성된 동영상으로 전환해 장면을 보여 준다.\n\n작품 사례: 《[[드래곤즈 레어]]》는 미리 제작한 애니메이션 영상을 재생하고, 정해진 입력 시점에 따라 이어질 장면을 결정한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001909",
+      "description_ko": "《드래곤즈 레어》는 미리 제작한 애니메이션 영상을 재생하고, 정해진 입력 시점에 따라 이어질 장면을 결정한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

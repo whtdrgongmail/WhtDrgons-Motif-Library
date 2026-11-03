@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "영웅적 역할을 맡은 [[인물]]이 기대한 수준으로 사람을 구하거나 책임을 다하지 못했다며 자책하는 심리이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "실패가 통제 밖의 일이었어도 책임을 떠안을 수 있다. 훈련, 무기력, 과도한 구원 집착으로 이어질 수 있다.\n\n작품 사례: 《[[원피스]]》에서 어린 쿠마는 갓밸리의 사냥에서 수백 명을 구했는데도 더 많은 사람을 구하지 못했다며 용서를 빈다.",
+    "usage": "이미 최선을 다한 사실과 본인이 요구하는 완벽한 구조 사이의 간극을 보여준다.",
     "boundary": "일반적인 [[능력]] 부족의 아쉬움보다 영웅으로서의 책임 인식이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001346",
+      "description_ko": "《원피스》에서 어린 쿠마는 갓밸리의 사냥에서 수백 명을 구했는데도 더 많은 사람을 구하지 못했다며 용서를 빈다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

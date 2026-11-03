@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "인간 사회가 외계인이나 [[마법]] 생물에게 인간과 같은 권리를 주지 않는 제도다. 지성과 의사보다 인간이라는 종의 경계가 보호의 기준이 된다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[시빌 워]]》의 영 어벤저스와 런어웨이즈 연계 이야기에서는 외계인과 [[로봇]]이라는 이유로 인물을 실험 대상으로 취급한다. 인간 여부를 권리의 경계로 삼는 제도가 [[갈등]]을 만든다.",
     "usage": "재판·소유·신체의 자유 등 구체적으로 무엇이 허용되지 않는지 정한다.",
     "boundary": "종족 사이의 감정적 편견만이 아니라 권리의 실제 배제가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001806",
+      "description_ko": "《시빌 워》의 영 어벤저스와 런어웨이즈 연계 이야기에서는 외계인과 로봇이라는 이유로 인물을 실험 대상으로 취급한다. 인간 여부를 권리의 경계로 삼는 제도가 갈등을 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-021073",
+  "kind": "keyword",
+  "title": "공격 동작에 붙는 무적 시간",
+  "original": "Invulnerable Attack",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "공격을 충전하거나 실행하는 동안 피격 피해를 받지 않도록 설정된 게임 행동이다.",
+    "detail": "충전 중 무적과 실행 중 무적이 있으며, 피해 면역과 밀려남·경직 면역은 다를 수 있다. 발동 시점을 맞춰 회피하기 힘든 공격을 넘기는 방어적 활용도 가능하다.\n\n작품 사례: 《[[Bleach: Dark Souls]]》에서는 기본 잡기 기술을 시작하면 상대를 던질 때까지 일시적으로 무적이 된다.",
+    "usage": "공격 선택에 생존 판단을 결합하고 기술의 타이밍과 무적 구간을 학습하게 한다.",
+    "boundary": "피격 뒤 주어지는 보호 시간이나 피해는 받으면서 경직만 버티는 기술과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "공격 기술을 쓰는 짧은 동안에는 적의 공격이 닿아도 체력이 줄지 않는다.\n\n작품 사례: 《[[Bleach: Dark Souls]]》에서는 기본 잡기 기술을 시작하면 상대를 던질 때까지 일시적으로 무적이 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001991",
+      "description_ko": "《Bleach: Dark Souls》에서는 기본 잡기 기술을 시작하면 상대를 던질 때까지 일시적으로 무적이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

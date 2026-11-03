@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-020703",
+  "kind": "keyword",
+  "title": "도중에 클리어가 불가능해질 수 있는 게임",
+  "original": "Unwinnable by Design",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "잘못된 행동이나 자원 소모가 뒤늦게 드러나는 막힘을 만들어, 현재 진행 상태로는 결말에 도달할 수 없게 되는 게임 설계다.",
+    "detail": "",
+    "usage": "선택의 장기적 대가를 설계하거나 복구·되돌리기를 허용할지 결정할 때 쓴다.",
+    "boundary": "단순히 어려운 퍼즐이나 즉시 알려 주는 게임 오버와 구별한다. 정상적인 플레이 과정에서 회복 불가능한 진행 상태가 생긴다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "계속 조작할 수 있어도 앞서 한 선택 때문에 더는 성공할 방법이 남지 않을 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

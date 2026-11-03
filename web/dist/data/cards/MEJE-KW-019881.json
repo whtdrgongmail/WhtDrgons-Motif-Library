@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-019881",
+  "kind": "keyword",
+  "title": "비용을 영으로 낮추어 제한을 없애기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "자원 소모량을 완전히 없애 사용 가능 횟수의 제약을 제거하는 규칙이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "사용 후 자원을 돌려주는 방식과 결과는 비슷하지만 중간 자원 조건이 다를 수 있다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-03",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "필요한 자원 자체가 영이 되어 계속 쓸 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-03",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

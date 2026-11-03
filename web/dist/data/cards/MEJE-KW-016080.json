@@ -3,18 +3,20 @@
   "kind": "keyword",
   "title": "사소한 일을 특별한 기념일로 삼기",
   "original": "Insignificant Anniversary",
-  "aliases": [],
+  "aliases": [
+    "사소한 계기를 기념일로 만들기"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "다른 사람에게는 중요하지 않은 작은 사건의 날짜를 당사자가 특별한 기념일처럼 축하하는 관습이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[마이 리틀 포니: 우정은 마법]]》에서 핑키 파이는 케이크 부부의 쌍둥이가 처음 재채기한 날까지 기념하며 축하한다.",
     "usage": "사건의 객관적 규모와 당사자가 부여한 기념의 비중이 대비되는지 확인한다.",
     "boundary": "널리 인정된 국가 기념일이나 통상적인 큰 생애 사건의 기념과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001337",
+      "description_ko": "《마이 리틀 포니: 우정은 마법》에서 핑키 파이는 케이크 부부의 쌍둥이가 처음 재채기한 날까지 기념하며 축하한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

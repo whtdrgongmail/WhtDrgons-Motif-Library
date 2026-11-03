@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "화장실에 제때 갈 수 없는 인물이 가까운 빈 용기를 배설을 위한 임시 장소로 삼는다.",
-    "detail": "",
+    "detail": "급한 인물이 먼저 거절하다 용기를 택하거나, 뒤늦게 다른 사람이 내용물을 잘못 알아보는 변형이 있다.\n\n작품 사례: 《[[몬스터 하우스]]》에서 아이들은 맞은편 집을 계속 감시하느라 화장실에도 가지 못했고, 디제이는 노란 액체가 든 병을 마시지 말라고 경고한다.",
     "usage": "이동·감금·병상 생활의 불편이나 민망한 일상 소동을 보여 줄 때 쓴다.",
     "boundary": "처음부터 그 용도로 마련된 요강과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002081",
+      "description_ko": "《몬스터 하우스》에서 아이들은 맞은편 집을 계속 감시하느라 화장실에도 가지 못했고, 디제이는 노란 액체가 든 병을 마시지 말라고 경고한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "도움이나 동료의 [[제안]]을 받아도 단독 활동이 자신의 방식이라고 주장하며 거절하는 [[인물]] 태도다.",
-    "detail": "",
-    "usage": "",
+    "detail": "동료를 잃은 기억, 혼자가 효율적이라는 신념, 실제로 압도적인 능력 등 이유는 다양하다. 동맹을 받아들여도 임무 수행은 단독으로 택할 수 있다.\n\n작품 사례: 《[[드래곤볼(연작)]]》에서 베지터는 경쟁 상대와 함께 수련하면 더 강해질 수 있어도, 자신만 앞서가려는 마음으로 혼자 훈련하려 한다.",
+    "usage": "협력 거부의 이유가 상처·자립심·오만 중 무엇인지 행동으로 드러낼 때 쓴다.",
     "boundary": "일시적으로 혼자 있는 상황과 달리 협력 거부가 명시적인 원칙이나 습관이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-001840",
+      "description_ko": "《드래곤볼(연작)》에서 베지터는 경쟁 상대와 함께 수련하면 더 강해질 수 있어도, 자신만 앞서가려는 마음으로 혼자 훈련하려 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

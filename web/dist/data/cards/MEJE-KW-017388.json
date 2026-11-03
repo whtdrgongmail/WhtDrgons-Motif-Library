@@ -3,7 +3,9 @@
   "kind": "keyword",
   "title": "회차마다 크게 달라지는 분량",
   "original": "Inconsistent Episode Lengths",
-  "aliases": [],
+  "aliases": [
+    "회차마다 달라지는 길이"
+  ],
   "tag_id": null,
   "primary_tag_id": "ML-F04",
   "description": {
@@ -13,8 +15,8 @@
     "boundary": "평소 길이는 일정한데 한 번만 긴 특별편이 나온 경우, 시리즈가 진행될수록 계속 길어지는 추세, 공개 일정만 불규칙한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "04",
     "review_status": "provisional",

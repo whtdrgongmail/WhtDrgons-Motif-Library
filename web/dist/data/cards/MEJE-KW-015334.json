@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "갑자기 치료가 필요한 상황에서 현장에 의료인이 있는지 공개적으로 묻는 말로 위급함과 도움의 필요를 드러내는 장면이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "의료인이 필요한 외침에 다른 분야의 박사가 반응하면 직함의 [[중의성]]이 농담이 된다. 의사 자신이 당황해서 같은 외침을 하는 변형도 가능하다.\n\n작품 사례: 《[[원피스(연작)]]》에서 초파는 위급한 상황에 의사를 찾아 외치다가, 자신이 바로 의사라는 사실을 뒤늦게 떠올린다.",
+    "usage": "공공장소의 갑작스러운 위기를 주변 사람들의 직업과 역량이 드러나는 계기로 만들 때 쓴다.",
     "boundary": "병원에 정식으로 접수하는 상황보다 우연히 모인 사람들 중 조력자를 찾는 반응이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-002018",
+      "description_ko": "《원피스(연작)》에서 초파는 위급한 상황에 의사를 찾아 외치다가, 자신이 바로 의사라는 사실을 뒤늦게 떠올린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "불리하거나 두려운 상황에 놓인 인물이 어머니를 찾는 외침으로 취약함을 드러내는 장면이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[원피스(애니메이션)]]》 영어 더빙판에서 카이도는 루피가 돌려보낸 열기에 맞닥뜨리자 평소와 다른 높은 목소리로 엄마를 찾는다.",
+    "usage": "공포 때문에 어른도 어린아이처럼 안전한 보호자를 찾게 되는 순간을 표현할 때 쓴다.",
     "boundary": "평범한 호출과 달리 곤경에 대한 정서적 반응이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001825",
+      "description_ko": "《원피스(애니메이션)》 영어 더빙판에서 카이도는 루피가 돌려보낸 열기에 맞닥뜨리자 평소와 다른 높은 목소리로 엄마를 찾는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

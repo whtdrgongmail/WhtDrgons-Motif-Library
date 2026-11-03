@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "가랑이 부위에 [[충격]]을 받은 [[인물]]의 고통과 무력화를 강조하는 [[액션]]·희극적 [[장면]] 모티프다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[배트맨: 애니메이티드 시리즈]]》에서는 조커의 급소 타격을 직접 자세히 보이기보다 직후 높아진 목소리로 일어났음을 알린다.",
+    "usage": "신체적 고통이 순간적인 힘의 균형을 바꾸는 장면을 만든다.",
     "boundary": "가벼운 웃음으로 연출되더라도 [[현실]]의 무해함을 뜻하지 않으며 성별에 따른 통증을 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001819",
+      "description_ko": "《배트맨: 애니메이티드 시리즈》에서는 조커의 급소 타격을 직접 자세히 보이기보다 직후 높아진 목소리로 일어났음을 알린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

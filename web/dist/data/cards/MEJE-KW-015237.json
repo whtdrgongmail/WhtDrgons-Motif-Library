@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "상대에게 품는 강한 미움이 뚜렷한 이유나 피해 경험으로 설명되지 않는 관계이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "책임의 과장, 설명되지 않는 반감, 통제할 수 없는 특성에 대한 질투와 편견으로 나뉜다. 반대 증거를 무시하거나 같은 행동도 특정 상대에게만 문제 삼을 수 있다.\n\n작품 사례: 《[[나루토]]》에서 사스케는 이타치의 진실을 안 뒤 책임자뿐 아니라 평온하게 살아온 나뭇잎마을 전체를 복수의 대상으로 삼는다.",
+    "usage": "원한의 근거와 감정의 강도를 대조하여 책임 전가·질투·편견의 작동 방식을 드러낸다.",
     "boundary": "이유가 관객에게 아직 밝혀지지 않았을 뿐인 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-03",
+  "row_version": 3,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001303",
+      "description_ko": "《나루토》에서 사스케는 이타치의 진실을 안 뒤 책임자뿐 아니라 평온하게 살아온 나뭇잎마을 전체를 복수의 대상으로 삼는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

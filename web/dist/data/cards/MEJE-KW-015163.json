@@ -9,12 +9,12 @@
   "description": {
     "definition": "게임 속 음주나 약물 사용이 화면·이동·조작 등에 불리한 변화를 주어 플레이 수행을 어렵게 만드는 규칙이다.",
     "detail": "작품 사례: [[NieR: Automata]]에서는 잭애스의 약물을 시험하면 화면과 정보 표시가 왜곡될 수 있어, 약물의 영향이 시각 정보와 플레이 수행의 장애로 구현된다.",
-    "usage": "",
+    "usage": "취한 상태를 플레이어가 감당할 조작·정보·행동 제약으로 체감하게 한다.",
     "boundary": "능력 수치가 오르는 음주 보상이나 단순한 외형 변화와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -33,6 +33,20 @@
       "media_tag_id": "ML-T00076",
       "work_card_id": "MM-MEDIA-000659",
       "description_ko": "NieR: Automata에서는 잭애스의 약물을 시험하면 화면과 정보 표시가 왜곡될 수 있어, 약물의 영향이 시각 정보와 플레이 수행의 장애로 구현된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001297",
+      "description_ko": "《월드 오브 워크래프트》에서 술을 계속 마시면 화면이 흐려지고 직진 조작도 비틀거리며, 적의 레벨까지 실제보다 낮게 보인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001534",
+      "description_ko": "《매스 이펙트 2》에서는 취한 상태가 화면 흐림과 흔들림으로 나타나 평소와 다른 시야를 경험하게 한다.",
       "spoiler_level": "unreviewed",
       "row_version": 1
     }

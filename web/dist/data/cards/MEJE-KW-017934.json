@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "먼 미래에 여러 민족 집단의 혈통이 섞여 인류의 외형적 차이가 크게 줄었다고 설정한 세계다. 현재의 인종 구분이 미래 사회에서 유지되지 않는다는 가정이다.",
-    "detail": "",
+    "detail": "이동과 교류의 확대, 여러 집단 사이의 혼인이 외형의 혼합을 낳았다고 설명한다. 이를 평등한 미래의 [[상징]]으로 삼기도 하지만 외형·문화·차별의 소멸은 서로 다른 설정이다.\n\n작품 사례: 《[[사우스 파크]]》에 온 미래인들은 오늘날 여러 인종의 외형과 언어가 섞인 존재로 그려져, 현재 사람들에게 별개의 집단처럼 취급된다.",
     "usage": "외형의 유사성과 문화·지역·개인의 다양성이 어떤 관계인지 따로 정한다.",
     "boundary": "실제 인류의 미래를 예측하거나 혼합이 문화 차이까지 없앤다고 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001601",
+      "description_ko": "《사우스 파크》에 온 미래인들은 오늘날 여러 인종의 외형과 언어가 섞인 존재로 그려져, 현재 사람들에게 별개의 집단처럼 취급된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

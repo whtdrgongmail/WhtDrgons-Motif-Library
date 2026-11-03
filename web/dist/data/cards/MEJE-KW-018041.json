@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "자신을 향한 비난이나 모욕에 반박하는 말과 행동이 오히려 상대가 지적한 특성을 그대로 보여 주는 대화 장치다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[킹덤 하츠 II]]》에서 구피가 잭 스패로와 소라가 닮았다고 하자, 둘이 완벽히 동시에 아니라고 외쳐 오히려 닮은 점을 드러낸다.",
     "usage": "인물의 판단과 행동이 어떤 조건에서 모순을 드러내는지 설명하거나 해당 [[갈등]]을 설계할 때 쓴다.",
     "boundary": "비난이 부당한데도 주변이 억지로 믿는 상황과 구별한다. 반박 자체에 해당 특성이 나타나야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001386",
+      "description_ko": "《킹덤 하츠 II》에서 구피가 잭 스패로와 소라가 닮았다고 하자, 둘이 완벽히 동시에 아니라고 외쳐 오히려 닮은 점을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

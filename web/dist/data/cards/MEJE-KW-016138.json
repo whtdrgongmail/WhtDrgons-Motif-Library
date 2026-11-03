@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F08",
   "description": {
     "definition": "인터섹스 인물이 신체적 성 특성에 대한 사회의 편견·배제와 맞서 겪는 어려움을 중심에 두는 이야기다.",
-    "detail": "",
+    "detail": "몸에 대한 불편과 자기 인식의 고민, 가족이나 사회의 편견·배제가 시련을 만든다. 신체적 성 특성, 성 정체성, 성적 지향은 같은 축으로 단정하지 않는다.\n\n작품 사례: 《[[저 너머의 아스트라]]》에서 루카는 인터섹스 신체 때문에 가업을 물려받을 수 없다는 이유로 아버지에게 외면받는다.",
     "usage": "인터섹스 정체성과 사회적 반응이 시련의 원인으로 작동하는지 확인한다.",
     "boundary": "인터섹스라는 사실 자체를 불행이나 결함으로 단정하거나 다른 성소수자 경험과 동일시하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-03",
+  "row_version": 2,
   "classification": {
     "code": "08",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001942",
+      "description_ko": "《저 너머의 아스트라》에서 루카는 인터섹스 신체 때문에 가업을 물려받을 수 없다는 이유로 아버지에게 외면받는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }
