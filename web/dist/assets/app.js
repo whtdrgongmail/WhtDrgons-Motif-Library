@@ -117,7 +117,8 @@
     const collator = new Intl.Collator('ko');
     const cardHTML = c => {
       const chips = (c.thumbnail_tags || []).map((label, index) => `<span class="thumb-chip ${index ? 'thumb-chip-applied' : 'thumb-chip-primary'}">${esc(label)}</span>`).join('');
-      return `<div class="catalog-card"><a class="motif-card" data-card-id="${esc(c.id)}" data-row-version="${esc(c.row_version)}" href="${esc(c.entry_url || `cards/${c.id}/index.html`)}" style="--accent:${esc(c.accent)};--tab:${esc(c.tab)}"><div class="thumb-mark" aria-hidden="true"></div><h3 class="thumb-title">${esc(c.title)}</h3><div class="thumb-tags">${chips}</div></a>${seenButtonHTML(c.id, c.title)}</div>`;
+      const original = c.original ? `<p class="thumb-original" lang="en" title="${c.original_basis === 'editorial_english_label' ? '편집 영문명' : '원어'}">${esc(c.original)}</p>` : '';
+      return `<div class="catalog-card"><a class="motif-card" data-card-id="${esc(c.id)}" data-row-version="${esc(c.row_version)}" href="${esc(c.entry_url || `cards/${c.id}/index.html`)}" style="--accent:${esc(c.accent)};--tab:${esc(c.tab)}"><div class="thumb-mark" aria-hidden="true"></div><h3 class="thumb-title">${esc(c.title)}</h3>${original}<div class="thumb-tags">${chips}</div></a>${seenButtonHTML(c.id, c.title)}</div>`;
     };
     function readURL() {
       const p = new URLSearchParams(location.search);
