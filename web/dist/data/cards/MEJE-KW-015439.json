@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "혼자 지내던 인물이 관계를 받아들여 친구나 동료 집단의 일원이 되는 변화다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[아바타: 아앙의 전설]]》의 주코는 혼자만의 길을 고집하던 태도에서 벗어나 팀 아바타의 충실한 동료이자 친구가 된다.",
     "usage": "소속과 친밀감의 지속적 변화가 있는지 확인한다.",
     "boundary": "단순히 임시로 고용되거나 한 번 협력한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》의 주코는 혼자만의 길을 고집하던 태도에서 벗어나 팀 아바타의 충실한 동료이자 친구가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

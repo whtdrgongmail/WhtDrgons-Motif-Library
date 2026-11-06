@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F17",
   "description": {
     "definition": "다른 존재의 생명력을 흡수하여 자신의 수명이나 생존을 유지하는 능력.",
-    "detail": "",
+    "detail": "작품 사례: 《[[데스노트(만화)]]》의 사신은 인간을 죽여 그 사람에게 남은 수명을 자신의 것으로 더한다. 이 방식으로 수명을 보충하지 않으면 사신도 죽는다는 조건이 있다.",
     "usage": "생명 연장의 비용이 타인에게 전가되는 구조를 만들 때 쓴다.",
     "boundary": "몸 자체를 갈아타는 기생적 생존과는 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "17",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002463",
+      "description_ko": "《데스노트(만화)》의 사신은 인간을 죽여 그 사람에게 남은 수명을 자신의 것으로 더한다. 이 방식으로 수명을 보충하지 않으면 사신도 죽는다는 조건이 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

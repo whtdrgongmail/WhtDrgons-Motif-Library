@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "[[관객]]을 위한 배경음처럼 들리던 소리를 극중 [[인물]]도 인식하는 것으로 드러내는 [[음향 장치]]이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[원피스 필름 Z]]》에서 제트를 떠올리게 하는 바다의 노래가 다시 흐를 때, 실제로 아오키지가 부르고 있다는 사실이 드러나 음악의 출처가 세계 안에 놓인다.",
     "usage": "관객 전용 음악처럼 들리던 소리의 출처를 밝혀 극중 사건과 연결한다.",
     "boundary": "처음부터 화면에 보이는 악기나 음원의 소리라는 사실이 명확한 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002375",
+      "description_ko": "《원피스 필름 Z》에서 제트를 떠올리게 하는 바다의 노래가 다시 흐를 때, 실제로 아오키지가 부르고 있다는 사실이 드러나 음악의 출처가 세계 안에 놓인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

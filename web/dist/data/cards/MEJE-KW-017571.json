@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "머리와 몸이 분리되어도 인물이 죽지 않고 의식이나 활동을 이어 가는 신체 규칙.",
-    "detail": "",
-    "usage": "",
+    "detail": "분리된 머리만 말하거나 움직일 수도 있고 몸도 따로 활동할 수 있다. [[로봇]]의 전원·처리 장치, 언데드나 [[초자연]]적 신체 규칙이 이를 뒷받침한다. 실제 참수 뒤 의식에 관한 원문 추측은 현실 사실로 옮기지 않았다.\n\n작품 사례: 《[[강철의 연금술사(만화)]]》에서 알폰스는 갑옷의 머리가 떨어져도 몸 안의 혈인에 연결된 존재로서 활동한다. 머리의 위치가 생명 유지의 필수 조건이 아닌 신체 규칙을 보여 준다.",
+    "usage": "참수의 위협을 뒤집거나 분리된 신체의 협력·수리·착각을 전개한다.",
     "boundary": "일반적인 치명적 참수와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002178",
+      "description_ko": "《강철의 연금술사(만화)》에서 알폰스는 갑옷의 머리가 떨어져도 몸 안의 혈인에 연결된 존재로서 활동한다. 머리의 위치가 생명 유지의 필수 조건이 아닌 신체 규칙을 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

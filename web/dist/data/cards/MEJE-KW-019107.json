@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "괴이한 생물을 직접 제작하거나 탄생시키는 능력과 역할을 가진 인물 유형이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼 DAIMA]]》의 마녀 마르바는 고객을 위해 괴물을 만들며, 마인 부우에 이어 새로운 주문을 받아 마인 쿠우를 제작한다.",
     "usage": "여러 괴물의 공통 기원과 제작자의 목적을 연결할 때 쓴다.",
     "boundary": "이미 존재하는 괴물을 길들이거나 지휘하는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002566",
+      "description_ko": "《드래곤볼 DAIMA》의 마녀 마르바는 고객을 위해 괴물을 만들며, 마인 부우에 이어 새로운 주문을 받아 마인 쿠우를 제작한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

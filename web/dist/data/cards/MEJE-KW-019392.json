@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "고장처럼 보이던 장치가 사실 전원에 연결되지 않은 상태였고 연결하자 작동하는 것으로 드러나는 해결 장면이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[그랜드 테프트 오토: 바이스 시티]]》에서 디아즈는 비디오가 재생되지 않는다며 기기를 부순 뒤에야, 토미에게 전원이 연결되지 않았을 뿐이라는 말을 듣는다.",
     "usage": "큰 진단과 사소한 원인의 대비로 웃음이나 인물의 허술함을 만든다.",
     "boundary": "작동 중인 기계의 전원을 끊어 위험을 없애는 것과 방향이 반대다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002420",
+      "description_ko": "《그랜드 테프트 오토: 바이스 시티》에서 디아즈는 비디오가 재생되지 않는다며 기기를 부순 뒤에야, 토미에게 전원이 연결되지 않았을 뿐이라는 말을 듣는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

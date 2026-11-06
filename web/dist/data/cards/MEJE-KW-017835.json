@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "창작자가 중요한 대표작을 만들어 가는 과정을 사건과 [[갈등]]으로 구성해 보여 주는 이야기.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: 《[[히치콕]]》은 감독의 전 생애를 포괄하기보다 영화 《[[싸이코]]》를 제작하는 과정에 초점을 맞춘다.",
+    "usage": "한 작품의 완성에 필요한 갈등과 선택을 이야기의 시간적 중심으로 모은다.",
+    "boundary": "제작 기록을 전달하는 다큐멘터리와 다르며 반드시 위대한 걸작이어야 하는 것은 아니다. 이전 제안의 대표작 중심보다 대상 범위가 넓다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,22 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002860",
+      "description_ko": "《히치콕》은 감독의 전 생애를 포괄하기보다 영화 《[[싸이코]]》를 제작하는 과정에 초점을 맞춘다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001315",
+      "description_ko": "《[[히치콕]]》은 감독의 전 생애를 포괄하기보다 영화 《싸이코》를 제작하는 과정에 초점을 맞춘다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

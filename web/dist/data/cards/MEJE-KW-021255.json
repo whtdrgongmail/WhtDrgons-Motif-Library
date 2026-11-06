@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "완성된 물건의 복잡함에 비해 필요한 재료·시간·노동이 극단적으로 적도록 제작 과정을 단순화한 규칙이나 표현이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[마인크래프트]]》에서는 정해진 재료를 제작 칸에 배치하면 복잡한 가공 과정 없이 도구와 가구가 완성된다. 원문은 더 많은 중간 부품을 요구하는 모드와 대비한다.",
     "usage": "제작의 번거로움을 덜어 놀이의 흐름을 유지하거나, 비현실적으로 편리한 생산을 희극과 세계 규칙으로 드러낼 때 쓴다.",
     "boundary": "현실 과정을 생략한 모든 제작과 달리 완제품과 필요한 투입 사이의 큰 차이에 초점을 둔다. 마법적 이유가 설명되어 있어도 성립한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001349",
+      "description_ko": "《마인크래프트》에서는 정해진 재료를 제작 칸에 배치하면 복잡한 가공 과정 없이 도구와 가구가 완성된다. 원문은 더 많은 중간 부품을 요구하는 모드와 대비한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "물 위의 수련 잎을 사람이나 캐릭터가 올라서거나 디뎌 건널 수 있는 발판으로 사용하는 공간 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[배트맨과 로빈(1997년 영화)]]》에서 로빈은 포이즌 아이비에게 다가가며 연못 위의 거대한 잎을 징검다리로 밟는다. 식물이 장식에서 이동 경로로 바뀐다.",
     "usage": "물과 식물을 연결한 자연형 발판 구간을 만든다.",
     "boundary": "실제 잎의 하중 능력을 설명하지 않으며 장식 식물과 달리 이동 경로 역할이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002270",
+      "description_ko": "《배트맨과 로빈(1997년 영화)》에서 로빈은 포이즌 아이비에게 다가가며 연못 위의 거대한 잎을 징검다리로 밟는다. 식물이 장식에서 이동 경로로 바뀐다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

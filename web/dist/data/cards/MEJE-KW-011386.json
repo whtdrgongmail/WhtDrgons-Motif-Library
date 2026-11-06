@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "선물을 전하러 오는 산타에게 감사하거나 환대하기 위해 집에 음식과 음료를 준비해 두는 [[관습]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[닥터 후]]》의 「The Return of Doctor Mysterio」에서 아이의 어머니는 창밖 방문자를 산타로 생각하고 우유와 쿠키를 마련해 준다.",
+    "usage": "방문자를 맞는 환대와 산타의 존재를 확인하려는 기대를 소품으로 표현한다.",
     "boundary": "가족의 [[식사]] 준비와 구별하며 방문할 산타를 수령자로 상정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001308",
+      "description_ko": "《닥터 후》의 「The Return of Doctor Mysterio」에서 아이의 어머니는 창밖 방문자를 산타로 생각하고 우유와 쿠키를 마련해 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

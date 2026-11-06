@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "인물이 타인을 해치는 무례한 행동을 계속할 수 있도록 자신만의 이유를 내세워 정당화한다.",
-    "detail": "",
+    "detail": "본성, 시장 수요, 나쁜 기분, 피해자의 잘못, 솔직함, 문화, 장애, 과거의 상처, 인간 불신, 농담, 힘, 자기 확신, 보복, 나이, 정의감, 생존 경쟁, 주변의 무능, 훈육, 선함에 대한 경멸 등이 핑계로 쓰인다. 이들은 인물의 주장이지 행동을 정당화하는 객관적 근거가 아니다. 작품이 동기를 설명하는 것과 모든 등장인물에게 용서를 강요하는 것을 구별한다.\n\n작품 사례: 《[[킹덤 오브 헤븐]]》의 레이날드는 살라딘 측을 공격하고 자신은 원래 그런 사람이며 누군가는 그래야 한다는 식으로 행동을 정당화한다. 타고난 성향을 책임 면제의 논리로 쓰는 사례다.",
     "usage": "자기합리화와 행동에 대한 책임 회피를 설계한다.",
     "boundary": "행동의 원인을 설명하는 것만으로는 부족하고 해로운 행동을 허용하는 논리로 쓰여야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001528",
+      "description_ko": "《킹덤 오브 헤븐》의 레이날드는 살라딘 측을 공격하고 자신은 원래 그런 사람이며 누군가는 그래야 한다는 식으로 행동을 정당화한다. 타고난 성향을 책임 면제의 논리로 쓰는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

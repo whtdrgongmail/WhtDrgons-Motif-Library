@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "죽은 적이 없으면서도 [[유령]]과 비슷한 여러 능력이나 존재 방식을 지닌 생명체이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[슈퍼 마리오 갤럭시]]》의 마리오는 부끄부끄 마리오로 변하면 살아 있는 상태로 유령처럼 벽을 통과한다. 모습이 돌아오면 루이지도 그를 알아본다.",
+    "usage": "죽은 영혼이라는 기원 없이 유령의 통과·부유·은신 능력을 살아 있는 인물에게 부여한다.",
     "boundary": "죽은 사람의 혼령이나 몸에서 분리된 일시적 의식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001392",
+      "description_ko": "《슈퍼 마리오 갤럭시》의 마리오는 부끄부끄 마리오로 변하면 살아 있는 상태로 유령처럼 벽을 통과한다. 모습이 돌아오면 루이지도 그를 알아본다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

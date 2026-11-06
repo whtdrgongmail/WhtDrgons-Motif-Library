@@ -1,0 +1,35 @@
+{
+  "id": "MEJE-KW-022094",
+  "kind": "keyword",
+  "title": "공통 능력치에 직업 보정 더하기",
+  "original": "Base Stats with Class Modifiers",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "캐릭터의 독립적인 기본 능력치 위에 현재 직업이 정한 가산·배율 보정을 얹는 성장 체계다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "직업이 모든 수치를 새로 정하거나 성장 이력만으로 수치가 결정되는 방식과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "기본 몸값은 유지하고 직업에 맞는 능력만 더 강화한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

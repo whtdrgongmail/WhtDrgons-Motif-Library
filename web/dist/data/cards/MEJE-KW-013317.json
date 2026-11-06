@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "말한 내용 자체는 사실이지만 핵심 사실을 의도적으로 빼서 상대가 전체 상황을 잘못 이해하도록 하는 기만이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "직접 거짓말을 금지하는 능력이나 규칙을 우회하거나, 추궁받았을 때 문자적으로 참이라는 구실을 남기려 할 수 있다. 의도적인 정보 누락과 우연한 설명 부족은 구별한다.\n\n작품 사례: 《[[데스노트(만화)]]》에서 류크는 데스노트를 쓴 인간이 천국이나 지옥에 가지 못한다고 말하면서 누구에게도 [[사후세계]]가 없다는 전체 맥락을 처음에는 알려 주지 않는다.",
+    "usage": "직접적인 거짓말 없이 상대의 판단을 잘못된 방향으로 이끄는 대화를 설계한다.",
     "boundary": "의도 없이 빠뜨린 정보나 목적에 맞는 단순 요약과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002463",
+      "description_ko": "《데스노트(만화)》에서 류크는 데스노트를 쓴 인간이 천국이나 지옥에 가지 못한다고 말하면서 누구에게도 사후세계가 없다는 전체 맥락을 처음에는 알려 주지 않는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

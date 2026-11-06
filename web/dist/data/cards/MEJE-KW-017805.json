@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "건물을 보존해야 할 기념물이나 유산으로 인정받게 해 철거 위협을 막으려는 [[서사]] 전략.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "지정 절차가 오래 걸리거나 보호 조건을 충족하지 못하는 제약을 넣으면 시간 압박과 증거 수집의 [[갈등]]이 생긴다.\n\n작품 사례: 《[[릴로 & 스티치]]》에서는 지구를 희귀한 모기의 보호 구역으로 지정하게 했다는 과거의 책략 때문에 은하연방이 지구를 쉽게 파괴하지 못한다. 문화재 대신 생태 보호를 이용한 변형이다.",
+    "usage": "주민의 공동 행동과 장소의 역사·생태적 가치를 위기 해결의 근거로 묶는다.",
+    "boundary": "3:622의 건물 중심 범위보다 현재 원문은 지역도 포함한다. 실제 법적 효력과 처리 속도를 일반화하지 않으며, 작품 안에서 보호 제도가 어떻게 작동하는지 명시한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002346",
+      "description_ko": "《릴로 & 스티치》에서는 지구를 희귀한 모기의 보호 구역으로 지정하게 했다는 과거의 책략 때문에 은하연방이 지구를 쉽게 파괴하지 못한다. 문화재 대신 생태 보호를 이용한 변형이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

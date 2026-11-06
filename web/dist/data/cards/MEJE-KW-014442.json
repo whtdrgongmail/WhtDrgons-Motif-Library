@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "약물 사용이 미래를 내다보는 능력의 통로가 되는 인물 유형이다. 취한 상태나 환영이 작품 안에서는 [[예언]] 정보를 제공한다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드라큘라(2013)]]》의 예언자들은 아편굴에서 점을 보며 약물을 사용한다. 원문은 약물이 실제 능력의 원인인지 단순한 습관인지 확정하지 않으므로, 능력 증폭을 입증한 사례로 단정하지 않는다.",
     "usage": "약물과 미래 지식 사이의 작중 [[인과]]가 확인되는지 본다.",
     "boundary": "현재 상황을 깊이 이해하는 통찰이나 사실로 확인되지 않는 환각과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002157",
+      "description_ko": "《드라큘라(2013)》의 예언자들은 아편굴에서 점을 보며 약물을 사용한다. 원문은 약물이 실제 능력의 원인인지 단순한 습관인지 확정하지 않으므로, 능력 증폭을 입증한 사례로 단정하지 않는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

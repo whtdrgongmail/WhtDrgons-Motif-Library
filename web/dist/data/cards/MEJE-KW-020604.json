@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "알아낸 사실과 비밀을 필요로 하는 사람에게 대가를 받고 제공하는 인물이다.",
-    "detail": "",
+    "detail": "정보원과 조직 사이의 인맥을 관리하고 돈·심부름·다른 정보 등을 대가로 요구할 수 있다. 편의상 정보를 제공하는 역할을 넘어 과거 관계나 이해관계가 드러나기도 한다.\n\n작품 사례: 《[[스파이 패밀리]]》의 프랭키는 각종 서류와 시험 관련 정보를 확보해 로이드에게 제공하는 정보 거래자다.",
     "usage": "정보에 가격과 접근 조건을 부여하고 인물들이 비밀을 얻기 위해 거래하게 한다.",
     "boundary": "특정 조직에 충성해 보고만 하는 첩자나 대가 없이 소문을 전하는 사람과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001586",
+      "description_ko": "《스파이 패밀리》의 프랭키는 각종 서류와 시험 관련 정보를 확보해 로이드에게 제공하는 정보 거래자다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

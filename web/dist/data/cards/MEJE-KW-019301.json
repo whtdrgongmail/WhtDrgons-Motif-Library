@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "여러 대상이나 항목을 나열하는 일이 가사의 중심 구조를 이루는 노래다.",
-    "detail": "",
+    "detail": "작품 사례: 〈[[포켓랩]]〉은 포켓몬 이름을 가사의 중심 목록으로 삼아 리듬에 맞춰 이어 부른다. 많은 개별 이름을 노래 형식으로 묶는 사례다.",
     "usage": "목록의 리듬과 반복을 이용해 정보를 기억시키거나 풍성함을 표현한다.",
     "boundary": "가사에 목록이 잠깐 들어가는 것만으로 노래 전체의 구성으로 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-002572",
+      "description_ko": "〈포켓랩〉은 포켓몬 이름을 가사의 중심 목록으로 삼아 리듬에 맞춰 이어 부른다. 많은 개별 이름을 노래 형식으로 묶는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "몸 안에 들어온 지성 있는 초자연적 힘이 그 몸을 자기 외피처럼 움직여 원래 주인의 행동을 대신하는 설정이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "정신이나 영혼을 보내 숙주를 직접 조종한다. 위장·수명 연장·숙주의 지식 활용에 쓰이며 본래 몸이 비어 공격에 취약해질 수 있다.\n\n작품 사례: 소설 《[[호스트(2008년 소설)]]》에서 외계 존재인 소울은 인간의 몸 안에서 그 몸을 자기 신체처럼 사용하며 원래 의식의 자리를 차지한다.",
+    "usage": "숙주 조종과 비워 둔 본체의 취약성을 함께 정해 빙의의 대가와 해제 조건을 구성한다.",
     "boundary": "반드시 악마여야 하는 것은 아니며 기존 악마 빙의보다 존재 범위가 넓다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002457",
+      "description_ko": "소설 《호스트(2008년 소설)》에서 외계 존재인 소울은 인간의 몸 안에서 그 몸을 자기 신체처럼 사용하며 원래 의식의 자리를 차지한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

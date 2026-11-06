@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F08",
   "description": {
     "definition": "함께 가려는 사람 수보다 표가 부족하여 누군가를 제외하거나 동행을 선택해야 하는 [[갈등]]이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[로코의 모던 라이프]]》에서 로코가 레슬링 경기 표 두 장을 얻자 헤퍼와 필버트가 남은 한 장을 두고 다툰다. 로코에게 수갑으로 붙어 있기까지 하면서 함께 즐길 기회가 친구들 사이의 [[갈등]]으로 바뀐다.",
     "usage": "한정된 입장권 때문에 누구와 함께할지 선택해야 하는 [[관계 갈등]]을 만든다.",
     "boundary": "표를 구하기 어렵다는 문제 일반과 달리 [[관계]] 사이의 [[선택]]이 생겨야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "08",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002182",
+      "description_ko": "《로코의 모던 라이프》에서 로코가 레슬링 경기 표 두 장을 얻자 헤퍼와 필버트가 남은 한 장을 두고 다툰다. 로코에게 수갑으로 붙어 있기까지 하면서 함께 즐길 기회가 친구들 사이의 갈등으로 바뀐다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

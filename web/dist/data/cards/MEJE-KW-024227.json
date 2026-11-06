@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-024227",
+  "kind": "keyword",
+  "title": "성장 수치를 되돌려 다시 배분하기",
+  "original": "Skill Point Reset",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "레벨이나 성장 배분을 낮추거나 되돌린 뒤 능력치와 기술의 분배를 다시 정할 수 있는 기능이다.",
+    "detail": "",
+    "usage": "이전의 성장 선택을 수정할 수 있게 하여 새로운 조합을 시도하게 한다.",
+    "boundary": "도전만을 위해 낮은 레벨에 머무는 기능과 달리 재배분이 목적이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "이미 올린 능력의 선택을 취소해 다른 방향으로 키운다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

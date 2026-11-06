@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "게임에서 다른 동료보다 뒤늦게 합류한 인물이 실제 파티 구성이나 플레이에서 거의 사용되지 않는 현상이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[마리오 + 래비드 킹덤 배틀]]》의 요시는 강한 공격과 아군 지원 능력을 지녔지만 마지막 지역 중반에 합류한다. 이미 다른 동료 조합에 익숙해진 플레이어는 그를 활용할 기회가 적다.\n작품 사례: 《[[크로노 트리거]]》의 마왕은 후반에 합류하며, [[뉴 게임 플러스]]로 다시 시작해도 합류 시점까지 기다려야 한다.",
+    "usage": "동료의 합류 시점, 기존 집단에 대한 애착, 육성 비용을 함께 설계해 후반 동료의 활용 문제를 점검한다.",
     "boundary": "성능이 나쁘다는 조건은 필수가 아니며 합류 시점과 활용도의 관계가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,22 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001405",
+      "description_ko": "《마리오 + 래비드 킹덤 배틀》의 요시는 강한 공격과 아군 지원 능력을 지녔지만 마지막 지역 중반에 합류한다. 이미 다른 동료 조합에 익숙해진 플레이어는 그를 활용할 기회가 적다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002381",
+      "description_ko": "《크로노 트리거》의 마왕은 후반에 합류하며, [[뉴 게임 플러스]]로 다시 시작해도 합류 시점까지 기다려야 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "[[게임]] 전반의 [[행동]] [[누적]]보다 끝부분의 한 [[선택]]이 최종 [[결말]]을 결정하는 분기 구조다.",
-    "detail": "",
+    "detail": "전반의 행동과 별개로 마지막 선택이 결말을 결정하면 이전의 도덕 수치나 인물의 일관성과 어긋날 수 있다. 반대로 충분한 맥락이 있는 최종 가치 판단으로 의도적으로 사용할 수도 있다. 원문의 제작사 일반론과 개발자 의도 추정은 옮기지 않았다.\n\n작품 사례: 《[[역전재판 4]]》의 마지막 사건에서 플레이어는 배심원으로서 유죄와 무죄 중 하나를 선택하며, 그 선택이 나쁜 결말과 좋은 결말을 가른다.",
     "usage": "마지막 순간의 가치 판단을 결말의 결정적인 갈림길로 집중시킨다.",
     "boundary": "기존 선택이 마지막 선택의 가능성을 엄격히 제한하는 누적형 분기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002374",
+      "description_ko": "《역전재판 4》의 마지막 사건에서 플레이어는 배심원으로서 유죄와 무죄 중 하나를 선택하며, 그 선택이 나쁜 결말과 좋은 결말을 가른다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

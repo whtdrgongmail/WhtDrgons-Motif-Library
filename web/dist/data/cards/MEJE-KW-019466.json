@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "처형이 막 실행되려는 순간 사면이나 집행 중지 결정이 전달되어 대상의 목숨이 보전되는 전개다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[스타워즈: 닥터 아프라]]》에서 매그나 톨반의 처형 직전에 늦어진 승진 서류가 도착한다. 새 직급의 처형 기준이 달라져 집행이 취소되는 행정적 변형이다.",
     "usage": "법적 권한과 시간 압박을 결합해 긴장을 해소한다.",
     "boundary": "대상을 무력으로 빼내거나 형장 탈출에 성공하는 것과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002368",
+      "description_ko": "《스타워즈: 닥터 아프라》에서 매그나 톨반의 처형 직전에 늦어진 승진 서류가 도착한다. 새 직급의 처형 기준이 달라져 집행이 취소되는 행정적 변형이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "치명적인 공격을 받아도 방어자의 능력이나 보호 규칙 때문에 최소 체력이 남는 생존 장치.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "정확한 피해 계산으로 우연히 체력 1이 남는 경우와 다르다. 충분한 선행 체력, 발동 횟수, 연속 공격별 판정 등 조건에 따라 회복과 생존의 전략이 달라진다.\n\n작품 사례: 《[[패러사이트 이브 2]]》의 치킨 플레이트를 착용하면 원래 치명적인 공격을 받아도 체력 1을 남겨 살아남을 수 있다.",
+    "usage": "치명상 판정 전에 최소 체력을 보장하는 규칙이 있는지, 재발동 조건과 연속 공격 처리 방식이 무엇인지 확인한다.",
+    "boundary": "공격이 본래 체력보다 약해서 우연히 살아남은 경우와 구별한다. 쓰러진 뒤 되살아나는 [[자동 부활]]이나 공격 자체가 체력을 1로 설정하는 효과와도 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002172",
+      "description_ko": "《패러사이트 이브 2》의 치킨 플레이트를 착용하면 원래 치명적인 공격을 받아도 체력 1을 남겨 살아남을 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

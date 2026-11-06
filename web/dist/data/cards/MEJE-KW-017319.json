@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F06",
   "description": {
     "definition": "초자연적인 신체 변화가 낯선 경험을 만들고 그 경험을 통해 인물의 성격이나 가치관이 달라진다.",
-    "detail": "",
+    "detail": "새 모습의 제약, 다른 사람의 대우, 타인에게 의존해야 하는 상황이 변화의 계기가 된다.\n\n작품 사례: 《[[제10왕국]]》에서 개로 변한 웬델 왕자는 왕국에서 쫓겨나 타인에게 의지해야 하는 경험을 거치며 인간 모습과 왕위를 되찾을 때 더 성숙한 사람이 된다.",
     "usage": "외형 변화의 사건을 인물 성장과 연결하고 되돌아온 뒤의 차이를 보여 줄 때 쓴다.",
     "boundary": "신체만 바뀌고 인물에게 내적인 변화가 없는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "06",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001832",
+      "description_ko": "《제10왕국》에서 개로 변한 웬델 왕자는 왕국에서 쫓겨나 타인에게 의지해야 하는 경험을 거치며 인간 모습과 왕위를 되찾을 때 더 성숙한 사람이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "연인이나 부부가 관계의 어려움을 다루기 위해 지속적인 노력과 조정을 하며 애정을 유지하는 유형이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "거대한 고백이나 일시적인 낭만만으로 관계가 유지되지 않는다는 점을 보여 준다. 어려움을 다루는 두 사람과 사랑은 쉬워야 한다고 믿는 인물을 대비시킬 수 있다.\n\n작품 사례: 《[[스타워즈 제다이: 오더의 몰락]]》에서 그리즈는 사랑에 상호 존중과 대화, 상대 말을 듣는 노력이 필요하다고 설명한다. 관계를 얻는 순간보다 유지하는 태도를 주제로 삼는 대사다.",
+    "usage": "관계가 성립한 뒤에도 소통·조정·책임의 선택이 계속된다는 [[서사]]를 만든다.",
     "boundary": "관계 형성 이전의 구애 노력과 구별하며 이미 형성된 사랑의 유지에 초점을 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001564",
+      "description_ko": "《스타워즈 제다이: 오더의 몰락》에서 그리즈는 사랑에 상호 존중과 대화, 상대 말을 듣는 노력이 필요하다고 설명한다. 관계를 얻는 순간보다 유지하는 태도를 주제로 삼는 대사다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

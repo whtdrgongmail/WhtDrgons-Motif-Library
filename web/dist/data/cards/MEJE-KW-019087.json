@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "전체적으로는 인간처럼 보이지만 귀·꼬리·날개 등 일부 동물적 신체 특징을 지닌 존재 디자인이다.",
-    "detail": "",
+    "detail": "인간의 피부·얼굴·몸통을 유지하고 귀·꼬리·작은 송곳니 같은 일부 특징을 더한다. 동물 장식을 착용한 인간이나 전신 수인과 구분한다.\n\n작품 사례: 《[[제10왕국]]》의 울프는 전반적으로 인간처럼 보이면서 꼬리·송곳니·발톱·노란 눈을 지니고 강한 감정에서 개과 동물의 행동을 보인다.",
     "usage": "친숙한 인간형에 종족의 차이를 간결하게 표시할 때 쓴다.",
     "boundary": "몸 전체가 동물에 가까운 수인이나 동물 장식 의상을 입은 사람과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001832",
+      "description_ko": "《제10왕국》의 울프는 전반적으로 인간처럼 보이면서 꼬리·송곳니·발톱·노란 눈을 지니고 강한 감정에서 개과 동물의 행동을 보인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

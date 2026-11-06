@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-025006",
+  "kind": "keyword",
+  "title": "무작위 속성 조합으로 생성되는 전리품",
+  "original": "RandomlyGeneratedLoot",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "같은 종류의 장비도 희귀도·수치·속성 조합이 달라지도록 보상을 생성하는 규칙이다.",
+    "detail": "작품 사례: 《[[보더랜드]]》는 다양한 수치와 속성을 무작위로 조합한 총기를 보상으로 제공한다. 새 장비를 찾아 전투와 수집을 되풀이하는 구조가 중심이다.",
+    "usage": "더 나은 조합을 찾는 탐색과 장비 교체의 동기를 만든다.",
+    "boundary": "정해진 물건들 중 하나를 단순히 추첨하는 방식과 달리 개별 장비의 속성 조합이 달라진다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "같은 이름의 총을 또 얻어도 능력치와 효과가 다를 수 있다.\n\n작품 사례: 《[[보더랜드]]》는 다양한 수치와 속성을 무작위로 조합한 총기를 보상으로 제공한다. 새 장비를 찾아 전투와 수집을 되풀이하는 구조가 중심이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002703",
+      "description_ko": "《보더랜드》는 다양한 수치와 속성을 무작위로 조합한 총기를 보상으로 제공한다. 새 장비를 찾아 전투와 수집을 되풀이하는 구조가 중심이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

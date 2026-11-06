@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "[[게임]] 속 경찰이 자기 생존이나 피해를 고려하지 않고 위험한 추격·공격을 지속하는 [[행동]] 양식이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[배트맨: 이어 원]]》에서 경찰 특수부대는 배트맨을 무모하게 추격하며, 한 경찰은 그의 미끼를 쫓다가 부두 밖까지 차를 몰고 나간다. 추격 자체가 위험 판단을 압도한다.",
+    "usage": "추격 장면에서 경찰의 무모함을 희극·위협·행동 장면의 장애물로 사용한다.",
     "boundary": "경찰의 수가 끝없이 보충되는 [[규칙]]과 달리 개별 [[인공지능]]의 위험 무시가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002430",
+      "description_ko": "《배트맨: 이어 원》에서 경찰 특수부대는 배트맨을 무모하게 추격하며, 한 경찰은 그의 미끼를 쫓다가 부두 밖까지 차를 몰고 나간다. 추격 자체가 위험 판단을 압도한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

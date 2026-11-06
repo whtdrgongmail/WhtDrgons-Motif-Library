@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "어떤 언어를 이해하거나 구사하지 못한다고 여겼던 인물이 이미 그 언어에 능숙했음이 드러나는 장면이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[드래곤볼]]》에서 프리저는 나메크인이 공통어를 모르는 척한다는 것을 알아채고 같은 말로 답하도록 압박한다. 숨겨 둔 언어 능력이 드러나 대화의 힘 관계가 바뀐다.",
+    "usage": "기존 대화와 비밀이 새 의미를 갖게 하고 신뢰·분노·긴급 상황에 따라 정체가 공개되는 계기를 만든다.",
     "boundary": "그 순간 새로 언어를 습득하거나 번역 장치가 작동한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001375",
+      "description_ko": "《드래곤볼》에서 프리저는 나메크인이 공통어를 모르는 척한다는 것을 알아채고 같은 말로 답하도록 압박한다. 숨겨 둔 언어 능력이 드러나 대화의 힘 관계가 바뀐다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

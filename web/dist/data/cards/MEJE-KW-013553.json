@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F04",
   "description": {
     "definition": "흑인 인물들이 콴자를 기념하는 활동을 통해 자기 문화적 유산과 [[공동체]] [[정체성]]을 보여 주는 회차나 [[장면]] 구성이다.",
-    "detail": "",
+    "detail": "여러 겨울 명절을 나누어 설명하는 구성, 짧은 [[상징]] 삽입, 풍자, 콴자만을 중심에 둔 회차라는 변형이 있다.\n\n작품 사례: 《[[심슨 가족: 스프링필드]]》의 콴자 관련 퀘스트에서 히버트 박사는 축하 물품을 준비하고 호머에게 일곱 원칙을 설명한다.",
     "usage": "해당 기념일의 풍습과 축하가 회차·장면의 중심일 때 적용한다.",
     "boundary": "모든 흑인 [[인물]]이 같은 기념일을 지킨다고 가정하거나 다른 명절의 대체물로만 취급하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "04",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002327",
+      "description_ko": "《심슨 가족: 스프링필드》의 콴자 관련 퀘스트에서 히버트 박사는 축하 물품을 준비하고 호머에게 일곱 원칙을 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

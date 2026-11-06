@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "유대계 배경이나 유대교 정체성을 지닌 인물에게 학구적·마니아적 너드형의 특징을 결합하는 재현 관습이다.",
-    "detail": "",
+    "detail": "학구적이거나 대중문화에 몰두하는 성향에 안경, 비음, 특정 말투 같은 시각·청각 표지를 결합할 수 있다. 원문의 집단별 지능이나 성취에 대한 일반화·통계는 창작 카드의 사실 근거로 옮기지 않는다.\n\n작품 사례: 《[[영 어벤저스]]》의 빌리 카플란은 대중문화 인용을 즐기는 인물로 그려지며 유대인 정체성도 확인된다. 출신 정체성과 팬 성향이 한 인물 안에서 함께 표현되는 사례다.",
     "usage": "",
     "boundary": "실제 집단의 성격을 일반화하지 않고, 유대인 정체성과 너드형을 결합하는 표현만 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002103",
+      "description_ko": "《영 어벤저스》의 빌리 카플란은 대중문화 인용을 즐기는 인물로 그려지며 유대인 정체성도 확인된다. 출신 정체성과 팬 성향이 한 인물 안에서 함께 표현되는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

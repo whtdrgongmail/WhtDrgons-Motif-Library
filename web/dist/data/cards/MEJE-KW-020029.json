@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "입술의 상처나 상실을 두드러지게 보여 주어 얼굴의 취약함과 폭력의 결과를 강조하는 표현이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[아캄 어사일럼: 리빙 헬]]》에서 그레이트 화이트 샤크는 차가운 감방에서 겪은 손상으로 입술을 잃은 얼굴이 된다. 상처가 이후 인물의 위협적인 외형을 구성하는 사례다.",
     "usage": "친숙한 얼굴의 변화를 통해 신체적 불안을 집중시킨다.",
     "boundary": "입 안 전체의 공격이나 통증 없는 입술 디자인과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002564",
+      "description_ko": "《아캄 어사일럼: 리빙 헬》에서 그레이트 화이트 샤크는 차가운 감방에서 겪은 손상으로 입술을 잃은 얼굴이 된다. 상처가 이후 인물의 위협적인 외형을 구성하는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

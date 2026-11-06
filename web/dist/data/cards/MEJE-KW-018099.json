@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "과거에는 널리 알려졌던 지식이 많은 사람의 기억과 전승에서 사라져, 후대에는 쉽게 알 수 없는 정보가 되는 설정.",
-    "detail": "",
+    "detail": "후대 인물은 옛날의 평범한 지식을 놀랍거나 믿기 어려운 발견으로 받아들인다. 기록을 다시 읽거나 노인의 기억을 듣는 방식이 있으며, 대상 자체가 멸종하여 지식도 사라진 경우가 있다.\n\n작품 사례: 《[[혹성탈출: 새로운 시대]]》에서 진화한 유인원들에게 문자 해독과 옛 인간의 도구는 새롭게 배워야 할 지식이다. 과거의 역사를 설명하고 기술을 고칠 수 있는 인간을 곁에 둔 것이 권력의 이점이 된다.",
     "usage": "시대가 흐르며 생긴 지식의 빈틈, 재발견의 가치, 과거 기록을 해석하기 어려운 이유를 만들 때 쓴다.",
     "boundary": "처음부터 소수만 알던 비밀과 구분한다. 한 개인만 잊은 기억이 아니라 공동체 차원의 전승 상실을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002670",
+      "description_ko": "《혹성탈출: 새로운 시대》에서 진화한 유인원들에게 문자 해독과 옛 인간의 도구는 새롭게 배워야 할 지식이다. 과거의 역사를 설명하고 기술을 고칠 수 있는 인간을 곁에 둔 것이 권력의 이점이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

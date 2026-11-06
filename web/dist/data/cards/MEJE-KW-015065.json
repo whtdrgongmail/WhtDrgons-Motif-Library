@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "상대를 공중으로 올려 자세를 무너뜨리고 후속 공격에 취약하게 만드는 전투 동작이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[베요네타]]》는 적을 공중으로 띄우는 전용 공격을 연속 공격의 출발점으로 사용하는 액션 게임의 사례로 제시된다.",
+    "usage": "적의 공중 상태와 후속 공격의 연결로 전투의 위험·보상을 설계한다.",
     "boundary": "단순히 멀리 밀어내는 공격과 방향·연계 기능을 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002390",
+      "description_ko": "《베요네타》는 적을 공중으로 띄우는 전용 공격을 연속 공격의 출발점으로 사용하는 액션 게임의 사례로 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

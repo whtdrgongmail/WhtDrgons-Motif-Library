@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "미국 뉴잉글랜드 지역을 기묘한 전승과 초자연적 사건이 숨어 있는 공간으로 묘사하는 관습.",
-    "detail": "",
-    "usage": "",
+    "detail": "고립된 마을·폐쇄적인 주민·[[초자연]]적인 비밀이 반복되는 창작상의 지역 이미지다. 주민의 실제 특성이나 혈통에 관한 원문의 편견은 사실 설명으로 옮기지 않았다.\n\n작품 사례: 《[[스톰 오브 더 센추리]]》는 뉴잉글랜드의 리틀 톨 섬을 배경으로 마을의 비밀과 어둠의 존재와 맺는 거래를 다룬다. 외딴 공동체의 일상 아래 숨은 공포가 장소의 성격을 만든다.",
+    "usage": "낯익고 한적한 지역의 일상 뒤에 숨은 고대적 위협을 공간의 인상으로 축적한다.",
     "boundary": "실제 지역의 특성을 단정하지 않고 창작상의 공간 이미지를 분류한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002741",
+      "description_ko": "《스톰 오브 더 센추리》는 뉴잉글랜드의 리틀 톨 섬을 배경으로 마을의 비밀과 어둠의 존재와 맺는 거래를 다룬다. 외딴 공동체의 일상 아래 숨은 공포가 장소의 성격을 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

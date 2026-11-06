@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "현실적인 비용·입수 가능성·상황을 크게 벗어난 선물을 요구해 주는 사람에게 난처한 과제를 만드는 상황이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[심슨 가족]]》에서 리사는 조랑말을 선물로 바라지만 실제로 구입한 뒤에는 가족의 재정에 큰 부담이 생긴다. 소원의 실현이 유지 비용이라는 현실적인 문제를 드러낸다.",
+    "usage": "주는 사람의 현실적인 제약과 받으려는 인물의 비현실적인 기대를 충돌시킨다.",
     "boundary": "단순히 비싼 취향만이 아니라 해당 상황에서의 터무니없는 실현 난도가 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》에서 리사는 조랑말을 선물로 바라지만 실제로 구입한 뒤에는 가족의 재정에 큰 부담이 생긴다. 소원의 실현이 유지 비용이라는 현실적인 문제를 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

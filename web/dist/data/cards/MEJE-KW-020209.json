@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "스스로 빛나는 작은 생물을 어둠을 밝히는 광원으로 활용하는 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[월드 오브 워크래프트]]》의 곤충형 생물 거처는 벽에 붙은 발광 곤충으로 밝아진다. 생물과 건축 환경이 결합된 조명 방식이다.",
     "usage": "생활 도구와 자연을 연결해 세계의 재료와 분위기를 보여 준다.",
     "boundary": "생물의 빛을 감상하는 장면과 달리 실제로 주변을 보는 조명 역할이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001297",
+      "description_ko": "《월드 오브 워크래프트》의 곤충형 생물 거처는 벽에 붙은 발광 곤충으로 밝아진다. 생물과 건축 환경이 결합된 조명 방식이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

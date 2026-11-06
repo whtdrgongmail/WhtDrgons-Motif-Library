@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "게임 초반 구간에서 들리는 음악이 가장 널리 기억되어 게임 전체의 대표곡처럼 기능하는 현상이다. 많은 플레이어가 공유한 초기 경험이 음악의 상징성을 만든다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[악마성 드라큘라(1986년 게임)]]》의 첫 스테이지 음악은 후속 게임에서도 여러 번 사용되어 연작을 대표하는 선율 가운데 하나가 된다. 초반 구간의 음악이 작품 밖의 대표성까지 얻는 사례다.",
     "usage": "음악과 플레이 경험의 공통 출발점이 대중적 기억으로 연결되는 방식을 설명할 때 쓴다.",
     "boundary": "단지 첫 구간에 쓰였다는 사실과 다르다. 후속 구간의 곡보다 대표성이 두드러지는 수용이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-002464",
+      "description_ko": "《악마성 드라큘라(1986년 게임)》의 첫 스테이지 음악은 후속 게임에서도 여러 번 사용되어 연작을 대표하는 선율 가운데 하나가 된다. 초반 구간의 음악이 작품 밖의 대표성까지 얻는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

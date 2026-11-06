@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "잡지나 방송 채널이 이어지는 발행과 편성에서 처음 내세운 관심 분야와 정체성을 유지하지 못하고 달라진다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[디즈니 어드벤처스]]》는 다양한 교육성 주제와 만화를 담던 잡지에서 홍보성 인물·캐릭터 기사 쪽으로 범위가 좁아진 사례로 원문에 제시된다.",
+    "usage": "독자 확대와 새 매체 경쟁이 편집 방향을 바꾸는 과정을 비교한다.",
     "boundary": "개별 작품의 줄거리 변화와 매체 전체의 편집·편성 방향을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02499",
+      "work_card_id": "MM-MEDIA-002837",
+      "description_ko": "《디즈니 어드벤처스》는 다양한 교육성 주제와 만화를 담던 잡지에서 홍보성 인물·캐릭터 기사 쪽으로 범위가 좁아진 사례로 원문에 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

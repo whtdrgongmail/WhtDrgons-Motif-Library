@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "반복적인 북소리를 사용해 문명에서 멀리 떨어진 정글이나 낯선 공동체의 공간을 암시하는 음악 관습이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[반지의 제왕(소설)]]》에서 메리는 드루아단 숲의 북소리를 적의 전쟁 북인지 의심하지만 엘프헬름은 숲사람들이 멀리서 서로 소통하는 소리라고 설명한다.",
     "usage": "음색과 리듬이 장소·기후를 암시하는 음악적 관습을 구분할 때 쓴다.",
     "boundary": "실제 지역의 음악을 하나의 원시적 이미지로 일반화하는 설명이 아니다. 매체가 쓰는 장소의 기호로 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002150",
+      "description_ko": "《반지의 제왕(소설)》에서 메리는 드루아단 숲의 북소리를 적의 전쟁 북인지 의심하지만 엘프헬름은 숲사람들이 멀리서 서로 소통하는 소리라고 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

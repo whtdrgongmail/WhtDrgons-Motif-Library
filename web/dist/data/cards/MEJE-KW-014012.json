@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "잃거나 손상된 심장을 다른 심장으로 바꾸는 사건이 인물의 변화를 이루는 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[기생수(만화)]]》에서 미기는 자신의 세포로 신이치의 손상된 심장을 대신한다. 이후 신이치의 냉정해진 태도와 눈물의 변화가 함께 나타나 심장의 변화가 인물의 전환과 연결된다.",
     "usage": "심장 대체가 변화의 명시적 계기가 되는지 확인한다.",
     "boundary": "기존 심장에 손상을 가하는 사건만 있고 교체는 없는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002574",
+      "description_ko": "《기생수(만화)》에서 미기는 자신의 세포로 신이치의 손상된 심장을 대신한다. 이후 신이치의 냉정해진 태도와 눈물의 변화가 함께 나타나 심장의 변화가 인물의 전환과 연결된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

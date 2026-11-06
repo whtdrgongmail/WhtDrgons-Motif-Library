@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "라틴계 인물을 모두 올리브색 피부와 짙은 머리색으로 표현하여 다양한 인종적·지역적 외모를 하나로 축소하는 재현 관습이다.",
-    "detail": "",
+    "detail": "작품 사례: 만화 《[[아메리카]]》(2017)는 여러 중남미 지역에서 만나는 라틴계 인물들을 한 가지 갈색 피부 외형으로 반복해 그리는 사례로 원문에 제시된다.",
     "usage": "집단 전체가 제한된 외모 표지로 획일화되는지 확인한다.",
     "boundary": "특정 인물 한 명의 실제 외모를 묘사하는 것과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002387",
+      "description_ko": "만화 《아메리카》(2017)는 여러 중남미 지역에서 만나는 라틴계 인물들을 한 가지 갈색 피부 외형으로 반복해 그리는 사례로 원문에 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

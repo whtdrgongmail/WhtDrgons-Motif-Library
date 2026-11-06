@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "벽에 붙은 안내문이나 포스터의 내용을 기억하거나 옮겨 적는 대신 종이 자체를 가져가 정보를 확보하는 행동이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[레드 데드 리뎀션]]》에서 존 마스턴은 현상금 임무를 받아들이면 벽의 수배 전단을 뜯어 접고 외투에 넣는다. 임무 정보를 챙기는 행동이 공개된 전단의 제거로 표현된다.",
     "usage": "공공의 정보가 휴대하는 단서로 바뀌는 간단한 동작을 만든다.",
     "boundary": "게시물을 훼손하려는 행동이나 내용과 무관한 기념품 수집과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002187",
+      "description_ko": "《레드 데드 리뎀션》에서 존 마스턴은 현상금 임무를 받아들이면 벽의 수배 전단을 뜯어 접고 외투에 넣는다. 임무 정보를 챙기는 행동이 공개된 전단의 제거로 표현된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

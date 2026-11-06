@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "상관과 집단에 대한 충성은 유지하면서 특정 명령이 옳지 않다고 여겨 따르지 않는 인물이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "명령을 어겨 좋은 결과를 내도 지휘 체계나 위험한 독단 때문에 처벌받을 수 있다. 부하의 판단이 옳았는지와 충성의 진정성은 별개로 드러난다.\n\n작품 사례: 《[[킹덤 하츠]]》에서 도널드와 구피는 미키 왕에게 충성하면서도 소라가 위험에 처하자 왕의 지시보다 친구를 지키려는 판단을 앞세운다. 명령에 불복해도 왕과 동료를 위한 소속감은 유지된다.",
+    "usage": "충성과 명령 이행을 분리하여 같은 편 안의 판단·도덕 [[갈등]]을 구성한다.",
     "boundary": "충성 관계 자체를 버리는 배신과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001388",
+      "description_ko": "《킹덤 하츠》에서 도널드와 구피는 미키 왕에게 충성하면서도 소라가 위험에 처하자 왕의 지시보다 친구를 지키려는 판단을 앞세운다. 명령에 불복해도 왕과 동료를 위한 소속감은 유지된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

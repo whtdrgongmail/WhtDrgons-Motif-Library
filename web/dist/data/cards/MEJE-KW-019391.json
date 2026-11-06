@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "처벌하려던 범죄로는 책임을 묻지 못한 상대에게 별도의 입증 가능한 위법 행위를 적용하여 법적 제재를 가하는 전개다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼 Z(애니메이션)]]》에서 아기 공룡을 데려간 서커스 단장은 그 행동 자체로 붙잡히지 않지만, 대치 중 경찰의 총을 빼앗은 별도 행위가 체포 근거가 된다.",
     "usage": "법 집행의 제약과 우회적인 응징을 이야기의 해결에 활용한다.",
     "boundary": "없는 죄를 만들어 씌우는 것과 구별하며 실제 법률 조언으로 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002164",
+      "description_ko": "《드래곤볼 Z(애니메이션)》에서 아기 공룡을 데려간 서커스 단장은 그 행동 자체로 붙잡히지 않지만, 대치 중 경찰의 총을 빼앗은 별도 행위가 체포 근거가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

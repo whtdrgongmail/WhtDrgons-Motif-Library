@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "어린 [[인물]]이 공포영화를 본 뒤 강한 두려움을 겪어 관람의 영향이 [[사건]]이 되는 모티프다.",
-    "detail": "",
-    "usage": "",
+    "detail": "두려움에 맞서는 성장 경험으로 바꾸거나 아이보다 어른이 더 겁먹는 반전도 가능하다.\n\n작품 사례: 《[[심슨 가족]]》에서 바트와 리사는 호머와 공포 영화를 본 뒤 다락방에 괴물이 있다고 두려워한다. 영화가 남긴 공포가 집 안의 상황을 오해하게 만든다.",
+    "usage": "호기심과 금지, 상상과 현실의 혼동을 일상 코미디나 성장 사건으로 만든다.",
     "boundary": "[[현실]] 연령별 관람 지침이 아니라 작품 속 반응과 결과를 설명한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》에서 바트와 리사는 호머와 공포 영화를 본 뒤 다락방에 괴물이 있다고 두려워한다. 영화가 남긴 공포가 집 안의 상황을 오해하게 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

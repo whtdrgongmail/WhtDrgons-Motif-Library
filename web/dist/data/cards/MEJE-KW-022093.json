@@ -1,0 +1,43 @@
+{
+  "id": "MEJE-KW-022093",
+  "kind": "keyword",
+  "title": "직업별 성장 이력이 남는 능력치",
+  "original": "Stats Retain Class-Leveling History",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "레벨이 오를 때의 직업에 따라 증가한 수치가 캐릭터에 남아 이후 전직 뒤에도 성장 이력이 영향을 주는 규칙이다.",
+    "detail": "작품 사례: 《[[도카폰 킹덤]]》에서는 전직해도 이전에 얻은 능력치가 남는다. 어떤 직업으로 성장했는지가 다음 직업의 성능에도 영향을 주는 사례다.",
+    "usage": "",
+    "boundary": "현재 직업을 바꾸면 과거 성장이 모두 같은 값으로 대체되는 방식과 다르다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "전사로 오래 키운 뒤 마법사가 되면 몸은 튼튼하지만 마력이 부족할 수 있다.\n\n작품 사례: 《[[도카폰 킹덤]]》에서는 전직해도 이전에 얻은 능력치가 남는다. 어떤 직업으로 성장했는지가 다음 직업의 성능에도 영향을 주는 사례다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002118",
+      "description_ko": "《도카폰 킹덤》에서는 전직해도 이전에 얻은 능력치가 남는다. 어떤 직업으로 성장했는지가 다음 직업의 성능에도 영향을 주는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

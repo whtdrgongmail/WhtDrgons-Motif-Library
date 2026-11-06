@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "놀이를 위해 만들어진 장난감이 생명을 지닌 존재처럼 움직이고 반응하는 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 만화 《[[블리치(만화)]]》의 콘은 사자 봉제인형의 몸에 들어가 스스로 말하고 움직이면서 가족 앞에서는 살아 있다는 사실을 숨기려 한다.",
     "usage": "놀이 세계와 실제 사건을 연결하거나 소유자와 사물의 관계를 바꿀 때 쓴다.",
     "boundary": "사람이 조작하거나 정해진 반응만 수행하는 장난감과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "만화 《블리치(만화)》의 콘은 사자 봉제인형의 몸에 들어가 스스로 말하고 움직이면서 가족 앞에서는 살아 있다는 사실을 숨기려 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

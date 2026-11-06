@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "주변 사람들이 죽은 이를 애도하지 않고 조롱하거나 업신여겨 생전 [[관계]]를 드러내는 [[장면]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "유산 다툼, 무관심한 태도, 고인 비난, 사적 이익을 위한 참석부터 묘지 훼손까지 폭이 넓다. 유족의 즐거운 추억 공유나 실수로 벌어진 소동은 존중의 부재와 구별한다.\n\n작품 사례: 《[[심슨 가족]]》의 「Homer's Enemy」에서는 프랭크 그라임스의 장례 중 호머가 잠들어 텔레비전 채널을 바꾸라는 잠꼬대를 하고, 참석자들이 웃는다. 고인을 애도할 자리가 그의 삶에 대한 무관심을 드러낸다.",
+    "usage": "장례·추도·묘지 방문에서 어떤 말이나 행동이 고인과 유족을 존중하지 않는지, 그것이 생전 관계를 어떻게 드러내는지 확인한다.",
     "boundary": "비판적 평가와 단순한 모욕은 문맥에 따라 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》의 「Homer's Enemy」에서는 프랭크 그라임스의 장례 중 호머가 잠들어 텔레비전 채널을 바꾸라는 잠꼬대를 하고, 참석자들이 웃는다. 고인을 애도할 자리가 그의 삶에 대한 무관심을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

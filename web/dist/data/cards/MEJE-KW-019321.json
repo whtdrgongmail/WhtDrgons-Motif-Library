@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "삼각관계에서 여러 후보 가운데 자신과 같은 인종·민족 배경의 사람을 최종 상대로 선택하는 구성이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[팬텀(신문 만화)]]》에서 서로 피부색이 다른 두 정글 패트롤 대원은 정체를 모르는 지휘관을 상상하며 각각 자신과 같은 피부색으로 그린다. 모르는 연애 대상에게 익숙한 정체성을 투사하는 사례다.",
     "usage": "연애 상대의 출신 배경이 선택의 기준으로 작용하는 구도를 설명한다.",
     "boundary": "같은 출신 커플이 있다는 사실만으로는 부족하며 다른 후보와의 선택 구도가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002533",
+      "description_ko": "《팬텀(신문 만화)》에서 서로 피부색이 다른 두 정글 패트롤 대원은 정체를 모르는 지휘관을 상상하며 각각 자신과 같은 피부색으로 그린다. 모르는 연애 대상에게 익숙한 정체성을 투사하는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

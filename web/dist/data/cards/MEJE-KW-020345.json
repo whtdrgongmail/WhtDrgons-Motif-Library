@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "수영이나 서핑을 자주 하는 인물을 밝은 머리색과 연결해 시각적으로 유형화하는 애니메이션·만화 관습이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[파이널 판타지 X]]》에서는 금발인 티더와 류크, 붉은 머리의 와카가 수중 전투에 참여한다. 밝은 머리색과 수영 역할의 연결이며, 원문은 인물마다 머리색의 설정상 이유도 다름을 명시한다.",
     "usage": "활동적이고 해변과 가까운 인상을 외형에 압축한다.",
     "boundary": "실제 머리색과 운동 능력의 상관관계를 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001729",
+      "description_ko": "《파이널 판타지 X》에서는 금발인 티더와 류크, 붉은 머리의 와카가 수중 전투에 참여한다. 밝은 머리색과 수영 역할의 연결이며, 원문은 인물마다 머리색의 설정상 이유도 다름을 명시한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

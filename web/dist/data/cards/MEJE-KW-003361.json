@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "결혼이나 연애 관계를 이용해 상대의 재산을 노리고 해치는 인물. 성별 고정관념보다 반복되는 사기와 폭력의 선택에 초점을 둔다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[The Perfect Bride(1991)]]》의 주인공은 오빠의 약혼녀가 과거 약혼자들을 희생시킨 연쇄 살인자임을 알아낸다. 새로운 결혼을 앞둔 관계 안에 반복된 위협이 숨어 있다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "금전적 동기는 이 항목에서 확인되지 않아 재산을 노리는 결혼 사기범 카드와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002514",
+      "description_ko": "《The Perfect Bride(1991)》의 주인공은 오빠의 약혼녀가 과거 약혼자들을 희생시킨 연쇄 살인자임을 알아낸다. 새로운 결혼을 앞둔 관계 안에 반복된 위협이 숨어 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

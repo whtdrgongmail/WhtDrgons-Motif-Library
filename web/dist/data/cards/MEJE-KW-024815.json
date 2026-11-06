@@ -1,0 +1,43 @@
+{
+  "id": "MEJE-KW-024815",
+  "kind": "keyword",
+  "title": "점령 인원수를 여러 명으로 계산하는 능력",
+  "original": "One Player Counts as Several on the Point",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "거점의 점령 속도가 인원수에 따라 정해질 때 한 인물을 여러 명으로 세는 보정이다.",
+    "detail": "작품 사례: 《[[팀 포트리스 2]]》의 스카웃은 점령 지점에서 두 명의 인원으로 계산되어 빠른 점령에 기여한다.",
+    "usage": "",
+    "boundary": "일반 이동 속도나 공격력 증가와 달리 점령 인원 계산을 바꾼다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "혼자 서 있어도 두 명 이상이 서 있는 효과로 점령한다.\n\n작품 사례: 《[[팀 포트리스 2]]》의 스카웃은 점령 지점에서 두 명의 인원으로 계산되어 빠른 점령에 기여한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002641",
+      "description_ko": "《팀 포트리스 2》의 스카웃은 점령 지점에서 두 명의 인원으로 계산되어 빠른 점령에 기여한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

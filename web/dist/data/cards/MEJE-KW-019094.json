@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "녹은 암석인 용암이 몸을 이루고 생물처럼 움직이며 반응하는 존재이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[젤다의 전설 티어스 오브 더 킹덤]]》의 모라기아는 데스마운틴의 용암과 독기로 세 머리의 몸을 이루어 공격하는 거대한 괴물이다.\n작품 사례: 《[[디지몬]]》의 볼크드라몬은 용암으로 된 용형 생물로 제시된다.",
     "usage": "고열과 유동성을 생물의 외형과 행동 규칙으로 결합할 때 쓴다.",
     "boundary": "돌 몸에서 불만 나오는 존재나 용암에 사는 보통 육체의 생물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,22 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001294",
+      "description_ko": "《젤다의 전설 티어스 오브 더 킹덤》의 모라기아는 데스마운틴의 용암과 독기로 세 머리의 몸을 이루어 공격하는 거대한 괴물이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-002128",
+      "description_ko": "《디지몬》의 볼크드라몬은 용암으로 된 용형 생물로 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

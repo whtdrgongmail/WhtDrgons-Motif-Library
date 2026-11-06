@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "한 부모가 자녀에게 잔혹하게 대하는 가운데 다른 부모는 사랑과 애정을 보이는 대조적인 가족 구도다.",
-    "detail": "",
+    "detail": "부모의 성별이나 생물학적인 관계는 고정되지 않는다. 다정한 부모의 애정과 실제로 자녀를 보호하는 능력은 별개이며, 두 부모의 차이가 부부 [[갈등]]이나 양육권 다툼으로 이어질 수도 있다.\n\n작품 사례: 《[[도라에몽(만화)]]》에서 노비스케의 아버지는 실수한 아들을 때리는 가혹한 부모로, 어머니는 아들의 불안을 이해하는 다정한 부모로 대비된다. 이는 노비타의 부모의 단순한 엄격함 차이보다 위협과 위안이 뚜렷이 갈리는 세대의 사례다.",
     "usage": "한 가족 안에서 위협과 위안의 근원이 나뉘는 관계를 구성할 때 쓴다.",
     "boundary": "엄격하지만 학대하지 않는 부모와 너그러운 부모의 차이보다 해악의 차이가 크다. 다정한 부모가 실제로 보호에 성공하는지는 별개다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002509",
+      "description_ko": "《도라에몽(만화)》에서 노비스케의 아버지는 실수한 아들을 때리는 가혹한 부모로, 어머니는 아들의 불안을 이해하는 다정한 부모로 대비된다. 이는 노비타의 부모의 단순한 엄격함 차이보다 위협과 위안이 뚜렷이 갈리는 세대의 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

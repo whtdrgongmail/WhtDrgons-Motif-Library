@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "인물들에게 이가 생기고 그 문제를 처리하는 일이 한 회차의 중심 사건이 되는 구성이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[사우스 파크]]》의 「Lice Capades」에서 아이들은 머릿니의 원인을 특정 아이에게 돌리며 갈등한다. 결국 모두에게 머릿니가 있었다는 사실이 밝혀져 편견과 책임 전가가 드러난다.",
     "usage": "작은 생활 문제를 집단의 당황과 관계 변화로 확대한다.",
     "boundary": "병의 진단이나 치료 지침이 아니며 잠깐 언급되는 신체 상태와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001601",
+      "description_ko": "《사우스 파크》의 「Lice Capades」에서 아이들은 머릿니의 원인을 특정 아이에게 돌리며 갈등한다. 결국 모두에게 머릿니가 있었다는 사실이 밝혀져 편견과 책임 전가가 드러난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

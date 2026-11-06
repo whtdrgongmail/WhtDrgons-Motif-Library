@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "낭만적인 애정이나 연애 관계를 금지하여 사랑하는 행위 자체가 처벌 대상이 되는 세계 설정이다.",
-    "detail": "",
+    "detail": "지배자의 개인적인 상처나 사회의 안정이라는 명분으로 애정을 억압할 수 있다. 법적 금지와 문화적 [[금기]], 모든 사랑의 금지와 특정 관계만의 금지는 구분한다.\n\n작품 사례: 《[[에이지 오브 엑스맨]]》의 사회에서는 사랑이 금지되며 사랑에 빠진 사람을 붙잡아 재교육한다. 아이를 인공적으로 만들고 공동으로 양육하는 제도까지 관계의 통제와 연결된다.",
     "usage": "사적 애정에 대한 국가·공동체의 금지 범위를 본다.",
     "boundary": "특정 신분 조합만 금지하는 혼인 규칙과 달리 연애 일반의 억압이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002750",
+      "description_ko": "《에이지 오브 엑스맨》의 사회에서는 사랑이 금지되며 사랑에 빠진 사람을 붙잡아 재교육한다. 아이를 인공적으로 만들고 공동으로 양육하는 제도까지 관계의 통제와 연결된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

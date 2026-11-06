@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "이름이 같은 다른 장소와 혼동하지 않도록 도시명 뒤에 국가명까지 덧붙여 위치를 설명하는 방식이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[미이라 2]]》는 대부분의 이야기가 이집트에서 벌어지는데도 카이로의 위치 자막에 이집트를 다시 명시한다.",
     "usage": "",
     "boundary": "도시명이 유명하다는 사실만으로 필요한 설명이 사라지는 것은 아니며, 원문의 비유적인 증후군 명칭을 실제 질병으로 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002666",
+      "description_ko": "《미이라 2》는 대부분의 이야기가 이집트에서 벌어지는데도 카이로의 위치 자막에 이집트를 다시 명시한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

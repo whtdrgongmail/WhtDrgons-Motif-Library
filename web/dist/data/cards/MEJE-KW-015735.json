@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "어린 영웅이 악당을 죽이는 선택을 큰 거리낌 없이 받아들이며 반드시 필요한 상황에만 한정하지 않는 인물 구도다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼]]》의 어린 손오공은 적이 너무 위험하거나 죽어 마땅하다고 판단하면 살상을 크게 주저하지 않는 인물로 소개된다. 원문은 성인이 된 뒤의 자비로운 태도와도 대비한다.",
     "usage": "나이에서 오는 순진함의 기대와 실제 살상에 대한 태도가 대비되는지 본다.",
     "boundary": "뜻밖의 사고로 적을 죽이거나 다른 선택이 없어 깊이 갈등하는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001375",
+      "description_ko": "《드래곤볼》의 어린 손오공은 적이 너무 위험하거나 죽어 마땅하다고 판단하면 살상을 크게 주저하지 않는 인물로 소개된다. 원문은 성인이 된 뒤의 자비로운 태도와도 대비한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

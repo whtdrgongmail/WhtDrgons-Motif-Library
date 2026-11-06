@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "숫자 대신 특정 알파벳을 붙여 후속작이나 새 시리즈임을 표시하는 제목 방식이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼 Z(TV 애니메이션)]]》는 기존 연작의 이름에 알파벳 Z를 붙여 후속 시리즈의 제목을 구분한다. 숫자 순번 대신 글자를 명명 장치로 사용하는 사례다.",
     "usage": "연속성을 유지하면서 새로운 단계나 분위기를 제목에 부여한다.",
     "boundary": "등급 표시나 제목의 평범한 단어 일부와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002453",
+      "description_ko": "《드래곤볼 Z(TV 애니메이션)》는 기존 연작의 이름에 알파벳 Z를 붙여 후속 시리즈의 제목을 구분한다. 숫자 순번 대신 글자를 명명 장치로 사용하는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

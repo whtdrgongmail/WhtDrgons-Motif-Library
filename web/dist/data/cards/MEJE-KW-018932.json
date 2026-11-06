@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F18",
   "description": {
     "definition": "도덕적으로 나쁘게 그린 인물의 성매개감염을 그 행동에 대한 응보처럼 연결하는 재현 관습이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[The Chronicles of Wormwood]]》는 방탕하게 묘사되는 교황 자코의 에이즈 발병을 이후 몰락과 복수의 줄거리에 연결한다. 원문은 질병을 인물의 행실에 대한 벌처럼 배치한 사례로 든다.",
+    "usage": "질병을 도덕적 형벌로 연결하는 재현과 성적 낙인의 작동 방식을 분석한다.",
     "boundary": "실제 감염을 도덕성의 증거로 취급하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "18",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002212",
+      "description_ko": "《The Chronicles of Wormwood》는 방탕하게 묘사되는 교황 자코의 에이즈 발병을 이후 몰락과 복수의 줄거리에 연결한다. 원문은 질병을 인물의 행실에 대한 벌처럼 배치한 사례로 든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "이미 쓰러졌거나 방어 능력이 없는 인물을 일부러 공격하여 가혹함과 우위를 드러낸다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[블리치(만화)]]》에서 노이트라는 그림죠와 싸운 뒤 소진된 이치고를 공격한다. 이미 심하게 약해진 상대를 노리는 행동이 가혹함을 드러낸다.",
+    "usage": "우위를 확보한 뒤에도 멈추지 않는 폭력으로 인물의 잔혹함이나 통제 상실을 드러낸다.",
     "boundary": "반드시 발차기를 해야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》에서 노이트라는 그림죠와 싸운 뒤 소진된 이치고를 공격한다. 이미 심하게 약해진 상대를 노리는 행동이 가혹함을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

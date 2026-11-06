@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "카메라를 위로 향하게 하여 가까운 지상의 풍경을 프레임 밖으로 빼고 세계가 비어 있거나 단순해 보이게 만드는 구도다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[2001 스페이스 오디세이]]》의 원시 인류가 뼈를 휘두르는 야외 장면은 낮은 위치에서 하늘을 향해 촬영하여 뒤의 자동차와 트럭이 보이지 않게 했다. 각도가 시대와 장소에 맞지 않는 생활 흔적을 프레임 밖으로 밀어낸다.",
     "usage": "상향 촬영이 주변 환경을 숨기는 공간 구성에 사용되는지 확인한다.",
     "boundary": "실제로 아무것도 없는 공간이나 인물의 권위만 강조하는 일반 [[로앵글]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002778",
+      "description_ko": "《2001 스페이스 오디세이》의 원시 인류가 뼈를 휘두르는 야외 장면은 낮은 위치에서 하늘을 향해 촬영하여 뒤의 자동차와 트럭이 보이지 않게 했다. 각도가 시대와 장소에 맞지 않는 생활 흔적을 프레임 밖으로 밀어낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

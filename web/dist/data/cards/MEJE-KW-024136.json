@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-024136",
+  "kind": "keyword",
+  "title": "세력이 늘수록 복잡해지는 구분 구조",
+  "original": "Faction Calculus",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "전략 게임의 선택 가능한 세력이 늘어나면서 각 세력의 차이와 상대적 위치를 구분하는 구조가 더 복잡해지는 설계 문제다.",
+    "detail": "",
+    "usage": "세력의 수와 개성·관계 설계의 부담을 함께 점검한다.",
+    "boundary": "기존 카드의 세력 수 증가에 따른 차이 약화와 방향이 같다고 단정하지 않고 복잡성 증가라는 현재 설명을 보존한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "편이 많아지면 어느 편이 어떻게 다른지 설명할 축도 복잡해진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

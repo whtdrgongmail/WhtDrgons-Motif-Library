@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "두 사람이 이후에는 만날 수 없음을 전제로 마지막 시간을 함께 보내는 관계 장면이다.",
-    "detail": "",
+    "detail": "연인뿐 아니라 친구·가족도 포함한다. 당시에는 마지막인 줄 모르다가 죽어 가는 인물이나 남은 인물의 회상으로 마지막 시간이 드러날 수도 있다. 죽음 없이 영구히 갈라지는 경우도 포함한다.\n\n작품 사례: 《[[킹덤 하츠: 버스 바이 슬립]]》에서 벤투스·아쿠아·테라가 시험 전날 함께 보내는 장면은 세 사람이 같은 별 아래 보낸 마지막 밤이라는 회고와 결합되어, 평범한 교류에 이별의 의미를 더한다.",
     "usage": "짧은 시간에 남은 감정과 미완의 말을 집중시킨다.",
     "boundary": "일시적인 여행이나 재회가 예정된 이별과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002351",
+      "description_ko": "《킹덤 하츠: 버스 바이 슬립》에서 벤투스·아쿠아·테라가 시험 전날 함께 보내는 장면은 세 사람이 같은 별 아래 보낸 마지막 밤이라는 회고와 결합되어, 평범한 교류에 이별의 의미를 더한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

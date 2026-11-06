@@ -1,0 +1,51 @@
+{
+  "id": "MEJE-KW-024226",
+  "kind": "keyword",
+  "title": "자발적으로 레벨과 경험치 획득을 제한하기",
+  "original": "Level Limiter",
+  "aliases": [
+    "자발적으로 레벨을 제한하는 게임 기능"
+  ],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 게임의 기능·장비·아이템을 이용해 자신의 레벨을 낮추거나 경험치 획득을 멈추도록 선택한다.",
+    "detail": "작품 사례: 《[[포켓몬 인피니트 퓨전]]》에는 포켓몬의 레벨을 낮추는 아이템이 있다. 플레이어가 도구를 사용해 성장 수치를 의도적으로 줄이는 사례다.\n작품 사례: 《[[킹덤 하츠 II]]》의 파이널 믹스판에는 경험치 획득을 막는 기능이 있어 기본 레벨로 끝내는 도전이 가능하다. 레벨 밖에서 주는 일부 능력 보상과 전투 기술을 활용하여 매우 약한 상태의 제약을 돌파한다.",
+    "usage": "도전의 긴장을 유지하거나 낮은 레벨에서 얻는 보상과 성장 방식을 선택하게 한다.",
+    "boundary": "업그레이드 버튼을 누르지 않거나 경험치를 주는 행동을 피하기만 하는 것은 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "성장을 일부러 멈추거나 낮추는 기능을 사용한다.\n\n작품 사례: 《[[포켓몬 인피니트 퓨전]]》에는 포켓몬의 레벨을 낮추는 아이템이 있다. 플레이어가 도구를 사용해 성장 수치를 의도적으로 줄이는 사례다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002472",
+      "description_ko": "《포켓몬 인피니트 퓨전》에는 포켓몬의 레벨을 낮추는 아이템이 있다. 플레이어가 도구를 사용해 성장 수치를 의도적으로 줄이는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001386",
+      "description_ko": "《킹덤 하츠 II》의 파이널 믹스판에는 경험치 획득을 막는 기능이 있어 기본 레벨로 끝내는 도전이 가능하다. 레벨 밖에서 주는 일부 능력 보상과 전투 기술을 활용하여 매우 약한 상태의 제약을 돌파한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

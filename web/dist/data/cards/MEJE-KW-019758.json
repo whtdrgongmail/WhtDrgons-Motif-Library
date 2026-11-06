@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "인물이 화장으로 외모를 바꾼 일을 속임수로 해석하고 그 외양 조절을 도덕적 악함의 표지처럼 사용하는 재현 관습이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[달의 요정 세일러문]]》의 1990년대 애니메이션에서 아야카시 자매는 화장에 집착하는 악역들로 묘사되어 꾸밈이 악역성을 강조하는 수단이 된다.",
+    "usage": "화장과 도덕성을 결부하는 외형 부호를 비판적으로 분석하고 인물의 실제 행동과 분리한다.",
     "boundary": "화장이 사람의 도덕성을 나타낸다는 사실 주장이 아니라 작품 속 편견을 분석한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001369",
+      "description_ko": "《달의 요정 세일러문》의 1990년대 애니메이션에서 아야카시 자매는 화장에 집착하는 악역들로 묘사되어 꾸밈이 악역성을 강조하는 수단이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

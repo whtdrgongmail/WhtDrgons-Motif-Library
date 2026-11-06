@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "상점에서 산 물건을 다시 팔 때 구매가보다 낮게 평가해 단순한 재판매로 돈을 벌 수 없게 만드는 게임 경제 규칙이다.",
-    "detail": "",
+    "detail": "모험·전투·가공 같은 다른 수입 활동을 유도하거나 쉬운 재판매 반복으로 자원을 무한히 얻는 것을 막는 게임 설계가 될 수 있다.\n\n작품 사례: 《[[파라오]]》에서는 재화를 들여오는 값이 다시 내다 파는 값보다 높게 정해져 단순 재판매로 이익을 얻기 어렵다. 대신 원재료를 더 비싼 완제품으로 가공하는 활동이 수익 경로가 된다. 원문은 일시적인 가격 보너스 예외도 구별한다.",
     "usage": "거래 차익을 구조적으로 막는 매입·매각 가격 차이가 있을 때 쓴다.",
     "boundary": "시간에 따른 일반적인 중고 가치 하락만을 설명하는 현실 경제 개념은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001748",
+      "description_ko": "《파라오》에서는 재화를 들여오는 값이 다시 내다 파는 값보다 높게 정해져 단순 재판매로 이익을 얻기 어렵다. 대신 원재료를 더 비싼 완제품으로 가공하는 활동이 수익 경로가 된다. 원문은 일시적인 가격 보너스 예외도 구별한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

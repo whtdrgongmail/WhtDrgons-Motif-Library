@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "타인의 고통과 불행에 마음을 쓰거나 그 입장을 이해하는 반응이 부족하게 나타나는 성향이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "원문은 감정을 식별하는 능력이 남아 있을 수 있고, 반대로 공감 능력이 있어도 자비롭게 행동하지 않을 수 있음을 구별한다. 실재 질환의 일반적 설명으로 확대하지 않는다.\n\n작품 사례: 《[[닥터 프로스트]]》의 프로스트는 자신에게 공감 능력이 없다고 설명하면서도 타인의 심리 상태를 분석한다. 원문은 이 특성이 조수와 환자를 무조건 학대하는 성격과 같지 않다는 점도 구별한다.",
+    "usage": "타인의 고통을 이해하는 말과 실제 정서 반응 사이의 간극을 만들어 인물의 관계와 선택을 설명한다.",
     "boundary": "의학적 진단을 뜻하지 않으며, 자신의 감정 표현이 조용하다는 이유만으로 판정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-002330",
+      "description_ko": "《닥터 프로스트》의 프로스트는 자신에게 공감 능력이 없다고 설명하면서도 타인의 심리 상태를 분석한다. 원문은 이 특성이 조수와 환자를 무조건 학대하는 성격과 같지 않다는 점도 구별한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

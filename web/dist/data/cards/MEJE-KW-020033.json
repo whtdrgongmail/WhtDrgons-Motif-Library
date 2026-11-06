@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "보통의 몸이라면 심하게 다칠 충격을 반복해서 견디거나 부상을 입고도 계속 기능하는 내구성 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 웹툰 《[[약한영웅]]》은 격렬한 싸움으로 큰 충격을 받은 인물들이 다음 날에는 작은 상처 표시만 남긴 채 일상으로 돌아오는 경우를 보인다. 원문은 명시된 초능력 없이 높은 맷집을 보이는 사례로 설명한다.",
     "usage": "과격한 행동을 견디는 인물의 힘과 세계의 신체 규칙을 정한다.",
     "boundary": "맞아도 전혀 손상되지 않는 완전 무적과 같지는 않으며 단순한 의지와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-001553",
+      "description_ko": "웹툰 《약한영웅》은 격렬한 싸움으로 큰 충격을 받은 인물들이 다음 날에는 작은 상처 표시만 남긴 채 일상으로 돌아오는 경우를 보인다. 원문은 명시된 초능력 없이 높은 맷집을 보이는 사례로 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

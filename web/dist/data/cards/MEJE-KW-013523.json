@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "작품이 스스로 어색하거나 믿기 어려운 [[설정]]을 언급하여 [[관객]]도 그 문제를 의식하고 있음을 드러내는 장치이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[역전재판 3]]》에서 나루호도는 자신의 사칭범을 만나고 둘이 전혀 닮지 않았다고 직접 지적한다. 관객이 느낄 만한 [[사칭]] 성립의 어색함을 등장인물의 반응으로 짚는다.",
+    "usage": "관객이 느낄 어색함을 인물도 알아차리게 해 작품과 관객의 인식을 공유하되 실제 해결 설명이 필요한 문제와 구별한다.",
     "boundary": "짧게라도 원인을 설명하는 방식과 달리 지적 자체가 해결 설명은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002231",
+      "description_ko": "《역전재판 3》에서 나루호도는 자신의 사칭범을 만나고 둘이 전혀 닮지 않았다고 직접 지적한다. 관객이 느낄 만한 사칭 성립의 어색함을 등장인물의 반응으로 짚는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

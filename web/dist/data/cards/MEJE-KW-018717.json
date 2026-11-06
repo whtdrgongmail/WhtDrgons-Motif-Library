@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "특정 대상이나 말이 인물의 태도를 즐겁고 예의 바르게 바꾸는 계기로 작동한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "좋아하는 일·칭찬·사과·가족·보호하고 싶은 약자 등이 자극이 될 수 있다. 악역의 남은 기준을 상기시켜 잔혹한 행동을 멈추게 할 수도 있다.\n\n작품 사례: 《[[원피스(만화)]]》의 상디는 평소 마음에 들지 않는 사람이라도 굶주렸다면 음식을 내준다. 굶주림에 대한 기억이 까칠한 태도를 누그러뜨리는 구체적인 자극이 된다.",
+    "usage": "한 인물의 거친 태도를 바꿀 구체적인 조건을 정하고 협상·화해·관계의 열쇠로 쓴다.",
     "boundary": "일반적인 선한 성격이 아니라 조건에 따른 반응이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》의 상디는 평소 마음에 들지 않는 사람이라도 굶주렸다면 음식을 내준다. 굶주림에 대한 기억이 까칠한 태도를 누그러뜨리는 구체적인 자극이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

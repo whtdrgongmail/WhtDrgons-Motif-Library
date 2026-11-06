@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-025832",
+  "kind": "keyword",
+  "title": "열쇠가 잠금 안쪽에 있는 모순",
+  "original": "The Key Is Behind the Lock",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F08",
+  "description": {
+    "definition": "잠금을 풀기 위해 필요한 대상이 바로 그 잠금이 지키는 안쪽에 있어 접근 조건이 서로 막히는 상황이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "멀리 있는 열쇠를 찾는 탐색과 달리 접근 조건의 순환이 핵심이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "08",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "문을 열어야 열쇠를 얻는데 열쇠가 있어야 문을 열 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

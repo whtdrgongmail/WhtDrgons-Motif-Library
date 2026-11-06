@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "기존 구간의 좌우 [[배치]]를 반전하거나 통과 경로를 역순으로 바꾸어 새 플레이 조건을 만드는 구성이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[둠(1993년 게임)]]》의 세 번째 에피소드 비밀 구간은 처음에는 앞선 구간과 같아 보이지만 마지막 방이 확장된 뒤 역방향으로 진행하게 한다. 돌아가는 방에도 새 적과 확장된 공간이 있어 이전 지식을 새 조건에 적용해야 한다.",
+    "usage": "익숙한 장소를 다른 방향과 장애물 조건으로 다시 읽게 하면서 공간 자산을 재활용한다.",
     "boundary": "같은 경로를 단순 반복하는 것과 달리 방향의 변화가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002470",
+      "description_ko": "《둠(1993년 게임)》의 세 번째 에피소드 비밀 구간은 처음에는 앞선 구간과 같아 보이지만 마지막 방이 확장된 뒤 역방향으로 진행하게 한다. 돌아가는 방에도 새 적과 확장된 공간이 있어 이전 지식을 새 조건에 적용해야 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

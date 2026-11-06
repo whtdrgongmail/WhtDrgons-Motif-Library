@@ -1,0 +1,35 @@
+{
+  "id": "MEJE-KW-022747",
+  "kind": "keyword",
+  "title": "이동 동작을 끊어 속도 높이기",
+  "original": "Movement Cancel",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "대시나 점프의 동작을 다른 이동 행동으로 적절히 끊어 보통보다 빠른 이동을 반복하는 게임 기법이다.",
+    "detail": "",
+    "usage": "이동 숙련도와 빠른 경로 공략의 폭을 정하고 애니메이션 연결의 부작용을 설명한다.",
+    "boundary": "일반적인 이동 속도 강화와 다르며, 정밀한 타이밍이 필요한 사례에서는 실제 플레이와 도구 보조 플레이의 실행 가능성을 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "대시와 점프를 이어 끊으면서 정상 동작보다 빠르게 이동한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

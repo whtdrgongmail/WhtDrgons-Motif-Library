@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "새로운 사실이 밝혀졌을 때 자신은 남들보다 먼저 알고 있었다고 주장하는 반응이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "실제로 몰랐다는 오해나 앞선 행동이 먼저 제시되어, 뒤늦은 주장이 관객에게 허세로 읽힌다.\n\n작품 사례: 《[[나루토(만화)]]》의 중급닌자 시험에서 나루토는 시험관이 시험의 숨은 구조를 설명하고 나서야 자신도 중간부터 알아차렸던 것처럼 행동한다.",
+    "usage": "새 사실 앞에서 체면을 지키려는 허세를 드러낸다.",
     "boundary": "주장만으로 실제 사전 지식이 입증되는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002184",
+      "description_ko": "《나루토(만화)》의 중급닌자 시험에서 나루토는 시험관이 시험의 숨은 구조를 설명하고 나서야 자신도 중간부터 알아차렸던 것처럼 행동한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

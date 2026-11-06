@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "피를 밝고 선명한 붉은색의 효과 재료로 표현하여 실제 피와 다른 인상을 주는 특수효과 관습.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[드라큘라의 피를 맛보라]]》에서는 잔 속의 피가 형체를 이루는 장면에 선명한 인공 피 효과가 사용된다. 피의 색과 점도가 공포 장면의 시각적 특징이 된다.",
+    "usage": "공포·상해 장면의 색감과 질감을 설계하거나 시대별 피 표현의 차이를 설명한다.",
     "boundary": "붉은 피 자체가 아니라 효과 재료의 두드러진 색과 표현 관습을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002224",
+      "description_ko": "《드라큘라의 피를 맛보라》에서는 잔 속의 피가 형체를 이루는 장면에 선명한 인공 피 효과가 사용된다. 피의 색과 점도가 공포 장면의 시각적 특징이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

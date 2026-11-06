@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "특정 인물이 물건을 얻지 못하도록 다른 인물들이 그 물건을 서로 주고받는 상황.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: 《[[인크레더블]]》의 결말에서 영웅들은 신드롬의 조종기를 서로 넘겨 옴니드로이드가 잡지 못하게 한다. 물건을 주고받는 동작이 적의 공격 방향을 바꾼다.",
+    "usage": "물건의 위치를 계속 바꾸며 추격의 리듬을 만들거나, 소유자를 괴롭히는 집단 행동을 보여 준다.",
+    "boundary": "서로 물건을 가지기 싫어서 떠넘기는 행동과 구별한다. 특정 상대에게 주지 않으려는 목적이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001654",
+      "description_ko": "《인크레더블》의 결말에서 영웅들은 신드롬의 조종기를 서로 넘겨 옴니드로이드가 잡지 못하게 한다. 물건을 주고받는 동작이 적의 공격 방향을 바꾼다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

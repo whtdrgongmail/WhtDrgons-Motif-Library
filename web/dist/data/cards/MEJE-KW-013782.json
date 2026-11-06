@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F30",
   "description": {
     "definition": "수용자가 인물의 악행이나 비열함을 비난하면서도 그를 지켜보는 재미와 매력을 느끼는 수용 방식이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "유머·대사·연기·일관된 악역의 성격이 매력이 될 수 있다. 잘못을 없던 것으로 만들거나 착한 인물로 재해석하는 것과 다르다. 팬 전체의 실제 합의는 이 원문만으로 수치화하지 않았다.\n\n작품 사례: 《[[해리 포터(소설 시리즈)]]》의 버넌 더즐리는 해리를 계속 부당하게 대하지만 허세와 실수, 대사에서 희극적 재미도 만들어 낸다. 원문은 악행을 인정하면서 등장 장면을 즐기는 반응의 사례로 든다.",
+    "usage": "악행을 인정하면서도 인물의 개성과 연기를 즐기는 수용을 분석한다.",
     "boundary": "미움 때문에 작품에서 사라지기만 바라는 반응과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "30",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002485",
+      "description_ko": "《해리 포터(소설 시리즈)》의 버넌 더즐리는 해리를 계속 부당하게 대하지만 허세와 실수, 대사에서 희극적 재미도 만들어 낸다. 원문은 악행을 인정하면서 등장 장면을 즐기는 반응의 사례로 든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

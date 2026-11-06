@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-025642",
+  "kind": "keyword",
+  "title": "영상 사방을 둘러싼 이중 여백",
+  "original": "windowboxing",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F22",
+  "description": {
+    "definition": "이미 상하 여백이 있는 영상을 다시 좌우 여백 안에 넣거나 그 반대로 처리해 영상의 사방에 틀이 생긴다.",
+    "detail": "",
+    "usage": "변환 경로가 겹친 영상의 표시 문제나 의도된 액자 효과를 설명한다.",
+    "boundary": "상하 또는 좌우 한 쌍의 여백만 있는 경우와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "22",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "위아래와 양옆 여백이 겹쳐 영상이 안쪽 상자에 담긴다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

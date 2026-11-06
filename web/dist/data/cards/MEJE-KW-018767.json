@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "범행을 숨기는 데 거의 성공했지만 작은 실수 하나가 결정적인 단서가 되어 범인이 드러나는 추리 전개다.",
-    "detail": "",
+    "detail": "추리의 논리는 맞아도 증거가 없다며 범인이 버티고, 탐정이 마지막에 작은 실수에서 얻은 결정적 증거를 꺼내는 대화가 대표적인 연출이다.\n\n작품 사례: 《[[셜록 홈즈(소설)]]》에서 홈즈는 모리아티가 단 한 번의 실수를 했고 그것이 경찰을 움직일 증거가 되었다고 설명한다. 본문은 구체적인 실수의 내용을 밝히지 않으므로 이를 임의로 보충하지 않는다.",
     "usage": "복잡한 은폐와 세밀한 관찰의 대결을 구성한다.",
     "boundary": "여러 큰 증거로 이미 드러난 사건과 달리 단 하나의 작은 실수가 결정적이어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002183",
+      "description_ko": "《셜록 홈즈(소설)》에서 홈즈는 모리아티가 단 한 번의 실수를 했고 그것이 경찰을 움직일 증거가 되었다고 설명한다. 본문은 구체적인 실수의 내용을 밝히지 않으므로 이를 임의로 보충하지 않는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

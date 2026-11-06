@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "신체가 비현실적으로 쉽게 손상되거나 분해되어 폭력의 결과가 과장되는 표현 규칙.",
-    "detail": "",
+    "detail": "현실의 생리·부상 한계를 설명하지 않는다. 내부 구조를 생략한 결과가 희극적 완충인지 잔혹함의 강화인지도 구별한다.\n\n작품 사례: 만화 《[[베르세르크(만화)]]》에서는 주요 인물의 높은 맷집과 달리 주변 병사들의 신체 손상이 극단적으로 쉽게 일어나는 장면이 있다. 원문은 공격의 압도적인 힘을 강조하는 과장으로 설명한다.",
     "usage": "몸의 비현실적인 취약함으로 공격의 결과를 과장한다.",
     "boundary": "일반적인 부상 취약성과 과장된 신체 물성의 차이를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002477",
+      "description_ko": "만화 《베르세르크(만화)》에서는 주요 인물의 높은 맷집과 달리 주변 병사들의 신체 손상이 극단적으로 쉽게 일어나는 장면이 있다. 원문은 공격의 압도적인 힘을 강조하는 과장으로 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

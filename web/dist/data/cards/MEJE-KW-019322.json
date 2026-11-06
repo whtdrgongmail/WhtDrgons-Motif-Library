@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "혈연 때문이 아닌데도 외모가 서로 비슷하게 디자인되거나 묘사되는 연인 관계다.",
-    "detail": "",
+    "detail": "작품 사례: 초기 만화 《[[베르세르크(만화)]]》의 가츠와 캐스커는 짧은 머리와 굵은 눈썹 등으로 외형이 서로 비슷하게 그려지는 사례다. 원문은 이후 디자인 변화로 차이가 커졌다고 구분한다.",
     "usage": "시각적인 유사성으로 두 사람의 연결감이나 기묘함을 강조한다.",
     "boundary": "비슷한 성격이나 취향에 끌리는 관계와 다르며 친족이라는 반전은 별도 판단한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002477",
+      "description_ko": "초기 만화 《베르세르크(만화)》의 가츠와 캐스커는 짧은 머리와 굵은 눈썹 등으로 외형이 서로 비슷하게 그려지는 사례다. 원문은 이후 디자인 변화로 차이가 커졌다고 구분한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

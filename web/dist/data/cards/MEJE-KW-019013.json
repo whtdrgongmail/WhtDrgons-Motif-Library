@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "전략을 세우거나 동료와 준비를 맞추기 전에 성급하게 싸움을 시작하여 계획을 흔드는 행동이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[쿵푸팬더 2]]》의 포는 남아 있으라는 타이그리스의 지시를 어기고 공장으로 돌진하여, 동료들이 준비한 작전을 망친다.",
     "usage": "개인의 성급함으로 집단의 안전과 준비가 무너지는 장면에 쓴다.",
     "boundary": "계산된 기습이나 계획된 선제공격과 구별하며 준비를 건너뛴 돌진이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001459",
+      "description_ko": "《쿵푸팬더 2》의 포는 남아 있으라는 타이그리스의 지시를 어기고 공장으로 돌진하여, 동료들이 준비한 작전을 망친다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

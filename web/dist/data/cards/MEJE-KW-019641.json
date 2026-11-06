@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "문제를 일으키는 인물에게 겉으로 중요한 직함을 주되 실권을 주지 않아, 실제 의사결정과 피해를 일으킬 기회에서 배제한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[아바타: 아앙의 전설]]》에서 오자이는 아줄라에게 불의 제왕 자리를 주면서 자신은 더 높은 불사조왕이 된다. 아줄라는 직함을 받지만 중요한 행동에서 배제된다.",
+    "usage": "승진이라는 보상과 실권 박탈이라는 실제 목적을 겹쳐 조직 정치와 인물의 반응을 그린다.",
     "boundary": "피해를 줄이는 인사 원칙과 개별 인물의 이동 장면을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》에서 오자이는 아줄라에게 불의 제왕 자리를 주면서 자신은 더 높은 불사조왕이 된다. 아줄라는 직함을 받지만 중요한 행동에서 배제된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

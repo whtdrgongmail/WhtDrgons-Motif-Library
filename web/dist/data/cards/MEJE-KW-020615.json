@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "어떤 분야를 책과 지식으로는 잘 알면서 실제 행동으로 수행하는 능력은 부족한 인물이다.",
-    "detail": "",
+    "detail": "훈련 과정의 단계 차이, 지식 수집 편중, 능력의 제약 등으로 이론과 수행이 어긋날 수 있다. 본인이 이를 인정하는 경우와 지식만으로 잘할 수 있다고 믿는 경우를 나눈다.\n\n작품 사례: 《[[삼국지연의]]》의 마속은 병서의 지식을 근거로 산 위에 진을 치지만 실제 지형과 보급 문제를 제대로 판단하지 못해 가정에서 패한다.",
     "usage": "이론과 경험의 차이를 보여 주고 배우는 과정과 역할 분담을 만든다.",
     "boundary": "그 분야에 대한 지식 자체가 없거나 일부러 실력을 감추는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001328",
+      "description_ko": "《삼국지연의》의 마속은 병서의 지식을 근거로 산 위에 진을 치지만 실제 지형과 보급 문제를 제대로 판단하지 못해 가정에서 패한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

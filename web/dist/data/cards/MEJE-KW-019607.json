@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "같은 짧은 말과 문구를 강박적으로 되풀이하여 인물이나 노래 화자의 고조된 집착과 불안정을 드러낸다.",
-    "detail": "",
-    "usage": "",
+    "detail": "같은 말의 반복만으로 실제 질환을 진단하지 않는다. 말을 되풀이하며 버티는 기능과 붕괴를 드러내는 기능이 겹칠 수 있다.\n\n작품 사례: 만화 《[[다크 소울: 레전즈 오브 더 플레임]]》에서 미스토스는 자신의 마지막 이성을 잃지 않으려 몰락한 도시의 이야기를 계속 되풀이한다. 반복이 집착의 표지이면서 자신을 붙잡는 방식으로 쓰인다.",
+    "usage": "한 문구의 반복으로 생각이 한곳에 갇힌 느낌과 감정의 고조를 표현한다.",
     "boundary": "반복 가사 전체를 정신 질환의 증거로 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002829",
+      "description_ko": "만화 《다크 소울: 레전즈 오브 더 플레임》에서 미스토스는 자신의 마지막 이성을 잃지 않으려 몰락한 도시의 이야기를 계속 되풀이한다. 반복이 집착의 표지이면서 자신을 붙잡는 방식으로 쓰인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "상대를 끌어안아 압박하는 동작을 치명적인 공격으로 사용하는 [[모티프]].",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: 《[[드래곤볼 Z(만화)]]》에서 셀은 오반을 끌어안아 압박하며 잠재력을 끌어내려 한다. 포옹과 같은 자세 자체가 공격 수단이 된다.",
+    "usage": "거대한 힘과 가까이 붙잡힌 무력감을 한 동작으로 보여 준다.",
+    "boundary": "의도적으로 몸을 압박하는 공격이다. 힘 조절 실패로 생긴 사고나 포옹하며 별도 무기를 사용하는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001945",
+      "description_ko": "《드래곤볼 Z(만화)》에서 셀은 오반을 끌어안아 압박하며 잠재력을 끌어내려 한다. 포옹과 같은 자세 자체가 공격 수단이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

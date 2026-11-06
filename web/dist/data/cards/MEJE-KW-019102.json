@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "소용돌이치는 바람이 스스로 생각하고 행동하는 존재로 나타나는 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 만화 《[[도라에몽(만화)]]》에서 진구가 도구로 만든 작은 회오리바람은 반려동물처럼 놀고 진구를 돕다가 다가오는 폭풍을 막으러 간다.",
     "usage": "형체가 없는 자연 현상을 능동적인 조력자나 위협으로 만들 때 쓴다.",
     "boundary": "다른 인물이 조종하는 바람이나 의지 없는 기상 현상과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002509",
+      "description_ko": "만화 《도라에몽(만화)》에서 진구가 도구로 만든 작은 회오리바람은 반려동물처럼 놀고 진구를 돕다가 다가오는 폭풍을 막으러 간다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "공격할 때 얼굴을 가려 정체의 불확실성과 위압감을 강화하는 가해자 유형.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[오징어 게임]]》의 진행요원들은 기하학적 표식의 가면으로 얼굴을 숨기며 서열을 나타내고, 프런트맨도 독특한 가면으로 정체와 권력을 함께 감춘다.",
+    "usage": "얼굴 가림의 면적·재질·형상이 익명성과 위협감을 만드는 방식을 구분한다.",
     "boundary": "신분을 보호하는 모든 가면 인물이 악역인 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001228",
+      "description_ko": "《오징어 게임》의 진행요원들은 기하학적 표식의 가면으로 얼굴을 숨기며 서열을 나타내고, 프런트맨도 독특한 가면으로 정체와 권력을 함께 감춘다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

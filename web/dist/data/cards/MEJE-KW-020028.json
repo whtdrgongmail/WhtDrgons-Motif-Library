@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "싸움에서 패한 인물이 먼저 무릎을 꿇은 뒤 완전히 쓰러지도록 단계적으로 보여 주는 동작이다.",
-    "detail": "",
+    "detail": "서 있는 상태에서 무릎이 먼저 낮아지고 몸이 뒤따르는 단계가 패배의 무게를 강조한다. 사망과 일시적인 기절 어느 쪽에도 사용할 수 있다.\n\n작품 사례: 《[[아바타: 아앙의 전설]]》의 「드릴」 편에서 아앙은 아줄라의 공격에 의식을 잃은 뒤 무릎부터 꺾여 바닥에 쓰러진다.",
     "usage": "패배의 순간을 늘려 버티던 힘이 빠지는 과정을 강조한다.",
     "boundary": "자발적으로 항복하며 무릎만 꿇거나 즉시 날아가 쓰러지는 장면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》의 「드릴」 편에서 아앙은 아줄라의 공격에 의식을 잃은 뒤 무릎부터 꺾여 바닥에 쓰러진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

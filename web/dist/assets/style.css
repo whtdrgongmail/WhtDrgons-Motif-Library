@@ -138,3 +138,21 @@ html[data-theme=dark] .meje-brand img{filter:none}
 .motif-card .thumb-tags{margin-top:auto;padding-top:16px}
 .original-provenance{display:inline-block;margin-right:8px;font-size:11px;font-weight:600;vertical-align:2px;color:var(--text-subtle)}
 @media(max-width:540px){.thumb-original{font-size:9px;line-height:1.35}.motif-card .thumb-tags{padding-top:12px}}
+
+/* Long-form reading area and four app-like external links. */
+.longform-article{margin:34px 0 0;padding-top:26px;border-top:1px solid var(--line)}
+.longform-article h3{font-size:19px;font-weight:650;letter-spacing:-.4px;margin:0 0 22px}
+.longform-article p{font-size:16px;line-height:1.9;word-break:keep-all;overflow-wrap:anywhere;margin:0 0 18px}
+.longform-article p:last-child{margin-bottom:0}
+.reference-links{grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
+.reference-links li{border:1px solid var(--line);border-radius:18px;background:var(--surface);padding:18px 12px 15px;text-align:center;min-width:0}
+.reference-links li a.reference-app{display:flex;flex-direction:column;justify-content:flex-start;align-items:center;gap:7px;min-height:100px;color:var(--ink)}
+.reference-links li a.reference-app:hover{color:var(--green)}
+.reference-icon{display:grid;place-items:center;width:48px;height:48px;border-radius:15px;background:color-mix(in srgb,var(--green) 9%,var(--card));color:var(--green);border:1px solid color-mix(in srgb,var(--green) 15%,var(--line))}
+.reference-links .reference-icon{color:var(--green);text-align:center}
+.reference-icon svg{width:25px;height:25px}
+.reference-links .reference-name{font-size:13px;line-height:1.4;word-break:keep-all;overflow-wrap:anywhere}
+.reference-links .reference-app small{font-size:10px;line-height:1.3;color:var(--text-muted);overflow-wrap:anywhere}
+.reference-links li p{font-size:11px;line-height:1.5;margin:9px 0 0;color:var(--text-muted)}
+@media(max-width:700px){.reference-links{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:540px){.longform-article p{font-size:14px;line-height:1.85}.reference-links li{padding:15px 8px}.reference-icon{width:42px;height:42px;border-radius:13px}.reference-icon svg{width:22px;height:22px}}

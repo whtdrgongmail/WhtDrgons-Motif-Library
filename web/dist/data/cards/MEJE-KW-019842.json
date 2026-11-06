@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "연인의 심각한 결점이나 범죄까지 받아들이던 인물이 외도나 다른 사람에게 향한 욕망만큼은 용납하지 않는 관계 기준이다.",
-    "detail": "",
+    "detail": "가해자의 다른 잘못을 부인하거나 덮어 주던 연인이 외도를 계기로 폭로와 복수에 나설 수 있다. 특정 성별의 실제 성향으로 일반화하지 않고 작품이 설정한 불균형한 기준을 본다.\n\n작품 사례: 《[[발더스 게이트 3]]》에서 연인이 된 게일은 플레이어의 심각한 악행을 넘기기도 하지만 미조라와의 외도에는 관계를 즉시 끝내고 사과도 받아들이지 않는다. 다른 잘못과 연애의 배신에 적용하는 기준의 차이가 드러난다.",
     "usage": "도덕적 관용과 관계의 소유 의식 사이의 불균형을 드러낸다.",
     "boundary": "일반적으로 모든 배신을 거부하는 태도와 달리 다른 중대한 잘못과의 대비가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001616",
+      "description_ko": "《발더스 게이트 3》에서 연인이 된 게일은 플레이어의 심각한 악행을 넘기기도 하지만 미조라와의 외도에는 관계를 즉시 끝내고 사과도 받아들이지 않는다. 다른 잘못과 연애의 배신에 적용하는 기준의 차이가 드러난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

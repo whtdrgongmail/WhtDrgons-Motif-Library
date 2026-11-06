@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-022657",
+  "kind": "keyword",
+  "title": "미리 아는 해답을 인정하지 않는 게임",
+  "original": "You Shouldn’t Know This Already",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 해답을 알아도 게임 안에서 정해진 정보를 얻는 절차를 밟기 전에는 진행을 허용하지 않는 규칙이다.",
+    "detail": "",
+    "usage": "캐릭터의 지식과 플레이어의 사전 지식 사이의 진행 조건을 정한다.",
+    "boundary": "지식만으로 길이 열리는 구조와 반대이며 실제로 해답이 달라진 경우와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "답을 아는 사람이 바로 입력해도 먼저 단서를 찾아오라고 막는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

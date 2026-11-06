@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "화자가 자신의 말에 성적인 다른 뜻이 숨어 있음을 일부러 지적하여 청자에게 그 중의를 알아차리게 하는 표현이다.",
-    "detail": "",
+    "detail": "작품 사례: 영화 《[[해리 포터와 혼혈 왕자(영화)]]》에서 코맥은 헤르미온느와 친해지고 싶다는 말 뒤에 무슨 뜻인지 알겠느냐는 확인을 붙인다. 단순한 소개 요청 이상의 의도를 듣는 사람에게 짚어 주는 방식이다.",
     "usage": "중의적인 농담을 공공연하게 만들거나 인물이 암시를 즐긴다는 점을 보여 줄 때 쓴다.",
     "boundary": "본인도 몰랐던 뜻을 뒤늦게 발견하는 실수와 구별한다. 숨은 의미를 의식적으로 확인시키는 태도가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002342",
+      "description_ko": "영화 《해리 포터와 혼혈 왕자(영화)》에서 코맥은 헤르미온느와 친해지고 싶다는 말 뒤에 무슨 뜻인지 알겠느냐는 확인을 붙인다. 단순한 소개 요청 이상의 의도를 듣는 사람에게 짚어 주는 방식이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

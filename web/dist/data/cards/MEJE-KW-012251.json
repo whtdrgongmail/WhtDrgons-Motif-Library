@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "이야기의 중심 [[영웅]]이 마지막에 극복해야 할 최종 상대의 역할까지 맡는 전개다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[진격의 거인(만화)]]》에서 에렌은 세계를 파괴하려는 최종 위협이 되고, 그의 옛 동료들이 그를 막기 위해 다른 진영과 협력한다.",
     "usage": "플레이어의 기존 중심 인물과 최종 적이 동일한지 확인한다.",
     "boundary": "[[주인공]]의 [[내적 갈등]]을 비유한 말만이 아니라 실제 최종 대립 역할이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002207",
+      "description_ko": "《진격의 거인(만화)》에서 에렌은 세계를 파괴하려는 최종 위협이 되고, 그의 옛 동료들이 그를 막기 위해 다른 진영과 협력한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

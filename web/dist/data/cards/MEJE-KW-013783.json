@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F30",
   "description": {
     "definition": "관객이 대규모 악행을 하는 인물보다 일상적으로 불쾌하고 비열한 인물을 더 강하게 싫어하는 대비이다.",
-    "detail": "",
+    "detail": "관객에게 익숙한 괴롭힘은 거대한 초현실적 악행보다 개인적 경험에 가깝게 느껴질 수 있다. 악역의 카리스마, 벌을 받는지 여부, 피해자의 개별적 묘사, 악행을 직접 보여 주는지에 따라서도 반응이 달라진다. 이는 가능한 서사적 설명이며 보편적인 심리 법칙으로 단정하지 않는다.\n\n작품 사례: 《[[스크린 랜트 피치 미팅]]》의 해리 포터 영화 편은 엄브리지가 볼드모트보다 더 미움을 받을 인물이라는 대사를 통해 이 수용의 역전을 직접 농담으로 다룬다.",
     "usage": "객관적 피해 규모와 관객의 싫어하는 감정이 어긋나는 인물 반응을 설명할 때 쓴다.",
     "boundary": "행위의 객관적 심각성과 관객의 감정적 반응을 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "30",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00094",
+      "work_card_id": "MM-MEDIA-002097",
+      "description_ko": "《스크린 랜트 피치 미팅》의 해리 포터 영화 편은 엄브리지가 볼드모트보다 더 미움을 받을 인물이라는 대사를 통해 이 수용의 역전을 직접 농담으로 다룬다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

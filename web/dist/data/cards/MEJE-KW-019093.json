@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "몸 안의 주머니에 공기보다 가벼운 기체를 담아 공중에 떠 있는 생물의 가상 생리이다.",
-    "detail": "",
+    "detail": "작품 사례: 만화 《[[원피스(만화)]]》의 하늘섬에는 부풀어 공중에 뜨는 문어가 있으며, 스카이피아를 떠나는 고잉 메리 호를 아래 바다로 내려 주는 데 사용된다.",
     "usage": "비행선 같은 부력을 생물의 몸 구조로 구현할 때 쓴다.",
     "boundary": "초능력으로 떠오르거나 날개로 나는 생물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "만화 《원피스(만화)》의 하늘섬에는 부풀어 공중에 뜨는 문어가 있으며, 스카이피아를 떠나는 고잉 메리 호를 아래 바다로 내려 주는 데 사용된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

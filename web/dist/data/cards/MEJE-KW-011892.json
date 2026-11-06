@@ -9,12 +9,12 @@
   "description": {
     "definition": "실재하던 신적 존재가 사망하여 그 역할과 권위가 비어 있는 상태를 이야기의 조건으로 삼는 [[세계관]]이다.",
     "detail": "관할 영역의 붕괴, 후계자 선정, 유해와 남은 힘을 둘러싼 [[갈등]]으로 전개할 수 있다.",
-    "usage": "",
+    "usage": "신의 부재 뒤 신앙·권력·자연 질서가 어떻게 달라지는지 세계관의 출발 조건으로 삼는다.",
     "boundary": "신앙의 쇠퇴를 비유적으로 말하거나 신의 행방을 모르는 상황과 구별한다. 이야기 안에서 실제 신의 [[죽음]]이 전제다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002266",
+      "description_ko": "《컬트: 헤레틱 킹덤즈》는 게임 이전에 신이 살해된 세계를 배경으로 하며 주인공의 심문관 조직은 숭배의 잔재를 없애려 한다. 신의 죽음 뒤에 종교와 권력의 새 질서가 남는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

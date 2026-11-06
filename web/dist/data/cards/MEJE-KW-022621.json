@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-022621",
+  "kind": "keyword",
+  "title": "큰 블록을 출구로 옮기는 클로츠키 퍼즐",
+  "original": "Klotski",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "제한된 격자 안에서 크기가 다른 블록들을 밀어 빈 공간을 바꾸고, 목표인 큰 블록을 정해진 출구 위치로 옮기는 배치 퍼즐이다.",
+    "detail": "작품 사례: 《[[원조! 뱅드림짱]]》의 미셸이 상자 안에 갇힌 에피소드는 엘리베이터를 퍼즐판처럼 구성하고, 큰 블록에 해당하는 미셸이 밖으로 나갈 수 있도록 배치를 푸는 상황을 보여 준다.",
+    "usage": "순서를 고려한 공간 추론을 이동 퍼즐이나 장면 구성에 사용한다.",
+    "boundary": "현재 원형은4×5격자와2×2목표 블록을 사용하며, 초기 배치와 다른 조각 수가 달라질 수 있다. 모든 블록 퍼즐을 뜻하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "작은 조각들을 움직여 자리를 만든 뒤 큰 조각을 출구까지 보낸다.\n\n작품 사례: 《[[원조! 뱅드림짱]]》의 미셸이 상자 안에 갇힌 에피소드는 엘리베이터를 퍼즐판처럼 구성하고, 큰 블록에 해당하는 미셸이 밖으로 나갈 수 있도록 배치를 푸는 상황을 보여 준다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002302",
+      "description_ko": "《원조! 뱅드림짱》의 미셸이 상자 안에 갇힌 에피소드는 엘리베이터를 퍼즐판처럼 구성하고, 큰 블록에 해당하는 미셸이 밖으로 나갈 수 있도록 배치를 푸는 상황을 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

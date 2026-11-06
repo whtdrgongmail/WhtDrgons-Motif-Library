@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "뚜렷한 대사나 행동이 없는 동안에도 장면을 끊지 않고 오래 유지해 인물이 머무는 시간과 공간 자체를 보게 하는 촬영 방식이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[카우보이 비밥]]》의 마지막 회는 카메라가 하늘을 거쳐 우주로 향하는 움직임을 오랫동안 유지하여 결말의 시간을 늘린다.",
     "usage": "일상의 리듬과 기다림을 체감시키거나, 행동보다 표정과 장소를 관객이 살펴보도록 할 때 쓴다.",
     "boundary": "긴 장면이라는 이유만으로 모두 해당하지 않는다. 사건을 촘촘히 잇는 긴 촬영과 달리 별일 없는 시간의 지속이 효과를 만든다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002408",
+      "description_ko": "《카우보이 비밥》의 마지막 회는 카메라가 하늘을 거쳐 우주로 향하는 움직임을 오랫동안 유지하여 결말의 시간을 늘린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

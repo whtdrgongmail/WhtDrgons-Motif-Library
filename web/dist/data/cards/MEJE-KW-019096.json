@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "옷을 전시하기 위한 마네킹이 스스로 움직이는 존재로 나타나는 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[해리 포터와 불사조 기사단]]》의 폐업한 백화점 진열창에 놓인 마네킹은 말을 건 사람에게 손가락으로 신호를 보내 성 뭉고 병원으로 들어가게 한다.",
     "usage": "익숙한 사람 모양 사물이 일상 공간에서 생기는 낯섦을 만들 때 쓴다.",
     "boundary": "마네킹으로 위장한 실제 사람이나 정해진 동작만 하는 전시 장치와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001560",
+      "description_ko": "《해리 포터와 불사조 기사단》의 폐업한 백화점 진열창에 놓인 마네킹은 말을 건 사람에게 손가락으로 신호를 보내 성 뭉고 병원으로 들어가게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "배우 피터 로리의 외모나 연기 이미지를 알아볼 수 있게 반영한 캐릭터 유형.",
-    "detail": "",
-    "usage": "",
+    "detail": "크고 처진 눈, 짧고 마른 체구, 가늘고 쉰 속삭임 같은 목소리가 핵심 단서다. 넓은 입·앞니·긴장한 땀과 머리 모양이 더해질 수 있다. 악역·부하·과학자 같은 역할은 선택적 변형이다. 현실 인물의 법률 분쟁에 대한 원문 서술은 설정 카드로 옮기지 않았다.\n\n작품 사례: 《[[스타워즈: 클론 전쟁]]》의 탄 디보 경위는 피터 로리형 외양과 인상을 지닌 인물로 제시된다. 전형적인 젖은 듯한 눈을 갖추지 않아도 전체적인 디자인과 연기 인상이 기준이 된다.",
+    "usage": "배우의 외형과 발성에 익숙한 이미지로 낯선 인물의 기이함·소심함·위협을 빠르게 전달한다.",
     "boundary": "일반적인 인상 유사성만으로 창작자의 직접 의도를 확정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001546",
+      "description_ko": "《스타워즈: 클론 전쟁》의 탄 디보 경위는 피터 로리형 외양과 인상을 지닌 인물로 제시된다. 전형적인 젖은 듯한 눈을 갖추지 않아도 전체적인 디자인과 연기 인상이 기준이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

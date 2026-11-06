@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "일행이 독립된 방에 모여 차례로 노래를 부르는 유료 오락 공간이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[미소녀전사 세일러문(실사)]]》는 비밀기지를 신비한 노래방의 형태로 설정한다. 일상적 모임 장소가 영웅들의 숨은 활동 공간과 겹친다.",
     "usage": "사적인 집단 여가와 숨겨 둔 취향을 드러내는 공간으로 쓴다.",
     "boundary": "공개 무대에서 노래하는 술집이나 공연장과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002202",
+      "description_ko": "《미소녀전사 세일러문(실사)》는 비밀기지를 신비한 노래방의 형태로 설정한다. 일상적 모임 장소가 영웅들의 숨은 활동 공간과 겹친다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

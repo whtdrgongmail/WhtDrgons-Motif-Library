@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "과장되고 화려한 안경을 통해 [[인물]]의 눈에 띄는 개성과 자기 표현을 강조하는 [[디자인]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 애니메이션 《[[원피스(애니메이션)]]》의 쟝고는 하트 모양의 유별난 선글라스를 쓰며, 그 안에는 눈동자도 하트 모양이라는 시각적 농담이 이어진다.",
+    "usage": "안경의 색·실루엣·장식 중 어떤 요소가 인물의 과장된 자기 표현을 담당하는지 정한다.",
     "boundary": "테 모양에 은근한 [[성격]] 의미를 부여하는 방식과 달리 시각적 [[과장]]이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001825",
+      "description_ko": "애니메이션 《원피스(애니메이션)》의 쟝고는 하트 모양의 유별난 선글라스를 쓰며, 그 안에는 눈동자도 하트 모양이라는 시각적 농담이 이어진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

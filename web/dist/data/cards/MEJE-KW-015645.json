@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "적을 붙잡거나 막고 있는 인물이 자신도 피해를 입을 것을 알면서 동료에게 둘을 함께 공격하라고 요구하는 전개다.",
-    "detail": "",
+    "detail": "적을 잡은 아군이 함께 죽기를 요구하는 기본형 외에 인질이 자기 몸을 관통해서라도 쏘라고 하거나 진짜와 가짜를 가리는 자기희생의 제안으로 쓰인다. 동료가 망설여 기회를 잃거나 희생해도 적이 살아남는 비극적 변주가 있다.\n\n작품 사례: 애니메이션 《[[드래곤볼 Z(애니메이션)]]》에서 오공은 라데츠를 붙잡은 채 피콜로가 둘을 함께 공격하도록 한다. 적을 놓치지 않기 위해 자신의 목숨도 공격 범위에 넣는다.",
     "usage": "적을 묶어 둔 상태와 동료에게 맡긴 결정의 관계를 본다.",
     "boundary": "자신만 표적으로 내주는 희생이나 적을 혼자 공격하는 행동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002164",
+      "description_ko": "애니메이션 《드래곤볼 Z(애니메이션)》에서 오공은 라데츠를 붙잡은 채 피콜로가 둘을 함께 공격하도록 한다. 적을 놓치지 않기 위해 자신의 목숨도 공격 범위에 넣는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F29",
   "description": {
     "definition": "파리스가 여러 여신 가운데 누구에게 불화의 사과를 줄지 선택하는 신화적 상황을 재현하거나 변주하는 모티프다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[Age of Bronze]]》에서는 파리스의 심판을 신들이 직접 나타나는 사건 대신 파리스가 꾸었다고 말하는 꿈으로 바꾸어, 헬레네를 데려간 행동을 정당화하는 이야기로 사용한다.",
     "usage": "파리스와 세 여신, 불화의 사과를 둘러싼 선택 구도를 신화적 경쟁과 판정의 [[모티프]]로 사용한다.",
     "boundary": "미인 대회 일반과 달리 파리스·세 여신·사과의 [[선택]] 구도에 대한 참조가 확인되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "29",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002138",
+      "description_ko": "《Age of Bronze》에서는 파리스의 심판을 신들이 직접 나타나는 사건 대신 파리스가 꾸었다고 말하는 꿈으로 바꾸어, 헬레네를 데려간 행동을 정당화하는 이야기로 사용한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-022721",
+  "kind": "keyword",
+  "title": "게임 속 사다리의 특수 물리",
+  "original": "Ladder Physics",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "게임에서 사다리를 타는 상태에 별도의 이동·접촉 규칙이 적용되어 손을 쓰지 않거나 추락을 즉시 멈추는 등 일상적인 신체 동작과 다른 결과가 생기는 현상이다.",
+    "detail": "자동 부착과 이탈, 시점의 자유로운 회전, 사다리 위 점프, 한쪽 면만 오를 수 있는 제약이 대표적인 변형이다.\n\n작품 사례: 《[[하프라이프]]》의 고든은 손에 무기를 든 채 사다리를 타고 재장전도 할 수 있다. 반면 위쪽에서 사다리에 붙는 조작은 불안정해 이동 규칙을 잘못 이해하면 추락한다.",
+    "usage": "수직 이동의 조작 편의와 실수로 떨어지는 위험을 함께 검토해 공간 탐색을 설계한다.",
+    "boundary": "모든 [[오르기 규칙]]이 비현실적인 것은 아니다. 시각적 동작뿐 아니라 부착·이탈·방향 입력의 일관성도 판단한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "사다리에 닿는 순간 게임만의 오르기 규칙으로 몸이 움직인다.\n\n작품 사례: 《[[하프라이프]]》의 고든은 손에 무기를 든 채 사다리를 타고 재장전도 할 수 있다. 반면 위쪽에서 사다리에 붙는 조작은 불안정해 이동 규칙을 잘못 이해하면 추락한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001338",
+      "description_ko": "《하프라이프》의 고든은 손에 무기를 든 채 사다리를 타고 재장전도 할 수 있다. 반면 위쪽에서 사다리에 붙는 조작은 불안정해 이동 규칙을 잘못 이해하면 추락한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

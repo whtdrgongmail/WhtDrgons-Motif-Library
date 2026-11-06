@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "죽음을 앞둔 인물의 마지막 안도와 기쁨을 지키기 위해 괴로운 진실을 숨기거나 위로의 거짓말을 하는 선택이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[호스트(2008년 소설)]]》에서 죽음을 앞둔 월터는 완다를 이미 세상을 떠난 아내로 착각한다. 완다는 그 믿음을 바로잡지 않아 그가 마지막 순간에 안도할 수 있게 한다.",
     "usage": "진실을 알려도 현실적 이익이 없는 임종 맥락인지 본다.",
     "boundary": "치료나 중요한 결정을 가능하게 할 정보를 숨기는 일반적인 기만과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002457",
+      "description_ko": "《호스트(2008년 소설)》에서 죽음을 앞둔 월터는 완다를 이미 세상을 떠난 아내로 착각한다. 완다는 그 믿음을 바로잡지 않아 그가 마지막 순간에 안도할 수 있게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

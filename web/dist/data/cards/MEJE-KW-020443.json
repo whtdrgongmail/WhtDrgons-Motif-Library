@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "퍼진 공간에 있는 인물들의 의식을 잃게 하는 것으로 설정된 허구의 기체형 제압 수단이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼]]》에서 피라후는 일행의 드래곤볼을 찾으려고 감옥에 수면 가스를 퍼뜨리지만, 가스가 남은 곳에 들어가 자신도 잠든다.",
     "usage": "개별 대결 없이 한 공간의 인물들을 포획하거나 장면을 전환한다.",
     "boundary": "단순히 시야를 가리는 연기와 구별한다. 실제 물질의 제조나 사용법을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001375",
+      "description_ko": "《드래곤볼》에서 피라후는 일행의 드래곤볼을 찾으려고 감옥에 수면 가스를 퍼뜨리지만, 가스가 남은 곳에 들어가 자신도 잠든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

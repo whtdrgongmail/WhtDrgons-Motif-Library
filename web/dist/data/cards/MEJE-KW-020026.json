@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "다른 사람에게 입혔던 부상과 같거나 닮은 상처를 가해자 자신도 겪어 응보의 대응을 만드는 전개다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[블리치(만화)]]》에서 이치고는 야미가 사도의 오른팔을 다치게 한 당사자임을 확인한 뒤 야미의 같은 쪽 팔에 상처를 입힌다. 친구의 부상과 반격의 부위를 대응시켜 응보를 드러낸다.",
     "usage": "행동과 결과의 유사성으로 복수·[[인과]]·도덕적 아이러니를 강조한다.",
     "boundary": "부상끼리 의미 있는 대응 없이 우연히 다치는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》에서 이치고는 야미가 사도의 오른팔을 다치게 한 당사자임을 확인한 뒤 야미의 같은 쪽 팔에 상처를 입힌다. 친구의 부상과 반격의 부위를 대응시켜 응보를 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

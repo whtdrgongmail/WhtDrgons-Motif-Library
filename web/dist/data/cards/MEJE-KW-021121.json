@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F08",
   "description": {
     "definition": "실제로 잘못한 사람은 처벌을 피하고 무고한 사람이 그 책임과 피해를 떠안는 부정의한 전개다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[포켓몬 불가사의 던전 탐험대]]》에서 해골팀은 사과를 훔치고 주인공 일행의 수집을 방해한 뒤 스스로 사과를 내놓아 칭찬받는다. 설명을 들어 주지 않는 페라페는 주인공 일행에게 식사를 주지 않아 책임과 보상이 뒤바뀐다.",
     "usage": "응보에 대한 기대를 깨뜨리고 제도의 실패나 무력감을 드러낸다.",
     "boundary": "여럿이 공동 책임을 지거나 피해자가 죄인에게 정당하게 보복하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "08",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002206",
+      "description_ko": "《포켓몬 불가사의 던전 탐험대》에서 해골팀은 사과를 훔치고 주인공 일행의 수집을 방해한 뒤 스스로 사과를 내놓아 칭찬받는다. 설명을 들어 주지 않는 페라페는 주인공 일행에게 식사를 주지 않아 책임과 보상이 뒤바뀐다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

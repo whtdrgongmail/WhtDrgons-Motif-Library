@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "책을 먹이로 삼거나 책을 읽는 능력을 지니며, 때로는 먹는 행위로 내용을 이해하는 벌레형 존재이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[토이 스토리 3]]》의 북웜은 벌레 모양 독서등 장난감으로, 보육원의 설명서 도서관을 관리하고 버즈의 설명서를 건넨다. 책벌레라는 말이 지식을 지키는 벌레형 인물로 구현된다.",
     "usage": "독서와 섭식의 비유를 실제 생물의 행동으로 바꿀 때 쓴다.",
     "boundary": "독서를 좋아하는 사람을 비유적으로 책벌레라 부르는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001612",
+      "description_ko": "《토이 스토리 3》의 북웜은 벌레 모양 독서등 장난감으로, 보육원의 설명서 도서관을 관리하고 버즈의 설명서를 건넨다. 책벌레라는 말이 지식을 지키는 벌레형 인물로 구현된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

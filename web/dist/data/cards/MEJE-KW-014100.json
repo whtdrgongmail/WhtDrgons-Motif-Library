@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "숨겨진 초자연적 존재나 세계를 알게 된 사람을 비밀 유지 목적으로 살해하는 전개다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[진격의 거인(만화)]]》에서 마르코는 라이너 일행이 거인으로 변하는 사실을 알아차린 뒤 제거된다. 숨겨진 존재와 침투의 비밀을 지키기 위한 살인이 된다.",
     "usage": "초자연 세계의 은폐가 직접적인 살해 동기인지 본다.",
     "boundary": "일반 범죄의 증거를 없애는 살인과 보호하는 비밀의 종류가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002207",
+      "description_ko": "《진격의 거인(만화)》에서 마르코는 라이너 일행이 거인으로 변하는 사실을 알아차린 뒤 제거된다. 숨겨진 존재와 침투의 비밀을 지키기 위한 살인이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

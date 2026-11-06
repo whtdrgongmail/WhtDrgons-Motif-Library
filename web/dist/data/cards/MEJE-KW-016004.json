@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "운동을 즐기는 아버지와 지적인 취미를 선호하는 아들 사이의 취향 차이가 관계에 작용하는 구도다.",
-    "detail": "",
+    "detail": "아버지가 자신의 운동 경력을 자랑스럽게 여기거나 아들의 성취로 과거의 꿈을 대신 이루려 할 때 [[갈등]]이 커질 수 있다. 아들의 관심은 학문이나 예술 등으로 향하며, 부모가 그 차이를 받아들이는 전개도 가능하다.\n\n작품 사례: 《[[드래곤볼(연작)]]》에서 손오공은 싸움과 수련을 즐기지만 손오반은 학자로 살아가는 데 더 큰 관심을 둔다. 두 사람 모두 힘이 있어도 원하는 삶과 관심 분야가 다르다는 점을 보여 준다.",
     "usage": "인물·활동·회차의 중심 특징이 정의의 조건에 해당하는지 확인한다.",
     "boundary": "차이가 반드시 불화나 우열을 뜻하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-001840",
+      "description_ko": "《드래곤볼(연작)》에서 손오공은 싸움과 수련을 즐기지만 손오반은 학자로 살아가는 데 더 큰 관심을 둔다. 두 사람 모두 힘이 있어도 원하는 삶과 관심 분야가 다르다는 점을 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

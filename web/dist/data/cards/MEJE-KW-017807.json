@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "가구가 적고 관리가 부족한 독신자의 거처로 고립감이나 무관심을 드러내는 공간 표현.",
-    "detail": "",
+    "detail": "작품 사례: 《[[스파이더맨: 뉴 유니버스]]》의 피터 B. 파커는 이혼 뒤 매트리스와 피자 상자 등이 놓인 삭막한 아파트에서 살아가며 생활의 무너짐을 드러낸다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "독신이라는 사실만으로 성립하지 않는다. 의도적으로 세련된 최소 장식 공간과 달리 관리의 빈틈이나 정서적 고립이 공간에 드러나야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001498",
+      "description_ko": "《스파이더맨: 뉴 유니버스》의 피터 B. 파커는 이혼 뒤 매트리스와 피자 상자 등이 놓인 삭막한 아파트에서 살아가며 생활의 무너짐을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

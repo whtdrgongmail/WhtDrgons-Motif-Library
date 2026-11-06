@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "두 인물이 현실과 어긋난 동일한 믿음을 함께 유지하며 서로의 인식을 강화하는 관계를 묘사한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "공유된 믿음이 실제 초자연적 진실로 드러나는 전복도 구별한다. 이 카드는 임상적 진단이 아니라 허구 안의 관계와 인식 장치다.\n\n서로의 믿음을 확인해 주며 인식을 강화하는 형태도 가능하다. 공유된 믿음과 상호 강화의 작용은 구분해 설계한다.\n\n작품 사례: 《[[버그]]》에서 한 여성은 낯선 남자와 가까워지며 정부의 기이한 실험에 관한 그의 믿음을 받아들인다. 두 사람의 관계가 같은 설명을 강화하며 현실에서 멀어지는 전개로 제시된다.",
+    "usage": "두 인물이 같은 믿음을 공유하며 서로의 확신과 고립을 강화하는 관계를 만든다.",
     "boundary": "허구의 관계 양상이며 반드시 한쪽에서 다른 쪽으로 전파되었다고 전제하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002830",
+      "description_ko": "《버그》에서 한 여성은 낯선 남자와 가까워지며 정부의 기이한 실험에 관한 그의 믿음을 받아들인다. 두 사람의 관계가 같은 설명을 강화하며 현실에서 멀어지는 전개로 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

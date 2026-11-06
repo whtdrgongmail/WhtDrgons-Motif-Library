@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "동료에게 닥칠 폭발을 자기 몸으로 막으려 하며 생명을 걸거나 잃는 자기희생 [[장면]]이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[Crypt of the Frozen Graves]]》에서 린다 댄버스는 식당에 던져진 수류탄을 몸으로 덮고 폭발을 견딘다. 다른 사람들은 희생으로 보지만 인물의 무적 능력 때문에 살아남는 변주다.",
     "usage": "폭발 위험을 자기 몸으로 감수해 동료의 피해를 줄이려는 선택인지 본다.",
     "boundary": "[[현실]]에서 효과가 보장되는 대응으로 설명하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002145",
+      "description_ko": "《Crypt of the Frozen Graves》에서 린다 댄버스는 식당에 던져진 수류탄을 몸으로 덮고 폭발을 견딘다. 다른 사람들은 희생으로 보지만 인물의 무적 능력 때문에 살아남는 변주다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

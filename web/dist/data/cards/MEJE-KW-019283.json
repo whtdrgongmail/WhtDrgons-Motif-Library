@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "큰 통나무·운반 벨트·톱이 함께 움직이는 제재소를 위험한 행동의 무대로 사용하는 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[배트맨(1966년 TV 시리즈)]]》에서 리들러는 버려진 제재소의 톱을 향해 이동하는 통나무에 로빈을 묶어 구조의 시간제한을 만든다.",
     "usage": "일상적 목재 가공 설비를 연속적인 공간 위험으로 바꾼다.",
     "boundary": "목재가 쌓여 있기만 한 안전한 창고와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002603",
+      "description_ko": "《배트맨(1966년 TV 시리즈)》에서 리들러는 버려진 제재소의 톱을 향해 이동하는 통나무에 로빈을 묶어 구조의 시간제한을 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

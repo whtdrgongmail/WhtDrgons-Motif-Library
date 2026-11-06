@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "대체로 다른 사람에게는 실제로 친절하지만 특정 상대에게만 거칠고 못되게 행동하는 관계 유형이다.",
-    "detail": "",
+    "detail": "다른 사람에게는 친절한 유형, 모두에게 무례하지만 한 명에게 더 심한 유형, 공개적인 친절의 가면을 특정 상대 앞에서만 벗는 유형을 구분한다.\n\n작품 사례: 《[[도라에몽]]》의 비실이는 친구들을 자기 집에 초대하면서도 진구만 인원 제한 같은 이유로 제외하곤 한다. 원래의 거만함이 특정 친구에게 더 심한 배제로 집중된다.",
     "usage": "공개 연기 없이도 관계별 감정과 과거가 태도를 갈라놓게 한다.",
     "boundary": "관찰자의 유무에 따라 친절을 가장하는 행동이나 누구에게나 무례한 사람과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001382",
+      "description_ko": "《도라에몽》의 비실이는 친구들을 자기 집에 초대하면서도 진구만 인원 제한 같은 이유로 제외하곤 한다. 원래의 거만함이 특정 친구에게 더 심한 배제로 집중된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

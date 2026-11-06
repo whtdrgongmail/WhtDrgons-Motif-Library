@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "도움을 준 뒤 약속되거나 제안된 [[보상]]을 받는 데 집착하지 않거나 거절하여 이타성을 드러내는 [[행동]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[드래곤볼]]》에서 천진반은 우연한 승리 뒤 오공에게 상금을 주려 하지만, 오공은 돈에 관심이 없다며 거절한다. 받을 수 있는 보상보다 자신의 관심을 우선한다.",
+    "usage": "인물이 처음 기대한 이익보다 중요해진 가치나 관계를 마지막 선택으로 드러낸다.",
     "boundary": "보수를 받을 수 없었던 경우와 달리 보상에 대한 자발적인 초연함이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001375",
+      "description_ko": "《드래곤볼》에서 천진반은 우연한 승리 뒤 오공에게 상금을 주려 하지만, 오공은 돈에 관심이 없다며 거절한다. 받을 수 있는 보상보다 자신의 관심을 우선한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

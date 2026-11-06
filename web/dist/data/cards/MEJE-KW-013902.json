@@ -9,12 +9,12 @@
   "description": {
     "definition": "게임 전투에서는 이겨야 진행할 수 있지만 승리 직후의 [[서사]]에서 주인공이 패배하거나 적의 목적이 달성되도록 처리하는 구조이다.",
     "detail": "작품 사례: [[Final Fantasy IX]]에서 베아트릭스 등과의 전투는 승리 조건까지 싸워도 곧 상대가 일행의 체력을 거의 없애는 공격을 사용해, 조작상의 승리가 이야기의 패배로 이어진다.",
-    "usage": "",
+    "usage": "전투에서의 승리가 진행 조건인데 이후 고정된 사건에서는 패배나 적의 성공으로 처리되는지 확인한다.",
     "boundary": "처음부터 져도 진행되는 필패 전투와 달리 실제 승리를 요구한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",

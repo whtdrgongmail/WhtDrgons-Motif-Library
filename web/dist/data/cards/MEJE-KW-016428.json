@@ -9,12 +9,12 @@
   "description": {
     "definition": "대상의 체력을 일반 피해량으로 깎는 대신 생존 가능한 최저치인 1에 가깝게 만드는 공격 규칙.",
     "detail": "작품 사례: 《[[킹덤 하츠 II]]》의 젬나스 첫 전투에서 특정 리액션 커맨드에 실패하면 소라의 체력이 1로 줄어든다. 기존 체력보다 특정 공격의 결과 규칙이 생존 상태를 정한다.",
-    "usage": "",
+    "usage": "방어자의 버티기 능력과 무관하게 공격 효과가 피해자의 현재 체력을 최저치로 정하는지 확인한다.",
     "boundary": "방어자의 생존 능력으로 1이 남는 경우와 구별한다. 이미 1인 대상에 대한 처리는 게임별로 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",

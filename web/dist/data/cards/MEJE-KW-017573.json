@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "다른 존재가 공포나 고통으로 지르는 비명을 즐거움의 대상으로 삼는 인물 성향.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[드래곤볼 Z(TV 애니메이션)]]》의 프리저는 크리링이 고통으로 지르는 비명에 기뻐한다. 목적을 위한 폭력과 별개로 피해자의 반응 자체를 즐기는 성향을 드러낸다.",
+    "usage": "고통스러운 소리에 대한 쾌감을 가해자의 태도로 보여 준다.",
     "boundary": "큰 소리 자체를 좋아하는 성향과 피해자의 괴로움을 즐기는 태도를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002453",
+      "description_ko": "《드래곤볼 Z(TV 애니메이션)》의 프리저는 크리링이 고통으로 지르는 비명에 기뻐한다. 목적을 위한 폭력과 별개로 피해자의 반응 자체를 즐기는 성향을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

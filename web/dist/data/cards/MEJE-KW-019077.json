@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "바람을 타고 움직이며 낫 같은 발톱으로 사람을 베는 족제비형 요괴이다.",
-    "detail": "",
+    "detail": "세 존재가 바람으로 넘어뜨리기, 베기, 지혈하기를 나누어 맡는 전승형이 있다. 작품에 따라 작은 족제비부터 거대한 생물까지 크기와 행동이 달라지고, 낫 같은 신체 부위 대신 도구를 들기도 한다.\n\n작품 사례: 《[[나루토(만화)]]》에서 테마리는 가마이타치를 불러내는 기술을 사용한다. 테마리가 바람을 맡고 소환된 요괴가 베는 역할을 하여 바람과 칼날이라는 전승의 조합을 전투 능력으로 옮긴다.\n디자인 참조: 《[[갓 오브 하이스쿨(웹툰)]]》의 나기아 미도리는 가마이타치 차력의 힘을 빌리지만, 제공 원문에서 확인되는 사용은 이동과 구조다. 사람을 베는 전승형과 달리 조력 기능을 중심에 둔 변형으로 참조한다.",
     "usage": "보이지 않는 바람과 날붙이의 위협을 하나의 생물로 결합할 때 쓴다.",
     "boundary": "단순한 거대 족제비나 바람을 쓰는 모든 요괴와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,22 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002184",
+      "description_ko": "《나루토(만화)》에서 테마리는 가마이타치를 불러내는 기술을 사용한다. 테마리가 바람을 맡고 소환된 요괴가 베는 역할을 하여 바람과 칼날이라는 전승의 조합을 전투 능력으로 옮긴다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-002198",
+      "description_ko": "《갓 오브 하이스쿨(웹툰)》의 나기아 미도리는 가마이타치 차력의 힘을 빌리지만, 제공 원문에서 확인되는 사용은 이동과 구조다. 사람을 베는 전승형과 달리 조력 기능을 중심에 둔 변형으로 참조한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "통속적이거나 장식적인 소장품을 수집자가 공들여 정리하고 유지하는 모습을 통해 애착을 보여 주는 묘사다.",
-    "detail": "",
+    "detail": "소장품은 작은 선반에서 방이나 집 전체로 늘어나고 수집가에게 위안과 자부심을 준다. 다른 인물은 이를 칭찬하거나 손상을 위협해 수집가를 움직이려 할 수 있다. 수집이라는 사실만으로 외로움·노쇠·이상함을 단정하지 않는다.\n\n작품 사례: 《[[해리 포터와 불사조 기사단]]》에서 엄브리지는 사무실에 새끼 고양이가 그려진 접시들을 모아 둔다. 주인에게 소중하고 아기자기한 수집품이 방문자 해리에게는 달갑지 않은 공간의 인상을 만든다.",
     "usage": "인물의 취향·행동이 이 정의의 구별 조건으로 제시될 때 적용한다.",
     "boundary": "값싼 물건을 아무렇게나 쌓아 둔 상태와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001560",
+      "description_ko": "《해리 포터와 불사조 기사단》에서 엄브리지는 사무실에 새끼 고양이가 그려진 접시들을 모아 둔다. 주인에게 소중하고 아기자기한 수집품이 방문자 해리에게는 달갑지 않은 공간의 인상을 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

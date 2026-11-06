@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "의료 수술이 아닌 작업에 수술실의 절차·말투·역할·긴장감을 옮겨 마치 수술인 것처럼 보이게 하는 연출이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[배트맨(만화)]]》에서 복화술사와 라이노는 스카페이스 인형을 고치며 환자를 수술하듯 도구를 주고받는다. 대상은 인형이지만 의료 장면의 절차와 말투가 긴장을 만든다.",
     "usage": "",
     "boundary": "실제 의료 처치 장면이나 단순히 작업복을 입는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002237",
+      "description_ko": "《배트맨(만화)》에서 복화술사와 라이노는 스카페이스 인형을 고치며 환자를 수술하듯 도구를 주고받는다. 대상은 인형이지만 의료 장면의 절차와 말투가 긴장을 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "자신의 성격·목표·삶의 방향을 알아내기 위해 익숙한 장소를 떠나 여행한다.",
-    "detail": "",
+    "detail": "재회를 약속하고 떠나되 실제 재회는 보여주지 않아 열린 결말로 남길 수 있다.\n\n작품 사례: 《[[신의 탑]]》에서 쿤 아게로 아그니스는 누나를 공주로 만드는 데 성공한 뒤에도 만족하지 못하고 자신이 진정 원하는 것을 찾기 위해 탑을 오른다.",
     "usage": "",
     "boundary": "기억상실로 이름과 과거를 추적하는 여정에만 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-001296",
+      "description_ko": "《신의 탑》에서 쿤 아게로 아그니스는 누나를 공주로 만드는 데 성공한 뒤에도 만족하지 못하고 자신이 진정 원하는 것을 찾기 위해 탑을 오른다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

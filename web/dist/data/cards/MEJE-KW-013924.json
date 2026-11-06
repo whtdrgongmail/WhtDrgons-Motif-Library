@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "캐릭터 레벨이 올라가는 순간 체력이나 자원이 채워지는 게임 기제이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[메이플스토리]]》의 일부 버전에서는 레벨이 오를 때 체력과 마력을 완전히 회복한다. 성장 순간의 회복은 전투를 이어 갈 기회가 된다.",
     "usage": "",
     "boundary": "저장 지점 도착이나 전투 종료에 따른 회복과 발동 조건이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001226",
+      "description_ko": "《메이플스토리》는 원문이 설명하는 갱신 이후의 규칙에서 레벨 상승 때 체력과 마력을 완전히 회복한다. 성장 순간이 회복 기회가 되어 전투의 지속 가능성을 바꾼다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

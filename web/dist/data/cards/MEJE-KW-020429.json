@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "인물의 거짓과 그것이 밝혀지는 과정이 주요 [[갈등]]과 사건 진행의 중심이 되는 구성이다. 발각은 단순한 한 번의 농담을 넘어 관계와 목표를 바꾼다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[마다가스카 3: 이번엔 서커스다!]]》에서 주인공들은 서커스 동물이라고 속여 이동해 왔지만 뒤부아가 나타나 그들이 동물원 출신임을 드러낸다. 함께하던 동료가 믿었던 전제가 무너지는 전환이다.",
     "usage": "비밀을 유지하려는 행동과 진실 공개의 결과를 긴 이야기로 연결한다.",
     "boundary": "그 자리에서 틀린 말을 한 번 들키는 짧은 개그와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002482",
+      "description_ko": "《마다가스카 3: 이번엔 서커스다!》에서 주인공들은 서커스 동물이라고 속여 이동해 왔지만 뒤부아가 나타나 그들이 동물원 출신임을 드러낸다. 함께하던 동료가 믿었던 전제가 무너지는 전환이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

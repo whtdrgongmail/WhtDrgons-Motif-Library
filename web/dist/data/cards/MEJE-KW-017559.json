@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F08",
   "description": {
     "definition": "사나운 새가 발톱으로 인물이나 먹잇감을 들어 올려 납치하거나 포식 장소로 데려가는 위협.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[쥬라기 공원 III]]》에서 프테라노돈은 에릭을 낚아채 둥지의 새끼들에게 데려간다. 곧바로 끝나는 공격 대신 납치가 구조와 탈출의 시간을 만든다.",
+    "usage": "지상의 위험을 공중 추격과 구조로 전환하거나 작은 인물에게 거대한 자연의 위협을 만든다.",
     "boundary": "사람이 자발적으로 새를 타고 이동하는 장면과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "08",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002239",
+      "description_ko": "《쥬라기 공원 III》에서 프테라노돈은 에릭을 낚아채 둥지의 새끼들에게 데려간다. 곧바로 끝나는 공격 대신 납치가 구조와 탈출의 시간을 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

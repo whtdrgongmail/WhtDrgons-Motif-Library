@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "옷 자체가 살아 있고 생각하며 스스로 움직이는 독립적 존재로 설정된다.",
-    "detail": "",
+    "detail": "작품 사례: 영화 《[[닥터 스트레인지]]》의 공중부양 망토는 주인과 떨어져 움직이며 그를 보호하거나 다른 행동을 유도한다.",
     "usage": "착용자와 의복의 의지가 협력하거나 충돌하는 관계를 만들 때 쓴다.",
     "boundary": "단순한 자동 착용 장치나 바람에 흔들리는 옷과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002614",
+      "description_ko": "영화 《닥터 스트레인지》의 공중부양 망토는 주인과 떨어져 움직이며 그를 보호하거나 다른 행동을 유도한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

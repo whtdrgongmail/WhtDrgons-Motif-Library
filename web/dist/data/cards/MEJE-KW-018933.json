@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "강렬한 분노·충격 등의 감정을 겪자 인물이 갑자기 쓰러지거나 죽도록 연결하는 극적 몸의 규칙이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[슈퍼맨의 죽음]]》에서 조너선 켄트는 아들의 죽음을 듣고 심장 발작을 겪는다. 비보의 정서적 충격을 갑작스러운 신체 위기로 연결한 [[서사]] 사례이며 실제 질환의 진단 근거는 아니다.",
     "usage": "",
     "boundary": "감정과 실제 질환의 [[인과]]를 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002579",
+      "description_ko": "《슈퍼맨의 죽음》에서 조너선 켄트는 아들의 죽음을 듣고 심장 발작을 겪는다. 비보의 정서적 충격을 갑작스러운 신체 위기로 연결한 서사 사례이며 실제 질환의 진단 근거는 아니다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

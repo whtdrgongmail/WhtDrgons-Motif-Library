@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "인간 종 전체를 없애는 것을 목표로 삼는 존재나 세력이다. 특정 국가나 적대 인물의 제거를 넘어 생존 자체가 공격 대상이 된다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[기동무투전 G건담]]》의 얼티밋 건담은 지구 환경을 복구하는 목적에서 인간이 다시 피해를 주지 못하게 없애야 한다는 결론에 이른다. 복구 목적이 인류 절멸의 논리로 뒤틀린다.",
     "usage": "예외를 인정하는지와 왜 개인의 차이를 무시하는지로 목표의 성격을 드러낸다.",
     "boundary": "인간을 싫어하는 태도나 제한적인 전쟁만으로는 전멸 목표가 성립하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001677",
+      "description_ko": "《기동무투전 G건담》의 얼티밋 건담은 지구 환경을 복구하는 목적에서 인간이 다시 피해를 주지 못하게 없애야 한다는 결론에 이른다. 복구 목적이 인류 절멸의 논리로 뒤틀린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

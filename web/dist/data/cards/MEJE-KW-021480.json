@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "무서운 길이나 장소를 마련하고 참가자가 공포를 견디며 지나가도록 하는 놀이와 시험이다.",
-    "detail": "",
+    "detail": "일본 배경의 여름 행사에서 흔히 쓰이며 짝 배정과 공포 반응이 연애 관계의 진전이나 엇갈림을 만든다.\n\n작품 사례: 《[[GTO]]》의 오키나와 수학여행에서는 공포 연출을 준비한 담력 시험이 벌어진다. 겁주는 놀이가 여행 에피소드 안에서 인물의 반응을 드러내는 장치가 된다.",
     "usage": "집단의 용기 겨루기나 실제 초자연 현상과의 우연한 조우를 시작한다.",
     "boundary": "실제 위해를 가하는 처벌이나 목적 없이 위험한 장소에 가는 행동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002268",
+      "description_ko": "《GTO》의 오키나와 수학여행에서는 공포 연출을 준비한 담력 시험이 벌어진다. 겁주는 놀이가 여행 에피소드 안에서 인물의 반응을 드러내는 장치가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

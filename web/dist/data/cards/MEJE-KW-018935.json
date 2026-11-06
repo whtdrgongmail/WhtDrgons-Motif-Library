@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "좋아하는 사람의 간호와 관심을 계속 받으려고 병을 앓는 척한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 영화 《[[해리 포터와 아즈카반의 죄수(영화)]]》에서 론은 다친 다리를 걱정해 주는 헤르미온느의 관심을 즐기며 상태를 실제보다 심각하게 말한다.",
+    "usage": "관심을 얻는 이익과 상대를 속여 신뢰를 잃는 대가를 함께 구성한다.",
     "boundary": "실제 질병을 의심하거나 환자를 평가하는 기준으로 사용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002531",
+      "description_ko": "영화 《해리 포터와 아즈카반의 죄수(영화)》에서 론은 다친 다리를 걱정해 주는 헤르미온느의 관심을 즐기며 상태를 실제보다 심각하게 말한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

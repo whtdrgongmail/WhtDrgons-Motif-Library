@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "신적 권능을 가진 존재의 판단과 [[행동]]이 무너져 [[세계]]에 예측하기 어려운 영향을 주도록 설정하는 인물형이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "단순히 악하거나 인간과 다른 윤리관을 가졌다는 것만으로 판정하지 않는다. 봉인·휴면·일시적인 평정이 세계가 버티는 조건이 될 수 있다.\n\n작품 사례: 《[[드래곤볼 슈퍼(애니메이션)]]》의 합체 자마스는 분노와 통제 상실을 거쳐 광범위한 세계를 위협하는 존재로 변한다. 신적 권능이 판단의 붕괴와 함께 커지는 위험을 보여 준다.",
+    "usage": "압도적인 권능과 불안정한 판단을 결합해 세계가 예측하기 어려운 위협에 놓이게 한다.",
     "boundary": "[[현실]] 정신질환과 폭력성을 동일시하는 설명이 아니며 단순한 괴짜 [[성격]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001943",
+      "description_ko": "《드래곤볼 슈퍼(애니메이션)》의 합체 자마스는 분노와 통제 상실을 거쳐 광범위한 세계를 위협하는 존재로 변한다. 신적 권능이 판단의 붕괴와 함께 커지는 위험을 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

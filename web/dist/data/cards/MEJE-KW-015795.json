@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "자신들을 억압하는 통치에 맞서 저항하고 그 정권을 뒤집으려는 목적으로 모인 집단이다.",
-    "detail": "",
+    "detail": "폭로와 지지 확보, 기존 정부의 복구, 새 체제 수립 등 목적이 다를 수 있다. 공통의 적이 사라지면 내부 분열이 드러나기도 하며 성장하면 연합 세력으로 바뀐다.\n\n작품 사례: 《[[원피스(만화)]]》의 혁명군은 드래곤이 이끄는 세계정부 반대 조직이다. 개별 해적의 모험과 다른 조직적 목표를 가지며, 주인공 일행의 인연과 세계 규모의 정치 [[갈등]]을 잇는다.",
     "usage": "억압하는 권력과 저항 집단의 공동 목표를 함께 확인한다.",
     "boundary": "불특정 범죄 집단이나 단순한 정치적 반대 의견과 달리 압제에 대한 조직적 저항과 전복 목표가 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》의 혁명군은 드래곤이 이끄는 세계정부 반대 조직이다. 개별 해적의 모험과 다른 조직적 목표를 가지며, 주인공 일행의 인연과 세계 규모의 정치 갈등을 잇는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

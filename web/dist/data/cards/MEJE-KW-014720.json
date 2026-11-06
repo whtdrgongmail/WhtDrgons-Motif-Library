@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "평소에는 눈이 오기 어려운 곳에서 성탄절의 눈을 바라는 요청이나 소망이 이루어져 눈이 내리는 장면이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[Adventures in Wonderland]]》의 성탄 특별편에서 하트 여왕은 어린 시절의 눈 내린 크리스마스를 그리워한다. 다른 인물들이 눈을 만들려 애쓰다 실패하지만 마지막에는 실제로 눈이 내려 소망을 이룬다.",
     "usage": "날씨가 바람의 응답으로 나타나 축제의 정서를 완성할 때 쓴다.",
     "boundary": "늘 눈이 오는 장소의 계절적 강설과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002458",
+      "description_ko": "《Adventures in Wonderland》의 성탄 특별편에서 하트 여왕은 어린 시절의 눈 내린 크리스마스를 그리워한다. 다른 인물들이 눈을 만들려 애쓰다 실패하지만 마지막에는 실제로 눈이 내려 소망을 이룬다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "종교의 [[상징]]과 도상을 사용하면서도 그 종교의 교리나 명시적인 신앙 문제는 다루지 않는 표현 관습이다.",
-    "detail": "",
+    "detail": "종교의 도상을 이국적인 장식으로 사용하는 방식과, 넓은 관객층을 위해 특정 교리를 피하고 선악의 보편적 상징으로 바꾸는 방식을 나눈다. 역사적 인물이나 책 속 인물로 잠깐 언급해도 신앙과 교리가 이야기의 중심에서 빠져 있다면 해당할 수 있다. 원문의 지역·문화권에 관한 일반화는 정의의 필수 조건으로 쓰지 않는다.\n\n작품 사례: 《[[신세기 에반게리온]]》은 십자가 모양의 폭발을 비롯한 종교적 이미지를 활용하지만 예수의 생애와 교리를 이야기의 중심으로 설명하지 않는다. 원문은 이 도상 활용을 종교 설명을 피하는 방식의 사례로 든다.",
     "usage": "종교적 분위기를 빌리면서 작품의 주제를 다른 곳에 둘 수 있다.",
     "boundary": "종교 표현 자체를 금지하거나 상징을 전혀 쓰지 않는 경우와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001359",
+      "description_ko": "《신세기 에반게리온》은 십자가 모양의 폭발을 비롯한 종교적 이미지를 활용하지만 예수의 생애와 교리를 이야기의 중심으로 설명하지 않는다. 원문은 이 도상 활용을 종교 설명을 피하는 방식의 사례로 든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "여성 [[전사]]의 [[갑옷]]에 치마 형태를 부여하여 [[전투]] 역할과 작품이 정한 여성적 외양을 함께 표현하는 [[디자인]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "조각 부분은 원문에서 [[프테뤼게스]]로 설명된다. 안쪽에 짧은 바지를 덧입히기도 하며, 장식과 보호 기능은 작품에 따라 다르다.\n\n작품 사례: 《[[블리치(만화)]]》의 티아 하리벨은 레스렉시온 상태에서 조각으로 나뉜 치마형 장비를 두르고, 미라 로즈도 평상 형태에서 비슷한 실루엣을 지닌다.",
+    "usage": "같은 치마 계열 복장 안에서 전투 담당을 구별하거나 활동성 있는 갑옷 실루엣을 만든다.",
     "boundary": "실제 갑옷의 기능이나 여성에게 필수적인 [[의복]] 형식을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》의 티아 하리벨은 레스렉시온 상태에서 조각으로 나뉜 치마형 장비를 두르고, 미라 로즈도 평상 형태에서 비슷한 실루엣을 지닌다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

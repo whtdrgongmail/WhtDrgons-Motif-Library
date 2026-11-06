@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "부끄러움이나 수줍음이 생겼을 때 눈 아래 얼굴에 눈에 띄는 붉은 띠를 더하는 표정 기호다.",
-    "detail": "",
+    "detail": "심한 변주에서는 전신이 달군 금속처럼 빛나거나 털에 덮인 얼굴에도 홍조가 드러난다. 성별을 필수조건으로 삼지 않는다.\n\n작품 사례: 《[[슈퍼맨 vs. 샤잠!]]》에서 메리 마블은 슈퍼맨을 넋 놓고 바라보던 자기 모습을 슈퍼걸이 지적하자 볼이 붉어진다.",
     "usage": "미묘한 정서를 뚜렷한 색 변화로 읽히게 한다.",
     "boundary": "항상 붙어 있는 볼 무늬나 병·음주에 따른 붉은 얼굴과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002792",
+      "description_ko": "《슈퍼맨 vs. 샤잠!》에서 메리 마블은 슈퍼맨을 넋 놓고 바라보던 자기 모습을 슈퍼걸이 지적하자 볼이 붉어진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

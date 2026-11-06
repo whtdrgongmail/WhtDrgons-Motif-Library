@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "등장인물들이 사는 집이 늘 깨끗하고 정돈된 가구 전시장처럼 보이는 무대 관습.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: 소설 《[[해리 포터(소설 시리즈)]]》에서 페투니아가 관리하는 더즐리 가의 집은 유난히 말끔하게 정돈되어 있다. 해리의 어지러운 방이나 버로의 생활감과 대비되어 집주인의 통제를 드러낸다.",
+    "usage": "생활감이 지워진 배경을 이상적 질서·불안한 통제·인공적인 분위기의 표현으로 사용한다.",
+    "boundary": "생활 공간이 전시장처럼 흔적 없이 정돈되어 보이는 연출이다. 가구 매장에서 실제로 숙식하는 사건을 뜻하지 않으며 지나치게 깔끔한 성격으로 정당화될 수도 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002485",
+      "description_ko": "소설 《해리 포터(소설 시리즈)》에서 페투니아가 관리하는 더즐리 가의 집은 유난히 말끔하게 정돈되어 있다. 해리의 어지러운 방이나 버로의 생활감과 대비되어 집주인의 통제를 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

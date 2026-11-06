@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "평소 행동을 억누르던 제약이 사라져 숨기던 욕망과 충동이 거리낌 없이 표출되는 변화다.",
-    "detail": "",
+    "detail": "약물·[[마법]]·유혹 등의 사건이 기존의 행동 억제를 약하게 만들어 욕망이 거리낌 없이 드러나는 [[서사]] 규칙이다. 프로이트의 모형이나 현실 질환에 대한 일반화를 임상적 사실로 제시하지 않았다.\n\n작품 사례: 《[[포켓몬스터 썬·문]]》에서 루자미네는 텅비드의 신경독에 영향을 받아 억제가 약해지고 울트라비스트에 대한 집착과 해로운 행동이 심해진다. 게임의 설정에 따른 행동 변화 사례다.",
     "usage": "행동의 제약이 사라지는 계기와 결과를 함께 본다.",
     "boundary": "본래부터 충동적인 성격과 달리 이전의 억제 상태와 변화가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002333",
+      "description_ko": "《포켓몬스터 썬·문》에서 루자미네는 텅비드의 신경독에 영향을 받아 억제가 약해지고 울트라비스트에 대한 집착과 해로운 행동이 심해진다. 게임의 설정에 따른 행동 변화 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

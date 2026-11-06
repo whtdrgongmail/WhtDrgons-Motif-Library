@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "경찰이나 치안 담당자가 지니는 막대형 타격 도구가 법 집행 권한을 나타내는 소품으로 쓰이는 관습이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[원피스(만화)]]》의 스모커는 해루석을 단 큰 지테를 사용한다. 치안을 담당하는 인물의 직위와 전투 방식을 같은 소품으로 드러낸다.",
     "usage": "권위와 통제의 이미지를 장비에 담는다.",
     "boundary": "아무 몽둥이나 걷는 지팡이가 아니라 치안 역할과 연결된 도구다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》의 스모커는 해루석을 단 큰 지테를 사용한다. 치안을 담당하는 인물의 직위와 전투 방식을 같은 소품으로 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

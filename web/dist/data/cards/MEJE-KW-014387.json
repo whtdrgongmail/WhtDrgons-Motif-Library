@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "평소 짧은 칼을 주무기로 쓰지 않는 인물이 기습이나 절박한 상황에 대비해 별도의 단검을 지니는 설정이다.",
-    "detail": "",
+    "detail": "주무기를 잃거나 긴 무기가 통하지 않는 상황에 대비한 짧은 예비 칼이다. 반드시 숨겨야 하는 것은 아니며 주무기와 함께 사용하거나 먼저 던지는 변형도 있다.\n\n작품 사례: 《[[왕좌의 게임]]》에서 하울랜드 리드는 아서 데인에게 크게 다쳐 검을 놓친 뒤에도 단검으로 뒤에서 찔러 네드가 마무리할 기회를 만든다.",
     "usage": "주무장과 구별되는 비상용 단검이 결정적인 예비 수단으로 쓰이는지 본다.",
     "boundary": "단검을 일상적인 주무기로 사용하는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001291",
+      "description_ko": "《왕좌의 게임》에서 하울랜드 리드는 아서 데인에게 크게 다쳐 검을 놓친 뒤에도 단검으로 뒤에서 찔러 네드가 마무리할 기회를 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

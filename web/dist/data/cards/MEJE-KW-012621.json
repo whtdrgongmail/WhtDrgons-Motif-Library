@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "공헌한 [[인물]]도 소속 문화가 높이 평가하는 전형적인 역할과 다르다는 이유로 존경받지 못하는 관계다.",
-    "detail": "",
+    "detail": "사회가 중시하는 역할을 떠받치는 노동과 기술이 오히려 낮은 지위에 놓인다. 그 일을 하는 사람도 집단의 가치관에 동의할 수 있어 문화적 소속과 개인의 평가가 충돌한다.\n\n작품 사례: 《[[블리치(만화)]]》의 4번대는 치료와 보급·시설 유지로 다른 사신들의 활동을 지탱하지만, 전투력이 낮다는 이유로 다른 부대에게 무시당한다.",
     "usage": "집단에 필요한 공헌과 집단이 높이 평가하는 전형의 차이를 드러낸다.",
     "boundary": "실제 성과가 부족해서 낮게 평가받는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》의 4번대는 치료와 보급·시설 유지로 다른 사신들의 활동을 지탱하지만, 전투력이 낮다는 이유로 다른 부대에게 무시당한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

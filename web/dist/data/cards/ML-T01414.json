@@ -2,19 +2,20 @@
   "id": "ML-T01414",
   "kind": "keyword",
   "title": "방패",
-  "original": "",
+  "original": "Shield",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": "ML-T01414",
   "primary_tag_id": "ML-T01414",
   "description": {
     "definition": "방패는 손이나 팔에 들거나 몸에 부착해 공격을 막는 방어 도구다. 막기·밀치기·엄폐 같은 방패의 사용이 인물의 대응을 좌우할 때 적용하며, 몸에 착용하는 갑옷과 구분한다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "문양과 색으로 소속을 나타내거나 운반판으로 이용할 수 있다. 무기로 쓰는 방식과 이동 도구로 쓰는 변형은 별도 활용 조건으로 구분했다.\n\n작품 사례: 《[[캡틴 아메리카(만화)]]》의 둥근 방패는 공격을 막는 주된 장비인 동시에 던져 여러 대상에 튕기게 하는 무기로도 쓰인다. 방어 도구 하나가 인물의 전투 방식과 시각적 정체성을 함께 만든다.",
+    "usage": "공격을 막는 선택과 방패의 방향·크기·사용 자세로 전투의 대응을 설계한다.",
+    "boundary": "몸에 입는 갑옷이나 주변 전체를 감싸는 역장과 달리 들거나 부착한 방어 도구로 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "16.001.006",
     "review_status": "provisional",
@@ -28,7 +29,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002784",
+      "description_ko": "《캡틴 아메리카(만화)》의 둥근 방패는 공격을 막는 주된 장비인 동시에 던져 여러 대상에 튕기게 하는 무기로도 쓰인다. 방어 도구 하나가 인물의 전투 방식과 시각적 정체성을 함께 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

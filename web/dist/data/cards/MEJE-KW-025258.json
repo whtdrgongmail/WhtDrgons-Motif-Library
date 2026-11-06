@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-025258",
+  "kind": "keyword",
+  "title": "우연한 결과에 수동적으로 영향을 주는 행운 능력치",
+  "original": "Luck Stat",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "캐릭터의 운을 수치로 나타내고 명중·상태 이상·보상 등 무작위 사건에 지속적인 보너스나 불이익을 주는 능력치다.",
+    "detail": "명중과 피격, 치명타와 실패, 상태 이상, 치명상을 버티는 효과, 아이템 획득, 미니게임, 성장 보너스, 피해량 변동 등 적용 대상을 따로 정해야 한다. 수치의 설명이 모호하면 플레이어가 실제 효과를 관찰하며 추론하는 요소가 된다.\n\n작품 사례: 《[[킹덤 하츠 Re:coded(닌텐도 DS판)]]》의 행운 수치는 기본 아이템 획득률과 치명타 확률을 높인다. 하나의 수치가 서로 다른 우연한 보상과 공격 결과에 수동적으로 영향을 준다.",
+    "usage": "여러 [[확률]] 시스템을 인물의 행운이라는 공통 성장 자원으로 묶는다.",
+    "boundary": "특정 결과를 능동적으로 다시 뽑는 기능과 구별한다. 어떤 사건에 영향을 주는지는 게임마다 명시적으로 달라질 수 있다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "직접 조작하지 않아도 운 수치가 결과의 [[확률]]에 영향을 준다.\n\n작품 사례: 《[[킹덤 하츠 Re:coded(닌텐도 DS판)]]》의 행운 수치는 기본 아이템 획득률과 치명타 확률을 높인다. 하나의 수치가 서로 다른 우연한 보상과 공격 결과에 수동적으로 영향을 준다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002785",
+      "description_ko": "《킹덤 하츠 Re:coded(닌텐도 DS판)》의 행운 수치는 기본 아이템 획득률과 치명타 확률을 높인다. 하나의 수치가 서로 다른 우연한 보상과 공격 결과에 수동적으로 영향을 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

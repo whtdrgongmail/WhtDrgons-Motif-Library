@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "개가 우편배달부의 접근을 반복적으로 적대하여 쫓거나 공격하는 희극적 관계 관습이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[심슨 가족]]》의 「Old Yeller Belly」에서 산타의 작은 도우미는 영화에서 본 인물과 닮은 콧수염을 이유로 우편배달부를 공격한다.",
+    "usage": "일상 배달 업무에 반복 추격과 역전을 더한다.",
     "boundary": "모든 개의 실제 행동을 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》의 「Old Yeller Belly」에서 산타의 작은 도우미는 영화에서 본 인물과 닮은 콧수염을 이유로 우편배달부를 공격한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "여성 인물의 외형을 남성으로 판단하는 주변 인물이나 관객의 첫인상을 이용하는 표현 관습이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[왕좌의 게임]]》의 어린 아리아는 신분을 숨기기 위해 본격적으로 남장하기 전부터 외모와 행동 때문에 소년으로 오해받곤 한다. 자연스러운 인상과 의도적인 위장은 구분된다.",
+    "usage": "외모에 대한 주변의 추측과 당사자의 실제 설정이 어긋나는 장면을 만들되 성별 표현을 성격이나 매력의 우열로 단정하지 않는다.",
     "boundary": "타인의 외양 판단과 당사자의 성별 정체성은 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001291",
+      "description_ko": "《왕좌의 게임》의 어린 아리아는 신분을 숨기기 위해 본격적으로 남장하기 전부터 외모와 행동 때문에 소년으로 오해받곤 한다. 자연스러운 인상과 의도적인 위장은 구분된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

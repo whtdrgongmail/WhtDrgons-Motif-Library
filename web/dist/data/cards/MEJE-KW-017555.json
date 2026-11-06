@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "여러 인물이 감정 없는 같은 말투로 함께 오라고 되풀이하여 동화와 집단 지배의 공포를 만드는 음성 연출.",
-    "detail": "",
+    "detail": "단조로운 목소리, 여러 사람의 동시 발화, 변한 상태의 장점을 선전하는 말이 쓰인다. 익숙한 상대가 권유하기에 집단 압력과 정체성 상실의 두려움이 커진다.\n\n작품 사례: 《[[매트릭스 2 리로디드]]》에서 스미스가 모피어스를 자기 모습으로 바꾸려 할 때 복제체들이 함께 합류를 권한다. 동료가 되자는 말이 정체성을 빼앗는 위협으로 바뀐다.",
     "usage": "",
     "boundary": "평범한 환영 인사나 합창과 달리 획일성과 위압감이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001565",
+      "description_ko": "《매트릭스 2 리로디드》에서 스미스가 모피어스를 자기 모습으로 바꾸려 할 때 복제체들이 함께 합류를 권한다. 동료가 되자는 말이 정체성을 빼앗는 위협으로 바뀐다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

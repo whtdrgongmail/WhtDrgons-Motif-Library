@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "전시되거나 놓여 있는 갑옷 안으로 들어가 다른 사람에게 발견되지 않으려는 은신 행동이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[위저즈 오브 더 로스트 킹덤 2]]》에서 타이어는 전시된 갑옷 안으로 숨어 추격자에게 엉뚱한 방향을 알려 준다.",
     "usage": "인물과 장식물의 구분을 이용한 가까운 거리의 은신 장면에 쓴다.",
     "boundary": "전투를 위해 갑옷을 착용하거나 갑옷 뒤쪽에만 숨는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002309",
+      "description_ko": "《위저즈 오브 더 로스트 킹덤 2》에서 타이어는 전시된 갑옷 안으로 숨어 추격자에게 엉뚱한 방향을 알려 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

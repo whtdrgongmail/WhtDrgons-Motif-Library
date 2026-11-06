@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "말투·몸짓·감정 표현을 유난히 크고 극적으로 보여 존재감을 과시하는 인물 또는 연기 방식이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "항상 고함쳐야 하는 것은 아니며 조용한 목소리로도 리듬과 강조가 과장될 수 있다. 과장된 연기를 못하는 연기와 동일시하지 않는다.\n\n작품 사례: 《[[데블스 어드버킷]]》에서 알 파치노가 연기하는 루시퍼는 강하게 강조된 말과 극적인 존재감으로 장면을 장악한다. 원문은 이처럼 악역을 유난히 과장된 표현으로 제시하는 예를 든다.",
+    "usage": "대사와 몸짓의 강조를 지속적인 인물 표현으로 삼아 평범한 장면까지 극적인 존재감으로 채운다.",
     "boundary": "표현이 크다고 내면의 감정까지 반드시 강한 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002356",
+      "description_ko": "《데블스 어드버킷》에서 알 파치노가 연기하는 루시퍼는 강하게 강조된 말과 극적인 존재감으로 장면을 장악한다. 원문은 이처럼 악역을 유난히 과장된 표현으로 제시하는 예를 든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

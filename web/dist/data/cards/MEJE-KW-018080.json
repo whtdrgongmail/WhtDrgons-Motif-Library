@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "태도나 성격 때문에 미움을 받는 인물이 문제에 관해서는 타당한 지적을 하여 받아들여지는 장면이다. 호감과 판단의 옳음이 어긋난다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[메카마토]]》에서 불라는 딥을 괴롭히면서도 학업 성적이 좋지 않으니 만화 읽는 시간을 줄여야 한다고 지적한다. 딥이 그 지적 자체는 사실이라고 인정하여 가해적 태도와 말의 타당성이 분리된다.",
     "usage": "인물에 대한 감정과 사실 판단을 분리하게 하는 [[갈등]]에 쓴다.",
     "boundary": "무례함이 정당화되거나 그 사람이 모든 면에서 옳아야 하는 것은 아니다. 지적의 실제 타당성이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002095",
+      "description_ko": "《메카마토》에서 불라는 딥을 괴롭히면서도 학업 성적이 좋지 않으니 만화 읽는 시간을 줄여야 한다고 지적한다. 딥이 그 지적 자체는 사실이라고 인정하여 가해적 태도와 말의 타당성이 분리된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "구름이 발판과 배경이 되는 공중 구역을 게임의 한 스테이지로 구성한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[젤다의 전설: 이상한 모자]]》의 구름 위 구간에서는 걸을 수 있는 구름이 발판이 되고 공중의 적들이 나타난다. 지면 대신 하늘의 발판과 틈을 읽는 탐색 구역이다.",
+    "usage": "높이와 공백을 주요 위험으로 삼고 날씨·시야·바람을 이동 규칙에 결합한다.",
     "boundary": "구름이 실제로 단단한 세계 규칙과 그 규칙을 사용한 레벨 구성을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002471",
+      "description_ko": "《젤다의 전설: 이상한 모자》의 구름 위 구간에서는 걸을 수 있는 구름이 발판이 되고 공중의 적들이 나타난다. 지면 대신 하늘의 발판과 틈을 읽는 탐색 구역이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

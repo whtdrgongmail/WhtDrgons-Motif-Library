@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "값비싼 술의 선택과 소유를 인물의 경제적 여유나 특권을 나타내는 생활문화의 표지로 쓰는 설정이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "수정잔·고급 가구·조용한 실내와 천천히 즐기는 태도가 풍족한 생활을 시각화한다. 값비싼 음료를 마시는 표현과 의존·질환에 관한 실제 판단은 구별한다.\n\n작품 사례: 《[[어벤져스(2012년 영화)]]》에서 토니 스타크는 로키와 대치하면서도 술을 준비하는 여유를 보인다. 원문은 이 부유한 인물의 익숙한 행동을 슈트 장비를 챙기는 동선의 위장에도 이용했다고 설명한다.",
+    "usage": "고급 술과 여유로운 음용 장면으로 부·시간·생활 공간을 함께 보여 준다.",
     "boundary": "와인 한 종류에 한정하지 않으며 세련된 취향과 실제 부의 표현도 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002526",
+      "description_ko": "《어벤져스(2012년 영화)》에서 토니 스타크는 로키와 대치하면서도 술을 준비하는 여유를 보인다. 원문은 이 부유한 인물의 익숙한 행동을 슈트 장비를 챙기는 동선의 위장에도 이용했다고 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

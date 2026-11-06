@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "창작자가 누군가와 한 내기의 조건을 충족하거나 이기기 위해 작품을 만들게 된 제작 배경이다.",
-    "detail": "",
+    "detail": "작품 사례: 소설 시리즈 《[[코덱스 알레라]]》는 진부한 두 소재를 결합해도 좋은 작품을 만들 수 있다는 온라인 논쟁과 도전에서 출발했다고 원문이 소개한다. 내기가 창작의 제약 조건이 된 사례다.",
     "usage": "우발적인 약속과 제약이 작품의 형식을 정한 배경을 설명한다.",
     "boundary": "작품 속 인물들이 내기하는 줄거리와 달리 제작의 계기를 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002826",
+      "description_ko": "소설 시리즈 《코덱스 알레라》는 진부한 두 소재를 결합해도 좋은 작품을 만들 수 있다는 온라인 논쟁과 도전에서 출발했다고 원문이 소개한다. 내기가 창작의 제약 조건이 된 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

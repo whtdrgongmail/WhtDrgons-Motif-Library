@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-024159",
+  "kind": "keyword",
+  "title": "빨리 쓰러뜨려야 하는 보스",
+  "original": "Time-Limit Boss",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어에게 가능한 신속한 격파를 요구하는 시간 압박 중심의 보스전이다.",
+    "detail": "",
+    "usage": "공격 속도와 시간 관리에 전투의 초점을 둔다.",
+    "boundary": "이전 제안은 제한 시간 종료 시 즉시 실패를 명시한다. 현재 정의에는 그 규칙이 없으므로 자동으로 더하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "오래 버티기보다 빨리 적을 끝내야 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

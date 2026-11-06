@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "필요한 열쇠를 가지고 있으면서도 여러 틀린 열쇠 사이에서 어느 것이 맞는지 구별하지 못해 사용이 지연되는 상황.",
-    "detail": "",
+    "detail": "작품 사례: 《[[프렌즈]]》의 추수감사절 에피소드에서 일행은 잠긴 집에 들어가려고 표시 없는 열쇠를 하나씩 시험한다. 맞는 열쇠를 찾는 동안 오븐 속 저녁 식사가 망가진다.",
     "usage": "문이나 보관함을 열어야 하는 장면에 선택의 혼란과 지연을 더할 때 쓴다.",
     "boundary": "맞는 열쇠 자체를 분실한 상황이나 손에서 떨어뜨린 실수와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001344",
+      "description_ko": "《프렌즈》의 추수감사절 에피소드에서 일행은 잠긴 집에 들어가려고 표시 없는 열쇠를 하나씩 시험한다. 맞는 열쇠를 찾는 동안 오븐 속 저녁 식사가 망가진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

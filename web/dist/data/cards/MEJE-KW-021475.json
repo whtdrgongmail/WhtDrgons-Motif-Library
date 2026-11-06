@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F04",
   "description": {
     "definition": "과장된 연기와 음악, 특징적인 의상을 결합하는 일본 전통 연극 형식이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[가부키부!(소설)]]》는 가부키를 좋아하는 고등학생이 학교에 가부키 동아리를 만들려는 이야기를 다룬다. 공연 형식 자체가 인물의 목표와 활동을 이끈다.",
     "usage": "공연 형식과 무대 양식을 설계할 때 뚜렷한 표현 문법을 제공한다.",
     "boundary": "가부키풍 분장 하나를 사용한 장면과 연극 형식 전체를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "04",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002193",
+      "description_ko": "《가부키부!(소설)》는 가부키를 좋아하는 고등학생이 학교에 가부키 동아리를 만들려는 이야기를 다룬다. 공연 형식 자체가 인물의 목표와 활동을 이끈다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

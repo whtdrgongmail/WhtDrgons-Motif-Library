@@ -11,12 +11,12 @@
   "description": {
     "definition": "발사체의 비행 과정을 따로 계산하지 않고 발사 순간 직선 경로에서 먼저 만나는 대상에 명중을 판정하는 [[게임]] 방식이다.",
     "detail": "",
-    "usage": "",
+    "usage": "발사체의 시각 효과와 즉시 명중 규칙을 구분하여 전투 조작감을 정한다.",
     "boundary": "화면에 탄도 효과가 보이더라도 실제 판정에 비행 [[시간]]이 있는지와는 별개이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "25",
     "review_status": "provisional",

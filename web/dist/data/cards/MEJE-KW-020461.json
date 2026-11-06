@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "보스의 패배나 제거를 계기로 그가 있던 기지와 성채 등이 무너지기 시작하는 전개다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[메트로이드 프라임]]》에서 패러사이트 퀸이 쓰러져 프리깃 오르피온의 원자로 안으로 떨어지자 폭발 위험이 생겨 사무스가 급히 탈출해야 한다.",
     "usage": "보스전 뒤에 짧은 탈출 위기를 더하거나 악의 근거지가 끝났음을 공간으로 보여 준다.",
     "boundary": "우연히 같은 시기에 벌어진 별개 재난과 구별하며 보스 제거와 붕괴가 연결되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002629",
+      "description_ko": "《메트로이드 프라임》에서 패러사이트 퀸이 쓰러져 프리깃 오르피온의 원자로 안으로 떨어지자 폭발 위험이 생겨 사무스가 급히 탈출해야 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

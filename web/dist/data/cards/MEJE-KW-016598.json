@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "단어의 소리나 여러 뜻을 이용한 농담을 즐겨 만드는 인물이다. 주변의 반응이 좋아서든 싫어해서든 반복되는 언어유희가 말버릇과 성격을 이룬다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[원피스(만화)]]》의 브룩이 자신의 해골 몸을 소재로 농담을 거듭하자 프랑키는 때리려 하고 로빈도 결국 말리지 않는다. 농담의 내용과 질린 동료들의 반응이 함께 웃음을 만든다.",
     "usage": "인물마다 농담하는 방식과 주변의 반응을 구별할 때 쓴다.",
     "boundary": "다른 종류의 농담을 즐기는 익살꾼 전부를 뜻하지 않는다. 우연히 한 번 [[말장난]]이 된 발언과도 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》의 브룩이 자신의 해골 몸을 소재로 농담을 거듭하자 프랑키는 때리려 하고 로빈도 결국 말리지 않는다. 농담의 내용과 질린 동료들의 반응이 함께 웃음을 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

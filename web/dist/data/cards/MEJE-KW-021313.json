@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "라텍스 가면 같은 분장 도구가 다른 사람의 얼굴을 빈틈없이 재현하여 신원을 속일 수 있도록 작동하는 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[도라에몽]]》에서 진구는 비실이의 어머니 등 다른 사람의 모습에 꼭 맞는 가면과 변장을 사용해 물건을 되찾는다.",
     "usage": "변장으로 접근 권한을 얻거나 가면을 벗는 순간 정체가 뒤집히는 장면에 쓴다.",
     "boundary": "얼굴을 가리기만 하는 가면이나 보통 수준의 분장과 구별한다. 목소리·체격까지 자동으로 바뀐다고 덧붙이지 않고 얼굴 위장의 완전성을 중심에 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001382",
+      "description_ko": "《도라에몽》에서 진구는 비실이의 어머니 등 다른 사람의 모습에 꼭 맞는 가면과 변장을 사용해 물건을 되찾는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

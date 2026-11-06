@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "한곳에 머물지 않고 여행하면서 불의를 바로잡고 어려운 이를 돕는 것을 생활 방식으로 삼는 기사·[[영웅]] 유형이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "동등한 동료 집단에 정착하기보다는 혼자 이동하며 종자나 충실한 탈것이 따를 수 있다. 기사 외에도 떠도는 총잡이·사무라이·무협 영웅으로 변주된다.\n\n작품 사례: 《[[왕좌의 게임]]》의 브리엔은 충성하던 인물들을 잃은 뒤 정해진 영지나 주군에 안착하지 못한 채 자신의 의무를 수행한다.",
+    "usage": "길 위에서 만나는 지역의 불의를 해결하고 떠나는 반복 구조를 구성한다.",
     "boundary": "[[여행]] 중 우연히 선행한 [[인물]]보다 [[이동]]과 [[구조]]가 지속적인 삶의 방식이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001291",
+      "description_ko": "《왕좌의 게임》의 브리엔은 충성하던 인물들을 잃은 뒤 정해진 영지나 주군에 안착하지 못한 채 자신의 의무를 수행한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

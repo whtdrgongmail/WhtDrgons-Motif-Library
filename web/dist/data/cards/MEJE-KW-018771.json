@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "지켜야 할 정보를 말하지 못하도록 스스로 제어하지 못해 자신이나 다른 사람에게 위험이 되는 누설을 하는 행동이다.",
-    "detail": "",
+    "detail": "우연한 엿듣기, 듣는 이의 신분을 모르는 대화, 방송과 온라인 게시 등으로 누설이 퍼질 수 있다. 의도한 가짜 정보를 흘리는 작전과는 구분한다.\n\n작품 사례: 《[[나루토(만화)]]》에서 카카시는 린의 무덤에 이야기를 하다가 나루토의 출생에 관한 정보를 말한다. 죽은 줄 알았던 오비토가 숨어 듣고 있어 비밀이 적에게 넘어간다.",
     "usage": "입이 가벼운 성격을 사건의 위기나 관계의 불신으로 연결한다.",
     "boundary": "계획한 고발·정보 제공이나 상대의 강요 때문에 말하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002184",
+      "description_ko": "《나루토(만화)》에서 카카시는 린의 무덤에 이야기를 하다가 나루토의 출생에 관한 정보를 말한다. 죽은 줄 알았던 오비토가 숨어 듣고 있어 비밀이 적에게 넘어간다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

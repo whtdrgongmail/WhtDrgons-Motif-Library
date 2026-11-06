@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "상대의 모욕에 반격하려 하지만 설득력이나 재치가 부족해 제대로 응수하지 못하는 대화다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[나루토(만화)]]》에서 사스케는 나루토가 특별하다는 말을 인정한 뒤 자신은 더 특별하다고 되받는다. 반격하려는 의도에 비해 논리와 표현이 단순해 어설픈 응수가 된다.",
     "usage": "당황과 말재주 차이를 보여 주거나 말싸움의 긴장을 희극적으로 푼다.",
     "boundary": "아무 말도 하지 않는 침묵과 구별한다. 반격을 시도했다는 점과 그 효과 부족이 함께 나타나야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002184",
+      "description_ko": "《나루토(만화)》에서 사스케는 나루토가 특별하다는 말을 인정한 뒤 자신은 더 특별하다고 되받는다. 반격하려는 의도에 비해 논리와 표현이 단순해 어설픈 응수가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

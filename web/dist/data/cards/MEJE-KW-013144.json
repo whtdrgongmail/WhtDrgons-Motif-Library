@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "강력한 총은 손쉽게 다루는 것처럼 보이고 약한 총은 크게 흔들리는 등 무기의 위력과 반동 표현이 뒤바뀌는 연출이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 대조 사례로 《[[기동전사 건담 제08MS소대]]》는 시로가 여러 총을 동시에 쏘자 반동 때문에 조준을 유지하지 못하게 한다. 반동을 무시하는 연출과의 차이를 보여 준다.",
+    "usage": "발사 장면의 충격을 약화하거나 과장하는 연출을 무기의 위력 인상과 구분해 기록한다.",
     "boundary": "실제 무기 사양의 법칙이 아니라 화면 속 상대적인 [[과장]] 방식이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002155",
+      "description_ko": "대조 사례로 《기동전사 건담 제08MS소대》는 시로가 여러 총을 동시에 쏘자 반동 때문에 조준을 유지하지 못하게 한다. 반동을 무시하는 연출과의 차이를 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

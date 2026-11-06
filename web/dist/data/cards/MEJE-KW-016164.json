@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "한 인물이나 살아 있는 존재가 사라진 문화·공동체의 잔여를 자기 안에 보존하여 미래로 이어 주는 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[아바타: 아앙의 전설]]》의 아앙은 학살 뒤 공기 유목민의 문화 지식을 전하는 생존자로 남아 유적과 전통을 지키는 책임을 떠안는다.",
     "usage": "존재의 생존이 개인을 넘어 과거의 삶을 전승하는 역할인지 확인한다.",
     "boundary": "살아남았다는 사실만 있는 마지막 일원이나 무생물 기록 보관소와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》의 아앙은 학살 뒤 공기 유목민의 문화 지식을 전하는 생존자로 남아 유적과 전통을 지키는 책임을 떠안는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

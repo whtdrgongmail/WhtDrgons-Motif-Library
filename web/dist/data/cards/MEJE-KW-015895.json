@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "운동선수라는 학교 내 지위와 인기를 바탕으로 다른 학생에게 무례하거나 공격적으로 행동하는 인물형이다.",
-    "detail": "",
+    "detail": "[[학교]]에서는 성적과 명성을 이유로 주변이 폭력을 묵인하거나 추종자들이 괴롭힘에 가담할 수 있다. 지위 상실과 공개적 망신이 약점이 되며, 반성하거나 선한 면을 드러내는 변형도 가능하다. 이 설정은 실제 운동선수의 성격에 대한 일반화가 아니다.\n\n작품 사례: 《[[도라에몽]]》의 퉁퉁이는 동네 야구팀을 이끌면서 팀원, 특히 진구에게 거칠고 위압적으로 행동한다. 원문은 동시에 다정한 면도 나타나는 인물임을 덧붙인다.",
     "usage": "운동부 지위와 불친절·괴롭힘이 인물 전형으로 결합되는지 확인한다.",
     "boundary": "운동을 하는 학생 전체의 성격을 뜻하지 않으며 단순한 승부욕과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001382",
+      "description_ko": "《도라에몽》의 퉁퉁이는 동네 야구팀을 이끌면서 팀원, 특히 진구에게 거칠고 위압적으로 행동한다. 원문은 동시에 다정한 면도 나타나는 인물임을 덧붙인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

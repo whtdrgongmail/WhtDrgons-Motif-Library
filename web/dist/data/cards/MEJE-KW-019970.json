@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "다른 사람에게 피해를 주는 행위가 제도의 설계에 따라 정식으로 허용되거나 보호되어 법적 질서와 윤리적 판단이 충돌한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[원피스(만화)]]》의 천룡인은 세계정부가 그들의 해로운 행동을 허용하고 공격받으면 해군 대장을 동원할 권한까지 보장하는 특권층으로 그려진다.",
+    "usage": "법이 보호하는 해악과 인물의 양심을 충돌시킨다.",
     "boundary": "규칙의 결함이 우연히 나쁜 결과를 낳는 경우와 설계된 허용을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》의 천룡인은 세계정부가 그들의 해로운 행동을 허용하고 공격받으면 해군 대장을 동원할 권한까지 보장하는 특권층으로 그려진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

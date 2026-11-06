@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "주변이 기이하거나 불안정하다고 보는 [[행동]] 특성을 지녔지만 타인에게 큰 친절과 연민을 베푸는 인물형이다.",
-    "detail": "",
+    "detail": "엉뚱함과 친절은 함께 존재할 수 있으며 지능이 낮아야 하는 것은 아니다. 선행을 단순히 특이함의 결과로 일반화하지 않고 실제 행동과 관계를 살핀다.\n\n작품 사례: 《[[그래비티 폴즈]]》의 메이블은 기이하고 때로 문제를 만드는 행동을 하지만, 다른 이들을 도우려는 다정한 마음을 지닌 인물로 제시된다.",
     "usage": "기이하게 보이는 행동과 타인에게 베푸는 실제 연민을 구분한다.",
     "boundary": "[[현실]] 정신건강에 대한 평가가 아니며 특이함과 선량함의 대비를 설명한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002291",
+      "description_ko": "《그래비티 폴즈》의 메이블은 기이하고 때로 문제를 만드는 행동을 하지만, 다른 이들을 도우려는 다정한 마음을 지닌 인물로 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

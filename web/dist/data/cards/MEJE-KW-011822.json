@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "여성 [[인물]]을 순결하고 존중받을 대상과 성적으로 개방적이어서 비난받을 대상으로 나누어 도덕성을 배정하는 [[관습]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[메트로폴리스]]》는 순결하고 성스러운 마리아와 사람들을 유혹하도록 만들어진 [[로봇]] 분신을 대비한다. 두 인물에 부여한 상반된 성적 이미지가 선악의 표시가 된다.",
+    "usage": "인물이 여성을 이상화하거나 비난하는 기준을 드러내고, 그 두 범주로 설명되지 않는 선택과 인격을 보여 준다.",
     "boundary": "성적 경험이나 표현이 실제 도덕성을 결정한다는 뜻이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002832",
+      "description_ko": "《메트로폴리스》는 순결하고 성스러운 마리아와 사람들을 유혹하도록 만들어진 로봇 분신을 대비한다. 두 인물에 부여한 상반된 성적 이미지가 선악의 표시가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

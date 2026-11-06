@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "작품 속 인물들이 자신들이 등장하는 작품을 외부 [[관객]]처럼 시청하거나 관람하는 메타적 전개다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[아바타: 아앙의 전설]]》에서 일행은 자신들의 모험을 바탕으로 만든 연극을 함께 보고 배역과 사건 해석에 반응한다. 관객이 이미 본 사건을 당사자가 다시 평가하는 자리가 된다.",
+    "usage": "당사자가 몰랐던 장면과 다른 인물의 반응을 대조하여 관계를 재해석하거나 이후 선택을 바꾸는 계기로 삼는다.",
     "boundary": "극중에서 별도의 다른 작품을 보는 [[장면]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001286",
+      "description_ko": "《아바타: 아앙의 전설》에서 일행은 자신들의 모험을 바탕으로 만든 연극을 함께 보고 배역과 사건 해석에 반응한다. 관객이 이미 본 사건을 당사자가 다시 평가하는 자리가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

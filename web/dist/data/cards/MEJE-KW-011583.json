@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "집안을 관리하는 고용된 [[인물]]이 친절한 태도로 거주자들을 돌보고 [[생활 공간]]에 온기를 주는 유형이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "식사와 집안일뿐 아니라 슬픔을 들어 주는 정서적 돌봄을 맡는다. 부모가 부재한 아이나 다른 고용인에게 가족 같은 중심이 될 수 있다.\n\n작품 사례: 그라나다 TV판 《[[셜록 홈즈(그라나다 TV 시리즈)]]》의 허드슨 부인은 하숙인 홈즈와 모자 같은 애착을 보인다. 가사 역할만을 넘어 집과 정서적 돌봄의 중심이 된다.",
+    "usage": "집이라는 공간에 온기를 주고 격식 있는 고용 관계를 가족 같은 유대로 확장한다.",
     "boundary": "가사 업무를 맡았다는 사실만으로 성립하지 않으며 친절한 [[돌봄]]의 묘사가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002271",
+      "description_ko": "그라나다 TV판 《셜록 홈즈(그라나다 TV 시리즈)》의 허드슨 부인은 하숙인 홈즈와 모자 같은 애착을 보인다. 가사 역할만을 넘어 집과 정서적 돌봄의 중심이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

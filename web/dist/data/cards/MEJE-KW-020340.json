@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "인물에게 사소한 징후가 보이자 충분한 확인 없이 병에 걸렸다고 판단하고 곧바로 환자처럼 취급하는 전개이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[내 친구 티거와 푸]]》의 「Darby, Solo Sleuth」에서 실제 감기 환자들과 달리 래빗·다비·버스터는 한 번 재채기했을 뿐인데 감기에 걸렸다고 여겨진다.",
     "usage": "과잉 걱정과 오해가 인물의 행동을 제한하는 소동을 만든다.",
     "boundary": "작품의 성급한 판단을 다루며 실제 진단 기준을 제시하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002148",
+      "description_ko": "《내 친구 티거와 푸》의 「Darby, Solo Sleuth」에서 실제 감기 환자들과 달리 래빗·다비·버스터는 한 번 재채기했을 뿐인데 감기에 걸렸다고 여겨진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

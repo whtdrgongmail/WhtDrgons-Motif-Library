@@ -9,12 +9,12 @@
   "description": {
     "definition": "여러 출발점과 도착점을 수직선으로 대응시키고 가로 연결선을 만날 때마다 경로를 바꾸어 결과를 배정하는 추첨 방식이다.",
     "detail": "가로선을 가리거나 [[선택]] 뒤 결과를 공개하면 참가자는 경로의 종착점을 미리 알 수 없다.",
-    "usage": "",
+    "usage": "경로 추첨을 통해 상·벌·역할을 서로 다른 참가자에게 배분한다.",
     "boundary": "무작위 주사위와 달리 완성된 사다리에서는 각 출발점이 서로 다른 도착점에 대응한다. 경로를 공개하고 계산하게 하면 추첨 대신 퍼즐이 된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "25",
     "review_status": "provisional",

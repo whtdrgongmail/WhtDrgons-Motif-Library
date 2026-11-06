@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F30",
   "description": {
     "definition": "번역판이 원작의 장면과 구성을 잘라 다시 조합한 방식을 팬들이 원작을 훼손하거나 우스꽝스럽게 만든 각색이라고 평가하는 반응이다.",
-    "detail": "",
+    "detail": "원작의 핵심 매력을 살린 변경과 이를 놓친 재구성이 구별된다. 수정된 판본을 입문작으로 접한 관객과 원작을 먼저 접한 관객은 같은 변경을 다르게 평가할 수 있다.\n\n작품 사례: 《[[로보텍]]》처럼 서로 다른 원작을 이어 새 이야기로 만든 판본은 원작 훼손이라는 강한 반응의 대상이 될 수 있다. 원문은 편성 조건과 작품을 처음 만난 관객의 입장도 함께 설명한다.",
     "usage": "애니메이션 현지화의 재편집에 대한 팬의 강한 거부감을 설명할 때 쓴다.",
     "boundary": "번역의 작은 오역이나 현지화라는 사실만으로 적용하지 않는다. 재조합 방식에 대한 부정적 평가가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "30",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002803",
+      "description_ko": "《로보텍》처럼 서로 다른 원작을 이어 새 이야기로 만든 판본은 원작 훼손이라는 강한 반응의 대상이 될 수 있다. 원문은 편성 조건과 작품을 처음 만난 관객의 입장도 함께 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

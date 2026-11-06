@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "함께 있을 때의 안전을 포기하고 일행이 갈라져 추적자에게 각자 노출되는 전개.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[신의 탑]]》에서 쿤은 밤이 죽었다고 여겨진 뒤 라헬과 함께 다른 동료들과 갈라지고 나머지는 십이수 아래에서 올라가게 한다. 원문은 라헬과 음모의 단서를 추적하려는 쿤의 의도가 분산 결정에 작용한다고 설명한다.",
+    "usage": "탐색·문제 해결을 분담하면서 각 인물의 위험과 별도 사건선을 만든다.",
     "boundary": "분산이 실제로 더 안전한 작전인 경우와 장면의 결과를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-001296",
+      "description_ko": "《신의 탑》에서 쿤은 밤이 죽었다고 여겨진 뒤 라헬과 함께 다른 동료들과 갈라지고 나머지는 십이수 아래에서 올라가게 한다. 원문은 라헬과 음모의 단서를 추적하려는 쿤의 의도가 분산 결정에 작용한다고 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

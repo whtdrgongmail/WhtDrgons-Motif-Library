@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "직접 닿을 수 없는 상대에게 입맞춤을 전하기 위해 다른 인물을 전달자로 삼는다.",
-    "detail": "",
-    "usage": "",
+    "detail": "전달자는 부탁을 진지하게 실행하거나 의미가 달라진다며 거절할 수 있다. 애정뿐 아니라 위협 같은 의미도 중간 사람을 거쳐 전달된다.\n\n작품 사례: 《[[토이 스토리 2]]》에서 보핍은 우디에게 전해 달라며 버즈의 볼에 입맞춤한다. 버즈는 자신이 전하면 뜻이 달라질 것이라고 지적하고 실제로 전달하지 않는다.",
+    "usage": "부재한 상대와의 관계를 제삼자의 당황과 의미 변화로 표현한다.",
     "boundary": "단순한 애정 메시지와 신체 행위의 전달을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001602",
+      "description_ko": "《토이 스토리 2》에서 보핍은 우디에게 전해 달라며 버즈의 볼에 입맞춤한다. 버즈는 자신이 전하면 뜻이 달라질 것이라고 지적하고 실제로 전달하지 않는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

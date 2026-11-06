@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F20",
   "description": {
     "definition": "사자를 다른 동물들 위에서 권위와 통치 역할을 갖는 존재로 배치하는 의인화·[[상징]] 모티프다.",
-    "detail": "",
+    "detail": "실제 군주이거나 다른 동물들이 권위를 인정하는 지도자로 사자를 배치한다. 현대 의인화 사회에서는 기업·정치·군대의 고위직으로 바뀔 수 있다.\n\n작품 사례: 《[[라이온 킹(1994년 영화)]]》에서는 사냥의 대상이 되는 동물들까지 사자를 사바나의 왕으로 인정한다. 먹이 관계와 별개로 사자의 통치 권위가 세계의 질서가 된다.",
     "usage": "사자의 강함이 단순한 전투 능력을 넘어 지도자나 지배자의 지위로 표현되는지 본다.",
     "boundary": "현실 동물 생태의 사실을 뜻하지 않으며 사자가 주인공이라는 이유만으로 적용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "20",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002113",
+      "description_ko": "《라이온 킹(1994년 영화)》에서는 사냥의 대상이 되는 동물들까지 사자를 사바나의 왕으로 인정한다. 먹이 관계와 별개로 사자의 통치 권위가 세계의 질서가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

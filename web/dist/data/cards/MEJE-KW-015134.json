@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "주로 술을 마시는 공간에서 인물이 우유를 주문하여 그 장소의 기대와 자신의 태도를 대비시키는 장면이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[드래곤볼]]》의 기란은 술집에서 우유를 주문한다. 이를 나약함으로 받아들여 놀리는 이들을 제압하면서, 음료의 어린 이미지와 실제 힘의 차이가 드러난다.",
+    "usage": "위압적인 공간의 음료 기대와 인물의 순수함·금주·자신감을 대비한다.",
     "boundary": "무알코올 음료의 일반적인 주문보다 장소와 우유의 상징적 대비가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001375",
+      "description_ko": "《드래곤볼》의 기란은 술집에서 우유를 주문한다. 이를 나약함으로 받아들여 놀리는 이들을 제압하면서, 음료의 어린 이미지와 실제 힘의 차이가 드러난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

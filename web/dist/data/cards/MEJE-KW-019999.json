@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "공식적인 의식을 통해 인물을 기사 계급이나 기사단의 구성원으로 인정하고 그 지위와 의무를 부여한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "검으로 어깨를 짚는 동작, 충성 맹세, 정화 의례와 축하 경기가 결합될 수 있다. 작품에서는 긴 절차를 줄이거나 전장 직전의 즉석 서임으로 변형한다.\n\n작품 사례: 《[[왕좌의 게임]]》에서 제이미는 윈터펠 전투 전날 브리엔을 기사로 서임하여 오랫동안 바라던 지위를 인정한다.",
+    "usage": "정식 지위 획득과 공개적 의무 수락을 의례 장면으로 나타낸다.",
     "boundary": "단순한 전투 훈련의 통과와 사회적 지위 부여를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001291",
+      "description_ko": "《왕좌의 게임》에서 제이미는 윈터펠 전투 전날 브리엔을 기사로 서임하여 오랫동안 바라던 지위를 인정한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

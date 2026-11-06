@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "어린이 [[인물]]이 채소를 특별히 맛없게 여기고 거부한다는 반응을 반복적으로 사용하는 [[관습]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[포켓몬스터(애니메이션 연작)]]》의 이슬은 벌레 타입을 싫어한다는 이야기를 하면서 당근과 피망도 질색한다고 말한다. 채소에 대한 거부가 인물의 반복적인 취향 표현이 된다.",
+    "usage": "편식과 보호자의 식사 요구가 충돌하는 가정 장면을 만들거나 인물의 취향을 반복 표지로 사용한다.",
     "boundary": "모든 실제 어린이의 취향으로 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001747",
+      "description_ko": "《포켓몬스터(애니메이션 연작)》의 이슬은 벌레 타입을 싫어한다는 이야기를 하면서 당근과 피망도 질색한다고 말한다. 채소에 대한 거부가 인물의 반복적인 취향 표현이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

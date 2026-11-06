@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "아기가 태어나기 전까지 이름을 정하지 못하거나 미루다가 출생 직후에 이름을 선택한다.",
-    "detail": "",
+    "detail": "출생 뒤 즉석에서 합의하거나 아기의 모습을 보고 영감을 받는 방식이다. 가족·선조의 이름을 이어 주거나 형제에게 선택을 맡기는 변형이 있다. 실제 부모의 명명 관행 빈도에 대한 원문의 단정은 옮기지 않았다.\n\n작품 사례: 《[[드래곤볼 Z(애니메이션)]]》에서 손오공과 치치는 태어난 아들의 이름을 고민하다가 아기가 손오공의 할아버지 오반의 이름에 잘 반응하는 것을 보고 그 이름을 택한다.",
     "usage": "예상 밖 출생이나 부모의 망설임을 관계와 명명의 순간에 연결할 때 쓴다.",
     "boundary": "이미 정한 이름을 공식 등록하는 행위와는 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002164",
+      "description_ko": "《드래곤볼 Z(애니메이션)》에서 손오공과 치치는 태어난 아들의 이름을 고민하다가 아기가 손오공의 할아버지 오반의 이름에 잘 반응하는 것을 보고 그 이름을 택한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

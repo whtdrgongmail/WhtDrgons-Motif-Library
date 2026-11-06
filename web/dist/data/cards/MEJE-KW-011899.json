@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "연인에 대한 사랑을 숭배·구원·헌신 등 종교의 언어와 [[구조]]로 표현하는 [[노래]] 방식이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 종현의 〈[[할렐루야(종현 노래)]]〉는 사랑하는 여성의 아름다움을 [[천사]]와 창조에 대한 감사의 이미지로 표현한다. 종교적 말이 연인을 향한 찬사의 언어가 된다.",
+    "usage": "연애 노래에서 숭배·구원·헌신의 종교 언어로 감정의 강도를 표현한다.",
     "boundary": "실제 신에게 바치는 곡을 [[연애]] 노래처럼 쓰는 경우와 방향이 반대다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-002754",
+      "description_ko": "종현의 〈할렐루야(종현 노래)〉는 사랑하는 여성의 아름다움을 천사와 창조에 대한 감사의 이미지로 표현한다. 종교적 말이 연인을 향한 찬사의 언어가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "인물의 실패 직후 금관악기 소리나 다른 짧은 음향을 붙여 그 결과를 우스꽝스럽게 강조하는 연출이다.",
-    "detail": "",
+    "detail": "승리의 주제곡을 처량하게 바꾼 짧은 팡파르, 아래로 내려가는 익살스러운 음, 놀리는 선율이라는 세 구성 방식이 있다. 특정 악기나 네 음만으로 고정하지 않는다.\n\n작품 사례: 《[[더 프라이스 이즈 라이트]]》의 원문 사례는 주제 선율의 첫 부분을 튜바로 연주한 뒤 트롬본이 신음하듯 내려가는 소리로 패배를 알린다.",
     "usage": "동작의 결과와 청각적 논평을 결합해 코미디의 박자를 만든다.",
     "boundary": "등장인물이 실제로 내는 소리와 비극적 실패를 애도하는 음악은 맥락상 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002708",
+      "description_ko": "《더 프라이스 이즈 라이트》의 원문 사례는 주제 선율의 첫 부분을 튜바로 연주한 뒤 트롬본이 신음하듯 내려가는 소리로 패배를 알린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "상대의 이동 능력을 떨어뜨리려 무릎 부위를 일부러 다치게 하는 폭력적 행동을 그리는 장면이다.",
-    "detail": "",
+    "detail": "도주를 막는 위협, 잔혹한 강압, 전투 중 이동 방해라는 용도가 [[서사]]에서 구분된다. 현실에서 안전하거나 확실한 비살상 방법이라는 뜻으로 쓰지 않는다.\n\n작품 사례: 《[[킹덤 오브 로딩]]》의 펭귄 마피아는 말을 듣지 않는 상대의 무릎을 해치는 위협으로 복종을 강요하는 집단으로 묘사된다.",
     "usage": "살상과 다른 무력화의 의도 및 잔혹함을 드러낸다.",
     "boundary": "우연히 무릎을 다치거나 이미 난 상처를 일반적으로 노리는 장면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001778",
+      "description_ko": "《킹덤 오브 로딩》의 펭귄 마피아는 말을 듣지 않는 상대의 무릎을 해치는 위협으로 복종을 강요하는 집단으로 묘사된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

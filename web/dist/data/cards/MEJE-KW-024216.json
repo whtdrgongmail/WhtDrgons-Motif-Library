@@ -1,0 +1,35 @@
+{
+  "id": "MEJE-KW-024216",
+  "kind": "keyword",
+  "title": "레벨로만 얻는 능력이 길을 열기",
+  "original": "Level-Gated Abilities Open the Path",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "진행에 필요한 능력을 특정 레벨에서만 획득하도록 하여 능력 사용과 레벨 도달이 함께 통과 조건이 된다.",
+    "detail": "",
+    "usage": "성장과 탐색의 새로운 행동을 같은 진행 문턱으로 연결한다.",
+    "boundary": "레벨 숫자만 검사하는 경우와 달리 실제로 획득한 능력을 사용해야 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "필수 기술을 배우는 레벨까지 올라야 막힌 길을 넘을 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

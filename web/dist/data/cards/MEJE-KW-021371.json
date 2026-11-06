@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F30",
   "description": {
     "definition": "홍보나 소개가 오래 알려진 반전이라고 판단하여 아직 보지 않은 관객에게도 그 내용을 공개하는 관행이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[디즈니 빌러너스]]》의 확장팩은 로츠를 악당으로 선택하게 하므로, 아직 관련 영화를 보지 않은 이용자도 그의 숨겨진 역할을 알게 된다.",
     "usage": "새 관객과 기존 관객에게 제공할 정보의 범위가 다른 문제를 다룰 때 쓴다.",
     "boundary": "비밀이 유명한 상태와 달리 홍보자가 이미 알려졌다고 가정해 공개하는 행위가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "30",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00084",
+      "work_card_id": "MM-MEDIA-002379",
+      "description_ko": "《디즈니 빌러너스》의 확장팩은 로츠를 악당으로 선택하게 하므로, 아직 관련 영화를 보지 않은 이용자도 그의 숨겨진 역할을 알게 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

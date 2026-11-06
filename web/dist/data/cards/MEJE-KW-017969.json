@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "인물이 더 싸워도 이길 수 없음을 판단하고 패배를 인정하거나 경쟁을 중단한다. 자존심보다 손실과 가능성에 대한 현실적인 판단을 우선한다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[스타 트렉 6: 미지의 세계]]》에서 커크는 고르콘의 함선을 공격했다는 의심을 받은 뒤 전쟁의 확대를 막기 위해 맞서 싸우는 대신 항복을 택한다.",
     "usage": "승산 판단에 쓰인 정보와 물러나서 지키는 것을 보여 준다.",
     "boundary": "결과가 이미 확정된 뒤 승자를 존중하는 태도와 달리 중단 시점의 선택이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002312",
+      "description_ko": "《스타 트렉 6: 미지의 세계》에서 커크는 고르콘의 함선을 공격했다는 의심을 받은 뒤 전쟁의 확대를 막기 위해 맞서 싸우는 대신 항복을 택한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

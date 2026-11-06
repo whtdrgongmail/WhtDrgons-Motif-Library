@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "인물의 과거 잘못을 이유로 그가 겪는 성폭력을 마땅한 처벌처럼 제시하는 재현 관습이다. 가해의 책임 대신 피해자의 도덕적 평가로 폭력을 정당화한다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[워킹 데드(만화)]]》에서 미숀의 총독에 대한 복수에는 성폭력을 가하는 행위가 포함된다. 원문은 앞선 가해에 대한 응보 수단으로 성폭력이 배치되는 사례로 설명한다.",
     "usage": "어떤 시선이 폭력을 정당화하는지 구분하고 사건과 서술의 평가를 분리해 읽는다.",
     "boundary": "악역이 피해를 입는다는 사실만으로는 부족하며 작품의 응보적 평가가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002209",
+      "description_ko": "《워킹 데드(만화)》에서 미숀의 총독에 대한 복수에는 성폭력을 가하는 행위가 포함된다. 원문은 앞선 가해에 대한 응보 수단으로 성폭력이 배치되는 사례로 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

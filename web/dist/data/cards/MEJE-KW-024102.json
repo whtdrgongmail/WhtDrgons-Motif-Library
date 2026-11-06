@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-024102",
+  "kind": "keyword",
+  "title": "격자 소지품의 배치를 맞추는 퍼즐",
+  "original": "Inventory Management Puzzle",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "소지품을 격자형 수납 공간 안에 정리하는 일이 크기와 위치를 고려해야 하는 배치 과제가 되는 규칙이다.",
+    "detail": "",
+    "usage": "소지품 정리에 공간 추론의 부담을 더한다.",
+    "boundary": "현재 문단은 격자 정리 문제를 말하므로 무게·개수 한도만 있는 소지품 선택 전체와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "가방의 빈칸에 물건의 모양을 맞춰 넣는 것 자체가 문제가 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "동아시아 전승에서 이어지는 용 계열의 신비한 영물로, 창작물에서는 외뿔 동물의 특징과도 결합하는 존재 유형이다.",
-    "detail": "",
+    "detail": "작품에 따라 정의의 판별자·훌륭한 통치자의 징조가 되며 날개 없이 하늘이나 물 위를 걷기도 한다. 뿔의 수와 몸의 형태는 하나로 고정하지 않는다.\n\n작품 사례: 《[[십이국기]]》의 기린은 하늘의 뜻을 읽어 왕을 선택하고 그 왕의 조언자가 된다. 사람 모습으로도 변하는 신성한 존재가 통치의 정당성을 매개한다.",
     "usage": "동아시아풍 신성한 생물의 계보와 작품별 외형을 설정할 때 쓴다.",
     "boundary": "실제 동물인 기린과 구별하고 지역 전승들의 세부를 한 형태로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001635",
+      "description_ko": "《십이국기》의 기린은 하늘의 뜻을 읽어 왕을 선택하고 그 왕의 조언자가 된다. 사람 모습으로도 변하는 신성한 존재가 통치의 정당성을 매개한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

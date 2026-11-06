@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "여성 전투자가 손이나 무기보다 발차기를 주요 공격 방식으로 삼도록 디자인된다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[Daemon Bride]]》의 이브는 부츠의 칼날과 발차기를 중심으로 싸우며 원거리 공격도 다리에서 내보낸다. 의상과 다리 중심의 공격 동작이 인물 디자인을 함께 이룬다.",
+    "usage": "공격 방식과 인물의 실루엣을 일치시키는 액션 디자인에 쓴다.",
     "boundary": "전투 스타일의 묘사이며 성별에 따른 실제 능력의 일반화가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002228",
+      "description_ko": "《Daemon Bride》의 이브는 부츠의 칼날과 발차기를 중심으로 싸우며 원거리 공격도 다리에서 내보낸다. 의상과 다리 중심의 공격 동작이 인물 디자인을 함께 이룬다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

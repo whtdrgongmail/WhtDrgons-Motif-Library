@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "아름다운 외모나 성적 매력을 이용해 상대를 가까이 불러들인 뒤 포식하는 존재 유형.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[베르세르크(만화)]]》에 등장하는 여성형 사도는 매력적인 모습으로 상대를 유인한 뒤 본래의 괴물 모습을 드러내 포식한다. 친밀함의 기대가 포식자의 위장으로 뒤집히는 사례다.",
+    "usage": "상대의 외모 판단이 포식자의 사냥 계획에 들어 있음을 드러낸다.",
     "boundary": "유혹을 통한 지배와 달리 실제 포식 목적이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002477",
+      "description_ko": "《베르세르크(만화)》에 등장하는 여성형 사도는 매력적인 모습으로 상대를 유인한 뒤 본래의 괴물 모습을 드러내 포식한다. 친밀함의 기대가 포식자의 위장으로 뒤집히는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

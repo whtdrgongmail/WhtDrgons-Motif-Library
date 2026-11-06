@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "위험한 악역의 등장이 이전의 가벼운 분위기를 더 어둡고 진지한 이야기로 바꾸는 역할이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[SMG4]]》의 제로와 나일스는 우주를 파괴하는 실제 위협을 가하며 등장 장면에서 희극적 분위기를 급격히 줄인다.",
+    "usage": "새 악역의 등장 전후에 유머·위협·사건의 결과가 얼마나 달라지는지 확인한다.",
     "boundary": "강한 적의 존재만 아니라 작품 전체의 분위기 변화가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00100",
+      "work_card_id": "MM-MEDIA-002308",
+      "description_ko": "《SMG4》의 제로와 나일스는 우주를 파괴하는 실제 위협을 가하며 등장 장면에서 희극적 분위기를 급격히 줄인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

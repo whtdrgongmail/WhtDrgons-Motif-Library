@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "법 집행을 맡던 인물이 자신이 지켜야 했던 법을 버리고 범죄와 무법의 길로 들어서는 전개다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[베터 콜 사울]]》의 마이크는 경찰 조직의 부패와 아들의 죽음을 거친 뒤 경찰을 떠나 복수하고 범죄 세계에서 일한다.",
     "usage": "법의 집행자에서 위반자로 바뀌는 역할 전환을 본다.",
     "boundary": "처음부터 부패했던 관리나 규정 한 번을 어기는 행동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002384",
+      "description_ko": "《베터 콜 사울》의 마이크는 경찰 조직의 부패와 아들의 죽음을 거친 뒤 경찰을 떠나 복수하고 범죄 세계에서 일한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "행사나 활동의 본래 목적에는 관심이 없고 제공되는 먹거리를 얻으려는 이유만으로 자리를 지키는 인물의 동기다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[라이트닝 리턴즈 파이널 판타지 XIII]]》에서 라이트닝은 한 남자와 저녁을 먹는 의뢰를 받아들이며 자신은 그 식당의 스테이크 때문에 왔다고 강조한다.",
     "usage": "진지한 집단 활동과 사소한 개인 욕구를 대비하는 코미디에 쓴다.",
     "boundary": "음식을 부수적인 즐거움으로 누리는 경우와 달리 그것이 사실상 참여의 유일한 이유다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002171",
+      "description_ko": "《라이트닝 리턴즈 파이널 판타지 XIII》에서 라이트닝은 한 남자와 저녁을 먹는 의뢰를 받아들이며 자신은 그 식당의 스테이크 때문에 왔다고 강조한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

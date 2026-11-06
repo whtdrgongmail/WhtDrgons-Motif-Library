@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "[[프로레슬링]] 방송이 광고 뒤 돌아왔을 때 선수가 이미 링에 서 있어 별도의 화려한 입장 장면을 받지 못하는 연출이다.",
-    "detail": "",
+    "detail": "광고나 다른 장면 뒤 선수는 이미 링에 서 있고 입장 음악·소개 영상·이동 장면이 생략된다. 패배 역할에게 흔한 처리이지만 방송 시간 배분 때문에 주역도 받을 수 있으므로 곧바로 패배나 무능을 뜻하지 않는다.\n\n작품 사례: 《[[WWE 메인 이벤트]]》는 원문에서 선수들의 입장 장면 생략이 자주 나타나는 방송으로 제시된다. 입장 연출을 받지 못한 선수의 역할을 보여 주되 경기 결과까지 추정하지 않는다.",
     "usage": "입장에 배분된 관심의 차이로 경기에서의 비중을 표현한다.",
     "boundary": "일반적인 경기 중계 생략이나 경기 전부터 모두 함께 서 있는 구성과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002116",
+      "description_ko": "《WWE 메인 이벤트》는 원문에서 선수들의 입장 장면 생략이 자주 나타나는 방송으로 제시된다. 입장 연출을 받지 못한 선수의 역할을 보여 주되 경기 결과까지 추정하지 않는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "새로운 사실과 지식을 알아내는 일을 강하게 추구하여 학습과 정보 수집을 멈추기 어려워하는 인물이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[원피스(만화)]]》의 베가펑크는 세계를 개선하려는 목표와 함께 지식 자체에 대한 갈망으로 여러 과학 분야를 연구하며, 모두가 지식을 나눌 수 있는 거대한 기록 체계를 구상한다.",
     "usage": "탐구욕을 모험의 동력으로 만들고 지식과 다른 삶의 필요 사이의 우선순위를 드러낸다.",
     "boundary": "의학적 중독 진단을 뜻하지 않는다. 한 과제를 위해 잠깐 공부하는 경우보다 지식 획득 자체가 동기여야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》의 베가펑크는 세계를 개선하려는 목표와 함께 지식 자체에 대한 갈망으로 여러 과학 분야를 연구하며, 모두가 지식을 나눌 수 있는 거대한 기록 체계를 구상한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

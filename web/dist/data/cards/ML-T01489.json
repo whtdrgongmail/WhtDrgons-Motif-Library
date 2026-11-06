@@ -11,13 +11,13 @@
   "primary_tag_id": "ML-T01489",
   "description": {
     "definition": "맥거핀 사물은 인물들이 쫓거나 다투는 목표물이 되어 사건을 움직이지만, 그 자체의 성질이나 사용법은 중심 관심사가 아닌 물건이다. 작품에서는 물건을 둘러싼 추적·경쟁·전달이 [[서사]]를 추진할 때 적용하고, 실제 기능과 사용 과정이 핵심 갈등인 물건은 구별한다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "무게나 크기에 따른 사소한 동선 차이는 치환 가능성을 깨는 핵심 조건으로 보지 않는다. 하위 이름에 MacGuffin이 들어가도 그 물건이 실제 기능을 수행한다면 넓은 줄거리 장치로만 다룬다.\n\n작품 사례: 《[[비비스와 버트헤드]]》의 X-5 장치는 위험한 생물무기로 설명되지만 인물들이 그것을 찾는 추적의 중심으로 기능한다. 원문은 두 주인공의 TV도 같은 종류의 쟁탈 대상으로 든다.",
+    "usage": "물건을 둘러싼 추적과 관계에 집중하고 물건의 실용 기능은 중심에서 비켜 둔다.",
+    "boundary": "물건을 비슷한 가치의 다른 대상으로 바꾸어도 중심 줄거리가 유지되어야 한다. 특별한 기능을 실제 위기 해결에 쓰는 물건은 엄밀한 맥거핀과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "16.009.007",
     "review_status": "provisional",
@@ -31,7 +31,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002805",
+      "description_ko": "《비비스와 버트헤드》의 X-5 장치는 위험한 생물무기로 설명되지만 인물들이 그것을 찾는 추적의 중심으로 기능한다. 원문은 두 주인공의 TV도 같은 종류의 쟁탈 대상으로 든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

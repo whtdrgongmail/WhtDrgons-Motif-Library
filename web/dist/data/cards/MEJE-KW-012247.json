@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F20",
   "description": {
     "definition": "도마뱀류 [[인물]]을 귀엽고 친근하거나 영웅적인 존재로 표현하는 동물 이미지다.",
-    "detail": "",
+    "detail": "작은 체형·큰 눈·밝은 색과 친절한 행동을 결합해 귀여운 동료로 디자인할 수 있다. 모든 종류의 도마뱀이 같은 성향이라는 설명이 아니며, 실제 동물의 분류에 관한 원문 주장도 별도 사실 카드로 옮기지 않았다.\n\n작품 사례: 《[[포켓몬스터 소드·실드]]》의 울머기는 큰 눈과 울 것 같은 표정의 작은 푸른 카멜레온형 포켓몬이다. 도마뱀의 특징을 위협보다 연민과 귀여움으로 바꾸는 디자인 사례다.",
     "usage": "도마뱀의 형상이 친근함이나 영웅성을 전달하는 방식으로 쓰이는지 본다.",
     "boundary": "도마뱀 등장 자체나 실제 동물 성향의 설명과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "20",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001983",
+      "description_ko": "《포켓몬스터 소드·실드》의 울머기는 큰 눈과 울 것 같은 표정의 작은 푸른 카멜레온형 포켓몬이다. 도마뱀의 특징을 위협보다 연민과 귀여움으로 바꾸는 디자인 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

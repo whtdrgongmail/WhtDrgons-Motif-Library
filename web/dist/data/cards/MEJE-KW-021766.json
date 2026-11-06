@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "눈에 띄지 않는 평범한 사람으로 여겼던 인물이 왕실의 일원임이 드러나는 정체 반전이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[칠왕국의 기사]]》에서 덩크가 만난 대머리 마구간 소년은 뒤에 타르가르옌 왕가의 아에곤으로 밝혀진다. 평범한 소년이라는 첫인상이 왕실 신분의 공개로 바뀐다.",
+    "usage": "평범한 관계가 왕족이라는 신분 공개로 달라지며 생기는 의무와 기대의 변화를 만든다.",
     "boundary": "그 인물 본인도 자신의 신분을 모르고 있어야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002275",
+      "description_ko": "《칠왕국의 기사》에서 덩크가 만난 대머리 마구간 소년은 뒤에 타르가르옌 왕가의 아에곤으로 밝혀진다. 평범한 소년이라는 첫인상이 왕실 신분의 공개로 바뀐다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

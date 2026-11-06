@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "소리가 비슷하지만 뜻이 다른 단어들을 혼동해 의도와 다른 말을 하는 인물의 언어 습관이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[원피스(만화)]]》에서 루피는 감사를 표현하려다 의미가 다른 관용 표현을 말해 조로에게 정정받는 등 비슷한 말을 엉뚱하게 쓰는 실수를 되풀이한다.",
     "usage": "잘못된 어휘 선택으로 인물의 허세·서툼·오해를 표현한다.",
     "boundary": "발음을 조금 틀리는 것과 달리 다른 단어로 바뀌어 의미가 달라진다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》에서 루피는 감사를 표현하려다 의미가 다른 관용 표현을 말해 조로에게 정정받는 등 비슷한 말을 엉뚱하게 쓰는 실수를 되풀이한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

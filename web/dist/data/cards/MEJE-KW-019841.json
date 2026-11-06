@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "옷이나 몸에 남은 립스틱 자국이 숨겨진 친밀한 접촉의 단서가 되어 외도 의혹이나 폭로를 일으키는 소품이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[매트릭스 2 리로디드]]》에서 페르세포네는 남편에게 남은 립스틱 흔적을 근거로 그의 외도를 알고 있음을 드러낸다. 짧은 물질적 흔적이 숨겨진 관계를 폭로한다.",
     "usage": "말과 물리적 흔적의 어긋남으로 의심을 시작한다.",
     "boundary": "자국만으로 실제 외도를 확정할 수는 없으며 합의된 관계의 흔적 자체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001565",
+      "description_ko": "《매트릭스 2 리로디드》에서 페르세포네는 남편에게 남은 립스틱 흔적을 근거로 그의 외도를 알고 있음을 드러낸다. 짧은 물질적 흔적이 숨겨진 관계를 폭로한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

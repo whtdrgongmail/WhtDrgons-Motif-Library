@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "이야기가 정당한 벌로 제시하는 [[결말]]이 [[인물]]의 잘못이나 다른 가해자와의 형평에 비해 과도하게 가혹한 경우다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[아카메가 벤다!]]》의 어린 황제는 대신에게 조종당했음에도 처형된다. 원문은 비슷하게 조종당한 다른 인물과 처분이 다른 점을 들어, 책임에 비해 과도한 응보로 읽힐 수 있다고 설명한다.",
+    "usage": "응보의 강도와 인물의 책임 사이의 불균형을 검토하거나, 복수 뒤에도 남는 불편함을 설계할 때 쓴다.",
     "boundary": "가해자가 직접 과도하게 복수하는 [[행동]]보다 이야기 전체의 [[보상]]·처벌 배분에 초점을 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002208",
+      "description_ko": "《아카메가 벤다!》의 어린 황제는 대신에게 조종당했음에도 처형된다. 원문은 비슷하게 조종당한 다른 인물과 처분이 다른 점을 들어, 책임에 비해 과도한 응보로 읽힐 수 있다고 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

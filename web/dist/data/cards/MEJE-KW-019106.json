@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "마법이나 초자연적 능력을 지닌 사람을 먹잇감으로 삼거나 그들을 추적하는 데 특화된 생물이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[블리치(만화)]]》의 호로는 먹은 대상의 영적 힘을 흡수하기 때문에 영력이 많은 사람에게 특히 이끌린다.",
     "usage": "능력 소유가 새로운 위험과 약점이 되는 세계를 구성할 때 쓴다.",
     "boundary": "마법사와 우연히 싸우는 괴물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》의 호로는 먹은 대상의 영적 힘을 흡수하기 때문에 영력이 많은 사람에게 특히 이끌린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

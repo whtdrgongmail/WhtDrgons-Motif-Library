@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "장소나 집단의 나쁜 분위기를 소개하면서 그곳에 모인 비열한 사람들의 유형을 연속으로 나열하는 표현이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[배트맨: 가스등 아래의 고담(애니메이션)]]》에서 살인범은 자신이 제거하려는 여러 집단을 열거한다. 이 목록은 희생자들의 본질보다 살인범의 편견과 정화 논리를 드러낸다.",
     "usage": "위험한 도시나 조직의 성격을 빠르게 제시하거나 화자의 편견을 드러낸다.",
     "boundary": "특정 범인의 개인 범행 목록이나 단순한 거주자 명단과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002570",
+      "description_ko": "《배트맨: 가스등 아래의 고담(애니메이션)》에서 살인범은 자신이 제거하려는 여러 집단을 열거한다. 이 목록은 희생자들의 본질보다 살인범의 편견과 정화 논리를 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

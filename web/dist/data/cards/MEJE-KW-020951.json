@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "수학적 지성과 연구에 몰두하는 인물을 극단적으로 비정상적이거나 광기에 사로잡힌 모습으로 그리는 관습이다.",
-    "detail": "",
+    "detail": "수학 연구가 실제 정신적 어려움의 원인이라는 뜻은 아니다. 작품이 지식·창의성·불안정을 어떻게 묶는지 분리해 읽는다.\n\n작품 사례: 《[[셜록 홈즈: 그림자 게임]]》은 모리아티의 수학 연구를 그의 범죄 계획과 연결해 묘사한다. 원문은 정당한 학문 연구와 위험한 지성을 한 이미지로 결합한 사례로 제시한다.",
     "usage": "지성과 비정상성을 묶는 인물 이미지의 작동을 분석한다.",
     "boundary": "실제 수학자의 정신 상태에 대한 설명이나 진단이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002828",
+      "description_ko": "《셜록 홈즈: 그림자 게임》은 모리아티의 수학 연구를 그의 범죄 계획과 연결해 묘사한다. 원문은 정당한 학문 연구와 위험한 지성을 한 이미지로 결합한 사례로 제시한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

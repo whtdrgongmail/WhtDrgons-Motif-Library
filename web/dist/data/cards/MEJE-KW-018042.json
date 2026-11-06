@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F30",
   "description": {
     "definition": "작품이나 상품을 만든 주체에게 반감을 느끼면서도 그 결과물의 사용이나 감상은 계속 즐기는 수용 태도다.",
-    "detail": "",
+    "detail": "사람·기업·국가가 만든 상품과 기술에도 적용된다. 생산자의 도덕성에 대한 평가와 결과물의 실용성·매력에 대한 평가는 별개로 제시될 수 있다.\n\n작품 사례: 《[[검볼]]》의 검볼과 로키는 차낙스가 심한 환경오염을 일으킨다는 것을 알면서도 맛있는 치즈 과자를 만든다는 이유로 필요한 악이라며 용인한다. 생산자 비판과 상품 선호가 동시에 드러난다.",
     "usage": "인물의 판단과 행동이 어떤 조건에서 모순을 드러내는지 설명하거나 해당 [[갈등]]을 설계할 때 쓴다.",
     "boundary": "소비를 계속한다는 사실만으로 위선이나 창작자 지지를 단정하지 않는다. 대상과 생산자를 분리하는 태도가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "30",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001608",
+      "description_ko": "《검볼》의 검볼과 로키는 차낙스가 심한 환경오염을 일으킨다는 것을 알면서도 맛있는 치즈 과자를 만든다는 이유로 필요한 악이라며 용인한다. 생산자 비판과 상품 선호가 동시에 드러난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

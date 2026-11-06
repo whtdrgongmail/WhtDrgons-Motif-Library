@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "비행 중인 탈것이나 거대한 생물의 위·안쪽을 플레이 구역으로 구성한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[배트맨: 아캄 나이트]]》에서 배트맨은 스태그의 비행선에 들어가 기울기를 조절한다. 화물이 미끄러지는 방향을 바꾸어 비행체 내부의 길을 여는 퍼즐을 푼다.",
+    "usage": "이동체의 기울기·바람·추락·다른 비행체로 건너가기를 공간 과제로 만든다.",
     "boundary": "고정된 공중 섬과 움직이는 운반체의 차이가 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002441",
+      "description_ko": "《배트맨: 아캄 나이트》에서 배트맨은 스태그의 비행선에 들어가 기울기를 조절한다. 화물이 미끄러지는 방향을 바꾸어 비행체 내부의 길을 여는 퍼즐을 푼다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

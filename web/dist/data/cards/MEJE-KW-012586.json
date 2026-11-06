@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "상대를 죽인 뒤 그 사람으로 행세하여 인간관계와 사회적 자리를 차지하는 침투 방식이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[나루토(만화)]]》에서 오로치마루는 카제카게를 죽이고 그의 모습을 이용해 호카게에게 접근한다. 피해자의 신분을 대체하여 방어선을 통과한다.",
+    "usage": "신뢰하던 사람이 대체되었다는 공포와 신분을 이용한 연쇄 침투를 구성한다.",
     "boundary": "실제 몸을 교환하거나 살아 있는 사람을 흉내만 내는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002184",
+      "description_ko": "《나루토(만화)》에서 오로치마루는 카제카게를 죽이고 그의 모습을 이용해 호카게에게 접근한다. 피해자의 신분을 대체하여 방어선을 통과한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

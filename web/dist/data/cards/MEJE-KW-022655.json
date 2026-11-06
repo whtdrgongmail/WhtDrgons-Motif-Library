@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-022655",
+  "kind": "keyword",
+  "title": "서로 맞물린 다층 퍼즐 구조",
+  "original": "Meta Puzzle",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "여러 퍼즐이 서로 연결되어 하나의 발견이 다른 퍼즐의 이해와 해결에 영향을 주는 구조다.",
+    "detail": "",
+    "usage": "진행 중 얻은 정보가 여러 위치에서 다시 의미를 갖도록 설계한다.",
+    "boundary": "이전 Metapuzzle 제안의 정답을 상위 퍼즐에 입력하는 특정 방식보다 넓은 연결 구조다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "각 문제를 따로 푸는 것보다 발견들을 서로 맞춰야 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

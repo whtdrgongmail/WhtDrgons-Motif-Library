@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "신적 존재를 죽이는 것을 목표나 성취로 삼아 불멸적 권위의 붕괴를 다루는 [[사건]] 모티프다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[신의 탑]]》에서 엔류는 43층의 관리자를 죽여 관리자가 불멸이라는 믿음을 무너뜨린다. 신에 견주는 권위자의 사망이 세계의 한계를 다시 정한다.",
+    "usage": "불멸의 권위가 무너지는 사건과 그 뒤 세계 질서의 변화를 연결한다.",
     "boundary": "신을 봉인하거나 숭배를 거부하는 행위와 달리 실제 살해가 대상이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-04",
+  "row_version": 3,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-001296",
+      "description_ko": "《신의 탑》에서 엔류는 43층의 관리자를 죽여 관리자가 불멸이라는 믿음을 무너뜨린다. 신에 견주는 권위자의 사망이 세계의 한계를 다시 정한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

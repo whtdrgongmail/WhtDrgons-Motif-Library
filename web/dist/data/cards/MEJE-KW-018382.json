@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "아이들이 누군가의 짝사랑을 구실로 두 사람을 엮는 짓궂은 노래나 구호를 부르는 장면이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[파워 디지몬]]》에서 한 아이가 친구의 켄을 향한 호감이 드러나는 것을 보고 두 사람을 엮는 노래로 놀린다. 주변의 장난이 숨기려던 짝사랑을 드러낸다.",
+    "usage": "주변 인물들이 눈치챈 호감을 드러내거나, 놀림을 받는 인물의 당황과 부인을 통해 관계의 긴장을 보여 준다.",
     "boundary": "축하나 진지한 연애 상담과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001362",
+      "description_ko": "《파워 디지몬》에서 한 아이가 친구의 켄을 향한 호감이 드러나는 것을 보고 두 사람을 엮는 노래로 놀린다. 주변의 장난이 숨기려던 짝사랑을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "상대를 충분히 알지 못한 채 이상화한 모습을 마음속에 만들고 그 이미지에 애정을 쏟다가 실제 인물과의 차이를 마주하는 관계다.",
-    "detail": "",
-    "usage": "",
+    "detail": "외모·능력 같은 한 특성을 사람 전체로 오인하거나, 사랑 자체에 빠져 상대에게 그 이미지를 얹을 수 있다. 고인은 반박할 수 없어 이상화되기도 한다. 다른 연애를 성립시키려는 편의적인 설명으로 쓰기보다 앞선 관계에서 투영의 근거를 보여 주어야 한다.\n\n작품 사례: 《[[반지의 제왕 영화 3부작]]》에서 아라고른은 에오윈이 사랑하는 것이 자신 그 자체보다 자신에게 투영한 이미지라고 지적한다. 상대가 바라는 역할과 실제 인물이 줄 수 있는 관계가 다르다.",
+    "usage": "이상화한 역할·특성과 실제 인물의 욕구가 충돌하는 장면으로 감정의 대상을 재검토하게 한다.",
     "boundary": "상대가 실제로 보여 준 성격을 존중하는 호감과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002777",
+      "description_ko": "《반지의 제왕 영화 3부작》에서 아라고른은 에오윈이 사랑하는 것이 자신 그 자체보다 자신에게 투영한 이미지라고 지적한다. 상대가 바라는 역할과 실제 인물이 줄 수 있는 관계가 다르다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "인물이 저지른 심각한 잘못 때문에 가족·친구·연인 등 가까운 사람들이 관계를 끊고 떠나는 전개다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[어벤저스: 이니셔티브]]》에서 3-D 맨은 동료로 싸운 스크럴 크루세이더를 죽인 뒤 종족을 이유로 정당화한다. 다른 영웅들은 동료를 죽인 그를 받아들이지 않고, 그는 조직을 떠난다.",
     "usage": "악행의 대가를 관계의 상실로 보여 준다.",
     "boundary": "오해나 외부 선동 때문에 버림받는 경우와 달리 실제 행동이 관계 단절의 이유다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002211",
+      "description_ko": "《어벤저스: 이니셔티브》에서 3-D 맨은 동료로 싸운 스크럴 크루세이더를 죽인 뒤 종족을 이유로 정당화한다. 다른 영웅들은 동료를 죽인 그를 받아들이지 않고, 그는 조직을 떠난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

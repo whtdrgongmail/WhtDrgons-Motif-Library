@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "상어처럼 생겼지만 물 밖이나 육지에서도 살아가거나 나타나 활동하는 환상 생물이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[젤다의 전설 대지의 기적]]》의 모래 지역에는 모래를 헤엄치며 기차를 공격하는 상어형 생물이 나온다. 육지로 피하면 안전하다는 수중 포식자의 한계를 뒤집는다.",
     "usage": "수중 포식자의 위협을 육지 공간으로 옮길 때 쓴다.",
     "boundary": "좌초한 보통 상어나 상어 모양 장비와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002352",
+      "description_ko": "《젤다의 전설 대지의 기적》의 모래 지역에는 모래를 헤엄치며 기차를 공격하는 상어형 생물이 나온다. 육지로 피하면 안전하다는 수중 포식자의 한계를 뒤집는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

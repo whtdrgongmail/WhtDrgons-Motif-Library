@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "인간을 공격하고 죽이는 목적이나 행동을 가진 기계 존재.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[테일즈 오브 더 바운티 헌터스]]》의 IG-88은 자아를 얻고 동료 암살 드로이드를 깨워 유기 생명체에 맞선 반란을 계획한다. 명령받은 도구의 위치를 벗어나 스스로 살상의 목표를 정한다.",
+    "usage": "친숙한 도구가 스스로 인간을 노리는 위협으로 바뀌는 공포와 통제 실패를 묘사한다.",
     "boundary": "사고를 일으킨 장비와 의도적인 공격 주체를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002256",
+      "description_ko": "《테일즈 오브 더 바운티 헌터스》의 IG-88은 자아를 얻고 동료 암살 드로이드를 깨워 유기 생명체에 맞선 반란을 계획한다. 명령받은 도구의 위치를 벗어나 스스로 살상의 목표를 정한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "승리를 이룬 듯 보이는 순간이나 승리 연출 중에도 플레이어를 죽이거나 실패시키는 위험이 남아 있는 설계다.",
-    "detail": "",
+    "detail": "특히 승리 연출이 시작되며 조작권을 잃은 상태에서 죽게 되는 경우, 목표를 달성하기 전에 위험을 제거하거나 안전한 위치를 확보해야 한다.\n\n작품 사례: 《[[배트맨: 아캄 시티]]》의 조커 전투에서는 부하와 조커를 모두 쓰러뜨린 뒤에도 열차에 치여 죽을 수 있다. 승리 업적이 떠도 생존이 확정되지 않는 사례이며 원문은 의도되지 않은 경우로 분류한다.",
     "usage": "승리 순간의 방심을 겨냥하거나 완료 조건을 한 단계 더 요구한다.",
     "boundary": "성공이 확정된 뒤 실패를 만들지 않는 장식적 위험과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001817",
+      "description_ko": "《배트맨: 아캄 시티》의 조커 전투에서는 부하와 조커를 모두 쓰러뜨린 뒤에도 열차에 치여 죽을 수 있다. 승리 업적이 떠도 생존이 확정되지 않는 사례이며 원문은 의도되지 않은 경우로 분류한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

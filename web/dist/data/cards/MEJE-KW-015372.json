@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F17",
   "description": {
     "definition": "질병을 일으키는 생물을 죽이거나 제거하는 행위를 인물의 회복 수단으로 설정하는 방식이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "몸속의 미세한 병원체를 전쟁처럼 다루거나 정신·영혼의 문제를 몸을 가진 적으로 바꾸어 싸울 수 있다. 환자 자체를 죽여 원인까지 없애는 방법과 구별한다.\n\n작품 사례: 《[[해피 트리 프렌즈]]》의 「I’ve Got You Under My Skin」에서 스니플스는 축소 잠수함을 이용해 럼피의 몸속 병원체를 공격하려 한다. 치료가 몸 안에서 벌어지는 모험과 전투로 표현된다.",
+    "usage": "회복 과정을 적과의 대결로 가시화하고 내부의 문제를 모험의 공간과 목표로 바꾼다.",
     "boundary": "구체적인 약물·용량·의료 절차가 아니라 작품 안의 원인과 해결 연결을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-04",
+  "row_version": 2,
   "classification": {
     "code": "17",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00100",
+      "work_card_id": "MM-MEDIA-002265",
+      "description_ko": "《해피 트리 프렌즈》의 「I’ve Got You Under My Skin」에서 스니플스는 축소 잠수함을 이용해 럼피의 몸속 병원체를 공격하려 한다. 치료가 몸 안에서 벌어지는 모험과 전투로 표현된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

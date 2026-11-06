@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "직접 주는 피해는 작지만 좁은 발판에서 [[플레이어]]를 밀어 낙사하게 만드는 적 설계다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[라이온 킹 게임]]》의 용암 구간에서 박쥐는 심바가 작은 돌판을 타고 이동할 때 충돌로 밀어내어, 작은 적의 접촉을 치명적인 낙하 위험으로 바꾼다.",
     "usage": "적의 직접 피해보다 지형과 밀려나는 방향을 중요한 위험으로 만든다.",
     "boundary": "적의 공격 피해 자체로 죽는 경우와 구별하며 지형과 밀려남의 [[결합]]이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-04",
+  "row_version": 4,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002413",
+      "description_ko": "《라이온 킹 게임》의 용암 구간에서 박쥐는 심바가 작은 돌판을 타고 이동할 때 충돌로 밀어내어, 작은 적의 접촉을 치명적인 낙하 위험으로 바꾼다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

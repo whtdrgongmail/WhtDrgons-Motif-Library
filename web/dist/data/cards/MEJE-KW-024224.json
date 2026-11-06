@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-024224",
+  "kind": "keyword",
+  "title": "지형 방향을 뒤집은 재사용 구간",
+  "original": "Flipped levels",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "기존 구간의 공간 배치를 좌우·상하로 뒤집거나 바닥과 벽 같은 축의 역할을 바꾸어 새 구간을 만든다.",
+    "detail": "",
+    "usage": "공간 기억과 조작 습관을 다른 방향에서 시험한다.",
+    "boundary": "플레이어의 출발점과 목적지만 바꾸는 경로 역전과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-04",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "익숙한 지형 자체의 방향이 바뀐다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}
