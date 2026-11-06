@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "돈을 쉽게 많이 얻지만 살 물건이나 소비할 필요가 부족해 재화가 실질적인 보상 기능을 잃는 게임 상태다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[둠 이터널]]》에서는 모든 무기 강화와 장비 해금에 필요한 자원을 사용한 뒤에도 강화용 재화가 남을 수 있다. 더 얻어도 추가 소비처가 없는 상태다.",
     "usage": "재화 획득량과 의미 있는 소비 기회가 크게 어긋날 때 쓴다.",
     "boundary": "게임 밖에서 가치가 없다는 일반적인 의미와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001406",
+      "description_ko": "《둠 이터널》에서는 모든 무기 강화와 장비 해금에 필요한 자원을 사용한 뒤에도 강화용 재화가 남을 수 있다. 더 얻어도 추가 소비처가 없는 상태다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

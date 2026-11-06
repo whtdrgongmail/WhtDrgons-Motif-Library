@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "무고한 인물이 실제로 저지르지 않은 범죄 때문에 유죄 판단을 받는 사법적 [[갈등]]이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[슈퍼걸]]》에서 카라는 조작된 증거 때문에 렉스 루터의 범죄에 가담한 것으로 유죄 판단을 받고 팬텀 존으로 보내진다.",
     "usage": "공적 판단과 사실의 어긋남을 회복해야 할 문제로 만든다.",
     "boundary": "비공식적인 나쁜 평판과 다르게 사법적 유죄 판정이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002697",
+      "description_ko": "《슈퍼걸》에서 카라는 조작된 증거 때문에 렉스 루터의 범죄에 가담한 것으로 유죄 판단을 받고 팬텀 존으로 보내진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

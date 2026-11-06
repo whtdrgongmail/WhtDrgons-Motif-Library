@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "뮤직비디오가 아닌 작품의 장면을 음악과 영상의 리듬 중심으로 이어 붙여 뮤직비디오와 비슷한 형식으로 만드는 연출이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "뮤직비디오 밖의 영화·드라마·광고·예고편에서도 사용된다. 음악은 보통 관객을 위한 배경 트랙이며 인물이 직접 노래하는 뮤지컬 장면과 구별된다. 화면에 맞추어 음악을 새로 쓰는 방식과는 제작 방향이 다를 수 있다.\n\n작품 사례: 《[[록키 III]]》의 훈련 몽타주는 배경 노래의 박자와 화면의 동작·편집을 맞춰 뮤직비디오 같은 흐름을 만든다. 인물이 극중에서 노래하는 것이 아니라 음악에 맞춰 영상이 조직되는 사례다.",
+    "usage": "행동과 장면 전환을 음악의 박자에 맞추어 감정과 진행 속도를 압축한다.",
     "boundary": "배경음악이 있다는 사실만으로는 부족하며 장면 연결과 리듬의 형식이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003394",
+      "description_ko": "《록키 III》의 훈련 몽타주는 배경 노래의 박자와 화면의 동작·편집을 맞춰 뮤직비디오 같은 흐름을 만든다. 인물이 극중에서 노래하는 것이 아니라 음악에 맞춰 영상이 조직되는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

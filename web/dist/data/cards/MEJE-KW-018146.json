@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "한 인물이 어떤 사실이나 사건 때문에 관계가 깨질 것이라 두려워하지만 상대가 이를 큰 문제로 여기지 않아 관계가 유지되는 장면이다.",
-    "detail": "",
+    "detail": "고백을 준비하며 괴로워하고 사실을 숨기려는 긴 축적 뒤에 상대의 가벼운 반응이 나와 희극적인 맥 빠짐을 만든다. 상대는 문제를 작게 보거나 더 중요한 일이 있어 넘길 수도 있다.\n\n작품 사례: 《[[프렌즈]]》에서 챈들러는 청소하면서 모니카의 물건 위치를 바꾼 일을 오래 걱정한다. 그러나 모니카는 그가 잘해 주려고 청소했다는 점에 고마워하여 예상한 다툼이 싱겁게 풀린다.",
     "usage": "관계에 대한 불안을 해소하거나 상대의 수용적인 태도를 보여 줄 때 쓴다.",
     "boundary": "문제가 실제로 관계를 훼손했다가 나중에 해결되는 [[갈등]]과 구별한다. 예상한 파국과 상대의 가벼운 반응 사이의 차이가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001344",
+      "description_ko": "《프렌즈》에서 챈들러는 청소하면서 모니카의 물건 위치를 바꾼 일을 오래 걱정한다. 그러나 모니카는 그가 잘해 주려고 청소했다는 점에 고마워하여 예상한 다툼이 싱겁게 풀린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

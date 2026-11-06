@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-029675",
+  "kind": "keyword",
+  "title": "주변 상황에 따라 공격 피해량을 바꾸기",
+  "original": "Situational Damage Attack",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "공격자의 고정 능력치 이외의 외부 조건이 충족되는지에 따라 공격 피해량이 달라지는 게임 규칙이다.",
+    "detail": "",
+    "usage": "능력치 성장과 별개로 상황을 만드는 행동과 판단에 전투 가치를 부여한다.",
+    "boundary": "여러 사용자 능력치를 더하는 계산과 달리 외부 조건의 성립 여부가 위력 변화의 원인이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "내 수치가 같아도 놓인 상황이 달라지면 더 아프게 때리거나 약해진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

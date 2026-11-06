@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "질문에 문자적으로 맞는 말을 돌려주지만 질문자가 필요로 한 정보는 전하지 못하는 대답.",
-    "detail": "",
+    "detail": "작품 사례: 《[[포켓몬스터 썬&문(TV 애니메이션)]]》의 로토무도감은 친구들이 어느 쪽으로 갔는지 양쪽 가능성이 같다고 답한다. 수치로는 틀리지 않아도 길을 선택해야 하는 동료에게는 도움이 되지 않는다.",
     "usage": "지나친 문자 해석과 의사소통의 엇박자를 만들 때 쓴다.",
     "boundary": "거짓말이나 사실관계 자체가 틀린 답과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002530",
+      "description_ko": "《포켓몬스터 썬&문(TV 애니메이션)》의 로토무도감은 친구들이 어느 쪽으로 갔는지 양쪽 가능성이 같다고 답한다. 수치로는 틀리지 않아도 길을 선택해야 하는 동료에게는 도움이 되지 않는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "외계 문명이 지구의 물을 자원으로 확보하기 위해 침공하는 동기를 가진 설정이다.",
-    "detail": "",
+    "detail": "침공자가 왜 다른 곳이 아닌 이 행성의 물을 필요로 하는지 별도의 자원 조건을 설정할 수 있다. 원문의 천문학적 수치와 발견 시점은 [[서사]] 정의에서 제외했다.\n\n작품 사례: 영화 《[[슈퍼 마리오]]》에서 쿠파는 자신의 세계와 인간의 세계를 합쳐 물을 비롯한 자원을 확보하려 한다.",
     "usage": "일상적인 자연 자원을 행성 간 충돌의 핵심 대상으로 바꾼다.",
     "boundary": "외계인의 모든 침략과 달리 물이라는 특정 자원이 목표여야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002913",
+      "description_ko": "영화 《슈퍼 마리오》에서 쿠파는 자신의 세계와 인간의 세계를 합쳐 물을 비롯한 자원을 확보하려 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

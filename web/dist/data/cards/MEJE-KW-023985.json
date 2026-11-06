@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "스승에게 배운 제자가 다시 스승이 되어 자기 제자를 가르치고 그 관계가 여러 세대 이어지는 구조이다.",
-    "detail": "",
+    "detail": "이전 스승의 원한과 책임이 다음 세대에 전해지거나 같은 계보의 인물들이 서로 싸우며 배운 것을 다르게 사용한 결과를 드러낼 수 있다.\n\n작품 사례: 《[[강철의 연금술사(2003년 애니메이션)]]》에서 에드워드와 알폰스는 이즈미에게 배웠으며 이즈미는 단테에게 배웠다. 제자와 스승이 여러 세대에 걸쳐 연결된다.",
     "usage": "계승의 조건과 전달 경로, 뒤늦은 설정 변화를 구체화한다.",
     "boundary": "같은 이름이나 칭호를 사용하는 것은 필수가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001938",
+      "description_ko": "《강철의 연금술사(2003년 애니메이션)》에서 에드워드와 알폰스는 이즈미에게 배웠으며 이즈미는 단테에게 배웠다. 제자와 스승이 여러 세대에 걸쳐 연결된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

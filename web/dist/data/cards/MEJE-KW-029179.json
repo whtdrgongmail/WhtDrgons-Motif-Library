@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-029179",
+  "kind": "keyword",
+  "title": "확률 퍼즐의 운영 규칙을 숨겨 답을 바꾸기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F23",
+  "description": {
+    "definition": "문을 공개하거나 선택 변경을 제안하는 진행자의 규칙을 생략하면 겉보기에는 같은 확률 퍼즐도 다른 정답을 갖게 되는 정보 구조다.",
+    "detail": "선택하지 않은 문을 무작위로 열었는데 꽝이었다면 남은 두 문은 조건부로 1/2씩이다. 처음 정답을 고른 사람에게만 변경을 권한다면 변경은 반드시 실패한다.",
+    "usage": "",
+    "boundary": "무작위로 연 문이 우연히 꽝인 경우와 반드시 꽝을 고른 경우를 구분한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "무엇을 보여 줬는지만큼 어떤 규칙으로 보여 줬는지가 중요하다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

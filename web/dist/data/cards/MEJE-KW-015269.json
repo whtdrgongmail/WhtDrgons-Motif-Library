@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "살아 있는 인물에게 나타나 가르침이나 조언을 전하는 죽은 이의 [[영적 존재]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[스타워즈: 구공화국]]》의 제다이 기사 이야기에서 오르구스 딘은 살해된 뒤에도 영적 조언자로 돌아와 제자를 이끈다.",
+    "usage": "죽음으로 끊어진 [[관계]]가 조언과 기억의 형태로 계속되는 방식을 만든다.",
     "boundary": "단순한 [[유령]] 출현보다 멘토와 안내 역할이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001768",
+      "description_ko": "《스타워즈: 구공화국》의 제다이 기사 이야기에서 오르구스 딘은 살해된 뒤에도 영적 조언자로 돌아와 제자를 이끈다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

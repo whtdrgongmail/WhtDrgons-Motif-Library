@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-029364",
+  "kind": "keyword",
+  "title": "특정 조건에 따라 피해가 달라지는 공격",
+  "original": "Situational Damage Attack",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "대상이나 상황의 특정 조건에 따라 공격의 대상 범위나 피해량이 달라지는 규칙이다.",
+    "detail": "",
+    "usage": "플레이어가 조건을 파악하고 대상을 선택하도록 공격의 계산 규칙을 설계한다.",
+    "boundary": "항상 같은 위력으로 작동하는 공격과 구별하며 도덕성만으로 조건을 제한하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "같은 공격도 조건이 달라지면 맞는 대상이나 피해가 바뀐다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

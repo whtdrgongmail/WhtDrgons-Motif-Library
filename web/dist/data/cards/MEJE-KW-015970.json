@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "인물의 음악 취향이 그 연령대에 기대되는 취향과 달라 세대적 예상의 어긋남을 보여 주는 묘사다.",
-    "detail": "",
+    "detail": "듣기뿐 아니라 노래하거나 춤추는 선택도 포함한다. 어린 인물이나 노인이 가사의 성적·폭력적 의미를 모르고 즐기면 언어·세대의 간극이 웃음이나 불안을 만든다. 젊은 유행을 무리하게 좇는 노년층, 자연스럽게 소화하는 멋진 노인 등 반응에 따라 인물 해석이 달라진다. 작품 안의 연령 기대를 분석하며 실제 사람에게 허용되는 음악을 판단하지 않는다.\n\n작품 사례: 《[[심슨 가족]]》에서 여덟 살 리사가 [[재즈]]를 좋아하는 모습은 또래에게 기대되는 취향을 벗어나 조숙함을 드러낸다. 같은 음악 선택이 단순한 배경음이 아니라 인물을 소개하는 정보가 된다.",
     "usage": "인물의 취향·행동이 이 정의의 구별 조건으로 제시될 때 적용한다.",
     "boundary": "음악에 적정 연령이 있다는 사실 주장과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》에서 여덟 살 리사가 [[재즈]]를 좋아하는 모습은 또래에게 기대되는 취향을 벗어나 조숙함을 드러낸다. 같은 음악 선택이 단순한 배경음이 아니라 인물을 소개하는 정보가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

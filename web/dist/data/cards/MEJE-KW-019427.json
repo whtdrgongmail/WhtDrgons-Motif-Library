@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "패망 뒤에도 존속한 나치 세력이 달의 비밀 기지를 거점으로 새로운 제국을 준비하는 대체역사·공상과학 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[아이언 스카이]]》는 나치 잔당이 달에 기지를 세워 살아남았다가 지구로 돌아와 침공한다는 허구를 전제로 한다.",
     "usage": "멀리 떨어진 비밀 거점과 과거 적대 세력의 귀환을 결합한다.",
     "boundary": "실제 역사적 사실이 아니라 허구의 잔존 세력과 우주 기지 설정이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003488",
+      "description_ko": "《아이언 스카이》는 나치 잔당이 달에 기지를 세워 살아남았다가 지구로 돌아와 침공한다는 허구를 전제로 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

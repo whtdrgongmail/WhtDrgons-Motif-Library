@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "직업에 대한 헌신이 개인 관계와 여가를 지속적으로 밀어내어 삶의 중심이 거의 전부 업무가 된 인물이다.",
-    "detail": "",
+    "detail": "스스로 일에 과도하게 매달리는 경우와 생명·안전이 걸린 업무 때문에 떠날 수 없는 경우를 구분한다. 인물의 선택뿐 아니라 조직의 인력 배치도 [[관계 갈등]]의 조건이 될 수 있다.\n\n작품 사례: 《[[더 배트맨]]》에서 브루스의 약속 상대가 그가 이미 결혼했는지 묻자 알프레드는 일과 결혼한 셈이라고 답한다. 영웅 활동이 사적인 관계를 밀어내는 상황을 드러낸다.",
     "usage": "업무에 대한 헌신이 친밀한 관계와 사생활을 얼마나 밀어내는지 드러낸다.",
     "boundary": "짧은 기간의 바쁜 업무만으로 판단하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002615",
+      "description_ko": "《더 배트맨》에서 브루스의 약속 상대가 그가 이미 결혼했는지 묻자 알프레드는 일과 결혼한 셈이라고 답한다. 영웅 활동이 사적인 관계를 밀어내는 상황을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

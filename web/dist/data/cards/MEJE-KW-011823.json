@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F18",
   "description": {
     "definition": "시련과 비극을 [[인물]]이 더 강하거나 성숙해지는 원인으로 제시하는 주제적 연결이다.",
-    "detail": "",
+    "detail": "이 메시지는 성장의 가능성을 나타내기도 하지만 고통을 타인에게 강요하는 명분으로 악용되기도 한다. 원문은 고통이 상처만 남기는 경우와 피할 수 있는 학대를 정당화하는 위험을 명확히 구분한다.\n\n작품 사례: 영화 《[[슈퍼 마리오 브라더스(2023년 영화)]]》에서 쿠파는 질투를 풀며 마귀의 손을 피아노 덮개로 누르고 고통이 최고의 스승이라고 말한다. 이 격언이 자기 분풀이의 핑계로 쓰이는 희극적 사례다.",
     "usage": "시련과 인물의 성장 사이에 어떤 관계를 부여하는지 이야기의 교훈을 분석할 때 쓴다.",
     "boundary": "모든 고통이 성장으로 이어지거나 타인에게 고통을 주는 일이 옳다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-06",
+  "row_version": 4,
   "classification": {
     "code": "18",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002732",
+      "description_ko": "영화 《슈퍼 마리오 브라더스(2023년 영화)》에서 쿠파는 질투를 풀며 마귀의 손을 피아노 덮개로 누르고 고통이 최고의 스승이라고 말한다. 이 격언이 자기 분풀이의 핑계로 쓰이는 희극적 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

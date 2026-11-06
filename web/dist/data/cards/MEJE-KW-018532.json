@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "시간 여행자가 과거의 혈연 관계에 개입해 자기 자신의 조상 계보에 들어가는 설정이다. 한 사람의 존재가 자신의 과거 행동에 의존하는 [[인과]] 고리를 만든다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[퓨처라마]]》의 「Roswell That Ends Well」에서 프라이는 과거로 가서 자기 조부라고 알던 남자의 죽음을 막으려다 오히려 죽게 한다. 자신이 사라지지 않은 이유는 결국 프라이 자신이 자기 조부가 되는 시간 고리로 밝혀진다.",
     "usage": "시간의 순환과 정체성의 역설을 가족 계보로 드러낼 때 쓴다.",
     "boundary": "조상을 닮거나 과거 인물에게 영향을 주기만 하는 경우에는 자신의 혈통을 구성하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001504",
+      "description_ko": "《퓨처라마》의 「Roswell That Ends Well」에서 프라이는 과거로 가서 자기 조부라고 알던 남자의 죽음을 막으려다 오히려 죽게 한다. 자신이 사라지지 않은 이유는 결국 프라이 자신이 자기 조부가 되는 시간 고리로 밝혀진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "아주 작은 크기로 제작되어 개별적으로는 보이지 않거나 세밀한 작업을 수행하는 기계 존재이다.",
-    "detail": "",
+    "detail": "현재 원문의 현실 나노기술 일반과 허구적 나노로봇은 구분한다. 이 카드는 작품 속 미시적 기계 설정이며 실제 의학적 효과나 물리적 가능성을 보증하지 않는다.\n\n작품 사례: 《[[갓 오브 하이스쿨(웹툰)]]》에서 대회 참가자에게 주입된 나노기계는 생체 상태를 감시하고 경기 사이의 부상을 회복시킨다.",
     "usage": "과학·실험 설정에서 이 역할의 목적과 대가를 독립적으로 정한다.",
     "boundary": "자기 복제나 모든 기능의 해결 능력은 필수가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-002198",
+      "description_ko": "《갓 오브 하이스쿨(웹툰)》에서 대회 참가자에게 주입된 나노기계는 생체 상태를 감시하고 경기 사이의 부상을 회복시킨다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

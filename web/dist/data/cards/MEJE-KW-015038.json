@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "불운과 결핍을 겪은 인물에게 다른 사람은 당연시하는 평범한 경험이 큰 만족과 사치처럼 느껴지는 대비이다.",
-    "detail": "",
+    "detail": "음식과 씻을 물뿐 아니라 친절·편안함 같은 경험도 호사가 된다. 낯선 생물학적 감각 때문이 아니라 그 생활을 누리지 못했던 조건이 핵심이다. 반대로 가난·고립·과거 이동으로 익숙한 편의를 잃으면 그 가치를 새롭게 깨닫는 변형이 생긴다.\n\n작품 사례: 《[[삼국]]》에서 오랫동안 고기를 먹지 못한 황제에게 닭고기 국물은 보석보다 귀한 선물이 된다. 평소라면 평범한 음식이 심한 결핍을 겪은 인물에게 큰 호사로 받아들여진다.",
     "usage": "인물마다 당연한 생활 조건이 다르다는 점을 드러낸다.",
     "boundary": "객관적으로 비싼 사치품을 얻는 만족과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-003356",
+      "description_ko": "《삼국》에서 오랫동안 고기를 먹지 못한 황제에게 닭고기 국물은 보석보다 귀한 선물이 된다. 평소라면 평범한 음식이 심한 결핍을 겪은 인물에게 큰 호사로 받아들여진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

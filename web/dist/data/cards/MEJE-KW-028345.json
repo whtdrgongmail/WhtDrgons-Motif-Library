@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-028345",
+  "kind": "keyword",
+  "title": "현금과 게임 상점 사이에 별도 유료 재화를 두기",
+  "original": "Premium Currency",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "실제 돈을 별도의 [[게임 재화]]로 바꾼 뒤 그 재화로 물건과 기능을 구매하게 하는 결제 구조다.",
+    "detail": "",
+    "usage": "[[게임 경제]]와 결제 단계를 연결하고 무료 획득 재화와 [[유료 재화]]의 관계를 설계한다.",
+    "boundary": "게임 안에 화폐가 있다는 것만으로는 부족하다. 현실의 결제와 교환되는 판매용 재화가 있어야 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "현금을 곧바로 물건에 쓰지 않고 게임 전용 돈을 먼저 산다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 3
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003089",
+      "description_ko": "《어몽 어스》의 원문 사례에서는 별이라는 재화를 구매한 뒤 상점에서 꾸미기 요소를 고른다. 이 상품들은 승부에 유리한 능력을 주지 않는 것으로 설명된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

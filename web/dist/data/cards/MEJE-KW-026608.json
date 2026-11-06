@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "남성의 실루엣과 형태에는 각지고 곧은 선을, 여성에는 둥글고 휘는 선을 우선 사용하는 디자인 관습이다.",
-    "detail": "",
+    "detail": "인간뿐 아니라 동물·로봇에도 각진 선과 곡선의 대비를 적용해 성별을 알아보게 한다. 실제 생리적 특징의 필연적 결과로 일반화하지 않는다.\n\n작품 사례: 《[[어벤져스: 엔드게임]]》에서 페퍼의 레스큐 갑옷은 아이언맨 갑옷보다 곡선과 둥근 얼굴 형태를 강조해 착용자의 성별을 시각적으로 구별한다.",
     "usage": "대비되는 두 역할이나 형상을 함께 정하고 그 차이가 장면과 관계에서 하는 일을 분석한다.",
     "boundary": "성별과 특성의 관계를 작품이 배치하는 관습이며 실제 사람의 성격이나 능력을 성별로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001843",
+      "description_ko": "《어벤져스: 엔드게임》에서 페퍼의 레스큐 갑옷은 아이언맨 갑옷보다 곡선과 둥근 얼굴 형태를 강조해 착용자의 성별을 시각적으로 구별한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

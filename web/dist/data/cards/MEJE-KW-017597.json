@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "나치 군인이나 파시스트 가해자의 이미지가 죽은 뒤에도 활동하는 [[좀비]] 존재와 결합한 악역 유형.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼 Z: 부활의 퓨전!! 손오공과 베지터]]》에서 되살아난 독재자는 나치 군복을 연상시키는 복장의 죽은 병사들을 이끈다.",
     "usage": "과거의 전쟁 가해 집단이 죽음 뒤에도 싸움을 계속하는 공포를 표현할 때 쓴다.",
     "boundary": "나치즘의 실제 정당성을 인정하는 것이 아니라 악역 이미지의 결합을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-003490",
+      "description_ko": "《드래곤볼 Z: 부활의 퓨전!! 손오공과 베지터》에서 되살아난 독재자는 나치 군복을 연상시키는 복장의 죽은 병사들을 이끈다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "못·리벳을 박는 산업 도구나 그와 같은 장치를 공격용 무기로 사용한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "현실의 공구와 달리 총기처럼 묘사되는 경우가 많다. 리벳·스테이플 장치도 포함하지만 못을 박은 방망이 전체와 동일한 분류는 아니다.\n\n작품 사례: 《[[배트맨(만화)]]》의 카펜터는 못총을 무기로 휴대하여 목공 도구의 이미지를 전투 장비와 결합한다.",
+    "usage": "일상 산업 도구가 전투 소품으로 바뀌는 대비를 보여 주되 실제 구조와 작품의 과장을 구분한다.",
     "boundary": "현실의 개조 방법이 아니라 도구의 서사적 전용을 설명한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002237",
+      "description_ko": "《배트맨(만화)》의 카펜터는 못총을 무기로 휴대하여 목공 도구의 이미지를 전투 장비와 결합한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

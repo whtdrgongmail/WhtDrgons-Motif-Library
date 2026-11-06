@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "시신 검사나 치명적으로 보이는 증거를 통해 죽음이 확인된 인물이 사실 살아 있거나 이후 돌아오는 전개다. 확정적으로 주어진 사망 정보가 뒤집힌다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[블리치(만화)]]》에서 우노하나는 아이젠의 시신으로 보이는 대상을 검사한다. 그녀는 이상함을 느끼지만 즉시 가짜라고 입증하지 못하며, 뒤에 아이젠의 환상이 사망 확인을 속였음이 드러난다.",
     "usage": "죽었다는 추측을 넘어 작중 확인이나 그에 준하는 증거가 먼저 제시되는지 확인한다.",
     "boundary": "시신도 확인도 없이 단순히 행방불명된 상태와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》에서 우노하나는 아이젠의 시신으로 보이는 대상을 검사한다. 그녀는 이상함을 느끼지만 즉시 가짜라고 입증하지 못하며, 뒤에 아이젠의 환상이 사망 확인을 속였음이 드러난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "공식 설명서의 잘못된 정보 때문에 실제 [[게임]]의 [[규칙]]이나 진행 방법을 오해하게 되는 현상이다.",
-    "detail": "",
+    "detail": "개발 중 변경 사항이 반영되지 않거나 삭제된 기능·오자·틀린 수치가 남을 수 있다. 이를 숨은 요소의 증거로 받아들여 팬의 추측이 생기기도 한다.\n\n작품 사례: 《[[스타크래프트]]》 초기 설명서에는 개발 도중 바뀐 유닛 공격과 업그레이드 정보가 남아 실제 출시 게임과 어긋나는 부분이 있었다.",
     "usage": "",
     "boundary": "게임 안의 안내 오류와 구분하여 설명서라는 정보 매체를 특정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002894",
+      "description_ko": "《스타크래프트》 초기 설명서에는 개발 도중 바뀐 유닛 공격과 업그레이드 정보가 남아 실제 출시 게임과 어긋나는 부분이 있었다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

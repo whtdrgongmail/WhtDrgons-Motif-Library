@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "실재하지 않는 물질이나 현상에 여러 효과를 부여하되 서로 연결된 내부 [[규칙]]을 유지하는 [[세계]] [[설정]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[기동전사 건담(TV 애니메이션)]]》의 미노프스키 입자는 에너지 기술과 통신·탐지 방해를 연결한다. 원문은 이 제약이 원거리 유도 무기보다 가까운 거리의 기동 병기를 중시하는 세계를 뒷받침한다고 설명한다.",
+    "usage": "가상 물질의 성질에서 기술·사회·전투 방식이 연쇄적으로 달라지게 하여 설정을 연결한다.",
     "boundary": "장면마다 필요한 효과를 임의로 더하는 만능 소재와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002500",
+      "description_ko": "《기동전사 건담(TV 애니메이션)》의 미노프스키 입자는 에너지 기술과 통신·탐지 방해를 연결한다. 원문은 이 제약이 원거리 유도 무기보다 가까운 거리의 기동 병기를 중시하는 세계를 뒷받침한다고 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

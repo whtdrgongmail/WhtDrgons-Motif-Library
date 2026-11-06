@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "비인간 종족이 인간을 성적 매력의 대상으로 삼는 설정이다. 종을 넘는 욕망이 교류·구애·납치 등 서로 다른 관계를 이끌 수 있다.",
-    "detail": "",
+    "detail": "외계인·괴물·[[로봇]]이 인간을 매력적으로 보는 설정이며, 상호 호감과 강요·납치를 구별한다. 생식 가능성은 작품이 별도로 정하는 규칙이다.\n\n작품 사례: 《[[갤럭시 퀘스트]]》의 삭제 장면에서 외계 병사가 그웬에게 관심을 보이자 동료가 이해하지 못하는 반응을 보인다. 종족 안에서도 매력의 기준이 같지 않게 표현된다.",
     "usage": "매력의 기준과 서로 다른 몸의 조건을 정하고 관계 당사자의 의사를 드러낸다.",
     "boundary": "생식이 가능하다는 설정이나 단순한 우정만으로는 충분하지 않으며 동의 여부를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002914",
+      "description_ko": "《갤럭시 퀘스트》의 삭제 장면에서 외계 병사가 그웬에게 관심을 보이자 동료가 이해하지 못하는 반응을 보인다. 종족 안에서도 매력의 기준이 같지 않게 표현된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

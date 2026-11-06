@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "지도받는 제자나 후배가 스승보다 더 강하거나 뛰어난 초능력을 가진 관계다. 힘의 크기와 가르칠 수 있는 경험·판단이 서로 다른 사람에게 놓인다.",
-    "detail": "",
+    "detail": "스승은 능력이 없거나 약하지만 숙련과 경험이 많다. 능력을 잃었을 때의 대응과 힘에만 의존하지 않는 법을 가르칠 수 있다.\n\n작품 사례: 소설 《[[나 혼자만 레벨업(소설)]]》에서 S급 헌터 차해인의 검도 스승은 C급 헌터 송치열이다. 원문은 송치열이 힘에서는 뒤처지고 팔까지 잃었지만 검술 경험으로 더 강한 제자를 지도한다고 설명한다.",
     "usage": "압도적인 힘에도 배움과 지도가 필요한 관계를 만들 때 쓴다.",
     "boundary": "모든 면에서 제자가 더 유능하다는 뜻은 아니다. 배운 뒤 시간이 지나 스승을 뛰어넘는 성장 전개만을 가리키지도 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002469",
+      "description_ko": "소설 《나 혼자만 레벨업(소설)》에서 S급 헌터 차해인의 검도 스승은 C급 헌터 송치열이다. 원문은 송치열이 힘에서는 뒤처지고 팔까지 잃었지만 검술 경험으로 더 강한 제자를 지도한다고 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

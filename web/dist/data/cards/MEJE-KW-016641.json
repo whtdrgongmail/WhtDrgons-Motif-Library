@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "사람이나 다른 존재의 의지와 행동을 외부에서 통제하도록 만들어진 기계·도구다. 조종 능력이 사용자 자신의 타고난 힘보다 장치의 작동에 놓인다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[디지몬 어드벤처]]》에서 검은 톱니바퀴에 감염된 디지몬은 데블몬에게 조종되는 부하가 된다. 외부의 물체가 대상의 행동을 통제하는 사례다.",
     "usage": "정신 지배의 범위와 탈취·파괴·해제 가능한 약점을 물건에 부여할 때 쓴다.",
     "boundary": "설득을 돕는 일반 매체나 영향만 미치는 물건과 다르다. 직접적인 정신·행동 통제가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001345",
+      "description_ko": "《디지몬 어드벤처》에서 검은 톱니바퀴에 감염된 디지몬은 데블몬에게 조종되는 부하가 된다. 외부의 물체가 대상의 행동을 통제하는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

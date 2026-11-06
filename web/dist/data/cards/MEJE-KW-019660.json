@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "여러 분야에서 능력을 드러내지만 정작 현재 맡은 직책의 핵심 업무에는 능숙하지 않은 인물이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[포켓몬스터(TV 애니메이션)]]》의 로켓단 삼인조는 정정당당한 경연에서 재능을 보이기도 하지만 정작 집착하는 포켓몬 절도와 악당 활동에서는 거듭 실패한다.",
     "usage": "",
     "boundary": "전반적으로 무능한 인물과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002540",
+      "description_ko": "《포켓몬스터(TV 애니메이션)》의 로켓단 삼인조는 정정당당한 경연에서 재능을 보이기도 하지만 정작 집착하는 포켓몬 절도와 악당 활동에서는 거듭 실패한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

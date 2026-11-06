@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-028710",
+  "kind": "keyword",
+  "title": "오프닝 화면의 인물과 출연 이름이 엇갈리기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F27",
+  "description": {
+    "definition": "시작 크레디트에서 한 배우의 이름이 다른 배우가 등장하는 영상 위에 표시되어 시각적 대응이 어긋나는 구성이다.",
+    "detail": "",
+    "usage": "크레디트 순서와 영상 편집의 관계, 관객의 인물 식별 혼란을 설명한다.",
+    "boundary": "출연 명단 자체의 오류와 구별하며 해당 이름과 화면을 반드시 일대일로 연결해야 한다는 규칙은 아니다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "27",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "화면에 나온 사람과 함께 뜨는 이름의 주인이 다르다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

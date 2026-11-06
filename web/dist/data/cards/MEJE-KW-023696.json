@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "철자 하나하나를 서로 구별되는 낱말로 대신 말해 다른 단어의 표기를 전달한다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[인크레더블]]》에서 헬렌은 비행기의 식별 문자를 통화 알파벳의 낱말과 숫자 발음으로 전달한다. 글자 이름만 읽는 것보다 명확한 무선 교신 표현이 된다.",
     "usage": "소리가 잘 들리지 않는 통신 장면에서 정확성을 강조하고 조직의 절차를 드러낸다.",
     "boundary": "숫자의 소리로 단어를 줄여 적거나 단순히 철자를 읽는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001654",
+      "description_ko": "《인크레더블》에서 헬렌은 비행기의 식별 문자를 통화 알파벳의 낱말과 숫자 발음으로 전달한다. 글자 이름만 읽는 것보다 명확한 무선 교신 표현이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

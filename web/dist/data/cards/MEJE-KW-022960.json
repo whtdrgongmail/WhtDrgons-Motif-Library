@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "도시를 책임진 시장의 잘못된 판단과 무능이 시민에게 혼란이나 재난을 일으키는 인물 유형이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[심슨 가족]]》에서 호머가 시장이 된 새 스프링필드는 그의 운영과 장벽 건설 때문에 주민들이 떠나는 실패를 겪는다.",
     "usage": "권력자의 책임과 선의만으로 해결되지 않는 행정 실패를 구성한다.",
     "boundary": "이익을 위해 의도적으로 시민을 해치는 부패한 정치인과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》에서 호머가 시장이 된 새 스프링필드는 그의 운영과 장벽 건설 때문에 주민들이 떠나는 실패를 겪는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F30",
   "description": {
     "definition": "외부에서는 모욕적이라고 예상한 묘사를 그 대상으로 여겨진 집단의 관객 일부가 오히려 즐기거나 지지한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "인물의 능력과 매력, 명백한 과장, 친숙한 추억, 드문 [[재현]]에 대한 반가움, 번역과 문화 가치의 차이가 호응의 배경일 수 있다. 어느 하나가 불쾌함을 자동으로 상쇄하거나 [[집단]]을 대표하는 것은 아니다.\n\n작품 사례: 원문은 《[[다람이와 고슴도치]]》의 미국을 표상하는 늑대 악역을 일부 미국 수용자가 강렬한 디자인의 매력으로 받아들인 예를 든다. 의도된 부정적 이미지와 실제 호응이 다르게 나타나는 경우이며, 한 나라의 모든 관객이 같은 반응을 보인다는 뜻은 아니다.",
+    "usage": "창작 의도·외부의 예상·당사자 관객의 반응이 어긋나는 문화 [[수용]]을 설명한다.",
     "boundary": "집단 안의 모든 사람이 같은 반응을 보인다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "30",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-003082",
+      "description_ko": "원문은 《다람이와 고슴도치》의 미국을 표상하는 늑대 악역을 일부 미국 수용자가 강렬한 디자인의 매력으로 받아들인 예를 든다. 의도된 부정적 이미지와 실제 호응이 다르게 나타나는 경우이며, 한 나라의 모든 관객이 같은 반응을 보인다는 뜻은 아니다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

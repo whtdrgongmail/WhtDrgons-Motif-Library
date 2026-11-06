@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F18",
   "description": {
     "definition": "조국의 정책이나 행위를 옳지 않다고 여기면서도 국가에 대한 충성과 지지를 거두지 않는 태도다. 판단한 가치와 집단 소속의 의무가 충돌한다.",
-    "detail": "",
+    "detail": "충성의 대상은 지도자 개인보다 국가나 공동체로 설정된다. 의무를 핑계로 부당한 행위에 가담할 수도 있고, 국가를 지키려면 잘못을 바로잡아야 한다는 판단으로 거부·이탈·반란에 이르는 변화도 가능하다.\n\n작품 사례: 《[[나루토(만화)]]》의 야샤마루는 가족에게 고통을 준 카제카게를 증오하면서도 마을에 대한 충성 때문에 그 아래에서 임무를 수행한다. 지도자 개인을 좋아하지 않는 마음과 국가에 복무하는 의무가 분리되어 있다.",
     "usage": "인물의 판단과 행동이 어떤 조건에서 모순을 드러내는지 설명하거나 해당 [[갈등]]을 설계할 때 쓴다.",
     "boundary": "조국의 모든 행위를 옳다고 믿는 태도나 강요 때문에 복종하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "18",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002184",
+      "description_ko": "《나루토(만화)》의 야샤마루는 가족에게 고통을 준 카제카게를 증오하면서도 마을에 대한 충성 때문에 그 아래에서 임무를 수행한다. 지도자 개인을 좋아하지 않는 마음과 국가에 복무하는 의무가 분리되어 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "독립된 본편으로 따라가던 [[서사]]가 다른 이야기 안에서 들려주는 내용이었다고 밝히는 구성이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[더 파운틴]]》은 실제 사건처럼 따라가던 내용이 더 큰 이야기 속의 허구였음이 드러나는 유형의 사례로 표에 제시된다.",
+    "usage": "서술의 층위를 뒤늦게 바꾸어 앞서 본 이야기의 의미와 관찰 위치를 다시 생각하게 한다.",
     "boundary": "처음부터 바깥 이야기의 틀이 제시된 액자 구성과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003306",
+      "description_ko": "《더 파운틴》은 실제 사건처럼 따라가던 내용이 더 큰 이야기 속의 허구였음이 드러나는 유형의 사례로 표에 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

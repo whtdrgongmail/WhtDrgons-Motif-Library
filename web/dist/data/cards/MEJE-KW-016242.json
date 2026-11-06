@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "화면의 가까운 층과 먼 층을 서로 다른 속도로 움직여 거리와 공간의 깊이를 느끼게 하는 표현이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[Batman(Sunsoft 게임)]]》은 배경 그림의 층을 서로 다른 속도로 스크롤하여 화면 이동에 깊이감을 준다.",
+    "usage": "카메라나 화면의 이동에 따라 배경 층의 속도를 달리하여 깊이와 거리를 표현한다.",
     "boundary": "원근에 따른 크기 차이만 표현하는 정지 화면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003290",
+      "description_ko": "《Batman(Sunsoft 게임)》은 배경 그림의 층을 서로 다른 속도로 스크롤하여 화면 이동에 깊이감을 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

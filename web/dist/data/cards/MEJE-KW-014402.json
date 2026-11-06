@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "임신한 인물이 이야기 속 다른 사람들에게 그 사실이 알려지지 않도록 감추는 설정이다. 인물의 비밀 유지가 관계나 사건의 긴장을 만든다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼 Z: 신들의 전쟁]]》에서 비델은 오반을 놀라게 하려고 임신을 잠시 비밀로 한다. 이후 그 사실은 손오공이 초사이어인 갓이 되는 데 필요한 조건과 연결되어 드러난다.",
     "usage": "임신을 숨기는 주체가 제작진이 아니라 작중 인물인지 확인한다.",
     "boundary": "배우가 임신했지만 배역은 그렇지 않아 촬영에서 가리는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002712",
+      "description_ko": "《드래곤볼 Z: 신들의 전쟁》에서 비델은 오반을 놀라게 하려고 임신을 잠시 비밀로 한다. 이후 그 사실은 손오공이 초사이어인 갓이 되는 데 필요한 조건과 연결되어 드러난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

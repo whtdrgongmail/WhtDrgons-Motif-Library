@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "잘못을 당한 [[인물]]이 가해자를 한 차례 때린 뒤 화해나 [[용서]]를 선언하는 [[장면]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "상대가 스스로 맞을 기회를 주는 경우도 있으며, 걱정 때문에 쌓인 화가 동기가 되기도 한다. 작품이 한 차례 타격을 화해의 신호로 사용하는 관습이지 현실의 [[갈등]] 해결 지침은 아니다.\n\n작품 사례: 《[[DC: The New Frontier]]》에서 플래시는 자신을 체포하려 했던 킹 패러데이와 지구를 구하기 위해 협력하게 된다. 그에게 한 차례 주먹을 날린 뒤 감정을 정리하는 장면은 제한된 보복을 화해의 마침표로 삼는다.",
+    "usage": "해결되지 않은 분노를 제한된 보복 행동 뒤에 끝났다고 선언하여 관계가 다음 단계로 넘어가게 한다.",
     "boundary": "끝없는 보복과 달리 제한된 타격이 [[관계 회복]]의 마침표로 사용된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-003398",
+      "description_ko": "《DC: The New Frontier》에서 플래시는 자신을 체포하려 했던 킹 패러데이와 지구를 구하기 위해 협력하게 된다. 그에게 한 차례 주먹을 날린 뒤 감정을 정리하는 장면은 제한된 보복을 화해의 마침표로 삼는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

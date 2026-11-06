@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F06",
   "description": {
     "definition": "인물이 유리한 상황을 만들기 위해 자신의 기억을 잠시 잃거나 차단하는 선택을 한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "독심술이나 심문을 속이고 스스로도 진실로 믿게 할 수 있다. 계획자가 상황 변화에 맞춰 의식적으로 수정할 수 없다는 불안정성이 따른다.\n\n작품 사례: 《[[데스노트(만화)]]》의 라이토는 노트 소유권을 포기해 관련 기억을 잃고 수사에 협력하도록 계획한다. 이후 노트를 다시 접하여 기억을 되찾는 과정까지 전략에 넣는다.",
+    "usage": "자기 자신도 모르는 계획을 움직여 기만의 성공과 통제 불가능성을 함께 만든다.",
     "boundary": "본문에서 설명한 시간 구성과 결과를 기준으로 삼는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "06",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002463",
+      "description_ko": "《데스노트(만화)》의 라이토는 노트 소유권을 포기해 관련 기억을 잃고 수사에 협력하도록 계획한다. 이후 노트를 다시 접하여 기억을 되찾는 과정까지 전략에 넣는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

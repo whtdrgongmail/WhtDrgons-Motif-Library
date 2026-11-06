@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-029178",
+  "kind": "keyword",
+  "title": "문을 바꾸면 유리해지는 몬티 홀 문제",
+  "original": "Monty Hall Problem",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F01",
+  "description": {
+    "definition": "같은 확률로 상품이 놓인 세 문 중 하나를 고른 뒤, 위치를 아는 진행자가 반드시 다른 꽝 문 하나를 열고 항상 변경 기회를 주는 확률 문제다. 이 규칙에서는 처음 선택을 유지하면 당첨 확률이 1/3이고 남은 문으로 바꾸면 2/3이다.",
+    "detail": "작품 사례: 《[[한밤중에 개에게 일어난 의문의 사건]]》의 주인공은 나무 모양의 경우의 수 그림으로 선택을 바꾸는 편이 유리함을 설명하며 직관과 논리의 차이를 보여 준다.",
+    "usage": "",
+    "boundary": "진행자가 항상 꽝을 열고 항상 선택 변경을 허용한다는 조건이 핵심이다. 다른 운영 규칙에 같은 확률을 적용하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "01",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "처음에 틀릴 가능성이 2/3이므로, 꽝을 하나 지워 준 뒤 바꾸면 처음의 틀린 선택들이 당첨으로 바뀐다.\n\n작품 사례: 《[[한밤중에 개에게 일어난 의문의 사건]]》의 주인공은 나무 모양의 경우의 수 그림으로 선택을 바꾸는 편이 유리함을 설명하며 직관과 논리의 차이를 보여 준다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-003248",
+      "description_ko": "《한밤중에 개에게 일어난 의문의 사건》의 주인공은 나무 모양의 경우의 수 그림으로 선택을 바꾸는 편이 유리함을 설명하며 직관과 논리의 차이를 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "자기 복제 장치가 주변 물질을 새 복제체의 재료로 계속 바꾸면서 통제 범위를 넘어 환경 전체를 소모하는 [[재난]] [[설정]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 만화 《[[더티 페어]]》에서는 나노클리즘이라 불린 나노기계 재난이 지구를 파괴한 과거 때문에 관련 기술이 엄격히 통제된다.",
+    "usage": "자기 복제의 통제가 무너지면서 환경 전체가 기계의 재료로 소모되는 위기를 만든다.",
     "boundary": "많이 모인 나노 기계나 점액 괴물이라는 외형만으로는 부족하며 연쇄적인 자기 복제가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-003448",
+      "description_ko": "만화 《더티 페어》에서는 나노클리즘이라 불린 나노기계 재난이 지구를 파괴한 과거 때문에 관련 기술이 엄격히 통제된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

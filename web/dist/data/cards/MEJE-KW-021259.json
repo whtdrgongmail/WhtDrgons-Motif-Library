@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "정해진 보상을 얻는 순간에 지급되는 돈이나 아이템의 수량을 더 많게 만드는 게임 보정 효과다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[디펜스 그리드: 디 어웨이크닝]]》에서 커맨드 타워 범위 안의 적을 물리치면 더 많은 자원을 얻는다. 공격력 대신 보상 수입을 높이는 선택이다.",
     "usage": "자원 획득에 특화된 성장 선택을 주거나, 수입과 소비의 균형을 조정하는 보상 능력에 쓴다.",
     "boundary": "보상을 얻을 확률이나 품질만 높이는 효과와 구별한다. 여기서는 실제 지급 수량이 늘어나는 것이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003070",
+      "description_ko": "《디펜스 그리드: 디 어웨이크닝》에서 커맨드 타워 범위 안의 적을 물리치면 더 많은 자원을 얻는다. 공격력 대신 보상 수입을 높이는 선택이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

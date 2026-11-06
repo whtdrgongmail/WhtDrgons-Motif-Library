@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "친구 집단의 구성원으로 함께 다니면서도 같은 무리의 다른 사람들에게 대체로 미움받는 인물이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[퓨처라마]]》의 조이드버그는 함께 다니는 무리의 구성원이면서도 다른 친구들에게 호감을 얻지 못하는 인물로 제시된다. 이 관계가 집단 소개에서 그만 별도로 덧붙이는 농담의 바탕이 된다.",
     "usage": "집단의 소속과 실제 호감이 어긋나는 관계를 만든다.",
     "boundary": "완전히 쫓겨난 외부인이나 서로 싫어하는 적대 집단과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001504",
+      "description_ko": "《퓨처라마》의 조이드버그는 함께 다니는 무리의 구성원이면서도 다른 친구들에게 호감을 얻지 못하는 인물로 제시된다. 이 관계가 집단 소개에서 그만 별도로 덧붙이는 농담의 바탕이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

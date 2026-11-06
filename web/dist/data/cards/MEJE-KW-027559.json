@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-027559",
+  "kind": "keyword",
+  "title": "피해를 마력으로 대신 지불하기",
+  "original": "Mana Shield",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F17",
+  "description": {
+    "definition": "받은 피해의 일부나 전부가 체력 대신 마력의 감소로 처리되는 방어 규칙이다.",
+    "detail": "방어와 능력 사용이 같은 자원을 경쟁하므로 생존을 위해 마력을 쓰면 이후의 공격 선택이 줄어든다.\n\n작품 사례: 《[[메이플스토리]]》의 매직 가드는 받는 피해 일부를 HP 대신 MP 소모로 돌린다. 마법사는 마력 잔량이 생존에도 영향을 주게 된다.",
+    "usage": "",
+    "boundary": "마력으로 방어력을 높이는 주문이나 상대의 마력을 직접 공격하는 기술과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "17",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "공격을 맞아도 생명력 대신 주문의 연료가 먼저 줄어든다.\n\n작품 사례: 《[[메이플스토리]]》의 매직 가드는 받는 피해 일부를 HP 대신 MP 소모로 돌린다. 마법사는 마력 잔량이 생존에도 영향을 주게 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001226",
+      "description_ko": "《메이플스토리》의 매직 가드는 받는 피해 일부를 HP 대신 MP 소모로 돌린다. 마법사는 마력 잔량이 생존에도 영향을 주게 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

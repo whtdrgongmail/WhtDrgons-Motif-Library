@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "진행 중인 하나의 행동을 여러 각도에서 촬영한 화면으로 나누어 이어 보여 주는 기법이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "여러 카메라로 동시에 확보한 영상은 다시 하기 어려운 스턴트를 다양한 방향에서 보여 줄 수 있게 한다. 인터뷰의 정적인 얼굴, 큰 병기의 파괴, 추락 같은 장면에서도 각도 전환으로 움직임과 규모를 강조한다.\n\n작품 사례: 《[[닥터 후]]》의 「The Satan Pit」에서 닥터가 로즈를 믿는다고 말하는 동안 얼굴을 여러 각도로 바꾸어 보여 준다. 말의 흐름을 다시 시작하지 않으면서 시점 변화로 감정의 강도를 높인다.",
+    "usage": "진행 중인 행동의 연속성을 유지하면서 보는 방향을 바꾸어 역동성·강조·불안정함을 만든다.",
     "boundary": "동작의 같은 순간을 되풀이하는 반복 컷과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001308",
+      "description_ko": "《닥터 후》의 「The Satan Pit」에서 닥터가 로즈를 믿는다고 말하는 동안 얼굴을 여러 각도로 바꾸어 보여 준다. 말의 흐름을 다시 시작하지 않으면서 시점 변화로 감정의 강도를 높인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

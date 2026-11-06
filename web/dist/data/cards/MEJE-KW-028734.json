@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-028734",
+  "kind": "keyword",
+  "title": "공식 공간 번호에 남은 빈 번호",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F14",
+  "description": {
+    "definition": "층·방·구역 번호가 이어지다가 특정 번호를 건너뛰어 이름 붙은 공간의 목록에 공백을 남기는 구성이다.",
+    "detail": "",
+    "usage": "공간의 이력이나 감춰진 영역에 대한 의문을 제기한다.",
+    "boundary": "번호의 공백만으로 비밀방이나 실제 공간의 소멸을 확정하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "14",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "복도를 따라 방 번호를 세면 중간 번호 하나가 없다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

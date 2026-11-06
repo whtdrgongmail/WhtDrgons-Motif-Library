@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-028221",
+  "kind": "keyword",
+  "title": "컴퓨터의 행동 규칙을 이용해 이기기",
+  "original": "A.I. Breaker",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "게임 인공지능이 반복하는 판단과 한계를 알아내고 그 지식에 맞춘 행동으로 유리한 결과를 얻는 [[전략]]이다.",
+    "detail": "",
+    "usage": "적의 규칙성이 숙련과 발견의 [[보상]]이 되거나 의도한 난도를 무너뜨리는 방식을 설명한다.",
+    "boundary": "프로그램을 외부에서 변조해야 하는 것은 아니다. 사람 상대의 [[심리]]전과 달리 자동 행동의 규칙을 이용한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "컴퓨터가 늘 어떻게 반응하는지 알고 허점을 이용한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 3
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001864",
+      "description_ko": "《킹덤 컴: 딜리버런스》의 원문 사례는 특정 상황에서 적 인공지능이 멈추거나 무리하게 행동하는 패턴을 알면 그 빈틈을 이용할 수 있다고 설명한다. 상대가 사람일 때의 심리 읽기와 다른 기계적 규칙 활용이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "인물들이 반복적으로 방문하며 익숙한 사람들을 만나는 일상적인 모임터를 동네 주점으로 설정하는 방식이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[해리 포터(소설 시리즈)]]》의 리틀 행글턴 주민들은 동네 주점에서 리들 가족의 죽음에 대해 수군거리며 프랭크 브라이스를 의심한다. 주점이 마을의 소문과 공동 판단이 만들어지는 장소로 쓰인다.",
     "usage": "",
     "boundary": "한 번 방문한 여행지의 술집과 달리 지속적인 장소 친숙성이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002485",
+      "description_ko": "《해리 포터(소설 시리즈)》의 리틀 행글턴 주민들은 동네 주점에서 리들 가족의 죽음에 대해 수군거리며 프랭크 브라이스를 의심한다. 주점이 마을의 소문과 공동 판단이 만들어지는 장소로 쓰인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

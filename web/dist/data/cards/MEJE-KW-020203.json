@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F20",
   "description": {
     "definition": "구더기 무리를 대상에 덧붙여 혐오와 불결함을 강화하거나, 구더기 인물의 성격에 그 이미지를 옮기는 표현이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[바이오하자드 7]]》에서 이선이 침수된 지하를 지나갈 때 구더기가 붙은 시신이 떠오른다. 갑작스러운 등장과 부패의 시각 요소가 함께 불쾌함과 공포를 강화한다.",
     "usage": "부패와 불쾌함을 짧은 시각 정보로 전달한다.",
     "boundary": "혐오감을 만드는 재현 관습이며 실제 생물의 도덕적 성격을 말하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "20",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003039",
+      "description_ko": "《바이오하자드 7》에서 이선이 침수된 지하를 지나갈 때 구더기가 붙은 시신이 떠오른다. 갑작스러운 등장과 부패의 시각 요소가 함께 불쾌함과 공포를 강화한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

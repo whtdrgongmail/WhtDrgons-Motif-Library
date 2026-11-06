@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "인물의 활약을 예고하던 대표 음악을 들려준 뒤에도 그 인물이 실패하게 하여 음악에 대한 관객의 기대를 뒤집는 연출이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[블리치(만화)]]》에서 이치고가 아이젠에게 공격하려는 순간 대표 음악까지 끊기며 그의 우세를 기대하게 하던 분위기가 뒤집힌다.",
     "usage": "반격 장면을 불안과 충격으로 바꾼다.",
     "boundary": "아무런 승리 기대를 형성하지 않은 슬픈 음악이나 패배 장면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》에서 이치고가 아이젠에게 공격하려는 순간 대표 음악까지 끊기며 그의 우세를 기대하게 하던 분위기가 뒤집힌다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

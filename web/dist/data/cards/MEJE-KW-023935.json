@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "벽 아래의 쥐구멍을 매끈한 반원 모양으로 그려 쥐의 출입구라는 뜻을 전달하는 시각 관습이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[언더테일]]》의 여러 장소에는 앞에 먹거리가 놓인 쥐구멍이 있고, 구멍을 살피면 쥐 소리를 들을 수 있다.",
     "usage": "작화 규칙과 자원 배분을 정하고 관객이 받는 시각적 인상을 조절한다.",
     "boundary": "실제 동물이 만든 구멍의 형태에 관한 일반 사실이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002125",
+      "description_ko": "《언더테일》의 여러 장소에는 앞에 먹거리가 놓인 쥐구멍이 있고, 구멍을 살피면 쥐 소리를 들을 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

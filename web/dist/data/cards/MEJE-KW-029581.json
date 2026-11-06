@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-029581",
+  "kind": "keyword",
+  "title": "한 매체에 여러 시스템용 프로그램 담기",
+  "original": "hybrid release",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F27",
+  "description": {
+    "definition": "서로 다른 컴퓨터나 운영체제용 실행 판본을 하나의 물리적 저장 매체에 함께 제공한다.",
+    "detail": "",
+    "usage": "구매 단위와 실행 환경의 차이를 분리해 설명한다.",
+    "boundary": "하나의 동일한 실행 파일이 모든 환경에서 작동한다는 뜻은 아니며 플랫폼별 판본을 묶는 배포 방식이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "27",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "디스크 하나에 여러 시스템용 판이 함께 들어 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

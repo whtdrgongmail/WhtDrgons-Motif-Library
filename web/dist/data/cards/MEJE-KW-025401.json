@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "인물의 양쪽 눈 색을 다르게 설정하여 작품 안에서 불안정하거나 기이한 인상의 시각적 표지로 사용한다.",
-    "detail": "",
+    "detail": "악의적이거나 폭력적인 인물뿐 아니라 무해한 괴짜에게도 쓰일 수 있다. 접촉렌즈나 의안으로 인물이 스스로 이 인상을 연출하기도 한다.\n\n작품 사례: 《[[쿠키런: 킹덤]]》의 쉐도우밀크 쿠키는 밝은 파란색과 짙은 파란색의 서로 다른 눈을 지닌 광대 같은 기만의 인물로 원문에 제시된다.",
     "usage": "캐릭터 디자인의 반복적 [[상징]]을 분류한다.",
     "boundary": "실제 이색홍채나 사람의 성격에 관한 판단이 아니며 원문의 눈 크기 연출과 별개다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001634",
+      "description_ko": "《쿠키런: 킹덤》의 쉐도우밀크 쿠키는 밝은 파란색과 짙은 파란색의 서로 다른 눈을 지닌 광대 같은 기만의 인물로 원문에 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "인물이 익숙한 집이나 지역을 떠나 다른 곳으로 옮겨 가는 사건으로 이야기의 한 시기를 마무리하는 결말이다.",
-    "detail": "",
+    "detail": "더 나은 미래에 대한 기대와 남은 사람들과의 이별이 함께할 수 있다. 후속작이 생기면 새 장소에서 이어지거나 돌아오는 방식으로 이 결말을 다시 열 수 있다.\n\n작품 사례: 《[[토이 스토리 3]]》는 앤디가 대학으로 떠나고 장난감들이 보니에게 옮겨 가면서 이전 생활의 끝과 다음 관계의 시작을 함께 보여 준다.",
     "usage": "공간의 이탈이 관계와 삶의 전환을 표시하는 종결 장치일 때 쓴다.",
     "boundary": "잠깐 여행을 떠나거나 집으로 돌아와 마무리하는 결말과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001612",
+      "description_ko": "《토이 스토리 3》는 앤디가 대학으로 떠나고 장난감들이 보니에게 옮겨 가면서 이전 생활의 끝과 다음 관계의 시작을 함께 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

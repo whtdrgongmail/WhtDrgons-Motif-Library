@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "이미 일어난 실수나 비극을 바꾸려 과거로 돌아가 다른 결과를 만들려는 전개다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[페어리 테일]]》의 미래 루시는 용들의 침공을 경고하려 과거로 돌아온다. 미래의 재난을 아는 인물이 앞선 시점에 정보를 전달하여 다른 결과를 바라게 하는 시간여행이다.",
+    "usage": "이미 벌어진 실수와 비극을 수정하려는 목적에 [[시간 이동]]을 결합한다.",
     "boundary": "역사 관찰이나 미래 [[여행]]과 달리 과거의 수정이 목표다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002089",
+      "description_ko": "《페어리 테일》의 미래 루시는 용들의 침공을 경고하려 과거로 돌아온다. 미래의 재난을 아는 인물이 앞선 시점에 정보를 전달하여 다른 결과를 바라게 하는 시간여행이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

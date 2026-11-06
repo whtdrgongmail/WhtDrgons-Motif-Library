@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "인물이 주변의 관심이나 동정을 받으려는 목적으로 아픈 상태를 꾸며 보이는 동기 설정이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[콜 더 미드와이프]]》에서는 사회적으로 고립된 여성이 의료진의 방문과 접촉을 얻기 위해 병세를 꾸민다. 원문은 관심의 범위를 명성보다 인간적 접촉의 필요로 설명한다.",
+    "usage": "병을 둘러싼 말과 관심을 구하는 동기를 분리하여 인물의 고립과 관계를 묘사한다.",
     "boundary": "하기 싫은 일을 피하려는 목적과 구별한다. 특정 실제 인물을 원문에 나온 진단명으로 진단하는 카드가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-003420",
+      "description_ko": "《콜 더 미드와이프》에서는 사회적으로 고립된 여성이 의료진의 방문과 접촉을 얻기 위해 병세를 꾸민다. 원문은 관심의 범위를 명성보다 인간적 접촉의 필요로 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

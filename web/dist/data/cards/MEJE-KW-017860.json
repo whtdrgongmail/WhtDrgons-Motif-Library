@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "남성 인물들이 포옹으로 우정·화해·애정을 표현하는 장면 유형.",
-    "detail": "",
+    "detail": "악수·등 두드리기와 함께 친밀함을 표현할 수 있다. 거친 동작은 특정 연출 관습이며 남성의 필수 행동은 아니다.\n\n작품 사례: 《[[라이온 킹(1994년 애니메이션)]]》에서 무파사와 라피키의 포옹은 서로에 대한 신뢰와 친밀함을 드러낸다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "포옹만으로 성적 지향이나 문화권 전체의 태도를 추정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002499",
+      "description_ko": "《라이온 킹(1994년 애니메이션)》에서 무파사와 라피키의 포옹은 서로에 대한 신뢰와 친밀함을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

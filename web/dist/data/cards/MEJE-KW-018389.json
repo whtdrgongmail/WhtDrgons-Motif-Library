@@ -9,12 +9,12 @@
   "description": {
     "definition": "부모가 군인인 가정에서 성장했다는 배경이 인물 설정의 한 요소를 이루는 유형이다.",
     "detail": "군 관련 성장 배경이 태도에 영향을 줄 수 있으나, 그 영향의 방향은 작품마다 다르다.",
-    "usage": "",
+    "usage": "부모의 군 생활과 이동·부재가 성장 배경과 현재 관계에 미친 영향을 인물 설정에 반영한다.",
     "boundary": "현재 나이나 성숙도를 뜻하지 않는다. 색인 본문 각주가 이 구별을 명시한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003112",
+      "description_ko": "《탑건: 매버릭》의 루스터는 해군 조종사 구스의 아들로, 성장한 뒤 자신도 해군 조종사가 된다. 부모의 군 경력이 그의 배경과 진로에 이어지는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "사람과 비슷한 몸에 한 쌍의 날개가 신체 일부로 붙어 있는 존재 디자인이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[펜타스톰]]》의 로리엘과 제니엘은 사람 얼굴과 날개를 가진 천사형 캐릭터의 사례로 제시된다.",
     "usage": "인간적 행동과 비행의 이미지를 결합한 종족을 설계할 때 쓴다.",
     "boundary": "날개 장비를 착용한 사람이나 날개를 상징으로만 지닌 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003208",
+      "description_ko": "《펜타스톰》의 로리엘과 제니엘은 사람 얼굴과 날개를 가진 천사형 캐릭터의 사례로 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

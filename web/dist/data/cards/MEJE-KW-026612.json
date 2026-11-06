@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "시간이 지난 뒤 남성 인물들은 나이 든 모습으로 계속 등장하지만 여성 인물들은 이야기에서 사라지는 비대칭적 연속성이다.",
-    "detail": "",
+    "detail": "시간이 지나도 남성은 노년의 조언자나 달인으로 활동하지만 여성은 은퇴·소멸하거나 외모가 젊은 상태로 고정될 수 있다. 나이 든 여성의 역할이 사라지는 것과 젊음이 유지되는 것을 같은 가치 배분의 변형으로 다룬다.\n\n디자인 참조: 《[[블리치(만화)]]》의 오래 산 남성 대장들은 존경받는 노년이나 중년의 모습이지만 우노하나는 같은 오랜 시간을 거치고도 젊은 외모로 남는 대비를 보인다.",
     "usage": "대비되는 두 역할이나 형상을 함께 정하고 그 차이가 장면과 관계에서 하는 일을 분석한다.",
     "boundary": "현재 정의는 여성 인물의 소멸을 말하며 반드시 더 젊은 배우로 교체한다는 제작 사실을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》의 오래 산 남성 대장들은 존경받는 노년이나 중년의 모습이지만 우노하나는 같은 오랜 시간을 거치고도 젊은 외모로 남는 대비를 보인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

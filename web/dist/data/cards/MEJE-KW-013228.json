@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "한 [[인물]]의 삶이 보통의 [[시간]] 진행과 반대 방향으로 이어진다는 [[규칙]]을 둔 [[설정]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "기억과 만남의 순서가 다른 사람들의 시간 흐름과 반대가 된다. 신체만 어려지는 설정과 구별되는 시간 규칙이다.\n\n작품 사례: 《[[과거와 미래의 왕]]》의 멀린은 다른 사람들이 아직 겪지 않은 미래를 기억한다. 아서의 첫 만남이 자신에게는 마지막 만남이 될 수 있어 두 사람의 감정과 기억이 어긋난다.",
+    "usage": "한 사람에게는 기억인 일이 다른 사람에게는 미래가 되게 하여 예지와 [[관계]]의 비대칭을 만든다.",
     "boundary": "[[사건]]을 역순으로 보여 주는 편집 방식이나 일회성 과거 [[여행]]과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-003029",
+      "description_ko": "《과거와 미래의 왕》의 멀린은 다른 사람들이 아직 겪지 않은 미래를 기억한다. 아서의 첫 만남이 자신에게는 마지막 만남이 될 수 있어 두 사람의 감정과 기억이 어긋난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "한곳에 고정되지 않고 장소를 옮길 수 있는 생산 시설이다.",
-    "detail": "",
+    "detail": "생산 설비를 이동 수단과 결합하여 군대의 보급이나 개척지 건설을 지원한다. 공장이 필요한 곳으로 찾아간다는 이점과 이동·생산을 동시에 유지해야 하는 비용을 함께 설정할 수 있다.\n\n작품 사례: 《[[기동전사 건담 AGE]]》의 마도나 공방은 이동하는 거대한 선박 안에서 함선 정비와 모빌슈트 생산을 수행한다.",
     "usage": "생산 능력과 기동성을 결합해 보급과 점거의 방식을 바꾼다.",
     "boundary": "완제품만 운송하거나 휴대용 도구 하나를 쓰는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002807",
+      "description_ko": "《기동전사 건담 AGE》의 마도나 공방은 이동하는 거대한 선박 안에서 함선 정비와 모빌슈트 생산을 수행한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

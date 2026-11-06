@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-029494",
+  "kind": "keyword",
+  "title": "움직이는 표적을 맞히면 추가 점수",
+  "original": "Moving Target Bonus",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "게임에서 정지한 표적보다 움직이기 시작한 표적을 맞혔을 때 더 높은 점수나 보상을 준다.",
+    "detail": "작품 사례: 《[[Monster Bash (Williams)]]》의 드라큘라 표적은 정지했을 때보다 움직일 때 맞히면 두 배의 점수를 준다.",
+    "usage": "쉽게 처리하는 대신 움직일 때까지 기다리는 선택에 위험과 보상을 부여한다.",
+    "boundary": "움직이는 적을 맞히기만 하는 모든 게임이 아니라 이동 상태에 따른 점수 차이가 필요하다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "가만히 있을 때보다 움직일 때 맞히면 점수가 높다.\n\n작품 사례: 《[[Monster Bash (Williams)]]》의 드라큘라 표적은 정지했을 때보다 움직일 때 맞히면 두 배의 점수를 준다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00130",
+      "work_card_id": "MM-MEDIA-003309",
+      "description_ko": "《Monster Bash (Williams)》의 드라큘라 표적은 정지했을 때보다 움직일 때 맞히면 두 배의 점수를 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "원작이 수출되지 않은 지역에서 그 인물이 다른 현지화 작품에 등장해 관객에게 처음 소개되는 유통 순서이다.",
-    "detail": "",
+    "detail": "지역별 유통 순서가 실제 창작 순서와 달라 크로스오버 등장인물을 그 작품 출신으로 오해할 수 있다. 미리 공개하는 예고성 등장과는 구별한다.\n\n작품 사례: 《[[대난투 스매시브라더스]]》의 마르스는 원작이 공개되지 않은 일부 시장에서 크로스오버 출연을 통해 먼저 알려졌다. 현지 관객이 접한 순서와 실제 원작의 순서가 달랐다.",
     "usage": "",
     "boundary": "004차 502행의 일반적인 속편·파생작 선접촉보다 원작 미수출과 다른 수출 작품이라는 조건이 뚜렷하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002915",
+      "description_ko": "《대난투 스매시브라더스》의 마르스는 원작이 공개되지 않은 일부 시장에서 크로스오버 출연을 통해 먼저 알려졌다. 현지 관객이 접한 순서와 실제 원작의 순서가 달랐다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

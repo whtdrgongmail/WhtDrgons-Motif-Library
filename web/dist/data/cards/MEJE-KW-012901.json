@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "유기체 인물들이 [[로봇]]의 [[파괴]]와 기능 정지를 동료의 [[죽음]]으로 받아들이며 슬퍼하는 [[장면]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "파괴뿐 아니라 기억 삭제나 작동 중단도 죽음으로 받아들일 수 있으며 AI나 게임 아바타도 포함한다. 다른 인물은 그 [[애도]]를 이해하지 못해 관계의 가치가 쟁점이 될 수 있다.\n\n작품 사례: 《[[포켓몬스터 XY]]》에서 시트론은 시트로이드가 기억을 지우는 희생을 택한 뒤 멈춘 몸을 보며 울고, 그것을 동료의 죽음처럼 받아들인다.",
+    "usage": "기계와 맺은 관계를 죽음의 애도로 확인하고 비인간에게 부여하는 존엄을 드러낸다.",
     "boundary": "비싼 장비가 망가져 아쉬워하는 반응과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002388",
+      "description_ko": "《포켓몬스터 XY》에서 시트론은 시트로이드가 기억을 지우는 희생을 택한 뒤 멈춘 몸을 보며 울고, 그것을 동료의 죽음처럼 받아들인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

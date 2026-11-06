@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "행운을 기대하고 여는 과자 속 쪽지에서 불행의 예고나 의욕을 꺾는 문장을 받는 장치이다.",
-    "detail": "",
+    "detail": "작품 사례: 1985년판 《[[환상특급(1985)]]》의 「The Misfortune Cookie」에서 비평가는 실제로 들어맞는 운세 과자를 경험한 뒤 자신의 죽음을 알리는 문구를 받는다. 작은 쪽지가 공포의 사건을 이끈다.",
     "usage": "작은 일상의 기대를 불길한 예고로 바꾼다.",
     "boundary": "실제 미래 예측 능력을 필수로 요구하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-003169",
+      "description_ko": "1985년판 《환상특급(1985)》의 「The Misfortune Cookie」에서 비평가는 실제로 들어맞는 운세 과자를 경험한 뒤 자신의 죽음을 알리는 문구를 받는다. 작은 쪽지가 공포의 사건을 이끈다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "연인과 함께하기 위해 살던 곳과 기존 생활·가까운 사람들을 뒤로하고 이주하는 선택이다.",
-    "detail": "",
+    "detail": "어느 성별의 파트너도 이주를 택할 수 있다. 새 삶에 적응하지 못하거나 남겨진 사람들의 상실을 중심으로 이야기가 전개될 수 있으며, 우정을 위한 이주도 같은 구조의 변주로 등장한다.\n\n작품 사례: 《[[Resident Alien]]》의 케이트는 남편을 따라 작은 마을로 이주한 뒤 이전의 변호사 경력과 도시 생활을 잃고 적응에 어려움을 겪지만, 고향으로 돌아온 남편은 그 희생을 충분히 이해하지 못한다.",
     "usage": "함께하는 행복과 떠나며 치르는 대가를 비교하는 연애 [[갈등]]에 쓴다.",
     "boundary": "단순한 여행이나 직업상 전근과 달리 연인과의 생활을 위한 이전이 동기다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-003298",
+      "description_ko": "《Resident Alien》의 케이트는 남편을 따라 작은 마을로 이주한 뒤 이전의 변호사 경력과 도시 생활을 잃고 적응에 어려움을 겪지만, 고향으로 돌아온 남편은 그 희생을 충분히 이해하지 못한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

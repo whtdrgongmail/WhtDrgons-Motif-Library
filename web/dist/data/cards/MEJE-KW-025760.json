@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "둘 이상의 동물 특징을 한 몸에 섞어 어느 한 종만으로 설명되지 않는 가상 생물을 만든다.",
-    "detail": "",
+    "detail": "동물의 부분을 물리적으로 결합하거나 기존 동물에 날개·뿔 같은 구조를 더해 낯선 생물을 설계한다. 단어의 뜻을 외형으로 옮기는 [[말장난]], 가상 진화의 수렴, 혼종 번식 등 서로 다른 제작 원리가 같은 혼합형 디자인으로 이어질 수 있다.\n\n작품 사례: 《[[신의 탑(웹툰)]]》의 망돌고래는 돌고래와 물개의 특징을 섞은 모습으로 제시되어, 친숙한 동물 두 종류를 결합한 가상 생물의 예가 된다.",
     "usage": "",
     "boundary": "여러 생물이 곁에 모여 있거나 의상만 바꾼 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-002484",
+      "description_ko": "《신의 탑(웹툰)》의 망돌고래는 돌고래와 물개의 특징을 섞은 모습으로 제시되어, 친숙한 동물 두 종류를 결합한 가상 생물의 예가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

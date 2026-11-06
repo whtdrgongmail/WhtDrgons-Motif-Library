@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "사건을 담은 노래를 통해 듣는 이에게 도덕적 메시지나 삶의 교훈을 전달하는 방식이다.",
-    "detail": "",
+    "detail": "경고담이 흔하지만 반드시 비극일 필요는 없다. 노랫말이 하나의 사건을 들려주며 교훈을 이끌어 낸다.\n\n작품 사례: 《[[노틀담의 꼽추]]》의 〈[[The Bells of Notre Dame]]〉는 사건을 노래로 들려주며 무엇이 괴물이고 무엇이 인간인가를 묻는다. 노래 속 이야기가 도덕적 판단의 질문으로 이어진다.",
     "usage": "직접 훈계 대신 정서와 사건을 함께 기억하게 한다.",
     "boundary": "아무 사건 없이 의견만 나열하는 노래와는 이야기의 매개가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,22 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001583",
+      "description_ko": "《노틀담의 꼽추》의 〈[[The Bells of Notre Dame]]〉는 사건을 노래로 들려주며 무엇이 괴물이고 무엇이 인간인가를 묻는다. 노래 속 이야기가 도덕적 판단의 질문으로 이어진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-003267",
+      "description_ko": "《[[노틀담의 꼽추]]》의 〈The Bells of Notre Dame〉는 사건을 노래로 들려주며 무엇이 괴물이고 무엇이 인간인가를 묻는다. 노래 속 이야기가 도덕적 판단의 질문으로 이어진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

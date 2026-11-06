@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "인물의 정신 질환이나 심리적 상처와 함께 살아가거나 그 고통에서 회복하는 과정을 중심 변화로 다루는 이야기 구조이다.",
-    "detail": "",
+    "detail": "증상이 모두 사라지는 결말에 한정하지 않고 어려움을 이해하고 대처하며 살아가는 진전도 포함한다. 곁을 지키는 관계와 상담이 회복 과정의 일부가 될 수 있다.\n\n작품 사례: 《[[코라의 전설]]》 시즌 4는 코라가 앞선 심각한 사건 뒤 생긴 외상 반응과 자신감의 상실을 겪으며 다시 삶을 이어 가는 과정을 중심으로 삼는다.",
     "usage": "회복과 함께 살아가는 과정을 장기적인 이야기의 중심으로 둔다.",
     "boundary": "회복의 속도와 형태를 하나로 일반화하거나 모든 경험을 완치 결말로 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001408",
+      "description_ko": "《코라의 전설》 시즌 4는 코라가 앞선 심각한 사건 뒤 생긴 외상 반응과 자신감의 상실을 겪으며 다시 삶을 이어 가는 과정을 중심으로 삼는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "동성 커플의 한 사람을 관습적으로 남성적인 모습에, 다른 사람을 여성적인 모습에 가깝게 배치하는 대비다.",
-    "detail": "",
+    "detail": "성별 표현의 대비와 관계 안의 역할 고정은 구분한다. 원문의 실제 성소수자 취향에 관한 일반화는 옮기지 않는다.\n\n작품 사례: 《[[진격의 거인(만화)]]》은 크리스타를 향한 유미르의 마음과 함께 두 사람의 복장·체격·태도를 대비한다. 외형의 차이가 친밀한 관계의 인상을 구분하는 사례다.",
     "usage": "커플 안에서 외양과 성격의 대비를 구성하거나 그 관습이 적용되는 방식을 설명한다.",
     "boundary": "그 차이만으로 실제 관계의 역할을 남자·여자로 고정했다고 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002207",
+      "description_ko": "《진격의 거인(만화)》은 크리스타를 향한 유미르의 마음과 함께 두 사람의 복장·체격·태도를 대비한다. 외형의 차이가 친밀한 관계의 인상을 구분하는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

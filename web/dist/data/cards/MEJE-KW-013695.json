@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "음악의 강렬함을 높이기 위해 비명처럼 내지르는 소리를 가창에 사용하는 기법이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "쉰 중음의 포효, 동물 같은 낮은 으르렁거림, 중고음의 거친 비명, 크게 뻗는 맑은 고음이 있다. 음높이만 바꾼 유형은 하나의 발성 카드에서 비교하고 가수 이름을 작품명으로 등록하지 않는다.\n\n작품 사례: 더 후의 〈[[Won’t Get Fooled Again]]〉에서 절정에 등장하는 강한 절규는 곡의 감정을 밀어 올린다. 원문은 가창의 강조 효과를 보여 주는 사례로 이 대목을 든다.",
+    "usage": "노래의 특정 구절과 절정을 강조하거나 전체 곡에 거친 힘을 부여한다.",
     "boundary": "으르렁거리는 저음 중심의 [[거친 발성]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-003057",
+      "description_ko": "더 후의 〈Won’t Get Fooled Again〉에서 절정에 등장하는 강한 절규는 곡의 감정을 밀어 올린다. 원문은 가창의 강조 효과를 보여 주는 사례로 이 대목을 든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "옥에 [[마법]]과 영적 [[능력]]을 부여하여 장신구·유물·자원으로 사용하는 [[설정]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "문화권의 전통적 연상을 차용할 수도 있고 작품이 독자적인 기능을 부여할 수도 있다. 초록색 빛의 표현과 실제 능력의 작동은 구분한다.\n\n작품 사례: 《[[포비든 킹덤: 전설의 마스터를 찾아서]]》에서는 옥이 도교의 불사자를 죽일 수 있는 물질로 설정된다. 골든 스패로의 옥 무기는 그 초자연적 약점을 겨냥한다.",
+    "usage": "옥으로 된 유물의 능력과 한계를 정하여 문화적 [[상징]]과 실제 세계 규칙을 연결한다.",
     "boundary": "옥의 실제 물성이나 장식 가치와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001893",
+      "description_ko": "《포비든 킹덤: 전설의 마스터를 찾아서》에서는 옥이 도교의 불사자를 죽일 수 있는 물질로 설정된다. 골든 스패로의 옥 무기는 그 초자연적 약점을 겨냥한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

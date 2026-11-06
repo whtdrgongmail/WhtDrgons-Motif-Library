@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F19",
   "description": {
     "definition": "[[장면]]에서 일어난 일의 의미와 작품이 요구하는 감정적 반응이 맞지 않아 [[불협화음]]을 만드는 표현이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[심슨 가족]]》에서 호머를 인질범에게서 데려오려는 가족이 탄 케이블카에 가벼운 음악이 흐르자 바트가 더 극적인 음악으로 바꾼다. 긴박한 사건과 어울리지 않는 음악을 등장인물이 직접 지적한다.",
     "usage": "",
     "boundary": "의도적인 아이러니와 실수에 의한 어긋남 모두 가능하며 단순한 [[장르 혼합]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "19",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》에서 호머를 인질범에게서 데려오려는 가족이 탄 케이블카에 가벼운 음악이 흐르자 바트가 더 극적인 음악으로 바꾼다. 긴박한 사건과 어울리지 않는 음악을 등장인물이 직접 지적한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F08",
   "description": {
     "definition": "악역이 동원하던 부하들을 잃거나 소모하여 더 이상 내보낼 졸개가 남지 않는 상황이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[데스노트(만화)]]》의 라이토는 이용하던 사람들을 배신하고 잃은 끝에 정체가 드러나는 순간 자신을 구해 줄 사람이 남아 있지 않게 된다. 부하와 조력자를 소모한 결과가 고립으로 돌아온다.",
     "usage": "적의 자원에 한계를 부여하여 대결의 단계를 바꾼다.",
     "boundary": "한 부하가 패한 사건과 달리 전체 인력의 고갈이 문제다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "08",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002463",
+      "description_ko": "《데스노트(만화)》의 라이토는 이용하던 사람들을 배신하고 잃은 끝에 정체가 드러나는 순간 자신을 구해 줄 사람이 남아 있지 않게 된다. 부하와 조력자를 소모한 결과가 고립으로 돌아온다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

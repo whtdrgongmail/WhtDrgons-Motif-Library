@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "등장인물들이 극장에 [[영화]]를 보러 가는 활동을 한 일화의 중심 상황으로 삼는 형식이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[SMG4]]》의 극장 방문 에피소드에서 주요 인물들은 서로 다른 영화를 보러 가고, 지루해진 마리오는 다른 사람들이 무엇을 보는지 돌아다닌다.",
+    "usage": "상영관의 좌석·표·먹거리·관람 예절 문제를 한 에피소드의 [[갈등]]으로 엮는다.",
     "boundary": "영화관이 잠깐 배경으로만 등장하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00100",
+      "work_card_id": "MM-MEDIA-002308",
+      "description_ko": "《SMG4》의 극장 방문 에피소드에서 주요 인물들은 서로 다른 영화를 보러 가고, 지루해진 마리오는 다른 사람들이 무엇을 보는지 돌아다닌다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

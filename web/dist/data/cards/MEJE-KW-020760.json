@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "싸우던 인물들이 중간에 대결을 멈춰 휴식한 뒤 다시 싸움을 이어 가는 장면이다.",
-    "detail": "",
+    "detail": "숨을 돌리거나 머리와 옷을 정리하고, 때로는 상대와 함께 식사나 놀이를 하는 부조리한 휴식으로 긴장을 끊는다. 한쪽이 이를 재정비 기회로 이용하면 서로의 전투 태도도 드러난다.\n\n작품 사례: 《[[원피스(만화)]]》의 쵸파와 히루루크는 다투던 중 각각 땀을 닦거나 숨을 고르고 다시 싸움을 이어 간다. 대립의 흐름에 일상적인 휴식이 끼어 웃음을 만든다.",
     "usage": "치열한 대결에 일상적인 리듬을 끼워 넣어 희극을 만들거나 상대 사이의 묘한 관계를 드러낸다.",
     "boundary": "한쪽이 도망치거나 싸움이 완전히 끝나는 경우와 구별한다. 휴식 전후의 대결이 이어진다는 합의 또는 상황이 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》의 쵸파와 히루루크는 다투던 중 각각 땀을 닦거나 숨을 고르고 다시 싸움을 이어 간다. 대립의 흐름에 일상적인 휴식이 끼어 웃음을 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

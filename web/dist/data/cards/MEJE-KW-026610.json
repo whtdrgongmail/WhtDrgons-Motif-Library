@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "남성을 별도 표지 없는 기본 인물로 두면서 여성이라는 성별은 독특하고 특별한 특징으로 강조하는 관습이다.",
-    "detail": "",
+    "detail": "이름·직업명·복장·표지에서 남성을 별도 표시 없는 형태로 두고 여성에만 부가 표식을 붙일 수 있다. 여성 인물의 성별이 다른 특성을 밀어내는 결과도 이 비대칭의 상세로 다룬다.\n\n디자인 참조: 《[[진격의 거인(만화)]]》에서 대부분의 거인은 남성형 외형을 기본처럼 사용하지만 애니의 거인만은 여성형이라는 성별 특징이 이름의 구별 기준이 된다.",
     "usage": "대비되는 두 역할이나 형상을 함께 정하고 그 차이가 장면과 관계에서 하는 일을 분석한다.",
     "boundary": "성별과 특성의 관계를 작품이 배치하는 관습이며 실제 사람의 성격이나 능력을 성별로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002207",
+      "description_ko": "《진격의 거인(만화)》에서 대부분의 거인은 남성형 외형을 기본처럼 사용하지만 애니의 거인만은 여성형이라는 성별 특징이 이름의 구별 기준이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

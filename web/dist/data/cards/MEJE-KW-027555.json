@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-027555",
+  "kind": "keyword",
+  "title": "상대의 마력을 고갈시키는 공격",
+  "original": "Mana Burn",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F17",
+  "description": {
+    "definition": "상대가 능력에 사용하는 마력 자원을 직접 줄여 이후의 주문과 기술 사용을 방해하는 공격이다.",
+    "detail": "마력 보호막의 연료를 소진시키거나 [[마법]] 사용자에 특화된 대응 수단으로 사용한다.\n\n작품 사례: 《[[하스스톤]]》의 마나 연소는 상대가 다음 턴에 사용할 마나를 줄여 행동 선택을 제한한다. 피해를 입히는 것보다 자원 접근을 막는 기능이 핵심이다.",
+    "usage": "",
+    "boundary": "능력 자체를 봉인하는 것과 다르며 빼앗은 마력이 공격자에게 돌아와야 하는 것도 아니다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "17",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "체력보다 주문의 연료를 먼저 깎아 상대의 선택을 줄인다.\n\n작품 사례: 《[[하스스톤]]》의 마나 연소는 상대가 다음 턴에 사용할 마나를 줄여 행동 선택을 제한한다. 피해를 입히는 것보다 자원 접근을 막는 기능이 핵심이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001678",
+      "description_ko": "《하스스톤》의 마나 연소는 상대가 다음 턴에 사용할 마나를 줄여 행동 선택을 제한한다. 피해를 입히는 것보다 자원 접근을 막는 기능이 핵심이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

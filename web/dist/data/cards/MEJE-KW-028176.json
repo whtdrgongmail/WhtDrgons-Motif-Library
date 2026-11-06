@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-028176",
+  "kind": "keyword",
+  "title": "넘어진 플레이어를 기다려 주는 적의 공격",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "[[플레이어]]가 쓰러지거나 [[조작]]을 회복하는 동안 적의 공격 결정을 잠시 늦추어 대응할 시간을 주는 인공지능 조절이다.",
+    "detail": "작품 사례: 《[[인퍼머스]]》에서는 콜이 맞았을 때 무적이 되는 대신, 넘어지면 일부 적들이 잠깐 사격을 멈추어 회복할 틈을 준다. 적 종류에 따라 이 배려가 적용되지 않을 수 있다.",
+    "usage": "물리적인 무적 효과 없이도 연속 피격의 압박을 줄인다.",
+    "boundary": "공격을 받아도 피해가 무효가 되는 것과 다르며 다른 적이 같은 행동을 하리라는 보장도 없다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "[[플레이어]]가 일어날 틈을 주도록 적이 잠깐 공격을 참는다.\n\n작품 사례: 《[[인퍼머스]]》에서는 콜이 맞았을 때 무적이 되는 대신, 넘어지면 일부 적들이 잠깐 사격을 멈추어 회복할 틈을 준다. 적 종류에 따라 이 배려가 적용되지 않을 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003020",
+      "description_ko": "《인퍼머스》에서는 콜이 맞았을 때 무적이 되는 대신, 넘어지면 일부 적들이 잠깐 사격을 멈추어 회복할 틈을 준다. 적 종류에 따라 이 배려가 적용되지 않을 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

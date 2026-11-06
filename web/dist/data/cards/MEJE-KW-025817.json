@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "작품을 다른 언어권으로 옮길 때 가장 중요한 대표 인물의 이름은 그대로 유지하는 선택이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[도라에몽(만화)]]》은 일부 번역판에서 주변 인물들의 이름이 바뀌어도 대표 캐릭터인 도라에몽의 이름은 유지되는 사례로 소개된다.",
     "usage": "",
     "boundary": "아무 이름도 바꾸지 않는 번역 전체와 달리 대표 인물의 이름 보존에 초점을 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002509",
+      "description_ko": "《도라에몽(만화)》은 일부 번역판에서 주변 인물들의 이름이 바뀌어도 대표 캐릭터인 도라에몽의 이름은 유지되는 사례로 소개된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

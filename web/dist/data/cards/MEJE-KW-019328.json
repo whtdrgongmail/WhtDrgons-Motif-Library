@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "괴물을 사냥하는 인물이 자신이 추적하거나 처치해야 할 종족·대상과 사랑에 빠지는 관계다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[버피와 뱀파이어(TV 시리즈)]]》에서 [[흡혈귀]] 사냥꾼 버피는 흡혈귀인 엔젤 및 스파이크와 연애 관계를 맺으며, 사냥의 역할과 사랑이 충돌한다.",
     "usage": "직업적 의무와 개인의 애정 사이에 충돌을 만든다.",
     "boundary": "영웅과 악역의 연애 일반보다 사냥하는 자와 사냥당하는 존재의 역할이 구체적으로 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002536",
+      "description_ko": "《버피와 뱀파이어(TV 시리즈)》에서 흡혈귀 사냥꾼 버피는 흡혈귀인 엔젤 및 스파이크와 연애 관계를 맺으며, 사냥의 역할과 사랑이 충돌한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

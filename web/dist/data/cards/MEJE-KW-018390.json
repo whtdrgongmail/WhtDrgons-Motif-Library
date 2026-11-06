@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "상대를 놀리는 말을 일정한 음높이와 리듬에 실어 부르는 말투다.",
-    "detail": "",
+    "detail": "익숙한 놀이 노래의 가락이나 반복 리듬에 놀림말을 얹고 얼굴 주변의 손짓 등을 함께 쓸 수 있다. 특정 곡만을 필수로 하지 않으며 짓궂음이나 미성숙한 태도를 드러내는 말투로 사용한다.\n\n작품 사례: 《[[디지몬 어드벤처]]》에서 피요몬은 고마몬이 당황한 모습을 노래하듯 억양을 붙여 놀린다.",
     "usage": "상대의 말을 노래하듯 흉내 내 억양 자체로 놀리거나 짜증을 유발한다.",
     "boundary": "특정 짝사랑 구호에 한정되지 않으며 일반적인 노래와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-06",
+  "row_version": 4,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001345",
+      "description_ko": "《디지몬 어드벤처》에서 피요몬은 고마몬이 당황한 모습을 노래하듯 억양을 붙여 놀린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

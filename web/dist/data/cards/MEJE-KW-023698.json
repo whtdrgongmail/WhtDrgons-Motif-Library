@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "욕설을 하고 싶지만 소리 내어 말하지 못하는 인물이 입모양으로만 표현한다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤 길들이기]]》에서 히컵의 아버지는 아들이 구하러 나타난 모습을 보고 놀람의 욕설을 소리 없이 입 모양으로만 표현한다.",
     "usage": "표현을 억누르는 상황과 남아 있는 분노를 동시에 보여 준다.",
     "boundary": "외부 편집으로 음성을 지우는 경우와 달리 인물 스스로 발성을 삼가야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-003296",
+      "description_ko": "《드래곤 길들이기》에서 히컵의 아버지는 아들이 구하러 나타난 모습을 보고 놀람의 욕설을 소리 없이 입 모양으로만 표현한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

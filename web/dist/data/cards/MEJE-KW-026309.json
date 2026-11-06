@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F18",
   "description": {
     "definition": "행동의 결과가 주로 우연에 의해 결정되었는데도 그 결과를 근거로 인물에게 칭찬이나 비난을 돌리는 평가 구조다.",
-    "detail": "",
+    "detail": "작중 인물이나 서술이 실제로 윤리적 평가를 내려야 한다. 결과만 보여 주고 관객의 판단에 맡기는 경우는 제외하며, 인물의 칭찬을 작가의 견해와 동일시하지 않는다.\n\n작품 사례: 《[[킹덤 하츠: 버스 바이 슬립]]》에서 아쿠아와 벤, 테라는 모두 새 세계에서 먼저 만난 이를 쉽게 믿는다. 아쿠아와 벤은 피터 팬을, 테라는 후크 선장을 만났다는 우연 때문에 같은 태도에도 테라만 사람을 잘못 본 인물로 평가된다.",
     "usage": "의도·통제 가능성과 결과에 대한 책임 평가의 차이를 드러낸다.",
     "boundary": "인물의 실제 판단과 행동이 달랐던 경우와 달리 평가 차이에 운이 핵심적으로 작용한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "18",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002351",
+      "description_ko": "《킹덤 하츠: 버스 바이 슬립》에서 아쿠아와 벤, 테라는 모두 새 세계에서 먼저 만난 이를 쉽게 믿는다. 아쿠아와 벤은 피터 팬을, 테라는 후크 선장을 만났다는 우연 때문에 같은 태도에도 테라만 사람을 잘못 본 인물로 평가된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

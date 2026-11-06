@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F30",
   "description": {
     "definition": "작품이 허구의 오락임을 받아들여 모든 세부 오류를 따지기보다 감상 자체를 즐기자는 수용 태도다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[미스터리 사이언스 시어터 3000]]》의 주제가는 프로그램을 즐기는 데 필요하지 않은 세부 설정까지 걱정하지 말고 편하게 감상하라고 관객에게 권한다.",
     "usage": "관객이 허용하는 비현실성과 몰입의 관계를 설명한다.",
     "boundary": "중요한 내부 모순이나 비평 전체를 무조건 금지하는 논리로 쓰지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "30",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002218",
+      "description_ko": "《미스터리 사이언스 시어터 3000》의 주제가는 프로그램을 즐기는 데 필요하지 않은 세부 설정까지 걱정하지 말고 편하게 감상하라고 관객에게 권한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

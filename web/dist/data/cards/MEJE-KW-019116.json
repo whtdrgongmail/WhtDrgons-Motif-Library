@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "생애 과정에서 몸의 형태와 특성이 크게 바뀌는 단계를 거치는 생물 유형이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[메트로이드 II: 리턴 오브 사무스]]》의 메트로이드는 고향 행성에서 부유하는 해파리 같은 모습으로부터 딱정벌레와 거대한 도마뱀을 닮은 단계로 변한다. 몸의 형태와 위협 방식이 성장 단계마다 달라진다.",
     "usage": "생물의 성장 단계에 따라 위험과 역할을 변화시킬 때 쓴다.",
     "boundary": "일시적인 위장 변신이나 단순히 덩치만 커지는 성장과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003060",
+      "description_ko": "《메트로이드 II: 리턴 오브 사무스》의 메트로이드는 고향 행성에서 부유하는 해파리 같은 모습으로부터 딱정벌레와 거대한 도마뱀을 닮은 단계로 변한다. 몸의 형태와 위협 방식이 성장 단계마다 달라진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

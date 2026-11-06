@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "원래 기록이나 발언을 잘라 배치하여 실제 의미와 다른 인상을 의도적으로 만드는 정보 조작.",
-    "detail": "",
+    "detail": "맥락 생략, 장면 선별, 시간 순서 변경, 발언 이어붙이기, 질문·음악의 선택 등이 인물과 사건에 대한 인상을 바꾼다. 압축 편집 전체를 왜곡과 동일시하지 않는다.\n\n작품 사례: 《[[카툰 네트워크 액션 팩]]》의 벤 관련 이야기에서는 실제 구조 장면을 다르게 편집해 기자가 영웅이고 벤이 무력한 인물인 것처럼 방송한다.",
     "usage": "보도·홍보·증거 영상의 신뢰를 다룰 때 쓴다.",
     "boundary": "뜻을 보존한 요약 편집과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002897",
+      "description_ko": "《카툰 네트워크 액션 팩》의 벤 관련 이야기에서는 실제 구조 장면을 다르게 편집해 기자가 영웅이고 벤이 무력한 인물인 것처럼 방송한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

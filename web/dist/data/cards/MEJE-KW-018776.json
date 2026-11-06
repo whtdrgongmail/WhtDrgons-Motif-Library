@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "여성 인물이 아이와의 상호작용이나 돌봄에 서툴러 여성이라면 자연히 능숙할 것이라는 기대와 어긋나는 묘사다.",
-    "detail": "",
+    "detail": "잘 돌보고 싶은 의도와 실제 돌봄 기술의 부족이 함께 드러난다. 여성이라면 자동으로 능숙할 것이라는 다른 인물의 기대가 실패하면서 상황극이나 책임의 성장을 만든다.\n\n작품 사례: 《[[미소녀 전사 세일러 문(연작)]]》에서 우사기와 마모루가 아기를 맡았을 때 우사기는 어떻게 돌볼지 몰라 당황하고 마모루가 더 능숙하게 대처한다. 돌봄 능력을 성별로 미리 정한 기대가 뒤집힌다.",
     "usage": "돌봄 능력이 성별에 자동으로 따라오지 않는다는 인물 차이를 드러낸다.",
     "boundary": "서투름과 아이를 해치려는 의도는 다르며 여성 일반의 특성을 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-002077",
+      "description_ko": "《미소녀 전사 세일러 문(연작)》에서 우사기와 마모루가 아기를 맡았을 때 우사기는 어떻게 돌볼지 몰라 당황하고 마모루가 더 능숙하게 대처한다. 돌봄 능력을 성별로 미리 정한 기대가 뒤집힌다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

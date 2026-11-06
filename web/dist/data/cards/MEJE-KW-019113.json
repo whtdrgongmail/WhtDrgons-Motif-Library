@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "머리카락이 뱀으로 이루어지고 시선을 통해 상대를 돌로 바꾸는 여성형 괴물 유형이다.",
-    "detail": "",
+    "detail": "처음부터 괴물로 태어나는 기원과 저주로 변하는 기원이 있으며, 인간형 다리 대신 뱀의 하반신을 갖는 각색도 있다.\n\n작품 사례: 《[[리그 오브 레전드]]》의 카시오페아는 뱀머리와 뱀 하반신을 지니고 정면의 적을 돌로 바꾸는 능력으로 메두사형 존재의 특징을 구현한다.",
     "usage": "시선과 외형의 위험을 결합한 신화적 괴물을 설정할 때 쓴다.",
     "boundary": "뱀 장식을 한 인물이나 석화 능력이 없는 단순한 뱀머리 디자인과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001662",
+      "description_ko": "《리그 오브 레전드》의 카시오페아는 뱀머리와 뱀 하반신을 지니고 정면의 적을 돌로 바꾸는 능력으로 메두사형 존재의 특징을 구현한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

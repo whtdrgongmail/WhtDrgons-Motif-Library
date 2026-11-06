@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "서로 관계없어 보이는 사건들이 불합리할 만큼 맞물려 한 인물의 죽음을 초래하는 구성이다.",
-    "detail": "",
+    "detail": "작품 사례: 영화 《[[데스노트]]》(2017)는 일상적인 작은 사고들이 비현실적으로 정확하게 이어져 노트에 적힌 사망 조건을 이루게 하는 첫 죽음을 보여 준다.",
     "usage": "죽음으로 수렴하는 연결의 우연성과 작위성을 살핀다.",
     "boundary": "직접적인 [[인과]]가 뚜렷한 연쇄 사고나 의도적으로 짠 살인 계획과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003499",
+      "description_ko": "영화 《데스노트》(2017)는 일상적인 작은 사고들이 비현실적으로 정확하게 이어져 노트에 적힌 사망 조건을 이루게 하는 첫 죽음을 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

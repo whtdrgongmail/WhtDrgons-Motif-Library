@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "성공 가능성이 극도로 낮다고 강조된 시도가 오히려 결정적 순간 성사되는 극적 역전 관습이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[주술회전]]》에서 메구미는 이타도리가 스쿠나의 손가락을 먹고 살아남을 가능성을 극히 낮게 본다. 그러나 이타도리가 살아남으면서 이야기가 시작된다.",
     "usage": "위기의 크기와 뜻밖의 해결을 대비한다.",
     "boundary": "실제 확률 계산의 법칙이 아니라 관객에게 제시한 희박함의 역전이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-003067",
+      "description_ko": "《주술회전》에서 메구미는 이타도리가 스쿠나의 손가락을 먹고 살아남을 가능성을 극히 낮게 본다. 그러나 이타도리가 살아남으면서 이야기가 시작된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "화폐를 사용할 이유가 없는 동물이나 괴물을 처치하면 돈이 전리품으로 나오는 규칙.",
-    "detail": "",
+    "detail": "작품 사례: 《[[메이플스토리]]》에서는 몬스터를 처치하면 동전이나 지폐 형태의 메소가 떨어진다. 화폐를 소지할 이유가 불명확한 적도 수입원이 되는 규칙이다.",
     "usage": "게임 경제의 편의와 생태 설정 사이의 간극을 설명할 때 쓴다.",
     "boundary": "인간형 적의 소지금이나 현상금의 지급은 제외한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001226",
+      "description_ko": "《메이플스토리》에서는 몬스터를 처치하면 동전이나 지폐 형태의 메소가 떨어진다. 화폐를 소지할 이유가 불명확한 적도 수입원이 되는 규칙이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

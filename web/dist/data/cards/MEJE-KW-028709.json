@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-028709",
+  "kind": "keyword",
+  "title": "배우 얼굴과 이름의 위치가 어긋난 포스터",
+  "original": "Misplaced-Names Poster",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F22",
+  "description": {
+    "definition": "출연진의 얼굴 배열과 이름의 배열이 다른 기준을 따라 각 이름이 해당 배우의 얼굴 위나 아래에 오지 않는 포스터 구성이다.",
+    "detail": "",
+    "usage": "이미지의 중심성과 출연진 이름 순서가 서로 다른 홍보 규칙을 따르는 경우를 설명한다.",
+    "boundary": "배우 이름을 실제로 잘못 적은 오기와 구별한다. 계약이나 제작 사정은 확인 없이 단정하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 2,
+  "classification": {
+    "code": "22",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "얼굴 위 이름이 그 얼굴의 배우 이름이 아니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 3
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001602",
+      "description_ko": "《토이 스토리 2》의 포스터는 톰 행크스와 팀 앨런의 이름이 각자가 연기한 캐릭터와 반대쪽에 놓인 사례로 원문에 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

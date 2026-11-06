@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F04",
   "description": {
     "definition": "평소와 달리 인물들이 노래로 상황과 감정을 표현하는 음악 중심의 특별 회차 또는 이벤트다.",
-    "detail": "",
-    "usage": "",
+    "detail": "밴드 대회나 초자연 현상처럼 작중 원인을 둘 수도 있고 노래와 춤을 자연스러운 서술 방식으로 받아들이게 할 수도 있다. 회차 전반의 구조가 음악 장면으로 짜여야 한다. 배우 본인의 가창·춤을 활용하거나 비슷한 목소리의 가수가 대신 부르는 제작 선택이 따를 수 있다. 새로운 형식 자체보다 노래와 안무가 기존 이야기의 감정·사건을 어떻게 옮기는지가 중요하다.\n\n작품 사례: 《[[버피와 뱀파이어(TV 시리즈)]]》의 「Once More, With Feeling」은 평소의 진행을 바꾸어 인물들의 노래와 춤으로 이야기를 전개한다. 음악 [[장르]]를 다양하게 바꾸면서도 인물의 변화와 본래 줄거리를 함께 진행하는 특별 회차다.",
+    "usage": "익숙한 연속극의 형식을 한 회차 바꾸어 인물의 숨은 감정과 배우의 노래·춤을 드러낸다.",
     "boundary": "배경 음악이 많은 회차와 달리 등장인물의 노래가 사건 표현에 들어온다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "04",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002536",
+      "description_ko": "《버피와 뱀파이어(TV 시리즈)》의 「Once More, With Feeling」은 평소의 진행을 바꾸어 인물들의 노래와 춤으로 이야기를 전개한다. 음악 장르를 다양하게 바꾸면서도 인물의 변화와 본래 줄거리를 함께 진행하는 특별 회차다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

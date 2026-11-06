@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-031092",
+  "kind": "keyword",
+  "title": "서로 연결된 관문망으로 이동하기",
+  "original": "Portal Network",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F13",
+  "description": {
+    "definition": "여러 관문이 서로 연결되어 공간 이동과 길 찾기의 주된 기반을 이루는 설정이다.",
+    "detail": "",
+    "usage": "거리보다 연결 관계가 중요한 이동 체계를 설계한다.",
+    "boundary": "관문 하나만 존재하거나 서로 연결되지 않은 독립 순간이동과 구분한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "13",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "길 대신 관문들의 연결을 따라 여행한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

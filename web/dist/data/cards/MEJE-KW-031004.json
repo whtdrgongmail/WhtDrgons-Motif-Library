@@ -1,0 +1,36 @@
+{
+  "id": "MEJE-KW-031004",
+  "kind": "keyword",
+  "title": "부하조차 수장의 정체를 모르기",
+  "original": "No One Sees the Boss",
+  "aliases": [
+    "부하도 직접 만나지 못하는 우두머리"
+  ],
+  "tag_id": null,
+  "primary_tag_id": "ML-F15",
+  "description": {
+    "definition": "조직의 수장이 부하들에게도 자신의 신원을 공개하지 않아 내부 구성원조차 실제 인물을 모르는 권력 구조다.",
+    "detail": "우두머리가 직접 모습을 드러내지 않고 간접 지시만 보내어 부하가 실제 모습과 정체를 알기 어렵게 만드는 형태로 구현할 수 있다.",
+    "usage": "조직의 정보 단절과 수장의 보호 장치를 관계의 구조로 설계한다.",
+    "boundary": "관객에게만 수장이 숨겨진 경우와 달리 부하의 무지도 필수이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "15",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "명령을 따르는 사람들도 누가 우두머리인지 모른다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

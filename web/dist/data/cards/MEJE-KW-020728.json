@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "플레이어가 다른 인물들의 만남이나 관계 진전을 돕는 중매자 역할을 맡는 부가 임무다.",
-    "detail": "",
+    "detail": "선물 전달과 대화 주선뿐 아니라 가족의 반대 해결·결혼 준비·공동 생활의 장애 제거를 목표로 삼을 수 있다. 게임에 따라 도움·방해·관계 가로채기처럼 선택이 갈리기도 한다.\n\n작품 사례: 《[[파이널 판타지 XII]]》에서 플레이어는 라바나스타의 비에라가 인연을 만나도록 도울 수 있다. 자신이 연애하는 대신 다른 인물의 만남을 중개하는 임무이다.",
     "usage": "주변 인물의 사생활을 탐색 목표에 연결하고 관계의 변화를 보상으로 삼는다.",
     "boundary": "플레이어 캐릭터의 연애 경로와 구별한다. 다른 인물 사이의 관계를 성사시키는 목표다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001813",
+      "description_ko": "《파이널 판타지 XII》에서 플레이어는 라바나스타의 비에라가 인연을 만나도록 도울 수 있다. 자신이 연애하는 대신 다른 인물의 만남을 중개하는 임무이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

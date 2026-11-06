@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "배우자라는 지위를 이유로 상대의 성적 거절을 인정하지 않고 강요를 허용하거나 묵인하는 관습이다. 혼인이 지속적인 동의를 대신하는 허가처럼 취급된다.",
-    "detail": "",
+    "detail": "가해 인물의 왜곡된 믿음을 비판하는 묘사와 이야기 자체가 그 강요를 정당화하는 묘사를 구분한다. 혼인은 동의를 대체하지 않으며 현행 법률의 국가별 요건은 이 카드의 범위가 아니다.\n\n작품 사례: 《[[애로우]]》에서 라스 알 굴은 니사의 결혼과 출산을 자신의 명령에 종속시키며 당사자의 거부를 무시한다. 강요하는 인물의 권력관을 드러내는 사례다.",
     "usage": "관계 안의 피해와 이를 인정하지 않는 가족·제도의 반응을 함께 보여 준다.",
     "boundary": "부부 사이의 모든 [[갈등]]을 뜻하지 않으며 동의의 부정과 강요의 묵인이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001847",
+      "description_ko": "《애로우》에서 라스 알 굴은 니사의 결혼과 출산을 자신의 명령에 종속시키며 당사자의 거부를 무시한다. 강요하는 인물의 권력관을 드러내는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

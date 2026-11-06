@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "작품 안에서 어떤 음악을 특정 장르라고 부르지만 실제로 들려주는 음악은 그 [[장르]]의 표현과 다르게 들리는 구성이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "노래 자체의 장르를 다르게 부르는 경우와 특정 음악 문화를 좋아하는 인물에게 다른 양식의 음악을 들려주는 경우가 있다. 장르 경계와 시대에 따른 차이가 있으므로 단순한 혼합을 오류로 단정하지 않는다.\n\n작품 사례: 《[[포켓몬스터(TV 애니메이션)]]》의 〈[[Polka O Dolka]]〉는 제목에서 폴카를 떠올리게 하지만, 원문은 실제 음악 양식을 일본 민요에 가깝다고 설명한다. 표방된 장르와 들려주는 음악을 대조하는 사례다.",
+    "usage": "대사·이름·인물 설정이 내세운 장르와 실제 음악 표현을 함께 비교한다.",
     "boundary": "장르의 혼합이나 경계 사례를 단순 오류로 처리하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,22 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002540",
+      "description_ko": "《포켓몬스터(TV 애니메이션)》의 〈[[Polka O Dolka]]〉는 제목에서 폴카를 떠올리게 하지만, 원문은 실제 음악 양식을 일본 민요에 가깝다고 설명한다. 표방된 장르와 들려주는 음악을 대조하는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-003388",
+      "description_ko": "《[[포켓몬스터(TV 애니메이션)]]》의 〈Polka O Dolka〉는 제목에서 폴카를 떠올리게 하지만, 원문은 실제 음악 양식을 일본 민요에 가깝다고 설명한다. 표방된 장르와 들려주는 음악을 대조하는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

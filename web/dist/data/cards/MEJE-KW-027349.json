@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "음악 자체를 상대를 해치는 수단으로 사용하는 인물형이다.",
-    "detail": "",
+    "detail": "직업적인 암살자에 한정하지 않고 음악을 전투 수단으로 쓰는 모든 역할을 포함한다. 보이지 않는 소리를 공격으로 쓰거나 파동·음표 형태로 시각화할 수 있다. 연주 실력과 조준 난도가 제약으로 설정되기도 한다. 악기로 때리기, 악기에 총을 숨기기, 단지 형편없는 연주로 괴롭게 하는 경우는 제외한다.\n\n작품 사례: 《[[쿵푸 허슬]]》의 연주자들은 고금의 음악으로 보이지 않는 칼날과 주먹 같은 공격을 만들어 낸다. 악기 안에 감춘 무기를 꺼내는 방식이 아니라 연주 소리 자체가 위협이 된다.",
     "usage": "소리 관련 능력을 대상과 작용 방식에 따라 구분해 조합한다.",
     "boundary": "이전 제안의 표적 살해 전담형보다 위해 목적 일반을 포함하며 악기에 숨긴 별도 무기만 쓰는 경우와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003373",
+      "description_ko": "《쿵푸 허슬》의 연주자들은 고금의 음악으로 보이지 않는 칼날과 주먹 같은 공격을 만들어 낸다. 악기 안에 감춘 무기를 꺼내는 방식이 아니라 연주 소리 자체가 위협이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

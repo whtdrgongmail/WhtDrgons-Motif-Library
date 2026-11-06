@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "인물이 상대에게서 원하는 처벌이나 징계를 받기 위해 일부러 말썽을 일으키는 행동이다.",
-    "detail": "",
+    "detail": "처벌 자체를 원해서 저지르는 말썽과 처벌 이후의 잠입·탈출 같은 다른 목표를 위한 말썽이 있다.\n\n작품 사례: 《[[어벤져스(2012년 영화)]]》에서 로키는 붙잡혀 헬리캐리어에 들어가는 일을 계획에 포함한다. 그 안에서 일행의 불화를 키우고 헐크를 폭주시키려는 목적이 있어 체포는 단순한 패배가 아니다.",
     "usage": "벌이 오히려 원하는 탈출구나 보상인 역전된 상황을 만들고 권한을 가진 사람의 예상을 흔든다.",
     "boundary": "주의를 끌거나 화풀이하려는 장난과 구별한다. 처벌을 받는 것이 행위의 목적이어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002526",
+      "description_ko": "《어벤져스(2012년 영화)》에서 로키는 붙잡혀 헬리캐리어에 들어가는 일을 계획에 포함한다. 그 안에서 일행의 불화를 키우고 헐크를 폭주시키려는 목적이 있어 체포는 단순한 패배가 아니다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

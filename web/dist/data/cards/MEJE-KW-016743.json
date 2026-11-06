@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "상대의 말을 소리가 비슷한 다른 표현으로 잘못 알아들어 엉뚱한 대답이나 행동으로 이어지는 희극적 언어 장치.",
-    "detail": "",
+    "detail": "작품 사례: 《[[미소녀 전사 세일러 문(연작)]]》에서 우사기는 영어 표현을 비슷한 소리의 엉뚱한 말로 알아듣는다. 달의 공주를 뜻하는 말이 달의 푸딩처럼 들리는 식으로 인물의 반응이 농담을 만든다.",
     "usage": "발음의 유사성으로 오해를 만들거나 같은 말을 되풀이할수록 혼란이 커지는 대화를 구성할 때 쓴다.",
     "boundary": "같은 문장의 뜻을 다르게 해석하는 경우와 구분한다. 듣는 과정에서 단어나 표현 자체가 달라져야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-002077",
+      "description_ko": "《미소녀 전사 세일러 문(연작)》에서 우사기는 영어 표현을 비슷한 소리의 엉뚱한 말로 알아듣는다. 달의 공주를 뜻하는 말이 달의 푸딩처럼 들리는 식으로 인물의 반응이 농담을 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

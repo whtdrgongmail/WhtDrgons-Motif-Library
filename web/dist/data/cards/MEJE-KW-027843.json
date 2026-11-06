@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-027843",
+  "kind": "keyword",
+  "title": "많이 맞춘 한 번의 행동에 추가 보상 주기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "기본 수량보다 많은 조각을 한 번에 연결하면 점수나 유용한 효과를 더 주는 퍼즐 보상 규칙이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "단순히 성공 횟수를 누적하는 보상과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "같은 성공이어도 더 크게 맞추면 특별한 보상을 얻는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

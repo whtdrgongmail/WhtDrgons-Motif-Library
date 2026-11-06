@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "하나의 관계에 집중하는 것보다 여러 인물과 친밀한 관계를 맺는 편이 능력이나 보상에 더 유리하도록 구성한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "연애 관계뿐 아니라 우정과 신뢰에서도 성립한다. 다른 실제 플레이어와 교류할 때 받는 보상과 구별한다.\n\n작품 사례: 《[[스타듀 밸리]]》에서는 주민들과 관계를 높이면 우편으로 선물과 조리법을 받는다. 한 사람에게 집중하는 것 외에도 여러 주민과 친해질 실질적인 이익이 생긴다.",
+    "usage": "여러 동료와의 관계를 각각 키울수록 보상이 누적되는 진행 동기를 설계한다.",
     "boundary": "실제 인간관계의 바람직함을 판단하는 명제가 아니라 게임의 보상 구조다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002030",
+      "description_ko": "《스타듀 밸리》에서는 주민들과 관계를 높이면 우편으로 선물과 조리법을 받는다. 한 사람에게 집중하는 것 외에도 여러 주민과 친해질 실질적인 이익이 생긴다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

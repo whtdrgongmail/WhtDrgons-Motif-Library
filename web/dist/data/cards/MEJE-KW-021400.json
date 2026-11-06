@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "상대의 진지한 주장이나 계획을 농담으로 여겼다가 실제 의도임을 깨닫고 놀라는 반응이다.",
-    "detail": "",
+    "detail": "처음의 웃음이나 빈정거림은 터무니없다는 판단에서 나오지만 상대가 진심이라는 사실이 드러나면서 놀람이나 공포로 바뀐다. 엉뚱한 계획과 강한 위협을 전달하는 대화 모두에 적용할 수 있다.\n\n작품 사례: 《[[드래곤볼(만화)]]》에서 프리저가 아직 힘의 절반 정도만 쓰고 있었다고 말하자 오공은 처음에는 허풍처럼 받아들인다. 그러나 프리저의 태도를 보고 진심임을 깨닫는 순간 위협의 규모를 실감하며 반응이 바뀐다.",
     "usage": "상식 밖의 결심이나 위협을 점차 실감시키는 대화에 쓴다.",
     "boundary": "농담을 진담으로 오해하는 경우와 방향이 반대다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002561",
+      "description_ko": "《드래곤볼(만화)》에서 프리저가 아직 힘의 절반 정도만 쓰고 있었다고 말하자 오공은 처음에는 허풍처럼 받아들인다. 그러나 프리저의 태도를 보고 진심임을 깨닫는 순간 위협의 규모를 실감하며 반응이 바뀐다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

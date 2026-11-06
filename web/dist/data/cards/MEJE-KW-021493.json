@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "겨울에 찾아와 게으른 사람을 꾸짖고 위협하는 방문자 형상의 일본 민속 존재다.",
-    "detail": "",
+    "detail": "뿔 달린 가면과 짚 의복의 모습이 특징이며 창작물에서는 실제 비인간 존재나 그 힘이 깃든 복장으로 변형된다. 오니와 닮아 보이더라도 전승의 구분을 보존한다.\n\n작품 사례: 《[[기동전사 건담씨]]》의 나마하게 에피소드에서 샤아는 지나가는 나마하게와 자신을 비교하며 상대가 자신보다 낫다고 느낀다. 전승 존재의 외형을 인물 개그에 가져온 사례다.",
     "usage": "계절의 방문 의례와 생활 규범의 경고를 연결한다.",
     "boundary": "아무 이유 없이 해치는 괴물이나 일상적인 훈육자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-003426",
+      "description_ko": "《기동전사 건담씨》의 나마하게 에피소드에서 샤아는 지나가는 나마하게와 자신을 비교하며 상대가 자신보다 낫다고 느낀다. 전승 존재의 외형을 인물 개그에 가져온 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

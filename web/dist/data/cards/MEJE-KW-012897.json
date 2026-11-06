@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F15",
   "description": {
     "definition": "악행과 대립에도 불구하고 죽은 적에게 [[장례]]와 추모의 예를 갖추는 [[행동]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "혈연과 옛 우정, 맞상대에 대한 존중, 악행 이전의 장점이나 마지막 구원, 죽은 사람을 잊지 않으려는 자비 등이 추모의 동기가 된다.\n\n작품 사례: 《[[나루토(만화)]]》에서 제7반은 적이었던 자부자와 하쿠를 나란히 묻고 작은 장례를 치르며 죽은 상대에게 예를 갖춘다.",
+    "usage": "적대가 끝난 뒤에도 남는 존중과 관계를 마무리 의례로 표현한다.",
     "boundary": "그의 악행을 찬양하거나 용서했다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "15",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002184",
+      "description_ko": "《나루토(만화)》에서 제7반은 적이었던 자부자와 하쿠를 나란히 묻고 작은 장례를 치르며 죽은 상대에게 예를 갖춘다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

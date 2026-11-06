@@ -1,0 +1,44 @@
+{
+  "id": "MEJE-KW-029520",
+  "kind": "keyword",
+  "title": "참가자의 역할 연기를 중심으로 한 MUCK",
+  "original": "MUCK",
+  "aliases": [
+    "탁상 역할놀이 수준의 규칙을 둔 텍스트 세계"
+  ],
+  "tag_id": null,
+  "primary_tag_id": "ML-F04",
+  "description": {
+    "definition": "텍스트 온라인 세계에서 참가자의 역할 연기와 세계 확장을 중심에 두고 시스템을 그 상호작용의 틀로 사용하는 게임 형식이다.",
+    "detail": "괴물 같은 개체를 진행자가 조종하고 판정과 사건을 사람의 역할 연기로 움직이는 경우가 많다.\n\n다른 텍스트 환경과 규칙 의존도를 비교할 때는 탁상 역할놀이에 견줄 플레이 규칙을 제공하는 MUCK 계열로 설명되기도 한다. 특정 구현의 기능을 이름만으로 확정하지 않는다.",
+    "usage": "공유 세계에서 자동 규칙과 사람의 [[서사]] 진행이 맡는 비중을 설계한다.",
+    "boundary": "자동 몬스터를 상대로 혼자서도 진행하는 게임과 달리 다른 참가자나 진행자의 개입에 크게 의존한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 2,
+  "classification": {
+    "code": "04",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "자동 전투보다 사람들이 역할을 맡아 사건을 진행하는 온라인 세계다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 3
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-003314",
+      "description_ko": "《Southern Cross》는 기존 게임 세계의 먼 미래를 공유 배경으로 삼아 참가자들이 지역과 시대를 확장해 온 MUCK 사례로 원문에 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

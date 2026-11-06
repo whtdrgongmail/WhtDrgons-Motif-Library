@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "상관의 판단에 동의하는지와 무관하게 충성을 이유로 모든 명령을 수행하는 관계 원칙이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[블리치(만화)]]》의 스타크는 싸움이나 타인에게 상처 주는 일을 즐기지 않고 아이젠의 명령도 좋아하지 않는다. 그래도 외로움을 끝내 주었다는 감사 때문에 명령을 따르며 자신의 선호보다 주인에 대한 충성을 앞세운다.",
     "usage": "개인의 판단과 충성 의무가 충돌할 때 행동이 어디로 기우는지 보여 준다.",
     "boundary": "대장 003433의 판단을 의심하지 않는 복종과 달리 이견이 있어도 행동은 따르는 상태를 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》의 스타크는 싸움이나 타인에게 상처 주는 일을 즐기지 않고 아이젠의 명령도 좋아하지 않는다. 그래도 외로움을 끝내 주었다는 감사 때문에 명령을 따르며 자신의 선호보다 주인에 대한 충성을 앞세운다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

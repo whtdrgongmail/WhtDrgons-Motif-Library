@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-030026",
+  "kind": "keyword",
+  "title": "원작 제목의 숫자에 하나를 더하는 속편 제목",
+  "original": "N+1 Sequel Title",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F23",
+  "description": {
+    "definition": "원작 제목에 이미 1보다 큰 수가 들어 있을 때 그 수를 하나 늘려 속편의 제목으로 삼는 명명 방식이다.",
+    "detail": "작품 사례: 《[[오션스 트웰브]]》는 전작의 열한 명 구도에 테스를 더해 제목의 수를 12로 늘린다. 숫자의 증가를 속편성과 인원 변화에 함께 연결한다.",
+    "usage": "시리즈의 연속성을 제목의 숫자 변화로 알리고 작품 안의 숫자 변화와 연결할지 정한다.",
+    "boundary": "첫 작품을 1로 세어 2·3을 붙이는 일반 속편 번호와 다르다. 원작 숫자의 이유가 속편에서도 유지될 필요는 없다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "원작이 열한 명이라면 속편 제목은 열두 명이 되는 식이다.\n\n작품 사례: 《[[오션스 트웰브]]》는 전작의 열한 명 구도에 테스를 더해 제목의 수를 12로 늘린다. 숫자의 증가를 속편성과 인원 변화에 함께 연결한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003421",
+      "description_ko": "《오션스 트웰브》는 전작의 열한 명 구도에 테스를 더해 제목의 수를 12로 늘린다. 숫자의 증가를 속편성과 인원 변화에 함께 연결한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

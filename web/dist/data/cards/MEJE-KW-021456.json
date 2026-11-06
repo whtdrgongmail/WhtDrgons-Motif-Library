@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F08",
   "description": {
     "definition": "인물이 상대의 외모·행동·말을 근거로 실제와 다른 연령을 추정하여 그에 맞지 않는 대우나 선택을 하는 오해다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[액션 코믹스]]》 865호에서 토이맨은 지미 올슨이 열일곱 살이라고 생각하지만 지미는 스물두 살이라고 정정한다. 실제 나이를 잘못 추정한 장면이다.",
     "usage": "첫인상의 오류가 관계와 상황 판단을 흔드는 장면에 쓴다.",
     "boundary": "누군가 어려 보인다는 외형만으로는 부족하고 실제 연령 판단의 착오가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "08",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001502",
+      "description_ko": "《액션 코믹스》 865호에서 토이맨은 지미 올슨이 열일곱 살이라고 생각하지만 지미는 스물두 살이라고 정정한다. 실제 나이를 잘못 추정한 장면이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

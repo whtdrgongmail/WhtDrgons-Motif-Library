@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-028670",
+  "kind": "keyword",
+  "title": "공유 카메라가 여러 플레이어의 이동을 제한하기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "다인 게임에서 하나의 화면이 모든 참여자를 담거나 특정 참여자만 따라가도록 되어 다른 사람의 이동과 시야가 제한되는 구조다.",
+    "detail": "작품 사례: 게임 《[[배트맨 포에버]]》에서는 두 인물을 한 화면에 유지하려는 제한이 이동과 위쪽 발판으로 올라가는 동작을 어렵게 한다.",
+    "usage": "협동 이동과 시야 공유의 장단점을 설계하고 화면 제약으로 생긴 실패를 분석한다.",
+    "boundary": "각자 화면을 갖는 분할 화면 방식과 구별하며 모든 공유 카메라를 실패로 판단하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "한 명이 멀리 가면 다른 사람이 끌려가거나 화면 밖에 남는다.\n\n작품 사례: 게임 《[[배트맨 포에버]]》에서는 두 인물을 한 화면에 유지하려는 제한이 이동과 위쪽 발판으로 올라가는 동작을 어렵게 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003163",
+      "description_ko": "게임 《배트맨 포에버》에서는 두 인물을 한 화면에 유지하려는 제한이 이동과 위쪽 발판으로 올라가는 동작을 어렵게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

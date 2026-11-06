@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F20",
   "description": {
     "definition": "[[인물]]·물건·[[능력]]에 초록색을 배치하여 자연과의 연결이나 자연적인 성질을 드러내는 [[색채]] 부호다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[매직: 더 개더링]]》은 자연과 숲을 연상시키는 여러 카드와 힘을 녹색에 배치한다.",
+    "usage": "초록색으로 자연과의 연결을 즉시 알아보게 한다.",
     "boundary": "초록색 포장이 실제 환경 친화성이나 건강 효능을 입증하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "20",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00084",
+      "work_card_id": "MM-MEDIA-001607",
+      "description_ko": "《매직: 더 개더링》은 자연과 숲을 연상시키는 여러 카드와 힘을 녹색에 배치한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

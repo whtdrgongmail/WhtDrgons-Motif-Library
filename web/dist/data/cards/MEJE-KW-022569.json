@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "인물이 도덕적 선을 넘지 않거나 선한 편에 머무르는 유일한 이유가 특정 상대와의 관계에 놓여 있는 구도다.",
-    "detail": "",
+    "detail": "강제 장치가 아니라 특정 상대에 대한 애착이 인물의 악행을 막는다. 상대의 배신·상처·죽음은 제한을 무너뜨릴 수 있지만, 고인의 기억이 오히려 선함을 지탱하는 반전도 가능하다.\n\n작품 사례: 《[[브레이커]]》에서 이시운과 시호는 한천우가 선을 넘지 않도록 붙드는 관계다. 원문은 특히 시호가 죽은 것처럼 보일 때 한천우의 격렬한 반응을 들어 이 관계의 제동 역할을 설명한다.",
     "usage": "관계의 상실이 타락으로 이어질 위험을 만들고 애착과 도덕성의 취약한 연결을 드러낸다.",
     "boundary": "단지 한 상대 앞에서만 친절한 정도를 넘어 전체적인 도덕적 소속과 선택을 붙드는 관계다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-003268",
+      "description_ko": "《브레이커》에서 이시운과 시호는 한천우가 선을 넘지 않도록 붙드는 관계다. 원문은 특히 시호가 죽은 것처럼 보일 때 한천우의 격렬한 반응을 들어 이 관계의 제동 역할을 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

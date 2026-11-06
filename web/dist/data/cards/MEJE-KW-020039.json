@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "이전에 겪은 부상의 흔적이 인물의 이름·별명·가명을 정하는 기준이 되는 명명 방식이다.",
-    "detail": "",
+    "detail": "위압적인 별명뿐 아니라 생존의 흔적을 인정하는 이름이나 당사자가 싫어하는 희극적 별명으로도 쓰인다.\n\n작품 사례: 《[[강철의 연금술사(만화)]]》의 스카는 이마에 남은 X자 흉터 때문에 붙은 호칭으로 불린다.",
     "usage": "외형의 흔적과 과거 사건을 호칭 하나로 연결한다.",
     "boundary": "부상과 무관한 신체 특징의 별명이나 단순한 의료 기록과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002178",
+      "description_ko": "《강철의 연금술사(만화)》의 스카는 이마에 남은 X자 흉터 때문에 붙은 호칭으로 불린다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

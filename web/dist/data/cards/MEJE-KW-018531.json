@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "실제로는 친족 간 연애를 하지 않는 두 사람이 주변 사람에게 그런 관계로 오해받는 상황이다. 친족 관계나 연애 관계 중 어느 쪽을 잘못 짚어도 성립한다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[프렌즈]]》에서 조이는 모니카를 소개 자리에 데려가려고 전 여자친구와 그 새 연인을 남매라고 거짓말한다. 모니카는 두 사람의 연인다운 행동을 보고 실제와 다른 친족 간 연애라고 오해한다.",
     "usage": "관계 정보가 엇갈려 생기는 소문과 해명 장면을 만들 때 쓴다.",
     "boundary": "실제 관계를 올바르게 알아보고 비난하는 상황은 오해가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001344",
+      "description_ko": "《프렌즈》에서 조이는 모니카를 소개 자리에 데려가려고 전 여자친구와 그 새 연인을 남매라고 거짓말한다. 모니카는 두 사람의 연인다운 행동을 보고 실제와 다른 친족 간 연애라고 오해한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

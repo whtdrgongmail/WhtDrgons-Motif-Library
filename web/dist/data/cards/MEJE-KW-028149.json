@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-028149",
+  "kind": "keyword",
+  "title": "메뉴를 조작하는 동안 게임 세계의 시간 멈추기",
+  "original": "Menu Time Lockout",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "소지품이나 [[장비]] 메뉴를 사용하는 동안 바깥 세계의 시간이 멈추어 적의 행동 없이 물건을 사용하거나 준비를 바꾸게 하는 규칙이다.",
+    "detail": "잠금 해제 [[미니게임]]이나 대화에서도 비슷한 시간 분리가 생길 수 있다. 다인 플레이에서는 다른 참여자의 시간과 충돌하여 적용 방식이 달라진다.\n\n작품 사례: 《[[폴아웃 3]]》에서는 메뉴를 열면 세계의 시간이 멈추어 장비를 바꾸고 소모품을 사용할 수 있다. 바깥 전투와 소지품 조작의 시간이 분리된다.",
+    "usage": "복잡한 준비 [[조작]]을 안전하게 제공하거나 [[전투]] 중 자원 사용의 전략을 설계한다.",
+    "boundary": "단순히 게임을 정지하고 아무 행동도 할 수 없는 화면과 다르다. 메뉴가 열려 있어도 시간이 계속 흐르면 해당하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "메뉴 안에서 준비하는 동안 적은 기다린다.\n\n작품 사례: 《[[폴아웃 3]]》에서는 메뉴를 열면 세계의 시간이 멈추어 장비를 바꾸고 소모품을 사용할 수 있다. 바깥 전투와 소지품 조작의 시간이 분리된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003011",
+      "description_ko": "《폴아웃 3》에서는 메뉴를 열면 세계의 시간이 멈추어 장비를 바꾸고 소모품을 사용할 수 있다. 바깥 전투와 소지품 조작의 시간이 분리된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

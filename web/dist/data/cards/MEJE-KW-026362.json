@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "궁극적인 목표물을 확보한 악역이 그것에 집착하며 감탄과 관찰을 멈추지 못한다.",
-    "detail": "",
+    "detail": "획득한 물건을 바라보거나 말을 걸고 능력을 시험하며 소유의 감각에 몰두한다. 적에게 승리를 자랑하는 장면과 달리 물건 자체가 관심의 중심이다.\n\n작품 사례: 《[[해리 포터와 죽음의 성물 1]]》에서 볼드모트는 딱총나무 지팡이를 손에 넣은 뒤 그것을 들어 올려 힘을 시험하며 오랜 집착의 성취를 드러낸다.",
     "usage": "승리감이 경계의 틈이나 성격의 폭로로 이어지게 한다.",
     "boundary": "목표물을 얻기 전의 탐욕과 달리 확보 뒤의 몰입이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002920",
+      "description_ko": "《해리 포터와 죽음의 성물 1》에서 볼드모트는 딱총나무 지팡이를 손에 넣은 뒤 그것을 들어 올려 힘을 시험하며 오랜 집착의 성취를 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F24",
   "description": {
     "definition": "특정 인물·집단·행동·감정에 연결되는 음악 구절을 되풀이하여 그 대상과 의미를 청각적으로 환기하는 구성 방식이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[킹덤 하츠 III]]》의 〈[[Hearts As One]]〉은 록서스의 〈[[The Other Promise]]〉와 시온의 〈[[Vector to the Heavens]]〉를 섞는다. 각 인물과 연결되던 음악이 한 곡으로 합쳐져 두 인물의 재결합을 들려준다.",
     "usage": "인물·집단·사물·감정과 음악을 연결해 화면 밖의 존재나 관계 변화를 들리게 한다.",
     "boundary": "같은 배경음악의 단순 재사용이나 제목에 인물 이름이 붙은 곡만으로는 부족하다. 반복과 대상의 식별 가능한 연결이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "24",
     "review_status": "provisional",
@@ -28,7 +28,36 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001421",
+      "description_ko": "《킹덤 하츠 III》의 〈[[Hearts As One]]〉은 록서스의 〈[[The Other Promise]]〉와 시온의 〈[[Vector to the Heavens]]〉를 섞는다. 각 인물과 연결되던 음악이 한 곡으로 합쳐져 두 인물의 재결합을 들려준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-003251",
+      "description_ko": "《[[킹덤 하츠 III]]》의 〈Hearts As One〉은 록서스의 〈[[The Other Promise]]〉와 시온의 〈[[Vector to the Heavens]]〉를 섞는다. 각 인물과 연결되던 음악이 한 곡으로 합쳐져 두 인물의 재결합을 들려준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-003252",
+      "description_ko": "《[[킹덤 하츠 III]]》의 〈[[Hearts As One]]〉은 록서스의 〈The Other Promise〉와 시온의 〈[[Vector to the Heavens]]〉를 섞는다. 각 인물과 연결되던 음악이 한 곡으로 합쳐져 두 인물의 재결합을 들려준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-002972",
+      "description_ko": "《[[킹덤 하츠 III]]》의 〈[[Hearts As One]]〉은 록서스의 〈[[The Other Promise]]〉와 시온의 〈Vector to the Heavens〉를 섞는다. 각 인물과 연결되던 음악이 한 곡으로 합쳐져 두 인물의 재결합을 들려준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

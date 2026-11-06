@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "작품이 아침의 구역질이나 메스꺼움을 보여 주어 인물의 임신을 짧게 암시하거나 알리는 표현 관습이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "인물이 식중독이나 멀미로 오해해도 관객은 임신을 예상할 수 있다. 허구의 관습이며 메스꺼움만으로 현실의 임신을 판단하는 규칙이나 증상 발생 시점의 지침이 아니다.\n\n작품 사례: 《[[현실주의 용사의 왕국 재건기]]》 7권에서 리시아의 몸 상태는 처음에는 이동 중의 멀미로 여겨진다. 뒤에 임신을 알리는 편지가 오면서 앞선 불편이 다른 의미의 단서였음이 밝혀진다.",
+    "usage": "메스꺼움을 통해 임신이라는 정보를 미리 암시한다.",
     "boundary": "임신한 인물의 불편 자체를 묘사하는 장면과 정보 전달의 기능을 구별한다. 현실에서 메스꺼움만으로 임신을 판단하는 규칙이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-002006",
+      "description_ko": "《현실주의 용사의 왕국 재건기》 7권에서 리시아의 몸 상태는 처음에는 이동 중의 멀미로 여겨진다. 뒤에 임신을 알리는 편지가 오면서 앞선 불편이 다른 의미의 단서였음이 밝혀진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

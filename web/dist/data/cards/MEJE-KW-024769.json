@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F17",
   "description": {
     "definition": "별개의 도구 없이 사용자의 신체 일부가 직접 공격 수단으로 기능하는 설정이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[블리치(만화)]]》의 아란칼은 해방 상태에서 검의 힘이 발톱·집게·촉수·날개·꼬리·뿔 같은 신체 무기로 나타나 싸움에 사용된다.",
+    "usage": "생물의 해부 구조 자체를 전투 수단으로 설정한다.",
     "boundary": "몸과 분리되어 독립적으로 살아 있는 무기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "17",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》의 아란칼은 해방 상태에서 검의 힘이 발톱·집게·촉수·날개·꼬리·뿔 같은 신체 무기로 나타나 싸움에 사용된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

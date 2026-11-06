@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "특정 물질의 영향 아래 인물이 강렬하고 혼란스러운 환각을 경험하는 장면이다.",
-    "detail": "",
+    "detail": "인물의 환각 화면과 현실의 행동을 번갈아 보여 주면 평범한 식물과 진지하게 대화하는 것 같은 어긋남이 드러난다. 약물 대신 설탕·아이스크림·소스 같은 평범한 음식의 과다 섭취로 설명하기도 한다. 자발적 섭취와 뜻하지 않은 영향 모두 가능하며 집단이 함께 겪거나 주관적 시간이 느려지는 연출과 겹칠 수 있다. 환경 자체가 기이한 차원인 경우와는 현실 층위가 다르다.\n\n작품 사례: 만화 《[[원피스(만화)]]》에서 루피는 알라바스타 사막을 지나며 먹은 선인장의 영향으로 적과 거대한 파도가 보이는 듯 행동한다. 실제 사막과 인물이 받아들이는 장면의 어긋남이 웃음을 만든다.",
     "usage": "현실 장면과 지각의 왜곡을 대비해 연출한다.",
     "boundary": "이전 제안과 달리 뜻하지 않은 섭취여야 한다는 조건은 없으며 실제 사용법은 다루지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "만화 《원피스(만화)》에서 루피는 알라바스타 사막을 지나며 먹은 선인장의 영향으로 적과 거대한 파도가 보이는 듯 행동한다. 실제 사막과 인물이 받아들이는 장면의 어긋남이 웃음을 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

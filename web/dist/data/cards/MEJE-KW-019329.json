@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "연애나 성적 관계에 경험이 많은 인물이 그런 경험이 적은 상대에게 먼저 적극적으로 다가가는 구도다.",
-    "detail": "",
+    "detail": "경험자는 상대의 서툰 반응이나 통하지 않는 매력에 끌릴 수 있다. 미숙한 쪽이 반기거나 거부하는 경우 모두 가능하며 순진함이 곧 처녀성이나 특정 성별을 뜻하지 않는다.\n\n작품 사례: 《[[스타워즈: 구공화국]]》에서는 여성 현상금 사냥꾼 주인공이 연애 경험이 적은 토리안에게 먼저 적극적으로 다가갈 수 있다. 원문은 타리스에서 토리안이 당황하는 구애 선택지를 경험 차이의 사례로 든다.",
     "usage": "경험 차이에서 생기는 기대·오해·선택을 관계 전개에 반영한다.",
     "boundary": "나이 차만으로 경험을 추정하지 않으며 경험 차이 자체가 강요를 정당화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001768",
+      "description_ko": "《스타워즈: 구공화국》에서는 여성 현상금 사냥꾼 주인공이 연애 경험이 적은 토리안에게 먼저 적극적으로 다가갈 수 있다. 원문은 타리스에서 토리안이 당황하는 구애 선택지를 경험 차이의 사례로 든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

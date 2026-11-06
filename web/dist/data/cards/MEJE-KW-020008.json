@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "현재 판본이 이전이나 다른 연속성의 인물·사건·소품을 짧게 빌려 각색의 역사를 아는 관객에게 인사를 보내는 장치다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[뽀빠이]]》의 블루토 귀환 이야기에서는 과거 여러 대체 인물들이 모여 자신들의 이름 변경과 상품 출연을 이야기한다. 다른 판본과 제작 역사를 아는 독자가 추가 의미를 알아보는 참조다.",
+    "usage": "각색의 [[역사]]를 아는 관객이 이전 판본의 흔적을 알아보며 연결감을 느끼게 한다.",
     "boundary": "같은 연속성 안의 직전 사건 회상과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-003418",
+      "description_ko": "《뽀빠이》의 블루토 귀환 이야기에서는 과거 여러 대체 인물들이 모여 자신들의 이름 변경과 상품 출연을 이야기한다. 다른 판본과 제작 역사를 아는 독자가 추가 의미를 알아보는 참조다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

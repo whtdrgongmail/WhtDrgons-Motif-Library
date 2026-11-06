@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "배우자 없이 자녀를 키우는 부모가 집안에서 일하는 고용인과 연애하고 결혼하는 구도다.",
-    "detail": "",
+    "detail": "아이들과 이미 쌓인 신뢰가 새로운 가족 관계로 이어지는 연결점이 된다. 고용인과 고용주의 권력 차이, 기존 배우자 여부, 성인 당사자의 동의를 따로 살핀다.\n\n작품 사례: 뮤지컬 《[[사운드 오브 뮤직]]》의 마리아는 트라프 가문의 아이들을 돌보며 집안에 음악을 되찾아 주고, 대령과의 사랑과 혼인으로 관계가 변화한다.",
     "usage": "고용 관계의 경계와 함께하는 일상이 가족 관계로 변하는 과정을 다룬다.",
     "boundary": "001:2418의 자녀 돌봄을 반드시 매개로 하지 않고 가사 고용인 전반을 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00152",
+      "work_card_id": "MM-MEDIA-002912",
+      "description_ko": "뮤지컬 《사운드 오브 뮤직》의 마리아는 트라프 가문의 아이들을 돌보며 집안에 음악을 되찾아 주고, 대령과의 사랑과 혼인으로 관계가 변화한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

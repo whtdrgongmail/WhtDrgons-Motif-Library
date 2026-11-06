@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-028725",
+  "kind": "keyword",
+  "title": "추적 공격의 표적 고정을 알리는 연출",
+  "original": "Missile Lock-On",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F22",
+  "description": {
+    "definition": "유도 공격을 발사하기 전에 표적을 고정하는 과정을 조준선과 점점 이어지는 신호음 등으로 보여 주는 표현이다.",
+    "detail": "",
+    "usage": "공격 준비 시간과 표적이 느끼는 위험을 관객과 플레이어에게 전달한다.",
+    "boundary": "모든 유도 공격이 반드시 사전 고정을 요구하는 것은 아니다. 게임 카메라가 적을 따라보는 기능과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 2,
+  "classification": {
+    "code": "22",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "화면의 표시와 소리가 바뀌면 미사일이 목표를 따라갈 준비가 된 것이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 3
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003179",
+      "description_ko": "《아이언맨(2008년 영화)》은 무기의 표적 고정 과정을 짧은 화면 신호로 제시하는 사례로 원문에 명시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

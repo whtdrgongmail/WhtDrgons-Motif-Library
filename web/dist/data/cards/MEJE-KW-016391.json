@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "안에 있는 사람을 죽일 목적으로 건물 등에 의도적으로 불을 놓는 사건 설정.",
-    "detail": "",
-    "usage": "",
+    "detail": "살해가 성공하지 않은 시도도 포함한다. 화재가 범행 은폐나 사고 위장과 겹칠 수 있지만 불이 부수적으로 난 공격은 구분한다. 사망을 의도하지 않은 방화와 의도적 살인의 책임은 작품의 서사적 조건으로 구별한다.\n\n작품 사례: 《[[포켓몬 리본]]》에서 시리우스는 사파이어 팔찌를 얻으려 샬롯 자매의 부모가 있는 집에 불을 질러 살해한다. 살아남은 샬롯은 진실을 알기 전까지 자기 책임으로 오해한다.",
+    "usage": "방화를 우연한 재난과 구분되는 의도적 가해로 설정하고 생존자·구조자·수사자의 [[갈등]]을 만든다.",
     "boundary": "구체적인 실행 방법을 설명하지 않고 의도와 사건 역할을 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003364",
+      "description_ko": "《포켓몬 리본》에서 시리우스는 사파이어 팔찌를 얻으려 샬롯 자매의 부모가 있는 집에 불을 질러 살해한다. 살아남은 샬롯은 진실을 알기 전까지 자기 책임으로 오해한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

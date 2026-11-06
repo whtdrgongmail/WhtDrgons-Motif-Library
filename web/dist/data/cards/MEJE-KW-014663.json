@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "이어지는 문장이나 구절의 중간 위치에 같은 표현을 되풀이해 리듬과 강조를 만드는 수사법이다.",
-    "detail": "",
+    "detail": "문장 가운데의 작은 접속어를 반복하면 구조가 두드러지고, 핵심 명사나 구절을 반복하면 의미의 공통점과 차이가 강조된다. 언어별 빈도를 보편적인 법칙으로 확정하지 않는다.\n\n작품 사례: 블랙핑크의 〈[[Ice Cream]]〉은 연속된 구절의 중간에 같은 비교 표현을 반복하여 서로 다른 이미지에 평행한 리듬을 준다.",
     "usage": "반복 위치가 문장의 중간인지를 확인한다.",
     "boundary": "첫머리나 끝부분만 같은 반복과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00139",
+      "work_card_id": "MM-MEDIA-003035",
+      "description_ko": "블랙핑크의 〈Ice Cream〉은 연속된 구절의 중간에 같은 비교 표현을 반복하여 서로 다른 이미지에 평행한 리듬을 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

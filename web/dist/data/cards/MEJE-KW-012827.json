@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "하나의 [[사건]]이나 영향 범위 안에서 다수의 [[인물]]이 초능력을 얻어 사회의 조건이 달라지는 [[설정]]이다.",
-    "detail": "",
+    "detail": "기술·[[마법]]·사고 등 하나의 원인이 영웅과 악당을 연결한다. 능력을 얻는 사건에서 사망자도 생길 수 있으며, 원인과 책임을 밝히는 일이 장기적인 이야기의 질문이 된다.\n\n작품 사례: 《[[디지몬 테이머즈]]》의 쿠루몬은 각성한 진화의 힘으로 다수의 디지몬을 궁극체로 진화시켜 공동의 위협에 맞설 수 있게 한다.",
     "usage": "",
     "boundary": "각자가 무관한 원인으로 [[능력]]을 얻는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001414",
+      "description_ko": "《디지몬 테이머즈》의 쿠루몬은 각성한 진화의 힘으로 다수의 디지몬을 궁극체로 진화시켜 공동의 위협에 맞설 수 있게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

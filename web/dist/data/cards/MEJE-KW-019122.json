@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "괴물로 분류되는 종족이나 집단을 통치하며 군주 또는 지도자의 지위를 가진 존재이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[데스노트(만화)]]》의 사신대왕은 다른 사신을 압도하는 권한을 지니며, 사신들이 그의 규칙을 어기지 못하는 존재로 제시된다.",
     "usage": "괴물 집단을 개별 적들의 모임에서 정치적 사회로 확장할 때 쓴다.",
     "boundary": "그 종족의 최초 조상이나 가장 강한 개체라는 이유만으로 군주는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002463",
+      "description_ko": "《데스노트(만화)》의 사신대왕은 다른 사신을 압도하는 권한을 지니며, 사신들이 그의 규칙을 어기지 못하는 존재로 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

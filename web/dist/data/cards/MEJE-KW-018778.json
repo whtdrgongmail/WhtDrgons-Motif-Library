@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "조리 중 음식을 던져 뒤집거나 옮기려다가 제대로 받지 못하거나 엉뚱한 곳으로 보내 요리를 망치는 소동이다.",
-    "detail": "",
+    "detail": "음식이 천장에 붙거나 요리사의 얼굴로 떨어지고, 다른 인물이 중간에 낚아채기도 한다. 요리의 능숙함을 보여 주려던 동작이 반대로 실패의 근거가 된다.\n\n작품 사례: 《[[네모바지 스폰지밥]]》에서 스폰지밥은 상을 받으려는 긴장 때문에 패티를 너무 높이 뒤집어 천장에 붙이고 이를 떼려다 들킨다.",
     "usage": "능숙해 보이려는 동작과 결과의 어긋남으로 주방 코미디를 만든다.",
     "boundary": "가열 시간이나 재료 때문에 실패하는 요리와 달리 공중 동작이 직접 원인이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001395",
+      "description_ko": "《네모바지 스폰지밥》에서 스폰지밥은 상을 받으려는 긴장 때문에 패티를 너무 높이 뒤집어 천장에 붙이고 이를 떼려다 들킨다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

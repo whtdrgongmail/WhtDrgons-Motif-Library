@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-027832",
+  "kind": "keyword",
+  "title": "점수 끝자리와 추첨 숫자를 맞추는 보너스",
+  "original": "Match Sequence",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "핀볼 게임이 끝난 뒤 점수의 끝자리와 제시된 숫자가 일치하는지 비교하여 무료 플레이를 보상하는 규칙이다.",
+    "detail": "작품 사례: 《[[심슨 핀볼(데이터 이스트)]]》은 여러 숫자를 긁어 지우다가 마지막 두 자리를 남기는 연출로 매치 보너스를 제시한다.",
+    "usage": "",
+    "boundary": "플레이 중 목표 점수 달성 보상과 구별한다. 숫자 범위와 발생 확률은 기기와 설정에 따라 달라진다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "게임이 끝나도 마지막 숫자 맞추기에서 한 번 더 할 기회를 얻을 수 있다.\n\n작품 사례: 《[[심슨 핀볼(데이터 이스트)]]》은 여러 숫자를 긁어 지우다가 마지막 두 자리를 남기는 연출로 매치 보너스를 제시한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00130",
+      "work_card_id": "MM-MEDIA-002933",
+      "description_ko": "《심슨 핀볼(데이터 이스트)》은 여러 숫자를 긁어 지우다가 마지막 두 자리를 남기는 연출로 매치 보너스를 제시한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

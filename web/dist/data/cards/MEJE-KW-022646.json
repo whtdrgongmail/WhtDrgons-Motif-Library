@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "게임에서 피해 직후 일정 시간 후속 피해를 받지 않게 하여 연속 피격으로 제어를 잃는 상황을 완화하는 규칙이다.",
-    "detail": "",
+    "detail": "점멸이나 반투명 효과로 시간을 알리고 밀려남과 함께 적용하기도 한다. 적에게도 적용하여 무제한 연타를 막을 수 있으며, 재등장 직후의 보호도 관련 [[변형]]이다.\n\n작품 사례: 《[[드래곤볼 어드밴스 어드벤처]]》에서 일정한 연속 공격을 받은 보스는 잠시 파랗게 깜빡이며 추가 피해를 받지 않는다. 연속 타격을 끊는 보호 규칙이다.",
     "usage": "회복 기회를 보장하고 연속 피해의 한계를 정한다.",
     "boundary": "공격을 맞기 전에 켜는 무적 기술이나 피해를 입어도 경직만 없는 상태와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003018",
+      "description_ko": "《드래곤볼 어드밴스 어드벤처》에서 일정한 연속 공격을 받은 보스는 잠시 파랗게 깜빡이며 추가 피해를 받지 않는다. 연속 타격을 끊는 보호 규칙이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

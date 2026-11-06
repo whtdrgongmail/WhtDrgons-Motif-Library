@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "실제로는 판단을 유지하는 인물이 주변으로부터 정신적으로 혼란하다고 잘못 여겨진다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[12 몽키즈]]》의 콜은 미래에서 왔다는 사실을 말하지만 사람들은 그 설명을 망상으로 받아들인다. 주변의 불신은 콜 자신이 경험의 진실을 의심하게 만드는 압박으로 작용한다.",
     "usage": "믿어 주지 않는 주변과 사실을 아는 인물 사이의 [[갈등]]을 만든다.",
     "boundary": "실제 인식의 붕괴와 달리 주변 판단이 틀렸다는 것이 작품 안에서 확인되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003192",
+      "description_ko": "《12 몽키즈》의 콜은 미래에서 왔다는 사실을 말하지만 사람들은 그 설명을 망상으로 받아들인다. 주변의 불신은 콜 자신이 경험의 진실을 의심하게 만드는 압박으로 작용한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "인물이 불리한 평가를 차별 탓으로 여기지만 이야기에서는 그 원인이 실제 태도나 과업 수행 능력에 있다고 설명하는 전개이다.",
-    "detail": "",
+    "detail": "실패한 인물의 배제 이유를 설명하거나, 성공한 사람의 지위가 특혜가 아니라 능력의 결과라고 확인하는 방식으로 나타난다. 작품이 해명을 명확히 제시해야 하며 독자의 추측만으로 적용하지 않는다.\n\n작품 사례: 《[[왓츠 뉴 스쿠비 두]]》의 한 에피소드에서 인물은 성별 때문에 대회에 출전하지 못했다고 주장하지만, 다른 여성 참가자가 있고 자신은 스케이트보드를 제대로 타지 못한다는 해명이 제시된다.",
     "usage": "당사자의 해석과 작품이 제시하는 근거가 충돌하는 장면을 만든다.",
     "boundary": "현실의 차별 주장을 일괄 부정하는 기준이 아니며 작품 안의 증거와 관점 차이를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-003026",
+      "description_ko": "《왓츠 뉴 스쿠비 두》의 한 에피소드에서 인물은 성별 때문에 대회에 출전하지 못했다고 주장하지만, 다른 여성 참가자가 있고 자신은 스케이트보드를 제대로 타지 못한다는 해명이 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

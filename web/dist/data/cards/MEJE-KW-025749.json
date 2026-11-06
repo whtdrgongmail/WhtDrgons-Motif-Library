@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "자연광이 특정 대상에 집중되도록 구성하여 그 대상의 중요성을 시각적으로 강조한다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: 《[[신의 탑(웹툰)]]》에서 라헬은 밤의 동굴 천장을 뚫고 들어온 빛 속에 서 있어, 자연광이 무대의 집중 조명처럼 인물을 강조한다.",
+    "usage": "한 줄기 자연광으로 장면에서 주목할 대상의 중요성을 드러낸다.",
+    "boundary": "빛이 단순히 장면의 대상을 강조하는 연출일 때 적용한다. 햇빛 자체가 괴물을 죽이거나 위치를 찾는 실제 사건 장치인 경우는 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00090",
+      "work_card_id": "MM-MEDIA-002484",
+      "description_ko": "《신의 탑(웹툰)》에서 라헬은 밤의 동굴 천장을 뚫고 들어온 빛 속에 서 있어, 자연광이 무대의 집중 조명처럼 인물을 강조한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

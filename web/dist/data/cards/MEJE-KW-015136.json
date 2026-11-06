@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "술을 마시지 않았거나 취하지 않은 인물의 말과 움직임을 주변에서 음주의 결과로 잘못 해석하는 상황이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[어벤져스 디스어셈블드]]》에서 토니 스타크는 [[마법]]의 영향으로 회의 중 이상한 언행을 보이지만 주변은 술에 취했다고 판단한다. 실제로는 술을 마시지 않았다는 사실과 사회적 평가가 어긋난다.",
+    "usage": "말과 행동, 술 냄새 같은 단서를 잘못 해석해 생기는 불신과 부당한 대우를 구성한다.",
     "boundary": "본인이 일부러 취한 척하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-003189",
+      "description_ko": "《어벤져스 디스어셈블드》에서 토니 스타크는 마법의 영향으로 회의 중 이상한 언행을 보이지만 주변은 술에 취했다고 판단한다. 실제로는 술을 마시지 않았다는 사실과 사회적 평가가 어긋난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "흰 머리색을 마력이나 초월적 [[정체성]]을 가진 [[인물]]의 시각적 [[표지]]로 사용하는 [[디자인]] [[관습]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "나이 듦을 나타내는 백발과 구별한다. 실제 백색증이나 질병을 인물의 선악과 동일시하지 않는다.\n\n작품 사례: 《[[포비든 킹덤: 전설의 마스터를 찾아서]]》의 백발 마녀는 흰 머리의 외형과 초자연적 힘이 연결된 인물로 제시된다.",
+    "usage": "나이와 무관한 흰 머리로 초자연적 정체를 알아보게 한다.",
     "boundary": "노화·스트레스·염색 때문에 희어진 머리와 표현 목적을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-06",
+  "row_version": 5,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001893",
+      "description_ko": "《포비든 킹덤: 전설의 마스터를 찾아서》의 백발 마녀는 흰 머리의 외형과 초자연적 힘이 연결된 인물로 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

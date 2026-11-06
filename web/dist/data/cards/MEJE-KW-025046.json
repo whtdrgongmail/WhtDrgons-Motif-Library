@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "찾는 대상과 매우 비슷한 물건을 많이 모아 놓아 그중 특정한 하나를 구별하기 어렵게 만드는 은닉 방식이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[젤다의 전설 티어스 오브 더 킹덤]]》의 보물 동굴에는 상자가 너무 많아 형제들이 진짜 보물 상자를 찾지 못한다. 야영지의 개를 돌보면 그 개가 올바른 상자로 안내한다.",
     "usage": "중요한 물건의 수색을 외형의 비교와 단서 판독 문제로 만든다.",
     "boundary": "물건을 완전히 보이지 않게 가리는 방식과 달리 눈앞에 있어도 식별하기 어려운 것이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001294",
+      "description_ko": "《젤다의 전설 티어스 오브 더 킹덤》의 보물 동굴에는 상자가 너무 많아 형제들이 진짜 보물 상자를 찾지 못한다. 야영지의 개를 돌보면 그 개가 올바른 상자로 안내한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

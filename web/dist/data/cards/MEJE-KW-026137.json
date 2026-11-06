@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "두 인물이 함께 있을 때 서로의 사랑스럽고 귀여운 특징이 더욱 드러나도록 관계를 구성한다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[블리치(만화)]]》의 켄파치와 야치루는 단독으로는 위협적인 인물과 귀여운 인물이지만 함께 있을 때의 상호작용이 켄파치의 사랑스러운 면을 드러낸다.",
     "usage": "",
     "boundary": "실제로 연인 관계여야 하는 것은 아니며 관계가 만드는 표현 효과를 본다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002137",
+      "description_ko": "《블리치(만화)》의 켄파치와 야치루는 단독으로는 위협적인 인물과 귀여운 인물이지만 함께 있을 때의 상호작용이 켄파치의 사랑스러운 면을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

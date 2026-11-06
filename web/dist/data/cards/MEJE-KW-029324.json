@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-029324",
+  "kind": "keyword",
+  "title": "전투 의지를 따로 계산하는 사기 체계",
+  "original": "Morale Mechanic",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "게임이 유닛의 전투 의지를 사기라는 상태로 계산하여 위험이 커지면 명령을 무시하거나 도주·항복하게 만드는 규칙이다.",
+    "detail": "열세·기습·아군과 지휘관의 상실·공포를 주는 공격·낮은 체력이 사기 저하를 일으킬 수 있다. 사건마다 확률 판정을 하거나 수치를 누적해 감소시키며, 높은 사기는 명중률과 이동 속도 등의 이점을 줄 수도 있다. 급료처럼 전투 밖 요인으로 회복시키는 설계도 가능하다.\n\n작품 사례: 《[[Entropy : Zero 2]]》에서는 반군을 짧은 시간에 연달아 쓰러뜨리면 남은 대원들이 무기를 떨어뜨리고 달아날 수 있다.",
+    "usage": "피해량 외에 전황의 압박과 부대의 응집력이 전술적 선택에 영향을 주도록 설계할 때 쓴다.",
+    "boundary": "체력이 소진되는 패배나 입력 오류와 다르다. 도덕적 선악을 평가하는 체계가 아니라 싸움을 계속할 의지를 다룬다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "체력이 남아 있어도 싸울 마음이 꺾이면 유닛이 더는 명령대로 싸우지 않을 수 있다.\n\n작품 사례: 《[[Entropy : Zero 2]]》에서는 반군을 짧은 시간에 연달아 쓰러뜨리면 남은 대원들이 무기를 떨어뜨리고 달아날 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003265",
+      "description_ko": "《Entropy : Zero 2》에서는 반군을 짧은 시간에 연달아 쓰러뜨리면 남은 대원들이 무기를 떨어뜨리고 달아날 수 있다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

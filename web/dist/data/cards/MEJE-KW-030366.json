@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-030366",
+  "kind": "keyword",
+  "title": "능력치가 영 아래로 내려갈 수 있는 규칙",
+  "original": "Negative Stat Value",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "게임의 직접적인 능력치가 영보다 낮은 값으로 내려갈 수 있어 이미 낮은 능력치에도 추가 약화가 영향을 주는 규칙이다.",
+    "detail": "",
+    "usage": "약화 효과의 하한과 낮은 능력치에 대한 투자의 의미를 설계한다.",
+    "boundary": "좌표·각도나 체력 변화량의 음수 표시는 제외한다. 다른 수치에서 단순 계산되며 따로 바꿀 수 없는 평균 대비 값도 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "능력치가 영에서 멈추지 않고 마이너스가 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 3
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002125",
+      "description_ko": "《언더테일》의 아스고어는 CHECK에 표시되는 능력치와 실제 계산값이 다르며, 원문은 내부 방어력이 -30이라고 설명한다. 단순한 감소량 표시가 아니라 방어력 자체가 음수인 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

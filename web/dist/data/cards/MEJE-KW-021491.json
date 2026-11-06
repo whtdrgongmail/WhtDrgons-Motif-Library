@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "외형만으로 현실의 특정 인종에 명확히 대응시키기 어려운 방식으로 허구의 인물을 디자인하는 관습이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[미소녀 전사 세일러 문(연작)]]》의 인물들은 대부분 일본인으로 설정되어 있어도 금색·파란색·분홍색 등 다양한 머리색을 지닌다. 색만으로 현실의 인종을 지정하는 디자인이 아님을 보여 준다.",
     "usage": "특정 현실 집단의 외형에 구속되지 않는 인물군을 구성한다.",
     "boundary": "출신 국가를 밝히지 않는 설정과 외형상의 인종 식별 문제는 별개다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-002077",
+      "description_ko": "《미소녀 전사 세일러 문(연작)》의 인물들은 대부분 일본인으로 설정되어 있어도 금색·파란색·분홍색 등 다양한 머리색을 지닌다. 색만으로 현실의 인종을 지정하는 디자인이 아님을 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

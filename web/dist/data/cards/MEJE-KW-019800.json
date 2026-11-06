@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "맘몬을 재물과 탐욕에 결부된 악마로 배치하여 부의 유혹과 집착을 의인화한다.",
-    "detail": "",
+    "detail": "재물을 쌓아 두는 성격과 인간의 탐욕을 부추기는 역할이 함께 나타날 수 있다. 작품마다 지옥의 서열과 다른 악마와의 관계는 다르다.\n\n작품 사례: 《[[던전 앤 드래곤]]》의 맘몬은 막대한 재산을 가진 인색한 대악마로 그려지며, 거래의 대가도 금과 영혼의 가치에 연결된다.",
     "usage": "",
     "boundary": "부를 소유한 인물 모두를 악하다고 판단하는 개념은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00084",
+      "work_card_id": "MM-MEDIA-001445",
+      "description_ko": "《던전 앤 드래곤》의 맘몬은 막대한 재산을 가진 인색한 대악마로 그려지며, 거래의 대가도 금과 영혼의 가치에 연결된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

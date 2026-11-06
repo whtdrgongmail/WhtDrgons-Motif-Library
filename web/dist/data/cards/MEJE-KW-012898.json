@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F20",
   "description": {
     "definition": "[[장례]]와 추모 자리에서 고인의 살아 있던 모습을 담은 [[사진]]을 중심 [[표지]]로 쓰는 장치다.",
-    "detail": "",
-    "usage": "",
+    "detail": "시신의 손상·실종·화장·소멸이나 문화적 관습 때문에 시신 대신 사진을 내세울 수 있다. 각 사유는 별도의 사진 기법이 아니라 같은 장례 표현의 맥락이다.\n\n작품 사례: 《[[심슨 가족]]》에서 모나가 사망해 화장된 뒤 장례식에는 시신 대신 그녀의 사진이 놓여 추모의 중심이 된다.",
+    "usage": "시신 대신 살아 있을 때의 모습을 추모의 중심에 배치한다.",
     "boundary": "일상적인 사진첩 [[회상]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-06",
+  "row_version": 4,
   "classification": {
     "code": "20",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001302",
+      "description_ko": "《심슨 가족》에서 모나가 사망해 화장된 뒤 장례식에는 시신 대신 그녀의 사진이 놓여 추모의 중심이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

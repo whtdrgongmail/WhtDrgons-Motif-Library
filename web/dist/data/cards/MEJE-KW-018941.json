@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "많은 인물을 병들게 하는 역병의 원인이 [[마법]]·저주 등 초자연적 힘으로 설정된다.",
-    "detail": "",
-    "usage": "",
+    "detail": "의도적 저주뿐 아니라 초자연적 사고로도 생길 수 있다. 신체 외에 영혼이나 마법 사용 과정이 영향을 받도록 설정할 수 있다.\n\n작품 사례: 《[[쿠키런: 킹덤]]》에서 미스틱플라워 쿠키가 일으키는 창백한 병은 쿠키의 몸을 밀가루로 바꾸고 삶의 목표에 무관심하게 만든다. 초자연적 힘이 신체와 의지를 함께 병들게 한다.",
+    "usage": "초자연적 원인과 전파 대상을 정하고 질병이 공동체와 마법 체계에 미치는 영향을 설계한다.",
     "boundary": "현실 전염병의 원인을 설명하는 개념이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001634",
+      "description_ko": "《쿠키런: 킹덤》에서 미스틱플라워 쿠키가 일으키는 창백한 병은 쿠키의 몸을 밀가루로 바꾸고 삶의 목표에 무관심하게 만든다. 초자연적 힘이 신체와 의지를 함께 병들게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

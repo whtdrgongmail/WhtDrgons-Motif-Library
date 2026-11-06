@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "어린 인물이 실제보다 나이가 많다고 믿게 하려고 허위 신분 증명을 사용하는 설정이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[스파이더맨: 파 프롬 홈]]》에서 베티는 죽을지도 모른다고 생각한 순간 가짜 신분증을 갖고 있으나 써 보지 못했다고 고백한다. 실제 사용 성공을 주장하지 않고 소유 사실이 드러나는 장면을 사례로 삼는다.",
+    "usage": "나이 제한을 넘으려는 욕구와 정체가 드러나는 상황을 인물 [[갈등]]으로 사용한다.",
     "boundary": "신분증을 만드는 방법이나 현실의 접근 제한을 우회하는 지침은 포함하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001640",
+      "description_ko": "《스파이더맨: 파 프롬 홈》에서 베티는 죽을지도 모른다고 생각한 순간 가짜 신분증을 갖고 있으나 써 보지 못했다고 고백한다. 실제 사용 성공을 주장하지 않고 소유 사실이 드러나는 장면을 사례로 삼는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F04",
   "description": {
     "definition": "[[뮤지컬]]의 노래가 인물들에게도 실제 공연이나 노래로 들리도록 이야기 안에서 이유를 부여한다. 관객만 듣는 표현과 극중 인물이 듣는 소리를 구분한다. 관객을 위해 만든 노래가 극중 인물에게도 들린다면 [[작품 속에 등장하는 주제곡]]와 이어진다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: 《[[코코]]》의 노래들은 공연이나 청중을 위한 연주로 작품 안에 자리한다. 원문은 이 작품을 노래가 실제 행위로 성립하는 뮤지컬의 사례로 분류한다.",
+    "usage": "공연 준비·장소·관객의 반응을 이야기 사건과 연결하고 가창의 이유를 세계 안에 마련한다.",
+    "boundary": "노래를 상상이나 대화의 재구성으로만 보여 주는 경우와 구별한다. 이 유형에서는 미리 만든 곡을 연습해 공연하는 설명이 가능하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-06",
+  "row_version": 4,
   "classification": {
     "code": "04",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-003383",
+      "description_ko": "《코코》의 노래들은 공연이나 청중을 위한 연주로 작품 안에 자리한다. 원문은 이 작품을 노래가 실제 행위로 성립하는 뮤지컬의 사례로 분류한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

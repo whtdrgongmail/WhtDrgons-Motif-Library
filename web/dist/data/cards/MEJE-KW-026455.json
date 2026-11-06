@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "인물이 겉으로는 정상적으로 보이도록 행동하여 내부의 심각한 혼란을 잘 감춘다.",
-    "detail": "",
+    "detail": "내면의 혼란을 관객만 먼저 알거나 뒤늦은 반전으로 드러낼 수 있다. 폭력성과 정신적 고통은 동일하지 않으며 현실 인물의 상태를 겉모습으로 진단하지 않는다.\n\n작품 사례: 《[[진격의 거인(만화)]]》의 라이너는 동료에게 믿음직한 모습으로 보이지만 자신이 맡은 위장 역할과 실제 임무 사이에서 심한 내적 균열을 겪는다.",
     "usage": "뒤늦게 드러나는 정체와 관계의 오해를 만든다.",
     "boundary": "혼란을 거짓으로 연기하는 위장과 정반대이며 실제 타인의 상태를 추정하는 기준이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002207",
+      "description_ko": "《진격의 거인(만화)》의 라이너는 동료에게 믿음직한 모습으로 보이지만 자신이 맡은 위장 역할과 실제 임무 사이에서 심한 내적 균열을 겪는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

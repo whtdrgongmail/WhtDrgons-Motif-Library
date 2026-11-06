@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "공중에 머무는 대상이 완전히 고정되지 않고 조금씩 위아래로 움직여 떠 있다는 상태를 전달한다.",
-    "detail": "",
+    "detail": "완전히 정지한 그림보다 살짝 오르내리는 움직임으로 부유 상태를 분명히 한다. 게임에서는 회전과 결합해 수집 가능한 물건을 눈에 띄게 만드는 데도 쓴다. 현실의 무중력 운동과 동일한 규칙으로 단정하지 않는다.\n\n작품 사례: 《[[파워퍼프걸(1998)]]》의 인물들은 공중에 머물 때 위아래로 움직이며 때로는 같은 박자로 오르내린다. 작은 반복 동작이 떠 있는 상태를 전달한다.",
     "usage": "",
     "boundary": "큰 상승·하강 이동과 미세한 부유 동작을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-003094",
+      "description_ko": "《파워퍼프걸(1998)》의 인물들은 공중에 머물 때 위아래로 움직이며 때로는 같은 박자로 오르내린다. 작은 반복 동작이 떠 있는 상태를 전달한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

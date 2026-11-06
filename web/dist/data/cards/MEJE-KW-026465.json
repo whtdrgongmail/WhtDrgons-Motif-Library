@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "인물이 마음이 처리할 수 있는 양보다 더 많은 지식을 받아들여 과부하를 겪는 설정이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[닥터 후]]》의 「Journey’s End」에서 도나는 닥터의 정신을 자기 머릿속에 받아들여 비범한 지능을 얻지만 인간의 몸이 이를 감당하지 못한다. 당시 도나를 살리려면 닥터와 함께한 기억을 지워야 하는 상황이 된다.",
     "usage": "앎의 내용이 아닌 수용 능력의 한계를 위험으로 만든다.",
     "boundary": "충격적인 사실 하나를 알게 된 반응과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001308",
+      "description_ko": "《닥터 후》의 「Journey’s End」에서 도나는 닥터의 정신을 자기 머릿속에 받아들여 비범한 지능을 얻지만 인간의 몸이 이를 감당하지 못한다. 당시 도나를 살리려면 닥터와 함께한 기억을 지워야 하는 상황이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

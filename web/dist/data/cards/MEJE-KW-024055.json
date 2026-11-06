@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "서로에게 돌이킬 수 없는 대규모 파괴를 가할 수 있는 세력들이 그 결과를 두려워하여 전면전을 피하는 세계의 권력 균형이다.",
-    "detail": "",
+    "detail": "보복 가능성이 모두에게 알려져 있고 상대도 자기 생존을 중요하게 여긴다는 전제에 의존하는 구조다. 상대가 함께 죽기를 원하거나 통제 밖의 행위자가 개입하면 이 기대가 흔들릴 수 있다. 현재 카드에는 원문의 현실 국제정세 해석과 군사사에 관한 단정은 옮기지 않았다.\n\n작품 사례: 《[[워게임]]》에서 컴퓨터 조슈아는 가능한 핵전쟁 시뮬레이션들이 모두 양쪽의 파괴로 끝난다는 결과를 확인한다. 승리 가능한 선택이 없다는 인식이 공격을 멈추게 하며 상호 파괴를 두려워하는 억제 구조를 보여 준다.",
     "usage": "무기의 존재와 실제 사용 사이의 긴장을 설계한다.",
     "boundary": "[[서사]] 속 억제 구조를 설명하며 실제 군사 체계의 안전성이나 효과를 보장하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003397",
+      "description_ko": "《워게임》에서 컴퓨터 조슈아는 가능한 핵전쟁 시뮬레이션들이 모두 양쪽의 파괴로 끝난다는 결과를 확인한다. 승리 가능한 선택이 없다는 인식이 공격을 멈추게 하며 상호 파괴를 두려워하는 억제 구조를 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

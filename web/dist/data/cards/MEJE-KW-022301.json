@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "여러 적이 한 인물을 포위해도 함께 공격하지 않고 앞선 적이 쓰러진 뒤 차례로 덤빈다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[배트맨: 엔드게임]]》에서 조커의 독에 감염된 저스티스 리그가 배트맨에게 한 명씩 덤벼 그가 각 상대를 차례로 제압할 여지를 준다.",
     "usage": "",
     "boundary": "작전상 이유가 설명되는 경우와 별개로 주인공에게 연속 대결의 여유를 주는 안무 관습이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-003255",
+      "description_ko": "《배트맨: 엔드게임》에서 조커의 독에 감염된 저스티스 리그가 배트맨에게 한 명씩 덤벼 그가 각 상대를 차례로 제압할 여지를 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

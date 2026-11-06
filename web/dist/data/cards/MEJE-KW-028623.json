@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-028623",
+  "kind": "keyword",
+  "title": "복제 공간과 캐릭터로 구현하는 게임 거울",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F27",
+  "description": {
+    "definition": "거울 너머에 복제한 공간과 플레이어 움직임을 따라 하는 캐릭터를 배치하여 반사를 연출하는 게임 제작 방식이다.",
+    "detail": "",
+    "usage": "반사 장면의 구현과 동기화 제약, 거울 너머 공간이 실제로 존재하는 이유를 설명한다.",
+    "boundary": "극중 인물이 일부러 반사상인 척하는 [[서사]] 장치와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "27",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "실제 반사 계산 대신 반대편에 같은 방과 인물을 하나 더 만든다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

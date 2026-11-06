@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "서술자가 인물이 욕했다고 알리거나 암시하지만 관객에게 실제 욕설의 말은 제시하지 않는다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[The Kingdom Keepers]]》는 메이벡의 대사에 순화된 말을 적은 뒤 실제 사용한 단어는 그것이 아니었다고 서술하거나, 교실에서 했다면 쫓겨날 말이었다고 간접 설명한다.",
     "usage": "감정의 거칠기를 남기면서 직접적인 어휘 노출을 줄이는 서술의 거리를 조절한다.",
     "boundary": "극중 [[마법]]으로 발화를 막거나 검열음으로 덮는 방식과 달리 서술의 선택으로 생략한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-003463",
+      "description_ko": "《The Kingdom Keepers》는 메이벡의 대사에 순화된 말을 적은 뒤 실제 사용한 단어는 그것이 아니었다고 서술하거나, 교실에서 했다면 쫓겨날 말이었다고 간접 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "장난감으로 취급되지만 놀이 용도에 맞지 않을 만큼 강한 파괴력이나 위해성을 갖춘 물건이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[도라에몽(만화)]]》의 양철 장난감 병정은 실제 총알을 쏘는 기능으로 퉁퉁이를 막는다. 장난감이라는 외형과 어린이가 다루기에는 과도한 무력의 간극이 핵심이다.",
     "usage": "",
     "boundary": "장난감이 우연한 사고를 일으키는 경우보다 설계나 성능상의 과도한 위험을 뜻한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002509",
+      "description_ko": "《도라에몽(만화)》의 양철 장난감 병정은 실제 총알을 쏘는 기능으로 퉁퉁이를 막는다. 장난감이라는 외형과 어린이가 다루기에는 과도한 무력의 간극이 핵심이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

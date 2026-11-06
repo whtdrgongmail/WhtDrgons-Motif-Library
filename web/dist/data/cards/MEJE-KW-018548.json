@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "서로 맞지 않거나 구체적인 의미를 만들지 못하는 낱말들을 진지하고 심오한 말처럼 내세우는 표현이다. 말의 무게감과 실제 내용 사이에 간극이 생긴다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[소 디스 이즈 베이시컬리]]》의 게임 풍자에서는 반복되는 심오한 핵심어를 엉뚱한 단어로 바꿔도 뜻이 비슷하게 느껴진다는 농담으로 공허한 표현을 지적한다.",
     "usage": "허세 있는 인물의 화법이나 깊이 있어 보이려는 설명을 드러낼 때 쓴다.",
     "boundary": "이해에 전문 지식이 필요한 정상적인 주장이나 단순히 추상적인 표현과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00100",
+      "work_card_id": "MM-MEDIA-002950",
+      "description_ko": "《소 디스 이즈 베이시컬리》의 게임 풍자에서는 반복되는 심오한 핵심어를 엉뚱한 단어로 바꿔도 뜻이 비슷하게 느껴진다는 농담으로 공허한 표현을 지적한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

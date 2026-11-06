@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "이상한 변화와 사건을 목격한 인물들이 실제와 다른 질병의 증상으로 해석한다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[원피스(만화)]]》의 프레반스에서 피부가 희게 변하는 증상은 전염병으로 알려져 주민들이 격리와 공격을 겪는다. 실제 원인은 이 지역의 박연 수출과 관련된 독성 노출이며, 원문은 원인에 대한 오해가 피해를 키우는 사례로 설명한다.",
+    "usage": "비슷한 증상의 원인을 잘못 설명하면서 대응과 진상 조사가 어긋나는 [[서사]]를 구성한다.",
     "boundary": "전염병이라고 믿는 경우에만 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》의 프레반스에서 피부가 희게 변하는 증상은 전염병으로 알려져 주민들이 격리와 공격을 겪는다. 실제 원인은 이 지역의 박연 수출과 관련된 독성 노출이며, 원문은 원인에 대한 오해가 피해를 키우는 사례로 설명한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

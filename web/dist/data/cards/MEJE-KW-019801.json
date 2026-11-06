@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "일부 일본 판타지에서 악마나 마족을 이끄는 왕을 중심 권력자 또는 주요 [[적대자]]로 배치하는 역할이다.",
-    "detail": "",
+    "detail": "마족과 괴물을 통솔하며 용사와 대립하는 직위로 나타난다. 악행이 필수는 아니며 오해받는 통치자, 주인공, 용사의 연인처럼 역할을 뒤집기도 한다.\n\n작품 사례: 《[[슈퍼 마리오]]》의 쿠파는 여러 괴물을 거느리는 대마왕으로서 버섯 왕국을 위협하고 마리오와 반복해서 대립한다.",
     "usage": "",
     "boundary": "제목에 마왕이 붙었다고 실제로 사악한 행동을 해야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-002904",
+      "description_ko": "《슈퍼 마리오》의 쿠파는 여러 괴물을 거느리는 대마왕으로서 버섯 왕국을 위협하고 마리오와 반복해서 대립한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F21",
   "description": {
     "definition": "생물이나 괴물의 얼굴에 절지동물의 큰턱 같은 입 부위를 붙여 낯설고 무서운 인상을 강화하는 디자인이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[베르세르크(만화)]]》에서 로시느의 아이들은 처음에는 작은 요정처럼 보이지만, 분노하면 입이 옆으로 갈라져 곤충 같은 큰턱을 드러낸다.",
     "usage": "얼굴의 익숙함을 깨고 포식의 위험을 강조한다.",
     "boundary": "모든 곤충형 외모가 아니라 입 부위의 형태가 공포를 만드는 데 초점을 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002477",
+      "description_ko": "《베르세르크(만화)》에서 로시느의 아이들은 처음에는 작은 요정처럼 보이지만, 분노하면 입이 옆으로 갈라져 곤충 같은 큰턱을 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "오염물·독성 물질·버려진 찌꺼기 등이 한 덩어리로 뭉쳐 살아 움직이는 생물이다.",
-    "detail": "",
+    "detail": "몸의 일부가 흘러 떨어져도 다시 모이거나 보충될 수 있으며, 주변 생명과 환경에 해를 주는 모습으로 오염의 문제를 강조하기도 한다.\n\n작품 사례: 《[[고질라 대 헤도라]]》의 헤도라는 오염 물질을 먹고 자라며 화학적 진흙을 내뿜는 괴물로, 오염과 파괴를 움직이는 몸으로 드러낸다.",
     "usage": "오염과 폐기물을 움직이는 위협으로 형상화할 때 쓴다.",
     "boundary": "더러운 곳에 살 뿐인 생물이나 오물 묻은 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003315",
+      "description_ko": "《고질라 대 헤도라》의 헤도라는 오염 물질을 먹고 자라며 화학적 진흙을 내뿜는 괴물로, 오염과 파괴를 움직이는 몸으로 드러낸다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

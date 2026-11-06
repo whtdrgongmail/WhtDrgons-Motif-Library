@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-028278",
+  "kind": "keyword",
+  "title": "별개 게임을 교대로 치르고 점수 비교하기",
+  "original": "Non-Preemptive Multiplayer",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "각 [[플레이어]]의 게임 상태를 따로 유지한 채 차례대로 플레이하고 점수를 비교하는 다인 방식이다.",
+    "detail": "작품 사례: 《[[Sideswiped]]》의 단일 기기 다인 모드에서는 트램펄린이나 볼링 라운드를 번갈아 플레이하고 전체 점수를 비교한다. 차례는 공유하지만 각자의 성과는 구분된다.",
+    "usage": "하나의 기기를 공유하면서도 각자의 성과를 분리해 [[경쟁]]을 구성한다.",
+    "boundary": "공통 저장 상태를 이어받는 인계형 플레이와 달리 게임 세션이 분리되어 있다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "한 사람이 끝나면 다른 사람이 자기 게임을 하고 점수를 겨룬다.\n\n작품 사례: 《[[Sideswiped]]》의 단일 기기 다인 모드에서는 트램펄린이나 볼링 라운드를 번갈아 플레이하고 전체 점수를 비교한다. 차례는 공유하지만 각자의 성과는 구분된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003062",
+      "description_ko": "《Sideswiped》의 단일 기기 다인 모드에서는 트램펄린이나 볼링 라운드를 번갈아 플레이하고 전체 점수를 비교한다. 차례는 공유하지만 각자의 성과는 구분된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

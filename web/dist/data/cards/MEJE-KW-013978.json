@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "화면이나 주변에 발화자가 보이지 않는 상태에서 출처가 불분명한 목소리가 들리는 장치이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[겨울왕국 2]]》에서 엘사는 피오르 너머로 반복되는 네 음의 노랫소리에 이끌린다. 목소리의 정체와 자신을 부르는 이유를 알아내는 일이 엘사의 여정을 이끈다.",
     "usage": "",
     "boundary": "인물의 머릿속으로만 제한되는 목소리와 달리 공간에 들리는 음성도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002019",
+      "description_ko": "《겨울왕국 2》에서 엘사는 피오르 너머로 반복되는 네 음의 노랫소리에 이끌린다. 목소리의 정체와 자신을 부르는 이유를 알아내는 일이 엘사의 여정을 이끈다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

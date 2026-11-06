@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F03",
   "description": {
     "definition": "비극·상실·실패·고통을 주된 소재와 감정적 중심으로 삼는 문학 갈래다.",
-    "detail": "",
+    "detail": "원문은 회고록과 자서전을 주요 형태로 들되 허구 문학도 포함한다. 실제 기록이라는 홍보 주장과 작품 내용의 재현을 구분하고, 독자 성별 비율이나 시장 변화 같은 미검증 수치는 일반 정의에 넣지 않는다.\n\n작품 사례: 《[[안젤라의 재]]》는 프랭크 매코트가 아일랜드 리머릭에서 겪은 가난한 유년기와 청년기의 일들을 회고하는 작품으로 원문에 제시된다.",
     "usage": "사건의 고통이 작품 전체의 중심 관심인지 분류한다.",
     "boundary": "비극적인 장면 하나가 있는 모든 작품이나 희극적인 불운 나열과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "03",
     "review_status": "provisional",
@@ -34,7 +34,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-003167",
+      "description_ko": "《안젤라의 재》는 프랭크 매코트가 아일랜드 리머릭에서 겪은 가난한 유년기와 청년기의 일들을 회고하는 작품으로 원문에 제시된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

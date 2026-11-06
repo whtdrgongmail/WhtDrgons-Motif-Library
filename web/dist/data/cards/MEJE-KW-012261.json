@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "혼자 지내거나 겉모습이 수상해 악하게 보이지만 실제로는 선한 마음을 지닌 인물형이다.",
-    "detail": "",
+    "detail": "이웃과 어울리지 않는 생활이나 음산한 외양이 악의 증거처럼 받아들여진다. 실제 선한 행동이 드러나면서 외형과 소문에 의존한 판단을 돌아보게 한다. 좋은 목적을 숨기느라 수상해 보이는 경우도 있다.\n\n작품 사례: 《[[강철의 연금술사(만화)]]》의 시그 커티스는 무서운 얼굴과 체격, 과묵함 때문에 위협적으로 보이지만 실제로는 친절한 인물이다.",
     "usage": "",
     "boundary": "처음부터 친절한 [[평판]]을 가진 고독한 [[인물]]과 달리 오해와 실상의 대비가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-06",
+  "row_version": 4,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002178",
+      "description_ko": "《강철의 연금술사(만화)》의 시그 커티스는 무서운 얼굴과 체격, 과묵함 때문에 위협적으로 보이지만 실제로는 친절한 인물이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

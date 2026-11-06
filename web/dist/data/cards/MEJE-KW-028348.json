@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-028348",
+  "kind": "keyword",
+  "title": "상품 가격과 재화 묶음의 크기를 어긋나게 하기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "물건에 필요한 재화량과 판매하는 재화 묶음의 단위를 다르게 정하여 정확한 금액만 구매하기 어렵게 만드는 결제 구조다.",
+    "detail": "",
+    "usage": "명목상 환산 가격과 실제 결제액의 차이, 남은 재화가 다음 구매에 미치는 영향을 분석한다.",
+    "boundary": "여러 묶음을 할인 판매한다는 사실만으로는 부족하다. 원하는 상품에 필요한 양을 맞추기 어렵다는 단위 불일치가 핵심이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "물건 하나에 필요한 만큼만 충전할 수 없어 조금 모자라거나 남는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

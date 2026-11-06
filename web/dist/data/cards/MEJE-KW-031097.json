@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-031097",
+  "kind": "keyword",
+  "title": "순간이동 장치의 고장으로 위치나 상태가 어긋나기",
+  "original": "Teleporter Accident",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F05",
+  "description": {
+    "definition": "순간이동에 사용하는 수단이 오작동하여 이동자가 잘못된 장소에 도착하거나 원래와 다른 상태로 돌아오는 사고다.",
+    "detail": "",
+    "usage": "기술의 편의와 불확실성을 이동 사건에 결합한다.",
+    "boundary": "순간이동 실패 중에서도 장치의 오작동이 원인이며 위치 오류뿐 아니라 존재의 변화도 포괄한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "05",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "이동 장치가 고장 나서 도착지나 돌아온 사람이 달라진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

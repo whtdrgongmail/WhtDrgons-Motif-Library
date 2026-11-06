@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "죽은 실존 [[인물]]의 이름이나 특징을 창작 [[캐릭터]]에 반영하여 기억을 남기는 제작 방식이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "기존 인물의 이름을 고인의 이름으로 바꾸거나 새 조연·중심인물을 만들 수 있다. 현실 인물에 대한 제작진의 추모 의도가 핵심이다.\n\n디자인 참조: 《[[코라의 전설]]》의 마코는 앞선 작품에 참여했던 고인인 성우 마코 이와마쓰의 이름을 따서 추모하는 인물이다.",
+    "usage": "현실의 추모가 작품의 이름과 인물 구성에 남는 방식을 기록한다.",
     "boundary": "우연히 이름이 같거나 근거 없는 추정과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001408",
+      "description_ko": "《코라의 전설》의 마코는 앞선 작품에 참여했던 고인인 성우 마코 이와마쓰의 이름을 따서 추모하는 인물이다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

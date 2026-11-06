@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "긴 봉을 인물의 무술 무기로 선택하여 유연한 동작이나 살상을 꺼리는 성향을 강조하는 장비 관습이다.",
-    "detail": "",
+    "detail": "긴 거리와 회전 동작을 활용하는 무기로 표현하며 인물의 절제나 수행을 시각화할 수 있다. 봉도 해를 끼칠 수 있으므로 무조건 비살상 무기로 취급하지 않는다.\n\n작품 사례: 《[[원피스(만화)]]》의 나미는 초기 전투에서 봉을 사용하고 이후 다른 장비로 바꾼다. 인물의 전투 방식과 장비 변화가 드러나는 사례다.",
     "usage": "전투 방식으로 인물의 절제·숙련·평화 지향을 표현한다.",
     "boundary": "봉의 실제 안전성이나 모든 봉 사용자의 성격을 단정하는 설정이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》의 나미는 초기 전투에서 봉을 사용하고 이후 다른 장비로 바꾼다. 인물의 전투 방식과 장비 변화가 드러나는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

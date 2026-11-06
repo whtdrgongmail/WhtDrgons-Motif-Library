@@ -11,13 +11,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "실제 실행될 위협이나 실제 위험을 알리는 경고를 엄포라고 잘못 판단하여 불이익을 겪는 전개이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼 Z(TV 애니메이션)]]》에서 오공은 프리저가 아직 힘의 절반도 쓰지 않았다는 말을 위협용 허풍으로 여긴다. 그러나 프리저가 실제로 힘을 올리면서 전황이 뒤집힌다.",
     "usage": "상대의 의지나 위험을 과소평가한 판단을 사건으로 돌려줄 때 쓴다.",
     "boundary": "경고의 존재 자체를 모르거나 충분히 신뢰할 수 없었던 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -31,7 +31,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002453",
+      "description_ko": "《드래곤볼 Z(TV 애니메이션)》에서 오공은 프리저가 아직 힘의 절반도 쓰지 않았다는 말을 위협용 허풍으로 여긴다. 그러나 프리저가 실제로 힘을 올리면서 전황이 뒤집힌다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

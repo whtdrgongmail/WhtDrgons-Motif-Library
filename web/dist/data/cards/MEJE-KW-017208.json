@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "기념물·건물 같은 거대한 대상을 통째로 훔쳐 이동 불가능해 보인 규모를 뒤집는 사건.",
-    "detail": "",
+    "detail": "작품 사례: 《[[배트맨(1940)]]》 284호에서 닥터 친친은 스핑크스를 통째로 훔쳐 바닷속에 숨긴다. 작은 보물이 아니라 움직이기 어려운 거대 기념물 자체가 절도의 대상이 된다.",
     "usage": "과장된 괴도 능력과 도시 규모의 사건을 만들 때 쓴다.",
     "boundary": "큰 물건을 합법적으로 이전하거나 일부만 떼어 가는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-003250",
+      "description_ko": "《배트맨(1940)》 284호에서 닥터 친친은 스핑크스를 통째로 훔쳐 바닷속에 숨긴다. 작은 보물이 아니라 움직이기 어려운 거대 기념물 자체가 절도의 대상이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

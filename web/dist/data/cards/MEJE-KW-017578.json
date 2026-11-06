@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "사람을 먹잇감으로 삼아 붙잡거나 삼키는 괴물 식물.",
-    "detail": "",
+    "detail": "입처럼 변형된 잎, 움직이는 덩굴, 포획 통, 유혹하는 향기 등으로 포식한다. 포획 방식은 같은 식물형 괴물 안에서도 다를 수 있다.\n\n작품 사례: 《[[흡혈 식물 대소동]]》의 오드리 2는 인간의 피를 먹이로 요구하는 식물이며, 말을 통해 사람을 유혹하는 성격까지 갖는다.",
     "usage": "식물이 사람을 먹잇감으로 삼는 생태적 위협을 설정할 때 쓴다.",
     "boundary": "실제 식충식물의 범위와 창작 속 인간 포식을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002892",
+      "description_ko": "《흡혈 식물 대소동》의 오드리 2는 인간의 피를 먹이로 요구하는 식물이며, 말을 통해 사람을 유혹하는 성격까지 갖는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F04",
   "description": {
     "definition": "실제로 존재하지 않는 사건과 인물을 다큐멘터리의 인터뷰·촬영·자료 제시 방식으로 구성한 허구 작품 형식이다.",
-    "detail": "",
+    "detail": "인터뷰·현장 촬영·전문가 증언·뉴스 화면 등의 관습이 허구에 기록물의 외양을 부여한다. 희극뿐 아니라 재난과 공포에도 쓰이며, 멸종하거나 가상의 생물을 실제 서식지에서 촬영한 것처럼 표현할 수도 있다.\n\n작품 사례: 《[[뱀파이어에 관한 아주 특별한 다큐멘터리]]》는 한집에 사는 뱀파이어들을 촬영하는 다큐멘터리의 형식으로 허구의 생활을 보여 준다.",
     "usage": "",
     "boundary": "우연히 사적인 장면까지 찍힌 듯한 형식이 필수는 아니며 실제 기록의 조작과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "04",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003215",
+      "description_ko": "《뱀파이어에 관한 아주 특별한 다큐멘터리》는 한집에 사는 뱀파이어들을 촬영하는 다큐멘터리의 형식으로 허구의 생활을 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

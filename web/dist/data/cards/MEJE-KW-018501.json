@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F17",
   "description": {
     "definition": "초능력이나 특별한 장비를 전투·위대한 임무 대신 생활의 사소한 일을 처리하는 데 사용한다.",
-    "detail": "",
+    "detail": "능력자는 늘 싸우는 것이 아니므로 집안일·직업·운동에 힘을 쓰는 것도 생활의 자연스러운 일부다. 전능한 존재가 작은 용도로만 머무르는 경우와 기술의 다른 가능성을 아예 보지 못하는 경우는 별도 문제이며 단순한 일상 활용만으로 비효율이라고 보지 않는다.\n\n작품 사례: 만화 스트립 《[[슈퍼맨]]》의 「The Reporter of Steel」에서 페리 화이트는 능력이 생긴 것으로 여겨지는 클라크에게 데일리 플래닛의 막힌 인쇄기를 뚫게 한다. 초인의 힘이 신문사의 평범한 업무에 쓰인다.",
     "usage": "비범한 세계의 생활감과 능력의 유용성을 보여 주거나 규모 차이에서 웃음을 만들 때 쓴다.",
     "boundary": "원래 생활용인 평범한 도구를 정상적으로 쓰는 것과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "17",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-001648",
+      "description_ko": "만화 스트립 《슈퍼맨》의 「The Reporter of Steel」에서 페리 화이트는 능력이 생긴 것으로 여겨지는 클라크에게 데일리 플래닛의 막힌 인쇄기를 뚫게 한다. 초인의 힘이 신문사의 평범한 업무에 쓰인다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

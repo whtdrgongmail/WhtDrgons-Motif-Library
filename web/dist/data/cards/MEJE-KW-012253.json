@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "특정 [[도시]]의 안전과 안녕을 삶의 중심 목표로 삼아 지속적으로 보호하는 인물형이다.",
-    "detail": "",
+    "detail": "공직자에 한정되지 않으며 불법적 수단을 쓰더라도 도시의 생활 기반과 주민을 지키려는 목표가 우선한다. 자기 권력만을 위한 지역 지배와 구별한다.\n\n작품 사례: 《[[원피스(만화)]]》의 아이스버그는 워터 세븐의 시장이자 조선업 책임자로 도시를 지키고, 프랑키도 다른 사회적 위치에서 도시를 보호하는 역할을 한다.",
     "usage": "특정 도시의 안전이 인물의 지속적인 책임과 목적이 되는지 본다.",
     "boundary": "도시에 거주하거나 한 번 구한 [[인물]]과 달리 장기적 헌신이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-06",
+  "row_version": 4,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002136",
+      "description_ko": "《원피스(만화)》의 아이스버그는 워터 세븐의 시장이자 조선업 책임자로 도시를 지키고, 프랑키도 다른 사회적 위치에서 도시를 보호하는 역할을 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

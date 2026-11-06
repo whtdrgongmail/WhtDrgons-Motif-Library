@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "단어의 철자를 한 글자씩 말하려다가 틀려 자신의 지식이나 주장을 어색하게 만드는 표현이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[프렌즈]]》에서 조이는 아기를 돌보는 책임을 강조하며 단어를 한 글자씩 말하지만 baby의 철자를 잘못 부른다. 훈계의 자신감과 실수가 대비된다.",
     "usage": "똑똑해 보이려는 태도와 언어 실력의 차이로 웃음을 만든다.",
     "boundary": "정상 발음과 철자가 다른 언어의 특성이나 글로만 틀린 표기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001344",
+      "description_ko": "《프렌즈》에서 조이는 아기를 돌보는 책임을 강조하며 단어를 한 글자씩 말하지만 baby의 철자를 잘못 부른다. 훈계의 자신감과 실수가 대비된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

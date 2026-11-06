@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F13",
   "description": {
     "definition": "두 세계에서 시간이 흐르는 상대적 속도가 서로 맞지 않고 일정한 비율로 유지되지 않는 시간 규칙이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[천공의 에스카플로네]]》에서 가이아와 지구의 시간은 처음에는 비슷해 보이다가 세대 간 시간 차이를 보이고, 히토미가 떠나기 전 시점으로 돌아가는 등 일정한 비율을 유지하지 않는다.",
     "usage": "세계 이동의 예측 불가능함과 귀환의 시간 차이를 만든다.",
     "boundary": "항상 같은 배율로 빠르거나 느린 세계와 달리 상대적 흐름의 불일치가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "13",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-003451",
+      "description_ko": "《천공의 에스카플로네》에서 가이아와 지구의 시간은 처음에는 비슷해 보이다가 세대 간 시간 차이를 보이고, 히토미가 떠나기 전 시점으로 돌아가는 등 일정한 비율을 유지하지 않는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

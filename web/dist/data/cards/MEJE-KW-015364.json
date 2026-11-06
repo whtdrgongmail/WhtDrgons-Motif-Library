@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F26",
   "description": {
     "definition": "약과 치료를 주제로 삼은 이동식 공연이나 장터 행사를 통해 관객을 모으는 생활문화 장면이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[레드 데드 리뎀션]]》의 주인공은 약장수의 이동 공연을 돕게 되며, 판매 뒤 분노한 군중에게 쫓기는 일이 되풀이된다.",
+    "usage": "판매와 볼거리를 결합한 이동 집단을 만남·기만·정보의 장소로 배치한다.",
     "boundary": "제공한 약이 실제로 유효한지 또는 사기인지는 별도 조건이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "26",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002187",
+      "description_ko": "《레드 데드 리뎀션》의 주인공은 약장수의 이동 공연을 돕게 되며, 판매 뒤 분노한 군중에게 쫓기는 일이 되풀이된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

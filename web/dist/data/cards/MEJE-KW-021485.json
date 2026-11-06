@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "앞발을 들어 손짓하는 고양이 형상으로 행운과 손님을 부르는 뜻을 담는 장식물이다.",
-    "detail": "",
+    "detail": "앞발을 든 고양이의 자세에 손님이나 재물을 부른다는 뜻을 담는다. 방울·동전·움직이는 앞발 등은 변형 요소이고 기원 설화도 하나로 고정되지 않는다.\n\n작품 사례: 《[[슈퍼 마리오 3D 월드]]》의 복고양이 형태는 사용자가 황금빛 마네키네코 조형으로 변하도록 하여 행운의 고양이 도상을 능력 연출에 활용한다.",
     "usage": "상업 공간의 기원과 길상의 이미지를 짧게 보여 준다.",
     "boundary": "평범한 고양이 조각이나 실제 동물의 손짓과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002290",
+      "description_ko": "《슈퍼 마리오 3D 월드》의 복고양이 형태는 사용자가 황금빛 마네키네코 조형으로 변하도록 하여 행운의 고양이 도상을 능력 연출에 활용한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

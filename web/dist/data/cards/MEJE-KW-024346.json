@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "마법이나 특수 능력에 쓸 수 있는 마력 자원의 현재량을 화면 요소로 보여 준다.",
-    "detail": "",
+    "detail": "마법뿐 아니라 특수 동작·보조 전력 등의 공통 소비 자원을 표시할 수 있다. 색이나 회복 방식은 작품마다 다르다.\n\n작품 사례: 《[[엔터 더 매트릭스]]》의 노란 집중 게이지는 강화된 동작을 얼마나 더 사용할 수 있는지 보여 준다. 자원의 표시가 반드시 [[마법]]을 뜻할 필요는 없다.",
     "usage": "",
-    "boundary": ""
+    "boundary": "마력이라는 세계 규칙과 그 잔량을 표시하는 인터페이스를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002604",
+      "description_ko": "《엔터 더 매트릭스》의 노란 집중 게이지는 강화된 동작을 얼마나 더 사용할 수 있는지 보여 준다. 자원의 표시가 반드시 마법을 뜻할 필요는 없다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

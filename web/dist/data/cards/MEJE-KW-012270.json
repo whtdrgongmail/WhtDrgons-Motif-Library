@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "[[규칙]]을 어기거나 장난을 치는 아이를 본질적으로 좋은 [[인물]]로 제시하여 말썽과 도덕적 선함을 분리하는 [[관습]]이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[나루토(만화)]]》의 어린 나루토는 호카게 바위에 낙서를 하는 등 장난을 치지만, 이야기는 그런 말썽과 별개로 그를 공감의 대상인 주인공으로 제시한다.",
+    "usage": "말썽을 부리는 행동과 인물의 따뜻한 마음을 분리하여 아동 주인공을 그린다.",
     "boundary": "모든 규칙 위반을 정당화하는 주장이 아니라 아동 인물의 [[성격]] [[배치]]를 설명한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002184",
+      "description_ko": "《나루토(만화)》의 어린 나루토는 호카게 바위에 낙서를 하는 등 장난을 치지만, 이야기는 그런 말썽과 별개로 그를 공감의 대상인 주인공으로 제시한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

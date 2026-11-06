@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F30",
   "description": {
     "definition": "창작자가 비장하거나 감동적으로 의도한 표현이 [[과장]]과 부조화 때문에 수용자에게 우스꽝스럽게 받아들여지는 현상이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[식스 피트 언더]]》에서 네이트가 몸의 이상을 호소하다 쓰러지는 장면은 발음과 몸짓의 결합 때문에 일부 수용자에게 비장함보다 뜻밖의 웃음으로 받아들여진 사례다.",
     "usage": "감동이나 비장함을 노린 표현이 관객에게 다르게 받아들여진 이유를 분석할 때 쓴다.",
     "boundary": "처음부터 웃음을 의도한 풍자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-06",
+  "row_version": 4,
   "classification": {
     "code": "30",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-003449",
+      "description_ko": "《식스 피트 언더》에서 네이트가 몸의 이상을 호소하다 쓰러지는 장면은 발음과 몸짓의 결합 때문에 일부 수용자에게 비장함보다 뜻밖의 웃음으로 받아들여진 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "자녀를 지나치게 감싸며 스스로 선택하고 성장할 여지를 주지 않는 어머니 인물상이다.",
-    "detail": "",
+    "detail": "성인이 된 뒤에도 독립과 연애를 자신의 사랑을 빼앗는 일로 받아들이거나 [[죄책감]]을 주어 붙잡는다. 성장 과정은 자녀가 떠나는 것과 사랑하지 않는 것을 구분하게 되는 방향으로 전개될 수 있다.\n\n작품 사례: 《[[드래곤볼(만화)]]》의 치치는 오반이 스스로 선택하기 전부터 교육과 미래를 강하게 계획한다. 아이를 위한다는 관심이 자녀의 선택을 대신하는 통제로 바뀌는 모습을 보여 준다.",
     "usage": "성장한 자녀에게도 계속 개입하는 과잉보호 관계를 드러낼 때 쓴다.",
     "boundary": "필요한 보호와 달리 자녀의 자율성을 계속 제한하는 관계다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002561",
+      "description_ko": "《드래곤볼(만화)》의 치치는 오반이 스스로 선택하기 전부터 교육과 미래를 강하게 계획한다. 아이를 위한다는 관심이 자녀의 선택을 대신하는 통제로 바뀌는 모습을 보여 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

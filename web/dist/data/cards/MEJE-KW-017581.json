@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F14",
   "description": {
     "definition": "전시물과 보관된 유물, 공간의 분위기가 위험이나 악의의 인상을 만드는 박물관 배경.",
-    "detail": "",
-    "usage": "",
+    "detail": "불길한 전시와 수상한 운영자, 외부 세력의 점거, 위험한 전시물이나 건물 자체의 악의 등으로 위협이 생긴다. 같은 박물관 위협의 원인별 변형으로 함께 다룬다.\n\n작품 사례: 《[[주토피아]]》의 후반부 자연사 박물관은 공사 중인 어두운 공간과 노출된 구조물·분해된 전시물로 위협적인 대결 장소가 된다.",
+    "usage": "전시와 보관의 공간을 과거의 위험이 현재에 되돌아오는 장소로 만든다.",
     "boundary": "박물관에서 우연히 일어난 사건과 장소 자체의 불길한 기능을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002272",
+      "description_ko": "《주토피아》의 후반부 자연사 박물관은 공사 중인 어두운 공간과 노출된 구조물·분해된 전시물로 위협적인 대결 장소가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

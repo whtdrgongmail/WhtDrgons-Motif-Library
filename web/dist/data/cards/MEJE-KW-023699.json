@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "한 배우가 서로 다른 언어판에서 같은 인물의 목소리를 직접 다시 연기한다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[괴물(2006년 영화)]]》에서 미국인 의사를 연기한 폴 라자르는 독일어 더빙판에서도 같은 배역의 목소리를 맡았다.",
     "usage": "현지화 과정에서도 인물의 목소리 정체성과 연기의 연속성을 유지하는 선택을 기록한다.",
     "boundary": "원래 음성을 번역 없이 재사용하거나 다른 역할을 맡는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-002195",
+      "description_ko": "《괴물(2006년 영화)》에서 미국인 의사를 연기한 폴 라자르는 독일어 더빙판에서도 같은 배역의 목소리를 맡았다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

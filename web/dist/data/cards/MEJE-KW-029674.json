@@ -1,0 +1,42 @@
+{
+  "id": "MEJE-KW-029674",
+  "kind": "keyword",
+  "title": "둘 이상의 능력치를 합쳐 공격 위력을 계산하기",
+  "original": "Multi-Stat Attack Scaling",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "한 공격의 위력이 하나의 대표 능력치만이 아니라 여러 능력치나 사용자의 수치 상태를 함께 반영하여 정해지는 규칙이다.",
+    "detail": "여러 수치를 서로 다른 비중으로 더하거나 체력·마력의 현재 상태, 무기 숙련도, 누적 행동 수치 등을 함께 반영할 수 있다.\n\n작품 사례: 《[[붕괴: 스타레일]]》에서 블레이드의 여러 공격은 공격력과 최대 체력을 함께 반영한다. 체력에 투자하는 선택이 생존력뿐 아니라 공격 위력에도 영향을 준다.",
+    "usage": "육성 경로와 장비 선택을 다양하게 하고 방어·성장·공격 사이의 투자 관계를 설계한다.",
+    "boundary": "장비가 능력치를 올려 주는 방향과 반대로 사용자의 수치가 공격 위력에 기여한다. 단일한 뜻밖의 능력치를 쓰는 경우와도 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "힘 하나만 높이는 대신 여러 수치가 공격의 강도를 함께 만든다.\n\n작품 사례: 《[[붕괴: 스타레일]]》에서 블레이드의 여러 공격은 공격력과 최대 체력을 함께 반영한다. 체력에 투자하는 선택이 생존력뿐 아니라 공격 위력에도 영향을 준다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001305",
+      "description_ko": "《붕괴: 스타레일》에서 블레이드의 여러 공격은 공격력과 최대 체력을 함께 반영한다. 체력에 투자하는 선택이 생존력뿐 아니라 공격 위력에도 영향을 준다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
+  "related_motifs": [],
+  "references": []
+}

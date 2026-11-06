@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "한 계통의 괴물들이 비롯된 최초의 존재로 그 혈통이나 전염의 기원이 되는 괴물이다.",
-    "detail": "",
+    "detail": "후손을 통해 하나의 새 종이 시작되는 형태도 포함하며, 자기와 전혀 다른 여러 종을 만드는 모체와 구별한다.\n\n작품 사례: 《[[드라큘라: 어 러브 테일]]》에서는 드라큘라가 다른 [[흡혈귀]]를 만드는 근원이며, 그가 죽자 다른 흡혈귀들이 인간으로 돌아온다.",
     "usage": "괴물 집단의 계보와 전염·번식의 시작점을 설정할 때 쓴다.",
     "boundary": "현재의 지배자와 동일할 수 있지만 권력보다 기원 관계가 기준이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-003243",
+      "description_ko": "《드라큘라: 어 러브 테일》에서는 드라큘라가 다른 흡혈귀를 만드는 근원이며, 그가 죽자 다른 흡혈귀들이 인간으로 돌아온다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "받은 선물이 기대와 다르거나 매력 없게 느껴져 수령자가 실망하는 상황이다.",
-    "detail": "",
+    "detail": "작품 사례: 영화 《[[반지의 제왕: 반지 원정대]]》에서 샘은 다른 동료들이 특별한 선물을 받을 때 자신에게는 밧줄이 주어져 실망한다. 그러나 그 밧줄은 나중에 특별한 기능을 발휘한다. 원작 소설의 선물 장면과는 구분되는 사례다.",
     "usage": "",
     "boundary": "주는 사람의 판단 오류 자체보다 받은 사람의 실망 반응이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001398",
+      "description_ko": "영화 《반지의 제왕: 반지 원정대》에서 샘은 다른 동료들이 특별한 선물을 받을 때 자신에게는 밧줄이 주어져 실망한다. 그러나 그 밧줄은 나중에 특별한 기능을 발휘한다. 원작 소설의 선물 장면과는 구분되는 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

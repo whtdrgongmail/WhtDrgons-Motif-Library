@@ -1,0 +1,34 @@
+{
+  "id": "MEJE-KW-027853",
+  "kind": "keyword",
+  "title": "선택 질문에 논리식처럼 예라고 답하기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F23",
+  "description": {
+    "definition": "어느 선택지가 맞는지 묻는 질문을 그중 하나가 참인지 묻는 논리 명제로 받아들여 예·아니오만 답하는 대화 장치이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "선택지를 실제로 골라 주는 답과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-06",
+  "row_version": 1,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "둘 중 무엇이냐고 물었는데 둘 중 하나라는 말만 듣는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": []
+}

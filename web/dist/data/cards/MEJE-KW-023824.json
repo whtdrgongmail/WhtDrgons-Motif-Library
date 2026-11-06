@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F10",
   "description": {
     "definition": "장난스럽거나 익살스러운 인물이 표정을 드러내지 않는 상대에게 웃음을 끌어내려 시도하는 관계 구도다.",
-    "detail": "",
+    "detail": "노력하는 쪽의 자존심과 상대의 무반응이 희극을 만들 수 있다. 연애로 이어지는 경우도 있지만 우정에서도 성립한다. 의도한 농담보다 예상치 못한 일이 첫 웃음을 만들기도 한다.\n\n작품 사례: 《[[틴 타이탄]]》에서 비스트 보이는 첫 만남에 레이븐을 웃게 했던 일을 되풀이하려고 계속 농담을 시도한다. 평소 감정을 억제하는 상대에게 웃음을 끌어내는 일이 두 인물의 반복적인 관계 장면이 된다.",
     "usage": "관계의 진전이나 처음 드러나는 감정의 순간을 구성한다.",
     "boundary": "슬퍼하는 사람을 위로하는 목적만 있는 경우와 구별한다. 제목의 성별과 달리 작동 조건은 성별에 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-003396",
+      "description_ko": "《틴 타이탄》에서 비스트 보이는 첫 만남에 레이븐을 웃게 했던 일을 되풀이하려고 계속 농담을 시도한다. 평소 감정을 억제하는 상대에게 웃음을 끌어내는 일이 두 인물의 반복적인 관계 장면이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

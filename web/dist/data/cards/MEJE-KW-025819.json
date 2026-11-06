@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F27",
   "description": {
     "definition": "원작에서는 이름이 밝혀지지 않은 인물에게 번역이나 더빙이 새 이름을 부여하는 현상이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[디지몬 어드벤처]]》 영어 더빙은 원래 이름이 없던 운전사를 소라의 사촌으로 바꾸고 듀에인이라는 이름으로 부르게 한다.",
+    "usage": "이름이 없던 인물에게 번역판이 새 호칭을 부여하는 현지화 선택을 기록한다.",
     "boundary": "이미 존재하는 원래 이름을 바꾸는 현지화와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "27",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001345",
+      "description_ko": "《디지몬 어드벤처》 영어 더빙은 원래 이름이 없던 운전사를 소라의 사촌으로 바꾸고 듀에인이라는 이름으로 부르게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

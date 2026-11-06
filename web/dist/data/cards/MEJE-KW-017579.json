@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F22",
   "description": {
     "definition": "인물의 관절과 자세를 줄에 매달린 인형처럼 움직이게 하여 부자연스러움이나 외부 조종의 인상을 주는 연출.",
-    "detail": "",
+    "detail": "부자연스러운 관절 꺾임, 끊기는 움직임, 떠다니는 자세가 숨은 조종이나 비인간성을 암시한다. 실제 줄이 보일 필요는 없다.\n\n작품 사례: 《[[부산행]]》의 [[좀비]]는 손상된 팔다리가 비틀리며 꼭두각시 같은 움직임을 보여 인간의 자연스러운 몸짓에서 벗어난 공포를 만든다.",
     "usage": "",
     "boundary": "인형 자체가 등장하는 것과 인간 등의 동작을 인형처럼 만드는 것을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001675",
+      "description_ko": "《부산행》의 좀비는 손상된 팔다리가 비틀리며 꼭두각시 같은 움직임을 보여 인간의 자연스러운 몸짓에서 벗어난 공포를 만든다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

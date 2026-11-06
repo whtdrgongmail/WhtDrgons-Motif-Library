@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "보여 주거나 사용한 무기를 실제 제시된 종류와 다른 종류의 이름으로 지칭하는 묘사의 불일치이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "원문은 주로 총기를 설명하고 사례에서는 다른 무기의 명칭 오류도 다룬다. 소품 수급 사정이나 제작진의 의도를 확인 없이 단정하지 않는다.\n\n작품 사례: 《[[셜록]]》에서 모리아티는 셜록의 총을 브라우닝 L9A1이라고 부르지만 화면에 제시된 소품은 SIG-Sauer P226R이라는 명칭 불일치가 원문에 지적된다.",
+    "usage": "대사와 소품의 어긋남을 구체적으로 설명하고 의도된 가상 명칭이나 대역 소품과 구별한다.",
     "boundary": "의도적으로 만든 가상 상표나 [[인물]]이 일부러 거짓말한 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001727",
+      "description_ko": "《셜록》에서 모리아티는 셜록의 총을 브라우닝 L9A1이라고 부르지만 화면에 제시된 소품은 SIG-Sauer P226R이라는 명칭 불일치가 원문에 지적된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

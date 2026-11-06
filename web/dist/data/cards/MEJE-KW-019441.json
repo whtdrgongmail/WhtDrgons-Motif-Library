@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F19",
   "description": {
     "definition": "관객이 속이 불편하거나 토하고 싶다는 반응을 느끼도록 장면과 사건을 구성하는 감각적 표현이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[슈렉(연작)]]》은 주인공의 아침 일과를 말끔해지는 과정 대신 일부러 지저분해지는 과정으로 구성하여 불쾌한 감각을 희극에 사용한다.",
+    "usage": "불쾌한 감각을 의도적으로 강조하는 장면의 정서적 목적을 분석한다.",
     "boundary": "모든 관객이 같은 신체 반응을 보인다는 뜻은 아니며 공포나 도덕적 비판과도 구분할 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "19",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-002041",
+      "description_ko": "《슈렉(연작)》은 주인공의 아침 일과를 말끔해지는 과정 대신 일부러 지저분해지는 과정으로 구성하여 불쾌한 감각을 희극에 사용한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

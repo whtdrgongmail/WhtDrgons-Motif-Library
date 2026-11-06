@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "외국어로 의사를 전하려던 인물이 실수로 모욕적이거나 뜻없고 민망한 말을 하여 상대의 분노나 당혹을 산다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[몬티 파이선의 날아다니는 서커스]]》의 헝가리인 관광객은 잘못된 회화책을 믿고 담배 가게에서 엉뚱하고 모욕적인 말을 한다. 자신은 정상적인 물건 구매 표현을 썼다고 생각해 오해가 커진다.",
     "usage": "의사소통의 기대와 실제 전달된 뜻의 차이로 [[갈등]]과 정정의 장면을 만든다.",
     "boundary": "처음부터 상대를 모욕하려는 외국어 욕설과 달리 의도하지 않은 의미 착오가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-003401",
+      "description_ko": "《몬티 파이선의 날아다니는 서커스》의 헝가리인 관광객은 잘못된 회화책을 믿고 담배 가게에서 엉뚱하고 모욕적인 말을 한다. 자신은 정상적인 물건 구매 표현을 썼다고 생각해 오해가 커진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

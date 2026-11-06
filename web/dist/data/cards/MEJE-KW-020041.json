@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F07",
   "description": {
     "definition": "배의 돛 아래 가로대가 움직이며 인물을 쳐 쓰러뜨리는 항해 공간의 사고 장면이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[닥터 후]]》의 검은 점의 저주 편에서 로리는 돛 아래 가로대에 맞아 바다로 떨어진다.",
     "usage": "움직이는 선박 장비가 일상적인 갑판을 위험한 동선으로 바꾼다.",
     "boundary": "기계 장비 일반에 부딪히거나 파도 때문에 넘어지는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "07",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-001308",
+      "description_ko": "《닥터 후》의 검은 점의 저주 편에서 로리는 돛 아래 가로대에 맞아 바다로 떨어진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

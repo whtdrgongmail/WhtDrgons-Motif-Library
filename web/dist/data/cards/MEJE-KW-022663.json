@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "소개나 상황 속의 문구를 사람·대상의 이름으로 잘못 받아들여 부르는 희극 장치다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[아이언맨(만화)]]》에서 베스는 닥터 스트레인지가 호칭을 고치고 두유인지 묻는 말을 하나로 묶어 ‘닥터 소이’라는 이름처럼 받아들인다. 서로 다른 발화 기능이 이름으로 합쳐진다.",
     "usage": "이름의 변화 원인과 인물·대상의 정체성이 연결되는지 확인한다.",
     "boundary": "실제 이름의 발음을 잘못 듣는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-002238",
+      "description_ko": "《아이언맨(만화)》에서 베스는 닥터 스트레인지가 호칭을 고치고 두유인지 묻는 말을 하나로 묶어 ‘닥터 소이’라는 이름처럼 받아들인다. 서로 다른 발화 기능이 이름으로 합쳐진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "다른 비유 표현들을 한 구절에 결합해 서로 맞지 않는 이상한 이미지를 만든다.",
-    "detail": "",
+    "detail": "서로 다른 비유의 이미지가 한 표현에서 충돌해 우스꽝스럽거나 기묘한 뜻을 만든다. 말실수일 수도 있고 의도적인 희극적 언어 사용일 수도 있다.\n\n작품 사례: 《[[미소녀 전사 세일러 문(연작)]]》의 미나코는 여러 비유를 뒤섞어 말하고, 곁의 아르테미스가 난처해하는 식으로 말투의 희극이 반복된다.",
     "usage": "과장된 언변의 실수나 생각의 혼선을 대사 자체의 이미지로 표현한다.",
     "boundary": "하나의 비유를 따라가다 논점을 잊는 경우와 달리 비유의 재료가 한 표현 안에서 충돌한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-002077",
+      "description_ko": "《미소녀 전사 세일러 문(연작)》의 미나코는 여러 비유를 뒤섞어 말하고, 곁의 아르테미스가 난처해하는 식으로 말투의 희극이 반복된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

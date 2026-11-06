@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "특정 자극에 반응하면서 인물의 종족이나 생물적 성향에 부여된 본능이 겉으로 드러난다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[극장판 도라에몽: 진구의 비밀도구 박물관]]》에서 도라에몽은 목의 방울을 도둑맞은 뒤 몸을 핥고 네 발로 움직이는 고양이 같은 행동을 보인다. 평소의 인격 아래 숨은 동물형 행동이 겉으로 드러난다.",
     "usage": "",
     "boundary": "세계관이 정한 성향이며 현실 집단의 본성을 단정하는 개념은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-003017",
+      "description_ko": "《극장판 도라에몽: 진구의 비밀도구 박물관》에서 도라에몽은 목의 방울을 도둑맞은 뒤 몸을 핥고 네 발로 움직이는 고양이 같은 행동을 보인다. 평소의 인격 아래 숨은 동물형 행동이 겉으로 드러난다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

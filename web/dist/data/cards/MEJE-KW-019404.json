@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "일회성 악당의 성격이나 행동이 해당 에피소드가 전달하는 도덕적 교훈과 맞물리는 구성이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[신세기 에반게리온(TV 애니메이션)]]》의 이스라펠을 이기려면 신지와 아스카가 반목을 넘어 호흡을 맞춰야 한다. 괴물의 공략 조건이 두 인물이 배워야 할 협력을 구현한다.",
     "usage": "교훈을 말로만 설명하지 않고 [[갈등]]의 상대와 해결 방식으로 드러낸다.",
     "boundary": "아무 일회성 괴물이나 악당이 아니라 회차의 주제와 성격이 대응해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002496",
+      "description_ko": "《신세기 에반게리온(TV 애니메이션)》의 이스라펠을 이기려면 신지와 아스카가 반목을 넘어 호흡을 맞춰야 한다. 괴물의 공략 조건이 두 인물이 배워야 할 협력을 구현한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

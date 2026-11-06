@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "사건의 규칙과 배경을 다른 인물과 관객에게 전달하는 역할을 지속적으로 담당하는 등장인물이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[Batman Vampire]]》에서 배트맨은 초자연적 존재의 성질을 알기 위해 아리안에게 조언을 구하고, 각 편의 위기를 이해하는 정보가 그 대화로 전달된다.",
     "usage": "인물의 대화에 사건의 규칙과 배경을 실어 전달한다.",
     "boundary": "질문을 통해 설명을 이끌어 내는 인물과 역할이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-06",
+  "row_version": 3,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02513",
+      "work_card_id": "MM-MEDIA-003310",
+      "description_ko": "《Batman Vampire》에서 배트맨은 초자연적 존재의 성질을 알기 위해 아리안에게 조언을 구하고, 각 편의 위기를 이해하는 정보가 그 대화로 전달된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

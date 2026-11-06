@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F05",
   "description": {
     "definition": "상대가 한 기술이나 수단에 지나치게 의존한다고 판단했지만 다른 능력이나 대응도 가능하다는 사실에 의해 예측이 무너지는 전개다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼 Z(TV 애니메이션)]]》에서 콜드 대왕은 트랭크스가 프리저를 이긴 이유가 칼 때문이라고 생각한다. 그러나 칼을 빼앗아 공격해도 트랭크스는 맨손으로 막아 내며 그 판단을 뒤집는다.",
     "usage": "단순화한 상대 분석을 깨고 감춰 둔 역량을 드러낸다.",
     "boundary": "상대의 실제 한 가지 약점을 정확히 공략하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-002453",
+      "description_ko": "《드래곤볼 Z(TV 애니메이션)》에서 콜드 대왕은 트랭크스가 프리저를 이긴 이유가 칼 때문이라고 생각한다. 그러나 칼을 빼앗아 공격해도 트랭크스는 맨손으로 막아 내며 그 판단을 뒤집는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

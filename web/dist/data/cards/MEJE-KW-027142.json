@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F16",
   "description": {
     "definition": "큰 힘을 지닌 보석이나 광물이 사건의 추적·확보 목표가 된다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤볼(연작)]]》의 일곱 구슬은 모두 모으면 소원을 이루는 용을 부른다. 강한 힘을 가진 광물형 물건을 찾아 모으는 일이 인물들의 목표가 된다.",
     "usage": "자원의 형태와 비범한 효능을 쟁탈 동기에 결합한다.",
     "boundary": "이전 제안처럼 여러 광물을 모아야 하는 수집 구조가 필수는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "16",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-F02",
+      "work_card_id": "MM-MEDIA-001840",
+      "description_ko": "《드래곤볼(연작)》의 일곱 구슬은 모두 모으면 소원을 이루는 용을 부른다. 강한 힘을 가진 광물형 물건을 찾아 모으는 일이 인물들의 목표가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "이야기가 만들어지고 읽히는 구조나 허구의 경계를 드러내는 장치를 공포의 원인으로 사용하는 방식이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "인물은 고통이 누군가의 감상과 극적 효과를 위해 정해졌음을 깨달을 수 있다. 현실을 고치는 존재가 이야기 안에만 있는 [[변형]]도 있으며, 탈출 시도조차 창작 구조에 의존한다.\n\n작품 사례: 《[[델타룬]]》은 플레이어와 주인공 크리스를 별개의 존재로 다루며, 크리스가 외부의 조종에서 벗어나려는 모습을 보여 준다. 게임에서 익숙한 조작과 정해진 진행이 인물에게는 자유를 빼앗는 위협이 된다.",
+    "usage": "관객과 창작자가 가진 통제권을 인물의 선택권 [[상실]]과 연결하여 공포를 만든다.",
     "boundary": "단순한 자기 언급이나 관객에게 하는 농담과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003043",
+      "description_ko": "《델타룬》은 플레이어와 주인공 크리스를 별개의 존재로 다루며, 크리스가 외부의 조종에서 벗어나려는 모습을 보여 준다. 게임에서 익숙한 조작과 정해진 진행이 인물에게는 자유를 빼앗는 위협이 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

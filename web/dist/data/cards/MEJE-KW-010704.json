@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F25",
   "description": {
     "definition": "참가자들이 엄격한 수치나 판정 규칙보다 즉흥적인 협의와 연기로 인물과 이야기를 함께 만든다.",
-    "detail": "",
-    "usage": "",
-    "boundary": ""
+    "detail": "작품 사례: 《[[OtherSpace]]》는 원문에 [[스페이스 오페라]]·과학 판타지의 공동 [[서사]]로 소개된다. 게임 전체와 지역 단위의 이야기 흐름을 진행하며 필요하면 구조 자체를 바꿀 수 있다는 점에서 플레이어와 운영자가 이야기를 함께 만드는 MUSH의 예가 된다.",
+    "usage": "판정 권한·충돌 조정·연속성의 책임을 참가자에게 어떻게 배분할지 정한다.",
+    "boundary": "규칙이 전혀 없다는 뜻은 아니며 공유된 세계와 합의의 기준을 필요로 한다. 특정 온라인 프로그램만의 이름도 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "25",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003372",
+      "description_ko": "《OtherSpace》는 원문에 [[스페이스 오페라]]·과학 판타지의 공동 서사로 소개된다. 게임 전체와 지역 단위의 이야기 흐름을 진행하며 필요하면 구조 자체를 바꿀 수 있다는 점에서 플레이어와 운영자가 이야기를 함께 만드는 MUSH의 예가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

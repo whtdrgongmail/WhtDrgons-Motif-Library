@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F12",
   "description": {
     "definition": "토끼의 몸에 유니콘처럼 하나의 뿔이 난 모습으로 제시되는 아랍계 전승의 환상 생물이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[드래곤 퀘스트 III]]》에 도입된 뿔토끼 계열은 토끼 같은 몸과 황금빛 뿔을 가진 모습으로 설명된다. 전승적 공포보다 게임의 작은 몬스터로 변형한 사례다.",
     "usage": "익숙한 동물과 신화적 표지를 결합한 생물 디자인에 쓴다.",
     "boundary": "뿔이 없는 보통 토끼나 단순한 유니콘과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "12",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-001465",
+      "description_ko": "《드래곤 퀘스트 III》에 도입된 뿔토끼 계열은 토끼 같은 몸과 황금빛 뿔을 가진 모습으로 설명된다. 전승적 공포보다 게임의 작은 몬스터로 변형한 사례다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F03",
   "description": {
     "definition": "환자에게 의료적 처치를 수행하는 일이 주요 목표와 상호작용을 이루는 게임 형식이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "작품 사례: 《[[아마추어 서전]]》은 갈수록 어려워지는 환자의 수술을 수행하는 일을 게임의 핵심 목표로 삼는다.",
+    "usage": "진단과 처치의 순서를 플레이 목표와 선택의 결과로 변환한다.",
     "boundary": "의료인이 등장하거나 체력 회복 아이템이 있다는 이유만으로 포함하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "03",
     "review_status": "provisional",
@@ -34,7 +34,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-002963",
+      "description_ko": "《아마추어 서전》은 갈수록 어려워지는 환자의 수술을 수행하는 일을 게임의 핵심 목표로 삼는다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

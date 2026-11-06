@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F23",
   "description": {
     "definition": "한 문장을 말하는 도중 인물의 정신 상태가 바뀌어 뒤의 발화가 앞과 이어지지 않거나 뜻을 잃는 연출이다. 변화의 순간이 문장의 단절로 드러난다.",
-    "detail": "",
+    "detail": "같은 발화 안에서 목소리·말투·화제·인격의 변화가 갑자기 드러난다. 빙의나 약물 등 여러 원인이 가능하지만 실제 정신질환의 진단 기준이 아니라 변화를 보여 주는 연출이다.\n\n작품 사례: 《[[배트맨: 애니메이티드 시리즈]]》의 할리는 조커를 비난하는 내적 독백을 하다가 그가 보낸 꽃을 보고 마지막 평가를 정반대로 바꾼다. 문장이 이어지는 동안 인물의 태도가 급변한다.",
     "usage": "통제·기억·의식의 변화가 일어나는 정확한 순간을 대사로 보여 줄 때 쓴다.",
     "boundary": "처음부터 횡설수설하거나 생각을 바꾸어 정상적으로 말을 정정하는 것과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001819",
+      "description_ko": "《배트맨: 애니메이티드 시리즈》의 할리는 조커를 비난하는 내적 독백을 하다가 그가 보낸 꽃을 보고 마지막 평가를 정반대로 바꾼다. 문장이 이어지는 동안 인물의 태도가 급변한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

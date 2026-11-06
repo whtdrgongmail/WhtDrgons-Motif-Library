@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "특정 말·사물·상황을 마주할 때 인물에게 슬픔이 일어나도록 반복되는 반응 조건이다.",
-    "detail": "",
-    "usage": "",
+    "detail": "회복한 직후에도 같은 계기가 다시 슬픔을 일으킬 수 있다. 모든 일에 우울한 인물이나 누구에게나 영향을 주는 자극과는 구별한다.\n\n작품 사례: 《[[드래곤볼 슈퍼(애니메이션)]]》에서 마겟타는 베지터가 자신을 고철이라고 부르자 울며 싸울 의지를 잃는다. 강한 전투 능력과 별개로 특정 모욕이 감정을 무너뜨리는 계기가 된다.",
+    "usage": "평소 활발한 인물의 특정 약점을 드러내고 같은 자극이 반복될 때 행동이 멈추는 패턴을 만든다.",
     "boundary": "반드시 외상 경험이나 질환을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001943",
+      "description_ko": "《드래곤볼 슈퍼(애니메이션)》에서 마겟타는 베지터가 자신을 고철이라고 부르자 울며 싸울 의지를 잃는다. 강한 전투 능력과 별개로 특정 모욕이 감정을 무너뜨리는 계기가 된다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

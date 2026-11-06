@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "대마 사용을 극단적인 환각과 현실 지각의 붕괴로 과장해 보여 주는 매체 표현 관습이다. 다양한 약물의 효과를 하나의 익숙한 환각 이미지로 단순화한다.",
-    "detail": "",
+    "detail": "왜곡된 형상과 초현실적 공간으로 취한 상태를 시각화한다. 원문의 약물 효과·비율·복용 방식 설명은 현실의 의학 정보로 옮기지 않고 표현 관습만 다룬다.\n\n작품 사례: 《[[새터데이 나이트 라이브]]》의 한 촌극은 대마 성분 젤리를 잘못 먹은 경찰이 거대한 젤리 곰과 비현실적인 형상을 보는 식으로 상태를 과장해 표현한다.",
     "usage": "약물 묘사가 어떤 시각적 상투형으로 단순화되는지 살필 때 쓴다.",
     "boundary": "실제 약물 효과에 대한 설명이나 의학적 판단이 아니다. 작품의 과장과 표현 선택을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00061",
+      "work_card_id": "MM-MEDIA-002730",
+      "description_ko": "《새터데이 나이트 라이브》의 한 촌극은 대마 성분 젤리를 잘못 먹은 경찰이 거대한 젤리 곰과 비현실적인 형상을 보는 식으로 상태를 과장해 표현한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

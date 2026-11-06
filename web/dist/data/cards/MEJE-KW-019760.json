@@ -10,13 +10,13 @@
   "primary_tag_id": "ML-F09",
   "description": {
     "definition": "무적이고 용감하다고 자랑하던 인물이 실제 위험에 처하자 비겁한 행동을 보여 말과 용기의 간극을 드러낸다.",
-    "detail": "",
+    "detail": "병사뿐 아니라 사냥꾼·모험가·영웅을 자처하는 인물에게도 나타난다. 위험이 사라지면 다시 허풍을 이어 가며, 거짓말이 불안의 가면인지 의도적인 사기인지에 따라 해석이 달라진다.\n\n작품 사례: 《[[해리 포터와 비밀의 방]]》의 록허트는 자신의 모험을 자랑하지만 실제 위기를 해결해 달라는 요구를 받자 도망치려 한다. 명성과 용기의 간극이 드러나며 남의 공적을 가로챘다는 사실도 밝혀진다.",
     "usage": "",
     "boundary": "실력 부족만 있는 영웅과 달리 용기 과장과 두려움의 폭로가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "09",
     "review_status": "provisional",
@@ -30,7 +30,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00066",
+      "work_card_id": "MM-MEDIA-001696",
+      "description_ko": "《해리 포터와 비밀의 방》의 록허트는 자신의 모험을 자랑하지만 실제 위기를 해결해 달라는 요구를 받자 도망치려 한다. 명성과 용기의 간극이 드러나며 남의 공적을 가로챘다는 사실도 밝혀진다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F28",
   "description": {
     "definition": "짝짓기와 연결해 암컷 사마귀가 수컷을 먹는 모습을 위험한 친밀감의 이미지로 제시하는 재현이다.",
-    "detail": "",
+    "detail": "사마귀의 짝짓기와 포식을 죽음의 농담이나 위험한 연애의 [[상징]]으로 연결한다. 원문도 포식이 항상 일어나는 것은 아니라고 구별하므로 이를 생물의 고정 법칙으로 쓰지 않는다.\n\n작품 사례: 《[[쿵푸팬더 2]]》의 사마귀는 결혼 뒤 아내에게 머리를 먹히는 일을 예상했다고 말하여 사마귀의 짝짓기 포식 이미지를 희극으로 사용한다.",
     "usage": "친밀함과 포식의 충돌을 상징적 사건으로 표현한다.",
     "boundary": "모든 사마귀의 행동을 보편화하는 생태 설명이나 실제 인간 관계의 성별 일반화로 사용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-06",
+  "row_version": 2,
   "classification": {
     "code": "28",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 2
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001459",
+      "description_ko": "《쿵푸팬더 2》의 사마귀는 결혼 뒤 아내에게 머리를 먹히는 일을 예상했다고 말하여 사마귀의 짝짓기 포식 이미지를 희극으로 사용한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }

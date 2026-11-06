@@ -8,13 +8,13 @@
   "primary_tag_id": "ML-F11",
   "description": {
     "definition": "[[인물]]이 과거의 결정적 실패를 계속 기억하며 현재의 판단과 자책에 영향을 받는 [[설정]]이다.",
-    "detail": "",
+    "detail": "작품 사례: 《[[니모를 찾아서]]》의 말린은 아내와 알들을 지키지 못했다는 [[죄책감]] 때문에 살아남은 아들 니모를 과보호한다. 니모를 찾는 여정은 그 실패가 현재의 양육을 지배하는 방식을 돌아보게 한다.",
     "usage": "하나의 과거 실패가 현재의 과도한 경계, 재도전, 자기 평가에 미치는 영향을 설명할 때 쓴다.",
     "boundary": "여러 작은 실수를 똑같이 자책하는 경우보다 특정 실패의 지속적 영향이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-06",
+  "row_version": 4,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -28,7 +28,15 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T02512",
+      "work_card_id": "MM-MEDIA-001397",
+      "description_ko": "《니모를 찾아서》의 말린은 아내와 알들을 지키지 못했다는 죄책감 때문에 살아남은 아들 니모를 과보호한다. 니모를 찾는 여정은 그 실패가 현재의 양육을 지배하는 방식을 돌아보게 한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 1
+    }
+  ],
   "related_motifs": [],
   "references": []
 }
