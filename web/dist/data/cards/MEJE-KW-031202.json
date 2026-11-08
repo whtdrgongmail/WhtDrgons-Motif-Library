@@ -1,0 +1,41 @@
+{
+  "id": "MEJE-KW-031202",
+  "kind": "keyword",
+  "title": "숨은 안전 경로를 추론하는 퍼즐",
+  "original": "Path Deduction Puzzle",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "겉으로 드러나지 않는 올바른 이동 경로를 단서와 실패 결과로 알아내어 통과하는 게임 퍼즐이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "멀쩡해 보이는 바닥 중 어디를 밟아야 안전한지 추리하며 건너간다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-08",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "보이지 않는 발판을 찾아야 할 수도 있고, 모두 같은 바닥처럼 보이지만 일부가 위험할 수도 있다. 잘못된 선택은 추락이나 피해, 적의 출현 등으로 표시된다. 핵심은 그 결과와 별도의 단서가 다음 선택에 쓰일 수 있다는 점이며, 단서가 충분하지 않으면 추론보다 반복 시행에 의존하는 과제로 바뀐다.\n\n잠깐 드러난 경로를 기억하게 하거나, 다른 곳의 지도를 현재 지형에 대응시키거나, 실패한 칸을 제외해 길을 좁혀 가는 변형이 가능하다. 모든 구역을 단순히 밝히면 해결되는 어둠과는 정보 구조가 다르다. 갈림길의 막다른 길을 탐색하는 미로와도 구별되지만, 안전한 경로 자체가 여러 갈래로 나뉘면 두 방식이 겹칠 수 있다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-08",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

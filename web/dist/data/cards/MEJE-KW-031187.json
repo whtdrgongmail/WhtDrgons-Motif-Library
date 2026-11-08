@@ -1,0 +1,41 @@
+{
+  "id": "MEJE-KW-031187",
+  "kind": "keyword",
+  "title": "고리를 차례로 통과하는 임무",
+  "original": "Pass Through the Rings",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "정해진 경로에 배치된 고리들을 이동 수단이나 캐릭터로 통과하도록 요구하는 게임 임무이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "비행하거나 달리면서 눈앞의 고리를 빠짐없이 지나가야 하는 과제다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-08",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "고리는 보이지 않는 이동 경로를 화면에 드러내면서 통과 여부를 판정하는 지점이 된다. 배열의 높낮이와 간격, 방향 전환의 폭으로 조작 능력을 시험할 수 있고, 제한 시간을 더하면 정확성과 속도를 함께 요구한다. 경쟁 상대의 진행 속도나 잠시 뒤 사라지는 고리도 같은 압박을 만들 수 있다.\n\n앞서 가는 대상이 남기는 물체를 따라가며 회복 자원이나 다음 통과 지점을 얻는 변형도 있다. 이때 경로는 단순한 안내를 넘어 계속 움직일 조건을 제공한다. 고리가 보인다는 외형만으로 판단하지 않고, 실제 임무가 통과 순서와 이동 숙련을 요구하는지 살펴야 한다. 자유 탐색이나 고리 모양 아이템 수집과 겹칠 수 있지만 반드시 같은 규칙은 아니다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-08",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

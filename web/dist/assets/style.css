@@ -144,6 +144,7 @@ html[data-theme=dark] .meje-brand img{filter:none}
 .longform-article h3{font-size:19px;font-weight:650;letter-spacing:-.4px;margin:0 0 22px}
 .longform-article p{font-size:16px;line-height:1.9;word-break:keep-all;overflow-wrap:anywhere;margin:0 0 18px}
 .longform-article p:last-child{margin-bottom:0}
+.review-draft-label{display:inline-block;vertical-align:middle;margin-left:8px;padding:2px 7px;border:1px solid var(--line);border-radius:999px;color:var(--muted);font-size:11px;font-weight:500;letter-spacing:0}
 .reference-links{grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
 .reference-links li{border:1px solid var(--line);border-radius:18px;background:var(--surface);padding:18px 12px 15px;text-align:center;min-width:0}
 .reference-links li a.reference-app{display:flex;flex-direction:column;justify-content:flex-start;align-items:center;gap:7px;min-height:100px;color:var(--ink)}

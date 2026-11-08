@@ -22,10 +22,10 @@
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "상대가 어떤 카드를 쓸 수 있는지까지 건드린다.\n\n작품 사례: 《[[포켓몬 카드 게임]]》의 아이앤트 덱은 상대 덱 위의 카드를 버리게 하는 효과를 반복하여 상대의 남은 자원을 줄인다.",
+    "easy_ko": "상대가 어떤 카드를 쓸 수 있는지까지 건드린다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-08",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,23 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000046",
+      "card_id": "MEJE-KW-027592",
+      "label_ko": "아이앤트 카드 공식 데이터베이스",
+      "icon_key": "game",
+      "url": "https://www.pokemon.com/uk/pokemon-tcg/pokemon-cards/series/bw3/83/",
+      "description_ko": "Noble Victories 아이앤트의 상대 덱 제거 효과를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "카드 게임에서 상대가 보유하거나 앞으로 뽑을 카드에 직접 개입하는 규칙 또는 전술이다. 상대의 덱을 버리거나 섞고, 손패를 줄이거나 바꾸어 기존에 준비한 선택을 어렵게 만든다. 공개된 전장에 나온 카드만 상대하는 전투와 달리, 아직 쓰이지 않은 자원과 다음 행동의 가능성을 건드린다.\n\n개입하는 위치에 따라 효과도 달라진다. [[손패]]를 건드리면 당장 가능한 행동이 줄어들고, [[덱]]의 구성을 바꾸면 이후의 선택이 달라진다. 카드의 양을 줄이지 않아도 순서를 바꾸면 상대가 알고 있던 정보를 쓸모없게 만들 수 있다. 상대가 무엇을 준비했는지에 대한 추측과 개입 시점의 판단이 전술의 일부가 된다.\n\n《[[포켓몬 카드 게임]]》의 아이앤트 카드 가운데 Noble Victories에 수록된 카드는 자신의 필드에 있는 아이앤트 수에 따라 상대 덱 위의 카드를 버리게 한다. 아이앤트를 여러 마리 전개하는 전략은 상대 포켓몬을 쓰러뜨리는 것과 다른 방향에서 남은 자원을 압박한다.\n\n규칙이 허용한 개입과 몰래 카드를 바꾸는 부정행위는 구별해야 한다. 또한 버려진 카드가 재사용되거나 버리는 행위 자체가 이득이 되는 게임에서는 무조건 방해가 되지 않는다. 제거된 카드가 어디로 가고 이후에 어떻게 쓰일 수 있는지가 효과를 결정한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-07",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

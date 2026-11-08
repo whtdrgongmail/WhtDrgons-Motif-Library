@@ -1,0 +1,41 @@
+{
+  "id": "MEJE-KW-031420",
+  "kind": "keyword",
+  "title": "제자리에서 회전하는 거대 보스",
+  "original": "Pivotal Boss",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "전투 공간의 중심에 고정된 거대 보스가 몸을 회전해 주변을 도는 플레이어를 상대하는 전투 구성이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "보스는 걸어오지 않고 가운데서 방향을 바꾸며 원형 공간의 플레이어를 노린다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-08",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "보스의 거대한 크기를 유지하면서도 전투를 움직이게 하는 방식이다. 보스의 위치는 고정되어 있지만 바라보는 방향과 공격 범위가 바뀌므로 플레이어는 주변을 이동하며 다음 위험을 읽어야 한다. 위치 이동 대신 회전이 추적의 역할을 맡는다.\n\n공격이 안전한 공간을 줄이거나 일부 통로를 막으면 단순히 원을 그리며 달리는 해결법에도 변화가 생긴다. 몸의 어느 면이 열리는지, 회전에 시간이 걸리는지 등의 규칙은 접근과 회피의 리듬을 정한다. 제자리에 서 있는 보스 전체를 뜻하지 않으며, 중심을 축으로 방향을 바꾸는 동작과 주변 공간의 관계가 핵심이다. 이야기에서 중요하다는 의미의 결정적 보스와는 무관하다.",
+    "review_status": "draft",
+    "updated_at": "2026-11-08",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
+}

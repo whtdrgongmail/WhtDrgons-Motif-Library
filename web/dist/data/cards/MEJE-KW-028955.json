@@ -30,5 +30,23 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000040",
+      "card_id": "MEJE-KW-028955",
+      "label_ko": "언리얼 엔진 빌보드 구성요소",
+      "icon_key": "website",
+      "url": "https://dev.epicgames.com/documentation/unreal-engine/rendering-components-in-unreal-engine?lang=en-US",
+      "description_ko": "카메라를 향하는 평면 텍스처와 활용 설명",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "입체 공간을 그리는 게임에서도 배경의 모든 물체를 입체 모형으로 만들 필요는 없다. 멀리 있는 풀이나 나무, 건물의 장식처럼 특정 거리와 각도에서만 보이는 요소는 평면 그림으로 배치할 수 있다. 카메라를 향해 평면을 돌리는 방식이라면 플레이어가 이동해도 그림의 앞면이 보인다. 화면에는 부피가 있는 물체처럼 섞이지만, 실제 지오메트리는 얇은 면에 가깝다.\n\n이 표현은 제작 시간과 화면 처리 비용을 줄이거나 특정한 그림체를 유지하기 위해 쓰일 수 있다. 효과는 관찰 거리와 시점에 좌우된다. 가까이 다가가거나 옆에서 볼 수 있는 물체라면 평면이라는 사실이 드러나기 쉽고, 물체와 물리적으로 상호작용해야 한다면 별도의 입체 형태나 충돌 처리가 필요할 수 있다. 따라서 평면 스프라이트의 존재만으로 제작 오류라고 판단하지 않고, 작품이 허용하는 시점과 상호작용 범위 안에서 평가한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

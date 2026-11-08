@@ -1,20 +1,20 @@
 {
   "id": "MEJE-KW-029025",
   "kind": "keyword",
-  "title": "문맥에 그럴듯하게 맞는 잘못 들은 말",
+  "title": "발음이 비슷한 말의 그럴듯한 재해석",
   "original": "eggcorn",
   "aliases": [],
   "tag_id": null,
   "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "원래 단어나 구절을 비슷한 소리의 다른 표현으로 알아듣되 그 대체 표현도 문맥상 그럴듯한 뜻을 이루는 현상이다.",
+    "definition": "기존 단어나 관용구를 소리가 비슷한 다른 표현으로 바꾸어 말하거나 쓰면서, 새 표현도 문맥에서 의미가 통한다고 받아들이는 현상이다.",
     "detail": "",
     "usage": "",
-    "boundary": "의미 없는 소리로 잘못 듣는 경우와 달리 대체 표현의 문맥적 설득력이 핵심이다."
+    "boundary": "단순한 오청이나 의미 없는 오타와 달리 대체 표현이 화자에게 설명 가능한 뜻을 가져야 한다."
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -22,13 +22,31 @@
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "틀리게 들었지만 말뜻이 맞는 것 같아 자연스럽게 믿게 된다.",
+    "easy_ko": "익숙한 말을 소리가 비슷한 다른 말로 바꿔 말하거나 쓰는데, 바뀐 말도 그럴듯한 뜻이 되는 경우다.",
     "review_status": "reviewed",
     "updated_at": "2026-11-06",
-    "row_version": 2
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000041",
+      "card_id": "MEJE-KW-029025",
+      "label_ko": "Language Log의 eggcorn 설명",
+      "icon_key": "article",
+      "url": "https://languagelog.ldc.upenn.edu/nll/?p=3543",
+      "description_ko": "용어의 성립과 의미 있는 재해석 설명",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "발음이 비슷한 말을 다른 단어나 구절로 다시 풀이하면서, 바뀐 표현도 그 상황에 맞는 뜻으로 받아들이는 현상이다. 영어의 acorn을 egg corn으로 이해한 사례에서는 소리가 비슷할 뿐 아니라 씨앗의 모양을 알처럼 해석할 여지도 있다. 이처럼 표현을 바꾼 사람이 새 말의 뜻을 스스로 설명할 수 있다는 점이 중요하다.\n\n반드시 한 번 잘못 듣는 사건에서만 생기는 것은 아니다. 익숙하지 않은 말을 기억하거나 글로 옮기는 과정에서도 비슷한 소리와 의미를 결합할 수 있다. 말소리만 헷갈린 뒤 의미 없는 음절을 내는 경우나 단순한 오타와는 구별한다. 작품에서는 인물의 어휘 지식, 지역 표현, 언어 습관을 보여 주는 장치로 쓸 수 있지만, 실제 언어 사용자를 지능이 낮은 인물로 단정하는 근거로 삼아서는 안 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-06",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }
