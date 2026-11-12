@@ -4,8 +4,8 @@
   "title": "모든 술집에서 쫓겨난 손님",
   "original": "Barred from Every Bar",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00938",
+  "primary_tag_id": "ML-T00938",
   "description": {
     "definition": "가는 곳마다 문제를 일으켜 더는 받아 주는 술집이 없는 인물. 반복되는 출입 거절만으로 생활 습관과 지역 사회의 평판을 드러낸다. 손님의 사정을 아는 [[고민을 듣는 바텐더]]도 더는 그를 받아 주지 않을 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "잦은 소란과 부적절한 행동 때문에 여러 술집에서 출입을 거부당한 인물이다. 거절의 범위가 넓을수록 문제 행동이 한 번의 실수가 아니라 반복된 평판으로 드러난다.\n\n평소 받아 주던 장소까지 막히면 사회적 고립과 생활의 악순환을 표현할 수 있다. 희극에서는 갈 곳을 찾을 때마다 같은 거절을 당하며 과거의 행적이 드러난다.\n\n술을 마시지 못하는 사람이나 단일 업소와 다툰 사람과는 다르다. 장소를 바꾸어도 따라오는 불명예와 행동의 반복이 인물 유형의 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "잦은 소란과 부적절한 행동 때문에 여러 술집에서 출입을 거부당한 인물이다. 거절의 범위가 넓을수록 문제 행동이 한 번의 실수가 아니라 반복된 평판으로 드러난다.\n\n평소 받아 주던 장소까지 막히면 사회적 고립과 생활의 악순환을 표현할 수 있다. 희극에서는 갈 곳을 찾을 때마다 같은 거절을 당하며 과거의 행적이 드러난다.\n\n술을 마시지 못하는 사람이나 단일 업소와 다툰 사람과는 다르다. 장소를 바꾸어도 따라오는 불명예와 행동의 반복이 인물 유형의 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

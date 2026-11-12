@@ -4,8 +4,8 @@
   "title": "같은 소리의 숫자로 단어를 적기",
   "original": "Letters 2 Numbers",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01990",
+  "primary_tag_id": "ML-T01990",
   "description": {
     "definition": "단어나 음절을 발음이 같은 숫자로 바꾸어 적는다.",
     "detail": "작품 사례: 《[[마다가스카 2]]》의 원제 Madagascar: Escape 2 Africa는 to 자리에 2를 넣는다. 이동 방향을 나타내는 말과 후속작의 숫자를 한 표기에 겹친다.",
@@ -13,10 +13,10 @@
     "boundary": "글자 모양을 닮은 기호로 바꾸는 방식과 달리 소리의 일치가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "단어와 음절을 발음이 비슷한 숫자로 바꾸어 적는 [[말장난]]이다. 숫자의 뜻보다 읽는 소리가 문자 역할을 한다.\n\n짧은 메시지와 제목에서 글자 수를 줄이거나 독특하고 가벼운 인상을 줄 수 있다. 속편의 숫자를 문장 속 발음과 겹치면 작품의 순서와 문구를 한꺼번에 전달한다.\n\n숫자의 모양이 글자와 닮아서 바꾸는 표기와는 원리가 다르다. 언어와 발음 지식에 의존하므로 다른 언어로 옮길 때 같은 효과가 유지되지 않을 수 있으며, 읽는 방식이 모호해지는 문제도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "단어와 음절을 발음이 비슷한 숫자로 바꾸어 적는 [[말장난]]이다. 숫자의 뜻보다 읽는 소리가 문자 역할을 한다.\n\n짧은 메시지와 제목에서 글자 수를 줄이거나 독특하고 가벼운 인상을 줄 수 있다. 속편의 숫자를 문장 속 발음과 겹치면 작품의 순서와 문구를 한꺼번에 전달한다.\n\n숫자의 모양이 글자와 닮아서 바꾸는 표기와는 원리가 다르다. 언어와 발음 지식에 의존하므로 다른 언어로 옮길 때 같은 효과가 유지되지 않을 수 있으며, 읽는 방식이 모호해지는 문제도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

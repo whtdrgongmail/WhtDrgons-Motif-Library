@@ -4,8 +4,8 @@
   "title": "침실에서 만든 듯한 친밀한 팝",
   "original": "Bedroom Pop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-002926",
+  "primary_tag_id": "MEJE-KW-002926",
   "description": {
     "definition": "집에서 직접 음악을 만드는 문화와 가까운 목소리·절제된 소리의 친밀감이 연결되는 팝 음악 갈래. 실제 녹음 장소와 청감은 함께 살피되, 침실에서 녹음했는지나 특정 악기 수만으로 장르를 판정하지 않는다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소규모 제작의 친밀한 분위기와 개인적인 고백을 강조하는 [[인디 팝]]의 양식이다. 과도하게 화려한 제작보다 가까이서 말하듯 들리는 보컬과 간결한 구성을 내세운다.\n\n숨소리와 작은 음향의 층은 개인 공간에서 만든 듯한 인상을 준다. 가사도 거대한 사건보다 사적인 감정에 집중하여 제작의 규모와 정서적 거리를 연결할 수 있다.\n\n실제 침실에서 녹음해야만 하는 장르는 아니다. 제작 장소와 양식적 특징은 구별되며 간소한 음향이 기술적 미숙함을 뜻하는 것도 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소규모 제작의 친밀한 분위기와 개인적인 고백을 강조하는 [[인디 팝]]의 양식이다. 과도하게 화려한 제작보다 가까이서 말하듯 들리는 보컬과 간결한 구성을 내세운다.\n\n숨소리와 작은 음향의 층은 개인 공간에서 만든 듯한 인상을 준다. 가사도 거대한 사건보다 사적인 감정에 집중하여 제작의 규모와 정서적 거리를 연결할 수 있다.\n\n실제 침실에서 녹음해야만 하는 장르는 아니다. 제작 장소와 양식적 특징은 구별되며 간소한 음향이 기술적 미숙함을 뜻하는 것도 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

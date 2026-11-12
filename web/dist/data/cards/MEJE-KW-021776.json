@@ -4,8 +4,8 @@
   "title": "비밀 대화를 알아들은 상대",
   "original": "Bilingual Backfire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02000",
+  "primary_tag_id": "ML-T02000",
   "description": {
     "definition": "상대가 모르는 언어라고 생각해 나눈 비밀 대화가 실제로는 이해되고 있어 정보가 드러난다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "험담뿐 아니라 비밀 지시와 정보 전달도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상대가 모른다고 여긴 언어로 한 대화를 그 사람이 실제로 이해하고 있었던 상황이다. 언어 장벽을 믿고 숨긴 정보가 그대로 노출된다.\n\n험담이나 비밀을 말하던 사람이 뒤늦게 같은 언어의 답변을 들으면 우위가 뒤집힌다. 듣던 사람이 언제 정체를 밝히느냐에 따라 모욕에 대한 응수나 정보전의 장면이 된다.\n\n언어를 추측한 기준이 외모와 출신에만 의존했다면 편견도 드러날 수 있다. 단순한 통역 장면과 달리 이해하지 못할 것이라는 잘못된 전제가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상대가 모른다고 여긴 언어로 한 대화를 그 사람이 실제로 이해하고 있었던 상황이다. 언어 장벽을 믿고 숨긴 정보가 그대로 노출된다.\n\n험담이나 비밀을 말하던 사람이 뒤늦게 같은 언어의 답변을 들으면 우위가 뒤집힌다. 듣던 사람이 언제 정체를 밝히느냐에 따라 모욕에 대한 응수나 정보전의 장면이 된다.\n\n언어를 추측한 기준이 외모와 출신에만 의존했다면 편견도 드러날 수 있다. 단순한 통역 장면과 달리 이해하지 못할 것이라는 잘못된 전제가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,17 +4,17 @@
   "title": "Cosmo's Cosmic Adventure",
   "original": "Cosmo's Cosmic Adventure",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "이 카드는 비디오게임 《Cosmo's Cosmic Adventure》를 가리킨다. 이 라이브러리에서는 [[최대 체력을 늘리는 획득물]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Cosmo's Cosmic Adventure에서는 햄버거를 얻으면 최대 체력이 영구적으로 한 칸 늘어나, 이후 단계에서도 더 많은 공격을 버틸 수 있다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -47,5 +47,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Cosmo's Cosmic Adventure》는 Apogee가 제작한 MS-DOS용 플랫폼 게임이다. 가족의 우주선이 한 행성에 불시착한 뒤 부모를 잃어버린 외계인 코스모가 그들을 찾아 나선다.\n\n코스모의 손에 달린 흡착판은 벽을 오르는 이동 수단이다. 플레이어는 이 능력을 이용해 지형을 통과하고, 세 에피소드에 걸친 스테이지에서 적과 함정을 피한다.\n\n별을 모은 수량에 따라 보너스 구역에 갈 수 있어 탐색과 점수 획득이 연결된다. 음악은 Adlib 호환 장치를 지원하지만 효과음은 PC 스피커를 사용한다는 점도 당시 게임의 기술적 특징이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Cosmo's Cosmic Adventure》는 Apogee가 제작한 MS-DOS용 플랫폼 게임이다. 가족의 우주선이 한 행성에 불시착한 뒤 부모를 잃어버린 외계인 코스모가 그들을 찾아 나선다.\n\n코스모의 손에 달린 흡착판은 벽을 오르는 이동 수단이다. 플레이어는 이 능력을 이용해 지형을 통과하고, 세 에피소드에 걸친 스테이지에서 적과 함정을 피한다.\n\n별을 모은 수량에 따라 보너스 구역에 갈 수 있어 탐색과 점수 획득이 연결된다. 음악은 Adlib 호환 장치를 지원하지만 효과음은 PC 스피커를 사용한다는 점도 당시 게임의 기술적 특징이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

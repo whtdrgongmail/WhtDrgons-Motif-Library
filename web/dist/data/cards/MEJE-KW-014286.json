@@ -4,8 +4,8 @@
   "title": "영웅·라이벌·악당의 공동 전선",
   "original": "Hero, Rival, Baddie Team-Up",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01021",
+  "primary_tag_id": "ML-T01021",
   "description": {
     "definition": "영웅과 경쟁자가 공통의 더 큰 위협을 맞아 평소 적대하던 악당까지 포함한 세 축의 협력 집단을 이루는 구도다.",
     "detail": "작품 사례: [[EXTRAPOWER: Attack of Darkforce]]에서 조피는 [[라이벌]] V뿐 아니라 오랜 적 블랙베리와도 지구 방어에 나선다. 블랙베리의 야망은 남아 있지만 다크 포스라는 더 급한 위협 때문에 함께 싸운다.",
@@ -13,14 +13,20 @@
     "boundary": "적 한 명과의 임시 협력과 달리 경쟁자와 악당의 서로 다른 관계 축이 모두 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "늘 다투던 라이벌과 악당이 이번에는 주인공 옆에서 함께 싸운다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영웅이 경쟁자와 악당을 모두 포함해 더 급한 위협에 맞서는 공동 전선이다. 각자 다른 관계와 목적을 가진 세 축이 협력 안에 유지된다.\n\n적 한 명과 잠시 손잡는 구도만으로는 충분하지 않다. [[라이벌]]과 악당의 구분이 필요하며 협력이 악당의 야망을 반드시 없애는 것은 아니다.\n\n[[EXTRAPOWER: Attack of Darkforce]]의 조피는 V와 오랜 적 블랙베리와 함께 지구를 방어한다. 블랙베리의 야망은 남지만 다크 포스의 위협이 우선되어 협력이 성립한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영웅이 경쟁자와 악당을 모두 포함해 더 급한 위협에 맞서는 공동 전선이다. 각자 다른 관계와 목적을 가진 세 축이 협력 안에 유지된다.\n\n적 한 명과 잠시 손잡는 구도만으로는 충분하지 않다. [[라이벌]]과 악당의 구분이 필요하며 협력이 악당의 야망을 반드시 없애는 것은 아니다."
+      ],
+      [
+        "관련 작품",
+        "[[EXTRAPOWER: Attack of Darkforce]]의 조피는 V와 오랜 적 블랙베리와 함께 지구를 방어한다. 블랙베리의 야망은 남지만 다크 포스의 위협이 우선되어 협력이 성립한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

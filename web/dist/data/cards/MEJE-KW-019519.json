@@ -4,8 +4,8 @@
   "title": "영화 음악과 구별되는 인도 팝",
   "original": "Indi-Pop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-019519",
+  "primary_tag_id": "MEJE-KW-019519",
   "description": {
     "definition": "인도 대중음악 가운데 영화의 삽입곡을 중심으로 하지 않고 가수의 앨범과 뮤직비디오를 중심으로 형성된 팝 음악 계열이다.",
     "detail": "작품 사례: 알리샤 치나이의 앨범 《[[메이드 인 인디아]]》는 인디팝 신을 널리 알린 작품 사례다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-03",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인도의 대중음악 가운데 영화의 삽입곡과 별개로 앨범과 가수의 활동을 중심에 둔 팝 음악 장면을 가리킨다. 영화 속 인물과 줄거리에 속한 노래가 아니라 독립적인 음반과 [[뮤직비디오]]로 청중을 만난다는 점이 주요 구분 기준이다. 특정한 하나의 음색이나 리듬만으로 정의되는 장르는 아니다.\n\n텔레비전의 음악 영상과 전문 음악 채널은 가수의 이미지와 곡을 함께 알리는 중요한 통로가 되었다. 독립 음반의 노래가 영화 홍보 없이 대중에게 도달할 수 있는 유통 환경이 성장에 영향을 주었다. 따라서 음악적 특징뿐 아니라 방송과 음반 시장의 구조가 장면의 형성을 설명한다.\n\n영화 음악과 완전히 분리된 인력 집단은 아니며, 인기를 얻은 가수가 영화 산업으로 이동할 수도 있다. 두 영역의 음악적 스타일과 홍보 방식이 가까워지면 경계가 흐려진다. 인도에서 제작된 모든 팝이나 독립 록 음악을 같은 역사적 장면으로 묶기보다 비영화 음반 중심이라는 맥락을 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인도의 대중음악 가운데 영화의 삽입곡과 별개로 앨범과 가수의 활동을 중심에 둔 팝 음악 장면을 가리킨다. 영화 속 인물과 줄거리에 속한 노래가 아니라 독립적인 음반과 [[뮤직비디오]]로 청중을 만난다는 점이 주요 구분 기준이다. 특정한 하나의 음색이나 리듬만으로 정의되는 장르는 아니다.\n\n텔레비전의 음악 영상과 전문 음악 채널은 가수의 이미지와 곡을 함께 알리는 중요한 통로가 되었다. 독립 음반의 노래가 영화 홍보 없이 대중에게 도달할 수 있는 유통 환경이 성장에 영향을 주었다. 따라서 음악적 특징뿐 아니라 방송과 음반 시장의 구조가 장면의 형성을 설명한다.\n\n영화 음악과 완전히 분리된 인력 집단은 아니며, 인기를 얻은 가수가 영화 산업으로 이동할 수도 있다. 두 영역의 음악적 스타일과 홍보 방식이 가까워지면 경계가 흐려진다. 인도에서 제작된 모든 팝이나 독립 록 음악을 같은 역사적 장면으로 묶기보다 비영화 음반 중심이라는 맥락을 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

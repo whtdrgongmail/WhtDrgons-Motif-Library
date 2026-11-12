@@ -4,27 +4,27 @@
   "title": "고스트버스터즈",
   "original": "Ghostbusters",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《고스트버스터즈》는 미디어 작품이다.",
-    "detail": "작품 사례: 《고스트버스터즈》의 주인공들은 돈을 벌기 위해 유령 퇴치를 사업으로 삼고, 에곤은 초자연적 현상을 과학적으로 연구한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《고스트버스터즈》는 첨단 장비로 초자연적 위협에 대응하는 인물들을 중심으로 한 작품군이다. 귀신이 일으키는 생활의 불편부터 세계 규모의 재앙까지, 과학적인 장치를 이용해 포획하고 해결하려 한다.\n\n공포와 도시 판타지에 인물들의 엉뚱한 성격을 결합하는 코미디가 기본 형식이다. 영화에서 시작해 여러 매체로 확장되었으며 배경과 인물도 바뀌므로, 특정 한 영화의 줄거리와 작품군의 공통 전제를 구별할 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《고스트버스터즈》는 첨단 장비로 초자연적 위협에 대응하는 인물들을 중심으로 한 작품군이다. 귀신이 일으키는 생활의 불편부터 세계 규모의 재앙까지, 과학적인 장치를 이용해 포획하고 해결하려 한다.\n\n공포와 도시 판타지에 인물들의 엉뚱한 성격을 결합하는 코미디가 기본 형식이다. 영화에서 시작해 여러 매체로 확장되었으며 배경과 인물도 바뀌므로, 특정 한 영화의 줄거리와 작품군의 공통 전제를 구별할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

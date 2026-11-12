@@ -4,19 +4,20 @@
   "title": "캐슬(TV 시리즈)",
   "original": "Castle",
   "aliases": [
-    "캐슬"
+    "캐슬",
+    "Castle"
   ],
-  "tag_id": null,
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《캐슬(TV 시리즈)》는 텔레비전 작품이다.",
-    "detail": "작품 사례: 《캐슬(TV 시리즈)》의 핵심 수사팀은 오랫동안 같은 조합으로 유지되며 베켓의 승진 문제도 이야기 속 불만으로 나타난다. 원문은 마지막 시즌에는 승진과 시험 준비가 진행된다는 변화도 함께 기록한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -41,6 +42,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014447",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-024474",
       "row_version": 1
     },
@@ -49,5 +54,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《캐슬》의 핵심 수사팀은 오랫동안 같은 조합으로 유지된다. 조직 안의 시간이 흐르더라도 중심 인물의 배치가 쉽게 변하지 않는다.\n\n베켓의 승진 문제는 이야기 속에서도 불만으로 나타난다. 익숙한 팀을 유지하는 서사적 안정과 인물의 경력 변화 사이에 긴장이 생긴다.\n\n마지막 시즌에는 승진과 시험 준비가 진행되는 변화도 있다. 따라서 인물의 지위가 끝까지 전혀 변하지 않는다고 단정하기보다 지속과 변화의 시기를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《캐슬》의 핵심 수사팀은 오랫동안 같은 조합으로 유지된다. 조직 안의 시간이 흐르더라도 중심 인물의 배치가 쉽게 변하지 않는다.\n\n베켓의 승진 문제는 이야기 속에서도 불만으로 나타난다. 익숙한 팀을 유지하는 서사적 안정과 인물의 경력 변화 사이에 긴장이 생긴다.\n\n마지막 시즌에는 승진과 시험 준비가 진행되는 변화도 있다. 따라서 인물의 지위가 끝까지 전혀 변하지 않는다고 단정하기보다 지속과 변화의 시기를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

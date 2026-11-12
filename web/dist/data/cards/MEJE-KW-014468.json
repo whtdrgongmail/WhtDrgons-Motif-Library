@@ -4,8 +4,8 @@
   "title": "성직과 통치를 겸하는 왕",
   "original": "Priest Kings",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00925",
+  "primary_tag_id": "ML-T00925",
   "description": {
     "definition": "같은 인물이 종교적 지도자와 세속적 통치자의 역할을 함께 수행하는 지배 형태다. 신앙과 정치 권한이 한 인물에게 결합된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "종교를 후원하기만 하는 왕이나 정치권력이 없는 최고 사제와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 통치자가 종교적 지도와 세속적인 지배를 함께 맡는다. 신앙의 최고 권위와 정치의 결정권이 같은 자리에 결합한다.\n\n명령은 행정적인 효력과 영적인 의미를 동시에 가질 수 있다. 어떤 영역에서 실제 권한을 행사하는지 구분하면 지배 구조가 명료해진다.\n\n종교를 지원하는 왕만으로는 충분하지 않다. 정치권한이 없는 사제와도 달리 두 역할이 실질적으로 함께 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 통치자가 종교적 지도와 세속적인 지배를 함께 맡는다. 신앙의 최고 권위와 정치의 결정권이 같은 자리에 결합한다.\n\n명령은 행정적인 효력과 영적인 의미를 동시에 가질 수 있다. 어떤 영역에서 실제 권한을 행사하는지 구분하면 지배 구조가 명료해진다.\n\n종교를 지원하는 왕만으로는 충분하지 않다. 정치권한이 없는 사제와도 달리 두 역할이 실질적으로 함께 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

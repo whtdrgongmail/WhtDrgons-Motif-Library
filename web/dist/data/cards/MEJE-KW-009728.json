@@ -4,8 +4,8 @@
   "title": "팬 번역 게임",
   "original": "Fan Translation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F26",
+  "tag_id": "ML-T02214",
+  "primary_tag_id": "ML-T02214",
   "description": {
     "definition": "팬이 공식 번역이 없는 게임의 대사와 화면 글을 다른 언어로 옮겨 더 많은 사람이 플레이할 수 있게 만든 비공식 번역물이다. 게임을 다른 언어로 옮기는 활동도 [[팬 창작물]]의 한 형태다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "공식 번역과 구별하며 매체를 게임이나 자막으로 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "26",
+    "code": "26.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "팬이 게임의 대사와 화면 글을 다른 언어로 옮겨 만든 비공식 번역이다. 공식 번역이 없는 작품의 접근성을 높이는 활동이 된다.\n\n언어뿐 아니라 글꼴과 화면 공간, 프로그램의 문자 처리도 작업에 영향을 준다. 원래 실행 환경을 유지하면서 번역 패치를 적용하는 방식으로 배포되기도 한다.\n\n공식 현지화와 지위가 같은 것은 아니다. 번역의 정확성과 기술적 안정성, 원본 파일과 배포 권한은 각각 구별하여 판단해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "팬이 게임의 대사와 화면 글을 다른 언어로 옮겨 만든 비공식 번역이다. 공식 번역이 없는 작품의 접근성을 높이는 활동이 된다.\n\n언어뿐 아니라 글꼴과 화면 공간, 프로그램의 문자 처리도 작업에 영향을 준다. 원래 실행 환경을 유지하면서 번역 패치를 적용하는 방식으로 배포되기도 한다.\n\n공식 현지화와 지위가 같은 것은 아니다. 번역의 정확성과 기술적 안정성, 원본 파일과 배포 권한은 각각 구별하여 판단해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

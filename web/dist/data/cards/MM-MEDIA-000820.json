@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "Smallville",
   "original": "Smallville",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "스몰빌"
+  ],
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "이 카드는 텔레비전 시리즈 《Smallville》를 가리킨다. 이 라이브러리에서는 [[취한 밤의 행적을 모름]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Smallville의 독신 파티 회차는 일행이 전날 밤의 행적을 되짚는 상황을 중심으로 하며, 에밀까지 가까운 동료 집단의 소동에 포함된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -43,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Smallville》은 클라크 켄트가 능력을 받아들이고 슈퍼맨으로 성장하는 과정을 다룬 실사 드라마다. 2001년에 시작되었으며 초기에는 고향 스몰빌의 십대 생활에 중심을 둔다.\n\n조너선과 마사 켄트는 외계에서 온 클라크를 키운 양부모다. 라나 랭, 피트 로스, 기자를 꿈꾸는 클로이 설리번 등 또래 관계가 비밀을 가진 일상과 연결된다.\n\n영웅의 완성된 활동보다 힘을 배우고 신분을 감추는 시기를 다룬다. 학교생활과 연애의 문제가 초능력 및 책임의 성장과 병행된다는 점에서 기원 서사의 성격이 강하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Smallville》은 클라크 켄트가 능력을 받아들이고 슈퍼맨으로 성장하는 과정을 다룬 실사 드라마다. 2001년에 시작되었으며 초기에는 고향 스몰빌의 십대 생활에 중심을 둔다.\n\n조너선과 마사 켄트는 외계에서 온 클라크를 키운 양부모다. 라나 랭, 피트 로스, 기자를 꿈꾸는 클로이 설리번 등 또래 관계가 비밀을 가진 일상과 연결된다.\n\n영웅의 완성된 활동보다 힘을 배우고 신분을 감추는 시기를 다룬다. 학교생활과 연애의 문제가 초능력 및 책임의 성장과 병행된다는 점에서 기원 서사의 성격이 강하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

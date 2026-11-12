@@ -4,8 +4,8 @@
   "title": "일부만 완료해도 통과하는 목표",
   "original": "Fractional Winning Condition",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
     "definition": "여러 과제 중 정해진 비율만 달성하면 다음 단계로 넘어갈 수 있게 하는 게임 규칙이다. [[플레이어]]가 수행할 과제를 선택할 여지를 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 목표 가운데 일정량과 비율을 달성하면 다음 단계로 넘어가도록 하는 규칙이다. 모든 과제를 끝내는 의무보다 선택의 폭을 준다.\n\n플레이어는 좋아하거나 잘하는 과제를 먼저 고르고 부담스러운 부분을 피할 수 있다. 완료하지 않은 목표는 추가 보상과 재도전의 이유로 남는다.\n\n보스의 체력을 일부 줄이는 조건과는 과제의 구조가 다르다. 독립적인 여러 목표 중 일부를 선택해야 하며 전체 완료를 요구하는 별도 결말과 공존할 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 목표 가운데 일정량과 비율을 달성하면 다음 단계로 넘어가도록 하는 규칙이다. 모든 과제를 끝내는 의무보다 선택의 폭을 준다.\n\n플레이어는 좋아하거나 잘하는 과제를 먼저 고르고 부담스러운 부분을 피할 수 있다. 완료하지 않은 목표는 추가 보상과 재도전의 이유로 남는다.\n\n보스의 체력을 일부 줄이는 조건과는 과제의 구조가 다르다. 독립적인 여러 목표 중 일부를 선택해야 하며 전체 완료를 요구하는 별도 결말과 공존할 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

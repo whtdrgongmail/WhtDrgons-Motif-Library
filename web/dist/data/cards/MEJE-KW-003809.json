@@ -4,8 +4,8 @@
   "title": "사용할수록 닳는 무기",
   "original": "Breakable Weapons",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02105",
+  "primary_tag_id": "ML-T02105",
   "description": {
     "definition": "게임 속 무기에 정해진 내구도가 있어 반복해 쓰면 더는 사용할 수 없게 된다. 자원을 남겨 둘지 지금 쓸지의 판단이 전투에 더해진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "반복 사용으로 내구도 수치가 줄고 한계에 이르면 쓸 수 없게 되는 게임의 무기다. 전투의 결과가 적의 체력뿐 아니라 자신의 장비 자원에도 남는다.\n\n좋은 무기를 지금 쓸지 어려운 다음 구간에 남길지 선택하게 한다. 대체품과 수리가 얼마나 쉬운지에 따라 같은 수치도 탐색의 이유와 지루한 교체 부담 중 서로 다른 경험을 만들 수 있다.\n\n[[맞으면 사라지는 강화 효과]]처럼 피격만으로 잃는 규칙과는 구분한다. 게임의 균형을 위한 단순화와 실제 재료의 내구성을 나누어 보며, 적은 사용 횟수를 현실의 성능으로 설명하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "반복 사용으로 내구도 수치가 줄고 한계에 이르면 쓸 수 없게 되는 게임의 무기다. 전투의 결과가 적의 체력뿐 아니라 자신의 장비 자원에도 남는다.\n\n좋은 무기를 지금 쓸지 어려운 다음 구간에 남길지 선택하게 한다. 대체품과 수리가 얼마나 쉬운지에 따라 같은 수치도 탐색의 이유와 지루한 교체 부담 중 서로 다른 경험을 만들 수 있다.\n\n[[맞으면 사라지는 강화 효과]]처럼 피격만으로 잃는 규칙과는 구분한다. 게임의 균형을 위한 단순화와 실제 재료의 내구성을 나누어 보며, 적은 사용 횟수를 현실의 성능으로 설명하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

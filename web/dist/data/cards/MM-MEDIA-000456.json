@@ -4,25 +4,25 @@
   "title": "I Dreamed A Dream",
   "original": "I Dreamed A Dream",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00142",
+  "primary_tag_id": "ML-T00142",
   "description": {
     "definition": "이 카드는 음반 《I Dreamed A Dream》를 가리킨다. 이 라이브러리에서는 [[싱글 히트곡 없이 성공한 음반]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: I Dreamed A Dream은 그해 미국에서 가장 많이 팔린 음반이 되었지만 톱 40에 오른 싱글은 없었다. 개별 히트곡 없이 음반 전체가 큰 성공을 거둔 경우다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.008.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "publication_form",
+    "parent_relation": "contextual",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《I Dreamed A Dream》라는 표제는 음반을 가리킨다.\n\n모티프 라이브러리에서는 [[싱글 히트곡 없이 성공한 음반]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《I Dreamed A Dream》라는 표제는 음반을 가리킨다.\n\n모티프 라이브러리에서는 [[싱글 히트곡 없이 성공한 음반]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

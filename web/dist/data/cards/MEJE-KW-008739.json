@@ -4,8 +4,8 @@
   "title": "회차 제목 화면",
   "original": "Episode Title Card",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01917",
+  "primary_tag_id": "ML-T01917",
   "description": {
     "definition": "방송의 시작 부분에 해당 회차의 제목을 별도 화면이나 자막으로 보여주는 시각 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "회차 시작 부분에 제목을 독립 화면과 자막으로 제시하는 구성이다. 시리즈의 반복 형식 안에서 개별 이야기를 구별한다.\n\n그림과 음악, 낭독은 이번 회차의 분위기를 미리 알려 준다. 제목이 본편 화면 위에 겹치면 도입의 흐름을 유지하면서 정보를 제공할 수 있다.\n\n오프닝에서 시리즈 이름만 보여 주는 것과는 대상이 다르다. 위치와 표현은 다양할 수 있으며 제작 관리 번호와 실제 공개 제목도 같은 정보가 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "회차 시작 부분에 제목을 독립 화면과 자막으로 제시하는 구성이다. 시리즈의 반복 형식 안에서 개별 이야기를 구별한다.\n\n그림과 음악, 낭독은 이번 회차의 분위기를 미리 알려 준다. 제목이 본편 화면 위에 겹치면 도입의 흐름을 유지하면서 정보를 제공할 수 있다.\n\n오프닝에서 시리즈 이름만 보여 주는 것과는 대상이 다르다. 위치와 표현은 다양할 수 있으며 제작 관리 번호와 실제 공개 제목도 같은 정보가 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

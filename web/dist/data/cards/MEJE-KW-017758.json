@@ -4,8 +4,8 @@
   "title": "세계 사이의 여관",
   "original": "Inn Between the Worlds",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01321",
+  "primary_tag_id": "ML-T01321",
   "description": {
     "definition": "어느 한 세계에 속하지 않고 여러 세계 사이의 경계나 중간 공간에 자리 잡은 여관 설정.",
     "detail": "여러 세계와 시대의 방문자가 쉬고 대화하며, 출입구에 따라 다른 세계로 나갈 수도 있다. 어느 세계의 영토도 아니라는 성질이 휴전과 중립의 근거가 되기도 한다.\n\n작품 사례: 《[[샌드맨]]》의 「세상의 끝」은 차원 밖의 여관을 배경으로 여러 세계에서 온 손님들을 만나게 하며, 그들이 들려주는 이야기를 연결하는 장소가 된다.",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "14",
+    "code": "14.009.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 세계를 연결하면서 어느 한 세계에도 완전히 속하지 않는 여관이다. 서로 다른 출신의 여행자들이 만날 수 있는 중간 지대가 된다.\n\n휴전과 피난의 규칙이 있으면 원래 세계의 적대 관계가 일시적으로 유예될 수 있다. 차원 이동 장치가 있다는 사실보다 장소 자체의 경계적 지위가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 세계를 연결하면서 어느 한 세계에도 완전히 속하지 않는 여관이다. 서로 다른 출신의 여행자들이 만날 수 있는 중간 지대가 된다.\n\n휴전과 피난의 규칙이 있으면 원래 세계의 적대 관계가 일시적으로 유예될 수 있다. 차원 이동 장치가 있다는 사실보다 장소 자체의 경계적 지위가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

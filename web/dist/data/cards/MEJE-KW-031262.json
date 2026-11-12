@@ -4,8 +4,8 @@
   "title": "계속 미완성처럼 남는 출시작",
   "original": "Perpetual Beta",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "공개 뒤에도 결함 수정과 미완성 기능 보충이 반복되어 사용자가 끝없는 시험 단계에 참여하는 듯 느끼는 제작 상태다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "수정이 나올 때마다 문제가 또 생기거나 예정한 기능이 계속 뒤로 밀려 완성된 시점을 알기 어려운 경우다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "출시가 끝이 아니라 보완의 시작이 되면 사용자는 현재의 경험과 미래의 약속을 함께 평가하게 된다. [[미완성처럼 느껴지는 게임의 기술 상태]]가 장기간 이어지고, 다음 버전이 나와 다시 비슷한 과정을 거치면 완성에 대한 기대가 계속 이동한다.\n\n[[지속 갱신을 전제로 운영하는 게임]]과 겹칠 수 있지만 같은 뜻은 아니다. 계획적으로 내용을 확장하는 구조와 필요한 완성도를 계속 갖추지 못하는 상태는 구별해야 한다. 업데이트가 많다는 사실만으로 미완성이라고 판단하기보다 이미 제공한 기능이 안정적으로 작동하는지와 약속한 경험이 충족되는지를 살펴야 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "출시가 끝이 아니라 보완의 시작이 되면 사용자는 현재의 경험과 미래의 약속을 함께 평가하게 된다. [[미완성처럼 느껴지는 게임의 기술 상태]]가 장기간 이어지고, 다음 버전이 나와 다시 비슷한 과정을 거치면 완성에 대한 기대가 계속 이동한다.\n\n[[지속 갱신을 전제로 운영하는 게임]]과 겹칠 수 있지만 같은 뜻은 아니다. 계획적으로 내용을 확장하는 구조와 필요한 완성도를 계속 갖추지 못하는 상태는 구별해야 한다. 업데이트가 많다는 사실만으로 미완성이라고 판단하기보다 이미 제공한 기능이 안정적으로 작동하는지와 약속한 경험이 충족되는지를 살펴야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

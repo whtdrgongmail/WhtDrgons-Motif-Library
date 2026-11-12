@@ -4,39 +4,62 @@
   "title": "상사에게 보답받지 못하는 사랑을 바치는 부하",
   "original": "Ignored Enamored Underling",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00981",
+  "primary_tag_id": "ML-T00981",
   "description": {
     "definition": "부하가 상사를 충성과 존경을 넘어 연애 감정으로 사랑하지만 상사는 그 마음에 응답하지 않는 관계다.",
     "detail": "감정을 몰라주거나 명확히 거절하고, 때로는 애매한 신호로 헌신을 이용한다. 부하가 관계를 재평가하거나 비극으로 이어질 수 있다.\n\n작품 사례: 《[[데스노트]]》에서 미사는 라이토를 사랑하고 따르지만, 라이토는 그녀의 마음보다 자신의 목적에 쓸 수 있는 가치를 중시한다.",
-    "usage": "위계 속의 충성과 일방적인 애정, 상사의 반응을 분리해 살핀다.",
+    "usage": "위계 속의 충성과 일방적인 애정, 상사의 반응을 분리해 확인한다.",
     "boundary": "서로 애정을 나누는 상하 관계나 연애 감정 없는 헌신과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": {
-    "easy_ko": "헌신하면 사랑받을 것이라 믿지만 상사는 그렇게 보지 않는다.\n\n작품 사례: 《[[데스노트]]》에서 미사는 라이토를 사랑하고 따르지만, 라이토는 그녀의 마음보다 자신의 목적에 쓸 수 있는 가치를 중시한다.",
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "헌신하면 사랑받을 것이라 믿지만 상사는 그렇게 보지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001526",
+      "work_card_id": "MM-MEDIA-002463",
       "description_ko": "《데스노트》에서 미사는 라이토를 사랑하고 따르지만, 라이토는 그녀의 마음보다 자신의 목적에 쓸 수 있는 가치를 중시한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "감정을 몰라주거나 명확히 거절하고, 때로는 애매한 신호로 헌신을 이용한다. 부하가 관계를 재평가하거나 비극으로 이어질 수 있다.\n\n서로 애정을 나누는 상하 관계나 연애 감정 없는 헌신과 구별한다.\n\n《[[데스노트]]》에서 미사는 라이토를 사랑하고 따르지만, 라이토는 그녀의 마음보다 자신의 목적에 쓸 수 있는 가치를 중시한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "감정을 몰라주거나 명확히 거절하고, 때로는 애매한 신호로 헌신을 이용한다. 부하가 관계를 재평가하거나 비극으로 이어질 수 있다.\n\n서로 애정을 나누는 상하 관계나 연애 감정 없는 헌신과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[데스노트]]》에서 미사는 라이토를 사랑하고 따르지만, 라이토는 그녀의 마음보다 자신의 목적에 쓸 수 있는 가치를 중시한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

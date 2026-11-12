@@ -4,19 +4,19 @@
   "title": "임신의 부담을 정신적 동요로 과장하기",
   "original": "Pregnancy Makes You Crazy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F28",
+  "tag_id": "ML-T02316",
+  "primary_tag_id": "ML-T02316",
   "description": {
     "definition": "임신에 따른 스트레스와 변화를 인물의 정신적 불안정으로 강조해 묘사하는 관습이다.",
     "detail": "",
-    "usage": "재현이 임신한 사람의 개별 경험을 어떻게 단순화하는지 살핀다.",
+    "usage": "재현이 임신한 사람의 개별 경험을 어떻게 단순화하는지 확인한다.",
     "boundary": "실제 임신의 의학적 경과나 모든 당사자의 정신 상태를 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "28",
+    "code": "28.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "임신 중의 감정과 생활 변화를 극단적인 반응으로 과장한다. 주변 인물의 당혹감은 그 상태를 기이한 행동처럼 보이게 만들 수 있다.\n\n신체적 부담과 환경의 압박을 함께 보여 주는지에 따라 이해와 조롱의 방향이 달라진다. 필요한 지원이 사라지고 반응만 남으면 고정관념이 강화된다.\n\n원문의 호르몬에 대한 단순한 설명을 실제 의학의 보편적 인과로 옮기지 않는다. 정본은 매체의 과장된 재현이며 모든 임신 경험을 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "임신 중의 감정과 생활 변화를 극단적인 반응으로 과장한다. 주변 인물의 당혹감은 그 상태를 기이한 행동처럼 보이게 만들 수 있다.\n\n신체적 부담과 환경의 압박을 함께 보여 주는지에 따라 이해와 조롱의 방향이 달라진다. 필요한 지원이 사라지고 반응만 남으면 고정관념이 강화된다.\n\n원문의 호르몬에 대한 단순한 설명을 실제 의학의 보편적 인과로 옮기지 않는다. 정본은 매체의 과장된 재현이며 모든 임신 경험을 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

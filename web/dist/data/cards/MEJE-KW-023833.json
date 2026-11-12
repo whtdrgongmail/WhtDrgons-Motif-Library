@@ -4,8 +4,8 @@
   "title": "용암에 노출되어 맞는 죽음",
   "original": "A Molten Date with Death",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "인물이 용암에 빠지거나 그 열기에 노출되어 죽는 사건 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "용암 근처에서 다른 원인으로 죽거나 용암에 빠져도 살아남는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 용암과 강한 열에 노출되어 죽는 사건이다. 위험한 지형이 최종적인 결과를 만드는 수단으로 사용된다.\n\n전투 끝에 떨어지거나 탈출 중의 경로가 막히는 식으로 배치할 수 있다. 몸의 모습과 소멸 시간을 어떻게 보여 주느냐에 따라 공포와 [[비극]], 과장된 만화적 효과가 달라진다.\n\n용암이 있다는 풍경과 실제로 치명적인 노출을 겪는 장면은 다르다. 작품마다 열과 접촉의 규칙이 다르므로 허구의 생존과 죽음을 현실의 기준으로 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 용암과 강한 열에 노출되어 죽는 사건이다. 위험한 지형이 최종적인 결과를 만드는 수단으로 사용된다.\n\n전투 끝에 떨어지거나 탈출 중의 경로가 막히는 식으로 배치할 수 있다. 몸의 모습과 소멸 시간을 어떻게 보여 주느냐에 따라 공포와 [[비극]], 과장된 만화적 효과가 달라진다.\n\n용암이 있다는 풍경과 실제로 치명적인 노출을 겪는 장면은 다르다. 작품마다 열과 접촉의 규칙이 다르므로 허구의 생존과 죽음을 현실의 기준으로 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

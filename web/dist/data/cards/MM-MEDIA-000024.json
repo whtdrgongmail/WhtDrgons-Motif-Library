@@ -4,27 +4,27 @@
   "title": "Ace Attorney",
   "original": "Ace Attorney",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "이 카드는 프랜차이즈 작품군 《Ace Attorney》를 가리킨다. 이 라이브러리에서는 [[악인의 붉은 와인잔]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Ace Attorney의 맷 엔가드는 순진해 보이던 머리를 뒤로 넘겨 상처를 드러내고 와인잔을 꺼내 들어, 여유로운 악인의 본색을 한 동작에 보여 준다.",
+    "detail": "",
     "usage": "",
     "boundary": "같은 제목의 다른 매체 작품과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -33,7 +33,14 @@
     "updated_at": "2026-11-02",
     "row_version": 2
   },
-  "applied_tags": [],
+  "applied_tags": [
+    {
+      "tag_id": "ML-T00574",
+      "role": "form",
+      "review_status": "reviewed",
+      "row_version": 1
+    }
+  ],
   "related_media": [],
   "related_motifs": [
     {
@@ -45,5 +52,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "캡콤의 법정 모험 게임 시리즈로, 변호사와 동료들이 의뢰인의 사건을 조사하고 재판에서 진실을 밝히는 과정을 다룬다. 주로 살인 사건을 중심으로 증거와 진술의 모순을 찾아내는 플레이가 구성된다.\n\n탐색 과정에서 얻은 물건과 정보를 법정의 증언에 대조하며 사건의 해석을 뒤집는다. 이야기의 큰 흐름은 비교적 선형적이지만, 플레이어가 구체적인 모순을 지적해야 다음 단계로 나아갈 수 있다는 점에서 추론이 진행의 관문이 된다.\n\n과장된 반응과 개성적인 인물, 연속적인 반전이 진지한 사건과 희극적인 분위기를 함께 만든다. 실제 법정 절차의 재현보다 게임의 규칙과 극적 대결이 우선하므로 현실의 재판 제도와 구분하여 이해해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "캡콤의 법정 모험 게임 시리즈로, 변호사와 동료들이 의뢰인의 사건을 조사하고 재판에서 진실을 밝히는 과정을 다룬다. 주로 살인 사건을 중심으로 증거와 진술의 모순을 찾아내는 플레이가 구성된다.\n\n탐색 과정에서 얻은 물건과 정보를 법정의 증언에 대조하며 사건의 해석을 뒤집는다. 이야기의 큰 흐름은 비교적 선형적이지만, 플레이어가 구체적인 모순을 지적해야 다음 단계로 나아갈 수 있다는 점에서 추론이 진행의 관문이 된다.\n\n과장된 반응과 개성적인 인물, 연속적인 반전이 진지한 사건과 희극적인 분위기를 함께 만든다. 실제 법정 절차의 재현보다 게임의 규칙과 극적 대결이 우선하므로 현실의 재판 제도와 구분하여 이해해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

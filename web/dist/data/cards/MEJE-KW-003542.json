@@ -4,8 +4,8 @@
   "title": "호위자의 배신",
   "original": "Bodyguard Betrayal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "보호해야 할 사람의 비밀과 약점을 가장 잘 아는 호위자가 그를 해친다. 가까이 있을 권한이 배신의 통로가 된다. 대를 이은 책임까지 깨진다면 [[대를 이어 맡는 경호 임무]]의 의미도 흔들린다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "지켜야 할 사람에게 가까이 접근할 권한을 가진 호위자가 그 신뢰를 이용해 해를 가하는 배신이다. 일정과 약점을 잘 알기 때문에 다른 적보다 막기 어렵다. [[대를 이어 맡는 경호 임무]]라면 개인의 약속뿐 아니라 여러 세대가 쌓은 믿음도 함께 무너진다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보호를 맡은 사람이 자신에게 허용된 접근과 정보를 이용해 호위 대상을 배신하는 전개다. 안전을 위한 가까운 관계가 오히려 위험을 전달하는 통로로 뒤집힌다.\n\n대상은 다른 적에게보다 경계가 낮아 배신을 늦게 알아챌 수 있다. 살아남는 경우에는 더는 누구에게 안전을 맡길 수 있는지가 문제가 되고, 조직 전체의 신뢰와 권력 관계에도 영향이 남는다.\n\n임무에 실패한 것과 의도적으로 해친 것은 다르다. [[대를 이어 맡는 경호 임무]]처럼 의무의 전통이 있어도 동기를 자동으로 확정하지 않으며, 강제 조종과 자발적인 배신도 나누어 본다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보호를 맡은 사람이 자신에게 허용된 접근과 정보를 이용해 호위 대상을 배신하는 전개다. 안전을 위한 가까운 관계가 오히려 위험을 전달하는 통로로 뒤집힌다.\n\n대상은 다른 적에게보다 경계가 낮아 배신을 늦게 알아챌 수 있다. 살아남는 경우에는 더는 누구에게 안전을 맡길 수 있는지가 문제가 되고, 조직 전체의 신뢰와 권력 관계에도 영향이 남는다.\n\n임무에 실패한 것과 의도적으로 해친 것은 다르다. [[대를 이어 맡는 경호 임무]]처럼 의무의 전통이 있어도 동기를 자동으로 확정하지 않으며, 강제 조종과 자발적인 배신도 나누어 본다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

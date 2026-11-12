@@ -4,27 +4,27 @@
   "title": "에이리언(연작)",
   "original": "Alien",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《에이리언(연작)》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《에이리언(연작)》의 제노모프는 이 모방 디자인이 참조하는 원형이다. 현재 문단은 제노모프를 일부 또는 전체적으로 본뜬 생물을 해당 유형으로 분류한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《[[에이리언]]》 작품군은 인간이 낯선 외계 생명체와 접촉하면서 겪는 공포를 중심으로 한다. 산성의 피와 다른 생명체를 매개로 한 번식은 위협을 외부의 공격뿐 아니라 신체의 경계에 연결한다.\n\n익숙한 장비와 폐쇄된 시설 안에서도 무엇을 통해 위험이 퍼지는지 확신하기 어려워진다. 인간이 그 생물을 이해하고 통제하려는 시도가 피해를 키울 수 있어 탐색과 이용의 욕망이 생존과 충돌한다.\n\n영화에서 시작해 소설과 만화, 게임으로 확장된 작품군이다. 모든 매체의 사건이 동일한 연속성에 속하는 것은 아니며 프레데터와의 교차 작품도 별도 범위로 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《[[에이리언]]》 작품군은 인간이 낯선 외계 생명체와 접촉하면서 겪는 공포를 중심으로 한다. 산성의 피와 다른 생명체를 매개로 한 번식은 위협을 외부의 공격뿐 아니라 신체의 경계에 연결한다.\n\n익숙한 장비와 폐쇄된 시설 안에서도 무엇을 통해 위험이 퍼지는지 확신하기 어려워진다. 인간이 그 생물을 이해하고 통제하려는 시도가 피해를 키울 수 있어 탐색과 이용의 욕망이 생존과 충돌한다.\n\n영화에서 시작해 소설과 만화, 게임으로 확장된 작품군이다. 모든 매체의 사건이 동일한 연속성에 속하는 것은 아니며 프레데터와의 교차 작품도 별도 범위로 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

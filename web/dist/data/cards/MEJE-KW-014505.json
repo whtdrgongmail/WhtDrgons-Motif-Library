@@ -4,8 +4,8 @@
   "title": "재미있는 촬영 실수 모음",
   "original": "Hilarious Outtakes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "대사 실수·웃음·소품 고장·장난 등 촬영 중 본편으로 쓰지 않은 순간을 모아 별도의 오락 콘텐츠로 공개하는 형식이다. 배역 밖의 배우와 제작 현장을 보여 준다.",
     "detail": "blooper reel과 gag reel은 자주 혼용되며 후자는 현장 장난을 더 강조하기도 한다. 실수가 없는 매체에서 일부러 꾸민 버전도 있다.\n\n작품 사례: [[The Last of Us]]의 공개된 대체 결말 촬영 영상에서는 마를린 역 배우가 장난으로 대사를 노래하자 조엘 역 배우도 노래로 응해, 본편과 다른 제작 현장의 웃음을 보여 준다.",
@@ -13,30 +13,47 @@
     "boundary": "정상적으로 완성했지만 분량이나 구성 때문에 뺀 삭제 장면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "엔딩 뒤에 배우들이 말을 틀리고 웃음을 터뜨리는 장면이 이어진다.\n\n작품 사례: [[The Last of Us]]의 공개된 대체 결말 촬영 영상에서는 마를린 역 배우가 장난으로 대사를 노래하자 조엘 역 배우도 노래로 응해, 본편과 다른 제작 현장의 웃음을 보여 준다.",
+    "easy_ko": "엔딩 뒤에 배우들이 말을 틀리고 웃음을 터뜨리는 장면이 이어진다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000987",
+      "work_card_id": "MM-MEDIA-001781",
       "description_ko": "The Last of Us의 공개된 대체 결말 촬영 영상에서는 마를린 역 배우가 장난으로 대사를 노래하자 조엘 역 배우도 노래로 응해, 본편과 다른 제작 현장의 웃음을 보여 준다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대사 실수·웃음·넘어짐·소품과 세트 고장·현장 장난처럼 완성본에 쓰이지 않은 촬영 순간을 별도로 모은다. 엔딩 크레디트나 부가 영상에서 독립된 오락 콘텐츠로 공개할 수 있다.\n\n배역을 유지하지 못한 배우의 반응과 제작 현장의 상호작용이 감상의 대상이 된다. blooper reel과 gag reel은 자주 혼용되며 현장 장난의 비중이 큰 구성도 있다.\n\n정상적으로 완성했지만 길이와 구성 때문에 뺀 삭제 장면과 구별한다. 실수가 생기지 않는 매체에서 촬영 실패처럼 일부러 꾸민 모방 형식도 가능하다.\n\n작품 사례: 《[[더 라스트 오브 어스]]》의 공개된 대체 결말 촬영 영상에서는 마를린 역 배우가 장난으로 대사를 노래하자 조엘 역 배우도 노래로 응해, 본편과 다른 제작 현장의 웃음을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대사 실수·웃음·넘어짐·소품과 세트 고장·현장 장난처럼 완성본에 쓰이지 않은 촬영 순간을 별도로 모은다. 엔딩 크레디트나 부가 영상에서 독립된 오락 콘텐츠로 공개할 수 있다.\n\n배역을 유지하지 못한 배우의 반응과 제작 현장의 상호작용이 감상의 대상이 된다. blooper reel과 gag reel은 자주 혼용되며 현장 장난의 비중이 큰 구성도 있다.\n\n정상적으로 완성했지만 길이와 구성 때문에 뺀 삭제 장면과 구별한다. 실수가 생기지 않는 매체에서 촬영 실패처럼 일부러 꾸민 모방 형식도 가능하다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[더 라스트 오브 어스]]》의 공개된 대체 결말 촬영 영상에서는 마를린 역 배우가 장난으로 대사를 노래하자 조엘 역 배우도 노래로 응해, 본편과 다른 제작 현장의 웃음을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

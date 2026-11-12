@@ -4,8 +4,8 @@
   "title": "주인 몰래 집에 숨어 사는 사람",
   "original": "Secret Squatter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01286",
+  "primary_tag_id": "ML-T01286",
   "description": {
     "definition": "다른 사람이 거주하는 집에 존재를 알리지 않은 채 숨어 사는 인물이 있는 설정이다.",
     "detail": "작품 사례: 《[[기생충]]》에서 박 사장 가족은 집 아래 비밀 공간에 전 가사도우미의 남편이 살고 있다는 사실을 알지 못한다.",
@@ -13,10 +13,10 @@
     "boundary": "가족이 강제로 숨겨 가둔 사람과 달리 몰래 거주한다는 사실이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-002836",
+      "work_card_id": "MM-MEDIA-001309",
       "description_ko": "《기생충》에서 박 사장 가족은 집 아래 비밀 공간에 전 가사도우미의 남편이 살고 있다는 사실을 알지 못한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "집의 정식 거주자는 사라지는 물건과 낯선 소리를 먼저 발견한다. 초자연적 현상처럼 보이던 흔적이 숨은 사람의 생활에서 비롯되었다는 반전이 생긴다.\n\n같은 건물 안에서 생활 시간이 엇갈리면 존재를 오래 감출 수 있다. 발견 뒤에는 사생활의 침해와 숨은 사람의 사정이 새로운 갈등이 된다.\n\n허락받은 동거와 단순한 침입은 구별된다. 주인에게 알리지 않고 일정 기간 생활한다는 조건이 중심이며 집의 크기 자체가 필수는 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "집의 정식 거주자는 사라지는 물건과 낯선 소리를 먼저 발견한다. 초자연적 현상처럼 보이던 흔적이 숨은 사람의 생활에서 비롯되었다는 반전이 생긴다.\n\n같은 건물 안에서 생활 시간이 엇갈리면 존재를 오래 감출 수 있다. 발견 뒤에는 사생활의 침해와 숨은 사람의 사정이 새로운 갈등이 된다.\n\n허락받은 동거와 단순한 침입은 구별된다. 주인에게 알리지 않고 일정 기간 생활한다는 조건이 중심이며 집의 크기 자체가 필수는 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

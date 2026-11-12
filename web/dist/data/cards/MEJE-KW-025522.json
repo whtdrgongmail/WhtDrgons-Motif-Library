@@ -4,8 +4,8 @@
   "title": "화장품으로 위장한 무기와 장비",
   "original": "Makeup Weapon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "화장품의 모습이나 용기 안에 다른 도구·장비·무기 기능을 숨기는 설정이다.",
     "detail": "작품 사례: 《[[닥터 후]]》의 「New Earth」에서 카산드라에게 지배된 로즈는 잠들게 하는 가상의 향수를 숨겨 두었다가 닥터에게 사용한다.",
@@ -13,10 +13,10 @@
     "boundary": "일반 화장품을 그 성질 그대로 즉석에서 쓰는 행동과 다르며 사용자의 성별을 제한하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일상적인 미용 용품이 특수 장비의 기능을 숨기는 외형이 된다. 주변은 평범한 물건으로 받아들여 사용자의 준비 상태를 알아차리기 어렵다.\n\n필요한 순간에 용도를 바꾸면 작은 소품이 사건의 해결 수단으로 전환된다. 겉모습과 실제 기능의 차이는 첩보 장면의 놀라움과 인물의 전문성을 강조한다.\n\n화장품을 즉석에서 다른 용도로 쓰는 것과 처음부터 위장한 장비는 다르다. 구체적인 무기 제작법보다 허구의 기능 은폐에 초점을 둔다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일상적인 미용 용품이 특수 장비의 기능을 숨기는 외형이 된다. 주변은 평범한 물건으로 받아들여 사용자의 준비 상태를 알아차리기 어렵다.\n\n필요한 순간에 용도를 바꾸면 작은 소품이 사건의 해결 수단으로 전환된다. 겉모습과 실제 기능의 차이는 첩보 장면의 놀라움과 인물의 전문성을 강조한다.\n\n화장품을 즉석에서 다른 용도로 쓰는 것과 처음부터 위장한 장비는 다르다. 구체적인 무기 제작법보다 허구의 기능 은폐에 초점을 둔다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

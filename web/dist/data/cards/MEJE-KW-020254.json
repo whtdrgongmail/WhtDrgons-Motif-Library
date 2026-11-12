@@ -6,8 +6,8 @@
   "aliases": [
     "덜 민망한 이름을 고집하기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "MM-UNSET-000518",
+  "primary_tag_id": "MM-UNSET-000518",
   "description": {
     "definition": "민망하거나 격이 낮게 느껴지는 대상을 더 품위 있어 보이는 말로 부르겠다고 고집하는 표현 방식이다.",
     "detail": "작품 사례: 《[[해리 포터와 죽음의 성물 1부]]》의 먼던구스는 도둑이라는 말 대신 희귀한 물건을 공급하는 사람이라는 표현을 내세운다.",
@@ -15,11 +15,11 @@
     "boundary": "사실의 오류를 바로잡는 것보다 표현이 주는 사회적 인상을 바꾸는 데 목적이 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.008.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -47,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "민망하거나 낮게 평가될 대상을 더 점잖은 이름으로 부르겠다고 고집하는 표현이다. 대상은 같지만 명칭을 바꾸어 체면을 유지하려 한다.\n\n다른 인물이 익숙한 이름으로 다시 부르면 화자의 자기 이미지와 주변의 평가가 충돌한다. 반복적인 정정이 대화의 흐름을 끊으면서 말버릇 자체가 농담이 될 수 있다.\n\n정확한 분류를 알려 주는 설명과는 목적이 다르다. 단어의 객관적인 차이보다 화자가 어떤 인상을 피하고 싶은지가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "민망하거나 낮게 평가될 대상을 더 점잖은 이름으로 부르겠다고 고집하는 표현이다. 대상은 같지만 명칭을 바꾸어 체면을 유지하려 한다.\n\n다른 인물이 익숙한 이름으로 다시 부르면 화자의 자기 이미지와 주변의 평가가 충돌한다. 반복적인 정정이 대화의 흐름을 끊으면서 말버릇 자체가 농담이 될 수 있다.\n\n정확한 분류를 알려 주는 설명과는 목적이 다르다. 단어의 객관적인 차이보다 화자가 어떤 인상을 피하고 싶은지가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

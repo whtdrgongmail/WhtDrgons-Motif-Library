@@ -4,8 +4,8 @@
   "title": "무기 발견의 경고 외침",
   "original": "He's Got a Weapon!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00738",
+  "primary_tag_id": "ML-T00738",
   "description": {
     "definition": "무해해 보이거나 빈말로 위협하던 사람이 무기를 지녔다고 인식되는 순간 주변에서 이를 외쳐 경계 수준을 높이는 장면이다. 실제 무기든 오인이든 그 외침이 반응의 전환점이 된다.",
     "detail": "작품 사례: [[asdfmovie]]에서 강아지를 귀여워하던 여성이 다가가자 남자가 칼을 갖고 있다고 경고하고, 강아지는 뒤에 숨긴 칼을 든 채 당황하며 부인한다.",
@@ -13,10 +13,10 @@
     "boundary": "당사자가 스스로 무기를 들었다고 협박하는 대사와는 경고의 발화자가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상대가 무기를 숨겨 지녔다는 사실을 발견한 사람이 공개적으로 외쳐 주변을 경고하는 장면이다. 발각의 말이 접근과 대응의 방식을 즉시 바꾼다.\n\n무기를 든 당사자가 스스로 협박하는 대사와는 발화 주체가 다르다. 경고를 듣기 전후의 인식과 행동 변화가 중요하다.\n\n[[asdfmovie]]에서 여성이 귀여운 강아지에게 다가가자 남자가 칼을 가졌다고 외친다. 강아지는 숨긴 칼을 든 채 부인해 무기 발견과 부조화가 희극을 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상대가 무기를 숨겨 지녔다는 사실을 발견한 사람이 공개적으로 외쳐 주변을 경고하는 장면이다. 발각의 말이 접근과 대응의 방식을 즉시 바꾼다.\n\n무기를 든 당사자가 스스로 협박하는 대사와는 발화 주체가 다르다. 경고를 듣기 전후의 인식과 행동 변화가 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[asdfmovie]]에서 여성이 귀여운 강아지에게 다가가자 남자가 칼을 가졌다고 외친다. 강아지는 숨긴 칼을 든 채 부인해 무기 발견과 부조화가 희극을 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "재난 영화",
   "original": "Disaster Movie",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00206",
+  "primary_tag_id": "ML-T00206",
   "description": {
     "definition": "자연재해나 대형 인공 재난에 맞서는 사람들의 위기와 생존을 중심에 둔 영화 장르. 재난의 규모와 인물들의 대응이 주요 볼거리다. 재난을 관람하는 영화와 달리 관객이 구조를 수행하게 만든 형식은 [[재난 구조 게임]]이다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.101.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대규모 재난의 접근과 발생, 그 속의 생존과 대응을 중심에 둔 영화 장르다. 개인의 일상보다 큰 환경의 변화가 여러 인물의 운명을 동시에 압박한다.\n\n재난을 막는 임무와 이미 벌어진 위험에서 살아남는 목표가 서로 다른 진행을 만들 수 있다. 여러 인물을 병렬로 소개하면 같은 재난의 피해와 대응을 다른 위치에서 보여 주어 규모를 체감하게 한다.\n\n재난 장면이 한 번 나온 모든 영화와 같지는 않다. 사건 전체를 조직하는 위협인지 확인하며, 거대한 파괴의 볼거리와 인물의 선택을 함께 살펴 장르의 기능을 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대규모 재난의 접근과 발생, 그 속의 생존과 대응을 중심에 둔 영화 장르다. 개인의 일상보다 큰 환경의 변화가 여러 인물의 운명을 동시에 압박한다.\n\n재난을 막는 임무와 이미 벌어진 위험에서 살아남는 목표가 서로 다른 진행을 만들 수 있다. 여러 인물을 병렬로 소개하면 같은 재난의 피해와 대응을 다른 위치에서 보여 주어 규모를 체감하게 한다.\n\n재난 장면이 한 번 나온 모든 영화와 같지는 않다. 사건 전체를 조직하는 위협인지 확인하며, 거대한 파괴의 볼거리와 인물의 선택을 함께 살펴 장르의 기능을 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

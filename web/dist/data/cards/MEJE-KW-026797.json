@@ -4,8 +4,8 @@
   "title": "정보의 핵심이 빠진 채 복구할 수 없는 전달",
   "original": "Lost in Transmission",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01952",
+  "primary_tag_id": "ML-T01952",
   "description": {
     "definition": "통신이나 기록의 일부가 끊기고 수신자도 누락을 알지만 다시 확인할 길이 없어 중요한 맥락이나 지시를 얻지 못하는 구성이다.",
     "detail": "작품 사례: 《[[도라에몽: 진구와 동물혹성]]》에서 치포는 침공 중 통신기로 도움을 요청하지만 공격 때문에 신호가 끊긴다. 불완전한 구조 요청을 받은 일행은 상황을 확인하러 돌아간다.",
@@ -13,10 +13,10 @@
     "boundary": "003:2439의 통신 장애만이 아니라 손상·삭제된 문서와 관객에게만 빠진 정보도 포함한다. 단순한 오해·번역 오류·풀 수 있는 수수께끼와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "23.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중요한 정보의 일부만 전달되고 빠진 내용이 있다는 사실도 드러난다. 수신자는 맥락을 복구할 통로가 없어 불완전한 판단으로 행동해야 한다.\n\n끊긴 지점이 결정적인 조건과 경고라면 뒤의 사건을 준비하는 원인이 된다. 단순히 관객에게 일부를 숨긴 설명과 달리 세계 안의 수신자에게도 실제 정보의 손실이 있다는 점이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "중요한 정보의 일부만 전달되고 빠진 내용이 있다는 사실도 드러난다. 수신자는 맥락을 복구할 통로가 없어 불완전한 판단으로 행동해야 한다.\n\n끊긴 지점이 결정적인 조건과 경고라면 뒤의 사건을 준비하는 원인이 된다. 단순히 관객에게 일부를 숨긴 설명과 달리 세계 안의 수신자에게도 실제 정보의 손실이 있다는 점이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

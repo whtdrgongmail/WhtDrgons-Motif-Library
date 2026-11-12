@@ -4,8 +4,8 @@
   "title": "농장 체험 에피소드",
   "original": "Farm Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00817",
+  "primary_tag_id": "ML-T00817",
   "description": {
     "definition": "평소 다른 곳에서 생활하던 인물들이 농장에 머물며 노동과 생활 방식의 차이를 겪는 에피소드다. 농장 체험을 한 회의 이야기로 다루는 방식과 달리 [[농장 생활 시뮬레이션]]은 농장 생활을 게임 전체의 중심에 둔다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "07.010.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평소 농촌 밖에서 살던 인물들이 농장에 머물며 노동과 생활을 경험하는 회차이다. 익숙한 능력이 다른 환경에서는 부족해질 수 있다.\n\n이른 기상과 동물 돌보기, 반복적인 작업이 도심 생활과 대비된다. 처음의 오해와 실패 뒤에 노동의 가치와 관계를 새롭게 이해하는 전개가 가능하다.\n\n농장이 항상 중심인 작품과는 일시적인 방문이라는 점이 다르다. 체험자의 시점에만 머무르면 농촌의 다양한 현실이 희극적 배경으로 축소될 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평소 농촌 밖에서 살던 인물들이 농장에 머물며 노동과 생활을 경험하는 회차이다. 익숙한 능력이 다른 환경에서는 부족해질 수 있다.\n\n이른 기상과 동물 돌보기, 반복적인 작업이 도심 생활과 대비된다. 처음의 오해와 실패 뒤에 노동의 가치와 관계를 새롭게 이해하는 전개가 가능하다.\n\n농장이 항상 중심인 작품과는 일시적인 방문이라는 점이 다르다. 체험자의 시점에만 머무르면 농촌의 다양한 현실이 희극적 배경으로 축소될 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

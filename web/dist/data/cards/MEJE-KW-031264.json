@@ -4,8 +4,8 @@
   "title": "한 모습에 머물지 않고 계속 변신하기",
   "original": "Perpetually Protean",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01496",
+  "primary_tag_id": "ML-T01496",
   "description": {
     "definition": "변신 능력자가 필요할 때만 모습을 바꾸는 수준을 넘어 한 장면이나 일상에서 형태를 계속 바꾸는 설정이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.001.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "대화하는 동안에도 몸이 여러 형태로 바뀌어 고정된 모습을 잡기 어려운 인물이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "자발적인 변화라면 자유로운 취향이나 장난기, 인간과 다른 자기 인식을 보여 줄 수 있다. 형태를 바꾸는 비용이 작다는 사실도 드러난다. 반면 [[발동 시점을 통제하지 못하는 변신]]이라면 원래 모습으로 돌아가고 싶어도 머물지 못하는 불안과 제약이 중심이 된다.\n\n[[주변 마음에 따라 변하는 몸]]처럼 특정 자극이 변화를 일으킬 수도 있고 뚜렷한 계기 없이 이어질 수도 있다. 변신 능력이 있다는 것만으로는 충분하지 않으며 한 형태를 오래 유지하지 못하거나 유지하지 않으려는 지속성이 필요하다. 전투 중 잠깐 여러 형태를 겨루는 장면과 일상적인 상태를 구별할 수 있다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "자발적인 변화라면 자유로운 취향이나 장난기, 인간과 다른 자기 인식을 보여 줄 수 있다. 형태를 바꾸는 비용이 작다는 사실도 드러난다. 반면 [[발동 시점을 통제하지 못하는 변신]]이라면 원래 모습으로 돌아가고 싶어도 머물지 못하는 불안과 제약이 중심이 된다.\n\n[[주변 마음에 따라 변하는 몸]]처럼 특정 자극이 변화를 일으킬 수도 있고 뚜렷한 계기 없이 이어질 수도 있다. 변신 능력이 있다는 것만으로는 충분하지 않으며 한 형태를 오래 유지하지 못하거나 유지하지 않으려는 지속성이 필요하다. 전투 중 잠깐 여러 형태를 겨루는 장면과 일상적인 상태를 구별할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

@@ -4,8 +4,8 @@
   "title": "실력은 뛰어나지만 거만한 무술가",
   "original": "Arrogant Kung-Fu Guy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00917",
+  "primary_tag_id": "ML-T00917",
   "description": {
     "definition": "싸움에는 능숙하지만 타인을 얕보고 협력에 서툰 무술 인물 유형. 기술의 [[우월감]]이 인간관계의 장애물이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "탁월한 전투 능력이 타인을 얕보는 근거가 되면 관계의 기준이 승패에만 좁혀진다. 인정할 만한 상대를 만나도 배우기보다 자기 지위를 지키려 할 수 있다.\n\n고립과 험한 말은 능력과 인간관계의 간격을 드러낸다. 협력이 필요해지는 사건은 혼자 이길 수 있다는 믿음을 시험하는 계기가 된다.\n\n실력이 뛰어나고 조용한 인물 모두가 거만한 것은 아니다. [[우월감]]이 타인에게 향하는 말과 선택에 반복적으로 드러나는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "탁월한 전투 능력이 타인을 얕보는 근거가 되면 관계의 기준이 승패에만 좁혀진다. 인정할 만한 상대를 만나도 배우기보다 자기 지위를 지키려 할 수 있다.\n\n고립과 험한 말은 능력과 인간관계의 간격을 드러낸다. 협력이 필요해지는 사건은 혼자 이길 수 있다는 믿음을 시험하는 계기가 된다.\n\n실력이 뛰어나고 조용한 인물 모두가 거만한 것은 아니다. [[우월감]]이 타인에게 향하는 말과 선택에 반복적으로 드러나는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

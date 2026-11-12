@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F25",
   "description": {
-    "definition": "",
+    "definition": "온라인 게임에서 함께 플레이할 상대를 찾거나 방·경기를 선택하고 시작을 기다리는 접속 공간이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "같이 게임할 사람을 찾거나 경기를 시작하기 전에 모이는 화면이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "온라인 로비는 플레이어를 모으거나 함께할 상대를 정하고 경기 설정을 조정하는 데 쓰일 수 있다. 실제 플레이에 들어가기 전의 준비와 참여자 구성이 이 공간의 주된 기능이다.\n\n로비에서 상대를 찾은 뒤 개별 경기에 들어가는 방식은 지속적인 공동 세계에서 활동을 이어 가는 방식과 다르다. 전자에서는 경기의 시작과 종료가 참여 단위를 구분하고, 후자에서는 여러 활동 사이에도 같은 세계와 인물의 진행이 이어질 수 있다.\n\n다만 로비가 있다는 사실만으로 게임 장르가 결정되지는 않는다. [[MMORPG]]도 일부 활동의 참가자를 별도로 모을 수 있으므로, 준비 공간의 존재와 전체 세계가 유지되는 구조를 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "온라인 로비는 플레이어를 모으거나 함께할 상대를 정하고 경기 설정을 조정하는 데 쓰일 수 있다. 실제 플레이에 들어가기 전의 준비와 참여자 구성이 이 공간의 주된 기능이다.\n\n로비에서 상대를 찾은 뒤 개별 경기에 들어가는 방식은 지속적인 공동 세계에서 활동을 이어 가는 방식과 다르다. 전자에서는 경기의 시작과 종료가 참여 단위를 구분하고, 후자에서는 여러 활동 사이에도 같은 세계와 인물의 진행이 이어질 수 있다.\n\n다만 로비가 있다는 사실만으로 게임 장르가 결정되지는 않는다. [[MMORPG]]도 일부 활동의 참가자를 별도로 모을 수 있으므로, 준비 공간의 존재와 전체 세계가 유지되는 구조를 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

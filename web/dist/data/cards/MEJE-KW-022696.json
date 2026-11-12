@@ -5,8 +5,8 @@
   "original": "Warrior Messiah",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00917",
+  "primary_tag_id": "ML-T00917",
   "description": {
     "definition": "평화와 구원의 [[상징]]인 [[메시아형 인물]]이 동시에 탁월한 무술과 전투 능력을 핵심 특성으로 지니는 구도다.",
     "detail": "작품 사례: 《[[북두의 권]]》의 토키는 무술을 치유에 주로 쓰며 구세주 같은 인상을 주지만 강력한 전투 능력도 유지한다.",
@@ -14,10 +14,10 @@
     "boundary": "예수 본인을 재현할 필요가 없으며 단지 착한 전사인 경우와 구원자 이미지의 결합을 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,12 +32,33 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-002226",
+      "work_card_id": "MM-MEDIA-002788",
       "description_ko": "《북두의 권》의 토키는 무술을 치유에 주로 쓰며 구세주 같은 인상을 주지만 강력한 전투 능력도 유지한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "구원과 평화의 상징으로 제시된 인물이 탁월한 격투 능력도 지닌다. 치유와 자비의 이미지가 강한 물리적 힘과 한 인물 안에서 결합한다.\n\n전투 능력은 자비가 단순한 무력함에서 나온 것이 아님을 보여 줄 수 있다. 힘을 갖고도 어떻게 사용하는지를 통해 인물의 가치관이 드러난다.\n\n선량한 전사라는 사실만으로 구세주 이미지가 성립하지 않는다. 또한 특정 종교 인물을 그대로 재현할 필요는 없으며 구원자로서의 상징과 무술이 함께 강조되어야 한다.\n\n[[북두의 권]]의 토키는 무술을 치유에 주로 사용하면서도 강력한 전투 능력을 유지한다.\n\n[[북두의 권]]",
+    "sections": [
+      [
+        "상세 설명",
+        "구원과 평화의 상징으로 제시된 인물이 탁월한 격투 능력도 지닌다. 치유와 자비의 이미지가 강한 물리적 힘과 한 인물 안에서 결합한다.\n\n전투 능력은 자비가 단순한 무력함에서 나온 것이 아님을 보여 줄 수 있다. 힘을 갖고도 어떻게 사용하는지를 통해 인물의 가치관이 드러난다.\n\n선량한 전사라는 사실만으로 구세주 이미지가 성립하지 않는다. 또한 특정 종교 인물을 그대로 재현할 필요는 없으며 구원자로서의 상징과 무술이 함께 강조되어야 한다."
+      ],
+      [
+        "사례",
+        "[[북두의 권]]의 토키는 무술을 치유에 주로 사용하면서도 강력한 전투 능력을 유지한다."
+      ],
+      [
+        "관련 작품",
+        "[[북두의 권]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

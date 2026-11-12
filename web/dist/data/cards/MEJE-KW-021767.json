@@ -4,8 +4,8 @@
   "title": "찾던 대상이 자기 자신이었다는 발견",
   "original": "Tomato in the Mirror",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "인물이 추적하거나 찾고 있던 대상의 정체가 바로 자신이었다는 사실을 깨닫는 반전이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "숨겨진 출신을 알게 되는 모든 경우가 아니라 탐색 대상과 탐색자의 동일성이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 찾거나 추적하던 대상이 자신이었다는 사실을 알게 된다. 탐색자와 탐색 대상이 분리되어 있다는 전제가 반전으로 무너진다.\n\n새 정보는 대상의 정체뿐 아니라 자신이 해 온 행동의 의미도 바꾼다. 자신을 바깥의 존재처럼 다루었던 추적 과정이 자기 인식의 문제로 전환된다.\n\n숨겨진 출신이나 능력을 아는 모든 반전과 다르다. 찾던 대상과 자신 사이의 동일성이 있어야 하며 단순한 닮음이나 관련성은 충분하지 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 찾거나 추적하던 대상이 자신이었다는 사실을 알게 된다. 탐색자와 탐색 대상이 분리되어 있다는 전제가 반전으로 무너진다.\n\n새 정보는 대상의 정체뿐 아니라 자신이 해 온 행동의 의미도 바꾼다. 자신을 바깥의 존재처럼 다루었던 추적 과정이 자기 인식의 문제로 전환된다.\n\n숨겨진 출신이나 능력을 아는 모든 반전과 다르다. 찾던 대상과 자신 사이의 동일성이 있어야 하며 단순한 닮음이나 관련성은 충분하지 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

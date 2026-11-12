@@ -4,8 +4,8 @@
   "title": "상처받을 진실 대신 위로의 거짓말을 하기",
   "original": "Lying to Protect Your Feelings",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02599",
+  "primary_tag_id": "ML-T02599",
   "description": {
     "definition": "상대가 감당하기 어려운 진실에 상처받지 않게 하려 사실과 다른 말을 전달하는 관계적 선택이다.",
     "detail": "중대한 비밀뿐 아니라 서툰 요리를 마음에 든다고 말하는 작은 배려에도 쓰인다. 선의가 거짓말의 결과를 자동으로 정당화하지는 않는다.\n\n작품 사례: 《[[나루토]]》에서 사쿠라는 나루토가 사스케를 데려오겠다는 약속에 더 매이지 않게 하려고 자신이 나루토를 사랑한다고 거짓말한다. 나루토가 이를 알아차리면서 선의의 거짓말은 [[갈등]]으로 이어진다.",
@@ -13,14 +13,20 @@
     "boundary": "중요한 정보를 말하지 않는 침묵과 달리 거짓 내용을 적극적으로 전달한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_pattern",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "진실을 말하면 너무 아플 것 같아서 다른 말을 한다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중대한 비밀뿐 아니라 서툰 요리를 마음에 든다고 말하는 작은 배려에도 쓰인다. 말하는 사람은 진실이 상대에게 줄 고통을 예상하여 거짓 내용을 선택하지만 그 예상이 항상 정확한 것은 아니다.\n\n돌봄의 의도와 진실을 알 권리 사이에 [[갈등]]이 생길 수 있다. 선의가 이후의 상처나 신뢰 손상을 자동으로 정당화하지는 않는다. 중요한 정보를 말하지 않는 침묵과 달리 사실과 다른 내용을 적극적으로 전달한다는 점도 구분해야 한다.\n\n《[[나루토(만화)]]》에서 사쿠라는 나루토가 사스케를 데려오겠다는 약속에 더 매이지 않게 하려고 자신이 나루토를 사랑한다고 거짓말한다. 나루토가 이를 알아차리면서 선의의 거짓말은 [[갈등]]으로 이어진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "중대한 비밀뿐 아니라 서툰 요리를 마음에 든다고 말하는 작은 배려에도 쓰인다. 말하는 사람은 진실이 상대에게 줄 고통을 예상하여 거짓 내용을 선택하지만 그 예상이 항상 정확한 것은 아니다.\n\n돌봄의 의도와 진실을 알 권리 사이에 [[갈등]]이 생길 수 있다. 선의가 이후의 상처나 신뢰 손상을 자동으로 정당화하지는 않는다. 중요한 정보를 말하지 않는 침묵과 달리 사실과 다른 내용을 적극적으로 전달한다는 점도 구분해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[나루토(만화)]]》에서 사쿠라는 나루토가 사스케를 데려오겠다는 약속에 더 매이지 않게 하려고 자신이 나루토를 사랑한다고 거짓말한다. 나루토가 이를 알아차리면서 선의의 거짓말은 [[갈등]]으로 이어진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

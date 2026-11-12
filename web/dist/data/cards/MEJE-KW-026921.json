@@ -4,8 +4,8 @@
   "title": "연애 경쟁자끼리 함께 술 마시기",
   "original": "Drowning Our Romantic Sorrows",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000608",
+  "primary_tag_id": "MM-UNSET-000608",
   "description": {
     "definition": "같은 사람을 두고 경쟁하던 구애자들이 함께 술을 마시는 관계 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-008014의 개인적인 실연 달래기와 달리 경쟁자들이 함께 있다는 조합이 필수다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.002.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "연적이던 사람들이 같은 술자리에서 마주한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 상대를 좋아하는 경쟁자들이 함께 술을 마시며 각자의 감정을 말한다. 당사자에게 직접 고백하지 못한 마음이 경쟁 관계 안의 대화로 우회한다.\n\n서로 처지를 이해하면 경쟁이 잠시 연대감으로 바뀔 수 있고 같은 목표를 다시 확인하면 갈등이 심해질 수도 있다. 상대방도 같은 불안을 겪는다는 발견이 인물을 입체적으로 만든다.\n\n혼자 실연을 달래는 장면과 달리 경쟁자라는 조합이 필수다. [[서로 친구인 두 커플]]처럼 이미 안정된 관계의 교류와도 다르다. 술이 감정 해결을 보장하는 수단이라는 현실적인 효과를 주장하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 상대를 좋아하는 경쟁자들이 함께 술을 마시며 각자의 감정을 말한다. 당사자에게 직접 고백하지 못한 마음이 경쟁 관계 안의 대화로 우회한다.\n\n서로 처지를 이해하면 경쟁이 잠시 연대감으로 바뀔 수 있고 같은 목표를 다시 확인하면 갈등이 심해질 수도 있다. 상대방도 같은 불안을 겪는다는 발견이 인물을 입체적으로 만든다.\n\n혼자 실연을 달래는 장면과 달리 경쟁자라는 조합이 필수다. [[서로 친구인 두 커플]]처럼 이미 안정된 관계의 교류와도 다르다. 술이 감정 해결을 보장하는 수단이라는 현실적인 효과를 주장하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

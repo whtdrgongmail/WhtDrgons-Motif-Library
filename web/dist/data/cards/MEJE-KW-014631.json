@@ -4,8 +4,8 @@
   "title": "수집물을 잃는 대신 타격 견디기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02098",
+  "primary_tag_id": "ML-T02098",
   "description": {
     "definition": "평소 모으는 수집 자원이 남아 있으면 치명적 타격을 버티고 그 자원을 잃지만 자원이 없을 때는 같은 타격으로 패배하는 규칙이다. 떨어진 자원을 다시 주워 보호를 되찾을 수도 있다.",
     "detail": "작품 사례: [[Sonic the Hedgehog]]의 링 보호 방식에서는 공격을 받아도 링을 흩뜨리고 살아남을 수 있다. 떨어진 링을 다시 주우면 링 없이 맞을 때의 즉각적인 패배를 피할 여력이 돌아온다.",
@@ -13,10 +13,10 @@
     "boundary": "아이템을 소비해 일반 체력을 회복하는 방식이나 자원 수만큼 반드시 여러 번 버티는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수집한 자원을 잃는 대가로 공격을 견디게 하는 보호 규칙이다. 해당 자원의 보유 여부가 즉각적인 패배를 피할 수 있는 조건이 된다.\n\n소비한 아이템으로 일반 체력을 채우는 것과 다르다. 자원의 개수가 곧 견딜 타격 횟수와 같은지도 별도 규칙이며 반드시 일대일일 필요는 없다.\n\n[[Sonic the Hedgehog]]의 링은 공격을 받으면 흩어지고 인물은 살아남을 수 있다. 떨어진 링을 다시 얻으면 링 없이 맞아 패배하는 위험을 다시 피할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수집한 자원을 잃는 대가로 공격을 견디게 하는 보호 규칙이다. 해당 자원의 보유 여부가 즉각적인 패배를 피할 수 있는 조건이 된다.\n\n소비한 아이템으로 일반 체력을 채우는 것과 다르다. 자원의 개수가 곧 견딜 타격 횟수와 같은지도 별도 규칙이며 반드시 일대일일 필요는 없다."
+      ],
+      [
+        "관련 작품",
+        "[[Sonic the Hedgehog]]의 링은 공격을 받으면 흩어지고 인물은 살아남을 수 있다. 떨어진 링을 다시 얻으면 링 없이 맞아 패배하는 위험을 다시 피할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

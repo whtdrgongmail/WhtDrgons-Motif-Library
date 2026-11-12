@@ -4,8 +4,8 @@
   "title": "살해당한 뒤 악령이 됨",
   "original": "Murder Into Malevolence",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01203",
+  "primary_tag_id": "ML-T01203",
   "description": {
     "definition": "살해 피해자의 죽음이 계기가 되어 그 영혼이 악의적인 [[유령]]으로 변화하는 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "생전부터 악하거나 보복 대상에게만 원한을 품는 경우와 구별할 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "생전에는 선하거나 적어도 악하지 않았던 피해자가 살해된 뒤 다른 사람을 해치는 영혼으로 변한다. 죽음을 초래한 폭력과 감정이 인격을 잠식하면서, 살인은 생명을 빼앗는 데 그치지 않고 사후의 존재 방식까지 훼손한다.\n\n원한이 살인자 한 사람에게만 향하지 않고 무관한 사람에게도 퍼지면 피해자였던 존재가 새로운 위협이 된다. 설득이나 복수의 해결로 진정될 여지가 있을 수도 있고 고통을 계속 주는 데만 집착할 수도 있다. 생전부터 악했던 존재가 사후에도 그대로 악한 경우와는 변화의 원인이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "생전에는 선하거나 적어도 악하지 않았던 피해자가 살해된 뒤 다른 사람을 해치는 영혼으로 변한다. 죽음을 초래한 폭력과 감정이 인격을 잠식하면서, 살인은 생명을 빼앗는 데 그치지 않고 사후의 존재 방식까지 훼손한다.\n\n원한이 살인자 한 사람에게만 향하지 않고 무관한 사람에게도 퍼지면 피해자였던 존재가 새로운 위협이 된다. 설득이나 복수의 해결로 진정될 여지가 있을 수도 있고 고통을 계속 주는 데만 집착할 수도 있다. 생전부터 악했던 존재가 사후에도 그대로 악한 경우와는 변화의 원인이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

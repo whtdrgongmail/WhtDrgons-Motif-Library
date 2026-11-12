@@ -2,24 +2,67 @@
   "id": "MM-MEDIA-003547",
   "kind": "work",
   "title": "Croc",
-  "original": "",
+  "original": "Croc: Legend of the Gobbos",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00078",
+  "primary_tag_id": "ML-T00078",
   "description": {
-    "definition": "",
+    "definition": "《Croc》는 아르고노트 게임스가 개발한 3차원 플랫폼 게임 《Croc: Legend of the Gobbos》의 첫 작품을 가리킨다. 입양 가족인 고보들을 구하는 악어 크록의 모험이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 2,
+  "classification": {
+    "code": "02.016.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "platform",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "작은 악어 크록을 조작해 뛰고 이동하며 고보들을 구하는 게임이다. 여기서는 첫 게임을 뜻하고 후속작이나 리마스터와 구분한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000318",
+      "card_id": "MM-MEDIA-003547",
+      "label_ko": "아르고노트 게임스 작품 소개",
+      "icon_key": "game",
+      "url": "https://www.argonautgames.com/croc-remaster",
+      "description_ko": "원작 게임과 리마스터를 구분해 소개하는 개발사 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "플레이어는 크록을 움직여 여러 환경의 발판과 장애물을 통과하고 고보들을 구한다. 개발사 공식 소개는 크록의 이동·점프·등반·수영과 꼬리 공격을 게임의 핵심 행동으로 제시한다. 캐릭터의 온화한 외형과 구조 목표는 공격적인 경쟁 이미지만으로 작품을 설명하기 어렵게 한다.\n\n라이브러리의 연결 문맥은 서구권 게임 광고가 캐릭터를 거친 경쟁자로 내세우는 방식과 게임 안에서 드러나는 인물상을 비교한다. 광고의 과장된 말투는 홍보상의 포지셔닝이고, 게임의 규칙과 줄거리에서 확인되는 크록의 행동은 별도로 기록한다. 이 카드는 1990년대 첫 작품이며 후대의 리마스터를 같은 판본으로 취급하지 않는다.\n\n게임 광고가 다른 플랫폼 캐릭터에 대한 우위를 강조하더라도, 실제 플레이에서 크록의 목적이 동료 고보의 구조라면 광고의 경쟁 구도와 작품 안의 목표를 나누어 분석한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플레이어는 크록을 움직여 여러 환경의 발판과 장애물을 통과하고 고보들을 구한다. 개발사 공식 소개는 크록의 이동·점프·등반·수영과 꼬리 공격을 게임의 핵심 행동으로 제시한다. 캐릭터의 온화한 외형과 구조 목표는 공격적인 경쟁 이미지만으로 작품을 설명하기 어렵게 한다.\n\n라이브러리의 연결 문맥은 서구권 게임 광고가 캐릭터를 거친 경쟁자로 내세우는 방식과 게임 안에서 드러나는 인물상을 비교한다. 광고의 과장된 말투는 홍보상의 포지셔닝이고, 게임의 규칙과 줄거리에서 확인되는 크록의 행동은 별도로 기록한다. 이 카드는 1990년대 첫 작품이며 후대의 리마스터를 같은 판본으로 취급하지 않는다."
+      ],
+      [
+        "사례",
+        "게임 광고가 다른 플랫폼 캐릭터에 대한 우위를 강조하더라도, 실제 플레이에서 크록의 목적이 동료 고보의 구조라면 광고의 경쟁 구도와 작품 안의 목표를 나누어 분석한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

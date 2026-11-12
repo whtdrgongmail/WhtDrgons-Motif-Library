@@ -5,8 +5,8 @@
   "original": "Isolating Someone from Their Support Network",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01015",
+  "primary_tag_id": "ML-T01015",
   "description": {
     "definition": "한 사람에게 의존하는 인물이 그 사람을 잃을까 두려워 상대의 다른 관계를 파괴하며 곁에 붙잡아 두는 관계 악화이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "상호 돌봄이나 정당한 보호와 구별하며 상대의 자율성과 피해가 분석의 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.006.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "도움을 주던 사람에게 다른 삶이 생기지 못하게 막으며 의존이 통제로 변한다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정서적으로 의존하는 상대를 잃을까 두려워 그 사람의 다른 관계를 끊으려 한다. 가까이 유지하려는 욕구가 고립시키는 행동으로 나타난다.\n\n외부의 관계가 줄어들면 상대는 의존 관계에서 벗어날 기회를 잃는다. 애착을 유지하는 방식이 당사자의 선택과 자율성을 제한한다.\n\n상호적인 돌봄이나 위험으로부터의 보호와는 다르다. 상대의 인간관계를 통제하여 자신에게 묶어 두려는 행동이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정서적으로 의존하는 상대를 잃을까 두려워 그 사람의 다른 관계를 끊으려 한다. 가까이 유지하려는 욕구가 고립시키는 행동으로 나타난다.\n\n외부의 관계가 줄어들면 상대는 의존 관계에서 벗어날 기회를 잃는다. 애착을 유지하는 방식이 당사자의 선택과 자율성을 제한한다.\n\n상호적인 돌봄이나 위험으로부터의 보호와는 다르다. 상대의 인간관계를 통제하여 자신에게 묶어 두려는 행동이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

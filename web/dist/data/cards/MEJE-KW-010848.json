@@ -4,8 +4,8 @@
   "title": "조작부터 짜증을 유발하는 게임",
   "original": "Frustration Simulator",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "움직임을 세밀하게 통제해야 하는 불편한 조작과 높은 난도를 핵심 경험으로 삼아 실패와 [[재도전]]을 반복하게 하는 게임 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불편하고 세밀한 조작 자체를 핵심 도전으로 삼는 게임 유형이다. 평범한 움직임도 여러 입력을 정확히 조합해야 성립한다.\n\n작은 실수로 진행을 잃으면 반복적인 실패와 숙련이 주된 경험이 된다. 조작을 이해한 순간의 성취감은 이전의 강한 좌절과 대비된다.\n\n단순히 완성도가 낮아 조작이 불안정한 게임과는 의도가 다르다. 어려운 통제를 일관된 규칙과 목표로 설계했는지가 중요한 구별이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불편하고 세밀한 조작 자체를 핵심 도전으로 삼는 게임 유형이다. 평범한 움직임도 여러 입력을 정확히 조합해야 성립한다.\n\n작은 실수로 진행을 잃으면 반복적인 실패와 숙련이 주된 경험이 된다. 조작을 이해한 순간의 성취감은 이전의 강한 좌절과 대비된다.\n\n단순히 완성도가 낮아 조작이 불안정한 게임과는 의도가 다르다. 어려운 통제를 일관된 규칙과 목표로 설계했는지가 중요한 구별이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

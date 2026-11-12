@@ -5,8 +5,8 @@
   "original": "Unpredictability That Defeats Precognition",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01505",
+  "primary_tag_id": "ML-T01505",
   "description": {
     "definition": "인물의 극도로 불규칙한 사고와 행동 때문에 미래나 전투 행동을 예측하는 능력이 제대로 작동하지 않는 설정이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "단지 전술이 뛰어나 상대를 속이는 경우와 구별한다. 예측 능력 자체의 한계가 특정한 사고방식과 연결되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "17",
+    "code": "17.002.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "예측 능력은 대상의 사고와 행동이 일정한 방식으로 이어진다고 전제한다. 극도로 불규칙한 인물은 그 연결을 깨뜨려 예측을 어렵게 만든다.\n\n강한 능력에도 대상에 따른 예외를 부여하는 방식이다. 어떤 사고의 특성이 예측을 무력화하는지 정하면 대응 관계가 명료해진다.\n\n뛰어난 전술로 상대를 한 번 속인 상황과는 다르다. 예측 능력 자체의 한계가 특정한 사고방식에 연결되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "예측 능력은 대상의 사고와 행동이 일정한 방식으로 이어진다고 전제한다. 극도로 불규칙한 인물은 그 연결을 깨뜨려 예측을 어렵게 만든다.\n\n강한 능력에도 대상에 따른 예외를 부여하는 방식이다. 어떤 사고의 특성이 예측을 무력화하는지 정하면 대응 관계가 명료해진다.\n\n뛰어난 전술로 상대를 한 번 속인 상황과는 다르다. 예측 능력 자체의 한계가 특정한 사고방식에 연결되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

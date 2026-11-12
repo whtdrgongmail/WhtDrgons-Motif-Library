@@ -4,8 +4,8 @@
   "title": "전쟁 선전을 위해 제작하는 애니메이션",
   "original": "Wartime Cartoon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "전쟁에 대한 선전 목적을 애니메이션의 [[서사]]와 표현으로 전달하는 작품 유형이다.",
     "detail": "",
@@ -13,20 +13,14 @@
     "boundary": "전쟁을 배경으로 한다는 것만으로 선전물에 해당하지 않으며 선전 목적이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "움직이는 그림으로 전쟁에 대한 지지와 메시지를 전한다.",
     "review_status": "reviewed",
@@ -36,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전쟁 선전 애니메이션은 전쟁에 대한 특정 입장을 설득하기 위해 제작된 움직이는 그림이다. [[선전]]의 목적이 인물, 적의 묘사, 사건의 인과관계와 결말에 영향을 주며, 오락적인 장면도 메시지를 기억하게 하거나 집단의 결속을 강화하는 기능을 맡을 수 있다.\n\n작품이 누구를 정당한 주체로, 누구를 위협으로 묘사하는지 확인해야 한다. 인물의 특징을 과장하거나 복잡한 갈등을 단순한 대립으로 바꾸는 표현은 설득의 일부가 될 수 있다. 그 방식은 제작 주체와 배포 대상, 제작 시기의 전쟁 상황을 함께 놓고 분석해야 한다.\n\n전쟁을 배경으로 한 모든 애니메이션이 선전물은 아니다. 전쟁에 관한 비판, 추모, 역사 설명도 애니메이션으로 제작할 수 있다. 제작·배포 목적과 작품에 반복되는 설득 메시지가 확인될 때 이 카드와 연결한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전쟁 선전 애니메이션은 전쟁에 대한 특정 입장을 설득하기 위해 제작된 움직이는 그림이다. [[선전]]의 목적이 인물, 적의 묘사, 사건의 인과관계와 결말에 영향을 주며, 오락적인 장면도 메시지를 기억하게 하거나 집단의 결속을 강화하는 기능을 맡을 수 있다.\n\n작품이 누구를 정당한 주체로, 누구를 위협으로 묘사하는지 확인해야 한다. 인물의 특징을 과장하거나 복잡한 갈등을 단순한 대립으로 바꾸는 표현은 설득의 일부가 될 수 있다. 그 방식은 제작 주체와 배포 대상, 제작 시기의 전쟁 상황을 함께 놓고 분석해야 한다.\n\n전쟁을 배경으로 한 모든 애니메이션이 선전물은 아니다. 전쟁에 관한 비판, 추모, 역사 설명도 애니메이션으로 제작할 수 있다. 제작·배포 목적과 작품에 반복되는 설득 메시지가 확인될 때 이 카드와 연결한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

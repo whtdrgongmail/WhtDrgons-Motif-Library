@@ -4,8 +4,8 @@
   "title": "큰 해를 끼치지 못하는 악역",
   "original": "Harmless Villain",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "악역 역할을 맡지만 계획의 수단이나 결과가 온건하거나 우스워 실질적인 중대한 피해를 만들지 않는 인물 유형이다.",
     "detail": "작품 사례: [[Children's Party at the Palace]]의 일부 악역은 코기들을 딴 데로 유인하거나 여왕의 가방을 훔쳐 파티를 망치려 해, 중대한 파괴보다 온건하고 우스운 방해를 벌인다.",
@@ -13,10 +13,10 @@
     "boundary": "잔혹한 계획을 능력 부족 때문에 실패시키는 악역이나 웃기지만 위험한 악역과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,13 +30,34 @@
   "applied_tags": [],
   "related_media": [
     {
-      "media_tag_id": "ML-T02487",
+      "media_tag_id": "ML-T00061",
       "work_card_id": "MM-MEDIA-000170",
       "description_ko": "Children's Party at the Palace의 일부 악역은 코기들을 딴 데로 유인하거나 여왕의 가방을 훔쳐 파티를 망치려 해, 중대한 파괴보다 온건하고 우스운 방해를 벌인다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이 인물은 이야기에서 방해자이지만 계획이 만드는 피해의 규모나 성격이 비교적 가볍다. 악역이라는 위치와 실제 행동의 온건함 사이의 차이가 희극적인 인상을 만든다.\n\n목표가 작은 소동에 머물면 주인공과의 충돌도 일상의 방해나 경쟁으로 구성할 수 있다. 인물을 악역으로 알아볼 수 있게 하면서도 심각한 희생을 요구하지 않는 기능이 있다.\n\n잔혹한 계획을 세웠지만 우연히 실패한 경우는 의도한 위험이 남아 있다. 행동이 웃긴다는 이유만으로 무해하다고 판단할 수 없으며 실제 수단과 결과가 온건해야 한다.\n\n[[Children's Party at the Palace]]의 일부 악역은 코기들을 유인하거나 여왕의 가방을 훔쳐 파티를 방해한다.\n\n[[Children's Party at the Palace]]",
+    "sections": [
+      [
+        "상세 설명",
+        "이 인물은 이야기에서 방해자이지만 계획이 만드는 피해의 규모나 성격이 비교적 가볍다. 악역이라는 위치와 실제 행동의 온건함 사이의 차이가 희극적인 인상을 만든다.\n\n목표가 작은 소동에 머물면 주인공과의 충돌도 일상의 방해나 경쟁으로 구성할 수 있다. 인물을 악역으로 알아볼 수 있게 하면서도 심각한 희생을 요구하지 않는 기능이 있다.\n\n잔혹한 계획을 세웠지만 우연히 실패한 경우는 의도한 위험이 남아 있다. 행동이 웃긴다는 이유만으로 무해하다고 판단할 수 없으며 실제 수단과 결과가 온건해야 한다."
+      ],
+      [
+        "사례",
+        "[[Children's Party at the Palace]]의 일부 악역은 코기들을 유인하거나 여왕의 가방을 훔쳐 파티를 방해한다."
+      ],
+      [
+        "관련 작품",
+        "[[Children's Party at the Palace]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,19 +4,19 @@
   "title": "원래 영웅보다 거친 후임자",
   "original": "Anti-Hero Substitute",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00901",
+  "primary_tag_id": "ML-T00901",
   "description": {
-    "definition": "기존 영웅이 자리를 비운 뒤 그 역할을 더 냉혹하거나 무례한 인물이 이어받는다. 같은 임무를 수행하는 두 방식의 차이가 후임의 정당성을 묻는다.",
+    "definition": "기존 영웅이 자리를 비운 뒤 그 역할을 더 냉혹하거나 무례한 인물이 이어받는다. 같은 임무를 수행하는 두 방식의 차이가 후임의 정당성에 대한 의문을 드러낸다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.003.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 영웅의 역할을 다른 도덕적 태도의 인물이 맡으면 임무의 수행 방식이 비교된다. 후임의 거침은 기존 원칙이 무엇을 막고 지켜 왔는지 드러낼 수 있다.\n\n이전 영웅의 부재는 새 인물이 권한을 얻는 조건이 된다. 성과가 있어도 비용이 커지면 능력과 정당성을 따로 평가하게 하며 복귀의 의미도 달라진다.\n\n원래 인물의 성격 변화와는 인물의 교체가 다르다. 후계자가 단지 새로운 모습인지 기존 영웅보다 냉혹한 방식이 중심인지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 영웅의 역할을 다른 도덕적 태도의 인물이 맡으면 임무의 수행 방식이 비교된다. 후임의 거침은 기존 원칙이 무엇을 막고 지켜 왔는지 드러낼 수 있다.\n\n이전 영웅의 부재는 새 인물이 권한을 얻는 조건이 된다. 성과가 있어도 비용이 커지면 능력과 정당성을 따로 평가하게 하며 복귀의 의미도 달라진다.\n\n원래 인물의 성격 변화와는 인물의 교체가 다르다. 후계자가 단지 새로운 모습인지 기존 영웅보다 냉혹한 방식이 중심인지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

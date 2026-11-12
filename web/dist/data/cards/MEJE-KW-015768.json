@@ -4,8 +4,8 @@
   "title": "새 영웅의 활동을 소개하는 순찰 몽타주",
   "original": "\"On Patrol\" Montage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01914",
+  "primary_tag_id": "ML-T01914",
   "description": {
     "definition": "새로 등장한 영웅이 여러 선행을 수행하는 장면을 이어 붙여 능력과 활동 범위, 주변의 반응을 한 번에 보여 주는 구성이다.",
     "detail": "작품 사례: [[The Super Mario Galaxy Movie]]는 마리오 형제가 왕국을 돕는 장면들을 이어 보여 주며, 아이의 떨어진 아이스크림을 새로 주는 선행도 그 안에 넣는다.",
@@ -13,10 +13,10 @@
     "boundary": "한 번의 사건을 길게 보여 주는 장면이나 능력 훈련만을 모은 장면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.009.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "짧은 선행과 대응 장면을 연속하여 배치하면 새 영웅의 역량과 활동 범위를 빠르게 소개할 수 있다. 큰 위기뿐 아니라 사소한 도움도 포함되면 인물이 지역사회와 맺는 관계까지 전달된다.\n\n한 사건을 길게 묘사하거나 훈련 동작만 모은 구성과는 정보의 범위가 다르다. 여러 활동의 연결이 실제 보호 행동과 주변의 반응을 소개하는지 확인한다.\n\n《[[The Super Mario Galaxy Movie]]》의 제공 사례는 마리오 형제가 왕국을 돕는 여러 장면에 아이의 아이스크림을 새로 주는 행동도 포함한다. 큰 활약과 일상의 작은 친절을 함께 소개하는 몽타주다.",
+    "sections": [
+      [
+        "상세 설명",
+        "짧은 선행과 대응 장면을 연속하여 배치하면 새 영웅의 역량과 활동 범위를 빠르게 소개할 수 있다. 큰 위기뿐 아니라 사소한 도움도 포함되면 인물이 지역사회와 맺는 관계까지 전달된다.\n\n한 사건을 길게 묘사하거나 훈련 동작만 모은 구성과는 정보의 범위가 다르다. 여러 활동의 연결이 실제 보호 행동과 주변의 반응을 소개하는지 확인한다."
+      ],
+      [
+        "관련 작품",
+        "《[[The Super Mario Galaxy Movie]]》의 제공 사례는 마리오 형제가 왕국을 돕는 여러 장면에 아이의 아이스크림을 새로 주는 행동도 포함한다. 큰 활약과 일상의 작은 친절을 함께 소개하는 몽타주다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "호칭으로 드러내는 무시와 거리",
   "original": "Hey, You!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01995",
+  "primary_tag_id": "ML-T01995",
   "description": {
     "definition": "상대에게 기대되는 이름·직함·관계 호칭을 의도적으로 쓰지 않거나 바꾸어 존중의 부족, 친밀감 또는 관계의 변화를 표현하는 방식이다.",
     "detail": "작품 사례: [[Revolutionary Girl Utena]]에서 안시는 사이온지에게 매인 관계가 끝나자 호칭을 사마에서 센파이로 바꾸어, 더는 복종할 의무가 없음을 드러낸다.",
@@ -13,10 +13,10 @@
     "boundary": "게임 제작 편의를 위한 무명 호칭처럼 관계 의미가 없는 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이름과 존칭의 선택으로 존중과 복종, 거리의 정도를 표현하는 방식이다. 호칭의 변화는 직접 선언하지 않은 관계의 재편을 드러낼 수 있다.\n\n일관된 존칭을 쓰지 않는다는 사실만으로 무시라고 단정하지 않는다. 게임 제작상의 무명 호칭처럼 관계 의미가 없는 경우와 구별해야 한다.\n\n[[Revolutionary Girl Utena]]의 안시는 사이온지에게 매인 관계가 끝나자 사마 대신 센파이라는 호칭을 쓴다. 존칭의 차이가 더는 같은 복종 의무를 갖지 않음을 나타낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이름과 존칭의 선택으로 존중과 복종, 거리의 정도를 표현하는 방식이다. 호칭의 변화는 직접 선언하지 않은 관계의 재편을 드러낼 수 있다.\n\n일관된 존칭을 쓰지 않는다는 사실만으로 무시라고 단정하지 않는다. 게임 제작상의 무명 호칭처럼 관계 의미가 없는 경우와 구별해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Revolutionary Girl Utena]]의 안시는 사이온지에게 매인 관계가 끝나자 사마 대신 센파이라는 호칭을 쓴다. 존칭의 차이가 더는 같은 복종 의무를 갖지 않음을 나타낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

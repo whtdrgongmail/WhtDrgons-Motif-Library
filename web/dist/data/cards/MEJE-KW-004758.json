@@ -4,8 +4,8 @@
   "title": "뜻밖의 동물이 끄는 수레",
   "original": "Chariot Pulled by Cats",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01456",
+  "primary_tag_id": "ML-T01456",
   "description": {
     "definition": "말 대신 낯설거나 환상적인 동물이 수레와 마차를 끈다. 탈것의 모습만으로 그 세계의 생태와 주인의 취향을 드러낸다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수레나 마차를 끄는 동물로 흔한 말 대신 기이하거나 환상적인 존재를 사용하는 설정이다. 고양이뿐 아니라 포식자와 상상의 동물 등 낯선 조합이 범위에 들어간다.\n\n이동 장면만으로 주인의 권능과 취향, 지역의 생태를 보여 줄 수 있다. 거친 동물을 얌전히 부리는 모습은 통제력을 강조하고 말과 다른 습성은 이동 중 소동의 원인이 될 수 있다.\n\n뜻밖의 동물이 수레를 끌면 [[세계관]]의 운송 수단에 고유한 특징이 생긴다. 특이한 동물을 타는 것과는 달리 동물이 차량을 끌어야 하며, 실제로 길들이거나 운용할 수 있다는 현실적 주장을 전제하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수레나 마차를 끄는 동물로 흔한 말 대신 기이하거나 환상적인 존재를 사용하는 설정이다. 고양이뿐 아니라 포식자와 상상의 동물 등 낯선 조합이 범위에 들어간다.\n\n이동 장면만으로 주인의 권능과 취향, 지역의 생태를 보여 줄 수 있다. 거친 동물을 얌전히 부리는 모습은 통제력을 강조하고 말과 다른 습성은 이동 중 소동의 원인이 될 수 있다.\n\n뜻밖의 동물이 수레를 끌면 [[세계관]]의 운송 수단에 고유한 특징이 생긴다. 특이한 동물을 타는 것과는 달리 동물이 차량을 끌어야 하며, 실제로 길들이거나 운용할 수 있다는 현실적 주장을 전제하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "실사 작품 속 애니메이션 구간",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01917",
+  "primary_tag_id": "ML-T01917",
   "description": {
     "definition": "주로 실사로 진행되는 작품의 일부를 평면·입체·스톱모션 등의 애니메이션으로 표현하는 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "차이를 숨긴 기술 보조보다 서로 다른 표현 기법이 드러나는 구성이 기준이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실사로 진행되는 작품이 일부 구간에서 [[애니메이션]]으로 표현 방식을 바꾼다. 평면이나 입체, 스톱모션 등 서로 다른 기법의 차이가 화면에서 드러난다.\n\n표현 기법의 전환은 장소나 인물, 정서가 달라졌음을 알리는 수단이 된다. 무엇을 애니메이션 구간으로 분리했는지가 두 방식의 관계를 결정한다.\n\n실사처럼 보이도록 차이를 숨기는 기술 보조와 구별한다. 관객이 서로 다른 표현 방식을 인식할 수 있는 구성이 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실사로 진행되는 작품이 일부 구간에서 [[애니메이션]]으로 표현 방식을 바꾼다. 평면이나 입체, 스톱모션 등 서로 다른 기법의 차이가 화면에서 드러난다.\n\n표현 기법의 전환은 장소나 인물, 정서가 달라졌음을 알리는 수단이 된다. 무엇을 애니메이션 구간으로 분리했는지가 두 방식의 관계를 결정한다.\n\n실사처럼 보이도록 차이를 숨기는 기술 보조와 구별한다. 관객이 서로 다른 표현 방식을 인식할 수 있는 구성이 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

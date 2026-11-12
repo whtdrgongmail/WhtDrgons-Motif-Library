@@ -4,8 +4,8 @@
   "title": "게임 상태 표시줄",
   "original": "Status Line",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02155",
+  "primary_tag_id": "ML-T02155",
   "description": {
     "definition": "플레이어의 점수·체력·탄약 등 현재 상태를 요약하여 보여 주는 정보 요소이다.",
     "detail": "작품 사례: [[Casualties: Unknown]]의 상태 표시줄은 인물의 신체 상태를 글로 알려 주며, 죽음이 가까워지면 평소의 건조한 설명 대신 불길한 문구를 띄운다.",
@@ -13,10 +13,10 @@
     "boundary": "게임 화면 전체의 인터페이스보다 특정 상태 정보 요소를 뜻한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.010.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 상태를 화면의 일정한 요소에 집중해 알려 주는 정보 표시다. 체력 외에도 점수와 탄약 등 다른 자원 표시와 함께 인터페이스를 구성할 수 있다.\n\n화면 전체의 조작 체계보다 특정한 상태 정보에 해당한다. 글과 수치, 막대 등 표현 형식은 다를 수 있으며 문구의 변화가 분위기를 전달하기도 한다.\n\n[[Casualties: Unknown]]은 인물의 신체 상태를 글로 표시한다. 죽음이 가까워지면 건조한 설명이 불길한 문장으로 바뀌어 정보 표시 자체가 정서적 경고가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 상태를 화면의 일정한 요소에 집중해 알려 주는 정보 표시다. 체력 외에도 점수와 탄약 등 다른 자원 표시와 함께 인터페이스를 구성할 수 있다.\n\n화면 전체의 조작 체계보다 특정한 상태 정보에 해당한다. 글과 수치, 막대 등 표현 형식은 다를 수 있으며 문구의 변화가 분위기를 전달하기도 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Casualties: Unknown]]은 인물의 신체 상태를 글로 표시한다. 죽음이 가까워지면 건조한 설명이 불길한 문장으로 바뀌어 정보 표시 자체가 정서적 경고가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

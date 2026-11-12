@@ -5,8 +5,8 @@
   "original": "A Treasure Hunt Ends in Death",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00655",
+  "primary_tag_id": "ML-T00655",
   "description": {
     "definition": "특정 물질을 탐하고 모으던 인물이 바로 그 물질 때문에 죽는 결말로 욕망과 파멸을 연결하는 장치다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "대장 006783은 위험 앞에서 재산을 놓지 못하는 행동을 요구하지만 현재 정의는 그 물질에 의한 다른 죽음 방식도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "탐하고 모으던 특정 물질이 바로 그 인물의 죽음을 일으킨다. 욕망의 대상이 파멸의 원인으로 되돌아오는 결말이다.\n\n보물은 성공의 보상처럼 보이다가 최종적으로 해악의 도구가 된다. 무엇을 원했는지와 무엇 때문에 죽었는지가 같아 욕망과 응보의 관계를 강조한다.\n\n위험 앞에서도 재산을 버리지 못하는 행동만으로 범위를 좁히지 않는다. 현재 유형은 그 물질이 직접 다른 방식으로 죽음을 낳는 경우도 포함한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "탐하고 모으던 특정 물질이 바로 그 인물의 죽음을 일으킨다. 욕망의 대상이 파멸의 원인으로 되돌아오는 결말이다.\n\n보물은 성공의 보상처럼 보이다가 최종적으로 해악의 도구가 된다. 무엇을 원했는지와 무엇 때문에 죽었는지가 같아 욕망과 응보의 관계를 강조한다.\n\n위험 앞에서도 재산을 버리지 못하는 행동만으로 범위를 좁히지 않는다. 현재 유형은 그 물질이 직접 다른 방식으로 죽음을 낳는 경우도 포함한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

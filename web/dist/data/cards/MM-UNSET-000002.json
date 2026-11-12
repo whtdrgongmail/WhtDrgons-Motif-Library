@@ -4,8 +4,8 @@
   "title": "조연 중심 회차",
   "original": "A Day in the Limelight",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00712",
+  "primary_tag_id": "ML-T00712",
   "description": {
     "definition": "연속·에피소드 작품에서 평소 조연이나 배경 역할인 인물에게 한 회차의 주요 시점과 [[사건]]을 집중해 관계·성격·이야기 가능성을 확장하는 구성. 앙상블 작품에서는 특정 인물의 경험을 잠시 중심에 놓는 방식으로도 쓰인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "06.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -27,8 +27,28 @@
     "updated_at": "2026-11-01",
     "row_version": 1
   },
-  "applied_tags": [],
+  "applied_tags": [
+    {
+      "tag_id": "ML-T00556",
+      "role": "subject",
+      "review_status": "reviewed",
+      "row_version": 1
+    }
+  ],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평소 주변에 있던 인물을 중심에 놓으면 익숙한 세계의 다른 경험이 드러난다. 관객은 주역과의 관계만으로 보던 인물의 독자적인 목표와 문제를 알게 된다.\n\n한 회차의 시점과 사건을 집중하면 향후 비중 확대의 가능성을 시험할 수 있다. 제작 일정과 연결되는 경우도 있지만 실제 이유는 개별 제작 자료로 확인해야 한다.\n\n잠깐의 인상적인 출연과 회차 전체의 중심 이동은 다르다. [[관점 교환]]이 수단이 될 수 있으나 해당 인물이 주요 갈등을 이끌었는지까지 살펴야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평소 주변에 있던 인물을 중심에 놓으면 익숙한 세계의 다른 경험이 드러난다. 관객은 주역과의 관계만으로 보던 인물의 독자적인 목표와 문제를 알게 된다.\n\n한 회차의 시점과 사건을 집중하면 향후 비중 확대의 가능성을 시험할 수 있다. 제작 일정과 연결되는 경우도 있지만 실제 이유는 개별 제작 자료로 확인해야 한다.\n\n잠깐의 인상적인 출연과 회차 전체의 중심 이동은 다르다. [[관점 교환]]이 수단이 될 수 있으나 해당 인물이 주요 갈등을 이끌었는지까지 살펴야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

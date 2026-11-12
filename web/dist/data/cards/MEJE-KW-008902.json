@@ -4,8 +4,8 @@
   "title": "첫 회에 모두 모이는 인물들",
   "original": "Everyone Meets Everyone",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01034",
+  "primary_tag_id": "ML-T01034",
   "description": {
     "definition": "흩어져 있던 등장인물들을 하나씩 만나게 해 앞으로 함께 움직일 집단을 결성하는 시작 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "10.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "흩어진 등장인물들이 차례로 만나 앞으로 함께할 집단을 이루는 시작 구성이다. 개별 소개와 팀의 형성 과정이 동시에 진행된다.\n\n이미 서로 아는 인물이 일부 있어도 하나의 단위로 모이는 과정이 중요하다. 관계의 첫 충돌과 역할 분담을 통해 이후 집단의 역학을 예고한다.\n\n처음부터 완성된 팀을 보여 주는 도입과는 다르다. 첫 회뿐 아니라 나중의 회상으로도 사용할 수 있으며, 현재 관계가 어떻게 시작되었는지 설명하는 기능을 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "흩어진 등장인물들이 차례로 만나 앞으로 함께할 집단을 이루는 시작 구성이다. 개별 소개와 팀의 형성 과정이 동시에 진행된다.\n\n이미 서로 아는 인물이 일부 있어도 하나의 단위로 모이는 과정이 중요하다. 관계의 첫 충돌과 역할 분담을 통해 이후 집단의 역학을 예고한다.\n\n처음부터 완성된 팀을 보여 주는 도입과는 다르다. 첫 회뿐 아니라 나중의 회상으로도 사용할 수 있으며, 현재 관계가 어떻게 시작되었는지 설명하는 기능을 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

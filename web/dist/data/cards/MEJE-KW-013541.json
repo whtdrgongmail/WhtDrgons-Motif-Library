@@ -4,8 +4,8 @@
   "title": "가혹한 판사",
   "original": "Hanging Judge",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00922",
+  "primary_tag_id": "ML-T00922",
   "description": {
     "definition": "경미한 잘못에도 지나친 [[형벌]]을 내리고 [[법정]]을 개인 권력의 수단으로 쓰는 사법 권위자형 [[인물]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "엄정하고 공정한 판단과 달리 비례성·공정성의 결여가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.005.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "법정의 권한을 이용해 사소한 잘못에도 지나친 형벌을 내리는 판사다. 법을 엄격히 집행한다는 외양을 취하더라도 형벌의 비례성과 공정성이 무너지면, 재판은 권력자의 개인적인 지배 수단으로 바뀐다.\n\n금품이나 사익을 위해 움직일 수도 있고 자신만이 옳다고 확신하여 가혹함을 정당화할 수도 있다. 동기가 달라도 피고인에 대한 개인적 반감이 판단을 좌우한다면 공정한 심리를 기대하기 어려워진다. 단지 법정 태도가 엄숙하거나 유죄 판결이 많다는 사실과는 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "법정의 권한을 이용해 사소한 잘못에도 지나친 형벌을 내리는 판사다. 법을 엄격히 집행한다는 외양을 취하더라도 형벌의 비례성과 공정성이 무너지면, 재판은 권력자의 개인적인 지배 수단으로 바뀐다.\n\n금품이나 사익을 위해 움직일 수도 있고 자신만이 옳다고 확신하여 가혹함을 정당화할 수도 있다. 동기가 달라도 피고인에 대한 개인적 반감이 판단을 좌우한다면 공정한 심리를 기대하기 어려워진다. 단지 법정 태도가 엄숙하거나 유죄 판결이 많다는 사실과는 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

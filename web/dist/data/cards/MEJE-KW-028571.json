@@ -4,8 +4,8 @@
   "title": "강점에 자원을 몰아주는 최적화 육성",
   "original": "Min-Maxing",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02092",
+  "primary_tag_id": "ML-T02092",
   "description": {
     "definition": "중요한 능력의 효과를 최대화하기 위해 덜 중요한 능력과 비용을 줄이고 유리한 조합에 자원을 집중하는 캐릭터 설계다.",
     "detail": "작품 사례: 《[[메이플스토리]]》의 과거 덱스리스·럭리스 육성은 특정 능력치 투자를 줄이고 장비 효과로 부족분을 메우는 방식으로 설명된다.",
@@ -13,10 +13,10 @@
     "boundary": "최적화가 곧 서툰 역할연기를 뜻하지 않는다. 최악의 손실을 줄이는 수학적 미니맥스 전략과도 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.003.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중요한 능력에 자원을 몰고 덜 쓰는 능력을 낮춘다. 특정 역할의 성과를 최대화하는 대신 약점과 비용이 생긴다.\n\n규칙이 허용하는 조합과 자원의 교환을 계산한다. 모든 능력을 무조건 높이는 성장과는 설계 목표가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "중요한 능력에 자원을 몰고 덜 쓰는 능력을 낮춘다. 특정 역할의 성과를 최대화하는 대신 약점과 비용이 생긴다.\n\n규칙이 허용하는 조합과 자원의 교환을 계산한다. 모든 능력을 무조건 높이는 성장과는 설계 목표가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -3,35 +3,37 @@
   "kind": "work",
   "title": "스타워즈",
   "original": "Star Wars",
-  "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "aliases": [
+    "스타워즈(시리즈)"
+  ],
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
-    "definition": "《스타워즈》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《스타워즈》의 지오노시스는 지상에 사막과 도시가 남아 있지만 지하의 거대한 공장에서 전투 드로이드를 생산하며 산업이 행성 경제의 중심을 이룬다.",
+    "definition": "《스타워즈》는 1977년 영화에서 출발해 여러 영화와 드라마로 확장된 우주 모험 작품군이다. 서로 다른 시대의 사건과 인물이 하나의 가상 은하를 공유한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《스타워즈》의 지오노시스는 지상에 사막과 도시가 남아 있지만 지하의 거대한 공장에서 전투 드로이드를 생산하며 산업이 행성 경제의 중심을 이룬다.",
+    "easy_ko": "《스타워즈》는 한 편의 영화 제목으로도 쓰이지만, 이 카드에서는 그 영화에서 시작된 전체 작품군을 뜻한다. 영화와 드라마마다 주인공과 시대가 달라도 같은 은하의 역사와 세력을 바탕으로 이야기가 이어진다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -97,5 +99,47 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000112",
+      "card_id": "MM-MEDIA-001751",
+      "label_ko": "스타워즈 공식 영화·시리즈 안내",
+      "icon_key": "video",
+      "url": "https://www.starwars.com/news/star-wars-movies-and-series-guide",
+      "description_ko": "영화와 드라마의 공개 순서 및 이야기 속 순서를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000113",
+      "card_id": "MM-MEDIA-001751",
+      "label_ko": "스타워즈 공식 시대 구분",
+      "icon_key": "website",
+      "url": "https://www.starwars.com/eras",
+      "description_ko": "가상 은하의 주요 시대와 역사적 맥락을 확인할 수 있다.",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "1977년 개봉한 첫 영화 이후 《스타워즈》는 후속 영화와 텔레비전 시리즈로 확대됐다. 공식 작품 목록에는 개봉 순서와 이야기 속 연대순이 별도로 제시된다. 작품군 전체를 하나의 줄거리로 압축하면 서로 다른 시기와 인물의 관계를 정확히 설명하기 어렵다.\n\n이 작품군의 주요 사건은 가상 은하의 여러 시대에 배치된다. 공화국, 제국, 반란 세력 등은 각 시기의 정치적 조건을 구성한다. 따라서 개별 영화의 등장인물과 갈등을 설명할 때는 해당 작품의 시점을 구분해야 한다.\n\n같은 [[세계관]] 안에서도 1977년 영화와 드라마 《[[안도르]]》는 발표 시기와 이야기 속 시점이 다르다. 작품의 공개 순서와 사건의 시간 순서를 구분하면 설정과 인물 관계를 정확하게 설명할 수 있다.\n\n[[스타워즈 레전드]]는 과거 확장 세계의 작품을 구분하는 별도 범주다. 개별 작품과 연속성의 범위는 작품군 전체와 동일시하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "1977년 개봉한 첫 영화 이후 《스타워즈》는 후속 영화와 텔레비전 시리즈로 확대됐다. 공식 작품 목록에는 개봉 순서와 이야기 속 연대순이 별도로 제시된다. 작품군 전체를 하나의 줄거리로 압축하면 서로 다른 시기와 인물의 관계를 정확히 설명하기 어렵다.\n\n이 작품군의 주요 사건은 가상 은하의 여러 시대에 배치된다. 공화국, 제국, 반란 세력 등은 각 시기의 정치적 조건을 구성한다. 따라서 개별 영화의 등장인물과 갈등을 설명할 때는 해당 작품의 시점을 구분해야 한다."
+      ],
+      [
+        "사례",
+        "같은 [[세계관]] 안에서도 1977년 영화와 드라마 《[[안도르]]》는 발표 시기와 이야기 속 시점이 다르다. 작품의 공개 순서와 사건의 시간 순서를 구분하면 설정과 인물 관계를 정확하게 설명할 수 있다."
+      ],
+      [
+        "관련 작품",
+        "[[스타워즈 레전드]]는 과거 확장 세계의 작품을 구분하는 별도 범주다. 개별 작품과 연속성의 범위는 작품군 전체와 동일시하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

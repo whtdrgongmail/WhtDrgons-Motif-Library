@@ -4,8 +4,8 @@
   "title": "동전 더미로 대금 치르기",
   "original": "Paying in Coins",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00757",
+  "primary_tag_id": "ML-T00757",
   "description": {
     "definition": "상당한 금액을 많은 수의 동전이나 잔돈으로 지급하여 지불 과정의 번거로움이 장면의 중심이 되는 장치이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "가격은 맞춰 왔지만 돈을 세는 데 오래 걸릴 만큼 동전을 잔뜩 내민다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "오래 모은 작은 돈으로 간신히 물건을 사는 경우와 상대를 귀찮게 하려고 일부러 잘게 바꾸어 내는 경우는 외형이 같아도 정서가 다르다. 돈의 액면 총액과 물리적 부피의 차이가 웃음이나 안타까움을 만든다. 받는 사람이 전부 세는지 그냥 믿는지도 두 인물의 관계를 드러낸다.\n\n동전 하나가 모자라 구매에 실패하면 금액의 작음과 인물에게 미치는 영향이 대비된다. 반대로 충분한 돈을 매우 불편한 형태로 주면 거래를 완료하면서도 적대감을 표현할 수 있다. 지폐를 대량으로 가져오는 장면은 물리적인 현금의 과장이라는 관련 변형이지만, 이 항목에서는 잔돈의 수와 계산 부담이 핵심이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "오래 모은 작은 돈으로 간신히 물건을 사는 경우와 상대를 귀찮게 하려고 일부러 잘게 바꾸어 내는 경우는 외형이 같아도 정서가 다르다. 돈의 액면 총액과 물리적 부피의 차이가 웃음이나 안타까움을 만든다. 받는 사람이 전부 세는지 그냥 믿는지도 두 인물의 관계를 드러낸다.\n\n동전 하나가 모자라 구매에 실패하면 금액의 작음과 인물에게 미치는 영향이 대비된다. 반대로 충분한 돈을 매우 불편한 형태로 주면 거래를 완료하면서도 적대감을 표현할 수 있다. 지폐를 대량으로 가져오는 장면은 물리적인 현금의 과장이라는 관련 변형이지만, 이 항목에서는 잔돈의 수와 계산 부담이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": false
   }
 }

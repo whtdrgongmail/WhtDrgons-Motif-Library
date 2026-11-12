@@ -5,21 +5,47 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F27",
   "description": {
-    "definition": "",
+    "definition": "제작 중 제거한 장면·기능·설정을 가리키는 대사나 안내 등이 완성본에 남아 있는 상태다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "27",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "완성된 작품에는 없는 기능이나 장면을 안내문이 아직 있는 것처럼 말하는 경우다. 제작 과정에서 내용을 지웠지만 그 흔적이 남은 것이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작품이나 게임의 제작 과정에서 계획이 바뀌면 관련 대사·문서·화면 설명을 모두 고쳐야 한다. 일부 참조가 남으면 이용자는 실제로 없는 장소나 기능을 찾거나, 그 문구를 의도적인 단서로 이해할 수 있다. 흔적은 완성본의 내용과 참조 문장의 연결이 끊어진 상태에서 확인된다.\n\n[[복선]]은 뒤의 전개와 연결하려고 남긴 정보이며, [[오자]]는 글자 자체가 잘못된 경우다. 삭제된 내용의 흔적은 참조하는 대상이 완성본에서 제거되었다는 제작상의 관계가 핵심이다. 단순히 독자가 아직 대상을 발견하지 못했다는 이유만으로 삭제 흔적이라고 단정할 수 없다.\n\n가상 예: 최종판에서 없어진 지도 기능을 게임 설명서가 여전히 ‘지도 버튼을 누르라’고 안내한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작품이나 게임의 제작 과정에서 계획이 바뀌면 관련 대사·문서·화면 설명을 모두 고쳐야 한다. 일부 참조가 남으면 이용자는 실제로 없는 장소나 기능을 찾거나, 그 문구를 의도적인 단서로 이해할 수 있다. 흔적은 완성본의 내용과 참조 문장의 연결이 끊어진 상태에서 확인된다.\n\n[[복선]]은 뒤의 전개와 연결하려고 남긴 정보이며, [[오자]]는 글자 자체가 잘못된 경우다. 삭제된 내용의 흔적은 참조하는 대상이 완성본에서 제거되었다는 제작상의 관계가 핵심이다. 단순히 독자가 아직 대상을 발견하지 못했다는 이유만으로 삭제 흔적이라고 단정할 수 없다."
+      ],
+      [
+        "사례",
+        "가상 예: 최종판에서 없어진 지도 기능을 게임 설명서가 여전히 ‘지도 버튼을 누르라’고 안내한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

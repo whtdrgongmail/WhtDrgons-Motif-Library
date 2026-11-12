@@ -4,8 +4,8 @@
   "title": "악하다는 의심 끝에 확인된 선함",
   "original": "Sheep in Sheep's Clothing",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "선해 보이는 [[인물]]에게 숨은 악의가 있다는 [[의심]]이 제기되지만 수상한 행동에도 선한 이유가 있었음이 밝혀지는 [[반전]]이다.",
     "detail": "작품 사례: [[JoJo's Bizarre Adventure]]에서 죠스케는 음식을 먹은 사람의 이와 내장이 튀어나오자 토니오를 악당으로 의심하지만, 그것이 건강을 회복시키는 치료임을 알게 된다.",
@@ -13,10 +13,10 @@
     "boundary": "처음부터 의심이 없던 선인이나 실제로 위장한 악역과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "선한 인물에게 숨은 악의가 있다는 의심이 제기되지만, 수상해 보였던 행동에 선한 목적이 있었음이 밝혀지는 [[반전]]이다. 의심의 형성과 해소가 모두 있어야 인물의 선한 모습이 확인되는 효과가 생긴다.\n\n처음부터 의심받지 않은 선인이나 선한 척 위장한 [[악당]]과 구별된다. 독자나 다른 인물이 의심을 가질 만한 근거가 제시되고, 이후 그 근거가 다른 의미로 해석되어야 한다.\n\n[[JoJo's Bizarre Adventure]]에서 죠스케는 음식을 먹은 사람의 이와 내장이 튀어나오는 현상을 보고 토니오를 악당으로 의심한다. 그것이 건강을 회복시키는 치료임을 알고 의심을 거둔다.\n\n[[JoJo's Bizarre Adventure]]",
+    "sections": [
+      [
+        "상세 설명",
+        "선한 인물에게 숨은 악의가 있다는 의심이 제기되지만, 수상해 보였던 행동에 선한 목적이 있었음이 밝혀지는 [[반전]]이다. 의심의 형성과 해소가 모두 있어야 인물의 선한 모습이 확인되는 효과가 생긴다.\n\n처음부터 의심받지 않은 선인이나 선한 척 위장한 [[악당]]과 구별된다. 독자나 다른 인물이 의심을 가질 만한 근거가 제시되고, 이후 그 근거가 다른 의미로 해석되어야 한다."
+      ],
+      [
+        "사례",
+        "[[JoJo's Bizarre Adventure]]에서 죠스케는 음식을 먹은 사람의 이와 내장이 튀어나오는 현상을 보고 토니오를 악당으로 의심한다. 그것이 건강을 회복시키는 치료임을 알고 의심을 거둔다."
+      ],
+      [
+        "관련 작품",
+        "[[JoJo's Bizarre Adventure]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

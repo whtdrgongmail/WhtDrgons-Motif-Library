@@ -4,22 +4,48 @@
   "title": "시간 압축",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00626",
+  "primary_tag_id": "ML-T00626",
   "description": {
-    "definition": "",
+    "definition": "이야기 안에서 긴 기간에 걸쳐 일어난 사건을 짧은 서술이나 적은 장면으로 제시하는 [[시간 배열]] 방식이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "05.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "작품 속에서는 오랜 시간이 지났지만 보는 사람에게는 짧은 장면이나 문장으로 그 기간을 전달하는 구성이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "시간 압축은 이야기 속 경과 시간과 그 시간을 제시하는 분량을 다르게 만든다. 며칠 또는 몇 년에 걸친 변화를 한 문장, 장면 전환, 짧은 장면 묶음으로 전달할 수 있다. 모든 중간 사건을 보여 줄 필요는 없지만, 중요한 결과와 변화의 기준은 이해할 수 있어야 한다.\n\n시간이 줄어든다고 해서 곧바로 사건의 순서가 뒤바뀌는 것은 아니다. [[비선형 서사]]는 제시 순서의 변경이 중심이고, 시간 압축은 긴 기간의 일부를 골라 짧게 보여 주는 데 중심이 있다. 경과를 표시하지 않은 채 중요한 반응만 빠뜨려 인물의 판단을 왜곡하는 경우와도 구별한다.\n\n인물이 오랜 기간 기술을 익히는 과정을 시작 장면, 연습 장면 몇 개, 숙련된 뒤의 장면으로 제시한다면, 그 사이의 시간을 압축한 구성이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "시간 압축은 이야기 속 경과 시간과 그 시간을 제시하는 분량을 다르게 만든다. 며칠 또는 몇 년에 걸친 변화를 한 문장, 장면 전환, 짧은 장면 묶음으로 전달할 수 있다. 모든 중간 사건을 보여 줄 필요는 없지만, 중요한 결과와 변화의 기준은 이해할 수 있어야 한다.\n\n시간이 줄어든다고 해서 곧바로 사건의 순서가 뒤바뀌는 것은 아니다. [[비선형 서사]]는 제시 순서의 변경이 중심이고, 시간 압축은 긴 기간의 일부를 골라 짧게 보여 주는 데 중심이 있다. 경과를 표시하지 않은 채 중요한 반응만 빠뜨려 인물의 판단을 왜곡하는 경우와도 구별한다."
+      ],
+      [
+        "사례",
+        "인물이 오랜 기간 기술을 익히는 과정을 시작 장면, 연습 장면 몇 개, 숙련된 뒤의 장면으로 제시한다면, 그 사이의 시간을 압축한 구성이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -2,24 +2,46 @@
   "id": "MM-UNSET-000269",
   "kind": "keyword",
   "title": "폰 파",
-  "original": "",
+  "original": "Pon farr",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F12",
   "description": {
-    "definition": "",
+    "definition": "벌칸족에게 주기적으로 찾아오는 생리적 생존 위기인 pon farr를 가리킨다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "12",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "스폭에게 닥친, 결합이 필요하다고 제시되는 주기적 생존 위기다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "Pon farr는 《[[스타 트렉: 오리지널 시리즈]]》에서 스폭에게 닥치는 생존 위기로 제시된다. 에피소드 Amok Time에서는 결합이 필요하다고 설명되지만, 실제 사건은 커크와의 대결 및 그 뒤의 충격을 거쳐 해결되는 변주를 보인다.\n\n이 사례에서 폰 파는 단순한 의식이나 결합 관습이 아니라 벌칸의 주기적 생리 위기이자 에피소드의 갈등을 촉발하는 조건이다. 최초 설명과 사건의 실제 해결이 함께 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "Pon farr는 《[[스타 트렉: 오리지널 시리즈]]》에서 스폭에게 닥치는 생존 위기로 제시된다. 에피소드 Amok Time에서는 결합이 필요하다고 설명되지만, 실제 사건은 커크와의 대결 및 그 뒤의 충격을 거쳐 해결되는 변주를 보인다.\n\n이 사례에서 폰 파는 단순한 의식이나 결합 관습이 아니라 벌칸의 주기적 생리 위기이자 에피소드의 갈등을 촉발하는 조건이다. 최초 설명과 사건의 실제 해결이 함께 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

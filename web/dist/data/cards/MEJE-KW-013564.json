@@ -4,8 +4,8 @@
   "title": "숨은 곳이 화근",
   "original": "Haplessly Hiding",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02601",
+  "primary_tag_id": "ML-T02601",
   "description": {
     "definition": "인물이 발각을 피하려고 선택한 은신처 때문에 곧 새로운 불편이나 위험에 빠지는 상황이다.",
     "detail": "작품 사례: [[The Empire Strikes Back]]에서 추격을 피한 한 솔로가 소행성의 동굴에 숨지만, 그곳은 거대한 우주 생물의 입이어서 새로운 위험에 빠진다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 도망치다 다른 위험을 만난 경우와 달리 숨으려는 행동과 은신처의 역효과가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물은 추적을 피하려 은신처를 선택하지만 그 장소의 성질 때문에 새 위험을 맞는다. 안전을 확보한 행동이 위협의 직접 원인이 된다.\n\n처음에는 성공한 도피처럼 보이다가 공간의 정체가 드러나며 안도감이 뒤집힌다. 숨었기 때문에 위험에 가까워졌다는 인과가 긴장을 이어 간다.\n\n도망치는 길에 무관한 재난을 만난 경우와는 다르다. 은신처 선택과 그곳의 역효과가 구체적으로 연결되어야 한다.\n\n[[The Empire Strikes Back]]의 역습에서 한 솔로가 숨은 소행성 동굴은 거대한 우주 생물의 입으로 드러난다.\n\n[[The Empire Strikes Back]]",
+    "sections": [
+      [
+        "상세 설명",
+        "인물은 추적을 피하려 은신처를 선택하지만 그 장소의 성질 때문에 새 위험을 맞는다. 안전을 확보한 행동이 위협의 직접 원인이 된다.\n\n처음에는 성공한 도피처럼 보이다가 공간의 정체가 드러나며 안도감이 뒤집힌다. 숨었기 때문에 위험에 가까워졌다는 인과가 긴장을 이어 간다.\n\n도망치는 길에 무관한 재난을 만난 경우와는 다르다. 은신처 선택과 그곳의 역효과가 구체적으로 연결되어야 한다."
+      ],
+      [
+        "사례",
+        "[[The Empire Strikes Back]]의 역습에서 한 솔로가 숨은 소행성 동굴은 거대한 우주 생물의 입으로 드러난다."
+      ],
+      [
+        "관련 작품",
+        "[[The Empire Strikes Back]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

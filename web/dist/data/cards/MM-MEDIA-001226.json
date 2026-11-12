@@ -4,17 +4,17 @@
   "title": "메이플스토리",
   "original": "MapleStory",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "이 카드는 비디오게임 《메이플스토리》를 가리킨다. 이 라이브러리에서는 [[아군과 적의 체력·화력 비대칭]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: 메이플스토리에서는 플레이어가 자기 체력보다 훨씬 큰 피해를 계속 주는 한편, 강한 보스는 그 공격을 버티는 막대한 체력을 갖는다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -111,5 +111,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평면의 횡스크롤 공간에서 여러 지역을 탐험하는 한국의 다중접속 역할수행 게임이다. 지역마다 다른 배경과 줄거리가 있어 임무를 진행하고 기록을 연결하면 더 큰 세계의 사건을 알 수 있다.\n\n개별 지역의 적과 혼란은 이후 검은 마법사와 부하들의 활동으로 묶인다. 단순한 수집 과제와 연속적인 서사가 함께 존재하며, 같은 이름의 [[애니메이션]]은 게임과 줄거리가 다른 각색이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평면의 횡스크롤 공간에서 여러 지역을 탐험하는 한국의 다중접속 역할수행 게임이다. 지역마다 다른 배경과 줄거리가 있어 임무를 진행하고 기록을 연결하면 더 큰 세계의 사건을 알 수 있다.\n\n개별 지역의 적과 혼란은 이후 검은 마법사와 부하들의 활동으로 묶인다. 단순한 수집 과제와 연속적인 서사가 함께 존재하며, 같은 이름의 [[애니메이션]]은 게임과 줄거리가 다른 각색이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

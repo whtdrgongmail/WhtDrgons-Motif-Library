@@ -4,8 +4,8 @@
   "title": "배경 지역과 이어지는 음악 선택",
   "original": "Local Soundtrack",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "작품의 무대가 된 지역과 연관된 노래·연주자·작곡가의 음악을 사용하여 장소의 분위기와 연결을 만드는 방식이다.",
     "detail": "작품 사례: 《[[겨울왕국]]》은 노르웨이를 떠올리게 하는 세계의 도입부에 노르웨이·사미 문화와 연결된 음악가의 곡과 노르웨이 합창단의 노래를 사용한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 민속풍 일반화보다 해당 지역과 음악·창작자의 연결이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-002111",
+      "work_card_id": "MM-MEDIA-001363",
       "description_ko": "《겨울왕국》은 노르웨이를 떠올리게 하는 세계의 도입부에 노르웨이·사미 문화와 연결된 음악가의 곡과 노르웨이 합창단의 노래를 사용한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "배경 지역과 연결된 음악을 사용하여 장소의 성격을 강화하는 방식이다. 곡이나 창작자의 지역적 관계가 화면의 공간 정보와 결합한다.\n\n[[배경음악]]은 풍경만으로 드러나지 않는 문화적 분위기를 전달할 수 있다. 장소의 구체성을 높이려면 음악과 지역의 연결이 확인되어야 한다. 같은 지역의 음악이라는 연결이 장면에 들리는 소리와 화면의 장소를 묶어, 별도의 설명 없이도 지리적 분위기를 강화할 수 있다.\n\n막연히 이국적으로 들리는 음악을 쓰는 것과는 다르다. 지역 음악의 단일한 이미지를 모든 주민과 문화의 특성으로 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "배경 지역과 연결된 음악을 사용하여 장소의 성격을 강화하는 방식이다. 곡이나 창작자의 지역적 관계가 화면의 공간 정보와 결합한다.\n\n[[배경음악]]은 풍경만으로 드러나지 않는 문화적 분위기를 전달할 수 있다. 장소의 구체성을 높이려면 음악과 지역의 연결이 확인되어야 한다. 같은 지역의 음악이라는 연결이 장면에 들리는 소리와 화면의 장소를 묶어, 별도의 설명 없이도 지리적 분위기를 강화할 수 있다.\n\n막연히 이국적으로 들리는 음악을 쓰는 것과는 다르다. 지역 음악의 단일한 이미지를 모든 주민과 문화의 특성으로 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

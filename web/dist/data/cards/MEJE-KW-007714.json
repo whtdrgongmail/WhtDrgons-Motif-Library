@@ -4,8 +4,8 @@
   "title": "둠 메탈",
   "original": "Doom Metal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-007714",
+  "primary_tag_id": "MEJE-KW-007714",
   "description": {
     "definition": "느린 속도와 무거운 음색으로 [[압박감]]과 비관적 분위기를 만드는 메탈 음악의 갈래다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "느리고 무거운 리프와 밀도 있는 음향으로 압박과 음울함을 강조하는 [[헤비메탈]]의 흐름이다. 빠른 속도보다 지속되는 중량감이 곡의 긴장을 만든다.\n\n반복과 긴 음의 여운은 정체와 절망, 장엄함 같은 분위기를 형성할 수 있다. 다른 메탈과 록의 요소가 결합하면서 보컬과 음색, 곡 길이가 다양한 하위 양식으로 갈라진다.\n\n느린 메탈 곡이 모두 같은 장르는 아니다. 리프의 성격과 전통, 전체적인 구성까지 함께 보아야 하며 비관적인 가사는 흔한 요소이지 모든 곡의 필수 조건은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "느리고 무거운 리프와 밀도 있는 음향으로 압박과 음울함을 강조하는 [[헤비메탈]]의 흐름이다. 빠른 속도보다 지속되는 중량감이 곡의 긴장을 만든다.\n\n반복과 긴 음의 여운은 정체와 절망, 장엄함 같은 분위기를 형성할 수 있다. 다른 메탈과 록의 요소가 결합하면서 보컬과 음색, 곡 길이가 다양한 하위 양식으로 갈라진다.\n\n느린 메탈 곡이 모두 같은 장르는 아니다. 리프의 성격과 전통, 전체적인 구성까지 함께 보아야 하며 비관적인 가사는 흔한 요소이지 모든 곡의 필수 조건은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

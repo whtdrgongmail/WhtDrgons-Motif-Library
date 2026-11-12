@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "홈스턱",
   "original": "Homestuck",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Homestuck"
+  ],
+  "tag_id": "ML-T00090",
   "primary_tag_id": "ML-T00090",
   "description": {
     "definition": "《홈스턱》은 웹코믹 작품이다.",
-    "detail": "작품 사례: 《홈스턱》은 독자 제안을 받던 형식에서 출발했으며, 제안함을 닫은 뒤에도 작가가 팬 이론을 읽고 일부를 내용에 받아들였다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.017",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014746",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-020693",
       "row_version": 1
     },
@@ -47,5 +53,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "앤드루 허시의 웹코믹 《홈스턱》은 텍스트 어드벤처의 명령과 화면 진행을 만화와 결합한 작품이다. 정적인 그림과 문장만이 아니라 상호작용과 영상적 형식이 독서의 흐름에 들어온다.\n\n초기에는 독자 제안이 업데이트의 출발점이었지만 줄거리가 커지면서 제안 방식에서 벗어났다. 참여처럼 보이는 형식과 작가가 구성하는 전개 사이의 변화가 웹 연재의 특징과 연결된다.\n\n음악 앨범은 작품에서 파생된 별도 결과물이며 웹코믹 자체와 같은 범위가 아니다. 다른 《MS Paint Adventures》 연재와 후속 콘텐츠도 각각의 이야기로 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "앤드루 허시의 웹코믹 《홈스턱》은 텍스트 어드벤처의 명령과 화면 진행을 만화와 결합한 작품이다. 정적인 그림과 문장만이 아니라 상호작용과 영상적 형식이 독서의 흐름에 들어온다.\n\n초기에는 독자 제안이 업데이트의 출발점이었지만 줄거리가 커지면서 제안 방식에서 벗어났다. 참여처럼 보이는 형식과 작가가 구성하는 전개 사이의 변화가 웹 연재의 특징과 연결된다.\n\n음악 앨범은 작품에서 파생된 별도 결과물이며 웹코믹 자체와 같은 범위가 아니다. 다른 《MS Paint Adventures》 연재와 후속 콘텐츠도 각각의 이야기로 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

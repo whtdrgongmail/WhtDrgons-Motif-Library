@@ -4,8 +4,8 @@
   "title": "주차한 차를 찾지 못하기",
   "original": "Dude, Where's Our Car?",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00739",
+  "primary_tag_id": "ML-T00739",
   "description": {
     "definition": "건물에서 나온 인물이 큰 주차장에 둔 자신의 차가 어디 있는지 기억하지 못해 헤매는 소동.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.002.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "건물에서 나온 인물이 주차한 자동차의 위치를 기억하지 못해 찾는 소동이다. 익숙한 일상 행동이 이동을 가로막는 작은 문제로 바뀐다.\n\n지나치게 넓거나 비슷한 구역이 반복되는 주차장은 탐색을 길게 만들 수 있다. 차를 찾았다고 생각한 뒤 다른 차임을 알게 되는 등 공간의 혼동이 희극적 긴장을 만든다.\n\n실제로 도난이나 견인이 원인인 경우도 가능하다. 차의 고장이나 추적 기능의 실패가 추가될 수 있지만, 기본 상황은 주차 위치를 확인할 수 없다는 데 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "건물에서 나온 인물이 주차한 자동차의 위치를 기억하지 못해 찾는 소동이다. 익숙한 일상 행동이 이동을 가로막는 작은 문제로 바뀐다.\n\n지나치게 넓거나 비슷한 구역이 반복되는 주차장은 탐색을 길게 만들 수 있다. 차를 찾았다고 생각한 뒤 다른 차임을 알게 되는 등 공간의 혼동이 희극적 긴장을 만든다.\n\n실제로 도난이나 견인이 원인인 경우도 가능하다. 차의 고장이나 추적 기능의 실패가 추가될 수 있지만, 기본 상황은 주차 위치를 확인할 수 없다는 데 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

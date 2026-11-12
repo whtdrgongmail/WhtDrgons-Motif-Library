@@ -4,22 +4,48 @@
   "title": "정치적 선언",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01330",
+  "primary_tag_id": "ML-T01330",
   "description": {
-    "definition": "",
+    "definition": "정치적 입장과 요구, 앞으로의 행동 방침을 공개적으로 밝히는 말이나 문서다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 3,
+  "classification": {
+    "code": "15.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "사람들이 사회와 권력에 대해 무엇을 바꾸고 싶은지 공개적으로 밝히는 것이다. 짧은 구호부터 긴 문서까지 형식이 다양하다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정치적 선언은 주장하는 변화와 그 변화를 요구하는 주체를 함께 드러낸다. 개인, 단체, 국가가 각기 다른 청중을 향해 선언할 수 있다. 작품에서는 선언의 내용과 발표 방식이 집단의 목표나 내부의 차이를 보여 주는 자료가 된다.\n\n선언했다는 사실만으로 그 입장이 옳거나 위험하다고 판단할 수 없다. 명시된 요구, 실행 수단, 반대 의견을 다루는 방식은 별도로 구분해야 한다.\n\n도시의 한 단체가 새 법의 철회를 요구하며 이유와 향후 행동을 적은 문서를 공개한다면, 그 문서는 요구와 행동 계획을 담은 정치적 선언이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정치적 선언은 주장하는 변화와 그 변화를 요구하는 주체를 함께 드러낸다. 개인, 단체, 국가가 각기 다른 청중을 향해 선언할 수 있다. 작품에서는 선언의 내용과 발표 방식이 집단의 목표나 내부의 차이를 보여 주는 자료가 된다.\n\n선언했다는 사실만으로 그 입장이 옳거나 위험하다고 판단할 수 없다. 명시된 요구, 실행 수단, 반대 의견을 다루는 방식은 별도로 구분해야 한다."
+      ],
+      [
+        "사례",
+        "도시의 한 단체가 새 법의 철회를 요구하며 이유와 향후 행동을 적은 문서를 공개한다면, 그 문서는 요구와 행동 계획을 담은 정치적 선언이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

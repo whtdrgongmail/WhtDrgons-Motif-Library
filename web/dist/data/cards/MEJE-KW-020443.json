@@ -4,8 +4,8 @@
   "title": "한 구역의 인물을 잠재우는 가스",
   "original": "Knockout Gas",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01416",
+  "primary_tag_id": "ML-T01416",
   "description": {
     "definition": "퍼진 공간에 있는 인물들의 의식을 잃게 하는 것으로 설정된 허구의 기체형 제압 수단이다.",
     "detail": "작품 사례: 《[[드래곤볼]]》에서 피라후는 일행의 드래곤볼을 찾으려고 감옥에 수면 가스를 퍼뜨리지만, 가스가 남은 곳에 들어가 자신도 잠든다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 시야를 가리는 연기와 구별한다. 실제 물질의 제조나 사용법을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.001.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001375",
+      "work_card_id": "MM-MEDIA-002561",
       "description_ko": "《드래곤볼》에서 피라후는 일행의 드래곤볼을 찾으려고 감옥에 수면 가스를 퍼뜨리지만, 가스가 남은 곳에 들어가 자신도 잠든다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기체가 퍼진 범위의 인물들이 의식을 잃는 것으로 설정된 제압 수단이다. 한 사람씩 상대하지 않고 공간의 통제로 집단을 무력화한다.\n\n효과가 시작되는 시간과 보호 장비의 유무가 탈출 조건이 될 수 있다. 실제 물질의 안전성과 작용을 설명하는 것이 아니라 허구의 기능을 분류한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기체가 퍼진 범위의 인물들이 의식을 잃는 것으로 설정된 제압 수단이다. 한 사람씩 상대하지 않고 공간의 통제로 집단을 무력화한다.\n\n효과가 시작되는 시간과 보호 장비의 유무가 탈출 조건이 될 수 있다. 실제 물질의 안전성과 작용을 설명하는 것이 아니라 허구의 기능을 분류한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

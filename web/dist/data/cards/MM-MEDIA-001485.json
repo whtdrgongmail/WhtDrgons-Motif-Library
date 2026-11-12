@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "젤다의 전설 브레스 오브 더 와일드",
   "original": "The Legend of Zelda: Breath of the Wild",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "젤다의 전설: 브레스 오브 더 와일드"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《젤다의 전설 브레스 오브 더 와일드》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《젤다의 전설 브레스 오브 더 와일드》에서 맨발의 링크가 상자를 발로 차서 열면 아픈 발을 붙들고 깡충거린다.",
+    "definition": "《젤다의 전설 브레스 오브 더 와일드》는 기억을 잃고 깨어난 링크가 하이랄을 탐험하며 재앙 가논에 맞서는 오픈 월드 액션 어드벤처 게임이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 6,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +32,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《젤다의 전설 브레스 오브 더 와일드》에서 맨발의 링크가 상자를 발로 차서 열면 아픈 발을 붙들고 깡충거린다.",
+    "easy_ko": "백 년 만에 깨어난 링크가 넓은 하이랄을 자유롭게 돌아다니며 과거의 기억과 재앙의 원인을 찾는 게임입니다. 준비가 되면 공주 젤다를 돕고 가논과 맞설 수 있습니다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -105,7 +107,43 @@
     {
       "card_id": "MEJE-KW-025406",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-029846",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-030310",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000285",
+      "card_id": "MM-MEDIA-001485",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.nintendo.com/au/news-and-articles/relive-the-story-of-the-legend-of-zelda-breath-of-the-wild/",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "이 작품은 폐허가 된 하이랄에서 깨어난 링크가 왕국의 과거를 되짚고 재앙 가논의 위협을 끝내려는 모험을 다룬다. 플레이어는 넓은 야외와 여러 지역을 탐험하며 인물과 부족을 만나고, 각 장소에 남은 흔적을 통해 백 년 전의 패배와 현재의 위기를 알아간다.\n\n탐험과 해결 순서는 플레이어가 정할 수 있으며, [[전투]]·[[퍼즐]]·환경 관찰이 이동 과정에 함께 놓인다. 기억을 되찾고 신수의 힘을 되살리는 일은 링크의 준비를 돕지만, 중심 목표인 하이랄 구하기는 플레이어가 원하는 방식과 시점으로 추진할 수 있다.\n\n닌텐도 공식 줄거리 소개는 링크가 백 년 동안 잠든 뒤 기억 없이 깨어나고, 젤다가 성에서 가논을 막고 있다는 사실을 알게 된다고 설명한다. 링크는 동료를 만나고 기억을 되찾으며 하이랄을 구할 준비를 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 작품은 폐허가 된 하이랄에서 깨어난 링크가 왕국의 과거를 되짚고 재앙 가논의 위협을 끝내려는 모험을 다룬다. 플레이어는 넓은 야외와 여러 지역을 탐험하며 인물과 부족을 만나고, 각 장소에 남은 흔적을 통해 백 년 전의 패배와 현재의 위기를 알아간다.\n\n탐험과 해결 순서는 플레이어가 정할 수 있으며, [[전투]]·[[퍼즐]]·환경 관찰이 이동 과정에 함께 놓인다. 기억을 되찾고 신수의 힘을 되살리는 일은 링크의 준비를 돕지만, 중심 목표인 하이랄 구하기는 플레이어가 원하는 방식과 시점으로 추진할 수 있다."
+      ],
+      [
+        "사례",
+        "닌텐도 공식 줄거리 소개는 링크가 백 년 동안 잠든 뒤 기억 없이 깨어나고, 젤다가 성에서 가논을 막고 있다는 사실을 알게 된다고 설명한다. 링크는 동료를 만나고 기억을 되찾으며 하이랄을 구할 준비를 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

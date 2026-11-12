@@ -4,8 +4,8 @@
   "title": "공연자로 가장해 잠입하기",
   "original": "Performer Guise",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00787",
+  "primary_tag_id": "ML-T00787",
   "description": {
     "definition": "낯선 사람의 방문을 자연스럽게 만드는 공연자의 역할을 이용해 다른 신분과 목적을 숨기는 잠입 장면이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "주인공이 유랑 악사나 공연단처럼 보이며 경계받던 장소에 들어가는 경우다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "공연자를 기다리는 사람에게 낯선 얼굴과 이동 생활은 수상한 점이 아니라 역할의 일부가 된다. 실제 공연 능력이 있으면 위장을 뒷받침하고, 능력이 부족하면 정체를 감추는 일과 무대를 버티는 일이 겹쳐 긴장을 만든다. 서로 다른 차림의 일행이 함께 다니는 이유를 설명하는 장치로도 쓰일 수 있다.\n\n[[배달원을 가장한 잠입]]과는 방문이 허용되는 이유가 다르다. [[촬영인 척 벌이는 범죄]]가 행동을 연기라고 둘러대는 방식이라면, 여기서는 인물의 직업과 신분을 공연자로 제시한다. 실제 침입 방법보다 낯선 이를 받아들이는 이야기 속 역할의 관습이 중심이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "공연자를 기다리는 사람에게 낯선 얼굴과 이동 생활은 수상한 점이 아니라 역할의 일부가 된다. 실제 공연 능력이 있으면 위장을 뒷받침하고, 능력이 부족하면 정체를 감추는 일과 무대를 버티는 일이 겹쳐 긴장을 만든다. 서로 다른 차림의 일행이 함께 다니는 이유를 설명하는 장치로도 쓰일 수 있다.\n\n[[배달원을 가장한 잠입]]과는 방문이 허용되는 이유가 다르다. [[촬영인 척 벌이는 범죄]]가 행동을 연기라고 둘러대는 방식이라면, 여기서는 인물의 직업과 신분을 공연자로 제시한다. 실제 침입 방법보다 낯선 이를 받아들이는 이야기 속 역할의 관습이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

@@ -4,8 +4,8 @@
   "title": "덱을 막는 카드",
   "original": "Deck Clogger",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02514",
+  "primary_tag_id": "ML-T02514",
   "description": {
     "definition": "원하는 카드를 뽑을 기회를 줄이거나 손패의 효율을 떨어뜨리는 카드다. 이를 제거하거나 활용하는 [[선택]]이 전략의 일부가 된다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "효과가 거의 없거나 불리한 상태 카드가 덱에 섞여 필요한 공격과 자원 카드를 뽑기 어렵게 하는 장애물이다. 손에 들어온 순간의 약함뿐 아니라 매번 뽑을 기회를 차지한다는 점이 손해이며 제거 비용을 지불할지 특수 효과로 활용할지 [[선택]]하게 한다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "덱에 들어가 유용한 카드를 뽑을 기회를 줄이는 카드다. 직접적인 불이익이 없어도 뽑기 기회를 차지한다는 사실만으로 진행을 늦춘다.\n\n상대의 덱에 넣거나 강한 효과의 대가로 받는 방식이 있다. 처음에는 유용했던 기본 카드가 게임의 우선순위 변화로 방해물이 될 수도 있다.\n\n모든 상황에서 완전히 무용해야 하는 것은 아니다. 약한 효과와 특수한 활용법이 있으면 제거와 이용 사이의 판단이 생긴다. 손에 있는 카드뿐 아니라 덱 전체의 구성 비율이 중요한 전략 자원이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "덱에 들어가 유용한 카드를 뽑을 기회를 줄이는 카드다. 직접적인 불이익이 없어도 뽑기 기회를 차지한다는 사실만으로 진행을 늦춘다.\n\n상대의 덱에 넣거나 강한 효과의 대가로 받는 방식이 있다. 처음에는 유용했던 기본 카드가 게임의 우선순위 변화로 방해물이 될 수도 있다.\n\n모든 상황에서 완전히 무용해야 하는 것은 아니다. 약한 효과와 특수한 활용법이 있으면 제거와 이용 사이의 판단이 생긴다. 손에 있는 카드뿐 아니라 덱 전체의 구성 비율이 중요한 전략 자원이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

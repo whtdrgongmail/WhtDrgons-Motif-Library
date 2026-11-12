@@ -4,8 +4,8 @@
   "title": "설명 없이 사라진 부모",
   "original": "Ambiguously Absent Parent",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02523",
+  "primary_tag_id": "ML-T02523",
   "description": {
     "definition": "한쪽 부모만 계속 등장하고 다른 부모가 왜 없는지 작품 안에서 밝히지 않는 가족 설정. 부재의 이유를 [[서사]]의 중심으로 삼지 않으면서 빈자리를 남긴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.011",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 부모가 지속적으로 등장하는데 다른 부모에 대한 정보가 없으면 가족의 현재는 보이지만 형성 과정은 비어 있게 된다. 부재는 사건의 중심이 아니면서 인물의 배경을 추측하게 한다.\n\n설명되지 않은 부모의 부재는 죽음이나 이별이 명시된 설정과 다르다. 화면에 잠시 나오지 않는 정도가 아니라 가족 구성에서 빈자리가 두드러져야 한다. 외부 인터뷰의 설명이 있더라도 작품 안의 정보 상태와는 구분해서 기록해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 부모가 지속적으로 등장하는데 다른 부모에 대한 정보가 없으면 가족의 현재는 보이지만 형성 과정은 비어 있게 된다. 부재는 사건의 중심이 아니면서 인물의 배경을 추측하게 한다.\n\n설명되지 않은 부모의 부재는 죽음이나 이별이 명시된 설정과 다르다. 화면에 잠시 나오지 않는 정도가 아니라 가족 구성에서 빈자리가 두드러져야 한다. 외부 인터뷰의 설명이 있더라도 작품 안의 정보 상태와는 구분해서 기록해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

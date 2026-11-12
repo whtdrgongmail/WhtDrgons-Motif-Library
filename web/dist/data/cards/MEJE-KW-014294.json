@@ -4,8 +4,8 @@
   "title": "새 능력으로 처음 선택한 구조",
   "original": "Hero's First Rescue",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01077",
+  "primary_tag_id": "ML-T01077",
   "description": {
     "definition": "막 초능력을 얻은 인물이 실제 위험에 처한 사람을 보고 스스로 구하러 나서며 영웅의 길을 선택하는 첫 전환점이다.",
     "detail": "작품 사례: [[Superman: The Animated Series]]에서 능력이 나타나기 시작한 클라크는 통제 불능 차량의 소리를 듣고 달려간다. 그는 불길 속에서 사고 차량의 문을 뜯고 탑승자들을 구한다.",
@@ -13,10 +13,10 @@
     "boundary": "이미 영웅으로 활동하는 사람의 통상적 구조나 직업 구조대의 첫 출동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "11.005.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "새 능력을 얻은 사람이 처음으로 타인의 구조를 자발적으로 선택하며 영웅의 역할을 형성하는 사건이다. 힘의 발견과 도덕적인 사용이 한 행동에 연결된다.\n\n이미 활동 중인 영웅의 반복적인 구조와 다르다. 직업 구조대의 첫 출동보다 새 능력 이후 어떤 사람이 되기로 선택하는지가 중심이다.\n\n[[Superman: The Animated Series]]의 클라크는 능력이 나타나던 시기에 통제 불능 차량의 소리를 듣는다. 불길 속 사고 차량의 문을 뜯고 탑승자를 구해 힘을 구조에 사용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "새 능력을 얻은 사람이 처음으로 타인의 구조를 자발적으로 선택하며 영웅의 역할을 형성하는 사건이다. 힘의 발견과 도덕적인 사용이 한 행동에 연결된다.\n\n이미 활동 중인 영웅의 반복적인 구조와 다르다. 직업 구조대의 첫 출동보다 새 능력 이후 어떤 사람이 되기로 선택하는지가 중심이다."
+      ],
+      [
+        "관련 작품",
+        "[[Superman: The Animated Series]]의 클라크는 능력이 나타나던 시기에 통제 불능 차량의 소리를 듣는다. 불길 속 사고 차량의 문을 뜯고 탑승자를 구해 힘을 구조에 사용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

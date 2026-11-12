@@ -4,8 +4,8 @@
   "title": "작중 작품과 바깥 작품이 같은 제목을 갖기",
   "original": "Metafictional Title",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "이야기 안에서 만들어지는 작품의 제목을 독자나 관객이 보고 있는 작품의 제목과 같게 붙이는 메타적 명명이다.",
     "detail": "작중 기록과 관객이 접한 이야기가 같은 것임을 암시할 수 있다.",
@@ -13,10 +13,10 @@
     "boundary": "단지 다른 작품 제목을 인용하거나 우연히 흔한 제목이 겹친 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이야기 속 문헌과 공연 같은 작품에 바깥 작품과 같은 제목을 부여한다. 관객이 보는 이야기와 그 안의 창작물이 이름으로 연결된다.\n\n제목의 이유가 나중에 밝혀지면서 작중 작품의 중요성이 커질 수 있다. 비슷한 낱말의 반복과 달리 이름을 공유하는 두 수준의 작품이 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이야기 속 문헌과 공연 같은 작품에 바깥 작품과 같은 제목을 부여한다. 관객이 보는 이야기와 그 안의 창작물이 이름으로 연결된다.\n\n제목의 이유가 나중에 밝혀지면서 작중 작품의 중요성이 커질 수 있다. 비슷한 낱말의 반복과 달리 이름을 공유하는 두 수준의 작품이 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

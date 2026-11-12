@@ -4,8 +4,8 @@
   "title": "여러 성인 세대가 함께 사는 가정",
   "original": "Multigenerational Household",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00992",
+  "primary_tag_id": "ML-T00992",
   "description": {
     "definition": "서로 다른 성인 세대 두 세대 이상이 하나의 생활 공간에서 함께 사는 가정 구성이다.",
     "detail": "작품 사례: 《[[미나리]]》에서는 한국에서 온 할머니가 딸 부부와 아이들이 있는 가정에 합류해 여러 세대가 함께 생활한다.",
@@ -13,14 +13,20 @@
     "boundary": "부모와 미성년 자녀만 사는 핵가족과 달리 성인 세대가 둘 이상이어야 하며 혈연만으로 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.003.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "부모와 성인이 된 자녀 세대가 같은 집에서 생활한다.",
     "review_status": "reviewed",
@@ -38,5 +44,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 성인 세대가 같은 집에서 살면 양육과 부양, 가사의 관계가 부모와 미성년 자녀만의 구조보다 복잡해진다. 자원과 경험을 공유하는 이점과 생활 규칙의 충돌이 같은 공간에서 드러날 수 있다.\n\n세대 수는 나이가 다른 사람의 수와 같지 않다. 부모와 어린 자녀만 있는 가정과 구별하려면 두 세대 이상이 성인으로 존재해야 하며, 함께 산다는 이유만으로 모든 가족이 같은 권한을 가진다고 전제하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 성인 세대가 같은 집에서 살면 양육과 부양, 가사의 관계가 부모와 미성년 자녀만의 구조보다 복잡해진다. 자원과 경험을 공유하는 이점과 생활 규칙의 충돌이 같은 공간에서 드러날 수 있다.\n\n세대 수는 나이가 다른 사람의 수와 같지 않다. 부모와 어린 자녀만 있는 가정과 구별하려면 두 세대 이상이 성인으로 존재해야 하며, 함께 산다는 이유만으로 모든 가족이 같은 권한을 가진다고 전제하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

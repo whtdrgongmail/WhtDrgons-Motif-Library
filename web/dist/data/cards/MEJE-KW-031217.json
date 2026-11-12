@@ -4,8 +4,8 @@
   "title": "아동 성적 가해와 연루된 성직자",
   "original": "Pedophile Priest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00925",
+  "primary_tag_id": "ML-T00925",
   "description": {
     "definition": "아동을 보호할 것으로 기대되는 성직자가 성적 가해를 저질렀거나 그런 혐의를 받으면서 신뢰와 종교적 권위가 흔들리는 인물 설정이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "믿고 의지하던 성직자에게 아동 피해와 관련된 의혹이 제기되어 공동체가 갈등한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "성직자의 지위는 보호와 도덕적 안내를 기대하게 하므로 가해가 확인될 때 배신의 의미가 커진다. 이야기는 한 인물의 위선에 집중할 수도 있고, 신고를 막거나 책임을 피하게 해 준 조직의 결정까지 추적할 수도 있다. 피해자의 말을 듣는 사람과 조직의 명예를 먼저 지키려는 사람을 나누면 공동체 내부의 갈등이 구체화된다.\n\n혐의가 제기되었다는 사실과 가해가 확인되었다는 사실은 구분해야 한다. 거짓 혐의가 이용되는 이야기라면 의혹을 퍼뜨리는 목적과 사실을 확인하는 과정이 중요해진다. 반대로 실제 피해를 다룰 때 가해자의 충격적인 정체만 강조하면 피해자의 경험이 도구로 축소될 수 있다. 특정 종교나 직업 전체의 속성을 주장하지 않고, 개별 인물의 행동과 이를 가능하게 한 권력 관계를 보여 주는 편이 이 설정의 쟁점을 분명하게 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "성직자의 지위는 보호와 도덕적 안내를 기대하게 하므로 가해가 확인될 때 배신의 의미가 커진다. 이야기는 한 인물의 위선에 집중할 수도 있고, 신고를 막거나 책임을 피하게 해 준 조직의 결정까지 추적할 수도 있다. 피해자의 말을 듣는 사람과 조직의 명예를 먼저 지키려는 사람을 나누면 공동체 내부의 갈등이 구체화된다.\n\n혐의가 제기되었다는 사실과 가해가 확인되었다는 사실은 구분해야 한다. 거짓 혐의가 이용되는 이야기라면 의혹을 퍼뜨리는 목적과 사실을 확인하는 과정이 중요해진다. 반대로 실제 피해를 다룰 때 가해자의 충격적인 정체만 강조하면 피해자의 경험이 도구로 축소될 수 있다. 특정 종교나 직업 전체의 속성을 주장하지 않고, 개별 인물의 행동과 이를 가능하게 한 권력 관계를 보여 주는 편이 이 설정의 쟁점을 분명하게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": false
   }
 }

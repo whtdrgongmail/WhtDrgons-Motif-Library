@@ -4,8 +4,8 @@
   "title": "권력자의 측근이 결정적 순간에 등을 돌리기",
   "original": "Backstabbing the Alpha Bitch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "늘 옆에서 권력자를 받들던 사람이 그가 흔들릴 때 공개적으로 반대편에 선다. 충성의 이유와 배신의 시점이 관계의 핵심이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "항상 곁을 지키던 측근이 지도자의 권력이 약해지거나 패배가 가까워지자 다른 편으로 넘어가는 전개다. 평소의 충성이 신념 때문이었는지 이익 때문이었는지 다시 보이게 된다. 돌아선 시점과 공개적으로 배신했다는 사실이 남은 조직의 신뢰도 흔든다.",
     "review_status": "reviewed",
@@ -30,5 +36,26 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "권력자가 위기에 놓인 순간 가까이 있던 사람이 더 이상 지지하지 않겠다는 행동을 보인다. 가장 믿을 만해 보이던 관계가 흔들려 다른 사람에게도 권력의 약화가 드러난다.\n\n자리를 대신 차지하려는 야심과 오래 쌓인 분노, 뒤늦은 판단 변화가 동기가 될 수 있다. 의도와 상관없이 측근의 이탈은 권력자에게 저항하던 인물에게 기회를 주고 몰락을 빠르게 만들 수 있다.\n\n원문은 특히 지배적인 여성 인물과 그 무리의 사례를 중심으로 삼지만 정본은 권력 관계 일반으로 범위를 넓힌다. 떠나는 일과 적대편을 돕는 행동을 구분하고, 편을 바꿨다는 사실만으로 선한 사람이 되었다고 확정하지 않는다.\n\n《Ever After》의 재클린은 어머니와 언니가 자신도 낮게 평가한다는 사실을 깨닫고 그들의 행동에 반대한다. 가까운 편으로 보이던 인물이 지배적인 가족 관계에서 이탈하는 사례다.\n\nEver After",
+    "sections": [
+      [
+        "상세 설명",
+        "권력자가 위기에 놓인 순간 가까이 있던 사람이 더 이상 지지하지 않겠다는 행동을 보인다. 가장 믿을 만해 보이던 관계가 흔들려 다른 사람에게도 권력의 약화가 드러난다.\n\n자리를 대신 차지하려는 야심과 오래 쌓인 분노, 뒤늦은 판단 변화가 동기가 될 수 있다. 의도와 상관없이 측근의 이탈은 권력자에게 저항하던 인물에게 기회를 주고 몰락을 빠르게 만들 수 있다.\n\n원문은 특히 지배적인 여성 인물과 그 무리의 사례를 중심으로 삼지만 정본은 권력 관계 일반으로 범위를 넓힌다. 떠나는 일과 적대편을 돕는 행동을 구분하고, 편을 바꿨다는 사실만으로 선한 사람이 되었다고 확정하지 않는다."
+      ],
+      [
+        "사례",
+        "《Ever After》의 재클린은 어머니와 언니가 자신도 낮게 평가한다는 사실을 깨닫고 그들의 행동에 반대한다. 가까운 편으로 보이던 인물이 지배적인 가족 관계에서 이탈하는 사례다."
+      ],
+      [
+        "관련 작품",
+        "Ever After"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

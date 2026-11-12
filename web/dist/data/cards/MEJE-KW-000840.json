@@ -4,8 +4,8 @@
   "title": "난장판 뒤 보험 걱정",
   "original": "Action Insurance Gag",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F19",
+  "tag_id": "ML-T02538",
+  "primary_tag_id": "ML-T02538",
   "description": {
     "definition": "추격이나 폭발로 재산이 망가진 순간 인물이 보험이나 수리비부터 걱정하는 농담. 큰 사건을 생활의 비용으로 갑자기 끌어내려 과장된 액션과 일상 감각 사이의 간격을 드러낸다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "19",
+    "code": "19.007.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "큰 파괴가 벌어진 순간 보험이나 수리비를 걱정한다. 추격과 폭발의 규모를 평범한 생활 비용의 문제로 갑자기 바꾸는 농담이다.\n\n망가뜨리기 전에 보험이 있는지 확인하거나 파괴 직후 비용을 말하는 방식이 가능하다. 막 대금을 다 갚은 재산이 무너졌다는 정보가 더해지면 허탈감이 커진다.\n\n피해가 회복될 것이라는 액션의 암묵적인 편의를 드러내기도 한다. 실제 보험이 그 손해를 보장한다는 제도 설명으로 확정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "큰 파괴가 벌어진 순간 보험이나 수리비를 걱정한다. 추격과 폭발의 규모를 평범한 생활 비용의 문제로 갑자기 바꾸는 농담이다.\n\n망가뜨리기 전에 보험이 있는지 확인하거나 파괴 직후 비용을 말하는 방식이 가능하다. 막 대금을 다 갚은 재산이 무너졌다는 정보가 더해지면 허탈감이 커진다.\n\n피해가 회복될 것이라는 액션의 암묵적인 편의를 드러내기도 한다. 실제 보험이 그 손해를 보장한다는 제도 설명으로 확정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

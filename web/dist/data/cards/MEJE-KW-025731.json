@@ -4,8 +4,8 @@
   "title": "사건 뒤에도 돌아오는 원래 상태",
   "original": "Status Quo Is God",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00655",
+  "primary_tag_id": "ML-T00655",
   "description": {
     "definition": "인물들이 큰 사건을 겪거나 노력해도 결말에 기존 상황이 복원되어 근본적인 변화가 남지 않는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 시간이 되감기는 설정을 반드시 요구하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "큰 사건이 끝나면 원래의 상황이 다시 복원된다. 다음 회차는 익숙한 인물과 관계에서 출발할 수 있다.\n\n편을 순서와 무관하게 보기에 쉽지만 변화의 누적은 줄어든다. 일시적인 안도와 장기적인 상태 복원의 규칙은 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "큰 사건이 끝나면 원래의 상황이 다시 복원된다. 다음 회차는 익숙한 인물과 관계에서 출발할 수 있다.\n\n편을 순서와 무관하게 보기에 쉽지만 변화의 누적은 줄어든다. 일시적인 안도와 장기적인 상태 복원의 규칙은 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

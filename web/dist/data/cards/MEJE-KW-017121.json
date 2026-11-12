@@ -4,8 +4,8 @@
   "title": "예지에 잡히지 않는 존재",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "미래를 보는 능력이 특정 존재의 선택이나 행적을 읽지 못하여 예측의 사각지대가 생기는 설정.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "예지 불가능이 곧 운명 자체에서 자유로움을 뜻하지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미래를 보는 능력으로도 특정 존재의 선택이나 행적을 읽을 수 없다. 예언자의 정보 안에 그 존재와 관련된 사각지대가 생긴다.\n\n다른 미래를 알 수 있는 사람도 이 변수의 행동은 예상하지 못한다. 감춰진 행적은 정보의 우위를 제한하거나 예지를 통한 추적을 피하는 조건이 된다.\n\n미래가 보이지 않는 것과 운명에서 자유롭다는 것은 같지 않다. 탐지 능력의 한계만으로 세계의 인과에서 벗어났다고 결론 내릴 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미래를 보는 능력으로도 특정 존재의 선택이나 행적을 읽을 수 없다. 예언자의 정보 안에 그 존재와 관련된 사각지대가 생긴다.\n\n다른 미래를 알 수 있는 사람도 이 변수의 행동은 예상하지 못한다. 감춰진 행적은 정보의 우위를 제한하거나 예지를 통한 추적을 피하는 조건이 된다.\n\n미래가 보이지 않는 것과 운명에서 자유롭다는 것은 같지 않다. 탐지 능력의 한계만으로 세계의 인과에서 벗어났다고 결론 내릴 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

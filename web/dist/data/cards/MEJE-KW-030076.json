@@ -4,8 +4,8 @@
   "title": "이름이나 속성에 랜드·월드를 붙이는 명명",
   "original": "Namedworld and Namedland",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "특징을 나타내는 말이나 이름에 land 또는 world를 붙여 장소 등의 명칭을 만드는 방식이다.",
     "detail": "작품 사례: 《[[베르세르크(만화)]]》의 미들랜드는 속성을 나타내는 말에 land를 붙인 국가 명칭의 사례다.",
@@ -13,10 +13,10 @@
     "boundary": "모든 가상 지명을 포함하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대상의 특징이나 소유자의 이름에 랜드 또는 월드를 붙이면 그 속성이 공간 전체를 대표하는 듯한 이름이 된다. 나라와 테마파크 등 다양한 대상에서 짧고 알아보기 쉬운 명칭을 만들 수 있다.\n\n비슷한 이름이 많다는 점을 이용해 과장된 패러디로 쓸 수도 있다. 다만 실제 지명의 어원이 같은 방식인지와 허구에서 의도적으로 접미사를 붙인 명명은 구분해야 하며, 단순히 해당 단어가 포함되었다는 이유만으로 판단하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대상의 특징이나 소유자의 이름에 랜드 또는 월드를 붙이면 그 속성이 공간 전체를 대표하는 듯한 이름이 된다. 나라와 테마파크 등 다양한 대상에서 짧고 알아보기 쉬운 명칭을 만들 수 있다.\n\n비슷한 이름이 많다는 점을 이용해 과장된 패러디로 쓸 수도 있다. 다만 실제 지명의 어원이 같은 방식인지와 허구에서 의도적으로 접미사를 붙인 명명은 구분해야 하며, 단순히 해당 단어가 포함되었다는 이유만으로 판단하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

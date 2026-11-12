@@ -4,8 +4,8 @@
   "title": "영웅의 목표를 악당이 가로막기",
   "original": "Heroes Act, Villains Hinder",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00679",
+  "primary_tag_id": "ML-T00679",
   "description": {
     "definition": "주인공이 스스로 정한 목표를 추구하고 [[적대자]]는 그 여정의 장애물로 등장하는 사건 구도다.",
     "detail": "작품 사례: [[Dragon Age: Origins]]에서 Grey Wardens는 역병으로부터 Ferelden을 구하려 하지만, 역병을 믿지 않는 Loghain이 그들의 활동을 가로막는다.",
@@ -13,10 +13,10 @@
     "boundary": "악당이 먼저 벌인 계획에 영웅이 대응하는 구조와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[주인공]]이 먼저 자기 목적을 갖고 움직이면 [[적대자]]는 그 목표를 방해하는 세력으로 배치된다. 사건을 시작한 의지가 누구에게 있는지에 따라 대립의 중심도 달라진다.\n\n악당이 계획을 실행하고 영웅이 그것을 막기 위해 반응하는 구조와는 출발점이 다르다. 상대가 악한지 여부보다 주인공의 독립적인 목표와 장애의 관계가 중요하다.\n\n[[Dragon Age: Origins]]의 Grey Wardens는 역병에서 Ferelden을 구하려 한다. Loghain은 역병을 믿지 않고 활동을 방해하여 이미 정해진 영웅의 목표에 장애물로 작용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[주인공]]이 먼저 자기 목적을 갖고 움직이면 [[적대자]]는 그 목표를 방해하는 세력으로 배치된다. 사건을 시작한 의지가 누구에게 있는지에 따라 대립의 중심도 달라진다.\n\n악당이 계획을 실행하고 영웅이 그것을 막기 위해 반응하는 구조와는 출발점이 다르다. 상대가 악한지 여부보다 주인공의 독립적인 목표와 장애의 관계가 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Dragon Age: Origins]]의 Grey Wardens는 역병에서 Ferelden을 구하려 한다. Loghain은 역병을 믿지 않고 활동을 방해하여 이미 정해진 영웅의 목표에 장애물로 작용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

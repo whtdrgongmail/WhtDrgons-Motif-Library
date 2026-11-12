@@ -4,8 +4,8 @@
   "title": "퇴로가 있어도 끝까지 싸우는 악역의 용기",
   "original": "VillainousValor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "달아나거나 굴복할 수 있는 상황에서도 자신의 신념과 동료·명예를 위해 마지막까지 싸우는 악역의 용맹함이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "도망갈 길이 없어서 어쩔 수 없이 싸우는 경우나 단순한 광기와 구별한다. 악행의 정당화와 용기의 인정은 별개다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "도망가거나 항복할 여지가 있어도 악역이 신념과 동료, 명예를 위해 싸움을 계속한다. 마지막 대결에서 불리함을 감수하는 선택이 용기를 드러낸다.\n\n적대자의 용맹함은 기존의 도덕적 평가에 다른 측면을 더한다. 관객은 악행에 반대하면서도 마지막 선택의 담대함을 인정할 수 있다.\n\n퇴로가 전혀 없어 어쩔 수 없이 싸우는 상황과 다르다. 단순한 광기와도 구별되며 용기의 인정이 과거의 악행을 정당화하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "도망가거나 항복할 여지가 있어도 악역이 신념과 동료, 명예를 위해 싸움을 계속한다. 마지막 대결에서 불리함을 감수하는 선택이 용기를 드러낸다.\n\n적대자의 용맹함은 기존의 도덕적 평가에 다른 측면을 더한다. 관객은 악행에 반대하면서도 마지막 선택의 담대함을 인정할 수 있다.\n\n퇴로가 전혀 없어 어쩔 수 없이 싸우는 상황과 다르다. 단순한 광기와도 구별되며 용기의 인정이 과거의 악행을 정당화하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

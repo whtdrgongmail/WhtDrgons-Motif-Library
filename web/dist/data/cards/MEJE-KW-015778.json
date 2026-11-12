@@ -4,8 +4,8 @@
   "title": "의뢰를 받아 조사하는 사립탐정",
   "original": "Private Detective",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00918",
+  "primary_tag_id": "ML-T00918",
   "description": {
     "definition": "개인이나 조직의 의뢰를 받아 사건·범죄를 조사하는 민간 조사자 역할이다. 고용주와 조사 대상 사이에서 정보를 찾아내는 일이 주요 기능이다.",
     "detail": "작품 사례: [[The Empty Beach]]의 사립탐정 클리프 하디는 악당들과 마지막으로 만날 때 경찰에게 받은 도청 장치를 몸에 숨겨, 현장에서 정보를 얻으려 한다.",
@@ -13,10 +13,10 @@
     "boundary": "공권력의 수사관이나 우연히 수수께끼를 푸는 일반인과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공권력의 정식 수사관이 아닌 조사자가 의뢰를 계기로 단서와 증언을 추적한다. 경찰과 협력할 수는 있지만 민간의 조사라는 지위와 맡은 의뢰가 활동의 기본 조건이다.\n\n수수께끼를 우연히 푼 일반인이나 경찰 수사관과는 직무의 성격이 다르다. 조사 도구를 사용했다는 사실보다 누가 어떤 의뢰와 권한으로 조사하는지가 중요하다.\n\n《[[The Empty Beach]]》의 클리프 하디는 경찰에게 받은 도청 장치를 숨기고 악당들과 만난다. 사립탐정의 현장 조사에 공적 수사와의 협력이 결합되는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공권력의 정식 수사관이 아닌 조사자가 의뢰를 계기로 단서와 증언을 추적한다. 경찰과 협력할 수는 있지만 민간의 조사라는 지위와 맡은 의뢰가 활동의 기본 조건이다.\n\n수수께끼를 우연히 푼 일반인이나 경찰 수사관과는 직무의 성격이 다르다. 조사 도구를 사용했다는 사실보다 누가 어떤 의뢰와 권한으로 조사하는지가 중요하다."
+      ],
+      [
+        "관련 작품",
+        "《[[The Empty Beach]]》의 클리프 하디는 경찰에게 받은 도청 장치를 숨기고 악당들과 만난다. 사립탐정의 현장 조사에 공적 수사와의 협력이 결합되는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

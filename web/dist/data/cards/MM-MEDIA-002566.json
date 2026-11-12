@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "드래곤볼 DAIMA",
   "original": "Dragon Ball DAIMA",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "드래곤볼 다이마"
+  ],
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "《드래곤볼 DAIMA》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《드래곤볼 DAIMA》에서는 금으로 세금을 내지 못하는 사람에게서 수명을 추출하고 그 시간을 다른 이에게 옮길 수 있다. 개인의 삶이 징수와 이전이 가능한 자원이 되는 설정이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -39,13 +41,38 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-017265",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-020905",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-024568",
       "row_version": 1
     },
     {
       "card_id": "MEJE-KW-019107",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-029978",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마인 부우를 쓰러뜨린 일행이 마계 왕의 소원 때문에 어린 모습으로 변하는 일본 애니메이션이다. 새로운 권력자는 지구의 전사들이 가진 힘을 두려워해 미리 약화시키려 한다.\n\n손오공은 새 동료들과 마계로 향하여 자신들을 겨냥한 음모에 맞선다. 기존 전투 이후의 짧은 평화가 신체 변화로 깨지는 이야기이며, 다른 연작의 어린 오공과는 변화의 원인과 시대가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마인 부우를 쓰러뜨린 일행이 마계 왕의 소원 때문에 어린 모습으로 변하는 일본 애니메이션이다. 새로운 권력자는 지구의 전사들이 가진 힘을 두려워해 미리 약화시키려 한다.\n\n손오공은 새 동료들과 마계로 향하여 자신들을 겨냥한 음모에 맞선다. 기존 전투 이후의 짧은 평화가 신체 변화로 깨지는 이야기이며, 다른 연작의 어린 오공과는 변화의 원인과 시대가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

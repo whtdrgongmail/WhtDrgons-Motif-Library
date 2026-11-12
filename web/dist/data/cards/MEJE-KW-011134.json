@@ -5,7 +5,7 @@
   "original": "Gekiga",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "primary_tag_id": "ML-F21",
   "description": {
     "definition": "일상의 갈등을 사실적인 그림과 진지한 이야기로 다루려 발전한 [[일본 만화]]의 한 흐름이다. 어린이용 희극 만화와 다른 독자층을 겨냥했다.",
     "detail": "",
@@ -13,20 +13,14 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "21",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "극화 만화는 일상의 갈등을 진지하게 다루기 위해 사실적인 그림과 이야기 표현을 발전시킨 일본 만화 흐름이다. 어린이용 희극 만화와 다른 독자층을 향했지만, 일본 만화 전체가 같은 화풍이라는 뜻은 아니다.",
     "review_status": "reviewed",
@@ -36,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "극화 만화는 일상의 갈등과 사회적 현실을 진지한 서사와 사실적인 묘사로 다루려는 일본 만화의 흐름이다. 인물의 표정과 공간, 행동의 세부를 통해 삶의 압박과 감정의 변화를 강조하며, 만화를 어린 독자용 희극에 한정하던 관념에 도전했다. 출판 시장에서 성인 독자층을 향한 작품의 가능성을 넓힌 맥락도 중요하다.\n\n사실적인 그림체만으로 극화라고 부르기는 어렵고, 진지한 이야기를 한다는 이유만으로 모든 만화가 포함되는 것도 아니다. 역사적 흐름과 독자층의 변화, 서사·화풍이 함께 만든 표현 관습을 고려해야 한다. 이는 일본 만화 전체가 같은 형식을 따른다는 뜻이 아니며, 다른 시대와 [[장르]]의 만화와 비교할 때도 극화의 성립 배경을 별도로 제시해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "극화 만화는 일상의 갈등과 사회적 현실을 진지한 서사와 사실적인 묘사로 다루려는 일본 만화의 흐름이다. 인물의 표정과 공간, 행동의 세부를 통해 삶의 압박과 감정의 변화를 강조하며, 만화를 어린 독자용 희극에 한정하던 관념에 도전했다. 출판 시장에서 성인 독자층을 향한 작품의 가능성을 넓힌 맥락도 중요하다.\n\n사실적인 그림체만으로 극화라고 부르기는 어렵고, 진지한 이야기를 한다는 이유만으로 모든 만화가 포함되는 것도 아니다. 역사적 흐름과 독자층의 변화, 서사·화풍이 함께 만든 표현 관습을 고려해야 한다. 이는 일본 만화 전체가 같은 형식을 따른다는 뜻이 아니며, 다른 시대와 [[장르]]의 만화와 비교할 때도 극화의 성립 배경을 별도로 제시해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

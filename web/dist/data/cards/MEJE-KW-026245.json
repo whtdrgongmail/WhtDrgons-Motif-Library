@@ -4,8 +4,8 @@
   "title": "괴물이 된 사랑하는 이를 계속 돌보기",
   "original": "Supporting the Monster Loved One",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01016",
+  "primary_tag_id": "ML-T01016",
   "description": {
     "definition": "사랑하는 존재가 괴물이거나 괴물 같은 상태임에도 애정 때문에 보살피고 지지한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "해로운 행동의 면책이나 다른 사람의 희생을 정당화하는 것과는 별개다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "괴물이라는 사실이 돌봄의 마음을 없애지 못한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이전의 애정이 상대의 괴물화 뒤에도 남아 돌봄을 지속하게 한다. 익숙한 인격의 기억과 현재의 위험한 몸이 충돌한다.\n\n먹이와 격리는 사랑하는 이를 지키려는 행동이면서 다른 사람에게 위험이 될 수 있다. 실제 회복 가능성이 있는지에 따라 돌봄의 의미와 비용이 달라진다.\n\n해로운 행동을 숨겼다는 이유만으로 사랑이 깊다고 단정하지 않는다. 가족과 연인 모두에 적용할 수 있으며 애정과 공공의 안전을 별개로 다룰 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이전의 애정이 상대의 괴물화 뒤에도 남아 돌봄을 지속하게 한다. 익숙한 인격의 기억과 현재의 위험한 몸이 충돌한다.\n\n먹이와 격리는 사랑하는 이를 지키려는 행동이면서 다른 사람에게 위험이 될 수 있다. 실제 회복 가능성이 있는지에 따라 돌봄의 의미와 비용이 달라진다.\n\n해로운 행동을 숨겼다는 이유만으로 사랑이 깊다고 단정하지 않는다. 가족과 연인 모두에 적용할 수 있으며 애정과 공공의 안전을 별개로 다룰 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "몸 바꾸기를 이용한 함정",
   "original": "\"Freaky Friday\" Sabotage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00811",
+  "primary_tag_id": "ML-T00811",
   "description": {
     "definition": "몸을 바꾸려는 인물이 상대가 넘겨받을 몸에 불리한 상황을 미리 남기거나 상대가 그 계획을 역이용한다. 교환 뒤 남는 조건이 반전의 핵심이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.009.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "몸의 교환 뒤 상대가 겪을 불리한 조건을 미리 마련하거나 그 계획을 역이용하는 전개다. 신체를 차지해도 남은 상황까지 함께 넘겨받는다.\n\n가해자는 좋은 몸을 얻었다고 생각하지만 예상하지 못한 제한에 갇힐 수 있다. 누가 교환의 규칙을 더 잘 이해하는지가 힘보다 중요한 반전의 근거가 된다.\n\n몸이 바뀐 뒤 단순히 적응하지 못하는 것과는 의도성이 다르다. 함정을 준비하거나 알아채는 과정이 필요하며 외형의 이익과 실제 상태의 비용을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "몸의 교환 뒤 상대가 겪을 불리한 조건을 미리 마련하거나 그 계획을 역이용하는 전개다. 신체를 차지해도 남은 상황까지 함께 넘겨받는다.\n\n가해자는 좋은 몸을 얻었다고 생각하지만 예상하지 못한 제한에 갇힐 수 있다. 누가 교환의 규칙을 더 잘 이해하는지가 힘보다 중요한 반전의 근거가 된다.\n\n몸이 바뀐 뒤 단순히 적응하지 못하는 것과는 의도성이 다르다. 함정을 준비하거나 알아채는 과정이 필요하며 외형의 이익과 실제 상태의 비용을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

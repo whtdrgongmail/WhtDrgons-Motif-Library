@@ -5,8 +5,8 @@
   "original": "Keeping a Crush Hidden from a Friend",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00981",
+  "primary_tag_id": "ML-T00981",
   "description": {
     "definition": "친구에게 연애 감정이 있지만 거절이나 부적합한 상황을 걱정해 고백하지 않고 우정을 유지한다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "감정을 밝힌 뒤 거절당한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하지만 말하지 않고 친구로 남는다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "친구에게 연애 감정이 있지만 거절과 관계의 변화를 걱정해 고백하지 않는다. 현재 우정을 유지하는 선택과 더 가까워지고 싶은 마음이 동시에 작용한다.\n\n평범한 친절이 희망의 신호로 읽히고 다른 연애 이야기가 숨은 상처가 될 수 있다. 관객에게만 마음을 알려 주면 같은 대화가 두 사람에게 서로 다른 감정적 무게를 갖는 모습을 보여 준다.\n\n고백한 뒤 거절당한 관계와는 정보의 공유 상태가 다르다. 감정을 숨겼다는 사실이 상대의 책임을 만들지 않으며 침묵을 유지하는 일과 마음이 없는 상태도 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "친구에게 연애 감정이 있지만 거절과 관계의 변화를 걱정해 고백하지 않는다. 현재 우정을 유지하는 선택과 더 가까워지고 싶은 마음이 동시에 작용한다.\n\n평범한 친절이 희망의 신호로 읽히고 다른 연애 이야기가 숨은 상처가 될 수 있다. 관객에게만 마음을 알려 주면 같은 대화가 두 사람에게 서로 다른 감정적 무게를 갖는 모습을 보여 준다.\n\n고백한 뒤 거절당한 관계와는 정보의 공유 상태가 다르다. 감정을 숨겼다는 사실이 상대의 책임을 만들지 않으며 침묵을 유지하는 일과 마음이 없는 상태도 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

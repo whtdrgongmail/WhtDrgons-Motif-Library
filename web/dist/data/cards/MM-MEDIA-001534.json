@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "매스 이펙트 2",
   "original": "Mass Effect 2",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Mass Effect 2"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《매스 이펙트 2》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《매스 이펙트 2》에서 셰퍼드는 수집가들을 막으라는 임무를 받자, 전쟁이라면 군대나 뛰어난 팀이 필요하다고 답한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-013832",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-016739",
       "row_version": 1
     },
@@ -51,5 +57,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "매스 이펙트의 두 번째 역할수행게임으로, 전작 뒤 사망한 셰퍼드가 인간 우월주의 조직의 지원으로 되살아나면서 시작한다. 인간 식민지의 실종을 막으려는 목표 때문에 과거에는 경계했던 세력과 협력해야 한다.\n\n셰퍼드는 수집자라는 적을 상대할 특별한 팀을 모은다. 동료의 영입과 개인적인 문제를 해결하는 임무는 곁가지보다 최종 작전을 준비하는 중심 구조가 되며, 각자의 신뢰가 집단의 능력을 뒷받침한다.\n\n같은 적을 상대한다고 후원 조직의 목적까지 같아지는 것은 아니다. 위험한 마지막 임무의 결과는 준비와 관계에 영향을 받아, 지도자의 판단이 동료 개인의 삶에 남기는 책임을 강조한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "매스 이펙트의 두 번째 역할수행게임으로, 전작 뒤 사망한 셰퍼드가 인간 우월주의 조직의 지원으로 되살아나면서 시작한다. 인간 식민지의 실종을 막으려는 목표 때문에 과거에는 경계했던 세력과 협력해야 한다.\n\n셰퍼드는 수집자라는 적을 상대할 특별한 팀을 모은다. 동료의 영입과 개인적인 문제를 해결하는 임무는 곁가지보다 최종 작전을 준비하는 중심 구조가 되며, 각자의 신뢰가 집단의 능력을 뒷받침한다.\n\n같은 적을 상대한다고 후원 조직의 목적까지 같아지는 것은 아니다. 위험한 마지막 임무의 결과는 준비와 관계에 영향을 받아, 지도자의 판단이 동료 개인의 삶에 남기는 책임을 강조한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

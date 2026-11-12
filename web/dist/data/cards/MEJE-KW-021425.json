@@ -4,8 +4,8 @@
   "title": "자기 처지에 맞지 않는 관용구를 고쳐 말하기",
   "original": "I Would Say If I Could Say",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01990",
+  "primary_tag_id": "ML-T01990",
   "description": {
     "definition": "상황에는 어울리는 관용구가 화자의 몸·정체성·신념에는 문자 그대로 맞지 않자, 그 차이를 덧붙이거나 표현을 고쳐 농담하는 대사다.",
     "detail": "작품 사례: 《[[원피스]]》의 브룩은 너무 굶어 배와 등이 붙을 지경이었다고 말한 뒤, 해골이라 배도 등도 없다는 농담을 덧붙인다.",
@@ -13,10 +13,10 @@
     "boundary": "기밀을 알려 줄 수 없다고 에둘러 말하는 방식과 다르다. 관용적 뜻과 화자의 실제 상태 사이의 불일치가 웃음의 원천이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》의 브룩은 너무 굶어 배와 등이 붙을 지경이었다고 말한 뒤, 해골이라 배도 등도 없다는 농담을 덧붙인다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상황에는 어울리는 관용구가 화자의 몸과 정체, 믿음에는 문자 그대로 맞지 않아 고쳐 말하는 농담이다. 익숙한 표현의 비유와 당사자의 실제 조건이 충돌한다.\n\n숨을 쉬지 않는 존재가 숨 막히게 아름답다는 말을 한 뒤 단서를 붙이는 식으로 사용할 수 있다. 관객이 이미 아는 특징을 되짚거나 처음 등장한 인물의 특성을 가볍게 소개하는 기능도 한다.\n\n일반적인 관용구를 이해하지 못하는 경우와는 다르다. 화자가 비유의 의미를 알면서 문자적인 어긋남을 지적하는 것이 핵심이며, 관련 배경을 모르면 농담의 이유가 전달되지 않을 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상황에는 어울리는 관용구가 화자의 몸과 정체, 믿음에는 문자 그대로 맞지 않아 고쳐 말하는 농담이다. 익숙한 표현의 비유와 당사자의 실제 조건이 충돌한다.\n\n숨을 쉬지 않는 존재가 숨 막히게 아름답다는 말을 한 뒤 단서를 붙이는 식으로 사용할 수 있다. 관객이 이미 아는 특징을 되짚거나 처음 등장한 인물의 특성을 가볍게 소개하는 기능도 한다.\n\n일반적인 관용구를 이해하지 못하는 경우와는 다르다. 화자가 비유의 의미를 알면서 문자적인 어긋남을 지적하는 것이 핵심이며, 관련 배경을 모르면 농담의 이유가 전달되지 않을 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

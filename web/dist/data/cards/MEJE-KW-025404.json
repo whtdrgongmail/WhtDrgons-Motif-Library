@@ -5,8 +5,8 @@
   "original": "The Gaps in the Synthetic Voice",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "따로 녹음한 말이 이어질 때 생기는 긴 침묵·음색 변화·잘못된 단어 때문에 음성이 조립되었다는 느낌이 드러난다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "일반적인 말더듬이나 감정 없는 목소리와 다르게 조합 지점의 불연속이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "따로 녹음한 말이 이어지는 곳에서 긴 침묵과 음색 변화, 잘못된 단어가 드러난다. 음성이 조립되었다는 불연속이 기계적 말투의 근거가 된다.\n\n어색한 연결은 게임의 음성 처리 문제로 보이거나 작중 기계의 오류를 표현할 수 있다. 어느 층위의 현상인지에 따라 웃음과 불안을 만드는 기능이 달라진다.\n\n일반적인 말더듬과 다르다. 감정 없는 목소리만으로도 부족하며 조합 지점의 불연속이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "따로 녹음한 말이 이어지는 곳에서 긴 침묵과 음색 변화, 잘못된 단어가 드러난다. 음성이 조립되었다는 불연속이 기계적 말투의 근거가 된다.\n\n어색한 연결은 게임의 음성 처리 문제로 보이거나 작중 기계의 오류를 표현할 수 있다. 어느 층위의 현상인지에 따라 웃음과 불안을 만드는 기능이 달라진다.\n\n일반적인 말더듬과 다르다. 감정 없는 목소리만으로도 부족하며 조합 지점의 불연속이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "이야기를 담은 뮤직비디오",
   "original": "Concept Video",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00143",
+  "primary_tag_id": "ML-T00143",
   "description": {
     "definition": "노래하는 모습 대신 짧은 이야기와 인물의 행동으로 영상이 진행된다. 음악의 감정과 화면의 사건이 함께 해석된다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "02.008.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "contextual",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "뮤직비디오가 가수의 공연 화면만 보여 주는 대신 인물과 사건이 있는 짧은 이야기를 펼친다. 노래의 가사나 분위기가 영상 속 행동과 만나 새로운 뜻을 만들 수 있다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "연주 장면보다 시각적인 이야기를 중심으로 구성한 뮤직비디오다. 노래에 맞춘 사건과 인물의 행동이 하나의 짧은 서사를 이룬다.\n\n새로운 이야기를 만들거나 다른 영상 작품을 연상시키는 구성을 사용할 수 있다. 음반 전체의 서사와 연결되면 여러 곡의 의미를 영상으로 확장하는 역할도 한다.\n\n이야기가 가사의 내용을 그대로 재현해야 하는 것은 아니다. 음악과 영상이 다른 사건을 다루어도 성립하며, 밴드가 연주하는 모습만 보여 주는 형식과는 화면의 주요 관심이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "연주 장면보다 시각적인 이야기를 중심으로 구성한 뮤직비디오다. 노래에 맞춘 사건과 인물의 행동이 하나의 짧은 서사를 이룬다.\n\n새로운 이야기를 만들거나 다른 영상 작품을 연상시키는 구성을 사용할 수 있다. 음반 전체의 서사와 연결되면 여러 곡의 의미를 영상으로 확장하는 역할도 한다.\n\n이야기가 가사의 내용을 그대로 재현해야 하는 것은 아니다. 음악과 영상이 다른 사건을 다루어도 성립하며, 밴드가 연주하는 모습만 보여 주는 형식과는 화면의 주요 관심이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

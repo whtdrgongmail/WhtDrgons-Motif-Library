@@ -4,8 +4,8 @@
   "title": "세계 안에서 실제로 작동하는 마법",
   "original": "Functional Magic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01209",
+  "primary_tag_id": "ML-T01209",
   "description": {
     "definition": "인물의 믿음이나 무대 속임수만이 아니라 작품의 사건에 실제 효과를 내는 초자연적 기술로 마법을 설정하는 방식. 누가 쓸 수 있고 무엇을 할 수 있는지는 그다음에 정할 세부 규칙이다. [[누구나 배울 수 있는 마법]]은 사용 자격을 넓게 둔 한 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[마법]]은 믿음과 연기에 머물지 않고 사건에 실제 결과를 낸다. 세계 안의 초자연적 기술로서 인과에 참여한다.\n\n이 전제를 정한 뒤 사용 자격과 가능한 효과를 세부적으로 설정할 수 있다. 실재 여부와 능력의 범위는 서로 다른 질문이다.\n\n무대의 속임수만으로 구현되는 현상과는 다르다. 누구나 배울 수 있는지는 여러 가능한 규칙 가운데 하나이며 필수 조건은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[마법]]은 믿음과 연기에 머물지 않고 사건에 실제 결과를 낸다. 세계 안의 초자연적 기술로서 인과에 참여한다.\n\n이 전제를 정한 뒤 사용 자격과 가능한 효과를 세부적으로 설정할 수 있다. 실재 여부와 능력의 범위는 서로 다른 질문이다.\n\n무대의 속임수만으로 구현되는 현상과는 다르다. 누구나 배울 수 있는지는 여러 가능한 규칙 가운데 하나이며 필수 조건은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

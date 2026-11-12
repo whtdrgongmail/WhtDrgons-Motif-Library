@@ -4,8 +4,8 @@
   "title": "더 큰 재난을 피하게 한 불운",
   "original": "Lifesaving Misfortune",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "불편이나 실패처럼 보인 사건이 나중의 더 큰 사고나 죽음을 피하게 하는 원인이 된다.",
     "detail": "작품 사례: 《[[도라에몽(만화)]]》에서 노비타의 아버지는 배가 아파 등산을 가지 못하고 불운을 탓한다. 이후 그 산에 폭설이 닥쳤다는 소식을 듣게 되어 못 떠난 일이 보호로 바뀐다.",
@@ -13,10 +13,10 @@
     "boundary": "단지 나쁜 일 뒤에 좋은 일이 이어지는 것이 아니라 앞의 불운이 위험 회피를 가능하게 해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불편과 실패가 결과적으로 더 큰 재난을 피하게 한다. 사건 당시의 나쁜 평가가 나중의 정보로 뒤집힌다.\n\n지연과 이동 제한이 위험한 장소에 가지 못하게 할 수 있다. 좋은 결과가 생겼다는 사실보다 불운이 그것의 직접 조건이 되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불편과 실패가 결과적으로 더 큰 재난을 피하게 한다. 사건 당시의 나쁜 평가가 나중의 정보로 뒤집힌다.\n\n지연과 이동 제한이 위험한 장소에 가지 못하게 할 수 있다. 좋은 결과가 생겼다는 사실보다 불운이 그것의 직접 조건이 되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

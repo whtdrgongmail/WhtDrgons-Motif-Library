@@ -4,8 +4,8 @@
   "title": "받으라며 던져 반응을 유도하기",
   "original": "Hey, Catch!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "상대에게 물건을 던져 반사적으로 받게 함으로써 주의를 빼앗거나 자세·능력·정체의 단서를 얻는 행동이다. 순간적인 반응을 강요하는 것이 속임수의 핵심이다.",
     "detail": "작품 사례: [[Terminator 2: Judgment Day]]에서 탈출하던 사라는 경비원에게 열쇠를 던져 받게 하고, 그 반응으로 생긴 빈틈을 이용해 공격한다.",
@@ -13,10 +13,10 @@
     "boundary": "맞히기 위해 던지는 투척 공격이나 평범한 물건 전달과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-000910",
+      "work_card_id": "MM-MEDIA-001329",
       "description_ko": "Terminator 2: Judgment Day에서 탈출하던 사라는 경비원에게 열쇠를 던져 받게 하고, 그 반응으로 생긴 빈틈을 이용해 공격한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "물건을 받으라는 상황을 만들어 상대의 자동적인 포착 반응을 끌어내는 행동이다. 물건을 잡는 동안 생기는 주의와 자세의 변화가 다음 행동의 조건이 된다.\n\n평범한 전달이나 물건으로 맞히는 투척 공격과 다르다. 전달의 목적보다 상대의 반응과 빈틈을 이용하는 목적이 중심이다.\n\n[[Terminator 2: Judgment Day]]의 사라는 탈출 도중 경비원에게 열쇠를 던진다. 그가 받는 반응으로 빈틈이 생기자 공격해 물건의 전달을 기만의 수단으로 사용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "물건을 받으라는 상황을 만들어 상대의 자동적인 포착 반응을 끌어내는 행동이다. 물건을 잡는 동안 생기는 주의와 자세의 변화가 다음 행동의 조건이 된다.\n\n평범한 전달이나 물건으로 맞히는 투척 공격과 다르다. 전달의 목적보다 상대의 반응과 빈틈을 이용하는 목적이 중심이다."
+      ],
+      [
+        "관련 작품",
+        "[[Terminator 2: Judgment Day]]의 사라는 탈출 도중 경비원에게 열쇠를 던진다. 그가 받는 반응으로 빈틈이 생기자 공격해 물건의 전달을 기만의 수단으로 사용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

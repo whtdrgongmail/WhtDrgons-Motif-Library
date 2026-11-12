@@ -4,8 +4,8 @@
   "title": "산타를 위한 음식 마련",
   "original": "Leaving Food for Santa",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01382",
+  "primary_tag_id": "ML-T01382",
   "description": {
     "definition": "선물을 전하러 오는 산타에게 감사하거나 환대하기 위해 집에 음식과 음료를 준비해 두는 [[관습]]이다.",
     "detail": "작품 사례: 《[[닥터 후]]》의 「The Return of Doctor Mysterio」에서 아이의 어머니는 창밖 방문자를 산타로 생각하고 우유와 쿠키를 마련해 준다.",
@@ -13,10 +13,10 @@
     "boundary": "가족의 [[식사]] 준비와 구별하며 방문할 산타를 수령자로 상정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "15",
+    "code": "15.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "음식과 음료를 미리 준비하는 행위는 산타가 방문할 것이라는 믿음과 실제 존재를 확인하려는 기대를 가정의 환대 [[선물 의례]]로 바꾼다. 아이는 선물 수령자이면서 방문자에게 작은 보답을 마련하는 주체가 된다.\n\n가족 [[식사]]를 차리는 것과 달리 산타를 별도의 손님으로 상정하는 [[관습]]이다. 이 관습은 선물 교환을 일방적 수령에서 감사와 환대로 확장한다.\n\n가상 사례: 아이가 산타를 위해 잠들기 전 우유와 과자를 준비한다.\n\n《[[닥터 후]]》 「The Return of Doctor Mysterio」에서 아이의 어머니는 창밖 방문자를 산타로 여기고 우유와 쿠키를 준비한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "음식과 음료를 미리 준비하는 행위는 산타가 방문할 것이라는 믿음과 실제 존재를 확인하려는 기대를 가정의 환대 [[선물 의례]]로 바꾼다. 아이는 선물 수령자이면서 방문자에게 작은 보답을 마련하는 주체가 된다.\n\n가족 [[식사]]를 차리는 것과 달리 산타를 별도의 손님으로 상정하는 [[관습]]이다. 이 관습은 선물 교환을 일방적 수령에서 감사와 환대로 확장한다."
+      ],
+      [
+        "사례",
+        "가상 사례: 아이가 산타를 위해 잠들기 전 우유와 과자를 준비한다."
+      ],
+      [
+        "관련 작품",
+        "《[[닥터 후]]》 「The Return of Doctor Mysterio」에서 아이의 어머니는 창밖 방문자를 산타로 여기고 우유와 쿠키를 준비한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

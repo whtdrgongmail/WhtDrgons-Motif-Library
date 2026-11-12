@@ -4,8 +4,8 @@
   "title": "호스에 끌려다니는 몸",
   "original": "Water Hose Rodeo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01921",
+  "primary_tag_id": "ML-T01921",
   "description": {
     "definition": "물을 내뿜는 호스의 힘을 이기지 못한 인물이 매달리거나 끌려다니며 몸의 통제를 잃는 과장된 장면이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "고정된 호스로 평범하게 물을 뿌리는 행동과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.010.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "물을 뿜는 호스의 힘 때문에 인물이 끌려다니며 자세를 잃는 장면이다. 평범한 작업 도구를 잡은 사람이 오히려 도구에 지배된다.\n\n몸이 이리저리 흔들리거나 주변 사람과 물건에 물을 뿌리면서 사고가 확대된다. 수도를 튼 다른 인물이 원인일 때는 두 사람의 행동과 정보 차이가 농담을 만든다.\n\n단순히 물이 튀는 장면과는 규모가 다르다. 호스의 움직임이 인물의 위치와 행동을 결정해야 하며, 실제 장비의 힘을 그대로 재현하는 개념은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "물을 뿜는 호스의 힘 때문에 인물이 끌려다니며 자세를 잃는 장면이다. 평범한 작업 도구를 잡은 사람이 오히려 도구에 지배된다.\n\n몸이 이리저리 흔들리거나 주변 사람과 물건에 물을 뿌리면서 사고가 확대된다. 수도를 튼 다른 인물이 원인일 때는 두 사람의 행동과 정보 차이가 농담을 만든다.\n\n단순히 물이 튀는 장면과는 규모가 다르다. 호스의 움직임이 인물의 위치와 행동을 결정해야 하며, 실제 장비의 힘을 그대로 재현하는 개념은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

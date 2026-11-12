@@ -4,8 +4,8 @@
   "title": "게임 카메라가 적을 따라가기",
   "original": "Camera Lock-On",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02529",
+  "primary_tag_id": "ML-T02529",
   "description": {
     "definition": "[[플레이어]]가 대상을 지정하면 [[카메라]]가 이동 중에도 그 적을 화면에 남긴다. 시야 조절의 부담을 줄이고 전투에 집중하게 한다. 대상을 지정해도 시점이 어긋나면 [[게임 카메라가 조작을 방해하기]]의 문제가 남는다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "적 하나를 지정하면 캐릭터가 움직여도 [[카메라]]가 그 상대를 계속 중심 부근에 두는 전투 기능이다. [[플레이어]]가 공격과 회피에 집중하기 쉽지만 다른 방향의 적이나 지형은 보기 어려워질 수 있어 지정 대상을 바꾸거나 추적을 해제하는 판단이 필요하다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임 카메라가 특정 목표를 화면 안에 유지하도록 위치와 방향을 조정하는 기능이다. 플레이어가 이동하면서도 적을 놓치지 않게 하여 카메라 조작과 전투 행동을 동시에 관리하는 부담을 줄인다.\n\n목표를 기준으로 캐릭터의 이동과 공격 방향도 바뀌면 적 주위를 도는 행동과 반격이 쉬워진다. 수동으로 켜고 끄거나 자동으로 적용하는 등 방식이 다르며, 여러 적 사이에서 목표를 바꾸는 규칙도 전투의 흐름에 영향을 준다.\n\n한 목표를 안정적으로 보는 대신 주변 시야가 좁아질 수 있다. 따라서 화면 밖의 적과 장애물에 대한 정보가 어떻게 보완되는지가 중요하다. 캐릭터 뒤로 시점을 한 번 맞추는 기능과 달리 목표와의 관계를 지속적으로 유지한다는 점이 차이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임 카메라가 특정 목표를 화면 안에 유지하도록 위치와 방향을 조정하는 기능이다. 플레이어가 이동하면서도 적을 놓치지 않게 하여 카메라 조작과 전투 행동을 동시에 관리하는 부담을 줄인다.\n\n목표를 기준으로 캐릭터의 이동과 공격 방향도 바뀌면 적 주위를 도는 행동과 반격이 쉬워진다. 수동으로 켜고 끄거나 자동으로 적용하는 등 방식이 다르며, 여러 적 사이에서 목표를 바꾸는 규칙도 전투의 흐름에 영향을 준다.\n\n한 목표를 안정적으로 보는 대신 주변 시야가 좁아질 수 있다. 따라서 화면 밖의 적과 장애물에 대한 정보가 어떻게 보완되는지가 중요하다. 캐릭터 뒤로 시점을 한 번 맞추는 기능과 달리 목표와의 관계를 지속적으로 유지한다는 점이 차이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "사건과 동시에 내보내는 방송",
   "original": "Broadcast Live",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00606",
+  "primary_tag_id": "ML-T00606",
   "description": {
     "definition": "공연·보도 등 현장에서 일어나는 일을 진행 중에 시청자에게 송출하는 방송 방식. 녹화한 내용을 나중에 내보내는 방식과 구별하며 시청자 참여를 필수 조건으로 삼지 않는다.",
     "detail": "",
@@ -13,20 +13,14 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "04.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "사건이나 공연이 진행되는 동안 방송도 함께 나간다. 시청자는 현장의 예상 못 한 일까지 바로 볼 수 있지만, 실시간으로 댓글을 달거나 진행에 참여해야 생방송이 되는 것은 아니다.",
     "review_status": "reviewed",
@@ -36,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사건이나 공연이 진행되는 동안 이를 시청자에게 송출하는 방송 방식이다. 사전 녹화와 편집을 거친 프로그램과 달리 제작과 수신이 거의 같은 시간대에 이루어진다.\n\n예측할 수 없는 발언과 실수, 현장의 변화가 그대로 드러날 가능성이 긴장과 현장감을 만든다. 다만 신호 처리나 송출 관리 때문에 짧은 지연이 있어도 일반적으로 생방송으로 취급할 수 있다.\n\n평소 녹화하던 프로그램이 특정 회차만 생방송하는 경우와 구분할 수 있다. 극중 화면이 언제나 실시간이라는 서사적 편의보다 실제 제작과 송출의 형식을 설명하는 범주다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사건이나 공연이 진행되는 동안 이를 시청자에게 송출하는 방송 방식이다. 사전 녹화와 편집을 거친 프로그램과 달리 제작과 수신이 거의 같은 시간대에 이루어진다.\n\n예측할 수 없는 발언과 실수, 현장의 변화가 그대로 드러날 가능성이 긴장과 현장감을 만든다. 다만 신호 처리나 송출 관리 때문에 짧은 지연이 있어도 일반적으로 생방송으로 취급할 수 있다.\n\n평소 녹화하던 프로그램이 특정 회차만 생방송하는 경우와 구분할 수 있다. 극중 화면이 언제나 실시간이라는 서사적 편의보다 실제 제작과 송출의 형식을 설명하는 범주다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

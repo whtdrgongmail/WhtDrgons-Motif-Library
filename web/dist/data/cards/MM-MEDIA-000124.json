@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "BoJack Horseman",
   "original": "BoJack Horseman",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "보잭 홀스맨"
+  ],
+  "tag_id": "ML-T00072",
   "primary_tag_id": "ML-T00072",
   "description": {
     "definition": "이 카드는 서구권 애니메이션 《BoJack Horseman》를 가리킨다. 이 라이브러리에서는 [[창작 활동이 성격을 만드는 작가]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: BoJack Horseman의 각본가 Flip McVicker는 자기 재능을 과신해, 수시로 바뀌는 자기 뜻에 드라마 제작진이 모두 맞추도록 요구한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.001",
     "review_status": "provisional",
@@ -45,5 +47,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인간과 의인화된 동물이 함께 사는 연예계를 배경으로 한 성인 애니메이션이다. 과거 시트콤 스타였던 보잭은 호화로운 집에 살지만 일과 관계를 잃은 공허함을 약물과 술로 버틴다.\n\n재기를 위한 회고록을 쓰지 못하자 대필 작가 다이앤이 고용된다. 자신의 삶을 다른 사람에게 설명하는 일이 새로운 관계의 출발점이면서 과거의 성공과 현재의 자기 인식이 충돌하는 계기가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인간과 의인화된 동물이 함께 사는 연예계를 배경으로 한 성인 애니메이션이다. 과거 시트콤 스타였던 보잭은 호화로운 집에 살지만 일과 관계를 잃은 공허함을 약물과 술로 버틴다.\n\n재기를 위한 회고록을 쓰지 못하자 대필 작가 다이앤이 고용된다. 자신의 삶을 다른 사람에게 설명하는 일이 새로운 관계의 출발점이면서 과거의 성공과 현재의 자기 인식이 충돌하는 계기가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

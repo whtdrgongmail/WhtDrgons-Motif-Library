@@ -4,8 +4,8 @@
   "title": "짧게 다른 사람의 억양 흉내 내기",
   "original": "Brief Accent Imitation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01972",
+  "primary_tag_id": "ML-T01972",
   "description": {
     "definition": "인물이 상대의 억양을 잠깐 따라 하며 놀리거나 친근감을 드러낸다. 말투를 웃음거리로 만드는지 관계의 신호로 쓰는지 맥락에서 판단한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 다른 사람의 억양과 말버릇을 잠깐 흉내 내는 장면이다. 장기간 신분을 위장하기보다 대화 중 놀림이나 인용, 순간적인 감정 표현으로 사용한다.\n\n관객이 원래 인물의 발음을 기억하고 있을수록 짧은 모사만으로 대상이 드러난다. 의도하지 않게 억양이 옮으면 함께 있는 사람의 영향과 말투의 전염을 농담으로 삼을 수 있다.\n\n가짜 국적을 유지하는 연기나 성우의 지속적인 억양 변경과는 다르다. 특정 대화 안에서 원래 목소리로 돌아오는 일시성이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 다른 사람의 억양과 말버릇을 잠깐 흉내 내는 장면이다. 장기간 신분을 위장하기보다 대화 중 놀림이나 인용, 순간적인 감정 표현으로 사용한다.\n\n관객이 원래 인물의 발음을 기억하고 있을수록 짧은 모사만으로 대상이 드러난다. 의도하지 않게 억양이 옮으면 함께 있는 사람의 영향과 말투의 전염을 농담으로 삼을 수 있다.\n\n가짜 국적을 유지하는 연기나 성우의 지속적인 억양 변경과는 다르다. 특정 대화 안에서 원래 목소리로 돌아오는 일시성이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "어둠에서도 볼 수 있는 타고난 시각",
   "original": "Innate Night Vision",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01493",
+  "primary_tag_id": "ML-T01493",
   "description": {
     "definition": "특정 인물과 종족이 장비 없이도 인간의 일반적인 시야보다 어두운 환경을 잘 볼 수 있는 감각을 갖는다.",
     "detail": "작품 사례: 《[[드래곤볼 Z]]》의 야콘은 빛이 닿지 않는 행성 출신으로 설정되어 완전한 어둠에서도 상대를 볼 수 있다.",
@@ -13,10 +13,10 @@
     "boundary": "감각의 작동 방식과 필요한 빛의 양은 작품별로 구분하며 실제 생물의 성능으로 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "어두운 곳에서도 장비 없이 주변을 알아보는 감각이 인물과 종족에게 주어진다. 보통 사람에게는 장애인 환경이 활동 가능한 공간이 된다.\n\n낮은 빛이 필요한지 완전한 어둠도 가능한지에 따라 능력의 한계가 달라진다. 다른 인물이 볼 수 없는 정보를 공유하는 행동은 집단의 역할 분담을 만든다.\n\n기계의 야간 장비와는 원천이 다르다. 현실 동물의 시각과 초자연적인 완전 암시는 같은 성능으로 보지 않으며 어둠의 정도를 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "어두운 곳에서도 장비 없이 주변을 알아보는 감각이 인물과 종족에게 주어진다. 보통 사람에게는 장애인 환경이 활동 가능한 공간이 된다.\n\n낮은 빛이 필요한지 완전한 어둠도 가능한지에 따라 능력의 한계가 달라진다. 다른 인물이 볼 수 없는 정보를 공유하는 행동은 집단의 역할 분담을 만든다.\n\n기계의 야간 장비와는 원천이 다르다. 현실 동물의 시각과 초자연적인 완전 암시는 같은 성능으로 보지 않으며 어둠의 정도를 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

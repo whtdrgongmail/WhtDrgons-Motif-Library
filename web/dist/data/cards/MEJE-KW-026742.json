@@ -4,8 +4,8 @@
   "title": "돌아올 연인을 오래 기다리기",
   "original": "I Will Wait for You",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02600",
+  "primary_tag_id": "ML-T02600",
   "description": {
     "definition": "떠난 연인이 돌아오기를 바라며 오랜 시간을 기다리는 관계 구도이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "이전 제안은 소중한 사람 일반에 적용했지만 현재 항목은 연인에 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.014",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "오랫동안 만나지 못해도 연인의 귀환을 기다린다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "멀리 떠난 상대의 귀환을 삶의 중요한 약속으로 삼는다. 소식과 시간이 불확실한 상태에서도 관계의 기억과 기대가 지속된다.\n\n기다리는 사람의 변화와 주변의 요구는 출발 때의 약속에 새로운 조건을 더한다. 기다림의 길이가 애정의 유일한 기준은 아니며 현재의 삶을 선택하는 사람을 도덕적으로 낮게 평가하는 규칙도 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "멀리 떠난 상대의 귀환을 삶의 중요한 약속으로 삼는다. 소식과 시간이 불확실한 상태에서도 관계의 기억과 기대가 지속된다.\n\n기다리는 사람의 변화와 주변의 요구는 출발 때의 약속에 새로운 조건을 더한다. 기다림의 길이가 애정의 유일한 기준은 아니며 현재의 삶을 선택하는 사람을 도덕적으로 낮게 평가하는 규칙도 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

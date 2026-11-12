@@ -4,8 +4,8 @@
   "title": "높은 하늘에서 벌어지는 전투",
   "original": "High-Altitude Battle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00778",
+  "primary_tag_id": "ML-T00778",
   "description": {
     "definition": "전투 참가자들이 항공기·공중 시설·비행 능력 등을 통해 하늘 높은 곳에서 싸우는 장면이나 게임 구간이다. 공중 공간 자체가 전투의 무대가 된다.",
     "detail": "작품 사례: [[New Super Mario Bros. Wii]]의 루드비히 전투는 이미 하늘에 있는 성에서 시작해, 위로 움직이는 세 발판 위에서 마리오 일행이 공격을 피하며 싸우게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "지상 목표만 폭격하는 공격이나 추락하면서 벌이는 싸움과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "높은 공중이 주 무대가 되면 싸움의 이동과 발판 조건이 지상과 달라진다. 항공기와 공중 시설 또는 [[비행 능력]]이 전투 참가자를 그 공간에 머무르게 하는 근거가 된다.\n\n지상 목표를 폭격하는 행동이나 떨어지는 동안 잠깐 싸우는 장면과는 중심 위치가 다르다. 높은 하늘에서 이동하고 공격을 피하는 조건이 전투 자체를 계속 규정해야 한다.\n\n[[New Super Mario Bros. Wii]]의 루드비히 전투는 하늘에 있는 성에서 시작된다. 위로 움직이는 세 발판을 이용해 공격을 피하고 맞서야 하므로 공중의 위치와 이동 조건이 싸움에 결합된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "높은 공중이 주 무대가 되면 싸움의 이동과 발판 조건이 지상과 달라진다. 항공기와 공중 시설 또는 [[비행 능력]]이 전투 참가자를 그 공간에 머무르게 하는 근거가 된다.\n\n지상 목표를 폭격하는 행동이나 떨어지는 동안 잠깐 싸우는 장면과는 중심 위치가 다르다. 높은 하늘에서 이동하고 공격을 피하는 조건이 전투 자체를 계속 규정해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[New Super Mario Bros. Wii]]의 루드비히 전투는 하늘에 있는 성에서 시작된다. 위로 움직이는 세 발판을 이용해 공격을 피하고 맞서야 하므로 공중의 위치와 이동 조건이 싸움에 결합된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

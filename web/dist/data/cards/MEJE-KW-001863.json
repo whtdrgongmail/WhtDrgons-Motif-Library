@@ -4,8 +4,8 @@
   "title": "중도 포기를 막는 대전 규칙",
   "original": "Anti-Rage Quitting",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02531",
+  "primary_tag_id": "ML-T02531",
   "description": {
     "definition": "진행 중인 온라인 대전에서 참가자가 나가도 경기가 무너지지 않도록 대체 인원을 넣거나 조기 이탈에 불이익을 주는 설계. 남은 [[플레이어]]의 경험을 지키는 것이 목적이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "패배가 예상된다고 경기를 빠져나가면 잠시 재참가를 제한하거나 빈자리에 대체 참가자를 배정하는 운영 방식이다. 한 사람의 이탈이 남은 [[플레이어]]의 패배나 시간 낭비로 이어지는 문제를 줄이며 끝까지 참여할 이유를 경기 규칙에 포함한다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대전 도중 이탈이 남은 참가자에게 미치는 영향을 줄이기 위해 대체 인원을 넣거나 이탈에 비용을 부과한다. 경기를 끝낼 수 있다는 신뢰가 공동 플레이의 지속 조건이 된다.\n\n중도 이탈 대응은 화가 나서 나간 경우뿐 아니라 시스템이 감지하는 이탈 상태를 대상으로 할 수 있다. 실제 통신 장애와 고의 이탈을 어떻게 구분하는지는 운영 규칙의 문제다. 억제 장치와 경기 유지 장치는 목적이 겹쳐도 작동 방식이 다르다.\n\n이탈자의 자리를 기계 인물이 채우면 경기는 유지되지만 남은 팀의 전력은 달라질 수 있다. 벌점이나 대기 시간은 다음 경기의 행동을 억제하는 다른 장치다. 현재의 피해를 줄이는 기능과 미래의 이탈을 줄이는 기능을 구별해야 효과를 정확하게 설명할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대전 도중 이탈이 남은 참가자에게 미치는 영향을 줄이기 위해 대체 인원을 넣거나 이탈에 비용을 부과한다. 경기를 끝낼 수 있다는 신뢰가 공동 플레이의 지속 조건이 된다.\n\n중도 이탈 대응은 화가 나서 나간 경우뿐 아니라 시스템이 감지하는 이탈 상태를 대상으로 할 수 있다. 실제 통신 장애와 고의 이탈을 어떻게 구분하는지는 운영 규칙의 문제다. 억제 장치와 경기 유지 장치는 목적이 겹쳐도 작동 방식이 다르다.\n\n이탈자의 자리를 기계 인물이 채우면 경기는 유지되지만 남은 팀의 전력은 달라질 수 있다. 벌점이나 대기 시간은 다음 경기의 행동을 억제하는 다른 장치다. 현재의 피해를 줄이는 기능과 미래의 이탈을 줄이는 기능을 구별해야 효과를 정확하게 설명할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

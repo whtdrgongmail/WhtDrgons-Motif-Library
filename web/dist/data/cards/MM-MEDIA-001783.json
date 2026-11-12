@@ -4,17 +4,17 @@
   "title": "다크 소울",
   "original": "Dark Souls",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《다크 소울》은 비디오게임 작품이다.",
-    "detail": "작품 사례: 《다크 소울》은 약한 소모품 등 일부 품목에서는 계속 구매를 허용하면서 여러 다른 물품은 수량을 제한해, 품목에 따라 무한 재고와 한정 재고를 나눈다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《다크 소울》은 약한 소모품 등 일부 품목에서는 계속 구매를 허용하면서 여러 다른 물품은 수량을 제한해, 품목에 따라 무한 재고와 한정 재고를 나눈다.",
+    "easy_ko": "《다크 소울》은 로드란을 탐험하며 적과 환경의 위험에 대응하는 액션 역할수행 게임이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -55,9 +55,45 @@
       "row_version": 1
     },
     {
+      "card_id": "MEJE-KW-029403",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-029523",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-029578",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000292",
+      "card_id": "MM-MEDIA-001783",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.bandainamcoent.com/games/dark-souls-remastered",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "로드란의 지형과 적 배치는 이동 경로를 선택하고 위험을 예측하게 한다. 눈에 보이는 적의 공격뿐 아니라 상태 이상, 독이 쌓이는 바닥, 착지 지점이 보이지 않는 도약도 탐험의 판단 조건에 포함된다.\n\n적이 일으키는 효과는 단순한 체력 감소와 다르게 설계될 수 있다. 바실리스크의 저주는 축적되면 남은 체력과 관계없이 즉사를 일으키므로 [[체력과 무관한 즉사 판정]]에 해당한다. 반대로 일부 상점 물품은 반복해서 살 수 있고 다른 물품은 수량이 제한되어 자원 선택을 달리 만든다.\n\n작품 사례: 병자의 마을 바닥은 이동을 늦추고 오래 머무는 인물에게 독을 축적한다. [[머무를수록 피해가 누적되는 늪지대]]가 이동 경로와 체류 시간을 함께 제한한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "로드란의 지형과 적 배치는 이동 경로를 선택하고 위험을 예측하게 한다. 눈에 보이는 적의 공격뿐 아니라 상태 이상, 독이 쌓이는 바닥, 착지 지점이 보이지 않는 도약도 탐험의 판단 조건에 포함된다.\n\n적이 일으키는 효과는 단순한 체력 감소와 다르게 설계될 수 있다. 바실리스크의 저주는 축적되면 남은 체력과 관계없이 즉사를 일으키므로 [[체력과 무관한 즉사 판정]]에 해당한다. 반대로 일부 상점 물품은 반복해서 살 수 있고 다른 물품은 수량이 제한되어 자원 선택을 달리 만든다."
+      ],
+      [
+        "사례",
+        "작품 사례: 병자의 마을 바닥은 이동을 늦추고 오래 머무는 인물에게 독을 축적한다. [[머무를수록 피해가 누적되는 늪지대]]가 이동 경로와 체류 시간을 함께 제한한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

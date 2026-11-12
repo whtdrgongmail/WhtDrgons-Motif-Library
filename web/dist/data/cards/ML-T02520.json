@@ -1,0 +1,59 @@
+{
+  "id": "ML-T02520",
+  "kind": "keyword",
+  "title": "판정·기록 조작",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T02520",
+  "primary_tag_id": "ML-T02520",
+  "description": {
+    "definition": "주사위 판정 결과나 캐릭터의 자원·상태 기록을 실제와 다르게 제시해 게임 규칙 밖의 이익을 얻는 행위다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 1,
+  "classification": {
+    "code": "25.014.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "주사위 숫자나 캐릭터 기록을 거짓으로 알려 자기에게 유리한 결과를 만드는 행동이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "[[판정·기록 조작]]은 참가자들이 공유하는 결과와 자원 정보를 사실과 다르게 보고한다는 점에서 규칙의 허점을 주장하는 행동과 다르다. 조작의 대상은 주사위 결과, 사용한 자원, 체력이나 소지품의 기록일 수 있다.\n\n기록 실수는 고의적 조작과 구별한다. 실제 입력과 보고 내용의 차이뿐 아니라 실수를 바로잡을 기회와 반복 양상도 판단에 필요하다.\n\n가상 예시: 참가자가 체력을 이미 소모했는데도 기록을 고치지 않고 다음 전투에서 남은 체력이 더 많은 것처럼 보고한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[판정·기록 조작]]은 참가자들이 공유하는 결과와 자원 정보를 사실과 다르게 보고한다는 점에서 규칙의 허점을 주장하는 행동과 다르다. 조작의 대상은 주사위 결과, 사용한 자원, 체력이나 소지품의 기록일 수 있다.\n\n기록 실수는 고의적 조작과 구별한다. 실제 입력과 보고 내용의 차이뿐 아니라 실수를 바로잡을 기회와 반복 양상도 판단에 필요하다."
+      ],
+      [
+        "사례",
+        "가상 예시: 참가자가 체력을 이미 소모했는데도 기록을 고치지 않고 다음 전투에서 남은 체력이 더 많은 것처럼 보고한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

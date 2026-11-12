@@ -4,17 +4,17 @@
   "title": "Apocalypse World",
   "original": "Apocalypse World",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
     "definition": "《Apocalypse World》는 테이블톱 게임 작품이다.",
-    "detail": "작품 사례: 《Apocalypse World》의 Go Aggro는 폭력의 위협을 명시하는 행동으로, 상대가 따르지 않는 선택을 하면 위협을 실제 결과로 처리하는 규칙을 가진다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Apocalypse World》는 종말 이후 사회를 다루는 테이블톱 역할 수행 게임이다. 행동의 선언과 결과를 규칙으로 연결한다. 종말 뒤의 공동체와 인물 관계를 선택과 결과의 역할극 규칙으로 구성한다.\n\nGo Aggro는 폭력의 위협을 명시하는 행동이다. 상대에게 무엇을 하라고 요구하는 상황에서 사용된다. 폭력의 위협을 사용한 요구는 실제 공격과 다른 단계이며 상대가 어떻게 반응할지가 사건을 바꾼다.\n\n상대가 따르지 않는 선택을 하면 그 위협은 실제 결과로 처리된다. 말로 협박했다는 선언이 단순한 대사에 그치지 않고 후속 결과를 구속한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Apocalypse World》는 종말 이후 사회를 다루는 테이블톱 역할 수행 게임이다. 행동의 선언과 결과를 규칙으로 연결한다. 종말 뒤의 공동체와 인물 관계를 선택과 결과의 역할극 규칙으로 구성한다.\n\nGo Aggro는 폭력의 위협을 명시하는 행동이다. 상대에게 무엇을 하라고 요구하는 상황에서 사용된다. 폭력의 위협을 사용한 요구는 실제 공격과 다른 단계이며 상대가 어떻게 반응할지가 사건을 바꾼다.\n\n상대가 따르지 않는 선택을 하면 그 위협은 실제 결과로 처리된다. 말로 협박했다는 선언이 단순한 대사에 그치지 않고 후속 결과를 구속한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

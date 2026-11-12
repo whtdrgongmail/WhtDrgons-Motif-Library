@@ -4,28 +4,28 @@
   "title": "홍보 없이 내보내는 작품",
   "original": "Invisible Advertising",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02293",
+  "primary_tag_id": "ML-T02293",
   "description": {
     "definition": "작품을 정식으로 공개하면서도 제작·배급 주체가 충분한 광고와 홍보를 하지 않아 잠재 관객이 존재를 알아차리기 어렵게 만드는 유통 방식이다.",
     "detail": "성과에 대한 낮은 기대나 제작상의 [[갈등]]으로 홍보 투자가 줄어들 수 있다.\n\n작품 사례: 《[[드래곤볼 Z 카이]]》는 원문이 다루는 2010년대 후반 카툰네트워크 중남미 방영에서 채널 내 홍보 없이 편성된 사례로 제시된다.",
     "usage": "작품의 공개 여부와 실제 관객에게 도달하는 기회를 구분해 분석할 때 쓴다.",
-    "boundary": "제작비가 적은 작품 전체나 단순한 비인기와 구별하며 홍보의 부재가 확인되어야 한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "영화나 프로그램이 나왔는데 광고가 거의 없어 팬들만 찾아본다.\n\n작품 사례: 《[[드래곤볼 Z 카이]]》는 원문이 다루는 2010년대 후반 카툰네트워크 중남미 방영에서 채널 내 홍보 없이 편성된 사례로 제시된다.",
+    "easy_ko": "영화나 프로그램이 나왔는데 광고가 거의 없어 팬들만 찾아본다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성과에 대한 낮은 기대나 제작상의 [[갈등]]으로 홍보 투자가 줄어들 수 있다.\n\n작품의 공개 여부와 실제 관객에게 도달하는 기회를 구분하는 유통상의 현상이다.\n\n제작비가 적은 작품 전체나 단순한 비인기와 구별하며 홍보의 부재가 확인되어야 한다.\n\n《[[드래곤볼 Z 카이]]》는 2010년대 후반 카툰네트워크 중남미 방영에서 채널 내 홍보 없이 편성된 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성과에 대한 낮은 기대나 제작상의 [[갈등]]으로 홍보 투자가 줄어들 수 있다.\n\n작품의 공개 여부와 실제 관객에게 도달하는 기회를 구분하는 유통상의 현상이다.\n\n제작비가 적은 작품 전체나 단순한 비인기와 구별하며 홍보의 부재가 확인되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[드래곤볼 Z 카이]]》는 2010년대 후반 카툰네트워크 중남미 방영에서 채널 내 홍보 없이 편성된 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

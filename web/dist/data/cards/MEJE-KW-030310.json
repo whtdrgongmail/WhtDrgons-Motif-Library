@@ -4,8 +4,8 @@
   "title": "승리가 가까워졌음을 알리는 게임 음악",
   "original": "Near Victory Fanfare",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "전투에서 우세해지거나 승리에 가까워졌을 때 음악을 바꾸어 그 상태를 알려 주고 고조감을 높이는 연출이다.",
     "detail": "작품 사례: 《[[젤다의 전설: 브레스 오브 더 와일드]]》의 마수 가논전은 승리에 가까워질수록 음악이 단계적으로 달라져 전투의 진전을 알려 준다.",
@@ -13,10 +13,10 @@
     "boundary": "승리가 확정된 뒤 나오는 결과 음악과 다르며 아직 패배할 가능성은 남을 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-003399",
+      "work_card_id": "MM-MEDIA-001485",
       "description_ko": "《젤다의 전설: 브레스 오브 더 와일드》의 마수 가논전은 승리에 가까워질수록 음악이 단계적으로 달라져 전투의 진전을 알려 준다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "우세를 알리는 음악은 화면의 수치만으로 불분명한 전투 상태를 전달할 수 있다. 길게 이어진 싸움에서는 아직 남은 과정보다 승리에 접근했다는 감각을 준다.\n\n주제곡의 귀환과 편성의 상승은 지금까지의 노력에 정서적인 보상을 더한다. 실제 승리가 확정되기 전의 신호이므로 긴장과 기대를 함께 유지할 수 있다.\n\n[[상황에 따라 매끄럽게 변하는 배경음악]]은 여러 상태의 전환을 포괄한다. 이 유형은 승리의 가까움을 특별히 알리는 기능에 초점을 둔다.",
+    "sections": [
+      [
+        "상세 설명",
+        "우세를 알리는 음악은 화면의 수치만으로 불분명한 전투 상태를 전달할 수 있다. 길게 이어진 싸움에서는 아직 남은 과정보다 승리에 접근했다는 감각을 준다.\n\n주제곡의 귀환과 편성의 상승은 지금까지의 노력에 정서적인 보상을 더한다. 실제 승리가 확정되기 전의 신호이므로 긴장과 기대를 함께 유지할 수 있다.\n\n[[상황에 따라 매끄럽게 변하는 배경음악]]은 여러 상태의 전환을 포괄한다. 이 유형은 승리의 가까움을 특별히 알리는 기능에 초점을 둔다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

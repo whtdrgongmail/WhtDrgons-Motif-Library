@@ -4,8 +4,8 @@
   "title": "다정하지만 다른 부모의 학대에서 지켜 주지 못하기",
   "original": "UselessBystanderParent",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00971",
+  "primary_tag_id": "ML-T00971",
   "description": {
     "definition": "자녀에게 개인적인 애정을 보이는 부모가 다른 부모의 학대를 막지 못해 방관자로 남는 가족 구도다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "부모 자신의 다정함과 자녀가 실제로 안전한지는 별개의 조건이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자녀에게 애정을 보이는 부모가 다른 보호자의 학대를 막지 못하는 가족 구도다. 개인적인 다정함과 실제 보호의 실패가 공존한다.\n\n방관은 직접 가해와 다른 형태로 위험을 지속시킨다. 자녀가 애정을 느끼면서도 안전을 얻지 못하면 가족에 대한 감정이 복잡해질 수 있다. 다정한 말이 있어도 학대가 계속된다면 정서적 호의와 보호의 책임은 분리되며, 자녀의 안전은 실제 개입 여부로 판단해야 한다.\n\n부모의 친절만으로 보호 기능을 평가하지 않는다. 개입하지 못하는 이유와 별개로 자녀가 계속 피해에 노출된다는 조건을 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자녀에게 애정을 보이는 부모가 다른 보호자의 학대를 막지 못하는 가족 구도다. 개인적인 다정함과 실제 보호의 실패가 공존한다.\n\n방관은 직접 가해와 다른 형태로 위험을 지속시킨다. 자녀가 애정을 느끼면서도 안전을 얻지 못하면 가족에 대한 감정이 복잡해질 수 있다. 다정한 말이 있어도 학대가 계속된다면 정서적 호의와 보호의 책임은 분리되며, 자녀의 안전은 실제 개입 여부로 판단해야 한다.\n\n부모의 친절만으로 보호 기능을 평가하지 않는다. 개입하지 못하는 이유와 별개로 자녀가 계속 피해에 노출된다는 조건을 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

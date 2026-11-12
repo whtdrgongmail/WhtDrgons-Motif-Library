@@ -4,8 +4,8 @@
   "title": "멋지게 들리던 공연이 실제로는 엉망이기",
   "original": "Bait-and-Switch Performance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02005",
+  "primary_tag_id": "ML-T02005",
   "description": {
     "definition": "공연자의 귀에는 훌륭하게 들리던 무대가 관객의 시점으로 바뀌자 어긋난 소리로 드러난다. 주관적 체험과 외부 평가의 간격을 소리로 보여 준다. 듣는 위치를 바꾸는 [[예상한 말과 다른 뜻으로 끝나는 반전]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "등장인물의 공연이 훌륭한 것처럼 들리거나 보이다가 다른 관점에서는 형편없는 수행이었다고 드러난다. 자기평가와 외부의 실제 평가를 감각적으로 대비한다.\n\n처음의 멋진 장면은 인물의 상상이나 과장된 주관으로 처리할 수 있다. 관객이 보던 기준을 갑자기 바꾸면 무대의 열정과 기술의 부족이 동시에 희극의 대상이 된다.\n\n노래뿐 아니라 춤과 연기에도 적용된다. 처음부터 서툴게 공연하는 장면과 달리 잘한다는 인상을 먼저 성립시켰다가 취소하는 두 단계의 구성이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "등장인물의 공연이 훌륭한 것처럼 들리거나 보이다가 다른 관점에서는 형편없는 수행이었다고 드러난다. 자기평가와 외부의 실제 평가를 감각적으로 대비한다.\n\n처음의 멋진 장면은 인물의 상상이나 과장된 주관으로 처리할 수 있다. 관객이 보던 기준을 갑자기 바꾸면 무대의 열정과 기술의 부족이 동시에 희극의 대상이 된다.\n\n노래뿐 아니라 춤과 연기에도 적용된다. 처음부터 서툴게 공연하는 장면과 달리 잘한다는 인상을 먼저 성립시켰다가 취소하는 두 단계의 구성이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

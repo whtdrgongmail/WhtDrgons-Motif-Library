@@ -4,8 +4,8 @@
   "title": "권투 기술로 싸우는 인물",
   "original": "Boxing Battler",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00917",
+  "primary_tag_id": "ML-T00917",
   "description": {
     "definition": "경기장 밖에서도 주먹과 발놀림을 전투 방식으로 쓰는 인물. 숙련된 움직임이 그 사람의 강점과 한계를 함께 보여 준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "권투 기술을 경기장 밖의 실전 전투 방식으로 사용하는 인물이다. 펀치와 발놀림, 회피를 다른 무술과 대등한 전문 기술로 제시하며 권투 장갑의 착용은 필수 조건이 아니다.\n\n손을 이용한 공격에 집중하므로 다양한 발차기나 무기술을 쓰는 상대와 차별화된다. 빠른 연속 타격과 몸의 움직임으로 공격을 피하는 장면은 권투가의 개성을 전달한다.\n\n훈련받지 않은 인물이 주먹다짐으로 싸우는 경우와 구분한다. 단순히 손으로 때리는 것이 아니라 권투를 배운 사실과 그 기술이 전투 방식의 근거가 되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "권투 기술을 경기장 밖의 실전 전투 방식으로 사용하는 인물이다. 펀치와 발놀림, 회피를 다른 무술과 대등한 전문 기술로 제시하며 권투 장갑의 착용은 필수 조건이 아니다.\n\n손을 이용한 공격에 집중하므로 다양한 발차기나 무기술을 쓰는 상대와 차별화된다. 빠른 연속 타격과 몸의 움직임으로 공격을 피하는 장면은 권투가의 개성을 전달한다.\n\n훈련받지 않은 인물이 주먹다짐으로 싸우는 경우와 구분한다. 단순히 손으로 때리는 것이 아니라 권투를 배운 사실과 그 기술이 전투 방식의 근거가 되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

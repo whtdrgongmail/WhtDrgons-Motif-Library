@@ -4,8 +4,8 @@
   "title": "이동 시차",
   "original": "Motion Parallax",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01917",
+  "primary_tag_id": "ML-T01917",
   "description": {
     "definition": "화면의 가까운 층과 먼 층을 서로 다른 속도로 움직여 거리와 공간의 깊이를 느끼게 하는 표현이다.",
     "detail": "작품 사례: 《[[Batman(Sunsoft 게임)]]》은 배경 그림의 층을 서로 다른 속도로 스크롤하여 화면 이동에 깊이감을 준다.",
@@ -13,10 +13,10 @@
     "boundary": "원근에 따른 크기 차이만 표현하는 정지 화면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관찰 위치가 움직이면 거리가 다른 대상의 상대적 위치가 서로 다르게 변한다. 게임은 배경 층을 다른 속도로 이동시켜 이 효과를 모사하고 평면 화면에 깊이감을 줄 수 있다.\n\n정지 화면에서 크기 차이만 주는 원근 표현과는 다르다. 움직임에 따른 상대적인 변화가 기준이며 여러 층을 썼다는 사실만으로 실제 공간 깊이를 갖는 것은 아니다.\n\n《[[Batman(Sunsoft 게임)]]》은 배경 층을 서로 다른 속도로 스크롤한다. 화면 이동에 따라 층 사이의 상대 위치가 달라져 거리를 암시한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관찰 위치가 움직이면 거리가 다른 대상의 상대적 위치가 서로 다르게 변한다. 게임은 배경 층을 다른 속도로 이동시켜 이 효과를 모사하고 평면 화면에 깊이감을 줄 수 있다.\n\n정지 화면에서 크기 차이만 주는 원근 표현과는 다르다. 움직임에 따른 상대적인 변화가 기준이며 여러 층을 썼다는 사실만으로 실제 공간 깊이를 갖는 것은 아니다."
+      ],
+      [
+        "관련 작품",
+        "《[[Batman(Sunsoft 게임)]]》은 배경 층을 서로 다른 속도로 스크롤한다. 화면 이동에 따라 층 사이의 상대 위치가 달라져 거리를 암시한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

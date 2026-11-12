@@ -4,8 +4,8 @@
   "title": "태양에 던져 없애기",
   "original": "Hurl It into the Sun",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00785",
+  "primary_tag_id": "ML-T00785",
   "description": {
     "definition": "없애야 할 대상이나 위협을 태양으로 보내 강한 열과 환경으로 파괴하는 해결 장치다.",
     "detail": "작품 사례: [[The Enormous Crocodile]]에서 아이들을 잡아먹으려던 악어는 Trunky에게 꼬리를 잡혀 태양으로 던져지며, 위협 자체가 완전히 제거된다.",
@@ -13,10 +13,10 @@
     "boundary": "태양이 우연히 대상을 삼키거나 단순한 우주 추방만 하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대상을 항성으로 보내는 행위가 위협을 제거하는 결정적인 수단으로 제시된다. 다른 장소로 옮기는 것보다 완전한 파괴의 이미지를 강조할 수 있으며, 그 방법의 실행 가능성은 작품이 정한 물리적 또는 초현실적 규칙에 따른다.\n\n우주로 쫓아냈지만 파괴 여부가 남아 있는 경우와는 결말이 다르다. 태양에 넣어 없애려는 선택이 확인되어야 하며, 이런 장면을 실제 항성 접근이나 궤도 이동의 난이도에 대한 설명으로 해석하지 않는다.\n\n[[The Enormous Crocodile]]에서 아이들을 잡아먹으려던 악어는 Trunky에게 꼬리를 잡혀 태양으로 던져지며, 위협 자체가 완전히 제거된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대상을 항성으로 보내는 행위가 위협을 제거하는 결정적인 수단으로 제시된다. 다른 장소로 옮기는 것보다 완전한 파괴의 이미지를 강조할 수 있으며, 그 방법의 실행 가능성은 작품이 정한 물리적 또는 초현실적 규칙에 따른다.\n\n우주로 쫓아냈지만 파괴 여부가 남아 있는 경우와는 결말이 다르다. 태양에 넣어 없애려는 선택이 확인되어야 하며, 이런 장면을 실제 항성 접근이나 궤도 이동의 난이도에 대한 설명으로 해석하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[The Enormous Crocodile]]에서 아이들을 잡아먹으려던 악어는 Trunky에게 꼬리를 잡혀 태양으로 던져지며, 위협 자체가 완전히 제거된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

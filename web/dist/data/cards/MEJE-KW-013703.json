@@ -4,8 +4,8 @@
   "title": "급히 숨긴 맥거핀",
   "original": "Hastily Hidden MacGuffin",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00727",
+  "primary_tag_id": "ML-T00727",
   "description": {
     "definition": "발각 직전 중요한 물건을 임시로 엉뚱한 곳에 숨긴 선택이 이후 여러 인물의 회수·추적을 유발하는 구조이다.",
     "detail": "작품 사례: [[Belinda the Beetle]]에서 도주 운전자가 훔친 보석을 사고 현장의 작은 자동차 문 안에 급히 숨기고, 나중에 회수하려다 그 차가 살아 있다는 뜻밖의 장애를 만난다.",
@@ -13,10 +13,10 @@
     "boundary": "미리 준비된 은닉처보다 즉흥적인 숨김과 그 후속 문제가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중요한 물건은 발각을 피하려는 짧은 판단으로 임시 장소에 들어간다. 처음의 숨김이 끝난 뒤에도 그 위치가 회수와 추적의 문제를 지속시킨다.\n\n즉흥적인 은닉은 물건의 이동을 여러 인물의 행동과 연결한다. 숨겼을 때 몰랐던 장소의 성질이 나중에 드러나면 단순한 회수가 새로운 장애가 된다.\n\n미리 준비한 안전한 보관소와는 선택의 시간과 정보가 다르다. 급한 숨김이 후속 사건의 원인이 되어야 한다.\n\n[[Belinda the Beetle]]의 도주 운전자는 보석을 작은 자동차 문에 숨겼다가 살아 있는 차 때문에 회수에 어려움을 겪는다.\n\n[[Belinda the Beetle]]",
+    "sections": [
+      [
+        "상세 설명",
+        "중요한 물건은 발각을 피하려는 짧은 판단으로 임시 장소에 들어간다. 처음의 숨김이 끝난 뒤에도 그 위치가 회수와 추적의 문제를 지속시킨다.\n\n즉흥적인 은닉은 물건의 이동을 여러 인물의 행동과 연결한다. 숨겼을 때 몰랐던 장소의 성질이 나중에 드러나면 단순한 회수가 새로운 장애가 된다.\n\n미리 준비한 안전한 보관소와는 선택의 시간과 정보가 다르다. 급한 숨김이 후속 사건의 원인이 되어야 한다."
+      ],
+      [
+        "사례",
+        "[[Belinda the Beetle]]의 도주 운전자는 보석을 작은 자동차 문에 숨겼다가 살아 있는 차 때문에 회수에 어려움을 겪는다."
+      ],
+      [
+        "관련 작품",
+        "[[Belinda the Beetle]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

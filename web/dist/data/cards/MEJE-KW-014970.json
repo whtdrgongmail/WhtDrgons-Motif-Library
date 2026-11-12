@@ -4,8 +4,8 @@
   "title": "종교 시설에 가두어 사회에서 지우기",
   "original": "Locked Away in a Monastery",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00861",
+  "primary_tag_id": "ML-T00861",
   "description": {
     "definition": "가족이나 권력이 문제시하는 인물을 수도원 같은 종교적 공간에 강제로 보내 외부 관계와 사회 활동을 막는 전개다.",
     "detail": "작품 사례: [[& Juliet]]에서 부모는 줄리엣이 로미오를 잊도록 수녀원에 보내려 하지만, 줄리엣은 그 강요를 피해 파리로 달아난다.",
@@ -13,10 +13,10 @@
     "boundary": "스스로 택한 수도 생활이나 잠시 쉬는 체류와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "종교 시설의 은둔과 규율을 이용해 원하지 않는 사람을 사회에서 격리하려는 강요다. 신앙생활의 외형이 통제와 배제의 수단으로 사용된다.\n\n스스로 선택한 수도 생활과 휴식 체류와는 다르다. 실제 수용과 시도는 구분되어야 하며 당사자의 동의와 외부 관계의 차단이 핵심이다.\n\n[[& Juliet]]의 부모는 줄리엣이 로미오를 잊게 하려고 수녀원에 보내려 한다. 줄리엣은 파리로 달아나므로 사례는 실제 수용의 완료가 아니라 격리 시도와 거부를 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "종교 시설의 은둔과 규율을 이용해 원하지 않는 사람을 사회에서 격리하려는 강요다. 신앙생활의 외형이 통제와 배제의 수단으로 사용된다.\n\n스스로 선택한 수도 생활과 휴식 체류와는 다르다. 실제 수용과 시도는 구분되어야 하며 당사자의 동의와 외부 관계의 차단이 핵심이다."
+      ],
+      [
+        "관련 작품",
+        "[[& Juliet]]의 부모는 줄리엣이 로미오를 잊게 하려고 수녀원에 보내려 한다. 줄리엣은 파리로 달아나므로 사례는 실제 수용의 완료가 아니라 격리 시도와 거부를 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

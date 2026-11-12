@@ -4,8 +4,8 @@
   "title": "인쇄물의 작은 오타가 뜻을 바꾸기",
   "original": "Acquired Error at the Printer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01990",
+  "primary_tag_id": "ML-T01990",
   "description": {
     "definition": "포스터나 표지의 글자 하나가 잘못 인쇄되어 원래 의도와 다른 우스운 문장이 되는 장면. 공개되기 전 확인하지 못한 실수가 인물의 체면이나 사건을 흔든다. [[약어를 서로 헷갈리기]]는 인쇄 오류가 아니라 해석 오류다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "포스터와 표지의 작은 인쇄 오류가 문장의 뜻을 우습게 바꾼다. 사소해 보인 글자의 차이가 공개된 메시지 전체에 영향을 준다.\n\n배포 전에 발견하지 못한 실수는 체면과 사건의 흐름을 흔든다. 원래 전하려던 말과 실제 읽히는 말을 비교해야 효과가 드러난다.\n\n약어를 잘못 이해한 경우와 다르다. 해석의 오류가 아니라 인쇄된 글자가 실제로 달라져야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "포스터와 표지의 작은 인쇄 오류가 문장의 뜻을 우습게 바꾼다. 사소해 보인 글자의 차이가 공개된 메시지 전체에 영향을 준다.\n\n배포 전에 발견하지 못한 실수는 체면과 사건의 흐름을 흔든다. 원래 전하려던 말과 실제 읽히는 말을 비교해야 효과가 드러난다.\n\n약어를 잘못 이해한 경우와 다르다. 해석의 오류가 아니라 인쇄된 글자가 실제로 달라져야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

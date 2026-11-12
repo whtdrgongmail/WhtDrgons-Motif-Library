@@ -4,8 +4,8 @@
   "title": "보상보다 완주가 목적인 극난도 추가 구역",
   "original": "Brutal Bonus Level",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
     "definition": "본편을 마친 뒤 열리는 구역이 훨씬 어려운 도전을 준다. 실용적인 보상보다 끝까지 통과했다는 경험이 목적이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "극단적인 난도 자체가 주된 도전과 보상인 선택적 추가 구역이다. 본편을 마친 숙련자에게 완수했다는 성취를 제공하므로 필수 진행보다 가혹한 조건을 부여할 수 있다.\n\n해금까지의 노력과 실제 공략 난도가 겹쳐 게임을 끝까지 익힌 사람을 시험한다. 눈에 띄는 물질적 보상이 없어도 정복 사실과 기록이 참여 동기가 된다.\n\n숨겨진 구역이라는 이유만으로 해당하지는 않는다. 새로운 이야기와 장비를 얻는 것이 주목적인 추가 던전과 달리, 높은 난도를 돌파하는 행위의 비중이 결정적이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "극단적인 난도 자체가 주된 도전과 보상인 선택적 추가 구역이다. 본편을 마친 숙련자에게 완수했다는 성취를 제공하므로 필수 진행보다 가혹한 조건을 부여할 수 있다.\n\n해금까지의 노력과 실제 공략 난도가 겹쳐 게임을 끝까지 익힌 사람을 시험한다. 눈에 띄는 물질적 보상이 없어도 정복 사실과 기록이 참여 동기가 된다.\n\n숨겨진 구역이라는 이유만으로 해당하지는 않는다. 새로운 이야기와 장비를 얻는 것이 주목적인 추가 던전과 달리, 높은 난도를 돌파하는 행위의 비중이 결정적이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "분열한 복제체에게 능력이 나뉘기",
   "original": "Cloning Splits Attributes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "인물이 여러 몸으로 나뉘면 원래 갖고 있던 재능이나 성격도 각자에게 갈라진다. 수가 늘어나는 이익과 개별 능력의 손실이 맞물린다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 몸을 만들 때 원래의 능력과 성격이 복제체들 사이에 나뉘는 설정이다. 수가 늘어도 각 개체가 원본의 완전한 역량을 그대로 갖지는 못한다.\n\n힘이 균등하게 약해지거나 특정 특성이 각 몸에 집중될 수 있다. 복제체가 함께 협력하거나 다시 합쳐야 원래 상태를 회복한다면 분열은 이득뿐 아니라 정체성과 조정의 문제를 만든다.\n\n[[복제인간도 한 사람으로 대하기]]와는 다른 능력 규칙의 문제다. 복제체들이 우연히 다른 성격으로 성장한 경우보다 생성 자체가 특성의 분배를 일으켜야 하며, 분배 방식은 작품마다 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 몸을 만들 때 원래의 능력과 성격이 복제체들 사이에 나뉘는 설정이다. 수가 늘어도 각 개체가 원본의 완전한 역량을 그대로 갖지는 못한다.\n\n힘이 균등하게 약해지거나 특정 특성이 각 몸에 집중될 수 있다. 복제체가 함께 협력하거나 다시 합쳐야 원래 상태를 회복한다면 분열은 이득뿐 아니라 정체성과 조정의 문제를 만든다.\n\n[[복제인간도 한 사람으로 대하기]]와는 다른 능력 규칙의 문제다. 복제체들이 우연히 다른 성격으로 성장한 경우보다 생성 자체가 특성의 분배를 일으켜야 하며, 분배 방식은 작품마다 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

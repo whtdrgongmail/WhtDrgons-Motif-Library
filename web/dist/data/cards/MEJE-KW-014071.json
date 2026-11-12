@@ -4,8 +4,8 @@
   "title": "선악 진영을 반복해서 바꾸는 인물",
   "original": "Heel–Face Revolving Door",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00693",
+  "primary_tag_id": "ML-T00693",
   "description": {
     "definition": "인물이 선역과 악역의 입장을 여러 차례 오가서 장기적으로 어느 한쪽에 고정되지 않는 변화 양상이다.",
     "detail": "작품 사례: [[Ride the High Country]]의 Gil은 금을 훔치려다 동료를 구하고, 다시 절도를 시도한 뒤 마지막에는 동료를 위해 싸운다.",
@@ -13,10 +13,10 @@
     "boundary": "충성은 같은데 위장만 바꾸는 인물이나 한 번뿐인 개심과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 번의 개심으로 정착하지 않고 선한 선택과 악한 선택, 진영의 이동을 되풀이하는 인물이다. 각 전환이 실제 행동에 영향을 주어야 하며, 다른 사람을 돕다가 다시 해치는 과정이 누적되어 불안정한 위치를 만든다.\n\n충성 대상은 그대로 둔 채 위장만 바꾸는 인물과는 다르다. 한 번 악에서 선으로 돌아서는 사건도 반복 전환과 구별된다. 변화의 횟수만보다 어느 행동에서 이전 선택을 뒤집는지가 구체적으로 제시되어야 한다.\n\n[[Ride the High Country]]의 Gil은 금을 훔치려다가 동료를 구하고, 이후 다시 절도를 시도한다. 마지막에는 동료를 위해 싸워 도덕적인 행동과 이기적인 선택 사이를 실제로 여러 차례 오간다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 번의 개심으로 정착하지 않고 선한 선택과 악한 선택, 진영의 이동을 되풀이하는 인물이다. 각 전환이 실제 행동에 영향을 주어야 하며, 다른 사람을 돕다가 다시 해치는 과정이 누적되어 불안정한 위치를 만든다.\n\n충성 대상은 그대로 둔 채 위장만 바꾸는 인물과는 다르다. 한 번 악에서 선으로 돌아서는 사건도 반복 전환과 구별된다. 변화의 횟수만보다 어느 행동에서 이전 선택을 뒤집는지가 구체적으로 제시되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Ride the High Country]]의 Gil은 금을 훔치려다가 동료를 구하고, 이후 다시 절도를 시도한다. 마지막에는 동료를 위해 싸워 도덕적인 행동과 이기적인 선택 사이를 실제로 여러 차례 오간다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

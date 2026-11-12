@@ -4,28 +4,28 @@
   "title": "더 큰 위협을 피해 온 침입자",
   "original": "Invading Refugees",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "주인공의 영역을 공격하거나 침범한 세력이 사실은 고향을 잃거나 더 무서운 위협에서 도망쳐 온 집단이었다고 드러나는 전개이다.",
     "detail": "추격자가 있는 경우 공동의 적을 상대하거나 삼파전으로 번지고, 재난인 경우 고향 복구·새 거처·확산 대비가 쟁점이 된다.\n\n작품 사례: 《[[동방감주전]]》에서 환상향을 정화하려던 달의 주민들은 달에 나타난 생명의 위협 때문에 피난처를 준비하던 중이었다고 밝힌다.",
     "usage": "적대의 원인을 확장하고 기존 적과 협력할 이유를 만든다.",
-    "boundary": "난민 전체를 침략자로 일반화하는 주장이 아니라 특정 허구 사건에서 공격 세력의 사정이 밝혀지는 반전이다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "적을 쫓아냈더니 그들도 더 큰 적이나 재앙에서 도망치던 사람들이었다.\n\n작품 사례: 《[[동방감주전]]》에서 환상향을 정화하려던 달의 주민들은 달에 나타난 생명의 위협 때문에 피난처를 준비하던 중이었다고 밝힌다.",
+    "easy_ko": "적을 쫓아냈더니 그들도 더 큰 적이나 재앙에서 도망치던 사람들이었다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "추격자가 있는 경우 공동의 적을 상대하거나 삼파전으로 번지고, 재난인 경우 고향 복구·새 거처·확산 대비가 쟁점이 된다.\n\n난민 전체를 침략자로 일반화하는 주장이 아니라 특정 허구 사건에서 공격 세력의 사정이 밝혀지는 반전이다.\n\n《[[동방감주전]]》에서 환상향을 정화하려던 달의 주민들은 달에 나타난 생명의 위협 때문에 피난처를 준비하던 중이었다고 밝힌다.",
+    "sections": [
+      [
+        "상세 설명",
+        "추격자가 있는 경우 공동의 적을 상대하거나 삼파전으로 번지고, 재난인 경우 고향 복구·새 거처·확산 대비가 쟁점이 된다.\n\n난민 전체를 침략자로 일반화하는 주장이 아니라 특정 허구 사건에서 공격 세력의 사정이 밝혀지는 반전이다."
+      ],
+      [
+        "관련 작품",
+        "《[[동방감주전]]》에서 환상향을 정화하려던 달의 주민들은 달에 나타난 생명의 위협 때문에 피난처를 준비하던 중이었다고 밝힌다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

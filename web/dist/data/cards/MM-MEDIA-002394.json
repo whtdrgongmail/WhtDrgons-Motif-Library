@@ -4,34 +4,34 @@
   "title": "파이널 판타지",
   "original": "Final Fantasy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
-    "definition": "《파이널 판타지》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《파이널 판타지》의 여러 게임은 지도 가장자리가 반대편으로 이어지는 세계지도의 사례로 제시된다. 원문은 일부 작품에서 육지가 가장자리를 가로지르는 예외도 구분한다.",
+    "definition": "《파이널 판타지》는 1987년 첫 작품에서 시작된 롤플레잉 비디오게임 작품군이다. 번호가 붙은 여러 본편과 관련 작품이 있으며, 각 작품의 세계와 인물은 개별적으로 설명해야 한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《파이널 판타지》의 여러 게임은 지도 가장자리가 반대편으로 이어지는 세계지도의 사례로 제시된다. 원문은 일부 작품에서 육지가 가장자리를 가로지르는 예외도 구분한다.",
+    "easy_ko": "《파이널 판타지》는 게임 한 편의 제목이 아니라 여러 작품을 묶는 시리즈 이름이다. 작품마다 등장인물과 무대가 다르므로, 특정 사건이나 게임 규칙을 설명할 때는 해당 작품의 번호나 제목을 함께 확인해야 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,5 +41,47 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000114",
+      "card_id": "MM-MEDIA-002394",
+      "label_ko": "파이널 판타지 공식 시리즈 목록",
+      "icon_key": "game",
+      "url": "https://na.finalfantasy.com/en/titles/",
+      "description_ko": "번호가 붙은 본편의 목록과 개별 작품 소개를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000115",
+      "card_id": "MM-MEDIA-002394",
+      "label_ko": "파이널 판타지 공식 포털",
+      "icon_key": "website",
+      "url": "https://na.finalfantasy.com/en/",
+      "description_ko": "시리즈의 개요와 여러 관련 작품을 확인할 수 있다.",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "공식 시리즈 목록은 번호가 붙은 여러 본편을 각각 독립된 항목으로 소개한다. 1987년의 첫 작품에서 시작된 이 작품군에는 서로 다른 세계와 인물을 가진 게임이 포함된다. 공통 제목만으로 모든 게임의 사건이나 지리 구조가 같다고 추정할 수 없다.\n\n시리즈 전체를 분석할 때는 반복되는 형식과 각 작품의 고유한 설정을 구분한다. 세계지도, 전투 방식, 직업 체계처럼 비교 가능한 요소가 있더라도 실제 구현은 작품별로 확인해야 한다. 개별 게임의 특징을 작품군 전체의 규칙으로 일반화하지 않는 것이 중요하다.\n\n《[[파이널판타지14]]》는 에오르제아를 주요 무대로 하는 온라인 롤플레잉 게임이다. 이 작품의 지속적인 온라인 운영 방식과 설정을 시리즈의 다른 본편에도 그대로 적용할 수는 없다.\n\n시리즈 전체 카드와 《[[파이널판타지14]]》 같은 개별 게임 카드는 범위가 다르다. 작품별 줄거리, 배경과 매체 정보는 해당 게임 카드에 기록한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공식 시리즈 목록은 번호가 붙은 여러 본편을 각각 독립된 항목으로 소개한다. 1987년의 첫 작품에서 시작된 이 작품군에는 서로 다른 세계와 인물을 가진 게임이 포함된다. 공통 제목만으로 모든 게임의 사건이나 지리 구조가 같다고 추정할 수 없다.\n\n시리즈 전체를 분석할 때는 반복되는 형식과 각 작품의 고유한 설정을 구분한다. 세계지도, 전투 방식, 직업 체계처럼 비교 가능한 요소가 있더라도 실제 구현은 작품별로 확인해야 한다. 개별 게임의 특징을 작품군 전체의 규칙으로 일반화하지 않는 것이 중요하다."
+      ],
+      [
+        "사례",
+        "《[[파이널판타지14]]》는 에오르제아를 주요 무대로 하는 온라인 롤플레잉 게임이다. 이 작품의 지속적인 온라인 운영 방식과 설정을 시리즈의 다른 본편에도 그대로 적용할 수는 없다."
+      ],
+      [
+        "관련 작품",
+        "시리즈 전체 카드와 《[[파이널판타지14]]》 같은 개별 게임 카드는 범위가 다르다. 작품별 줄거리, 배경과 매체 정보는 해당 게임 카드에 기록한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

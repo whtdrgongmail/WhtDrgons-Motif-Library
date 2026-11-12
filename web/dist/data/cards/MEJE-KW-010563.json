@@ -4,8 +4,8 @@
   "title": "기억을 잃어 사명을 잊다",
   "original": "Forgot the Call",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00952",
+  "primary_tag_id": "ML-T00952",
   "description": {
     "definition": "주요 인물이 기억을 잃고 평범한 생활로 물러난 사이 동료들이 그를 찾아 과거의 역할과 책임을 일깨우는 전개다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "09.008.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기억을 잃은 주요 인물이 모험과 사명을 잊고 평범한 생활을 하는 전개다. 동료는 찾는 일과 원래 역할을 받아들이게 하는 일을 모두 해야 한다.\n\n새로 맺은 관계는 위험한 과거로 돌아가야 하는 이유를 의심할 수 있다. 당사자는 잊은 책임과 지금의 평온 사이에서 자신이 누구인지 선택해야 한다.\n\n기억이 없다고 현재 삶이 가짜라는 뜻은 아니다. 과거의 약속과 현재의 의사를 구분해야 하며 허구의 손쉬운 기억 회복을 실제 신체적 충격의 효과로 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기억을 잃은 주요 인물이 모험과 사명을 잊고 평범한 생활을 하는 전개다. 동료는 찾는 일과 원래 역할을 받아들이게 하는 일을 모두 해야 한다.\n\n새로 맺은 관계는 위험한 과거로 돌아가야 하는 이유를 의심할 수 있다. 당사자는 잊은 책임과 지금의 평온 사이에서 자신이 누구인지 선택해야 한다.\n\n기억이 없다고 현재 삶이 가짜라는 뜻은 아니다. 과거의 약속과 현재의 의사를 구분해야 하며 허구의 손쉬운 기억 회복을 실제 신체적 충격의 효과로 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

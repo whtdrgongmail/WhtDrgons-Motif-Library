@@ -4,8 +4,8 @@
   "title": "전투의 흐름을 따라가는 역사 대서사",
   "original": "Battle Epic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00335",
+  "primary_tag_id": "ML-T00335",
   "description": {
     "definition": "실제 역사상의 전투나 군사 작전을 중심 사건으로 삼고 여러 진영의 인물과 전황을 장대한 규모로 전개하는 서사 형식이다. 전투 장면의 수보다 역사적 전쟁의 흐름이 구성의 중심인지 기준으로 삼는다.",
     "detail": "",
@@ -13,14 +13,23 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "04",
+    "code": "03.112.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "실제 역사상의 큰 전투나 군사 작전을 이야기의 중심에 두고 여러 진영의 인물을 따라가는 장대한 형식이다. 승패의 흐름뿐 아니라 각 인물이 전쟁을 어떻게 겪는지도 보여 준다. 단지 전투 장면이 많은 작품과는 역사적 사건 전체를 다루는 범위가 다르다.",
     "review_status": "reviewed",
@@ -30,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전투의 흐름을 따라가는 역사 대서사는 실제 역사에서 벌어진 전투나 군사 작전을 서사의 중심에 두고 큰 규모로 전개하는 형식이다. 전황뿐 아니라 그 과정에 관여한 여러 진영과 인물의 선택을 다룰 수 있다.\n\n서사의 범위는 전투 장면의 양보다 역사적 사건이 인물과 이야기의 조직 원리인지에 달려 있다. 진영 간 전략, 전장의 변화, 전쟁이 개인과 사회에 미친 결과가 서로 연결되면 대서사적 구조가 형성된다.\n\n가공의 전쟁을 다룬 작품이나 실제 전투가 한 장면으로 나오는 작품과 구분한다. 역사적 배경을 빌렸더라도 중심이 개인의 연애나 모험에 있고 전황이 주변에 머문다면 이 카드의 초점과 다를 수 있다. 역사적 군사 사건의 흐름이 구성의 중심인지 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전투의 흐름을 따라가는 역사 대서사는 실제 역사에서 벌어진 전투나 군사 작전을 서사의 중심에 두고 큰 규모로 전개하는 형식이다. 전황뿐 아니라 그 과정에 관여한 여러 진영과 인물의 선택을 다룰 수 있다.\n\n서사의 범위는 전투 장면의 양보다 역사적 사건이 인물과 이야기의 조직 원리인지에 달려 있다. 진영 간 전략, 전장의 변화, 전쟁이 개인과 사회에 미친 결과가 서로 연결되면 대서사적 구조가 형성된다.\n\n가공의 전쟁을 다룬 작품이나 실제 전투가 한 장면으로 나오는 작품과 구분한다. 역사적 배경을 빌렸더라도 중심이 개인의 연애나 모험에 있고 전황이 주변에 머문다면 이 카드의 초점과 다를 수 있다. 역사적 군사 사건의 흐름이 구성의 중심인지 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

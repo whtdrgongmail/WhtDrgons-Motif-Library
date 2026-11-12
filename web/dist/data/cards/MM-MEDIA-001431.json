@@ -4,27 +4,27 @@
   "title": "토이 스토리",
   "original": "Toy Story",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《토이 스토리》는 미디어 작품이다.",
-    "detail": "작품 사례: 《토이 스토리》의 동물형 장난감 불스아이와 슬링키는 사람에 가까운 발 디딤과 동작을 보여 준다. 생물 자체보다 장난감 캐릭터의 디자인이라는 맥락을 함께 본다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -45,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《토이 스토리》 작품군은 사람이 보지 않을 때 살아 움직이는 장난감들을 중심으로 한다. 주인과의 생활 및 장난감 사이의 관계가 예상하지 못한 이동과 모험을 통해 변한다.\n\n1995년의 첫 CGI 영화에서 시작해 속편과 단편, 파생 작품으로 확장되었다. 아이가 자라는 시간과 장난감의 역할을 여러 단계로 다루므로, 한 영화의 사건을 모두에게 적용하지 않고 각 작품의 시기와 인물 구성을 구분할 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《토이 스토리》 작품군은 사람이 보지 않을 때 살아 움직이는 장난감들을 중심으로 한다. 주인과의 생활 및 장난감 사이의 관계가 예상하지 못한 이동과 모험을 통해 변한다.\n\n1995년의 첫 CGI 영화에서 시작해 속편과 단편, 파생 작품으로 확장되었다. 아이가 자라는 시간과 장난감의 역할을 여러 단계로 다루므로, 한 영화의 사건을 모두에게 적용하지 않고 각 작품의 시기와 인물 구성을 구분할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

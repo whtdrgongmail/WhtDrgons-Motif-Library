@@ -4,8 +4,8 @@
   "title": "스피드코어",
   "original": "Speedcore",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015100",
+  "primary_tag_id": "MEJE-KW-015100",
   "description": {
     "definition": "극단적으로 빠른 템포를 핵심 특성으로 삼는 하드코어 전자음악 양식이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.304.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "스피드코어는 하드코어 전자음악의 반복적인 킥을 극단적으로 빠르게 구성하는 양식이다. 속도가 높아도 기본 박을 어떻게 조직하고 소리의 강세를 어디에 두는지에 따라 곡의 인상이 달라진다. 정확한 한 가지 분당 박자 수만으로 장르를 정의하기보다 고속 리듬이 곡의 중심인지 확인한다.\n\n[[프렌치코어]]와 같은 다른 하드코어 전자음악도 빠를 수 있지만, 스피드코어는 빠른 속도 자체와 그로 인한 소리의 밀도를 주요 특징으로 삼는다. 킥의 개별 타격이 거의 연속적인 질감처럼 들릴 수 있다. 재생 속도를 임의로 올린 다른 장르의 곡은 제작·편곡 방식이 같다는 근거가 될 수 없다.\n\n가상 예시: 프로듀서가 한 곡 전체에 매우 빠른 킥의 반복을 유지하고 그 위에 짧은 전자음 구절을 배치한다면 스피드코어의 중심 조건을 설명할 수 있다. 일반적인 전자음악을 배속 재생한 결과만으로는 같은 제작 양식이라고 할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "스피드코어는 하드코어 전자음악의 반복적인 킥을 극단적으로 빠르게 구성하는 양식이다. 속도가 높아도 기본 박을 어떻게 조직하고 소리의 강세를 어디에 두는지에 따라 곡의 인상이 달라진다. 정확한 한 가지 분당 박자 수만으로 장르를 정의하기보다 고속 리듬이 곡의 중심인지 확인한다.\n\n[[프렌치코어]]와 같은 다른 하드코어 전자음악도 빠를 수 있지만, 스피드코어는 빠른 속도 자체와 그로 인한 소리의 밀도를 주요 특징으로 삼는다. 킥의 개별 타격이 거의 연속적인 질감처럼 들릴 수 있다. 재생 속도를 임의로 올린 다른 장르의 곡은 제작·편곡 방식이 같다는 근거가 될 수 없다."
+      ],
+      [
+        "사례",
+        "가상 예시: 프로듀서가 한 곡 전체에 매우 빠른 킥의 반복을 유지하고 그 위에 짧은 전자음 구절을 배치한다면 스피드코어의 중심 조건을 설명할 수 있다. 일반적인 전자음악을 배속 재생한 결과만으로는 같은 제작 양식이라고 할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

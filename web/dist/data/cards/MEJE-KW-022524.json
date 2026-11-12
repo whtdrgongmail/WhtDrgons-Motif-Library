@@ -4,8 +4,8 @@
   "title": "요요를 전투 무기로 쓰기",
   "original": "Killer Yo-Yo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "놀이용 요요나 요요의 형태를 확장한 도구가 작품에서 정확하고 위력적인 공격 무기로 사용되는 관습이다.",
     "detail": "작품 사례: 《[[헌터×헌터]]》의 키르아는 특별히 무거운 요요를 무기로 다루며 나무를 부술 정도의 힘을 보인다. 익숙한 장난감의 형태가 초인적인 힘을 드러내는 도구가 된다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 장난감의 사고나 역사적 무기 기원을 주장하는 카드가 아니라 허구의 무장 표현이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "요요의 되돌아오는 움직임과 줄을 전투 기술로 확대하면 장난감이 정확하고 위력적인 무장으로 바뀐다. 평범한 놀이 도구에 대한 예상과 전투 효과의 차이가 인물의 독특한 기술을 강조한다. 이는 허구의 무기 표현이며, 장난감이 실제로 전통적인 전투 무기였다는 역사적 주장까지 수반하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "요요의 되돌아오는 움직임과 줄을 전투 기술로 확대하면 장난감이 정확하고 위력적인 무장으로 바뀐다. 평범한 놀이 도구에 대한 예상과 전투 효과의 차이가 인물의 독특한 기술을 강조한다. 이는 허구의 무기 표현이며, 장난감이 실제로 전통적인 전투 무기였다는 역사적 주장까지 수반하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

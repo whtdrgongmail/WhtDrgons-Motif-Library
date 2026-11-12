@@ -4,8 +4,8 @@
   "title": "사용자를 해치려는 거울",
   "original": "Malicious Mirror",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01464",
+  "primary_tag_id": "ML-T01464",
   "description": {
     "definition": "거울 자체나 거울이 만든 존재에 악의가 있어 사용자를 위험한 세계로 끌어들이거나 거짓 반사상과 악한 분신으로 해치려는 설정이다.",
     "detail": "작품 사례: 《[[환상특급]]》의 「The Mirror」에서 새 지도자 클레멘테는 거울에 비친 가까운 동료들의 배신 장면을 믿고 그들을 적으로 돌려 스스로 파멸한다.",
@@ -13,10 +13,10 @@
     "boundary": "비밀을 보여 주는 모든 [[마법]] 거울이 악한 것은 아니며 분신형에서는 거울 자체의 지성이 필수는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-002871",
+      "work_card_id": "MM-MEDIA-001322",
       "description_ko": "《환상특급》의 「The Mirror」에서 새 지도자 클레멘테는 거울에 비친 가까운 동료들의 배신 장면을 믿고 그들을 적으로 돌려 스스로 파멸한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자신을 비추는 일상 도구가 독립적인 악의를 가진 대상으로 바뀐다. 사용자는 익숙한 반사상을 믿고 접근했다가 위험한 세계와 분신에 노출될 수 있다.\n\n거울의 정보가 거짓이면 자기 확인의 수단 자체를 신뢰하기 어려워진다. 정체를 아는 관객에게는 인물이 거울을 보는 행동만으로도 긴장이 생긴다.\n\n단순히 다른 세계를 연결하는 중립적인 거울과는 의도가 다르다. 거울이나 그것이 만든 존재가 사용자를 해치려 한다는 조건이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자신을 비추는 일상 도구가 독립적인 악의를 가진 대상으로 바뀐다. 사용자는 익숙한 반사상을 믿고 접근했다가 위험한 세계와 분신에 노출될 수 있다.\n\n거울의 정보가 거짓이면 자기 확인의 수단 자체를 신뢰하기 어려워진다. 정체를 아는 관객에게는 인물이 거울을 보는 행동만으로도 긴장이 생긴다.\n\n단순히 다른 세계를 연결하는 중립적인 거울과는 의도가 다르다. 거울이나 그것이 만든 존재가 사용자를 해치려 한다는 조건이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

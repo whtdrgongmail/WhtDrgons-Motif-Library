@@ -4,8 +4,8 @@
   "title": "메탈 음악의 브레이크다운",
   "original": "breakdown",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02036",
+  "primary_tag_id": "ML-T02036",
   "description": {
     "definition": "곡의 진행을 느리거나 더 무거운 [[리듬]]으로 전환하여 몸으로 느끼는 [[박자]]와 타격감을 강조하는 구간이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "곡 전체가 느린 것과 달리 구성 안에서 전환되는 구간이다. 특정 춤이나 관객 행동을 강제하는 의미는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "메탈 곡의 진행 중 더 느리거나 무거운 리듬으로 바뀌는 구간이다. 몸으로 느끼는 박자와 타격감을 강조하는 전환이 핵심이다.\n\n앞뒤의 에너지 차이가 청중의 반응을 구간별로 대비시킨다. 곡 안에서 어디에 배치되고 어떤 진행을 끊어 바꾸는지에 따라 효과를 설명할 수 있다.\n\n곡 전체가 느리다는 특징과 다르다. 특정 춤이나 관객 행동을 반드시 해야 한다는 의미도 아니며 음악 구성 안의 구간을 가리킨다.",
+    "sections": [
+      [
+        "상세 설명",
+        "메탈 곡의 진행 중 더 느리거나 무거운 리듬으로 바뀌는 구간이다. 몸으로 느끼는 박자와 타격감을 강조하는 전환이 핵심이다.\n\n앞뒤의 에너지 차이가 청중의 반응을 구간별로 대비시킨다. 곡 안에서 어디에 배치되고 어떤 진행을 끊어 바꾸는지에 따라 효과를 설명할 수 있다.\n\n곡 전체가 느리다는 특징과 다르다. 특정 춤이나 관객 행동을 반드시 해야 한다는 의미도 아니며 음악 구성 안의 구간을 가리킨다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

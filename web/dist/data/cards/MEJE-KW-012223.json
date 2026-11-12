@@ -4,8 +4,8 @@
   "title": "까칠하지만 인정 있는 인물",
   "original": "Jerk with a Heart of Gold",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00940",
+  "primary_tag_id": "ML-T00940",
   "description": {
     "definition": "평소에는 못되거나 무례해 보이지만 중요한 순간에 타인에 대한 배려와 선한 마음을 드러내는 인물형이다.",
     "detail": "작품 사례: [[Dragon Ball]]의 베지터는 냉정하고 거친 태도를 유지하면서도 불마와 트랭크스를 사랑하게 되고, 중요한 것을 위해 자존심을 굽히는 변화를 보인다.",
@@ -13,10 +13,10 @@
     "boundary": "사교성이 낮다는 이유만으로는 부족하며 부정적 겉태도와 확인되는 인정의 대비가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-F02",
-      "work_card_id": "MM-MEDIA-000269",
+      "work_card_id": "MM-MEDIA-001840",
       "description_ko": "Dragon Ball의 베지터는 냉정하고 거친 태도를 유지하면서도 불마와 트랭크스를 사랑하게 되고, 중요한 것을 위해 자존심을 굽히는 변화를 보인다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거친 언행과 차가운 태도를 보이면서도 중요한 순간에는 타인을 배려하는 인물 유형이다. 평소의 표현과 실제 선택 사이의 차이가 성격을 구체화한다.\n\n말수가 적거나 사교성이 낮다는 사실만으로 해당하지 않는다. 부정적인 겉태도와 확인 가능한 인정이 같은 인물에게 함께 나타나야 한다.\n\n[[Dragon Ball]]의 베지터는 냉정하고 거친 태도 속에서도 불마와 트랭크스를 사랑하게 된다. 중요한 것을 지키기 위해 자존심을 굽히는 선택이 겉모습과 다른 면을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "거친 언행과 차가운 태도를 보이면서도 중요한 순간에는 타인을 배려하는 인물 유형이다. 평소의 표현과 실제 선택 사이의 차이가 성격을 구체화한다.\n\n말수가 적거나 사교성이 낮다는 사실만으로 해당하지 않는다. 부정적인 겉태도와 확인 가능한 인정이 같은 인물에게 함께 나타나야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Dragon Ball]]의 베지터는 냉정하고 거친 태도 속에서도 불마와 트랭크스를 사랑하게 된다. 중요한 것을 지키기 위해 자존심을 굽히는 선택이 겉모습과 다른 면을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

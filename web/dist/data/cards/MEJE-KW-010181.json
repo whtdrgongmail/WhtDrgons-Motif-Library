@@ -4,8 +4,8 @@
   "title": "1인칭 슈팅 게임",
   "original": "First-Person Shooter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00422",
+  "primary_tag_id": "ML-T00422",
   "description": {
     "definition": "[[플레이어]]가 조작 인물의 눈으로 공간을 보며 이동과 조준, 사격을 중심으로 진행하는 게임 장르다. 이 게임 장르는 조작 인물의 시야로 세계를 보는 [[인물의 눈을 빌린 1인칭 시점]]을 핵심 화면 규칙으로 삼는다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "03",
+    "code": "03.202.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "조작 인물의 눈높이에서 화면을 보며 이동과 조준을 동시에 수행한다. 화면 속 몸 전체보다 손과 무기가 가까이 보이는 구성이 흔하며, 공간의 방향과 적의 위치를 자신의 시야로 판단하게 한다.\n\n기본 행동은 이동과 사격이지만 물건 사용과 환경 상호작용이 추가될 수 있다. 삼차원 공간에서 어디를 바라보는지가 공격 방향과 연결되므로 시점 전환은 관찰과 전투를 함께 담당한다.\n\n[[인물의 눈을 빌린 1인칭 시점]]을 사용한다고 모두 슈팅 장르는 아니다. 탐험이나 퍼즐 중심 게임과 구분하려면 사격이 핵심 진행을 조직하는지 봐야 하며, 시점의 형식과 과제의 성격을 함께 설명해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조작 인물의 눈높이에서 화면을 보며 이동과 조준을 동시에 수행한다. 화면 속 몸 전체보다 손과 무기가 가까이 보이는 구성이 흔하며, 공간의 방향과 적의 위치를 자신의 시야로 판단하게 한다.\n\n기본 행동은 이동과 사격이지만 물건 사용과 환경 상호작용이 추가될 수 있다. 삼차원 공간에서 어디를 바라보는지가 공격 방향과 연결되므로 시점 전환은 관찰과 전투를 함께 담당한다.\n\n[[인물의 눈을 빌린 1인칭 시점]]을 사용한다고 모두 슈팅 장르는 아니다. 탐험이나 퍼즐 중심 게임과 구분하려면 사격이 핵심 진행을 조직하는지 봐야 하며, 시점의 형식과 과제의 성격을 함께 설명해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

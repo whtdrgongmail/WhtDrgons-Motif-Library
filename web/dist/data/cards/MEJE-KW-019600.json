@@ -4,8 +4,8 @@
   "title": "데스 인더스트리얼",
   "original": "Death Industrial",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00520",
+  "primary_tag_id": "ML-T00520",
   "description": {
     "definition": "[[파워 일렉트로닉스]]와 연결되면서 낮은 지속음과 어두운 분위기에 더 무게를 두는 인더스트리얼 양식이다.",
     "detail": "작품 사례: Genocide Organ의 〈[[비브 라 게르]]〉는 이 음악 양식의 실제 곡 사례다.",
@@ -13,19 +13,22 @@
     "boundary": "인접 양식과 혼합될 수 있으므로 특정 악기 하나나 창작자의 소속만으로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.304",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "거친 전자음 안에서도 낮고 음산하게 이어지는 공간감을 강조한다.",
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인더스트리얼의 표현 가운데 낮게 이어지는 소리와 어두운 분위기의 비중이 크다. [[파워 일렉트로닉스]]와의 관련성 안에서 강조점을 구별한다.\n\n작품을 설명할 때 음의 지속과 정서의 성질을 함께 확인할 수 있다. 특정한 소리 재료보다 전체적인 구성에서 어떤 인상이 앞서는지가 중요하다.\n\n하나의 악기만으로 장르를 판정하지 않는다. 창작자가 다른 양식도 다룰 수 있으므로 이름과 소속만으로 곡의 성격을 확정하지도 않는다.\n\nGenocide Organ의 〈[[비브 라 게르]]〉는 정본에 기록된 데스 인더스트리얼 사례이다.\n\n[[비브 라 게르]]",
+    "sections": [
+      [
+        "상세 설명",
+        "인더스트리얼의 표현 가운데 낮게 이어지는 소리와 어두운 분위기의 비중이 크다. [[파워 일렉트로닉스]]와의 관련성 안에서 강조점을 구별한다.\n\n작품을 설명할 때 음의 지속과 정서의 성질을 함께 확인할 수 있다. 특정한 소리 재료보다 전체적인 구성에서 어떤 인상이 앞서는지가 중요하다.\n\n하나의 악기만으로 장르를 판정하지 않는다. 창작자가 다른 양식도 다룰 수 있으므로 이름과 소속만으로 곡의 성격을 확정하지도 않는다."
+      ],
+      [
+        "사례",
+        "Genocide Organ의 〈[[비브 라 게르]]〉는 정본에 기록된 데스 인더스트리얼 사례이다."
+      ],
+      [
+        "관련 작품",
+        "[[비브 라 게르]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

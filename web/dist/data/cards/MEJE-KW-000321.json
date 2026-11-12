@@ -4,8 +4,8 @@
   "title": "뜻밖에 공개된 비밀 고백",
   "original": "Accidental Public Confession",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00793",
+  "primary_tag_id": "ML-T00793",
   "description": {
     "definition": "숨기고 싶던 일이나 감정이 당사자의 말실수와 분노 등으로 여러 사람 앞에 드러나는 장면. 공개를 의도하지 않았기에 고백 뒤의 관계와 계획이 급히 바뀐다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "감추려던 사실과 감정이 당사자의 발화 때문에 예상 밖으로 공개된다. 분노와 착각 등으로 청중을 의식하지 못하는 순간 정보의 통제권을 잃는다.\n\n당사자는 이미 말한 내용을 되돌릴 수 없어 관계와 계획을 급히 수정해야 한다. [[비밀]]이 있다는 설정보다 공개의 의도와 실제 결과의 차이가 핵심이며, 주변 사람이 계획해 자백을 끌어낸 경우와 우발적인 발화를 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "감추려던 사실과 감정이 당사자의 발화 때문에 예상 밖으로 공개된다. 분노와 착각 등으로 청중을 의식하지 못하는 순간 정보의 통제권을 잃는다.\n\n당사자는 이미 말한 내용을 되돌릴 수 없어 관계와 계획을 급히 수정해야 한다. [[비밀]]이 있다는 설정보다 공개의 의도와 실제 결과의 차이가 핵심이며, 주변 사람이 계획해 자백을 끌어낸 경우와 우발적인 발화를 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

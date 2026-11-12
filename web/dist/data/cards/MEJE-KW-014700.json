@@ -4,8 +4,8 @@
   "title": "없는 상대와 대화하는 척하기",
   "original": "Holding Both Sides of the Conversation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "실제로 자리에 없는 사람과 대화하는 연기를 하여 제삼자에게 그 사람이 함께 있다고 믿게 만드는 속임수다.",
     "detail": "작품 사례: [[Captain Phillips]]에서 선장은 무전으로 자기 목소리와 낮은 목소리를 번갈아 내어 항공 지원을 요청하는 대화처럼 꾸미고, 이를 들은 해적선 하나를 물러나게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "혼잣말·상상 친구와의 진심 어린 대화나 배우의 다역 연기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실제로 존재하지 않는 상대와 대화하는 모습을 꾸며 제삼자에게 다른 인물의 존재를 믿게 하는 기만이다. 목소리와 응답의 교대가 거짓 상황의 증거처럼 쓰인다.\n\n진심으로 상상 친구와 이야기하는 경우나 혼잣말과는 다르다. 배우가 여러 역할을 맡는 사실 자체보다 누군가를 속이려는 목적이 있어야 한다.\n\n[[Captain Phillips]]의 선장은 무전에서 목소리를 바꾸어 항공 지원을 요청하는 대화를 꾸민다. 듣고 있던 해적선 하나가 물러나 가상의 응답자가 실제 지원처럼 받아들여진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실제로 존재하지 않는 상대와 대화하는 모습을 꾸며 제삼자에게 다른 인물의 존재를 믿게 하는 기만이다. 목소리와 응답의 교대가 거짓 상황의 증거처럼 쓰인다.\n\n진심으로 상상 친구와 이야기하는 경우나 혼잣말과는 다르다. 배우가 여러 역할을 맡는 사실 자체보다 누군가를 속이려는 목적이 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Captain Phillips]]의 선장은 무전에서 목소리를 바꾸어 항공 지원을 요청하는 대화를 꾸민다. 듣고 있던 해적선 하나가 물러나 가상의 응답자가 실제 지원처럼 받아들여진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

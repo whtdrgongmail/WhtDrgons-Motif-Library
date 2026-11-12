@@ -4,8 +4,8 @@
   "title": "기존 만화를 움직이는 영상으로 각색하기",
   "original": "Motion Comics Adaptations",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02262",
+  "primary_tag_id": "ML-T02262",
   "description": {
     "definition": "이미 존재하는 만화의 그림과 장면에 움직임과 때로 음향을 더하여 영상 형태로 각색한다.",
     "detail": "작품 사례: 《[[The Marvel Super Heroes]]》는 기존 만화의 칸과 그림에 움직임과 음향을 더해 영웅들의 이야기를 텔레비전에서 보여 주었다.",
@@ -13,10 +13,10 @@
     "boundary": "원작 그림을 참고하더라도 모든 동작을 새롭게 그리는 일반 애니메이션 각색과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이미 존재하는 그림과 장면을 영상의 재료로 사용하여 움직임을 더한다. 만화의 정지된 시각 요소가 시간에 따라 진행되고 음향과 결합할 수 있다.\n\n원작의 인상을 유지하면서 장면을 보는 순서와 속도를 영상의 흐름으로 정한다. 움직임이 제한되어도 기존 그림을 활용한다는 각색 방식의 특징이 남는다.\n\n원작을 참고하되 모든 동작을 새로 그리는 일반적인 애니메이션화와는 재료의 사용 방식이 다르다. 만화 소재라는 공통점만으로 같은 형식이 되지는 않는다.\n\n[[The Marvel Super Heroes]]는 기존 만화의 그림과 칸에 움직임 및 음향을 더해 텔레비전 영상으로 만들었다.\n\n[[The Marvel Super Heroes]]",
+    "sections": [
+      [
+        "상세 설명",
+        "이미 존재하는 그림과 장면을 영상의 재료로 사용하여 움직임을 더한다. 만화의 정지된 시각 요소가 시간에 따라 진행되고 음향과 결합할 수 있다.\n\n원작의 인상을 유지하면서 장면을 보는 순서와 속도를 영상의 흐름으로 정한다. 움직임이 제한되어도 기존 그림을 활용한다는 각색 방식의 특징이 남는다.\n\n원작을 참고하되 모든 동작을 새로 그리는 일반적인 애니메이션화와는 재료의 사용 방식이 다르다. 만화 소재라는 공통점만으로 같은 형식이 되지는 않는다."
+      ],
+      [
+        "사례",
+        "[[The Marvel Super Heroes]]는 기존 만화의 그림과 칸에 움직임 및 음향을 더해 텔레비전 영상으로 만들었다."
+      ],
+      [
+        "관련 작품",
+        "[[The Marvel Super Heroes]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

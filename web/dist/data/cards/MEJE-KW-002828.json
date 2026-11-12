@@ -4,8 +4,8 @@
   "title": "최후의 한 팀이 남는 게임",
   "original": "Battle Royale Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02145",
+  "primary_tag_id": "ML-T02145",
   "description": {
     "definition": "여러 플레이어나 팀이 같은 지역에 들어와 자원을 찾고 싸우며 마지막 생존자를 가린다. 지역이 좁아지는 규칙이 숨기와 교전 사이의 [[선택]]을 압박한다. 싸움이 시작되는 위치를 소리로 알릴 때 [[전투가 시작되면 음악이 바뀌기]]가 작동한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "25",
+    "code": "25.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,26 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 참가자가 한 구역에서 자원을 확보하고 살아남으며 마지막의 한 사람이나 팀을 목표로 한다. 시작할 때의 위치와 발견한 물건이 다르므로 같은 규칙도 매회 다른 선택을 요구한다.\n\n활동 가능한 지역이 줄어들면 계속 숨는 방식만으로 버티기 어렵다. 이동 중 위험과 교전의 이익을 비교하게 되며 팀 규칙이 있으면 역할 분담과 구조의 판단도 생존에 관여한다.\n\n단순히 참가자가 많은 경기 전체를 뜻하지 않는다. 마지막 생존이라는 종료 조건과 자원 및 공간 압박을 확인해야 하며, [[전투가 시작되면 음악이 바뀌기]] 같은 신호는 이 규칙을 돕는 연출로 따로 구분한다.\n\n《PlayerUnknown's Battlegrounds》와 《[[Fortnite]]》는 원문이 현대적인 배틀로열 형식의 확산과 연결해 든 게임이다. 여러 참가자가 자원을 찾으며 마지막 생존을 다투는 구조의 작품 사례다.\n\nPlayerUnknown's Battlegrounds; Fortnite",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 참가자가 한 구역에서 자원을 확보하고 살아남으며 마지막의 한 사람이나 팀을 목표로 한다. 시작할 때의 위치와 발견한 물건이 다르므로 같은 규칙도 매회 다른 선택을 요구한다.\n\n활동 가능한 지역이 줄어들면 계속 숨는 방식만으로 버티기 어렵다. 이동 중 위험과 교전의 이익을 비교하게 되며 팀 규칙이 있으면 역할 분담과 구조의 판단도 생존에 관여한다.\n\n단순히 참가자가 많은 경기 전체를 뜻하지 않는다. 마지막 생존이라는 종료 조건과 자원 및 공간 압박을 확인해야 하며, [[전투가 시작되면 음악이 바뀌기]] 같은 신호는 이 규칙을 돕는 연출로 따로 구분한다."
+      ],
+      [
+        "사례",
+        "《PlayerUnknown's Battlegrounds》와 《[[Fortnite]]》는 원문이 현대적인 배틀로열 형식의 확산과 연결해 든 게임이다. 여러 참가자가 자원을 찾으며 마지막 생존을 다투는 구조의 작품 사례다."
+      ],
+      [
+        "관련 작품",
+        "PlayerUnknown's Battlegrounds; Fortnite"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

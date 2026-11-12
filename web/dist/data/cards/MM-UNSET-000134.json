@@ -1,25 +1,48 @@
 {
   "id": "MM-UNSET-000134",
-  "kind": "keyword",
+  "kind": "organization",
   "title": "DC 코믹스",
-  "original": "",
+  "original": "DC Comics",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
   "primary_tag_id": null,
   "description": {
-    "definition": "",
+    "definition": "DC 코믹스는 [[슈퍼맨(코믹스)]]과 배트맨을 비롯한 만화 캐릭터와 이야기를 출판·전개하는 미국의 만화 브랜드다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": null,
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "슈퍼맨과 배트맨 같은 영웅의 만화를 펴내고, 그 캐릭터들을 다양한 이야기와 매체에 선보이는 브랜드다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "DC는 만화와 그래픽 노블을 출판하며, 여러 작품의 인물과 팀을 한 브랜드 아래 소개한다. 작품 속 영웅 팀인 [[글로벌 가디언즈]]와 실제 출판 주체인 DC 코믹스는 서로 다른 종류의 대상이다.\n\n[[슈퍼맨(코믹스)]]의 주인공 슈퍼맨은 개별 이야기의 인물이면서 DC를 알리는 대표 캐릭터이기도 하다. 캐릭터를 작품 밖 홍보에 쓰는 사례를 읽을 때, 허구의 인물과 그 인물을 운영하는 실제 브랜드를 구분할 수 있다.\n\nDC 공식 만화 목록에는 슈퍼맨과 배트맨이 등장하는 만화가 각각 소개된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "DC는 만화와 그래픽 노블을 출판하며, 여러 작품의 인물과 팀을 한 브랜드 아래 소개한다. 작품 속 영웅 팀인 [[글로벌 가디언즈]]와 실제 출판 주체인 DC 코믹스는 서로 다른 종류의 대상이다.\n\n[[슈퍼맨(코믹스)]]의 주인공 슈퍼맨은 개별 이야기의 인물이면서 DC를 알리는 대표 캐릭터이기도 하다. 캐릭터를 작품 밖 홍보에 쓰는 사례를 읽을 때, 허구의 인물과 그 인물을 운영하는 실제 브랜드를 구분할 수 있다."
+      ],
+      [
+        "사례",
+        "DC 공식 만화 목록에는 슈퍼맨과 배트맨이 등장하는 만화가 각각 소개된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

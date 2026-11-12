@@ -4,8 +4,8 @@
   "title": "유명인과 평범한 사람의 연애",
   "original": "Normie Dates a Celebrity",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "대중에게 알려진 유명인과 유명하지 않은 사람이 연애하여 공개적 지위의 차이가 관계의 특징이 되는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "두 사람 모두 유명한 커플이나 단순한 재산 차 연애와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람의 데이트는 사생활인데 다른 사람에게는 뉴스가 된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유명하지 않은 사람이 대중적으로 알려진 인물과 연애하는 이야기다. 평범한 생활과 유명인의 생활 사이의 격차가 관계의 주요 조건이 된다. 비유명인 쪽을 관객의 시점 인물로 삼으면 부와 명성의 세계를 낯설게 경험하는 과정이 일종의 소망 충족으로 제시된다.\n\n가까이서 만난 유명인은 대중적 이미지와 다른 성격이나 고민을 드러낼 수 있다. 반대로 유명인에게는 상대의 평범함과 현실적인 태도가 매력이 될 수 있다. 갈등은 둘의 성격뿐 아니라 사생활을 침해하는 언론, 극성 팬, 일정과 홍보 전략처럼 관계 밖의 압력에서도 발생한다.\n\n유명인과 사귀는 일이 반드시 행복을 보장하지는 않는다. 명성을 이용하려는 동기나 공개적인 관심의 부담이 밝혀지면 처음의 환상이 재평가된다. 한쪽이 상대의 세계에 적응하거나 비유명인도 유명해지는 결말이 가능하지만, 관계의 성공 여부와 명성 자체의 가치는 별개의 문제다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유명하지 않은 사람이 대중적으로 알려진 인물과 연애하는 이야기다. 평범한 생활과 유명인의 생활 사이의 격차가 관계의 주요 조건이 된다. 비유명인 쪽을 관객의 시점 인물로 삼으면 부와 명성의 세계를 낯설게 경험하는 과정이 일종의 소망 충족으로 제시된다.\n\n가까이서 만난 유명인은 대중적 이미지와 다른 성격이나 고민을 드러낼 수 있다. 반대로 유명인에게는 상대의 평범함과 현실적인 태도가 매력이 될 수 있다. 갈등은 둘의 성격뿐 아니라 사생활을 침해하는 언론, 극성 팬, 일정과 홍보 전략처럼 관계 밖의 압력에서도 발생한다.\n\n유명인과 사귀는 일이 반드시 행복을 보장하지는 않는다. 명성을 이용하려는 동기나 공개적인 관심의 부담이 밝혀지면 처음의 환상이 재평가된다. 한쪽이 상대의 세계에 적응하거나 비유명인도 유명해지는 결말이 가능하지만, 관계의 성공 여부와 명성 자체의 가치는 별개의 문제다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

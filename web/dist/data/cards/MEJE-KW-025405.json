@@ -4,8 +4,8 @@
   "title": "암호명처럼 조합한 스릴러 제목",
   "original": "Mad Lib Thriller Title",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "고유명사나 낯선 명사와 정치적·상징적 느낌의 명사를 결합해 비밀 문서나 음모의 암호명처럼 보이게 하는 제목 형식이다.",
     "detail": "작품 사례: 소설 《[[본 시리즈]]》는 인물 이름인 Bourne에 Identity, Supremacy, Ultimatum 같은 추상 명사를 결합한다. 각 제목이 인물을 둘러싼 비밀 문건이나 작전명처럼 들리는 형식이다.",
@@ -13,10 +13,10 @@
     "boundary": "아무 두 명사의 조합과 달리 장르적 비밀과 권력의 인상을 만드는 기능이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "익숙하지 않은 고유명사와 무거운 추상 명사를 조합해 비밀 계획 같은 제목을 만든다. 독자는 내용에 들어가기 전부터 거대한 권력과 숨겨진 사건을 예상한다.\n\n형식의 반복은 장르를 빠르게 알아보게 하는 표지가 된다. 제목의 구체적인 뜻을 나중에 밝히면 작품을 읽는 과정이 암호의 의미를 알아내는 경험과 연결된다.\n\n비밀스러운 낱말 하나가 있다는 사실만으로는 부족하다. 정해진 조합의 어감이 스릴러의 인상을 만든다는 명명 방식이며 실제 암호 체계와는 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "익숙하지 않은 고유명사와 무거운 추상 명사를 조합해 비밀 계획 같은 제목을 만든다. 독자는 내용에 들어가기 전부터 거대한 권력과 숨겨진 사건을 예상한다.\n\n형식의 반복은 장르를 빠르게 알아보게 하는 표지가 된다. 제목의 구체적인 뜻을 나중에 밝히면 작품을 읽는 과정이 암호의 의미를 알아내는 경험과 연결된다.\n\n비밀스러운 낱말 하나가 있다는 사실만으로는 부족하다. 정해진 조합의 어감이 스릴러의 인상을 만든다는 명명 방식이며 실제 암호 체계와는 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

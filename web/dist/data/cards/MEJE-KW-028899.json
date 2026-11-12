@@ -4,8 +4,8 @@
   "title": "직접 구매만 가능하다는 독점 판매 호소",
   "original": "Not Available in Stores",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "상품이나 특별 혜택을 일반 매장에서는 구할 수 없고 광고주에게 직접 주문해야 한다고 강조하여 희소성과 특별함을 만드는 홍보이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "유통 경로를 중립적으로 알리는 문구보다 독점 접근을 구매 이유로 내세우는 기능이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일반 유통 경로에서 구할 수 없다는 주장은 구매 기회를 특별한 접근권처럼 보이게 한다. 직접 주문이라는 방식 자체가 독점성과 희소성의 근거로 사용된다.\n\n시청자는 지금 본 연락처를 놓치면 같은 조건으로 살 수 없다고 느낄 수 있다. 실제 유통 범위와 별개로 특별 대우를 받는다는 인상을 형성하는 것이 홍보의 기능이다.\n\n단순히 온라인으로만 판매한다는 정보와는 강조 방식이 다르다. 매장에 없다는 사실이 품질의 우수함이나 영구적인 희소성을 보장하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일반 유통 경로에서 구할 수 없다는 주장은 구매 기회를 특별한 접근권처럼 보이게 한다. 직접 주문이라는 방식 자체가 독점성과 희소성의 근거로 사용된다.\n\n시청자는 지금 본 연락처를 놓치면 같은 조건으로 살 수 없다고 느낄 수 있다. 실제 유통 범위와 별개로 특별 대우를 받는다는 인상을 형성하는 것이 홍보의 기능이다.\n\n단순히 온라인으로만 판매한다는 정보와는 강조 방식이 다르다. 매장에 없다는 사실이 품질의 우수함이나 영구적인 희소성을 보장하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

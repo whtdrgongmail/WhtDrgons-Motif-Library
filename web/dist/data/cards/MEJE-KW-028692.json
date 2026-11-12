@@ -4,8 +4,8 @@
   "title": "서로 무관한 전시물이 뒤섞인 박물관",
   "original": "Mishmash Museum",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T02582",
+  "primary_tag_id": "ML-T02582",
   "description": {
     "definition": "서로 다른 시대와 분야의 유물·미술품·표본을 뚜렷한 구획 없이 한 공간에 뒤섞어 놓은 박물관 배경이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "소장자의 수집 취향이나 지역사처럼 작품 속에 정리 원칙이 있을 수 있다. 실제 박물관의 운영 기준으로 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "14",
+    "code": "14.006.011",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "시대와 분야가 다른 전시물을 한 공간에 뒤섞는다. 관객이 박물관으로 알아볼 대표 물건들이 분류보다 우선한다.\n\n장면의 볼거리는 늘지만 실제 전시의 조직과 어긋날 수 있다. 종합박물관이라는 사실과 구획 없는 배치의 표현은 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "시대와 분야가 다른 전시물을 한 공간에 뒤섞는다. 관객이 박물관으로 알아볼 대표 물건들이 분류보다 우선한다.\n\n장면의 볼거리는 늘지만 실제 전시의 조직과 어긋날 수 있다. 종합박물관이라는 사실과 구획 없는 배치의 표현은 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

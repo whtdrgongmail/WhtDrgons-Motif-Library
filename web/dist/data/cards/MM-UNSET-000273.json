@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000273",
   "kind": "keyword",
   "title": "논리 명제",
-  "original": "",
+  "original": "Proposition",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "",
+    "definition": "참이나 거짓으로 판정할 수 있는 내용을 표현하는 문장 또는 진술의 의미 단위.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "어떤 대상이나 사실에 대해 맞는지 틀리는지 판단할 수 있는 말이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "선택지를 묻는 대화에서 질문자는 둘 중 어느 대상을 가리키는지 알고자 할 수 있다. 그러나 대답자는 질문 문장 전체가 참인지 거짓인지를 판단할 수 있다. 이때 발화는 선택 요청과 논리 명제라는 서로 다른 방식으로 해석된다.\n\n논리 명제는 진리값을 평가하는 대상이며, 질문자의 실용적 의도와 구별된다. 문장의 표면적 형태만으로 대화의 목적까지 같다고 볼 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "선택지를 묻는 대화에서 질문자는 둘 중 어느 대상을 가리키는지 알고자 할 수 있다. 그러나 대답자는 질문 문장 전체가 참인지 거짓인지를 판단할 수 있다. 이때 발화는 선택 요청과 논리 명제라는 서로 다른 방식으로 해석된다.\n\n논리 명제는 진리값을 평가하는 대상이며, 질문자의 실용적 의도와 구별된다. 문장의 표면적 형태만으로 대화의 목적까지 같다고 볼 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

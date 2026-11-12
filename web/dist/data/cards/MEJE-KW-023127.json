@@ -4,8 +4,8 @@
   "title": "법정 안팎의 위협이 얽힌 법률 스릴러",
   "original": "Legal Thriller",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00276",
+  "primary_tag_id": "ML-T00276",
   "description": {
     "definition": "법적 사건을 중심에 두고 법정의 공방과 바깥의 협박·부패·범죄가 함께 긴장을 만드는 스릴러 형식이다.",
     "detail": "작품 사례: 《[[리멤버: 아들의 전쟁]]》은 아버지의 무죄를 밝히려는 변호사가 뇌물과 부패로 정의 실현을 방해받는 이야기로, 법정의 목표와 외부 권력의 위협이 결합한다.",
@@ -13,19 +13,22 @@
     "boundary": "평범한 재판 과정만 다루는 법정물과 구분하며 상대 변호사 모두를 범죄자로 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.107",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "재판에서 이기는 문제와 재판 밖의 위험을 동시에 해결해야 한다.",
@@ -44,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소송의 공방과 법정 밖의 위협이 함께 긴장을 만드는 법률 스릴러다. 증거와 논증으로 다투는 절차가 협박과 부패, 범죄의 위험에 연결된다.\n\n정상적인 재판을 통해 책임을 묻으려는 쪽과 절차 자체를 무너뜨리려는 세력이 충돌할 수 있다. 자료를 얻고 증인을 보호하는 일이 개인의 생존과 맞물리면서 법적인 승리 이상의 위기가 생긴다.\n\n상대편 변호사가 있다는 사실만으로 악역은 아니다. 합법적인 변론을 맡는 역할과 증거 조작 및 폭력에 가담하는 행동을 구별해야 하며, 절차 설명 중심의 법정극보다 위협과 긴장에 무게를 둔다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소송의 공방과 법정 밖의 위협이 함께 긴장을 만드는 법률 스릴러다. 증거와 논증으로 다투는 절차가 협박과 부패, 범죄의 위험에 연결된다.\n\n정상적인 재판을 통해 책임을 묻으려는 쪽과 절차 자체를 무너뜨리려는 세력이 충돌할 수 있다. 자료를 얻고 증인을 보호하는 일이 개인의 생존과 맞물리면서 법적인 승리 이상의 위기가 생긴다.\n\n상대편 변호사가 있다는 사실만으로 악역은 아니다. 합법적인 변론을 맡는 역할과 증거 조작 및 폭력에 가담하는 행동을 구별해야 하며, 절차 설명 중심의 법정극보다 위협과 긴장에 무게를 둔다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

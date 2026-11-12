@@ -4,8 +4,8 @@
   "title": "원치 않는 춤 상대",
   "original": "Forced Dance Partner",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000783",
+  "primary_tag_id": "MM-UNSET-000783",
   "description": {
     "definition": "인물이 거절했거나 내키지 않는데도 다른 이가 춤 상대가 되라고 압박한다. 공개된 자리의 시선이 거절을 더욱 어렵게 만든다. 거절하기 어려운 춤의 압박이 동의 없는 친밀한 접촉으로 이어지면 [[동의 없이 밀어붙이는 입맞춤]]과 함께 읽을 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인물이 원하지 않거나 거절했는데도 다른 사람이 춤을 함께 추자고 계속 압박하는 장면이다. 주변의 시선 때문에 거절하기 더 어려워질 수 있으며, 친밀한 접촉을 강요한다는 점에서 [[동의 없이 밀어붙이는 입맞춤]]과 같은 경계의 문제가 생긴다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "춤추기를 원하지 않는 사람에게 상대가 공개적인 압력을 가하는 장면이다. 예절과 주변의 시선이 거절을 어렵게 만든다.\n\n초보자의 민망함과 피로, 특정 상대에 대한 불편이 이유가 될 수 있다. 강요하는 사람은 낭만적인 행사라고 여기지만 당사자에게는 통제권을 잃는 경험이 된다.\n\n부드러운 권유와 명백한 거절의 무시는 다르다. 친밀한 분위기와 관계의 이름이 동의를 대신하지 않으며 거절의 이유를 모두 설명해야 할 의무가 생기는 것도 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "춤추기를 원하지 않는 사람에게 상대가 공개적인 압력을 가하는 장면이다. 예절과 주변의 시선이 거절을 어렵게 만든다.\n\n초보자의 민망함과 피로, 특정 상대에 대한 불편이 이유가 될 수 있다. 강요하는 사람은 낭만적인 행사라고 여기지만 당사자에게는 통제권을 잃는 경험이 된다.\n\n부드러운 권유와 명백한 거절의 무시는 다르다. 친밀한 분위기와 관계의 이름이 동의를 대신하지 않으며 거절의 이유를 모두 설명해야 할 의무가 생기는 것도 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

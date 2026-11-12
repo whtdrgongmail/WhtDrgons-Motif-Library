@@ -1,0 +1,51 @@
+{
+  "id": "MM-UNSET-000424",
+  "kind": "keyword",
+  "title": "기록체 서사",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F23",
+  "description": {
+    "definition": "기록이나 문서의 형식을 빌려 사건을 전달하는 서사 방식이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "일기나 보고서를 읽으며 무슨 일이 있었는지 따라가는 이야기다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "일기, 편지, 조사 보고서처럼 작성자와 작성 시점이 있는 자료를 통해 사건을 제시한다. 무엇을 직접 보았고 무엇을 전해 들었는지가 문장의 태도와 정보 범위를 결정한다.\n\n기록이 구체적이면 사실 같은 인상을 줄 수 있지만 작성자의 누락과 오해도 함께 남는다. 독자는 문서 사이의 불일치를 비교하며 서술자가 밝히지 않은 사건을 추론할 수 있다.\n\n가상의 탐사 이야기에서 독자가 매일 작성된 관측 일지를 읽게 한다. 마지막 날의 보고서와 앞선 일지의 수치가 달라, 탐사대가 위험을 숨겼다는 단서를 제공한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일기, 편지, 조사 보고서처럼 작성자와 작성 시점이 있는 자료를 통해 사건을 제시한다. 무엇을 직접 보았고 무엇을 전해 들었는지가 문장의 태도와 정보 범위를 결정한다.\n\n기록이 구체적이면 사실 같은 인상을 줄 수 있지만 작성자의 누락과 오해도 함께 남는다. 독자는 문서 사이의 불일치를 비교하며 서술자가 밝히지 않은 사건을 추론할 수 있다."
+      ],
+      [
+        "사례",
+        "가상의 탐사 이야기에서 독자가 매일 작성된 관측 일지를 읽게 한다. 마지막 날의 보고서와 앞선 일지의 수치가 달라, 탐사대가 위험을 숨겼다는 단서를 제공한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

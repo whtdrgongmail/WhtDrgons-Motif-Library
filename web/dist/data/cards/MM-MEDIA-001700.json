@@ -4,27 +4,27 @@
   "title": "둠",
   "original": "Doom",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《둠》은 미디어 작품이다.",
-    "detail": "작품 사례: 《둠》 시리즈의 아이콘 오브 신은 방치하면 여러 종류의 괴물을 계속 만들어 내므로, 보스 처치가 늦어질수록 전장의 적이 늘어난다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《둠》은 차원 이동 실험이 지옥과 연결되면서 악마와 싸우는 해병을 중심으로 발전한 작품군이다. 1993년의 일인칭 슈팅에서 출발하여 지구 침공과 새로운 기원 해석 등 여러 게임으로 확장되었다.\n\n빠른 이동과 전투, 군사 시설과 지옥의 결합이 공통적인 재료지만 모든 작품이 같은 세부 연속성을 따르지는 않는다. 개별 후속작과 리부트, 외전을 포함하는 상위 범위이므로 최초 게임 한 편의 줄거리와 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《둠》은 차원 이동 실험이 지옥과 연결되면서 악마와 싸우는 해병을 중심으로 발전한 작품군이다. 1993년의 일인칭 슈팅에서 출발하여 지구 침공과 새로운 기원 해석 등 여러 게임으로 확장되었다.\n\n빠른 이동과 전투, 군사 시설과 지옥의 결합이 공통적인 재료지만 모든 작품이 같은 세부 연속성을 따르지는 않는다. 개별 후속작과 리부트, 외전을 포함하는 상위 범위이므로 최초 게임 한 편의 줄거리와 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

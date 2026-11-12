@@ -4,27 +4,27 @@
   "title": "슈퍼 마리오",
   "original": "Super Mario Bros.",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《슈퍼 마리오》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《슈퍼 마리오》의 쿠파는 여러 괴물을 거느리는 대마왕으로서 버섯 왕국을 위협하고 마리오와 반복해서 대립한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "플랫폼 게임의 이동과 장애물 통과를 중심으로 성장한 닌텐도의 작품군이다. 중심인물의 출발은 원래 자기 이름의 게임이 아니라 다른 게임에서 벌인 구출 활동에 있었다.\n\n이후 인물과 규칙이 독립적인 계열을 이루며 다양한 형태의 모험으로 확장되었다. 넓은 마리오 작품군과 그 안의 플랫폼 게임 연작을 구분해야 스포츠나 다른 장르의 파생작까지 같은 조작 체계로 설명하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플랫폼 게임의 이동과 장애물 통과를 중심으로 성장한 닌텐도의 작품군이다. 중심인물의 출발은 원래 자기 이름의 게임이 아니라 다른 게임에서 벌인 구출 활동에 있었다.\n\n이후 인물과 규칙이 독립적인 계열을 이루며 다양한 형태의 모험으로 확장되었다. 넓은 마리오 작품군과 그 안의 플랫폼 게임 연작을 구분해야 스포츠나 다른 장르의 파생작까지 같은 조작 체계로 설명하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

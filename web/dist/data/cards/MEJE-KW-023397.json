@@ -4,8 +4,8 @@
   "title": "둔중한 발소리로 거대 존재 알리기",
   "original": "Thundering Footsteps",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02009",
+  "primary_tag_id": "ML-T02009",
   "description": {
     "definition": "크고 무거운 존재가 걸을 때 멀리서도 알아챌 만큼 무거운 발소리를 내어 접근과 규모를 드러낸다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "발자국의 시각적 발견이나 일반적인 작은 발소리와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거대하고 무거운 존재의 접근을 둔중한 발소리로 먼저 알리는 음향 장치다. 아직 모습을 보여 주지 않아도 크기와 힘을 상상하게 한다.\n\n발걸음의 간격과 점점 커지는 소리는 거리를 전달하고 주변 사물의 떨림은 규모를 보강한다. 듣는 인물의 침묵과 반응을 길게 두면 정체가 드러나기 전부터 긴장이 쌓인다.\n\n소리가 크다고 반드시 적대적인 존재는 아니다. 기대한 괴물 대신 다른 대상을 공개해 반전을 만들 수도 있으며, 실제 무게와 소리의 관계보다 장면이 유도하는 예측이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "거대하고 무거운 존재의 접근을 둔중한 발소리로 먼저 알리는 음향 장치다. 아직 모습을 보여 주지 않아도 크기와 힘을 상상하게 한다.\n\n발걸음의 간격과 점점 커지는 소리는 거리를 전달하고 주변 사물의 떨림은 규모를 보강한다. 듣는 인물의 침묵과 반응을 길게 두면 정체가 드러나기 전부터 긴장이 쌓인다.\n\n소리가 크다고 반드시 적대적인 존재는 아니다. 기대한 괴물 대신 다른 대상을 공개해 반전을 만들 수도 있으며, 실제 무게와 소리의 관계보다 장면이 유도하는 예측이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

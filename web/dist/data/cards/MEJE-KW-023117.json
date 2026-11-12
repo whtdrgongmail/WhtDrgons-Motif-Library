@@ -4,8 +4,8 @@
   "title": "살아 있는지와 다른 법적 사망",
   "original": "Legally Dead",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01347",
+  "primary_tag_id": "ML-T01347",
   "description": {
     "definition": "실종·행정 오류·위장·실제 사망 등의 사유로 제도상 죽은 사람으로 처리되어 법적 신분과 실제 생존 상태가 어긋날 수 있는 설정이다.",
     "detail": "작품 사례: 《[[신의 탑]]》에서 스물다섯번째 밤은 첫 시즌 끝의 사건 뒤 사망한 것으로 처리되지만, 실제로는 라헬에게 밀려 떨어졌을 뿐 살아남아 있다.",
@@ -13,10 +13,10 @@
     "boundary": "죽음이 확정된 생물학적 상태와 별개이며 작품의 제도 설정을 현실의 법률 절차로 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00090",
-      "work_card_id": "MM-MEDIA-001296",
+      "work_card_id": "MM-MEDIA-002484",
       "description_ko": "《신의 탑》에서 스물다섯번째 밤은 첫 시즌 끝의 사건 뒤 사망한 것으로 처리되지만, 실제로는 라헬에게 밀려 떨어졌을 뿐 살아남아 있다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "제도상 죽은 사람으로 기록되어 실제 생존 상태와 법적인 신분이 달라질 수 있는 설정이다. 실종과 착오, 의도적인 위장 등이 원인이 된다.\n\n살아 돌아와도 재산과 가족 관계, 신원을 증명하는 문제를 다시 해결해야 할 수 있다. 죽었다는 기록이 도피에 유리할 때와 원래의 삶을 되찾는 데 장애가 될 때가 대비된다.\n\n단순히 주변 사람이 죽었다고 오해하는 것과는 제도적 결과가 다르다. 구체적인 절차와 효력은 사회의 규칙에 따라 달라지므로, 허구의 신분 문제를 현실의 보편적인 법률 설명으로 적용할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "제도상 죽은 사람으로 기록되어 실제 생존 상태와 법적인 신분이 달라질 수 있는 설정이다. 실종과 착오, 의도적인 위장 등이 원인이 된다.\n\n살아 돌아와도 재산과 가족 관계, 신원을 증명하는 문제를 다시 해결해야 할 수 있다. 죽었다는 기록이 도피에 유리할 때와 원래의 삶을 되찾는 데 장애가 될 때가 대비된다.\n\n단순히 주변 사람이 죽었다고 오해하는 것과는 제도적 결과가 다르다. 구체적인 절차와 효력은 사회의 규칙에 따라 달라지므로, 허구의 신분 문제를 현실의 보편적인 법률 설명으로 적용할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

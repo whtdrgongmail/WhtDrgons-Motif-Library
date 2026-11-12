@@ -4,8 +4,8 @@
   "title": "안될 것이라던 관계의 성취",
   "original": "Nobody Thinks It Will Work",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "주변의 예상과 회의에도 불구하고 두 사람이 연인 관계를 이루어 부정적인 전망을 뒤집는 전개이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "당사자의 일방적 희망만으로 끝나는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남들은 안 될 거라 했지만 결국 두 사람이 함께하게 된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주변이 맞지 않는다고 여긴 두 사람이 관계를 성립시킨다. 취향과 성격이 어긋나 보인다는 예측을 실제의 선택과 화해가 뒤집는 전개다.\n\n부정적인 말을 하던 가족이나 친구가 나중에 생각을 바꿀 수 있다. 이미 결혼한 상태로 시작하면 충돌 때마다 의심하다 다시 관계를 선택하는 반복으로 나타나기도 한다.\n\n한쪽의 희망만으로 끝나는 경우와 다르다. 타인의 평가와 당사자들이 관계를 유지하는 방식 사이의 차이가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주변이 맞지 않는다고 여긴 두 사람이 관계를 성립시킨다. 취향과 성격이 어긋나 보인다는 예측을 실제의 선택과 화해가 뒤집는 전개다.\n\n부정적인 말을 하던 가족이나 친구가 나중에 생각을 바꿀 수 있다. 이미 결혼한 상태로 시작하면 충돌 때마다 의심하다 다시 관계를 선택하는 반복으로 나타나기도 한다.\n\n한쪽의 희망만으로 끝나는 경우와 다르다. 타인의 평가와 당사자들이 관계를 유지하는 방식 사이의 차이가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

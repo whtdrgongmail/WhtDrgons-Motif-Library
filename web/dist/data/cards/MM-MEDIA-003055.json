@@ -3,8 +3,10 @@
   "kind": "work",
   "title": "슈퍼내추럴",
   "original": "Supernatural",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Supernatural"
+  ],
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《슈퍼내추럴》은 텔레비전 작품이다.",
@@ -13,8 +15,8 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -39,9 +41,30 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014385",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014661",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-019434",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《슈퍼내추럴》은 괴물을 사냥하며 미국을 다니는 샘과 딘 윈체스터 형제의 TV 시리즈다. 어머니가 악마에게 살해된 뒤 아버지에게 사냥꾼으로 자란 형제는 도시전설과 신화의 위협에 대응한다.\n\n회차별 사건 위에 가족의 과거와 천국·지옥의 장기적인 갈등을 겹친다. 무거운 공포를 다루면서도 장르와 방송 자체를 의식한 농담을 사용하므로, 개별 괴물의 조사와 형제 관계가 시리즈를 함께 이어 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《슈퍼내추럴》은 괴물을 사냥하며 미국을 다니는 샘과 딘 윈체스터 형제의 TV 시리즈다. 어머니가 악마에게 살해된 뒤 아버지에게 사냥꾼으로 자란 형제는 도시전설과 신화의 위협에 대응한다.\n\n회차별 사건 위에 가족의 과거와 천국·지옥의 장기적인 갈등을 겹친다. 무거운 공포를 다루면서도 장르와 방송 자체를 의식한 농담을 사용하므로, 개별 괴물의 조사와 형제 관계가 시리즈를 함께 이어 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

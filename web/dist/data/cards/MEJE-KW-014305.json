@@ -4,8 +4,8 @@
   "title": "영웅과 악역의 대결 듀엣",
   "original": "Hero vs. Villain Duet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "서로 적대하는 영웅과 악역이 한 노래를 함께 부르며 갈등이나 서로의 요구를 표현하는 음악 장면이다. 싸우는 행동과 노래가 겹치거나 각자의 가치관을 노래로 맞세울 수 있다.",
     "detail": "작품 사례: [[Mickey, Donald, Goofy: The Three Musketeers]]에서 구피는 자신을 죽이려는 클라라벨에게 사랑을 노래하고, 거절로 응하던 그녀도 끝내 마음이 바뀌며 대결의 노래가 사랑 노래로 변한다.",
@@ -13,10 +13,10 @@
     "boundary": "모든 말다툼 노래나 랩 대결이 선악 대결인 것은 아니며, 두 인물의 선율이 동시에 달라야 하는 것도 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "하나의 곡에서 영웅과 악역의 목소리가 서로 다른 요구와 가치관을 맡는다. 실제 전투와 노래가 겹치거나 항복·복종·설득을 주고받는 방식으로 대립할 수 있다.\n\n각자 다른 선율을 동시에 부르는 구성이 가능하지만 필수는 아니다. 노래가 진행되며 한쪽의 태도가 바뀌면 대결의 성격과 곡의 정서도 달라질 수 있다.\n\n모든 말다툼 노래나 랩 대결을 선악 대결로 분류하지 않는다. 같은 곡에 참여한 두 역할이 영웅과 악역의 대립을 담당하는지가 구별 기준이다.\n\n작품 사례: 《[[Mickey, Donald, Goofy: The Three Musketeers]]》에서 구피는 자신을 죽이려는 클라라벨에게 사랑을 노래하고, 거절로 응하던 그녀도 끝내 마음이 바뀌며 대결의 노래가 사랑 노래로 변한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "하나의 곡에서 영웅과 악역의 목소리가 서로 다른 요구와 가치관을 맡는다. 실제 전투와 노래가 겹치거나 항복·복종·설득을 주고받는 방식으로 대립할 수 있다.\n\n각자 다른 선율을 동시에 부르는 구성이 가능하지만 필수는 아니다. 노래가 진행되며 한쪽의 태도가 바뀌면 대결의 성격과 곡의 정서도 달라질 수 있다.\n\n모든 말다툼 노래나 랩 대결을 선악 대결로 분류하지 않는다. 같은 곡에 참여한 두 역할이 영웅과 악역의 대립을 담당하는지가 구별 기준이다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[Mickey, Donald, Goofy: The Three Musketeers]]》에서 구피는 자신을 죽이려는 클라라벨에게 사랑을 노래하고, 거절로 응하던 그녀도 끝내 마음이 바뀌며 대결의 노래가 사랑 노래로 변한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

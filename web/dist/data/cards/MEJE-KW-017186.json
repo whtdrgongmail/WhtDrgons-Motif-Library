@@ -4,8 +4,8 @@
   "title": "보여 주지 않은 사건을 단서로 전달하기",
   "original": "Implied Trope",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01948",
+  "primary_tag_id": "ML-T01948",
   "description": {
     "definition": "사건을 직접 묘사하거나 명시하지 않고 전후의 징후를 배치하여 관객이 그 발생을 추론하도록 하는 서술 방식.",
     "detail": "준비 과정과 결과를 함께 보이거나 한쪽만 남길 수 있다. 관습을 알아보는 관객의 지식이 빈칸을 채운다.\n\n작품 사례: 《[[배트맨]]》에서 바버라가 배트걸이라는 사실을 아버지에게 고백하려 할 때, 아버지의 답은 그가 이미 알아챘음을 직접 선언하지 않고도 암시한다.",
@@ -13,30 +13,47 @@
     "boundary": "근거 없는 연쇄 추측이나 서로 모순되는 가능성만 남긴 모호함과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "일어난 장면은 없지만 남은 흔적들이 무엇이 있었는지 알려 준다.\n\n작품 사례: 《[[배트맨]]》에서 바버라가 배트걸이라는 사실을 아버지에게 고백하려 할 때, 아버지의 답은 그가 이미 알아챘음을 직접 선언하지 않고도 암시한다.",
+    "easy_ko": "일어난 장면은 없지만 남은 흔적들이 무엇이 있었는지 알려 준다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001647",
+      "work_card_id": "MM-MEDIA-001819",
       "description_ko": "《배트맨》에서 바버라가 배트걸이라는 사실을 아버지에게 고백하려 할 때, 아버지의 답은 그가 이미 알아챘음을 직접 선언하지 않고도 암시한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "준비 과정과 결과를 함께 보이거나 한쪽만 남길 수 있다. 관습을 알아보는 관객의 지식이 빈칸을 채운다.\n\n근거 없는 연쇄 추측이나 서로 모순되는 가능성만 남긴 모호함과 구별한다.\n\n《[[배트맨: 애니메이티드 시리즈]]》에서 바버라가 배트걸이라는 사실을 아버지에게 고백하려 할 때, 아버지의 답은 그가 이미 알아챘음을 직접 선언하지 않고도 암시한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "준비 과정과 결과를 함께 보이거나 한쪽만 남길 수 있다. 관습을 알아보는 관객의 지식이 빈칸을 채운다.\n\n근거 없는 연쇄 추측이나 서로 모순되는 가능성만 남긴 모호함과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[배트맨: 애니메이티드 시리즈]]》에서 바버라가 배트걸이라는 사실을 아버지에게 고백하려 할 때, 아버지의 답은 그가 이미 알아챘음을 직접 선언하지 않고도 암시한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

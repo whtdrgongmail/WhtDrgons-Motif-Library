@@ -4,8 +4,8 @@
   "title": "일본 추리문학의 퍼즐 중심 전통",
   "original": "Japanese Mystery Literature",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00265",
+  "primary_tag_id": "ML-T00265",
   "description": {
     "definition": "공정하게 제시한 단서와 논리적 수수께끼를 중심에 두면서 사회적 현실과 [[장르]] 실험을 여러 방향으로 결합해 온 일본 추리문학의 흐름이다.",
     "detail": "작품 사례: 《[[십각관의 살인]]》은 일본 추리문학에서 퍼즐 중심의 본격 전통을 다시 확장한 신본격 흐름의 대표작으로 제시된다.",
@@ -13,17 +13,20 @@
     "boundary": "일본에서 쓰인 모든 범죄·공포 소설이 같은 방식을 따른다는 뜻은 아니다. 문학의 국적과 특정 작품의 구성은 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.106.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공정하게 제시한 단서와 논리적으로 풀 수 있는 수수께끼를 중시하는 일본 추리문학의 흐름이다. 범죄를 해결하는 과정에서 독자도 추론에 참여할 수 있다는 기대가 중요하다.\n\n퍼즐 중심의 구조를 유지하면서 사회적 배경과 심리, 형식 실험을 결합할 수 있다. 이 관습은 소설뿐 아니라 만화와 게임 등 다른 매체의 미스터리 구성에도 영향을 주는 표현 문법이 된다.\n\n일본 추리물 전체가 같은 방식이라는 뜻은 아니다. 공정한 단서의 기준과 작품별 변형을 살펴야 하며, 다른 지역의 추리문학을 퍼즐이 없는 한 가지 흐름으로 단순화해서도 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공정하게 제시한 단서와 논리적으로 풀 수 있는 수수께끼를 중시하는 일본 추리문학의 흐름이다. 범죄를 해결하는 과정에서 독자도 추론에 참여할 수 있다는 기대가 중요하다.\n\n퍼즐 중심의 구조를 유지하면서 사회적 배경과 심리, 형식 실험을 결합할 수 있다. 이 관습은 소설뿐 아니라 만화와 게임 등 다른 매체의 미스터리 구성에도 영향을 주는 표현 문법이 된다.\n\n일본 추리물 전체가 같은 방식이라는 뜻은 아니다. 공정한 단서의 기준과 작품별 변형을 살펴야 하며, 다른 지역의 추리문학을 퍼즐이 없는 한 가지 흐름으로 단순화해서도 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

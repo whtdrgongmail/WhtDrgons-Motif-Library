@@ -4,8 +4,8 @@
   "title": "미완성품을 완성품으로 밀어붙이기",
   "original": "Implementing the Incomplete",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "제작이 충분히 끝나지 않았거나 결함이 남은 결과물을 완성됐다고 선언하고 사용·공개·출시를 강행하는 행동.",
     "detail": "결함을 숨기거나 변명하며 강요할 수 있고, 실제 사용 실패가 완성 선언의 허구를 드러낸다.\n\n작품 사례: 《[[심슨 가족]]》의 호머는 바비큐 화덕 부품이 시멘트에 빠지자 마르기 전에 억지로 조립하지만, 상자의 완성 사진과 전혀 다른 고철 덩어리만 만든다.",
@@ -13,19 +13,19 @@
     "boundary": "미완성임을 인정하고 긴급히 시험하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "더 고쳐야 한다는 사실을 외면하고 이대로 받아들이라고 내놓는다.\n\n작품 사례: 《[[심슨 가족]]》의 호머는 바비큐 화덕 부품이 시멘트에 빠지자 마르기 전에 억지로 조립하지만, 상자의 완성 사진과 전혀 다른 고철 덩어리만 만든다.",
+    "easy_ko": "더 고쳐야 한다는 사실을 외면하고 이대로 받아들이라고 내놓는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "결함을 숨기거나 변명하며 강요할 수 있고, 실제 사용 실패가 완성 선언의 허구를 드러낸다.\n\n미완성임을 인정하고 긴급히 시험하는 경우와 구별한다.\n\n《[[심슨 가족]]》의 호머는 바비큐 화덕 부품이 시멘트에 빠지자 마르기 전에 억지로 조립하지만, 상자의 완성 사진과 전혀 다른 고철 덩어리만 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "결함을 숨기거나 변명하며 강요할 수 있고, 실제 사용 실패가 완성 선언의 허구를 드러낸다.\n\n미완성임을 인정하고 긴급히 시험하는 경우와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[심슨 가족]]》의 호머는 바비큐 화덕 부품이 시멘트에 빠지자 마르기 전에 억지로 조립하지만, 상자의 완성 사진과 전혀 다른 고철 덩어리만 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

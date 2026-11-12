@@ -4,8 +4,8 @@
   "title": "악역의 개심",
   "original": "Heel–Face Turn",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00693",
+  "primary_tag_id": "ML-T00693",
   "description": {
     "definition": "악한 [[행동]]을 하던 [[인물]]이 가치와 편을 바꾸어 선한 쪽으로 전환하는 변화다.",
     "detail": "개심의 계기는 친절한 상대와의 관계, 악행의 허무함을 깨닫는 경험, 공동의 위기에 맞선 협력, 상관의 학대, 자신이 이용당했다는 발견, 협박이나 가족의 위험이 사라지는 일 등으로 달라진다.\n\n작품 사례: [[Happy Friends]]의 Punk Monster는 악당 상사를 떠나 사람들을 해치는 대신 돕겠다고 선언하고 쓰레기를 치우는 선행을 한다.",
@@ -13,10 +13,10 @@
     "boundary": "이익을 위한 임시 협력이나 처음부터 선했음이 밝혀지는 [[반전]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "06.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-000409",
+      "work_card_id": "MM-MEDIA-002504",
       "description_ko": "Happy Friends의 Punk Monster는 악당 상사를 떠나 사람들을 해치는 대신 돕겠다고 선언하고 쓰레기를 치우는 선행을 한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "친절한 상대와의 관계, 악행이 허무하다는 깨달음, 공동의 위기에 맞선 협력이 전환의 계기가 될 수 있다. 악역 집단 내부의 학대나 자신이 이용당했다는 발견도 기존 충성심을 바꾼다.\n\n협박이 사라지거나 인질이 안전해져 악행을 중단할 수 있게 되는 경우도 있다. 가족을 지키려 편을 바꾸는 등 출발 동기가 제한적이더라도 이후의 선택이 실제로 선한 방향으로 달라지는지를 따져야 한다.\n\n이익을 위한 임시 협력이나 원래 선한 잠입자였다는 [[반전]]과 구별한다. 누구와 싸우는지만 바뀌는 것과 잘못을 인정하고 다른 행동을 택하는 변화는 별개다.\n\n작품 사례: 《[[Happy Friends]]》의 7시즌 26화에서 Punk Monster는 악당 상사를 떠나 사람들을 해치는 대신 돕겠다고 선언한다. 쓰레기를 치우는 행동도 악당답지 않다는 이유로 상사에게 비난받는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "친절한 상대와의 관계, 악행이 허무하다는 깨달음, 공동의 위기에 맞선 협력이 전환의 계기가 될 수 있다. 악역 집단 내부의 학대나 자신이 이용당했다는 발견도 기존 충성심을 바꾼다.\n\n협박이 사라지거나 인질이 안전해져 악행을 중단할 수 있게 되는 경우도 있다. 가족을 지키려 편을 바꾸는 등 출발 동기가 제한적이더라도 이후의 선택이 실제로 선한 방향으로 달라지는지를 따져야 한다.\n\n이익을 위한 임시 협력이나 원래 선한 잠입자였다는 [[반전]]과 구별한다. 누구와 싸우는지만 바뀌는 것과 잘못을 인정하고 다른 행동을 택하는 변화는 별개다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[Happy Friends]]》의 7시즌 26화에서 Punk Monster는 악당 상사를 떠나 사람들을 해치는 대신 돕겠다고 선언한다. 쓰레기를 치우는 행동도 악당답지 않다는 이유로 상사에게 비난받는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

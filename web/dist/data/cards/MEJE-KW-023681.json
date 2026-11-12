@@ -5,8 +5,8 @@
   "original": "The First Victim Reveals the Minefield",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02536",
+  "primary_tag_id": "ML-T02536",
   "description": {
     "definition": "앞서 가던 인물의 폭발 피해를 통해 주변이 지뢰밭임을 생존자와 관객에게 알리는 전개다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "함정이 이미 표시되어 있거나 설명으로만 알려진 상황과 다르다. 피해가 숨은 공간 위험을 드러내는 정보 기능을 맡는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "09.001.011",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "앞서 간 인물의 피해가 발생한 뒤에야 공간의 숨은 위험이 알려진다. 첫 희생은 사건의 결과이면서 생존자에게 주어지는 정보가 된다.\n\n평범한 이동 구간은 갑자기 어디를 밟아도 안심할 수 없는 장소로 바뀐다. 남은 인물의 공포와 경로 선택이 같은 공개에서 시작된다.\n\n이미 표지로 지뢰밭임을 안 상태와는 다르다. 피해 자체가 위험을 처음 드러내는 기능을 맡아야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "앞서 간 인물의 피해가 발생한 뒤에야 공간의 숨은 위험이 알려진다. 첫 희생은 사건의 결과이면서 생존자에게 주어지는 정보가 된다.\n\n평범한 이동 구간은 갑자기 어디를 밟아도 안심할 수 없는 장소로 바뀐다. 남은 인물의 공포와 경로 선택이 같은 공개에서 시작된다.\n\n이미 표지로 지뢰밭임을 안 상태와는 다르다. 피해 자체가 위험을 처음 드러내는 기능을 맡아야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

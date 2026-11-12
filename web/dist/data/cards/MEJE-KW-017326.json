@@ -4,8 +4,8 @@
   "title": "조직 규율이 가로막는 동료의 친밀감",
   "original": "Inappropriately Close Comrades",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00984",
+  "primary_tag_id": "ML-T00984",
   "description": {
     "definition": "엄격한 지휘·직무 체계를 가진 조직에서 동료 사이의 연애나 친밀한 관계가 규율과 충돌해 억제되거나 비밀이 된다.",
     "detail": "작품 사례: 《[[강철의 연금술사]]》에서 머스탱과 호크아이의 가까운 관계는 같은 군 지휘 체계 안의 상관과 부하라는 제약과 맞물린다.",
@@ -13,14 +13,20 @@
     "boundary": "모든 직장 연애가 금지된다는 뜻이 아니다. 작품에서 명시한 조직 규칙과 관계의 위계를 기준으로 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 마음이 있어도 같은 조직의 규칙 때문에 쉽게 가까워질 수 없다.",
     "review_status": "reviewed",
@@ -31,12 +37,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001331",
+      "work_card_id": "MM-MEDIA-002178",
       "description_ko": "《강철의 연금술사》에서 머스탱과 호크아이의 가까운 관계는 같은 군 지휘 체계 안의 상관과 부하라는 제약과 맞물린다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "지휘와 책임의 관계에 사적인 친밀감이 더해져 조직 규율과 충돌한다. 개인 감정뿐 아니라 명령권과 공정성의 문제가 관계를 지속하는 조건이 될 수 있다.\n\n모든 직장 연애가 금지된다는 일반 규칙이 아니다. 작품이 정한 제도와 실제 위계를 확인하고 가까운 관계라는 이유만으로 연애를 확정하지 않는다.\n\n《[[강철의 연금술사]]》의 머스탱과 호크아이는 같은 지휘 체계의 상관과 부하라는 위치와 친밀함이 겹친다. 공적 책임과 사적 감정의 [[갈등]]을 다루는 관계다.",
+    "sections": [
+      [
+        "상세 설명",
+        "지휘와 책임의 관계에 사적인 친밀감이 더해져 조직 규율과 충돌한다. 개인 감정뿐 아니라 명령권과 공정성의 문제가 관계를 지속하는 조건이 될 수 있다.\n\n모든 직장 연애가 금지된다는 일반 규칙이 아니다. 작품이 정한 제도와 실제 위계를 확인하고 가까운 관계라는 이유만으로 연애를 확정하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[강철의 연금술사]]》의 머스탱과 호크아이는 같은 지휘 체계의 상관과 부하라는 위치와 친밀함이 겹친다. 공적 책임과 사적 감정의 [[갈등]]을 다루는 관계다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

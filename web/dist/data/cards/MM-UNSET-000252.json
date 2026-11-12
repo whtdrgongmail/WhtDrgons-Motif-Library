@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000252",
   "kind": "keyword",
   "title": "편집",
-  "original": "",
+  "original": "Editing",
+  "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01908",
+  "primary_tag_id": "ML-T01908",
   "description": {
-    "definition": "",
+    "definition": "영상의 숏과 장면을 선택하고 순서·길이·연결 방식을 조절하여 시간·공간·행동과 의미의 관계를 구성하는 작업이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "22.009",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "찍어 둔 화면 가운데 무엇을 먼저 보여 주고 어디에서 다음 화면으로 넘어갈지 정하면, 같은 재료로도 다른 이야기가 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "편집은 촬영된 화면을 단순히 모으는 작업을 넘어, 어떤 정보를 언제 얼마나 오래 보여 줄지를 조직한다. 화면의 순서와 길이, 생략된 구간에 따라 사건의 시간과 장소가 연결되고 관객이 이해하는 인과관계도 달라진다.\n\n앞뒤 화면의 형태나 움직임을 맞추면 장면 사이의 연관성이 강조된다. 반대로 화면을 갑자기 바꾸면 단절이나 대비가 두드러지며, 대사 직후 그 말에 어긋나는 행동을 배치하여 웃음을 만들 수도 있다. [[디졸브]]처럼 화면을 겹쳐 바꾸는 전환도 연결 방식의 하나다.\n\n이 카드의 연결 문맥은 영상 편집을 가리킨다. 출판 원고의 교정과 구성, 영상 안에서 개별 대상을 배치하는 작업과는 범위가 다르며 화면 사이의 관계가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "편집은 촬영된 화면을 단순히 모으는 작업을 넘어, 어떤 정보를 언제 얼마나 오래 보여 줄지를 조직한다. 화면의 순서와 길이, 생략된 구간에 따라 사건의 시간과 장소가 연결되고 관객이 이해하는 인과관계도 달라진다.\n\n앞뒤 화면의 형태나 움직임을 맞추면 장면 사이의 연관성이 강조된다. 반대로 화면을 갑자기 바꾸면 단절이나 대비가 두드러지며, 대사 직후 그 말에 어긋나는 행동을 배치하여 웃음을 만들 수도 있다. [[디졸브]]처럼 화면을 겹쳐 바꾸는 전환도 연결 방식의 하나다.\n\n이 카드의 연결 문맥은 영상 편집을 가리킨다. 출판 원고의 교정과 구성, 영상 안에서 개별 대상을 배치하는 작업과는 범위가 다르며 화면 사이의 관계가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

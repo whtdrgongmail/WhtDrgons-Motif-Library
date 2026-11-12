@@ -4,8 +4,8 @@
   "title": "힙합",
   "original": "Hip-Hop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015901",
+  "primary_tag_id": "MEJE-KW-015901",
   "description": {
     "definition": "비트와 리듬 중심의 보컬 표현을 바탕으로 디제잉·엠시 활동·비트박스 등에서 발전한 음악 장르다. 그래피티와 춤을 포함하는 문화권과 이어지며 다양한 지역·주제·음향의 갈래를 포괄한다.",
     "detail": "작품 사례: 프랑스 힙합 그룹 [[Suprême NTM]]에서는 조이스타의 거칠고 쉰 목소리가 곡의 강경한 인상을 더하며, 랩 보컬의 음색도 [[장르]] 표현의 일부가 된다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.303.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -34,15 +37,24 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [
-    {
-      "media_tag_id": "ML-T00139",
-      "work_card_id": "MM-MEDIA-000889",
-      "description_ko": "프랑스 힙합 그룹 Suprême NTM에서는 조이스타의 거칠고 쉰 목소리가 곡의 강경한 인상을 더하며, 랩 보컬의 음색도 장르 표현의 일부가 된다.",
-      "spoiler_level": "unreviewed",
-      "row_version": 1
-    }
-  ],
+  "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "음악으로서의 힙합은 리듬 구성과 랩 등 표현 관습을 문화적 계보 안에서 이해하는 분류다. 가사의 내용뿐 아니라 목소리의 질감과 전달 방식도 곡의 인상에 기여하며, 힙합이라는 말은 더 넓은 문화적 맥락에서도 쓰인다.\n\n랩은 보컬 기법이므로 랩을 사용한 모든 음악을 힙합 [[장르]]로 분류할 수는 없다. 개별 표현 수단과 장르·문화의 관계를 구분해야 한다.\n\n프랑스 그룹 [[Suprême NTM]]의 조이스타는 거칠고 쉰 목소리로 곡의 강경한 인상을 강화한다. 랩의 음색도 장르적 표현을 구성한다는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "음악으로서의 힙합은 리듬 구성과 랩 등 표현 관습을 문화적 계보 안에서 이해하는 분류다. 가사의 내용뿐 아니라 목소리의 질감과 전달 방식도 곡의 인상에 기여하며, 힙합이라는 말은 더 넓은 문화적 맥락에서도 쓰인다.\n\n랩은 보컬 기법이므로 랩을 사용한 모든 음악을 힙합 [[장르]]로 분류할 수는 없다. 개별 표현 수단과 장르·문화의 관계를 구분해야 한다."
+      ],
+      [
+        "관련 작품",
+        "프랑스 그룹 [[Suprême NTM]]의 조이스타는 거칠고 쉰 목소리로 곡의 강경한 인상을 강화한다. 랩의 음색도 장르적 표현을 구성한다는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

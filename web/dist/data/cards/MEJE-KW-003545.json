@@ -4,8 +4,8 @@
   "title": "대를 이어 맡는 경호 임무",
   "original": "Bodyguard Legacy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01012",
+  "primary_tag_id": "ML-T01012",
   "description": {
     "definition": "한 집안이 여러 세대에 걸쳐 같은 인물이나 자리를 지킨다. 전해진 의무를 다음 사람이 스스로 받아들일지도 관계의 갈등이 된다. 세대를 잇던 신뢰가 무너지면 [[호위자의 배신]]의 무게가 더 커진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "제공 대장 MEJE-KW-003545는 같은 보호 대상의 계승을 설명한다. 현재 항목은 같은 대상 여부를 명시하지 않으므로 더 넓은 범위를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "10",
+    "code": "10.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 집안의 구성원들이 세대가 바뀌어도 같은 인물이나 지위를 지키는 경호 역할을 이어받는 설정이다. 오래된 신뢰가 있지만 후손은 원치 않는 의무를 물려받을 수도 있다. [[호위자의 배신]]이 일어나면 개인의 행동이 가문 전체의 약속을 흔드는 의미가 된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 지위와 가문을 지키는 임무가 경호원의 가문 안에서 대대로 전해진다. 개인의 고용보다 세대와 혈통의 관계가 충성의 근거가 되어 자녀가 어릴 때부터 역할을 배울 수 있다.\n\n가문의 명예와 과거의 빚, 첫 경호원의 뛰어난 성과 등이 전통의 이유가 된다. 실력과 신뢰를 계속 확보하려는 방식이지만 혈연이 능력을 자동으로 보장하는 것은 아니다. 임무를 원하지 않는 후손도 나올 수 있다.\n\n경호 대상의 후계자와 경호 가문의 후계자가 함께 자라면 우정과 직무가 겹친다. 개인을 좋아하는 마음과 자리를 지켜야 하는 의무가 충돌할 수도 있다. 단순히 부모와 같은 직업을 가진 경우보다 보호하는 대상과 가문이 함께 이어진다는 관계가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 지위와 가문을 지키는 임무가 경호원의 가문 안에서 대대로 전해진다. 개인의 고용보다 세대와 혈통의 관계가 충성의 근거가 되어 자녀가 어릴 때부터 역할을 배울 수 있다.\n\n가문의 명예와 과거의 빚, 첫 경호원의 뛰어난 성과 등이 전통의 이유가 된다. 실력과 신뢰를 계속 확보하려는 방식이지만 혈연이 능력을 자동으로 보장하는 것은 아니다. 임무를 원하지 않는 후손도 나올 수 있다.\n\n경호 대상의 후계자와 경호 가문의 후계자가 함께 자라면 우정과 직무가 겹친다. 개인을 좋아하는 마음과 자리를 지켜야 하는 의무가 충돌할 수도 있다. 단순히 부모와 같은 직업을 가진 경우보다 보호하는 대상과 가문이 함께 이어진다는 관계가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -2,24 +2,65 @@
   "id": "MM-MEDIA-003525",
   "kind": "work",
   "title": "Knights of the Fallen Empire",
-  "original": "",
+  "original": "Knights of the Fallen Empire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00076",
+  "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "",
+    "definition": "《Knights of the Fallen Empire》는 비디오게임 《[[스타워즈: 구공화국]]》에 추가된 이야기 중심 확장 콘텐츠다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.016",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "《스타워즈: 구공화국》에서 새로운 이야기와 임무를 즐기는 확장편이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000140",
+      "card_id": "MM-MEDIA-003525",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.swtor.com/fallen-empire",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "공식 소개에 따르면 플레이어 인물은 대은하 전쟁을 겪은 아웃랜더가 되어 황제 발코리온과 영원한 제국을 마주한다. 기존 전쟁의 위협이 제국과 인물의 관계로 구체화되면서 새 동맹을 만드는 선택이 이야기의 중심이 된다. 동료를 모집하고 충성 관계를 맺는 과정은 게임 진행과 서사를 함께 움직인다.\n\n이 확장편은 《[[스타워즈: 구공화국]]》에서 장별로 이어지는 이야기로 제공되었다. 공식 페이지는 플레이어의 선택과 동료 모집을 주요 특징으로 제시한다. 혁명가의 선언문이 등장하는 특정 장면을 설명하려면 어느 장에서 확인되는지 별도 근거가 필요하다. 이 공식 소개만으로 그 장면을 확정할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공식 소개에 따르면 플레이어 인물은 대은하 전쟁을 겪은 아웃랜더가 되어 황제 발코리온과 영원한 제국을 마주한다. 기존 전쟁의 위협이 제국과 인물의 관계로 구체화되면서 새 동맹을 만드는 선택이 이야기의 중심이 된다. 동료를 모집하고 충성 관계를 맺는 과정은 게임 진행과 서사를 함께 움직인다.\n\n이 확장편은 《[[스타워즈: 구공화국]]》에서 장별로 이어지는 이야기로 제공되었다. 공식 페이지는 플레이어의 선택과 동료 모집을 주요 특징으로 제시한다. 혁명가의 선언문이 등장하는 특정 장면을 설명하려면 어느 장에서 확인되는지 별도 근거가 필요하다. 이 공식 소개만으로 그 장면을 확정할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "예정된 접촉자의 신분으로 잠입하기",
   "original": "Impersonation Gambit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00788",
+  "primary_tag_id": "ML-T00788",
   "description": {
     "definition": "조직이 만나기로 한 실제 사람을 대신 사칭하여 접선이나 채용의 신뢰를 이용해 내부에 들어가는 계략.",
     "detail": "실제 접촉자가 나타나거나 당사자만 아는 정보·행동을 요구받으면 계획이 흔들린다.\n\n작품 사례: 《[[셜록 홈즈]]》의 한 범죄자는 채용된 직원을 다른 일로 빼돌리고, 아직 그 직원을 만나지 못한 고용주 앞에 대신 나타나 은행을 턴다.",
@@ -13,30 +13,47 @@
     "boundary": "아무 이름이나 지어내거나 적의 제복만 입는 일반적인 위장과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "상대가 기다리던 사람의 자리를 차지해서 먼저 믿게 만든다.\n\n작품 사례: 《[[셜록 홈즈]]》의 한 범죄자는 채용된 직원을 다른 일로 빼돌리고, 아직 그 직원을 만나지 못한 고용주 앞에 대신 나타나 은행을 턴다.",
+    "easy_ko": "상대가 기다리던 사람의 자리를 차지해서 먼저 믿게 만든다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T00066",
-      "work_card_id": "MM-MEDIA-001650",
+      "work_card_id": "MM-MEDIA-002183",
       "description_ko": "《셜록 홈즈》의 한 범죄자는 채용된 직원을 다른 일로 빼돌리고, 아직 그 직원을 만나지 못한 고용주 앞에 대신 나타나 은행을 턴다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "예정된 만남의 상대를 대신해 나타나 아직 서로 모르는 관계를 이용한다. 신분이 제공하는 신뢰는 접촉에 필요한 경계를 통과시키지만 실제 이력과 행동의 질문이 위장을 흔들 수 있다.\n\n임의의 가명이나 제복만 쓰는 일반 위장과 다르다. 상대가 만나기로 한 구체적인 인물을 대체한다는 조건이 필요하다.\n\n《[[셜록 홈즈]]》의 제공 사례에서 범죄자는 채용된 직원을 다른 일로 빼고 그를 아직 못 본 고용주에게 대신 간다. 채용 신분의 교체가 은행 절도의 접근 수단이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "예정된 만남의 상대를 대신해 나타나 아직 서로 모르는 관계를 이용한다. 신분이 제공하는 신뢰는 접촉에 필요한 경계를 통과시키지만 실제 이력과 행동의 질문이 위장을 흔들 수 있다.\n\n임의의 가명이나 제복만 쓰는 일반 위장과 다르다. 상대가 만나기로 한 구체적인 인물을 대체한다는 조건이 필요하다."
+      ],
+      [
+        "관련 작품",
+        "《[[셜록 홈즈]]》의 제공 사례에서 범죄자는 채용된 직원을 다른 일로 빼고 그를 아직 못 본 고용주에게 대신 간다. 채용 신분의 교체가 은행 절도의 접근 수단이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

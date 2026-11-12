@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "실낙원",
   "original": "Paradise Lost",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Paradise Lost"
+  ],
+  "tag_id": "ML-T00066",
   "primary_tag_id": "ML-T00066",
   "description": {
     "definition": "《실낙원》은 문학 작품이다.",
-    "detail": "작품 사례: 《실낙원》에서 신의 아들은 천상의 전쟁에 나서 사탄의 군대를 홀로 몰아내는 전투적 존재로 묘사된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.007",
     "review_status": "provisional",
@@ -39,9 +41,26 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014121",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-022695",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "존 밀턴이 쓴 서사시로, 인간의 타락과 자유의지, 신의 섭리를 다룬다. 성서의 창세기 이야기를 천상 전쟁의 회상과 연결한다. 천상의 반역과 인간의 선택을 연결해 자유와 책임의 문제를 서사시의 규모로 다룬다.\n\n사탄의 반역과 아담·이브의 선택이 서로 다른 규모의 불복종을 이룬다. 신이 결과를 안다는 설정과 피조물의 책임을 어떻게 양립시킬지가 중요하다. 종교적 이름을 사용한 문학적 장면이 해당 신앙의 모든 해석을 대신하는 것은 아니다.\n\n신의 아들은 천상의 전쟁에서 사탄의 군대를 몰아내는 전투적 역할도 맡는다. 종교적 인물의 문학적 형상과 교리 전체를 동일시하지 않아야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "존 밀턴이 쓴 서사시로, 인간의 타락과 자유의지, 신의 섭리를 다룬다. 성서의 창세기 이야기를 천상 전쟁의 회상과 연결한다. 천상의 반역과 인간의 선택을 연결해 자유와 책임의 문제를 서사시의 규모로 다룬다.\n\n사탄의 반역과 아담·이브의 선택이 서로 다른 규모의 불복종을 이룬다. 신이 결과를 안다는 설정과 피조물의 책임을 어떻게 양립시킬지가 중요하다. 종교적 이름을 사용한 문학적 장면이 해당 신앙의 모든 해석을 대신하는 것은 아니다.\n\n신의 아들은 천상의 전쟁에서 사탄의 군대를 몰아내는 전투적 역할도 맡는다. 종교적 인물의 문학적 형상과 교리 전체를 동일시하지 않아야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

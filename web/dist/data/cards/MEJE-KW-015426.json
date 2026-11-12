@@ -4,8 +4,8 @@
   "title": "팀의 현자가 배신자로 바뀌기",
   "original": "The Smart One Turns Traitor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "집단에서 가장 영리하거나 현명하다고 믿던 인물이 악한 편으로 돌아서 그 신뢰를 뒤집는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "정보가 많은 악당이 처음부터 잠입한 경우와 달리 신뢰받던 지적 역할의 전환이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "늘 답을 알려 주던 사람이 이번에는 팀을 팔아넘긴다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "집단의 판단을 이끌던 현명한 인물이 악한 편으로 돌아선다. 지적인 권위에 대한 신뢰가 배신으로 뒤집힌다.\n\n동료들은 정보뿐 아니라 맡겼던 판단의 근거도 잃을 수 있다. 무엇을 믿었고 어떻게 바뀌었는지 전후 관계가 중요하다.\n\n처음부터 적으로 잠입한 사람이 똑똑하다는 경우와는 다르다. 신뢰받던 역할이 실제로 전환되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "집단의 판단을 이끌던 현명한 인물이 악한 편으로 돌아선다. 지적인 권위에 대한 신뢰가 배신으로 뒤집힌다.\n\n동료들은 정보뿐 아니라 맡겼던 판단의 근거도 잃을 수 있다. 무엇을 믿었고 어떻게 바뀌었는지 전후 관계가 중요하다.\n\n처음부터 적으로 잠입한 사람이 똑똑하다는 경우와는 다르다. 신뢰받던 역할이 실제로 전환되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

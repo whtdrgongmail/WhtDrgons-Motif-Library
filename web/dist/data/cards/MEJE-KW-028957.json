@@ -4,8 +4,8 @@
   "title": "기존 물건을 일부러 서툴게 쓰는 광고",
   "original": "Too Incompetent to Operate a Blanket",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02540",
+  "primary_tag_id": "ML-T02540",
   "description": {
     "definition": "광고 속 인물이 비교 대상 제품을 우스울 정도로 서툴게 사용하여 그 제품이 불편하거나 쓸모없어 보이도록 만드는 연출이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 제품 성능의 객관적 비교가 아니라 사용자의 동작을 통한 인상 조성이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비교 대상 물건의 성능보다 사용자의 과장된 실수가 실패를 만든다. 상품을 쓰기 전 장면을 불리하게 구성한 뒤 새 도구를 쓰는 장면과 대비한다.\n\n흘리기와 넘어뜨리기, 잘못 잡는 동작이 반복되면 기존 방법이 일상적으로 실패하는 것처럼 보인다. 관객은 사용 조건이 다른데도 도구만 바뀌어 문제가 해결되었다고 받아들일 수 있다.\n\n[[간단한 일을 못 하는 사람으로 편의 상품을 팔기]]와 밀접하지만 여기서는 비교 대상 제품을 불리하게 사용하는 연출에 초점을 둔다. 실제 사용상의 결함을 공정하게 시연하는 경우와는 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "비교 대상 물건의 성능보다 사용자의 과장된 실수가 실패를 만든다. 상품을 쓰기 전 장면을 불리하게 구성한 뒤 새 도구를 쓰는 장면과 대비한다.\n\n흘리기와 넘어뜨리기, 잘못 잡는 동작이 반복되면 기존 방법이 일상적으로 실패하는 것처럼 보인다. 관객은 사용 조건이 다른데도 도구만 바뀌어 문제가 해결되었다고 받아들일 수 있다.\n\n[[간단한 일을 못 하는 사람으로 편의 상품을 팔기]]와 밀접하지만 여기서는 비교 대상 제품을 불리하게 사용하는 연출에 초점을 둔다. 실제 사용상의 결함을 공정하게 시연하는 경우와는 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

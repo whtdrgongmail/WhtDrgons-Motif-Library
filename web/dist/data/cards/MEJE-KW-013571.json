@@ -4,19 +4,19 @@
   "title": "비극 직전에 끝내는 각색",
   "original": "Happily Ever Before",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02262",
+  "primary_tag_id": "ML-T02262",
   "description": {
     "definition": "원작의 주요 전개를 따르던 각색물이 비극적 후반부에 이르기 전에 이야기를 끝내어 행복한 결말처럼 바꾸는 방식이다.",
     "detail": "작품 사례: [[The Princess Bride]]의 이야기 속 아버지는 영웅들의 탈출 뒤 상처와 추격이 다시 문제가 되는 마지막 단락을 읽지 않아, 들려주는 이야기를 행복하게 끝낸다.",
-    "usage": "결말의 선택이 원작의 비극성을 어떻게 약화하거나 열린 가능성으로 바꾸는지 살핀다.",
+    "usage": "결말의 선택이 원작의 비극성을 어떻게 약화하거나 열린 가능성으로 바꾸는지 확인한다.",
     "boundary": "사건 자체를 새 결말로 고치는 각색과 달리 종료 시점을 앞당기는 것이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "27",
+    "code": "27.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,12 +38,29 @@
     },
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-001034",
+      "work_card_id": "MM-MEDIA-002775",
       "description_ko": "The Princess Bride의 이야기 속 아버지는 영웅들의 탈출 뒤 상처와 추격이 다시 문제가 되는 마지막 단락을 읽지 않아, 들려주는 이야기를 행복하게 끝낸다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "각색이 비극적 후반부에 도달하기 전에 멈추면, 비극을 새 사건으로 지우지 않고 관객에게 보여 주는 범위를 조절하게 된다. 종료 시점의 이동은 원작의 갈등을 일부 남겨 둔 채 행복한 가능성을 우선하게 하며, 이야기를 듣거나 보는 인물의 선택도 결말의 의미에 참여할 수 있다.\n\n사건을 다시 써서 다른 결말을 만드는 방식과 구별된다. 핵심은 원작의 비극적 사건이 발생하기 전에 각색이 끝나는 데 있으며, 결말 시점의 앞당김이 비극성의 수용 방식을 바꾸어야 한다.\n\n[[The Princess Bride]]의 이야기를 읽는 할아버지는 영웅들의 탈출 뒤 상처와 추격이 다시 문제가 되는 마지막 단락을 읽지 않아, 들려주는 이야기를 행복하게 끝낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "각색이 비극적 후반부에 도달하기 전에 멈추면, 비극을 새 사건으로 지우지 않고 관객에게 보여 주는 범위를 조절하게 된다. 종료 시점의 이동은 원작의 갈등을 일부 남겨 둔 채 행복한 가능성을 우선하게 하며, 이야기를 듣거나 보는 인물의 선택도 결말의 의미에 참여할 수 있다.\n\n사건을 다시 써서 다른 결말을 만드는 방식과 구별된다. 핵심은 원작의 비극적 사건이 발생하기 전에 각색이 끝나는 데 있으며, 결말 시점의 앞당김이 비극성의 수용 방식을 바꾸어야 한다."
+      ],
+      [
+        "사례",
+        "[[The Princess Bride]]의 이야기를 읽는 할아버지는 영웅들의 탈출 뒤 상처와 추격이 다시 문제가 되는 마지막 단락을 읽지 않아, 들려주는 이야기를 행복하게 끝낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

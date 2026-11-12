@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "메트로이드 II: 리턴 오브 사무스",
   "original": "Metroid II: Return of Samus",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Metroid II: Return of Samus"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《메트로이드 II: 리턴 오브 사무스》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《메트로이드 II: 리턴 오브 사무스》의 메트로이드는 고향 행성에서 부유하는 해파리 같은 모습으로부터 딱정벌레와 거대한 도마뱀을 닮은 단계로 변한다. 몸의 형태와 위협 방식이 성장 단계마다 달라진다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,9 +41,26 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014325",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-019116",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《메트로이드 II: 리턴 오브 사무스》에서는 사무스가 메트로이드의 고향 행성으로 향한다. 사무스가 메트로이드의 여러 성장 형태를 상대하며 탐험을 진행한다.\n\n메트로이드는 부유하는 해파리 같은 모습에서 딱정벌레와 거대한 도마뱀을 닮은 단계로 변한다. 같은 종의 적도 단계에 따라 외형과 대응 방법이 달라져 단일한 적의 반복과 차이가 생긴다.\n\n성장은 크기의 증가만으로 표현되지 않는다. 몸의 구조가 바뀌며 상대가 만드는 위협과 대응 방식도 단계별로 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《메트로이드 II: 리턴 오브 사무스》에서는 사무스가 메트로이드의 고향 행성으로 향한다. 사무스가 메트로이드의 여러 성장 형태를 상대하며 탐험을 진행한다.\n\n메트로이드는 부유하는 해파리 같은 모습에서 딱정벌레와 거대한 도마뱀을 닮은 단계로 변한다. 같은 종의 적도 단계에 따라 외형과 대응 방법이 달라져 단일한 적의 반복과 차이가 생긴다.\n\n성장은 크기의 증가만으로 표현되지 않는다. 몸의 구조가 바뀌며 상대가 만드는 위협과 대응 방식도 단계별로 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

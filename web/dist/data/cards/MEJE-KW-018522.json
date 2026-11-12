@@ -4,8 +4,8 @@
   "title": "렌즈 필터로 대기와 색감 만들기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01863",
+  "primary_tag_id": "ML-T01863",
   "description": {
     "definition": "렌즈 앞의 필터로 안개 같은 흐림이나 특정 색의 그라데이션을 만들어 장면의 기상·시간·정서를 바꾼다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "후반 색 보정이나 실제 연기를 피우는 방법과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "촬영할 때 렌즈 앞에 필터를 두어 흐림이나 색의 그라데이션을 기록한다. 안개 같은 대기감과 특정 색의 변화가 장면의 표현에 관여한다.\n\n기상과 시간의 인상뿐 아니라 정서도 조절하는 수단이 된다. 촬영 원본에 색조와 대기감을 함께 남긴다는 점이 이 방식의 기능이다.\n\n촬영 뒤 색을 바꾸는 후반 작업과는 적용 시점이 다르다. 실제 공간에 연기를 발생시켜 흐림을 만드는 방법과도 수단을 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "촬영할 때 렌즈 앞에 필터를 두어 흐림이나 색의 그라데이션을 기록한다. 안개 같은 대기감과 특정 색의 변화가 장면의 표현에 관여한다.\n\n기상과 시간의 인상뿐 아니라 정서도 조절하는 수단이 된다. 촬영 원본에 색조와 대기감을 함께 남긴다는 점이 이 방식의 기능이다.\n\n촬영 뒤 색을 바꾸는 후반 작업과는 적용 시점이 다르다. 실제 공간에 연기를 발생시켜 흐림을 만드는 방법과도 수단을 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,17 +4,17 @@
   "title": "젤다의 전설 스카이워드 소드",
   "original": "The Legend of Zelda: Skyward Sword",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《젤다의 전설 스카이워드 소드》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《젤다의 전설 스카이워드 소드》에서는 물약 메달을 지니고 있으면 물약 효과의 지속 시간이 세 배가 되어 같은 소모품을 더 오래 활용한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《젤다의 전설 스카이워드 소드》에서는 물약 메달을 지니고 있으면 물약 효과의 지속 시간이 세 배가 되어 같은 소모품을 더 오래 활용한다.",
+    "easy_ko": "《젤다의 전설 스카이워드 소드》는 링크가 젤다를 찾아 하늘섬에서 지상으로 내려가는 비디오게임이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,6 +41,10 @@
     {
       "card_id": "MEJE-KW-021250",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-022312",
+      "row_version": 2
     },
     {
       "card_id": "MEJE-KW-028035",
@@ -59,5 +63,33 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000293",
+      "card_id": "MM-MEDIA-002028",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://zelda.nintendo.com/about/",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "하늘의 섬과 지상 세계를 오가는 여정은 장소마다 다른 이동·탐색 조건을 만든다. 링크가 젤다를 찾는 목표는 장소의 변화와 장비 사용을 하나의 진행 경로로 묶는다.\n\n게임의 기능은 세계 속 행동으로 설명되기도 한다. 새의 석상에서 저장하는 동작을 여신에게 기도하는 행위로 제시하면 [[저장을 이야기 속 행동으로 설명하기]]가 성립한다. 물약 메달처럼 소모품의 효과를 늘리는 장비는 같은 아이템의 사용 가치를 바꾼다.\n\n작품 사례: 링크가 새의 석상에서 저장할 때 그 행동은 여신에게 기도하는 것으로 표현된다. 메뉴 기능과 이야기 속 행위가 같은 장면에 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "하늘의 섬과 지상 세계를 오가는 여정은 장소마다 다른 이동·탐색 조건을 만든다. 링크가 젤다를 찾는 목표는 장소의 변화와 장비 사용을 하나의 진행 경로로 묶는다.\n\n게임의 기능은 세계 속 행동으로 설명되기도 한다. 새의 석상에서 저장하는 동작을 여신에게 기도하는 행위로 제시하면 [[저장을 이야기 속 행동으로 설명하기]]가 성립한다. 물약 메달처럼 소모품의 효과를 늘리는 장비는 같은 아이템의 사용 가치를 바꾼다."
+      ],
+      [
+        "사례",
+        "작품 사례: 링크가 새의 석상에서 저장할 때 그 행동은 여신에게 기도하는 것으로 표현된다. 메뉴 기능과 이야기 속 행위가 같은 장면에 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "명절을 중심에 둔 특별 회차",
   "original": "Holiday Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00556",
+  "primary_tag_id": "ML-T00556",
   "description": {
     "definition": "연속 작품의 한 회차나 장에서 특정 명절의 관습·준비·축하를 중심 사건과 주제로 삼는 구성이다.",
     "detail": "작품 사례: [[Married... with Children]]의 노동절 회차에서는 앨이 바비큐를 준비하고, 켈리가 이웃의 유골을 재료로 착각하는 소동이 벌어진다.",
@@ -13,10 +13,10 @@
     "boundary": "배경에 장식만 있거나 작품 전체가 명절과 무관하게 진행되는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.001.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "회차의 중심 갈등과 행동을 특정 명절의 의식과 관습, 의미에 의존하도록 구성하는 형식이다. 익숙한 인물들이 그날에만 생기는 과제를 겪을 수 있다.\n\n배경의 장식만 명절인 경우와 다르다. 같은 사건을 다른 날로 옮겨도 관계가 없을 정도라면 명절이 중심인 회차라고 보기 어렵다.\n\n[[Married... with Children]]의 노동절 회차에서 앨은 바비큐를 준비한다. 켈리가 이웃의 유골을 재료로 착각하는 소동은 기념일의 식사 준비를 중심으로 발생한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "회차의 중심 갈등과 행동을 특정 명절의 의식과 관습, 의미에 의존하도록 구성하는 형식이다. 익숙한 인물들이 그날에만 생기는 과제를 겪을 수 있다.\n\n배경의 장식만 명절인 경우와 다르다. 같은 사건을 다른 날로 옮겨도 관계가 없을 정도라면 명절이 중심인 회차라고 보기 어렵다."
+      ],
+      [
+        "관련 작품",
+        "[[Married... with Children]]의 노동절 회차에서 앨은 바비큐를 준비한다. 켈리가 이웃의 유골을 재료로 착각하는 소동은 기념일의 식사 준비를 중심으로 발생한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

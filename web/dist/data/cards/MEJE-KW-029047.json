@@ -4,8 +4,8 @@
   "title": "생산 능력보다 앞서 쌓이는 자원",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02097",
+  "primary_tag_id": "ML-T02097",
   "description": {
     "definition": "자원 채집 속도는 높지만 건물·연구·생산 체계가 뒤처져 확보한 자원을 필요한 유닛과 능력으로 전환하지 못하는 상태다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "재화 자체가 가치 없는 것과 달리 투자·생산의 준비가 부족한 일시적 병목이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자원은 빠르게 쌓이지만 생산과 연구 체계가 이를 활용하지 못한다. 보유량과 실제 전력으로 바꾸는 능력 사이의 병목이다.\n\n채집의 성공만으로 필요한 유닛과 기능이 생기지 않는다. 무엇이 부족한지와 어느 체계가 뒤처졌는지 나누어 투자 순서를 이해할 수 있다.\n\n자원이 가치 없어진 경우와 다르다. 활용할 준비가 부족한 일시적인 제약이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자원은 빠르게 쌓이지만 생산과 연구 체계가 이를 활용하지 못한다. 보유량과 실제 전력으로 바꾸는 능력 사이의 병목이다.\n\n채집의 성공만으로 필요한 유닛과 기능이 생기지 않는다. 무엇이 부족한지와 어느 체계가 뒤처졌는지 나누어 투자 순서를 이해할 수 있다.\n\n자원이 가치 없어진 경우와 다르다. 활용할 준비가 부족한 일시적인 제약이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

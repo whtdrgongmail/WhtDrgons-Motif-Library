@@ -4,8 +4,8 @@
   "title": "우화",
   "original": "Fable",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-009308",
+  "primary_tag_id": "MEJE-KW-009308",
   "description": {
     "definition": "동물이나 사람의 짧은 이야기에 비유와 교훈을 담아 행동의 의미를 돌아보게 하는 이야기 형식이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.403",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "우화는 간결한 사건을 통해 행동의 결과나 사회적 관습을 비유적으로 생각하게 하는 이야기 형식이다. 동물은 사람의 성격이나 권력 관계를 압축해 표현할 수 있고, 인간 인물도 같은 역할을 할 수 있다. 이야기가 제시하는 교훈은 직접 말해질 수도 있고, 사건의 결과를 독자가 해석하면서 드러날 수도 있다.\n\n동물이 주인공인 이야기라고 모두 우화인 것은 아니다. 비유적 층위와 행동에 대한 성찰이 이야기의 구조에 실제로 기여하는지가 판정 기준이며, 교훈이 명시되지 않았다는 이유만으로 배제할 필요도 없다. 짧은 형식이 흔하지만 분량만이 판정 기준은 아니므로, 작품이 인물의 개별 모험보다 일반화할 수 있는 행동이나 규범을 어떻게 제시하는지 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "우화는 간결한 사건을 통해 행동의 결과나 사회적 관습을 비유적으로 생각하게 하는 이야기 형식이다. 동물은 사람의 성격이나 권력 관계를 압축해 표현할 수 있고, 인간 인물도 같은 역할을 할 수 있다. 이야기가 제시하는 교훈은 직접 말해질 수도 있고, 사건의 결과를 독자가 해석하면서 드러날 수도 있다.\n\n동물이 주인공인 이야기라고 모두 우화인 것은 아니다. 비유적 층위와 행동에 대한 성찰이 이야기의 구조에 실제로 기여하는지가 판정 기준이며, 교훈이 명시되지 않았다는 이유만으로 배제할 필요도 없다. 짧은 형식이 흔하지만 분량만이 판정 기준은 아니므로, 작품이 인물의 개별 모험보다 일반화할 수 있는 행동이나 규범을 어떻게 제시하는지 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

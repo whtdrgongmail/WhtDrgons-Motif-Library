@@ -4,27 +4,27 @@
   "title": "포켓몬스터",
   "original": "Pokémon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《포켓몬스터》는 미디어 작품이다.",
-    "detail": "작품 사례: 《포켓몬스터》 게임의 알 그룹 규칙에서는 작은 고양이형 에나비와 거대한 고래형 고래왕도 짝을 이룰 수 있다. 외형보다 게임 내부의 호환 규칙이 자손을 얻는 조건을 정하는 사례다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《포켓몬스터》는 포켓몬이라는 생명체와 인간 트레이너의 활동을 중심으로 한 미디어 작품군이다. 게임에서 출발해 카드게임과 영상 등으로 확장되었으며 매체마다 같은 이름과 세계의 소재를 활용한다.\n\n게임에서는 포켓몬을 잡고 기르며 다른 포켓몬과 대결한다. 포켓몬과 기술의 타입 관계가 전투의 선택에 영향을 주고, 서로 다른 판본과의 교환은 다른 플레이어와 연결되는 계기가 된다.\n\n작품군 전체와 특정 게임·애니메이션의 사건 범위는 같지 않다. 한 매체에서 만난 인물이나 규칙을 다른 모든 판본에 그대로 적용하지 않고, 매체와 작품 단위를 나누어 이해해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《포켓몬스터》는 포켓몬이라는 생명체와 인간 트레이너의 활동을 중심으로 한 미디어 작품군이다. 게임에서 출발해 카드게임과 영상 등으로 확장되었으며 매체마다 같은 이름과 세계의 소재를 활용한다.\n\n게임에서는 포켓몬을 잡고 기르며 다른 포켓몬과 대결한다. 포켓몬과 기술의 타입 관계가 전투의 선택에 영향을 주고, 서로 다른 판본과의 교환은 다른 플레이어와 연결되는 계기가 된다.\n\n작품군 전체와 특정 게임·애니메이션의 사건 범위는 같지 않다. 한 매체에서 만난 인물이나 규칙을 다른 모든 판본에 그대로 적용하지 않고, 매체와 작품 단위를 나누어 이해해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

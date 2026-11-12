@@ -4,8 +4,8 @@
   "title": "팬덤이 터무니없이 강화한 강자",
   "original": "Memetic Badass",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02301",
+  "primary_tag_id": "ML-T02301",
   "description": {
     "definition": "팬들이 인물의 능력과 전투력을 원작의 한계를 넘어 신적인 수준으로 과장하는 수용 현상이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "작품 안에서 실제로 강하거나 명성이 높은 것과 구별한다. 널리 퍼진 인터넷 유행뿐 아니라 팬 집단 내부의 농담도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00084",
-      "work_card_id": "MM-MEDIA-002895",
+      "work_card_id": "MM-MEDIA-002587",
       "description_ko": "《포켓몬 카드 게임》의 초기 리자몽 카드는 원문에서 비용과 공격 효율의 한계에도 일부 팬들이 절대적으로 가장 강하다고 주장하는 사례로 제시된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "팬들이 인물의 능력을 원작보다 터무니없이 강하게 만든다. 작은 성과와 농담이 신적인 전투력의 이미지로 확대된다.\n\n공동체의 반복이 원래 설정과 다른 인식을 굳힐 수 있다. 실제로 확인된 능력과 팬의 과장을 따로 기술해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "팬들이 인물의 능력을 원작보다 터무니없이 강하게 만든다. 작은 성과와 농담이 신적인 전투력의 이미지로 확대된다.\n\n공동체의 반복이 원래 설정과 다른 인식을 굳힐 수 있다. 실제로 확인된 능력과 팬의 과장을 따로 기술해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

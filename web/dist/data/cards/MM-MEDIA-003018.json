@@ -4,17 +4,17 @@
   "title": "드래곤볼 어드밴스 어드벤처",
   "original": "Dragon Ball: Advanced Adventure",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《드래곤볼 어드밴스 어드벤처》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《드래곤볼 어드밴스 어드벤처》에서 일정한 연속 공격을 받은 보스는 잠시 파랗게 깜빡이며 추가 피해를 받지 않는다. 연속 타격을 끊는 보호 규칙이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -47,5 +47,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《드래곤볼 어드밴스 어드벤처》는 원작 초반의 모험을 각색한 액션 플랫폼 게임이다. 손오공의 초기 모험을 횡스크롤 이동과 격투 구간으로 재구성한다.\n\n일정한 연속 공격을 받은 보스는 잠시 파랗게 깜빡인다. 그동안에는 추가 피해를 받지 않는다. 보스의 피격 뒤 무적 시간은 계속 공격하는 행동의 효율을 제한하여 전투의 간격을 만든다.\n\n이 보호 시간은 연속 타격을 무한히 이어 가는 일을 막는다. 적의 체력과 별도로 공격의 지속을 제한하는 규칙이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《드래곤볼 어드밴스 어드벤처》는 원작 초반의 모험을 각색한 액션 플랫폼 게임이다. 손오공의 초기 모험을 횡스크롤 이동과 격투 구간으로 재구성한다.\n\n일정한 연속 공격을 받은 보스는 잠시 파랗게 깜빡인다. 그동안에는 추가 피해를 받지 않는다. 보스의 피격 뒤 무적 시간은 계속 공격하는 행동의 효율을 제한하여 전투의 간격을 만든다.\n\n이 보호 시간은 연속 타격을 무한히 이어 가는 일을 막는다. 적의 체력과 별도로 공격의 지속을 제한하는 규칙이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

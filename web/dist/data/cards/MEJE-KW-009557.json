@@ -4,8 +4,8 @@
   "title": "유명한 가족의 그림자",
   "original": "Familial Fame Frustrations",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00970",
+  "primary_tag_id": "ML-T00970",
   "description": {
     "definition": "가족 중 한 사람이 유명해지면서 다른 가족이 사생활 침해, 비교, 주변의 접근 같은 부담을 겪는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가족 중 유명인이 있어 다른 구성원도 비교와 사생활 침해를 겪는 설정이다. 직접 선택하지 않은 명성이 일상에 영향을 준다.\n\n팬과 언론이 접근하거나 유명한 가족에게 연결되려는 사람이 거짓 친분을 만들 수 있다. 자신의 성취가 가족의 명성과 비교되어 [[정체성]]의 부담이 생기기도 한다.\n\n유명인 본인이 겪는 피로와는 관점이 다르다. 명성의 이익과 불이익이 주변 관계로 퍼진다는 점이 중심이며, 가족의 반응은 서로 다를 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가족 중 유명인이 있어 다른 구성원도 비교와 사생활 침해를 겪는 설정이다. 직접 선택하지 않은 명성이 일상에 영향을 준다.\n\n팬과 언론이 접근하거나 유명한 가족에게 연결되려는 사람이 거짓 친분을 만들 수 있다. 자신의 성취가 가족의 명성과 비교되어 [[정체성]]의 부담이 생기기도 한다.\n\n유명인 본인이 겪는 피로와는 관점이 다르다. 명성의 이익과 불이익이 주변 관계로 퍼진다는 점이 중심이며, 가족의 반응은 서로 다를 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

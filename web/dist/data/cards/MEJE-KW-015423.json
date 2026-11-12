@@ -4,8 +4,8 @@
   "title": "라이벌이 악당으로 변하기",
   "original": "Rival Turned Evil",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01021",
+  "primary_tag_id": "ML-T01021",
   "description": {
     "definition": "존중할 만한 경쟁자였던 인물이 점차 악해져 기존의 승부 관계가 심각한 적대 관계로 변하는 전개다.",
     "detail": "작품 사례: [[Naruto]]에서 더 강한 닌자가 되려고 경쟁하던 Naruto와 Sasuke의 관계는 Sasuke가 악한 길로 들어서면서, 시리즈를 가로지르는 적대 관계로 변한다.",
@@ -13,14 +13,20 @@
     "boundary": "처음부터 악의적 적이었던 경쟁자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 겨루던 상대가 이기기 위해 [[금기]]를 넘으며 진짜 적이 된다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기존의 승부는 서로 겨룰 수 있다는 공통 규칙과 상대에 대한 인정을 전제로 할 수 있다. 한쪽이 힘을 얻기 위해 그 한계를 넘으면 경쟁은 단순한 순위 다툼에서 상대를 저지해야 하는 대립으로 바뀐다.\n\n처음부터 악의적으로 해치려던 적을 경쟁자라고 불렀다는 이유만으로 같은 변화가 성립하지는 않는다. 악역화 이전의 경쟁 관계와 이후의 선택이 어떻게 달라졌는지를 비교해야 한다.\n\n[[Naruto]]에서 더 강한 닌자가 되려고 경쟁하던 Naruto와 Sasuke의 관계는 Sasuke가 악한 길로 들어서면서, 시리즈를 가로지르는 적대 관계로 변한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기존의 승부는 서로 겨룰 수 있다는 공통 규칙과 상대에 대한 인정을 전제로 할 수 있다. 한쪽이 힘을 얻기 위해 그 한계를 넘으면 경쟁은 단순한 순위 다툼에서 상대를 저지해야 하는 대립으로 바뀐다.\n\n처음부터 악의적으로 해치려던 적을 경쟁자라고 불렀다는 이유만으로 같은 변화가 성립하지는 않는다. 악역화 이전의 경쟁 관계와 이후의 선택이 어떻게 달라졌는지를 비교해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Naruto]]에서 더 강한 닌자가 되려고 경쟁하던 Naruto와 Sasuke의 관계는 Sasuke가 악한 길로 들어서면서, 시리즈를 가로지르는 적대 관계로 변한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "하나의 이야기를 위해 만든 록 오페라",
   "original": "Rock Opera",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00557",
+  "primary_tag_id": "ML-T00557",
   "description": {
     "definition": "처음부터 여러 곡이 하나의 [[서사]]를 이루도록 구성한 콘셉트 앨범이나 그 음악적 이야기 형식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "기존에 무관하게 발표된 인기곡을 나중에 엮는 주크박스 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.001.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 록 음악이 처음부터 하나의 완결된 이야기를 이루도록 구성한 형식이다. 공통 주제만 공유하는 앨범보다 인물과 사건의 연결이 뚜렷하다.\n\n한 화자가 전 과정을 노래하거나 여러 가수가 서로 다른 인물로 대화할 수 있다. 곡의 순서와 반복되는 음악이 사건의 진행과 관계의 변화를 전달한다.\n\n반드시 무대에서 연기하도록 만들어진 작품은 아니다. 앨범으로 완성된 이야기와 이후 공연을 위해 각색된 버전은 별개의 형식으로 구분할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 록 음악이 처음부터 하나의 완결된 이야기를 이루도록 구성한 형식이다. 공통 주제만 공유하는 앨범보다 인물과 사건의 연결이 뚜렷하다.\n\n한 화자가 전 과정을 노래하거나 여러 가수가 서로 다른 인물로 대화할 수 있다. 곡의 순서와 반복되는 음악이 사건의 진행과 관계의 변화를 전달한다.\n\n반드시 무대에서 연기하도록 만들어진 작품은 아니다. 앨범으로 완성된 이야기와 이후 공연을 위해 각색된 버전은 별개의 형식으로 구분할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

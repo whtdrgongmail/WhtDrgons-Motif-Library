@@ -5,8 +5,8 @@
   "original": "A Controversial Episode Disappears from Distribution",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "특정 장면이나 농담이 논란을 일으키거나 사회적 사건과 충돌하여 제작된 회차가 재방송·온라인 제공 목록에서 제외되는 경우다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "회차 사본이 소실된 경우와 다르며 일부 편집 뒤 다시 제공될 수도 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이미 제작된 회차가 장면과 농담의 논란이나 사회적 사건 때문에 유통 목록에서 빠진다. 작품은 존재하지만 다시 접근할 수 있는 범위가 줄어든다.\n\n재방송과 온라인 제공의 결정은 이후 관객이 작품을 경험하는 조건을 바꾼다. 왜 제외되었는지와 어떤 판본에 접근할 수 있는지 구분해 기록해야 한다.\n\n사본이 사라져 제공하지 못하는 소실과 다르다. 일부 편집을 거쳐 다시 공개되는 경우도 있어 접근 단절이 항상 영구적인 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이미 제작된 회차가 장면과 농담의 논란이나 사회적 사건 때문에 유통 목록에서 빠진다. 작품은 존재하지만 다시 접근할 수 있는 범위가 줄어든다.\n\n재방송과 온라인 제공의 결정은 이후 관객이 작품을 경험하는 조건을 바꾼다. 왜 제외되었는지와 어떤 판본에 접근할 수 있는지 구분해 기록해야 한다.\n\n사본이 사라져 제공하지 못하는 소실과 다르다. 일부 편집을 거쳐 다시 공개되는 경우도 있어 접근 단절이 항상 영구적인 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

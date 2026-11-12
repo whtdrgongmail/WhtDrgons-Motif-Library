@@ -4,8 +4,8 @@
   "title": "지금 사지 않으면 기회를 잃는다는 판매 압박",
   "original": "Off the Table",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "상품이나 가격 혜택이 곧 사라질 것처럼 제시하여 충분히 비교하기 전에 구매하도록 조급함을 만드는 홍보이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "판매 기간이 있다는 사실만보다 기회 상실의 압박을 설득에 쓰는 기능이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상품이나 혜택을 얻을 시간이 얼마 남지 않았다고 강조해 결정을 재촉한다. 소비자가 비교할 내용보다 기회를 잃을 가능성이 전면에 제시되는 홍보다.\n\n주의가 품질과 필요성의 검토에서 남은 시간으로 이동한다. 구매를 미루는 행동 자체가 손실처럼 느껴지면 아직 판단이 끝나지 않아도 결제해야 한다는 압박이 생긴다.\n\n실제로 기간과 수량이 제한되어 있는지, 그 제한을 어떤 말로 강조하는지는 서로 다른 정보다. 유효한 할인 기간을 안내하는 사실과 충분한 비교를 방해할 정도로 조급함을 유도하는 표현을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상품이나 혜택을 얻을 시간이 얼마 남지 않았다고 강조해 결정을 재촉한다. 소비자가 비교할 내용보다 기회를 잃을 가능성이 전면에 제시되는 홍보다.\n\n주의가 품질과 필요성의 검토에서 남은 시간으로 이동한다. 구매를 미루는 행동 자체가 손실처럼 느껴지면 아직 판단이 끝나지 않아도 결제해야 한다는 압박이 생긴다.\n\n실제로 기간과 수량이 제한되어 있는지, 그 제한을 어떤 말로 강조하는지는 서로 다른 정보다. 유효한 할인 기간을 안내하는 사실과 충분한 비교를 방해할 정도로 조급함을 유도하는 표현을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

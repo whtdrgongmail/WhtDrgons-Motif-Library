@@ -4,8 +4,8 @@
   "title": "사후에 되찾는 건강한 모습",
   "original": "Healthy in Heaven",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02507",
+  "primary_tag_id": "ML-T02507",
   "description": {
     "definition": "죽은 인물의 영혼이 생전의 질병·노화·상처 등에서 벗어나 자신에게 이상적인 모습으로 나타나는 [[사후세계]] 표현이다.",
     "detail": "작품 사례: [[ElfQuest]]에서 One Eye의 영혼은 한동안 안대를 유지하지만, Clearbrook이 그를 놓아주자 다시 두 눈을 가진 모습으로 나타난다.",
@@ -13,10 +13,10 @@
     "boundary": "죽음 당시의 상처나 차림이 그대로 남는 [[유령]]과 구별하며 이상적인 모습은 인물의 자기 인식에 따를 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사망 뒤 나타난 모습이 죽는 순간의 육체 상태를 그대로 따르지 않는다. 질병과 상처, 나이로 인한 제약이 사라져 인물이 이상적으로 여기는 형상이 드러날 수 있다.\n\n외형의 회복은 죽음 이후의 상태나 남겨진 사람의 수용을 시각화하는 수단이다. 모습이 바뀌는 시점이 제시되면 관계의 변화와 영혼의 상태를 연결할 수 있다.\n\n상처를 유지한 [[유령]]과는 신체 흔적의 처리 방식이 다르다. 이상적인 형태가 무엇인지는 인물의 자기 인식에 달릴 수 있어 모두가 같은 나이나 모습으로 돌아간다고 일반화하지 않는다.\n\n[[ElfQuest]]에서 One Eye의 영혼은 안대를 유지하다가 Clearbrook이 그를 보내 주자 두 눈을 가진 모습이 된다.\n\n[[ElfQuest]]",
+    "sections": [
+      [
+        "상세 설명",
+        "사망 뒤 나타난 모습이 죽는 순간의 육체 상태를 그대로 따르지 않는다. 질병과 상처, 나이로 인한 제약이 사라져 인물이 이상적으로 여기는 형상이 드러날 수 있다.\n\n외형의 회복은 죽음 이후의 상태나 남겨진 사람의 수용을 시각화하는 수단이다. 모습이 바뀌는 시점이 제시되면 관계의 변화와 영혼의 상태를 연결할 수 있다.\n\n상처를 유지한 [[유령]]과는 신체 흔적의 처리 방식이 다르다. 이상적인 형태가 무엇인지는 인물의 자기 인식에 달릴 수 있어 모두가 같은 나이나 모습으로 돌아간다고 일반화하지 않는다."
+      ],
+      [
+        "사례",
+        "[[ElfQuest]]에서 One Eye의 영혼은 안대를 유지하다가 Clearbrook이 그를 보내 주자 두 눈을 가진 모습이 된다."
+      ],
+      [
+        "관련 작품",
+        "[[ElfQuest]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

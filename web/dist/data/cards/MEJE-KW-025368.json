@@ -5,8 +5,8 @@
   "original": "The Masked Soldiers Get Distinct Personalities",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00720",
+  "primary_tag_id": "ML-T00720",
   "description": {
     "definition": "비슷한 장비와 가면으로 구분하기 어려운 병사들에게 익살스러운 대화와 개성을 부여한다.",
     "detail": "작품 사례: 웹 애니메이션 《[[레드 vs. 블루]]》는 얼굴을 드러내지 않는 병사들의 말다툼과 재치 있는 대화를 중심으로 인물의 개성을 만든다.",
@@ -14,10 +14,10 @@
     "boundary": "가면을 썼다는 사실만이 아니라 개성과 익살의 대비가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "06.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "병사들은 가면과 같은 장비 때문에 외형으로 구분하기 어렵다. 그 대신 말다툼과 재치, 말투의 차이가 각 인물의 정체를 만든다.\n\n제한된 시각 모델을 대사 중심의 군상극으로 활용하는 방식이다. 얼굴을 공개하지 않아도 인물 사이의 관계와 성격이 뚜렷해질 수 있다.\n\n마스크를 쓴 병사가 있다는 사실만으로는 부족하다. 익명적인 외관과 수다스러운 개성이 대비되어야 한다.\n\n[[레드 vs. 블루]]는 얼굴을 드러내지 않는 병사들의 대화와 말다툼으로 개성을 구성한다.\n\n[[레드 vs. 블루]]",
+    "sections": [
+      [
+        "상세 설명",
+        "병사들은 가면과 같은 장비 때문에 외형으로 구분하기 어렵다. 그 대신 말다툼과 재치, 말투의 차이가 각 인물의 정체를 만든다.\n\n제한된 시각 모델을 대사 중심의 군상극으로 활용하는 방식이다. 얼굴을 공개하지 않아도 인물 사이의 관계와 성격이 뚜렷해질 수 있다.\n\n마스크를 쓴 병사가 있다는 사실만으로는 부족하다. 익명적인 외관과 수다스러운 개성이 대비되어야 한다."
+      ],
+      [
+        "사례",
+        "[[레드 vs. 블루]]는 얼굴을 드러내지 않는 병사들의 대화와 말다툼으로 개성을 구성한다."
+      ],
+      [
+        "관련 작품",
+        "[[레드 vs. 블루]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

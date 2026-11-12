@@ -4,8 +4,8 @@
   "title": "탐험 중심 공포 게임",
   "original": "Explorer Horror",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00248",
+  "primary_tag_id": "ML-T00248",
   "description": {
     "definition": "위협과 직접 싸우기보다 공간을 탐색하고 퍼즐을 풀며 불안을 겪는 공포 게임 유형이다. [[악역의 거처를 탐색하다]]은 탐험 중심 공포 게임의 무대와 진행 구간이 될 수 있다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.105",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "탐험 중심 공포 게임은 위협을 물리치는 전투보다 낯선 공간을 돌아다니고 단서를 찾는 동안 불안을 쌓는다. 퍼즐과 이동이 공포를 느끼는 과정에 엮여 있어, 전투가 중심인 공포 게임과 플레이의 긴장이 다르다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "적을 직접 쓰러뜨리는 전투보다 탐색과 퍼즐로 위협을 견디는 공포 게임이다. 정보를 얻고 길을 찾는 행동이 생존의 핵심이 된다.\n\n단순한 그래픽도 제한된 시야와 소리, 흔적을 통해 불안을 만들 수 있다. 적에게 맞설 수 없으면 장소의 구조와 규칙을 이해하는 일이 무기 사용을 대신한다.\n\n공포 분위기의 모든 모험 게임과 같은 범주는 아니다. 탐험과 문제 해결의 비중을 확인해야 하며 전투가 일부 있어도 직접 대결이 주된 해결이 아니면 같은 방향을 가질 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "적을 직접 쓰러뜨리는 전투보다 탐색과 퍼즐로 위협을 견디는 공포 게임이다. 정보를 얻고 길을 찾는 행동이 생존의 핵심이 된다.\n\n단순한 그래픽도 제한된 시야와 소리, 흔적을 통해 불안을 만들 수 있다. 적에게 맞설 수 없으면 장소의 구조와 규칙을 이해하는 일이 무기 사용을 대신한다.\n\n공포 분위기의 모든 모험 게임과 같은 범주는 아니다. 탐험과 문제 해결의 비중을 확인해야 하며 전투가 일부 있어도 직접 대결이 주된 해결이 아니면 같은 방향을 가질 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

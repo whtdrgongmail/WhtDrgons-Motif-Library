@@ -4,8 +4,8 @@
   "title": "실험으로 설명하는 과학 방송",
   "original": "Experiment Show",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00064",
+  "primary_tag_id": "ML-T00064",
   "description": {
     "definition": "질문을 제시하고 시연과 실험을 통해 답을 찾아가는 교양·오락 방송 유형이다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "02.014.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "질문을 제시하고 장치 제작과 시연, 실험으로 답을 찾아가는 과학 교양 방송이다. 관객이 주장보다 검증의 과정을 보도록 구성한다.\n\n실패와 재설계는 방법을 수정하는 과학의 특징을 전달한다. 큰 폭발과 기이한 장치는 관심을 끌지만 볼거리가 결과의 한계와 조건을 가릴 수도 있다.\n\n오락적인 재현이 모든 연구 기준을 충족한다는 뜻은 아니다. 통제와 반복, 측정의 범위를 구분해야 하며 한 번의 결과로 보편적인 결론을 확정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "질문을 제시하고 장치 제작과 시연, 실험으로 답을 찾아가는 과학 교양 방송이다. 관객이 주장보다 검증의 과정을 보도록 구성한다.\n\n실패와 재설계는 방법을 수정하는 과학의 특징을 전달한다. 큰 폭발과 기이한 장치는 관심을 끌지만 볼거리가 결과의 한계와 조건을 가릴 수도 있다.\n\n오락적인 재현이 모든 연구 기준을 충족한다는 뜻은 아니다. 통제와 반복, 측정의 범위를 구분해야 하며 한 번의 결과로 보편적인 결론을 확정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

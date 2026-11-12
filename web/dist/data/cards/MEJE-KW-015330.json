@@ -6,8 +6,8 @@
   "aliases": [
     "주변 물건을 붕대 대신 쓰기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00801",
+  "primary_tag_id": "ML-T00801",
   "description": {
     "definition": "상처를 돌볼 정규 물품이 없는 상황에서 가까이에 있던 물건을 붕대 대신 사용하게 하는 장면이다.",
     "detail": "작품 사례: 《[[진격의 거인]]》에서 히스토리아는 우트가르드 성 전투 중 팔을 다친 라이너를 위해 치마를 찢어 임시 고정용 천으로 쓴다.",
@@ -15,10 +15,10 @@
     "boundary": "특정 재료의 실제 안전성이나 처치 절차가 아니라 자원 부족 속 대응을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.008.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -33,12 +33,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001312",
+      "work_card_id": "MM-MEDIA-002207",
       "description_ko": "《진격의 거인》에서 히스토리아는 우트가르드 성 전투 중 팔을 다친 라이너를 위해 치마를 찢어 임시 고정용 천으로 쓴다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정규 의료 자원이 없는 상황에서 주변 천과 의복을 임시 붕대와 고정 소품으로 사용하는 표현이다. 부족한 물자와 돌봄의 선택이 같은 행동에 나타난다.\n\n특정 재료의 안전성과 실제 처치 절차를 설명하지 않는다. 자원의 제약과 인물이 돕는 관계를 중심으로 기술한다.\n\n《[[진격의 거인]]》의 히스토리아는 우트가르드 성 전투에서 팔을 다친 라이너를 돕는다. 자신의 치마를 찢어 임시 고정용 천으로 사용해 일상 물건이 돌봄의 수단으로 바뀐다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정규 의료 자원이 없는 상황에서 주변 천과 의복을 임시 붕대와 고정 소품으로 사용하는 표현이다. 부족한 물자와 돌봄의 선택이 같은 행동에 나타난다.\n\n특정 재료의 안전성과 실제 처치 절차를 설명하지 않는다. 자원의 제약과 인물이 돕는 관계를 중심으로 기술한다."
+      ],
+      [
+        "관련 작품",
+        "《[[진격의 거인]]》의 히스토리아는 우트가르드 성 전투에서 팔을 다친 라이너를 돕는다. 자신의 치마를 찢어 임시 고정용 천으로 사용해 일상 물건이 돌봄의 수단으로 바뀐다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

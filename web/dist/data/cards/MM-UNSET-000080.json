@@ -4,22 +4,56 @@
   "title": "제거",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02514",
+  "primary_tag_id": "ML-T02514",
   "description": {
-    "definition": "",
+    "definition": "카드 게임에서 특정 카드를 [[덱]]이나 사용 가능한 영역에서 빼내어, 이후의 정상적인 카드 순환에 참여하지 못하게 하는 효과다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "25.013",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "카드를 단순히 다른 순서로 섞는 대신, 앞으로 뽑거나 쓸 수 있는 카드 목록에서 빼는 규칙이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "제거는 카드가 어느 영역에서 빠지고 다시 돌아올 수 있는지에 따라 범위가 달라진다. 덱에서 빠진 카드는 이후 뽑을 기회가 사라지거나 줄어든다. 다만 게임마다 버린 카드 더미, 추방 영역, 게임 밖 영역의 규칙이 다르므로 실제 효과는 해당 작품의 규칙을 확인해야 한다.\n\n재섞기는 카드의 위치와 뽑을 시점을 바꾸지만 카드 자체를 남겨 둔다. 제거는 사용 가능한 카드의 구성에 영향을 준다는 점에서 다르다. [[손패 파괴]]가 현재 손에 든 선택을 줄이는 효과라면, 덱에서의 제거는 아직 손에 들어오지 않은 선택을 줄일 수 있다.\n\n상대가 덱 위에 필요한 카드를 올려 두었을 때 재섞으면 그 카드는 덱 안에 남는다. 반대로 그 카드를 덱에서 제거하면 이후 같은 덱에서 뽑을 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "제거는 카드가 어느 영역에서 빠지고 다시 돌아올 수 있는지에 따라 범위가 달라진다. 덱에서 빠진 카드는 이후 뽑을 기회가 사라지거나 줄어든다. 다만 게임마다 버린 카드 더미, 추방 영역, 게임 밖 영역의 규칙이 다르므로 실제 효과는 해당 작품의 규칙을 확인해야 한다.\n\n재섞기는 카드의 위치와 뽑을 시점을 바꾸지만 카드 자체를 남겨 둔다. 제거는 사용 가능한 카드의 구성에 영향을 준다는 점에서 다르다. [[손패 파괴]]가 현재 손에 든 선택을 줄이는 효과라면, 덱에서의 제거는 아직 손에 들어오지 않은 선택을 줄일 수 있다."
+      ],
+      [
+        "사례",
+        "상대가 덱 위에 필요한 카드를 올려 두었을 때 재섞으면 그 카드는 덱 안에 남는다. 반대로 그 카드를 덱에서 제거하면 이후 같은 덱에서 뽑을 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

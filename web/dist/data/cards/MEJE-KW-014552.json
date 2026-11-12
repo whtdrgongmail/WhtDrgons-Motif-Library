@@ -4,8 +4,8 @@
   "title": "특징과 들어맞는 이름",
   "original": "aptronym",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01994",
+  "primary_tag_id": "ML-T01994",
   "description": {
     "definition": "인물의 이름 뜻이나 형태가 그 사람의 직업·성격·특징을 실제로 잘 설명하는 작명 관계다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단지 상징적인 이름이나 인물과 정반대 뜻을 가진 반어적 이름과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이름의 뜻이나 형식이 인물에게 실제로 있는 특징과 맞아떨어진다. 이름이 단순한 식별표를 넘어 직업이나 성격을 압축하는 설명 기능을 갖는다.\n\n이름을 이해한 관객은 인물을 소개받는 단계에서 특징에 대한 힌트를 얻는다. 이후 행동이 그 의미와 일치하면 작명과 인물 묘사가 서로 확인하는 관계가 된다.\n\n상징적인 연상만 가능한 이름보다 대응 관계가 직접적이다. 뜻과 정반대로 행동하는 인물에게 붙인 반어적 이름은 같은 방식으로 분류하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이름의 뜻이나 형식이 인물에게 실제로 있는 특징과 맞아떨어진다. 이름이 단순한 식별표를 넘어 직업이나 성격을 압축하는 설명 기능을 갖는다.\n\n이름을 이해한 관객은 인물을 소개받는 단계에서 특징에 대한 힌트를 얻는다. 이후 행동이 그 의미와 일치하면 작명과 인물 묘사가 서로 확인하는 관계가 된다.\n\n상징적인 연상만 가능한 이름보다 대응 관계가 직접적이다. 뜻과 정반대로 행동하는 인물에게 붙인 반어적 이름은 같은 방식으로 분류하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F16",
   "description": {
-    "definition": "",
+    "definition": "발사 뒤 표적을 향해 비행 경로를 스스로 고쳐 가는 탄환이나 투사체이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "16",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "발사한 뒤 목표를 따라 방향을 바꾸는 탄환이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유도 기능과 표적을 고르는 규칙은 서로 다른 요소다. 발사 뒤 목표 쪽으로 방향을 고치는 장치라도 어떤 대상을 지정하는지는 별도로 정해야 하며, 지정한 상대나 가까운 적을 따라가는 설정이 가능하다.\n\n경주에서 선두를 우선 노리는 공격 아이템은 표적을 인물의 고정된 신분이 아니라 현재 순위로 정한다. 이때 추적 기능은 앞선 주자의 우위를 낮추는 수단이 될 수 있지만, 공격 성공이 사용자의 우승을 보장하는 것은 아니다.\n\n[[역전 보정]]은 경기의 우위를 바꾸는 설계이고 유도는 투사체의 경로에 관한 성질이다. 모든 유도탄이 역전 보정인 것은 아니므로, 어떤 표적을 왜 추적하는지와 경기 규칙을 함께 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유도 기능과 표적을 고르는 규칙은 서로 다른 요소다. 발사 뒤 목표 쪽으로 방향을 고치는 장치라도 어떤 대상을 지정하는지는 별도로 정해야 하며, 지정한 상대나 가까운 적을 따라가는 설정이 가능하다.\n\n경주에서 선두를 우선 노리는 공격 아이템은 표적을 인물의 고정된 신분이 아니라 현재 순위로 정한다. 이때 추적 기능은 앞선 주자의 우위를 낮추는 수단이 될 수 있지만, 공격 성공이 사용자의 우승을 보장하는 것은 아니다.\n\n[[역전 보정]]은 경기의 우위를 바꾸는 설계이고 유도는 투사체의 경로에 관한 성질이다. 모든 유도탄이 역전 보정인 것은 아니므로, 어떤 표적을 왜 추적하는지와 경기 규칙을 함께 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

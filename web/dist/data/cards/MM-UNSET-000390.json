@@ -1,0 +1,51 @@
+{
+  "id": "MM-UNSET-000390",
+  "kind": "keyword",
+  "title": "패턴 학습",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
+  "description": {
+    "definition": "게임에서 반복되는 적의 행동 순서와 반응 조건을 관찰해 다음 공격이나 회피를 예측하는 학습 과정이다. 한 번의 우연한 회피와 구분된다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "25.005",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "적의 움직임을 여러 번 보고 어느 때 공격하고 피해야 하는지 배우는 일이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "패턴 학습은 적의 동작을 단순히 외우는 일에 한정되지 않는다. 앞 동작이 다음 행동을 예고하는지, 플레이어의 위치나 공격에 따라 반응이 달라지는지 파악해야 한다. 따라서 패턴의 반복성과 예외 범위가 학습 가능성을 정한다.\n\n하나의 [[보스]]와 오래 싸우는 게임에서는 단계별 변화가 새로운 학습 과제가 될 수 있다. 무작위 요소가 있어도 예고 신호와 대응 범위가 제시되면 학습은 가능하다. 신호 없이 결과만 바뀌면 반복 시도의 성과를 판단하기 어려워진다.\n\n가상 적용: 적이 왼팔을 높이 들면 왼쪽을 공격한다. 두 번째 단계에서는 같은 동작 뒤에 공격 방향이 바뀌므로 플레이어는 추가 신호를 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "패턴 학습은 적의 동작을 단순히 외우는 일에 한정되지 않는다. 앞 동작이 다음 행동을 예고하는지, 플레이어의 위치나 공격에 따라 반응이 달라지는지 파악해야 한다. 따라서 패턴의 반복성과 예외 범위가 학습 가능성을 정한다.\n\n하나의 [[보스]]와 오래 싸우는 게임에서는 단계별 변화가 새로운 학습 과제가 될 수 있다. 무작위 요소가 있어도 예고 신호와 대응 범위가 제시되면 학습은 가능하다. 신호 없이 결과만 바뀌면 반복 시도의 성과를 판단하기 어려워진다."
+      ],
+      [
+        "사례",
+        "가상 적용: 적이 왼팔을 높이 들면 왼쪽을 공격한다. 두 번째 단계에서는 같은 동작 뒤에 공격 방향이 바뀌므로 플레이어는 추가 신호를 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

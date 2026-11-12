@@ -4,8 +4,8 @@
   "title": "마법 효과를 담은 물약",
   "original": "Magic Potion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01472",
+  "primary_tag_id": "ML-T01472",
   "description": {
     "definition": "마시면 준비된 주문의 효과가 나타나는 허구의 액체 도구. 제조자와 사용자가 달라도 되고 사용 시점을 미룰 수 있어 힘을 보관하고 거래하는 수단이 된다. [[마법을 끓이는 가마솥]]은 물약을 만드는 장비일 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "액체를 마시면 미리 담아 둔 주문 효과가 나타난다. 마법의 준비와 사용을 시간과 사람에 따라 분리한다.\n\n제조자가 아닌 사람도 보관하다 필요할 때 사용할 수 있어 거래의 대상이 된다. 힘은 즉석 시전보다 물건에 저장된 형태로 다뤄진다.\n\n물약을 만드는 가마솥과는 도구의 위치가 다르다. 제조 장비와 효과를 담은 결과물을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "액체를 마시면 미리 담아 둔 주문 효과가 나타난다. 마법의 준비와 사용을 시간과 사람에 따라 분리한다.\n\n제조자가 아닌 사람도 보관하다 필요할 때 사용할 수 있어 거래의 대상이 된다. 힘은 즉석 시전보다 물건에 저장된 형태로 다뤄진다.\n\n물약을 만드는 가마솥과는 도구의 위치가 다르다. 제조 장비와 효과를 담은 결과물을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

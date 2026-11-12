@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "블루스 브라더스",
   "original": "The Blues Brothers",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "The Blues Brothers"
+  ],
+  "tag_id": "ML-T02487",
   "primary_tag_id": "ML-T02487",
   "description": {
     "definition": "《블루스 브라더스》는 영화 작품이다.",
-    "detail": "작품 사례: 《블루스 브라더스》의 제이크는 결혼식에 오지 않은 이유로 기름 부족, 자동차 도난, 지진과 홍수까지 한꺼번에 들이댄다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.005",
     "review_status": "provisional",
@@ -39,6 +41,14 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014339",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014832",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-016595",
       "row_version": 1
     },
@@ -47,5 +57,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "존 랜디스가 연출한 1980년 음악 코미디 영화로, 방송의 음악 스케치에서 출발한 제이크와 엘우드 형제를 중심에 둔다. 두 인물의 검은 정장과 선글라스, 실제 연주가 희극적인 역할과 결합한다.\n\n음악가들과의 만남은 단순한 배경음보다 장면의 공연과 이동을 이끄는 사건이다. 리듬 앤드 블루스 및 소울의 무대가 과장된 추격과 충돌 사이에 배치되어 음악 영화와 액션 희극의 흐름을 교차한다.\n\n실제 밴드 활동과 가상의 형제 캐릭터는 서로를 지원하지만 같은 종류의 기록은 아니다. 영화는 공연의 에너지와 인물의 과장된 임무를 결합한 허구이며, 후속작 및 음반의 활동과 개별 사건을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "존 랜디스가 연출한 1980년 음악 코미디 영화로, 방송의 음악 스케치에서 출발한 제이크와 엘우드 형제를 중심에 둔다. 두 인물의 검은 정장과 선글라스, 실제 연주가 희극적인 역할과 결합한다.\n\n음악가들과의 만남은 단순한 배경음보다 장면의 공연과 이동을 이끄는 사건이다. 리듬 앤드 블루스 및 소울의 무대가 과장된 추격과 충돌 사이에 배치되어 음악 영화와 액션 희극의 흐름을 교차한다.\n\n실제 밴드 활동과 가상의 형제 캐릭터는 서로를 지원하지만 같은 종류의 기록은 아니다. 영화는 공연의 에너지와 인물의 과장된 임무를 결합한 허구이며, 후속작 및 음반의 활동과 개별 사건을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

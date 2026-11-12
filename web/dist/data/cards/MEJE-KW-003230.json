@@ -4,8 +4,8 @@
   "title": "실존 인물의 삶을 그린 영화",
   "original": "Biopic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00332",
+  "primary_tag_id": "ML-T00332",
   "description": {
     "definition": "실존 인물의 생애를 배우와 장면으로 재구성한 영화. 사건을 압축하는 과정에서 기록과 극적 각색의 경계가 생긴다. 실존 인물의 삶을 바탕으로 한다는 점에서 [[실존 인물의 생애 기록]]와 이어진다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.112.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원어 biopic은 biography picture를 줄인 말로, 실존 인물의 생애를 다루는 영화를 가리킨다.\n\n실제로 살았던 한 사람을 배우의 연기와 사건의 배열로 재구성한다. 생애 전체를 담기보다 특정한 시기와 전환을 골라 관객이 인물의 삶을 이해하는 하나의 흐름을 만드는 영화 형식이다.\n\n긴 시간을 압축하면 만남과 대화, 사건의 순서가 달라질 수 있다. 어떤 기록과 관점을 선택했는지에 따라 같은 사람도 다르게 보이므로 주연의 닮은 외형과 역사적인 사실성을 별개의 기준으로 평가할 필요가 있다.\n\n[[실존 인물의 생애 기록]]과 자료를 공유할 수 있지만 극적인 장면을 만드는 매체의 차이가 있다. [[실화를 바탕으로 했다는 표지]]가 붙어도 모든 세부가 확인된 사실이라는 뜻은 아니며 극중 사건과 실제 기록을 구분해야 한다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "원어 biopic은 biography picture를 줄인 말로, 실존 인물의 생애를 다루는 영화를 가리킨다."
+      ],
+      [
+        "상세 설명",
+        "실제로 살았던 한 사람을 배우의 연기와 사건의 배열로 재구성한다. 생애 전체를 담기보다 특정한 시기와 전환을 골라 관객이 인물의 삶을 이해하는 하나의 흐름을 만드는 영화 형식이다.\n\n긴 시간을 압축하면 만남과 대화, 사건의 순서가 달라질 수 있다. 어떤 기록과 관점을 선택했는지에 따라 같은 사람도 다르게 보이므로 주연의 닮은 외형과 역사적인 사실성을 별개의 기준으로 평가할 필요가 있다.\n\n[[실존 인물의 생애 기록]]과 자료를 공유할 수 있지만 극적인 장면을 만드는 매체의 차이가 있다. [[실화를 바탕으로 했다는 표지]]가 붙어도 모든 세부가 확인된 사실이라는 뜻은 아니며 극중 사건과 실제 기록을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

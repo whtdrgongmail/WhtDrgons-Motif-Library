@@ -4,8 +4,8 @@
   "title": "퉁명스러운 관리인",
   "original": "Crusty Caretaker",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "건물이나 묘지를 관리하지만 손님에게 불친절하고 무심하게 구는 인물. 장소의 분위기와 방문객의 불안을 첫 대면에서 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "건물과 정원을 관리하면서 말투와 태도가 거칠고 사교성이 부족한 인물이다. 관리인의 지식과 접근 권한이 불편한 외형과 함께 제시된다.\n\n공포물에서는 주인의 비밀을 아는 수하와 위험한 안내자로 사용할 수 있다. 오래 일한 충직한 직원이라면 거친 겉모습 아래의 애정과 돌봄이 드러나는 인물이 된다.\n\n불친절한 첫인상이 악의의 확실한 증거는 아니다. 관리 업무의 능력과 대인 태도, 실제로 누구에게 충성하는지를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "건물과 정원을 관리하면서 말투와 태도가 거칠고 사교성이 부족한 인물이다. 관리인의 지식과 접근 권한이 불편한 외형과 함께 제시된다.\n\n공포물에서는 주인의 비밀을 아는 수하와 위험한 안내자로 사용할 수 있다. 오래 일한 충직한 직원이라면 거친 겉모습 아래의 애정과 돌봄이 드러나는 인물이 된다.\n\n불친절한 첫인상이 악의의 확실한 증거는 아니다. 관리 업무의 능력과 대인 태도, 실제로 누구에게 충성하는지를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "영혼의 세계",
   "original": "Spirit World",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01321",
+  "primary_tag_id": "ML-T01321",
   "description": {
     "definition": "영과 혼령들이 주로 거주하거나 활동하는 별도의 세계이다.",
     "detail": "작품 사례: [[The Elder Scrolls]]의 아에테리우스에는 노르드의 소븐가르드 등 여러 종족의 사후 영역이 있어, 죽은 이들이 머무는 세계를 하나의 단순한 공간보다 여러 문화의 구역으로 구성한다.",
@@ -13,10 +13,10 @@
     "boundary": "모든 이세계가 영혼의 세계인 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.009.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영과 혼령이 주로 머물거나 활동하는 별도의 세계가 있다. 생전의 공간과 구별되는 영역이 존재들의 생활과 이동의 배경이 된다.\n\n하나의 공간으로 단순화할 수도 있고 문화마다 다른 사후 구역을 둘 수도 있다. 영역의 구성이 죽은 이들의 소속과 세계관의 차이를 표현한다.\n\n낯선 차원이나 다른 세계가 있다는 이유만으로 영혼의 세계는 아니다. 그곳에 누가 거주하고 활동하는지가 기준이다.\n\n[[The Elder Scrolls]]의 아에테리우스에는 노르드의 소븐가르드 등 여러 종족의 사후 영역이 있어, 죽은 이들이 머무는 세계를 하나의 단순한 공간보다 여러 문화의 구역으로 구성한다.\n\n[[The Elder Scrolls]]",
+    "sections": [
+      [
+        "상세 설명",
+        "영과 혼령이 주로 머물거나 활동하는 별도의 세계가 있다. 생전의 공간과 구별되는 영역이 존재들의 생활과 이동의 배경이 된다.\n\n하나의 공간으로 단순화할 수도 있고 문화마다 다른 사후 구역을 둘 수도 있다. 영역의 구성이 죽은 이들의 소속과 세계관의 차이를 표현한다.\n\n낯선 차원이나 다른 세계가 있다는 이유만으로 영혼의 세계는 아니다. 그곳에 누가 거주하고 활동하는지가 기준이다."
+      ],
+      [
+        "사례",
+        "[[The Elder Scrolls]]의 아에테리우스에는 노르드의 소븐가르드 등 여러 종족의 사후 영역이 있어, 죽은 이들이 머무는 세계를 하나의 단순한 공간보다 여러 문화의 구역으로 구성한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Elder Scrolls]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,39 +4,56 @@
   "title": "한 번만 통하는 해결 수단",
   "original": "It Only Works Once",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "강력한 기술이나 계략이 한 차례 사용된 뒤에는 소모·노출·대응 때문에 다시 같은 방식으로 문제를 해결하지 못하는 제약이다.",
     "detail": "대체 불가능한 자원이 소진되거나, 적이 드러난 약점을 보완하거나, 기습의 효과가 사라지는 방식으로 설명할 수 있다.\n\n작품 사례: 《[[강철의 연금술사]]》에서 에드가 알을 데려오는 방법은 자신의 연금술 능력을 대가로 내놓는 것이므로, 성공한 뒤 같은 수단을 다시 사용할 수 없다.",
-    "usage": "편리한 해결책이 이후 [[갈등]]을 없애지 않도록 제한하거나, 유일한 기회를 언제 쓸지 선택하게 할 때 쓴다.",
-    "boundary": "단순히 사용을 잊는 경우와 구별하되 작품이 한 번 뒤 사실상 무력화하는 묘사도 포함한다. 재충전 후 같은 효력이 돌아오는 제한과는 다르다."
+    "usage": "",
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "한 번은 성공했지만 같은 수단을 다음에도 꺼내 쓸 수는 없다.\n\n작품 사례: 《[[강철의 연금술사]]》에서 에드가 알을 데려오는 방법은 자신의 연금술 능력을 대가로 내놓는 것이므로, 성공한 뒤 같은 수단을 다시 사용할 수 없다.",
+    "easy_ko": "한 번은 성공했지만 같은 수단을 다음에도 꺼내 쓸 수는 없다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001331",
+      "work_card_id": "MM-MEDIA-002178",
       "description_ko": "《강철의 연금술사》에서 에드가 알을 데려오는 방법은 자신의 연금술 능력을 대가로 내놓는 것이므로, 성공한 뒤 같은 수단을 다시 사용할 수 없다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대체 불가능한 자원이 소진되거나, 적이 드러난 약점을 보완하거나, 기습의 효과가 사라지는 방식으로 설명할 수 있다.\n\n편리한 해결책이 이후 [[갈등]]을 없애지 않도록 제한하거나, 유일한 기회를 언제 쓸지 선택하게 할 때 쓴다.\n\n단순히 사용을 잊는 경우와 구별하되 작품이 한 번 뒤 사실상 무력화하는 묘사도 포함한다. 재충전 후 같은 효력이 돌아오는 제한과는 다르다.\n\n《[[강철의 연금술사(만화)]]》에서 에드가 알을 데려오는 방법은 자신의 연금술 능력을 대가로 내놓는 것이므로, 성공한 뒤 같은 수단을 다시 사용할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대체 불가능한 자원이 소진되거나, 적이 드러난 약점을 보완하거나, 기습의 효과가 사라지는 방식으로 설명할 수 있다.\n\n편리한 해결책이 이후 [[갈등]]을 없애지 않도록 제한하거나, 유일한 기회를 언제 쓸지 선택하게 할 때 쓴다.\n\n단순히 사용을 잊는 경우와 구별하되 작품이 한 번 뒤 사실상 무력화하는 묘사도 포함한다. 재충전 후 같은 효력이 돌아오는 제한과는 다르다."
+      ],
+      [
+        "관련 작품",
+        "《[[강철의 연금술사(만화)]]》에서 에드가 알을 데려오는 방법은 자신의 연금술 능력을 대가로 내놓는 것이므로, 성공한 뒤 같은 수단을 다시 사용할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

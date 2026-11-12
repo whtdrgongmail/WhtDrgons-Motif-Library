@@ -4,8 +4,8 @@
   "title": "자기 몸을 스스로 수술함",
   "original": "Self-Surgery",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00801",
+  "primary_tag_id": "ML-T00801",
   "description": {
     "definition": "외부 도움을 받지 못하거나 받지 않으려는 인물이 자기 몸에 필요한 수술을 직접 시도하는 극적 상황이다.",
     "detail": "작품 사례: [[The Aggression Scale]]에서 총에 맞은 Owen은 다른 사람의 치료를 받지 못한 채 자기 가슴의 탄환을 직접 제거하려 하며 긴장감을 만든다.",
@@ -13,10 +13,10 @@
     "boundary": "가벼운 상처를 스스로 돌보는 것과 구별하며 실제 시술 방법은 포함하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.008.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "타인의 치료를 받을 수 없는 인물이 자신의 몸에 직접 수술적 처치를 시도하는 장면이다. 도움의 부재와 절박함이 신체적 통제의 극단적인 표현으로 제시된다.\n\n가벼운 상처를 돌보는 행위와는 다르다. 실제 시술 방법을 포함하지 않고 도움을 구할 수 없는 조건과 서사적 긴장에 한정한다.\n\n[[The Aggression Scale]]의 총상을 입은 Owen은 다른 사람에게 치료받지 못한다. 자기 가슴의 탄환을 직접 제거하려는 시도가 고립과 절박함의 장면을 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "타인의 치료를 받을 수 없는 인물이 자신의 몸에 직접 수술적 처치를 시도하는 장면이다. 도움의 부재와 절박함이 신체적 통제의 극단적인 표현으로 제시된다.\n\n가벼운 상처를 돌보는 행위와는 다르다. 실제 시술 방법을 포함하지 않고 도움을 구할 수 없는 조건과 서사적 긴장에 한정한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Aggression Scale]]의 총상을 입은 Owen은 다른 사람에게 치료받지 못한다. 자기 가슴의 탄환을 직접 제거하려는 시도가 고립과 절박함의 장면을 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,28 +4,28 @@
   "title": "실존 지도자의 모습을 감추기",
   "original": "Invisible President",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01920",
+  "primary_tag_id": "ML-T01920",
   "description": {
     "definition": "실제 역사적·현실적 지도자가 장면에 참여한다고 암시하면서 얼굴과 명확한 신상은 감추고 목소리·손·뒷모습 등으로만 표현하는 연출이다.",
     "detail": "시대에 따른 인물 교체와 정치적 인상을 피하거나 특정 인물임을 간접적으로만 알리기 위해 쓴다.\n\n작품 사례: 《[[강철비]]》에서는 다친 북한 지도자를 들것에 누운 몸으로 보여 주면서 얼굴을 가리고, 이름 대신 위대한 장군이나 1호라는 호칭을 쓴다.",
     "usage": "현실의 권력자를 [[서사]]에 넣되 직접적인 외형 재현을 제한할 때 적용한다.",
-    "boundary": "완전히 창작한 지도자의 비노출이나 단순히 유명인의 이름만 언급하는 경우와 구별한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.005.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "대통령이나 군주가 있다는 것은 알지만 카메라가 얼굴을 끝내 보여 주지 않는다.\n\n작품 사례: 《[[강철비]]》에서는 다친 북한 지도자를 들것에 누운 몸으로 보여 주면서 얼굴을 가리고, 이름 대신 위대한 장군이나 1호라는 호칭을 쓴다.",
+    "easy_ko": "대통령이나 군주가 있다는 것은 알지만 카메라가 얼굴을 끝내 보여 주지 않는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "시대에 따른 인물 교체와 정치적 인상을 피하거나 특정 인물임을 간접적으로만 알리기 위해 쓴다.\n\n현실의 권력자를 [[서사]]에 넣되 직접적인 외형 재현을 제한하는 방식이다.\n\n완전히 창작한 지도자의 비노출이나 단순히 유명인의 이름만 언급하는 경우와 구별한다.\n\n《[[강철비]]》에서는 다친 북한 지도자를 들것에 누운 몸으로 보여 주면서 얼굴을 가리고, 이름 대신 위대한 장군이나 1호라는 호칭을 쓴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "시대에 따른 인물 교체와 정치적 인상을 피하거나 특정 인물임을 간접적으로만 알리기 위해 쓴다.\n\n현실의 권력자를 [[서사]]에 넣되 직접적인 외형 재현을 제한하는 방식이다.\n\n완전히 창작한 지도자의 비노출이나 단순히 유명인의 이름만 언급하는 경우와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[강철비]]》에서는 다친 북한 지도자를 들것에 누운 몸으로 보여 주면서 얼굴을 가리고, 이름 대신 위대한 장군이나 1호라는 호칭을 쓴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

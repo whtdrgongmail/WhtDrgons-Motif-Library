@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000240",
   "kind": "keyword",
   "title": "메타게임",
-  "original": "",
+  "original": "Metagame",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F25",
   "description": {
-    "definition": "",
+    "definition": "게임의 규칙과 기본 성능을 바탕으로 이용자 집단이 형성하는 전략의 유행·평가·대응 관계 및 이를 고려한 선택의 환경이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "다른 사람들이 어떤 전략을 많이 쓰는지 보고, 그것을 이길 방법을 준비하면 유행과 대응이 계속 바뀐다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 규칙에서도 자주 쓰이는 선택과 강하다고 평가되는 전략은 달라질 수 있다. 플레이어는 상대가 무엇을 준비했을지 예상해 자신의 선택을 조정하고, 그 대응이 알려지면 다시 새로운 대응이 생긴다.\n\n메타게임은 상대를 만나는 지역·집단·대회나 시기에 따라 다를 수 있다. 드문 선택은 상대의 경험 부족을 이용할 수 있지만 그 낯섦이 기본 성능의 약점을 모두 없애는 것은 아니다. 사용 경험과 대응 지식이 축적되면 초기의 이점이 줄어들 수 있다.\n\n규칙 수정과 전략 환경의 변화도 같은 시점에 완성되지는 않는다. 새 전략이 강해 보이더라도 실험과 반작용으로 약점이 드러날 수 있다. 여기서는 경쟁 환경의 전략적 의미로 사용하며, 등장인물이 모르는 정보를 플레이어가 사용하는 역할극의 다른 메타게임 용례와는 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 규칙에서도 자주 쓰이는 선택과 강하다고 평가되는 전략은 달라질 수 있다. 플레이어는 상대가 무엇을 준비했을지 예상해 자신의 선택을 조정하고, 그 대응이 알려지면 다시 새로운 대응이 생긴다.\n\n메타게임은 상대를 만나는 지역·집단·대회나 시기에 따라 다를 수 있다. 드문 선택은 상대의 경험 부족을 이용할 수 있지만 그 낯섦이 기본 성능의 약점을 모두 없애는 것은 아니다. 사용 경험과 대응 지식이 축적되면 초기의 이점이 줄어들 수 있다.\n\n규칙 수정과 전략 환경의 변화도 같은 시점에 완성되지는 않는다. 새 전략이 강해 보이더라도 실험과 반작용으로 약점이 드러날 수 있다. 여기서는 경쟁 환경의 전략적 의미로 사용하며, 등장인물이 모르는 정보를 플레이어가 사용하는 역할극의 다른 메타게임 용례와는 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

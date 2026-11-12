@@ -6,8 +6,8 @@
   "aliases": [
     "성적 심리를 다루는 공포"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00254",
+  "primary_tag_id": "ML-T00254",
   "description": {
     "definition": "성적 성장·욕망·성행위에 얽힌 심리와 [[갈등]]을 주요 공포의 소재로 삼는 [[장르]]이다.",
     "detail": "",
@@ -15,17 +15,20 @@
     "boundary": "노출이나 성적 장면의 존재만으로 분류하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.105.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +41,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성적인 성장과 욕망, 행위에 얽힌 심리와 갈등이 공포의 중심 소재다. 불안의 원인이 단순한 외부 위협보다 그런 경험의 내적인 문제에 연결된다.\n\n무엇을 두려워하고 왜 두려운지에 성적 심리가 관여해야 한다. 장면의 소재와 장르의 핵심 갈등을 함께 보아야 한다.\n\n노출이나 성적인 장면이 있다는 사실만으로 분류하지 않는다. 그 요소가 공포를 조직하는 기능을 해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성적인 성장과 욕망, 행위에 얽힌 심리와 갈등이 공포의 중심 소재다. 불안의 원인이 단순한 외부 위협보다 그런 경험의 내적인 문제에 연결된다.\n\n무엇을 두려워하고 왜 두려운지에 성적 심리가 관여해야 한다. 장면의 소재와 장르의 핵심 갈등을 함께 보아야 한다.\n\n노출이나 성적인 장면이 있다는 사실만으로 분류하지 않는다. 그 요소가 공포를 조직하는 기능을 해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

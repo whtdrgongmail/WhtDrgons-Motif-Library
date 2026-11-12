@@ -4,8 +4,8 @@
   "title": "사슬로 연결되어 함께 움직이는 두 인물",
   "original": "Chained Heat",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000783",
+  "primary_tag_id": "MM-UNSET-000783",
   "description": {
     "definition": "두 인물이 같은 수갑이나 사슬에 묶여 서로 떨어질 수 없는 상태이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-004649는 다투던 관계의 협력 변화를 포함한다. 현재 항목은 이전 관계와 화해를 필수로 하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람이 움직이면 다른 사람도 함께 이동해야 한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "두 사람의 이동이 하나의 연결물에 묶이면서 각자 행동할 자유가 줄어든다. 한 사람이 방향을 바꾸거나 멈추면 상대도 영향을 받으므로 단순한 동행보다 협조가 필요하다.\n\n원래 사이가 좋지 않았다면 작은 생활 행동까지 협상이 되어 관계의 차이가 드러난다. 함께 위험을 넘기면 이해가 생길 수 있지만 모든 경우에 화해가 뒤따르는 것은 아니다.\n\n[[실험으로 합쳐져 한 몸을 쓰는 두 사람]]과 달리 몸과 의식은 분리된 채 이동만 결합한다. 연애와 적대는 가능한 관계이며 필수가 아니다. 수갑이나 사슬이 등장한다는 사실보다 두 사람의 행동이 서로 제약된다는 조건이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "두 사람의 이동이 하나의 연결물에 묶이면서 각자 행동할 자유가 줄어든다. 한 사람이 방향을 바꾸거나 멈추면 상대도 영향을 받으므로 단순한 동행보다 협조가 필요하다.\n\n원래 사이가 좋지 않았다면 작은 생활 행동까지 협상이 되어 관계의 차이가 드러난다. 함께 위험을 넘기면 이해가 생길 수 있지만 모든 경우에 화해가 뒤따르는 것은 아니다.\n\n[[실험으로 합쳐져 한 몸을 쓰는 두 사람]]과 달리 몸과 의식은 분리된 채 이동만 결합한다. 연애와 적대는 가능한 관계이며 필수가 아니다. 수갑이나 사슬이 등장한다는 사실보다 두 사람의 행동이 서로 제약된다는 조건이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

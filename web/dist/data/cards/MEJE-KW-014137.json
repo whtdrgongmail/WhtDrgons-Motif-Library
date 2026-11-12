@@ -4,8 +4,8 @@
   "title": "공포의 호텔",
   "original": "Hell Hotel",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01285",
+  "primary_tag_id": "ML-T01285",
   "description": {
     "definition": "낯선 숙박시설의 고립감·불길한 직원·비어 있거나 반복되는 공간을 위협으로 만드는 공포 배경이다.",
     "detail": "작품 사례: [[American Horror Story: Hotel]]의 Hotel Cortez에는 [[흡혈귀]] 주인과 살인자의 [[유령]]이 머물며, 숙박 공간 자체가 죽음의 위협이 된다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 지옥을 호텔처럼 그린 사후세계나 장기 주거 아파트와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "휴식과 안전을 기대하는 숙박 공간이 죽음과 [[초자연]]적 위협의 무대가 되는 호텔이다. 인물이 잠시 머물 곳을 찾았다는 일상적 상황이 장소의 성질 때문에 공포로 바뀌며, 숙소 안의 관계가 위협의 조건을 이룬다.\n\n실제 지옥을 호텔 형식으로 만든 [[사후세계]]와는 장소의 성격이 다르다. 장기 거주 아파트 전체를 가리키는 말도 아니다. 호텔이라는 임시 체류 공간이 왜 안전하지 못한지, 누가 머물고 무엇이 숙박객을 위협하는지 구체적으로 제시되어야 한다.\n\n[[American Horror Story: Hotel]]의 Hotel Cortez에는 [[흡혈귀]] 주인과 살인자의 [[유령]]이 존재한다. 잠시 묵는 공간의 내부에 가해자와 초자연적 위험이 있어 호텔 자체가 죽음의 위협이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "휴식과 안전을 기대하는 숙박 공간이 죽음과 [[초자연]]적 위협의 무대가 되는 호텔이다. 인물이 잠시 머물 곳을 찾았다는 일상적 상황이 장소의 성질 때문에 공포로 바뀌며, 숙소 안의 관계가 위협의 조건을 이룬다.\n\n실제 지옥을 호텔 형식으로 만든 [[사후세계]]와는 장소의 성격이 다르다. 장기 거주 아파트 전체를 가리키는 말도 아니다. 호텔이라는 임시 체류 공간이 왜 안전하지 못한지, 누가 머물고 무엇이 숙박객을 위협하는지 구체적으로 제시되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[American Horror Story: Hotel]]의 Hotel Cortez에는 [[흡혈귀]] 주인과 살인자의 [[유령]]이 존재한다. 잠시 묵는 공간의 내부에 가해자와 초자연적 위험이 있어 호텔 자체가 죽음의 위협이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

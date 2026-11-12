@@ -5,8 +5,8 @@
   "original": "A Durable Artillery Unit with Poor Close Defense",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02109",
+  "primary_tag_id": "ML-T02109",
   "description": {
     "definition": "높은 방어력·화력·사거리로 먼 적을 제압하지만 느린 조준과 기동 때문에 빠른 근접 표적에 취약한 전투 역할이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "몸이 약한 사수와 달리 둔한 대응이 약점이어서 호위나 상호 엄호가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "높은 방어력과 화력, 긴 사거리로 먼 적에게 강하지만 가까운 빠른 표적에 둔하다. 몸의 약함보다 느린 조준과 이동이 취약점인 포격 역할이다.\n\n강점이 유효한 거리를 유지하도록 동료의 호위나 엄호가 중요해진다. 적의 접근 능력과 아군의 지원을 함께 배치하면 높은 성능에도 대응 수단이 생긴다.\n\n방어력이 낮은 사수와 다르다. 가까운 적을 따라가지 못하는 대응 속도가 핵심 약점이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "높은 방어력과 화력, 긴 사거리로 먼 적에게 강하지만 가까운 빠른 표적에 둔하다. 몸의 약함보다 느린 조준과 이동이 취약점인 포격 역할이다.\n\n강점이 유효한 거리를 유지하도록 동료의 호위나 엄호가 중요해진다. 적의 접근 능력과 아군의 지원을 함께 배치하면 높은 성능에도 대응 수단이 생긴다.\n\n방어력이 낮은 사수와 다르다. 가까운 적을 따라가지 못하는 대응 속도가 핵심 약점이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

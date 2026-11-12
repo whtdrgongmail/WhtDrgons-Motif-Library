@@ -4,8 +4,8 @@
   "title": "원치 않는 데이트를 강요받기",
   "original": "Captive Date",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000783",
+  "primary_tag_id": "MM-UNSET-000783",
   "description": {
     "definition": "당사자의 의사에 반하여 누군가와 데이트하도록 강요되는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-004351은 감금으로 강제하는 경우다. 현재는 압력의 수단을 한정하지 않으며 강요를 친밀함으로 정당화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "만남의 모양은 데이트지만 선택은 자유롭지 않다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "데이트에 참여할 의사가 없는 사람이 압력 때문에 자리를 갖게 된다. 겉으로 연애 만남처럼 보여도 선택권이 제한된 상황이다.\n\n강요한 사람의 기대와 당사자의 경험이 어긋난다. 만남의 결과와 별개로 원치 않는 참여가 관계의 긴장과 불신을 만들 수 있다.\n\n감금만이 압력의 수단은 아니다. 강요가 있었다는 사실은 이후의 호감 여부와 구별되며 친밀함으로 자동 정당화되지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "데이트에 참여할 의사가 없는 사람이 압력 때문에 자리를 갖게 된다. 겉으로 연애 만남처럼 보여도 선택권이 제한된 상황이다.\n\n강요한 사람의 기대와 당사자의 경험이 어긋난다. 만남의 결과와 별개로 원치 않는 참여가 관계의 긴장과 불신을 만들 수 있다.\n\n감금만이 압력의 수단은 아니다. 강요가 있었다는 사실은 이후의 호감 여부와 구별되며 친밀함으로 자동 정당화되지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

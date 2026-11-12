@@ -4,8 +4,8 @@
   "title": "공장 건설 게임",
   "original": "Factory-Building Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-009360",
+  "primary_tag_id": "MEJE-KW-009360",
   "description": {
     "definition": "자원을 추출하고 가공하는 자동화 시설을 구축하며 생산 흐름과 효율을 높여 가는 게임 장르다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.206.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자원의 추출과 가공, 운송을 자동화하는 시설을 만들고 효율을 높이는 게임 장르다. 직접 행동을 반복하는 대신 스스로 작동하는 체계를 설계한다.\n\n생산한 물건은 공장을 확장하고 더 복잡한 제품을 만드는 데 쓰인다. 병목과 공간 배치, 공급의 연결을 수정하는 과정이 지속적인 문제 해결을 제공한다.\n\n단순히 공장이 배경인 경영 게임과는 중심 행동이 다르다. 기계와 물류의 물리적인 구성이 중요하며 자동화 뒤에도 새로운 목표와 제약이 플레이를 이어 간다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자원의 추출과 가공, 운송을 자동화하는 시설을 만들고 효율을 높이는 게임 장르다. 직접 행동을 반복하는 대신 스스로 작동하는 체계를 설계한다.\n\n생산한 물건은 공장을 확장하고 더 복잡한 제품을 만드는 데 쓰인다. 병목과 공간 배치, 공급의 연결을 수정하는 과정이 지속적인 문제 해결을 제공한다.\n\n단순히 공장이 배경인 경영 게임과는 중심 행동이 다르다. 기계와 물류의 물리적인 구성이 중요하며 자동화 뒤에도 새로운 목표와 제약이 플레이를 이어 간다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

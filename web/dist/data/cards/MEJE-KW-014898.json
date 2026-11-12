@@ -4,8 +4,8 @@
   "title": "동물 친구가 선함을 드러내는 노숙인",
   "original": "Homeless Pigeon Person",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00940",
+  "primary_tag_id": "ML-T00940",
   "description": {
     "definition": "거처가 불안정한 인물에게 충실한 동물 동료를 붙여 돌봄 능력과 선한 성품을 보여 주는 캐릭터 관습이다.",
     "detail": "작품 사례: [[RWBY: Arrowfell]]에서 동굴에 사는 모스는 오래 돌봐 온 매를 유일한 친구로 삼고, 새가 사라지자 주인공들에게 찾아 달라고 부탁한다.",
@@ -13,10 +13,10 @@
     "boundary": "노숙인을 실제 성격 유형으로 분류하거나 비둘기만을 필수 조건으로 삼지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "노숙 상태의 인물이 동물을 돌보고 가까이 지내는 관계를 통해 선한 면을 드러내는 표현이다. 사회적 외형보다 실제 돌봄이 긍정적인 판단의 근거가 된다.\n\n노숙인 전체를 일정한 성격으로 분류하지 않는다. 비둘기 같은 특정 종도 필수 조건이 아니며 동물과의 관계가 평가에 기여해야 한다.\n\n[[RWBY: Arrowfell]]의 모스는 동굴에서 살며 오래 돌본 매를 유일한 친구로 삼는다. 매가 사라지자 찾아 달라고 부탁해 돌봄과 상실을 통해 인물의 관계가 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "노숙 상태의 인물이 동물을 돌보고 가까이 지내는 관계를 통해 선한 면을 드러내는 표현이다. 사회적 외형보다 실제 돌봄이 긍정적인 판단의 근거가 된다.\n\n노숙인 전체를 일정한 성격으로 분류하지 않는다. 비둘기 같은 특정 종도 필수 조건이 아니며 동물과의 관계가 평가에 기여해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[RWBY: Arrowfell]]의 모스는 동굴에서 살며 오래 돌본 매를 유일한 친구로 삼는다. 매가 사라지자 찾아 달라고 부탁해 돌봄과 상실을 통해 인물의 관계가 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

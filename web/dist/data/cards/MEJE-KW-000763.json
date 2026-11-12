@@ -4,8 +4,8 @@
   "title": "탐험·확장·개발·정복의 전략 게임",
   "original": "4X",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00446",
+  "primary_tag_id": "ML-T00446",
   "description": {
     "definition": "새 지역을 탐색하고 세력을 넓힌 뒤 자원을 운영하며 경쟁 집단과 맞서는 과정을 중심으로 한 전략 게임 갈래. 네 활동의 비중과 승리 조건은 작품마다 다를 수 있다. [[게임의 모든 과제를 끝내는 100% 달성]]은 장르와 별개인 완료 목표다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.205.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "지역의 발견과 영토 확장, 자원 운영과 경쟁 세력의 제압을 연결하는 전략 게임 갈래다. 앞선 탐험의 정보가 다음 개발과 정복의 판단에 쓰이는 장기적 흐름을 가진다.\n\n[[자원 생산]]과 [[건설]] 등 여러 규칙이 세력의 성장에 결합한다. 네 활동의 비중과 승리 방식은 다를 수 있다. 지도상의 전쟁만이 아니라 탐험·확장·개발·정복이 전체 진행을 조직하는 것이 이 갈래의 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "지역의 발견과 영토 확장, 자원 운영과 경쟁 세력의 제압을 연결하는 전략 게임 갈래다. 앞선 탐험의 정보가 다음 개발과 정복의 판단에 쓰이는 장기적 흐름을 가진다.\n\n[[자원 생산]]과 [[건설]] 등 여러 규칙이 세력의 성장에 결합한다. 네 활동의 비중과 승리 방식은 다를 수 있다. 지도상의 전쟁만이 아니라 탐험·확장·개발·정복이 전체 진행을 조직하는 것이 이 갈래의 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

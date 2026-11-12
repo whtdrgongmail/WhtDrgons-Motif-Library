@@ -4,8 +4,8 @@
   "title": "뇌물 제안이 화를 부르기",
   "original": "Bribe Backfire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00765",
+  "primary_tag_id": "ML-T00765",
   "description": {
     "definition": "돈으로 문제를 풀려 했지만 제안을 받은 사람이 이를 거부하고 더 엄하게 대응한다. 상대의 원칙을 잘못 읽은 판단이 상황을 악화한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.004.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "돈으로 곤란한 상황을 해결하려다가 뇌물 제안 자체로 더 큰 문제를 만드는 전개다. 상대가 매수되지 않으면 돈에 대한 자신감이 오만으로 드러난다.\n\n원칙적인 인물은 제안에 분노하거나 새로운 잘못으로 취급한다. 반대로 상대가 돈을 받아도 약속을 지키지 않으면 부패한 거래 안에서도 돈이 안전을 보장하지 못한다는 결과가 된다.\n\n단순히 뇌물을 거절당하는 것보다 상황이 악화되는 역전이 중요하다. 법 집행의 결과일 수도 있고 상대의 개인적 모욕감이나 악의에서 비롯될 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "돈으로 곤란한 상황을 해결하려다가 뇌물 제안 자체로 더 큰 문제를 만드는 전개다. 상대가 매수되지 않으면 돈에 대한 자신감이 오만으로 드러난다.\n\n원칙적인 인물은 제안에 분노하거나 새로운 잘못으로 취급한다. 반대로 상대가 돈을 받아도 약속을 지키지 않으면 부패한 거래 안에서도 돈이 안전을 보장하지 못한다는 결과가 된다.\n\n단순히 뇌물을 거절당하는 것보다 상황이 악화되는 역전이 중요하다. 법 집행의 결과일 수도 있고 상대의 개인적 모욕감이나 악의에서 비롯될 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

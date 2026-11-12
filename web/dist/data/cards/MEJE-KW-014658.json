@@ -4,8 +4,8 @@
   "title": "한 덩어리로 연결된 거대도시",
   "original": "Hive City",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01304",
+  "primary_tag_id": "ML-T01304",
   "description": {
     "definition": "여러 건물이 거리로 나뉜 도시 대신 거대한 단일 구조물 또는 서로 연결된 건축 덩어리가 도시 전체를 이루는 공간 설정이다.",
     "detail": "작품 사례: [[The World Inside]]의 거대한 거주 탑은 천 층 안에 스물다섯 도시를 수직으로 쌓아 놓는다. 주민은 평생을 그 안에서 보내지만 식량은 바깥 농장에서 들여온다.",
@@ -13,10 +13,10 @@
     "boundary": "초고층 건물이 많은 대도시만으로는 부족하며 완전한 생태적 자급성은 필수 조건이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "도시 규모의 생활권을 거대한 실내 연결 구조에 통합하는 공간 설정이다. 여러 구역이 건물과 통로로 이어져 주민의 일상 범위가 하나의 덩어리를 이룬다.\n\n고층 건물이 많은 도시만으로 충분하지 않다. 모든 자원을 안에서 생산해야 하는 것은 아니며 공간의 통합과 생태적 자급성은 별개의 조건이다.\n\n[[The World Inside]]의 천 층 거주 탑에는 스물다섯 도시가 수직으로 배치된다. 주민은 평생 안에서 생활하지만 식량은 외부 농장에서 들여와 공간 통합이 완전한 자급을 뜻하지 않음을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "도시 규모의 생활권을 거대한 실내 연결 구조에 통합하는 공간 설정이다. 여러 구역이 건물과 통로로 이어져 주민의 일상 범위가 하나의 덩어리를 이룬다.\n\n고층 건물이 많은 도시만으로 충분하지 않다. 모든 자원을 안에서 생산해야 하는 것은 아니며 공간의 통합과 생태적 자급성은 별개의 조건이다."
+      ],
+      [
+        "관련 작품",
+        "[[The World Inside]]의 천 층 거주 탑에는 스물다섯 도시가 수직으로 배치된다. 주민은 평생 안에서 생활하지만 식량은 외부 농장에서 들여와 공간 통합이 완전한 자급을 뜻하지 않음을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

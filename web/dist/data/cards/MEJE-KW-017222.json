@@ -4,8 +4,8 @@
   "title": "재산과 신분을 교환하는 혼인",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00990",
+  "primary_tag_id": "ML-T00990",
   "description": {
     "definition": "재산이 부족한 명문가와 신분 상승을 원하는 부유층이 돈과 사회적 지위를 맞바꾸는 결혼을 추진하는 관계 구조.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "부모가 정한 모든 혼인이 아니라 두 집안의 결핍이 상호 교환되는 경우다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.003.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한쪽은 가문의 이름을, 다른 쪽은 생활을 유지할 돈을 제공한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "명문가는 돈이 부족하고 부유층은 높은 신분을 원한다. 혼인은 서로 다른 결핍을 교환하는 통로가 된다.\n\n가문의 존속과 계급 이동은 개인의 사랑과 다른 목표를 제공한다. 양쪽이 무엇을 내주고 얻는지 확인하면 관계 구조가 보인다.\n\n부모가 정한 모든 혼인과 같은 것은 아니다. 재산과 사회적 지위가 실제로 맞바뀌는 조건이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "명문가는 돈이 부족하고 부유층은 높은 신분을 원한다. 혼인은 서로 다른 결핍을 교환하는 통로가 된다.\n\n가문의 존속과 계급 이동은 개인의 사랑과 다른 목표를 제공한다. 양쪽이 무엇을 내주고 얻는지 확인하면 관계 구조가 보인다.\n\n부모가 정한 모든 혼인과 같은 것은 아니다. 재산과 사회적 지위가 실제로 맞바뀌는 조건이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

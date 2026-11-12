@@ -4,8 +4,8 @@
   "title": "뉴 비트",
   "original": "New Beat",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008393",
+  "primary_tag_id": "MEJE-KW-008393",
   "description": {
     "definition": "비교적 느린 댄스 리듬에 어두운 신시사이저와 산성적인 전자 리프를 결합한 벨기에 계열 전자음악이다.",
     "detail": "작품 사례: [[Mortal Kombat]]의 주제곡으로 알려진 [[Techno Syndrome]]은 어두운 신시사이저와 댄스 리듬을 결합한 뉴 비트 계열의 사례다.",
@@ -13,18 +13,21 @@
     "boundary": "[[하드코어 테크노]]의 후대 고속 양식과 속도·질감을 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.304.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -51,5 +54,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "뉴 비트는 벨기에 계열의 전자 댄스 음악으로, 비교적 느린 리듬에 어두운 신시사이저 소리를 결합한다. 산성적인 전자 리프가 그 질감에 참여하며, 단순히 느린 댄스곡 모두를 지칭하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "뉴 비트는 벨기에 계열의 전자 댄스 음악으로, 비교적 느린 리듬에 어두운 신시사이저 소리를 결합한다. 산성적인 전자 리프가 그 질감에 참여하며, 단순히 느린 댄스곡 모두를 지칭하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

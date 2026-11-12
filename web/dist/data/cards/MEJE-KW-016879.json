@@ -4,8 +4,8 @@
   "title": "허구의 아이돌을 현실 공연으로 확장하는 장르",
   "original": "Idol Genre",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00406",
+  "primary_tag_id": "ML-T00406",
   "description": {
     "definition": "아이돌이나 유사한 공연자 집단의 성장을 이야기로 다루면서 그 인물의 이름과 모습으로 실제 음반·공연·관련 상품 활동을 이어 가는 복합 매체 장르다.",
     "detail": "노래와 무대가 [[서사]]의 중심이며 배우나 성우가 인물로 공연하기도 한다. 록 밴드나 랩 등 다른 음악 형식도 같은 홍보·참여 구조를 사용할 수 있다.\n\n작품 사례: 《[[아이돌마스터.KR - 꿈을 드림]]》은 리얼걸프로젝트의 이야기를 드라마로 다루고, 작품과 연결된 음반 활동을 실제 그룹 활동으로 이어 간다.",
@@ -13,25 +13,28 @@
     "boundary": "아이돌 한 명이 나오는 모든 작품이나 실제 인물의 오디션 리얼리티 프로그램과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.401.015",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "activity_pattern",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "story_pattern",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "작품 속 아이돌을 이야기 밖에서도 응원하고 공연을 보게 만든다.\n\n작품 사례: 《[[아이돌마스터.KR - 꿈을 드림]]》은 리얼걸프로젝트의 이야기를 드라마로 다루고, 작품과 연결된 음반 활동을 실제 그룹 활동으로 이어 간다.",
+    "easy_ko": "작품 속 아이돌을 이야기 밖에서도 응원하고 공연을 보게 만든다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "노래와 무대가 [[서사]]의 중심이고, 인물의 이름과 이미지를 사용한 음반과 공연이 작품 밖에서도 이어진다. 배우나 성우가 배역으로 무대에 서면서 이야기와 현실의 팬 활동이 연결될 수 있다.\n\n록 밴드나 랩 등도 비슷한 홍보와 참여 구조를 사용할 수 있다. 다만 아이돌 한 명이 등장하는 모든 작품이나 실제 참가자를 다루는 오디션 리얼리티 프로그램을 통틀어 뜻하지는 않는다.\n\n《[[아이돌마스터.KR - 꿈을 드림]]》은 리얼걸프로젝트의 이야기를 드라마로 다루고, 작품과 연결된 음반 활동을 실제 그룹 활동으로 이어 간다.",
+    "sections": [
+      [
+        "상세 설명",
+        "노래와 무대가 [[서사]]의 중심이고, 인물의 이름과 이미지를 사용한 음반과 공연이 작품 밖에서도 이어진다. 배우나 성우가 배역으로 무대에 서면서 이야기와 현실의 팬 활동이 연결될 수 있다.\n\n록 밴드나 랩 등도 비슷한 홍보와 참여 구조를 사용할 수 있다. 다만 아이돌 한 명이 등장하는 모든 작품이나 실제 참가자를 다루는 오디션 리얼리티 프로그램을 통틀어 뜻하지는 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[아이돌마스터.KR - 꿈을 드림]]》은 리얼걸프로젝트의 이야기를 드라마로 다루고, 작품과 연결된 음반 활동을 실제 그룹 활동으로 이어 간다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

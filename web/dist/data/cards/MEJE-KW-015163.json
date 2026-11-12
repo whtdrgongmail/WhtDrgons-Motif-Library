@@ -4,8 +4,8 @@
   "title": "취기가 조작을 방해하는 규칙",
   "original": "Intoxication Mechanic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "게임 속 음주나 약물 사용이 화면·이동·조작 등에 불리한 변화를 주어 플레이 수행을 어렵게 만드는 규칙이다.",
     "detail": "작품 사례: [[NieR: Automata]]에서는 잭애스의 약물을 시험하면 화면과 정보 표시가 왜곡될 수 있어, 약물의 영향이 시각 정보와 플레이 수행의 장애로 구현된다.",
@@ -13,10 +13,10 @@
     "boundary": "능력 수치가 오르는 음주 보상이나 단순한 외형 변화와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -52,5 +52,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "취기와 약물의 영향을 화면과 정보, 조작의 제약으로 경험하게 하는 게임 규칙이다. 인물이 불안정하다는 설명이 이용자가 감당할 수행 조건으로 바뀐다.\n\n음주로 능력 수치만 높이는 보상과 다르다. 외형만 바꾸는 표현도 아니며 시각 정보와 행동이 실제로 방해되어야 한다.\n\n[[NieR: Automata]]에서 잭애스의 약물을 시험하면 화면과 표시가 왜곡될 수 있다. 알코올 음주의 사례는 아니지만 물질의 영향을 정보와 수행의 장애로 구현한 관련 변형이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "취기와 약물의 영향을 화면과 정보, 조작의 제약으로 경험하게 하는 게임 규칙이다. 인물이 불안정하다는 설명이 이용자가 감당할 수행 조건으로 바뀐다.\n\n음주로 능력 수치만 높이는 보상과 다르다. 외형만 바꾸는 표현도 아니며 시각 정보와 행동이 실제로 방해되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[NieR: Automata]]에서 잭애스의 약물을 시험하면 화면과 표시가 왜곡될 수 있다. 알코올 음주의 사례는 아니지만 물질의 영향을 정보와 수행의 장애로 구현한 관련 변형이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

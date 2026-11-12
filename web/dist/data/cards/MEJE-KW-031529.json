@@ -4,8 +4,8 @@
   "title": "능력을 인정받지 못하는 하위 직급 여성",
   "original": "Plucky Office Girl",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00932",
+  "primary_tag_id": "ML-T00932",
   "description": {
     "definition": "재능과 좋은 생각이 있지만 조직에서 눈에 띄지 못해 낮은 지위와 잡무에 머무르는 여성 직장인 인물형이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "일을 해결할 아이디어는 많지만 주변에서는 심부름만 시키고 실력을 알아보지 않는 인물이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "능력의 부족과 인정의 부족이 어긋나는 인물이다. 자신감 있는 외양과 조직의 성공 기준에 잘 맞지 않아 지나쳐지거나 농담의 대상이 되지만, 실제로는 일을 이해하고 해결할 잠재력이 있다. 속상함과 개인적인 욕구가 있어도 주변 사람들은 그 복잡함을 보지 못한다. 상사가 성과만 가져가고 기여를 인정하지 않는 상황으로 조직의 불공정함을 드러낼 수도 있다.\n\n성장 서사에서는 능력을 알아보는 사람을 만나거나 자기표현을 익히면서 지위가 달라진다. 다른 구성에서는 계속 주변의 웃음을 담당하다가 잠시 중심에 서는 방식으로 남을 수 있다. 겉모습의 변화만으로 해결하면 원래 있던 능력보다 외양이 성공의 조건처럼 보이므로 무엇이 인정되지 않았는지 분명히 하는 편이 좋다. 무능하지만 우연히 성공하는 인물이나 이미 큰 권한을 가진 직업 여성과는 출발점이 다르다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "능력의 부족과 인정의 부족이 어긋나는 인물이다. 자신감 있는 외양과 조직의 성공 기준에 잘 맞지 않아 지나쳐지거나 농담의 대상이 되지만, 실제로는 일을 이해하고 해결할 잠재력이 있다. 속상함과 개인적인 욕구가 있어도 주변 사람들은 그 복잡함을 보지 못한다. 상사가 성과만 가져가고 기여를 인정하지 않는 상황으로 조직의 불공정함을 드러낼 수도 있다.\n\n성장 서사에서는 능력을 알아보는 사람을 만나거나 자기표현을 익히면서 지위가 달라진다. 다른 구성에서는 계속 주변의 웃음을 담당하다가 잠시 중심에 서는 방식으로 남을 수 있다. 겉모습의 변화만으로 해결하면 원래 있던 능력보다 외양이 성공의 조건처럼 보이므로 무엇이 인정되지 않았는지 분명히 하는 편이 좋다. 무능하지만 우연히 성공하는 인물이나 이미 큰 권한을 가진 직업 여성과는 출발점이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

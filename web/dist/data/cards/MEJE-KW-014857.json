@@ -4,8 +4,8 @@
   "title": "시뮬레이터 고장으로 실제 위험에 갇히기",
   "original": "Holodeck Malfunction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00687",
+  "primary_tag_id": "ML-T00687",
   "description": {
     "definition": "훈련·오락용 시뮬레이션에서 안전장치나 난이도 제어가 어긋나 내부 참가자가 실제로 다치거나 죽을 수 있는 상황에 갇히는 전개다.",
     "detail": "훈련의 난도가 갑자기 치명적인 수준으로 오르거나, 내부 목표를 완수해야 출구가 열리거나, 외부 수리까지 생존해야 하는 방식으로 위기를 구성할 수 있다.\n\n작품 사례: [[ANNO: Mutationem]]에서 앤은 가상 훈련의 보스를 쓰러뜨린 뒤 시뮬레이터 오작동으로 기절하고, 밖에서 구조되어 나온다.",
@@ -13,19 +13,19 @@
     "boundary": "원래 위험한 시험이거나 마음이 믿어서 가상이 실체화되는 별도 규칙과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "06",
+    "code": "06.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "가상 적과 연습하러 들어갔는데 종료도 못 하고 공격이 목숨을 위협한다.\n\n작품 사례: [[ANNO: Mutationem]]에서 앤은 가상 훈련의 보스를 쓰러뜨린 뒤 시뮬레이터 오작동으로 기절하고, 밖에서 구조되어 나온다.",
+    "easy_ko": "가상 적과 연습하러 들어갔는데 종료도 못 하고 공격이 목숨을 위협한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "훈련이나 오락용 모의 환경의 기능 이상이 실제 신체 위험으로 이어진다. 안전장치가 해제되거나 난도가 치명적인 수준으로 바뀔 수 있으며, 사고뿐 아니라 외부의 조작이나 사용자의 실수도 원인이 될 수 있다.\n\n참가자가 내부 목표를 끝내야 나갈 수 있는 경우와 외부에서 수리하는 동안 살아남아야 하는 경우가 있다. 가상을 믿는 마음 때문에 위험이 실체화되는 별도 규칙이나 처음부터 위험을 전제로 한 시험과는 구별된다.\n\n《[[ANNO: Mutationem]]》에서 앤은 가상 훈련의 보스를 쓰러뜨린 뒤 시뮬레이터 오작동으로 기절하고, 밖에서 구조되어 나온다.",
+    "sections": [
+      [
+        "상세 설명",
+        "훈련이나 오락용 모의 환경의 기능 이상이 실제 신체 위험으로 이어진다. 안전장치가 해제되거나 난도가 치명적인 수준으로 바뀔 수 있으며, 사고뿐 아니라 외부의 조작이나 사용자의 실수도 원인이 될 수 있다.\n\n참가자가 내부 목표를 끝내야 나갈 수 있는 경우와 외부에서 수리하는 동안 살아남아야 하는 경우가 있다. 가상을 믿는 마음 때문에 위험이 실체화되는 별도 규칙이나 처음부터 위험을 전제로 한 시험과는 구별된다."
+      ],
+      [
+        "관련 작품",
+        "《[[ANNO: Mutationem]]》에서 앤은 가상 훈련의 보스를 쓰러뜨린 뒤 시뮬레이터 오작동으로 기절하고, 밖에서 구조되어 나온다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

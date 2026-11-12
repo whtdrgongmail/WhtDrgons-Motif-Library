@@ -2,24 +2,73 @@
   "id": "MM-MEDIA-003580",
   "kind": "work",
   "title": "트리플 타운",
-  "original": "",
+  "original": "Triple Town",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00076",
+  "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "",
+    "definition": "《트리플 타운》은 스프라이 폭스가 만든 동일 물체 결합 방식의 퍼즐 비디오게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.016",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "풀이나 덤불처럼 같은 물체 세 개 이상을 합쳐 마을을 키우는 게임이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000176",
+      "card_id": "MM-MEDIA-003580",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://support.spryfox.com/hc/en-us/articles/219104828-How-to-play-Triple-Town",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "빈 칸에 물체를 놓고 같은 종류 세 개 이상을 맞닿게 하면 더 높은 단계의 물체로 바뀐다. 제한된 공간을 관리하며 마을을 발전시키는 배치 판단이 핵심이다.\n\n풀 세 개를 덤불 하나로 합치고, 덤불을 다시 모아 나무로 만드는 식으로 진행한다.\n\n[[2048]]",
+    "sections": [
+      [
+        "상세 설명",
+        "빈 칸에 물체를 놓고 같은 종류 세 개 이상을 맞닿게 하면 더 높은 단계의 물체로 바뀐다. 제한된 공간을 관리하며 마을을 발전시키는 배치 판단이 핵심이다."
+      ],
+      [
+        "사례",
+        "풀 세 개를 덤불 하나로 합치고, 덤불을 다시 모아 나무로 만드는 식으로 진행한다."
+      ],
+      [
+        "관련 작품",
+        "[[2048]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

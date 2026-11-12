@@ -2,24 +2,63 @@
   "id": "MM-MEDIA-003586",
   "kind": "work",
   "title": "퍼즐 버블",
-  "original": "",
+  "original": "パズルボブル",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00080",
+  "primary_tag_id": "ML-T00080",
   "description": {
-    "definition": "",
+    "definition": "《퍼즐 버블》은 같은 색의 거품을 발사해 세 개 이상 연결하면 지워지는 1994년 타이토의 아케이드 퍼즐 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "02.016.004",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "platform",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "화면 아래에서 거품을 쏘아 같은 색 거품 세 개 이상을 맞추는 게임이다. 조각이 위에서 내려오는 퍼즐과 조작 방향이 다르다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000305",
+      "card_id": "MM-MEDIA-003586",
+      "label_ko": "타이토 공식 작품 안내",
+      "icon_key": "game",
+      "url": "https://www.taito.co.jp/bub",
+      "description_ko": "퍼즐 버블의 기원과 기본 규칙",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "발사 전에 방향을 정하고 이미 놓인 거품에 새 거품을 붙인다. 연결된 같은 색 거품의 수가 제거 조건을 충족하면 판의 형태가 바뀐다.\n\n《[[컬럼스]]》나 《[[뿌요뿌요]]》처럼 내려오는 조각을 옮기는 낙하형 퍼즐과 구별한다. 이 카드는 1994년에 시작된 첫 아케이드 게임을 가리키며 후속 시리즈 전체를 포함하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "발사 전에 방향을 정하고 이미 놓인 거품에 새 거품을 붙인다. 연결된 같은 색 거품의 수가 제거 조건을 충족하면 판의 형태가 바뀐다.\n\n《[[컬럼스]]》나 《[[뿌요뿌요]]》처럼 내려오는 조각을 옮기는 낙하형 퍼즐과 구별한다. 이 카드는 1994년에 시작된 첫 아케이드 게임을 가리키며 후속 시리즈 전체를 포함하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

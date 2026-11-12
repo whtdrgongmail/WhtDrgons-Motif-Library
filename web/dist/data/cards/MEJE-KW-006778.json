@@ -4,8 +4,8 @@
   "title": "회상 뒤에 찾아오는 죽음",
   "original": "Death by Flashback",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00708",
+  "primary_tag_id": "ML-T00708",
   "description": {
     "definition": "한 인물의 과거를 길게 보여 주고 미해결 이야기를 정리한 직후 그 인물이 죽는다. 배경 설명이 작별의 예고처럼 읽히게 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "긴 회상으로 인물의 기원과 미해결된 과거를 설명한 뒤 죽음을 배치하는 구성이다. 배경 서사의 마무리가 현재 삶의 종결과 겹친다.\n\n관객은 인물을 충분히 이해한 직후 잃기 때문에 상실을 더 강하게 느낄 수 있다. 불길한 작은 징조와 함께 사용하면 회상이 마지막 정리라는 예감을 준다.\n\n모든 회상이 죽음의 예고인 것은 아니다. 삶이 눈앞에 스쳐 가는 주관적 현상과 관객에게 따로 제공한 배경 설명도 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "긴 회상으로 인물의 기원과 미해결된 과거를 설명한 뒤 죽음을 배치하는 구성이다. 배경 서사의 마무리가 현재 삶의 종결과 겹친다.\n\n관객은 인물을 충분히 이해한 직후 잃기 때문에 상실을 더 강하게 느낄 수 있다. 불길한 작은 징조와 함께 사용하면 회상이 마지막 정리라는 예감을 준다.\n\n모든 회상이 죽음의 예고인 것은 아니다. 삶이 눈앞에 스쳐 가는 주관적 현상과 관객에게 따로 제공한 배경 설명도 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

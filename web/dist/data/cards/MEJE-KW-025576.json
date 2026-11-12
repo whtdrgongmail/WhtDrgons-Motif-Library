@@ -5,8 +5,8 @@
   "original": "A Key That Disappears after Use",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02105",
+  "primary_tag_id": "ML-T02105",
   "description": {
     "definition": "문을 여는 데 쓴 열쇠가 소모되어 다시 사용할 수 없게 되는 게임의 물건 규칙이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "열쇠가 여러 문을 여는 보통 잠금 체계와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.004.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "열쇠를 문에 사용하면 물건이 소모되어 다시 쓸 수 없게 되는 게임 규칙이다. 접근 권한의 획득이 지속적인 능력이 아니라 한 번의 사용 자원으로 관리된다.\n\n문 하나를 통과한 뒤에도 다음 문에는 새 열쇠가 필요할 수 있다. 열쇠의 보유량과 사용할 대상이 연결되어 이동의 가능성을 자원 배분의 문제로 만든다.\n\n같은 열쇠로 여러 문을 여는 일반적인 잠금 체계와는 다르다. 사용한 뒤 사라지는 이유가 물리적인 파손인지 단순한 게임 처리인지는 별도 설정이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "열쇠를 문에 사용하면 물건이 소모되어 다시 쓸 수 없게 되는 게임 규칙이다. 접근 권한의 획득이 지속적인 능력이 아니라 한 번의 사용 자원으로 관리된다.\n\n문 하나를 통과한 뒤에도 다음 문에는 새 열쇠가 필요할 수 있다. 열쇠의 보유량과 사용할 대상이 연결되어 이동의 가능성을 자원 배분의 문제로 만든다.\n\n같은 열쇠로 여러 문을 여는 일반적인 잠금 체계와는 다르다. 사용한 뒤 사라지는 이유가 물리적인 파손인지 단순한 게임 처리인지는 별도 설정이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

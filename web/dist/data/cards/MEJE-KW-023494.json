@@ -5,8 +5,8 @@
   "original": "Innate and Replenishable Life Energy",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01233",
+  "primary_tag_id": "ML-T01233",
   "description": {
     "definition": "생명 에너지를 태어날 때 받은 유한한 몫과 이후 보충할 수 있는 몫으로 나누고, 전자의 고갈이 죽음에 연결되도록 정한 세계 규칙이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "하나의 마력 수치만 회복하는 체계와 구별한다. 현실의 생명·수명에 대한 의학적 설명이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.009.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "생명 에너지가 태어날 때 정해진 몫과 나중에 보충하는 몫으로 나뉜다. 선천적으로 받은 에너지는 유한하며 고갈이 죽음과 연결된다.\n\n힘을 사용한다는 같은 행동도 어느 몫을 소비했는지에 따라 대가가 달라진다. 회복 가능한 소비와 되돌릴 수 없는 수명의 지출을 구별해 수련과 희생을 구성한다.\n\n하나의 수치를 소모했다가 채우는 체계와 다르다. 허구 세계의 에너지 규칙이며 현실의 생명과 수명을 설명하는 의학적 모형은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "생명 에너지가 태어날 때 정해진 몫과 나중에 보충하는 몫으로 나뉜다. 선천적으로 받은 에너지는 유한하며 고갈이 죽음과 연결된다.\n\n힘을 사용한다는 같은 행동도 어느 몫을 소비했는지에 따라 대가가 달라진다. 회복 가능한 소비와 되돌릴 수 없는 수명의 지출을 구별해 수련과 희생을 구성한다.\n\n하나의 수치를 소모했다가 채우는 체계와 다르다. 허구 세계의 에너지 규칙이며 현실의 생명과 수명을 설명하는 의학적 모형은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

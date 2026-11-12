@@ -4,8 +4,8 @@
   "title": "이름만 들어도 파멸인 물건",
   "original": "Doomy Dooms of Doom",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01994",
+  "primary_tag_id": "ML-T01994",
   "description": {
     "definition": "평범한 사물이나 장소의 이름에 파멸을 뜻하는 말을 덧붙여 과장된 위협이나 우스운 허세를 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평범한 이름에 파멸과 재앙을 뜻하는 말을 거듭 붙여 위협을 과장하는 작명과 대사 방식이다. 소리의 반복과 장엄한 전달이 실제 내용보다 큰 무게를 만든다.\n\n별것 아닌 물건에도 같은 수식어를 붙이면 말과 대상의 규모가 어긋나 희극이 된다. 악역이 스스로 그런 이름을 즐기면 잔혹함뿐 아니라 자기 과시와 과도한 연극성이 드러난다.\n\n실제 파괴의 강도를 나타내는 정확한 등급은 아니다. [[말장난]]과 말투의 기능을 살피며, 거창한 이름만으로 물건의 능력과 결과를 새로 단정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평범한 이름에 파멸과 재앙을 뜻하는 말을 거듭 붙여 위협을 과장하는 작명과 대사 방식이다. 소리의 반복과 장엄한 전달이 실제 내용보다 큰 무게를 만든다.\n\n별것 아닌 물건에도 같은 수식어를 붙이면 말과 대상의 규모가 어긋나 희극이 된다. 악역이 스스로 그런 이름을 즐기면 잔혹함뿐 아니라 자기 과시와 과도한 연극성이 드러난다.\n\n실제 파괴의 강도를 나타내는 정확한 등급은 아니다. [[말장난]]과 말투의 기능을 살피며, 거창한 이름만으로 물건의 능력과 결과를 새로 단정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

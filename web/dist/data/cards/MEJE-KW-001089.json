@@ -4,8 +4,8 @@
   "title": "사건 뒤 악역을 되짚는 대화",
   "original": "After-Action Villain Analysis",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00714",
+  "primary_tag_id": "ML-T00714",
   "description": {
     "definition": "[[갈등]]이 잠시 끝난 뒤 인물들이 악역의 행동과 동기를 차분히 정리하는 장면. [[사건]]의 의미를 다시 묶고 남은 관계의 변화를 확인한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "06.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역이 없거나 힘을 잃은 뒤 인물들이 행동과 동기를 정리한다. 대결의 의미를 설명해 이전의 적대와 선택을 다시 이해하게 하는 대화다.\n\n적이었던 사람이나 등을 돌린 부하가 다른 이들에게 사정을 전할 수 있다. 악역에 대한 설명이 곧 그와 싸웠던 사람의 행동을 설명하는 기능을 한다.\n\n악역 자신이 격정적으로 목적을 외치는 장면과 다르다. 주제가 어두워도 대화의 말투가 차분하다는 대비가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악역이 없거나 힘을 잃은 뒤 인물들이 행동과 동기를 정리한다. 대결의 의미를 설명해 이전의 적대와 선택을 다시 이해하게 하는 대화다.\n\n적이었던 사람이나 등을 돌린 부하가 다른 이들에게 사정을 전할 수 있다. 악역에 대한 설명이 곧 그와 싸웠던 사람의 행동을 설명하는 기능을 한다.\n\n악역 자신이 격정적으로 목적을 외치는 장면과 다르다. 주제가 어두워도 대화의 말투가 차분하다는 대비가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

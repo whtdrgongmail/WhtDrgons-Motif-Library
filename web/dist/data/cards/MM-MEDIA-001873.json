@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "그레이 아나토미",
   "original": "Grey's Anatomy",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Grey's Anatomy"
+  ],
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《그레이 아나토미》는 텔레비전 작품이다.",
-    "detail": "작품 사례: 《그레이 아나토미》에서 외상외과 의사 오언 헌트는 비정형적인 도구를 사용한 응급 기도 처치로 위기 장면의 전문성을 보여 준다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014597",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-020326",
       "row_version": 1
     },
@@ -47,5 +53,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "병원에서 일하는 외과 의사들의 직업과 연애를 함께 다루는 [[텔레비전]] 시리즈다. 메러디스는 수련 첫날 전날 밤 만났던 상대가 같은 병원에서 일한다는 사실을 알게 된다.\n\n사적인 관계가 엄격한 전문 공간에 겹치면서 의료 사건과 로맨스의 갈등이 병행된다. 진료의 절차만을 중심으로 한 형식보다 인물들의 감정과 관계가 직장 안에서 변화하는 모습을 지속적으로 따른다.",
+    "sections": [
+      [
+        "상세 설명",
+        "병원에서 일하는 외과 의사들의 직업과 연애를 함께 다루는 [[텔레비전]] 시리즈다. 메러디스는 수련 첫날 전날 밤 만났던 상대가 같은 병원에서 일한다는 사실을 알게 된다.\n\n사적인 관계가 엄격한 전문 공간에 겹치면서 의료 사건과 로맨스의 갈등이 병행된다. 진료의 절차만을 중심으로 한 형식보다 인물들의 감정과 관계가 직장 안에서 변화하는 모습을 지속적으로 따른다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

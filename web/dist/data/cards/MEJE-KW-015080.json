@@ -4,8 +4,8 @@
   "title": "활약에 맞춰 흐르는 주제곡",
   "original": "Theme Music Power-Up",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "주인공의 결정적인 활약 순간에 주제 음악을 들려주어 힘과 승리의 기대를 높이는 연출이다.",
     "detail": "작품 사례: [[Bloodsport (1988)]]에서 시력을 방해받은 프랭크가 수련을 떠올려 다시 싸우기 시작할 때 주제 음악이 힘을 실어 주며, 역전의 기대를 고조시킨다.",
@@ -13,10 +13,10 @@
     "boundary": "항상 음악이 실제 능력을 증가시키는 설정은 아니며 관객에게 주는 효과도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 역전과 활약에 익숙한 주제 음악을 맞추어 감정과 승리의 기대를 높이는 연출이다. 음악의 재등장은 이미 형성된 인물의 이미지와 행동을 연결한다.\n\n노래가 실제 능력치를 올리는 설정만을 뜻하지 않는다. 관객에게 미치는 정서적 효과와 이야기 세계 안의 강화는 구분해야 한다.\n\n[[Bloodsport (1988)]]의 프랭크는 시력을 방해받은 뒤 수련을 떠올리고 다시 싸운다. 주제 음악이 그 전환과 함께 흐르며 역전의 기대를 강조한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 역전과 활약에 익숙한 주제 음악을 맞추어 감정과 승리의 기대를 높이는 연출이다. 음악의 재등장은 이미 형성된 인물의 이미지와 행동을 연결한다.\n\n노래가 실제 능력치를 올리는 설정만을 뜻하지 않는다. 관객에게 미치는 정서적 효과와 이야기 세계 안의 강화는 구분해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Bloodsport (1988)]]의 프랭크는 시력을 방해받은 뒤 수련을 떠올리고 다시 싸운다. 주제 음악이 그 전환과 함께 흐르며 역전의 기대를 강조한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

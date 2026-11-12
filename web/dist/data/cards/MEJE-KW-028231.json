@@ -4,8 +4,8 @@
   "title": "프로그레시브 메탈코어",
   "original": "Progressive metalcore",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015091",
+  "primary_tag_id": "MEJE-KW-015091",
   "description": {
     "definition": "[[모던 메탈코어]]에 기술적인 기타 연주와 분위기를 만드는 신시사이저, 강한 젠트 요소를 결합하는 하위 양식이다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": "프로그레시브 메탈 전체와 같지 않으며 [[메탈코어]]의 기반과 현재 문단의 혼합 조건을 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "모던 메탈코어의 기반 위에 기술적인 기타와 신시사이저, 강한 젠트 요소가 결합한다. 서로 다른 표현이 리듬과 분위기의 전개에 관여한다.\n\n분석은 연주의 난도만 아니라 어떤 리듬 변화와 공간감을 만드는지 포함한다. 여러 요소의 비중이 장르의 구체적인 인상을 결정한다.\n\n프로그레시브 메탈 전체와 같은 이름은 아니다. 메탈코어의 기반과 명시된 혼합 조건이 실제 음악에 나타나는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "모던 메탈코어의 기반 위에 기술적인 기타와 신시사이저, 강한 젠트 요소가 결합한다. 서로 다른 표현이 리듬과 분위기의 전개에 관여한다.\n\n분석은 연주의 난도만 아니라 어떤 리듬 변화와 공간감을 만드는지 포함한다. 여러 요소의 비중이 장르의 구체적인 인상을 결정한다.\n\n프로그레시브 메탈 전체와 같은 이름은 아니다. 메탈코어의 기반과 명시된 혼합 조건이 실제 음악에 나타나는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

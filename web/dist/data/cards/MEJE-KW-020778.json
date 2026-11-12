@@ -4,8 +4,8 @@
   "title": "본편 이전 이야기의 악역",
   "original": "Predecessor Villain",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00883",
+  "primary_tag_id": "ML-T00883",
   "description": {
     "definition": "현재 사건보다 앞선 배경 이야기에서 [[적대자]]의 역할을 맡았던 인물이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "본편에서 잠시 먼저 등장한 악역과 구별한다. 서사적 위치가 현재 이야기의 과거·배경에 놓인다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현재의 주요 악역보다 앞선 배경 이야기에서 비슷한 위협과 역할을 맡았던 악역이다. 직접적인 계승 관계나 사상과 수법의 유사성이 과거와 현재를 연결한다.\n\n이미 죽었어도 남긴 지식과 힘, 조직이 현재의 악역에게 자원이 될 수 있다. 과거 영웅과의 대결이 현재 인물들의 싸움과 대응되면 같은 문제가 반복된다는 인상을 만든다.\n\n과거에 나쁜 일을 한 모든 인물이 해당하는 것은 아니다. 현재의 위협과 선행 관계가 중요하며, 실제 배후로 다시 활동하는 경우와 역사적인 전례로 남는 경우는 현재 줄거리의 참여 정도가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현재의 주요 악역보다 앞선 배경 이야기에서 비슷한 위협과 역할을 맡았던 악역이다. 직접적인 계승 관계나 사상과 수법의 유사성이 과거와 현재를 연결한다.\n\n이미 죽었어도 남긴 지식과 힘, 조직이 현재의 악역에게 자원이 될 수 있다. 과거 영웅과의 대결이 현재 인물들의 싸움과 대응되면 같은 문제가 반복된다는 인상을 만든다.\n\n과거에 나쁜 일을 한 모든 인물이 해당하는 것은 아니다. 현재의 위협과 선행 관계가 중요하며, 실제 배후로 다시 활동하는 경우와 역사적인 전례로 남는 경우는 현재 줄거리의 참여 정도가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "외도를 숨길 생각도 하지 않기",
   "original": "Callously Casual Cheating",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "인물이 관계의 약속을 어기면서도 상대의 감정을 돌보거나 사실을 감출 생각이 없다. 무심함이 배신의 상처를 더 크게 만든다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "관계의 약속을 어기면서도 상대에게 들키거나 상처를 주는 일을 별로 신경 쓰지 않는 인물의 태도다. 숨기려는 노력조차 없는 모습이 상대를 존중하지 않는다는 느낌을 더한다. 상호 합의한 비독점적 관계와 달리 약속 위반과 일방적인 무시가 핵심이다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "연인이나 배우자를 배신하면서도 이를 숨기거나 상대의 감정을 고려하려 하지 않는 태도다. 발각을 피하려는 일반적인 비밀 유지조차 하지 않아, 배신뿐 아니라 관계에 대한 노골적인 경멸이 드러난다.\n\n인물은 들켜도 문제가 없다고 믿거나 상대가 떠나지 못할 것이라고 여길 수 있다. 공개적인 행동은 상대를 모욕하는 수단이 되기도 하며, 주변 사람들이 알고도 말하지 않는다면 관계의 불균형이 사회적인 침묵으로 확대된다.\n\n사전에 합의한 비독점적 관계와는 다르다. 약속된 경계를 어겼다는 사실과 이를 대수롭지 않게 여긴다는 태도가 함께 있어야 한다. 단순한 부주의로 비밀이 새는 경우보다 상대의 반응과 권리를 무시하는 의식적인 무관심이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "연인이나 배우자를 배신하면서도 이를 숨기거나 상대의 감정을 고려하려 하지 않는 태도다. 발각을 피하려는 일반적인 비밀 유지조차 하지 않아, 배신뿐 아니라 관계에 대한 노골적인 경멸이 드러난다.\n\n인물은 들켜도 문제가 없다고 믿거나 상대가 떠나지 못할 것이라고 여길 수 있다. 공개적인 행동은 상대를 모욕하는 수단이 되기도 하며, 주변 사람들이 알고도 말하지 않는다면 관계의 불균형이 사회적인 침묵으로 확대된다.\n\n사전에 합의한 비독점적 관계와는 다르다. 약속된 경계를 어겼다는 사실과 이를 대수롭지 않게 여긴다는 태도가 함께 있어야 한다. 단순한 부주의로 비밀이 새는 경우보다 상대의 반응과 권리를 무시하는 의식적인 무관심이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

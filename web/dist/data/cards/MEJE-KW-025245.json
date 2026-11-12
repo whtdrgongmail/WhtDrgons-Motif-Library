@@ -5,8 +5,8 @@
   "original": "The Game Mocks You for Bad Luck",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02158",
+  "primary_tag_id": "ML-T02158",
   "description": {
     "definition": "성패를 운에 맡긴 과제에서 불리한 무작위 결과로 실패한 플레이어에게 게임이 무능하거나 잘못한 것처럼 조롱하는 연출이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "실제 실수에 대한 반응보다 결과 통제권의 부재와 책임 전가의 차이가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.010.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "운이 결정하는 과제에서 불리한 무작위 결과로 실패했는데 게임이 플레이어를 조롱한다. 결과를 통제하지 못한 사람에게 잘못의 책임이 돌아가는 연출이다.\n\n실패의 원인과 평가의 대상이 어긋나 불공정감과 분노가 생길 수 있다. 게임이 그 감정을 의도했는지와 별개로 플레이어에게 주어진 통제 범위를 구분해야 한다.\n\n실제 실수에 반응하는 놀림과 다르다. 선택이나 숙련으로 피할 수 없던 결과를 무능함처럼 취급한다는 점이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "운이 결정하는 과제에서 불리한 무작위 결과로 실패했는데 게임이 플레이어를 조롱한다. 결과를 통제하지 못한 사람에게 잘못의 책임이 돌아가는 연출이다.\n\n실패의 원인과 평가의 대상이 어긋나 불공정감과 분노가 생길 수 있다. 게임이 그 감정을 의도했는지와 별개로 플레이어에게 주어진 통제 범위를 구분해야 한다.\n\n실제 실수에 반응하는 놀림과 다르다. 선택이나 숙련으로 피할 수 없던 결과를 무능함처럼 취급한다는 점이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

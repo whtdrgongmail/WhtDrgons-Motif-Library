@@ -5,8 +5,8 @@
   "original": "The Breakup Is Quickly Forgotten",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01952",
+  "primary_tag_id": "ML-T01952",
   "description": {
     "definition": "연인을 결별시킨 뒤 작품이 그 관계를 빠르게 잊어 과거 연애가 없었던 것처럼 취급하는 연속성 처리이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "인물들이 과거를 기억하면서 정리하는 이별과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "23.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "결별한 관계를 작품이 빠르게 잊고 처음부터 없던 것처럼 다룬다. 감정의 정리보다 연속성에서 과거를 지우는 처리다.\n\n새로운 관계와 초기 상태를 쉽게 만들 수 있지만 인물의 기억에는 공백이 생긴다. 과거에 있었던 일과 이후 언급하고 반응하는 범위를 비교해야 한다.\n\n서로 이별을 기억하며 삶을 정리한 경우와 다르다. 관계 자체가 서사에서 사라진 듯 취급되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "결별한 관계를 작품이 빠르게 잊고 처음부터 없던 것처럼 다룬다. 감정의 정리보다 연속성에서 과거를 지우는 처리다.\n\n새로운 관계와 초기 상태를 쉽게 만들 수 있지만 인물의 기억에는 공백이 생긴다. 과거에 있었던 일과 이후 언급하고 반응하는 범위를 비교해야 한다.\n\n서로 이별을 기억하며 삶을 정리한 경우와 다르다. 관계 자체가 서사에서 사라진 듯 취급되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

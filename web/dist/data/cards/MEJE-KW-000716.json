@@ -4,8 +4,8 @@
   "title": "의지를 가진 거친 마력",
   "original": "Wild Magic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01209",
+  "primary_tag_id": "ML-T01209",
   "description": {
     "definition": "사용자의 명령에 순순히 따르지 않고 스스로 반응하거나 예측 밖의 결과를 내는 원초적 마력의 [[설정]]. 힘과 협상하거나 억누르는 과정 자체가 위험한 사건이 된다. [[폭풍처럼 몰아치는 불안정한 마력]]은 그 힘이 넓은 공간에 재난처럼 나타나는 경우다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마력은 사용자의 의도를 순순히 따르지 않고 스스로 반응한다. 예상 밖의 결과 때문에 힘을 다루는 과정 자체가 위험해진다.\n\n사용자는 단순히 양을 조절하기보다 협상하거나 억제할 필요가 생긴다. 명령하는 사람과 반응하는 힘의 관계가 설정의 중심이다.\n\n넓은 공간에 재난처럼 나타난다는 규모와는 별개이다. 거친 힘의 의지와 외부 피해 범위를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마력은 사용자의 의도를 순순히 따르지 않고 스스로 반응한다. 예상 밖의 결과 때문에 힘을 다루는 과정 자체가 위험해진다.\n\n사용자는 단순히 양을 조절하기보다 협상하거나 억제할 필요가 생긴다. 명령하는 사람과 반응하는 힘의 관계가 설정의 중심이다.\n\n넓은 공간에 재난처럼 나타난다는 규모와는 별개이다. 거친 힘의 의지와 외부 피해 범위를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

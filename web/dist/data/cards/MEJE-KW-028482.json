@@ -4,8 +4,8 @@
   "title": "군 조직과 군인의 활동을 중심에 둔 SF",
   "original": "Military Science Fiction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00231",
+  "primary_tag_id": "ML-T00231",
   "description": {
     "definition": "미래적 기술과 사회를 배경으로 군 지휘 체계에 속한 인물과 부대의 활동을 중심에 놓고 전략·규율·조직 생활을 다루는 SF 장르다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": "대규모 우주 전투가 있다는 사실만으로 해당하지 않는다. 전쟁이 없어도 사관학교나 고립된 주둔군의 생활이 중심이면 가능하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.104",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "미래의 군인과 부대가 어떤 체계 속에서 움직이는지에 집중한다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미래 기술과 사회 안에서 군인과 부대의 활동을 주요 관심으로 삼는다. 명령 체계와 전략, 조직의 일상이 개인의 목표와 선택을 규정한다.\n\n전투 기술이 달라지면 병사의 역할과 책임도 바뀔 수 있다. 큰 전쟁이 없어도 주둔군의 고립이나 학교의 교육을 통해 군사 조직을 중심에 놓을 수 있다.\n\n[[장교를 양성하는 군사 교육기관]]은 가능한 배경이며 필수는 아니다. 우주에서 대규모 싸움이 벌어진다는 사실만으로 장르가 확정되지는 않고 군의 내부 관점과 활동이 실제 서사의 중심인지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미래 기술과 사회 안에서 군인과 부대의 활동을 주요 관심으로 삼는다. 명령 체계와 전략, 조직의 일상이 개인의 목표와 선택을 규정한다.\n\n전투 기술이 달라지면 병사의 역할과 책임도 바뀔 수 있다. 큰 전쟁이 없어도 주둔군의 고립이나 학교의 교육을 통해 군사 조직을 중심에 놓을 수 있다.\n\n[[장교를 양성하는 군사 교육기관]]은 가능한 배경이며 필수는 아니다. 우주에서 대규모 싸움이 벌어진다는 사실만으로 장르가 확정되지는 않고 군의 내부 관점과 활동이 실제 서사의 중심인지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

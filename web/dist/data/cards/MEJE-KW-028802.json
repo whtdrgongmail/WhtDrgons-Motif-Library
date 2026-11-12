@@ -4,8 +4,8 @@
   "title": "합의된 다자 관계를 외도로 오해하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00986",
+  "primary_tag_id": "ML-T00986",
   "description": {
     "definition": "관계 당사자들은 서로 알고 동의하고 있는데 사정을 모르는 제삼자가 그중 한 관계를 숨겨진 외도로 판단하는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제 동의가 없는 기만이나 당사자가 알지 못하는 관계와 구별한다. 추정만으로 합의가 있다고 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.007",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "당사자끼리는 합의했는데 밖에서 본 사람만 배신이라고 생각한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "당사자들이 동의한 관계도 외부인은 배타적인 연애를 전제로 판단할 수 있다. 몰래 만난다는 오해는 실제 비밀보다 제삼자의 부족한 정보에서 생긴다.\n\n관객이 합의 사실을 알면 제삼자의 행동은 불필요한 폭로와 개입으로 보일 수 있다. 반대로 함께 모르는 상태라면 확인 과정이 관계의 실상을 밝힌다.\n\n실제로 속이고 있는 외도와는 다르다. 합의의 존재는 추정이 아니라 작품 안의 근거로 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "당사자들이 동의한 관계도 외부인은 배타적인 연애를 전제로 판단할 수 있다. 몰래 만난다는 오해는 실제 비밀보다 제삼자의 부족한 정보에서 생긴다.\n\n관객이 합의 사실을 알면 제삼자의 행동은 불필요한 폭로와 개입으로 보일 수 있다. 반대로 함께 모르는 상태라면 확인 과정이 관계의 실상을 밝힌다.\n\n실제로 속이고 있는 외도와는 다르다. 합의의 존재는 추정이 아니라 작품 안의 근거로 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

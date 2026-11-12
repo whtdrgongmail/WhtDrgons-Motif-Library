@@ -4,8 +4,8 @@
   "title": "위험한 임무를 조건으로 죄수 풀어 주기",
   "original": "Boxed Crook",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00757",
+  "primary_tag_id": "ML-T00757",
   "description": {
     "definition": "갇힌 사람에게 어려운 일을 맡기고 성공하면 자유를 주겠다고 한다. 선택의 여지가 좁은 거래와 임무의 대가가 이야기의 갈등이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중한 처벌을 앞둔 죄수에게 위험한 임무의 수행을 조건으로 자유나 감형을 제안하는 구성이다. 실제 유죄 여부와 관계없이 구금 상태가 협상에서 인물을 불리하게 만든다.\n\n모집자는 죄수의 특수 능력을 이용하거나 실패 책임을 부인하려 한다. 생환 가능성이 낮은 임무에 투입하면서 도주 방지 장치를 마련하면 제안의 강제성이 더욱 뚜렷해진다.\n\n여러 죄수를 모으면 불신과 이해관계가 얽힌 임무 집단이 된다. 단순한 범죄자 고용과 달리 형벌의 면제라는 대가와 거절하기 어려운 상황이 구조의 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "중한 처벌을 앞둔 죄수에게 위험한 임무의 수행을 조건으로 자유나 감형을 제안하는 구성이다. 실제 유죄 여부와 관계없이 구금 상태가 협상에서 인물을 불리하게 만든다.\n\n모집자는 죄수의 특수 능력을 이용하거나 실패 책임을 부인하려 한다. 생환 가능성이 낮은 임무에 투입하면서 도주 방지 장치를 마련하면 제안의 강제성이 더욱 뚜렷해진다.\n\n여러 죄수를 모으면 불신과 이해관계가 얽힌 임무 집단이 된다. 단순한 범죄자 고용과 달리 형벌의 면제라는 대가와 거절하기 어려운 상황이 구조의 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "국경을 넘으면 완전히 안전해지는 도피처",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01308",
+  "primary_tag_id": "ML-T01308",
   "description": {
     "definition": "특정 나라에 도달하기만 하면 처벌이나 추적을 절대 받지 않는 것으로 제시되는 범죄자의 목적지 설정이다.",
     "detail": "작품 사례: [[The Producers (1967)]]에서 주인공들은 사기 계획이 뜻밖의 성공을 거두자 처벌을 피할 목적지로 브라질을 택해 달아난다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 범죄인 인도 조약이나 체류 안전성을 설명하는 개념이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 국경만 넘으면 추적과 처벌에서 완전히 벗어난다고 취급하는 도피 설정이다. 목적지 도달 여부가 추적의 승패를 단순하게 나눈다.\n\n실제 범죄인 인도와 체류 안전성에 대한 설명이 아니다. 국경 너머를 상대적인 위험 감소가 아닌 절대적 안전지대로 제시하는 기능이 중요하다.\n\n[[The Producers (1967)]]의 주인공들은 실패를 노린 사기가 뜻밖의 성공을 거두자 달아난다. 처벌을 피할 목적지로 브라질을 택해 특정 국가를 안전한 탈출구로 취급한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 국경만 넘으면 추적과 처벌에서 완전히 벗어난다고 취급하는 도피 설정이다. 목적지 도달 여부가 추적의 승패를 단순하게 나눈다.\n\n실제 범죄인 인도와 체류 안전성에 대한 설명이 아니다. 국경 너머를 상대적인 위험 감소가 아닌 절대적 안전지대로 제시하는 기능이 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[The Producers (1967)]]의 주인공들은 실패를 노린 사기가 뜻밖의 성공을 거두자 달아난다. 처벌을 피할 목적지로 브라질을 택해 특정 국가를 안전한 탈출구로 취급한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "수련 몽타주",
   "original": "Training Montage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01914",
+  "primary_tag_id": "ML-T01914",
   "description": {
     "definition": "기량을 높이기 위한 반복적인 연습과 훈련의 시간을 여러 장면으로 압축해 보여 주는 편집이다.",
     "detail": "작품 사례: [[Arrow]] 시즌 2는 올리버가 곡예적인 싸움과 파쿠르 이동을 준비하는 운동 장면을 몽타주로 묶어, 기량을 만드는 훈련 시간을 압축한다.",
@@ -13,10 +13,10 @@
     "boundary": "노동이나 이동 일반을 압축하는 몽타주보다 목적이 능력 향상에 한정된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.009.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,33 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000064",
+      "work_card_id": "MM-MEDIA-001847",
       "description_ko": "Arrow 시즌 2는 올리버가 곡예적인 싸움과 파쿠르 이동을 준비하는 운동 장면을 몽타주로 묶어, 기량을 만드는 훈련 시간을 압축한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "반복되는 훈련을 여러 짧은 장면으로 묶으면 긴 숙련 과정을 제한된 시간에 전달할 수 있다. 관객은 결과뿐 아니라 기량을 얻기 위한 노력을 보게 된다.\n\n훈련의 반복을 모두 실시간으로 보여 주지 않아도 여러 동작을 연결하면 노력의 경과가 보인다. 이후의 기량은 갑자기 얻은 힘보다 압축해서 제시한 수련의 결과로 읽힐 수 있다.\n\n노동과 이동을 요약한 몽타주와는 목적이 다르다. 능력을 높이는 연습이 편집의 중심이어야 한다.\n\n[[Arrow]] 시즌 2는 올리버가 곡예적인 싸움과 파쿠르 이동을 준비하는 운동 장면을 몽타주로 묶어, 기량을 만드는 훈련 시간을 압축한다.\n\n[[Arrow]]",
+    "sections": [
+      [
+        "상세 설명",
+        "반복되는 훈련을 여러 짧은 장면으로 묶으면 긴 숙련 과정을 제한된 시간에 전달할 수 있다. 관객은 결과뿐 아니라 기량을 얻기 위한 노력을 보게 된다.\n\n훈련의 반복을 모두 실시간으로 보여 주지 않아도 여러 동작을 연결하면 노력의 경과가 보인다. 이후의 기량은 갑자기 얻은 힘보다 압축해서 제시한 수련의 결과로 읽힐 수 있다.\n\n노동과 이동을 요약한 몽타주와는 목적이 다르다. 능력을 높이는 연습이 편집의 중심이어야 한다."
+      ],
+      [
+        "사례",
+        "[[Arrow]] 시즌 2는 올리버가 곡예적인 싸움과 파쿠르 이동을 준비하는 운동 장면을 몽타주로 묶어, 기량을 만드는 훈련 시간을 압축한다."
+      ],
+      [
+        "관련 작품",
+        "[[Arrow]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

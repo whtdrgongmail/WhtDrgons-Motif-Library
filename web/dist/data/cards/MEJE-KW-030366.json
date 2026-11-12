@@ -4,8 +4,8 @@
   "title": "능력치가 영 아래로 내려갈 수 있는 규칙",
   "original": "Negative Stat Value",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02088",
+  "primary_tag_id": "ML-T02088",
   "description": {
     "definition": "게임의 직접적인 능력치가 영보다 낮은 값으로 내려갈 수 있어 이미 낮은 능력치에도 추가 약화가 영향을 주는 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "좌표·각도나 체력 변화량의 음수 표시는 제외한다. 다른 수치에서 단순 계산되며 따로 바꿀 수 없는 평균 대비 값도 제외한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수치가 영에서 멈추지 않으면 낮은 능력치도 추가 약화의 영향을 계속 받는다. 최소값에 의존하던 배분과 방어의 판단이 달라질 수 있다.\n\n음수의 크기가 판정과 피해에 어떻게 적용되는지가 규칙의 실제 효과를 정한다. 표시만 음수이고 결과가 같다면 전략적인 의미는 제한될 수 있다.\n\n시간에 따른 체력 감소를 음의 회복으로 표기하는 것과는 다르다. 직접적인 능력치의 값 자체가 영 아래로 내려갈 수 있는 체계다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수치가 영에서 멈추지 않으면 낮은 능력치도 추가 약화의 영향을 계속 받는다. 최소값에 의존하던 배분과 방어의 판단이 달라질 수 있다.\n\n음수의 크기가 판정과 피해에 어떻게 적용되는지가 규칙의 실제 효과를 정한다. 표시만 음수이고 결과가 같다면 전략적인 의미는 제한될 수 있다.\n\n시간에 따른 체력 감소를 음의 회복으로 표기하는 것과는 다르다. 직접적인 능력치의 값 자체가 영 아래로 내려갈 수 있는 체계다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

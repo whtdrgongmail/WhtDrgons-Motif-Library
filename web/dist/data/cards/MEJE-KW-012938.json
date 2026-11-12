@@ -4,8 +4,8 @@
   "title": "그라인드코어",
   "original": "Grindcore",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-012938",
+  "primary_tag_id": "MEJE-KW-012938",
   "description": {
     "definition": "하드코어 펑크와 극단적인 메탈·소음 음악의 요소를 결합하여 짧고 고밀도의 곡, 매우 빠른 연주와 [[거친 발성]]을 강조하는 음악 양식이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[그라인드코어]]는 [[하드코어 펑크]]·크러스트 펑크와 극단적인 메탈 계열의 빠르고 거친 연주가 결합해 형성된 음악 장르다. 매우 짧은 곡과 빠른 드럼, 밀도 높은 왜곡음, 거친 발성을 자주 사용한다. 각 요소의 정도는 밴드마다 다르므로 '가장 빠른 곡'이라는 인상만으로 분류하지 않는다.\n\n그라인드코어는 펑크와 메탈 두 계보에 걸쳐 있으며, 정치·사회 비판의 가사도 쓰이지만 가사 소재가 하나로 고정되지는 않는다. [[데스그라인드]]는 데스 메탈의 음색과 연주 관습을 더 강하게 결합한 하위 갈래이며, [[고어그라인드]]는 신체 훼손 이미지와 극단적인 미학에 무게를 둔다. 하위 갈래를 모두 그라인드코어와 같은 뜻으로 합치면 음악적 차이가 사라진다.\n\n가상 예시: 한 밴드가 수십 초 길이의 곡에서 매우 빠른 드럼과 압축된 기타 소리, 짧은 외침을 결합한다면 그라인드코어의 특징을 설명할 수 있다. 짧은 곡이라는 사실 하나만으로는 이 장르가 성립하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[그라인드코어]]는 [[하드코어 펑크]]·크러스트 펑크와 극단적인 메탈 계열의 빠르고 거친 연주가 결합해 형성된 음악 장르다. 매우 짧은 곡과 빠른 드럼, 밀도 높은 왜곡음, 거친 발성을 자주 사용한다. 각 요소의 정도는 밴드마다 다르므로 '가장 빠른 곡'이라는 인상만으로 분류하지 않는다.\n\n그라인드코어는 펑크와 메탈 두 계보에 걸쳐 있으며, 정치·사회 비판의 가사도 쓰이지만 가사 소재가 하나로 고정되지는 않는다. [[데스그라인드]]는 데스 메탈의 음색과 연주 관습을 더 강하게 결합한 하위 갈래이며, [[고어그라인드]]는 신체 훼손 이미지와 극단적인 미학에 무게를 둔다. 하위 갈래를 모두 그라인드코어와 같은 뜻으로 합치면 음악적 차이가 사라진다."
+      ],
+      [
+        "사례",
+        "가상 예시: 한 밴드가 수십 초 길이의 곡에서 매우 빠른 드럼과 압축된 기타 소리, 짧은 외침을 결합한다면 그라인드코어의 특징을 설명할 수 있다. 짧은 곡이라는 사실 하나만으로는 이 장르가 성립하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

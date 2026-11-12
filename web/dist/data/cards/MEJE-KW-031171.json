@@ -4,8 +4,8 @@
   "title": "일부가 가려진 표지의 오독",
   "original": "Partially-Concealed-Label Gag",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01945",
+  "primary_tag_id": "ML-T01945",
   "description": {
     "definition": "글자나 문구의 일부가 가려진 표지를 보고 전체 뜻을 잘못 짐작해 우스운 결과를 만드는 장치이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.003.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "금지 표시의 앞부분이 가려져 있자 인물은 허용 안내로 읽고 자신 있게 들어간다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "관객과 인물이 보게 되는 정보의 순서가 웃음을 결정한다. 관객도 같은 부분만 보면 뒤늦게 전체 문구가 드러나는 반전이 되고, 관객은 전체를 아는데 인물만 놓치면 잘못된 선택을 기다리는 긴장이 된다. 가리는 물체가 움직이는 순간은 오해가 해소되는 자연스러운 계기가 된다.\n\n문구가 실제로 손상되어 다른 글자가 된 경우나 인물이 읽기를 중단한 경우와는 원인이 다르다. 표지는 온전하지만 시야에 들어온 정보가 불완전하다는 조건이 중요하다. 가려진 부분을 나중에 보여 주었을 때 왜 그렇게 오해했는지 즉시 이해할 수 있도록 글자 배치와 시선을 설계한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "관객과 인물이 보게 되는 정보의 순서가 웃음을 결정한다. 관객도 같은 부분만 보면 뒤늦게 전체 문구가 드러나는 반전이 되고, 관객은 전체를 아는데 인물만 놓치면 잘못된 선택을 기다리는 긴장이 된다. 가리는 물체가 움직이는 순간은 오해가 해소되는 자연스러운 계기가 된다.\n\n문구가 실제로 손상되어 다른 글자가 된 경우나 인물이 읽기를 중단한 경우와는 원인이 다르다. 표지는 온전하지만 시야에 들어온 정보가 불완전하다는 조건이 중요하다. 가려진 부분을 나중에 보여 주었을 때 왜 그렇게 오해했는지 즉시 이해할 수 있도록 글자 배치와 시선을 설계한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": false
   }
 }

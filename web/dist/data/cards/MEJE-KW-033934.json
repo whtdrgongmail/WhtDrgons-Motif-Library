@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-033934",
+  "kind": "keyword",
+  "title": "최솟값 아래로 내려가자 큰 값으로 돌아가기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "일정 범위의 정수를 순환하도록 처리하는 게임에서 값을 최솟값보다 줄이면 큰 값 쪽으로 되돌아가 예상 밖의 자원이나 상태가 생기는 현상이다.",
+    "detail": "",
+    "usage": "수치 감소와 증가가 뒤집히는 게임 오류를 분리한다.",
+    "boundary": "일반적인 부동소수점 언더플로와 같은 뜻으로 단정하지 않으며 적용되는 수치 구현을 전제로 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "조금 더 줄였더니 0보다 작아지는 대신 큰 숫자가 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "일정 범위에서 순환하는 정수를 최솟값 아래로 줄이면 값이 큰 쪽으로 돌아간다. 감소가 예상과 달리 많은 자원이나 다른 상태를 낳는 게임 현상이다.\n\n플레이어가 이해한 수량의 방향과 실제 구현의 결과가 어긋난다. 어느 범위와 경계에서 값이 바뀌는지에 따라 오류의 효과를 구체적으로 설명할 수 있다.\n\n모든 수치 감소의 오류를 같은 현상으로 묶지 않는다. 일반적인 부동소수점 언더플로와 동일하다고 단정하지 말고 해당 정수 구현을 전제로 해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일정 범위에서 순환하는 정수를 최솟값 아래로 줄이면 값이 큰 쪽으로 돌아간다. 감소가 예상과 달리 많은 자원이나 다른 상태를 낳는 게임 현상이다.\n\n플레이어가 이해한 수량의 방향과 실제 구현의 결과가 어긋난다. 어느 범위와 경계에서 값이 바뀌는지에 따라 오류의 효과를 구체적으로 설명할 수 있다.\n\n모든 수치 감소의 오류를 같은 현상으로 묶지 않는다. 일반적인 부동소수점 언더플로와 동일하다고 단정하지 말고 해당 정수 구현을 전제로 해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

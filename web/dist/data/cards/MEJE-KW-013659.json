@@ -4,8 +4,8 @@
   "title": "무해해 보이려는 여성 변장",
   "original": "Harmless Lady Disguise",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00787",
+  "primary_tag_id": "ML-T00787",
   "description": {
     "definition": "남성이 여성 또는 노년 여성으로 변장하여 타인의 성별·나이 고정관념을 이용해 위협적으로 보이지 않으려는 전술이다.",
     "detail": "작품 사례: [[Doctor Who]]에서 닥터는 세탁부나 청소부 여성으로 변장해 상대의 경계를 낮추고, 위협적으로 보이지 않는 외양을 잠입에 활용한다.",
@@ -13,10 +13,10 @@
     "boundary": "다른 성별의 옷을 입는 행위 일반과 달리 주목과 경계를 피하는 목적이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,33 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000254",
+      "work_card_id": "MM-MEDIA-001308",
       "description_ko": "Doctor Who에서 닥터는 세탁부나 청소부 여성으로 변장해 상대의 경계를 낮추고, 위협적으로 보이지 않는 외양을 잠입에 활용한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "변장한 남성은 상대가 여성이나 노년층을 덜 위협적으로 여길 것이라고 예상한다. 외형의 변경은 경계와 주목을 줄이려는 수단이다.\n\n세탁부나 청소부 같은 역할을 함께 연기하면 잠입하는 이유와 주변의 무관심이 연결된다. 전술은 변장 자체보다 관찰자의 고정관념에 의존한다.\n\n다른 성별의 옷을 입는 모든 행동을 뜻하지 않는다. 위협을 감추고 접근을 쉽게 하려는 구체적인 목적이 있어야 한다.\n\n[[Doctor Who]]의 닥터는 세탁부나 청소부 여성으로 변장해 상대의 경계를 낮춘다.\n\n[[Doctor Who]]",
+    "sections": [
+      [
+        "상세 설명",
+        "변장한 남성은 상대가 여성이나 노년층을 덜 위협적으로 여길 것이라고 예상한다. 외형의 변경은 경계와 주목을 줄이려는 수단이다.\n\n세탁부나 청소부 같은 역할을 함께 연기하면 잠입하는 이유와 주변의 무관심이 연결된다. 전술은 변장 자체보다 관찰자의 고정관념에 의존한다.\n\n다른 성별의 옷을 입는 모든 행동을 뜻하지 않는다. 위협을 감추고 접근을 쉽게 하려는 구체적인 목적이 있어야 한다."
+      ],
+      [
+        "사례",
+        "[[Doctor Who]]의 닥터는 세탁부나 청소부 여성으로 변장해 상대의 경계를 낮춘다."
+      ],
+      [
+        "관련 작품",
+        "[[Doctor Who]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

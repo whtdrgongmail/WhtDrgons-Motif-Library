@@ -4,8 +4,8 @@
   "title": "청소·정비 인력으로 가장해 잠입하기",
   "original": "Janitor Impersonation Infiltration",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00753",
+  "primary_tag_id": "ML-T00753",
   "description": {
     "definition": "일상적으로 여러 방에 출입하지만 주변의 주목은 적게 받는 청소·정비·서비스 인력의 역할을 가장하여 경비가 있는 공간에 들어가는 잠입 방식이다.",
     "detail": "작품 사례: 《[[스파이더맨]]》 첫 호에서 카멜레온은 진짜 청소부를 가둔 뒤 그의 역할로 가장해 잠입한다.",
@@ -13,10 +13,10 @@
     "boundary": "하급직이라 눈에 띄지 않는 것만으로는 부족하다. 그 역할의 업무상 접근 권한이 잠입을 가능하게 해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.003.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "청소와 정비 인력이 이동할 수 있는 업무 공간을 위장 신분으로 이용한다. 익숙한 일상 노동이라는 인상이 경계와 주목을 낮춘다.\n\n복장만 흉내 내는 것보다 출입 권한과 예상되는 행동이 맞아야 위장이 유지된다. 허구의 잠입 장면에서 직무와 보안 인식의 차이가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "청소와 정비 인력이 이동할 수 있는 업무 공간을 위장 신분으로 이용한다. 익숙한 일상 노동이라는 인상이 경계와 주목을 낮춘다.\n\n복장만 흉내 내는 것보다 출입 권한과 예상되는 행동이 맞아야 위장이 유지된다. 허구의 잠입 장면에서 직무와 보안 인식의 차이가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

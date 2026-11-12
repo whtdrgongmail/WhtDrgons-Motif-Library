@@ -4,8 +4,8 @@
   "title": "다크 웨이브",
   "original": "Dark Wave",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-006624",
+  "primary_tag_id": "MEJE-KW-006624",
   "description": {
     "definition": "고딕 록의 우울한 정서를 신시사이저 중심의 뉴웨이브 음악과 결합한 장르다. 기타보다 전자음의 비중이 큰 어둡고 몽환적인 소리가 특징이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.304.007",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다크 웨이브는 고딕 록 및 포스트펑크의 음울한 정서와 전자음 중심의 음악 표현이 만나는 범주다. 신시사이저의 음색과 반복적인 리듬이 중요한 역할을 하지만, 개별 음악가의 기타 사용이나 곡 구성까지 동일하지는 않다.\n\n차가운 전자음과 우울한 선율의 결합은 춤출 수 있는 박자 안에서도 침잠하는 분위기를 만들 수 있다. 드림 팝이나 앰비언트 등과 접하는 작품도 있어, 장르의 경계는 한 가지 악기나 일정한 속도만으로 정해지지 않는다.\n\n인더스트리얼과 전자 악기를 공유한다는 이유로 그 하위 장르라고 볼 수는 없다. 작품별로 강도와 질감이 다르므로, 장르명이 주는 어두운 인상과 실제 편곡의 특징을 함께 살펴야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다크 웨이브는 고딕 록 및 포스트펑크의 음울한 정서와 전자음 중심의 음악 표현이 만나는 범주다. 신시사이저의 음색과 반복적인 리듬이 중요한 역할을 하지만, 개별 음악가의 기타 사용이나 곡 구성까지 동일하지는 않다.\n\n차가운 전자음과 우울한 선율의 결합은 춤출 수 있는 박자 안에서도 침잠하는 분위기를 만들 수 있다. 드림 팝이나 앰비언트 등과 접하는 작품도 있어, 장르의 경계는 한 가지 악기나 일정한 속도만으로 정해지지 않는다.\n\n인더스트리얼과 전자 악기를 공유한다는 이유로 그 하위 장르라고 볼 수는 없다. 작품별로 강도와 질감이 다르므로, 장르명이 주는 어두운 인상과 실제 편곡의 특징을 함께 살펴야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "잘못 말한 외국어를 다시 번역해 관객에게 알리기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01999",
+  "primary_tag_id": "ML-T01999",
   "description": {
     "definition": "외국어를 틀리게 말한 장면에서 상대의 반응이나 재번역으로 실제 발화의 뜻을 관객에게 알려 의도와 결과의 차이를 드러낸다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "외국어를 잘못 말한 뒤 상대의 반응과 재번역으로 실제 뜻을 알려 준다. 말한 사람이 의도한 의미와 발화된 의미의 차이가 관객에게 공개된다.\n\n관객이 해당 언어를 몰라도 오해를 이해하게 할 수 있다. 화자가 자신 있게 계속 말할수록 실패의 정도가 커져 언어 능력에 대한 자부심과 실제 소통의 차이가 웃음의 원인이 된다.\n\n발음이 낯설다는 이유만으로 틀린 외국어는 아니다. 실제 오류를 주장하려면 언어적 근거가 필요하며 번역되어 제시된 농담과 현실의 언어 용법을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "외국어를 잘못 말한 뒤 상대의 반응과 재번역으로 실제 뜻을 알려 준다. 말한 사람이 의도한 의미와 발화된 의미의 차이가 관객에게 공개된다.\n\n관객이 해당 언어를 몰라도 오해를 이해하게 할 수 있다. 화자가 자신 있게 계속 말할수록 실패의 정도가 커져 언어 능력에 대한 자부심과 실제 소통의 차이가 웃음의 원인이 된다.\n\n발음이 낯설다는 이유만으로 틀린 외국어는 아니다. 실제 오류를 주장하려면 언어적 근거가 필요하며 번역되어 제시된 농담과 현실의 언어 용법을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

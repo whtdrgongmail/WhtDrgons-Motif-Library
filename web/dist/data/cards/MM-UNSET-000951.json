@@ -1,0 +1,52 @@
+{
+  "id": "MM-UNSET-000951",
+  "kind": "keyword",
+  "title": "배낭 문제",
+  "original": "Knapsack Problem",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T02097",
+  "primary_tag_id": "ML-T02097",
+  "description": {
+    "definition": "물건마다 무게와 가치가 있을 때 정해진 무게 한도를 넘지 않으면서 가치 합계를 최대화할 물건의 조합을 찾는 최적화 문제이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25.004",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "가방에 넣을 수 있는 무게가 정해졌을 때, 어떤 물건들을 골라야 가치가 가장 큰지 계산하는 문제이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "[[배낭 문제]]는 제한된 용량 안에서 항목을 선택하는 조합 최적화 문제이다. 기본적인 0/1 배낭 문제에서는 각 물건을 한 번 선택하거나 선택하지 않으며, 물건의 무게와 가치가 주어진다. 목적은 무게 총합을 한도 이하로 유지하면서 가치 총합을 최대화하는 것이다.\n\n[[게임]]에서는 소지 무게 제한과 아이템 선택을 설명하는 데 활용할 수 있다. 실제 게임의 선택에는 물건의 가치가 상황에 따라 달라지거나 여러 제약이 추가될 수 있으므로, 모든 인벤토리 결정을 기본적인 배낭 문제와 동일시할 수는 없다. 알고리즘 문제와 게임 내 의사결정을 구분해 기술한다.\n\n가상 적용: 한도가 10인 가방에 무게 6·가치 9의 물건과 무게 4·가치 7의 물건을 담으면 가치 합계는 16이다. 무게 10·가치 13의 물건 하나보다 유리하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[배낭 문제]]는 제한된 용량 안에서 항목을 선택하는 조합 최적화 문제이다. 기본적인 0/1 배낭 문제에서는 각 물건을 한 번 선택하거나 선택하지 않으며, 물건의 무게와 가치가 주어진다. 목적은 무게 총합을 한도 이하로 유지하면서 가치 총합을 최대화하는 것이다.\n\n[[게임]]에서는 소지 무게 제한과 아이템 선택을 설명하는 데 활용할 수 있다. 실제 게임의 선택에는 물건의 가치가 상황에 따라 달라지거나 여러 제약이 추가될 수 있으므로, 모든 인벤토리 결정을 기본적인 배낭 문제와 동일시할 수는 없다. 알고리즘 문제와 게임 내 의사결정을 구분해 기술한다."
+      ],
+      [
+        "사례",
+        "가상 적용: 한도가 10인 가방에 무게 6·가치 9의 물건과 무게 4·가치 7의 물건을 담으면 가치 합계는 16이다. 무게 10·가치 13의 물건 하나보다 유리하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

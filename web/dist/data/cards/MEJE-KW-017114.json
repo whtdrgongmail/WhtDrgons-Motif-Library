@@ -4,8 +4,8 @@
   "title": "장수와 번식의 제한",
   "original": "Immortal Procreation Clause",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01207",
+  "primary_tag_id": "ML-T01207",
   "description": {
     "definition": "불멸 또는 극단적인 장수와 무제한의 인구 증가가 함께 지속되지 않도록 번식 능력·허용·자손의 수명을 제한하는 규칙.",
     "detail": "불임, 드문 출산, 사회적 출산 금지, 유한한 수명의 자손이라는 방식이 있다. 타인을 불멸자로 만드는 일은 자연 출산과 다른 인구 충원이다.\n\n작품 사례: 《[[데스노트]]》의 사신들은 번식과 성관계를 금지당할 뿐 아니라 이를 위한 신체 기능도 없어, 긴 수명에도 자연 출산으로 수가 늘지 않는다.",
@@ -13,30 +13,47 @@
     "boundary": "생물의 수명과 생식 능력에 대한 현실의 보편 법칙으로 취급하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "아주 오래 사는 종족은 아이를 적게 낳거나, 낳지 못하거나, 자손에게 같은 영생을 물려주지 못한다.\n\n작품 사례: 《[[데스노트]]》의 사신들은 번식과 성관계를 금지당할 뿐 아니라 이를 위한 신체 기능도 없어, 긴 수명에도 자연 출산으로 수가 늘지 않는다.",
+    "easy_ko": "아주 오래 사는 종족은 아이를 적게 낳거나, 낳지 못하거나, 자손에게 같은 영생을 물려주지 못한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001526",
+      "work_card_id": "MM-MEDIA-002463",
       "description_ko": "《데스노트》의 사신들은 번식과 성관계를 금지당할 뿐 아니라 이를 위한 신체 기능도 없어, 긴 수명에도 자연 출산으로 수가 늘지 않는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불임과 드문 출산, 사회적인 출산 금지, 부모와 달리 유한한 수명을 가진 자손 등이 인구 증가를 제한한다. 타인을 불멸자로 바꾸는 방식은 자연 출산과 별개의 충원 규칙이다.\n\n장수 사회의 인구와 세대, 가족 구조를 정하는 허구의 설정이다. 생물의 수명과 생식 능력에 관한 현실의 보편 법칙으로 취급하지 않는다.\n\n《[[데스노트(만화)]]》의 사신들은 번식과 성관계를 금지당할 뿐 아니라 이를 위한 신체 기능도 없어, 긴 수명에도 자연 출산으로 수가 늘지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불임과 드문 출산, 사회적인 출산 금지, 부모와 달리 유한한 수명을 가진 자손 등이 인구 증가를 제한한다. 타인을 불멸자로 바꾸는 방식은 자연 출산과 별개의 충원 규칙이다.\n\n장수 사회의 인구와 세대, 가족 구조를 정하는 허구의 설정이다. 생물의 수명과 생식 능력에 관한 현실의 보편 법칙으로 취급하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[데스노트(만화)]]》의 사신들은 번식과 성관계를 금지당할 뿐 아니라 이를 위한 신체 기능도 없어, 긴 수명에도 자연 출산으로 수가 늘지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,27 +4,27 @@
   "title": "톰과 제리",
   "original": "Tom and Jerry",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《톰과 제리》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《톰과 제리》는 두 인물의 이름을 연결해 작품의 중심 관계를 제목에서 바로 제시한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《톰과 제리》는 윌리엄 해나와 조지프 바베라가 창안한 고양이와 생쥐의 [[애니메이션]] 작품군이다. MGM의 극장용 단편 시리즈에서 시작되었다. 고양이와 생쥐의 경쟁은 같은 기본 관계를 유지하면서 장소와 도구의 변형으로 새로운 사건을 만든다.\n\n첫 단편 《Puss Gets the Boot》는 1940년 공개되었다. 초기 고양이의 이름은 재스퍼였으며 이후 제작사 내부 공모를 통해 톰과 제리라는 이름이 정착했다. 개별 단편의 제작 시기와 후속 판본을 구별해야 모든 디자인과 관계를 하나의 고정된 설정으로 간주하지 않을 수 있다.\n\n두 인물의 추격과 방해가 반복되는 단편 형식의 중심을 이룬다. 개별 단편의 사건과 이후 파생 제작물은 하나의 장편 줄거리로 동일시하지 않고 작품군의 범위 안에서 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《톰과 제리》는 윌리엄 해나와 조지프 바베라가 창안한 고양이와 생쥐의 [[애니메이션]] 작품군이다. MGM의 극장용 단편 시리즈에서 시작되었다. 고양이와 생쥐의 경쟁은 같은 기본 관계를 유지하면서 장소와 도구의 변형으로 새로운 사건을 만든다.\n\n첫 단편 《Puss Gets the Boot》는 1940년 공개되었다. 초기 고양이의 이름은 재스퍼였으며 이후 제작사 내부 공모를 통해 톰과 제리라는 이름이 정착했다. 개별 단편의 제작 시기와 후속 판본을 구별해야 모든 디자인과 관계를 하나의 고정된 설정으로 간주하지 않을 수 있다.\n\n두 인물의 추격과 방해가 반복되는 단편 형식의 중심을 이룬다. 개별 단편의 사건과 이후 파생 제작물은 하나의 장편 줄거리로 동일시하지 않고 작품군의 범위 안에서 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

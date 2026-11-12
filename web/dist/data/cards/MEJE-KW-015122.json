@@ -4,8 +4,8 @@
   "title": "하드베이스",
   "original": "Hardbass",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008393",
+  "primary_tag_id": "MEJE-KW-008393",
   "description": {
     "definition": "특징적인 튀는 베이스 음색을 선율처럼 사용하고 강한 댄스 리듬이나 랩과 결합하는 러시아 계열 전자음악 양식이다.",
     "detail": "작품 사례: [[XS Project]]는 튀는 듯한 특유의 베이스 음색을 앞세우는 하드베이스의 사례로 제시된다. 이 저음이 단순한 반주를 넘어 곡의 선율적 인상을 만든다.",
@@ -13,18 +13,21 @@
     "boundary": "특정 국민이나 문화집단의 실제 성향을 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.304.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -34,15 +37,28 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [
-    {
-      "media_tag_id": "ML-T00139",
-      "work_card_id": "MM-MEDIA-001198",
-      "description_ko": "XS Project는 튀는 듯한 특유의 베이스 음색을 앞세우는 하드베이스의 사례로 제시된다. 이 저음이 단순한 반주를 넘어 곡의 선율적 인상을 만든다.",
-      "spoiler_level": "unreviewed",
-      "row_version": 1
-    }
-  ],
+  "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "튀는 베이스 음색이 강한 댄스 리듬과 결합한다. 저음은 배경을 받치는 역할뿐 아니라 선율적인 인상을 만드는 재료가 된다.\n\n랩과 결합할 수도 있어 가창의 존재만으로 형식이 결정되지는 않는다. 음악을 설명할 때 특유의 베이스가 곡에서 어떤 비중을 갖는지 확인해야 한다.\n\n러시아 계열이라는 문화적 맥락을 특정 국민의 성격으로 일반화하지 않는다. 소리의 특징과 실제 사람들의 성향은 별개의 정보이다.\n\n[[XS Project]]는 튀는 베이스를 앞세우는 하드베이스 사례로 정본에 제시된다.\n\n[[XS Project]]",
+    "sections": [
+      [
+        "상세 설명",
+        "튀는 베이스 음색이 강한 댄스 리듬과 결합한다. 저음은 배경을 받치는 역할뿐 아니라 선율적인 인상을 만드는 재료가 된다.\n\n랩과 결합할 수도 있어 가창의 존재만으로 형식이 결정되지는 않는다. 음악을 설명할 때 특유의 베이스가 곡에서 어떤 비중을 갖는지 확인해야 한다.\n\n러시아 계열이라는 문화적 맥락을 특정 국민의 성격으로 일반화하지 않는다. 소리의 특징과 실제 사람들의 성향은 별개의 정보이다."
+      ],
+      [
+        "사례",
+        "[[XS Project]]는 튀는 베이스를 앞세우는 하드베이스 사례로 정본에 제시된다."
+      ],
+      [
+        "관련 작품",
+        "[[XS Project]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

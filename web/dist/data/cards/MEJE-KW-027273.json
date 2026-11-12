@@ -4,8 +4,8 @@
   "title": "실재한다고 믿었던 대상이 없었다는 반전",
   "original": "\"They're Not Real\" Reveal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "실제로 존재한다고 여겼던 사람이나 사물이 실재하지 않았다고 밝혀진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "인물에 한정하는 이전 제안보다 넓으며 가명이나 변장의 폭로와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이야기는 대상을 실제 존재처럼 제시한 뒤 그 전제를 뒤집는다. 관객은 그 대상과 관련된 장면이 누구의 경험과 정보에 기반했는지 다시 이해하게 된다.\n\n다른 인물이 반응하지 않았던 순간과 기록의 공백이 사전 단서가 될 수 있다. 공개 이후에는 주인공의 기억과 관찰의 신뢰성이 갈등의 중심으로 이동한다.\n\n죽었거나 사라진 사람이었던 반전과는 다르다. 원래 존재하지 않았다는 조건이 중요하며 주관적 경험을 사용한 모든 작품이 같은 결말을 갖는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이야기는 대상을 실제 존재처럼 제시한 뒤 그 전제를 뒤집는다. 관객은 그 대상과 관련된 장면이 누구의 경험과 정보에 기반했는지 다시 이해하게 된다.\n\n다른 인물이 반응하지 않았던 순간과 기록의 공백이 사전 단서가 될 수 있다. 공개 이후에는 주인공의 기억과 관찰의 신뢰성이 갈등의 중심으로 이동한다.\n\n죽었거나 사라진 사람이었던 반전과는 다르다. 원래 존재하지 않았다는 조건이 중요하며 주관적 경험을 사용한 모든 작품이 같은 결말을 갖는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

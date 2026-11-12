@@ -4,8 +4,8 @@
   "title": "두 꼬리를 가진 인어",
   "original": "melusina",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01137",
+  "primary_tag_id": "ML-T01137",
   "description": {
     "definition": "물고기 꼬리가 하나가 아니라 두 갈래의 독립된 꼬리로 나뉘는 인어의 신체 설계다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "꼬리 끝의 지느러미가 갈라지는 일반적인 형태와 달리 하체 자체에 두 꼬리가 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[인어]]의 하체가 하나의 꼬리로 이어지지 않고 두 개의 독립된 물고기 꼬리로 나뉜 외형이다. 꼬리 끝의 두 지느러미가 아니라 하체 구조 자체의 복수성이 구별점이다.\n\n익숙한 단일 꼬리 인어와 다른 신체 구성을 한눈에 드러내는 디자인이다. 제공 문맥에서도 두 꼬리 형태를 일반적인 인어의 신체 구획과 다른 변형으로 따로 언급한다.\n\n두 꼬리가 있다는 사실만으로 구체적인 이동 능력이나 생식 규칙까지 확정할 수 없다. 형태의 차이는 확인되지만 모든 관련 전승이 동일한 기원과 세부 설정을 공유한다는 근거는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[인어]]의 하체가 하나의 꼬리로 이어지지 않고 두 개의 독립된 물고기 꼬리로 나뉜 외형이다. 꼬리 끝의 두 지느러미가 아니라 하체 구조 자체의 복수성이 구별점이다.\n\n익숙한 단일 꼬리 인어와 다른 신체 구성을 한눈에 드러내는 디자인이다. 제공 문맥에서도 두 꼬리 형태를 일반적인 인어의 신체 구획과 다른 변형으로 따로 언급한다.\n\n두 꼬리가 있다는 사실만으로 구체적인 이동 능력이나 생식 규칙까지 확정할 수 없다. 형태의 차이는 확인되지만 모든 관련 전승이 동일한 기원과 세부 설정을 공유한다는 근거는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

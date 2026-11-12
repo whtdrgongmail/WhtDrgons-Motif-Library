@@ -4,8 +4,8 @@
   "title": "끝나기 직전에 성사되는 연애",
   "original": "Last-Minute Hookup",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00660",
+  "primary_tag_id": "ML-T00660",
   "description": {
     "definition": "이야기의 마지막 순간에 두 인물이 실제로 연인이 되었음을 분명히 보여 주는 결말 장치다.",
     "detail": "작품 사례: [[Buffy the Vampire Slayer]]에서 버피와의 데이트가 이어지지 않음을 깨달은 로빈 우드는 마지막 시즌의 끝 무렵 페이스와 관계를 맺는다.",
@@ -13,10 +13,10 @@
     "boundary": "이후에 이어질 수도 있다는 암시만 남기는 열린 결말과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작품이 끝나기 직전 연애 관계를 성사시켜 인물의 마지막 보상과 정리로 사용하는 구성이다. 남은 시간이 적어 관계의 이후보다 성사 자체가 강조된다.\n\n나중에 사귈지도 모른다는 가능성만 남기는 열린 결말과 다르다. 관계가 실제로 시작되었는지와 단순한 호감 표현인지 구분해야 한다.\n\n[[Buffy the Vampire Slayer]]의 로빈 우드는 버피와의 데이트가 이어지지 않음을 안다. 마지막 시즌 끝 무렵 페이스와 관계를 맺어 결말 가까운 시점에 새 연애가 성립한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작품이 끝나기 직전 연애 관계를 성사시켜 인물의 마지막 보상과 정리로 사용하는 구성이다. 남은 시간이 적어 관계의 이후보다 성사 자체가 강조된다.\n\n나중에 사귈지도 모른다는 가능성만 남기는 열린 결말과 다르다. 관계가 실제로 시작되었는지와 단순한 호감 표현인지 구분해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Buffy the Vampire Slayer]]의 로빈 우드는 버피와의 데이트가 이어지지 않음을 안다. 마지막 시즌 끝 무렵 페이스와 관계를 맺어 결말 가까운 시점에 새 연애가 성립한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,19 +4,19 @@
   "title": "가슴을 때리는 공격",
   "original": "Breast Attack",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00778",
+  "primary_tag_id": "ML-T00778",
   "description": {
-    "definition": "싸움 장면에서 인물의 가슴 부위를 노려 타격을 가한다. 신체 부위를 과장된 웃음이나 성적 시선의 대상으로만 쓰는지 살핀다.",
+    "definition": "싸움 장면에서 인물의 가슴 부위를 노려 타격을 가한다. 신체 부위가 과장된 웃음이나 성적 시선의 대상으로만 사용될 수 있다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "07",
+    "code": "07.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가슴 부위를 겨냥한 타격을 별도의 고통과 반응을 만드는 공격으로 사용하는 장면이다. 전투의 비열함이나 예상 밖의 아픔을 강조하며 희극과 진지한 폭력 묘사 양쪽에 등장할 수 있다.\n\n공격자가 성적으로 모욕하려는 의도를 보이면 신체적 피해와 지배의 표현이 결합된다. 반대로 가벼운 장면에서는 충격에 대한 과장된 대사와 반응이 중심이 된다.\n\n몸통을 맞는 모든 장면을 포함하지는 않는다. 해당 신체 부위가 명시적인 표적이나 반응의 이유가 되어야 하며, 허구의 통증 비교를 일반적인 의학적 사실로 다루지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가슴 부위를 겨냥한 타격을 별도의 고통과 반응을 만드는 공격으로 사용하는 장면이다. 전투의 비열함이나 예상 밖의 아픔을 강조하며 희극과 진지한 폭력 묘사 양쪽에 등장할 수 있다.\n\n공격자가 성적으로 모욕하려는 의도를 보이면 신체적 피해와 지배의 표현이 결합된다. 반대로 가벼운 장면에서는 충격에 대한 과장된 대사와 반응이 중심이 된다.\n\n몸통을 맞는 모든 장면을 포함하지는 않는다. 해당 신체 부위가 명시적인 표적이나 반응의 이유가 되어야 하며, 허구의 통증 비교를 일반적인 의학적 사실로 다루지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

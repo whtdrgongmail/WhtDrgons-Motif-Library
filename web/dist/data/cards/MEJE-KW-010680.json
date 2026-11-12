@@ -4,8 +4,8 @@
   "title": "프랑스·벨기에 만화",
   "original": "Franco-Belgian Comics",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02513",
+  "primary_tag_id": "ML-T02513",
   "description": {
     "definition": "프랑스와 벨기에를 중심으로 제작·출판된 만화 작품군과 그 지역적 제작 문화다. 하나의 그림체나 이야기 장르를 뜻하지 않는다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.020",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "프랑스와 벨기에를 중심으로 제작과 출판이 이루어진 만화의 지역적 전통이다. 여러 언어와 시장, 다양한 장르와 양식을 포함한다.\n\n연재와 단행본, 제작 조직의 관습은 이야기의 분량과 페이지 구성에 영향을 줄 수 있다. 다른 지역 만화와의 교류가 이어지면서 경계와 표현도 계속 달라진다.\n\n하나의 그림체로 정의할 수는 없다. 출판과 문화적 맥락을 기준으로 보아야 하며 유명한 몇 작품의 특징을 모든 프랑스·벨기에 만화에 적용하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "프랑스와 벨기에를 중심으로 제작과 출판이 이루어진 만화의 지역적 전통이다. 여러 언어와 시장, 다양한 장르와 양식을 포함한다.\n\n연재와 단행본, 제작 조직의 관습은 이야기의 분량과 페이지 구성에 영향을 줄 수 있다. 다른 지역 만화와의 교류가 이어지면서 경계와 표현도 계속 달라진다.\n\n하나의 그림체로 정의할 수는 없다. 출판과 문화적 맥락을 기준으로 보아야 하며 유명한 몇 작품의 특징을 모든 프랑스·벨기에 만화에 적용하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

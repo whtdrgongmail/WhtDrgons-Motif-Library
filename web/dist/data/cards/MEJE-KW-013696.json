@@ -4,8 +4,8 @@
   "title": "말의 상처를 물리적 충격으로 표현하기",
   "original": "Harsh Word Impact",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01917",
+  "primary_tag_id": "ML-T01917",
   "description": {
     "definition": "상처 주는 말이 화살이나 무거운 물체처럼 상대를 찌르거나 때리는 모습으로 시각화되는 연출이다.",
     "detail": "작품 사례: [[Delicious in Dungeon]]에서 마르실이 던전 탐색을 막다른 직업이라고 비판하자, 말풍선이 라이오스와 주변 사람들을 꿰뚫는 모양으로 그려져 말의 상처를 시각화한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 [[마법]] 공격이나 말에 맞춰 때리는 행동과 달리 심리적 충격의 시각적 비유이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비판이나 모욕이 남긴 심리적 충격을 물체에 맞는 모습으로 바꿔 보여 준다. 말풍선이나 화살의 형상이 실제 상처의 비유를 시각적으로 담당한다.\n\n보이지 않는 감정적 타격이 즉시 드러나므로 대사를 들은 여러 인물의 반응을 한 화면에 압축할 수 있다. 말의 내용과 충돌하는 형상이 같은 효과를 강화한다.\n\n말에 맞춰 누군가 실제로 때리는 행동과는 다르다. 발화가 진짜 [[마법]] 공격이 되는 설정도 아닌 심리적 비유라는 구분이 필요하다.\n\n[[Delicious in Dungeon]]에서 던전 탐색을 막다른 직업이라 비판한 말풍선이 라이오스와 주변 사람들을 꿰뚫는 모양으로 그려진다.\n\n[[Delicious in Dungeon]]",
+    "sections": [
+      [
+        "상세 설명",
+        "비판이나 모욕이 남긴 심리적 충격을 물체에 맞는 모습으로 바꿔 보여 준다. 말풍선이나 화살의 형상이 실제 상처의 비유를 시각적으로 담당한다.\n\n보이지 않는 감정적 타격이 즉시 드러나므로 대사를 들은 여러 인물의 반응을 한 화면에 압축할 수 있다. 말의 내용과 충돌하는 형상이 같은 효과를 강화한다.\n\n말에 맞춰 누군가 실제로 때리는 행동과는 다르다. 발화가 진짜 [[마법]] 공격이 되는 설정도 아닌 심리적 비유라는 구분이 필요하다."
+      ],
+      [
+        "사례",
+        "[[Delicious in Dungeon]]에서 던전 탐색을 막다른 직업이라 비판한 말풍선이 라이오스와 주변 사람들을 꿰뚫는 모양으로 그려진다."
+      ],
+      [
+        "관련 작품",
+        "[[Delicious in Dungeon]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

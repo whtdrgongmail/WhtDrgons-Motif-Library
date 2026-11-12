@@ -4,8 +4,8 @@
   "title": "캐논형 화음 진행",
   "original": "\"Pachelbel's Canon\" Progression",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02036",
+  "primary_tag_id": "ML-T02036",
   "description": {
     "definition": "으뜸·딸림·육도·삼도·사도 등의 화음을 일정한 순환 순서로 이어 쓰는 캐논 연상 진행이다.",
     "detail": "대표적인 장조형은 I–V–vi–iii–IV–I–IV–V이며 일부 화음은 변형될 수 있다.\n\n작품 사례: [[Pachelbel's Canon]]에서 널리 알려진 반복 화음 순서는 다른 곡에서도 재사용되며, 같은 진행 위에 새로운 선율을 얹는 틀로 기능한다.",
@@ -13,19 +13,19 @@
     "boundary": "단순한 돌림노래 작곡 기법인 캐논 전체를 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "익숙한 캐논처럼 화음이 반복 순환하며 선율을 받친다.\n\n작품 사례: [[Pachelbel's Canon]]에서 널리 알려진 반복 화음 순서는 다른 곡에서도 재사용되며, 같은 진행 위에 새로운 선율을 얹는 틀로 기능한다.",
+    "easy_ko": "익숙한 캐논처럼 화음이 반복 순환하며 선율을 받친다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정해진 화음의 순환이 곡의 바탕을 이루고 그 위에 서로 다른 선율을 결합할 수 있다. 대표적인 장조형에서는 I–V–vi–iii–IV–I–IV–V의 순서가 반복되는 기준이 된다.\n\n반복되는 기반이 유지되면 선율이나 편곡의 변화가 대비되어 들릴 수 있다. 일부 화음을 바꾸어도 같은 진행을 연상시키는 구조가 남는지에 따라 변형의 범위를 설명할 수 있다.\n\n캐논이라는 이름이 붙었다고 모든 돌림노래나 모방 기법을 가리키는 것은 아니다. 여기서 분류하는 대상은 성부의 진입 방식이 아니라 화음을 잇는 순서이다.\n\n정본은 [[Pachelbel's Canon]]의 반복 화음 순서를 다른 선율에도 활용할 수 있는 틀로 설명한다.\n\n[[Pachelbel's Canon]]",
+    "sections": [
+      [
+        "상세 설명",
+        "정해진 화음의 순환이 곡의 바탕을 이루고 그 위에 서로 다른 선율을 결합할 수 있다. 대표적인 장조형에서는 I–V–vi–iii–IV–I–IV–V의 순서가 반복되는 기준이 된다.\n\n반복되는 기반이 유지되면 선율이나 편곡의 변화가 대비되어 들릴 수 있다. 일부 화음을 바꾸어도 같은 진행을 연상시키는 구조가 남는지에 따라 변형의 범위를 설명할 수 있다.\n\n캐논이라는 이름이 붙었다고 모든 돌림노래나 모방 기법을 가리키는 것은 아니다. 여기서 분류하는 대상은 성부의 진입 방식이 아니라 화음을 잇는 순서이다."
+      ],
+      [
+        "사례",
+        "정본은 [[Pachelbel's Canon]]의 반복 화음 순서를 다른 선율에도 활용할 수 있는 틀로 설명한다."
+      ],
+      [
+        "관련 작품",
+        "[[Pachelbel's Canon]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "원하는 곳을 피하라고 거짓 부탁하기",
   "original": "Briar Patching",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "상대가 반대로 행동할 것을 예상해 실제로 원하는 선택을 하지 말아 달라고 빈다. 상대의 자만과 말하는 사람의 계산이 결과를 뒤집는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상대가 거부와 두려움을 이용하려 할 것을 예상해 실제로 원하는 행동을 하지 말라고 애원하는 계책이다. 겉으로 보이는 약점과 실제로 필요한 결과가 반대로 놓인다.\n\n강한 공포를 연기하면 상대는 가장 큰 피해를 주는 방법을 찾았다고 믿을 수 있다. 원하는 장소로 보내지거나 물건을 돌려받으면 패배한 듯 보인 상황이 탈출과 반격의 기회로 바뀐다.\n\n우연히 반대 결과를 얻은 것과는 사전 계산이 다르다. [[너무 잘 먹힌 허풍]] 같은 예상 밖의 성공과도 구분하며, 상대의 자만을 읽었다는 근거와 실제 반응을 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상대가 거부와 두려움을 이용하려 할 것을 예상해 실제로 원하는 행동을 하지 말라고 애원하는 계책이다. 겉으로 보이는 약점과 실제로 필요한 결과가 반대로 놓인다.\n\n강한 공포를 연기하면 상대는 가장 큰 피해를 주는 방법을 찾았다고 믿을 수 있다. 원하는 장소로 보내지거나 물건을 돌려받으면 패배한 듯 보인 상황이 탈출과 반격의 기회로 바뀐다.\n\n우연히 반대 결과를 얻은 것과는 사전 계산이 다르다. [[너무 잘 먹힌 허풍]] 같은 예상 밖의 성공과도 구분하며, 상대의 자만을 읽었다는 근거와 실제 반응을 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

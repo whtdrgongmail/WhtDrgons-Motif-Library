@@ -4,8 +4,8 @@
   "title": "끊임없이 몸으로 애정을 표현하는 연인",
   "original": "Make-Out Kids",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02534",
+  "primary_tag_id": "ML-T02534",
   "description": {
     "definition": "둘이 함께 있는 동안 짧은 간격으로 포옹·입맞춤 같은 신체적 애정 표현을 반복하는 커플이다.",
     "detail": "작품 사례: 《[[원더우먼 2023]]》의 재회한 다이애나와 스티브는 다른 영웅들을 구하는 와중에도 계속 입을 맞추어 데이미언을 난처하게 한다.",
@@ -13,14 +13,20 @@
     "boundary": "한 번의 강렬한 재회 장면과 달리 반복되는 관계 행동이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.011",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "잠깐만 함께 있어도 계속 붙어 있고 입을 맞춘다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "끊임없이 몸으로 애정을 표현하는 연인은 함께 있는 동안 포옹이나 입맞춤 같은 신체적 애정 표현을 짧은 간격으로 되풀이한다. 반복성이 두 사람의 관계를 눈에 띄게 만든다.\n\n과도한 애정 표현은 주변 인물의 시선을 끌고 대화나 임무를 방해할 수 있다. 난처해하는 동료의 반응이 희극을 만들거나, 두 사람이 주변 상황보다 서로에게 몰두함을 강조한다.\n\n행동은 관계의 친밀함을 보여 주지만 공공장소에서 다른 사람에게 어떤 영향을 주는지도 함께 드러난다. 애정 표현을 반복하는 쪽과 이를 지켜보는 사람 사이에 분위기의 차이가 생긴다.\n\n한 번의 재회나 격한 입맞춤만으로는 충분하지 않다. 함께 있는 동안 신체적 애정 표현이 반복되는 지속적 행동 양식이어야 한다.\n\n작품 사례: 《[[원더우먼 2023]]》 재회한 다이애나와 스티브는 다른 영웅들을 구하는 와중에도 계속 입을 맞추어 데이미언을 난처하게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "끊임없이 몸으로 애정을 표현하는 연인은 함께 있는 동안 포옹이나 입맞춤 같은 신체적 애정 표현을 짧은 간격으로 되풀이한다. 반복성이 두 사람의 관계를 눈에 띄게 만든다.\n\n과도한 애정 표현은 주변 인물의 시선을 끌고 대화나 임무를 방해할 수 있다. 난처해하는 동료의 반응이 희극을 만들거나, 두 사람이 주변 상황보다 서로에게 몰두함을 강조한다.\n\n행동은 관계의 친밀함을 보여 주지만 공공장소에서 다른 사람에게 어떤 영향을 주는지도 함께 드러난다. 애정 표현을 반복하는 쪽과 이를 지켜보는 사람 사이에 분위기의 차이가 생긴다.\n\n한 번의 재회나 격한 입맞춤만으로는 충분하지 않다. 함께 있는 동안 신체적 애정 표현이 반복되는 지속적 행동 양식이어야 한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[원더우먼 2023]]》 재회한 다이애나와 스티브는 다른 영웅들을 구하는 와중에도 계속 입을 맞추어 데이미언을 난처하게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "어려운 조건을 스스로 정해 게임하기",
   "original": "Challenge Gamer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "MEJE-KW-004670",
+  "primary_tag_id": "MEJE-KW-004670",
   "description": {
     "definition": "[[플레이어]]가 본래 규칙보다 더 까다로운 목표를 정해 도전한다. 승패보다 그 조건을 지켜 냈다는 성취가 중요하다. 스스로 정한 목표라도 무리하다고 판단하면 응하지 않을 수 있다: [[위험한 도전을 거절하기]].",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "평범하게 엔딩을 보는 데 만족하지 않고 낮은 수준으로 완주하거나 특정 기술 없이 이기려는 [[플레이어]]의 성향이다. 작품이 반드시 요구한 일이 아니라 스스로 재미와 성취의 기준을 높인 것이며 익숙한 게임을 다른 문제로 바꾸어 반복 경험을 새롭게 만든다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자신의 실력을 극한까지 높이기 위해 어려운 조건의 게임에 도전하는 이용자 유형이다. 타인을 이기는 것보다 스스로 정한 수행 기준을 달성하는 데 집중한다.\n\n높은 난도와 제한된 자원, 실수를 허용하지 않는 조건 등이 목표가 될 수 있다. 반복적인 실패도 기록과 숙련을 쌓는 과정으로 받아들이며 성공 가능성을 직접 입증하려 한다.\n\n다른 사람에게 같은 방식을 강요하는 태도와는 구별된다. 평범한 진행에서 충분히 만족하는 이용자와 목표가 다를 뿐이며, 도전의 의미는 점수 자체보다 어려움을 통제하고 개선하는 과정에 있을 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자신의 실력을 극한까지 높이기 위해 어려운 조건의 게임에 도전하는 이용자 유형이다. 타인을 이기는 것보다 스스로 정한 수행 기준을 달성하는 데 집중한다.\n\n높은 난도와 제한된 자원, 실수를 허용하지 않는 조건 등이 목표가 될 수 있다. 반복적인 실패도 기록과 숙련을 쌓는 과정으로 받아들이며 성공 가능성을 직접 입증하려 한다.\n\n다른 사람에게 같은 방식을 강요하는 태도와는 구별된다. 평범한 진행에서 충분히 만족하는 이용자와 목표가 다를 뿐이며, 도전의 의미는 점수 자체보다 어려움을 통제하고 개선하는 과정에 있을 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

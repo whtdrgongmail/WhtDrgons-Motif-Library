@@ -4,42 +4,74 @@
   "title": "Empire",
   "original": "Empire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02492",
+  "primary_tag_id": "ML-T02492",
   "description": {
-    "definition": "《Empire》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《Empire》의 종교는 윤회와 덕목의 구현을 중시하면서 신의 개념은 받아들이지 않는 것으로 소개된다. 신격의 명령 없이도 종교적 가치가 정치와 공동체의 질서가 되는 설계 사례다.",
+    "definition": "《Empire》는 Profound Decisions가 운영하는 영국의 판타지 라이브 역할놀이 게임이다. 참가자가 제국의 인물을 맡아 현장 행사에서 정치와 사건에 참여한다.",
+    "detail": "공식 설정의 윤회와 일곱 덕목은 참가자의 종교·정치 활동에 영향을 주는 세계관 요소다. 같은 제목의 다른 미디어 작품과 구분해 운영사와 현장 역할놀이 형식을 함께 기록한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.006.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "participation_mode",
+    "parent_relation": "contextual",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Empire》의 종교는 윤회와 덕목의 구현을 중시하면서 신의 개념은 받아들이지 않는 것으로 소개된다. 신격의 명령 없이도 종교적 가치가 정치와 공동체의 질서가 되는 설계 사례다.",
+    "easy_ko": "참가자가 판타지 제국의 인물을 맡아 행사 현장에서 정치와 전투, 종교 활동에 참여하는 영국의 역할놀이 게임이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
     {
       "card_id": "MEJE-KW-022828",
+      "row_version": 2
+    }
+  ],
+  "references": [
+    {
+      "id": "REF-000257",
+      "card_id": "MM-MEDIA-002360",
+      "label_ko": "Empire 공식 위키",
+      "icon_key": "link",
+      "url": "https://www.profounddecisions.co.uk/empire-wiki/Main_Page",
+      "description_ko": "운영사 공식 위키의 작품·행사·세계관 안내",
+      "sort_order": 1,
       "row_version": 1
     }
   ],
-  "references": []
+  "longform_article": {
+    "text": "《Empire》는 Profound Decisions가 2013년부터 운영해 온 판타지 [[역할놀이]]다. 참가자들은 각자 인물을 맡아 제국의 정치와 전쟁, 종교 등 설정 속 문제에 현장 행사에서 참여한다. 운영사의 공식 위키는 이 활동을 라이브 역할놀이로 분류한다.\n\n이 세계의 공식 종교는 윤회와 덕목을 중심으로 구성된다. 이는 참가자의 신념과 행동에 영향을 주는 허구 세계의 규칙이지, 현실의 종교 일반을 설명하는 개념은 아니다. 행사 사이의 온라인 활동과 현장 의사결정도 운영 규칙상 구분된다.\n\n제국의 종교는 신격의 명령보다 윤회와 덕목을 중시한다. 이 설정은 정치·공동체 활동에 작용하는 세계관 요소로 분석할 수 있다.\n\n이 카드는 Profound Decisions의 현장 역할놀이 《Empire》에 한정한다. 같은 일반 명사나 다른 작품의 Empire와 동일시하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Empire》는 Profound Decisions가 2013년부터 운영해 온 판타지 [[역할놀이]]다. 참가자들은 각자 인물을 맡아 제국의 정치와 전쟁, 종교 등 설정 속 문제에 현장 행사에서 참여한다. 운영사의 공식 위키는 이 활동을 라이브 역할놀이로 분류한다.\n\n이 세계의 공식 종교는 윤회와 덕목을 중심으로 구성된다. 이는 참가자의 신념과 행동에 영향을 주는 허구 세계의 규칙이지, 현실의 종교 일반을 설명하는 개념은 아니다. 행사 사이의 온라인 활동과 현장 의사결정도 운영 규칙상 구분된다."
+      ],
+      [
+        "사례",
+        "제국의 종교는 신격의 명령보다 윤회와 덕목을 중시한다. 이 설정은 정치·공동체 활동에 작용하는 세계관 요소로 분석할 수 있다."
+      ],
+      [
+        "관련 작품",
+        "이 카드는 Profound Decisions의 현장 역할놀이 《Empire》에 한정한다. 같은 일반 명사나 다른 작품의 Empire와 동일시하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "필름 누아르",
   "original": "Film Noir",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00293",
+  "primary_tag_id": "ML-T00293",
   "description": {
     "definition": "그림자가 짙은 화면과 냉소적인 인물, 범죄와 도덕적 모호함을 결합한 영화 장르와 미학이다. 누아르 특유의 화면과 인물상은 [[영화 홍보 포스터]]에서도 관객에게 장르를 알리는 단서가 된다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.108.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "범죄와 욕망, 배신과 도덕적 불확실성을 어두운 시각 양식으로 다루는 영화의 경향이다. 고전적인 시기는 주로 1940~1950년대와 연결되지만 범위와 정의에는 논의가 있다. 인물은 명확한 정의보다 불완전한 정보와 잘못된 선택 속에 놓인다.\n\n사설 탐정과 수상한 의뢰인, 누명과 협박은 익숙한 사건의 재료다. 강한 명암과 긴 그림자, 막힌 거리와 실내는 불안한 세계를 시각화한다. 회상과 믿기 어려운 해설은 사건의 순서와 진실을 복잡하게 만들 수 있다.\n\n흑백 화면과 범죄 소재가 있다고 모두 같은 범주가 되는 것은 아니다. 시각적 양식과 세계에 대한 태도, 역사적 맥락을 함께 보아야 한다. 후대 작품이 관습을 계승하고 변형한 경우에는 고전적인 형식과의 관계를 구별해 설명할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "범죄와 욕망, 배신과 도덕적 불확실성을 어두운 시각 양식으로 다루는 영화의 경향이다. 고전적인 시기는 주로 1940~1950년대와 연결되지만 범위와 정의에는 논의가 있다. 인물은 명확한 정의보다 불완전한 정보와 잘못된 선택 속에 놓인다.\n\n사설 탐정과 수상한 의뢰인, 누명과 협박은 익숙한 사건의 재료다. 강한 명암과 긴 그림자, 막힌 거리와 실내는 불안한 세계를 시각화한다. 회상과 믿기 어려운 해설은 사건의 순서와 진실을 복잡하게 만들 수 있다.\n\n흑백 화면과 범죄 소재가 있다고 모두 같은 범주가 되는 것은 아니다. 시각적 양식과 세계에 대한 태도, 역사적 맥락을 함께 보아야 한다. 후대 작품이 관습을 계승하고 변형한 경우에는 고전적인 형식과의 관계를 구별해 설명할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

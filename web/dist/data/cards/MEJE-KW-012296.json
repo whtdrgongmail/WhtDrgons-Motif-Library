@@ -4,8 +4,8 @@
   "title": "속죄를 위한 여정",
   "original": "Redemption Quest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01076",
+  "primary_tag_id": "ML-T01076",
   "description": {
     "definition": "큰 잘못을 저지른 [[인물]]이 책임을 다하고 구원을 찾기 위해 [[여행]]과 과제를 수행하는 전개다.",
     "detail": "작품 사례: [[Hope for the Heartless]]에서 부활한 Horned King은 정해진 기간의 속죄 임무를 강제로 맡고, 조언자들은 그가 Avalina를 잔인하게 대할 때마다 잘못을 지적한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 도피나 [[죄책감]]의 독백과 달리 속죄가 여정의 목적이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "11.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[용서와 속죄]]를 위한 [[여행]]은 과거의 잘못을 인식한 인물이 책임을 지고 구원을 얻으려 수행하는 이동과 과제로 이루어진다. 여정의 목표는 장소를 옮기는 데 있지 않고 잘못의 결과에 대응하는 데 있다.\n\n[[죄책감]]의 독백이나 처벌을 피해 달아나는 도피와 구별된다. 과거에 끼친 피해와 현재의 과업이 연결되어야 하며, 그 책임을 수행하는 과정이 서사의 동력이 된다.\n\n[[Hope for the Heartless]]에서 부활한 Horned King은 정해진 기간의 속죄 임무를 강제로 맡는다. 조언자들은 그가 Avalina를 잔인하게 대할 때마다 잘못을 지적해 임무와 책임을 연결한다.\n\n[[Hope for the Heartless]]",
+    "sections": [
+      [
+        "상세 설명",
+        "[[용서와 속죄]]를 위한 [[여행]]은 과거의 잘못을 인식한 인물이 책임을 지고 구원을 얻으려 수행하는 이동과 과제로 이루어진다. 여정의 목표는 장소를 옮기는 데 있지 않고 잘못의 결과에 대응하는 데 있다.\n\n[[죄책감]]의 독백이나 처벌을 피해 달아나는 도피와 구별된다. 과거에 끼친 피해와 현재의 과업이 연결되어야 하며, 그 책임을 수행하는 과정이 서사의 동력이 된다."
+      ],
+      [
+        "사례",
+        "[[Hope for the Heartless]]에서 부활한 Horned King은 정해진 기간의 속죄 임무를 강제로 맡는다. 조언자들은 그가 Avalina를 잔인하게 대할 때마다 잘못을 지적해 임무와 책임을 연결한다."
+      ],
+      [
+        "관련 작품",
+        "[[Hope for the Heartless]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

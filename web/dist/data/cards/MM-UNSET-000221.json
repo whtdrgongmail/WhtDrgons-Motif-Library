@@ -2,24 +2,66 @@
   "id": "MM-UNSET-000221",
   "kind": "keyword",
   "title": "홀로그램",
-  "original": "",
+  "original": "Hologram",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F17",
   "description": {
-    "definition": "",
+    "definition": "빛의 파면 정보를 기록하거나 계산해 만든 광학적 무늬로, 적절한 빛을 비추면 보는 각도에 따라 달라지는 입체상을 재현한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "17",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "빛의 정보를 담아 두었다가 보는 각도에 따라 입체로 보이는 영상을 다시 보여 주는 방식이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000272",
+      "card_id": "MM-UNSET-000221",
+      "label_ko": "NIST 홀로그램 설명",
+      "icon_key": "article",
+      "url": "https://www.nist.gov/news-events/news/2016/10/move-over-lasers-scientists-can-now-create-holograms-neutrons-too",
+      "description_ko": "간섭 무늬와 광학 홀로그램의 작동 원리",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "광학적 홀로그램은 물체에서 나온 빛의 파동이 간섭하며 만든 무늬를 기록하고, 이를 이용해 물체의 입체적 외관을 재현한다. 일반 사진이 주로 빛의 밝기를 기록하는 것과 달리, 홀로그래피는 파동 사이의 위상 차이에 관한 정보도 활용한다.\n\n관찰 방향에 따라 보이는 모습이 달라지는 것이 광학 홀로그램의 중요한 특징이다. 그러나 모든 입체 영상이 홀로그램은 아니다. 창작물에서 공중에 떠 있는 영상이나 만질 수 없는 인물을 홀로그램이라고 부르더라도, 해당 장면이 실제 [[홀로그래피]]의 기록·재생 원리를 따른다고 단정할 수 없다.\n\n창작 설정의 [[실체 없는 입체 투영]]은 광학 기술뿐 아니라 [[마법]]이나 정신 능력으로 만든 형상까지 포함한다. [[환영]]은 영상의 제작 방식보다 관찰자가 실제와 다른 대상을 지각한다는 효과에 초점을 둔다. 기술적 설명이 필요한 경우에는 광학 홀로그램, 허구적 연출을 설명할 때에는 투영이나 환영을 구분해 사용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "광학적 홀로그램은 물체에서 나온 빛의 파동이 간섭하며 만든 무늬를 기록하고, 이를 이용해 물체의 입체적 외관을 재현한다. 일반 사진이 주로 빛의 밝기를 기록하는 것과 달리, 홀로그래피는 파동 사이의 위상 차이에 관한 정보도 활용한다."
+      ],
+      [
+        "사례",
+        "관찰 방향에 따라 보이는 모습이 달라지는 것이 광학 홀로그램의 중요한 특징이다. 그러나 모든 입체 영상이 홀로그램은 아니다. 창작물에서 공중에 떠 있는 영상이나 만질 수 없는 인물을 홀로그램이라고 부르더라도, 해당 장면이 실제 [[홀로그래피]]의 기록·재생 원리를 따른다고 단정할 수 없다."
+      ],
+      [
+        "관련 작품",
+        "창작 설정의 [[실체 없는 입체 투영]]은 광학 기술뿐 아니라 [[마법]]이나 정신 능력으로 만든 형상까지 포함한다. [[환영]]은 영상의 제작 방식보다 관찰자가 실제와 다른 대상을 지각한다는 효과에 초점을 둔다. 기술적 설명이 필요한 경우에는 광학 홀로그램, 허구적 연출을 설명할 때에는 투영이나 환영을 구분해 사용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

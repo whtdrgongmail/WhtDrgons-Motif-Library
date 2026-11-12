@@ -4,8 +4,8 @@
   "title": "연적이 된 친구들",
   "original": "Friends Turned Romantic Rivals",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01003",
+  "primary_tag_id": "ML-T01003",
   "description": {
     "definition": "친구 사이였던 두 사람 이상이 같은 인물에게 마음을 두면서 우정과 연애 사이의 갈등을 겪는다. 친구 사이의 연애 경쟁은 한 인물의 친구와 연인이 맞서는 [[친구와 연인이 나를 두고 다투다]]과 다른 갈등이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.004.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "친구 둘 이상이 같은 사람에게 마음을 두어 연애와 우정이 충돌하는 구도이다. 기존의 협력 관계가 경쟁의 조건으로 바뀐다.\n\n서로 공정하게 하자고 약속해도 질투와 불안이 방해를 유도할 수 있다. 선택받는 사람의 의사를 존중하는지에 따라 관계의 윤리가 드러난다.\n\n한 사람의 친구와 연인이 시간을 두고 싸우는 구도와는 다르다. 같은 연애 상대를 향한 경쟁이 중심이며, 반드시 우정이 완전히 끝나야 하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "친구 둘 이상이 같은 사람에게 마음을 두어 연애와 우정이 충돌하는 구도이다. 기존의 협력 관계가 경쟁의 조건으로 바뀐다.\n\n서로 공정하게 하자고 약속해도 질투와 불안이 방해를 유도할 수 있다. 선택받는 사람의 의사를 존중하는지에 따라 관계의 윤리가 드러난다.\n\n한 사람의 친구와 연인이 시간을 두고 싸우는 구도와는 다르다. 같은 연애 상대를 향한 경쟁이 중심이며, 반드시 우정이 완전히 끝나야 하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

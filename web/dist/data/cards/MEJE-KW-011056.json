@@ -1,11 +1,11 @@
 {
   "id": "MEJE-KW-011056",
   "kind": "keyword",
-  "title": "거리 삶을 담은 갱스터 랩",
+  "title": "갱스터 랩",
   "original": "Gangsta Rap",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-011056",
+  "primary_tag_id": "MEJE-KW-011056",
   "description": {
     "definition": "도시의 가난과 폭력, 생존 경험을 강한 이야기와 리듬으로 표현해 온 힙합의 한 흐름이다. 작품이 이를 범죄의 찬양으로만 축소하는 관점과 구별한다.",
     "detail": "",
@@ -13,28 +13,48 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.303.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "거리 삶을 담은 갱스터 랩은 도시의 가난과 폭력, 살아남으려는 경험을 랩의 이야기로 전하는 힙합 흐름이다. 등장하는 범죄를 모두 찬양한다고 단정하지 않고, 누가 어떤 현실을 말하며 어떤 시선을 받는지 함께 들어야 한다.",
+    "easy_ko": "갱스터 랩은 도시의 가난과 폭력, 살아남으려는 경험을 랩의 이야기로 전하는 힙합 흐름이다. 등장하는 범죄를 모두 찬양한다고 단정하지 않고, 누가 어떤 현실을 말하며 어떤 시선을 받는지 함께 들어야 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-01",
-    "row_version": 1
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[갱스터 랩]]은 도시의 빈곤, 폭력, 범죄, 생존과 같은 경험을 인물의 관점과 구체적인 사건을 통해 서술하는 [[힙합]]의 한 갈래다. 위협적 표현이나 범죄 서사가 등장할 수 있지만, 작품 속 발화자의 말과 창작자의 실제 입장은 구별해 읽어야 한다. 사회적 경험을 기록하거나 비판하는 곡과 범죄를 과시하는 곡은 내용과 관점이 다를 수 있다.\n\n분류할 때에는 가사에서 누가 어떤 환경을 말하고, 그 상황을 어떤 태도로 제시하는지 확인한다. 가사에 거친 언어가 있다는 이유만으로 모든 랩을 이 장르에 넣을 수 없다. 반대로 범죄의 피해나 지역사회의 조건을 다루는 곡도 갱스터 랩의 문맥에 들어갈 수 있다. 래퍼의 출신지나 외모만으로 장르를 결정하는 방식은 작품의 실제 내용과 무관하다.\n\n가상 예시: 화자가 자신이 사는 지역의 폭력과 생계 문제를 사건 순서에 따라 묘사하고 그 결과를 이야기한다면 서사 내용이 장르 분석의 근거가 된다. 단순히 욕설이 한 줄 등장하는 랩은 그 사실만으로 갱스터 랩이 되지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[갱스터 랩]]은 도시의 빈곤, 폭력, 범죄, 생존과 같은 경험을 인물의 관점과 구체적인 사건을 통해 서술하는 [[힙합]]의 한 갈래다. 위협적 표현이나 범죄 서사가 등장할 수 있지만, 작품 속 발화자의 말과 창작자의 실제 입장은 구별해 읽어야 한다. 사회적 경험을 기록하거나 비판하는 곡과 범죄를 과시하는 곡은 내용과 관점이 다를 수 있다.\n\n분류할 때에는 가사에서 누가 어떤 환경을 말하고, 그 상황을 어떤 태도로 제시하는지 확인한다. 가사에 거친 언어가 있다는 이유만으로 모든 랩을 이 장르에 넣을 수 없다. 반대로 범죄의 피해나 지역사회의 조건을 다루는 곡도 갱스터 랩의 문맥에 들어갈 수 있다. 래퍼의 출신지나 외모만으로 장르를 결정하는 방식은 작품의 실제 내용과 무관하다."
+      ],
+      [
+        "사례",
+        "가상 예시: 화자가 자신이 사는 지역의 폭력과 생계 문제를 사건 순서에 따라 묘사하고 그 결과를 이야기한다면 서사 내용이 장르 분석의 근거가 된다. 단순히 욕설이 한 줄 등장하는 랩은 그 사실만으로 갱스터 랩이 되지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

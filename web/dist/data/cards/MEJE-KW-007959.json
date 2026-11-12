@@ -4,8 +4,8 @@
   "title": "드릴 음악",
   "original": "Drill Music",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-007959",
+  "primary_tag_id": "MEJE-KW-007959",
   "description": {
     "definition": "시카고에서 나온 힙합 갈래로, 절제된 어두운 비트와 무표정한 랩을 특징으로 한다. 노랫말은 도시의 갈등과 거친 현실을 다루는 경우가 많다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.303.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "어두운 분위기의 간결한 비트와 절제된 랩을 특징으로 하는 힙합의 갈래다. 도시의 폭력과 갈등을 직접적으로 다루는 가사가 자주 결합된다.\n\n시카고에서 형성된 뒤 다른 지역의 음악가들이 소리와 표현을 변형하며 여러 장면으로 발전했다. 비슷한 이름을 써도 리듬과 제작 방식은 지역에 따라 다를 수 있다.\n\n가사에 폭력이 나온다는 이유만으로 모든 힙합을 같은 장르로 묶을 수는 없다. 실제 창작자의 행동과 노래 속 화자도 구별해야 하며, 음악적인 특징과 사회적인 배경을 함께 이해하는 것이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "어두운 분위기의 간결한 비트와 절제된 랩을 특징으로 하는 힙합의 갈래다. 도시의 폭력과 갈등을 직접적으로 다루는 가사가 자주 결합된다.\n\n시카고에서 형성된 뒤 다른 지역의 음악가들이 소리와 표현을 변형하며 여러 장면으로 발전했다. 비슷한 이름을 써도 리듬과 제작 방식은 지역에 따라 다를 수 있다.\n\n가사에 폭력이 나온다는 이유만으로 모든 힙합을 같은 장르로 묶을 수는 없다. 실제 창작자의 행동과 노래 속 화자도 구별해야 하며, 음악적인 특징과 사회적인 배경을 함께 이해하는 것이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

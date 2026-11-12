@@ -5,8 +5,8 @@
   "original": "A Multi-Layer Boss Health Bar",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02155",
+  "primary_tag_id": "ML-T02155",
   "description": {
     "definition": "보스의 체력을 여러 겹의 계기로 표시해 한 줄이 비면 다음 줄이나 색이 남는다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.010.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보스의 체력을 한 줄이 아니라 여러 겹의 계기로 나타낸다. 현재 줄을 비워도 다음 줄이 남아 있어 전체 소모량을 단계적으로 보여 준다.\n\n한 차례의 성공이 전투의 종결을 뜻하지 않도록 기대를 조정한다. 색이나 층의 변화가 남은 진전을 알리는 시각적인 기준이 된다.\n\n여러 형태로 변하는 보스와 항상 같은 규칙은 아니다. 표시의 겹수와 실제 행동 단계의 수는 별도로 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보스의 체력을 한 줄이 아니라 여러 겹의 계기로 나타낸다. 현재 줄을 비워도 다음 줄이 남아 있어 전체 소모량을 단계적으로 보여 준다.\n\n한 차례의 성공이 전투의 종결을 뜻하지 않도록 기대를 조정한다. 색이나 층의 변화가 남은 진전을 알리는 시각적인 기준이 된다.\n\n여러 형태로 변하는 보스와 항상 같은 규칙은 아니다. 표시의 겹수와 실제 행동 단계의 수는 별도로 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

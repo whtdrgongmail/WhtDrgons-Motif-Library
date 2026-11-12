@@ -4,8 +4,8 @@
   "title": "소파로 쫓겨난 배우자",
   "original": "Exiled to the Couch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00992",
+  "primary_tag_id": "ML-T00992",
   "description": {
     "definition": "다툰 뒤 한 사람이 함께 쓰던 침실에서 밀려나 거실 소파에서 밤을 보내게 되는 부부·[[동거 관계]]의 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.003.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "부부나 [[동거 관계]]의 두 사람이 다툰 뒤 한쪽이 침실 대신 거실 소파에서 자는 장면이다. 같은 집에 있으면서도 잠자리를 분리해 감정의 거리를 보여 주며, 다음 날 누가 먼저 말을 거는지가 화해의 작은 계기가 될 수 있다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "함께 살던 연인이나 부부가 다툰 뒤 한 사람이 침대 대신 소파에서 자게 되는 장면이다. 잠자리를 나누는 변화로 관계가 냉각됐음을 시각적으로 드러낸다.\n\n평소의 가까운 공간에서 쫓겨난 모습은 긴 설명 없이도 화해하지 않았다는 사실을 알린다. 불편한 밤과 다음 날의 반응은 갈등을 희극으로 이어 가거나 서로 대화할 계기를 만들 수 있다.\n\n소파에서 자는 모든 이유가 관계의 다툼인 것은 아니다. 손님과 수면 습관 등 다른 사유를 구별해야 하며, 특정 성별이 늘 추방을 결정한다는 관습을 실제 관계의 보편적 권한으로 설명하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "함께 살던 연인이나 부부가 다툰 뒤 한 사람이 침대 대신 소파에서 자게 되는 장면이다. 잠자리를 나누는 변화로 관계가 냉각됐음을 시각적으로 드러낸다.\n\n평소의 가까운 공간에서 쫓겨난 모습은 긴 설명 없이도 화해하지 않았다는 사실을 알린다. 불편한 밤과 다음 날의 반응은 갈등을 희극으로 이어 가거나 서로 대화할 계기를 만들 수 있다.\n\n소파에서 자는 모든 이유가 관계의 다툼인 것은 아니다. 손님과 수면 습관 등 다른 사유를 구별해야 하며, 특정 성별이 늘 추방을 결정한다는 관습을 실제 관계의 보편적 권한으로 설명하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

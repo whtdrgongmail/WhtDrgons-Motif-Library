@@ -4,8 +4,8 @@
   "title": "메탈코어",
   "original": "Metalcore",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015091",
+  "primary_tag_id": "MEJE-KW-015091",
   "description": {
     "definition": "[[하드코어 펑크]]의 강렬함과 헤비메탈 계열의 연주 요소를 결합한 음악 양식이다.",
     "detail": "작품 사례: [[Converge]]는 초기의 메탈릭 하드코어 소리를 바탕으로 극단적 메탈과 실험적인 감각을 결합해, 하드코어와 메탈이 만나는 방식을 보여 준다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -37,13 +40,6 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00139",
-      "work_card_id": "MM-MEDIA-000195",
-      "description_ko": "Converge는 초기의 메탈릭 하드코어 소리를 바탕으로 극단적 메탈과 실험적인 감각을 결합해, 하드코어와 메탈이 만나는 방식을 보여 준다.",
-      "spoiler_level": "unreviewed",
-      "row_version": 1
-    },
-    {
-      "media_tag_id": "ML-T00139",
       "work_card_id": "MM-MEDIA-003046",
       "description_ko": "Killswitch Engage의 〈My Curse〉는 현재 원문의 실제 곡 목록에서 멜로딕 메탈코어 사례로 분류된다. 해당 음악 양식을 살펴볼 참조 곡이다.",
       "spoiler_level": "unreviewed",
@@ -51,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[메탈코어]]는 [[하드코어 펑크]]의 강한 리듬과 공연 관습에 헤비메탈의 기타 음색·연주 기법을 결합한 음악 장르다. 느린 박자로 전환하며 여러 악기가 강세를 맞추는 브레이크다운과 거친 보컬을 자주 사용한다. 다만 특정 연주 기법 하나가 모든 메탈코어 곡의 필수 조건은 아니다.\n\n초기의 금속성 하드코어, 선율적인 기타 리프를 강조하는 [[멜로딕 메탈코어]], 대중적인 후렴과 다양한 전자적 질감을 결합하는 [[모던 메탈코어]]는 같은 이름 아래에서도 편곡 목표가 다르다. 두 계열의 요소가 한 곡에서 어떤 역할을 맡는지 확인해야 하며, 단순히 빠른 펑크 곡이나 무거운 메탈 곡이라는 이유만으로 메탈코어에 넣지 않는다.\n\n가상 예시: 빠른 드럼과 왜곡된 기타, 거친 발성으로 진행하던 곡이 갑자기 느린 박자로 바뀌고 악기들이 같은 강세를 반복한다면 메탈코어의 전개 방식을 설명할 수 있다. 브레이크다운만 등장하는 다른 장르의 곡은 그 한 요소로 분류하지 않는다.\n\n작품 사례: 《[[My Curse]]》는 Killswitch Engage의 곡으로 멜로딕 메탈코어 사례에 속하며, 하드코어와 메탈의 결합 양식을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[메탈코어]]는 [[하드코어 펑크]]의 강한 리듬과 공연 관습에 헤비메탈의 기타 음색·연주 기법을 결합한 음악 장르다. 느린 박자로 전환하며 여러 악기가 강세를 맞추는 브레이크다운과 거친 보컬을 자주 사용한다. 다만 특정 연주 기법 하나가 모든 메탈코어 곡의 필수 조건은 아니다.\n\n초기의 금속성 하드코어, 선율적인 기타 리프를 강조하는 [[멜로딕 메탈코어]], 대중적인 후렴과 다양한 전자적 질감을 결합하는 [[모던 메탈코어]]는 같은 이름 아래에서도 편곡 목표가 다르다. 두 계열의 요소가 한 곡에서 어떤 역할을 맡는지 확인해야 하며, 단순히 빠른 펑크 곡이나 무거운 메탈 곡이라는 이유만으로 메탈코어에 넣지 않는다."
+      ],
+      [
+        "사례",
+        "가상 예시: 빠른 드럼과 왜곡된 기타, 거친 발성으로 진행하던 곡이 갑자기 느린 박자로 바뀌고 악기들이 같은 강세를 반복한다면 메탈코어의 전개 방식을 설명할 수 있다. 브레이크다운만 등장하는 다른 장르의 곡은 그 한 요소로 분류하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[My Curse]]》는 Killswitch Engage의 곡으로 멜로딕 메탈코어 사례에 속하며, 하드코어와 메탈의 결합 양식을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

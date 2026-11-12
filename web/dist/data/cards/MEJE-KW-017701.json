@@ -4,8 +4,8 @@
   "title": "늪 괴물",
   "original": "Swamp Monster",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01130",
+  "primary_tag_id": "ML-T01130",
   "description": {
     "definition": "늪을 서식지로 삼아 그곳을 드나드는 존재에게 위협을 주는 괴물 유형.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "늪지 동물 일반과 창작 속 괴물 설정을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "12",
+    "code": "12.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "늪을 주된 생활 공간으로 삼아 방문자에게 위협을 주는 괴물이다. 물속에 숨어 접근하거나 늪의 흙과 식물에 섞여 발견하기 어려운 상태를 유지한다.\n\n진흙과 식물로 이루어진 몸, 파충류나 양서류를 닮은 인간형 등 외형은 다양하다. 늪 자체와 연결된 힘을 갖거나 원래 인간이었다가 변형되었다는 배경을 부여할 수 있다.\n\n모든 늪 괴물이 악할 필요는 없으며 자기 영역을 지키는 존재로 재해석되기도 한다. 단순히 물가에서 마주친 일반 괴물보다 서식지와 육체, 행동이 늪의 환경에 결합하는지가 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "늪을 주된 생활 공간으로 삼아 방문자에게 위협을 주는 괴물이다. 물속에 숨어 접근하거나 늪의 흙과 식물에 섞여 발견하기 어려운 상태를 유지한다.\n\n진흙과 식물로 이루어진 몸, 파충류나 양서류를 닮은 인간형 등 외형은 다양하다. 늪 자체와 연결된 힘을 갖거나 원래 인간이었다가 변형되었다는 배경을 부여할 수 있다.\n\n모든 늪 괴물이 악할 필요는 없으며 자기 영역을 지키는 존재로 재해석되기도 한다. 단순히 물가에서 마주친 일반 괴물보다 서식지와 육체, 행동이 늪의 환경에 결합하는지가 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

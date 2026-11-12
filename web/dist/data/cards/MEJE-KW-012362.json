@@ -6,8 +6,8 @@
   "aliases": [
     "이야기 끝에 더 나아진 암울한 세계"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00616",
+  "primary_tag_id": "ML-T00616",
   "description": {
     "definition": "처음에는 심각하게 나쁜 [[세계]]가 인물들의 [[행동]]을 거쳐 결말에는 이전보다 더 나은 상태가 되는 전개다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "원래부터 낙원인 세계나 아무 변화 없는 절망적 [[결말]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "05.001.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -33,12 +33,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00050",
-      "work_card_id": "MM-MEDIA-000117",
+      "work_card_id": "MM-MEDIA-002137",
       "description_ko": "Bleach에서 이치고의 등장으로 오랫동안 굳어 있던 소울 소사이어티의 태도와 질서가 바뀌고, 아이젠 같은 범죄자들이 몰락하며 사후 세계가 개선된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "심각하게 나빴던 세계가 인물의 행동을 거쳐 결말에는 더 나아진다. 출발점의 암울함과 끝의 변화가 대비된다.\n\n세계가 개선되는 결과는 인물들의 선택에 의미를 준다. 무엇이 달라졌는지 비교하면 승리가 개인의 생존을 넘어 어떤 변화를 남겼는지 알 수 있다.\n\n처음부터 낙원인 세계나 끝까지 변하지 않는 절망과 구별한다. 완벽한 세계일 필요는 없지만 이전보다 나아져야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "심각하게 나빴던 세계가 인물의 행동을 거쳐 결말에는 더 나아진다. 출발점의 암울함과 끝의 변화가 대비된다.\n\n세계가 개선되는 결과는 인물들의 선택에 의미를 준다. 무엇이 달라졌는지 비교하면 승리가 개인의 생존을 넘어 어떤 변화를 남겼는지 알 수 있다.\n\n처음부터 낙원인 세계나 끝까지 변하지 않는 절망과 구별한다. 완벽한 세계일 필요는 없지만 이전보다 나아져야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

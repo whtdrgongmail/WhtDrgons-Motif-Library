@@ -4,8 +4,8 @@
   "title": "어린이 문학",
   "original": "Children's Literature",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00066",
+  "primary_tag_id": "ML-T00066",
   "description": {
     "definition": "주로 어린 독자를 위해 출판되는 이야기와 정보 책의 넓은 범주다. 독자의 성장 단계에 맞춰 그림, 문장, 주제의 전달 방식이 달라진다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "02.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "어린 독자를 대상으로 하는 문학과 출판 범주다. [[그림책]]과 초기 읽기 책, 긴 장을 가진 책처럼 읽기 능력과 나이에 따라 형식과 어휘를 조절한다.\n\n일상 문제와 [[의인화된 동물]], 모험과 유머뿐 아니라 상실과 슬픔, 역사 같은 주제도 다룰 수 있다. 어려운 내용을 배제하는 것보다 독자가 이해할 수 있는 방식으로 구성하는 일이 중요하다.\n\n하나의 장르나 항상 교훈적인 이야기라는 뜻은 아니다. 대상 연령과 문화권의 분류가 다르며 어린 인물이 주인공이라는 이유만으로 모든 작품이 어린이 문학이 되지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "어린 독자를 대상으로 하는 문학과 출판 범주다. [[그림책]]과 초기 읽기 책, 긴 장을 가진 책처럼 읽기 능력과 나이에 따라 형식과 어휘를 조절한다.\n\n일상 문제와 [[의인화된 동물]], 모험과 유머뿐 아니라 상실과 슬픔, 역사 같은 주제도 다룰 수 있다. 어려운 내용을 배제하는 것보다 독자가 이해할 수 있는 방식으로 구성하는 일이 중요하다.\n\n하나의 장르나 항상 교훈적인 이야기라는 뜻은 아니다. 대상 연령과 문화권의 분류가 다르며 어린 인물이 주인공이라는 이유만으로 모든 작품이 어린이 문학이 되지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

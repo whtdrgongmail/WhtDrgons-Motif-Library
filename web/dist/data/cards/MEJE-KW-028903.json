@@ -4,8 +4,8 @@
   "title": "왜곡한 경쟁 제품을 공격하는 광고",
   "original": "Strawman Product",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02540",
+  "primary_tag_id": "ML-T02540",
   "description": {
     "definition": "상대 상품을 과장하거나 우스꽝스러운 모조품으로 바꾸어 제시한 뒤 그 허점을 공격하는 광고 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 경쟁 제품의 조건을 유지한 비교와 달리 공격하기 쉬운 대체물이 쓰인다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "경쟁 제품을 실제보다 불편하거나 결함이 큰 대상으로 재구성한 뒤 자사 상품과 비교한다. 비교가 시작되기 전에 상대의 조건이 불리하게 바뀌어 있다는 점이 구조의 핵심이다.\n\n작은 단점을 극단적으로 키우거나 가상의 모조품을 사용하면 해결책의 우위가 쉽게 드러난다. 관객에게는 직접 시연처럼 보이더라도 비교 대상의 대표성이 약할 수 있다.\n\n[[경쟁사의 직원과 서비스를 무능하게 그리는 광고]]와 비슷하지만 공격 대상이 제품의 성질에 있다. 공정한 조건에서 실제 한계를 보여 주는 비교와는 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "경쟁 제품을 실제보다 불편하거나 결함이 큰 대상으로 재구성한 뒤 자사 상품과 비교한다. 비교가 시작되기 전에 상대의 조건이 불리하게 바뀌어 있다는 점이 구조의 핵심이다.\n\n작은 단점을 극단적으로 키우거나 가상의 모조품을 사용하면 해결책의 우위가 쉽게 드러난다. 관객에게는 직접 시연처럼 보이더라도 비교 대상의 대표성이 약할 수 있다.\n\n[[경쟁사의 직원과 서비스를 무능하게 그리는 광고]]와 비슷하지만 공격 대상이 제품의 성질에 있다. 공정한 조건에서 실제 한계를 보여 주는 비교와는 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

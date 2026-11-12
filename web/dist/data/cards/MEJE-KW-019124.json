@@ -4,8 +4,8 @@
   "title": "인간과 집을 함께 쓰는 괴물",
   "original": "Monster Roommate",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00992",
+  "primary_tag_id": "ML-T00992",
   "description": {
     "definition": "인간이 사는 집에 비인간 존재가 함께 머물며 동거 관계를 이루는 설정이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "일시적인 침입자나 사람이 모르는 숨은 괴물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.003.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "집 안에 사람이 아닌 동거인이 있어 일상의 규칙을 함께 맞춘다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인간이 외계인과 [[유령]], [[흡혈귀]] 등의 비인간 존재와 일상적인 거처를 공유하는 설정이다. 특별한 만남이 임시 사건을 넘어 생활과 비용을 나누는 지속적인 관계가 된다.\n\n오래된 동료가 함께 살거나 집에 먼저 있던 존재와 합의할 수 있다. 종족별 식사와 수면, 비밀 유지의 차이는 집안일과 방문객 응대 같은 평범한 문제를 낯선 소동으로 바꾼다.\n\n괴물이 숨어 침입해 인간을 공격하는 이야기와 달리 동거라는 관계가 성립해야 한다. 불편함 속의 우정과 [[선택한 가족]]을 보여 주거나, 생활의 협상으로 서로의 차이를 구체화할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인간이 외계인과 [[유령]], [[흡혈귀]] 등의 비인간 존재와 일상적인 거처를 공유하는 설정이다. 특별한 만남이 임시 사건을 넘어 생활과 비용을 나누는 지속적인 관계가 된다.\n\n오래된 동료가 함께 살거나 집에 먼저 있던 존재와 합의할 수 있다. 종족별 식사와 수면, 비밀 유지의 차이는 집안일과 방문객 응대 같은 평범한 문제를 낯선 소동으로 바꾼다.\n\n괴물이 숨어 침입해 인간을 공격하는 이야기와 달리 동거라는 관계가 성립해야 한다. 불편함 속의 우정과 [[선택한 가족]]을 보여 주거나, 생활의 협상으로 서로의 차이를 구체화할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

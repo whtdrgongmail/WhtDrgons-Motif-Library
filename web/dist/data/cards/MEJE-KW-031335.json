@@ -4,8 +4,8 @@
   "title": "원격 추리 탐정",
   "original": "Phone-In Detective",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00918",
+  "primary_tag_id": "ML-T00918",
   "description": {
     "definition": "현장에 직접 가지 않고 다른 사람이 전달한 정보만으로 사건의 해결에 이르는 탐정 유형이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "멀리 있는 탐정에게 현장 상황을 설명했더니, 그 말의 모순만으로 범인을 알아낸다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "현장 조사와 추론이 서로 다른 사람에게 분담된다. 보고하는 인물이 무엇을 보고 어떤 표현을 쓰는지가 탐정에게 주어진 단서의 전부가 되므로, 전달 과정 자체가 추리의 일부가 된다. 탐정의 능력을 부각하면서 현장에 남은 조연에게도 관찰과 행동의 역할을 줄 수 있다.\n\n전화는 대표적인 연결 수단일 뿐 필수는 아니다. 편지, 신문, 전자 메시지, 정기 보고로도 구조는 성립한다. 탐정이 잠시 자리를 비운 사건에만 적용할 수도 있다. 이미 직접 조사한 사건의 결론을 전화로 알리는 장면과 구별하려면, 부재 상태에서 받은 정보가 추리의 실질적 근거가 되어야 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "현장 조사와 추론이 서로 다른 사람에게 분담된다. 보고하는 인물이 무엇을 보고 어떤 표현을 쓰는지가 탐정에게 주어진 단서의 전부가 되므로, 전달 과정 자체가 추리의 일부가 된다. 탐정의 능력을 부각하면서 현장에 남은 조연에게도 관찰과 행동의 역할을 줄 수 있다.\n\n전화는 대표적인 연결 수단일 뿐 필수는 아니다. 편지, 신문, 전자 메시지, 정기 보고로도 구조는 성립한다. 탐정이 잠시 자리를 비운 사건에만 적용할 수도 있다. 이미 직접 조사한 사건의 결론을 전화로 알리는 장면과 구별하려면, 부재 상태에서 받은 정보가 추리의 실질적 근거가 되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

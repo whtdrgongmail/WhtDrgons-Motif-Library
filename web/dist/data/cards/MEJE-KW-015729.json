@@ -4,8 +4,8 @@
   "title": "도와준다는 이유로 납치하는 인물",
   "original": "The Kindnapper",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000783",
+  "primary_tag_id": "MM-UNSET-000783",
   "description": {
     "definition": "상대를 이롭게 하려는 실제 의도나 자기 믿음을 근거로 당사자의 동의 없이 데려가거나 가두는 인물 구도다.",
     "detail": "작품 사례: [[Epithet Erased: Prison of Plastic]]의 지오바니는 몰리를 학대받는 집에서 벗어나게 하려고 납치하여, 도움을 불법적인 데려감으로 실행한다.",
@@ -13,14 +13,20 @@
     "boundary": "자발적으로 동의한 피난이나 보호와 구별하며 선의의 주장만으로 강제성이 사라지지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "구하려는 것이라 말하지만 도움받는 사람은 떠날 자유가 없다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "행위자는 상대를 더 나은 환경으로 옮기려는 의도로 강제적인 데려감을 선택한다. 선의의 목적과 행동의 불법성·강제성이 함께 제시되므로 도움의 결과와 수단의 문제를 나누어 볼 필요가 있다.\n\n도움을 준다는 주장만으로 상대의 동의가 생기지는 않는다. 자발적인 피난과 구별하려면 누가 이동을 결정하고 거절할 자유가 있는지 확인해야 한다.\n\n《[[Epithet Erased: Prison of Plastic]]》에서 지오바니는 몰리를 학대받는 집에서 벗어나게 하려고 납치한다. 보호 의도를 불법적인 데려감으로 실행한다는 긴장이 사례의 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "행위자는 상대를 더 나은 환경으로 옮기려는 의도로 강제적인 데려감을 선택한다. 선의의 목적과 행동의 불법성·강제성이 함께 제시되므로 도움의 결과와 수단의 문제를 나누어 볼 필요가 있다.\n\n도움을 준다는 주장만으로 상대의 동의가 생기지는 않는다. 자발적인 피난과 구별하려면 누가 이동을 결정하고 거절할 자유가 있는지 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Epithet Erased: Prison of Plastic]]》에서 지오바니는 몰리를 학대받는 집에서 벗어나게 하려고 납치한다. 보호 의도를 불법적인 데려감으로 실행한다는 긴장이 사례의 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

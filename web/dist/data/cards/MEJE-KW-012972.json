@@ -4,8 +4,8 @@
   "title": "그루브 메탈",
   "original": "Groove Metal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00504",
+  "primary_tag_id": "ML-T00504",
   "description": {
     "definition": "강한 리듬의 반복과 저음의 기타 [[리프]]를 중심으로 중간 또는 느린 속도의 묵직한 움직임을 강조하는 헤비 메탈 양식이다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": "그루브가 있는 모든 음악이나 베이스 중심의 [[펑크 메탈]]과 동일하지 않으며 다른 메탈 양식과 혼합되기도 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.302",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "질주하는 속도보다 반복되는 리프의 박자와 무게감이 곡을 끌고 간다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "빠른 진행 자체보다 반복되는 기타 리프의 무게와 박자의 움직임을 전면에 둔다. 낮고 거친 질감의 연주가 느리거나 중간 정도의 속도에서도 강한 추진력을 만들 수 있다는 점이 특징이다.\n\n블루스 계열의 감각을 가진 리프와 거친 보컬이 함께 쓰이며, 같은 동기를 되풀이하는 동안 리듬의 악센트가 존재감을 만든다. 속도가 줄었다고 강도가 약해지는 것이 아니라 반복되는 타격감으로 무게를 유지한다.\n\n그루브가 있다는 평가는 여러 음악에 적용될 수 있으므로 그것만으로 장르를 정할 수는 없다. 다른 메탈 양식의 요소와 섞일 수 있으며, 빠른 곡이 포함되더라도 반복 리프와 리듬을 조직하는 중심 원리를 함께 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "빠른 진행 자체보다 반복되는 기타 리프의 무게와 박자의 움직임을 전면에 둔다. 낮고 거친 질감의 연주가 느리거나 중간 정도의 속도에서도 강한 추진력을 만들 수 있다는 점이 특징이다.\n\n블루스 계열의 감각을 가진 리프와 거친 보컬이 함께 쓰이며, 같은 동기를 되풀이하는 동안 리듬의 악센트가 존재감을 만든다. 속도가 줄었다고 강도가 약해지는 것이 아니라 반복되는 타격감으로 무게를 유지한다.\n\n그루브가 있다는 평가는 여러 음악에 적용될 수 있으므로 그것만으로 장르를 정할 수는 없다. 다른 메탈 양식의 요소와 섞일 수 있으며, 빠른 곡이 포함되더라도 반복 리프와 리듬을 조직하는 중심 원리를 함께 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

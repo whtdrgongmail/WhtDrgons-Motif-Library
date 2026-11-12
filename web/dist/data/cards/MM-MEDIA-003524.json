@@ -4,22 +4,61 @@
   "title": "Why? 우주",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02502",
+  "primary_tag_id": "ML-T02502",
   "description": {
-    "definition": "",
+    "definition": "《Why? 우주》는 예림당의 《[[Why? 과학]]》 시리즈에서 우주를 주제로 한 학습만화 한 권이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "02.012.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "production_culture",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "우주에 관한 내용을 만화로 설명하는 《Why? 과학》의 책 한 권이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000139",
+      "card_id": "MM-MEDIA-003524",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://yearim.kr/goods/view?no=2145",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "예림당은 이 책을 ‘Why? 과학 - 우주 No.1’의 증보판으로 판매하며 [[Why? 과학]] 안의 개별 권으로 분류한다. 상품 소개에는 태양계 행성에서 성단·성운, 블랙홀, 우주의 탄생과 팽창까지 주제가 제시된다. 가까운 천체에서 더 큰 우주 구조로 넓어지는 범위가 이 권의 내용 구성을 드러낸다.\n\n이 카드는 우주라는 분야 전체나 시리즈 전부가 아니라 해당 주제의 한 권을 가리킨다. 상품명에 붙은 ‘증보판’은 확인한 판매 판본의 표시이므로 그 판본의 문구와 내용을 모든 초기 판본에 적용해서는 안 된다. 작품과 판본을 분리하면 인용한 설명이 어느 책에 속하는지 분명해진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "예림당은 이 책을 ‘Why? 과학 - 우주 No.1’의 증보판으로 판매하며 [[Why? 과학]] 안의 개별 권으로 분류한다. 상품 소개에는 태양계 행성에서 성단·성운, 블랙홀, 우주의 탄생과 팽창까지 주제가 제시된다. 가까운 천체에서 더 큰 우주 구조로 넓어지는 범위가 이 권의 내용 구성을 드러낸다.\n\n이 카드는 우주라는 분야 전체나 시리즈 전부가 아니라 해당 주제의 한 권을 가리킨다. 상품명에 붙은 ‘증보판’은 확인한 판매 판본의 표시이므로 그 판본의 문구와 내용을 모든 초기 판본에 적용해서는 안 된다. 작품과 판본을 분리하면 인용한 설명이 어느 책에 속하는지 분명해진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

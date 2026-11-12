@@ -6,8 +6,8 @@
   "aliases": [
     "개를 사랑하는 모습으로 드러나는 선함"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "[[영웅]]이 반려견을 사랑하고 함께 [[시간]]을 보내는 모습을 통해 따뜻한 성품을 드러내는 [[인물]] 표현이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "개를 소유했다는 설정만으로는 부족하며 애정 어린 [[관계]]가 묘사되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영웅이 반려견을 아끼고 함께 시간을 보내는 모습으로 따뜻한 성품을 드러낸다. 친밀한 돌봄의 관계가 공적인 활약 외의 인물 정보를 준다.\n\n관객은 개를 대하는 행동을 통해 영웅의 일상적인 태도를 본다. 소유 여부보다 어떤 애정을 보이고 관계를 유지하는지가 중요하다.\n\n개를 갖고 있다는 설정만으로는 부족하다. 애정 어린 관계가 실제로 묘사되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영웅이 반려견을 아끼고 함께 시간을 보내는 모습으로 따뜻한 성품을 드러낸다. 친밀한 돌봄의 관계가 공적인 활약 외의 인물 정보를 준다.\n\n관객은 개를 대하는 행동을 통해 영웅의 일상적인 태도를 본다. 소유 여부보다 어떤 애정을 보이고 관계를 유지하는지가 중요하다.\n\n개를 갖고 있다는 설정만으로는 부족하다. 애정 어린 관계가 실제로 묘사되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

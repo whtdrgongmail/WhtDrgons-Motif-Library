@@ -2,24 +2,65 @@
   "id": "MM-MEDIA-003554",
   "kind": "work",
   "title": "나이트 워치(소설 시리즈)",
-  "original": "",
+  "original": "Night Watch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00067",
+  "primary_tag_id": "ML-T00067",
   "description": {
-    "definition": "",
+    "definition": "《나이트 워치(소설 시리즈)》는 세르게이 루키야넨코 등이 집필한 초자연적 존재들의 대립을 다루는 소설 연작이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.007.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "빛과 어둠 편에 속한 초자연적 존재들이 갈등하는 소설 시리즈다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000157",
+      "card_id": "MM-MEDIA-003554",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguin.co.uk/series/NWATCH/night-watch",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "펭귄의 공식 시리즈 소개는 모스크바를 배경으로 초자연적 능력을 지닌 ‘아더’들이 빛과 어둠의 편으로 나뉘어 오래된 휴전을 유지한다고 설명한다. 평범한 사람처럼 거리를 걷는 이들이 현실과 나란히 존재하는 ‘트와일라잇’에 들어갈 수 있다는 설정 때문에, 일상의 도시와 숨은 분쟁이 같은 장소에서 겹친다.\n\n첫 권에서는 빛의 편인 안톤이 나이트 워치 요원으로 활동하며 저주받은 여성과 뱀파이어에게 노려지는 소년을 만난다. 출판사 목록에는 《[[The Day Watch]]》와 네 번째 권 《[[라스트 워치]]》도 이어진다. 이 카드는 첫 권 《[[The Night Watch]]》 한 권의 사건을 시리즈 전체의 줄거리로 대체하지 않고, 여러 권을 묶는 세계와 대립 구도를 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "펭귄의 공식 시리즈 소개는 모스크바를 배경으로 초자연적 능력을 지닌 ‘아더’들이 빛과 어둠의 편으로 나뉘어 오래된 휴전을 유지한다고 설명한다. 평범한 사람처럼 거리를 걷는 이들이 현실과 나란히 존재하는 ‘트와일라잇’에 들어갈 수 있다는 설정 때문에, 일상의 도시와 숨은 분쟁이 같은 장소에서 겹친다.\n\n첫 권에서는 빛의 편인 안톤이 나이트 워치 요원으로 활동하며 저주받은 여성과 뱀파이어에게 노려지는 소년을 만난다. 출판사 목록에는 《[[The Day Watch]]》와 네 번째 권 《[[라스트 워치]]》도 이어진다. 이 카드는 첫 권 《[[The Night Watch]]》 한 권의 사건을 시리즈 전체의 줄거리로 대체하지 않고, 여러 권을 묶는 세계와 대립 구도를 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

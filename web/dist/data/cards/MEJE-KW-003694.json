@@ -4,8 +4,8 @@
   "title": "보스 이름이 화면에 크게 뜨기",
   "original": "Boss Subtitles",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01919",
+  "primary_tag_id": "ML-T01919",
   "description": {
     "definition": "강적이 등장할 때 이름이나 별칭을 화면에 크게 띄운다. 정보 표시가 [[캐릭터]]의 위상과 결전의 시작을 알리는 연출이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.010.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "강적의 등장 순간 이름과 독특한 칭호를 화면에 크게 띄워 존재감을 주는 소개 방식이다. 정보 표시는 전투의 시작을 알리는 무대 효과와 결합된다.\n\n이름의 크기와 글꼴, 공개의 타이밍은 상대의 위세와 작품의 분위기를 만든다. 평범한 대상을 같은 형식으로 소개하면 장엄함과 실제 모습의 차이가 희극이 되며, 시리즈의 반복 형식으로 알아보게 할 수도 있다.\n\n단순한 위험 경고와 고유한 이름·부제의 소개는 다르다. [[캐릭터]]의 실제 역할을 확인하며, 화면에 이름이 떴다는 사실만으로 게임 보스와 최종 악역의 지위를 자동 부여하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "강적의 등장 순간 이름과 독특한 칭호를 화면에 크게 띄워 존재감을 주는 소개 방식이다. 정보 표시는 전투의 시작을 알리는 무대 효과와 결합된다.\n\n이름의 크기와 글꼴, 공개의 타이밍은 상대의 위세와 작품의 분위기를 만든다. 평범한 대상을 같은 형식으로 소개하면 장엄함과 실제 모습의 차이가 희극이 되며, 시리즈의 반복 형식으로 알아보게 할 수도 있다.\n\n단순한 위험 경고와 고유한 이름·부제의 소개는 다르다. [[캐릭터]]의 실제 역할을 확인하며, 화면에 이름이 떴다는 사실만으로 게임 보스와 최종 악역의 지위를 자동 부여하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

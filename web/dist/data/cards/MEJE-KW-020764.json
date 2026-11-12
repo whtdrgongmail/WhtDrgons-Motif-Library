@@ -5,8 +5,8 @@
   "original": "Jamming Blocks Tactical Information",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "세계 속 방해 신호가 관제 통신이나 지도·레이더 표시를 제한하여 플레이어가 평소 받던 정보를 잃게 하는 장치다.",
     "detail": "작품 사례: 《[[매스 이펙트]]》에서는 게스 스토커가 주변 레이더를 교란하여 화면의 작은 지도가 제대로 작동하지 않게 만든다.",
@@ -14,10 +14,10 @@
     "boundary": "적이 숨는 것 자체나 지도가 원래 없는 게임과 구별한다. 방해 요인 때문에 제공되던 정보가 차단된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "세계 속 통신 방해가 지도와 관제 정보를 차단한다. 플레이어가 평소 의존하던 지원이 환경의 변화로 사라진다.\n\n직접 주변을 관찰하거나 제한된 정보로 행동해야 한다. 장비의 표시와 실제 통신의 연결을 드러내는 설계다.\n\n원래 지도가 없는 게임과 다르다. 제공되던 정보가 특정 방해 요인 때문에 제한되어야 한다.\n\n《[[매스 이펙트]]》에서는 게스 스토커가 주변 레이더를 교란하여 화면의 작은 지도가 제대로 작동하지 않게 만든다.\n\n[[매스 이펙트]]",
+    "sections": [
+      [
+        "상세 설명",
+        "세계 속 통신 방해가 지도와 관제 정보를 차단한다. 플레이어가 평소 의존하던 지원이 환경의 변화로 사라진다.\n\n직접 주변을 관찰하거나 제한된 정보로 행동해야 한다. 장비의 표시와 실제 통신의 연결을 드러내는 설계다.\n\n원래 지도가 없는 게임과 다르다. 제공되던 정보가 특정 방해 요인 때문에 제한되어야 한다."
+      ],
+      [
+        "사례",
+        "《[[매스 이펙트]]》에서는 게스 스토커가 주변 레이더를 교란하여 화면의 작은 지도가 제대로 작동하지 않게 만든다."
+      ],
+      [
+        "관련 작품",
+        "[[매스 이펙트]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

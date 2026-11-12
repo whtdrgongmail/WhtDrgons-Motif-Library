@@ -4,8 +4,8 @@
   "title": "전투 능력을 바꾸는 약물",
   "original": "Combat Drugs",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01475",
+  "primary_tag_id": "ML-T01475",
   "description": {
     "definition": "작품에서 약물이 병사의 감각이나 행동을 바꿔 전투에 영향을 준다. 일시적인 이익 뒤의 의존과 피해가 이야기의 대가가 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.008.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "약물의 영향으로 전투원의 감각과 행동이 달라지는 설정이다. 두려움과 통증의 감소, 공격성의 증가 등이 일시적인 전투상의 이점으로 표현된다.\n\n사용자는 당장의 생존 때문에 장기적인 피해를 감수할 수 있다. 반복되는 위험과 약물에 대한 의존이 결합하면 스스로 중단하기 어려운 상황이 서사의 대가가 된다.\n\n초능력을 새로 부여하는 물질과는 강조점이 다르다. 기존 신체와 판단의 상태를 변화시키는 것이 중심이며, 작품의 효과를 실제 약물의 안전성과 전투 능력 향상에 대한 보증으로 받아들여서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "약물의 영향으로 전투원의 감각과 행동이 달라지는 설정이다. 두려움과 통증의 감소, 공격성의 증가 등이 일시적인 전투상의 이점으로 표현된다.\n\n사용자는 당장의 생존 때문에 장기적인 피해를 감수할 수 있다. 반복되는 위험과 약물에 대한 의존이 결합하면 스스로 중단하기 어려운 상황이 서사의 대가가 된다.\n\n초능력을 새로 부여하는 물질과는 강조점이 다르다. 기존 신체와 판단의 상태를 변화시키는 것이 중심이며, 작품의 효과를 실제 약물의 안전성과 전투 능력 향상에 대한 보증으로 받아들여서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

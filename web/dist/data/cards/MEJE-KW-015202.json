@@ -4,8 +4,8 @@
   "title": "악행 없는 적대자",
   "original": "Villainy-Free Villain",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00883",
+  "primary_tag_id": "ML-T00883",
   "description": {
     "definition": "주인공과 대립하고 불쾌하게 행동하지만 범죄나 중대한 악행을 저지르지는 않는 상대이다.",
     "detail": "작품 사례: [[Legend of Everfree]]의 필시 리치는 주인공 측과 토지 문제로 대립하고 거만하게 보이지만, 소유권을 주장하고 추가 상환 기한도 지켜 노골적인 악행과는 구별된다.",
@@ -13,10 +13,10 @@
     "boundary": "악한 의도를 품었지만 실패한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불쾌하고 거만한 상대라도 실제 악행이 없다면 주인공과의 대립은 선악 구도로만 정리되지 않는다. 권리와 이해관계의 충돌이 적대 역할을 만들 수 있다.\n\n주인공의 욕구를 방해한다고 해서 상대의 권리가 사라지는 것은 아니다. 계약과 소유 같은 정상적인 행동도 사건의 장애가 될 수 있어 적대 역할과 도덕적 악함을 분리한다.\n\n악행을 시도했지만 실패한 경우와는 다르다. 실제 행동에 중대한 가해가 없는지 확인해야 한다.\n\n[[Legend of Everfree]]의 필시 리치는 주인공 측과 토지 문제로 대립하고 거만하게 보이지만, 소유권을 주장하고 추가 상환 기한도 지켜 노골적인 악행과는 구별된다.\n\n[[Legend of Everfree]]",
+    "sections": [
+      [
+        "상세 설명",
+        "불쾌하고 거만한 상대라도 실제 악행이 없다면 주인공과의 대립은 선악 구도로만 정리되지 않는다. 권리와 이해관계의 충돌이 적대 역할을 만들 수 있다.\n\n주인공의 욕구를 방해한다고 해서 상대의 권리가 사라지는 것은 아니다. 계약과 소유 같은 정상적인 행동도 사건의 장애가 될 수 있어 적대 역할과 도덕적 악함을 분리한다.\n\n악행을 시도했지만 실패한 경우와는 다르다. 실제 행동에 중대한 가해가 없는지 확인해야 한다."
+      ],
+      [
+        "사례",
+        "[[Legend of Everfree]]의 필시 리치는 주인공 측과 토지 문제로 대립하고 거만하게 보이지만, 소유권을 주장하고 추가 상환 기한도 지켜 노골적인 악행과는 구별된다."
+      ],
+      [
+        "관련 작품",
+        "[[Legend of Everfree]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

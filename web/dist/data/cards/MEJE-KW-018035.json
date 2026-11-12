@@ -4,8 +4,8 @@
   "title": "착용자를 지배하는 장신구와 옷",
   "original": "Hypno Trinket",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01436",
+  "primary_tag_id": "ML-T01436",
   "description": {
     "definition": "착용한 인물의 정신과 행동을 직접 통제하는 힘이 담긴 장신구·의복 등의 물건이다. 사용자가 바깥에서 들고 쓰는 도구가 아니라 피해자의 몸에 놓이는 것이 조건이다.",
     "detail": "[[마법]]과 기술 어느 쪽으로도 가능하며, 보기 좋은 물건이 착용을 유도하는 수단이 되기도 한다.\n\n작품 사례: 《[[젤다의 전설 무쥬라의 가면]]》에서 가면 안의 사악한 존재는 그것을 쓴 사람을 장악한다.",
@@ -13,19 +13,19 @@
     "boundary": "소유욕을 키우거나 성격을 조금씩 타락시키는 물건과는 다르다. 직접적인 정신 지배나 빙의가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "반지나 가면을 착용하자 자기 뜻보다 물건이나 그 안의 존재의 명령에 따르게 된다.\n\n작품 사례: 《[[젤다의 전설 무쥬라의 가면]]》에서 가면 안의 사악한 존재는 그것을 쓴 사람을 장악한다.",
+    "easy_ko": "반지나 가면을 착용하자 자기 뜻보다 물건이나 그 안의 존재의 명령에 따르게 된다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "장신구와 모자, 옷처럼 몸에 착용하는 물건에 통제력이 담긴다. [[마법]]과 기술 중 어느 쪽도 가능하며 선물이나 아름다운 외형이 착용을 유도하는 수단이 될 수 있다.\n\n물건은 바깥에서 겨누는 도구와 달리 피해자의 몸에 놓인다. 소유욕이나 성격을 조금씩 바꾸는 정도보다 직접적인 정신 통제나 빙의가 있어야 한다.\n\n《[[젤다의 전설 무쥬라의 가면]]》에서 가면 안의 사악한 존재는 그것을 쓴 사람을 장악한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "장신구와 모자, 옷처럼 몸에 착용하는 물건에 통제력이 담긴다. [[마법]]과 기술 중 어느 쪽도 가능하며 선물이나 아름다운 외형이 착용을 유도하는 수단이 될 수 있다.\n\n물건은 바깥에서 겨누는 도구와 달리 피해자의 몸에 놓인다. 소유욕이나 성격을 조금씩 바꾸는 정도보다 직접적인 정신 통제나 빙의가 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[젤다의 전설 무쥬라의 가면]]》에서 가면 안의 사악한 존재는 그것을 쓴 사람을 장악한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

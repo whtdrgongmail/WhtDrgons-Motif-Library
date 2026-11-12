@@ -4,8 +4,8 @@
   "title": "군대와 전쟁의 작동을 중심에 둔 판타지",
   "original": "Military Fantasy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00215",
+  "primary_tag_id": "ML-T00215",
   "description": {
     "definition": "[[마법]]과 초자연적 존재가 있는 세계에서 군인의 생활과 전쟁 수행을 이야기의 중심으로 삼고 그 세계의 규칙이 보급·장비·훈련·전략에 미치는 영향을 다루는 판타지 장르다.",
     "detail": "작품 사례: 《[[현실주의 용사의 왕국 재건기]]》는 여러 마법과 병종을 함께 운용하는 전략에 비중을 둔다. 소마는 바다를 꺼리는 와이번이 머물 수 있도록 섬처럼 만든 항공모함을 고안하여 마법 세계의 생태적 제약과 군사 기술을 연결한다.",
@@ -13,19 +13,22 @@
     "boundary": "전쟁 장면이 잠시 나오는 판타지나 소규모 모험담 전체를 뜻하지 않으며 군과 전쟁의 비중이 중심이어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.103",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "마법이 있는 세계의 군대가 어떻게 전쟁을 하는지에 집중한다.",
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전쟁을 배경 장식으로 사용하는 데 그치지 않고 군대의 조직과 운용, 군사적 제약을 주요 내용으로 삼는 판타지다. 초자연적 능력은 개인의 화려한 공격뿐 아니라 병종의 배치와 기술 개발, 전략의 조건에 영향을 준다.\n\n전투가 잠깐 나오는 모험담 전체를 같은 범주에 넣을 수는 없다. 군과 전쟁의 작동이 이야기에서 중심적인 비중을 가져야 한다. 마법과 생물의 특성이 군사 제도에 반영될수록 판타지의 세계 규칙과 전쟁의 방식이 밀접하게 연결된다.\n\n《[[현실주의 용사의 왕국 재건기]]》는 여러 마법과 병종의 운용을 다룬다. 소마가 바다를 꺼리는 와이번을 위해 섬 같은 항공모함을 고안하는 사례에서는 생태적 제약이 군사 기술의 설계 조건이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전쟁을 배경 장식으로 사용하는 데 그치지 않고 군대의 조직과 운용, 군사적 제약을 주요 내용으로 삼는 판타지다. 초자연적 능력은 개인의 화려한 공격뿐 아니라 병종의 배치와 기술 개발, 전략의 조건에 영향을 준다.\n\n전투가 잠깐 나오는 모험담 전체를 같은 범주에 넣을 수는 없다. 군과 전쟁의 작동이 이야기에서 중심적인 비중을 가져야 한다. 마법과 생물의 특성이 군사 제도에 반영될수록 판타지의 세계 규칙과 전쟁의 방식이 밀접하게 연결된다."
+      ],
+      [
+        "관련 작품",
+        "《[[현실주의 용사의 왕국 재건기]]》는 여러 마법과 병종의 운용을 다룬다. 소마가 바다를 꺼리는 와이번을 위해 섬 같은 항공모함을 고안하는 사례에서는 생태적 제약이 군사 기술의 설계 조건이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

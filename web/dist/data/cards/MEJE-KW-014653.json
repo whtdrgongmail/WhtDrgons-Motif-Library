@@ -4,8 +4,8 @@
   "title": "주변까지 아플 거라는 과장 협박",
   "original": "Hit You So Hard, Your X Will Feel It!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01989",
+  "primary_tag_id": "ML-T01989",
   "description": {
     "definition": "한 사람에게 가할 피해가 가족·지인이나 추상적 대상에게까지 전달될 만큼 크다고 과장하는 위협 표현이다.",
     "detail": "작품 사례: [[Mulan]]에서 화가 난 야오는 상대를 세게 때려 조상들까지 어지럽게 만들겠다고 협박한다. 한 사람에게 가할 충격을 먼 조상에게까지 전달될 것처럼 부풀린다.",
@@ -13,10 +13,10 @@
     "boundary": "그 주변 사람을 별도로 해치겠다는 협박이나 단순한 강한 공격 예고와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 사람에게 가할 충격이 주변이나 먼 관계자까지 아프게 할 것처럼 확대하는 과장된 협박이다. 물리적인 영향의 범위를 불가능하게 부풀려 위세를 드러낸다.\n\n주변 사람을 실제로 따로 해치겠다는 위협과 다르다. 강한 공격의 예고만이 아니라 같은 충격이 다른 대상에게 전해진다는 표현이 필요하다.\n\n[[Mulan]]의 야오는 상대를 세게 때려 조상까지 어지럽게 하겠다고 말한다. 한 사람의 타격을 먼 조상에게까지 연결하는 과장으로 분노를 표현한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 사람에게 가할 충격이 주변이나 먼 관계자까지 아프게 할 것처럼 확대하는 과장된 협박이다. 물리적인 영향의 범위를 불가능하게 부풀려 위세를 드러낸다.\n\n주변 사람을 실제로 따로 해치겠다는 위협과 다르다. 강한 공격의 예고만이 아니라 같은 충격이 다른 대상에게 전해진다는 표현이 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Mulan]]의 야오는 상대를 세게 때려 조상까지 어지럽게 하겠다고 말한다. 한 사람의 타격을 먼 조상에게까지 연결하는 과장으로 분노를 표현한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

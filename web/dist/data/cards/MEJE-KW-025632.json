@@ -4,8 +4,8 @@
   "title": "친부의 불확실성을 이용해 부성을 부인하기",
   "original": "Parental Denial",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00786",
+  "primary_tag_id": "ML-T00786",
   "description": {
     "definition": "누가 친부인지 확정하기 어렵다는 점을 이용하여 자신이 아이의 아버지라는 관계를 부정하려는 행동이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "자신도 확신하지 못하는 단순한 의문과 달리 불확실성을 이용하려는 행동이 조건이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "부성의 가능성을 알게 된 인물이 불확실한 부분을 거절의 근거로 삼는다. 진실을 확인하려는 태도보다 관계의 책임에서 벗어나려는 동기가 앞선다.\n\n어머니와 아이는 상대의 주장 때문에 추가적인 입증 부담을 겪을 수 있다. 정보가 확정된 뒤에도 인물이 어떤 선택을 하는지는 부정의 실제 이유를 드러낸다.\n\n[[어머니도 친부를 확신하지 못하기]]와 연결될 수 있지만 불확실성 자체와 그것을 이용하는 행동은 다르다. 원문보다 좁은 부성 부인의 동기에 한정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "부성의 가능성을 알게 된 인물이 불확실한 부분을 거절의 근거로 삼는다. 진실을 확인하려는 태도보다 관계의 책임에서 벗어나려는 동기가 앞선다.\n\n어머니와 아이는 상대의 주장 때문에 추가적인 입증 부담을 겪을 수 있다. 정보가 확정된 뒤에도 인물이 어떤 선택을 하는지는 부정의 실제 이유를 드러낸다.\n\n[[어머니도 친부를 확신하지 못하기]]와 연결될 수 있지만 불확실성 자체와 그것을 이용하는 행동은 다르다. 원문보다 좁은 부성 부인의 동기에 한정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

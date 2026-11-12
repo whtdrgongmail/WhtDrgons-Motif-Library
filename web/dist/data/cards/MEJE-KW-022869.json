@@ -10,11 +10,11 @@
     "definition": "여러 부적합한 지원자를 만난 뒤 마지막으로 면접을 본 사람이 채용되는 이야기의 배열이다.",
     "detail": "늦게 도착한 후보가 가장 적합할 수도 있고, 남은 후보가 없어 타협할 수도 있으며, 적합한 사람을 찾자 뒤의 일정을 취소하여 마지막 면접이 될 수도 있다.\n\n작품 사례: 《[[심슨 가족]]》의 「The Itchy and Scratchy and Poochie Show」에서는 새 캐릭터 푸치의 목소리 오디션에서 앞선 지원자들 뒤에 등장한 호머의 연기가 가장 좋은 평가를 받는다.",
     "usage": "반복 면접의 피로 뒤 만족스러운 선택을 보상으로 주거나, 대안이 없어 뽑는 타협을 희극으로 만들 때 쓴다.",
-    "boundary": "채용된 사람이 우연히 목록 끝에 있었던 사실만으로는 부족하다. 앞선 면접들의 실패와 마지막 선택의 대비가 장면을 구성해야 한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
     "code": "05",
     "review_status": "provisional",
@@ -22,10 +22,10 @@
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "면접이 끝나 갈 때 마침내 필요한 사람이 나타난다.\n\n작품 사례: 《[[심슨 가족]]》의 「The Itchy and Scratchy and Poochie Show」에서는 새 캐릭터 푸치의 목소리 오디션에서 앞선 지원자들 뒤에 등장한 호머의 연기가 가장 좋은 평가를 받는다.",
+    "easy_ko": "면접이 끝나 갈 때 마침내 필요한 사람이 나타난다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "늦게 도착한 후보가 가장 적합할 수도 있고, 남은 후보가 없어 타협할 수도 있으며, 적합한 사람을 찾자 뒤의 일정을 취소하여 마지막 면접이 될 수도 있다.\n\n반복 면접의 피로 뒤 만족스러운 선택이 나오거나 대안 없는 타협이 희극으로 이어진다.\n\n채용된 사람이 우연히 목록 끝에 있었던 사실만으로는 부족하다. 앞선 면접들의 실패와 마지막 선택의 대비가 장면을 구성해야 한다.\n\n작품 사례: 《[[심슨 가족]]》의 「The Itchy and Scratchy and Poochie Show」에서는 새 캐릭터 푸치의 목소리 오디션에서 앞선 지원자들 뒤에 등장한 호머의 연기가 가장 좋은 평가를 받는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "늦게 도착한 후보가 가장 적합할 수도 있고, 남은 후보가 없어 타협할 수도 있으며, 적합한 사람을 찾자 뒤의 일정을 취소하여 마지막 면접이 될 수도 있다.\n\n반복 면접의 피로 뒤 만족스러운 선택이 나오거나 대안 없는 타협이 희극으로 이어진다.\n\n채용된 사람이 우연히 목록 끝에 있었던 사실만으로는 부족하다. 앞선 면접들의 실패와 마지막 선택의 대비가 장면을 구성해야 한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[심슨 가족]]》의 「The Itchy and Scratchy and Poochie Show」에서는 새 캐릭터 푸치의 목소리 오디션에서 앞선 지원자들 뒤에 등장한 호머의 연기가 가장 좋은 평가를 받는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

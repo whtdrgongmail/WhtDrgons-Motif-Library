@@ -4,8 +4,8 @@
   "title": "주제가",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "작품의 핵심 주제나 정서를 드러내도록 사용되는 음악이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "작품에 사용된 모든 배경 음악과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "음악이 작품의 핵심 주제와 정서를 대표하는 역할을 맡는다. 사용 횟수만보다 작품 전체와 맺는 관계가 중요하다.\n\n관객은 음악을 통해 작품을 떠올리거나 서로 떨어진 장면의 감정을 연결할 수 있다. 개별 상황의 반주를 넘어 작품의 [[정체성]]을 압축하는 표지가 된다.\n\n작품에 삽입된 모든 음악을 같은 지위로 볼 수 없다. 곡이 실제로 주제를 드러내는 중심 역할을 하는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "음악이 작품의 핵심 주제와 정서를 대표하는 역할을 맡는다. 사용 횟수만보다 작품 전체와 맺는 관계가 중요하다.\n\n관객은 음악을 통해 작품을 떠올리거나 서로 떨어진 장면의 감정을 연결할 수 있다. 개별 상황의 반주를 넘어 작품의 [[정체성]]을 압축하는 표지가 된다.\n\n작품에 삽입된 모든 음악을 같은 지위로 볼 수 없다. 곡이 실제로 주제를 드러내는 중심 역할을 하는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

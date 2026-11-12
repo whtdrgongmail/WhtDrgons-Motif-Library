@@ -4,8 +4,8 @@
   "title": "흐르는 시간이 작동하는 게임 세계",
   "original": "In-Universe Game Clock",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02160",
+  "primary_tag_id": "ML-T02160",
   "description": {
     "definition": "플레이 중 세계의 시각과 날짜가 변하고 그 변화가 풍경·등장 대상·이용 가능한 행동 등에 반영되는 시간 체계이다.",
     "detail": "현실 시간과 같거나 빠른 속도로 진행하며 능력치·적의 출현·상점 운영에 영향을 준다. 주요 줄거리는 플레이어를 기다리는 식으로 따로 작동할 수도 있다.\n\n작품 사례: 《[[삼국지]]》의 코에이 전략게임 시리즈에서는 세계의 시간이 빠르게 흘러 계절과 해가 바뀌며 장기적인 진행을 보여 준다.",
@@ -13,19 +13,19 @@
     "boundary": "화면의 장식용 시계나 시간이 흐르지 않는 배경과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.011",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "가만히 돌아다녀도 낮이 밤으로 바뀌고 만날 사람과 열리는 가게가 달라진다.\n\n작품 사례: 《[[삼국지]]》의 코에이 전략게임 시리즈에서는 세계의 시간이 빠르게 흘러 계절과 해가 바뀌며 장기적인 진행을 보여 준다.",
+    "easy_ko": "가만히 돌아다녀도 낮이 밤으로 바뀌고 만날 사람과 열리는 가게가 달라진다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현실 시간과 같거나 빠른 속도로 진행하며 능력치·적의 출현·상점 운영에 영향을 준다. 주요 줄거리는 플레이어를 기다리는 식으로 따로 작동할 수도 있다.\n\n화면의 장식용 시계나 시간이 흐르지 않는 배경과 구별한다.\n\n《[[삼국지]]》의 코에이 전략게임 시리즈에서는 세계의 시간이 빠르게 흘러 계절과 해가 바뀌며 장기적인 진행을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현실 시간과 같거나 빠른 속도로 진행하며 능력치·적의 출현·상점 운영에 영향을 준다. 주요 줄거리는 플레이어를 기다리는 식으로 따로 작동할 수도 있다.\n\n화면의 장식용 시계나 시간이 흐르지 않는 배경과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[삼국지]]》의 코에이 전략게임 시리즈에서는 세계의 시간이 빠르게 흘러 계절과 해가 바뀌며 장기적인 진행을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "마이 리틀 포니",
   "original": "My Little Pony",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "해즈브로의 조랑말 캐릭터를 중심으로 완구·애니메이션·만화 등 여러 매체에 전개된 작품군이다.",
     "detail": "",
@@ -13,18 +13,18 @@
     "boundary": "《마이 리틀 포니: 우정은 마법》처럼 작품군 안의 개별 시리즈와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -47,5 +47,18 @@
       "sort_order": 1,
       "row_version": 1
     }
-  ]
+  ],
+  "longform_article": {
+    "text": "해즈브로의 조랑말 완구에서 출발하여 [[애니메이션]]과 만화 등으로 확장한 작품군이다. 빗질할 수 있는 갈기와 꼬리를 지닌 장난감의 특징은 여러 세대의 인물 디자인으로 이어진다.\n\n완구의 변화에 따라 나눈 세대 구분 안에 서로 다른 영상판과 세계가 포함된다. 따라서 한 애니메이션의 지명과 인물 관계를 작품군 전체의 공통 설정으로 취급하지 않고, 특정 세대의 작품은 별도로 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "해즈브로의 조랑말 완구에서 출발하여 [[애니메이션]]과 만화 등으로 확장한 작품군이다. 빗질할 수 있는 갈기와 꼬리를 지닌 장난감의 특징은 여러 세대의 인물 디자인으로 이어진다.\n\n완구의 변화에 따라 나눈 세대 구분 안에 서로 다른 영상판과 세계가 포함된다. 따라서 한 애니메이션의 지명과 인물 관계를 작품군 전체의 공통 설정으로 취급하지 않고, 특정 세대의 작품은 별도로 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

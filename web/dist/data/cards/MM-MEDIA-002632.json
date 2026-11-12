@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "호라이즌 포비든 웨스트",
   "original": "Horizon Forbidden West",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Horizon Forbidden West"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《호라이즌 포비든 웨스트》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《호라이즌 포비든 웨스트》는 로딩이 끝난 뒤 확인 입력으로 돌아가는 설정을 제공하여 도움말을 읽을 시간을 사용자가 정하게 한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,9 +41,26 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014705",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-024795",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《호라이즌 포비든 웨스트》에는 로딩 후 복귀 시점을 조절하는 설정이 있다. 로딩이 끝나도 확인 입력을 받을 때까지 기다리게 할 수 있다. 앞선 게임의 뒤를 이어 세계의 위험을 조사하고 장비와 이동의 범위를 넓히는 모험이다.\n\n플레이어는 화면에 나온 도움말을 필요한 만큼 읽는다. 처리 속도가 빠르다는 이유로 정보가 너무 일찍 사라지는 상황을 줄인다. 도움말의 표시 시간을 플레이어가 조정하면 기술적인 처리 속도와 정보를 읽는 속도를 분리할 수 있다.\n\n이 설정은 준비 완료와 플레이 재개를 별개의 단계로 나눈다. 시스템의 완료 시점 대신 이용자의 확인이 화면 전환을 결정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《호라이즌 포비든 웨스트》에는 로딩 후 복귀 시점을 조절하는 설정이 있다. 로딩이 끝나도 확인 입력을 받을 때까지 기다리게 할 수 있다. 앞선 게임의 뒤를 이어 세계의 위험을 조사하고 장비와 이동의 범위를 넓히는 모험이다.\n\n플레이어는 화면에 나온 도움말을 필요한 만큼 읽는다. 처리 속도가 빠르다는 이유로 정보가 너무 일찍 사라지는 상황을 줄인다. 도움말의 표시 시간을 플레이어가 조정하면 기술적인 처리 속도와 정보를 읽는 속도를 분리할 수 있다.\n\n이 설정은 준비 완료와 플레이 재개를 별개의 단계로 나눈다. 시스템의 완료 시점 대신 이용자의 확인이 화면 전환을 결정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "시간 제한이 있는 임무",
   "original": "Timed Mission",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02161",
+  "primary_tag_id": "ML-T02161",
   "description": {
     "definition": "정해진 시간이 지나기 전에 목표를 완료해야 성공으로 인정되는 게임 임무다.",
     "detail": "작품 사례: [[Kirby Super Star]]의 메타 나이트의 역습 마지막에서는 커비가 휠리에 올라, 무너지는 함선이 바다에 추락하기 전에 제한 시간 안에 탈출해야 한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 기록 측정과 달리 제한 시간 초과가 실패를 뜻한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.011.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "목표와 별도로 시간 초과를 실패 조건으로 두는 임무다. 이동과 판단에 쓰는 시간이 줄어들수록 사용할 수 있는 해결 방법도 제한된다.\n\n단순히 기록을 재는 것과 다르다. 시간의 종료가 실패를 뜻해야 하며 끝까지 버티면 되는 시간제 방어와도 성공 조건이 반대다.\n\n[[Kirby Super Star]]의 메타 나이트의 역습 마지막에는 함선 붕괴 전의 탈출이 요구된다. 커비는 휠리를 타고 정해진 시간 안에 벗어나야 해 도착 여부와 시간이 함께 중요해진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "목표와 별도로 시간 초과를 실패 조건으로 두는 임무다. 이동과 판단에 쓰는 시간이 줄어들수록 사용할 수 있는 해결 방법도 제한된다.\n\n단순히 기록을 재는 것과 다르다. 시간의 종료가 실패를 뜻해야 하며 끝까지 버티면 되는 시간제 방어와도 성공 조건이 반대다."
+      ],
+      [
+        "관련 작품",
+        "[[Kirby Super Star]]의 메타 나이트의 역습 마지막에는 함선 붕괴 전의 탈출이 요구된다. 커비는 휠리를 타고 정해진 시간 안에 벗어나야 해 도착 여부와 시간이 함께 중요해진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

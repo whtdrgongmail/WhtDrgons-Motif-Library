@@ -4,8 +4,8 @@
   "title": "들키고 싶지 않은 검색 기록",
   "original": "Embarrassing Browser History",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01942",
+  "primary_tag_id": "ML-T01942",
   "description": {
     "definition": "인물이 남에게 알리기 싫은 취향이나 비밀이 인터넷 기록에 남아 있어 그 노출을 두려워하는 상황이다. [[입 밖에 내기 민망한 비밀번호]] 역시 디지털 기기에 남은 사적인 선택이 남에게 알려질까 두려워하는 상황이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.003.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인터넷 이용 기록에 사적인 취향과 행동이 남아 타인이 볼까 두려워하는 상황이다. 개인 공간의 정보가 사회적 이미지와 충돌할 가능성을 갖는다.\n\n기기를 남에게 맡기거나 갑자기 사라지게 되는 사건이 노출의 위기를 만든다. 기록을 감추는 데 과도하게 집착하면 실제 내용보다 당황한 반응이 더 큰 의심을 일으킨다.\n\n기록에 숨길 것이 있다고 반드시 범죄가 있는 것은 아니다. 사생활의 욕구와 해로운 행동을 구분해야 하며 타인의 기록을 공개하는 침해도 별개의 문제다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인터넷 이용 기록에 사적인 취향과 행동이 남아 타인이 볼까 두려워하는 상황이다. 개인 공간의 정보가 사회적 이미지와 충돌할 가능성을 갖는다.\n\n기기를 남에게 맡기거나 갑자기 사라지게 되는 사건이 노출의 위기를 만든다. 기록을 감추는 데 과도하게 집착하면 실제 내용보다 당황한 반응이 더 큰 의심을 일으킨다.\n\n기록에 숨길 것이 있다고 반드시 범죄가 있는 것은 아니다. 사생활의 욕구와 해로운 행동을 구분해야 하며 타인의 기록을 공개하는 침해도 별개의 문제다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

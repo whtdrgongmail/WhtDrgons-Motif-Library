@@ -4,8 +4,8 @@
   "title": "냉소 속에서도 싸우는 선인",
   "original": "Knight in Sour Armor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "세상에 대한 낙관은 잃었지만 불의를 막고 사람을 돕는 [[행동]]은 포기하지 않는 [[영웅]] 유형이다.",
     "detail": "작품 사례: [[Fallout 4]]의 닉 발렌타인은 세상에 지친 현실감과 무표정한 농담을 드러내면서도, 사람에게서 선함을 찾으려는 태도를 지킨다.",
@@ -13,10 +13,10 @@
     "boundary": "이상주의 영웅이나 [[냉소]] 때문에 선행까지 포기한 [[인물]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "세상의 부패와 실패를 냉소적으로 인식하면서도 타인을 돕는 행동을 지속하는 유형이다. 낙관적인 기대가 약해져도 선행의 기준은 남는다.\n\n이상주의적 확신을 가진 영웅과는 정서가 다르다. [[냉소]]를 이유로 도움 자체를 포기한 [[인물]]과도 실제 행동에서 구별된다.\n\n[[Fallout 4]]의 닉 발렌타인은 세상에 지친 태도와 무표정한 농담을 보인다. 그러면서도 사람의 선한 면을 찾으려는 자세를 유지해 냉소와 선의가 함께 나타난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "세상의 부패와 실패를 냉소적으로 인식하면서도 타인을 돕는 행동을 지속하는 유형이다. 낙관적인 기대가 약해져도 선행의 기준은 남는다.\n\n이상주의적 확신을 가진 영웅과는 정서가 다르다. [[냉소]]를 이유로 도움 자체를 포기한 [[인물]]과도 실제 행동에서 구별된다."
+      ],
+      [
+        "관련 작품",
+        "[[Fallout 4]]의 닉 발렌타인은 세상에 지친 태도와 무표정한 농담을 보인다. 그러면서도 사람의 선한 면을 찾으려는 자세를 유지해 냉소와 선의가 함께 나타난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

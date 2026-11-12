@@ -1,34 +1,22 @@
 {
   "id": "MM-MEDIA-000771",
-  "kind": "work",
+  "kind": "organization",
   "title": "Sabaton",
   "original": "Sabaton",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-T00139",
+  "primary_tag_id": null,
   "description": {
-    "definition": "이 카드는 음악 작품 《Sabaton》를 가리킨다. 이 라이브러리에서는 [[역사를 주제로 삼는 메탈]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Sabaton의 The Carolean's Prayer는 스웨덴 왕 Karl XII의 병사들과 그들을 묶는 신앙을 노래해, 실제 역사를 메탈의 소재로 삼는다.",
+    "definition": "사바톤은 스웨덴의 파워 메탈 밴드다. 전쟁과 역사적 사건을 가사의 주요 소재로 삼아 [[역사를 주제로 삼는 메탈]]의 사례와 연결된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
-  "classification": {
-    "code": "02.008",
-    "review_status": "provisional",
-    "row_version": 1
-  },
-  "classification_semantics": {
-    "semantic_kind": "medium_family",
-    "parent_relation": "facet_member",
-    "allowed_roles": [
-      "medium"
-    ],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "updated_at": "2026-11-12",
+  "row_version": 4,
+  "classification": null,
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "Sabaton의 The Carolean's Prayer는 스웨덴 왕 Karl XII의 병사들과 그들을 묶는 신앙을 노래해, 실제 역사를 메탈의 소재로 삼는다.",
     "review_status": "reviewed",
@@ -37,11 +25,19 @@
   },
   "applied_tags": [],
   "related_media": [],
-  "related_motifs": [
-    {
-      "card_id": "MEJE-KW-014039",
-      "row_version": 1
-    }
-  ],
-  "references": []
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "사바톤은 1999년에 결성된 스웨덴 파워 메탈 밴드다. 전쟁과 유명한 역사적 전투를 노래의 주제로 삼으며 제2차 세계대전 소재의 비중이 크다.\n\n초기에는 전통적인 헤비 메탈 성격으로 출발했다. 2005년의 콘셉트 앨범 《Primo Victoria》는 전쟁을 중심으로 한 이후 활동의 중요한 기준점이다.\n\n요아킴 브로덴과 페르 순드스트룀 등이 곡을 만들며 역사적 사건을 가사로 다룬다. 음악 장르와 별개로 반복되는 소재가 밴드의 정체성을 구성한다는 점에서 개별 전쟁 노래와 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사바톤은 1999년에 결성된 스웨덴 파워 메탈 밴드다. 전쟁과 유명한 역사적 전투를 노래의 주제로 삼으며 제2차 세계대전 소재의 비중이 크다.\n\n초기에는 전통적인 헤비 메탈 성격으로 출발했다. 2005년의 콘셉트 앨범 《Primo Victoria》는 전쟁을 중심으로 한 이후 활동의 중요한 기준점이다.\n\n요아킴 브로덴과 페르 순드스트룀 등이 곡을 만들며 역사적 사건을 가사로 다룬다. 음악 장르와 별개로 반복되는 소재가 밴드의 정체성을 구성한다는 점에서 개별 전쟁 노래와 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,17 +4,17 @@
   "title": "기동전사 건담 SEED",
   "original": "Mobile Suit Gundam SEED",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
-    "definition": "《기동전사 건담 SEED》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《기동전사 건담 SEED》에서 라크스는 자신들이 손에 무기를 든 채 평화를 외치고 있다는 모순을 인정한다.",
+    "definition": "《기동전사 건담 SEED》는 코즈믹 이라의 전쟁 속에서 키라 야마토와 아스란 자라의 갈등을 다룬 2002~2003년 TV 애니메이션이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《기동전사 건담 SEED》에서 라크스는 자신들이 손에 무기를 든 채 평화를 외치고 있다는 모순을 인정한다.",
+    "easy_ko": "키라와 아스란이 서로 다른 편에 서는 전쟁을 다룬 일본 TV 애니메이션이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -51,9 +51,26 @@
       "row_version": 1
     },
     {
+      "card_id": "MEJE-KW-025454",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-029535",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유전자 조정을 받은 코디네이터와 일반 인간 사이의 대립이 지구와 우주 식민지의 전쟁으로 커지는 [[텔레비전]] 애니메이션이다. 중립 지역에 살던 키라는 친구들을 지키려다 건담을 조종하게 된다.\n\n반대편 군에 들어간 어린 시절 친구 아스란과의 재회는 출신만으로 적과 동료를 가를 수 없게 한다. 전쟁의 기술과 정치적 이해가 개인의 우정 및 소속감과 충돌하는 코즈믹 이라의 이야기다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유전자 조정을 받은 코디네이터와 일반 인간 사이의 대립이 지구와 우주 식민지의 전쟁으로 커지는 [[텔레비전]] 애니메이션이다. 중립 지역에 살던 키라는 친구들을 지키려다 건담을 조종하게 된다.\n\n반대편 군에 들어간 어린 시절 친구 아스란과의 재회는 출신만으로 적과 동료를 가를 수 없게 한다. 전쟁의 기술과 정치적 이해가 개인의 우정 및 소속감과 충돌하는 코즈믹 이라의 이야기다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

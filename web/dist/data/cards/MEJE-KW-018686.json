@@ -4,8 +4,8 @@
   "title": "인질범을 쏘아 대치를 끝내기",
   "original": "Shoot the Hostage Taker",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00782",
+  "primary_tag_id": "ML-T00782",
   "description": {
     "definition": "인질을 붙잡고 위협하는 인물을 제삼자가 공격하여 대치 상황을 해소한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "인질 자체를 공격하는 역전 방식과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인질의 존재 때문에 멈춘 대치를 제삼자의 직접 공격으로 끝내는 장면이다. 말로 이어지던 협상보다 행동의 속도와 정확성이 강조된다.\n\n능숙한 사수의 실력을 보여 주거나 상대의 장황한 요구를 끊는 반격으로 사용된다. 관객이 인질도 다칠 수 있다고 생각한 만큼 성공 뒤의 안도감이 커진다.\n\n인질을 공격해 협상력을 없애는 경우와는 목표가 다르다. 작품이 간단한 해결처럼 제시하더라도 실제 상황의 불확실성이 없어지는 것은 아니며 서사상의 압축으로 이해해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인질의 존재 때문에 멈춘 대치를 제삼자의 직접 공격으로 끝내는 장면이다. 말로 이어지던 협상보다 행동의 속도와 정확성이 강조된다.\n\n능숙한 사수의 실력을 보여 주거나 상대의 장황한 요구를 끊는 반격으로 사용된다. 관객이 인질도 다칠 수 있다고 생각한 만큼 성공 뒤의 안도감이 커진다.\n\n인질을 공격해 협상력을 없애는 경우와는 목표가 다르다. 작품이 간단한 해결처럼 제시하더라도 실제 상황의 불확실성이 없어지는 것은 아니며 서사상의 압축으로 이해해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Striking Size Difference in a Couple",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "두 연인의 키와 체격 차이를 크게 배치하여 함께 있는 모습의 대비를 관계 디자인의 특징으로 삼는다.",
     "detail": "큰 남성과 작은 여성, 작은 남성과 큰 여성 모두 같은 크기 대비의 변형이다.",
@@ -14,14 +14,20 @@
     "boundary": "체격 차이만으로 약함·지배·보호 관계를 자동으로 정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "둘이 나란히 있으면 몸집 차이가 먼저 눈에 들어온다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "체격 차이가 두드러지는 연인은 키나 몸집이 크게 다른 두 사람을 함께 배치해 시각적인 대비를 관계 디자인의 특징으로 삼는다. 체격의 방향은 어느 한쪽으로 고정되지 않는다.\n\n한 화면에서 크기 차이가 강조되면 관객은 두 사람의 관계를 빠르게 인식한다. 큰 남성과 작은 여성뿐 아니라 작은 남성과 큰 여성도 같은 대비 구조를 이룰 수 있다.\n\n외형은 친밀감이나 기묘함을 강조할 수 있지만, 크기만으로 성격과 권력 관계를 정하지는 않는다. 작품이 보호나 지배를 연상시키더라도 실제 관계는 별도의 행동과 설정으로 구성된다.\n\n체격 차이가 있다는 사실만으로 약함, 지배, 보호 역할을 자동으로 부여하지 않는다. 신체적 대비 자체가 두 사람의 시각적 관계를 돋보이게 해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "체격 차이가 두드러지는 연인은 키나 몸집이 크게 다른 두 사람을 함께 배치해 시각적인 대비를 관계 디자인의 특징으로 삼는다. 체격의 방향은 어느 한쪽으로 고정되지 않는다.\n\n한 화면에서 크기 차이가 강조되면 관객은 두 사람의 관계를 빠르게 인식한다. 큰 남성과 작은 여성뿐 아니라 작은 남성과 큰 여성도 같은 대비 구조를 이룰 수 있다.\n\n외형은 친밀감이나 기묘함을 강조할 수 있지만, 크기만으로 성격과 권력 관계를 정하지는 않는다. 작품이 보호나 지배를 연상시키더라도 실제 관계는 별도의 행동과 설정으로 구성된다.\n\n체격 차이가 있다는 사실만으로 약함, 지배, 보호 역할을 자동으로 부여하지 않는다. 신체적 대비 자체가 두 사람의 시각적 관계를 돋보이게 해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

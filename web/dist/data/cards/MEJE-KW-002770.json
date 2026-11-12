@@ -4,8 +4,8 @@
   "title": "목욕탕에서 벌어지는 습격",
   "original": "Bathhouse Blitz",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00777",
+  "primary_tag_id": "ML-T00777",
   "description": {
     "definition": "평소 몸을 씻고 쉬는 공간에 공격이나 납치가 들이닥친다. 무장을 풀고 사생활을 기대하는 장소가 갑자기 위험해지는 대비다. [[화장실에서 벌어지는 몸싸움]]와 달리 사적 노출을 예상하는 목욕 공간이 무대다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여럿이 쉬고 씻는 목욕탕이 갑작스러운 습격과 싸움의 장소가 된다. 몸과 장비를 평소보다 적게 보호한 상태가 전투의 제약을 만든다.\n\n물과 증기는 시야와 발밑을 불안정하게 하고 탕과 칸막이는 이동의 [[장애물]]이 된다. 준비되지 않은 인물이 현장 도구를 쓰면 공간의 일상적 기능이 전투 수단으로 바뀐다.\n\n개인적인 욕실의 싸움과 겹칠 수 있지만 공동 목욕의 사회적 공간이 강조된다. 노출의 희극과 방심한 상태의 위협 가운데 무엇을 중심에 두는지에 따라 분위기가 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여럿이 쉬고 씻는 목욕탕이 갑작스러운 습격과 싸움의 장소가 된다. 몸과 장비를 평소보다 적게 보호한 상태가 전투의 제약을 만든다.\n\n물과 증기는 시야와 발밑을 불안정하게 하고 탕과 칸막이는 이동의 [[장애물]]이 된다. 준비되지 않은 인물이 현장 도구를 쓰면 공간의 일상적 기능이 전투 수단으로 바뀐다.\n\n개인적인 욕실의 싸움과 겹칠 수 있지만 공동 목욕의 사회적 공간이 강조된다. 노출의 희극과 방심한 상태의 위협 가운데 무엇을 중심에 두는지에 따라 분위기가 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

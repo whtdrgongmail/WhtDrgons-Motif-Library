@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "Hellboy",
   "original": "Hellboy",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "헬보이"
+  ],
+  "tag_id": "ML-T00051",
   "primary_tag_id": "ML-T00051",
   "description": {
     "definition": "이 카드는 코믹북 《Hellboy》를 가리킨다. 이 라이브러리에서는 [[악한 종족의 유일한 영웅]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Hellboy의 헬보이는 악마의 피를 지녔어도 선하게 자라 묵주를 걸 수 있으며, 십자가에 닿기만 해도 고통받는 다른 악마들과 대비된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.003",
     "review_status": "provisional",
@@ -43,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전쟁 말기 나치의 소환 실험으로 나타난 어린 악마가 인간에게 길러져 초자연적 수사관이 되는 코믹북이다. 헬보이는 외형과 기원만으로 제거되지 않고 조사 기관 안에서 동료와 관계를 쌓는다.\n\n이후 자신의 출생과 소환 목적에 관한 진실을 찾아 조직을 떠난다. 전문적인 괴이 사건 수사와 존재의 기원을 알아 가는 개인적인 여행이 서로 이어지는 흐름이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전쟁 말기 나치의 소환 실험으로 나타난 어린 악마가 인간에게 길러져 초자연적 수사관이 되는 코믹북이다. 헬보이는 외형과 기원만으로 제거되지 않고 조사 기관 안에서 동료와 관계를 쌓는다.\n\n이후 자신의 출생과 소환 목적에 관한 진실을 찾아 조직을 떠난다. 전문적인 괴이 사건 수사와 존재의 기원을 알아 가는 개인적인 여행이 서로 이어지는 흐름이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

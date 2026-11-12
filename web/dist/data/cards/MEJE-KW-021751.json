@@ -4,8 +4,8 @@
   "title": "신념을 위한 고난으로 사람을 움직이기",
   "original": "Inspirational Martyr",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00969",
+  "primary_tag_id": "ML-T00969",
   "description": {
     "definition": "신념 때문에 박해와 고통을 겪는 인물의 태도가 다른 사람들에게 그 가치와 행동을 이어 갈 동기를 주는 전개이다. 죽음이 계기가 되기도 하지만 사망은 필수 조건이 아니다.",
     "detail": "작품 사례: 《[[원피스]]》에서 히루루크의 죽음을 앞둔 태도와 병든 나라를 고치려는 뜻은 주변 사람들에게 나라를 더 낫게 만들겠다는 동기를 남긴다.",
@@ -13,10 +13,10 @@
     "boundary": "고난이나 죽음만으로 성립하지 않고 타인에게 실제 영감과 행동 동기를 주는 효과가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.010.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》에서 히루루크의 죽음을 앞둔 태도와 병든 나라를 고치려는 뜻은 주변 사람들에게 나라를 더 낫게 만들겠다는 동기를 남긴다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "신념 때문에 박해와 고통을 겪는 인물의 태도가 다른 사람에게 행동의 동기를 주는 전개다. 고난의 의미가 개인을 넘어 공동체로 전달된다.\n\n신념을 포기하라는 압력 앞에서 보이는 선택이 관찰자에게 영향을 준다. 죽음이 계기가 될 수 있지만 살아서 견디는 모습으로도 같은 기능이 성립한다.\n\n고통을 겪었다는 사실만으로 신념의 내용이 옳다고 증명되는 것은 아니다. 작품이 어떤 가치와 행동을 계승하게 하는지, 그 영향이 누구의 시점으로 제시되는지 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "신념 때문에 박해와 고통을 겪는 인물의 태도가 다른 사람에게 행동의 동기를 주는 전개다. 고난의 의미가 개인을 넘어 공동체로 전달된다.\n\n신념을 포기하라는 압력 앞에서 보이는 선택이 관찰자에게 영향을 준다. 죽음이 계기가 될 수 있지만 살아서 견디는 모습으로도 같은 기능이 성립한다.\n\n고통을 겪었다는 사실만으로 신념의 내용이 옳다고 증명되는 것은 아니다. 작품이 어떤 가치와 행동을 계승하게 하는지, 그 영향이 누구의 시점으로 제시되는지 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -2,24 +2,87 @@
   "id": "MM-MEDIA-003557",
   "kind": "work",
   "title": "로스트아크",
-  "original": "",
+  "original": "Lost Ark",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00077",
+  "primary_tag_id": "ML-T00077",
   "description": {
-    "definition": "",
+    "definition": "《로스트아크》는 스마일게이트 RPG가 제작한 온라인 역할수행 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.016.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "platform",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "혼자 모험하거나 다른 플레이어와 힘을 합쳐 강한 적에 도전하는 PC 게임이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000159",
+      "card_id": "MM-MEDIA-003557",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://newsroom.smilegate.com/en/eng/GrandWinterEvent",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000308",
+      "card_id": "MM-MEDIA-003557",
+      "label_ko": "로스트아크 공식 게임 소개",
+      "icon_key": "game",
+      "url": "https://www.playlostark.com/en-us/game/about",
+      "description_ko": "세계와 직업 및 활동 소개",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000309",
+      "card_id": "MM-MEDIA-003557",
+      "label_ko": "로스트아크 공식 스토리",
+      "icon_key": "book",
+      "url": "https://www.playlostark.com/en-gb/game/story",
+      "description_ko": "아르케시아와 아크의 역사",
+      "sort_order": 3,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "《로스트아크》의 [[세계관]]은 아르케시아와 페트라니아의 대립, 일곱 조각으로 나뉜 아크, 카제로스의 침공을 중심으로 구성된다. 공식 서사는 오래 유지된 평화가 과거 전쟁의 기억을 흐리게 했고, 봉인된 위협의 재등장이 현재의 모험을 촉발한다고 설명한다. 각 지역의 역사는 단일한 적을 향한 여정에 서로 다른 배경을 제공한다.\n\n게임 진행은 여러 전투 직업과 기술 조정, 지역 탐험, 협력 활동을 결합한다. 공식 게임 소개는 직업별 기술을 조정하는 트라이포드 체계와 다인 공략을 요구하는 레이드를 구분한다. 따라서 인물의 성장만이 아니라 [[플레이어]]들이 역할을 맞추는 [[전투]]와 [[길드]] 활동도 작품 경험의 일부다.\n\n공식 스토리 소개에서 아크의 일곱 조각은 여러 대륙에 흩어져 있다. 이 설정은 각 지역을 탐색하는 동기와 대륙별 사건을 하나의 큰 목표로 연결한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《로스트아크》의 [[세계관]]은 아르케시아와 페트라니아의 대립, 일곱 조각으로 나뉜 아크, 카제로스의 침공을 중심으로 구성된다. 공식 서사는 오래 유지된 평화가 과거 전쟁의 기억을 흐리게 했고, 봉인된 위협의 재등장이 현재의 모험을 촉발한다고 설명한다. 각 지역의 역사는 단일한 적을 향한 여정에 서로 다른 배경을 제공한다.\n\n게임 진행은 여러 전투 직업과 기술 조정, 지역 탐험, 협력 활동을 결합한다. 공식 게임 소개는 직업별 기술을 조정하는 트라이포드 체계와 다인 공략을 요구하는 레이드를 구분한다. 따라서 인물의 성장만이 아니라 [[플레이어]]들이 역할을 맞추는 [[전투]]와 [[길드]] 활동도 작품 경험의 일부다."
+      ],
+      [
+        "사례",
+        "공식 스토리 소개에서 아크의 일곱 조각은 여러 대륙에 흩어져 있다. 이 설정은 각 지역을 탐색하는 동기와 대륙별 사건을 하나의 큰 목표로 연결한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

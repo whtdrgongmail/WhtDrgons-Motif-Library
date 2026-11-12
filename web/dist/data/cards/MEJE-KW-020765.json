@@ -5,8 +5,8 @@
   "original": "Fake-Playable Cutscene",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "메뉴나 일반 플레이 화면의 외형으로 컷신을 제시해 플레이어가 잠시 자신에게 조작권이 있다고 생각하게 하는 연출이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "입력 오류나 이미 컷신임이 분명한 영상과 구별한다. 통제할 수 있다는 기대를 화면 형식으로 만든다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화면은 평소의 메뉴나 플레이 형태를 유지하지만 현재 장면은 입력을 받지 않는다. 이용자는 외형 때문에 잠시 자신이 통제한다고 예상한다.\n\n조작권이 있다고 믿은 순간의 무반응은 놀라움을 만든다. 누가 사건을 진행하는지에 대한 기대가 화면 형식을 통해 흔들리는 방식이다.\n\n장치 오류와는 의도가 다르다. 처음부터 컷신이라는 사실이 명확한 영상도 조작 가능성에 대한 같은 오해를 만들지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화면은 평소의 메뉴나 플레이 형태를 유지하지만 현재 장면은 입력을 받지 않는다. 이용자는 외형 때문에 잠시 자신이 통제한다고 예상한다.\n\n조작권이 있다고 믿은 순간의 무반응은 놀라움을 만든다. 누가 사건을 진행하는지에 대한 기대가 화면 형식을 통해 흔들리는 방식이다.\n\n장치 오류와는 의도가 다르다. 처음부터 컷신이라는 사실이 명확한 영상도 조작 가능성에 대한 같은 오해를 만들지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

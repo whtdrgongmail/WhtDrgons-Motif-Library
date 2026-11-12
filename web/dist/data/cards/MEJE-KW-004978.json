@@ -4,8 +4,8 @@
   "title": "반복해서 배신하는 인물",
   "original": "Chronic Backstabbing Disorder",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00938",
+  "primary_tag_id": "ML-T00938",
   "description": {
     "definition": "어느 집단에 들어가든 한동안 신뢰를 얻은 뒤 다시 배신하고 다른 편으로 옮겨 가는 인물 유형. 잦은 배신이 악역의 반복적인 귀환으로 굳어지면 [[되풀이되는 악역의 길]]과 이어진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "동맹을 맺고 신뢰를 얻은 뒤 배신하는 일을 여러 집단에서 반복하는 인물 유형이다. 한 번 편을 바꾸는 사건보다 관계를 새로 만들고 무너뜨리는 지속적인 양상이 중요하다.\n\n상대들은 능력이나 공동의 목표 때문에 과거를 알면서도 인물을 받아들일 수 있다. 관객은 다음 배신의 시점을 예상하게 되고, 잠시 진심을 보일 때도 그 행동의 의미를 의심하게 된다.\n\n[[되풀이되는 악역의 길]]과 겹치더라도 반드시 선과 악 사이만 오갈 필요는 없다. 제목의 병리적인 표현을 실제 진단으로 쓰지 않으며, 배신의 이유가 이익인지 장기 계획인지도 작품에서 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "동맹을 맺고 신뢰를 얻은 뒤 배신하는 일을 여러 집단에서 반복하는 인물 유형이다. 한 번 편을 바꾸는 사건보다 관계를 새로 만들고 무너뜨리는 지속적인 양상이 중요하다.\n\n상대들은 능력이나 공동의 목표 때문에 과거를 알면서도 인물을 받아들일 수 있다. 관객은 다음 배신의 시점을 예상하게 되고, 잠시 진심을 보일 때도 그 행동의 의미를 의심하게 된다.\n\n[[되풀이되는 악역의 길]]과 겹치더라도 반드시 선과 악 사이만 오갈 필요는 없다. 제목의 병리적인 표현을 실제 진단으로 쓰지 않으며, 배신의 이유가 이익인지 장기 계획인지도 작품에서 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

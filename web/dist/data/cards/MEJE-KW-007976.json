@@ -4,8 +4,8 @@
   "title": "운전 배우는 에피소드",
   "original": "\"Driver's Ed\" Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00818",
+  "primary_tag_id": "ML-T00818",
   "description": {
     "definition": "인물이 운전 교육이나 면허 취득을 겪으며 성장의 기대와 실수의 소동을 함께 경험하는 회차다. [[운전면허 시험]]은 운전 교육의 끝에서 인물의 자격을 판정하는 사건이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "07.010.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 운전을 배우는 과정을 중심으로 한 회차다. 이동의 자유에 대한 기대가 조작의 미숙함과 평가받는 긴장에 부딪힌다.\n\n처음 배우는 청소년뿐 아니라 뒤늦게 면허를 준비하는 성인도 주역이 될 수 있다. 가르치는 사람과 배우는 사람의 성격 차이가 연습 과정의 갈등과 유머를 만든다.\n\n반드시 시험에 합격해야만 이야기가 성립하는 것은 아니다. 실수를 인정하고 책임을 배우는 과정이 중심이 될 수 있으며, 실제 면허의 기준과 취득 나이는 지역마다 다른 제도적 조건이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 운전을 배우는 과정을 중심으로 한 회차다. 이동의 자유에 대한 기대가 조작의 미숙함과 평가받는 긴장에 부딪힌다.\n\n처음 배우는 청소년뿐 아니라 뒤늦게 면허를 준비하는 성인도 주역이 될 수 있다. 가르치는 사람과 배우는 사람의 성격 차이가 연습 과정의 갈등과 유머를 만든다.\n\n반드시 시험에 합격해야만 이야기가 성립하는 것은 아니다. 실수를 인정하고 책임을 배우는 과정이 중심이 될 수 있으며, 실제 면허의 기준과 취득 나이는 지역마다 다른 제도적 조건이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

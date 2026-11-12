@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "레드 vs. 블루",
   "original": "Red vs. Blue",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Red vs. Blue"
+  ],
+  "tag_id": "ML-T00100",
   "primary_tag_id": "ML-T00100",
   "description": {
     "definition": "《레드 vs. 블루》는 웹애니메이션 작품이다.",
-    "detail": "작품 사례: 웹 애니메이션 《레드 vs. 블루》는 얼굴을 드러내지 않는 병사들의 말다툼과 재치 있는 대화를 중심으로 인물의 개성을 만든다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.009.002",
     "review_status": "provisional",
@@ -39,9 +41,30 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-015489",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014317",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-025368",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "헤일로의 게임 화면과 컴퓨터 [[애니메이션]]을 활용한 군대 코미디 웹시리즈다. 끝없이 맞서는 두 군사 진지를 중심으로 병사들의 직장 같은 생활과 대화를 희극적으로 구성한다.\n\n간단한 대립과 농담에서 출발한 연작이 더 긴 사건과 자체적인 인물 관계를 형성한다. 게임의 세계와 외형을 사용하더라도 그 게임의 작전 내용을 그대로 재현하는 공식 줄거리와는 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "헤일로의 게임 화면과 컴퓨터 [[애니메이션]]을 활용한 군대 코미디 웹시리즈다. 끝없이 맞서는 두 군사 진지를 중심으로 병사들의 직장 같은 생활과 대화를 희극적으로 구성한다.\n\n간단한 대립과 농담에서 출발한 연작이 더 긴 사건과 자체적인 인물 관계를 형성한다. 게임의 세계와 외형을 사용하더라도 그 게임의 작전 내용을 그대로 재현하는 공식 줄거리와는 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

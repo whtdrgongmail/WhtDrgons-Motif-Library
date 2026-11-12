@@ -4,8 +4,8 @@
   "title": "파이프오르간으로 나타내는 신성함",
   "original": "Holy Pipe Organ",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02059",
+  "primary_tag_id": "ML-T02059",
   "description": {
     "definition": "파이프오르간의 음색을 중심에 두어 장소·인물·사건이 종교적이거나 신성하다는 인상을 주는 음악 연출이다.",
     "detail": "작품 사례: [[Super Mario Odyssey]]의 달 교회 안에서는 경건한 오르간 음악이 흐르다가, 쿠파가 전투를 시작시키면 불길한 음악으로 바뀐다.",
@@ -13,10 +13,10 @@
     "boundary": "오르간 연주가 단순히 등장하는 경우나 악의를 나타내는 음색 사용과 구별하되 두 효과가 함께 쓰일 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.007.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000880",
+      "work_card_id": "MM-MEDIA-001857",
       "description_ko": "Super Mario Odyssey의 달 교회 안에서는 경건한 오르간 음악이 흐르다가, 쿠파가 전투를 시작시키면 불길한 음악으로 바뀐다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "파이프오르간의 음색과 연주를 종교적 공간과 경건함의 약호로 사용하는 음악 표현이다. 장면의 의미는 악기의 존재보다 배치와 음향의 역할에서 정해진다.\n\n오르간을 연주하는 모든 장면과 다르다. 불길함을 나타내는 용법도 가능하며 같은 작품에서 두 의미가 전환되거나 함께 작동할 수 있다.\n\n[[Super Mario Odyssey]]의 달 교회에는 경건한 오르간 음악이 흐른다. 쿠파가 전투를 시작하면 불길한 음악으로 바뀌어 종교 공간의 인상과 위협의 변화가 청각적으로 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "파이프오르간의 음색과 연주를 종교적 공간과 경건함의 약호로 사용하는 음악 표현이다. 장면의 의미는 악기의 존재보다 배치와 음향의 역할에서 정해진다.\n\n오르간을 연주하는 모든 장면과 다르다. 불길함을 나타내는 용법도 가능하며 같은 작품에서 두 의미가 전환되거나 함께 작동할 수 있다."
+      ],
+      [
+        "관련 작품",
+        "[[Super Mario Odyssey]]의 달 교회에는 경건한 오르간 음악이 흐른다. 쿠파가 전투를 시작하면 불길한 음악으로 바뀌어 종교 공간의 인상과 위협의 변화가 청각적으로 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

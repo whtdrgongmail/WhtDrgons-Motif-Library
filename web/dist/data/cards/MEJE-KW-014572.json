@@ -4,8 +4,8 @@
   "title": "만난 적 없는 역사 인물들의 교차 출연",
   "original": "Historical Domain Crossover",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02324",
+  "primary_tag_id": "ML-T02324",
   "description": {
     "definition": "실제로는 서로 만나지 않았던 여러 역사적 인물을 한 이야기의 장면이나 사건에 모아 상호작용하게 하는 구성이다. [[시간 이동]]·복제·소생 등은 서로 다른 시대를 연결하는 설명이 된다.",
     "detail": "작품 사례: [[The Venture Bros.]]의 한 회차에서는 벤처 일행이 칼리굴라, 프로이트, 에드거 앨런 포와 한 팀을 이룬다. 서로 다른 시대의 인물들이 같은 모험에 모인다.",
@@ -13,10 +13,10 @@
     "boundary": "실제로 함께 활동한 인물들의 재현이나 익명의 여러 시대 병사를 모으는 설정과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "28.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "역사적으로 만나지 않았던 유명인들을 같은 장면과 사건에 모으는 구성이다. 시대와 장소의 차이를 넘어선 만남이 새로운 관계를 만든다.\n\n실제로 함께 활동한 인물들의 재현과는 다르다. 여러 시대의 익명 병력을 모은 설정보다 식별 가능한 역사 인물의 교차가 중심이다.\n\n[[The Venture Bros.]]의 한 회차는 벤처 일행을 칼리굴라와 프로이트, 에드거 앨런 포와 같은 팀으로 묶는다. 서로 다른 시기의 인물들이 하나의 모험에 참여한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "역사적으로 만나지 않았던 유명인들을 같은 장면과 사건에 모으는 구성이다. 시대와 장소의 차이를 넘어선 만남이 새로운 관계를 만든다.\n\n실제로 함께 활동한 인물들의 재현과는 다르다. 여러 시대의 익명 병력을 모은 설정보다 식별 가능한 역사 인물의 교차가 중심이다."
+      ],
+      [
+        "관련 작품",
+        "[[The Venture Bros.]]의 한 회차는 벤처 일행을 칼리굴라와 프로이트, 에드거 앨런 포와 같은 팀으로 묶는다. 서로 다른 시기의 인물들이 하나의 모험에 참여한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -6,8 +6,8 @@
   "aliases": [
     "전장에서의 명예로운 죽음"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F18",
+  "tag_id": "ML-T01612",
+  "primary_tag_id": "ML-T01612",
   "description": {
     "definition": "전사가 전투나 승인된 의례 등 자신의 문화가 정한 방식으로 죽는 것을 명예의 보존과 성취로 여기는 [[서사]] 관습이다.",
     "detail": "작품 사례: [[Dengeki Sentai Changeman]]의 부바는 친구를 구하고 악한 상관을 떠난 뒤, 숙적 체인지 드래곤과의 결투를 자신에게 가장 어울리는 최후로 택한다.",
@@ -15,10 +15,10 @@
     "boundary": "죽음을 보편적으로 바람직하다고 평가하는 개념이나 명예와 관계없는 희생과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "18",
+    "code": "18.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽음의 방식이 전사의 명예와 평판, 공동체의 규범에 부합하는 것으로 평가되는 설정이다. 단순한 사망보다 어떤 최후를 선택하느냐가 인물의 역할을 마무리한다.\n\n죽음을 보편적인 이상으로 제시하는 개념이 아니다. 명예와 무관한 희생도 구별되며 특정한 인물과 문화가 부여한 가치의 범위를 밝혀야 한다.\n\n[[Dengeki Sentai Changeman]]의 부바는 친구를 구하고 악한 상관을 떠난다. 숙적 체인지 드래곤과의 결투를 자신에게 맞는 최후로 선택해 마지막 행동과 전사의 자기 평가를 연결한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽음의 방식이 전사의 명예와 평판, 공동체의 규범에 부합하는 것으로 평가되는 설정이다. 단순한 사망보다 어떤 최후를 선택하느냐가 인물의 역할을 마무리한다.\n\n죽음을 보편적인 이상으로 제시하는 개념이 아니다. 명예와 무관한 희생도 구별되며 특정한 인물과 문화가 부여한 가치의 범위를 밝혀야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Dengeki Sentai Changeman]]의 부바는 친구를 구하고 악한 상관을 떠난다. 숙적 체인지 드래곤과의 결투를 자신에게 맞는 최후로 선택해 마지막 행동과 전사의 자기 평가를 연결한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

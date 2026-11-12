@@ -6,8 +6,8 @@
   "aliases": [
     "우연히 나온 야한 말에 낄낄대기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01991",
+  "primary_tag_id": "ML-T01991",
   "description": {
     "definition": "성적 의도 없이 나온 단어나 표현을 다른 인물이 야하게 받아들이며 유치하게 웃는 대화 장면이다.",
     "detail": "작품 사례: [[The Order of the Stick]]의 Belkar는 배를 가리키는 junk라는 말을 성적인 뜻과 겹쳐 받아들이며 키득거린다.",
@@ -15,10 +15,10 @@
     "boundary": "발화자가 의도적으로 중의적 성적 농담을 하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.008.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성적인 의도가 없는 말을 청자가 다른 뜻으로 받아들여 웃는 장면이다. 웃음의 원인은 발신자가 숨겨 둔 농담보다 듣는 쪽의 [[재해석]]에 있으므로, 같은 말에서도 두 사람이 이해하는 내용이 어긋난다.\n\n발화자가 처음부터 중의적인 성적 농담을 한 경우와는 구분된다. 원래 지시 대상이 무엇인지와 청자가 어떤 뜻을 덧붙였는지 함께 제시되어야 한다. 반응이 과장될수록 청자의 관심과 대화의 진지함 사이의 차이가 드러난다.\n\n[[The Order of the Stick]]의 Belkar는 배를 뜻하는 junk라는 단어를 성적인 의미와 겹쳐 듣고 키득거린다. 배에 관한 말이 청자의 해석 때문에 음담처럼 바뀌는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성적인 의도가 없는 말을 청자가 다른 뜻으로 받아들여 웃는 장면이다. 웃음의 원인은 발신자가 숨겨 둔 농담보다 듣는 쪽의 [[재해석]]에 있으므로, 같은 말에서도 두 사람이 이해하는 내용이 어긋난다.\n\n발화자가 처음부터 중의적인 성적 농담을 한 경우와는 구분된다. 원래 지시 대상이 무엇인지와 청자가 어떤 뜻을 덧붙였는지 함께 제시되어야 한다. 반응이 과장될수록 청자의 관심과 대화의 진지함 사이의 차이가 드러난다."
+      ],
+      [
+        "관련 작품",
+        "[[The Order of the Stick]]의 Belkar는 배를 뜻하는 junk라는 단어를 성적인 의미와 겹쳐 듣고 키득거린다. 배에 관한 말이 청자의 해석 때문에 음담처럼 바뀌는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

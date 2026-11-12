@@ -4,8 +4,8 @@
   "title": "취미 제작자의 콘솔용 새 게임",
   "original": "Homebrew Video Games",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "기성 게임 회사의 공식 제작 체계 밖에서 취미 제작자나 독립 개발자가 특정 게임기에서 실행되도록 새로 만든 게임을 가리키는 제작 범주다.",
     "detail": "작품 사례: [[Yeah Yeah Beebiss II]]는 실체가 불분명한 옛 NES 게임의 팬 속편으로 제작되어, 2022년 NES와 드림캐스트용으로 나온다.",
@@ -13,10 +13,10 @@
     "boundary": "기존 게임의 수정판이나 최신 기기에서 옛 그래픽만 흉내 낸 작품과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기존 콘솔의 하드웨어에서 실행하도록 독립적으로 새 게임을 제작하는 활동이다. 오래된 기기의 기술과 배포 환경이 현재의 창작 대상으로 사용된다.\n\n기존 게임의 수정판과는 다르다. 최신 기기에서 옛 그래픽만 흉내 내는 작품도 아니며 실제 목표 하드웨어와 새 콘텐츠라는 조건이 필요하다.\n\n[[Yeah Yeah Beebiss II]]는 실체가 불확실한 옛 NES 게임에 대한 팬 속편으로 만들어졌다. 2022년 NES와 드림캐스트용으로 나와 기존 하드웨어를 새 창작의 대상으로 삼는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기존 콘솔의 하드웨어에서 실행하도록 독립적으로 새 게임을 제작하는 활동이다. 오래된 기기의 기술과 배포 환경이 현재의 창작 대상으로 사용된다.\n\n기존 게임의 수정판과는 다르다. 최신 기기에서 옛 그래픽만 흉내 내는 작품도 아니며 실제 목표 하드웨어와 새 콘텐츠라는 조건이 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Yeah Yeah Beebiss II]]는 실체가 불확실한 옛 NES 게임에 대한 팬 속편으로 만들어졌다. 2022년 NES와 드림캐스트용으로 나와 기존 하드웨어를 새 창작의 대상으로 삼는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

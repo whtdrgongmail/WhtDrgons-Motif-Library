@@ -4,8 +4,8 @@
   "title": "정신적 동요를 외모 변화로 보여 주기",
   "original": "Madness Makeover",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01854",
+  "primary_tag_id": "ML-T01854",
   "description": {
     "definition": "인물의 마음이 불안정해지는 과정과 함께 머리·눈·옷·자세 등 외형이 점차 달라지는 연출이다.",
     "detail": "작품 사례: 《[[마다가스카]]》에서 알렉스는 굶주림으로 행동이 달라지면서 갈기가 헝클어지고 눈빛과 발톱을 드러내는 태도도 변한다. 몸단장의 변화를 내적 통제의 변화와 함께 보여 준다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 옷차림이나 위생 상태로 정신질환을 판단하지 않는다. 흐트러짐뿐 아니라 지나친 단정함도 작품의 변형이 될 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.002.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "내적 상태의 변화가 옷과 머리, 자세와 눈의 표현에 점차 반영된다. 관객은 대사로 설명받기 전에 평소의 외형과 다른 점을 발견한다.\n\n처음의 작은 변화가 쌓이면 이전의 자기관리와 사회적 역할이 흔들린 인상을 준다. 실제 외모의 변화가 특정 질환을 입증한다는 뜻은 아니며 작품이 설정한 감정과 디자인의 대응에 한정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "내적 상태의 변화가 옷과 머리, 자세와 눈의 표현에 점차 반영된다. 관객은 대사로 설명받기 전에 평소의 외형과 다른 점을 발견한다.\n\n처음의 작은 변화가 쌓이면 이전의 자기관리와 사회적 역할이 흔들린 인상을 준다. 실제 외모의 변화가 특정 질환을 입증한다는 뜻은 아니며 작품이 설정한 감정과 디자인의 대응에 한정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

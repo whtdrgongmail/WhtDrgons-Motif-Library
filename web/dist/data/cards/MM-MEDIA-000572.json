@@ -4,17 +4,17 @@
   "title": "Maid RPG",
   "original": "Maid RPG",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
     "definition": "이 카드는 테이블톱 게임 《Maid RPG》를 가리킨다. 이 라이브러리에서는 [[첫 주사위 능력치를 그대로 쓰는 캐릭터]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Maid RPG의 기본 캐릭터 생성은 능력치와 성격, 기술, 외모를 모두 무작위로 정해 주변 상황과 어울리지 않는 인물도 나오게 한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Maid RPG》는 가미야 료가 만든 탁상 역할 수행 게임이다. 플레이어는 메이드가 되고 진행자는 주인 역할의 인물을 맡으며 저택이 사건의 중심 공간이 된다.\n\n이름과 나이를 정한 뒤 나머지 많은 특징을 주사위로 생성한다. 예상치 못한 조합이 우스운 인물과 상황을 만들며, 허락을 받아 다시 굴리거나 표에서 고르는 선택도 가능하다.\n\n저택과 주인, 메이드의 관계를 유지한다면 판타지와 현대, 우주 등 배경은 다양해질 수 있다. 짧은 기본 규칙에 확장 규칙이 더해졌고 영어판은 여러 내용을 합친 판본이므로 구성이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Maid RPG》는 가미야 료가 만든 탁상 역할 수행 게임이다. 플레이어는 메이드가 되고 진행자는 주인 역할의 인물을 맡으며 저택이 사건의 중심 공간이 된다.\n\n이름과 나이를 정한 뒤 나머지 많은 특징을 주사위로 생성한다. 예상치 못한 조합이 우스운 인물과 상황을 만들며, 허락을 받아 다시 굴리거나 표에서 고르는 선택도 가능하다.\n\n저택과 주인, 메이드의 관계를 유지한다면 판타지와 현대, 우주 등 배경은 다양해질 수 있다. 짧은 기본 규칙에 확장 규칙이 더해졌고 영어판은 여러 내용을 합친 판본이므로 구성이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

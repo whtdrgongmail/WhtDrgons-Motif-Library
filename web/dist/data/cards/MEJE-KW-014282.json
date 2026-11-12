@@ -4,8 +4,8 @@
   "title": "생계를 해결하지 못하는 영웅 활동",
   "original": "Heroism Won't Pay the Bills",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00825",
+  "primary_tag_id": "ML-T00825",
   "description": {
     "definition": "영웅 활동에 쓰는 시간과 능력이 생활비나 직업 경력으로 이어지지 않아 생계와 사명 사이의 충돌이 생기는 설정이다.",
     "detail": "작품 사례: [[Dragonheart]]에서 보웬은 용을 잡아 생계를 이어 간다. 길버트가 이를 문제 삼자 명예와 용기만으로는 식비나 말의 편자 값을 낼 수 없다고 답하지만, 펠턴은 그 말마저 보수 지급을 피하는 구실로 삼는다.",
@@ -13,10 +13,10 @@
     "boundary": "부유한 영웅이 잠깐 돈이 부족한 상황과 달리 활동 구조의 경제적 불일치가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영웅 활동이 식비와 이동비 같은 생활의 필요를 충분히 충족하지 못하는 경제적 불일치다. 명예와 용기의 가치가 실제 비용을 지불하는 수단과 어긋난다.\n\n부유한 영웅이 잠깐 현금이 없는 경우와는 다르다. 시간 사용과 보상 방식이 지속적인 생계 문제를 만든다는 구조가 중요하다.\n\n[[Dragonheart]]의 보웬은 용을 잡아 생활하며 명예만으로 식비와 말의 편자 값을 낼 수 없다고 말한다. 펠턴은 그 말마저 보수를 피할 구실로 사용해 영웅적 가치와 지급의 문제를 대비시킨다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영웅 활동이 식비와 이동비 같은 생활의 필요를 충분히 충족하지 못하는 경제적 불일치다. 명예와 용기의 가치가 실제 비용을 지불하는 수단과 어긋난다.\n\n부유한 영웅이 잠깐 현금이 없는 경우와는 다르다. 시간 사용과 보상 방식이 지속적인 생계 문제를 만든다는 구조가 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Dragonheart]]의 보웬은 용을 잡아 생활하며 명예만으로 식비와 말의 편자 값을 낼 수 없다고 말한다. 펠턴은 그 말마저 보수를 피할 구실로 사용해 영웅적 가치와 지급의 문제를 대비시킨다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

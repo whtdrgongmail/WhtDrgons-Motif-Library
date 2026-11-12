@@ -4,8 +4,8 @@
   "title": "급히 도로에 나갔다 갑자기 차량에 치이기",
   "original": "Look Both Ways",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00800",
+  "primary_tag_id": "ML-T00800",
   "description": {
     "definition": "추격·말다툼·산만함 때문에 주변 차량을 확인하지 않고 도로에 들어선 인물이 화면 옆에서 갑자기 온 차량에 치이는 장면이다.",
     "detail": "작품 사례: 《[[캡틴 츠바사]]》의 카렌은 레빈의 경기에 서둘러 가다가 도로를 부주의하게 건너 트럭에 치이는 비극을 겪는다.",
@@ -13,10 +13,10 @@
     "boundary": "의도적인 차량 공격이나 달리는 차 안의 사고와 구별한다. 현실 사고의 원인과 운전자 책임을 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주변을 보지 않고 도로로 들어간 인물이 갑작스러운 차량에 치인다. 대화와 추격의 흐름을 예고 적은 충돌이 끊는다.\n\n화면 밖에서 들어오는 위험이 놀라움을 만든다. 허구의 편집 관습이며 실제 사고의 원인을 하나로 일반화하는 설명은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주변을 보지 않고 도로로 들어간 인물이 갑작스러운 차량에 치인다. 대화와 추격의 흐름을 예고 적은 충돌이 끊는다.\n\n화면 밖에서 들어오는 위험이 놀라움을 만든다. 허구의 편집 관습이며 실제 사고의 원인을 하나로 일반화하는 설명은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "상대와 눈높이를 맞추는 몸짓",
   "original": "Meeting at Eye Level",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01860",
+  "primary_tag_id": "ML-T01860",
   "description": {
     "definition": "몸을 낮추거나 올려 상대와 같은 높이에서 눈을 마주치며 관계의 힘과 감정을 표현하는 행동이다.",
     "detail": "위협자는 몸을 낮추어 거짓 친절이나 위압을 보일 수 있고, 키 차이를 메우려는 과장된 노력은 웃음을 만들 수 있다. 부모·친구·영웅의 존중, 연인의 친밀감, 업무상 평등한 자세도 같은 몸짓의 다른 맥락이다.\n\n작품 사례: 《[[파이널 판타지 VII 어드벤트 칠드런]]》에서 티파는 마린과 이야기할 때 웅크려 앉아 아이와 눈높이를 맞춘다.",
@@ -13,30 +13,47 @@
     "boundary": "다정함만을 뜻하지 않으며 위협·조롱·친밀감·평등의 연출도 가능하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.003.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "키와 자세의 차이를 일부러 줄여 같은 높이에서 마주 본다.\n\n작품 사례: 《[[파이널 판타지 VII 어드벤트 칠드런]]》에서 티파는 마린과 이야기할 때 웅크려 앉아 아이와 눈높이를 맞춘다.",
+    "easy_ko": "키와 자세의 차이를 일부러 줄여 같은 높이에서 마주 본다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001399",
+      "work_card_id": "MM-MEDIA-002806",
       "description_ko": "《파이널 판타지 VII 어드벤트 칠드런》에서 티파는 마린과 이야기할 때 웅크려 앉아 아이와 눈높이를 맞춘다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "높이가 다른 두 인물이 자세를 바꾸어 시선을 직접 마주하는 순간을 만든다. 큰 쪽이 웅크리거나 앉는 방식뿐 아니라 작은 쪽을 들어 올리거나 발판을 쓰는 방식도 가능하다. 수직적인 거리의 조절은 말의 내용과 별도로 관계를 표현한다.\n\n몸을 낮추는 행동이 언제나 존중을 뜻하지는 않는다. 상대의 불안을 덜어 주는 배려가 될 수도 있지만 위협자가 거짓 친절을 보이거나 위압을 강조하는 수단도 된다. 친밀감과 조롱, 평등 중 무엇을 뜻하는지는 표정과 대화의 맥락으로 구별한다.\n\n《[[파이널 판타지 VII 어드벤트 칠드런]]》에서 티파는 에어리스의 교회에서 클라우드에 관해 마린과 이야기할 때 웅크려 앉는다. 아이와 시선의 높이를 맞추는 자세가 대화에 동반된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "높이가 다른 두 인물이 자세를 바꾸어 시선을 직접 마주하는 순간을 만든다. 큰 쪽이 웅크리거나 앉는 방식뿐 아니라 작은 쪽을 들어 올리거나 발판을 쓰는 방식도 가능하다. 수직적인 거리의 조절은 말의 내용과 별도로 관계를 표현한다.\n\n몸을 낮추는 행동이 언제나 존중을 뜻하지는 않는다. 상대의 불안을 덜어 주는 배려가 될 수도 있지만 위협자가 거짓 친절을 보이거나 위압을 강조하는 수단도 된다. 친밀감과 조롱, 평등 중 무엇을 뜻하는지는 표정과 대화의 맥락으로 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[파이널 판타지 VII 어드벤트 칠드런]]》에서 티파는 에어리스의 교회에서 클라우드에 관해 마린과 이야기할 때 웅크려 앉는다. 아이와 시선의 높이를 맞추는 자세가 대화에 동반된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "자동 회복 체력",
   "original": "Regenerating Health",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02098",
+  "primary_tag_id": "ML-T02098",
   "description": {
     "definition": "게임에서 별도 회복 물품이나 명시적인 극중 [[재생 능력]] 없이 시간이 지나거나 비전투 상태가 되어 체력이 차오르는 기제이다.",
     "detail": "작품 사례: [[Halo: Combat Evolved]]는 저절로 돌아오는 보호막과 회복 아이템이 필요한 체력을 따로 두어, 시간이 지나면 복구되는 방어 수치를 구별한다.",
@@ -13,10 +13,10 @@
     "boundary": "세계관 속 초능력으로 설명되는 자기 재생과 기제의 층위를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "회복 물품을 사용하지 않아도 시간이나 전투 상태의 변화에 따라 방어 자원이 되돌아온다. 체력 관리에는 기다리거나 교전을 멈추는 행동이 포함된다.\n\n어떤 수치가 복구되는지 구별하면 전체 체력과 보호막의 차이를 설명할 수 있다. 자동으로 돌아오는 부분과 외부 보급이 필요한 부분은 다른 자원이다.\n\n이 규칙을 인물의 초능력으로 설정된 재생과 혼동하지 않는다. 게임상의 회복 절차와 세계 안에서 그 원인을 설명하는 능력은 별도로 확인해야 한다.\n\n[[Halo: Combat Evolved]]는 자동 복구 보호막과 회복 아이템이 필요한 체력을 따로 둔다.\n\n[[Halo: Combat Evolved]]",
+    "sections": [
+      [
+        "상세 설명",
+        "회복 물품을 사용하지 않아도 시간이나 전투 상태의 변화에 따라 방어 자원이 되돌아온다. 체력 관리에는 기다리거나 교전을 멈추는 행동이 포함된다.\n\n어떤 수치가 복구되는지 구별하면 전체 체력과 보호막의 차이를 설명할 수 있다. 자동으로 돌아오는 부분과 외부 보급이 필요한 부분은 다른 자원이다.\n\n이 규칙을 인물의 초능력으로 설정된 재생과 혼동하지 않는다. 게임상의 회복 절차와 세계 안에서 그 원인을 설명하는 능력은 별도로 확인해야 한다."
+      ],
+      [
+        "사례",
+        "[[Halo: Combat Evolved]]는 자동 복구 보호막과 회복 아이템이 필요한 체력을 따로 둔다."
+      ],
+      [
+        "관련 작품",
+        "[[Halo: Combat Evolved]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

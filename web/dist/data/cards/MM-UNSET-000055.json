@@ -4,22 +4,48 @@
   "title": "생명력을 대가로 쓰는 마법",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01231",
+  "primary_tag_id": "ML-T01231",
   "description": {
-    "definition": "",
+    "definition": "주문이나 능력의 비용으로 시전자의 생명력·건강·수명 등을 소모하는 [[마법]] 설정이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "13.009.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "마법을 쓸 때 돈이나 도구 대신 자신의 몸과 남은 생명을 대가로 치르는 방식이다. 강한 주문일수록 더 큰 손실을 감수해야 하는 식으로 선택의 무게를 만들 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비용의 형태는 피로·상처·노화·수명 감소 등으로 나뉜다. 작품은 소모량과 회복 가능성을 정해야 한다. 비용을 언제 치르는지에 따라 같은 주문도 즉각적인 위험이나 장기적인 대가가 된다.\n\n[[마법적 존재]]의 생존에 필요한 힘이 저절로 줄어드는 설정과는 출발점이 다르다. 이 개념은 마법을 사용하기로 선택했을 때 생명력이 비용으로 지불되는 규칙에 초점을 둔다.\n\n치유 주문을 쓸 때마다 시전자의 수명이 짧아진다면, 타인을 구하는 행동과 자신의 생존 사이에 비용의 선택이 생긴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "비용의 형태는 피로·상처·노화·수명 감소 등으로 나뉜다. 작품은 소모량과 회복 가능성을 정해야 한다. 비용을 언제 치르는지에 따라 같은 주문도 즉각적인 위험이나 장기적인 대가가 된다.\n\n[[마법적 존재]]의 생존에 필요한 힘이 저절로 줄어드는 설정과는 출발점이 다르다. 이 개념은 마법을 사용하기로 선택했을 때 생명력이 비용으로 지불되는 규칙에 초점을 둔다."
+      ],
+      [
+        "사례",
+        "치유 주문을 쓸 때마다 시전자의 수명이 짧아진다면, 타인을 구하는 행동과 자신의 생존 사이에 비용의 선택이 생긴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

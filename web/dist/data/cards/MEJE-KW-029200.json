@@ -4,8 +4,8 @@
   "title": "탑승자에게 반항하는 생물 탈것",
   "original": "Moody Mount",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02539",
+  "primary_tag_id": "ML-T02539",
   "description": {
     "definition": "기수가 올라타는 생물이 자신의 의지와 기분 때문에 안장·명령·탑승을 거부하거나 기수를 떨어뜨리려 하는 관계 설정이다.",
     "detail": "작품 사례: 《[[반지의 제왕(소설)]]》의 섀도팩스는 간달프를 받아들인 뒤 다른 사람이 타거나 안장을 얹는 것을 거부한다. 생물 탈것이 기수를 선택하는 의지를 드러낸다.",
@@ -13,14 +13,20 @@
     "boundary": "말에만 한정하지 않고 용·공룡 등 생물 탈것에도 적용한다. 동물의 실제 훈련법은 다루지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.003.008",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "타는 사람이 원한다고 순순히 움직여 주지 않는 살아 있는 탈것이다.",
     "review_status": "reviewed",
@@ -38,5 +44,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "탈것이 단순한 기계처럼 명령을 따르지 않고 자신의 의지로 움직인다. 탑승을 거부하거나 기수를 떨어뜨리는 행동은 이동 능력을 얻는 일 자체를 갈등으로 만든다.\n\n다루기 어려운 생물과 특정 인물만 잘 소통하면 관계의 특별함이 드러난다. 주변의 경고를 무시한 기수가 실패하는 장면은 경험과 과신의 차이를 보여 줄 수 있다.\n\n기계 고장으로 조작이 안 되는 상황과는 원인이 다르다. 동물의 감정과 성향이 저항의 근거가 되어야 하며 단순히 거친 길에서 균형을 잃는 사고와도 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "탈것이 단순한 기계처럼 명령을 따르지 않고 자신의 의지로 움직인다. 탑승을 거부하거나 기수를 떨어뜨리는 행동은 이동 능력을 얻는 일 자체를 갈등으로 만든다.\n\n다루기 어려운 생물과 특정 인물만 잘 소통하면 관계의 특별함이 드러난다. 주변의 경고를 무시한 기수가 실패하는 장면은 경험과 과신의 차이를 보여 줄 수 있다.\n\n기계 고장으로 조작이 안 되는 상황과는 원인이 다르다. 동물의 감정과 성향이 저항의 근거가 되어야 하며 단순히 거친 길에서 균형을 잃는 사고와도 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "도입의 일상에 숨긴 본편의 축소판",
   "original": "Hidden First Act Parallel",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00708",
+  "primary_tag_id": "ML-T00708",
   "description": {
     "definition": "작품 초반의 평범한 활동이나 짧은 상황이 뒤에 전개될 주요 사건의 구조와 주제를 작게 되풀이하도록 배치하는 [[복선]]이다. 처음에는 무관해 보이지만 이후 의미 있는 평행 관계가 드러난다.",
     "detail": "작품 사례: [[Teenage Mutant Ninja Turtles (2012)]]에서 거북이들이 먼저 보는 만화의 전개가 그 회차의 실제 사건과 비슷하게 흘러, 일상의 관람 장면이 본편을 작게 되비춘다.",
@@ -13,10 +13,10 @@
     "boundary": "나중에 사용할 물건을 보여 주는 일반적인 준비나 본편과 무관한 행동 도입과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,12 +38,29 @@
     },
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-003088",
+      "work_card_id": "MM-MEDIA-001894",
       "description_ko": "《미녀와 야수》에서 벨은 초반에 읽는 책의 여주인공이 왕자를 만나고도 뒤늦게 정체를 안다는 대목을 좋아한다. 이후 벨과 야수의 관계도 그 작은 이야기의 구조를 반복한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "초반의 일상적인 놀이와 관람이 본편의 사건을 작게 재현하는 구성이다. 사소해 보였던 도입과 큰 사건 사이에 구체적인 구조적 대응이 생긴다.\n\n나중에 사용할 물건을 미리 보여 주는 준비와는 다르다. 본편과 무관한 짧은 행동 도입도 제외되며 사건과 주제의 닮은 관계가 필요하다.\n\n[[Teenage Mutant Ninja Turtles (2012)]]에서 거북이들이 먼저 보는 만화는 그 회차의 사건과 비슷한 흐름을 갖는다. 일상의 관람 장면이 뒤의 실제 사건을 축소해서 되비추는 역할을 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "초반의 일상적인 놀이와 관람이 본편의 사건을 작게 재현하는 구성이다. 사소해 보였던 도입과 큰 사건 사이에 구체적인 구조적 대응이 생긴다.\n\n나중에 사용할 물건을 미리 보여 주는 준비와는 다르다. 본편과 무관한 짧은 행동 도입도 제외되며 사건과 주제의 닮은 관계가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Teenage Mutant Ninja Turtles (2012)]]에서 거북이들이 먼저 보는 만화는 그 회차의 사건과 비슷한 흐름을 갖는다. 일상의 관람 장면이 뒤의 실제 사건을 축소해서 되비추는 역할을 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

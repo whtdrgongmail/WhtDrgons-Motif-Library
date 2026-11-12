@@ -4,8 +4,8 @@
   "title": "하드코어 힙합",
   "original": "Hardcore Hip-Hop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-013617",
+  "primary_tag_id": "MEJE-KW-013617",
   "description": {
     "definition": "공격적인 전달과 대결적인 가사, 언어 기술의 과시를 중심으로 구성되는 힙합 하위 양식이다.",
     "detail": "작품 사례: [[Suprême NTM]]에서는 조이스타의 거칠고 갈라지는 목소리가 가사의 대결적인 인상과 결합해, 힙합의 공격적인 전달을 강화한다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.303.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -34,15 +37,20 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [
-    {
-      "media_tag_id": "ML-T00139",
-      "work_card_id": "MM-MEDIA-000889",
-      "description_ko": "Suprême NTM에서는 조이스타의 거칠고 갈라지는 목소리가 가사의 대결적인 인상과 결합해, 힙합의 공격적인 전달을 강화한다.",
-      "spoiler_level": "unreviewed",
-      "row_version": 1
-    }
-  ],
+  "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공격적인 전달과 대결적인 가사에 언어 기술을 집중하는 힙합 양식이다. 상대를 향한 모욕도 표현을 얼마나 독창적으로 구성했는지의 과시가 된다.\n\n리듬과 음성의 거친 인상에 어두운 샘플과 녹음 질감이 더해질 수 있다. 폭력적인 표현도 실제 행동의 예고라기보다 경쟁자를 제압한다는 비유로 쓰이는 경우가 있다.\n\n갱스터와 공포의 주제와 겹쳐도 그 둘에만 한정되지 않는다. 가사의 화자와 실제 음악가의 행동, 수사적인 경쟁을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공격적인 전달과 대결적인 가사에 언어 기술을 집중하는 힙합 양식이다. 상대를 향한 모욕도 표현을 얼마나 독창적으로 구성했는지의 과시가 된다.\n\n리듬과 음성의 거친 인상에 어두운 샘플과 녹음 질감이 더해질 수 있다. 폭력적인 표현도 실제 행동의 예고라기보다 경쟁자를 제압한다는 비유로 쓰이는 경우가 있다.\n\n갱스터와 공포의 주제와 겹쳐도 그 둘에만 한정되지 않는다. 가사의 화자와 실제 음악가의 행동, 수사적인 경쟁을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

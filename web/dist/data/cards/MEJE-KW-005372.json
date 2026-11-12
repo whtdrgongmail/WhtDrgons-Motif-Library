@@ -4,8 +4,8 @@
   "title": "움직이는 차 안의 싸움",
   "original": "Combat in a Car",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00778",
+  "primary_tag_id": "ML-T00778",
   "description": {
     "definition": "좁은 차량 안에서 인물들이 부딪치며 이동과 충돌의 위험을 함께 겪는다. 통제하기 어려운 공간이 싸움의 긴장을 높인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "좁은 자동차 내부에서 벌어지는 싸움이다. 좌석과 안전벨트, 창문과 조작 장치가 움직임을 제한하며 차량이 달리고 있다면 충돌 위험까지 더해진다.\n\n인물은 상대의 공격과 차량의 통제를 동시에 신경 써야 한다. 운전자가 방해받거나 조작 장치가 눌리면 차의 움직임 자체가 싸움의 조건을 바꾼다.\n\n탁 트인 공간의 결투와 달리 자세를 크게 바꾸기 어렵고 가까운 물건이 즉석 도구가 된다. 싸움을 시작할 계획이 없었던 인물들이 부적절한 장소에서 충돌한다는 사정이 긴장과 소동을 동시에 만들 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "좁은 자동차 내부에서 벌어지는 싸움이다. 좌석과 안전벨트, 창문과 조작 장치가 움직임을 제한하며 차량이 달리고 있다면 충돌 위험까지 더해진다.\n\n인물은 상대의 공격과 차량의 통제를 동시에 신경 써야 한다. 운전자가 방해받거나 조작 장치가 눌리면 차의 움직임 자체가 싸움의 조건을 바꾼다.\n\n탁 트인 공간의 결투와 달리 자세를 크게 바꾸기 어렵고 가까운 물건이 즉석 도구가 된다. 싸움을 시작할 계획이 없었던 인물들이 부적절한 장소에서 충돌한다는 사정이 긴장과 소동을 동시에 만들 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

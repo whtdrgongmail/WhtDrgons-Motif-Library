@@ -4,8 +4,8 @@
   "title": "딸깍 소리로 드러나는 지뢰의 위협",
   "original": "Land Mine Goes Click",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02009",
+  "primary_tag_id": "ML-T02009",
   "description": {
     "definition": "인물이 지뢰를 밟거나 위험한 장치를 건드린 순간 들리는 클릭음이 치명적인 위험을 알아차리는 신호가 되는 연출이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 폭발 장치의 작동 원리를 설명하지 않으며 관객과 인물에게 위험을 알리는 소리의 역할을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "조용한 딸깍 소리가 난 직후 인물이 움직임을 멈추면 관객은 아직 폭발하지 않은 지뢰의 위협을 알아차린다. 작은 소리와 예상되는 큰 피해의 대비가 긴장을 만들고, 다음 움직임을 결정해야 하는 시간이 장면의 중심이 된다. 실제 장치의 일반적인 작동 원리를 가르치는 설명이 아니라 위험을 미리 들려주는 허구의 연출 관습이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조용한 딸깍 소리가 난 직후 인물이 움직임을 멈추면 관객은 아직 폭발하지 않은 지뢰의 위협을 알아차린다. 작은 소리와 예상되는 큰 피해의 대비가 긴장을 만들고, 다음 움직임을 결정해야 하는 시간이 장면의 중심이 된다. 실제 장치의 일반적인 작동 원리를 가르치는 설명이 아니라 위험을 미리 들려주는 허구의 연출 관습이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

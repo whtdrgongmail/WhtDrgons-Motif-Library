@@ -4,8 +4,8 @@
   "title": "동아시아식 역할수행 게임",
   "original": "Eastern RPG",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008247",
+  "primary_tag_id": "MEJE-KW-008247",
   "description": {
     "definition": "일본식 역할수행 게임에서 발전한 관습을 공유하는 동아시아권 게임 갈래다. 제작 국가만으로 장르를 단정하지 않고 [[서사]]·진행·전투 설계를 함께 본다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.204.008",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일본 [[역할수행 게임]]의 관습을 중심으로 동아시아적 제작 전통과 미학을 공유하는 게임 범주다. 제작 국가 하나보다 이야기와 인물 표현, 성장과 전투를 결합하는 방식에 주목한다. 서구권 역할수행 게임과 비교할 때 차이가 드러나지만 경계는 고정적이지 않다.\n\n미리 구성된 인물 관계와 연속적인 줄거리, 만화와 애니메이션을 연상시키는 미술이 자주 결합한다. 플레이어는 자유로운 자기표현뿐 아니라 작가가 설계한 인물의 감정을 따라가는 경험을 얻는다. 다만 개방형 탐험과 선택을 크게 허용하는 작품도 존재한다.\n\n기기와 지역 이름만으로 형식을 확정하면 예외를 놓치기 쉽다. 콘솔과 휴대용 기기에 집중되었던 배급 경향도 장르의 필수 규칙은 아니다. 개별 게임이 어떤 관습을 채택하고 변형하는지 살펴보는 것이 단순한 동서 구분보다 정확하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일본 [[역할수행 게임]]의 관습을 중심으로 동아시아적 제작 전통과 미학을 공유하는 게임 범주다. 제작 국가 하나보다 이야기와 인물 표현, 성장과 전투를 결합하는 방식에 주목한다. 서구권 역할수행 게임과 비교할 때 차이가 드러나지만 경계는 고정적이지 않다.\n\n미리 구성된 인물 관계와 연속적인 줄거리, 만화와 애니메이션을 연상시키는 미술이 자주 결합한다. 플레이어는 자유로운 자기표현뿐 아니라 작가가 설계한 인물의 감정을 따라가는 경험을 얻는다. 다만 개방형 탐험과 선택을 크게 허용하는 작품도 존재한다.\n\n기기와 지역 이름만으로 형식을 확정하면 예외를 놓치기 쉽다. 콘솔과 휴대용 기기에 집중되었던 배급 경향도 장르의 필수 규칙은 아니다. 개별 게임이 어떤 관습을 채택하고 변형하는지 살펴보는 것이 단순한 동서 구분보다 정확하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

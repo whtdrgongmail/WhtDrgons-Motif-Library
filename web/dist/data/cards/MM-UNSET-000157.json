@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000157",
   "kind": "keyword",
   "title": "미스터리",
-  "original": "",
+  "original": "mystery",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "",
+    "definition": "미스터리는 사건의 원인, 정체, 과정 또는 핵심 정보가 드러나지 않아 조사와 해석을 요구하는 문제나 상태다. 서사에서는 단서와 상충하는 설명을 통해 독자가 숨겨진 사실을 추론하게 하는 구성 요소를 뜻하며, 이를 중심으로 삼는 장르인 미스터리물과도 연관된다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "아직 밝혀지지 않은 사건이나 사실로, 단서를 모아 답을 찾아야 하는 문제다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미스터리는 단순히 정보를 적게 주는 방식과 다르다. 무엇이 감춰져 있는지, 어떤 증거로 판단할 수 있는지, 새 정보가 기존 설명을 어떻게 바꾸는지가 구성되어야 독자와 인물이 해석할 만한 질문이 생긴다. 답을 알아낸 뒤에도 그 정보를 어떻게 사용할지, 누구를 믿을지 같은 선택이 남을 수 있다.\n\n거짓 소문이나 서로 충돌하는 증언은 조사자들의 판단을 갈라 실제 비밀을 가릴 수 있고, 여러 인물의 능력이나 과거가 하나의 공통 원인으로 이어지면 개별 의문이 더 큰 배후를 찾는 문제로 확장된다. 이 말은 감춰진 질문 자체와 그것을 중심으로 한 [[미스터리 장르]]를 모두 가리킬 수 있으므로, 문맥에 따라 구분한다. 모든 설명되지 않은 요소가 의도된 미스터리인 것은 아니며, 작품 안에서 추적하거나 해석할 수 있는 질문으로 기능하는지가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미스터리는 단순히 정보를 적게 주는 방식과 다르다. 무엇이 감춰져 있는지, 어떤 증거로 판단할 수 있는지, 새 정보가 기존 설명을 어떻게 바꾸는지가 구성되어야 독자와 인물이 해석할 만한 질문이 생긴다. 답을 알아낸 뒤에도 그 정보를 어떻게 사용할지, 누구를 믿을지 같은 선택이 남을 수 있다.\n\n거짓 소문이나 서로 충돌하는 증언은 조사자들의 판단을 갈라 실제 비밀을 가릴 수 있고, 여러 인물의 능력이나 과거가 하나의 공통 원인으로 이어지면 개별 의문이 더 큰 배후를 찾는 문제로 확장된다. 이 말은 감춰진 질문 자체와 그것을 중심으로 한 [[미스터리 장르]]를 모두 가리킬 수 있으므로, 문맥에 따라 구분한다. 모든 설명되지 않은 요소가 의도된 미스터리인 것은 아니며, 작품 안에서 추적하거나 해석할 수 있는 질문으로 기능하는지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

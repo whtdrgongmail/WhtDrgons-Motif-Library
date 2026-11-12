@@ -4,8 +4,8 @@
   "title": "상품에 숨겨 보내는 구조 요청",
   "original": "\"Help! Help! Trapped in Title Factory!\"",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00776",
+  "primary_tag_id": "ML-T00776",
   "description": {
     "definition": "생산 시설에 갇히거나 강제로 일하는 사람이 밖으로 유통되는 물건에 도움 요청을 넣어 외부와 연락하는 장면이다.",
     "detail": "작품 사례: [[Starbound]]의 Apex 인물은 공장에서 대량 생산한 의자를 살펴보며, 예전에 같은 의자 틀에서 도와 달라는 글귀를 발견했다고 말한다.",
@@ -13,10 +13,10 @@
     "boundary": "일반 편지를 몰래 보내는 것과 달리 상품 유통 경로가 통신 수단이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "감금된 사람이 생산품을 밖으로 내보낼 수 있다면 상품의 이동 경로가 제한된 통신을 대신할 수 있다. 구조 요청은 누군가 물건을 자세히 보고 의미를 알아차릴 가능성에 의존한다.\n\n몰래 보내는 일반 편지와 달리 연락 수단은 원래의 상품 유통이다. 생산 시설의 고립과 외부 소비자의 접점이 같은 물건 안에 생겨야 장치의 의미가 분명해진다.\n\n[[Starbound]]의 Apex 인물은 공장에서 대량 생산한 의자를 조사하며 같은 틀의 의자에서 도움 요청 글귀를 본 적이 있다고 말한다. 일상적인 상품이 갇힌 노동자의 메시지를 전달한 흔적으로 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "감금된 사람이 생산품을 밖으로 내보낼 수 있다면 상품의 이동 경로가 제한된 통신을 대신할 수 있다. 구조 요청은 누군가 물건을 자세히 보고 의미를 알아차릴 가능성에 의존한다.\n\n몰래 보내는 일반 편지와 달리 연락 수단은 원래의 상품 유통이다. 생산 시설의 고립과 외부 소비자의 접점이 같은 물건 안에 생겨야 장치의 의미가 분명해진다."
+      ],
+      [
+        "관련 작품",
+        "[[Starbound]]의 Apex 인물은 공장에서 대량 생산한 의자를 조사하며 같은 틀의 의자에서 도움 요청 글귀를 본 적이 있다고 말한다. 일상적인 상품이 갇힌 노동자의 메시지를 전달한 흔적으로 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "모든 임무를 해내는 병사",
   "original": "Do-Anything Soldier",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00917",
+  "primary_tag_id": "ML-T00917",
   "description": {
     "definition": "한 병사가 보병 전투부터 장비 운용과 특수 임무까지 서로 다른 전문 역할을 모두 맡는다. 소수의 주요 인물에게 일을 몰아주는 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 병사가 서로 다른 병과와 전문 영역의 임무를 연속해서 수행하는 구성이다. 전투와 장비 운용, 잠입 등 많은 역할이 소수 인물에게 집중된다.\n\n관객이 이미 아는 인물을 계속 활용하고 주인공이 모든 중요한 사건에 참여하게 한다. 게임에서는 다양한 임무를 하나의 조작 캐릭터로 경험시키는 실용적인 기능을 한다.\n\n실제 전문 교육과 지휘 체계의 재현과는 거리가 있을 수 있다. 기본적인 다기능 훈련과 모든 장비를 즉시 능숙하게 다루는 과장을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 병사가 서로 다른 병과와 전문 영역의 임무를 연속해서 수행하는 구성이다. 전투와 장비 운용, 잠입 등 많은 역할이 소수 인물에게 집중된다.\n\n관객이 이미 아는 인물을 계속 활용하고 주인공이 모든 중요한 사건에 참여하게 한다. 게임에서는 다양한 임무를 하나의 조작 캐릭터로 경험시키는 실용적인 기능을 한다.\n\n실제 전문 교육과 지휘 체계의 재현과는 거리가 있을 수 있다. 기본적인 다기능 훈련과 모든 장비를 즉시 능숙하게 다루는 과장을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

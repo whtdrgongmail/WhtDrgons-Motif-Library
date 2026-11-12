@@ -4,8 +4,8 @@
   "title": "유령을 상대하는 전문가",
   "original": "Who You Gonna Call?",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00935",
+  "primary_tag_id": "ML-T00935",
   "description": {
     "definition": "[[유령]]을 추적하거나 처리하는 일을 전문 역할로 삼는 인물이나 집단이다.",
     "detail": "작품 사례: [[Lonesome Ghosts]]의 미키·도널드·구피는 유령을 처리하는 팀으로 불려 가지만, 의뢰한 쪽은 오히려 그들을 놀래키고 싶은 유령들이어서 전문가 역할이 희극적으로 뒤집힌다.",
@@ -13,10 +13,10 @@
     "boundary": "우연히 유령과 마주친 일반인과 역할의 지속성이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유령을 상대하는 일을 계속 수행하면 초자연적 사건이 전문 업무가 된다. 추적과 처리를 맡는 역할이 일시적인 피해자와 인물을 구별한다.\n\n유령이 오히려 전문가를 불러 놀리는 사례에서는 의뢰인과 해결 대상의 위치가 겹친다. 전문 역할을 맡았다는 사실과 실제로 상황을 통제할 수 있는 능력은 별개의 문제로 남는다.\n\n우연히 한 번 유령을 본 것만으로 전문가는 아니다. 그 역할의 지속성과 업무로서의 성격이 필요하다.\n\n[[Lonesome Ghosts]]의 미키·도널드·구피는 유령을 처리하는 팀으로 불려 가지만, 의뢰한 쪽은 오히려 그들을 놀래키고 싶은 유령들이어서 전문가 역할이 희극적으로 뒤집힌다.\n\n[[Lonesome Ghosts]]",
+    "sections": [
+      [
+        "상세 설명",
+        "유령을 상대하는 일을 계속 수행하면 초자연적 사건이 전문 업무가 된다. 추적과 처리를 맡는 역할이 일시적인 피해자와 인물을 구별한다.\n\n유령이 오히려 전문가를 불러 놀리는 사례에서는 의뢰인과 해결 대상의 위치가 겹친다. 전문 역할을 맡았다는 사실과 실제로 상황을 통제할 수 있는 능력은 별개의 문제로 남는다.\n\n우연히 한 번 유령을 본 것만으로 전문가는 아니다. 그 역할의 지속성과 업무로서의 성격이 필요하다."
+      ],
+      [
+        "사례",
+        "[[Lonesome Ghosts]]의 미키·도널드·구피는 유령을 처리하는 팀으로 불려 가지만, 의뢰한 쪽은 오히려 그들을 놀래키고 싶은 유령들이어서 전문가 역할이 희극적으로 뒤집힌다."
+      ],
+      [
+        "관련 작품",
+        "[[Lonesome Ghosts]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

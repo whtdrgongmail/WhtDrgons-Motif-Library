@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "인터스텔라 5555",
   "original": "Interstella 5555",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Interstella 5555"
+  ],
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "《인터스텔라 5555》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《인터스텔라 5555》는 앨범의 음악과 애니메이션을 연결하여 장면의 분위기와 일부 효과음을 전달한다. 대사 대신 영상과 음악이 긴 이야기를 이끈다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 4,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -43,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《인터스텔라 5555》는 다프트 펑크의 음반 《Discovery》와 연결되는 [[애니메이션]] 영화다. 앨범 전체를 이어서 사용하고 대사를 최소화하여 음악과 영상이 하나의 긴 이야기를 전달한다.\n\n말로 하는 대사 대신 음악과 영상이 긴 이야기를 이끈다. 노래와 장면의 연속이 서사 전달을 맡는다. 개별 곡의 영상이면서 전체적으로는 연속된 SF 모험이라는 두 구성이 동시에 작동한다.\n\n음악은 분위기뿐 아니라 일부 효과음의 기능도 한다. 장면의 사건과 소리의 대응이 발화의 빈자리를 채우는 구성이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《인터스텔라 5555》는 다프트 펑크의 음반 《Discovery》와 연결되는 [[애니메이션]] 영화다. 앨범 전체를 이어서 사용하고 대사를 최소화하여 음악과 영상이 하나의 긴 이야기를 전달한다.\n\n말로 하는 대사 대신 음악과 영상이 긴 이야기를 이끈다. 노래와 장면의 연속이 서사 전달을 맡는다. 개별 곡의 영상이면서 전체적으로는 연속된 SF 모험이라는 두 구성이 동시에 작동한다.\n\n음악은 분위기뿐 아니라 일부 효과음의 기능도 한다. 장면의 사건과 소리의 대응이 발화의 빈자리를 채우는 구성이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

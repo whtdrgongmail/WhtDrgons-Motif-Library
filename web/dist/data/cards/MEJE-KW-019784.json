@@ -5,8 +5,8 @@
   "original": "Visualizing an Invisible Pathogen",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01917",
+  "primary_tag_id": "ML-T01917",
   "description": {
     "definition": "보이지 않을 오염과 감염을 빛·덩어리·구름 같은 시각 기호로 나타내어 어느 대상에서 어디로 옮는지 관객이 추적하도록 한다.",
     "detail": "작품 사례: 《[[네모바지 스폰지밥]]》의 「Fungus Among Us」에서는 초록색 물질이 몸과 음식으로 옮는 모습을 통해 전파 과정을 시각적으로 보여 준다.",
@@ -14,10 +14,10 @@
     "boundary": "작중 인물에게도 보이는지 관객에게만 보이는지는 별도 설정이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보통 보이지 않는 전파 과정을 색과 덩어리, 구름 같은 모양으로 나타낸다. 관객은 물질의 이동을 따라 누가 무엇을 통해 오염되는지 알 수 있다.\n\n시각 기호는 감염이라는 추상적인 정보를 연속적인 행동으로 바꾼다. 인물에게도 보이는지 관객에게만 보이는지에 따라 세계의 규칙은 달라질 수 있다.\n\n보여 주기 위한 표현과 실제 병원체의 외형을 같은 것으로 취급하지 않는다. 화면이 전달한 전파 정보와 인물이 아는 내용을 분리해야 한다.\n\n[[네모바지 스폰지밥]]의 Fungus Among Us는 초록 물질이 몸과 음식 사이에 옮겨가는 모습으로 전파를 보여 준다.\n\n[[네모바지 스폰지밥]]",
+    "sections": [
+      [
+        "상세 설명",
+        "보통 보이지 않는 전파 과정을 색과 덩어리, 구름 같은 모양으로 나타낸다. 관객은 물질의 이동을 따라 누가 무엇을 통해 오염되는지 알 수 있다.\n\n시각 기호는 감염이라는 추상적인 정보를 연속적인 행동으로 바꾼다. 인물에게도 보이는지 관객에게만 보이는지에 따라 세계의 규칙은 달라질 수 있다.\n\n보여 주기 위한 표현과 실제 병원체의 외형을 같은 것으로 취급하지 않는다. 화면이 전달한 전파 정보와 인물이 아는 내용을 분리해야 한다."
+      ],
+      [
+        "사례",
+        "[[네모바지 스폰지밥]]의 Fungus Among Us는 초록 물질이 몸과 음식 사이에 옮겨가는 모습으로 전파를 보여 준다."
+      ],
+      [
+        "관련 작품",
+        "[[네모바지 스폰지밥]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

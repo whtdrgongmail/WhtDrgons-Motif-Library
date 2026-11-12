@@ -4,8 +4,8 @@
   "title": "번역판에서 바뀐 인물의 성별",
   "original": "She's a Man in Japan",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02282",
+  "primary_tag_id": "ML-T02282",
   "description": {
     "definition": "현지화 과정에서 인물의 성별 설정을 바꾸어 원작과 다른 관계나 성역할로 보이게 하는 각색이다.",
     "detail": "[[성별 규범]]에서 벗어난 인물을 현지의 익숙한 성역할에 맞추려는 변경으로 나타날 수 있다.\n\n작품 사례: [[The Loud House]]의 아랍어 더빙판은 클라이드의 두 아버지 중 하워드를 여성으로 바꾸어, 원작의 동성 부모 관계를 다르게 보이게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "번역과 관계없이 이야기 안에서 일어나는 변신이나 성별 탐색과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[성별 규범]]에서 벗어난 인물을 현지의 익숙한 성역할에 맞추려는 변경으로 나타날 수 있다.\n\n번역·더빙의 변경이 캐릭터의 성별 설정에 영향을 주는지 확인한다.\n\n번역과 관계없이 이야기 안에서 일어나는 변신이나 성별 탐색과 구별한다.\n\n작품 사례: 《[[The Loud House]]》의 아랍어 더빙판은 클라이드의 두 아버지 중 하워드를 여성으로 바꾸어, 원작의 동성 부모 관계를 다르게 보이게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[성별 규범]]에서 벗어난 인물을 현지의 익숙한 성역할에 맞추려는 변경으로 나타날 수 있다.\n\n번역·더빙의 변경이 캐릭터의 성별 설정에 영향을 주는지 확인한다.\n\n번역과 관계없이 이야기 안에서 일어나는 변신이나 성별 탐색과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[The Loud House]]》의 아랍어 더빙판은 클라이드의 두 아버지 중 하워드를 여성으로 바꾸어, 원작의 동성 부모 관계를 다르게 보이게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Bluff-Based Blackmail",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00766",
+  "primary_tag_id": "ML-T00766",
   "description": {
     "definition": "실제로 확보하지 않은 사생활 자료를 가지고 있다고 거짓 주장하여, 폭로를 두려워하는 상대를 압박하는 협박 방식이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "거짓 사진이나 문서 자체를 만들어 내는 [[조작된 자료로 협박하기]]와 구별한다. 자료가 존재한다는 주장만으로 속일 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.004.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실제로 갖고 있지 않은 사생활 자료를 확보했다고 주장해 상대를 위협한다. 폭로할 증거의 실재 대신 상대가 그 말을 믿는지가 압박을 결정한다.\n\n협박받는 사람은 자료가 없다는 사실을 모른 채 불이익을 예상한다. 정보의 비대칭이 존재하지 않는 증거를 마치 유효한 지렛대처럼 작동하게 한다.\n\n사진이나 문서 자체를 위조하는 방식과 다르다. 자료를 만들지 않아도 그것을 보유했다는 거짓 주장만으로 성립할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실제로 갖고 있지 않은 사생활 자료를 확보했다고 주장해 상대를 위협한다. 폭로할 증거의 실재 대신 상대가 그 말을 믿는지가 압박을 결정한다.\n\n협박받는 사람은 자료가 없다는 사실을 모른 채 불이익을 예상한다. 정보의 비대칭이 존재하지 않는 증거를 마치 유효한 지렛대처럼 작동하게 한다.\n\n사진이나 문서 자체를 위조하는 방식과 다르다. 자료를 만들지 않아도 그것을 보유했다는 거짓 주장만으로 성립할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

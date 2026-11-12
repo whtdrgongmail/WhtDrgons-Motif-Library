@@ -4,8 +4,8 @@
   "title": "예와 아니오가 모두 맞는 대답",
   "original": "Double-Edged Answer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01991",
+  "primary_tag_id": "ML-T01991",
   "description": {
     "definition": "단순한 질문에 서로 반대되는 답이 모두 사실일 수 있어 인물이 한쪽으로만 대답하지 못한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "단순한 예와 아니오의 질문에 두 답이 서로 다른 조건에서 모두 맞는 상황이다. 모순처럼 보이는 대답이 더 복잡한 설명의 시작이 된다.\n\n질문에 포함된 용어의 범위와 시점, 관점이 달라지면 결론도 달라진다. 답하는 인물은 이분법을 피하면서 듣는 사람의 기대를 수정하고 사건의 숨겨진 조건을 소개한다.\n\n우유부단함과 거짓말이 반드시 원인은 아니다. 각각의 답이 성립하는 이유가 있어야 하며 단순히 정보를 감추려고 얼버무리는 행동과는 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "단순한 예와 아니오의 질문에 두 답이 서로 다른 조건에서 모두 맞는 상황이다. 모순처럼 보이는 대답이 더 복잡한 설명의 시작이 된다.\n\n질문에 포함된 용어의 범위와 시점, 관점이 달라지면 결론도 달라진다. 답하는 인물은 이분법을 피하면서 듣는 사람의 기대를 수정하고 사건의 숨겨진 조건을 소개한다.\n\n우유부단함과 거짓말이 반드시 원인은 아니다. 각각의 답이 성립하는 이유가 있어야 하며 단순히 정보를 감추려고 얼버무리는 행동과는 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

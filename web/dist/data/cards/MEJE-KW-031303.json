@@ -4,8 +4,8 @@
   "title": "반려동물형 게임 안내자",
   "original": "Pet Interface",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02159",
+  "primary_tag_id": "ML-T02159",
   "description": {
     "definition": "동물 동료가 탐색·경고·이동 같은 인터페이스 기능을 세계 안의 행동으로 전달하는 게임 설계다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.010.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "화면의 표시 대신 곁의 동물이 수상한 곳에서 짖거나 숨은 물건을 찾아 준다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "시스템의 정보를 동료의 행동으로 바꾸면 탐색 기능과 애착 형성이 동시에 일어난다. 쓰다듬기나 놀이 같은 상호작용도 안내 기능에 감정적 의미를 더한다.\n\n전투를 독립적으로 수행하는 동료와 역할이 겹칠 수 있지만 중심은 플레이를 돕는 정보와 편의다. 일상적으로 안전한 존재로 설계할수록 이야기에서의 이별이나 죽음은 더 큰 손실로 느껴질 수 있다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "시스템의 정보를 동료의 행동으로 바꾸면 탐색 기능과 애착 형성이 동시에 일어난다. 쓰다듬기나 놀이 같은 상호작용도 안내 기능에 감정적 의미를 더한다.\n\n전투를 독립적으로 수행하는 동료와 역할이 겹칠 수 있지만 중심은 플레이를 돕는 정보와 편의다. 일상적으로 안전한 존재로 설계할수록 이야기에서의 이별이나 죽음은 더 큰 손실로 느껴질 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

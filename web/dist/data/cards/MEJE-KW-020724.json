@@ -4,19 +4,19 @@
   "title": "선택 결과를 작은 장면들로 조합한 후일담",
   "original": "Modular Epilogue",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02125",
+  "primary_tag_id": "ML-T02125",
   "description": {
     "definition": "하나로 이어지는 고정 엔딩 대신 플레이 중 선택한 결과를 보여 주는 짧은 장면들을 조합해 마무리하는 구성이다.",
     "detail": "작품 사례: 《[[젤다의 전설: 무쥬라의 가면]]》의 엔딩은 수집한 가면에 따라 관련 장면을 보여 주고 얻지 못한 가면은 그림으로 대신한다. 플레이 결과가 여러 짧은 마무리 장면의 조합을 정한다.",
     "usage": "여러 지역·인물의 변화를 한 개의 거대한 분기 영상 없이 각각 마무리한다.",
-    "boundary": "모든 플레이에서 같은 순서와 내용이 나오는 에필로그와 구별한다. 선택 결과에 맞춘 장면 구성의 조합이 핵심이다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "25",
+    "code": "25.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-003222",
+      "work_card_id": "MM-MEDIA-001508",
       "description_ko": "《젤다의 전설: 무쥬라의 가면》의 엔딩은 수집한 가면에 따라 관련 장면을 보여 주고 얻지 못한 가면은 그림으로 대신한다. 플레이 결과가 여러 짧은 마무리 장면의 조합을 정한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 지역·인물의 변화를 한 개의 거대한 분기 영상 없이 각각 마무리한다.\n\n모든 플레이에서 같은 순서와 내용이 나오는 에필로그와 구별한다. 선택 결과에 맞춘 장면 구성의 조합이 핵심이다.\n\n《[[젤다의 전설: 무쥬라의 가면]]》의 엔딩은 수집한 가면에 따라 관련 장면을 보여 주고 얻지 못한 가면은 그림으로 대신한다. 플레이 결과가 여러 짧은 마무리 장면의 조합을 정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 지역·인물의 변화를 한 개의 거대한 분기 영상 없이 각각 마무리한다.\n\n모든 플레이에서 같은 순서와 내용이 나오는 에필로그와 구별한다. 선택 결과에 맞춘 장면 구성의 조합이 핵심이다."
+      ],
+      [
+        "관련 작품",
+        "《[[젤다의 전설: 무쥬라의 가면]]》의 엔딩은 수집한 가면에 따라 관련 장면을 보여 주고 얻지 못한 가면은 그림으로 대신한다. 플레이 결과가 여러 짧은 마무리 장면의 조합을 정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

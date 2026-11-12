@@ -4,8 +4,8 @@
   "title": "하시 노이즈",
   "original": "Harsh Noise",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-013692",
+  "primary_tag_id": "MEJE-KW-013692",
   "description": {
     "definition": "거칠고 밀도 높은 소리와 극단적인 음역·음량을 사용해 청자에게 강한 신체적·정서적 감각을 주려는 [[노이즈 음악]] 양식이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.402.001",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "하시 노이즈는 선율이나 화성의 전개보다 거칠고 밀집된 음향의 표면을 전면에 둔다. 지속음, 왜곡, 피드백, 급격한 음량과 음역의 변화가 청자의 신체 감각과 집중에 직접 작용하며, 소리의 불편함이나 압도감 자체가 작품의 구성 재료가 된다. 반복과 밀도, 음색의 변화가 곡의 시간적 흐름을 만들 수 있다.\n\n시끄럽거나 녹음 상태가 거친 음악이라는 인상만으로 이 양식을 판정할 수는 없다. 의도적인 음향 구성과 감각적 강도의 조직이 중요하며, 노이즈 음악 안에서도 모든 작품이 같은 극단성이나 표현 목표를 갖지는 않는다. [[노이즈 음악]]과의 관계를 설명하면서 하시 노이즈가 특히 강도와 질감을 강조하는 하위 양식임을 분명히 하면 범위가 선명해진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "하시 노이즈는 선율이나 화성의 전개보다 거칠고 밀집된 음향의 표면을 전면에 둔다. 지속음, 왜곡, 피드백, 급격한 음량과 음역의 변화가 청자의 신체 감각과 집중에 직접 작용하며, 소리의 불편함이나 압도감 자체가 작품의 구성 재료가 된다. 반복과 밀도, 음색의 변화가 곡의 시간적 흐름을 만들 수 있다.\n\n시끄럽거나 녹음 상태가 거친 음악이라는 인상만으로 이 양식을 판정할 수는 없다. 의도적인 음향 구성과 감각적 강도의 조직이 중요하며, 노이즈 음악 안에서도 모든 작품이 같은 극단성이나 표현 목표를 갖지는 않는다. [[노이즈 음악]]과의 관계를 설명하면서 하시 노이즈가 특히 강도와 질감을 강조하는 하위 양식임을 분명히 하면 범위가 선명해진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

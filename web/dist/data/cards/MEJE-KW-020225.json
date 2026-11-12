@@ -5,8 +5,8 @@
   "original": "Detection That Allows Time to Respond Before an Alert",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02156",
+  "primary_tag_id": "ML-T02156",
   "description": {
     "definition": "감지 장치가 대상을 포착한 즉시 실패를 선언하지 않고, 경고 신호와 짧은 유예를 제공한 뒤 경보를 발동하는 게임 설계이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "실제 인물의 반응 속도 자체보다 감지에서 경보까지의 단계와 사용자 피드백이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.010.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "감지 장치가 대상을 발견해도 바로 실패시키지 않고 경고와 짧은 유예 뒤 경보를 낸다. 탐지와 확정된 실패 사이에 대응할 단계가 있다.\n\n플레이어는 신호를 보고 상황을 수정할 기회를 얻는다. 은신의 긴장을 유지하면서도 순간적인 실수의 좌절을 줄이는 피드백 구조다.\n\n실제 인물이 얼마나 빨리 반응하는지를 묘사하는 것과는 다르다. 감지에서 경보까지의 단계와 사용자에게 전달되는 신호가 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "감지 장치가 대상을 발견해도 바로 실패시키지 않고 경고와 짧은 유예 뒤 경보를 낸다. 탐지와 확정된 실패 사이에 대응할 단계가 있다.\n\n플레이어는 신호를 보고 상황을 수정할 기회를 얻는다. 은신의 긴장을 유지하면서도 순간적인 실수의 좌절을 줄이는 피드백 구조다.\n\n실제 인물이 얼마나 빨리 반응하는지를 묘사하는 것과는 다르다. 감지에서 경보까지의 단계와 사용자에게 전달되는 신호가 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

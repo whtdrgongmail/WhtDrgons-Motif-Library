@@ -4,8 +4,8 @@
   "title": "잠시 다른 사람에게 넘어간 영웅의 힘",
   "original": "Hero for a Day",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01215",
+  "primary_tag_id": "ML-T01215",
   "description": {
     "definition": "영웅이 능력을 잃는 동안 다른 인물이 정확히 같은 능력을 얻어 역할을 시험하거나 악용하고 마지막에는 원래 주인에게 돌아가는 이야기 구조다.",
     "detail": "일반적으로 기존 영웅의 힘 상실, 다른 인물에게 같은 힘의 이전, 새 사용자의 선택과 미숙함, 적의 위협, 위기 해결, 원래 영웅의 힘 회복으로 이어진다.\n\n작품 사례: [[The Flash (2014)]]의 Run Iris, Run에서 Barry의 능력이 Iris에게 옮겨가 그녀가 도시를 지키다가, 회차가 끝날 때 원래 상태로 돌아온다.",
@@ -13,19 +13,19 @@
     "boundary": "비슷한 능력의 새 영웅이나 영구적인 후계자 교체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "13.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "영웅의 힘을 얻으면 쉬울 줄 알았던 인물이 실제 책임을 겪는다.\n\n작품 사례: [[The Flash (2014)]]의 Run Iris, Run에서 Barry의 능력이 Iris에게 옮겨가 그녀가 도시를 지키다가, 회차가 끝날 때 원래 상태로 돌아온다.",
+    "easy_ko": "영웅의 힘을 얻으면 쉬울 줄 알았던 인물이 실제 책임을 겪는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기존 영웅이 능력을 잃는 동안 다른 인물이 정확히 같은 힘을 얻는다. 힘을 얻은 인물은 영웅을 대신하려 하거나 사적인 이익에 사용하거나 적대자로 바뀔 수 있다.\n\n새 사용자의 선택과 미숙함이 문제를 만들고 기존의 적이 그 틈을 노리기도 한다. 능력을 얻었다는 사실과 그 능력에 필요한 판단·책임을 감당하는 일은 별개다.\n\n이야기의 끝에서는 힘이 원래 주인에게 돌아가는 구조가 중심이다. 비슷한 능력의 새로운 영웅이 등장하는 경우나 영구적인 후계자 교체와 구별한다.\n\n작품 사례: 《[[플래시(2014년 TV 시리즈)]]》의 Run Iris, Run에서 Barry의 능력이 Iris에게 옮겨가 그녀가 도시를 지키다가, 회차가 끝날 때 원래 상태로 돌아온다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기존 영웅이 능력을 잃는 동안 다른 인물이 정확히 같은 힘을 얻는다. 힘을 얻은 인물은 영웅을 대신하려 하거나 사적인 이익에 사용하거나 적대자로 바뀔 수 있다.\n\n새 사용자의 선택과 미숙함이 문제를 만들고 기존의 적이 그 틈을 노리기도 한다. 능력을 얻었다는 사실과 그 능력에 필요한 판단·책임을 감당하는 일은 별개다.\n\n이야기의 끝에서는 힘이 원래 주인에게 돌아가는 구조가 중심이다. 비슷한 능력의 새로운 영웅이 등장하는 경우나 영구적인 후계자 교체와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[플래시(2014년 TV 시리즈)]]》의 Run Iris, Run에서 Barry의 능력이 Iris에게 옮겨가 그녀가 도시를 지키다가, 회차가 끝날 때 원래 상태로 돌아온다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

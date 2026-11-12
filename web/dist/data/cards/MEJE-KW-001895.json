@@ -4,8 +4,8 @@
   "title": "수업에 열의를 잃은 교사",
   "original": "Apathetic Teacher",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "학생의 질문이나 수업 준비를 귀찮아하며 직무를 형식적으로 이어 가는 교사. 개인의 무관심과 학교 환경의 피로가 함께 그려질 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수업의 의미를 잃은 교사는 질문과 준비를 번거로운 절차로 취급할 수 있다. 직무가 반복되는 동안 관계의 기대가 낮아져 학생과 학교를 냉소적으로 대하게 된다.\n\n처음의 열정과 현재의 태도를 대비하면 개인과 제도의 피로가 드러난다. 특정 학생과의 만남이 변화를 만들 수도 있지만 무관심이 유능함과 양립하는 경우도 따로 보아야 한다.\n\n엄격하고 말투가 거칠다는 사실만으로 의욕이 없다고 할 수는 없다. 실제로 수업과 학생에게 어떻게 시간과 관심을 쓰는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수업의 의미를 잃은 교사는 질문과 준비를 번거로운 절차로 취급할 수 있다. 직무가 반복되는 동안 관계의 기대가 낮아져 학생과 학교를 냉소적으로 대하게 된다.\n\n처음의 열정과 현재의 태도를 대비하면 개인과 제도의 피로가 드러난다. 특정 학생과의 만남이 변화를 만들 수도 있지만 무관심이 유능함과 양립하는 경우도 따로 보아야 한다.\n\n엄격하고 말투가 거칠다는 사실만으로 의욕이 없다고 할 수는 없다. 실제로 수업과 학생에게 어떻게 시간과 관심을 쓰는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

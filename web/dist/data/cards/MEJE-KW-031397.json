@@ -4,8 +4,8 @@
   "title": "핀볼 구조를 이용한 스테이지",
   "original": "Pinball Zone",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "게임의 한 구역이나 장면을 거대한 핀볼 기계처럼 만들어 인물 또는 대리 물체가 그 안을 이동하게 한다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "평소의 주인공이 이번 구역에서는 플리퍼와 범퍼 사이를 튕겨 다닌다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "핀볼 구역은 익숙한 이동 규칙을 잠시 바꾸는 공간이다. 플레이어의 직접 이동보다 발사와 반사, 구슬을 되받는 타이밍이 중요해지며, 인물 자신이 구슬 역할을 하거나 별도의 물체를 조작할 수 있다. 조명과 표적, 경사로가 함께 놓이면 게임 기계 안으로 들어왔다는 느낌이 선명해진다.\n\n보너스 구역에서는 짧은 보상 놀이로, 위험한 구역에서는 통제권을 빼앗기는 장애물로 사용할 수 있다. 작품 전체가 핀볼로 전환되는 [[비디오게임을 핀볼로 확장하기]]와 달리 본래 게임의 일부라는 점이 핵심이다. 단순한 카지노 배경이나 반사 장애물 하나만 있는 곳보다 여러 핀볼 요소가 공간의 작동 방식을 정해야 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "핀볼 구역은 익숙한 이동 규칙을 잠시 바꾸는 공간이다. 플레이어의 직접 이동보다 발사와 반사, 구슬을 되받는 타이밍이 중요해지며, 인물 자신이 구슬 역할을 하거나 별도의 물체를 조작할 수 있다. 조명과 표적, 경사로가 함께 놓이면 게임 기계 안으로 들어왔다는 느낌이 선명해진다.\n\n보너스 구역에서는 짧은 보상 놀이로, 위험한 구역에서는 통제권을 빼앗기는 장애물로 사용할 수 있다. 작품 전체가 핀볼로 전환되는 [[비디오게임을 핀볼로 확장하기]]와 달리 본래 게임의 일부라는 점이 핵심이다. 단순한 카지노 배경이나 반사 장애물 하나만 있는 곳보다 여러 핀볼 요소가 공간의 작동 방식을 정해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

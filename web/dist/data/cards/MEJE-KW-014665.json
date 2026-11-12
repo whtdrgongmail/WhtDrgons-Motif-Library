@@ -4,8 +4,8 @@
   "title": "군체를 지배하는 중심 개체",
   "original": "Hive Queen",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01155",
+  "primary_tag_id": "ML-T01155",
   "description": {
     "definition": "다수의 군체 구성원을 통제하거나 공동 의식의 연결을 유지하는 특정 개체 또는 인격이다.",
     "detail": "작품 사례: [[Independence Day: Resurgence]]에서 여왕이 죽자 주변 전투기들이 추락하고 모선도 작업을 중단한 채 떠난다. 여왕의 존재가 군체의 공격을 유지하던 중심이었음이 드러난다.",
@@ -13,10 +13,10 @@
     "boundary": "번식만 담당하는 여왕이나 지휘 중심이 없는 분산된 공동 의식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "군체의 의사결정과 정신 연결을 특정한 중심 개체에 의존시키는 설정이다. 중심의 손실이 집단 전체의 활동과 명령 체계에 영향을 준다.\n\n번식만 담당하는 여왕과 다르다. 중심 없이 연결된 분산 공동 의식과도 구별되며 지배와 연결의 실제 의존 관계가 필요하다.\n\n[[Independence Day: Resurgence]]에서 여왕이 죽자 주변 전투기가 추락하고 모선은 작업을 멈춘 뒤 떠난다. 집단의 공격을 유지하던 중심의 기능이 그 상실로 확인된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "군체의 의사결정과 정신 연결을 특정한 중심 개체에 의존시키는 설정이다. 중심의 손실이 집단 전체의 활동과 명령 체계에 영향을 준다.\n\n번식만 담당하는 여왕과 다르다. 중심 없이 연결된 분산 공동 의식과도 구별되며 지배와 연결의 실제 의존 관계가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Independence Day: Resurgence]]에서 여왕이 죽자 주변 전투기가 추락하고 모선은 작업을 멈춘 뒤 떠난다. 집단의 공격을 유지하던 중심의 기능이 그 상실로 확인된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

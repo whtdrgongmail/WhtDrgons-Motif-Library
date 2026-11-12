@@ -5,8 +5,8 @@
   "original": "The Baby Plan Is Forgotten Next Episode",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02571",
+  "primary_tag_id": "ML-T02571",
   "description": {
     "definition": "한 회차에서 아이를 갖자는 뜻을 중요하게 제시한 뒤 실제 출산도 후속 논의도 없이 계획이 이야기에서 사라지는 구성이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "명시적으로 계획을 취소하거나 임신 실패를 다룬 경우와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "아이를 갖자는 계획이 회차의 중요한 결심으로 나와도 후속 논의가 없으면 미래의 약속은 서사에서 사라진다. 인물은 계속 등장하지만 그 선택만 이어지지 않는다.\n\n관객은 계획을 기억하므로 현재 생활과 예정했던 변화 사이의 빈자리를 느낄 수 있다. 실제로 취소했다는 설명이 없다는 점이 단순한 계획 변경과 다르다.\n\n실패와 철회를 직접 다룬 경우는 제외한다. 출산하지 않았다는 결과뿐 아니라 계획의 후속 처리 부재가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "아이를 갖자는 계획이 회차의 중요한 결심으로 나와도 후속 논의가 없으면 미래의 약속은 서사에서 사라진다. 인물은 계속 등장하지만 그 선택만 이어지지 않는다.\n\n관객은 계획을 기억하므로 현재 생활과 예정했던 변화 사이의 빈자리를 느낄 수 있다. 실제로 취소했다는 설명이 없다는 점이 단순한 계획 변경과 다르다.\n\n실패와 철회를 직접 다룬 경우는 제외한다. 출산하지 않았다는 결과뿐 아니라 계획의 후속 처리 부재가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

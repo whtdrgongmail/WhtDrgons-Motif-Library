@@ -4,8 +4,8 @@
   "title": "한때 친구였던 인기인의 라이벌",
   "original": "Former Friend of Alpha Bitch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01021",
+  "primary_tag_id": "ML-T01021",
   "description": {
     "definition": "학교에서 서로 맞서는 두 인물이 예전에는 친구였다는 사실이 드러나 지금의 갈등에 [[상실감]]과 배경을 더한다. 예전에는 가까웠던 친구의 관계를 눈에 보이게 남긴 기록이 [[멀어진 친구들이 함께 찍은 사진]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "10",
+    "code": "10.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "학교에서 서로 대립하는 인물들이 원래는 가까운 친구였음이 밝혀지는 관계다. 현재의 다툼에 잃어버린 우정의 [[상실감]]이 더해지며, [[멀어진 친구들이 함께 찍은 사진]] 같은 흔적은 두 사람에게 과거가 실제로 존재했음을 보여 준다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "학교에서 대립하는 인기인과 경쟁자가 예전에는 가까운 친구였다는 배경이다. 현재의 위계와 모욕에 상실의 기억이 더해진다.\n\n인기와 집단 소속이 달라지는 과정에서 버림받았다는 감정이 생길 수 있다. 과거를 아는 두 사람의 말은 다른 학생이 모르는 약점과 애정을 동시에 건드린다.\n\n옛 친구였다고 지금의 괴롭힘이 가벼워지는 것은 아니다. 갈라진 원인과 현재 행동의 책임을 구분해야 하며 화해가 반드시 원래 관계로의 복귀를 뜻하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "학교에서 대립하는 인기인과 경쟁자가 예전에는 가까운 친구였다는 배경이다. 현재의 위계와 모욕에 상실의 기억이 더해진다.\n\n인기와 집단 소속이 달라지는 과정에서 버림받았다는 감정이 생길 수 있다. 과거를 아는 두 사람의 말은 다른 학생이 모르는 약점과 애정을 동시에 건드린다.\n\n옛 친구였다고 지금의 괴롭힘이 가벼워지는 것은 아니다. 갈라진 원인과 현재 행동의 책임을 구분해야 하며 화해가 반드시 원래 관계로의 복귀를 뜻하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

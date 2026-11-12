@@ -4,8 +4,8 @@
   "title": "상대 후보를 공격하는 정치 광고",
   "original": "Attack of the Political Ad",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01968",
+  "primary_tag_id": "ML-T01968",
   "description": {
     "definition": "선거 홍보에서 자기 정책보다 경쟁자의 결점과 위험을 앞세운다. 사실을 검증하는 논쟁과 이미지를 흔드는 연출이 다를 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "후보 자신의 장점보다 경쟁자의 결함을 강조하여 지지를 얻으려는 선거 [[광고]]다. 정책과 능력에 관한 논쟁이 인격이나 공포의 이미지로 치환될 수 있다.\n\n광고는 상대의 과거 발언을 편집하거나 불길한 이미지와 결합해 평가를 유도할 수 있다. 극중 관객이 어떤 사실을 알고 있는지에 따라 선동의 성공과 실패가 달라진다. 광고가 주장하는 이미지와 실제 인물을 나란히 제시하면 정치적 연출의 간극이 드러난다.\n\n극중에서는 경쟁의 격화와 여론 조작을 짧게 보여 주는 수단이 된다. 부정적 내용이라는 사실과 허위라는 판단은 별개이며 광고의 주장과 이야기에서 확인된 사실을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "후보 자신의 장점보다 경쟁자의 결함을 강조하여 지지를 얻으려는 선거 [[광고]]다. 정책과 능력에 관한 논쟁이 인격이나 공포의 이미지로 치환될 수 있다.\n\n광고는 상대의 과거 발언을 편집하거나 불길한 이미지와 결합해 평가를 유도할 수 있다. 극중 관객이 어떤 사실을 알고 있는지에 따라 선동의 성공과 실패가 달라진다. 광고가 주장하는 이미지와 실제 인물을 나란히 제시하면 정치적 연출의 간극이 드러난다.\n\n극중에서는 경쟁의 격화와 여론 조작을 짧게 보여 주는 수단이 된다. 부정적 내용이라는 사실과 허위라는 판단은 별개이며 광고의 주장과 이야기에서 확인된 사실을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

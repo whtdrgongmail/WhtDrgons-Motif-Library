@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "Babylon 5",
   "original": "Babylon 5",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "바빌론 5"
+  ],
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "이 카드는 텔레비전 시리즈 《Babylon 5》를 가리킨다. 이 라이브러리에서는 [[악행의 원래 이유가 사라지기]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Babylon 5의 Shadows와 Vorlons는 다른 종족을 전쟁에 끌어들이지만, 끝에는 양쪽 모두 원래 자신들이 맡았던 목적을 잊었다는 사실이 드러난다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -43,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 종족의 외교와 경제가 모이는 거대한 우주 정거장을 중심으로 한 [[텔레비전]] 시리즈다. 인류가 거의 멸종할 뻔한 전쟁 이후 새로운 충돌을 막으려는 계획에서 정거장이 운영된다.\n\n지구 측 승무원은 더 강력한 종족들 사이에서 무력보다 무역과 외교로 균형을 유지하려 한다. 회차의 사건들은 그림자 세력의 움직임과 여러 행성의 음모라는 긴 흐름에도 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 종족의 외교와 경제가 모이는 거대한 우주 정거장을 중심으로 한 [[텔레비전]] 시리즈다. 인류가 거의 멸종할 뻔한 전쟁 이후 새로운 충돌을 막으려는 계획에서 정거장이 운영된다.\n\n지구 측 승무원은 더 강력한 종족들 사이에서 무력보다 무역과 외교로 균형을 유지하려 한다. 회차의 사건들은 그림자 세력의 움직임과 여러 행성의 음모라는 긴 흐름에도 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

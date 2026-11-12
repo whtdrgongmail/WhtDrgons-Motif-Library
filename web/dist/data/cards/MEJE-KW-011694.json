@@ -4,8 +4,8 @@
   "title": "아트록 성향의 글램 록",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-011693",
+  "primary_tag_id": "MEJE-KW-011693",
   "description": {
     "definition": "[[글램 록]]의 시각적 [[과장]]에 실험적 구성·연극적 인물상·예술음악 지향을 결합하는 경향이다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": "글램 록 전체가 동일하게 실험적이라는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이 경향에서는 글램 록의 화려한 외양에 예술적 실험과 강한 무대 인물상이 결합한다. 데이비드 보위의 지기 스타더스트, 루 리드의 특정 활동 시기, 초기 퀸과 스파크스, 록시 뮤직 등은 서로 다른 음악적 접근을 가진 사례로 함께 분류된다.\n\n오페라 같은 장중한 구성이나 재즈와 전자음향의 활용은 그 안에서 나타날 수 있는 서로 다른 방향이다. 모든 곡이 복잡한 형식을 가져야 한다는 뜻은 아니며, 글램 록 전체를 실험음악으로 규정하는 분류도 아니다.\n\n루 리드의 《[[Transformer]]》 시기는 예술적 성향의 글램 록 사례로 언급된다. 초기 퀸과 스파크스의 경우에는 오페라를 연상시키는 아트록 성향이 강조된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 경향에서는 글램 록의 화려한 외양에 예술적 실험과 강한 무대 인물상이 결합한다. 데이비드 보위의 지기 스타더스트, 루 리드의 특정 활동 시기, 초기 퀸과 스파크스, 록시 뮤직 등은 서로 다른 음악적 접근을 가진 사례로 함께 분류된다.\n\n오페라 같은 장중한 구성이나 재즈와 전자음향의 활용은 그 안에서 나타날 수 있는 서로 다른 방향이다. 모든 곡이 복잡한 형식을 가져야 한다는 뜻은 아니며, 글램 록 전체를 실험음악으로 규정하는 분류도 아니다."
+      ],
+      [
+        "관련 작품",
+        "루 리드의 《[[Transformer]]》 시기는 예술적 성향의 글램 록 사례로 언급된다. 초기 퀸과 스파크스의 경우에는 오페라를 연상시키는 아트록 성향이 강조된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

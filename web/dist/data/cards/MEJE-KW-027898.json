@@ -4,8 +4,8 @@
   "title": "최고 레벨 뒤에 열리는 새 성장 체계",
   "original": "Ascension",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02088",
+  "primary_tag_id": "ML-T02088",
   "description": {
     "definition": "기본 레벨의 상한에 도달한 뒤 다른 종류의 보너스를 제공하는 새로운 성장 시스템을 개방하는 설계다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단순한 최고 레벨 보상 한 번과 달리 후속 시스템의 개방이 조건이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "최고 레벨에 이르면 다른 보너스를 얻는 새 성장 체계가 열린다. 기존 성장의 완성과 장기 진행이 이어진다.\n\n첫 상한은 모든 성취의 끝보다 새로운 규칙에 진입할 조건이 된다. 어떤 자원과 행동이 이후에 늘어나는지가 후속 체계를 정한다.\n\n상한 도달 때 일회 보상만 주는 경우와 다르다. 계속 이용하는 시스템의 개방이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "최고 레벨에 이르면 다른 보너스를 얻는 새 성장 체계가 열린다. 기존 성장의 완성과 장기 진행이 이어진다.\n\n첫 상한은 모든 성취의 끝보다 새로운 규칙에 진입할 조건이 된다. 어떤 자원과 행동이 이후에 늘어나는지가 후속 체계를 정한다.\n\n상한 도달 때 일회 보상만 주는 경우와 다르다. 계속 이용하는 시스템의 개방이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

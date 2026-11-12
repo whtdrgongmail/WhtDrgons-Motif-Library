@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032158",
+  "kind": "keyword",
+  "title": "작품 안에 표시되지 않는 회차 제목",
+  "original": "Title Please",
+  "aliases": [],
+  "tag_id": "ML-T00558",
+  "primary_tag_id": "ML-T00558",
+  "description": {
+    "definition": "각 회차에 제목이 존재하지만 화면에는 나오지 않아 시청자가 편성표 같은 외부 안내를 통해 확인해야 하는 구성이다.",
+    "detail": "",
+    "usage": "화면 구성과 외부 메타데이터에 나뉘어 있는 작품 정보를 정리한다.",
+    "boundary": "애초에 회차 제목이 없는 작품과 다르다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 2,
+  "classification": {
+    "code": "04.001.010",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "회차 이름은 정해져 있지만 드라마를 보는 동안에는 제목 자막이 나오지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "회차의 제목은 제작·편성 정보에 존재하지만 본편 영상이 그 정보를 제시하지 않는다. 시청자는 프로그램 안내 등 별도 경로를 통해 제목을 확인하므로, 작품을 보며 알 수 있는 정보와 외부의 식별 정보가 나뉜다.\n\n회차 번호만 화면에 표시되는 경우도 가능하다. 제목 자체가 없는 구성과는 다르며, 현지화 과정에서 번역 제목을 영상에 추가하면 같은 작품도 판본에 따라 표시 방식이 달라질 수 있다. 특정 화면 형식이 모든 배급판에 공통이라고 단정해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "회차의 제목은 제작·편성 정보에 존재하지만 본편 영상이 그 정보를 제시하지 않는다. 시청자는 프로그램 안내 등 별도 경로를 통해 제목을 확인하므로, 작품을 보며 알 수 있는 정보와 외부의 식별 정보가 나뉜다.\n\n회차 번호만 화면에 표시되는 경우도 가능하다. 제목 자체가 없는 구성과는 다르며, 현지화 과정에서 번역 제목을 영상에 추가하면 같은 작품도 판본에 따라 표시 방식이 달라질 수 있다. 특정 화면 형식이 모든 배급판에 공통이라고 단정해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
+}

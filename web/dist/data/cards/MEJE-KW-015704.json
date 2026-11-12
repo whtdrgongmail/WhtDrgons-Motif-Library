@@ -4,8 +4,8 @@
   "title": "도덕적 한계에서 힘을 얻는 영웅",
   "original": "The Fettered",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F18",
+  "tag_id": "ML-T01583",
+  "primary_tag_id": "ML-T01583",
   "description": {
     "definition": "스스로 정한 도덕적 금지선을 지키는 일이 약점이 아니라 영웅의 결의와 행동을 지탱하는 힘으로 작용하는 인물 구도다.",
     "detail": "작품 사례: [[Exalted]]에서는 절제 같은 덕목을 행동에 발휘하면 능력 판정을 강화할 수 있어, 인물이 지키는 도덕적 규율이 실제 성취의 힘으로 작동한다.",
@@ -13,10 +13,10 @@
     "boundary": "도덕 규칙 때문에 계속 무력해지는 모습이나 외부에서 강제로 걸린 제약과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "18",
+    "code": "18.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00084",
-      "work_card_id": "MM-MEDIA-000309",
+      "work_card_id": "MM-MEDIA-003056",
       "description_ko": "Exalted에서는 절제 같은 덕목을 행동에 발휘하면 능력 판정을 강화할 수 있어, 인물이 지키는 도덕적 규율이 실제 성취의 힘으로 작동한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "스스로 정한 도덕적 한계는 행동을 금지하는 동시에 무엇을 위해 싸우는지 지탱하는 기준이 된다. 작품에 따라 그 규율이 정신적 결의로 표현되거나 능력 판정 같은 구체적인 시스템과 연결될 수 있다.\n\n외부에서 강제로 부과한 제약과는 자발성이 다르다. 도덕 규칙 때문에 단순히 무력해지는 모습만으로는 부족하며, 그 규칙을 지키는 일이 정체성과 지속적인 행동을 뒷받침하는지 확인한다.\n\n《[[Exalted]]》에는 절제 같은 덕목을 발휘하여 능력 판정을 강화하는 규칙이 있다. 덕목과 성취가 연결되는 사례이지만, 이를 모든 판본의 동일한 세부 규칙으로 일반화하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "스스로 정한 도덕적 한계는 행동을 금지하는 동시에 무엇을 위해 싸우는지 지탱하는 기준이 된다. 작품에 따라 그 규율이 정신적 결의로 표현되거나 능력 판정 같은 구체적인 시스템과 연결될 수 있다.\n\n외부에서 강제로 부과한 제약과는 자발성이 다르다. 도덕 규칙 때문에 단순히 무력해지는 모습만으로는 부족하며, 그 규칙을 지키는 일이 정체성과 지속적인 행동을 뒷받침하는지 확인한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Exalted]]》에는 절제 같은 덕목을 발휘하여 능력 판정을 강화하는 규칙이 있다. 덕목과 성취가 연결되는 사례이지만, 이를 모든 판본의 동일한 세부 규칙으로 일반화하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

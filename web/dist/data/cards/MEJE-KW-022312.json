@@ -4,8 +4,8 @@
   "title": "저장을 이야기 속 행동으로 설명하기",
   "original": "Justified Save Point",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02174",
+  "primary_tag_id": "ML-T02174",
   "description": {
     "definition": "진행 저장을 기록·보고·기도·기억 보존 같은 작중 인물의 행동이나 세계관 속 장치와 연결한다.",
     "detail": "작품 사례: 《[[젤다의 전설 스카이워드 소드]]》는 새의 석상에서 저장하는 행동을 여신에게 기도하는 것으로 설명하여 게임 기능을 세계 안의 행위로 연결한다.",
@@ -13,10 +13,10 @@
     "boundary": "게임 밖 튜토리얼에서 저장 필요성을 말하는 설명만으로는 해당하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.012.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-002175",
+      "work_card_id": "MM-MEDIA-002028",
       "description_ko": "《젤다의 전설 스카이워드 소드》는 새의 석상에서 저장하는 행동을 여신에게 기도하는 것으로 설명하여 게임 기능을 세계 안의 행위로 연결한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "저장 기능을 여행 기록이나 기억 보존 같은 행동으로 제시하면 플레이어의 진행 보관이 세계 안의 사건으로 설명된다. 저장 장소와 접촉하거나 기록을 남기는 인물의 행동이 실제 저장 명령에 대응한다. 화면 밖 안내가 저장 버튼을 누르라고 말하는 데 그치면 이런 연결은 생기지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "저장 기능을 여행 기록이나 기억 보존 같은 행동으로 제시하면 플레이어의 진행 보관이 세계 안의 사건으로 설명된다. 저장 장소와 접촉하거나 기록을 남기는 인물의 행동이 실제 저장 명령에 대응한다. 화면 밖 안내가 저장 버튼을 누르라고 말하는 데 그치면 이런 연결은 생기지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

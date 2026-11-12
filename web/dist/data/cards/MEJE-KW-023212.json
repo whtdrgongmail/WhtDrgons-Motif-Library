@@ -5,8 +5,8 @@
   "original": "A Profiteering Chain Ignores Food Poisoning",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01285",
+  "primary_tag_id": "ML-T01285",
   "description": {
     "definition": "음식을 통한 고객의 피해보다 이윤을 우선하여 불량 식품을 대규모로 공급하는 비양심적 외식 체인 설정이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "실제 회사나 특정 식품 첨가물의 위험을 이 허구 설정만으로 판단하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "14",
+    "code": "14.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "체인은 고객에게 해가 생기는 음식을 공급하면서도 이윤을 앞세운다. 문제는 개인의 한 번 실수보다 조직의 반복적인 책임 회피에 있다.\n\n대규모 공급은 피해와 이익을 서로 다른 사람에게 배분한다. 무엇을 알면서 방치했는지에 따라 탐욕의 구조가 드러난다.\n\n실제 회사와 식품의 위험을 이 유형만으로 판단하지 않는다. 허구의 설정과 검증된 안전 정보는 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "체인은 고객에게 해가 생기는 음식을 공급하면서도 이윤을 앞세운다. 문제는 개인의 한 번 실수보다 조직의 반복적인 책임 회피에 있다.\n\n대규모 공급은 피해와 이익을 서로 다른 사람에게 배분한다. 무엇을 알면서 방치했는지에 따라 탐욕의 구조가 드러난다.\n\n실제 회사와 식품의 위험을 이 유형만으로 판단하지 않는다. 허구의 설정과 검증된 안전 정보는 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

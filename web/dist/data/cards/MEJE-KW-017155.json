@@ -4,8 +4,8 @@
   "title": "격돌 직전의 정지 구도",
   "original": "Impending Clash Shot",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01873",
+  "primary_tag_id": "ML-T01873",
   "description": {
     "definition": "서로 공격하려는 두 대상을 타격이 맞닿기 직전의 자세로 포착하여 임박한 충돌과 힘의 대비를 강조하는 화면 구성.",
     "detail": "정지 그림뿐 아니라 영상에서 타격 직전에 동작을 잠시 멈추는 방식으로도 나타난다.\n\n작품 사례: 《[[진격의 거인]]》 1권 표지는 입체기동 장비로 공중에 오른 에렌과 초대형 거인이 충돌하기 직전의 순간을 포착한다.",
@@ -13,30 +13,47 @@
     "boundary": "이미 충돌한 순간을 멈추거나 전투 직전에 다른 사건으로 전환하는 편집과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "싸움의 결과 대신 곧 부딪힐 두 힘을 한순간에 보여 준다.\n\n작품 사례: 《[[진격의 거인]]》 1권 표지는 입체기동 장비로 공중에 오른 에렌과 초대형 거인이 충돌하기 직전의 순간을 포착한다.",
+    "easy_ko": "싸움의 결과 대신 곧 부딪힐 두 힘을 한순간에 보여 준다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001312",
+      "work_card_id": "MM-MEDIA-002207",
       "description_ko": "《진격의 거인》 1권 표지는 입체기동 장비로 공중에 오른 에렌과 초대형 거인이 충돌하기 직전의 순간을 포착한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "격돌의 결과 대신 충돌 직전의 두 대상을 고정하여 다음 타격을 예상하게 한다. 힘의 방향과 남은 거리가 정지 구도에서도 전투의 긴장을 만든다.\n\n이미 충돌한 순간의 정지나 장면을 다른 곳으로 넘기는 편집과 다르다. 실제 정지 그림과 영상의 일시 정지 모두 가능하다.\n\n《[[진격의 거인]]》 1권 표지는 공중의 에렌과 초대형 거인이 마주할 순간을 배치한다. 타격 직전의 구도로 대결을 예고한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "격돌의 결과 대신 충돌 직전의 두 대상을 고정하여 다음 타격을 예상하게 한다. 힘의 방향과 남은 거리가 정지 구도에서도 전투의 긴장을 만든다.\n\n이미 충돌한 순간의 정지나 장면을 다른 곳으로 넘기는 편집과 다르다. 실제 정지 그림과 영상의 일시 정지 모두 가능하다."
+      ],
+      [
+        "관련 작품",
+        "《[[진격의 거인]]》 1권 표지는 공중의 에렌과 초대형 거인이 마주할 순간을 배치한다. 타격 직전의 구도로 대결을 예고한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

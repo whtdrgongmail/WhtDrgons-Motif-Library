@@ -4,8 +4,8 @@
   "title": "시끄러운 악기를 부숴 버리기",
   "original": "Breaking the Annoying Instrument",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00785",
+  "primary_tag_id": "ML-T00785",
   "description": {
     "definition": "연주에 질린 인물이 상대의 악기를 갑자기 망가뜨린다. 소리를 멈추려는 행동이 관계를 크게 해칠 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 사람의 연주가 거슬린 인물이 악기를 빼앗아 부숴 버리는 장면이다. 음악을 끝내려는 분노가 악기의 물리적 파괴로 즉시 표현된다.\n\n서투른 연주나 소음, 수면 방해가 원인이 될 수 있고 음악 자체를 싫어하는 성격을 드러낼 수도 있다. 연주 도중 갑작스럽게 파괴하면 소리의 중단과 인물의 반응이 짧은 희극적 효과를 만든다.\n\n연주자가 공연의 일부로 자기 악기를 부수는 행동과는 다르다. 여기서는 원치 않는 음악을 강제로 중단시키려는 타인의 행동이 핵심이며, 분노에 따른 물건 파손의 한 형태다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 사람의 연주가 거슬린 인물이 악기를 빼앗아 부숴 버리는 장면이다. 음악을 끝내려는 분노가 악기의 물리적 파괴로 즉시 표현된다.\n\n서투른 연주나 소음, 수면 방해가 원인이 될 수 있고 음악 자체를 싫어하는 성격을 드러낼 수도 있다. 연주 도중 갑작스럽게 파괴하면 소리의 중단과 인물의 반응이 짧은 희극적 효과를 만든다.\n\n연주자가 공연의 일부로 자기 악기를 부수는 행동과는 다르다. 여기서는 원치 않는 음악을 강제로 중단시키려는 타인의 행동이 핵심이며, 분노에 따른 물건 파손의 한 형태다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

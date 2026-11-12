@@ -4,8 +4,8 @@
   "title": "말하기 어려운 진실",
   "original": "Awful Truth",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01951",
+  "primary_tag_id": "ML-T01951",
   "description": {
     "definition": "사실을 알리는 순간 상대가 크게 흔들릴 것을 알아 망설이는 정보. 숨기는 이유와 밝힌 뒤의 선택이 진실 자체만큼 중요하다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.004.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공개하면 개인의 삶이나 공동체의 안정을 흔들 수 있어 숨겨지는 진실이다. 사실을 알 권리와 알게 된 뒤의 피해가 충돌한다.\n\n진실을 아는 인물은 보호를 위해 감춘다고 주장할 수 있지만 그 판단 자체가 다른 사람의 선택권을 제한한다. 공개의 피해와 은폐의 피해가 충돌하면 선의만으로 답을 정하기 어려워진다. 사실의 내용뿐 아니라 누가 공개 여부를 결정하는지가 중요한 갈등이다.\n\n[[비밀]]을 지키는 인물의 보호 의도가 정당한지 갈등을 만들 수 있다. 단순히 불쾌한 소식보다 기존 믿음을 근본적으로 무너뜨리는 파장이 강조된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공개하면 개인의 삶이나 공동체의 안정을 흔들 수 있어 숨겨지는 진실이다. 사실을 알 권리와 알게 된 뒤의 피해가 충돌한다.\n\n진실을 아는 인물은 보호를 위해 감춘다고 주장할 수 있지만 그 판단 자체가 다른 사람의 선택권을 제한한다. 공개의 피해와 은폐의 피해가 충돌하면 선의만으로 답을 정하기 어려워진다. 사실의 내용뿐 아니라 누가 공개 여부를 결정하는지가 중요한 갈등이다.\n\n[[비밀]]을 지키는 인물의 보호 의도가 정당한지 갈등을 만들 수 있다. 단순히 불쾌한 소식보다 기존 믿음을 근본적으로 무너뜨리는 파장이 강조된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

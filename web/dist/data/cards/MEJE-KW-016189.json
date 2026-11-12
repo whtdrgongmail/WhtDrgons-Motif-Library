@@ -6,8 +6,8 @@
   "aliases": [
     "유령이 깃든 집"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01285",
+  "primary_tag_id": "ML-T01285",
   "description": {
     "definition": "유령이나 설명되지 않는 괴이한 현상이 주거 공간을 위협적인 장소로 바꾸는 배경이다.",
     "detail": "작품 사례: [[Halloween Horror Nights]]의 [[Legendary Truth: The Wyandot Estate]]는 살인자와 희생자들의 성난 [[유령]]을 불러내는 집을 무대로 삼아, 주거 공간을 괴이한 체험 장소로 바꾼다.",
@@ -15,10 +15,10 @@
     "boundary": "낡고 어두운 집이라도 초자연적 의심이나 활동이 없으면 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "14",
+    "code": "14.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,11 +32,11 @@
   "applied_tags": [],
   "related_media": [
     {
-      "media_tag_id": "ML-T00152",
+      "media_tag_id": "ML-T00188",
       "work_card_id": "MM-MEDIA-000403",
       "description_ko": "Halloween Horror Nights의 Legendary Truth: The Wyandot Estate는 살인자와 희생자들의 성난 유령을 불러내는 집을 무대로 삼아, 주거 공간을 괴이한 체험 장소로 바꾼다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     },
     {
       "media_tag_id": "ML-F02",
@@ -47,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일상적인 안식처여야 할 집이 [[유령]]이나 괴이한 현상 때문에 안전을 보장하지 못한다. 익숙한 방과 생활 동선이 위협을 경험하는 공간으로 바뀐다.\n\n주거 기능과 초자연적 활동의 충돌은 사적인 공간에서도 피할 수 없는 불안을 만든다. 집에 관련된 죽음이나 영혼의 존재가 공간의 의미를 설명할 수 있다.\n\n낡고 어두운 외관만으로 귀신 들린 집이라고 확정할 수 없다. 초자연적인 활동 또는 그에 대한 구체적인 의심이 배경의 위협에 관여해야 한다.\n\n[[Legendary Truth: The Wyandot Estate]]는 살인자와 희생자의 성난 영혼이 나타나는 집을 체험 장소로 삼는다.\n\n[[Halloween Horror Nights]]; [[Legendary Truth: The Wyandot Estate]]",
+    "sections": [
+      [
+        "상세 설명",
+        "일상적인 안식처여야 할 집이 [[유령]]이나 괴이한 현상 때문에 안전을 보장하지 못한다. 익숙한 방과 생활 동선이 위협을 경험하는 공간으로 바뀐다.\n\n주거 기능과 초자연적 활동의 충돌은 사적인 공간에서도 피할 수 없는 불안을 만든다. 집에 관련된 죽음이나 영혼의 존재가 공간의 의미를 설명할 수 있다.\n\n낡고 어두운 외관만으로 귀신 들린 집이라고 확정할 수 없다. 초자연적인 활동 또는 그에 대한 구체적인 의심이 배경의 위협에 관여해야 한다."
+      ],
+      [
+        "사례",
+        "[[Legendary Truth: The Wyandot Estate]]는 살인자와 희생자의 성난 영혼이 나타나는 집을 체험 장소로 삼는다."
+      ],
+      [
+        "관련 작품",
+        "[[Halloween Horror Nights]]; [[Legendary Truth: The Wyandot Estate]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

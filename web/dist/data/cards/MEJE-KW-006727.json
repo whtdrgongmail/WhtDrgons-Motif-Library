@@ -4,8 +4,8 @@
   "title": "사소해 보이는 치명상",
   "original": "Deadly Scratch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00800",
+  "primary_tag_id": "ML-T00800",
   "description": {
     "definition": "처음에는 가볍게 여겨진 상처가 뒤늦게 치명적인 결과로 이어진다. 눈에 보이는 손상의 크기와 실제 서사적 위험 사이에 차이를 둔다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "겉으로는 작은 상처가 독과 감염, 출혈 등의 조건 때문에 생명을 위협하는 구성이다. 눈에 보이는 손상의 크기와 실제 위험이 일치하지 않는다.\n\n처음에 대수롭지 않게 여긴 흔적이 나중에 악화되면 위협의 정체를 뒤늦게 알게 된다. 초상적인 질병과 저주라면 상처가 새로운 상태의 발동점이 된다.\n\n작은 상처가 언제나 치명적이라는 뜻은 아니다. 작품이 제시한 특별한 원인과 시간 경과를 구분해야 하며 실제 부상의 상태를 허구의 한 장면으로 판단할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "겉으로는 작은 상처가 독과 감염, 출혈 등의 조건 때문에 생명을 위협하는 구성이다. 눈에 보이는 손상의 크기와 실제 위험이 일치하지 않는다.\n\n처음에 대수롭지 않게 여긴 흔적이 나중에 악화되면 위협의 정체를 뒤늦게 알게 된다. 초상적인 질병과 저주라면 상처가 새로운 상태의 발동점이 된다.\n\n작은 상처가 언제나 치명적이라는 뜻은 아니다. 작품이 제시한 특별한 원인과 시간 경과를 구분해야 하며 실제 부상의 상태를 허구의 한 장면으로 판단할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

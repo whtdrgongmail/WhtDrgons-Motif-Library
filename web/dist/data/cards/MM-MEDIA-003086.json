@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "빅히어로",
   "original": "Big Hero 6",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "빅 히어로"
+  ],
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "《빅히어로》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《빅히어로》에서 히로의 작은 로봇들은 다수로 모여 구조물과 작업용 팔을 이루며 생각으로 내리는 지시에 따라 형태를 바꾼다. 요괴는 그 군집을 이동과 파괴에 이용한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -41,7 +43,24 @@
     {
       "card_id": "MEJE-KW-028340",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-029883",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《빅히어로》의 히로는 작은 로봇 다수를 함께 운용한다. 개별 로봇보다 군집의 결합 형태가 중요하다. 작은 기계 여러 개가 결합해 다른 형태를 만들면서 개별 부품과 전체 구조의 규모가 달라진다.\n\n로봇들은 구조물이나 작업용 팔을 이루고 생각으로 내린 지시에 따라 모양을 바꾼다. 형태를 바꾸는 명령과 이를 수행할 수 있는 기계의 수가 작동의 구체적인 조건이다.\n\n요괴는 같은 군집을 이동과 파괴에 이용한다. 기술의 기본 구조가 같아도 사용자의 목적에 따라 도구와 무기의 역할이 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《빅히어로》의 히로는 작은 로봇 다수를 함께 운용한다. 개별 로봇보다 군집의 결합 형태가 중요하다. 작은 기계 여러 개가 결합해 다른 형태를 만들면서 개별 부품과 전체 구조의 규모가 달라진다.\n\n로봇들은 구조물이나 작업용 팔을 이루고 생각으로 내린 지시에 따라 모양을 바꾼다. 형태를 바꾸는 명령과 이를 수행할 수 있는 기계의 수가 작동의 구체적인 조건이다.\n\n요괴는 같은 군집을 이동과 파괴에 이용한다. 기술의 기본 구조가 같아도 사용자의 목적에 따라 도구와 무기의 역할이 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

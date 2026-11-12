@@ -4,22 +4,61 @@
   "title": "아르미안의 네 딸들",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02502",
+  "primary_tag_id": "ML-T02502",
   "description": {
-    "definition": "",
+    "definition": "《아르미안의 네 딸들》은 신일숙이 그린 한국의 순정·판타지 만화다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "02.012.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "production_culture",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "가상의 나라 아르미안을 배경으로 네 딸의 이야기를 그린 한국 만화다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000135",
+      "card_id": "MM-MEDIA-003520",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.komacon.kr/b_sys/index.asp?b_code=18&b_mode=view&b_sq=18578",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "한국만화영상진흥원은 아르미안을 고대 갈데아 지방에 놓인 가상 국가로, 작품을 네 공주의 운명이 얽히는 [[역사 판타지]]로 소개한다. 여왕의 계승에 불새의 혈통을 결부한 설정 때문에 왕위는 정치적 직책이면서 신화와 가문의 문제이기도 하다. 인물의 선택을 읽을 때 권력과 가족의 관계를 함께 보게 된다.\n\n같은 작품 소개는 고대 페르시아·그리스의 역사 요소와 그리스·로마 및 근동 신화를 변형해 섞은 구성을 짚는다. 실재 역사의 재현이나 신화 한 편의 각색으로만 좁히면 이런 구성을 놓친다. 한국만화박물관이 이 작품을 순정만화 전시에 넣은 사실은 관계와 운명의 서사가 큰 판타지 무대와 함께 성립함을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한국만화영상진흥원은 아르미안을 고대 갈데아 지방에 놓인 가상 국가로, 작품을 네 공주의 운명이 얽히는 [[역사 판타지]]로 소개한다. 여왕의 계승에 불새의 혈통을 결부한 설정 때문에 왕위는 정치적 직책이면서 신화와 가문의 문제이기도 하다. 인물의 선택을 읽을 때 권력과 가족의 관계를 함께 보게 된다.\n\n같은 작품 소개는 고대 페르시아·그리스의 역사 요소와 그리스·로마 및 근동 신화를 변형해 섞은 구성을 짚는다. 실재 역사의 재현이나 신화 한 편의 각색으로만 좁히면 이런 구성을 놓친다. 한국만화박물관이 이 작품을 순정만화 전시에 넣은 사실은 관계와 운명의 서사가 큰 판타지 무대와 함께 성립함을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

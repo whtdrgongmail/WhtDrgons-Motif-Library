@@ -4,8 +4,8 @@
   "title": "독학한 재야 마법사",
   "original": "Hedge Mage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-027456",
+  "primary_tag_id": "MEJE-KW-027456",
   "description": {
     "definition": "학교·길드·정식 도제 제도와 떨어져 스스로 또는 비공식 교류로 [[마법]]을 배운 마법사 유형이다.",
     "detail": "작품 사례: [[Aurora (2019)]]의 Alinua는 고립되어 정식 마법 교육을 받지 못했으며, 정규 교육을 받은 Erin과 서로의 마법 접근법을 낯설어한다.",
@@ -13,11 +13,11 @@
     "boundary": "서민 출신이거나 마법이 서툴다는 사실만으로는 해당하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.005.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정규 교육 기관이나 공인된 스승의 체계 밖에서 마법을 익힌 인물이다. 중요한 것은 신분의 낮음이나 실력의 부족이 아니라 지식을 얻고 전하는 경로가 비공식적이라는 점이며, 그 경로가 마법을 이해하는 방식에도 영향을 준다.\n\n서민 출신이라고 모두 독학 [[마법사]]는 아니며, 정식 교육을 받지 않았다고 반드시 서툰 것도 아니다. 제도권의 용어와 방법을 모르는 인물이 다른 접근을 쓰면 서로의 능력을 잘못 평가하거나 낯설어하는 관계가 생길 수 있다.\n\n[[Aurora (2019)]]의 Alinua는 고립된 생활 때문에 정식 마법 교육을 받지 못했다. 정규 교육을 거친 Erin과 서로의 방법을 생소하게 여기면서 교육 경로의 차이가 마법 접근법의 차이로 나타난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정규 교육 기관이나 공인된 스승의 체계 밖에서 마법을 익힌 인물이다. 중요한 것은 신분의 낮음이나 실력의 부족이 아니라 지식을 얻고 전하는 경로가 비공식적이라는 점이며, 그 경로가 마법을 이해하는 방식에도 영향을 준다.\n\n서민 출신이라고 모두 독학 [[마법사]]는 아니며, 정식 교육을 받지 않았다고 반드시 서툰 것도 아니다. 제도권의 용어와 방법을 모르는 인물이 다른 접근을 쓰면 서로의 능력을 잘못 평가하거나 낯설어하는 관계가 생길 수 있다."
+      ],
+      [
+        "관련 작품",
+        "[[Aurora (2019)]]의 Alinua는 고립된 생활 때문에 정식 마법 교육을 받지 못했다. 정규 교육을 거친 Erin과 서로의 방법을 생소하게 여기면서 교육 경로의 차이가 마법 접근법의 차이로 나타난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

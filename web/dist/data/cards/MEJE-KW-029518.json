@@ -4,8 +4,8 @@
   "title": "원문 사이에 풍자적 주석을 끼워 넣기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00576",
+  "primary_tag_id": "ML-T00576",
   "description": {
     "definition": "원래 글의 부분들을 제시하고 그 사이에 논평자의 재치 있고 비꼬는 반응을 삽입하는 텍스트 형식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "04",
+    "code": "04.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원문의 일부를 제시한 사이사이에 논평자의 풍자적인 반응을 끼워 넣는다. 독자는 원래 문장을 읽는 동시에 그 문장에 대한 반박과 비꼼을 연속해서 접한다.\n\n인용과 논평의 간격이 짧으면 원문의 주장에 즉각 반응하는 대화 같은 리듬이 생긴다. 어떤 대목을 잘라 제시하는지에 따라 논점이 선명해질 수도 있지만 맥락이 줄어들어 원래 뜻이 달라질 수도 있다.\n\n글 전체를 읽은 뒤 별도의 평을 쓰는 형식과는 배치가 다르다. 원문과 주석의 목소리를 구분할 수 있어야 하며 재치 있는 반응이 곧 정확한 반박을 보장하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원문의 일부를 제시한 사이사이에 논평자의 풍자적인 반응을 끼워 넣는다. 독자는 원래 문장을 읽는 동시에 그 문장에 대한 반박과 비꼼을 연속해서 접한다.\n\n인용과 논평의 간격이 짧으면 원문의 주장에 즉각 반응하는 대화 같은 리듬이 생긴다. 어떤 대목을 잘라 제시하는지에 따라 논점이 선명해질 수도 있지만 맥락이 줄어들어 원래 뜻이 달라질 수도 있다.\n\n글 전체를 읽은 뒤 별도의 평을 쓰는 형식과는 배치가 다르다. 원문과 주석의 목소리를 구분할 수 있어야 하며 재치 있는 반응이 곧 정확한 반박을 보장하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

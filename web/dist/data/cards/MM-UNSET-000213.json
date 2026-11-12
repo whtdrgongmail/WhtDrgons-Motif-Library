@@ -2,24 +2,51 @@
   "id": "MM-UNSET-000213",
   "kind": "keyword",
   "title": "치트",
-  "original": "",
+  "original": "cheat",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F25",
   "description": {
-    "definition": "",
+    "definition": "게임에서 치트는 통상적인 진행 조건을 우회하거나 게임 상태·규칙을 바꾸어 일반 플레이와 다른 결과를 얻는 기능 또는 사용 방식이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "정해진 순서대로 플레이하지 않고 숨겨진 명령이나 별도 도구로 게임의 조건을 바꾸는 것이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[치트 코드]]처럼 제작자가 남긴 입력 명령, 개발 중 시험을 위한 조작, 외부 도구를 통한 변경 등이 서로 다른 방식으로 불린다. 허용된 혼자 하는 실험과 다른 사람의 경기를 해치는 부정행위는 구별해야 한다. 치트라는 말이 붙었다는 이유만으로 규칙 위반이라고 단정할 수 없다.\n\n원래보다 쉽게 만들 수도 있지만 반대로 불리한 조건을 부여해 [[자기 제한 플레이]]를 만들 수도 있다. 따라서 효과의 방향보다 정상 진행과 다른 조건을 열거나 바꾸는 데 초점을 둔다.\n\n개발자가 시험 중 특정 장소로 바로 이동하거나 무기를 즉시 지급하는 명령을 쓰고, 완성된 게임에서 일부 명령을 이용자가 사용할 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[치트 코드]]처럼 제작자가 남긴 입력 명령, 개발 중 시험을 위한 조작, 외부 도구를 통한 변경 등이 서로 다른 방식으로 불린다. 허용된 혼자 하는 실험과 다른 사람의 경기를 해치는 부정행위는 구별해야 한다. 치트라는 말이 붙었다는 이유만으로 규칙 위반이라고 단정할 수 없다.\n\n원래보다 쉽게 만들 수도 있지만 반대로 불리한 조건을 부여해 [[자기 제한 플레이]]를 만들 수도 있다. 따라서 효과의 방향보다 정상 진행과 다른 조건을 열거나 바꾸는 데 초점을 둔다."
+      ],
+      [
+        "사례",
+        "개발자가 시험 중 특정 장소로 바로 이동하거나 무기를 즉시 지급하는 명령을 쓰고, 완성된 게임에서 일부 명령을 이용자가 사용할 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

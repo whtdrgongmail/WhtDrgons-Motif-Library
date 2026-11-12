@@ -4,8 +4,8 @@
   "title": "현지화 뒤 뒤섞인 인물 이름",
   "original": "Dub Name Shuffle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02282",
+  "primary_tag_id": "ML-T02282",
   "description": {
     "definition": "번역판에서 한 인물에게 붙인 새 이름이 원작의 다른 인물 이름과 겹쳐 이름들을 다시 바꾸거나 서로 바꾸는 현상. 인물 이름이 뒤섞이는 현상은 먼저 이루어진 [[현지화로 바뀐 인물 이름]]에서 비롯되기도 한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현지화에서 바꾼 인물 이름이 원작의 다른 인물 이름과 겹치거나 여러 인물의 이름이 서로 바뀌는 현상이다. 같은 인물도 판본에 따라 다른 이름으로 대응된다.\n\n먼저 등장한 인물에게 새 이름을 붙인 뒤 원작에 그 이름을 가진 인물이 추가되면 다른 이름을 다시 정해야 할 수 있다. 번역 과정에서 비슷한 인물들을 혼동해 이름이 순환하거나 교환되는 경우도 있다.\n\n일반적인 이름 변경보다 인물 사이의 대응 관계가 복잡해진다는 점이 특징이다. 판본을 비교할 때 이름만 같다고 같은 인물로 판단하면 혼동이 생길 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현지화에서 바꾼 인물 이름이 원작의 다른 인물 이름과 겹치거나 여러 인물의 이름이 서로 바뀌는 현상이다. 같은 인물도 판본에 따라 다른 이름으로 대응된다.\n\n먼저 등장한 인물에게 새 이름을 붙인 뒤 원작에 그 이름을 가진 인물이 추가되면 다른 이름을 다시 정해야 할 수 있다. 번역 과정에서 비슷한 인물들을 혼동해 이름이 순환하거나 교환되는 경우도 있다.\n\n일반적인 이름 변경보다 인물 사이의 대응 관계가 복잡해진다는 점이 특징이다. 판본을 비교할 때 이름만 같다고 같은 인물로 판단하면 혼동이 생길 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

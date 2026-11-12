@@ -4,8 +4,8 @@
   "title": "수집형 카드 게임",
   "original": "Collectible Card Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00476",
+  "primary_tag_id": "ML-T00476",
   "description": {
     "definition": "[[플레이어]]가 소유한 카드 중에서 덱을 꾸리고 정해진 규칙으로 대결하는 게임 유형. 카드를 모으는 선택과 대결에서 쓰는 선택이 연결된다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.209.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,26 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "각자가 같은 표준 카드 묶음을 받지 않고 소유한 카드에서 사용할 덱을 선택한다. 대결 전의 구성과 실제 차례의 판단이 이어져 수집과 전략이 한 경험을 이룬다.\n\n카드가 늘면 가능한 조합도 달라지지만 소유한 것 모두를 한 번에 쓸 수 있는 것은 아니다. 무작위 상품과 고정된 구성 상품은 수집 경로가 다르며, 희귀도와 실제 대전 성능이 언제나 같은 기준은 아니다.\n\n[[보드·카드게임 규칙]]이라는 넓은 범위 중 소유와 덱 구성의 관계가 특징이다. 대부분이 일대일 대결이어도 모든 형식이 같지는 않으며 카드로 진행한다는 사실만으로 수집형 게임이 되는 것은 아니다.\n\n《[[매직: 더 개더링]]》은 원문에 열거된 수집형 카드 게임 가운데 하나다. 공통으로 배부한 카드만 쓰는 게임과 달리 보유 카드에서 덱을 준비하는 유형의 작품 사례로 제시된다.\n\nMagic: The Gathering",
+    "sections": [
+      [
+        "상세 설명",
+        "각자가 같은 표준 카드 묶음을 받지 않고 소유한 카드에서 사용할 덱을 선택한다. 대결 전의 구성과 실제 차례의 판단이 이어져 수집과 전략이 한 경험을 이룬다.\n\n카드가 늘면 가능한 조합도 달라지지만 소유한 것 모두를 한 번에 쓸 수 있는 것은 아니다. 무작위 상품과 고정된 구성 상품은 수집 경로가 다르며, 희귀도와 실제 대전 성능이 언제나 같은 기준은 아니다.\n\n[[보드·카드게임 규칙]]이라는 넓은 범위 중 소유와 덱 구성의 관계가 특징이다. 대부분이 일대일 대결이어도 모든 형식이 같지는 않으며 카드로 진행한다는 사실만으로 수집형 게임이 되는 것은 아니다."
+      ],
+      [
+        "사례",
+        "《[[매직: 더 개더링]]》은 원문에 열거된 수집형 카드 게임 가운데 하나다. 공통으로 배부한 카드만 쓰는 게임과 달리 보유 카드에서 덱을 준비하는 유형의 작품 사례로 제시된다."
+      ],
+      [
+        "관련 작품",
+        "Magic: The Gathering"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

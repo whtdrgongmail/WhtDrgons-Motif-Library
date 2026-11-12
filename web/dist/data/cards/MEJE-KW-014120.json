@@ -4,8 +4,8 @@
   "title": "헬륨 때문에 달라진 목소리",
   "original": "Helium Speech",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "헬륨을 들이마신 인물의 목소리가 가늘고 우스운 음색으로 바뀌는 것을 이용한 음향 장면이다.",
     "detail": "작품 사례: [[Doctor Who]]의 Robots of Death에서 Leela의 목소리가 헬륨 때문에 높아지자, 음성으로 사람을 식별하던 로봇들이 그녀를 알아보지 못한다.",
@@ -13,10 +13,10 @@
     "boundary": "음높이를 높이는 편집 효과와 실제 음색 변화의 설명은 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000254",
+      "work_card_id": "MM-MEDIA-001308",
       "description_ko": "Doctor Who의 Robots of Death에서 Leela의 목소리가 헬륨 때문에 높아지자, 음성으로 사람을 식별하던 로봇들이 그녀를 알아보지 못한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가스의 영향으로 목소리가 일시적으로 높아지는 현상을 장면의 사건에 사용하는 방식이다. 평소와 다른 소리는 웃음을 만들 뿐 아니라 음성에 의존하는 상대의 판단과 식별을 바꾸는 조건이 될 수 있다.\n\n음높이를 높인 편집 효과와 작품 안에서 설명하는 음색 변화는 구분해야 한다. 가스를 흡입했다는 원인과 달라진 소리가 실제로 연결되어야 하며, 원래 높은 목소리를 가진 인물과는 다르다. 여기서는 변화의 결과를 다룰 뿐 체험 절차를 설명하지 않는다.\n\n[[Doctor Who]]의 Robots of Death에서 Leela는 헬륨의 영향으로 목소리가 높아진다. 음성으로 사람을 알아보던 로봇들이 그녀를 식별하지 못하면서 일시적인 음성 변화가 사건에 영향을 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가스의 영향으로 목소리가 일시적으로 높아지는 현상을 장면의 사건에 사용하는 방식이다. 평소와 다른 소리는 웃음을 만들 뿐 아니라 음성에 의존하는 상대의 판단과 식별을 바꾸는 조건이 될 수 있다.\n\n음높이를 높인 편집 효과와 작품 안에서 설명하는 음색 변화는 구분해야 한다. 가스를 흡입했다는 원인과 달라진 소리가 실제로 연결되어야 하며, 원래 높은 목소리를 가진 인물과는 다르다. 여기서는 변화의 결과를 다룰 뿐 체험 절차를 설명하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[Doctor Who]]의 Robots of Death에서 Leela는 헬륨의 영향으로 목소리가 높아진다. 음성으로 사람을 알아보던 로봇들이 그녀를 식별하지 못하면서 일시적인 음성 변화가 사건에 영향을 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

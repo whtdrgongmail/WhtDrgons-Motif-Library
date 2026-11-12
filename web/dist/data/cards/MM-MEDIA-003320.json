@@ -3,18 +3,21 @@
   "kind": "work",
   "title": "타이타닉(1997)",
   "original": "Titanic (1997)",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "타이타닉",
+    "타이타닉(1997년 영화)"
+  ],
+  "tag_id": "ML-T02487",
   "primary_tag_id": "ML-T02487",
   "description": {
     "definition": "《타이타닉(1997)》는 영화 작품이다.",
-    "detail": "작품 사례: 《타이타닉(1997)》의 VHS판은 두 테이프로 나뉘며, 첫 테이프는 잭이 절도 누명을 쓰고 체포되는 대목에서 끝난다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.005",
     "review_status": "provisional",
@@ -39,9 +42,34 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-016456",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-020235",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-020899",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-029556",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《타이타닉(1997)》의 VHS판은 두 테이프에 나뉘어 수록되었다. 한 편의 영화가 물리적으로 분할된 배포 형태다. 현재의 탐색이 생존자의 회고를 통해 침몰 당시의 관계와 사건으로 이어지는 영화다.\n\n첫 테이프는 잭이 절도 누명을 쓰고 체포되는 대목에서 끝난다. 인물의 위기가 해결되기 전에 재생이 중단된다. 인물의 기억과 실제 역사 자료, 허구의 연애 이야기는 서로 다른 근거의 층위로 구별된다.\n\n테이프 교체 지점이 이야기의 긴장과 겹친다. 극장 상영에서 연속되던 진행이 가정용 매체에서는 별도의 멈춤을 갖는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《타이타닉(1997)》의 VHS판은 두 테이프에 나뉘어 수록되었다. 한 편의 영화가 물리적으로 분할된 배포 형태다. 현재의 탐색이 생존자의 회고를 통해 침몰 당시의 관계와 사건으로 이어지는 영화다.\n\n첫 테이프는 잭이 절도 누명을 쓰고 체포되는 대목에서 끝난다. 인물의 위기가 해결되기 전에 재생이 중단된다. 인물의 기억과 실제 역사 자료, 허구의 연애 이야기는 서로 다른 근거의 층위로 구별된다.\n\n테이프 교체 지점이 이야기의 긴장과 겹친다. 극장 상영에서 연속되던 진행이 가정용 매체에서는 별도의 멈춤을 갖는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

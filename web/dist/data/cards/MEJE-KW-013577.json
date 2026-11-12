@@ -4,8 +4,8 @@
   "title": "노력으로 유지하는 사랑",
   "original": "Love Takes Work",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "연인이나 부부가 관계의 어려움을 다루기 위해 지속적인 노력과 조정을 하며 애정을 유지하는 유형이다.",
     "detail": "거대한 고백이나 일시적인 낭만만으로 관계가 유지되지 않는다는 점을 보여 준다. 어려움을 다루는 두 사람과 사랑은 쉬워야 한다고 믿는 인물을 대비시킬 수 있다.\n\n작품 사례: 《[[스타워즈 제다이: 오더의 몰락]]》에서 그리즈는 사랑에 상호 존중과 대화, 상대 말을 듣는 노력이 필요하다고 설명한다. 관계를 얻는 순간보다 유지하는 태도를 주제로 삼는 대사다.",
@@ -13,14 +13,20 @@
     "boundary": "관계 형성 이전의 구애 노력과 구별하며 이미 형성된 사랑의 유지에 초점을 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사랑한다는 마음만으로 끝내지 않고 다툼과 생활 문제를 함께 해결한다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "큰 고백과 낭만적 행동이 관계를 시작하게 해도 그 뒤 생활이 자동으로 해결되지는 않는다. 함께 지내며 생기는 갈등과 변화에 대응해야 하는 상황이 이어진다.\n\n존중·대화·경청·타협·책임 조정이 애정을 유지하는 방식으로 제시된다. 사랑은 쉬워야 한다고 믿는 인물과 노력의 필요를 받아들이는 인물이 대비될 수 있다.\n\n관계 형성 이전의 구애 노력과는 다르다. 어려움을 다룬다고 사랑을 부정적으로 평가하는 것은 아니며 이미 맺어진 관계의 유지에 초점을 둔다.\n\n작품 사례: 《[[스타워즈 제다이: 오더의 몰락]]》에서 그리즈는 사랑에 상호 존중과 대화, 상대 말을 듣는 노력이 필요하다고 설명한다. 관계를 얻는 순간보다 유지하는 태도를 주제로 삼는 대사다.",
+    "sections": [
+      [
+        "상세 설명",
+        "큰 고백과 낭만적 행동이 관계를 시작하게 해도 그 뒤 생활이 자동으로 해결되지는 않는다. 함께 지내며 생기는 갈등과 변화에 대응해야 하는 상황이 이어진다.\n\n존중·대화·경청·타협·책임 조정이 애정을 유지하는 방식으로 제시된다. 사랑은 쉬워야 한다고 믿는 인물과 노력의 필요를 받아들이는 인물이 대비될 수 있다.\n\n관계 형성 이전의 구애 노력과는 다르다. 어려움을 다룬다고 사랑을 부정적으로 평가하는 것은 아니며 이미 맺어진 관계의 유지에 초점을 둔다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[스타워즈 제다이: 오더의 몰락]]》에서 그리즈는 사랑에 상호 존중과 대화, 상대 말을 듣는 노력이 필요하다고 설명한다. 관계를 얻는 순간보다 유지하는 태도를 주제로 삼는 대사다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

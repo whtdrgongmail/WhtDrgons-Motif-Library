@@ -4,8 +4,8 @@
   "title": "슬픈 현악으로 장면의 감정 끌어올리기",
   "original": "Playing the Heart Strings",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02056",
+  "primary_tag_id": "ML-T02056",
   "description": {
     "definition": "애조를 띤 현악 선율을 앞세우고 다른 소리를 물려 장면의 비극·그리움·격정을 강조하는 음악 연출이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "격렬한 화면의 소음이 잦아들고 현악 선율이 인물의 슬픔을 대신 말한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "현악을 전면에 놓으면 화면 속 사건의 물리적인 크기보다 정서적인 의미가 부각된다. 현장음을 낮추거나 흐리게 처리한 뒤 느린 선율을 들려주면 관객은 무엇이 부서지는가보다 누가 무엇을 잃는가에 집중하게 된다. 독주와 합주 모두 가능하며, 조용한 음악과 격한 화면의 차이가 감정을 키울 수도 있다.\n\n죽음이나 비극적인 싸움뿐 아니라 강한 애정과 재회의 순간에도 사용할 수 있다. 반대로 실제 연주자가 갑자기 화면에 나타나면 익숙한 감동 연출을 희극으로 드러낼 수 있다. 슬픈 음악이 있다는 사실만으로 충분한 것은 아니고, 소리의 배치가 장면을 어떤 감정으로 읽게 만드는지가 핵심이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "현악을 전면에 놓으면 화면 속 사건의 물리적인 크기보다 정서적인 의미가 부각된다. 현장음을 낮추거나 흐리게 처리한 뒤 느린 선율을 들려주면 관객은 무엇이 부서지는가보다 누가 무엇을 잃는가에 집중하게 된다. 독주와 합주 모두 가능하며, 조용한 음악과 격한 화면의 차이가 감정을 키울 수도 있다.\n\n죽음이나 비극적인 싸움뿐 아니라 강한 애정과 재회의 순간에도 사용할 수 있다. 반대로 실제 연주자가 갑자기 화면에 나타나면 익숙한 감동 연출을 희극으로 드러낼 수 있다. 슬픈 음악이 있다는 사실만으로 충분한 것은 아니고, 소리의 배치가 장면을 어떤 감정으로 읽게 만드는지가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

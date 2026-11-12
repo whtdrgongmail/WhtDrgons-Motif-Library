@@ -4,8 +4,8 @@
   "title": "동인지",
   "original": "Doujinshi",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "MEJE-KW-007792",
+  "primary_tag_id": "MEJE-KW-007792",
   "description": {
     "definition": "개인이나 동인 모임이 독립적으로 기획·제작·발행하는 출판물. 기존 작품을 바탕으로 한 [[팬 창작물]]과 독자적인 원작 만화·글을 모두 포함하며, 인쇄된 작은 책으로만 한정하지 않는다.",
     "detail": "",
@@ -14,17 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 3,
+  "row_version": 4,
   "classification": {
-    "code": "02",
-    "review_status": "provisional",
+    "code": "02.023.001",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "publication_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "개인과 동인 모임이 독립적으로 기획하고 발행하는 출판물이다. 기존 작품을 재해석한 [[팬 창작]]과 독자적인 원작을 모두 포함할 수 있다.\n\n소규모 제작과 직접 유통은 특정한 취향의 독자와 가까이 만나는 방식을 만든다. 여러 사람이 참여하면 개인 필명 대신 모임의 이름으로 활동하며 제작과 판매를 나누기도 한다.\n\n동인지가 곧 성인물이나 기존 작품의 모방을 뜻하지는 않는다. 창작의 기원과 내용, 발행 방식은 별도의 기준이며 제한된 인쇄 부수만으로 범위를 한정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "개인과 동인 모임이 독립적으로 기획하고 발행하는 출판물이다. 기존 작품을 재해석한 [[팬 창작]]과 독자적인 원작을 모두 포함할 수 있다.\n\n소규모 제작과 직접 유통은 특정한 취향의 독자와 가까이 만나는 방식을 만든다. 여러 사람이 참여하면 개인 필명 대신 모임의 이름으로 활동하며 제작과 판매를 나누기도 한다.\n\n동인지가 곧 성인물이나 기존 작품의 모방을 뜻하지는 않는다. 창작의 기원과 내용, 발행 방식은 별도의 기준이며 제한된 인쇄 부수만으로 범위를 한정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

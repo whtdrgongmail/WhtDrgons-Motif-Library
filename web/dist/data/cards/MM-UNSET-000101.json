@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F10",
   "description": {
-    "definition": "",
+    "definition": "서로 다른 종이나 허구적 종족에 속한 인물 사이에 형성되는 친밀한 관계다. 이 문맥에서는 당사자의 동의가 있는 관계를 가리킨다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "10",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "종족이 다른 두 인물이 서로 동의하며 가까운 관계를 맺는 경우다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "연결 문맥의 종간 관계는 서로 다른 종족 구성원 사이에 맺어진 친밀한 관계다. 두 사람이 서로에게 끌린다는 사실과 실제로 관계를 맺는 일은 다르다. 이 문맥에서는 관계가 당사자의 동의에 근거하는지가 구분점이다.\n\n종족 보존을 이유로 상대 집단의 구성원을 강제로 데려오는 사건은 동의한 종간 관계와 구별한다. 자발적인 이주도 강제 확보와 다르다. 행동의 목적뿐 아니라 상대에게 거절과 선택의 여지가 있었는지를 확인한다.\n\n종간 관계 전체를 한 가지 연애 방식이나 사회 규칙으로 일반화하지 않는다. 어떤 종족이 만나며 관계가 공개되는지, 친밀함의 성격이 무엇인지는 작품에서 별도로 정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "연결 문맥의 종간 관계는 서로 다른 종족 구성원 사이에 맺어진 친밀한 관계다. 두 사람이 서로에게 끌린다는 사실과 실제로 관계를 맺는 일은 다르다. 이 문맥에서는 관계가 당사자의 동의에 근거하는지가 구분점이다.\n\n종족 보존을 이유로 상대 집단의 구성원을 강제로 데려오는 사건은 동의한 종간 관계와 구별한다. 자발적인 이주도 강제 확보와 다르다. 행동의 목적뿐 아니라 상대에게 거절과 선택의 여지가 있었는지를 확인한다.\n\n종간 관계 전체를 한 가지 연애 방식이나 사회 규칙으로 일반화하지 않는다. 어떤 종족이 만나며 관계가 공개되는지, 친밀함의 성격이 무엇인지는 작품에서 별도로 정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

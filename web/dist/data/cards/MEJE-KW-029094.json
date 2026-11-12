@@ -4,8 +4,8 @@
   "title": "동료 괴물의 대결이 중심인 시리즈",
   "original": "Mons Series",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-029094",
+  "primary_tag_id": "MEJE-KW-029094",
   "description": {
     "definition": "주요 인물 대부분이 동료 괴물을 거느리고, 중요한 [[갈등]]과 승패가 그 괴물들 사이의 대결을 중심으로 진행되는 작품 유형이다.",
     "detail": "작품 사례: 《[[포켓몬스터(연작)]]》 시리즈는 각 인물이 포켓몬을 동료로 삼고 그들 사이의 대결을 주요 사건으로 전개하는 작품군으로 본문에 제시된다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.407.003",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "몬스터 동료 시리즈에서는 주요 인물들이 각자의 괴물을 동료로 삼고, 괴물들 사이의 대결이 중요한 사건과 승패를 이끈다. 인간 인물의 관계는 파트너 선택, 훈련과 협력, 대결의 결과를 통해 전개되며, 괴물은 단순한 소환 도구보다 서사의 행위자로 기능한다.\n\n괴물이 잠깐 나오거나 포획 요소만 덧붙은 작품과 구분하려면 동료 괴물 사이의 대결과 관계가 시리즈의 중심을 차지하는지 확인한다. 창작에서는 각 파트너의 능력과 성격이 대결의 전략 및 인물 관계에 어떻게 함께 작용하는지 설계할 수 있다. 인간이 직접 싸우지 않는다는 점도 구별에 도움이 된다.\n\n작품 사례: 《[[포켓몬스터(연작)]]》는 인물이 포켓몬을 동료로 삼고, 포켓몬 사이의 대결을 중요한 사건으로 전개한다. 동료 괴물의 능력과 관계가 승패와 이야기 진행에 함께 작용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "몬스터 동료 시리즈에서는 주요 인물들이 각자의 괴물을 동료로 삼고, 괴물들 사이의 대결이 중요한 사건과 승패를 이끈다. 인간 인물의 관계는 파트너 선택, 훈련과 협력, 대결의 결과를 통해 전개되며, 괴물은 단순한 소환 도구보다 서사의 행위자로 기능한다.\n\n괴물이 잠깐 나오거나 포획 요소만 덧붙은 작품과 구분하려면 동료 괴물 사이의 대결과 관계가 시리즈의 중심을 차지하는지 확인한다. 창작에서는 각 파트너의 능력과 성격이 대결의 전략 및 인물 관계에 어떻게 함께 작용하는지 설계할 수 있다. 인간이 직접 싸우지 않는다는 점도 구별에 도움이 된다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[포켓몬스터(연작)]]》는 인물이 포켓몬을 동료로 삼고, 포켓몬 사이의 대결을 중요한 사건으로 전개한다. 동료 괴물의 능력과 관계가 승패와 이야기 진행에 함께 작용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "이름 앞에 i를 붙이는 첨단 이미지",
   "original": "iProduct",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "제품이나 서비스의 이름 앞에 소문자 i를 붙여 인터넷·개인화·첨단 기술의 인상을 만드는 명명 관습이다.",
     "detail": "실제로 인터넷 기능이 없어도 관습적인 첨단 이미지나 패러디를 위해 쓰일 수 있다.\n\n작품 사례: 《[[역전검사]]》의 초기 영어판은 항공사 이름을 iFly로 옮기고, 미츠루기가 이런 이름의 남용을 속으로 꼬집게 한다.",
@@ -13,19 +13,19 @@
     "boundary": "단어에 우연히 i가 들어가거나 특정 브랜드의 로고만 흉내 낸 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "평범한 이름도 앞에 i를 붙여 새롭고 디지털한 제품처럼 보이게 한다.\n\n작품 사례: 《[[역전검사]]》의 초기 영어판은 항공사 이름을 iFly로 옮기고, 미츠루기가 이런 이름의 남용을 속으로 꼬집게 한다.",
+    "easy_ko": "평범한 이름도 앞에 i를 붙여 새롭고 디지털한 제품처럼 보이게 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "제품이나 서비스 이름 앞에 소문자 i를 붙여 인터넷, 개인화, 첨단 기술을 연상시키는 명명 방식이다. 실제 인터넷 기능이 없어도 기술적인 인상을 주는 관습이나 상품명 유행의 패러디로 사용할 수 있다.\n\n이름 앞의 i가 어떤 이미지를 만들기 위해 쓰였는지가 판단 기준이다. 단어에 우연히 i가 들어가 있거나 특정 브랜드의 로고 모양만 흉내 낸 경우는 이 명명 방식과 구별한다.\n\n《[[역전검사]]》의 초기 영어판은 항공사 이름을 iFly로 옮긴다. 미츠루기가 이런 이름의 남용을 속으로 꼬집는 대목은 앞에 i를 붙이는 상품명 유행 자체를 웃음의 대상으로 삼는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "제품이나 서비스 이름 앞에 소문자 i를 붙여 인터넷, 개인화, 첨단 기술을 연상시키는 명명 방식이다. 실제 인터넷 기능이 없어도 기술적인 인상을 주는 관습이나 상품명 유행의 패러디로 사용할 수 있다.\n\n이름 앞의 i가 어떤 이미지를 만들기 위해 쓰였는지가 판단 기준이다. 단어에 우연히 i가 들어가 있거나 특정 브랜드의 로고 모양만 흉내 낸 경우는 이 명명 방식과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[역전검사]]》의 초기 영어판은 항공사 이름을 iFly로 옮긴다. 미츠루기가 이런 이름의 남용을 속으로 꼬집는 대목은 앞에 i를 붙이는 상품명 유행 자체를 웃음의 대상으로 삼는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

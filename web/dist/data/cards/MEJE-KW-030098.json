@@ -4,8 +4,8 @@
   "title": "신화에서 우주 정착지 이름 가져오기",
   "original": "Mnemosyne",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "신화의 인물이나 장소 이름을 새 행성·위성·정착지의 이름으로 사용하는 방식이다.",
     "detail": "작품 사례: 《[[아바타(2009년 영화)]]》의 판도라와 폴리페모스는 신화에서 가져온 이름을 우주의 행성과 위성에 부여한다.",
@@ -13,10 +13,10 @@
     "boundary": "신화 속 존재가 실제로 그곳에 산다는 설정은 필수가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "신화의 이름은 낯선 행성에 이미 알려진 의미와 관계를 더한다. 서로 연관된 신과 장소의 명칭을 여러 정착지에 배정하면 하나의 문화적 계보를 만들 수 있다.\n\n그 이름이 실제 신의 존재를 뜻하는 것은 아니다. 이주민과 명명자의 기억을 보여 주는 방식이며 행성의 환경과 신화의 이미지가 어긋날 때 대비가 생길 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "신화의 이름은 낯선 행성에 이미 알려진 의미와 관계를 더한다. 서로 연관된 신과 장소의 명칭을 여러 정착지에 배정하면 하나의 문화적 계보를 만들 수 있다.\n\n그 이름이 실제 신의 존재를 뜻하는 것은 아니다. 이주민과 명명자의 기억을 보여 주는 방식이며 행성의 환경과 신화의 이미지가 어긋날 때 대비가 생길 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

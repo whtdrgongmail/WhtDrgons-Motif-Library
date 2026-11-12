@@ -4,8 +4,8 @@
   "title": "가둬 둔 사람을 남기고 떠나기",
   "original": "Locked Up and Left Behind",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00781",
+  "primary_tag_id": "ML-T00781",
   "description": {
     "definition": "인물을 묶거나 잠근 뒤 계속 감시하거나 협상할 대상으로 삼지 않고 그곳에 방치한 채 떠나는 행동이다.",
     "detail": "작품 사례: 《[[겨울왕국]]》의 한스는 몸이 얼어 가는 안나를 방에 가두고 떠나, 스스로 나올 수 없는 상태에서 죽도록 버려 둔다.",
@@ -13,10 +13,10 @@
     "boundary": "003차 1985행의 죽게 내버려 두는 의도보다 넓어 장난·일시적 제거·망각도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-002111",
+      "work_card_id": "MM-MEDIA-001363",
       "description_ko": "《겨울왕국》의 한스는 몸이 얼어 가는 안나를 방에 가두고 떠나, 스스로 나올 수 없는 상태에서 죽도록 버려 둔다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가둔 사람이 감시나 협상을 이어 가지 않고 자리를 떠나면 남겨진 인물은 스스로 벗어나거나 발견되기를 기다려야 한다. 구속의 목적과 이후의 운명이 분리된다.\n\n장난으로 시작했어도 위험을 고려하지 않았다면 결과의 심각성이 커질 수 있다. 반대로 구조가 쉬운 장소라면 잠시 다른 사건에서 배제하는 기능이 중심이 된다. 가해자의 의도와 실제 생존 조건은 별도로 확인해야 한다.\n\n인질로 계속 관리하는 관계와 달리 방치가 핵심이다. [[관계를 풀려고 둘만 일부러 가두기]]처럼 대화를 유도할 명확한 목적이 있는 장치와도 다르며, 반드시 죽이려는 의도가 있어야 하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가둔 사람이 감시나 협상을 이어 가지 않고 자리를 떠나면 남겨진 인물은 스스로 벗어나거나 발견되기를 기다려야 한다. 구속의 목적과 이후의 운명이 분리된다.\n\n장난으로 시작했어도 위험을 고려하지 않았다면 결과의 심각성이 커질 수 있다. 반대로 구조가 쉬운 장소라면 잠시 다른 사건에서 배제하는 기능이 중심이 된다. 가해자의 의도와 실제 생존 조건은 별도로 확인해야 한다.\n\n인질로 계속 관리하는 관계와 달리 방치가 핵심이다. [[관계를 풀려고 둘만 일부러 가두기]]처럼 대화를 유도할 명확한 목적이 있는 장치와도 다르며, 반드시 죽이려는 의도가 있어야 하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

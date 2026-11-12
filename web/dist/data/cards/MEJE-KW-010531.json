@@ -4,8 +4,8 @@
   "title": "숲을 지키는 외딴 수호자",
   "original": "Forest Ranger",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "문명에서 떨어져 숲에 살며 그곳의 생명과 경계를 스스로 지키는 인물형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "문명과 거리를 두고 숲을 자신의 책임 영역으로 지키는 인물이다. 거주와 생태적 보호가 개인의 정체성을 이룬다.\n\n침입자를 경계하고 지역의 생물과 길을 잘 알면 숲 자체가 조력자로 느껴진다. 외부인의 생존과 숲의 보존이 충돌하면서 무조건적인 적대와 협력 사이의 판단이 필요해진다.\n\n공식적인 관리 직업과 자기 임명된 수호자는 다르다. 은둔의 이유와 보호 대상이 구체적으로 있어야 하며 자연을 지킨다는 명분이 모든 폭력을 정당화하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "문명과 거리를 두고 숲을 자신의 책임 영역으로 지키는 인물이다. 거주와 생태적 보호가 개인의 정체성을 이룬다.\n\n침입자를 경계하고 지역의 생물과 길을 잘 알면 숲 자체가 조력자로 느껴진다. 외부인의 생존과 숲의 보존이 충돌하면서 무조건적인 적대와 협력 사이의 판단이 필요해진다.\n\n공식적인 관리 직업과 자기 임명된 수호자는 다르다. 은둔의 이유와 보호 대상이 구체적으로 있어야 하며 자연을 지킨다는 명분이 모든 폭력을 정당화하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

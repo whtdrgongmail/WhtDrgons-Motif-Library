@@ -4,23 +4,29 @@
   "title": "보는 사람이 없을 때만 드러내는 악의",
   "original": "Jerkass at Your Discretion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "특정 상대에게 해롭게 행동하면서 다른 사람이 있을 때는 그 태도를 감추어 공개 이미지와 피해자의 경험이 갈라지게 하는 행동 방식이다.",
-    "detail": "영향력 있는 특정 인물이 있을 때만 친절을 연기하고 자리를 비우면 즉시 태도를 바꾼다. 피해자를 거꾸로 가해자처럼 보이게 할 수 있으며, 목격자의 확인이 관계를 뒤집는 계기가 된다.\n\n작품 사례: 《[[네모바지 스폰지밥]]》의 퍼피 플러피는 스폰지밥이 없는 틈마다 핑핑이를 괴롭히고, 돌아오면 얌전한 척해 핑핑이에게 잘못이 돌아가게 한다.",
+    "detail": "",
     "usage": "관찰자와 대상에 따라 악한 태도가 선택적으로 드러나는지 확인한다.",
-    "boundary": "누구에게나 공개적으로 무례한 사람이나 단지 친밀도에 따라 말투가 달라지는 경우와 구별한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 5,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남들 앞에서는 친절하다가 둘만 남으면 괴롭힌다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영향력 있는 인물이 곁에 있을 때는 친절한 태도를 연기하고, 그 사람이 자리를 비우면 특정 상대를 괴롭힌다. 피해자는 실제 행동을 알리려 하지만 다른 인물들이 믿지 않는 경우가 많다.\n\n작품 사례: 《[[네모바지 스폰지밥]]》의 퍼피 플러피는 스폰지밥이 없는 틈마다 핑핑이를 괴롭히고, 돌아오면 얌전한 척해 핑핑이에게 잘못이 돌아가게 한다.\n\n관찰자와 대상에 따라 악한 태도가 선택적으로 드러나는지 확인한다.\n\n누구에게나 공개적으로 무례한 사람이나 단지 친밀도에 따라 말투가 달라지는 경우와 구별한다.\n\n작품 사례: 《[[네모바지 스폰지밥]]》의 「A Pal for Gary」에서 퍼피 플러피는 스폰지밥이 자리를 비우면 핑핑이를 괴롭히고, 스폰지밥이 돌아오면 얌전한 척한다. 핑핑이는 피해를 보고도 잘못을 뒤집어쓴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영향력 있는 인물이 곁에 있을 때는 친절한 태도를 연기하고, 그 사람이 자리를 비우면 특정 상대를 괴롭힌다. 피해자는 실제 행동을 알리려 하지만 다른 인물들이 믿지 않는 경우가 많다.\n\n작품 사례: 《[[네모바지 스폰지밥]]》의 퍼피 플러피는 스폰지밥이 없는 틈마다 핑핑이를 괴롭히고, 돌아오면 얌전한 척해 핑핑이에게 잘못이 돌아가게 한다.\n\n관찰자와 대상에 따라 악한 태도가 선택적으로 드러나는지 확인한다.\n\n누구에게나 공개적으로 무례한 사람이나 단지 친밀도에 따라 말투가 달라지는 경우와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[네모바지 스폰지밥]]》의 「A Pal for Gary」에서 퍼피 플러피는 스폰지밥이 자리를 비우면 핑핑이를 괴롭히고, 스폰지밥이 돌아오면 얌전한 척한다. 핑핑이는 피해를 보고도 잘못을 뒤집어쓴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

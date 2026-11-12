@@ -4,8 +4,8 @@
   "title": "한국에서 제작한 텔레비전 드라마",
   "original": "Korean Drama",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00062",
+  "primary_tag_id": "ML-T00062",
   "description": {
     "definition": "한국에서 제작되는 텔레비전 연속극을 지역적 제작 맥락으로 묶는 매체 분류다.",
     "detail": "가족·연애극뿐 아니라 법정극·의학극 등 여러 [[장르]]가 포함된다. 원문의 빈도·시대 일반화는 모든 작품의 필수 특성으로 옮기지 않는다.\n\n작품 사례: 《[[겨울연가]]》는 원문에서 해외로 확산되고 일본 애니메이션으로도 각색된 한국 드라마의 사례다.",
@@ -13,25 +13,27 @@
     "boundary": "특정 가족 갈등이나 연애 클리셰 하나로 전체를 정의하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "02.014.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "한국 제작 환경에서 만들어지는 여러 장르의 연속극이다.\n\n작품 사례: 《[[겨울연가]]》는 원문에서 해외로 확산되고 일본 애니메이션으로도 각색된 한국 드라마의 사례다.",
+    "easy_ko": "한국 제작 환경에서 만들어지는 여러 장르의 연속극이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -44,5 +46,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한국에서 제작되는 [[텔레비전]] 드라마를 지역적인 제작 맥락으로 묶는 분류다. 하나의 줄거리와 분위기보다 제작 환경과 문화적 배경을 공유한다.\n\n연애와 가족, 역사와 직업, 범죄와 초자연적인 이야기 등 여러 장르가 들어갈 수 있다. 해외 시청과 각색을 통해 소재와 표현이 다른 시장으로 이동하면서 문화적 참조의 해석도 달라진다.\n\n일부 작품에서 익숙한 전개를 전체의 필수 조건으로 볼 수는 없다. 회차와 방영 형식, 대상 관객도 작품과 시기에 따라 다르므로 특정한 줄거리 공식과 매체 분류를 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한국에서 제작되는 [[텔레비전]] 드라마를 지역적인 제작 맥락으로 묶는 분류다. 하나의 줄거리와 분위기보다 제작 환경과 문화적 배경을 공유한다.\n\n연애와 가족, 역사와 직업, 범죄와 초자연적인 이야기 등 여러 장르가 들어갈 수 있다. 해외 시청과 각색을 통해 소재와 표현이 다른 시장으로 이동하면서 문화적 참조의 해석도 달라진다.\n\n일부 작품에서 익숙한 전개를 전체의 필수 조건으로 볼 수는 없다. 회차와 방영 형식, 대상 관객도 작품과 시기에 따라 다르므로 특정한 줄거리 공식과 매체 분류를 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

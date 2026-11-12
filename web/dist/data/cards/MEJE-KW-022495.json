@@ -4,8 +4,8 @@
   "title": "실전을 겪지 않은 어린 검사",
   "original": "Kid Samurai",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00917",
+  "primary_tag_id": "ML-T00917",
   "description": {
     "definition": "검술의 기술과 사무라이 같은 태도를 익혔지만 아직 생사가 걸린 실제 전투를 경험하지 않은 어린 전사 유형이다.",
     "detail": "목검과 검도 훈련, 자만이나 동생 같은 위치가 결합되며 첫 실전은 성장 또는 비극의 계기가 된다.\n\n작품 사례: 《[[베르세르크]]》의 이시도르는 최고의 검사가 되겠다고 나서지만 체격의 한계와 실전 경험 부족을 드러낸다. 실제 싸움을 겪으며 자신에게 맞는 검술을 배워 간다.",
@@ -13,30 +13,47 @@
     "boundary": "어린 검사 전체와 달리 훈련과 실전의 간극이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "검을 멋지게 다룰 수 있다고 생각하지만 진짜 싸움이 무엇인지는 아직 모른다.\n\n작품 사례: 《[[베르세르크]]》의 이시도르는 최고의 검사가 되겠다고 나서지만 체격의 한계와 실전 경험 부족을 드러낸다. 실제 싸움을 겪으며 자신에게 맞는 검술을 배워 간다.",
+    "easy_ko": "검을 멋지게 다룰 수 있다고 생각하지만 진짜 싸움이 무엇인지는 아직 모른다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001301",
+      "work_card_id": "MM-MEDIA-002477",
       "description_ko": "《베르세르크》의 이시도르는 최고의 검사가 되겠다고 나서지만 체격의 한계와 실전 경험 부족을 드러낸다. 실제 싸움을 겪으며 자신에게 맞는 검술을 배워 간다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "목검과 검도 훈련, 자만이나 동생 같은 위치가 결합되며 첫 실전은 성장 또는 비극의 계기가 된다.\n\n기술의 숙련과 폭력의 현실을 대비하여 첫 전투의 성장통을 만든다.\n\n어린 검사 전체와 달리 훈련과 실전의 간극이 중요하다.\n\n《[[베르세르크(만화)]]》 초반의 이시도르는 최고의 검사가 되겠다고 나서지만 자신의 체격과 검술을 과대평가한다. 실제 싸움을 겪으며 큰 검을 흉내 내는 대신 자신의 작은 몸을 활용하는 검술을 배워 간다.",
+    "sections": [
+      [
+        "상세 설명",
+        "목검과 검도 훈련, 자만이나 동생 같은 위치가 결합되며 첫 실전은 성장 또는 비극의 계기가 된다.\n\n기술의 숙련과 폭력의 현실을 대비하여 첫 전투의 성장통을 만든다.\n\n어린 검사 전체와 달리 훈련과 실전의 간극이 중요하다."
+      ],
+      [
+        "관련 작품",
+        "《[[베르세르크(만화)]]》 초반의 이시도르는 최고의 검사가 되겠다고 나서지만 자신의 체격과 검술을 과대평가한다. 실제 싸움을 겪으며 큰 검을 흉내 내는 대신 자신의 작은 몸을 활용하는 검술을 배워 간다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

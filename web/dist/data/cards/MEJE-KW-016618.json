@@ -4,8 +4,8 @@
   "title": "비범하게 예민한 감각",
   "original": "Super-Senses",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01493",
+  "primary_tag_id": "ML-T01493",
   "description": {
     "definition": "시각·청각·후각·촉각 같은 감각이 보통 존재의 범위를 넘어 예민해 정보 자체를 더 많이 감지하는 능력이다. 미세하거나 먼 자극을 알아차리는 것이 이점이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "관찰한 정보를 잘 해석하는 지능과 다르다. 감각이 예민하다고 모든 의미를 정확히 이해하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "감각이 예민하면 남들이 놓치는 작은 자극과 먼 정보를 먼저 얻는다. 같은 장소에 있어도 인물이 접근하는 정보의 양과 범위가 달라진다.\n\n정보를 먼저 얻는 이점과 그 정보로 무엇을 판단할지는 분리된다. 미세한 소리를 들어도 출처를 모를 수 있으므로 능력의 범위를 정하면 해결력과 불확실성을 함께 유지할 수 있다.\n\n감지와 해석은 별개다. 잘 듣는다고 의미를 정확히 아는 것은 아니며 관찰 지능만 높은 경우와도 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "감각이 예민하면 남들이 놓치는 작은 자극과 먼 정보를 먼저 얻는다. 같은 장소에 있어도 인물이 접근하는 정보의 양과 범위가 달라진다.\n\n정보를 먼저 얻는 이점과 그 정보로 무엇을 판단할지는 분리된다. 미세한 소리를 들어도 출처를 모를 수 있으므로 능력의 범위를 정하면 해결력과 불확실성을 함께 유지할 수 있다.\n\n감지와 해석은 별개다. 잘 듣는다고 의미를 정확히 아는 것은 아니며 관찰 지능만 높은 경우와도 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

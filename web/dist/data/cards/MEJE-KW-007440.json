@@ -4,8 +4,8 @@
   "title": "대지 조종 능력",
   "original": "Dishing Out Dirt",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01520",
+  "primary_tag_id": "ML-T01520",
   "description": {
     "definition": "흙과 바위, 지면을 움직여 길을 만들거나 장애물과 공격을 만드는 초자연적 힘이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.004.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "흙과 바위, 모래 같은 지면의 물질을 움직이거나 형태를 바꾸는 자연 계열 능력이다. 단순히 돌을 던지는 도구 사용과 달리 힘으로 물질과 지형을 조절한다.\n\n벽과 방패를 만들거나 길을 갈라 놓으면 공격과 방어, 이동의 조건을 함께 바꿀 수 있다. 같은 능력도 다루는 재료와 거리, 질량의 한계에 따라 전투와 생활에서의 활용이 달라진다.\n\n식물을 기르거나 모든 광물을 다루는 능력과 자동으로 같지 않다. [[세계관]]에서 허용한 재료를 확인하며, 무거운 속성이라는 이미지로 인물의 성격까지 고집스럽고 느리다고 단정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "흙과 바위, 모래 같은 지면의 물질을 움직이거나 형태를 바꾸는 자연 계열 능력이다. 단순히 돌을 던지는 도구 사용과 달리 힘으로 물질과 지형을 조절한다.\n\n벽과 방패를 만들거나 길을 갈라 놓으면 공격과 방어, 이동의 조건을 함께 바꿀 수 있다. 같은 능력도 다루는 재료와 거리, 질량의 한계에 따라 전투와 생활에서의 활용이 달라진다.\n\n식물을 기르거나 모든 광물을 다루는 능력과 자동으로 같지 않다. [[세계관]]에서 허용한 재료를 확인하며, 무거운 속성이라는 이미지로 인물의 성격까지 고집스럽고 느리다고 단정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "장신구를 겸하는 무기",
   "original": "Bling-Bling-BANG!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "무기가 실전 도구이면서 보석 장신구의 역할도 맡도록 꾸며진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "무기에 장식만 덧붙이는 경우와 장신구의 기능까지 겸하는 경우를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무기가 공격 도구이면서 보석 장신구의 역할을 함께 맡는다. 무력과 사치를 나타내는 기능이 같은 소품에 결합된다.\n\n착용하거나 보여 주는 모습에서는 장식의 가치가 강조되고 사건에서는 무기의 기능이 드러날 수 있다. 두 역할이 나뉘어도 물건 자체는 같은 것으로 유지된다.\n\n단지 무기 표면에 장식을 덧붙인 경우와 구분한다. 확보된 항목은 장신구로도 쓰인다고 명시하므로 외관의 화려함만을 조건으로 삼지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "무기가 공격 도구이면서 보석 장신구의 역할을 함께 맡는다. 무력과 사치를 나타내는 기능이 같은 소품에 결합된다.\n\n착용하거나 보여 주는 모습에서는 장식의 가치가 강조되고 사건에서는 무기의 기능이 드러날 수 있다. 두 역할이 나뉘어도 물건 자체는 같은 것으로 유지된다.\n\n단지 무기 표면에 장식을 덧붙인 경우와 구분한다. 확보된 항목은 장신구로도 쓰인다고 명시하므로 외관의 화려함만을 조건으로 삼지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

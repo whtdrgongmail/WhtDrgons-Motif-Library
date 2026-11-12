@@ -4,8 +4,8 @@
   "title": "다른 범인의 수법을 모방하는 범죄자",
   "original": "Jack the Ripoff",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00919",
+  "primary_tag_id": "ML-T00919",
   "description": {
     "definition": "이미 알려진 다른 범죄자의 범행 방식과 특징을 재현하여 주목을 얻거나 수사를 혼란시키는 인물이다.",
     "detail": "작품 사례: 《[[데스노트]]》에서 히구치는 라이토의 무죄를 입증하는 것처럼 보이게 하려고 키라의 범행을 이어 가는 역할을 맡는다.",
@@ -13,10 +13,10 @@
     "boundary": "자기 범행 수법을 반복하는 연쇄범과 다르다. 모방의 대상은 다른 사람의 사건이며 유명세·집착·누명 등 동기는 다양하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001526",
+      "work_card_id": "MM-MEDIA-002463",
       "description_ko": "《데스노트》에서 히구치는 라이토의 무죄를 입증하는 것처럼 보이게 하려고 키라의 범행을 이어 가는 역할을 맡는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이미 유명한 범행의 특징을 재현하여 다른 범죄자와 연결된 것처럼 보이게 한다. 수사자는 같은 범인인지 모방자인지 구분해야 한다.\n\n명성과 주목을 얻거나 책임을 다른 쪽으로 돌리려는 목적이 가능하다. 단순히 수법이 비슷한 우연과 의도적인 재현은 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이미 유명한 범행의 특징을 재현하여 다른 범죄자와 연결된 것처럼 보이게 한다. 수사자는 같은 범인인지 모방자인지 구분해야 한다.\n\n명성과 주목을 얻거나 책임을 다른 쪽으로 돌리려는 목적이 가능하다. 단순히 수법이 비슷한 우연과 의도적인 재현은 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

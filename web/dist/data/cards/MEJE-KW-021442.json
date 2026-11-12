@@ -4,8 +4,8 @@
   "title": "다방면에서 최상급인 만능형",
   "original": "Master of All",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00935",
+  "primary_tag_id": "ML-T00935",
   "description": {
     "definition": "다양한 분야를 다룰 뿐 아니라 거의 모든 중요한 분야에서 최고 수준의 기량을 발휘하여 범용성과 전문성을 동시에 갖춘 인물 유형이다.",
     "detail": "작품 사례: 《[[드래곤 퀘스트 VI]]》에서는 직업을 바꾸어도 익힌 기술과 주문이 남기 때문에 여러 직업을 충분히 숙련하면 강한 전투 능력과 다양한 주문을 함께 갖출 수 있다.",
@@ -13,10 +13,10 @@
     "boundary": "두루 평균적인 인물이나 여러 분야를 조금씩 아는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 분야를 다룰 뿐 아니라 각각에서도 최고 수준의 성과를 낸다. 전문화를 통해 얻는 장점과 범용성이 한 인물에게 결합된다.\n\n약점이 적으면 갈등을 다른 제약에서 마련해야 할 수 있다. 모든 일을 평균적으로 하는 인물과는 개별 능력의 수준이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 분야를 다룰 뿐 아니라 각각에서도 최고 수준의 성과를 낸다. 전문화를 통해 얻는 장점과 범용성이 한 인물에게 결합된다.\n\n약점이 적으면 갈등을 다른 제약에서 마련해야 할 수 있다. 모든 일을 평균적으로 하는 인물과는 개별 능력의 수준이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

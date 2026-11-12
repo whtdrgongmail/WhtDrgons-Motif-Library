@@ -4,8 +4,8 @@
   "title": "과할 만큼 사랑을 과시하는 커플",
   "original": "Sickeningly Sweethearts",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "서로 얼마나 사랑하는지를 끊임없이 과장해서 표현하여 주변에 부담스럽거나 지나치게 달콤한 인상을 주는 커플이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "단순히 사이가 좋은 것과 달리 애정 표현의 과잉이 두드러져야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "둘의 애정 표현이 너무 진해서 옆 사람이 민망해진다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "애칭과 포옹, 웃음을 계속 반복해 관계의 달콤함을 과도하게 보여 준다. 당사자의 행복과 이를 보는 주변의 피로가 대비된다.\n\n사소한 갈등도 다정하게 해결하면 평범한 커플과 다른 정도의 밀착이 강조된다. 장면은 진심 어린 애정과 그 표현의 희극성을 함께 유지할 수 있다.\n\n사랑하는 모습이 한 번 나온 정도와는 다르다. 과장된 반복과 주변에 주는 인상이 중요하며 실제로 표현이 많은 관계를 부정적으로 평가하는 기준은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "애칭과 포옹, 웃음을 계속 반복해 관계의 달콤함을 과도하게 보여 준다. 당사자의 행복과 이를 보는 주변의 피로가 대비된다.\n\n사소한 갈등도 다정하게 해결하면 평범한 커플과 다른 정도의 밀착이 강조된다. 장면은 진심 어린 애정과 그 표현의 희극성을 함께 유지할 수 있다.\n\n사랑하는 모습이 한 번 나온 정도와는 다르다. 과장된 반복과 주변에 주는 인상이 중요하며 실제로 표현이 많은 관계를 부정적으로 평가하는 기준은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

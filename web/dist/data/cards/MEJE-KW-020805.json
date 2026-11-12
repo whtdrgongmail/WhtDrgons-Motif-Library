@@ -4,8 +4,8 @@
   "title": "국제 공동제작",
   "original": "International Coproduction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "서로 다른 나라에 속한 둘 이상의 제작사가 한 작품의 제작에 함께 참여하는 협업 방식이다.",
     "detail": "작품 사례: 《[[2009 로스트 메모리즈]]》는 한국과 일본이 공동제작에 참여한 영화로, 한 작품을 서로 다른 나라의 제작 주체가 함께 만드는 경우다.",
@@ -13,10 +13,10 @@
     "boundary": "해외에서 촬영하거나 외국 배우가 나온다는 사실만으로는 부족하다. 제작사들의 실제 공동 참여가 확인되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "둘 이상의 나라에 속한 제작 주체가 같은 작품에 참여한다. 노동과 기술, 자금의 분담이 한 작품의 제작 과정에 결합된다.\n\n참여 국가가 많다고 이야기의 배경도 여러 나라여야 하는 것은 아니다. 완성품을 수입하여 배급하는 일과 공동 제작은 참여 단계가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "둘 이상의 나라에 속한 제작 주체가 같은 작품에 참여한다. 노동과 기술, 자금의 분담이 한 작품의 제작 과정에 결합된다.\n\n참여 국가가 많다고 이야기의 배경도 여러 나라여야 하는 것은 아니다. 완성품을 수입하여 배급하는 일과 공동 제작은 참여 단계가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

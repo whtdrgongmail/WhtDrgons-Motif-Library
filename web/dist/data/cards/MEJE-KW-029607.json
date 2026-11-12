@@ -4,8 +4,8 @@
   "title": "소환 유닛까지 직접 조종하는 영웅 전략 게임",
   "original": "ARTS",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00449",
+  "primary_tag_id": "ML-T00449",
   "description": {
     "definition": "영웅 중심 팀 대전에서 소환한 유닛을 자동 처리에만 맡기지 않고 이용자가 영웅과 함께 직접 조작한다.",
     "detail": "작품 사례: 《[[도타 2]]》는 소환한 유닛도 이용자가 직접 관리하는 영웅 중심 실시간 전략의 사례로 제시된다.",
@@ -13,17 +13,20 @@
     "boundary": "일반적인 자동 소환물의 단일 영웅 조작과 달리 여러 유닛의 제어를 동시에 요구한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.205.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영웅과 소환 유닛을 각각 조작하면 한 플레이어가 여러 개체의 위치와 행동을 관리한다. 자동으로 따라오는 동료보다 입력과 주의의 부담이 커진다.\n\n소환체의 자율성을 줄이는 대신 공격과 정찰, 분산 행동을 정밀하게 선택할 수 있다. 같은 팀 대전에서도 한 인물만 조종하는 방식과 다른 기술을 요구하는 구조다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영웅과 소환 유닛을 각각 조작하면 한 플레이어가 여러 개체의 위치와 행동을 관리한다. 자동으로 따라오는 동료보다 입력과 주의의 부담이 커진다.\n\n소환체의 자율성을 줄이는 대신 공격과 정찰, 분산 행동을 정밀하게 선택할 수 있다. 같은 팀 대전에서도 한 인물만 조종하는 방식과 다른 기술을 요구하는 구조다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

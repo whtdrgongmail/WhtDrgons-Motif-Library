@@ -4,8 +4,8 @@
   "title": "영국의 수용 발음",
   "original": "Received Pronunciation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01980",
+  "primary_tag_id": "ML-T01980",
   "description": {
     "definition": "영국 영어에서 지역 방언보다 격식 있는 공적 말씨와 연결되어 온 발음 양식이다. 작품에서는 교육·계층·격식을 암시하는 음성 특징으로 활용된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "모든 영국인의 발음이나 영어의 유일하게 옳은 발음을 뜻하지 않는다. 시대와 환경에 따른 인식 차이를 함께 본다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영국 영어에서 지역성보다 격식 있는 공적 말씨와 연결되어 온 발음 양식이다. 작품에서는 대사의 내용과 별도로 교육·계층·격식에 대한 인상을 전달한다.\n\n같은 문장도 어떤 발음으로 말하는지에 따라 인물의 사회적 배경이 다르게 읽힐 수 있다. 다만 그 인상은 시대와 환경의 영향을 받으므로 발음만으로 실제 신분을 확정하지 않는다.\n\n모든 영국인의 말씨를 대표하거나 영어의 유일한 정답을 뜻하지 않는다. 특정 인물이 이 발음을 사용하는 설정과 작품이 거기에 부여하는 평가는 분리할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영국 영어에서 지역성보다 격식 있는 공적 말씨와 연결되어 온 발음 양식이다. 작품에서는 대사의 내용과 별도로 교육·계층·격식에 대한 인상을 전달한다.\n\n같은 문장도 어떤 발음으로 말하는지에 따라 인물의 사회적 배경이 다르게 읽힐 수 있다. 다만 그 인상은 시대와 환경의 영향을 받으므로 발음만으로 실제 신분을 확정하지 않는다.\n\n모든 영국인의 말씨를 대표하거나 영어의 유일한 정답을 뜻하지 않는다. 특정 인물이 이 발음을 사용하는 설정과 작품이 거기에 부여하는 평가는 분리할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

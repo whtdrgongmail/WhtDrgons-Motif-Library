@@ -4,8 +4,8 @@
   "title": "사령술을 이용한 치유",
   "original": "Necromedic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01526",
+  "primary_tag_id": "ML-T01526",
   "description": {
     "definition": "죽음과 언데드를 다루는 힘을 살아 있는 존재의 상처나 상태를 회복시키는 데 사용하는 능력 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "시체를 움직이거나 죽은 자를 되살리는 일 자체와는 목표가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "17",
+    "code": "17.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽음과 언데드를 다루는 힘을 살아 있는 존재의 회복에 사용한다. 힘의 계통과 사용 목적이 통상적인 연상과 다르게 결합한다.\n\n살아 있는 몸을 낫게 하는 목표 때문에 사령술의 활용 범위가 달라진다. 죽음에 관련된 수단과 치유라는 결과 사이에 윤리적 긴장을 구성할 수 있다.\n\n시체를 움직이거나 죽은 자를 되살리는 일 자체와는 다르다. 대상이 살아 있으며 상처나 상태를 회복하려는 목적이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽음과 언데드를 다루는 힘을 살아 있는 존재의 회복에 사용한다. 힘의 계통과 사용 목적이 통상적인 연상과 다르게 결합한다.\n\n살아 있는 몸을 낫게 하는 목표 때문에 사령술의 활용 범위가 달라진다. 죽음에 관련된 수단과 치유라는 결과 사이에 윤리적 긴장을 구성할 수 있다.\n\n시체를 움직이거나 죽은 자를 되살리는 일 자체와는 다르다. 대상이 살아 있으며 상처나 상태를 회복하려는 목적이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "출신 집단이 다른 연애와 혼인을 비난하기",
   "original": "Maligned Mixed Marriage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00984",
+  "primary_tag_id": "ML-T00984",
   "description": {
     "definition": "두 사람이 서로 다른 인종·민족·계층에 속한다는 이유로 연애나 혼인을 부적절하다고 비난하고 관계를 흔드는 [[갈등]]이다.",
     "detail": "작품 사례: 《[[오직 사랑뿐]]》은 세레체와 루스의 결혼이 가족과 정치 권력의 반대에 부딪히는 과정을 그려 두 사람의 관계에 집단의 인종적 경계가 개입하는 갈등을 보여 준다.",
@@ -13,14 +13,20 @@
     "boundary": "문화 차이를 함께 조정하는 어려움과 구별한다. 출신 집단의 차이 자체를 관계를 반대할 근거로 삼아야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "당사자의 애정 대신 집단 사이의 경계를 내세워 함께할 자격이 없다고 몰아붙인다.",
     "review_status": "reviewed",
@@ -38,5 +44,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "출신 집단이 다르다는 이유로 연애와 혼인을 비난한다. 당사자들의 애정과 가족 및 공동체의 허용 기준이 충돌한다.\n\n관계를 끝내라는 압력은 두 사람의 선택과 소속을 함께 시험한다. 개인적인 성격 갈등과 집단의 차이를 이유로 한 반대는 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "출신 집단이 다르다는 이유로 연애와 혼인을 비난한다. 당사자들의 애정과 가족 및 공동체의 허용 기준이 충돌한다.\n\n관계를 끝내라는 압력은 두 사람의 선택과 소속을 함께 시험한다. 개인적인 성격 갈등과 집단의 차이를 이유로 한 반대는 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

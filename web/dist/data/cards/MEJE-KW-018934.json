@@ -4,8 +4,8 @@
   "title": "아프면 작동하지 않는 초능력",
   "original": "Malfunction Malady",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "질병에 걸린 상태가 인물의 초자연적 능력을 제대로 사용하지 못하게 하는 제한 조건이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단순한 피로와 작품이 정한 능력 불능 조건을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "질병으로 신체가 약해지는 동안 초능력의 기능도 흔들리는 설정이다. 쉬어야 하는 일상적인 필요와 능력자로서의 임무가 충돌한다.\n\n능력이 사라지거나 잘못된 대상에 작용할 수 있고 기침 같은 증상에 맞춰 무작위로 발동하기도 한다. 주변은 환자를 돌보면서 부수적인 피해까지 막아야 한다.\n\n일반적인 통제 불능과 달리 아픈 기간이라는 조건이 연결되어야 한다. 치료와 회복까지 기다려야 한다면 강한 능력만으로 현재의 문제를 바로 해결할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "질병으로 신체가 약해지는 동안 초능력의 기능도 흔들리는 설정이다. 쉬어야 하는 일상적인 필요와 능력자로서의 임무가 충돌한다.\n\n능력이 사라지거나 잘못된 대상에 작용할 수 있고 기침 같은 증상에 맞춰 무작위로 발동하기도 한다. 주변은 환자를 돌보면서 부수적인 피해까지 막아야 한다.\n\n일반적인 통제 불능과 달리 아픈 기간이라는 조건이 연결되어야 한다. 치료와 회복까지 기다려야 한다면 강한 능력만으로 현재의 문제를 바로 해결할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

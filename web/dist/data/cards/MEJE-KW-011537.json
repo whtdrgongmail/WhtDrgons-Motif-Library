@@ -6,8 +6,8 @@
   "aliases": [
     "과자로 만든 집"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "MEJE-KW-024205",
+  "primary_tag_id": "MEJE-KW-024205",
   "description": {
     "definition": "과자나 다른 음식이 건물의 [[구조]]와 외관을 이루는 환상적 거주 공간이다.",
     "detail": "먹고 싶은 마음으로 방문자를 유인하는 함정일 수도, 축제의 풍요를 표현하는 공간일 수도 있다.",
@@ -15,11 +15,11 @@
     "boundary": "식품 모양만 흉내 낸 건축물과 구별하며 실제로 음식 재료로 구성된다는 [[설정]]이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 4,
+  "updated_at": "2026-11-12",
+  "row_version": 5,
   "classification": {
-    "code": "14",
-    "review_status": "provisional",
+    "code": "14.009.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -32,5 +32,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "음식 재료로 집의 벽과 지붕 같은 건축 요소를 실제로 이루는 환상적 [[설정]]이다. 거주와 먹을 수 있음이 겹치면서 집은 안식처인 동시에 유혹이나 위험의 원인이 될 수 있다.\n\n과자 모양을 흉내 낸 건물과 구별하려면 재료 자체가 음식이어야 한다. 동화 속 유인 장소뿐 아니라 축제 공간처럼 위험이 없는 변형도 가능하다.\n\n가상 예: 숲에서 길을 잃은 아이가 과자로 지어진 집을 발견하고, 벽을 먹을 수 있다는 사실에 이끌려 가까이 간다.",
+    "sections": [
+      [
+        "상세 설명",
+        "음식 재료로 집의 벽과 지붕 같은 건축 요소를 실제로 이루는 환상적 [[설정]]이다. 거주와 먹을 수 있음이 겹치면서 집은 안식처인 동시에 유혹이나 위험의 원인이 될 수 있다.\n\n과자 모양을 흉내 낸 건물과 구별하려면 재료 자체가 음식이어야 한다. 동화 속 유인 장소뿐 아니라 축제 공간처럼 위험이 없는 변형도 가능하다."
+      ],
+      [
+        "사례",
+        "가상 예: 숲에서 길을 잃은 아이가 과자로 지어진 집을 발견하고, 벽을 먹을 수 있다는 사실에 이끌려 가까이 간다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

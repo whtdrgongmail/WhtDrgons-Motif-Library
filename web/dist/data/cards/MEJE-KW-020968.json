@@ -6,28 +6,28 @@
   "aliases": [
     "이누가미"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01126",
+  "primary_tag_id": "ML-T01126",
   "description": {
     "definition": "일본 설화에서 개의 영을 인간이나 가문에 붙여 수호·번영 또는 저주의 힘을 발휘하는 존재로 설정한 이누가미 유형이다.",
     "detail": "충성스러운 수호자로 대를 이어 남을 수도 있고, 학대나 악의적 이용 때문에 주인과 숙주를 해칠 수도 있다.\n\n작품 사례: 《[[구구레! 코쿠리상]]》의 이누가미는 학대받고 버려진 강아지가 의식으로 요괴가 된 존재로, 자신에게 친절했던 코히나를 따른다.",
     "usage": "가문에 계승되는 수호 관계와 인간이 만든 저주의 책임을 설계한다.",
-    "boundary": "개 모양의 괴물 전부나 유럽의 지옥 사냥개와 동일하지 않다. 특정 가문에 관한 실제 사실 주장으로 쓰지 않는다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "12",
+    "code": "12.004.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "개의 영이 사람이나 집안에 깃들어 지켜 주기도 하고 해를 끼치기도 한다.\n\n작품 사례: 《[[구구레! 코쿠리상]]》의 이누가미는 학대받고 버려진 강아지가 의식으로 요괴가 된 존재로, 자신에게 친절했던 코히나를 따른다.",
+    "easy_ko": "개의 영이 사람이나 집안에 깃들어 지켜 주기도 하고 해를 끼치기도 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -40,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "충성스러운 수호자로 대를 이어 남을 수도 있고, 학대나 악의적 이용 때문에 주인과 숙주를 해칠 수도 있다.\n\n개 모양의 괴물 전부나 유럽의 지옥 사냥개와 동일하지 않다. 특정 가문에 관한 실제 사실 주장으로 쓰지 않는다.\n\n《[[구구레! 코쿠리상]]》의 이누가미는 학대받고 버려진 강아지가 의식으로 요괴가 된 존재로, 자신에게 친절했던 코히나를 따른다.",
+    "sections": [
+      [
+        "상세 설명",
+        "충성스러운 수호자로 대를 이어 남을 수도 있고, 학대나 악의적 이용 때문에 주인과 숙주를 해칠 수도 있다.\n\n개 모양의 괴물 전부나 유럽의 지옥 사냥개와 동일하지 않다. 특정 가문에 관한 실제 사실 주장으로 쓰지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[구구레! 코쿠리상]]》의 이누가미는 학대받고 버려진 강아지가 의식으로 요괴가 된 존재로, 자신에게 친절했던 코히나를 따른다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": "MM-UNSET-000642",
+  "kind": "keyword",
+  "title": "선택의 지속성",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T02130",
+  "primary_tag_id": "ML-T02130",
+  "description": {
+    "definition": "게임에서 이루어진 선택과 그 결과가 이후 진행 상태에 남아 다음 행동의 조건으로 작용하는 성질이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 3,
+  "classification": {
+    "code": "25.007.005",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "한번 한 선택이 지나간 일로 사라지지 않고 다음 플레이에도 영향을 주는 것이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "선택의 지속성은 결정을 내린 순간뿐 아니라 그 뒤에 어떤 상태가 유지되는지를 다룬다. 이전 상태로 돌아가는 수단의 유무와 선택 결과가 세계에 남는 방식은 함께 영향을 줄 수 있다. 다만 선택이 중요하다는 설명만으로 모든 결과가 영구적이라고 확정할 수는 없다.\n\n[[자동 저장 하나로 선택을 되돌리기 어렵게 하기]]는 새 결과가 이전 기록을 바꾸어 복귀 수단을 제한하는 설계다. 위험과 무작위 결과를 감수하는 부담이 커질 수 있지만 지속성이 자동 저장 한 가지 방식에만 의존하는 것은 아니다. 결과의 유지와 플레이어가 수정할 수 있는 범위를 따로 기록해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "선택의 지속성은 결정을 내린 순간뿐 아니라 그 뒤에 어떤 상태가 유지되는지를 다룬다. 이전 상태로 돌아가는 수단의 유무와 선택 결과가 세계에 남는 방식은 함께 영향을 줄 수 있다. 다만 선택이 중요하다는 설명만으로 모든 결과가 영구적이라고 확정할 수는 없다.\n\n[[자동 저장 하나로 선택을 되돌리기 어렵게 하기]]는 새 결과가 이전 기록을 바꾸어 복귀 수단을 제한하는 설계다. 위험과 무작위 결과를 감수하는 부담이 커질 수 있지만 지속성이 자동 저장 한 가지 방식에만 의존하는 것은 아니다. 결과의 유지와 플레이어가 수정할 수 있는 범위를 따로 기록해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

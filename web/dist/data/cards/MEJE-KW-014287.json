@@ -4,8 +4,8 @@
   "title": "영웅·라이벌·친구의 삼인조",
   "original": "Hero, Rival, Friend Trio",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01036",
+  "primary_tag_id": "ML-T01036",
   "description": {
     "definition": "주인공과 그에게 경쟁하는 인물, 둘의 [[갈등]]을 조율하는 친한 동료가 함께 중심 집단을 이루는 관계 구도다.",
     "detail": "작품 사례: [[Victorious]]에서 토리를 중심으로 제이드는 자신이 더 낫다고 증명하려 경쟁한다. 둘 모두와 친한 캣이 다툼을 중재하면서 주인공·경쟁자·친구의 삼각 구도가 만들어진다.",
@@ -13,10 +13,10 @@
     "boundary": "성격이 다른 세 명이라는 이유만으로는 부족하며 경쟁과 조율의 관계가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[주인공]]과 경쟁자, 양쪽에 연결된 친구가 서로 다른 기능을 담당하는 삼인 관계다. 우위를 다투는 축과 감정과 충돌을 조정하는 축이 함께 작동한다.\n\n성격이 다른 세 사람을 모았다는 사실만으로 적용되지 않는다. 경쟁과 중재의 관계가 실제 사건에서 구별되어야 한다.\n\n[[Victorious]]에서 제이드는 토리보다 낫다는 것을 증명하려 한다. 두 사람 모두와 친한 캣은 다툼을 중재해 주인공과 경쟁자, 친구의 역할이 나뉜다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[주인공]]과 경쟁자, 양쪽에 연결된 친구가 서로 다른 기능을 담당하는 삼인 관계다. 우위를 다투는 축과 감정과 충돌을 조정하는 축이 함께 작동한다.\n\n성격이 다른 세 사람을 모았다는 사실만으로 적용되지 않는다. 경쟁과 중재의 관계가 실제 사건에서 구별되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Victorious]]에서 제이드는 토리보다 낫다는 것을 증명하려 한다. 두 사람 모두와 친한 캣은 다툼을 중재해 주인공과 경쟁자, 친구의 역할이 나뉜다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

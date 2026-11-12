@@ -4,8 +4,8 @@
   "title": "도우러 온 부대가 적이기",
   "original": "Cavalry Betrayal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "구조하러 왔다고 믿은 부대가 오히려 [[주인공]]을 공격한다. 안도하던 순간 협력의 방향이 뒤집힌다. 도착한 부대가 적이 되는 상황과 [[구조 부대가 도착했지만 실패하기]]처럼 구조에 실패하는 상황은 남은 인물의 불안을 다르게 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "구조대처럼 보였던 세력이 도착한 뒤 오히려 위기에 처한 인물을 공격하는 전개다. 지원을 기대한 순간 새로운 적이 생겨 안도감이 위협으로 바뀐다.\n\n도착한 집단에 별도의 목적이 있거나 주인공을 적으로 오인한 사정이 원인이 될 수 있다. 먼저 싸우던 적을 공격했다고 해서 주인공의 편이라는 보장은 없다.\n\n진짜 지원군이 적을 이기지 못한 경우와는 다르다. 이 개념에서는 도움을 줄 것이라는 관계의 예상 자체가 뒤집힌다. 구조 신호와 깃발, 제복처럼 동맹을 암시하던 정보가 오해를 강화할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "구조대처럼 보였던 세력이 도착한 뒤 오히려 위기에 처한 인물을 공격하는 전개다. 지원을 기대한 순간 새로운 적이 생겨 안도감이 위협으로 바뀐다.\n\n도착한 집단에 별도의 목적이 있거나 주인공을 적으로 오인한 사정이 원인이 될 수 있다. 먼저 싸우던 적을 공격했다고 해서 주인공의 편이라는 보장은 없다.\n\n진짜 지원군이 적을 이기지 못한 경우와는 다르다. 이 개념에서는 도움을 줄 것이라는 관계의 예상 자체가 뒤집힌다. 구조 신호와 깃발, 제복처럼 동맹을 암시하던 정보가 오해를 강화할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

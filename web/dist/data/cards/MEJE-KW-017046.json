@@ -4,28 +4,34 @@
   "title": "오해로 생긴 삼각관계",
   "original": "Imaginary Love Triangle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00985",
+  "primary_tag_id": "ML-T00985",
   "description": {
     "definition": "실제 호감 관계와 달리 누군가가 세 사람 사이에 연애 경쟁이나 배신이 있다고 잘못 판단하여 생기는 [[관계 갈등]].",
     "detail": "친척이나 친구의 친밀함, 전달 과정에서 달라진 말, 합의된 다자 관계의 오해 등이 계기가 될 수 있다. 당사자들은 주변의 오해를 모를 수 있다.\n\n작품 사례: 《[[해리 포터와 불의 잔]]》에서 해리와 헤르미온느가 사귄다는 기사가 퍼지자 크룸은 실제로 연애 관계가 아닌 해리를 경쟁자로 여긴다.",
     "usage": "감정 관계의 실제 모습과 인물별 믿음이 다른 상태를 만들고 불필요한 포기·질투·중재를 유발한다.",
-    "boundary": "실제로 두 사람이 같은 상대를 원하거나 실제 외도가 있는 경우와 구별한다. 오해가 이후 진짜 감정으로 바뀌면 단계별로 적용 범위를 나눈다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": {
-    "easy_ko": "연인이 아닌 친한 두 사람을 보고 제삼자가 경쟁자라고 생각하거나 외도라고 소문낸다.\n\n작품 사례: 《[[해리 포터와 불의 잔]]》에서 해리와 헤르미온느가 사귄다는 기사가 퍼지자 크룸은 실제로 연애 관계가 아닌 해리를 경쟁자로 여긴다.",
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "연인이 아닌 친한 두 사람을 보고 제삼자가 경쟁자라고 생각하거나 외도라고 소문낸다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "친척이나 친구의 친밀함, 전달 과정에서 달라진 말, 합의된 다자 관계의 오해 등이 계기가 될 수 있다. 당사자들은 주변의 오해를 모를 수 있다.\n\n실제로 두 사람이 같은 상대를 원하거나 실제 외도가 있는 경우와 구별한다. 오해가 이후 진짜 감정으로 바뀌면 단계별로 적용 범위를 나눈다.\n\n소설 《[[해리 포터와 불의 잔]]》에서 해리와 헤르미온느가 사귄다는 리타 스키터의 기사가 퍼지자, 크룸은 실제로 연애 관계가 아닌 해리를 경쟁자로 여긴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "친척이나 친구의 친밀함, 전달 과정에서 달라진 말, 합의된 다자 관계의 오해 등이 계기가 될 수 있다. 당사자들은 주변의 오해를 모를 수 있다.\n\n실제로 두 사람이 같은 상대를 원하거나 실제 외도가 있는 경우와 구별한다. 오해가 이후 진짜 감정으로 바뀌면 단계별로 적용 범위를 나눈다."
+      ],
+      [
+        "관련 작품",
+        "소설 《[[해리 포터와 불의 잔]]》에서 해리와 헤르미온느가 사귄다는 리타 스키터의 기사가 퍼지자, 크룸은 실제로 연애 관계가 아닌 해리를 경쟁자로 여긴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

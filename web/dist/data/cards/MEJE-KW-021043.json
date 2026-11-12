@@ -4,39 +4,56 @@
   "title": "출처 없는 반주가 붙는 노래",
   "original": "Invisible Backup Band",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02002",
+  "primary_tag_id": "ML-T02002",
   "description": {
     "definition": "혼자 노래하거나 악기를 연주하기 시작한 장면에 이야기 속 연주자가 없는 추가 반주·합창·악단 소리가 자연스럽게 더해지는 음악 연출이다.",
     "detail": "작중 공간의 인원과 악기 수를 넘어 풍성한 음악이 들리며 뮤지컬의 표현 관습으로 수용된다.\n\n작품 사례: 《[[Wizards of the Lost Kingdom 2]]》의 술집에는 연주자가 한 명뿐인데도 그 바이올린 소리는 여러 현악기가 연주하는 악단처럼 들린다.",
     "usage": "한 사람의 공연을 감정과 규모가 큰 음악 장면으로 확장할 때 쓴다.",
-    "boundary": "보이지 않는 곳에 실제 악단이 있거나 배경음악이 노래와 무관하게 흐르는 경우와 구별한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "혼자 부르기 시작했는데 어디서 왔는지 모를 악단과 합창이 받쳐 준다.\n\n작품 사례: 《[[Wizards of the Lost Kingdom 2]]》의 술집에는 연주자가 한 명뿐인데도 그 바이올린 소리는 여러 현악기가 연주하는 악단처럼 들린다.",
+    "easy_ko": "혼자 부르기 시작했는데 어디서 왔는지 모를 악단과 합창이 받쳐 준다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-001980",
+      "work_card_id": "MM-MEDIA-002309",
       "description_ko": "《Wizards of the Lost Kingdom 2》의 술집에는 연주자가 한 명뿐인데도 그 바이올린 소리는 여러 현악기가 연주하는 악단처럼 들린다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작중 공간의 인원과 악기 수를 넘어 풍성한 음악이 들리며 뮤지컬의 표현 관습으로 수용된다.\n\n한 사람의 공연을 감정과 규모가 큰 음악 장면으로 확장하는 방식이다.\n\n보이지 않는 곳에 실제 악단이 있거나 배경음악이 노래와 무관하게 흐르는 경우와 구별한다.\n\n《[[위저즈 오브 더 로스트 킹덤 2]]》의 술집에는 연주자가 한 명뿐인데도 그 바이올린 소리는 여러 현악기가 연주하는 악단처럼 들린다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작중 공간의 인원과 악기 수를 넘어 풍성한 음악이 들리며 뮤지컬의 표현 관습으로 수용된다.\n\n한 사람의 공연을 감정과 규모가 큰 음악 장면으로 확장하는 방식이다.\n\n보이지 않는 곳에 실제 악단이 있거나 배경음악이 노래와 무관하게 흐르는 경우와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[위저즈 오브 더 로스트 킹덤 2]]》의 술집에는 연주자가 한 명뿐인데도 그 바이올린 소리는 여러 현악기가 연주하는 악단처럼 들린다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

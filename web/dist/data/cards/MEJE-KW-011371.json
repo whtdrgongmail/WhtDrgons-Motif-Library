@@ -4,8 +4,8 @@
   "title": "자신을 위해 고른 남의 선물",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MEJE-KW-011370",
+  "primary_tag_id": "MEJE-KW-011370",
   "description": {
     "definition": "받는 사람의 필요보다 주는 사람이 쓰거나 공유하고 싶은 물건을 골라 상대에게 선물하는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "자기 자신에게 직접 [[보상]]을 주는 선물과 구별하며, 남에게 주는 형식을 취한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.008.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_pattern",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대의 생일인데 선물한 사람이 더 갖고 싶어 하던 물건을 산다.",
     "review_status": "reviewed",
@@ -30,5 +36,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주는 사람이 받는 사람의 필요보다 자신이 쓰거나 함께 누리고 싶은 물건을 선물하는 상황이다. 선물의 명목과 실제 수혜자가 다르다.\n\n주고 싶은 물건은 주는 사람의 취향이나 편의를 반영하고, 받는 사람은 선물 뒤의 자기중심성을 알아차릴 수 있다. 공동 사용을 강요하면 생일이나 기념일의 관심이 준 사람에게 돌아간다.\n\n자기 자신에게 직접 [[보상]]을 주는 경우와 다르다. 다른 사람에게 주는 형식을 취하면서 선택 기준이 자기 이익에 맞춰져야 한다.\n\n가상 예: 부모가 아이 생일에 자신이 더 쓰고 싶은 새 게임기를 사 주고 함께 하자고 요구한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주는 사람이 받는 사람의 필요보다 자신이 쓰거나 함께 누리고 싶은 물건을 선물하는 상황이다. 선물의 명목과 실제 수혜자가 다르다.\n\n주고 싶은 물건은 주는 사람의 취향이나 편의를 반영하고, 받는 사람은 선물 뒤의 자기중심성을 알아차릴 수 있다. 공동 사용을 강요하면 생일이나 기념일의 관심이 준 사람에게 돌아간다.\n\n자기 자신에게 직접 [[보상]]을 주는 경우와 다르다. 다른 사람에게 주는 형식을 취하면서 선택 기준이 자기 이익에 맞춰져야 한다."
+      ],
+      [
+        "사례",
+        "가상 예: 부모가 아이 생일에 자신이 더 쓰고 싶은 새 게임기를 사 주고 함께 하자고 요구한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

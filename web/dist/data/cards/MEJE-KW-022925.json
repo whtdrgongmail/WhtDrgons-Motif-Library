@@ -4,8 +4,8 @@
   "title": "참사가 지난 현장에 뒤늦게 도착하기",
   "original": "Late to the Tragedy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00648",
+  "primary_tag_id": "ML-T00648",
   "description": {
     "definition": "[[주인공]]이 이미 큰 참사가 일어난 장소에 도착해 생존·구조·탐색을 진행하면서 남겨진 기록과 흔적으로 과거의 비극을 재구성하는 도입 구조다.",
     "detail": "작품 사례: 만화 《[[워킹 데드(만화)]]》의 릭 그라임스는 의식을 잃고 있는 동안 세상이 변해, 깨어난 뒤 이미 벌어진 재난의 결과와 마주한다.",
@@ -13,10 +13,10 @@
     "boundary": "[[주인공]]이 처음부터 참사 현장에 있었던 이야기나 단순히 폐허를 배경으로 삼는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "큰 참사가 끝난 뒤 현장에 도착한 인물은 당장의 생존과 탐색을 진행하면서 기록과 흔적으로 이전 사건을 재구성한다. 현재 눈앞에 있는 폐허와 과거 사람들의 경험이 단서를 통해 이어지므로 사건의 원인을 아는 과정이 탐색의 한 축이 된다. 처음부터 재난을 함께 겪는 이야기나 설명 없이 폐허만 배경으로 쓰는 경우와 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "큰 참사가 끝난 뒤 현장에 도착한 인물은 당장의 생존과 탐색을 진행하면서 기록과 흔적으로 이전 사건을 재구성한다. 현재 눈앞에 있는 폐허와 과거 사람들의 경험이 단서를 통해 이어지므로 사건의 원인을 아는 과정이 탐색의 한 축이 된다. 처음부터 재난을 함께 겪는 이야기나 설명 없이 폐허만 배경으로 쓰는 경우와 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

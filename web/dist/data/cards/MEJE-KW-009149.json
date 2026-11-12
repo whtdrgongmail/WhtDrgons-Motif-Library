@@ -4,8 +4,8 @@
   "title": "착취 영화",
   "original": "Exploitation Film",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-009149",
+  "primary_tag_id": "MEJE-KW-009149",
   "description": {
     "definition": "폭력·성적 묘사·충격적 소재를 서사상의 필요보다 과도하게 앞세워 자극을 파는 영화 유형이다. [[노골적 성적 콘텐츠]]는 자극적인 성적 묘사를 앞세우는 영화 유형에 포함될 수 있다.",
     "detail": "",
@@ -14,18 +14,21 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.405",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
+    "semantic_kind": "film_genre",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "착취 영화는 폭력이나 성적 소재 같은 자극을 관객에게 팔기 위해 크게 부각하는 영화 유형이다. 충격적인 장면이 한 번 나온다는 이유만으로 묶기보다, 홍보 방식과 작품 전반에서 그 자극이 차지하는 비중을 함께 본다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "착취 영화는 폭력, 성적 묘사, 범죄나 재난 같은 자극적인 소재를 관객을 끌어들이는 상품적 약속으로 전면에 내세운다. 소재가 이야기의 주제와 연결될 수는 있지만, 홍보와 연출이 충격이나 금기를 얼마나 반복해서 소비하는지가 이 범주를 설명하는 핵심이다. 제작비가 낮다는 사실만으로 정의되지는 않는다.\n\n센 장면 한 번이나 어두운 주제만으로 작품을 착취 영화라 부르면 범주가 무한히 넓어진다. 작품 전체의 홍보 문구, 자극의 분량과 서사적 기능, 당시의 유통 관습을 함께 보아야 한다. 성적 자극을 특별히 전면화하는 경우에는 [[노골적 성적 콘텐츠]]와 교차할 수 있으나, 착취 영화는 더 다양한 금기와 충격 소재를 포괄하는 시장·연출 범주다.",
+    "sections": [
+      [
+        "상세 설명",
+        "착취 영화는 폭력, 성적 묘사, 범죄나 재난 같은 자극적인 소재를 관객을 끌어들이는 상품적 약속으로 전면에 내세운다. 소재가 이야기의 주제와 연결될 수는 있지만, 홍보와 연출이 충격이나 금기를 얼마나 반복해서 소비하는지가 이 범주를 설명하는 핵심이다. 제작비가 낮다는 사실만으로 정의되지는 않는다.\n\n센 장면 한 번이나 어두운 주제만으로 작품을 착취 영화라 부르면 범주가 무한히 넓어진다. 작품 전체의 홍보 문구, 자극의 분량과 서사적 기능, 당시의 유통 관습을 함께 보아야 한다. 성적 자극을 특별히 전면화하는 경우에는 [[노골적 성적 콘텐츠]]와 교차할 수 있으나, 착취 영화는 더 다양한 금기와 충격 소재를 포괄하는 시장·연출 범주다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

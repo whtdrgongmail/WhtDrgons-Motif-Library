@@ -4,8 +4,8 @@
   "title": "같은 말을 되풀이하기",
   "original": "Broken Record",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01992",
+  "primary_tag_id": "ML-T01992",
   "description": {
     "definition": "인물이 한 문장을 여러 번 반복해 답답함이나 집착을 드러낸다. 말의 내용보다 반복의 리듬이 장면의 압박을 만든다. 반복되는 소리가 스스로 다른 말을 돌려주면 [[메아리가 제멋대로 대답하기]]가 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.008.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 말이나 소리가 지나치게 반복되는 표현이다. 새로운 정보 없이 되풀이되는 패턴이 집착과 고장, 무반응 또는 우스꽝스러운 완고함을 드러낸다.\n\n상대가 다른 답을 원해도 반복을 멈추지 않으면 대화의 진행이 차단된다. 반복의 길이와 주변 반응에 따라 웃음과 짜증, 불안 가운데 다른 효과를 낼 수 있다.\n\n특정 문구가 여러 상황에서 상징처럼 재등장하는 방식과는 다르다. 이 유형에서는 반복 자체가 관객이 인식할 만큼 두드러져야 하며 원인과 의미는 장면의 맥락으로 판단한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 말이나 소리가 지나치게 반복되는 표현이다. 새로운 정보 없이 되풀이되는 패턴이 집착과 고장, 무반응 또는 우스꽝스러운 완고함을 드러낸다.\n\n상대가 다른 답을 원해도 반복을 멈추지 않으면 대화의 진행이 차단된다. 반복의 길이와 주변 반응에 따라 웃음과 짜증, 불안 가운데 다른 효과를 낼 수 있다.\n\n특정 문구가 여러 상황에서 상징처럼 재등장하는 방식과는 다르다. 이 유형에서는 반복 자체가 관객이 인식할 만큼 두드러져야 하며 원인과 의미는 장면의 맥락으로 판단한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

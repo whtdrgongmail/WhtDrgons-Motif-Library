@@ -4,8 +4,8 @@
   "title": "신본격 추리",
   "original": "Neo-Orthodox mystery",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00265",
+  "primary_tag_id": "ML-T00265",
   "description": {
     "definition": "본격 추리의 공정한 퍼즐을 중심에 되살리면서 서술 실험과 이질적 [[장르]] 요소를 자유롭게 결합하는 추리 흐름이다.",
     "detail": "작품 사례: 《[[십각관의 살인]]》은 공정한 수수께끼를 중시하면서 추리의 형식을 실험한 신본격 추리 흐름을 대표하는 작품으로 제시된다.",
@@ -13,17 +13,20 @@
     "boundary": "단지 최근에 나온 본격 추리나 근거 없는 반전만 있는 작품과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.106.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "독자가 단서를 바탕으로 추론할 수 있는 퍼즐을 중심에 두면서 이야기 형식의 실험을 허용한다. 공정성과 새로움이 서로 배제되지 않고 같은 작품의 목표가 된다.\n\n서술 방법이나 다른 장르의 요소가 수수께끼와 결합하면 익숙한 추리 규칙이 새로운 방식으로 작동한다. 충격적인 구성도 독자의 추론 가능성과 어떤 관계를 맺는지 설명해야 한다.\n\n최근에 나왔다는 시간적 의미의 새로움만으로 해당하지 않는다. 근거 없는 반전과도 구별되며 퍼즐의 공정성을 되살리는 흐름이라는 맥락이 필요하다.\n\n[[십각관의 살인]]은 공정한 수수께끼와 형식 실험을 결합한 신본격 추리의 대표 사례로 정본에 기록되어 있다.\n\n[[십각관의 살인]]",
+    "sections": [
+      [
+        "상세 설명",
+        "독자가 단서를 바탕으로 추론할 수 있는 퍼즐을 중심에 두면서 이야기 형식의 실험을 허용한다. 공정성과 새로움이 서로 배제되지 않고 같은 작품의 목표가 된다.\n\n서술 방법이나 다른 장르의 요소가 수수께끼와 결합하면 익숙한 추리 규칙이 새로운 방식으로 작동한다. 충격적인 구성도 독자의 추론 가능성과 어떤 관계를 맺는지 설명해야 한다.\n\n최근에 나왔다는 시간적 의미의 새로움만으로 해당하지 않는다. 근거 없는 반전과도 구별되며 퍼즐의 공정성을 되살리는 흐름이라는 맥락이 필요하다."
+      ],
+      [
+        "사례",
+        "[[십각관의 살인]]은 공정한 수수께끼와 형식 실험을 결합한 신본격 추리의 대표 사례로 정본에 기록되어 있다."
+      ],
+      [
+        "관련 작품",
+        "[[십각관의 살인]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

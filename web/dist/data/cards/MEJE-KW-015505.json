@@ -4,8 +4,8 @@
   "title": "큰 몸으로 드러나는 지도자의 권위",
   "original": "Large and in Charge",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "MM-UNSET-000804",
+  "primary_tag_id": "MM-UNSET-000804",
   "description": {
     "definition": "집단의 지도자를 다른 구성원보다 크고 위압적인 몸으로 배치하여 권력을 시각적으로 나타내는 관습이다.",
     "detail": "작품 사례: [[Rival Schools]]의 큰 체격을 지닌 학교장 Raizo는 권위적인 지도자이며, 게임 제작을 영화 촬영처럼 꾸민 엔딩에서는 감독 역할까지 맡는다.",
@@ -13,11 +13,11 @@
     "boundary": "체격이 큰 구성원이 지도자가 아닌 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
-    "review_status": "provisional",
+    "code": "22.005.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "지도자를 집단의 다른 인물보다 크게 배치하면 지휘 관계를 대사 없이도 전달할 수 있다. 체격의 차이가 권위적인 태도나 명령하는 위치와 겹칠 때 신체 서열과 조직 서열이 시각적으로 연결된다.\n\n가장 큰 구성원이 언제나 지도자인 것은 아니다. 큰 인물의 존재 자체보다 크기가 권위를 강조하는 방식으로 사용되는지 확인해야 하며, 물리적 힘과 실제 의사결정권도 구분한다.\n\n[[Rival Schools]]의 큰 체격을 지닌 학교장 Raizo는 권위적인 지도자이며, 게임 제작을 영화 촬영처럼 꾸민 엔딩에서는 감독 역할까지 맡는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "지도자를 집단의 다른 인물보다 크게 배치하면 지휘 관계를 대사 없이도 전달할 수 있다. 체격의 차이가 권위적인 태도나 명령하는 위치와 겹칠 때 신체 서열과 조직 서열이 시각적으로 연결된다.\n\n가장 큰 구성원이 언제나 지도자인 것은 아니다. 큰 인물의 존재 자체보다 크기가 권위를 강조하는 방식으로 사용되는지 확인해야 하며, 물리적 힘과 실제 의사결정권도 구분한다."
+      ],
+      [
+        "관련 작품",
+        "[[Rival Schools]]의 큰 체격을 지닌 학교장 Raizo는 권위적인 지도자이며, 게임 제작을 영화 촬영처럼 꾸민 엔딩에서는 감독 역할까지 맡는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

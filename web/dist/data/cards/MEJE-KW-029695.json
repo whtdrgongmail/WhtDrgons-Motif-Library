@@ -4,8 +4,8 @@
   "title": "캐릭터가 모르는 공략 지식을 행동에 쓰기",
   "original": "The Metagamer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02519",
+  "primary_tag_id": "ML-T02519",
   "description": {
     "definition": "플레이어가 규칙서나 미리 아는 시나리오에서 얻은 정보를 캐릭터가 알 근거 없이 활용하여 위기를 피하거나 이익을 얻는 방식이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "인물이 세계 안에서 습득한 지식이나 집단이 합의한 메타적 전략과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.014.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "그 인물은 처음 만나는 적인데 플레이어는 이미 정답을 알고 움직인다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "플레이어는 알고 있지만 조작하는 인물은 얻은 적 없는 정보를 행동에 사용한다. 정보의 보유자와 실제 행동 주체 사이에 지식의 근거가 끊겨 있다.\n\n공략이나 규칙서, 미리 읽은 사건을 활용하면 위기를 피할 수 있어도 인물의 선택으로는 설명하기 어려워진다. 몰입과 공정성의 문제는 이 두 지식 층위의 차이에서 발생한다.\n\n세계 내부에서 조사해 얻은 정보와는 다르다. 참가자들이 이런 사용을 허용하기로 합의한 전략도 무단으로 경계를 넘는 경우와 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플레이어는 알고 있지만 조작하는 인물은 얻은 적 없는 정보를 행동에 사용한다. 정보의 보유자와 실제 행동 주체 사이에 지식의 근거가 끊겨 있다.\n\n공략이나 규칙서, 미리 읽은 사건을 활용하면 위기를 피할 수 있어도 인물의 선택으로는 설명하기 어려워진다. 몰입과 공정성의 문제는 이 두 지식 층위의 차이에서 발생한다.\n\n세계 내부에서 조사해 얻은 정보와는 다르다. 참가자들이 이런 사용을 허용하기로 합의한 전략도 무단으로 경계를 넘는 경우와 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

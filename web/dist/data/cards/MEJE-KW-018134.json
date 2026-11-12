@@ -4,8 +4,8 @@
   "title": "악행이 직접 불러온 죽음",
   "original": "Karmic Death",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "인물이 저지른 심각한 악행이 직접적인 원인이 되어 그 인물 자신의 죽음을 초래하는 응보 구조다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "악역이 죽는다는 사실만으로는 부족하다. 죽음과 앞선 악행 사이에 원인과 결과의 연결이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자신의 악행이 만든 위험이 되돌아와 죽음의 원인이 된다. 주인공이 직접 처형하지 않아도 가해자와 결과 사이의 응보가 성립한다.\n\n단순한 사고로 죽는 것보다 이전 선택이 어떻게 치명적인 조건을 만들었는지가 드러나야 한다. 사건의 인과와 작품이 부여하는 도덕적 정당화는 구분할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자신의 악행이 만든 위험이 되돌아와 죽음의 원인이 된다. 주인공이 직접 처형하지 않아도 가해자와 결과 사이의 응보가 성립한다.\n\n단순한 사고로 죽는 것보다 이전 선택이 어떻게 치명적인 조건을 만들었는지가 드러나야 한다. 사건의 인과와 작품이 부여하는 도덕적 정당화는 구분할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

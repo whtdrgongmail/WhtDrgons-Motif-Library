@@ -6,8 +6,8 @@
   "aliases": [
     "엔톰드코어"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-012938",
+  "primary_tag_id": "MEJE-KW-012938",
   "description": {
     "definition": "Entombed의 기타 음색을 연상시키는 스웨덴 데스 메탈식 왜곡음을 하드코어·그라인드에 섞은 밴드들을 가리키는 비공식 호칭이다.",
     "detail": "",
@@ -15,18 +15,21 @@
     "boundary": "통일된 공식 장르명으로 확정하지 않으며 멜로딕 데스 메탈과도 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -38,5 +41,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "엔툼드코어는 Entombed를 연상시키는 스웨덴 데스 메탈식 기타 왜곡음을 하드코어나 그라인드에 결합한 음악을 가리키는 비공식 표현이다. 특정한 기타 소리와 장르의 조합을 설명하며, Entombed가 참여한 모든 작품을 뜻하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "엔툼드코어는 Entombed를 연상시키는 스웨덴 데스 메탈식 기타 왜곡음을 하드코어나 그라인드에 결합한 음악을 가리키는 비공식 표현이다. 특정한 기타 소리와 장르의 조합을 설명하며, Entombed가 참여한 모든 작품을 뜻하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

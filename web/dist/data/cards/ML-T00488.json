@@ -2,8 +2,10 @@
   "id": "ML-T00488",
   "kind": "keyword",
   "title": "메트로배니아",
-  "original": "",
-  "aliases": [],
+  "original": "Metroidvania",
+  "aliases": [
+    "능력 획득으로 연결된 세계를 다시 탐색하는 게임"
+  ],
   "tag_id": "ML-T00488",
   "primary_tag_id": "ML-T00488",
   "description": {
@@ -13,8 +15,8 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
     "code": "03.210.003",
     "review_status": "provisional",
@@ -37,7 +39,43 @@
     "row_version": 1
   },
   "applied_tags": [],
-  "related_media": [],
+  "related_media": [
+    {
+      "media_tag_id": "ML-T00076",
+      "work_card_id": "MM-MEDIA-003075",
+      "description_ko": "《슈퍼 메트로이드》는 연결된 공간을 탐색하고 얻은 능력으로 이동 범위를 넓히는 구성을 보여 준다. 원문은 벽 점프 같은 이동을 이용해 예상한 진행 순서를 바꿀 여지도 함께 소개한다.",
+      "spoiler_level": "unreviewed",
+      "row_version": 2
+    }
+  ],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000267",
+      "card_id": "ML-T00488",
+      "label_ko": "닌텐도 메트로이드 탐색 설명",
+      "icon_key": "game",
+      "url": "https://metroid.nintendo.com/dread/news/metroid-dread-report-vol-3/",
+      "description_ko": "새 능력으로 기존 장소의 탐색 범위가 넓어지는 시리즈 설계 설명",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "메트로배니아는 서로 연결된 공간을 탐색하면서 새 능력이나 도구를 얻어 이전에 접근할 수 없던 지역을 다시 방문하는 게임 구조다. 핵심은 넓은 지도 자체가 아니라 능력 획득이 이동 가능 범위를 바꾸고, 그 변화가 이미 지나간 장소의 의미도 바꾸는 데 있다.\n\n플랫폼 이동, 되돌아가기, 비밀 탐색과 지름길 발견이 결합될 수 있다. 하나의 완전히 연결된 지도 대신 다시 찾아갈 수 있는 큰 구역들로 구성할 수도 있다. 단순한 비선형 지도나 레벨 상승만으로는 이 장르가 되지 않으며, 새 능력이 이전 장애물을 통과하는 등 탐색에 직접 작용해야 한다.\n\n《[[슈퍼 메트로이드]]》에서는 새로운 능력을 사용해 제베스의 넓은 공간을 탐색한다. 능력이 전투 수단인 동시에 이동 경로를 바꾸는 수단이라는 점이 메트로배니아의 공간 설계를 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "메트로배니아는 서로 연결된 공간을 탐색하면서 새 능력이나 도구를 얻어 이전에 접근할 수 없던 지역을 다시 방문하는 게임 구조다. 핵심은 넓은 지도 자체가 아니라 능력 획득이 이동 가능 범위를 바꾸고, 그 변화가 이미 지나간 장소의 의미도 바꾸는 데 있다.\n\n플랫폼 이동, 되돌아가기, 비밀 탐색과 지름길 발견이 결합될 수 있다. 하나의 완전히 연결된 지도 대신 다시 찾아갈 수 있는 큰 구역들로 구성할 수도 있다. 단순한 비선형 지도나 레벨 상승만으로는 이 장르가 되지 않으며, 새 능력이 이전 장애물을 통과하는 등 탐색에 직접 작용해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[슈퍼 메트로이드]]》에서는 새로운 능력을 사용해 제베스의 넓은 공간을 탐색한다. 능력이 전투 수단인 동시에 이동 경로를 바꾸는 수단이라는 점이 메트로배니아의 공간 설계를 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

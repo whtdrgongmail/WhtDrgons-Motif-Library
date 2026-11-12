@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032392",
+  "kind": "keyword",
+  "title": "고정 독 피해와 다른 체력으로 저항 차이 만들기",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T02098",
+  "primary_tag_id": "ML-T02098",
+  "description": {
+    "definition": "동일한 독 효과가 일정량의 체력을 깎되 대상의 전체 체력 차이에 따라 쓰러지기까지 필요한 누적 효과가 달라지는 게임 규칙이다.",
+    "detail": "",
+    "usage": "간단한 [[상태 이상]] 규칙과 적의 체격·강함의 차이를 함께 표현한다.",
+    "boundary": "대상마다 별도 약물 생리를 계산하지 않으면서도 결과 차이를 만드는 수치 설계이며, 실제 독성 계산으로 옮기지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 2,
+  "classification": {
+    "code": "25.004.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "독의 수치는 같아도 체력이 큰 적은 더 오래 버틴다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "독이 깎는 수치를 동일하게 두고 대상의 전체 체력으로 버티는 시간을 달리한다. 같은 효과를 받더라도 남은 체력을 모두 잃기까지 필요한 누적이 다르면 큰 대상이 오래 견디는 차이를 별도의 약물 계산 없이 표현할 수 있다.\n\n최대 체력의 같은 비율을 깎는 규칙과는 결과가 다르다. 고정된 양의 피해와 서로 다른 체력이라는 두 조건이 필요하며, 실제 종별 독성이나 투여량을 계산하는 방식으로 옮길 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "독이 깎는 수치를 동일하게 두고 대상의 전체 체력으로 버티는 시간을 달리한다. 같은 효과를 받더라도 남은 체력을 모두 잃기까지 필요한 누적이 다르면 큰 대상이 오래 견디는 차이를 별도의 약물 계산 없이 표현할 수 있다.\n\n최대 체력의 같은 비율을 깎는 규칙과는 결과가 다르다. 고정된 양의 피해와 서로 다른 체력이라는 두 조건이 필요하며, 실제 종별 독성이나 투여량을 계산하는 방식으로 옮길 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
+}

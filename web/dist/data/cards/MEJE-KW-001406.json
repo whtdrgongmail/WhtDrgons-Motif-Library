@@ -4,8 +4,8 @@
   "title": "얼터너티브 댄스",
   "original": "Alternative Dance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-001406",
+  "primary_tag_id": "MEJE-KW-001406",
   "description": {
     "definition": "댄스 음악의 리듬과 [[얼터너티브 록]] 계열의 작곡·음색을 결합하는 음악 장르. 춤출 수 있는 박자와 밴드·전자음악의 혼합이 함께 나타난다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "춤추기 위한 반복적인 리듬 위에 밴드 음악의 작곡과 보컬 중심 구성을 결합한다. 전자음과 기타가 어느 비중으로 쓰이는지에 따라 같은 범주 안에서도 소리는 크게 달라질 수 있다.\n\n얼터너티브 댄스는 록 음악에 빠른 박자가 있다는 사실만으로 결정되지 않는다. 댄스 음악의 제작과 구조가 실제로 결합하는지가 중요하다. 인접한 여러 장르가 겹치는 용어이므로 특정 악기나 한 시기의 유행으로만 정의하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "춤추기 위한 반복적인 리듬 위에 밴드 음악의 작곡과 보컬 중심 구성을 결합한다. 전자음과 기타가 어느 비중으로 쓰이는지에 따라 같은 범주 안에서도 소리는 크게 달라질 수 있다.\n\n얼터너티브 댄스는 록 음악에 빠른 박자가 있다는 사실만으로 결정되지 않는다. 댄스 음악의 제작과 구조가 실제로 결합하는지가 중요하다. 인접한 여러 장르가 겹치는 용어이므로 특정 악기나 한 시기의 유행으로만 정의하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

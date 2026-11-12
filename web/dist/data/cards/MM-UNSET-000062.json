@@ -4,22 +4,48 @@
   "title": "칸 구성",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "MM-UNSET-000062",
+  "primary_tag_id": "MM-UNSET-000062",
   "description": {
-    "definition": "",
+    "definition": "[[만화]]의 한 페이지나 화면에서 [[컷]]의 크기·모양·배열·간격을 정해 사건을 읽는 순서와 속도를 조절하는 구성이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 3,
+  "classification": {
+    "code": "22.010.008",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "만화의 그림 칸을 어떻게 나누고 배치하는지에 관한 것이다. 큰 칸 하나로 중요한 순간을 오래 보게 하거나 작은 칸을 이어 빠른 움직임을 보여 줄 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "칸 구성은 각 [[컷]]에 무엇을 그릴지와 함께, 독자가 어느 칸을 먼저 보고 다음 칸으로 어떻게 넘어갈지를 정한다. 칸의 크기와 빈 공간은 한 사건에 주는 비중, 시간의 흐름, 시선이 머무는 길이에 영향을 준다.\n\n칸을 많이 쓰면 언제나 사건이 빨라지는 것은 아니다. 비슷한 순간을 여러 칸으로 나누면 오히려 짧은 시간을 길게 느끼게 할 수 있다. 한 장의 그림을 그리는 기법과 여러 그림의 관계를 설계하는 칸 구성은 구별한다.\n\n인물이 문을 열기 전 손잡이를 잡는 동작을 세 칸으로 나누면 독자는 잠깐의 망설임을 오래 경험한다. 문이 열린 결과를 한 칸에 크게 배치하면 그 결과에 시선이 집중된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "칸 구성은 각 [[컷]]에 무엇을 그릴지와 함께, 독자가 어느 칸을 먼저 보고 다음 칸으로 어떻게 넘어갈지를 정한다. 칸의 크기와 빈 공간은 한 사건에 주는 비중, 시간의 흐름, 시선이 머무는 길이에 영향을 준다.\n\n칸을 많이 쓰면 언제나 사건이 빨라지는 것은 아니다. 비슷한 순간을 여러 칸으로 나누면 오히려 짧은 시간을 길게 느끼게 할 수 있다. 한 장의 그림을 그리는 기법과 여러 그림의 관계를 설계하는 칸 구성은 구별한다."
+      ],
+      [
+        "사례",
+        "인물이 문을 열기 전 손잡이를 잡는 동작을 세 칸으로 나누면 독자는 잠깐의 망설임을 오래 경험한다. 문이 열린 결과를 한 칸에 크게 배치하면 그 결과에 시선이 집중된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

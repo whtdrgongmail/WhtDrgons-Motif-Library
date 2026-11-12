@@ -6,27 +6,27 @@
   "aliases": [
     "원피스"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《원피스(연작)》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《원피스(연작)》에서 초파는 위급한 상황에 의사를 찾아 외치다가, 자신이 바로 의사라는 사실을 뒤늦게 떠올린다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -51,5 +51,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "루피가 [[해적]]왕의 보물을 찾으려 동료들을 모으는 만화에서 출발한 작품군이다. 고무 같은 몸의 주인공과 각기 다른 능력의 선원들이 해적 시대의 바다를 여행한다.\n\n원작의 성공은 장기 애니메이션과 다른 매체의 전개로 이어졌다. 같은 핵심 인물과 목적을 공유해도 각색과 독자적인 이야기의 범위가 다를 수 있으므로 원작 연재와 모든 파생 작품의 사건을 하나로 합치지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "루피가 [[해적]]왕의 보물을 찾으려 동료들을 모으는 만화에서 출발한 작품군이다. 고무 같은 몸의 주인공과 각기 다른 능력의 선원들이 해적 시대의 바다를 여행한다.\n\n원작의 성공은 장기 애니메이션과 다른 매체의 전개로 이어졌다. 같은 핵심 인물과 목적을 공유해도 각색과 독자적인 이야기의 범위가 다를 수 있으므로 원작 연재와 모든 파생 작품의 사건을 하나로 합치지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

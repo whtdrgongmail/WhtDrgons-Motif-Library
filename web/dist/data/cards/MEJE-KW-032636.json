@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032636",
+  "kind": "keyword",
+  "title": "온라인 세계의 구역을 여러 서버에 나누기",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T02160",
+  "primary_tag_id": "ML-T02160",
+  "description": {
+    "definition": "대규모 온라인 게임의 서로 다른 공간 구역을 여러 서버가 나누어 처리하여 많은 이용자를 수용하는 운영 구조다.",
+    "detail": "",
+    "usage": "[[공유 세계의 규모]]와 구역 간 이동·연결을 뒷받침하는 설정을 설명한다.",
+    "boundary": "동일한 세계를 독립 복사해 이용자를 갈라놓는 방식과 달리 같은 게임 세계의 공간 분담을 다룬다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 2,
+  "classification": {
+    "code": "25.011",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "세계의 각 구역을 다른 서버가 맡아 큰 온라인 공간을 유지한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "하나의 온라인 게임 세계의 공간을 여러 서버가 나누어 처리한다. 많은 이용자를 수용하기 위해 같은 세계의 구역별 운영을 분담한다.\n\n공간 사이의 이동과 연결은 공유 세계가 이어진다는 경험을 뒷받침한다. 이용자가 속한 세계와 실제 처리 서버가 반드시 하나의 단위일 필요는 없다.\n\n동일한 세계를 독립적으로 복제해 이용자 집단을 나누는 방식과 다르다. 현재 구조는 같은 세계 내부의 공간적 분담이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "하나의 온라인 게임 세계의 공간을 여러 서버가 나누어 처리한다. 많은 이용자를 수용하기 위해 같은 세계의 구역별 운영을 분담한다.\n\n공간 사이의 이동과 연결은 공유 세계가 이어진다는 경험을 뒷받침한다. 이용자가 속한 세계와 실제 처리 서버가 반드시 하나의 단위일 필요는 없다.\n\n동일한 세계를 독립적으로 복제해 이용자 집단을 나누는 방식과 다르다. 현재 구조는 같은 세계 내부의 공간적 분담이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

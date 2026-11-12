@@ -4,8 +4,8 @@
   "title": "투구 없이 싸우는 영웅",
   "original": "Helmets Are Hardly Heroic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01847",
+  "primary_tag_id": "ML-T01847",
   "description": {
     "definition": "몸에는 갑옷을 갖췄지만 얼굴과 머리가 드러나도록 주역에게 투구를 생략하는 시각 매체의 관습이다.",
     "detail": "작품 사례: [[Unsounded]]에서 Lemuel은 동료들과 달리 투구 없이 사당을 공격해 얼굴이 드러나지만, 폭발 연기로부터 눈을 보호받지 못한다.",
@@ -13,10 +13,10 @@
     "boundary": "갑옷 자체가 없는 인물이나 투구를 쓸 수 없는 명시적 사정과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "갑옷을 입은 주역의 머리만 노출하면 다른 전투원과 얼굴을 쉽게 구별하고 표정을 보여 줄 수 있다. 보호 기능의 일부를 생략하는 선택이 시각적 식별과 [[감정 표현]]에 기여한다.\n\n갑옷을 전혀 입지 않은 인물과는 다르며 투구를 쓸 수 없는 사정이 명시된 경우도 구별한다. 장비 생략의 관습과 그로 인해 생기는 실제 취약함을 함께 제시할 수도 있다.\n\n[[Unsounded]]의 Lemuel은 동료들과 달리 투구 없이 사당을 공격한다. 얼굴은 드러나지만 폭발의 연기로부터 눈을 보호받지 못해 식별상의 이점과 보호의 부재가 동시에 나타난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "갑옷을 입은 주역의 머리만 노출하면 다른 전투원과 얼굴을 쉽게 구별하고 표정을 보여 줄 수 있다. 보호 기능의 일부를 생략하는 선택이 시각적 식별과 [[감정 표현]]에 기여한다.\n\n갑옷을 전혀 입지 않은 인물과는 다르며 투구를 쓸 수 없는 사정이 명시된 경우도 구별한다. 장비 생략의 관습과 그로 인해 생기는 실제 취약함을 함께 제시할 수도 있다."
+      ],
+      [
+        "관련 작품",
+        "[[Unsounded]]의 Lemuel은 동료들과 달리 투구 없이 사당을 공격한다. 얼굴은 드러나지만 폭발의 연기로부터 눈을 보호받지 못해 식별상의 이점과 보호의 부재가 동시에 나타난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

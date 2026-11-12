@@ -4,8 +4,8 @@
   "title": "장외로 내보내도 득점하는 시간제 경기",
   "original": "Ups and Downs match",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "MM-UNSET-000848",
+  "primary_tag_id": "MM-UNSET-000848",
   "description": {
     "definition": "제한 [[시간]] 동안 승리 판정을 점수로 누적하면서 상대를 위쪽 로프 너머로 내보내는 행동에도 득점을 부여하는 경기 [[규칙]]이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "장외로 나가는 순간 참가자를 영구 탈락시키는 경기와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "04",
-    "review_status": "provisional",
+    "code": "04.004.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "제한 시간 동안 승리 판정을 점수로 쌓고, 상대를 위쪽 로프 너머로 보내는 행동에도 점수를 준다. 경기의 점수는 상대를 제압하는 능력뿐 아니라 링에서 밀어내는 전술도 반영한다.\n\n장외로 나간 선수를 영구 탈락시키는 경기와 다르다. 여기서는 장외 이동이 참가 자격을 없애지 않고 점수 획득 수단으로 처리된다.\n\n가상 예: 한 선수가 핀폴로 점수를 얻고, 뒤이어 상대를 위쪽 로프 너머로 보내 추가 점수를 올린다.",
+    "sections": [
+      [
+        "상세 설명",
+        "제한 시간 동안 승리 판정을 점수로 쌓고, 상대를 위쪽 로프 너머로 보내는 행동에도 점수를 준다. 경기의 점수는 상대를 제압하는 능력뿐 아니라 링에서 밀어내는 전술도 반영한다.\n\n장외로 나간 선수를 영구 탈락시키는 경기와 다르다. 여기서는 장외 이동이 참가 자격을 없애지 않고 점수 획득 수단으로 처리된다."
+      ],
+      [
+        "사례",
+        "가상 예: 한 선수가 핀폴로 점수를 얻고, 뒤이어 상대를 위쪽 로프 너머로 보내 추가 점수를 올린다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

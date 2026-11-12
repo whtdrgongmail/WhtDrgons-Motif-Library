@@ -1,0 +1,51 @@
+{
+  "id": "MM-UNSET-000470",
+  "kind": "keyword",
+  "title": "미로 퍼즐",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "복잡하게 이어진 경로 가운데 목적지로 가는 길을 찾아야 하는 퍼즐이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "여러 갈림길을 살펴 올바른 길을 찾아가는 문제다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "미로 퍼즐은 경로의 연결 관계와 이동 규칙을 파악하는 과제를 만든다. 비슷한 공간이 반복될 때는 기억이나 지도 작성 외에도 작은 차이를 관찰하는 일이 중요해질 수 있다.\n\n정답 방향을 알려 주는 단서가 있다면 그 규칙을 학습할 기회를 제공해야 한다. [[청각 단서]]나 색의 차이처럼 서로 다른 정보 수단을 함께 두면 공간을 읽는 방식도 다양해진다.\n\n가상의 탐험 게임에서 같은 모양의 문이 있는 방을 반복 배치한다. 이전 방에서 확인한 종소리가 들리는 문을 고르면 앞으로 이동하게 하여 경로의 외형보다 소리의 규칙을 읽게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미로 퍼즐은 경로의 연결 관계와 이동 규칙을 파악하는 과제를 만든다. 비슷한 공간이 반복될 때는 기억이나 지도 작성 외에도 작은 차이를 관찰하는 일이 중요해질 수 있다.\n\n정답 방향을 알려 주는 단서가 있다면 그 규칙을 학습할 기회를 제공해야 한다. [[청각 단서]]나 색의 차이처럼 서로 다른 정보 수단을 함께 두면 공간을 읽는 방식도 다양해진다."
+      ],
+      [
+        "사례",
+        "가상의 탐험 게임에서 같은 모양의 문이 있는 방을 반복 배치한다. 이전 방에서 확인한 종소리가 들리는 문을 고르면 앞으로 이동하게 하여 경로의 외형보다 소리의 규칙을 읽게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

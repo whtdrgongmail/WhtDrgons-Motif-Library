@@ -4,17 +4,17 @@
   "title": "다이브킥",
   "original": "Divekick",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《다이브킥》은 비디오게임 작품이다.",
-    "detail": "작품 사례: 《다이브킥》의 로딩 화면은 격투 도움말 대신 수상한 사기 이야기나 다른 작품을 떠올리게 하는 엉뚱한 문구를 제시해 팁의 기대를 웃음으로 바꾼다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《다이브킥》은 뛰기와 내려차기의 두 버튼으로 싸우는 대전 게임이다. 한 번 직접 맞히면 승부가 끝나므로 복잡한 연속기 입력보다 거리와 높이, 뛰어드는 시점이 중심이 된다.\n\n2D 격투게임의 핵심적인 예측 싸움을 단순한 조작으로 압축하면서 해당 장르와 대전 문화도 희화화한다. 업데이트에서 인물 간 균형과 선택지가 달라졌으므로 서로 다른 판본의 세부를 구분하되, 최소한의 입력으로 한 타격을 노리는 기본 구조는 유지된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《다이브킥》은 뛰기와 내려차기의 두 버튼으로 싸우는 대전 게임이다. 한 번 직접 맞히면 승부가 끝나므로 복잡한 연속기 입력보다 거리와 높이, 뛰어드는 시점이 중심이 된다.\n\n2D 격투게임의 핵심적인 예측 싸움을 단순한 조작으로 압축하면서 해당 장르와 대전 문화도 희화화한다. 업데이트에서 인물 간 균형과 선택지가 달라졌으므로 서로 다른 판본의 세부를 구분하되, 최소한의 입력으로 한 타격을 노리는 기본 구조는 유지된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

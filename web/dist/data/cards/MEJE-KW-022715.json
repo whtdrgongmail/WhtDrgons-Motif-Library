@@ -4,8 +4,8 @@
   "title": "애정 상대의 폭력을 개의치 않기",
   "original": "Doesnt Mind a Beating",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "애정 관계의 한쪽이 자신에게 가해지는 신체적 폭력을 관계를 끝낼 문제로 여기지 않고 받아들이는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "기존 카드의 부상 뒤 관심·간호를 기대한다는 동기는 현재 비교 문단의 필수 조건이 아니다. 수용처럼 보이는 행동만으로 자유로운 동의가 있었다고 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "맞는 쪽도 그 일을 별문제 삼지 않는 관계로 묘사된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "애정 상대에게 맞아도 그 일을 관계를 끝낼 이유로 여기지 않는 인물 구도다. 고통보다 상대의 관심과 이후의 돌봄을 더 중요하게 받아들일 수 있다.\n\n만화적인 신체 규칙으로 상처를 가볍게 처리하거나 부상 뒤 다정해지는 상대에게 만족하는 방식이 사용된다. 폭력과 친밀함이 연결되며 관계의 불균형이 드러난다.\n\n맞고도 관계를 유지한다는 사실이 동의와 안전을 보증하지는 않는다. 작품이 피해를 무시하는지, 당사자가 어떤 선택의 조건에 놓였는지 함께 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "애정 상대에게 맞아도 그 일을 관계를 끝낼 이유로 여기지 않는 인물 구도다. 고통보다 상대의 관심과 이후의 돌봄을 더 중요하게 받아들일 수 있다.\n\n만화적인 신체 규칙으로 상처를 가볍게 처리하거나 부상 뒤 다정해지는 상대에게 만족하는 방식이 사용된다. 폭력과 친밀함이 연결되며 관계의 불균형이 드러난다.\n\n맞고도 관계를 유지한다는 사실이 동의와 안전을 보증하지는 않는다. 작품이 피해를 무시하는지, 당사자가 어떤 선택의 조건에 놓였는지 함께 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

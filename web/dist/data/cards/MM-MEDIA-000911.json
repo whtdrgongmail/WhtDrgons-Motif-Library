@@ -4,26 +4,28 @@
   "title": "Tetris",
   "original": "Tetris",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00076",
+  "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "이 카드는 비디오게임 《Tetris》의 게임보이판을 가리킨다. 이 라이브러리에서는 [[다른 작품에서 다시 들리는 고유 효과음]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Super Mario Land의 일시정지 효과음이 게임보이판 Tetris에서도 들려, 한 게임에 익숙한 플레이어가 다른 게임에서 같은 소리를 알아본다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.016",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -41,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임보이판 《Tetris》는 1989년에 나온 낙하 블록 퍼즐 게임이다. 여러 기기로 제작된 테트리스 중 휴대용 기기 보급과 밀접하게 연결된 판본이다.\n\n네 칸으로 이루어진 조각을 옮기고 회전시켜 가로줄을 채운다. 완성된 줄은 사라지고 위의 블록이 내려오며, 쌓인 조각이 화면 위에 닿으면 진행이 끝난다.\n\n게임보이판은 기기와 함께 보급되면서 대표적인 초기 작품이 되었다. 러시아 민요 〈Korobeiniki〉를 사용한 A타입 음악은 이 판본을 떠올리게 하는 청각적 특징이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임보이판 《Tetris》는 1989년에 나온 낙하 블록 퍼즐 게임이다. 여러 기기로 제작된 테트리스 중 휴대용 기기 보급과 밀접하게 연결된 판본이다.\n\n네 칸으로 이루어진 조각을 옮기고 회전시켜 가로줄을 채운다. 완성된 줄은 사라지고 위의 블록이 내려오며, 쌓인 조각이 화면 위에 닿으면 진행이 끝난다.\n\n게임보이판은 기기와 함께 보급되면서 대표적인 초기 작품이 되었다. 러시아 민요 〈Korobeiniki〉를 사용한 A타입 음악은 이 판본을 떠올리게 하는 청각적 특징이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

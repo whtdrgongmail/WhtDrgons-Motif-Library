@@ -4,8 +4,8 @@
   "title": "초자연 현상 조사물",
   "original": "Paranormal Investigation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015297",
+  "primary_tag_id": "MEJE-KW-015297",
   "description": {
     "definition": "[[유령]]과 초자연적 사건을 조사하는 전문가나 인물들의 활동을 중심으로 전개되는 혼합 [[장르]]이다.",
     "detail": "작품 사례: [[Conrad Stevenson's Paranormal P.I.]]에서 플레이어는 초자연 현상을 조사하는 사설 탐정이 되어, 유령이 의심된다는 집주인의 요청을 받고 주거 공간을 조사한다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.106.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "조사의 결론이 언제나 초자연적일 필요는 없다. 같은 시리즈 안에서도 조작된 사건과 진짜 현상이 섞일 수 있으며, 의심할 단서와 검증하는 절차가 인물의 전문성을 보여 준다. 괴이한 존재의 등장은 조사의 대상이라는 역할을 갖는다.\n\n진짜 현상을 확인한 뒤에는 조사와 대응의 전문성이 나뉠 수 있다. 조사자가 외부 의식 전문가에게 도움을 청하거나 자신이 가진 도구와 지식으로 직접 해결하는 방식이 가능하다. 단지 유령이 등장하는 공포물과 구별하려면 인물이 현상을 알아내고 대응하는 활동이 사건 전개의 중심이어야 한다.\n\n가상 적용 예: 조사팀이 빈집에서 들리는 발소리를 기록하고 녹음 시각과 건물의 전기 설비를 대조한다. 기계적 원인을 배제한 뒤에야 [[유령]]의 흔적을 가설로 삼는다. 현상의 확인 절차가 사건 전개의 중심이다.\n\n작품 사례: 《[[Conrad Stevenson's Paranormal P.I.]]》에서 플레이어는 초자연 현상을 조사하는 사설 탐정이 되어, 유령이 의심된다는 집주인의 요청을 받고 주거 공간을 조사한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조사의 결론이 언제나 초자연적일 필요는 없다. 같은 시리즈 안에서도 조작된 사건과 진짜 현상이 섞일 수 있으며, 의심할 단서와 검증하는 절차가 인물의 전문성을 보여 준다. 괴이한 존재의 등장은 조사의 대상이라는 역할을 갖는다.\n\n진짜 현상을 확인한 뒤에는 조사와 대응의 전문성이 나뉠 수 있다. 조사자가 외부 의식 전문가에게 도움을 청하거나 자신이 가진 도구와 지식으로 직접 해결하는 방식이 가능하다. 단지 유령이 등장하는 공포물과 구별하려면 인물이 현상을 알아내고 대응하는 활동이 사건 전개의 중심이어야 한다."
+      ],
+      [
+        "사례",
+        "가상 적용 예: 조사팀이 빈집에서 들리는 발소리를 기록하고 녹음 시각과 건물의 전기 설비를 대조한다. 기계적 원인을 배제한 뒤에야 [[유령]]의 흔적을 가설로 삼는다. 현상의 확인 절차가 사건 전개의 중심이다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[Conrad Stevenson's Paranormal P.I.]]》에서 플레이어는 초자연 현상을 조사하는 사설 탐정이 되어, 유령이 의심된다는 집주인의 요청을 받고 주거 공간을 조사한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 6,
+    "replaces_short_fields": true
+  }
 }

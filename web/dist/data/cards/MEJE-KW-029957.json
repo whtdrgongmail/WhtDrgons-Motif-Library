@@ -4,8 +4,8 @@
   "title": "사건 해결 뒤 숨은 관찰자로 다음 사건을 예고하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00655",
+  "primary_tag_id": "ML-T00655",
   "description": {
     "definition": "당면 사건이 해결된 직후 그 과정을 지켜본 낯선 인물을 보여 주어 더 큰 관계나 다음 사건을 열어 두는 마무리 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "처음부터 관찰자를 병렬로 보여 주는 것과 달리 해결 뒤의 공개가 [[서사]] 전환점이 된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "당면 사건이 해결된 뒤 이를 지켜보던 낯선 관찰자를 새롭게 보여 준다. 끝난 사건이 더 큰 관계와 다음 사건의 단서로 연결된다.\n\n회차의 해결감은 유지하면서 관객에게 새로운 의문을 준다. 숨은 인물이 과정을 알고 있었다는 정보가 이후 전개의 가능성을 만든다.\n\n처음부터 관찰자의 행동을 병렬로 보여 주는 구성과 다르다. 해결 이후에 공개한다는 순서가 마무리의 전환 기능을 담당한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "당면 사건이 해결된 뒤 이를 지켜보던 낯선 관찰자를 새롭게 보여 준다. 끝난 사건이 더 큰 관계와 다음 사건의 단서로 연결된다.\n\n회차의 해결감은 유지하면서 관객에게 새로운 의문을 준다. 숨은 인물이 과정을 알고 있었다는 정보가 이후 전개의 가능성을 만든다.\n\n처음부터 관찰자의 행동을 병렬로 보여 주는 구성과 다르다. 해결 이후에 공개한다는 순서가 마무리의 전환 기능을 담당한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Threat Survives to the End",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00663",
+  "primary_tag_id": "ML-T00663",
   "description": {
     "definition": "제거되었다고 믿었던 위험이 아직 살아남아 때를 기다리고 있음을 결말에 드러내는 구조다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "처음 등장하는 별개의 적이 그 자리를 대신하는 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사라졌다고 믿었던 위협이 결말에 아직 남아 있음을 드러낸다. 앞선 해결을 완전히 지우지 않으면서 그 안전이 최종적이지 않았다는 정보를 마지막에 추가한다.\n\n인물들은 안도하지만 관객만 잔존 위험을 알면 결말의 평온에 불확실성이 남는다. 위협의 흔적이 얼마나 분명한지에 따라 후속 사건의 예고와 설명되지 않는 불안 사이의 강도를 조절할 수 있다.\n\n새로운 별개의 적을 처음 등장시키는 경우와는 연속성이 다르다. 살아남았다는 사실이 곧 다음 작품의 제작을 보장하는 것은 아니며 기존 갈등의 해결과 위협의 완전한 소멸도 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사라졌다고 믿었던 위협이 결말에 아직 남아 있음을 드러낸다. 앞선 해결을 완전히 지우지 않으면서 그 안전이 최종적이지 않았다는 정보를 마지막에 추가한다.\n\n인물들은 안도하지만 관객만 잔존 위험을 알면 결말의 평온에 불확실성이 남는다. 위협의 흔적이 얼마나 분명한지에 따라 후속 사건의 예고와 설명되지 않는 불안 사이의 강도를 조절할 수 있다.\n\n새로운 별개의 적을 처음 등장시키는 경우와는 연속성이 다르다. 살아남았다는 사실이 곧 다음 작품의 제작을 보장하는 것은 아니며 기존 갈등의 해결과 위협의 완전한 소멸도 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

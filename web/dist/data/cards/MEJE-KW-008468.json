@@ -4,8 +4,8 @@
   "title": "가족 반대를 피해 달아난 결혼",
   "original": "Elopement",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00984",
+  "primary_tag_id": "ML-T00984",
   "description": {
     "definition": "서로 사랑하는 두 사람이 집안의 반대나 정해진 혼인을 피하려 함께 떠나 결혼한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 사랑하는 두 사람이 집안의 반대나 강요된 혼인을 피해 함께 떠나 결혼하는 전개다. 가족의 허락보다 자신의 선택을 우선하지만, 떠난 뒤의 생활과 관계를 어떻게 감당하는지도 중요해 사랑의 결심과 현실의 부담이 함께 드러난다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "연인들이 가족의 반대와 강요된 혼인 등을 피해 함께 떠나 결합하려는 전개다. 사회적인 승인보다 자신들의 관계를 우선하는 행동이다. 급히 결혼식을 올릴 수도 있고 단지 둘을 갈라놓으려는 환경에서 도망치는 형태일 수도 있다.\n\n떠남은 사랑의 확신을 보여 주지만 생계와 보호, 남겨진 관계의 문제를 새로 만든다. [[정략결혼]] 직전이라면 기존 결혼에서 도망치는 장면과 겹칠 수 있다. 화려한 행사를 피하려는 선택일 때에는 갈등보다 사적인 친밀함이 강조된다.\n\n일찍 결혼했다는 사실만으로 도피가 성립하지는 않는다. 반대와 간섭을 피하려는 이동의 목적이 중요하다. 둘 중 한 사람이 강요받는 관계와도 구별해야 하며 상호적인 선택이 이야기의 낭만성을 떠받친다.",
+    "sections": [
+      [
+        "상세 설명",
+        "연인들이 가족의 반대와 강요된 혼인 등을 피해 함께 떠나 결합하려는 전개다. 사회적인 승인보다 자신들의 관계를 우선하는 행동이다. 급히 결혼식을 올릴 수도 있고 단지 둘을 갈라놓으려는 환경에서 도망치는 형태일 수도 있다.\n\n떠남은 사랑의 확신을 보여 주지만 생계와 보호, 남겨진 관계의 문제를 새로 만든다. [[정략결혼]] 직전이라면 기존 결혼에서 도망치는 장면과 겹칠 수 있다. 화려한 행사를 피하려는 선택일 때에는 갈등보다 사적인 친밀함이 강조된다.\n\n일찍 결혼했다는 사실만으로 도피가 성립하지는 않는다. 반대와 간섭을 피하려는 이동의 목적이 중요하다. 둘 중 한 사람이 강요받는 관계와도 구별해야 하며 상호적인 선택이 이야기의 낭만성을 떠받친다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

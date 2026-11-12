@@ -4,8 +4,8 @@
   "title": "잃어버린 고대의 초병기",
   "original": "Lost Superweapon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "현대의 무기보다 훨씬 강력하지만 위치나 조각을 잃어 찾고 복구해야 하는 과거 문명의 파괴 장치다.",
     "detail": "무기의 파괴력이 과거 문명의 붕괴 원인이었을 수도 있고, 없애려던 장치가 후대에 재발견되는 형태도 있다.\n\n작품 사례: 《[[신의 탑(웹툰)]]》에서는 자하드를 죽이기 위한 힘을 지닌 가시의 조각들을 찾고 다시 모으려 여러 세력이 움직인다. 잃어진 무기의 일부만으로도 사용자에게 큰 힘을 준다.",
@@ -13,19 +13,19 @@
     "boundary": "누군가 이미 몰래 소유한 무기나 갖고도 잊은 도구와 다르다. 실질적으로 잃어진 상태여야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "지금은 만들 수 없는 강력한 무기가 어딘가에 묻혀 있다.\n\n작품 사례: 《[[신의 탑(웹툰)]]》에서는 자하드를 죽이기 위한 힘을 지닌 가시의 조각들을 찾고 다시 모으려 여러 세력이 움직인다. 잃어진 무기의 일부만으로도 사용자에게 큰 힘을 준다.",
+    "easy_ko": "지금은 만들 수 없는 강력한 무기가 어딘가에 묻혀 있다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "과거 문명이 남긴 강력한 무기를 찾아 복구한다. 현재 기술의 한계를 넘는 힘이 사라진 위치와 해독의 문제에 묶인다.\n\n발견은 세력의 균형을 바꾸지만 작동 조건을 모르면 새 위험이 된다. 오래된 물건이라는 사실보다 압도적인 무기 기능이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "과거 문명이 남긴 강력한 무기를 찾아 복구한다. 현재 기술의 한계를 넘는 힘이 사라진 위치와 해독의 문제에 묶인다.\n\n발견은 세력의 균형을 바꾸지만 작동 조건을 모르면 새 위험이 된다. 오래된 물건이라는 사실보다 압도적인 무기 기능이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "행동의 선악을 점수로 표시하기",
   "original": "Karma Meter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02151",
+  "primary_tag_id": "ML-T02151",
   "description": {
     "definition": "게임에서 인물의 선택을 도덕적 점수나 수치로 환산하여 성향을 기록하고 보여 주는 시스템이다.",
     "detail": "작품 사례: [[Red Dead Redemption 2]]에서는 플레이 방식에 따라 Arthur의 명예 수준이 달라지지만, 그는 그 수치와 무관하게 타인의 칭찬을 거절하고 자신을 깎아내린다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 경험치나 호감도와 달리 윤리적 평가를 수치화한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,19 +31,40 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000743",
+      "work_card_id": "MM-MEDIA-001479",
       "description_ko": "Red Dead Redemption 2에서는 플레이 방식에 따라 Arthur의 명예 수준이 달라지지만, 그는 그 수치와 무관하게 타인의 칭찬을 거절하고 자신을 깎아내린다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     },
     {
       "media_tag_id": "ML-T00090",
-      "work_card_id": "MM-MEDIA-001296",
+      "work_card_id": "MM-MEDIA-002484",
       "description_ko": "《신의 탑》의 숨겨진 층에서는 퀘스트로 장치의 도덕 수치를 희게 만들어야 진행할 수 있다고 안내한다. 하지만 권위에 맞서 수치를 검게 만드는 것이 숨겨진 곳에 도달하는 방법으로 드러나, 선악 계기판의 기준 자체가 통제 수단이 된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임은 선택이나 행동에 윤리적 값을 부여하여 인물의 성향을 시스템 안에 기록한다. 이 수치는 이야기 속 인물의 자기 평가와 일치하지 않을 수 있으며, 플레이어가 조작한 행동과 인물이 자신을 설명하는 말은 서로 다른 층위에 놓인다.\n\n경험치나 특정 상대의 호감도도 행동에 따라 변하지만 그 자체로 도덕성 수치는 아니다. 어떤 행동을 선악이나 명예의 기준으로 계산하는지 확인해야 하며, 모든 게임에 같은 평가 규칙이 있다고 가정하지 않는다.\n\n가상의 게임에서 주민을 도우면 선행 수치가 오르지만 특정 상인의 호감도는 변하지 않을 수 있다. 반대로 상인에게 선물을 주어 호감도가 올라도 선행 수치는 그대로일 수 있다. 두 수치가 어떤 행동을 평가하는지 구분하면 도덕성 체계와 관계 체계를 혼동하지 않을 수 있다.\n\n[[Red Dead Redemption 2]]에서는 플레이 방식에 따라 Arthur의 명예 수준이 달라지지만, 그는 그 수치와 무관하게 타인의 칭찬을 거절하고 자신을 깎아내린다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임은 선택이나 행동에 윤리적 값을 부여하여 인물의 성향을 시스템 안에 기록한다. 이 수치는 이야기 속 인물의 자기 평가와 일치하지 않을 수 있으며, 플레이어가 조작한 행동과 인물이 자신을 설명하는 말은 서로 다른 층위에 놓인다.\n\n경험치나 특정 상대의 호감도도 행동에 따라 변하지만 그 자체로 도덕성 수치는 아니다. 어떤 행동을 선악이나 명예의 기준으로 계산하는지 확인해야 하며, 모든 게임에 같은 평가 규칙이 있다고 가정하지 않는다."
+      ],
+      [
+        "사례",
+        "가상의 게임에서 주민을 도우면 선행 수치가 오르지만 특정 상인의 호감도는 변하지 않을 수 있다. 반대로 상인에게 선물을 주어 호감도가 올라도 선행 수치는 그대로일 수 있다. 두 수치가 어떤 행동을 평가하는지 구분하면 도덕성 체계와 관계 체계를 혼동하지 않을 수 있다."
+      ],
+      [
+        "관련 작품",
+        "[[Red Dead Redemption 2]]에서는 플레이 방식에 따라 Arthur의 명예 수준이 달라지지만, 그는 그 수치와 무관하게 타인의 칭찬을 거절하고 자신을 깎아내린다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

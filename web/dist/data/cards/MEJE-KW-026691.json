@@ -4,8 +4,8 @@
   "title": "한 작품에서 여러 줄거리를 동시에 전개하기",
   "original": "Four Lines, All Waiting",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00635",
+  "primary_tag_id": "ML-T00635",
   "description": {
     "definition": "많은 인물에게 연결된 여러 줄거리가 한 회차나 작품 안에서 동시에 진행되는 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "대장 MEJE-KW-010633은 시간이 부족해 각 흐름이 지연되는 문제를 포함한다. 현재 설명은 그 부작용을 필수로 하지 않는 병렬 구성이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.004.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다수의 인물에게 각기 다른 목표를 주고 한 작품 안에서 여러 진행을 교차한다. 장면의 전환은 동시성을 알리고 사건 사이의 비교를 만든다.\n\n어느 줄거리에 시간을 배분하는지에 따라 중심성과 리듬이 달라진다. 단순히 등장인물이 많은 것과는 다르며 각 진행이 실제 사건의 흐름을 갖는지와 나중에 만나는지를 구별할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다수의 인물에게 각기 다른 목표를 주고 한 작품 안에서 여러 진행을 교차한다. 장면의 전환은 동시성을 알리고 사건 사이의 비교를 만든다.\n\n어느 줄거리에 시간을 배분하는지에 따라 중심성과 리듬이 달라진다. 단순히 등장인물이 많은 것과는 다르며 각 진행이 실제 사건의 흐름을 갖는지와 나중에 만나는지를 구별할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

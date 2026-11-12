@@ -4,8 +4,8 @@
   "title": "프랑스식 이름을 붙인 식당",
   "original": "Chez Restaurant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01994",
+  "primary_tag_id": "ML-T01994",
   "description": {
     "definition": "식당 이름에 프랑스어식 표현을 덧붙여 세련되고 비싼 곳이라는 인상을 준다. 실제 수준과 이름의 격차를 이용한 풍자에도 쓰인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "프랑스어 전치사와 이름을 조합해 식당을 고급스럽게 보이도록 명명하는 관습이다. 프랑스 요리와 세련된 서비스에 대한 이미지를 짧은 간판에 담는다.\n\n가격과 [[복장 규정]], 낯선 메뉴에 대한 불안이 사교 장면의 갈등이 된다. 소박하거나 엉뚱한 이름과 결합하면 고급스러운 외형과 실제 수준의 차이를 풍자할 수 있다.\n\n프랑스어 표현 자체가 고급 식당만을 뜻하는 것은 아니다. 실제 언어의 의미와 다른 문화가 부여한 지위의 이미지를 구분하고 특정 작명만으로 음식의 질을 판단하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "프랑스어 전치사와 이름을 조합해 식당을 고급스럽게 보이도록 명명하는 관습이다. 프랑스 요리와 세련된 서비스에 대한 이미지를 짧은 간판에 담는다.\n\n가격과 [[복장 규정]], 낯선 메뉴에 대한 불안이 사교 장면의 갈등이 된다. 소박하거나 엉뚱한 이름과 결합하면 고급스러운 외형과 실제 수준의 차이를 풍자할 수 있다.\n\n프랑스어 표현 자체가 고급 식당만을 뜻하는 것은 아니다. 실제 언어의 의미와 다른 문화가 부여한 지위의 이미지를 구분하고 특정 작명만으로 음식의 질을 판단하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

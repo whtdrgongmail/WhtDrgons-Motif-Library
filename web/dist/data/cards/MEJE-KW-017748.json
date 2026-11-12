@@ -4,8 +4,8 @@
   "title": "좀비 감염으로 무너진 문명",
   "original": "Zombie Apocalypse",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01220",
+  "primary_tag_id": "ML-T01220",
   "description": {
     "definition": "사람을 [[좀비]] 등 괴물로 바꾸는 감염이 세계적으로 퍼져 기존 문명이 붕괴하는 세계관.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "국지적인 좀비 출현과 전 세계적 질서 붕괴를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.007.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사람이 괴물로 바뀌는 감염이 퍼지면서 사회의 대응 능력이 무너지는 세계다. 생존자의 수가 줄고 기존의 안전한 장소가 위협으로 바뀌는 과정이 중요하다.\n\n감염된 사람을 어떻게 구별하고 집단을 유지할지가 지속적인 갈등을 만든다. 감염이 시작되는 사건과 문명이 무너진 뒤의 생활은 같은 세계에서도 다른 단계다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사람이 괴물로 바뀌는 감염이 퍼지면서 사회의 대응 능력이 무너지는 세계다. 생존자의 수가 줄고 기존의 안전한 장소가 위협으로 바뀌는 과정이 중요하다.\n\n감염된 사람을 어떻게 구별하고 집단을 유지할지가 지속적인 갈등을 만든다. 감염이 시작되는 사건과 문명이 무너진 뒤의 생활은 같은 세계에서도 다른 단계다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

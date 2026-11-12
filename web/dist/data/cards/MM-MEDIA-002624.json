@@ -4,17 +4,17 @@
   "title": "그린 랜턴",
   "original": "Green Lantern",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T02513",
   "primary_tag_id": "ML-T02513",
   "description": {
-    "definition": "《그린 랜턴》은 만화 작품이다.",
-    "detail": "작품 사례: 만화 《그린 랜턴》의 팬텀 링 착용자는 느끼는 감정에 따라 외형과 능력이 달라진다. 공포가 우세하면 노란색 복장과 해당 감정 계열의 힘을 드러낸다.",
+    "definition": "《그린 랜턴》은 여러 세대의 그린 랜턴 영웅이 등장하는 DC 코믹스 만화 작품군을 가리키는 색인이다. 1960년에 시작한 할 조던 주연 시리즈처럼 연도와 판본이 지정된 개별 작품과 구별한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
     "code": "02.020",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "만화 《그린 랜턴》의 팬텀 링 착용자는 느끼는 감정에 따라 외형과 능력이 달라진다. 공포가 우세하면 노란색 복장과 해당 감정 계열의 힘을 드러낸다.",
+    "easy_ko": "그린 랜턴이라는 이름 아래 이어진 여러 DC 만화 작품을 함께 찾는 항목이다. 특정 연도의 한 시리즈를 찾는다면 해당 판본의 카드를 이용한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-11",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -47,5 +47,29 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000328",
+      "card_id": "MM-MEDIA-002624",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.dc.com/blog/2020/05/22/in-brightest-day-twelve-iconic-moments-in-the-green-lantern-saga",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "같은 영웅의 이름을 여러 세대가 이어받는 DC 만화 작품군이다. 반지의 힘으로 녹색 빛을 구체적인 형상으로 만들고 비행과 방어 등 다양한 행동을 수행하는 것이 대표적인 특징이다.\n\n초기의 앨런 스콧부터 뒤이은 인물들까지 이름의 계승이 작품군을 연결하지만, 능력의 기원과 세부 규칙은 판본에 따라 달라진다. 특정 연도에 시작한 한 주인공의 시리즈만을 가리키는 항목과 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 영웅의 이름을 여러 세대가 이어받는 DC 만화 작품군이다. 반지의 힘으로 녹색 빛을 구체적인 형상으로 만들고 비행과 방어 등 다양한 행동을 수행하는 것이 대표적인 특징이다.\n\n초기의 앨런 스콧부터 뒤이은 인물들까지 이름의 계승이 작품군을 연결하지만, 능력의 기원과 세부 규칙은 판본에 따라 달라진다. 특정 연도에 시작한 한 주인공의 시리즈만을 가리키는 항목과 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

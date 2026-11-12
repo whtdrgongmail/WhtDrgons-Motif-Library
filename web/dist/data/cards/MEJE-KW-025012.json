@@ -4,8 +4,8 @@
   "title": "만난 적과 생물을 기록하는 도감",
   "original": "MonsterCompendium",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02116",
+  "primary_tag_id": "ML-T02116",
   "description": {
     "definition": "게임에서 발견한 적이나 생물의 모습·특성·출현 정보를 모아 다시 열람할 수 있게 하는 도감이다.",
     "detail": "작품 사례: 《[[젤다의 전설 브레스 오브 더 와일드]]》의 하이랄 도감은 링크가 생물·무기 등을 촬영하면 사진과 설명, 발견 지역을 기록한다. 새 대상을 찾아 기록하는 행동이 탐험과 정보 수집을 연결한다.",
@@ -13,10 +13,10 @@
     "boundary": "모든 설정을 다루는 종합 도감의 하위 유형이며 단순 전투 중 표시는 별개다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "만난 생물과 적의 정보를 도감에 축적한다. 전투와 탐색의 경험을 나중에 다시 읽을 수 있는 지식으로 바꾼다.\n\n모습과 약점, 출현 기록 등 저장 범위는 다르다. 소지품을 관리하는 목록보다 세계의 대상에 관한 정보가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "만난 생물과 적의 정보를 도감에 축적한다. 전투와 탐색의 경험을 나중에 다시 읽을 수 있는 지식으로 바꾼다.\n\n모습과 약점, 출현 기록 등 저장 범위는 다르다. 소지품을 관리하는 목록보다 세계의 대상에 관한 정보가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

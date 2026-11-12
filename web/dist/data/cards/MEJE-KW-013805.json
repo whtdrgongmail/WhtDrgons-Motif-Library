@@ -4,8 +4,8 @@
   "title": "주인의 권세를 빌리는 하인",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02589",
+  "primary_tag_id": "ML-T02589",
   "description": {
     "definition": "유력한 고용주와의 가까운 관계를 자신의 권위로 삼아 다른 사람을 깔보는 시중 인물이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "본인의 공식 권한과 고용주에게서 빌린 위세를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.015",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유력한 고용주와 가깝다는 사실을 자신의 권위로 사용한다. 공식적인 지위보다 주인에게 접근할 수 있다는 관계가 다른 사람을 압박하는 근거가 된다.\n\n하인의 뜻을 거스르면 주인에게도 불이익을 받을 것이라는 예상이 위세를 유지할 수 있다. 주인의 실제 의사와 하인이 내세운 권위가 다르면 관계가 드러나는 순간 힘의 균형도 바뀐다.\n\n자기 직무의 정당한 권한을 행사하는 경우와는 다르다. 실무 능력에서 우월감을 느끼는 하인과도 근거가 다르며 주인의 명성과 본인의 권한을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유력한 고용주와 가깝다는 사실을 자신의 권위로 사용한다. 공식적인 지위보다 주인에게 접근할 수 있다는 관계가 다른 사람을 압박하는 근거가 된다.\n\n하인의 뜻을 거스르면 주인에게도 불이익을 받을 것이라는 예상이 위세를 유지할 수 있다. 주인의 실제 의사와 하인이 내세운 권위가 다르면 관계가 드러나는 순간 힘의 균형도 바뀐다.\n\n자기 직무의 정당한 권한을 행사하는 경우와는 다르다. 실무 능력에서 우월감을 느끼는 하인과도 근거가 다르며 주인의 명성과 본인의 권한을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

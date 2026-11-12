@@ -4,8 +4,8 @@
   "title": "모험을 끝내고 집에 정착하기",
   "original": "Home Sweet Home",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00655",
+  "primary_tag_id": "ML-T00655",
   "description": {
     "definition": "위험한 여정을 마친 인물이 원래 집이나 새로 찾은 안식처에 머물며 조용한 삶을 택하는 결말 지향이다.",
     "detail": "작품 사례: [[This Immortal]]의 콘래드는 모험 중 원래 거점인 코스섬이 파괴되자, 결말에서 카산드라와 아이티에 새집을 짓고 부부의 삶을 잇는다.",
@@ -13,10 +13,10 @@
     "boundary": "잠시 쉬고 다시 떠나는 귀환이나 돌아가고 싶다는 소망만 남은 미완의 여정과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여정이 끝난 뒤 집과 관계를 마련해 지속적인 생활에 들어가는 결말이다. 모험의 성과가 다시 떠나는 능력보다 안정적으로 머무를 기반으로 제시된다.\n\n잠시 쉰 뒤 재출발하는 귀환과 다르다. 돌아가고 싶다는 소망만 남은 여정도 아니며 실제 정착의 조건이 마련되어야 한다.\n\n[[This Immortal]]의 콘래드는 원래 거점인 코스섬을 모험 중 잃는다. 결말에는 카산드라와 아이티에 새집을 지어 원래 장소의 복구와 다른 형태의 정착을 이룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여정이 끝난 뒤 집과 관계를 마련해 지속적인 생활에 들어가는 결말이다. 모험의 성과가 다시 떠나는 능력보다 안정적으로 머무를 기반으로 제시된다.\n\n잠시 쉰 뒤 재출발하는 귀환과 다르다. 돌아가고 싶다는 소망만 남은 여정도 아니며 실제 정착의 조건이 마련되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[This Immortal]]의 콘래드는 원래 거점인 코스섬을 모험 중 잃는다. 결말에는 카산드라와 아이티에 새집을 지어 원래 장소의 복구와 다른 형태의 정착을 이룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

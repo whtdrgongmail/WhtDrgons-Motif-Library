@@ -4,27 +4,30 @@
   "title": "재즈 랩",
   "original": "Jazz Rap",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015902",
+  "primary_tag_id": "MEJE-KW-015902",
   "description": {
     "definition": "재즈의 음악 요소를 랩과 결합하는 힙합의 갈래다. 랩의 리듬적 발화와 재즈에서 가져온 소리의 결합이 스타일의 중심이 된다.",
-    "detail": "재즈 음원을 샘플링하거나 연주자를 참여시켜 실제 악기 연주를 녹음할 수 있다.\n\n작품 사례: 《[[Jazzmatazz]]》는 재즈 음원의 샘플링과 재즈 연주자들의 실제 연주를 랩에 결합해 두 음악의 만남을 구성한다.",
+    "detail": "재즈 음원을 샘플링하거나 재즈 연주자를 참여시켜 실제 악기를 녹음할 수 있다.\n\n작품 사례: Guru의 《[[Jazzmatazz]]》 첫 음반은 재즈 샘플과 실제 재즈 연주를 랩에 결합했다.",
     "usage": "재즈 요소와 랩이 곡의 구성에서 실제로 결합되는지 확인한다.",
-    "boundary": "재즈를 좋아한다는 래퍼의 취향이나 힙합과 관계없는 재즈 보컬만으로는 해당하지 않는다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.303.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "재즈 랩은 랩의 리듬적 발화를 중심에 두면서 재즈의 화성, 연주, 음색 또는 녹음 조각을 반주와 곡 구성에 활용하는 힙합의 한 갈래다. 재즈 음반에서 가져온 샘플을 쓰는 방법과 연주자가 새 재즈풍 반주를 만드는 방법은 구별할 수 있다. 둘 다 랩과 재즈적 재료가 어떻게 결합했는지가 핵심이다.\n\n재즈의 악기 하나가 잠깐 들린다는 이유만으로 [[장르]]를 정하지 않는다. 반주의 화성 변화, 즉흥적인 움직임 또는 연주 질감이 랩의 흐름과 계속 관계를 맺는지 확인한다. 랩 없이 재즈 연주만 있는 곡과도 구별한다. 장르 이름은 두 음악의 모든 관습을 동시에 갖추라는 뜻이 아니다.\n\n가상 예시: 래퍼의 일정한 발화 리듬 아래에서 피아노·베이스가 재즈식 화성 변화를 이어 가고 드럼이 두 흐름을 연결한다면 재즈 랩의 구성 방식을 설명할 수 있다. 곡의 시작에 짧은 색소폰 소리만 넣는 경우에는 근거가 약하다.\n\n작품 사례: 《[[Jazzmatazz]]》는 재즈 음원의 샘플링과 재즈 연주자들의 실제 연주를 랩에 결합해 두 음악의 만남을 구성한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "재즈 랩은 랩의 리듬적 발화를 중심에 두면서 재즈의 화성, 연주, 음색 또는 녹음 조각을 반주와 곡 구성에 활용하는 힙합의 한 갈래다. 재즈 음반에서 가져온 샘플을 쓰는 방법과 연주자가 새 재즈풍 반주를 만드는 방법은 구별할 수 있다. 둘 다 랩과 재즈적 재료가 어떻게 결합했는지가 핵심이다.\n\n재즈의 악기 하나가 잠깐 들린다는 이유만으로 [[장르]]를 정하지 않는다. 반주의 화성 변화, 즉흥적인 움직임 또는 연주 질감이 랩의 흐름과 계속 관계를 맺는지 확인한다. 랩 없이 재즈 연주만 있는 곡과도 구별한다. 장르 이름은 두 음악의 모든 관습을 동시에 갖추라는 뜻이 아니다."
+      ],
+      [
+        "사례",
+        "가상 예시: 래퍼의 일정한 발화 리듬 아래에서 피아노·베이스가 재즈식 화성 변화를 이어 가고 드럼이 두 흐름을 연결한다면 재즈 랩의 구성 방식을 설명할 수 있다. 곡의 시작에 짧은 색소폰 소리만 넣는 경우에는 근거가 약하다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[Jazzmatazz]]》는 재즈 음원의 샘플링과 재즈 연주자들의 실제 연주를 랩에 결합해 두 음악의 만남을 구성한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 5,
+    "replaces_short_fields": true
+  }
 }

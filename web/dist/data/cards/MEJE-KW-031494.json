@@ -4,8 +4,8 @@
   "title": "내가 필요하니 살려 달라는 호소",
   "original": "Plea of Personal Necessity",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01968",
+  "primary_tag_id": "ML-T01968",
   "description": {
     "definition": "제거당할 위기에 놓인 인물이 상대나 세계가 자신 없이는 곤란해진다며 처분을 멈추려 하는 호소다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "패배한 악당이 나를 없애면 더 큰 일이 난다고 주장한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "이 호소는 도덕적인 용서보다 실용적인 의존을 내세운다. 상대를 구할 정보, 시설을 유지하는 능력, 더 큰 세력을 억누르는 역할 등 자신만이 제공할 수 있다는 자원을 주장한다. 승자는 눈앞의 응징과 뒤에 올 손실을 동시에 판단해야 한다.\n\n주장이 사실인지에 따라 결말의 의미가 달라진다. 허풍이면 시간을 벌려는 마지막 속임수이고, 사실이면 이겼다고 생각한 순간에 새로운 책임이 생긴다. 미리 의존 관계를 보여 주면 선택의 무게가 커지고, 아무 단서 없이 뒤늦게 제시하면 협박처럼 읽힐 수 있다. 상대가 먼저 필요성을 깨닫고 살려 두는 판단과 달리, 여기서는 처분받는 쪽의 호소가 중심이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "이 호소는 도덕적인 용서보다 실용적인 의존을 내세운다. 상대를 구할 정보, 시설을 유지하는 능력, 더 큰 세력을 억누르는 역할 등 자신만이 제공할 수 있다는 자원을 주장한다. 승자는 눈앞의 응징과 뒤에 올 손실을 동시에 판단해야 한다.\n\n주장이 사실인지에 따라 결말의 의미가 달라진다. 허풍이면 시간을 벌려는 마지막 속임수이고, 사실이면 이겼다고 생각한 순간에 새로운 책임이 생긴다. 미리 의존 관계를 보여 주면 선택의 무게가 커지고, 아무 단서 없이 뒤늦게 제시하면 협박처럼 읽힐 수 있다. 상대가 먼저 필요성을 깨닫고 살려 두는 판단과 달리, 여기서는 처분받는 쪽의 호소가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

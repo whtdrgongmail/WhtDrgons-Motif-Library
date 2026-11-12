@@ -4,8 +4,8 @@
   "title": "거대한 괴물이 지배하는 섬",
   "original": "Isle of Giant Horrors",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01279",
+  "primary_tag_id": "ML-T01279",
   "description": {
     "definition": "겉보기에는 비어 있거나 고립된 섬에 거대한 위협적 생물이 살며 방문자의 이동과 생존을 좌우하는 장소 설정이다.",
     "detail": "괴물은 지배종·수호자·물에 갇힌 수감자가 될 수 있고 정체가 끝내 보이지 않을 수도 있다.\n\n작품 사례: 《[[원피스]]》의 루스카이나에는 거대한 고릴라와 코끼리 같은 짐승들이 살며, 루피는 그들과 싸우고 살아남는 수련을 한다.",
@@ -13,30 +13,47 @@
     "boundary": "섬 자체가 생명체인 경우나 거대 생물이 배경에만 있는 장소와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "무인도인 줄 알았는데 큰 발자국과 굉음이 섬의 주인이 있음을 알린다.\n\n작품 사례: 《[[원피스]]》의 루스카이나에는 거대한 고릴라와 코끼리 같은 짐승들이 살며, 루피는 그들과 싸우고 살아남는 수련을 한다.",
+    "easy_ko": "무인도인 줄 알았는데 큰 발자국과 굉음이 섬의 주인이 있음을 알린다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》의 루스카이나에는 거대한 고릴라와 코끼리 같은 짐승들이 살며, 루피는 그들과 싸우고 살아남는 수련을 한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "괴물은 지배종·수호자·물에 갇힌 수감자가 될 수 있고 정체가 끝내 보이지 않을 수도 있다.\n\n섬 자체가 생명체인 경우나 거대 생물이 배경에만 있는 장소와 구별한다.\n\n《[[원피스(만화)]]》의 루스카이나에는 거대한 고릴라와 코끼리 같은 짐승들이 살며, 루피는 그들과 싸우고 살아남는 수련을 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "괴물은 지배종·수호자·물에 갇힌 수감자가 될 수 있고 정체가 끝내 보이지 않을 수도 있다.\n\n섬 자체가 생명체인 경우나 거대 생물이 배경에만 있는 장소와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[원피스(만화)]]》의 루스카이나에는 거대한 고릴라와 코끼리 같은 짐승들이 살며, 루피는 그들과 싸우고 살아남는 수련을 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

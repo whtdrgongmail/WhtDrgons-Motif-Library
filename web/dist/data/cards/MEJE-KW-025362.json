@@ -5,8 +5,8 @@
   "original": "The Calm Voice Announces a Cruel Decision",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "기계가 위협이나 폭력적인 결정을 평상시와 똑같이 차분한 음성으로 전달한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "기계 목소리가 단조롭다는 사실만으로는 부족하며 잔혹한 내용과 평정의 대비가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기계가 잔혹한 결정이나 위협을 평상시와 같은 차분한 음성으로 알린다. 전달되는 내용의 폭력성과 전달 태도의 평온함이 충돌한다.\n\n상황의 심각성에도 목소리가 달라지지 않아 비인간적인 공포가 생긴다. 음성의 특성만이 아니라 무엇을 같은 태도로 말하는지가 표현의 효과를 만든다.\n\n기계 목소리가 단조롭다는 사실만으로는 부족하다. 잔혹한 내용과 평정한 전달이 대비되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기계가 잔혹한 결정이나 위협을 평상시와 같은 차분한 음성으로 알린다. 전달되는 내용의 폭력성과 전달 태도의 평온함이 충돌한다.\n\n상황의 심각성에도 목소리가 달라지지 않아 비인간적인 공포가 생긴다. 음성의 특성만이 아니라 무엇을 같은 태도로 말하는지가 표현의 효과를 만든다.\n\n기계 목소리가 단조롭다는 사실만으로는 부족하다. 잔혹한 내용과 평정한 전달이 대비되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

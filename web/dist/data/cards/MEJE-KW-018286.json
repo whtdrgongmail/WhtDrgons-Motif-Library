@@ -4,8 +4,8 @@
   "title": "사랑한다며 상대를 납치하기",
   "original": "Abduction Is Love",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "연애 감정이나 성적 끌림을 이유로 상대를 납치해 곁에 두려는 관계 구도다.",
     "detail": "가해자의 사랑 주장과 피해자의 동의 부재를 구분한다.",
@@ -13,14 +13,20 @@
     "boundary": "서로 동의한 도피나 연애와 관계없는 목적의 납치와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아한다는 이유로 상대의 자유를 빼앗아 데려간다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "Abduction Is Love는 ‘납치는 사랑이다’라는 뜻으로, 가해자가 연애 감정을 상대의 자유를 빼앗는 명분으로 삼는 관계 구도다.\n\n인물은 연애 감정이나 성적 끌림을 이유로 상대를 납치해 곁에 두려 한다. 가해자의 사랑 주장은 감정의 강도를 드러내지만, 피해자가 동의했다는 뜻은 아니다.\n\n납치는 상대의 이동과 선택을 강제로 제한한다. 가해자는 자신의 욕망을 애정으로 설명할 수 있어도, 피해자의 의사와 자유가 존중되지 않는다면 관계는 강압과 통제의 구조를 유지한다.\n\n서로 동의한 도피나 연애 관계와는 다르며, 연애와 무관한 목적의 납치와도 구별된다. 감정이 행동의 명분으로 제시되고 상대의 동의가 없다는 두 조건이 함께 드러나야 한다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "Abduction Is Love는 ‘납치는 사랑이다’라는 뜻으로, 가해자가 연애 감정을 상대의 자유를 빼앗는 명분으로 삼는 관계 구도다."
+      ],
+      [
+        "상세 설명",
+        "인물은 연애 감정이나 성적 끌림을 이유로 상대를 납치해 곁에 두려 한다. 가해자의 사랑 주장은 감정의 강도를 드러내지만, 피해자가 동의했다는 뜻은 아니다.\n\n납치는 상대의 이동과 선택을 강제로 제한한다. 가해자는 자신의 욕망을 애정으로 설명할 수 있어도, 피해자의 의사와 자유가 존중되지 않는다면 관계는 강압과 통제의 구조를 유지한다.\n\n서로 동의한 도피나 연애 관계와는 다르며, 연애와 무관한 목적의 납치와도 구별된다. 감정이 행동의 명분으로 제시되고 상대의 동의가 없다는 두 조건이 함께 드러나야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

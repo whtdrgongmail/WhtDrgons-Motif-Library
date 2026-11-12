@@ -4,8 +4,8 @@
   "title": "위기에 처한 사람이 보내는 구조 요청",
   "original": "Distress Call",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00776",
+  "primary_tag_id": "ML-T00776",
   "description": {
     "definition": "위험에 빠진 사람이 외부에 자신의 곤경과 도움이 필요함을 알리는 긴급 통신이다. 신호를 받은 쪽이 도착했을 때 이미 늦었을 가능성이 긴장을 만들 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "요청을 받는 사람의 여정이 그 순간 시작되어야 하는 것은 아니며, 평상시 연락과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "외부에서 온 도움 요청이 주인공을 위험한 장소로 이동시키는 도입 구조다. 연락이 갑자기 끊긴 원인을 조사하라는 명령도 비슷한 역할을 한다.\n\n응답자는 신호의 내용만 알고 실제 현장의 상태는 알지 못한다. 도착한 뒤 비어 있는 시설과 시신, 마지막 기록을 발견하면서 구조 임무가 생존과 진상 조사로 바뀔 수 있다.\n\n신호를 보낸 사람이 이미 죽었는지, 함정이었는지가 긴장을 유지한다. 통신 자체보다 요청을 믿고 접근한 집단이 이전 피해자의 위험을 이어받는 과정에 중심이 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "외부에서 온 도움 요청이 주인공을 위험한 장소로 이동시키는 도입 구조다. 연락이 갑자기 끊긴 원인을 조사하라는 명령도 비슷한 역할을 한다.\n\n응답자는 신호의 내용만 알고 실제 현장의 상태는 알지 못한다. 도착한 뒤 비어 있는 시설과 시신, 마지막 기록을 발견하면서 구조 임무가 생존과 진상 조사로 바뀔 수 있다.\n\n신호를 보낸 사람이 이미 죽었는지, 함정이었는지가 긴장을 유지한다. 통신 자체보다 요청을 믿고 접근한 집단이 이전 피해자의 위험을 이어받는 과정에 중심이 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

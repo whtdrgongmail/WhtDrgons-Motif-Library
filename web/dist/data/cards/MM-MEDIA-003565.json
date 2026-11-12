@@ -2,24 +2,69 @@
   "id": "MM-MEDIA-003565",
   "kind": "work",
   "title": "토르: 천둥의 신",
-  "original": "",
+  "original": "Thor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00055",
+  "primary_tag_id": "ML-T00055",
   "description": {
-    "definition": "",
+    "definition": "《토르: 천둥의 신》은 케네스 브래너가 연출한 2011년 마블 스튜디오의 실사 영화다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.005.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "아스가르드의 토르가 지구로 추방된 뒤 겪는 일을 그린 영화다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000166",
+      "card_id": "MM-MEDIA-003565",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.marvel.com/movies/thor",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "토르의 무모한 행동은 오래된 전쟁을 다시 일으키고, 오딘은 그를 아스가르드에서 지구로 추방한다. 이야기는 이미 강한 전사였던 인물이 새로운 힘을 얻는 과정보다, 기존의 힘과 지위가 영웅으로서의 자격을 보장하지 않는 상황에서 출발한다.\n\n아스가르드와 현대 지구의 병치는 토르의 익숙한 권위를 흔든다. 자신의 세계에서 당연했던 지위와 행동 방식이 다른 사회에서는 같은 효력을 갖지 않으므로, 힘을 행사하는 태도와 사람을 대하는 방식이 문제 된다. 추방은 장소의 이동인 동시에 행동의 기준을 다시 익혀야 하는 조건이다.\n\n아스가르드의 위협이 지구로 이어지면 인간 사회와의 접촉은 잠깐의 체류로 끝나지 않는다. 토르는 자신이 속했던 세계의 갈등이 다른 사람들에게 미치는 결과와 마주한다. 이 과정에서 강력한 전사라는 출발점과 다른 존재를 지키는 [[슈퍼히어로]]의 역할 사이에 차이가 생긴다.\n\n[[현대 무기 속에서도 활을 쓰는 전사]]의 연결 사례에서는 호크아이가 소총들이 있는 곳에서 활을 선택한다. 주변의 현대 무장을 먼저 보여 주어 다른 선택지가 있다는 조건을 세운 뒤, 짧은 행동으로 궁수라는 전문성을 식별하게 한다. 이는 토르의 중심 성장 서사와 구분되는 조연 소개의 장치다.",
+    "sections": [
+      [
+        "상세 설명",
+        "토르의 무모한 행동은 오래된 전쟁을 다시 일으키고, 오딘은 그를 아스가르드에서 지구로 추방한다. 이야기는 이미 강한 전사였던 인물이 새로운 힘을 얻는 과정보다, 기존의 힘과 지위가 영웅으로서의 자격을 보장하지 않는 상황에서 출발한다.\n\n아스가르드와 현대 지구의 병치는 토르의 익숙한 권위를 흔든다. 자신의 세계에서 당연했던 지위와 행동 방식이 다른 사회에서는 같은 효력을 갖지 않으므로, 힘을 행사하는 태도와 사람을 대하는 방식이 문제 된다. 추방은 장소의 이동인 동시에 행동의 기준을 다시 익혀야 하는 조건이다.\n\n아스가르드의 위협이 지구로 이어지면 인간 사회와의 접촉은 잠깐의 체류로 끝나지 않는다. 토르는 자신이 속했던 세계의 갈등이 다른 사람들에게 미치는 결과와 마주한다. 이 과정에서 강력한 전사라는 출발점과 다른 존재를 지키는 [[슈퍼히어로]]의 역할 사이에 차이가 생긴다."
+      ],
+      [
+        "관련 작품",
+        "[[현대 무기 속에서도 활을 쓰는 전사]]의 연결 사례에서는 호크아이가 소총들이 있는 곳에서 활을 선택한다. 주변의 현대 무장을 먼저 보여 주어 다른 선택지가 있다는 조건을 세운 뒤, 짧은 행동으로 궁수라는 전문성을 식별하게 한다. 이는 토르의 중심 성장 서사와 구분되는 조연 소개의 장치다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

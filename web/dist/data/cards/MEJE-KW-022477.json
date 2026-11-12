@@ -4,27 +4,30 @@
   "title": "아이들을 중심에 둔 시트콤",
   "original": "Kid Com",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-022477",
+  "primary_tag_id": "MEJE-KW-022477",
   "description": {
     "definition": "어린이·청소년을 주요 인물로 삼고 성인은 조력자·권위자 등 주변 역할에 두는 상황 코미디 형식이다.",
     "detail": "작품 사례: 원문은 《[[사우스 파크]]》를 아이들이 중심인 시트콤이면서도 성인 관객을 겨냥한 사례로 든다. 어린 주인공과 어린 시청 대상은 같은 조건이 아님을 보여 준다.",
     "usage": "아동·청소년의 일상과 작은 [[갈등]]을 반복 가능한 코미디 구조로 설계한다.",
-    "boundary": "아이를 등장시킨 가족 시트콤 전체와 같지 않다. 주요 시점과 갈등의 주체가 어린 인물이어야 하며 시청 대상은 성인일 수도 있다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.110.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주요 시점과 반복되는 사건이 어린 인물의 생활을 중심으로 전개된다. 성인은 조력자나 권위자로 등장하지만 갈등을 이끄는 중심 역할은 아이들에게 남는다.\n\n아이를 등장시킨 가족 시트콤 전체와 같지 않다. 주요 시점과 갈등의 주체가 어린 인물이어야 하며 시청 대상은 성인일 수도 있다.\n\n《[[사우스 파크]]》는 아이들이 중심인 시트콤이면서도 성인 관객을 겨냥한다. 어린 주인공과 어린 시청 대상은 같은 조건이 아님을 보여 주는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주요 시점과 반복되는 사건이 어린 인물의 생활을 중심으로 전개된다. 성인은 조력자나 권위자로 등장하지만 갈등을 이끄는 중심 역할은 아이들에게 남는다.\n\n아이를 등장시킨 가족 시트콤 전체와 같지 않다. 주요 시점과 갈등의 주체가 어린 인물이어야 하며 시청 대상은 성인일 수도 있다."
+      ],
+      [
+        "관련 작품",
+        "《[[사우스 파크]]》는 아이들이 중심인 시트콤이면서도 성인 관객을 겨냥한다. 어린 주인공과 어린 시청 대상은 같은 조건이 아님을 보여 주는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "동물의 소리가 말투에 남기",
   "original": "Animal Species Accent",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01972",
+  "primary_tag_id": "ML-T01972",
   "description": {
     "definition": "말하는 동물 인물이 자기 종의 울음소리·발성 높낮이·반복 음절을 말투에 섞어 [[정체성]]을 드러내는 표현 관습. 실제 동물 소리를 그대로 재현하기보다 사람이 듣고 알아볼 수 있는 특징을 빌린다. [[말하는 동물]]의 언어 표현을 구체화한 경우다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "말하는 동물의 대사에 울음소리와 음높이, 반복 음절을 섞어 종의 특징을 남긴다. 인간 언어를 구사해도 목소리만으로 어떤 존재인지 알아보게 하는 표현이다.\n\n말끝의 소리가 감정에 따라 강해지면 동물적 특징과 인물의 상태를 함께 전달할 수 있다. [[말버릇]]의 한 형태로 볼 수 있지만 실제 동물의 언어를 재현한 것은 아니며, 문화마다 다르게 적는 의성어도 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "말하는 동물의 대사에 울음소리와 음높이, 반복 음절을 섞어 종의 특징을 남긴다. 인간 언어를 구사해도 목소리만으로 어떤 존재인지 알아보게 하는 표현이다.\n\n말끝의 소리가 감정에 따라 강해지면 동물적 특징과 인물의 상태를 함께 전달할 수 있다. [[말버릇]]의 한 형태로 볼 수 있지만 실제 동물의 언어를 재현한 것은 아니며, 문화마다 다르게 적는 의성어도 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

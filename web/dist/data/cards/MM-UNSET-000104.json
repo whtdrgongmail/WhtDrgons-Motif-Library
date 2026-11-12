@@ -2,24 +2,55 @@
   "id": "MM-UNSET-000104",
   "kind": "keyword",
   "title": "액션 영화",
-  "original": "",
+  "original": "Action film",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00198",
+  "primary_tag_id": "ML-T00198",
   "description": {
-    "definition": "",
+    "definition": "액션 영화는 전투, 추격, 위험한 이동 등 신체적 행동이 주요 갈등과 긴장을 이루는 영화다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 3,
+  "classification": {
+    "code": "03.101",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "몸을 움직여 위험에 대응하는 장면이 이야기의 중심인 영화다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[액션 영화]]는 인물이 물리적 위험에 맞서 행동하는 과정을 중요한 사건과 볼거리로 구성한다. 격투, 총격, 추격, 구조 등 사용되는 행동은 다양하며, 작품마다 강조하는 기술과 위험의 종류가 다르다. 단순히 편집이 빠르거나 사건이 많다는 이유만으로 이 장르에 포함하지 않는다.\n\n[[무술영화]]는 액션 영화와 겹칠 수 있지만 무술의 숙련과 대결 방식을 특히 중시한다. 장르를 판단할 때에는 신체적 위기의 해결이 작품의 중심 갈등인지, 행동 장면이 인물의 목표와 결과를 실제로 바꾸는지 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[액션 영화]]는 인물이 물리적 위험에 맞서 행동하는 과정을 중요한 사건과 볼거리로 구성한다. 격투, 총격, 추격, 구조 등 사용되는 행동은 다양하며, 작품마다 강조하는 기술과 위험의 종류가 다르다. 단순히 편집이 빠르거나 사건이 많다는 이유만으로 이 장르에 포함하지 않는다.\n\n[[무술영화]]는 액션 영화와 겹칠 수 있지만 무술의 숙련과 대결 방식을 특히 중시한다. 장르를 판단할 때에는 신체적 위기의 해결이 작품의 중심 갈등인지, 행동 장면이 인물의 목표와 결과를 실제로 바꾸는지 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

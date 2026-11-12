@@ -4,8 +4,8 @@
   "title": "명절에 봉사하기",
   "original": "Holiday Volunteering",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00820",
+  "primary_tag_id": "ML-T00820",
   "description": {
     "definition": "인물들이 명절의 여가 시간을 어려운 처지의 사람들을 돕는 활동에 쓰는 이야기 소재다.",
     "detail": "작품 사례: [[The Big Bang Theory]]의 [[추수감사절 회차]]에서 라지와 일행은 무료 급식소 봉사에 나서고, 내키지 않던 하워드도 따라가 설거지 일을 맡는다.",
@@ -13,10 +13,10 @@
     "boundary": "평소의 직무 수행이나 명절과 무관한 봉사 활동 일반과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.010.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000932",
+      "work_card_id": "MM-MEDIA-001466",
       "description_ko": "The Big Bang Theory의 추수감사절 회차에서 라지와 일행은 무료 급식소 봉사에 나서고, 내키지 않던 하워드도 따라가 설거지 일을 맡는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기념일의 의미를 타인을 돕는 활동으로 실천하는 선택이다. 평소와 다른 모임과 일정이 봉사 참여의 계기가 될 수 있다.\n\n통상적인 직무 수행과 명절에 무관한 봉사 전체를 뜻하지 않는다. 그날의 의미와 참여의 동기, 경험이 연결되어야 한다.\n\n[[The Big Bang Theory]]의 [[추수감사절 회차]]에서 라지와 일행은 무료 급식소 봉사에 참여한다. 내키지 않던 하워드도 따라가 설거지를 맡아 명절의 활동 안에 들어간다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기념일의 의미를 타인을 돕는 활동으로 실천하는 선택이다. 평소와 다른 모임과 일정이 봉사 참여의 계기가 될 수 있다.\n\n통상적인 직무 수행과 명절에 무관한 봉사 전체를 뜻하지 않는다. 그날의 의미와 참여의 동기, 경험이 연결되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Big Bang Theory]]의 [[추수감사절 회차]]에서 라지와 일행은 무료 급식소 봉사에 참여한다. 내키지 않던 하워드도 따라가 설거지를 맡아 명절의 활동 안에 들어간다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

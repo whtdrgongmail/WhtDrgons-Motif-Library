@@ -5,8 +5,8 @@
   "original": "Forcing Someone to Tell the Truth",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01502",
+  "primary_tag_id": "ML-T01502",
   "description": {
     "definition": "상대가 거짓말하지 못하게 하는 데서 나아가 침묵 대신 진실을 말하도록 강제하는 능력이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "단순한 거짓 탐지나 자발적인 고백과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "17",
+    "code": "17.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거짓말을 막는 데 그치지 않고 침묵 대신 진실을 말하게 한다. 발언 내용과 발언 여부를 함께 통제하는 능력이다.\n\n대상은 아는 사실을 감추는 선택도 제한받는다. 수사에 유용한 힘과 말하는 사람의 선택권이 같은 장면에서 충돌할 수 있다.\n\n거짓 탐지와 자발적인 고백과 다르다. 실제 진실의 발화를 강제해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "거짓말을 막는 데 그치지 않고 침묵 대신 진실을 말하게 한다. 발언 내용과 발언 여부를 함께 통제하는 능력이다.\n\n대상은 아는 사실을 감추는 선택도 제한받는다. 수사에 유용한 힘과 말하는 사람의 선택권이 같은 장면에서 충돌할 수 있다.\n\n거짓 탐지와 자발적인 고백과 다르다. 실제 진실의 발화를 강제해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

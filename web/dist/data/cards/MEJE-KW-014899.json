@@ -4,8 +4,8 @@
   "title": "임시로 만든 화염 무기",
   "original": "Homemade Flamethrower",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "정규 장비를 구하기 어려운 인물이 주변 자원으로 불꽃을 사용하는 무기나 도구를 만들어 위협에 대응하는 설정이다.",
     "detail": "작품 사례: [[The Last of Us (2023)]]의 잭슨 방어대는 직접 만든 화염 무기로 감염자 무리를 막으며, 한 대는 연료가 다하기 직전에 블로터를 쓰러뜨린다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 공장제 화염 무기나 현실 제작 방법을 설명하는 개념과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정규 장비 대신 임시로 마련한 화염 무기를 자원 부족 속에서 사용하는 설정이다. 제작의 임시성과 제한된 사용 시간이 전투의 조건을 만든다.\n\n공장제 장비의 통상 사용과 다르다. 현실의 제작 방법이 아니라 물자의 부족과 임시 장비라는 사실이 [[서사]]에 어떻게 반영되는지 설명한다.\n\n[[The Last of Us (2023)]]의 잭슨 방어대는 직접 만든 화염 무기로 감염자 무리를 저지한다. 한 장비는 연료가 거의 다한 순간 블로터를 쓰러뜨려 자원 한계가 전투와 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정규 장비 대신 임시로 마련한 화염 무기를 자원 부족 속에서 사용하는 설정이다. 제작의 임시성과 제한된 사용 시간이 전투의 조건을 만든다.\n\n공장제 장비의 통상 사용과 다르다. 현실의 제작 방법이 아니라 물자의 부족과 임시 장비라는 사실이 [[서사]]에 어떻게 반영되는지 설명한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Last of Us (2023)]]의 잭슨 방어대는 직접 만든 화염 무기로 감염자 무리를 저지한다. 한 장비는 연료가 거의 다한 순간 블로터를 쓰러뜨려 자원 한계가 전투와 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

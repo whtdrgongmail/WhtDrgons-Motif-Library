@@ -4,27 +4,27 @@
   "title": "벨라루스 미디어",
   "original": "Belarusian Media",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "MEJE-KW-002972",
+  "primary_tag_id": "MEJE-KW-002972",
   "description": {
-    "definition": "벨라루스에서 만들어졌거나 그 창작 문화와 이어지는 영상, 음악, 문학, 게임 등을 탐색하는 지역별 [[미디어]] 분류. 개별 작품은 확인된 뒤 독립 카드로 연결한다. 다른 지역의 상위 분류로 [[벨기에 미디어]]도 있다.",
+    "definition": "벨라루스에서 만들어졌거나 그 창작 문화와 이어지는 영상, 음악, 문학, 게임 등을 탐색하는 지역별 [[미디어]] 분류. 개별 작품은 확인된 뒤 독립 카드로 연결한다. [[벨기에 미디어]]는 다른 나라의 창작물을 묶는 별도 지역 분류이며 벨라루스 미디어의 상위 분류가 아니다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "02",
-    "review_status": "provisional",
-    "row_version": 1
+    "code": "02.022.001",
+    "review_status": "reviewed",
+    "row_version": 2
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "is_a",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "벨라루스 미디어는 하나의 양식이나 장르가 아니라 창작물의 지역적 연결을 정리하는 탐색 범주다. 문학과 음악, 영상과 게임을 함께 묶되 제작 지역과 언어, 창작자의 이력은 서로 다른 연결 근거로 다루어야 한다.\n\n벨라루스와 관련된 창작자가 다른 나라에서 발표한 작품, 여러 나라가 참여한 공동 제작, 특정 지역을 배경으로만 삼은 작품은 같은 경우가 아니다. 개별 작품의 관계를 확인하지 않고 출생지나 제목만으로 모두 같은 제작 문화에 속한다고 단정하지 않는다. 자료가 목록 중심이므로 공통된 미학이나 산업적 경향은 별도 근거 없이 덧붙이지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "벨라루스 미디어는 하나의 양식이나 장르가 아니라 창작물의 지역적 연결을 정리하는 탐색 범주다. 문학과 음악, 영상과 게임을 함께 묶되 제작 지역과 언어, 창작자의 이력은 서로 다른 연결 근거로 다루어야 한다.\n\n벨라루스와 관련된 창작자가 다른 나라에서 발표한 작품, 여러 나라가 참여한 공동 제작, 특정 지역을 배경으로만 삼은 작품은 같은 경우가 아니다. 개별 작품의 관계를 확인하지 않고 출생지나 제목만으로 모두 같은 제작 문화에 속한다고 단정하지 않는다. 자료가 목록 중심이므로 공통된 미학이나 산업적 경향은 별도 근거 없이 덧붙이지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

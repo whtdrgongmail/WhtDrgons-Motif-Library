@@ -4,8 +4,8 @@
   "title": "다른 언어에서 잘 통하도록 내용을 조정하는 현지화",
   "original": "Woolseyism",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02282",
+  "primary_tag_id": "ML-T02282",
   "description": {
     "definition": "번역 대상 언어에서 작품이 더 자연스럽고 효과적으로 작동하도록 표현이나 내용을 바꾸는 현지화 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "이전 005:2026은 대사 변경에 한정하지만 현재 정의는 번역·현지화 과정의 내용 조정 전반을 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원문의 표현을 그대로 옮겼을 때 사라지는 효과를 대상 언어의 관습에 맞춘 다른 표현으로 보완한다. [[말장난]], 문화적 지식, 대사의 리듬처럼 언어 환경에 의존하는 요소가 조정의 대상이 된다.\n\n의미를 전달하기 위한 변형과 검열이나 임의적인 내용 변경은 목적과 결과를 따로 평가해야 한다. 원문은 특정 번역가의 작업을 둘러싼 평가에서 출발하므로, 현지화 일반의 모든 수정이 같은 성격이라고 단정할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원문의 표현을 그대로 옮겼을 때 사라지는 효과를 대상 언어의 관습에 맞춘 다른 표현으로 보완한다. [[말장난]], 문화적 지식, 대사의 리듬처럼 언어 환경에 의존하는 요소가 조정의 대상이 된다.\n\n의미를 전달하기 위한 변형과 검열이나 임의적인 내용 변경은 목적과 결과를 따로 평가해야 한다. 원문은 특정 번역가의 작업을 둘러싼 평가에서 출발하므로, 현지화 일반의 모든 수정이 같은 성격이라고 단정할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

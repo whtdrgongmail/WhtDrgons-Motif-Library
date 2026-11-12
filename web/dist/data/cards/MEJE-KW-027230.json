@@ -4,8 +4,8 @@
   "title": "인물의 정신적 혼란이 드러나는 장면",
   "original": "Insanity Establishment Scene",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01947",
+  "primary_tag_id": "ML-T01947",
   "description": {
     "definition": "이야기의 한 시점에서 인물이 심각한 정신적 혼란을 겪고 있다는 사실이 분명해진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "앞선 암시나 은폐가 반드시 있어야 하는 것은 아니며 실제 사람의 진단 기준이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "23.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "앞서 모호했던 행동의 의미가 특정 장면을 통해 분명해진다. 관객은 이후 그 인물의 말과 경험을 이전과 다른 기준으로 해석하게 된다.\n\n환각과 대화의 불일치, 주변의 반응 등은 상태를 공개하는 수단이 될 수 있다. 공개 시점을 늦추면 과거 장면의 의미를 다시 이해하는 반전 효과가 생긴다.\n\n기이한 행동 한 번을 실제 질환의 증거로 삼는 개념은 아니다. 작품 안에서 심각한 혼란이 확인되는 전환점에 초점을 두며 진단명은 별도 근거 없이 붙이지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "앞서 모호했던 행동의 의미가 특정 장면을 통해 분명해진다. 관객은 이후 그 인물의 말과 경험을 이전과 다른 기준으로 해석하게 된다.\n\n환각과 대화의 불일치, 주변의 반응 등은 상태를 공개하는 수단이 될 수 있다. 공개 시점을 늦추면 과거 장면의 의미를 다시 이해하는 반전 효과가 생긴다.\n\n기이한 행동 한 번을 실제 질환의 증거로 삼는 개념은 아니다. 작품 안에서 심각한 혼란이 확인되는 전환점에 초점을 두며 진단명은 별도 근거 없이 붙이지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

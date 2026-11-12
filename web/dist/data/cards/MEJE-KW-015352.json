@@ -4,8 +4,8 @@
   "title": "의료 처치 중심 게임",
   "original": "Medical Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00450",
+  "primary_tag_id": "ML-T00450",
   "description": {
     "definition": "환자에게 의료적 처치를 수행하는 일이 주요 목표와 상호작용을 이루는 게임 형식이다.",
     "detail": "작품 사례: 《[[아마추어 서전]]》은 갈수록 어려워지는 환자의 수술을 수행하는 일을 게임의 핵심 목표로 삼는다.",
@@ -13,19 +13,22 @@
     "boundary": "의료인이 등장하거나 체력 회복 아이템이 있다는 이유만으로 포함하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.206",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "환자를 살피고 치료하는 활동이 게임의 중심 과제가 된다.",
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "환자의 진단과 처치, 수술의 수행을 주요 목표와 규칙으로 구성하는 게임 유형이다. 치료 과정의 순서와 선택이 플레이의 성공과 실패에 연결된다.\n\n의료인이 등장하거나 회복 아이템이 있다는 이유만으로 포함하지 않는다. 실제 의료 절차의 정확성과 별개로 처치 자체가 핵심 활동이어야 한다.\n\n《[[아마추어 서전]]》은 환자들의 수술을 수행하는 것을 중심 목표로 삼는다. 점차 어려워지는 환자가 과제의 난도를 조정해 처치가 진행의 단위가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "환자의 진단과 처치, 수술의 수행을 주요 목표와 규칙으로 구성하는 게임 유형이다. 치료 과정의 순서와 선택이 플레이의 성공과 실패에 연결된다.\n\n의료인이 등장하거나 회복 아이템이 있다는 이유만으로 포함하지 않는다. 실제 의료 절차의 정확성과 별개로 처치 자체가 핵심 활동이어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[아마추어 서전]]》은 환자들의 수술을 수행하는 것을 중심 목표로 삼는다. 점차 어려워지는 환자가 과제의 난도를 조정해 처치가 진행의 단위가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

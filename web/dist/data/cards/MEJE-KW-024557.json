@@ -5,8 +5,8 @@
   "original": "Rewriting Dialogue to Fit the Lip Movements",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02283",
+  "primary_tag_id": "ML-T02283",
   "description": {
     "definition": "직역한 문장을 그대로 읽지 않고 뜻과 뉘앙스를 유지하는 범위에서 길이와 말투를 바꾸어 화면에 맞춘다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "번역과 영상의 시간 관계를 다루는 제작 선택이며 모든 언어·작품의 제작법이 같다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "번역문을 직역 그대로 읽지 않고 화면의 입 움직임에 맞게 길이와 말투를 조정한다. 의미와 뉘앙스를 유지하면서 발화의 시간을 맞춘다.\n\n내용의 대응과 영상의 타이밍은 동시에 고려할 조건이다. 무엇을 줄이고 어떻게 다시 말할지가 화면과 대사의 연결을 만든다.\n\n모든 언어와 작품이 같은 제작법을 쓴다는 뜻은 아니다. 번역과 영상의 시간 관계를 조정하는 특정 선택이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "번역문을 직역 그대로 읽지 않고 화면의 입 움직임에 맞게 길이와 말투를 조정한다. 의미와 뉘앙스를 유지하면서 발화의 시간을 맞춘다.\n\n내용의 대응과 영상의 타이밍은 동시에 고려할 조건이다. 무엇을 줄이고 어떻게 다시 말할지가 화면과 대사의 연결을 만든다.\n\n모든 언어와 작품이 같은 제작법을 쓴다는 뜻은 아니다. 번역과 영상의 시간 관계를 조정하는 특정 선택이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

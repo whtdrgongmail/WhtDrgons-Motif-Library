@@ -4,8 +4,8 @@
   "title": "버려진 옛 교사",
   "original": "Old School Building",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01328",
+  "primary_tag_id": "ML-T01328",
   "description": {
     "definition": "사용되지 않는 학교 건물을 불길하고 무서운 공간으로 배치하는 배경 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "새 학교의 일상적인 교실과 달리 폐기·단절의 분위기가 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.010.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "더는 쓰지 않는 옛 학교 건물을 불길한 장소로 배치한다. 현재의 교실과 떨어진 공간이 폐기와 단절의 분위기를 만든다.\n\n새 건물로 옮긴 뒤 창고나 동아리 공간으로 일부만 남아 있을 수도 있다. 사람이 적고 버려진 부분에 귀신 소문이 붙으면 학교의 괴담이나 담력 시험의 장소가 된다.\n\n오래된 건물이라는 사실만으로 실제로 위험하거나 귀신이 있다는 뜻은 아니다. 남은 용도와 학생들이 붙인 이야기가 공포의 인상을 어떻게 만드는지 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "더는 쓰지 않는 옛 학교 건물을 불길한 장소로 배치한다. 현재의 교실과 떨어진 공간이 폐기와 단절의 분위기를 만든다.\n\n새 건물로 옮긴 뒤 창고나 동아리 공간으로 일부만 남아 있을 수도 있다. 사람이 적고 버려진 부분에 귀신 소문이 붙으면 학교의 괴담이나 담력 시험의 장소가 된다.\n\n오래된 건물이라는 사실만으로 실제로 위험하거나 귀신이 있다는 뜻은 아니다. 남은 용도와 학생들이 붙인 이야기가 공포의 인상을 어떻게 만드는지 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

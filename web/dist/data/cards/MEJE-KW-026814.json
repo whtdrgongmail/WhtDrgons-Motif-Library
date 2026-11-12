@@ -4,8 +4,8 @@
   "title": "전투 능력을 지닌 여자친구",
   "original": "Action Girlfriend",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "연애 상대인 여성이 전투나 위험한 행동에 능숙한 인물인 관계 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 000834의 상대가 평범해야 한다는 조건은 현재 정의에 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "여자친구가 직접 싸울 수 있는 전투원이다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여자친구가 위험에 대응할 전투 기술과 경험을 갖는다.\n\n보호받기만 하는 상대라는 기대 대신 공동 행동과 다른 능력의 조합이 관계를 구성한다. 평범한 연인은 자신의 생활이 그 위험과 어떻게 이어질지 결정해야 할 수 있다.\n\n전투에 능숙하다는 사실이 폭력적인 성격을 필수로 하지 않는다. 연인을 만난 뒤 일상이 얼마나 바뀌었는지와 상대의 전투 능력은 별개의 조건이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여자친구가 위험에 대응할 전투 기술과 경험을 갖는다.\n\n보호받기만 하는 상대라는 기대 대신 공동 행동과 다른 능력의 조합이 관계를 구성한다. 평범한 연인은 자신의 생활이 그 위험과 어떻게 이어질지 결정해야 할 수 있다.\n\n전투에 능숙하다는 사실이 폭력적인 성격을 필수로 하지 않는다. 연인을 만난 뒤 일상이 얼마나 바뀌었는지와 상대의 전투 능력은 별개의 조건이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

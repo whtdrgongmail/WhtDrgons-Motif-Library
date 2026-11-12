@@ -4,8 +4,8 @@
   "title": "후반 보스가 모든 졸개의 생산자였음이 드러나기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01948",
+  "primary_tag_id": "ML-T01948",
   "description": {
     "definition": "후반부에 만나는 적 생성 보스를 이전부터 등장하던 졸개들의 근원으로 암시하여 세계의 위협을 하나의 원인으로 연결한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "23.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "후반의 적 생성 보스가 이전 졸개들의 근원이었다는 사실을 암시한다. 여러 구간에 흩어졌던 위협을 하나의 생산 원인으로 연결한다.\n\n익숙한 졸개의 형태와 출현 방식을 보스 주변에서 반복하면 관객은 세계의 위험을 새로 이해할 수 있다. 근원을 없애는 목표가 생기지만 기존 개체가 즉시 사라지는지는 별도 조건으로 남길 수 있다.\n\n단순히 보스 옆에 졸개가 나타나는 경우와는 범위가 다르다. 이전부터의 생산 관계가 필요하며 최후의 적이라는 이유만으로 모든 위협의 기원이라고 단정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "후반의 적 생성 보스가 이전 졸개들의 근원이었다는 사실을 암시한다. 여러 구간에 흩어졌던 위협을 하나의 생산 원인으로 연결한다.\n\n익숙한 졸개의 형태와 출현 방식을 보스 주변에서 반복하면 관객은 세계의 위험을 새로 이해할 수 있다. 근원을 없애는 목표가 생기지만 기존 개체가 즉시 사라지는지는 별도 조건으로 남길 수 있다.\n\n단순히 보스 옆에 졸개가 나타나는 경우와는 범위가 다르다. 이전부터의 생산 관계가 필요하며 최후의 적이라는 이유만으로 모든 위협의 기원이라고 단정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

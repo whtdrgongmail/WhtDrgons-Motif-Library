@@ -6,8 +6,8 @@
   "aliases": [
     "성적 지향이 맞지 않는 짝사랑"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00981",
+  "primary_tag_id": "ML-T00981",
   "description": {
     "definition": "구애자가 향하는 상대의 성적·낭만적 지향이 그 구애 관계와 맞지 않아 감정의 상호성이 이루어지지 않는 상황이다.",
     "detail": "작품 사례: [[Katawa Shoujo]]에서 미샤는 늘 함께 지내는 시즈네를 사랑하지만, 시즈네는 이성애자여서 두 사람의 가까움이 같은 연애 감정으로 이어지지 않는다.",
@@ -15,14 +15,20 @@
     "boundary": "노력하면 상대의 지향을 바꿀 수 있다는 서사적 규범으로 사용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하는 사람의 지향 때문에 같은 방식의 사랑을 돌려받기 어렵다.",
     "review_status": "reviewed",
@@ -47,5 +53,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한쪽의 성적 지향이 상대를 연애 대상으로 포함하지 않아 같은 감정이 성립하기 어려운 관계다. 가까운 우정과 연애의 상호성은 분리된다.\n\n인격의 부족과 경쟁에서의 패배로 설명하지 않는다. 더 노력하면 상대의 지향을 바꿀 수 있다는 규범도 아니며 호감과 선택의 조건을 존중해 구분한다.\n\n[[Katawa Shoujo]]의 미샤는 늘 함께 지내는 시즈네를 사랑한다. 시즈네는 이성애자로 설정되어 일상적인 가까움이 같은 연애 감정으로 돌아오지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한쪽의 성적 지향이 상대를 연애 대상으로 포함하지 않아 같은 감정이 성립하기 어려운 관계다. 가까운 우정과 연애의 상호성은 분리된다.\n\n인격의 부족과 경쟁에서의 패배로 설명하지 않는다. 더 노력하면 상대의 지향을 바꿀 수 있다는 규범도 아니며 호감과 선택의 조건을 존중해 구분한다."
+      ],
+      [
+        "관련 작품",
+        "[[Katawa Shoujo]]의 미샤는 늘 함께 지내는 시즈네를 사랑한다. 시즈네는 이성애자로 설정되어 일상적인 가까움이 같은 연애 감정으로 돌아오지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

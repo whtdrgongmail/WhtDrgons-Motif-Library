@@ -4,8 +4,8 @@
   "title": "하늘이나 우주로 날아가는 수상 탈것",
   "original": "If It Swims, It Flies",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01454",
+  "primary_tag_id": "ML-T01454",
   "description": {
     "definition": "배나 해양용 기체처럼 생긴 이동 수단이 물을 떠나 공중이나 우주에서도 움직이는 설정이다.",
     "detail": "해양 환경을 벗어났을 때도 기체가 활약하도록 비행 기능을 더하는 형태가 포함된다.\n\n작품 사례: 《[[스타워즈 저항군]]》에서 해상 시설로 보이던 콜로서스는 초공간 이동까지 가능한 기지임이 밝혀져 바다를 떠나 탈출한다.",
@@ -13,19 +13,19 @@
     "boundary": "처음부터 일반 항공기처럼 생긴 수륙양용기나 날아다니는 해양 생물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "분명 배처럼 생겼는데 바다 밖으로 날아오른다.\n\n작품 사례: 《[[스타워즈 저항군]]》에서 해상 시설로 보이던 콜로서스는 초공간 이동까지 가능한 기지임이 밝혀져 바다를 떠나 탈출한다.",
+    "easy_ko": "분명 배처럼 생겼는데 바다 밖으로 날아오른다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "해양 환경을 벗어나도 수상 탈것이 활약하도록 비행이나 우주 이동 기능을 더한다. 배의 형태와 해상 임무가 남아 있으면 같은 기체를 바다와 공중에서 사용하는 설정의 대비가 두드러진다.\n\n처음부터 일반 항공기처럼 생긴 수륙양용기나 날아다니는 해양 생물과는 구별된다. 수상 탈것의 형태 또는 원래 역할과 비행 기능이 함께 나타나는 경우를 다룬다.\n\n《[[스타워즈 저항군]]》에서 해상 시설로 보이던 콜로서스는 초공간 이동까지 가능한 기지임이 밝혀져 바다를 떠나 탈출한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "해양 환경을 벗어나도 수상 탈것이 활약하도록 비행이나 우주 이동 기능을 더한다. 배의 형태와 해상 임무가 남아 있으면 같은 기체를 바다와 공중에서 사용하는 설정의 대비가 두드러진다.\n\n처음부터 일반 항공기처럼 생긴 수륙양용기나 날아다니는 해양 생물과는 구별된다. 수상 탈것의 형태 또는 원래 역할과 비행 기능이 함께 나타나는 경우를 다룬다."
+      ],
+      [
+        "관련 작품",
+        "《[[스타워즈 저항군]]》에서 해상 시설로 보이던 콜로서스는 초공간 이동까지 가능한 기지임이 밝혀져 바다를 떠나 탈출한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

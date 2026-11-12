@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "폭스트롯",
   "original": "FoxTrot",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "FoxTrot"
+  ],
+  "tag_id": "ML-T02513",
   "primary_tag_id": "ML-T02513",
   "description": {
     "definition": "《폭스트롯》은 만화 작품이다.",
-    "detail": "작품 사례: 《폭스트롯》에서 제이슨은 관객을 쫓아내려고 새 영화의 음악이 카주 중심이라는 가짜 정보를 퍼뜨린다. 원문은 카주가 진지한 영화 음악을 우스꽝스럽게 만들 것이라는 기대를 이용하는 사례로 든다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.020",
     "review_status": "provisional",
@@ -41,7 +43,24 @@
     {
       "card_id": "MEJE-KW-022421",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-029357",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《폭스트롯》은 세 자녀가 있는 폭스 가족을 중심으로 한 빌 아멘드의 신문만화다. 각자의 식욕과 연애 환상, 취미와 경쟁심이 가족의 평범한 생활을 여러 짧은 소동으로 만든다.\n\n인물의 반복적인 버릇에 대중문화와 기술에 관한 농담을 겹친다. 한 번의 사건을 길게 해결하기보다 익숙한 가족 관계를 짧은 지면에서 변주하는 연재 형식이며, 같은 제목의 무관한 작품과 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《폭스트롯》은 세 자녀가 있는 폭스 가족을 중심으로 한 빌 아멘드의 신문만화다. 각자의 식욕과 연애 환상, 취미와 경쟁심이 가족의 평범한 생활을 여러 짧은 소동으로 만든다.\n\n인물의 반복적인 버릇에 대중문화와 기술에 관한 농담을 겹친다. 한 번의 사건을 길게 해결하기보다 익숙한 가족 관계를 짧은 지면에서 변주하는 연재 형식이며, 같은 제목의 무관한 작품과 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

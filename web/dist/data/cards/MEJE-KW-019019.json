@@ -4,8 +4,8 @@
   "title": "사생활의 경계를 모르는 인물",
   "original": "No Sense of Privacy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-020952",
+  "primary_tag_id": "MEJE-KW-020952",
   "description": {
     "definition": "타인이 개인적으로 간직하려는 정보나 활동에 함부로 접근하면서도 사생활 침해임을 이해하지 못하는 인물 성향이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "허락받은 공유나 비밀을 빼내려는 고의적 감시와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.007.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "타인의 방과 대화, 개인 정보를 동의 없이 들여다보면서 경계 침범을 잘 인식하지 못하는 성향이다. 친밀함과 접근 권한을 같은 것으로 여길 수 있다.\n\n호기심과 무례함, 다른 사회 규범에 대한 무지가 원인이 될 수 있다. 당사자는 도움과 관심이라고 설명해도 상대는 감시와 통제로 느낄 수 있다.\n\n물리적으로 너무 가까이 서는 습관과는 범위가 다르다. 남이 무엇을 공개할지 스스로 선택할 권리를 인정하는지와 지적받은 뒤 행동을 바꾸는지가 관계의 갈등을 결정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "타인의 방과 대화, 개인 정보를 동의 없이 들여다보면서 경계 침범을 잘 인식하지 못하는 성향이다. 친밀함과 접근 권한을 같은 것으로 여길 수 있다.\n\n호기심과 무례함, 다른 사회 규범에 대한 무지가 원인이 될 수 있다. 당사자는 도움과 관심이라고 설명해도 상대는 감시와 통제로 느낄 수 있다.\n\n물리적으로 너무 가까이 서는 습관과는 범위가 다르다. 남이 무엇을 공개할지 스스로 선택할 권리를 인정하는지와 지적받은 뒤 행동을 바꾸는지가 관계의 갈등을 결정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

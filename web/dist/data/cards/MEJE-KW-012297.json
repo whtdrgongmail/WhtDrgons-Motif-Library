@@ -4,8 +4,8 @@
   "title": "개심해도 남는 거친 성격",
   "original": "Reformed, but Not Tamed",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00966",
+  "primary_tag_id": "ML-T00966",
   "description": {
     "definition": "악행과 진영은 바뀌었지만 기존의 무례함·공격성·거친 버릇 일부를 유지하는 개심한 [[인물]] 유형이다.",
     "detail": "작품 사례: [[Shadow of the Conqueror]]의 Daylen은 선행을 하면서도 거친 성격 때문에 주변 사람들을 밀어내며, 칭찬받을 때도 당연한 일이라며 퉁명스럽게 넘긴다.",
@@ -13,10 +13,10 @@
     "boundary": "거짓 개심과 달리 선한 방향의 변화는 실제이며 [[성격]]의 일부가 남는 것이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.010.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[회심하는 인물]]은 악행과 지향을 선한 방향으로 바꾸지만 이전의 모든 [[성격·태도]]까지 없애지는 않는다. 거칠고 무례한 말투가 남더라도 실제 선택이 선행을 향하면 변화와 잔존 특성을 함께 표현할 수 있다.\n\n악행을 계속하면서 겉으로만 편을 바꾸는 거짓 개심과 구별된다. 선한 행동이 지속되는지, 남은 거친 버릇이 인물의 대인관계에 어떤 영향을 주는지 각각 확인한다.\n\n[[Shadow of the Conqueror]]의 Daylen은 선행을 하면서도 거친 성격으로 주변 사람들을 밀어낸다. 칭찬을 받아도 당연한 일이라며 퉁명스럽게 넘겨 개심과 남은 버릇을 함께 드러낸다.\n\n[[Shadow of the Conqueror]]",
+    "sections": [
+      [
+        "상세 설명",
+        "[[회심하는 인물]]은 악행과 지향을 선한 방향으로 바꾸지만 이전의 모든 [[성격·태도]]까지 없애지는 않는다. 거칠고 무례한 말투가 남더라도 실제 선택이 선행을 향하면 변화와 잔존 특성을 함께 표현할 수 있다.\n\n악행을 계속하면서 겉으로만 편을 바꾸는 거짓 개심과 구별된다. 선한 행동이 지속되는지, 남은 거친 버릇이 인물의 대인관계에 어떤 영향을 주는지 각각 확인한다."
+      ],
+      [
+        "사례",
+        "[[Shadow of the Conqueror]]의 Daylen은 선행을 하면서도 거친 성격으로 주변 사람들을 밀어낸다. 칭찬을 받아도 당연한 일이라며 퉁명스럽게 넘겨 개심과 남은 버릇을 함께 드러낸다."
+      ],
+      [
+        "관련 작품",
+        "[[Shadow of the Conqueror]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

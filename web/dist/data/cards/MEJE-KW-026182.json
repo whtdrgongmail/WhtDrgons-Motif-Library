@@ -4,8 +4,8 @@
   "title": "다른 사람을 돌보려고 일이나 학업 그만두기",
   "original": "Quitting to Become a Caregiver",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00807",
+  "primary_tag_id": "ML-T00807",
   "description": {
     "definition": "도움이 필요한 사람을 돌보기 위해 자신의 직업이나 교육을 중단하는 선택을 한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "선택의 자발성·부담과 이후 결과는 별도로 확인하며 희생을 의무로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "돌봄이 필요해지면서 원래의 교육과 경력을 멈추는 결정을 한다. 타인의 생활을 유지하는 일과 자신의 미래를 이어가는 일이 같은 자원을 요구한다.\n\n누가 다른 지원을 제공할 수 있는지에 따라 선택의 부담은 달라진다. 정본은 희생의 감정뿐 아니라 소득과 기회가 줄어드는 실제 결과도 드러낼 수 있다.\n\n돌봄을 시작한 모든 사람이 직업을 그만두는 것은 아니다. 실제 중단이 조건이며 사랑한다면 반드시 경력을 포기해야 한다는 뜻으로 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "돌봄이 필요해지면서 원래의 교육과 경력을 멈추는 결정을 한다. 타인의 생활을 유지하는 일과 자신의 미래를 이어가는 일이 같은 자원을 요구한다.\n\n누가 다른 지원을 제공할 수 있는지에 따라 선택의 부담은 달라진다. 정본은 희생의 감정뿐 아니라 소득과 기회가 줄어드는 실제 결과도 드러낼 수 있다.\n\n돌봄을 시작한 모든 사람이 직업을 그만두는 것은 아니다. 실제 중단이 조건이며 사랑한다면 반드시 경력을 포기해야 한다는 뜻으로 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

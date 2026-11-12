@@ -4,8 +4,8 @@
   "title": "여러 작품에서 알아보는 촬영지",
   "original": "Hey, It's That Place!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "서로 다른 작품의 별개 장소를 표현하는 데 같은 실제 촬영지가 반복 사용되어 관객이 그 장소를 알아보는 현상이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "유명 명소가 그 명소 자체로 등장하는 것과 구별하며 동일 작품의 반복 배경만을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 촬영지가 서로 다른 작품의 장소를 대신하면 관객은 별개 세계에서 익숙한 공간을 알아볼 수 있다. 실제 장소의 반복과 극중 장소의 다름이 겹친다.\n\n관객이 알아봤다고 두 작품의 세계가 연결되는 것은 아니다. 제작이 공유한 공간과 이야기의 연속성은 별도의 정보다.\n\n유명 명소가 자기 이름으로 나오는 경우와는 다르다. 동일 작품 안의 같은 배경 반복도 이 현상의 중심은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 촬영지가 서로 다른 작품의 장소를 대신하면 관객은 별개 세계에서 익숙한 공간을 알아볼 수 있다. 실제 장소의 반복과 극중 장소의 다름이 겹친다.\n\n관객이 알아봤다고 두 작품의 세계가 연결되는 것은 아니다. 제작이 공유한 공간과 이야기의 연속성은 별도의 정보다.\n\n유명 명소가 자기 이름으로 나오는 경우와는 다르다. 동일 작품 안의 같은 배경 반복도 이 현상의 중심은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

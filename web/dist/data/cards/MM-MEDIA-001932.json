@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "007 골든아이",
   "original": "GoldenEye",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "GoldenEye"
+  ],
+  "tag_id": "ML-T02487",
   "primary_tag_id": "ML-T02487",
   "description": {
     "definition": "《007 골든아이》는 영화 작품이다.",
-    "detail": "작품 사례: 《007 골든아이》에서 제니아와 본드의 몸싸움은 살해 위협과 성적인 유혹이 뒤섞이는 대결로 연출된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.005",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-011677",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-020851",
       "row_version": 1
     },
@@ -51,5 +57,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "1995년 영화 《007 골든아이》는 피어스 브로스넌이 본드를 맡은 첫 작품이다. 소련의 붕괴 뒤 달라진 정보기관의 환경에서 본드는 옛 우주 무기 골든아이의 재가동을 조사한다.\n\n임무는 과거 작전의 동료와 기억에 연결된다. 냉전기의 영웅이 새로운 조직의 평가를 받는 과정이 겹쳐 익숙한 행동 방식과 변화한 권력의 요구가 충돌한다.\n\n영화에서 파생된 동명 게임과는 매체와 구성의 차이가 있다. 영화의 추격과 인물 관계가 게임의 모든 임무로 그대로 옮겨진 것은 아니며 다른 본드 연속성의 세부도 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "1995년 영화 《007 골든아이》는 피어스 브로스넌이 본드를 맡은 첫 작품이다. 소련의 붕괴 뒤 달라진 정보기관의 환경에서 본드는 옛 우주 무기 골든아이의 재가동을 조사한다.\n\n임무는 과거 작전의 동료와 기억에 연결된다. 냉전기의 영웅이 새로운 조직의 평가를 받는 과정이 겹쳐 익숙한 행동 방식과 변화한 권력의 요구가 충돌한다.\n\n영화에서 파생된 동명 게임과는 매체와 구성의 차이가 있다. 영화의 추격과 인물 관계가 게임의 모든 임무로 그대로 옮겨진 것은 아니며 다른 본드 연속성의 세부도 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

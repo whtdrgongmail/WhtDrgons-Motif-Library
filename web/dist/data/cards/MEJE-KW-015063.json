@@ -4,8 +4,8 @@
   "title": "더는 봐주지 않는 싸움",
   "original": "The Gloves Come Off",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00778",
+  "primary_tag_id": "ML-T00778",
   "description": {
     "definition": "적을 쓰러뜨리는 일이 최우선이 되어 이전까지의 자제와 제한을 버리고 전력을 사용하기로 하는 전환이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 장갑을 벗는 동작이 필수는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "승리가 최우선이 되어 평소의 자제를 버린다. 주변 피해와 자기 안전까지 고려하던 상태에서 적을 쓰러뜨리는 데 힘을 집중하는 전환이다.\n\n다른 방법으로는 이길 수 없다고 판단하거나 잃을 것이 없어졌다는 감각이 이유가 될 수 있다. 적의 행동이 분노를 촉발해 제한을 포기하게 하는 변형도 있다.\n\n실제로 장갑을 벗어야 하는 것은 아니다. 힘을 더 얻은 것과 이미 가진 힘을 제한 없이 쓰기로 한 선택은 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "승리가 최우선이 되어 평소의 자제를 버린다. 주변 피해와 자기 안전까지 고려하던 상태에서 적을 쓰러뜨리는 데 힘을 집중하는 전환이다.\n\n다른 방법으로는 이길 수 없다고 판단하거나 잃을 것이 없어졌다는 감각이 이유가 될 수 있다. 적의 행동이 분노를 촉발해 제한을 포기하게 하는 변형도 있다.\n\n실제로 장갑을 벗어야 하는 것은 아니다. 힘을 더 얻은 것과 이미 가진 힘을 제한 없이 쓰기로 한 선택은 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

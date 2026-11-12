@@ -4,8 +4,8 @@
   "title": "지금과 달리 젊을 때는 빼어났던 외모",
   "original": "I Was Quite a Looker",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00956",
+  "primary_tag_id": "ML-T00956",
   "description": {
     "definition": "현재는 노화나 세월의 흔적이 두드러지는 인물이 과거에는 매력적인 외모로 주목받았음이 사진·회상·회춘 등으로 드러나는 대비다.",
     "detail": "작품 사례: 《[[블리치]]》는 회상을 통해 노년의 사사키베가 젊었을 때는 흰 머리의 미청년이었음을 보여 준다.",
@@ -13,10 +13,10 @@
     "boundary": "노인은 아름다울 수 없다는 사실 판단이 아니다. 작품이 과거와 현재의 외모 차이를 강조하는 재현 방식이며 여전히 매력적인 노년상과는 초점이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001295",
+      "work_card_id": "MM-MEDIA-002137",
       "description_ko": "《블리치》는 회상을 통해 노년의 사사키베가 젊었을 때는 흰 머리의 미청년이었음을 보여 준다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현재 모습과 달리 젊은 시절에는 빼어난 외모로 주목받았음이 드러나는 대비다. 익숙한 노년의 인물을 다른 시간의 시선으로 다시 보게 한다.\n\n사진과 회상, 일시적인 회춘을 통해 과거 모습을 제시할 수 있다. 주변의 놀람은 그 인물이 살아온 삶에 대한 호기심을 만들고 현재의 역할만으로 이해하던 관계를 넓힌다.\n\n젊음만이 가치 있다는 결론이 필수인 것은 아니다. 외형의 변화와 삶의 연속성을 함께 다룰 수 있으며, 현재 모습에서 매력을 찾는 것과 과거의 미모가 드러나는 구성은 서로 다른 초점이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현재 모습과 달리 젊은 시절에는 빼어난 외모로 주목받았음이 드러나는 대비다. 익숙한 노년의 인물을 다른 시간의 시선으로 다시 보게 한다.\n\n사진과 회상, 일시적인 회춘을 통해 과거 모습을 제시할 수 있다. 주변의 놀람은 그 인물이 살아온 삶에 대한 호기심을 만들고 현재의 역할만으로 이해하던 관계를 넓힌다.\n\n젊음만이 가치 있다는 결론이 필수인 것은 아니다. 외형의 변화와 삶의 연속성을 함께 다룰 수 있으며, 현재 모습에서 매력을 찾는 것과 과거의 미모가 드러나는 구성은 서로 다른 초점이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

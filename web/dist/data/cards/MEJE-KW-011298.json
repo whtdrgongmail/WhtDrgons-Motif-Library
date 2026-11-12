@@ -4,8 +4,8 @@
   "title": "유령들의 왕",
   "original": "The Ghost King",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01124",
+  "primary_tag_id": "ML-T01124",
   "description": {
     "definition": "유령인 동시에 다른 [[유령]] [[집단]]의 지배자나 군주로 존재하는 [[인물]] 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단지 왕의 유령이 나타나는 것만으로는 부족하고 다른 유령에 대한 통치 지위가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "12",
+    "code": "12.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유령인 동시에 다른 유령 집단을 지배하거나 통치하는 군주로 기능하는 인물 유형이다. 죽음 이후의 존재와 정치적 위계가 결합한다.\n\n유령 왕은 명령을 내리고 영혼들을 조직해 과거 왕국의 질서를 유지하거나 새 권력을 구축할 수 있다. 이런 지위는 개별 유령을 넘어 집단적 위협이나 사후 세계의 정치 구조를 만든다.\n\n왕의 유령이 나타나는 장면만으로는 부족하다. 다른 유령에 대한 통치 권한과 집단이 실제로 제시되어야 한다.\n\n가상 예: 죽은 왕이 유령 군대를 지휘하고 각 영혼에게 명령을 내려 사후 왕국을 통치한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유령인 동시에 다른 유령 집단을 지배하거나 통치하는 군주로 기능하는 인물 유형이다. 죽음 이후의 존재와 정치적 위계가 결합한다.\n\n유령 왕은 명령을 내리고 영혼들을 조직해 과거 왕국의 질서를 유지하거나 새 권력을 구축할 수 있다. 이런 지위는 개별 유령을 넘어 집단적 위협이나 사후 세계의 정치 구조를 만든다.\n\n왕의 유령이 나타나는 장면만으로는 부족하다. 다른 유령에 대한 통치 권한과 집단이 실제로 제시되어야 한다."
+      ],
+      [
+        "사례",
+        "가상 예: 죽은 왕이 유령 군대를 지휘하고 각 영혼에게 명령을 내려 사후 왕국을 통치한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

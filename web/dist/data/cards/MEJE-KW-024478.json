@@ -5,8 +5,8 @@
   "original": "Dialogue Carries the Still Image",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "화면의 움직임이 적은 작품에서 글과 성우의 전달력에 장면의 리듬과 재미를 크게 맡긴다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "애니메이션 전체를 라디오와 동일시하는 평가가 아니라 표현 요소의 배분이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화면의 움직임을 적게 두고 대사와 목소리로 장면의 리듬을 만든다. 정적인 이미지가 유지되는 동안 발화 속도와 억양, 침묵이 정보와 감정의 변화를 맡는다.\n\n몸짓 대신 말의 교환에 주의를 집중시키면 같은 화면에서도 관계가 달라지는 과정을 전달할 수 있다. 이미지의 작은 변화가 드물게 배치되면 그 순간의 강조가 커져 움직임의 양과 효과가 반드시 비례하지 않는다.\n\n[[애니메이션]] 전체를 소리만의 매체로 보는 평가는 아니다. 시각적 구도와 표정도 여전히 작용하며, 적은 움직임이라는 조건과 단순한 제작 부족의 판단은 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화면의 움직임을 적게 두고 대사와 목소리로 장면의 리듬을 만든다. 정적인 이미지가 유지되는 동안 발화 속도와 억양, 침묵이 정보와 감정의 변화를 맡는다.\n\n몸짓 대신 말의 교환에 주의를 집중시키면 같은 화면에서도 관계가 달라지는 과정을 전달할 수 있다. 이미지의 작은 변화가 드물게 배치되면 그 순간의 강조가 커져 움직임의 양과 효과가 반드시 비례하지 않는다.\n\n[[애니메이션]] 전체를 소리만의 매체로 보는 평가는 아니다. 시각적 구도와 표정도 여전히 작용하며, 적은 움직임이라는 조건과 단순한 제작 부족의 판단은 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

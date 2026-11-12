@@ -4,8 +4,8 @@
   "title": "발사체가 화면을 가득 채우는 슈팅 게임",
   "original": "Bullet Hell",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00424",
+  "primary_tag_id": "ML-T00424",
   "description": {
     "definition": "수많은 발사체의 무늬 사이에서 좁은 길을 찾아 움직이는 슈팅 게임의 유형. 피하는 동선과 반복 학습이 진행의 중심이다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.202.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "많은 발사체가 만든 무늬 사이의 좁은 경로를 찾아 피하는 것이 중심인 슈팅 게임 유형이다. 화면을 채운 양과 움직임의 규칙이 동시에 관찰의 대상이 된다.\n\n공격이 반복되면 플레이어는 속도와 방향의 변화를 학습해 안전한 위치를 찾는다. 실제 피격 판정이 작은 경우에는 위협적으로 보이는 화면과 통과 가능한 공간 사이의 차이가 정밀한 움직임의 재미를 만든다.\n\n탄환이 많다는 사실만으로 반드시 같은 하위 장르는 아니다. [[플레이어]]의 회피가 진행에서 어떤 비중을 갖는지 확인하며, 모든 작품이 같은 난도와 판정 크기를 가진다고 설명하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "많은 발사체가 만든 무늬 사이의 좁은 경로를 찾아 피하는 것이 중심인 슈팅 게임 유형이다. 화면을 채운 양과 움직임의 규칙이 동시에 관찰의 대상이 된다.\n\n공격이 반복되면 플레이어는 속도와 방향의 변화를 학습해 안전한 위치를 찾는다. 실제 피격 판정이 작은 경우에는 위협적으로 보이는 화면과 통과 가능한 공간 사이의 차이가 정밀한 움직임의 재미를 만든다.\n\n탄환이 많다는 사실만으로 반드시 같은 하위 장르는 아니다. [[플레이어]]의 회피가 진행에서 어떤 비중을 갖는지 확인하며, 모든 작품이 같은 난도와 판정 크기를 가진다고 설명하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

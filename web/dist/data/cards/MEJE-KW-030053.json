@@ -4,8 +4,8 @@
   "title": "닭 울음으로 밤샘 과제의 마감이 온 것처럼 속이기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "밤이 끝나기 전 과제를 완수해야 하는 상대에게 닭이 우는 신호를 이용해 마감 시각이 온 것으로 오인시키는 전승의 속임수다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "밤이 끝나기 전에 과제를 마쳐야 하는 상대에게 닭 울음으로 시간이 다 된 것처럼 믿게 한다. 수행 조건보다 마감 시각을 인식하는 방식이 속임수의 대상이다.\n\n상대는 실제 시간이 아니라 신호를 기준으로 완료 가능성을 판단한다. 약속의 시간 조건과 그 시간을 알아보는 수단 사이의 간격이 역전의 근거가 된다.\n\n밤이 실제로 끝나 과제를 실패한 경우와 다르다. 마감이 왔다고 오인하도록 만드는 행동이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "밤이 끝나기 전에 과제를 마쳐야 하는 상대에게 닭 울음으로 시간이 다 된 것처럼 믿게 한다. 수행 조건보다 마감 시각을 인식하는 방식이 속임수의 대상이다.\n\n상대는 실제 시간이 아니라 신호를 기준으로 완료 가능성을 판단한다. 약속의 시간 조건과 그 시간을 알아보는 수단 사이의 간격이 역전의 근거가 된다.\n\n밤이 실제로 끝나 과제를 실패한 경우와 다르다. 마감이 왔다고 오인하도록 만드는 행동이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

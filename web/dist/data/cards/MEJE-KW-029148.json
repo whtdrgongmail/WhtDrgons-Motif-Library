@@ -4,8 +4,8 @@
   "title": "자체 문화를 이룬 괴물 마을",
   "original": "Monster Town",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01306",
+  "primary_tag_id": "ML-T01306",
   "description": {
     "definition": "괴물들이 정착하거나 기존 마을에 모여 생활·노동·관습을 갖춘 독자적인 공동체를 이루는 장소 설정이다.",
     "detail": "작품 사례: 《[[Dungeon Friends Forever]]》의 던전에는 인간 모험가가 싸우는 통로 뒤로 괴물들이 쇼핑하고 정원을 가꾸며 아이들을 가르치는 도시 구역이 있어, 전투 상대들의 생활이 드러난다.",
@@ -13,10 +13,10 @@
     "boundary": "공동체가 반드시 선하거나 인간에게 우호적일 필요는 없다. 지휘자에게 모인 군대와 자발적인 사회를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.008.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "괴물들이 마을에서 생활과 노동, 관습을 공유한다. 개별적인 위협을 넘어 사회적 주체로서의 일상이 드러난다.\n\n외부인의 두려움과 내부의 평범함을 대비할 수 있다. 한 악역이 모아 놓은 부하 집단과 자생적인 공동체는 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "괴물들이 마을에서 생활과 노동, 관습을 공유한다. 개별적인 위협을 넘어 사회적 주체로서의 일상이 드러난다.\n\n외부인의 두려움과 내부의 평범함을 대비할 수 있다. 한 악역이 모아 놓은 부하 집단과 자생적인 공동체는 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

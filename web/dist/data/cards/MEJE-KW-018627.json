@@ -5,8 +5,8 @@
   "original": "Food Used as a Weapon",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "비정상적으로 단단하거나 쉽게 부서지지 않는 음식을 타격 도구나 탄환으로 이용하는 행동이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "요리 도구를 무기로 쓰는 경우와 달리 음식 자체의 물성이 공격 수단이 된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "먹도록 만든 음식이 매우 단단한 성질 때문에 타격과 투척의 도구가 된다. 조리 기구가 아니라 음식 자체의 물성이 공격을 가능하게 한다는 조건이다.\n\n인물이 예상하지 못한 자원을 쓰는 기지와 먹을 수 없을 만큼 단단하다는 농담을 동시에 만들 수 있다. 식사의 실패가 위험한 상황의 해결로 바뀌면 같은 물건의 가치는 목적에 따라 역전된다.\n\n평범한 음식을 던져 시선을 가리는 행동과는 공격의 근거가 다르다. 음식 모양의 무생물도 원래의 용도가 다르다. 실제 조리와 무기의 성능으로 확대하지 않고 허구가 부여한 물성의 역할에 한정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "먹도록 만든 음식이 매우 단단한 성질 때문에 타격과 투척의 도구가 된다. 조리 기구가 아니라 음식 자체의 물성이 공격을 가능하게 한다는 조건이다.\n\n인물이 예상하지 못한 자원을 쓰는 기지와 먹을 수 없을 만큼 단단하다는 농담을 동시에 만들 수 있다. 식사의 실패가 위험한 상황의 해결로 바뀌면 같은 물건의 가치는 목적에 따라 역전된다.\n\n평범한 음식을 던져 시선을 가리는 행동과는 공격의 근거가 다르다. 음식 모양의 무생물도 원래의 용도가 다르다. 실제 조리와 무기의 성능으로 확대하지 않고 허구가 부여한 물성의 역할에 한정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "집안일을 하며 마음을 풀기",
   "original": "Cathartic Chores",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00816",
+  "primary_tag_id": "ML-T00816",
   "description": {
     "definition": "인물이 화나거나 슬플 때 청소와 정리를 반복하며 감정을 다스린다. 손에 잡히는 일이 마음의 혼란에 작은 질서를 준다. 손을 움직이며 감정을 다루는 방식과 [[참아 온 눈물을 한꺼번에 터뜨리기]]처럼 눈물로 풀어내는 방식을 나란히 볼 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.010.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "분노와 슬픔, 불안을 가라앉히기 위해 청소나 요리 같은 집안일을 하는 장면이다. 감정을 직접 말하기보다 반복적이고 실용적인 행동에 몰두한다.\n\n평소보다 거칠고 빠른 동작이나 지나칠 정도의 청결이 내면 상태를 전달할 수 있다. 생활 공간은 그대로 정리되지만 행동을 시작하게 한 문제는 해결되지 않았을 수도 있다.\n\n집안일을 끝내는 성취감과 신체 활동이 일시적인 안정을 제공한다. 일상적인 노동 장면과 달리 감정과 작업의 연결이 분명해야 하며, 대화를 피하거나 감정을 처리할 시간을 확보하는 기능도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "분노와 슬픔, 불안을 가라앉히기 위해 청소나 요리 같은 집안일을 하는 장면이다. 감정을 직접 말하기보다 반복적이고 실용적인 행동에 몰두한다.\n\n평소보다 거칠고 빠른 동작이나 지나칠 정도의 청결이 내면 상태를 전달할 수 있다. 생활 공간은 그대로 정리되지만 행동을 시작하게 한 문제는 해결되지 않았을 수도 있다.\n\n집안일을 끝내는 성취감과 신체 활동이 일시적인 안정을 제공한다. 일상적인 노동 장면과 달리 감정과 작업의 연결이 분명해야 하며, 대화를 피하거나 감정을 처리할 시간을 확보하는 기능도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

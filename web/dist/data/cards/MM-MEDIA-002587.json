@@ -3,18 +3,21 @@
   "kind": "work",
   "title": "포켓몬 카드 게임",
   "original": "Pokémon Trading Card Game",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Pokémon Trading Card Game",
+    "The Pokémon Trading Card Game"
+  ],
+  "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
     "definition": "《포켓몬 카드 게임》은 테이블톱 게임 작품이다.",
-    "detail": "작품 사례: 《포켓몬 카드 게임》의 레인보우 에너지는 여러 종류의 에너지 한 개로 사용할 수 있지만 붙인 포켓몬에 피해를 주어 유연성에 대가를 붙인다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -43,7 +46,28 @@
     {
       "card_id": "MEJE-KW-025253",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-027592",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-028054",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《포켓몬 카드 게임》의 레인보우 에너지는 여러 종류의 에너지로 사용할 수 있다. 한 장이 상황에 맞게 다른 속성의 요구에 대응하는 유연성을 가진다. 카드의 능력과 에너지의 조건을 조합하여 포켓몬을 전개하고 대결하는 수집형 게임이다.\n\n다만 제공하는 에너지의 양은 한 개이다. 여러 종류에 대응한다는 성질과 에너지 여러 개를 제공한다는 효과는 구분된다. 여러 종류로 취급되는 효과와 제공하는 수량은 별도로 정의되므로 범용성이 자원의 증가를 뜻하지는 않는다.\n\n이 카드를 붙이면 해당 포켓몬이 피해를 받는다. 편리한 자원 선택에 비용을 붙여 유연성과 손해를 함께 고려하게 하는 규칙이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《포켓몬 카드 게임》의 레인보우 에너지는 여러 종류의 에너지로 사용할 수 있다. 한 장이 상황에 맞게 다른 속성의 요구에 대응하는 유연성을 가진다. 카드의 능력과 에너지의 조건을 조합하여 포켓몬을 전개하고 대결하는 수집형 게임이다.\n\n다만 제공하는 에너지의 양은 한 개이다. 여러 종류에 대응한다는 성질과 에너지 여러 개를 제공한다는 효과는 구분된다. 여러 종류로 취급되는 효과와 제공하는 수량은 별도로 정의되므로 범용성이 자원의 증가를 뜻하지는 않는다.\n\n이 카드를 붙이면 해당 포켓몬이 피해를 받는다. 편리한 자원 선택에 비용을 붙여 유연성과 손해를 함께 고려하게 하는 규칙이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

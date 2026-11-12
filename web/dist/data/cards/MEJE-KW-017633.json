@@ -4,8 +4,8 @@
   "title": "몸을 조종하는 기생체",
   "original": "Puppeteer Parasite",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01160",
+  "primary_tag_id": "ML-T01160",
   "description": {
     "definition": "숙주의 몸에 침입한 뒤 뇌나 행동의 통제권을 빼앗는 기생 생물.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "영양분만 빼앗는 기생과 정신적 통제는 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "12",
+    "code": "12.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기생체가 숙주의 신경계나 행동을 장악해 몸을 자기 도구처럼 사용하는 설정이다. 숙주의 의식이 억눌리거나 사라져 겉으로는 같은 사람이지만 의사 결정의 주체가 바뀐다.\n\n기생체가 기억까지 읽으면 주변 사람을 속일 수 있고, 낯선 말투나 감정 반응은 침입의 단서가 된다. 숙주에게 비정상적인 힘이 생기기도 하며, 외계 침공에서는 약한 본체를 감추고 사회에 섞이는 수단으로 쓰인다.\n\n영혼이나 악령의 빙의와 달리 생물학적인 침입자가 있다는 점이 기준이다. 숙주를 살린 채 분리할 수 있는지, 숙주가 이미 죽었는지에 따라 구조와 살해의 윤리적 문제가 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기생체가 숙주의 신경계나 행동을 장악해 몸을 자기 도구처럼 사용하는 설정이다. 숙주의 의식이 억눌리거나 사라져 겉으로는 같은 사람이지만 의사 결정의 주체가 바뀐다.\n\n기생체가 기억까지 읽으면 주변 사람을 속일 수 있고, 낯선 말투나 감정 반응은 침입의 단서가 된다. 숙주에게 비정상적인 힘이 생기기도 하며, 외계 침공에서는 약한 본체를 감추고 사회에 섞이는 수단으로 쓰인다.\n\n영혼이나 악령의 빙의와 달리 생물학적인 침입자가 있다는 점이 기준이다. 숙주를 살린 채 분리할 수 있는지, 숙주가 이미 죽었는지에 따라 구조와 살해의 윤리적 문제가 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

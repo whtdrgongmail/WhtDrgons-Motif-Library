@@ -4,8 +4,8 @@
   "title": "마셜 인더스트리얼",
   "original": "Martial Industrial",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00520",
+  "primary_tag_id": "ML-T00520",
   "description": {
     "definition": "인더스트리얼의 가공 음향과 반복에 행진곡·군악의 타악 리듬과 합창 같은 요소를 결합하는 양식이다.",
     "detail": "작품 사례: Laibach의 〈[[더 휘슬블로어스]]〉는 이 음악 양식의 실제 곡 사례다.",
@@ -13,19 +13,22 @@
     "boundary": "인접 양식과 혼합될 수 있으므로 특정 악기 하나나 창작자의 소속만으로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.304",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "기계적인 소리와 군악·행진의 느낌이 만난다.",
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마셜 인더스트리얼은 가공한 음향과 반복 위에 행진곡과 군악의 리듬을 결합한다. 타악과 합창의 요소가 전진하는 듯한 질감과 집단적인 소리를 만들 수 있다.\n\n군악을 그대로 재생하는 것과 달리 인더스트리얼의 음향 처리와 결합한 방식이 중요하다. 각 요소가 어느 정도 드러나는지에 따라 인접 양식과 섞인 표현도 가능하다.\n\n악기 하나의 사용만으로 분류할 수는 없다. 음악가의 소속보다 실제 곡에서 반복과 군악적 요소가 어떻게 결합하는지 확인해야 한다.\n\nLaibach의 〈[[더 휘슬블로어스]]〉는 이 음악 양식의 실제 곡 사례다.\n\n[[더 휘슬블로어스]]",
+    "sections": [
+      [
+        "상세 설명",
+        "마셜 인더스트리얼은 가공한 음향과 반복 위에 행진곡과 군악의 리듬을 결합한다. 타악과 합창의 요소가 전진하는 듯한 질감과 집단적인 소리를 만들 수 있다.\n\n군악을 그대로 재생하는 것과 달리 인더스트리얼의 음향 처리와 결합한 방식이 중요하다. 각 요소가 어느 정도 드러나는지에 따라 인접 양식과 섞인 표현도 가능하다.\n\n악기 하나의 사용만으로 분류할 수는 없다. 음악가의 소속보다 실제 곡에서 반복과 군악적 요소가 어떻게 결합하는지 확인해야 한다."
+      ],
+      [
+        "사례",
+        "Laibach의 〈[[더 휘슬블로어스]]〉는 이 음악 양식의 실제 곡 사례다."
+      ],
+      [
+        "관련 작품",
+        "[[더 휘슬블로어스]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

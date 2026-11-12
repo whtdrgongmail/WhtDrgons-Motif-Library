@@ -4,8 +4,8 @@
   "title": "특권이 유지되는 호화 감방",
   "original": "Luxury Prison Suite",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01297",
+  "primary_tag_id": "ML-T01297",
   "description": {
     "definition": "수감된 인물이 고급 가구·음식·오락·이동 편의 같은 넉넉한 생활 조건을 누리는 감옥 공간이다.",
     "detail": "작품 사례: 《[[심슨 가족]]》에서 감옥의 정보 제공자가 된 호머는 대형 TV와 장신구, 세그웨이 같은 편의를 얻어 특별 대우를 누린다.",
@@ -13,10 +13,10 @@
     "boundary": "기본 안전과 인간적 처우 자체를 사치로 단정하지 않는다. 부와 인맥·임무 대가·보호 목적 등 이유가 달라질 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "구금되어도 외부의 돈과 인맥이 생활 수준을 유지하게 한다. 형식적으로는 자유를 잃었지만 일상적인 불편은 크게 줄어든 상태다.\n\n다른 수감자의 조건과 비교하면 처벌의 불평등이 드러난다. 편의를 제공하는 사람과 거래는 권력이 감옥의 경계도 완전히 끊지 못했음을 보여 준다.\n\n좋은 환경의 교정 시설 전체와는 다르다. 특정 인물에게 특권이 유지된다는 점이 중요하며 호화로운 감금이 자유로운 체류와 같지는 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "구금되어도 외부의 돈과 인맥이 생활 수준을 유지하게 한다. 형식적으로는 자유를 잃었지만 일상적인 불편은 크게 줄어든 상태다.\n\n다른 수감자의 조건과 비교하면 처벌의 불평등이 드러난다. 편의를 제공하는 사람과 거래는 권력이 감옥의 경계도 완전히 끊지 못했음을 보여 준다.\n\n좋은 환경의 교정 시설 전체와는 다르다. 특정 인물에게 특권이 유지된다는 점이 중요하며 호화로운 감금이 자유로운 체류와 같지는 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

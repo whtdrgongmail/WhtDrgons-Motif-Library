@@ -4,8 +4,8 @@
   "title": "기행이 있어도 실력으로 인정받는 전문가",
   "original": "Bunny-Ears Lawyer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00935",
+  "primary_tag_id": "ML-T00935",
   "description": {
     "definition": "특이한 행동 때문에 함께 일하기 어렵지만 능력이 뛰어나 조직에 남는 인물. 주위의 인내가 어디까지 가능한지도 관계의 일부다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "눈에 띄는 기행과 까다로운 습관이 있어도 뛰어난 일의 성과 때문에 조직에서 계속 필요로 하는 전문가다. 함께 일하는 비용과 대체하기 어려운 역량 사이의 균형이 관계를 유지한다.\n\n주변이 특이한 요구를 맞춰 주다가도 결과가 나쁠 때는 같은 행동을 더는 받아들이지 않을 수 있다. 평소의 우스운 외형과 결정적인 전문 판단의 대비는 인물의 실제 능력을 강조하는 장치가 된다.\n\n괴팍하다는 사실이 재능의 증거는 아니다. [[갈등]]에서 성과와 타인의 부담을 각각 확인하며, 뛰어난 능력이 모든 해로운 행동을 면책하는 원칙으로 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "눈에 띄는 기행과 까다로운 습관이 있어도 뛰어난 일의 성과 때문에 조직에서 계속 필요로 하는 전문가다. 함께 일하는 비용과 대체하기 어려운 역량 사이의 균형이 관계를 유지한다.\n\n주변이 특이한 요구를 맞춰 주다가도 결과가 나쁠 때는 같은 행동을 더는 받아들이지 않을 수 있다. 평소의 우스운 외형과 결정적인 전문 판단의 대비는 인물의 실제 능력을 강조하는 장치가 된다.\n\n괴팍하다는 사실이 재능의 증거는 아니다. [[갈등]]에서 성과와 타인의 부담을 각각 확인하며, 뛰어난 능력이 모든 해로운 행동을 면책하는 원칙으로 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

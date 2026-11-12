@@ -4,8 +4,8 @@
   "title": "타락 이전부터 악한 천사",
   "original": "Malevolent Angel",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01119",
+  "primary_tag_id": "ML-T01119",
   "description": {
     "definition": "선한 [[천사]]가 추락하거나 타락한 결과가 아니라 처음부터 악한 성질을 가진 천사가 존재하는 설정이다. 천사의 존재 분류와 도덕적 선함이 분리된다.",
     "detail": "작품 사례: [[When the Angels]]는 천사들이 인간의 뛰어난 예술가를 시기해 빼앗아 간다고 그려, 거룩한 외형과 별개로 처음부터 악의적인 천사상을 제시한다.",
@@ -13,10 +13,10 @@
     "boundary": "한때 선했다가 변한 타락천사나 천사로 위장한 악마와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "천사의 외형과 지위가 도덕적 선함을 보장하지 않는 세계관이다. 악의가 선한 존재의 타락을 거쳐 생긴 것이 아니라 처음부터 드러나면 거룩한 이미지와 실제 성향 사이에 긴장이 생긴다.\n\n한때 선했다가 변한 타락천사나 천사로 위장한 다른 존재와는 기원이 다르다. 처음부터 악의적이었다는 근거와 천사라는 정체성이 함께 확인되어야 한다.\n\n《[[When the Angels]]》의 천사들은 인간의 뛰어난 예술가를 시기하여 빼앗아 간다. 시기와 탈취를 본래 행동으로 제시하여 선한 존재가 타락한 과정과 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "천사의 외형과 지위가 도덕적 선함을 보장하지 않는 세계관이다. 악의가 선한 존재의 타락을 거쳐 생긴 것이 아니라 처음부터 드러나면 거룩한 이미지와 실제 성향 사이에 긴장이 생긴다.\n\n한때 선했다가 변한 타락천사나 천사로 위장한 다른 존재와는 기원이 다르다. 처음부터 악의적이었다는 근거와 천사라는 정체성이 함께 확인되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[When the Angels]]》의 천사들은 인간의 뛰어난 예술가를 시기하여 빼앗아 간다. 시기와 탈취를 본래 행동으로 제시하여 선한 존재가 타락한 과정과 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

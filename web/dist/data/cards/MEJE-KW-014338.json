@@ -4,8 +4,8 @@
   "title": "상용구처럼 재사용되는 효과음",
   "original": "Stock Sound Effects",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02009",
+  "primary_tag_id": "ML-T02009",
   "description": {
     "definition": "여러 작품에서 반복 사용되어 특정 원작보다 일정한 상황을 나타내는 관습적 소리로 인식되는 효과음이다.",
     "detail": "작품 사례: [[Godzilla]]의 포효와 [[Pac-Man]]의 효과음은 여러 작품에 반복 사용되어, 최초의 작품만이 아니라 관습적인 상황의 소리로도 인식되는 예로 제시된다.",
@@ -13,10 +13,10 @@
     "boundary": "아직 한 작품을 강하게 떠올리게 하는 고유 효과음의 제한적 재사용과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 작품에 반복되어 특정 상황의 관습적인 소리처럼 쓰이는 [[효과음]]이다. 재사용이 누적되면 최초 출처와의 연결이 상대적으로 약해질 수 있다.\n\n한 작품만을 강하게 떠올리게 하는 제한적인 재사용과 구분된다. 실제 청자의 인지도는 다를 수 있어 모든 출처가 완전히 잊힌다고 단정하지 않는다.\n\n제공 자료는 [[Godzilla]]의 포효와 [[Pac-Man]]의 효과음을 여러 작품에서 재사용된 예로 든다. 원작의 연상이 남는 경우도 있으므로 각 사용에서 상용구와 인용의 기능을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 작품에 반복되어 특정 상황의 관습적인 소리처럼 쓰이는 [[효과음]]이다. 재사용이 누적되면 최초 출처와의 연결이 상대적으로 약해질 수 있다.\n\n한 작품만을 강하게 떠올리게 하는 제한적인 재사용과 구분된다. 실제 청자의 인지도는 다를 수 있어 모든 출처가 완전히 잊힌다고 단정하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "제공 자료는 [[Godzilla]]의 포효와 [[Pac-Man]]의 효과음을 여러 작품에서 재사용된 예로 든다. 원작의 연상이 남는 경우도 있으므로 각 사용에서 상용구와 인용의 기능을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

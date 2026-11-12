@@ -5,8 +5,8 @@
   "original": "Video Framed as Comic Panels",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01918",
+  "primary_tag_id": "ML-T01918",
   "description": {
     "definition": "움직이는 영상을 만화의 칸처럼 여러 구획으로 나누어 만화 매체의 화면 구성을 드러내는 연출이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "단순한 다중 화면 모두가 아니라 만화의 칸 구성을 환기하는 기능이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.010.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "움직이는 영상의 화면을 만화 칸처럼 구획하여 시선이 여러 장면을 읽게 한다. 단순히 동시 장소를 보여 주는 분할 화면보다 만화의 배열과 경계가 인식되도록 만든 표현이다.\n\n같은 시간의 반응을 나란히 두거나 중요한 자세를 하나의 칸에 남겨 움직임과 정지의 대비를 만들 수 있다. 관객은 영상의 시간 흐름을 따르면서도 칸 사이의 관계를 읽는 두 방식을 경험한다.\n\n다중 화면이 모두 만화적이라는 뜻은 아니다. 창이나 감시 장비의 화면을 그대로 보여 주는 경우는 다른 근거를 갖는다. 구획의 모양과 배치가 만화의 독해를 환기하는지에 따라 이 연출의 범위를 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "움직이는 영상의 화면을 만화 칸처럼 구획하여 시선이 여러 장면을 읽게 한다. 단순히 동시 장소를 보여 주는 분할 화면보다 만화의 배열과 경계가 인식되도록 만든 표현이다.\n\n같은 시간의 반응을 나란히 두거나 중요한 자세를 하나의 칸에 남겨 움직임과 정지의 대비를 만들 수 있다. 관객은 영상의 시간 흐름을 따르면서도 칸 사이의 관계를 읽는 두 방식을 경험한다.\n\n다중 화면이 모두 만화적이라는 뜻은 아니다. 창이나 감시 장비의 화면을 그대로 보여 주는 경우는 다른 근거를 갖는다. 구획의 모양과 배치가 만화의 독해를 환기하는지에 따라 이 연출의 범위를 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

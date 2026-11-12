@@ -4,8 +4,8 @@
   "title": "명함에 넣기 어려울 만큼 긴 직함",
   "original": "Try to Fit That on a Business Card",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "직업이나 지위를 나타내는 호칭을 터무니없이 길게 붙이는 명명 관습이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "개인 이름이 긴 경우와 달리 직무·지위의 호칭 길이가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "직업과 지위를 나타내는 호칭이 명함에 담기 어려울 만큼 길게 구성된다. 인물의 이름보다 맡은 직무와 권위를 설명하는 말의 과잉이 중심이다.\n\n정식 호칭을 끝까지 말하거나 적는 과정 자체가 자기소개를 늘인다. 짧게 전달할 정보가 관료적인 수식과 권위의 과시로 확대되면서 농담이 생길 수 있다.\n\n개인 이름이나 성이 긴 경우와 다르다. 실제 직위가 많다는 사실과 그 호칭의 길이를 과장하여 보여 주는 연출도 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "직업과 지위를 나타내는 호칭이 명함에 담기 어려울 만큼 길게 구성된다. 인물의 이름보다 맡은 직무와 권위를 설명하는 말의 과잉이 중심이다.\n\n정식 호칭을 끝까지 말하거나 적는 과정 자체가 자기소개를 늘인다. 짧게 전달할 정보가 관료적인 수식과 권위의 과시로 확대되면서 농담이 생길 수 있다.\n\n개인 이름이나 성이 긴 경우와 다르다. 실제 직위가 많다는 사실과 그 호칭의 길이를 과장하여 보여 주는 연출도 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

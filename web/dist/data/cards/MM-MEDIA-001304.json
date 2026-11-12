@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "극장판 포켓몬스터: 뮤츠의 역습",
   "original": "Pokémon: The First Movie",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "포켓몬스터 뮤츠의 역습"
+  ],
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "《극장판 포켓몬스터: 뮤츠의 역습》은 애니메이션 작품이다.",
-    "detail": "작품 사례: 《극장판 포켓몬스터: 뮤츠의 역습》에서 로켓단은 바이킹처럼 변장하고 나옹을 뱃머리 장식처럼 배치한다. 몇 가지 복식과 배의 형태만으로 북방 전사 이미지를 알아보게 하는 변주이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -43,6 +45,10 @@
       "row_version": 1
     },
     {
+      "card_id": "MEJE-KW-021409",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-022500",
       "row_version": 1
     },
@@ -55,5 +61,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《극장판 포켓몬스터: 뮤츠의 역습》은 [[TV 애니메이션]]에 이어 제작된 첫 포켓몬스터 장편 영화다. 인간 과학자들이 뮤를 바탕으로 만든 뮤츠는 자신이 도구로 쓰이기 위해 태어났다는 사실에 분노하여 인간에게 맞선다.\n\n인공적으로 만들어진 존재의 자의식과 복제된 포켓몬의 처지가 갈등의 중심이다. TV판에서 준비한 설정과 연결되고 이후 별도 후속 애니메이션으로도 이어지지만, 여기서는 1998년의 첫 극장판을 가리킨다. 함께 상영된 짧은 부속 애니메이션과는 별개의 본편이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《극장판 포켓몬스터: 뮤츠의 역습》은 [[TV 애니메이션]]에 이어 제작된 첫 포켓몬스터 장편 영화다. 인간 과학자들이 뮤를 바탕으로 만든 뮤츠는 자신이 도구로 쓰이기 위해 태어났다는 사실에 분노하여 인간에게 맞선다.\n\n인공적으로 만들어진 존재의 자의식과 복제된 포켓몬의 처지가 갈등의 중심이다. TV판에서 준비한 설정과 연결되고 이후 별도 후속 애니메이션으로도 이어지지만, 여기서는 1998년의 첫 극장판을 가리킨다. 함께 상영된 짧은 부속 애니메이션과는 별개의 본편이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

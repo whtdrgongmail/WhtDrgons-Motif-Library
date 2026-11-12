@@ -4,8 +4,8 @@
   "title": "출신지를 이름처럼 부르기",
   "original": "Hometown Nickname",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "인물을 실제 또는 추정 출신지의 이름으로 거의 대신 부르거나 그 지명을 별명에 붙여 식별하는 명명 관습이다.",
     "detail": "작품 사례: [[Miss Congeniality]]에서 참가자들은 그레이시를 대표 지역인 뉴저지로 부르며, 그녀가 다른 참가자의 본명을 말하면 사람들이 혼란스러워한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 주소 소개나 지명과 우연히 같은 이름을 가진 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "출신과 대표 지역의 이름을 개인의 지속적인 호칭으로 사용하는 방식이다. 지명이 사회적 역할과 소속을 표시하며 본명보다 식별하기 쉬운 약호가 된다.\n\n주소를 설명하거나 지명과 우연히 같은 본명을 갖는 것과 다르다. 실제로 반복되는 호칭으로 기능하고 관계 안에서 개인을 구분해야 한다.\n\n[[Miss Congeniality]]의 참가자들은 그레이시를 뉴저지로 부른다. 다른 참가자의 본명을 말하면 혼란이 생겨 대표 지명이 실질적인 인물 호칭을 대신함을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "출신과 대표 지역의 이름을 개인의 지속적인 호칭으로 사용하는 방식이다. 지명이 사회적 역할과 소속을 표시하며 본명보다 식별하기 쉬운 약호가 된다.\n\n주소를 설명하거나 지명과 우연히 같은 본명을 갖는 것과 다르다. 실제로 반복되는 호칭으로 기능하고 관계 안에서 개인을 구분해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Miss Congeniality]]의 참가자들은 그레이시를 뉴저지로 부른다. 다른 참가자의 본명을 말하면 혼란이 생겨 대표 지명이 실질적인 인물 호칭을 대신함을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

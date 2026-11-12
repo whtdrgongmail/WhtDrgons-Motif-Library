@@ -4,8 +4,8 @@
   "title": "유로게임",
   "original": "Euro Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008827",
+  "primary_tag_id": "MEJE-KW-008827",
   "description": {
     "definition": "직접적인 공격보다 자원 관리와 간접 경쟁, 비교적 낮은 운의 비중을 중시하는 [[보드게임]] 갈래다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.210.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "game_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "‘유로게임’은 유럽에서 발전한 설계 전통을 가리키는 이름으로, 특정 국가에서 만들어졌는지보다 그 게임이 공유하는 규칙과 경쟁 방식에 초점을 둔다.\n\n유로게임은 플레이어가 자원을 모으고 변환하며, 제한된 행동 기회 안에서 효율적인 계획을 세우는 보드게임 설계 전통이다. 경쟁은 상대의 말을 직접 제거하거나 공격하는 대신 좋은 행동 칸을 먼저 차지하고, 점수와 자원 조건을 앞서 달성하는 방식으로 표현되는 경우가 많다. 주사위나 공개되지 않은 정보가 포함되더라도 결과를 장기적으로 운에 맡기기보다 선택의 질이 성과에 큰 영향을 주도록 설계한다.\n\n이 특성은 엄격한 규칙 목록이 아니며, 현대 게임은 여러 전통을 섞는다. 직접 공격이 조금이라도 있다고 해서 유로게임에서 벗어나는 것도 아니고, 운이 전혀 없어야 하는 것도 아니다. 중요한 것은 상호작용이 주로 어떤 경로로 발생하는지, 자원 관리와 행동 선택이 결과에 얼마나 기여하는지다. ‘유럽에서 제작된 게임’이라는 지리적 분류와 혼동하지 않도록 하고, 게임 설계와 플레이 감각을 가리키는 [[보드게임]]의 하위 전통으로 이해한다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "‘유로게임’은 유럽에서 발전한 설계 전통을 가리키는 이름으로, 특정 국가에서 만들어졌는지보다 그 게임이 공유하는 규칙과 경쟁 방식에 초점을 둔다."
+      ],
+      [
+        "상세 설명",
+        "유로게임은 플레이어가 자원을 모으고 변환하며, 제한된 행동 기회 안에서 효율적인 계획을 세우는 보드게임 설계 전통이다. 경쟁은 상대의 말을 직접 제거하거나 공격하는 대신 좋은 행동 칸을 먼저 차지하고, 점수와 자원 조건을 앞서 달성하는 방식으로 표현되는 경우가 많다. 주사위나 공개되지 않은 정보가 포함되더라도 결과를 장기적으로 운에 맡기기보다 선택의 질이 성과에 큰 영향을 주도록 설계한다.\n\n이 특성은 엄격한 규칙 목록이 아니며, 현대 게임은 여러 전통을 섞는다. 직접 공격이 조금이라도 있다고 해서 유로게임에서 벗어나는 것도 아니고, 운이 전혀 없어야 하는 것도 아니다. 중요한 것은 상호작용이 주로 어떤 경로로 발생하는지, 자원 관리와 행동 선택이 결과에 얼마나 기여하는지다. ‘유럽에서 제작된 게임’이라는 지리적 분류와 혼동하지 않도록 하고, 게임 설계와 플레이 감각을 가리키는 [[보드게임]]의 하위 전통으로 이해한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "연상의 고용주와 젊은 보조자의 연애",
   "original": "Mistress and Servant Boy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000727",
+  "primary_tag_id": "MM-UNSET-000727",
   "description": {
     "definition": "세상 경험이 더 많은 연상의 여성이 자신을 돕는 젊은 남성 보조자와 연애 관계를 이루는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "단순히 연상 여성을 사귀는 관계와 달리 보조·고용 관계가 함께 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "업무상 위아래인 두 사람에게 나이와 경험 차이까지 겹친다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대체로 연상인 여성 고용주와 그 밑에서 일하는 젊은 남성 사이의 비대칭적인 관계 유형이다. 여성은 명령하거나 놀리며 상대의 반응을 즐기고, 남성은 불평하면서도 일을 수행한다. 까다로운 상사와 지친 보조자의 희극적 관계에 애정이나 친밀감이 더해질 수 있다.\n\n겉으로는 엄하게 대하면서도 다른 사람이 보조자를 괴롭히면 보호하는 모습이 나타나기도 한다. 감정을 직접 표현하지 못해 장난과 통제로 드러내는 인물 성격이 관계를 뒷받침한다. 여성이 마법이나 특별한 능력을 갖고 남성은 평범한 사람인 설정에서는 직무상의 서열에 능력 차이까지 더해진다.\n\n반드시 연애나 성적 관계로 발전하는 것은 아니며, 보호자와 피보호자 또는 스승과 제자의 관계에 머물 수도 있다. 따라서 카드의 연애라는 표현보다 실제 관계의 범위를 넓게 볼 필요가 있다. 자발적인 기사도의 봉사나 일회적인 성적 만남과 달리, 지속되는 고용·봉사 관계와 그 안의 정서적 긴장이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대체로 연상인 여성 고용주와 그 밑에서 일하는 젊은 남성 사이의 비대칭적인 관계 유형이다. 여성은 명령하거나 놀리며 상대의 반응을 즐기고, 남성은 불평하면서도 일을 수행한다. 까다로운 상사와 지친 보조자의 희극적 관계에 애정이나 친밀감이 더해질 수 있다.\n\n겉으로는 엄하게 대하면서도 다른 사람이 보조자를 괴롭히면 보호하는 모습이 나타나기도 한다. 감정을 직접 표현하지 못해 장난과 통제로 드러내는 인물 성격이 관계를 뒷받침한다. 여성이 마법이나 특별한 능력을 갖고 남성은 평범한 사람인 설정에서는 직무상의 서열에 능력 차이까지 더해진다.\n\n반드시 연애나 성적 관계로 발전하는 것은 아니며, 보호자와 피보호자 또는 스승과 제자의 관계에 머물 수도 있다. 따라서 카드의 연애라는 표현보다 실제 관계의 범위를 넓게 볼 필요가 있다. 자발적인 기사도의 봉사나 일회적인 성적 만남과 달리, 지속되는 고용·봉사 관계와 그 안의 정서적 긴장이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

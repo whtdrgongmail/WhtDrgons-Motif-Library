@@ -4,8 +4,8 @@
   "title": "짧게 즐기기 쉬운 게임",
   "original": "Casual Video Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-004494",
+  "primary_tag_id": "MEJE-KW-004494",
   "description": {
     "definition": "복잡한 준비 없이 시작하고 잠깐씩 진행할 수 있게 설계된 게임 유형. 접근하기 쉬운 규칙과 실제 내용의 깊이는 별개의 문제다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.210.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "game_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "캐주얼 [[게임]]은 짧은 시간에 규칙을 파악하고 시작과 중단을 유연하게 할 수 있도록 진입 부담을 낮춘 게임을 가리킨다. 한 판의 길이, 간결한 조작, 점진적으로 제시되는 규칙, 익숙한 기기 접근성 등이 이를 뒷받침한다. 이런 설계는 이동 중 짧게 즐기거나 게임 경험이 적은 사람도 참여할 수 있게 하지만, 게임이 제공하는 숙련의 폭이나 전략적 깊이를 미리 결정하지 않는다.\n\n캐주얼성은 특정 장르나 기기와 일치하지 않는다. 퍼즐과 스포츠 등 여러 장르가 짧고 쉽게 접근하도록 만들어질 수 있고, 모바일 게임이라고 모두 캐주얼한 것도 아니다. 판별할 때는 실제 플레이의 시작 절차와 세션 길이, 실패 비용, 학습 곡선을 확인한다. 단순히 난도가 낮거나 내용이 가볍다는 평가는 기준이 아니며, 복잡한 게임도 짧은 플레이 단위와 쉬운 진입을 제공하면 일부 캐주얼 설계를 공유할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "캐주얼 [[게임]]은 짧은 시간에 규칙을 파악하고 시작과 중단을 유연하게 할 수 있도록 진입 부담을 낮춘 게임을 가리킨다. 한 판의 길이, 간결한 조작, 점진적으로 제시되는 규칙, 익숙한 기기 접근성 등이 이를 뒷받침한다. 이런 설계는 이동 중 짧게 즐기거나 게임 경험이 적은 사람도 참여할 수 있게 하지만, 게임이 제공하는 숙련의 폭이나 전략적 깊이를 미리 결정하지 않는다.\n\n캐주얼성은 특정 장르나 기기와 일치하지 않는다. 퍼즐과 스포츠 등 여러 장르가 짧고 쉽게 접근하도록 만들어질 수 있고, 모바일 게임이라고 모두 캐주얼한 것도 아니다. 판별할 때는 실제 플레이의 시작 절차와 세션 길이, 실패 비용, 학습 곡선을 확인한다. 단순히 난도가 낮거나 내용이 가볍다는 평가는 기준이 아니며, 복잡한 게임도 짧은 플레이 단위와 쉬운 진입을 제공하면 일부 캐주얼 설계를 공유할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

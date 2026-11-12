@@ -4,8 +4,8 @@
   "title": "불륜을 저지른 인물이 배신당하기",
   "original": "Cheater Gets Cheated On",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "연인을 속이던 인물이 자신도 같은 배신의 대상이 된다. 서로 다른 잣대로 관계를 판단하던 태도가 되돌아온다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 연인을 속이며 외도하던 사람이 자신도 상대에게 기만당하고 있었음을 알게 되는 전개다. 남에게 한 행동을 자기 문제로 경험하며 이중적인 태도가 드러날 수 있다. 그가 상처받았다고 이전 피해가 없어지거나 모든 관련자가 같은 책임을 갖는 것은 아니다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 사람을 속여 연애하던 인물이 자신도 상대의 배신을 경험하는 상황이다. 자기 행동에는 관대하면서 남의 같은 행동에는 분노하는 이중 기준을 드러낸다.\n\n외모와 부, 지위를 이유로 자신은 배신당하지 않을 것이라 믿었을 수 있다. 이전 관계를 배신한 상대가 자신에게도 그러리라는 가능성을 무시한 판단이 뒤늦게 돌아온다.\n\n이 상황이 현실의 모든 불륜에 같은 결과가 온다는 법칙은 아니다. 작품에서 어떤 행위의 반복과 인과를 제시하는지, 응보와 위선을 어떻게 평가하는지가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 사람을 속여 연애하던 인물이 자신도 상대의 배신을 경험하는 상황이다. 자기 행동에는 관대하면서 남의 같은 행동에는 분노하는 이중 기준을 드러낸다.\n\n외모와 부, 지위를 이유로 자신은 배신당하지 않을 것이라 믿었을 수 있다. 이전 관계를 배신한 상대가 자신에게도 그러리라는 가능성을 무시한 판단이 뒤늦게 돌아온다.\n\n이 상황이 현실의 모든 불륜에 같은 결과가 온다는 법칙은 아니다. 작품에서 어떤 행위의 반복과 인과를 제시하는지, 응보와 위선을 어떻게 평가하는지가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

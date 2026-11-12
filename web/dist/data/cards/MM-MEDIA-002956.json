@@ -3,43 +3,77 @@
   "kind": "work",
   "title": "건담",
   "original": "Gundam",
-  "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "aliases": [
+    "기동전사 건담"
+  ],
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
-    "definition": "《건담》은 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《건담》 계열의 미노프스키 입자는 레이더와 유도 체계를 방해해 가까운 거리의 전투를 유도하며 메카의 민첩성에 역할을 준다.",
+    "definition": "《건담》은 1979년 TV 애니메이션 《기동전사 건담》에서 시작해 여러 애니메이션과 관련 작품으로 확장된 작품군이다. 작품마다 같은 우주세기를 공유하거나 별도의 세계를 사용한다.",
+    "detail": "공식 작품 목록은 우주세기 시리즈, 별도 시간선 시리즈, 건프라를 다루는 빌드 시리즈 등을 나누어 소개한다. 개별 작품의 인물·사건을 전체 작품군의 공통 설정으로 일반화하지 않는다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《건담》 계열의 미노프스키 입자는 레이더와 유도 체계를 방해해 가까운 거리의 전투를 유도하며 메카의 민첩성에 역할을 준다.",
+    "easy_ko": "《건담》은 여러 작품을 묶는 시리즈 이름이다. 첫 TV 애니메이션부터 다른 세계를 배경으로 한 후속작까지 포함한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-022028",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-027960",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000251",
+      "card_id": "MM-MEDIA-002956",
+      "label_ko": "건담 공식 시리즈 안내",
+      "icon_key": "link",
+      "url": "https://en.gundam-official.com/what-is-gundam",
+      "description_ko": "건담 공식 사이트의 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "《건담》 작품군은 1979년의 첫 TV 애니메이션에서 시작해 서로 다른 시기와 세계를 배경으로 한 여러 작품으로 확장됐다. 공식 작품 목록은 우주세기와 별도의 시간선, 건프라를 활용하는 빌드 시리즈 등 주요 갈래를 구분한다.\n\n각 갈래의 세계관과 등장인물이 모두 같은 것은 아니다. 우주세기의 사건을 별도 시간선의 작품에 적용하거나 한 작품의 기술 규칙을 전체 시리즈에 공통으로 설정하는 해석은 피한다. 특정 사건과 디자인을 설명할 때는 해당 작품과 발표 매체를 함께 확인한다.\n\n1979년 TV 애니메이션 《[[기동전사 건담]]》은 이 작품군의 출발점이다. 이후의 별도 시간선 작품은 제목에 건담이 들어가더라도 같은 우주세기의 연속 사건으로 단정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《건담》 작품군은 1979년의 첫 TV 애니메이션에서 시작해 서로 다른 시기와 세계를 배경으로 한 여러 작품으로 확장됐다. 공식 작품 목록은 우주세기와 별도의 시간선, 건프라를 활용하는 빌드 시리즈 등 주요 갈래를 구분한다.\n\n각 갈래의 세계관과 등장인물이 모두 같은 것은 아니다. 우주세기의 사건을 별도 시간선의 작품에 적용하거나 한 작품의 기술 규칙을 전체 시리즈에 공통으로 설정하는 해석은 피한다. 특정 사건과 디자인을 설명할 때는 해당 작품과 발표 매체를 함께 확인한다."
+      ],
+      [
+        "사례",
+        "1979년 TV 애니메이션 《[[기동전사 건담]]》은 이 작품군의 출발점이다. 이후의 별도 시간선 작품은 제목에 건담이 들어가더라도 같은 우주세기의 연속 사건으로 단정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

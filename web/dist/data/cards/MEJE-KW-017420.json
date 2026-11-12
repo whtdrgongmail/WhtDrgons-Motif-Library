@@ -4,8 +4,8 @@
   "title": "조직이 이탈자를 추적하기",
   "original": "Hunting the Rogue",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00643",
+  "primary_tag_id": "ML-T00643",
   "description": {
     "definition": "조직의 명령이나 소속 관계에서 이탈한 인물을 그가 몸담았던 조직이 회수·체포·제거하려고 추적하는 전개다. 이전의 동료와 체계가 이제 추격자가 된다.",
     "detail": "비밀 유출 우려, 탈퇴 금지 규칙, 무단 행동에 대한 처벌 등 추적의 이유는 여러 가지다. 생포와 살해 중 어느 쪽을 지시했는지는 필수 조건이 아니다.\n\n작품 사례: 《[[나루토]]》에서 오로치마루가 금지된 연구 끝에 조직을 이탈하자, 옛 동료 지라이야는 그를 찾아 돌아오게 하려 한다.",
@@ -13,30 +13,47 @@
     "boundary": "조직을 떠났다는 사실만으로는 부족하고 그 조직의 추적이 있어야 한다. 배신·누명·양심적 탈퇴 중 어느 이유인지에 따라 도덕적 위치는 달라진다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "조직을 떠난 요원을 붙잡기 위해 옛 동료들이 수색 명령을 받고 움직인다.\n\n작품 사례: 《[[나루토]]》에서 오로치마루가 금지된 연구 끝에 조직을 이탈하자, 옛 동료 지라이야는 그를 찾아 돌아오게 하려 한다.",
+    "easy_ko": "조직을 떠난 요원을 붙잡기 위해 옛 동료들이 수색 명령을 받고 움직인다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001303",
+      "work_card_id": "MM-MEDIA-002184",
       "description_ko": "《나루토》에서 오로치마루가 금지된 연구 끝에 조직을 이탈하자, 옛 동료 지라이야는 그를 찾아 돌아오게 하려 한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이전 조직이 비밀 유출을 막거나 탈퇴 금지 규칙을 집행하고 무단 행동을 처벌하려 한다. 생포와 살해 중 어느 쪽을 명령했는지는 사례마다 달라질 수 있다.\n\n익숙한 정보와 전술을 가진 옛 동료가 추격자가 되면서 충성의 [[갈등]]이 생긴다. 떠났다는 사실만으로는 충분하지 않고 조직의 추적이 있어야 하며 이탈의 이유에 따라 도덕적 위치는 달라진다.\n\n《[[나루토(만화)]]》에서 오로치마루가 금지된 연구 끝에 조직을 이탈하자, 옛 동료 지라이야는 그를 찾아 돌아오게 하려 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이전 조직이 비밀 유출을 막거나 탈퇴 금지 규칙을 집행하고 무단 행동을 처벌하려 한다. 생포와 살해 중 어느 쪽을 명령했는지는 사례마다 달라질 수 있다.\n\n익숙한 정보와 전술을 가진 옛 동료가 추격자가 되면서 충성의 [[갈등]]이 생긴다. 떠났다는 사실만으로는 충분하지 않고 조직의 추적이 있어야 하며 이탈의 이유에 따라 도덕적 위치는 달라진다."
+      ],
+      [
+        "관련 작품",
+        "《[[나루토(만화)]]》에서 오로치마루가 금지된 연구 끝에 조직을 이탈하자, 옛 동료 지라이야는 그를 찾아 돌아오게 하려 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

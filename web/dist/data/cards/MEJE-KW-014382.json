@@ -4,8 +4,8 @@
   "title": "목적을 숨긴 시험",
   "original": "Hidden Purpose Test",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00767",
+  "primary_tag_id": "ML-T00767",
   "description": {
     "definition": "참가자는 시험받고 있음을 알지만 실제로 평가되는 능력이나 태도를 다른 것으로 오해하도록 구성한 시험이다. 겉으로 내건 과제의 수행 과정이 숨은 평가 기준을 드러낸다.",
     "detail": "작품 사례: [[Mage: The Awakening]]의 수호자 후보는 상관과의 과제를 수행하다 규범에 어긋난 명령을 받으며, 그대로 따르지 않아야 숨은 충실성 시험을 통과한다.",
@@ -13,10 +13,10 @@
     "boundary": "시험받는 사실 자체를 모르는 비밀 평가나 관객만 훈련임을 모르는 도입 장면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "시험받는다는 사실은 알려져 있지만 실제로 평가하는 가치와 판단 기준은 숨겨진 과제다. 표면적인 명령과 진짜 통과 조건이 반대일 수도 있다.\n\n평가가 있다는 사실 자체를 모르는 비밀 시험과 다르다. 관객만 훈련 상황을 몰랐던 도입과도 구분되며 참가자의 인식과 숨은 목적을 나누어야 한다.\n\n[[Mage: The Awakening]]의 수호자 후보는 상관의 과제 중 규범에 어긋난 명령을 받는다. 그대로 복종하지 않는 선택이 충실성을 평가하는 숨은 통과 조건으로 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "시험받는다는 사실은 알려져 있지만 실제로 평가하는 가치와 판단 기준은 숨겨진 과제다. 표면적인 명령과 진짜 통과 조건이 반대일 수도 있다.\n\n평가가 있다는 사실 자체를 모르는 비밀 시험과 다르다. 관객만 훈련 상황을 몰랐던 도입과도 구분되며 참가자의 인식과 숨은 목적을 나누어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Mage: The Awakening]]의 수호자 후보는 상관의 과제 중 규범에 어긋난 명령을 받는다. 그대로 복종하지 않는 선택이 충실성을 평가하는 숨은 통과 조건으로 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

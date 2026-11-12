@@ -4,8 +4,8 @@
   "title": "보스전 중심으로 구성한 게임",
   "original": "Boss Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
     "definition": "대부분의 플레이 시간을 독특한 강적과의 대결에 쓰는 게임. 보스 사이의 짧은 구간은 휴식이나 준비의 역할을 한다. 게임 전체가 아니라 한 구간에 보스가 몰리면 [[보스전을 연달아 치르기]]로 범위가 줄어든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일반 적을 상대하는 진행보다 보스와의 대결이 게임의 주된 내용을 이루는 구성이다. 짧은 이동과 휴식이 있더라도 각각의 결전이 경험의 중심이 된다.\n\n여러 보스를 연속으로 상대하거나 하나의 거대한 적과 긴 전투를 진행하는 형태가 있다. 기존 게임에서 일반 구간을 제거한 별도 판본도 [[보스전]]의 숙련을 집중적으로 시험할 수 있다.\n\n종반의 [[보스전을 연달아 치르기]]와는 범위가 다르다. 적의 수보다 게임 전체가 독립적인 큰 대결을 중심으로 진행되는지가 분류의 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일반 적을 상대하는 진행보다 보스와의 대결이 게임의 주된 내용을 이루는 구성이다. 짧은 이동과 휴식이 있더라도 각각의 결전이 경험의 중심이 된다.\n\n여러 보스를 연속으로 상대하거나 하나의 거대한 적과 긴 전투를 진행하는 형태가 있다. 기존 게임에서 일반 구간을 제거한 별도 판본도 [[보스전]]의 숙련을 집중적으로 시험할 수 있다.\n\n종반의 [[보스전을 연달아 치르기]]와는 범위가 다르다. 적의 수보다 게임 전체가 독립적인 큰 대결을 중심으로 진행되는지가 분류의 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

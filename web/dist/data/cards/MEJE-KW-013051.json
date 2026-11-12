@@ -4,8 +4,8 @@
   "title": "수호천사",
   "original": "Guardian Angel",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01119",
+  "primary_tag_id": "ML-T01119",
   "description": {
     "definition": "특정 사람을 보호하고 올바른 [[선택]]을 돕는 선의의 초자연적 존재이다. 직접 개입하거나 당사자가 알아채지 못하는 방식으로 [[위기]]를 피하게 한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "보호 대상을 위해 남에게 해를 끼치는 존재까지 포함하는 일반 [[수호 존재]]보다 선의와 안내의 [[성격]]이 강하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "12",
+    "code": "12.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 사람을 선의로 지키고 안내하는 초자연적 존재다. 큰 힘으로 직접 해결하기보다 미묘한 개입과 양심의 역할로 나타날 수 있다.\n\n선한 조언과 악한 유혹을 나란히 의인화하는 구성에 참여하거나 당사자의 선행을 기록하는 관찰자로 그려지기도 한다. 보호의 방식과 허용된 힘이 제한될 수 있다.\n\n보호를 위해 남에게 어떤 해든 주는 일반 수호자와는 강조점이 다르다. 실제 종교의 모든 전승을 같은 존재 규칙으로 묶지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 사람을 선의로 지키고 안내하는 초자연적 존재다. 큰 힘으로 직접 해결하기보다 미묘한 개입과 양심의 역할로 나타날 수 있다.\n\n선한 조언과 악한 유혹을 나란히 의인화하는 구성에 참여하거나 당사자의 선행을 기록하는 관찰자로 그려지기도 한다. 보호의 방식과 허용된 힘이 제한될 수 있다.\n\n보호를 위해 남에게 어떤 해든 주는 일반 수호자와는 강조점이 다르다. 실제 종교의 모든 전승을 같은 존재 규칙으로 묶지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

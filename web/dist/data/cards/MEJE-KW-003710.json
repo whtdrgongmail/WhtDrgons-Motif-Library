@@ -4,8 +4,8 @@
   "title": "바닥이 보이지 않는 낙하 구덩이",
   "original": "Bottomless Pits",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "게임 공간에 끝이 보이지 않는 구덩이를 두어 이동의 정확성을 시험한다. 떨어졌을 때의 결과가 위험 구역의 경계를 정한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "추락하면 생명이나 시도 기회를 잃게 만드는 깊은 구덩이다. 화면 아래로 떨어진 순간 실패가 확정되며, 점프의 타이밍과 적에게 밀려나는 상황을 주요 위험으로 만든다.\n\n외형상 정말 끝이 없을 필요는 없다. 바닥이 있더라도 복귀 경로를 제공하지 않는 구역을 같은 방식으로 처리할 수 있다. 다른 장소의 긴 추락에는 피해가 없는데 짧은 화면 밖 추락에는 즉사하는 불일치도 생긴다.\n\n입체 게임에서는 매우 깊은 공간으로 시각화하는 경우가 많다. 이 장치는 낙하 높이에 비례해 체력을 줄이는 일반적인 추락 피해와 달리, 지정된 구역 진입을 실패 조건으로 삼는다는 특징이 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "추락하면 생명이나 시도 기회를 잃게 만드는 깊은 구덩이다. 화면 아래로 떨어진 순간 실패가 확정되며, 점프의 타이밍과 적에게 밀려나는 상황을 주요 위험으로 만든다.\n\n외형상 정말 끝이 없을 필요는 없다. 바닥이 있더라도 복귀 경로를 제공하지 않는 구역을 같은 방식으로 처리할 수 있다. 다른 장소의 긴 추락에는 피해가 없는데 짧은 화면 밖 추락에는 즉사하는 불일치도 생긴다.\n\n입체 게임에서는 매우 깊은 공간으로 시각화하는 경우가 많다. 이 장치는 낙하 높이에 비례해 체력을 줄이는 일반적인 추락 피해와 달리, 지정된 구역 진입을 실패 조건으로 삼는다는 특징이 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

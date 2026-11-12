@@ -5,8 +5,8 @@
   "original": "A Wedding March for a Non-Wedding",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "결혼식이 아닌 장면에 익숙한 결혼행진곡을 넣어 그 의식을 결혼과 유사하게 보이도록 만드는 연출이다.",
     "detail": "작품 사례: 《[[해피 프렌즈]]》 시즌 7 첫 회는 개 행성과 외교 관계를 맺는 의식에 멘델스존 음악을 사용해 결혼식처럼 연출한다.",
@@ -14,10 +14,10 @@
     "boundary": "실제 결혼식에서 관례에 따라 같은 음악을 쓰는 경우와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "음악은 결혼이 아닌 의식에 혼례의 익숙한 인상을 부여한다. 관객이 아는 곡의 사용 맥락이 현재 장면으로 옮겨진다.\n\n인물과 절차가 다르더라도 결혼 같은 결합이라는 느낌을 줄 수 있다. 소리와 실제 의식의 차이를 통해 비교나 희극적인 효과를 만든다.\n\n진짜 결혼식에서 관례에 따라 행진곡을 쓰는 장면과는 다르다. 다른 종류의 사건에 혼례 음악을 적용한 전환이 핵심이다.\n\n[[해피 프렌즈]] 시즌 7 첫 회는 개 행성과 외교 관계를 맺는 의식에 멘델스존 음악을 넣어 결혼식처럼 보이게 한다.\n\n[[해피 프렌즈]]",
+    "sections": [
+      [
+        "상세 설명",
+        "음악은 결혼이 아닌 의식에 혼례의 익숙한 인상을 부여한다. 관객이 아는 곡의 사용 맥락이 현재 장면으로 옮겨진다.\n\n인물과 절차가 다르더라도 결혼 같은 결합이라는 느낌을 줄 수 있다. 소리와 실제 의식의 차이를 통해 비교나 희극적인 효과를 만든다.\n\n진짜 결혼식에서 관례에 따라 행진곡을 쓰는 장면과는 다르다. 다른 종류의 사건에 혼례 음악을 적용한 전환이 핵심이다."
+      ],
+      [
+        "사례",
+        "[[해피 프렌즈]] 시즌 7 첫 회는 개 행성과 외교 관계를 맺는 의식에 멘델스존 음악을 넣어 결혼식처럼 보이게 한다."
+      ],
+      [
+        "관련 작품",
+        "[[해피 프렌즈]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

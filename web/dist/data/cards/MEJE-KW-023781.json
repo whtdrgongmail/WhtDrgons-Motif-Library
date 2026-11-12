@@ -4,8 +4,8 @@
   "title": "번역하지 않고 남기는 단골 대사",
   "original": "Untranslated Catchphrase",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02282",
+  "primary_tag_id": "ML-T02282",
   "description": {
     "definition": "작품의 다른 부분을 번역해도 인물의 특징적인 말버릇이나 유행 대사는 원래 언어로 유지한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "작품 전체가 번역되지 않은 경우와 달리 특정 표현만 예외적으로 보존한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 대사는 번역하면서 인물의 단골 표현만 원래 언어로 유지한다. 번역의 일반 원칙에서 특정 문구를 예외로 남기는 방식이다.\n\n반복되는 소리는 언어판이 달라져도 인물의 특징을 알아보게 한다. 뜻을 현지화하는 기능과 익숙한 표현을 보존하는 기능이 같은 번역 안에서 나뉜다.\n\n작품 전체가 원어로 남아 있는 상태와 다르다. 우연히 번역하지 못한 표현보다 특징적인 대사를 선택적으로 보존하는지가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 대사는 번역하면서 인물의 단골 표현만 원래 언어로 유지한다. 번역의 일반 원칙에서 특정 문구를 예외로 남기는 방식이다.\n\n반복되는 소리는 언어판이 달라져도 인물의 특징을 알아보게 한다. 뜻을 현지화하는 기능과 익숙한 표현을 보존하는 기능이 같은 번역 안에서 나뉜다.\n\n작품 전체가 원어로 남아 있는 상태와 다르다. 우연히 번역하지 못한 표현보다 특징적인 대사를 선택적으로 보존하는지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "변신하면 상처가 사라짐",
   "original": "Shapeshifting Heals Wounds",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01494",
+  "primary_tag_id": "ML-T01494",
   "description": {
     "definition": "한 형태에서 다른 형태로 몸을 바꾸는 과정에서 기존의 부상이나 손상이 복구되는 변신 규칙이다.",
     "detail": "작품 사례: [[Animorphs]]의 Cassie는 새에서 고래로 바뀌어 헬기를 덮치려 하며, 충돌로 다치더라도 다시 변신하면 회복할 수 있다는 규칙을 계산에 넣는다.",
@@ -13,10 +13,10 @@
     "boundary": "외형만 바뀌어 상처가 가려진 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.001.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "몸이 다른 형태로 바뀌는 과정에서 이전 형태의 부상이 복구된다. 변신은 외형 변화이면서 동시에 회복 수단이 된다.\n\n인물은 다칠 가능성을 감수하는 행동을 선택할 때 다음 변신의 치유 효과를 계산할 수 있다. 형태를 바꾸는 규칙이 위험을 받아들이는 방식에도 영향을 준다.\n\n상처가 새 외형에 가려져 안 보이는 경우와 다르다. 손상 자체가 실제로 회복되어야 하며 단순한 시각적 은폐로는 부족하다.\n\n[[Animorphs]]의 Cassie는 새에서 고래로 바뀌어 헬기를 덮치려 하며, 충돌로 다치더라도 다시 변신하면 회복할 수 있다는 규칙을 계산에 넣는다.\n\n[[Animorphs]]",
+    "sections": [
+      [
+        "상세 설명",
+        "몸이 다른 형태로 바뀌는 과정에서 이전 형태의 부상이 복구된다. 변신은 외형 변화이면서 동시에 회복 수단이 된다.\n\n인물은 다칠 가능성을 감수하는 행동을 선택할 때 다음 변신의 치유 효과를 계산할 수 있다. 형태를 바꾸는 규칙이 위험을 받아들이는 방식에도 영향을 준다.\n\n상처가 새 외형에 가려져 안 보이는 경우와 다르다. 손상 자체가 실제로 회복되어야 하며 단순한 시각적 은폐로는 부족하다."
+      ],
+      [
+        "사례",
+        "[[Animorphs]]의 Cassie는 새에서 고래로 바뀌어 헬기를 덮치려 하며, 충돌로 다치더라도 다시 변신하면 회복할 수 있다는 규칙을 계산에 넣는다."
+      ],
+      [
+        "관련 작품",
+        "[[Animorphs]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

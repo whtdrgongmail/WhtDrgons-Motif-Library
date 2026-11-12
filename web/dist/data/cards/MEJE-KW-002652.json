@@ -4,8 +4,8 @@
   "title": "소환된 영이 명령을 거부하기",
   "original": "Balking Summoned Spirit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01529",
+  "primary_tag_id": "ML-T01529",
   "description": {
     "definition": "부름에 응한 [[영적 존재]]가 소환자의 요구를 듣고 협조하지 않거나 조건을 내건다. 소환 능력과 실제 통제권이 같지 않다는 세계 규칙이다. 소환자의 뜻을 따르지 않는 영을 [[의식으로 존재를 다른 곳에 내쫓기]]로 내보내려 할 수도 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "17",
+    "code": "17.005.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인간이 소환한 [[영적 존재]]가 요청을 하찮게 여기거나 소환 자체를 모욕으로 받아들여 협조를 거부한다. 부르면 복종해야 한다는 소환자의 기대가 깨지는 구조다.\n\n존재에게도 자기 일정과 자존심이 있다는 묘사는 압도적인 힘을 인격적인 관계로 바꾼다. 마지못해 돕거나 대가를 요구하고 소환자를 공격하는 등 거부의 정도는 달라질 수 있다.\n\n명령을 못 알아듣거나 능력이 부족한 경우와 달리 의지의 충돌이 중심이다. 협상과 강제가 어느 범위까지 가능한지에 따라 소환 마법은 도구 사용보다 위험한 관계 맺기가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인간이 소환한 [[영적 존재]]가 요청을 하찮게 여기거나 소환 자체를 모욕으로 받아들여 협조를 거부한다. 부르면 복종해야 한다는 소환자의 기대가 깨지는 구조다.\n\n존재에게도 자기 일정과 자존심이 있다는 묘사는 압도적인 힘을 인격적인 관계로 바꾼다. 마지못해 돕거나 대가를 요구하고 소환자를 공격하는 등 거부의 정도는 달라질 수 있다.\n\n명령을 못 알아듣거나 능력이 부족한 경우와 달리 의지의 충돌이 중심이다. 협상과 강제가 어느 범위까지 가능한지에 따라 소환 마법은 도구 사용보다 위험한 관계 맺기가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

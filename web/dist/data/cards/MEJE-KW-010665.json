@@ -4,8 +4,8 @@
   "title": "액자 안쪽에 숨겨진 단서",
   "original": "Framed Clue",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00744",
+  "primary_tag_id": "ML-T00744",
   "description": {
     "definition": "그림이나 사진의 액자가 깨지거나 열리면서 뒤쪽에 감춰 둔 편지나 지도 같은 단서가 드러나는 장면이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.002.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "그림과 사진의 액자 내부와 뒤쪽에서 숨은 문서와 물건이 발견되는 장치다. 표면의 이미지보다 지지하는 구조가 진짜 단서를 품는다.\n\n우연한 파손과 좌절한 행동이 조사에 새로운 방향을 줄 수 있다. 앞서 그림의 내용만 해석하던 인물은 대상을 보는 방식 자체를 바꾼다.\n\n그림 속 암호를 푸는 것과는 위치가 다르다. 물리적으로 숨긴 단서가 있어야 하며 우연이 해결을 돕더라도 이후의 의미 해석은 별도의 과제다.",
+    "sections": [
+      [
+        "상세 설명",
+        "그림과 사진의 액자 내부와 뒤쪽에서 숨은 문서와 물건이 발견되는 장치다. 표면의 이미지보다 지지하는 구조가 진짜 단서를 품는다.\n\n우연한 파손과 좌절한 행동이 조사에 새로운 방향을 줄 수 있다. 앞서 그림의 내용만 해석하던 인물은 대상을 보는 방식 자체를 바꾼다.\n\n그림 속 암호를 푸는 것과는 위치가 다르다. 물리적으로 숨긴 단서가 있어야 하며 우연이 해결을 돕더라도 이후의 의미 해석은 별도의 과제다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

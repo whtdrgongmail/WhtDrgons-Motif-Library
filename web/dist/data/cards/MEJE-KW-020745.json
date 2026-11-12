@@ -4,8 +4,8 @@
   "title": "여러 자물쇠에 반복해서 쓰는 만능열쇠",
   "original": "Skeleton Key",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01428",
+  "primary_tag_id": "ML-T01428",
   "description": {
     "definition": "서로 다른 잠금장치에 공통으로 사용할 수 있으며 한 번 사용한다고 소모되지 않는 열쇠다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "한 번 쓰면 사라지는 공용 열쇠나 동일한 자물쇠 하나의 복제품과 구별한다. 여러 잠금을 여는 호환성과 재사용성이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 다른 여러 잠금장치를 열 수 있고 사용 뒤에도 남는 열쇠다. 문마다 별도의 열쇠를 찾게 하는 구조를 하나의 반복 사용 가능한 도구로 바꾼다.\n\n현실적인 설정에서는 특정 잠금장치의 집합에 통용되는 열쇠일 수 있다. 환상적인 설정은 적용 범위를 거의 모든 잠긴 문으로 넓혀 탐색의 자유와 침입 능력을 크게 높인다.\n\n한 번 사용하면 소모되는 범용 열쇠와는 자원 관리 방식이 다르다. 모든 장애물을 없애려는 의도가 아니라면 적용되지 않는 문이나 다른 종류의 보안을 두어 접근 능력의 한계를 설정할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 다른 여러 잠금장치를 열 수 있고 사용 뒤에도 남는 열쇠다. 문마다 별도의 열쇠를 찾게 하는 구조를 하나의 반복 사용 가능한 도구로 바꾼다.\n\n현실적인 설정에서는 특정 잠금장치의 집합에 통용되는 열쇠일 수 있다. 환상적인 설정은 적용 범위를 거의 모든 잠긴 문으로 넓혀 탐색의 자유와 침입 능력을 크게 높인다.\n\n한 번 사용하면 소모되는 범용 열쇠와는 자원 관리 방식이 다르다. 모든 장애물을 없애려는 의도가 아니라면 적용되지 않는 문이나 다른 종류의 보안을 두어 접근 능력의 한계를 설정할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

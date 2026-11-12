@@ -4,8 +4,8 @@
   "title": "덩치로 버티는 거구 졸개",
   "original": "Giant Mook",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00883",
+  "primary_tag_id": "ML-T00883",
   "description": {
     "definition": "일반 졸개와 비슷한 서사적 비중을 지니면서 체격·힘·내구성 때문에 더 큰 공략 노력을 요구하는 적이다.",
     "detail": "작품 사례: [[Klonoa Heroes: Densetsu no Star Medal]]에서는 거대한 졸개 무리를 겨우 헤치고 나면 더 큰 무리가 몰려와, 하급 적들만으로도 주인공을 압도한다.",
@@ -13,10 +13,10 @@
     "boundary": "독립된 [[성격]]과 지위를 가진 핵심 간부나 [[최종 보스]]와 구별하며, 크기 외의 특별한 기술이 중심인 정예병과도 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일반 졸개와 비슷한 서사적 지위를 유지하면서 체격과 내구성 때문에 더 많은 공격이나 공략을 요구하는 적이다. 크기는 전투 난도를 올리지만 인물의 지위까지 자동으로 높이지 않는다.\n\n큰 적은 속도보다 버티는 힘이나 단순한 공격으로 플레이어의 자원을 소모시킬 수 있다. 반복적으로 배치되면 하급 적도 위협이 될 수 있다는 전투 리듬을 만든다.\n\n독립된 [[성격]]과 지위를 지닌 간부·보스나 특별 기술이 중심인 정예 적과 구별한다. 크기와 내구성이 공략 노력의 주된 이유여야 한다.\n\n《[[Klonoa Heroes: Densetsu no Star Medal]]》에서는 거대한 하급 적들을 통과한 뒤 더 큰 무리가 이어져, 보스급 인물 없이도 졸개들의 체격과 수가 공략 부담을 높인다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일반 졸개와 비슷한 서사적 지위를 유지하면서 체격과 내구성 때문에 더 많은 공격이나 공략을 요구하는 적이다. 크기는 전투 난도를 올리지만 인물의 지위까지 자동으로 높이지 않는다.\n\n큰 적은 속도보다 버티는 힘이나 단순한 공격으로 플레이어의 자원을 소모시킬 수 있다. 반복적으로 배치되면 하급 적도 위협이 될 수 있다는 전투 리듬을 만든다.\n\n독립된 [[성격]]과 지위를 지닌 간부·보스나 특별 기술이 중심인 정예 적과 구별한다. 크기와 내구성이 공략 노력의 주된 이유여야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Klonoa Heroes: Densetsu no Star Medal]]》에서는 거대한 하급 적들을 통과한 뒤 더 큰 무리가 이어져, 보스급 인물 없이도 졸개들의 체격과 수가 공략 부담을 높인다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

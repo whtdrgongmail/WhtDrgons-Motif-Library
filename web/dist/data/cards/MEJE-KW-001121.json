@@ -4,8 +4,8 @@
   "title": "나이별 음식이라는 고정 이미지",
   "original": "Age-Stereotypical Food",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01382",
+  "primary_tag_id": "ML-T01382",
   "description": {
     "definition": "어떤 음식을 어린이나 어른의 것이라고 여기는 사회적 이미지. 인물이 그 기대와 다른 음식을 고를 때 취향보다 나이 규범이 먼저 평가되는 모습을 드러낸다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "음식에 어린이용과 어른용이라는 사회적 이미지를 붙인다. 인물의 실제 입맛보다 나이에 맞는 선택인지가 먼저 평가되는 관습이다.\n\n같은 시리얼도 화려한 마스코트와 단맛을 어린이에게 연결하고 건강과 단순함을 어른에게 강조할 수 있다. 어린 시절의 익숙한 음식이 편안함을 주어 계속 선택하는 경우도 있다.\n\n음식의 나이 이미지는 지역과 문맥에 따라 달라진다. 그것을 먹었다는 이유만으로 정신적인 성숙도를 확정하는 사실 설명은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "음식에 어린이용과 어른용이라는 사회적 이미지를 붙인다. 인물의 실제 입맛보다 나이에 맞는 선택인지가 먼저 평가되는 관습이다.\n\n같은 시리얼도 화려한 마스코트와 단맛을 어린이에게 연결하고 건강과 단순함을 어른에게 강조할 수 있다. 어린 시절의 익숙한 음식이 편안함을 주어 계속 선택하는 경우도 있다.\n\n음식의 나이 이미지는 지역과 문맥에 따라 달라진다. 그것을 먹었다는 이유만으로 정신적인 성숙도를 확정하는 사실 설명은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

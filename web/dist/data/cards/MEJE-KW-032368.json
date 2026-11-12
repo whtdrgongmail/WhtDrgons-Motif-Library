@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032368",
+  "kind": "keyword",
+  "title": "약실의 한 발을 별도로 계산하지 않기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "탄창을 교환하는 무기의 탄약 수를 표시할 때 약실에 남을 수 있는 탄환을 별도의 상태로 추적하지 않는 게임의 단순화다.",
+    "detail": "",
+    "usage": "[[사용자 인터페이스]]의 탄수 표시와 장전 애니메이션이 어느 수준까지 상태를 재현할지 정한다.",
+    "boundary": "탄창의 잔량을 공통 재고로 합치는 규칙과 독립적이며 실제 무기 운용의 조언이 아니다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "탄창 숫자만 관리하고 총 안에 따로 남은 한 발은 계산하지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "탄창의 잔량과 약실의 상태를 별도로 추적하지 않으면 게임의 탄약 표시가 단순해진다. 플레이어는 공통된 수치와 정해진 재장전 과정을 통해 현재 사용할 수 있는 자원을 이해한다.\n\n이는 탄창별 남은 탄약을 합치는 규칙과 구별되는 선택이다. 게임이 한 상태를 생략했다고 모든 탄약 처리가 같은 방식인 것은 아니다. 실제 무기의 운용과 안전 절차를 설명하는 자료로 옮겨 읽어서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "탄창의 잔량과 약실의 상태를 별도로 추적하지 않으면 게임의 탄약 표시가 단순해진다. 플레이어는 공통된 수치와 정해진 재장전 과정을 통해 현재 사용할 수 있는 자원을 이해한다.\n\n이는 탄창별 남은 탄약을 합치는 규칙과 구별되는 선택이다. 게임이 한 상태를 생략했다고 모든 탄약 처리가 같은 방식인 것은 아니다. 실제 무기의 운용과 안전 절차를 설명하는 자료로 옮겨 읽어서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
+}

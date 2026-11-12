@@ -1,0 +1,47 @@
+{
+  "id": "MM-UNSET-000513",
+  "kind": "keyword",
+  "title": "장비 무게",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "게임에서 장비에 부여해 착용·휴대의 부담과 행동 제약을 계산하는 무게 값이다. 실제 물리 질량의 정밀한 재현보다 해당 게임의 하중 규칙에서 맡는 기능이 기준이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "장비가 얼마나 부담이 되는지 계산에 쓰는 값이다. 합계가 한도를 넘으면 이동과 회피가 달라지거나 장착이 제한될 수 있지만 효과는 게임마다 다르다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "장비별 무게와 착용 합계, 보유품 전체의 무게는 서로 다른 값일 수 있다. 어떤 물건의 무게가 계산에 들어가며 어떤 한도와 비교하는지에 따라 장비 선택의 비용이 달라진다.\n\n연결 카드에서는 허용 하중을 높이면 강한 방어구와 빠른 회피를 함께 유지할 수 있다. 이는 장비 무게를 활용하는 특정 성장 구조이며, 소지품 가방의 칸 수나 현실 장비의 질량과 동일하지 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "장비별 무게와 착용 합계, 보유품 전체의 무게는 서로 다른 값일 수 있다. 어떤 물건의 무게가 계산에 들어가며 어떤 한도와 비교하는지에 따라 장비 선택의 비용이 달라진다.\n\n연결 카드에서는 허용 하중을 높이면 강한 방어구와 빠른 회피를 함께 유지할 수 있다. 이는 장비 무게를 활용하는 특정 성장 구조이며, 소지품 가방의 칸 수나 현실 장비의 질량과 동일하지 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

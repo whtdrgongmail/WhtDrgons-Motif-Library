@@ -4,8 +4,8 @@
   "title": "괴물 병균의 공포로 위생 행동을 권하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01968",
+  "primary_tag_id": "ML-T01968",
   "description": {
     "definition": "병균을 무서운 작은 괴물로 보여 주고 그 위협을 피하기 위해 양치 같은 위생 행동을 하도록 권하는 설명 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 예방·치료 효과에 대한 판단은 이 [[서사]] 카드의 범위가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "병균을 위협적인 작은 괴물로 의인화하고 이를 피할 행동을 제시한다. 보이지 않는 위험과 일상적인 위생 행동 사이의 관계를 눈에 보이는 대립으로 옮긴다.\n\n관객은 추상적인 설명보다 괴물의 공격과 방어라는 구조로 행동의 목적을 이해한다. 양치 같은 반복 행위에 위협을 막는 의미를 부여하는 교육적 표현이다.\n\n작품에 나온 행동이 실제로 충분한 예방이나 치료가 되는지는 별도 문제다. 괴물의 모습은 설명을 위한 의인화이지 병균의 실제 형태와 의도를 뜻하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "병균을 위협적인 작은 괴물로 의인화하고 이를 피할 행동을 제시한다. 보이지 않는 위험과 일상적인 위생 행동 사이의 관계를 눈에 보이는 대립으로 옮긴다.\n\n관객은 추상적인 설명보다 괴물의 공격과 방어라는 구조로 행동의 목적을 이해한다. 양치 같은 반복 행위에 위협을 막는 의미를 부여하는 교육적 표현이다.\n\n작품에 나온 행동이 실제로 충분한 예방이나 치료가 되는지는 별도 문제다. 괴물의 모습은 설명을 위한 의인화이지 병균의 실제 형태와 의도를 뜻하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

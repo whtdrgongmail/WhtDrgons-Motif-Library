@@ -4,26 +4,28 @@
   "title": "Goldilocks and the 3 Bears",
   "original": "Goldilocks and the 3 Bears",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00058",
+  "primary_tag_id": "ML-T00058",
   "description": {
     "definition": "이 카드는 서구권 애니메이션 영화 《Goldilocks and the 3 Bears》를 가리킨다. 이 라이브러리에서는 [[주인이 싫어하는 물건 개조]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Unstable Fables의 Goldilocks and the 3 Bears에서 곰 가족의 집을 과자로 바꾸어 주지만, 가족은 흔들리는 침대와 불쾌한 화장실을 싫어해 선의의 개조가 불만을 만든다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -41,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Goldilocks and the 3 Bears》라는 표제는 서구권 애니메이션 영화를 가리킨다.\n\n모티프 라이브러리에서는 [[주인이 싫어하는 물건 개조]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Goldilocks and the 3 Bears》라는 표제는 서구권 애니메이션 영화를 가리킨다.\n\n모티프 라이브러리에서는 [[주인이 싫어하는 물건 개조]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

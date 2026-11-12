@@ -4,8 +4,8 @@
   "title": "사회적으로 서툰 전형적 괴짜",
   "original": "Stereotypical Nerd",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-020952",
+  "primary_tag_id": "MEJE-KW-020952",
   "description": {
     "definition": "학구적·전문적 취향에 어색한 대인 관계와 낮은 인기 등을 묶어 한눈에 알아보게 만든 고정된 인물상이다.",
     "detail": "작품 사례: [[Phineas and Ferb]]에서 두펀스머츠가 카페 손님들의 멋을 빼앗자, 손님들이 한꺼번에 전형적인 괴짜 모습으로 바뀐다.",
@@ -13,11 +13,11 @@
     "boundary": "실제 취미 집단이나 지적 능력의 필연적인 특성을 설명하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.007.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "취향과 외모, 사회적 서투름을 하나의 묶음으로 제시하여 괴짜의 전형을 만든다. 단일한 기호만으로 인물의 성격을 알아보게 하는 편의가 있지만 지식과 사회성을 자동으로 연결하는 고정관념도 생긴다.\n\n실제 취미 집단이나 지적 능력의 필연적인 결과가 아니다. 묘사에서 어떤 특성들이 근거 없이 묶이는지 확인하고 개별 인물의 실제 능력과 구분해야 한다.\n\n《[[Phineas and Ferb]]》는 두펀스머츠가 손님들의 멋을 빼앗자 모두 전형적인 괴짜 외형으로 바뀌게 한다. 사회적 평가의 변화가 정형화된 디자인으로 즉시 표현된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "취향과 외모, 사회적 서투름을 하나의 묶음으로 제시하여 괴짜의 전형을 만든다. 단일한 기호만으로 인물의 성격을 알아보게 하는 편의가 있지만 지식과 사회성을 자동으로 연결하는 고정관념도 생긴다.\n\n실제 취미 집단이나 지적 능력의 필연적인 결과가 아니다. 묘사에서 어떤 특성들이 근거 없이 묶이는지 확인하고 개별 인물의 실제 능력과 구분해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Phineas and Ferb]]》는 두펀스머츠가 손님들의 멋을 빼앗자 모두 전형적인 괴짜 외형으로 바뀌게 한다. 사회적 평가의 변화가 정형화된 디자인으로 즉시 표현된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "영국의 만화 출판물",
   "original": "British Comics",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00051",
+  "primary_tag_id": "ML-T00051",
   "description": {
     "definition": "영국에서 제작·출판된 만화와 연재물의 범주. 독자층과 출판 형식이 작품의 모양을 달리 만들 수 있다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "02.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영국에서 형성된 만화 출판 문화와 작품군을 가리킨다. 여러 연재를 한 권에 싣는 선집형 잡지와 정기 특별호, 연간본 등이 주요 출판 형식으로 다루어진다.\n\n문자 중심의 이야기 잡지에서 발전한 배경 때문에 그림 이야기와 산문이 함께 실리는 형태도 존재한다. 유머와 모험 등 다른 성격의 연재를 한 간행물에서 접하는 독서 경험이 형성된다.\n\n단일한 그림체나 장르를 뜻하지는 않는다. 국적 범주와 출판 관행을 구분하여 설명해야 하며, 역사적으로 흔했던 형식을 오늘날 모든 작품의 필수 조건으로 보아서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영국에서 형성된 만화 출판 문화와 작품군을 가리킨다. 여러 연재를 한 권에 싣는 선집형 잡지와 정기 특별호, 연간본 등이 주요 출판 형식으로 다루어진다.\n\n문자 중심의 이야기 잡지에서 발전한 배경 때문에 그림 이야기와 산문이 함께 실리는 형태도 존재한다. 유머와 모험 등 다른 성격의 연재를 한 간행물에서 접하는 독서 경험이 형성된다.\n\n단일한 그림체나 장르를 뜻하지는 않는다. 국적 범주와 출판 관행을 구분하여 설명해야 하며, 역사적으로 흔했던 형식을 오늘날 모든 작품의 필수 조건으로 보아서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "늘 표적이 되는 인물",
   "original": "Designated Victim",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02586",
+  "primary_tag_id": "ML-T02586",
   "description": {
     "definition": "다른 인물도 많은데 유독 한 사람만 계속 납치나 공격의 대상이 되는 반복 구성. 우연처럼 보이는 위험이 그 인물에게 집중된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.012",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 인물 가운데 특정 인물에게 납치와 공격이 유독 자주 집중되는 구성이다. 개별 사건은 달라도 같은 사람이 위험을 담당하는 반복적인 역할이 된다.\n\n다른 동료가 계획을 해결하는 동안 당사자는 생존과 탈출에 집중하게 된다. 항상 무능하거나 실수가 많아서 표적이 되는 것은 아니며 선택의 이유가 충분히 설명되지 않기도 한다.\n\n한 회차의 피해자와는 반복의 정도가 다르다. 익숙한 구출 구조를 유지하지만 자율적인 역할이 줄 수 있으며, 당사자가 반복을 의식하는 대사는 관객의 의문을 농담으로 다룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 인물 가운데 특정 인물에게 납치와 공격이 유독 자주 집중되는 구성이다. 개별 사건은 달라도 같은 사람이 위험을 담당하는 반복적인 역할이 된다.\n\n다른 동료가 계획을 해결하는 동안 당사자는 생존과 탈출에 집중하게 된다. 항상 무능하거나 실수가 많아서 표적이 되는 것은 아니며 선택의 이유가 충분히 설명되지 않기도 한다.\n\n한 회차의 피해자와는 반복의 정도가 다르다. 익숙한 구출 구조를 유지하지만 자율적인 역할이 줄 수 있으며, 당사자가 반복을 의식하는 대사는 관객의 의문을 농담으로 다룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

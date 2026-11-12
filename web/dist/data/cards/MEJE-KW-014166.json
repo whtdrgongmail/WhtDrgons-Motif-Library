@@ -4,8 +4,8 @@
   "title": "헬멧 장착 조준기",
   "original": "Helmet-Mounted Sight",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01445",
+  "primary_tag_id": "ML-T01445",
   "description": {
     "definition": "착용자의 시야에 조준 정보를 표시하고 시선 방향을 무기나 기체의 표적 지정과 연결하는 장비다.",
     "detail": "작품 사례: [[Full Metal Panic!]]의 조종사는 머리 움직임을 읽는 띠를 착용하며, 고개를 돌리는 것만으로 Arm Slave의 머리 기관총을 적에게 향하게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "정보 표시만 하는 화면과 달리 실제 조준 기능이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "머리를 돌리는 행동이 표적 지정으로 이어지면 시야와 무기 조작이 하나의 동작에 연결된다. 착용자의 눈앞에 제공되는 정보도 실제 조준을 보조하는 기능을 맡는다.\n\n단순히 정보를 보여 주는 화면과 달리 무기나 기체가 어디를 겨누는지에 작용해야 한다. 장비의 외형보다 시선·머리 방향과 표적 지정 사이의 작동 관계가 중요하다.\n\n[[Full Metal Panic!]]의 조종사는 머리 움직임을 읽는 띠를 착용한다. 고개를 돌리는 것만으로 Arm Slave의 머리 기관총을 적 쪽으로 향하게 해 신체 동작과 조준을 연결한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "머리를 돌리는 행동이 표적 지정으로 이어지면 시야와 무기 조작이 하나의 동작에 연결된다. 착용자의 눈앞에 제공되는 정보도 실제 조준을 보조하는 기능을 맡는다.\n\n단순히 정보를 보여 주는 화면과 달리 무기나 기체가 어디를 겨누는지에 작용해야 한다. 장비의 외형보다 시선·머리 방향과 표적 지정 사이의 작동 관계가 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Full Metal Panic!]]의 조종사는 머리 움직임을 읽는 띠를 착용한다. 고개를 돌리는 것만으로 Arm Slave의 머리 기관총을 적 쪽으로 향하게 해 신체 동작과 조준을 연결한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

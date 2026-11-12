@@ -4,8 +4,8 @@
   "title": "노이즈그라인드",
   "original": "Noisegrind",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-012945",
+  "primary_tag_id": "MEJE-KW-012945",
   "description": {
     "definition": "[[그라인드코어]]의 극단성을 더 밀어붙여 소음과 [[비명]]·즉흥성을 중심에 두는 음악 양식이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[노이즈그라인드]]는 [[그라인드코어]]의 짧고 강한 전개를 소음의 질감, 비명, 불규칙한 연주로 확장하는 하위 갈래다. 소리의 밀도가 높아 악기별 선율이나 박자를 분명히 구별하기 어려운 경우가 있다. 일부 연주는 즉흥적으로 구성되지만, 즉흥연주 자체가 필수 조건은 아니다.\n\n이 장르는 노이즈 록이나 거친 소음 음악과 접점을 갖는다. 다만 모든 소음 음악이 그라인드코어의 빠른 전개나 극단적인 곡 구조를 공유하지는 않는다. 개별 곡을 분석할 때에는 소음의 강도뿐 아니라 연주 단위의 길이, 발성, 속도 변화가 어떻게 함께 작동하는지 확인한다.\n\n가상 예시: 수십 초 길이의 곡에 빠른 드럼, 심하게 왜곡된 기타 소음과 불규칙한 비명을 밀집시킨다면 노이즈그라인드의 특징을 설명할 수 있다. 긴 주변음 녹음을 계속 재생하는 곡은 소음이 있다는 이유만으로 같은 장르에 들어가지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[노이즈그라인드]]는 [[그라인드코어]]의 짧고 강한 전개를 소음의 질감, 비명, 불규칙한 연주로 확장하는 하위 갈래다. 소리의 밀도가 높아 악기별 선율이나 박자를 분명히 구별하기 어려운 경우가 있다. 일부 연주는 즉흥적으로 구성되지만, 즉흥연주 자체가 필수 조건은 아니다.\n\n이 장르는 노이즈 록이나 거친 소음 음악과 접점을 갖는다. 다만 모든 소음 음악이 그라인드코어의 빠른 전개나 극단적인 곡 구조를 공유하지는 않는다. 개별 곡을 분석할 때에는 소음의 강도뿐 아니라 연주 단위의 길이, 발성, 속도 변화가 어떻게 함께 작동하는지 확인한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 수십 초 길이의 곡에 빠른 드럼, 심하게 왜곡된 기타 소음과 불규칙한 비명을 밀집시킨다면 노이즈그라인드의 특징을 설명할 수 있다. 긴 주변음 녹음을 계속 재생하는 곡은 소음이 있다는 이유만으로 같은 장르에 들어가지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

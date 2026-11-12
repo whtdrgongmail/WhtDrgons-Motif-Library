@@ -4,8 +4,8 @@
   "title": "비인간을 다시 섞은 혼종 괴물",
   "original": "Hybrid Monster",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01137",
+  "primary_tag_id": "ML-T01137",
   "description": {
     "definition": "이미 비인간 종인 존재나 기존 혼종에게 추가 혼합·변형이 가해져 여러 성질이 겹친 괴물이 되는 [[설정]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "인간과 다른 종 사이에서 처음 태어난 자손과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "12",
+    "code": "12.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비인간 종이나 이미 혼합된 [[괴물]]에 다른 비인간의 성질을 다시 더한다. 여러 환상적 존재의 특징이 겹치는 조합이다.\n\n구성 요소가 일반 인간과 동물이 아니라 신화적 존재나 외계 종, 괴물일 수 있다. 조합의 가짓수와 결합 원인은 한 가지로 고정되지 않는다.\n\n인간과 다른 종 사이의 첫 자손이라는 조건과는 구별한다. 원문의 비인간 간 혼합 범위와 정본의 추가 혼합이라는 조건이 겹치는 부분만 활용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "비인간 종이나 이미 혼합된 [[괴물]]에 다른 비인간의 성질을 다시 더한다. 여러 환상적 존재의 특징이 겹치는 조합이다.\n\n구성 요소가 일반 인간과 동물이 아니라 신화적 존재나 외계 종, 괴물일 수 있다. 조합의 가짓수와 결합 원인은 한 가지로 고정되지 않는다.\n\n인간과 다른 종 사이의 첫 자손이라는 조건과는 구별한다. 원문의 비인간 간 혼합 범위와 정본의 추가 혼합이라는 조건이 겹치는 부분만 활용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

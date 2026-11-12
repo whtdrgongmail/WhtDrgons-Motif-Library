@@ -4,8 +4,8 @@
   "title": "옛 취향에 맞춘 어긋난 선물",
   "original": "Gift for an Outgrown Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MEJE-KW-011370",
+  "primary_tag_id": "MEJE-KW-011370",
   "description": {
     "definition": "받는 사람의 현재 관심사를 알지 못해 이미 지나간 취향이나 성장 단계에 맞는 선물을 주는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "처음부터 취향을 잘못 짐작한 경우와 달리 과거에는 맞았던 정보가 현재에는 낡았다는 점이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.008.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_pattern",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "오랜만에 만난 조카에게 예전에 좋아하던 장난감을 선물하지만, 조카는 이미 그 장난감을 갖고 놀 나이가 지났다.",
     "review_status": "reviewed",
@@ -30,5 +36,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주는 사람이 받는 사람의 현재 취향을 알지 못해 과거에는 적합했지만 지금은 지나간 관심사에 맞춰 선물을 고르는 상황이다. 정보가 틀렸다기보다 오래되었다.\n\n선물은 주는 사람의 기억이 관계에 남아 있음을 보여 주지만, 현재 상대가 달라졌다는 사실을 놓치면 어색함과 소외감이 생긴다. 세대 변화나 연락의 단절을 드러내는 장면으로 쓰일 수 있다.\n\n처음부터 취향을 잘못 추측한 경우와 구별한다. 과거에는 맞았던 정보가 현재에는 낡았다는 시간적 간극이 필요하다.\n\n가상 예: 어릴 때 공룡을 좋아하던 조카에게 친척이 현재 취향을 확인하지 않고 공룡 장난감을 선물한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주는 사람이 받는 사람의 현재 취향을 알지 못해 과거에는 적합했지만 지금은 지나간 관심사에 맞춰 선물을 고르는 상황이다. 정보가 틀렸다기보다 오래되었다.\n\n선물은 주는 사람의 기억이 관계에 남아 있음을 보여 주지만, 현재 상대가 달라졌다는 사실을 놓치면 어색함과 소외감이 생긴다. 세대 변화나 연락의 단절을 드러내는 장면으로 쓰일 수 있다.\n\n처음부터 취향을 잘못 추측한 경우와 구별한다. 과거에는 맞았던 정보가 현재에는 낡았다는 시간적 간극이 필요하다."
+      ],
+      [
+        "사례",
+        "가상 예: 어릴 때 공룡을 좋아하던 조카에게 친척이 현재 취향을 확인하지 않고 공룡 장난감을 선물한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

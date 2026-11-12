@@ -1,30 +1,33 @@
 {
   "id": "MEJE-KW-022047",
   "kind": "keyword",
-  "title": "신체 볼거리를 주된 매력으로 내세우는 드라마",
+  "title": "신체 볼거리를 주된 매력으로 내세우는 방송 프로그램",
   "original": "Jiggle Show",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-022047",
+  "primary_tag_id": "MEJE-KW-022047",
   "description": {
-    "definition": "인물의 몸과 노출 의상, 느린 동작 같은 성적 볼거리를 작품의 주요 관람·홍보 요소로 앞세우는 텔레비전 프로그램의 구성 방식이다.",
-    "detail": "작품 사례: 《[[베이워치]]》는 여성 인물과 느린 동작의 결합을 주요 볼거리로 사용하는 사례로 제시된다. 특정 장면을 새로 만들지 않고 원문이 설명한 프로그램의 연출 특징을 연결했다.",
+    "definition": "인물의 몸과 노출 의상, 느린 동작 같은 성적 볼거리를 작품의 주요 관람·홍보 요소로 앞세우는 방송 프로그램 유형이다.",
+    "detail": "작품 사례: 《[[베이워치]]》는 여성 인물과 느린 동작을 반복적인 시각적 볼거리로 사용한다. 신체 연출이 프로그램의 지속적인 시청 매력으로 작동한다.",
     "usage": "",
     "boundary": "실제 신체가 흔들리는 장면이 반드시 필요하지 않으며 줄거리가 없다는 뜻도 아니다. 해당 볼거리가 지속적인 판매·시청 동기로 강조되는지를 본다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.408.003",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "broadcast_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이 [[텔레비전]] 프로그램 구성은 인물의 신체, 노출 의상, 느린 동작 같은 성적 볼거리를 주요 관람 동기와 홍보 요소로 강조한다. 사건이나 인물 관계가 존재하더라도 시청을 유도하는 핵심 약속은 신체를 보여 주는 연출에 놓일 수 있다.\n\n모든 이야기 장면에서 신체가 흔들리거나 줄거리가 없어야 한다는 뜻은 아니다. 해당 볼거리가 반복적으로 판매와 시청을 견인하는지, 프로그램의 구성과 홍보에서 어떤 비중을 차지하는지가 판단 기준이다. 분석에서는 카메라와 편집이 인물을 어떻게 대상화하는지, 그 시선이 서사와 어떤 관계를 맺는지 함께 다룬다.\n\n작품 사례: 《[[베이워치]]》는 해변 구조대의 사건과 함께 배우의 신체와 느린 동작을 반복적인 시각적 볼거리로 제시한다. 인물의 외형을 시청 동기로 삼는 연출을 분석할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 [[텔레비전]] 프로그램 구성은 인물의 신체, 노출 의상, 느린 동작 같은 성적 볼거리를 주요 관람 동기와 홍보 요소로 강조한다. 사건이나 인물 관계가 존재하더라도 시청을 유도하는 핵심 약속은 신체를 보여 주는 연출에 놓일 수 있다.\n\n모든 이야기 장면에서 신체가 흔들리거나 줄거리가 없어야 한다는 뜻은 아니다. 해당 볼거리가 반복적으로 판매와 시청을 견인하는지, 프로그램의 구성과 홍보에서 어떤 비중을 차지하는지가 판단 기준이다. 분석에서는 카메라와 편집이 인물을 어떻게 대상화하는지, 그 시선이 서사와 어떤 관계를 맺는지 함께 다룬다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[베이워치]]》는 해변 구조대의 사건과 함께 배우의 신체와 느린 동작을 반복적인 시각적 볼거리로 제시한다. 인물의 외형을 시청 동기로 삼는 연출을 분석할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": false
+  }
 }

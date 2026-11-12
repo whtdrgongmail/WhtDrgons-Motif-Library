@@ -4,22 +4,44 @@
   "title": "신분",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01339",
+  "primary_tag_id": "ML-T01339",
   "description": {
-    "definition": "",
+    "definition": "사회 안에서 개인이나 집단이 차지하는 위치와 그 위치에 결부된 권리, 의무, 지위 또는 대우.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 3,
+  "classification": {
+    "code": "15.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "사회에서 어떤 자리에 놓였는지, 그에 따라 어떤 권리와 의무를 갖는지를 나타내는 위치다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "신분은 [[사회적 위치]]가 개인의 선택을 넘어 권리와 의무의 차이를 만드는 경우를 가리킨다. 성별을 기준으로 집단을 구분하고 특정 집단에 강제 노동을 부과하는 설정에서는 노동 여부보다 거부하거나 떠날 자유가 제한되는 조건이 중요하다.\n\n직업은 개인이 맡는 일이나 역할이고 신분은 사회 제도가 부여하는 지위다. 한 사람이 일을 한다는 사실만으로 신분 차별이 성립하지는 않으며, 지위에 따른 강제와 권리 제한이 나타나야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "신분은 [[사회적 위치]]가 개인의 선택을 넘어 권리와 의무의 차이를 만드는 경우를 가리킨다. 성별을 기준으로 집단을 구분하고 특정 집단에 강제 노동을 부과하는 설정에서는 노동 여부보다 거부하거나 떠날 자유가 제한되는 조건이 중요하다.\n\n직업은 개인이 맡는 일이나 역할이고 신분은 사회 제도가 부여하는 지위다. 한 사람이 일을 한다는 사실만으로 신분 차별이 성립하지는 않으며, 지위에 따른 강제와 권리 제한이 나타나야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

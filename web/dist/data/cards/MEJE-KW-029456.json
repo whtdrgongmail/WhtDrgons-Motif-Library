@@ -4,8 +4,8 @@
   "title": "말을 탄 채 벌이는 전투",
   "original": "Mounted Combat",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00778",
+  "primary_tag_id": "ML-T00778",
   "description": {
     "definition": "말에 탄 인물이 탈것을 움직이면서 상대와 싸우는 전투 유형이다.",
     "detail": "작품 사례: 《[[반지의 제왕: 두 개의 탑(영화)]]》은 헬름 협곡의 전투에서 말을 탄 병력의 돌격을 통해 보병 대열과 맞붙는 기마 전투를 보여 준다.",
@@ -13,10 +13,10 @@
     "boundary": "말을 타고 이동만 하다가 내려 싸우는 것과 구별하며 실제 승마 전투의 기술 지침은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기수는 상대를 공격하는 동시에 말의 방향과 거리를 조절해야 한다. 탈것의 움직임이 싸움의 위치를 바꾸므로 두 존재의 행동이 하나의 전투 단위가 된다.\n\n화면은 안정적인 결투처럼 보여 줄 수도 있고 속도와 불안정함을 강조할 수도 있다. 말의 실제 반응과 무대의 안전한 재현은 서로 다른 제작 조건이다.\n\n말을 타고 전장에 도착했다는 사실만으로 탑승 전투는 아니다. 탄 상태의 이동과 공격이 동시에 승부의 조건이 되는 유형이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기수는 상대를 공격하는 동시에 말의 방향과 거리를 조절해야 한다. 탈것의 움직임이 싸움의 위치를 바꾸므로 두 존재의 행동이 하나의 전투 단위가 된다.\n\n화면은 안정적인 결투처럼 보여 줄 수도 있고 속도와 불안정함을 강조할 수도 있다. 말의 실제 반응과 무대의 안전한 재현은 서로 다른 제작 조건이다.\n\n말을 타고 전장에 도착했다는 사실만으로 탑승 전투는 아니다. 탄 상태의 이동과 공격이 동시에 승부의 조건이 되는 유형이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

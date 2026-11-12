@@ -4,8 +4,8 @@
   "title": "불길한 파이프오르간",
   "original": "Ominous Pipe Organ",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02059",
+  "primary_tag_id": "ML-T02059",
   "description": {
     "definition": "파이프오르간의 울림으로 장면에 불길하고 위협적인 분위기를 조성하는 음악 연출이다.",
     "detail": "작품 사례: [[Super Mario Odyssey]]의 달 예배당에서는 경건하던 오르간 음악이 쿠파와의 대치 직전에 불길한 음악으로 바뀌고, 마리오가 함정 아래 전장으로 떨어지는 상황의 위협을 강조한다.",
@@ -13,10 +13,10 @@
     "boundary": "종교 음악이나 오르간 연주 일반이 아니라 불길한 정서의 전달이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.007.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,33 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000880",
+      "work_card_id": "MM-MEDIA-001857",
       "description_ko": "Super Mario Odyssey의 달 예배당에서는 경건하던 오르간 음악이 쿠파와의 대치 직전에 불길한 음악으로 바뀌고, 마리오가 함정 아래 전장으로 떨어지는 상황의 위협을 강조한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "오르간의 음색과 울림이 장면의 위협적인 정서를 전달한다. 악기가 등장하더라도 분류의 기준은 그 음악이 불길함을 만드는 기능이다.\n\n경건하게 들리던 음악이 바뀌면 공간에 대한 기대도 달라진다. 대치와 함정의 공개에 맞춘 변화는 안전한 장소라는 첫인상을 뒤집는다.\n\n종교 음악이나 오르간 연주 전체가 불길한 것은 아니다. 해당 장면에서 어떤 정서와 사건을 강조하는지 확인해야 한다.\n\n[[Super Mario Odyssey]]의 달 예배당은 오르간 음악이 불길해지며 쿠파 대치와 함정의 위협을 강조한다.\n\n[[Super Mario Odyssey]]",
+    "sections": [
+      [
+        "상세 설명",
+        "오르간의 음색과 울림이 장면의 위협적인 정서를 전달한다. 악기가 등장하더라도 분류의 기준은 그 음악이 불길함을 만드는 기능이다.\n\n경건하게 들리던 음악이 바뀌면 공간에 대한 기대도 달라진다. 대치와 함정의 공개에 맞춘 변화는 안전한 장소라는 첫인상을 뒤집는다.\n\n종교 음악이나 오르간 연주 전체가 불길한 것은 아니다. 해당 장면에서 어떤 정서와 사건을 강조하는지 확인해야 한다."
+      ],
+      [
+        "사례",
+        "[[Super Mario Odyssey]]의 달 예배당은 오르간 음악이 불길해지며 쿠파 대치와 함정의 위협을 강조한다."
+      ],
+      [
+        "관련 작품",
+        "[[Super Mario Odyssey]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

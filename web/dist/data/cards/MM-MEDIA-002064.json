@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "얼음과 불의 노래",
   "original": "A Song of Ice and Fire",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "A Song of Ice and Fire"
+  ],
+  "tag_id": "ML-T00066",
   "primary_tag_id": "ML-T00066",
   "description": {
     "definition": "《얼음과 불의 노래》는 문학 작품이다.",
-    "detail": "작품 사례: 《얼음과 불의 노래》에서 티리온은 조프리 살해를 거짓 자백하면 목숨을 건질 수 있다는 권유를 받지만, 왕과 혈족을 죽였다는 낙인을 거부한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.007",
     "review_status": "provisional",
@@ -39,6 +41,14 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-008015",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-016220",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-021424",
       "row_version": 1
     },
@@ -55,5 +65,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 해씩 지속되는 계절을 가진 웨스테로스에서 귀족들의 지배와 생존을 다루는 판타지 소설 연작이다. 긴 여름과 잔혹한 겨울의 반복이 사회 전체의 준비와 불안에 영향을 준다.\n\n무력을 중시하는 지배층이 가난한 다수의 권리를 제한하는 질서가 정치적 갈등의 기반이다. 과거에는 흔했던 [[마법]]이 쇠퇴한 세계라는 조건과 함께 권력 및 계절의 위협을 구성하며 텔레비전 각색과 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 해씩 지속되는 계절을 가진 웨스테로스에서 귀족들의 지배와 생존을 다루는 판타지 소설 연작이다. 긴 여름과 잔혹한 겨울의 반복이 사회 전체의 준비와 불안에 영향을 준다.\n\n무력을 중시하는 지배층이 가난한 다수의 권리를 제한하는 질서가 정치적 갈등의 기반이다. 과거에는 흔했던 [[마법]]이 쇠퇴한 세계라는 조건과 함께 권력 및 계절의 위협을 구성하며 텔레비전 각색과 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

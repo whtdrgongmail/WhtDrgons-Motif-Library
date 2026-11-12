@@ -5,8 +5,8 @@
   "original": "Damage Does Not Carry Through Armor",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02098",
+  "primary_tag_id": "ML-T02098",
   "description": {
     "definition": "[[방패]]나 [[장갑]]과 본체 체력이 별도 층으로 나뉘어, 한 층을 소진시킨 공격의 남은 피해가 다음 층으로 넘어가지 않는 방어 규칙이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "보호막과 본체가 단순 합산된 체력인 경우, 초과 피해가 다음 층에 전달되는 규칙과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "방어층을 깨는 공격의 남은 피해를 버리면 큰 한 방도 한 층만 제거한다. 다음 층을 해치려면 다시 공격해야 해 타격 횟수의 가치가 커진다.\n\n한 공격의 크기를 늘려도 남는 피해가 사라지면 층을 넘는 속도는 빨라지지 않을 수 있다. 여러 번 공격하는 전략과 거대한 한 방의 효율이 다르게 평가되는 이유다.\n\n보호막과 체력을 단순 합산하는 방식과는 다르다. 초과 피해가 다음 층에 전달되지 않아야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "방어층을 깨는 공격의 남은 피해를 버리면 큰 한 방도 한 층만 제거한다. 다음 층을 해치려면 다시 공격해야 해 타격 횟수의 가치가 커진다.\n\n한 공격의 크기를 늘려도 남는 피해가 사라지면 층을 넘는 속도는 빨라지지 않을 수 있다. 여러 번 공격하는 전략과 거대한 한 방의 효율이 다르게 평가되는 이유다.\n\n보호막과 체력을 단순 합산하는 방식과는 다르다. 초과 피해가 다음 층에 전달되지 않아야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

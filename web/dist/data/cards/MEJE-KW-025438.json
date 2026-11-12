@@ -5,8 +5,8 @@
   "original": "A Building with No Nonmagical Entrance",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01324",
+  "primary_tag_id": "ML-T01324",
   "description": {
     "definition": "입구가 없거나 마법적 통로만 열려 있어 능력 없는 사람은 출입하지 못하는 건축 공간이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "평범한 잠금장치나 높은 문턱과 달리 초자연적 진입 조건이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "14",
+    "code": "14.010.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "입구가 없거나 마법 통로만 있어 비능력자는 건물에 드나들지 못한다. 건축의 접근 조건이 초자연적인 자격과 연결된다.\n\n은둔처로 편한 구조가 안에 갇힌 사람에게는 감옥이 될 수 있다. 들어가는 능력과 나오는 능력이 공간의 의미를 바꾼다.\n\n보통 잠금장치와 높은 문턱과 다르다. 마법적인 진입 조건이 실제로 필요해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "입구가 없거나 마법 통로만 있어 비능력자는 건물에 드나들지 못한다. 건축의 접근 조건이 초자연적인 자격과 연결된다.\n\n은둔처로 편한 구조가 안에 갇힌 사람에게는 감옥이 될 수 있다. 들어가는 능력과 나오는 능력이 공간의 의미를 바꾼다.\n\n보통 잠금장치와 높은 문턱과 다르다. 마법적인 진입 조건이 실제로 필요해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

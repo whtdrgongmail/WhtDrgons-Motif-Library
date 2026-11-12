@@ -4,28 +4,28 @@
   "title": "남을 구하기 위해 치르는 희생",
   "original": "Heroic Sacrifice",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00807",
+  "primary_tag_id": "ML-T00807",
   "description": {
     "definition": "다른 사람을 위해 위험을 감수한 결과 죽음·심각한 손상·능력 상실 같은 큰 대가를 치르는 이타적 행동이다.",
     "detail": "도입의 희생은 이야기의 분위기를 정하고, 중간의 희생은 살아남은 인물의 변화에 작용하며, 결말의 희생은 승리의 대가와 남은 감정을 정한다. 모두를 살리려고 한 사람이 자원하거나 적을 붙잡아 시간을 버는 모습은 핵심 구조의 구체적 실현이다. 정보 부족으로 희생의 필요성을 오판한 경우는 결과와 의도를 따로 평가한다.\n\n작품 사례: [[Tobot Galaxy Detectives]]에서 RO-B는 자신을 붙들고 있는 Rocket까지 블랙홀에 빨려들지 않도록 붙잡힌 팔을 잘라 낸다. RO-B가 빨려드는 동안 Rocket은 탈출한다.",
     "usage": "구한 대상과 치른 대가, 계획 여부를 함께 기록한다.",
-    "boundary": "위험만 감수하고 아무 손실도 없는 행동이나 아무도 돕지 못한 희생은 별도 변주로 다룬다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "동료가 살아남도록 자신이 위험한 자리를 맡고 돌아오지 못한다.\n\n작품 사례: [[Tobot Galaxy Detectives]]에서 RO-B는 자신을 붙들고 있는 Rocket까지 블랙홀에 빨려들지 않도록 붙잡힌 팔을 잘라 낸다. RO-B가 빨려드는 동안 Rocket은 탈출한다.",
+    "easy_ko": "동료가 살아남도록 자신이 위험한 자리를 맡고 돌아오지 못한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "도입의 희생은 이야기의 분위기를 정하고, 중간의 희생은 살아남은 인물의 변화에 작용하며, 결말의 희생은 승리의 대가와 남은 감정을 정한다. 모두를 살리려고 한 사람이 자원하거나 적을 붙잡아 시간을 버는 모습은 핵심 구조의 구체적 실현이다. 정보 부족으로 희생의 필요성을 오판한 경우는 결과와 의도를 따로 평가한다.\n\n희생이 사전에 계획되었는지, 위기에서 즉흥적으로 결정되었는지에 따라 인물의 선택이 달라진다.\n\n위험만 감수하고 아무 손실도 없는 행동이나 아무도 돕지 못한 희생은 별도 변주로 다룬다.\n\n작품 사례: 《[[Tobot Galaxy Detectives]]》의 9화 「My Friend RO-B!」에서 RO-B는 자신을 붙잡은 Rocket까지 블랙홀에 빨려들지 않도록 붙잡힌 자기 팔을 잘라 낸다. RO-B가 빨려드는 동안 Rocket은 탈출한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "도입의 희생은 이야기의 분위기를 정하고, 중간의 희생은 살아남은 인물의 변화에 작용하며, 결말의 희생은 승리의 대가와 남은 감정을 정한다. 모두를 살리려고 한 사람이 자원하거나 적을 붙잡아 시간을 버는 모습은 핵심 구조의 구체적 실현이다. 정보 부족으로 희생의 필요성을 오판한 경우는 결과와 의도를 따로 평가한다.\n\n희생이 사전에 계획되었는지, 위기에서 즉흥적으로 결정되었는지에 따라 인물의 선택이 달라진다.\n\n위험만 감수하고 아무 손실도 없는 행동이나 아무도 돕지 못한 희생은 별도 변주로 다룬다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[Tobot Galaxy Detectives]]》의 9화 「My Friend RO-B!」에서 RO-B는 자신을 붙잡은 Rocket까지 블랙홀에 빨려들지 않도록 붙잡힌 자기 팔을 잘라 낸다. RO-B가 빨려드는 동안 Rocket은 탈출한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

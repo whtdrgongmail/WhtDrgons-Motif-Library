@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F17",
   "description": {
-    "definition": "",
+    "definition": "마법으로 새로운 물체·존재나 현상을 만들어 내는 능력이며, 만들어진 대상의 지속 조건은 작품의 규칙에 따라 달라진다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "17",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "마법을 써서 전에는 없던 물건이나 현상을 만든다. 만든 것이 계속 남는지는 작품마다 다르다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "창조 마법은 이미 있는 재료의 모양만 바꾸는 일과 달리 새로운 대상이나 현상을 만든다. 연결 문맥에서는 실을 짜는 행위가 실제 불이나 별처럼 직물이 아닌 것을 생성하는 능력으로 나타난다. 창조자의 행동과 만들어진 결과 사이에 어떤 규칙이 있는지 확인해야 한다.\n\n만들어진 것이 창조자의 힘이 유지되는 동안에만 존재할 수도 있고, 생성 뒤에는 독립적으로 남을 수도 있다. 정해진 시간이 지나 사라지는 소환과도 조건이 다를 수 있으므로 사라지는 원인을 구분한다.\n\n모든 창조 마법이 살아 있는 존재를 만드는 것은 아니다. 생명체의 생성은 [[생명 창조]]와 겹칠 수 있지만, 물건이나 빛·불을 만드는 경우까지 생명 창조로 분류하지 않는다. 무엇을 만들 수 있는지와 결과의 지속성은 별도로 적는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "창조 마법은 이미 있는 재료의 모양만 바꾸는 일과 달리 새로운 대상이나 현상을 만든다. 연결 문맥에서는 실을 짜는 행위가 실제 불이나 별처럼 직물이 아닌 것을 생성하는 능력으로 나타난다. 창조자의 행동과 만들어진 결과 사이에 어떤 규칙이 있는지 확인해야 한다.\n\n만들어진 것이 창조자의 힘이 유지되는 동안에만 존재할 수도 있고, 생성 뒤에는 독립적으로 남을 수도 있다. 정해진 시간이 지나 사라지는 소환과도 조건이 다를 수 있으므로 사라지는 원인을 구분한다.\n\n모든 창조 마법이 살아 있는 존재를 만드는 것은 아니다. 생명체의 생성은 [[생명 창조]]와 겹칠 수 있지만, 물건이나 빛·불을 만드는 경우까지 생명 창조로 분류하지 않는다. 무엇을 만들 수 있는지와 결과의 지속성은 별도로 적는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

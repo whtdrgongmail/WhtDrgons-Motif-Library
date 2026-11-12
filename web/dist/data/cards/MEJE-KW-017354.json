@@ -4,8 +4,8 @@
   "title": "원치 않는 친족의 구애",
   "original": "Incest-ant Admirer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00981",
+  "primary_tag_id": "ML-T00981",
   "description": {
     "definition": "가족이나 친척이 자신에게 연애 감정을 보이지만, 상대는 친족 관계를 알고 그 구애를 불편해하거나 거부하는 관계 구도다. 두 사람의 감정과 경계가 비대칭이라는 점이 중심이 된다.",
     "detail": "작품 사례: 《[[절대절망소녀 단간론파 Another Episode]]》의 카논은 사촌 레온의 거절에도 구애를 계속하지만, 레온은 그녀를 여동생처럼 여겨 부담스러워한다.",
@@ -13,14 +13,20 @@
     "boundary": "서로 연애를 원하거나, 구애받는 쪽이 아직 친족임을 모르는 경우는 이 구도의 핵심 조건과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "친척 한쪽은 연인이 되려 하고 다른 쪽은 가족으로만 남기를 원한다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "친족의 구애를 한쪽만 원하며 거절 뒤에도 접근이 계속된다. 연애 감정과 가족 관계의 유지가 충돌하여 받는 쪽은 경계를 세우는 부담을 겪을 수 있다.\n\n서로 원하거나 친족임을 모르는 관계와 다르다. 혈연이라는 사실보다 원치 않는 구애와 거절의 무시가 구도의 중심이다.\n\n《[[절대절망소녀 단간론파 Another Episode]]》의 카논은 사촌 레온에게 계속 구애한다. 레온이 여동생처럼 여기며 부담스러워하는 태도가 비대칭을 드러낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "친족의 구애를 한쪽만 원하며 거절 뒤에도 접근이 계속된다. 연애 감정과 가족 관계의 유지가 충돌하여 받는 쪽은 경계를 세우는 부담을 겪을 수 있다.\n\n서로 원하거나 친족임을 모르는 관계와 다르다. 혈연이라는 사실보다 원치 않는 구애와 거절의 무시가 구도의 중심이다."
+      ],
+      [
+        "관련 작품",
+        "《[[절대절망소녀 단간론파 Another Episode]]》의 카논은 사촌 레온에게 계속 구애한다. 레온이 여동생처럼 여기며 부담스러워하는 태도가 비대칭을 드러낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

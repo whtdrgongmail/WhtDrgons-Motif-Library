@@ -4,8 +4,8 @@
   "title": "체력 상태를 보여 주는 계기",
   "original": "Life Meter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02155",
+  "primary_tag_id": "ML-T02155",
   "description": {
     "definition": "게임 속 대상의 남은 체력이나 생존 여력을 막대·눈금·아이콘 등 화면 요소로 시각화하는 인터페이스다.",
     "detail": "작품 사례: [[Wonder Boy III: The Dragon's Trap]]의 리메이크 극한 모드에서는 체력 하트를 늘릴 수 없어, 화면의 하트 한 칸으로 끝까지 버텨야 한다.",
@@ -13,10 +13,10 @@
     "boundary": "체력 규칙 자체나 실제 생체 신호를 측정하는 의료 기기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.010.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대상의 남은 체력을 시각적인 기호와 막대, 수치로 알리는 표시 장치다. 피해와 회복에 대응하는 변화가 현재의 생존 여력을 전달한다.\n\n체력이 계산되는 규칙 자체와는 다르다. 실제 생체 신호를 측정하는 의료 기기가 아니며 게임과 표현 안에서 상태를 전달하는 기능이 기준이다.\n\n[[Wonder Boy III: The Dragon's Trap]] 리메이크의 극한 모드는 체력 하트를 늘릴 수 없다. 한 칸의 표시가 끝까지 유지되어 제한된 생존 여력을 명확하게 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대상의 남은 체력을 시각적인 기호와 막대, 수치로 알리는 표시 장치다. 피해와 회복에 대응하는 변화가 현재의 생존 여력을 전달한다.\n\n체력이 계산되는 규칙 자체와는 다르다. 실제 생체 신호를 측정하는 의료 기기가 아니며 게임과 표현 안에서 상태를 전달하는 기능이 기준이다."
+      ],
+      [
+        "관련 작품",
+        "[[Wonder Boy III: The Dragon's Trap]] 리메이크의 극한 모드는 체력 하트를 늘릴 수 없다. 한 칸의 표시가 끝까지 유지되어 제한된 생존 여력을 명확하게 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

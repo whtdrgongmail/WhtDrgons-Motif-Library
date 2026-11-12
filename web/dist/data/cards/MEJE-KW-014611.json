@@ -4,8 +4,8 @@
   "title": "충돌 순간을 덮는 화면 섬광",
   "original": "Hit Flash",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01917",
+  "primary_tag_id": "ML-T01917",
   "description": {
     "definition": "폭력이나 타격이 발생하는 순간 화면 전체를 빛·먼지·효과로 잠깐 가려 직접적인 접촉을 생략하거나 충격감을 강화하는 연출이다. 원인과 결과는 보이지만 실제 가격 순간은 짧은 시각 효과로 대체된다.",
     "detail": "작품 사례: [[Ed, Edd n Eddy]]에서 에디가 상상 속 감자로 에드를 때릴 때 화면의 섬광이 타격 순간을 대신한다.",
@@ -13,10 +13,10 @@
     "boundary": "게임 캐릭터의 몸색만 변해 피격을 알리는 효과와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "충돌이 일어나는 순간 화면을 밝은 섬광으로 가려 타격을 대신 표현하는 연출이다. 직접적인 접촉을 생략하면서도 순간의 강도를 강조할 수 있다.\n\n캐릭터의 몸 색만 바꾸는 피격 표시와는 다르다. 화면 전체와 충돌 지점의 가림이 타격의 시점과 맞물리는지가 기준이다.\n\n[[Ed, Edd n Eddy]]의 에디는 상상 속 감자로 에드를 때린다. 타격 순간의 화면 섬광이 접촉 자체를 대신해 보이지 않는 충돌을 알아보게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "충돌이 일어나는 순간 화면을 밝은 섬광으로 가려 타격을 대신 표현하는 연출이다. 직접적인 접촉을 생략하면서도 순간의 강도를 강조할 수 있다.\n\n캐릭터의 몸 색만 바꾸는 피격 표시와는 다르다. 화면 전체와 충돌 지점의 가림이 타격의 시점과 맞물리는지가 기준이다."
+      ],
+      [
+        "관련 작품",
+        "[[Ed, Edd n Eddy]]의 에디는 상상 속 감자로 에드를 때린다. 타격 순간의 화면 섬광이 접촉 자체를 대신해 보이지 않는 충돌을 알아보게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

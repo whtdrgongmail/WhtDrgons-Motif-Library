@@ -4,8 +4,8 @@
   "title": "등장부터 쉽게 알아보는 악역",
   "original": "Devil in Plain Sight",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00883",
+  "primary_tag_id": "ML-T00883",
   "description": {
     "definition": "정식 소개 이전에도 행동과 인상에서 적대적 역할이 쉽게 드러나는 인물이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "주변 인물들이 그를 신뢰하거나 한 사람만 경계해야 한다는 조건은 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이름과 정체를 듣기 전에도 행동과 시각적인 단서가 위험을 알린다.\n\n관객은 인물보다 먼저 적대적 역할을 알아차릴 수 있다. 이야기 속 주변이 눈치채지 못하면 명백한 단서와 반응의 부재가 긴장과 웃음을 만든다.\n\n관객이 악역을 먼저 알아차렸는지와 다른 등장인물도 아는지는 별도의 정보다. 행동과 연출이 만드는 신호를 실제 사람의 외모에 근거한 도덕 판단으로 옮겨서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이름과 정체를 듣기 전에도 행동과 시각적인 단서가 위험을 알린다.\n\n관객은 인물보다 먼저 적대적 역할을 알아차릴 수 있다. 이야기 속 주변이 눈치채지 못하면 명백한 단서와 반응의 부재가 긴장과 웃음을 만든다.\n\n관객이 악역을 먼저 알아차렸는지와 다른 등장인물도 아는지는 별도의 정보다. 행동과 연출이 만드는 신호를 실제 사람의 외모에 근거한 도덕 판단으로 옮겨서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

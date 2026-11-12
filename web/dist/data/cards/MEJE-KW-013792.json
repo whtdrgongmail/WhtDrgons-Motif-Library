@@ -4,8 +4,8 @@
   "title": "싸울 줄 아는 평화주의자",
   "original": "Martial Pacifist",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00917",
+  "primary_tag_id": "ML-T00917",
   "description": {
     "definition": "싸움에 숙련되어 있지만 실제 폭력을 원하지 않고 무예의 수련이나 절제를 중시하는 인물이다.",
     "detail": "작품 사례: [[Xenogears]]의 페이 퐁 웡은 싸움을 꺼리는 평화주의 성향을 지니면서도 맨손 무술로 싸우는 인물이어서, 폭력을 원하지 않는 태도와 전투 능력이 함께 존재한다.",
@@ -13,10 +13,10 @@
     "boundary": "전투 능력이 없어서 피하는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무력을 사용할 능력이 있으면서도 폭력을 원하지 않고 절제를 선택하는 인물 유형이다. 싸움을 피하는 행동이 무능이 아니라 가치 판단으로 제시된다.\n\n[[전투 능력]]이 없어 회피하는 인물과 구별된다. 능력의 존재와 함께 어떤 조건에서 무력을 허용하는지가 인물의 갈등을 구체화한다.\n\n[[Xenogears]]의 페이 퐁 웡은 싸움을 꺼리는 성향을 지니지만 맨손 무술을 구사한다. 평화를 원하는 태도와 실제 전투 능력이 한 인물에게 공존한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "무력을 사용할 능력이 있으면서도 폭력을 원하지 않고 절제를 선택하는 인물 유형이다. 싸움을 피하는 행동이 무능이 아니라 가치 판단으로 제시된다.\n\n[[전투 능력]]이 없어 회피하는 인물과 구별된다. 능력의 존재와 함께 어떤 조건에서 무력을 허용하는지가 인물의 갈등을 구체화한다."
+      ],
+      [
+        "관련 작품",
+        "[[Xenogears]]의 페이 퐁 웡은 싸움을 꺼리는 성향을 지니지만 맨손 무술을 구사한다. 평화를 원하는 태도와 실제 전투 능력이 한 인물에게 공존한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

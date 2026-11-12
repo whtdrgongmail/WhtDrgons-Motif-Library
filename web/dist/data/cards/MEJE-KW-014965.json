@@ -4,8 +4,8 @@
   "title": "명예를 정정당당한 전투로 정의하기",
   "original": "Honor Is Fair Play",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F18",
+  "tag_id": "ML-T01583",
+  "primary_tag_id": "ML-T01583",
   "description": {
     "definition": "전사 개인이나 문화가 기습·속임수·불리한 상대 공격 등을 비겁하게 보고 공정한 맞대결을 명예의 기준으로 삼는 설정이다.",
     "detail": "작품 사례: [[Blazing Saddles]]에서 바트는 상대가 비무장이라고 말하자 공정하게 싸우려고 총을 버리지만, 상대가 숨긴 총을 꺼내자 다시 자기 총을 잡는다.",
@@ -13,10 +13,10 @@
     "boundary": "역사상 모든 명예 문화를 설명하는 개념이나 단순한 경기 규칙 준수와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "18",
+    "code": "18.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전사의 명예를 상대와 정정당당하게 싸우는 조건으로 정의하는 규범이다. 무장과 기회가 대등한지가 도덕적 평가의 근거가 된다.\n\n모든 역사적 명예 문화를 대표하지 않는다. 단순히 경기 규칙을 지키는 경우보다 공정한 전투가 인물의 명예와 직접 연결되어야 한다.\n\n[[Blazing Saddles]]의 바트는 비무장 상대와 공정하게 싸우려고 총을 버린다. 상대가 숨긴 총을 꺼내자 다시 자신의 총을 잡아 대등함의 조건이 행동을 정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전사의 명예를 상대와 정정당당하게 싸우는 조건으로 정의하는 규범이다. 무장과 기회가 대등한지가 도덕적 평가의 근거가 된다.\n\n모든 역사적 명예 문화를 대표하지 않는다. 단순히 경기 규칙을 지키는 경우보다 공정한 전투가 인물의 명예와 직접 연결되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Blazing Saddles]]의 바트는 비무장 상대와 공정하게 싸우려고 총을 버린다. 상대가 숨긴 총을 꺼내자 다시 자신의 총을 잡아 대등함의 조건이 행동을 정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

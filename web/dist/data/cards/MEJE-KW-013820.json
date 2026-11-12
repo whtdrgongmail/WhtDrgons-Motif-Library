@@ -4,8 +4,8 @@
   "title": "섬뜩한 하프시코드",
   "original": "Haunting Harpsichord",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02059",
+  "primary_tag_id": "ML-T02059",
   "description": {
     "definition": "하프시코드의 음색을 사용하여 장면이나 곡에 불길하고 유령 같은 분위기를 부여하는 음악 연출이다.",
     "detail": "작품 사례: [[Hannibal]]의 한니발이 불길한 하프시코드 곡을 연주하는 화면과 잭이 감금된 피해자를 찾아가는 화면이 교차하여, 악기 음색이 수사의 공포를 뒷받침한다.",
@@ -13,10 +13,10 @@
     "boundary": "하프시코드가 쓰인 모든 음악을 뜻하지 않으며 부유함을 나타내는 용법과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.007.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "하프시코드의 음색이 장면의 불길함이나 [[유령]] 같은 정서를 강화한다. 악기의 존재보다 음악이 전달하는 감정적 기능이 분류의 기준이다.\n\n연주 화면을 위협받는 인물의 장면과 교차하면 소리는 두 공간의 공포를 연결한다. 연주자의 침착함과 다른 장소의 위험이 대비될 수 있다.\n\n하프시코드를 쓴 모든 곡이 섬뜩한 것은 아니다. 부유함이나 격식을 표현하는 사용과도 장면의 효과가 다르다.\n\n[[Hannibal]]은 불길한 하프시코드 연주와 잭이 감금 피해자를 찾는 화면을 교차한다.\n\n[[Hannibal]]",
+    "sections": [
+      [
+        "상세 설명",
+        "하프시코드의 음색이 장면의 불길함이나 [[유령]] 같은 정서를 강화한다. 악기의 존재보다 음악이 전달하는 감정적 기능이 분류의 기준이다.\n\n연주 화면을 위협받는 인물의 장면과 교차하면 소리는 두 공간의 공포를 연결한다. 연주자의 침착함과 다른 장소의 위험이 대비될 수 있다.\n\n하프시코드를 쓴 모든 곡이 섬뜩한 것은 아니다. 부유함이나 격식을 표현하는 사용과도 장면의 효과가 다르다."
+      ],
+      [
+        "사례",
+        "[[Hannibal]]은 불길한 하프시코드 연주와 잭이 감금 피해자를 찾는 화면을 교차한다."
+      ],
+      [
+        "관련 작품",
+        "[[Hannibal]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

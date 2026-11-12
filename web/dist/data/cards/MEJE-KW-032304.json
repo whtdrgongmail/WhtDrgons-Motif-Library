@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032304",
+  "kind": "keyword",
+  "title": "위험한 진행 전에 별도 저장 파일 남기기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "되돌리기 어렵거나 큰 위험이 있는 구간으로 들어가기 전 기존 진행을 덮어쓰지 않는 별도 저장 파일을 남겨 복귀 가능성을 보존한다.",
+    "detail": "",
+    "usage": "선택의 무게와 플레이어의 재시도 가능성을 조절한다.",
+    "boundary": "일반적인 한 슬롯 덮어쓰기와 달리 다른 분기를 보존하는 복구 수단이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "앞으로 넘어가되 잘못되면 돌아올 수 있도록 이전 상태도 따로 남긴다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "새 진행을 시도할 파일과 그 이전의 상태를 분리한다. 위험한 선택 뒤 같은 파일을 계속 덮어쓰지 않으면 플레이어는 이미 지나온 상태를 복구 지점으로 남겨 둘 수 있다.\n\n한 슬롯의 기록을 최신 상태로 바꾸는 저장과는 보존하는 정보가 다르다. [[위험을 예고하는 저장 권유]] 뒤의 대응 방식일 수 있지만 게임이 여러 파일을 허용해야 하며, 모든 되돌릴 수 없는 사건을 자동으로 취소하는 기능은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "새 진행을 시도할 파일과 그 이전의 상태를 분리한다. 위험한 선택 뒤 같은 파일을 계속 덮어쓰지 않으면 플레이어는 이미 지나온 상태를 복구 지점으로 남겨 둘 수 있다.\n\n한 슬롯의 기록을 최신 상태로 바꾸는 저장과는 보존하는 정보가 다르다. [[위험을 예고하는 저장 권유]] 뒤의 대응 방식일 수 있지만 게임이 여러 파일을 허용해야 하며, 모든 되돌릴 수 없는 사건을 자동으로 취소하는 기능은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
+}

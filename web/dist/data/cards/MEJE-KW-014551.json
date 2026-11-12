@@ -4,8 +4,8 @@
   "title": "직함인 줄 알았더니 실제 이름",
   "original": "His Name Really Is \"Barkeep\"",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01990",
+  "primary_tag_id": "ML-T01990",
   "description": {
     "definition": "직업명이나 별칭처럼 들려 사람들이 그렇게 부른다고 여긴 말이 실제로 그 인물의 이름임이 밝혀지는 작명 장치다. 호칭에 대한 예상과 실제 이름이 겹치면서 웃음이나 인상을 만든다.",
     "detail": "작품 사례: [[Inspector Flytrap]]의 주인공은 인스펙터라는 호칭을 고집하는데, 초상화에 I. Flytrap이라고 적혀 있어 직함처럼 들린 말이 실제 이름임을 확인시킨다.",
@@ -13,10 +13,10 @@
     "boundary": "본명은 따로 있고 편의상 직함으로만 부르는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "직업과 지위를 뜻하는 듯한 호칭이 사실은 본명이라는 확인으로 바뀌는 작명 농담이다. 일반 명사로 읽었던 말이 개인을 식별하는 이름으로 재분류된다.\n\n본명은 따로 있지만 편의상 직함으로 부르는 인물과 다르다. 실제 이름이라는 작중 확인이 있어야 한다.\n\n[[Inspector Flytrap]]의 주인공은 인스펙터라는 호칭을 고집한다. 초상화의 I. Flytrap이라는 표기는 직함처럼 들렸던 말이 이름이라는 점을 뒷받침한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "직업과 지위를 뜻하는 듯한 호칭이 사실은 본명이라는 확인으로 바뀌는 작명 농담이다. 일반 명사로 읽었던 말이 개인을 식별하는 이름으로 재분류된다.\n\n본명은 따로 있지만 편의상 직함으로 부르는 인물과 다르다. 실제 이름이라는 작중 확인이 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Inspector Flytrap]]의 주인공은 인스펙터라는 호칭을 고집한다. 초상화의 I. Flytrap이라는 표기는 직함처럼 들렸던 말이 이름이라는 점을 뒷받침한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

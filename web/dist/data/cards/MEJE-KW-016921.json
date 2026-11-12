@@ -4,28 +4,28 @@
   "title": "선명한 화면에서 읽히는 소품 문구",
   "original": "If You Can Read This",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01839",
+  "primary_tag_id": "ML-T01839",
   "description": {
     "definition": "화면 속 책·신문·모니터의 글자가 관객에게 읽힐 만큼 선명해지면서 소품에 적힌 세부 내용이 드러나는 현상이다.",
     "detail": "설정에 맞는 정보나 장난을 발견할 수도 있고 임시로 넣은 부적절한 문구가 드러날 수도 있다.\n\n작품 사례: 2003년 애니메이션 《[[강철의 연금술사]]》의 연금술서를 화면에서 자세히 읽으면 판타지 역할놀이 게임의 규칙서에서 가져온 문장이 보인다.",
-    "usage": "관객이 글을 읽을 수 있는 영상의 선명도와 소품 내용의 관계를 살핀다.",
-    "boundary": "아주 짧은 몇 프레임에 의도적으로 숨긴 보상이나 글자체 시대착오 자체와 구별한다."
+    "usage": "관객이 글을 읽을 수 있는 영상의 선명도와 소품 내용의 관계를 확인한다.",
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "22",
+    "code": "22.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "예전에는 흐렸던 작은 글씨를 읽으니 뜻밖의 내용이 보인다.\n\n작품 사례: 2003년 애니메이션 《[[강철의 연금술사]]》의 연금술서를 화면에서 자세히 읽으면 판타지 역할놀이 게임의 규칙서에서 가져온 문장이 보인다.",
+    "easy_ko": "예전에는 흐렸던 작은 글씨를 읽으니 뜻밖의 내용이 보인다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "설정에 맞는 정보나 장난을 발견할 수도 있고 임시로 넣은 부적절한 문구가 드러날 수도 있다.\n\n아주 짧은 몇 프레임에 의도적으로 숨긴 보상이나 글자체 시대착오 자체와 구별한다.\n\n《[[강철의 연금술사(2003년 애니메이션)]]》의 연금술서를 화면에서 자세히 읽으면 《[[던전 앤 드래곤]]》 규칙서의 연금술 관련 문장이 보인다. 작품 속 전문 서적으로 보였던 소품의 실제 문구가 화면의 가독성에 따라 드러나는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "설정에 맞는 정보나 장난을 발견할 수도 있고 임시로 넣은 부적절한 문구가 드러날 수도 있다.\n\n아주 짧은 몇 프레임에 의도적으로 숨긴 보상이나 글자체 시대착오 자체와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[강철의 연금술사(2003년 애니메이션)]]》의 연금술서를 화면에서 자세히 읽으면 《[[던전 앤 드래곤]]》 규칙서의 연금술 관련 문장이 보인다. 작품 속 전문 서적으로 보였던 소품의 실제 문구가 화면의 가독성에 따라 드러나는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

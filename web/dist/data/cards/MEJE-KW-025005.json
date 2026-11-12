@@ -4,8 +4,8 @@
   "title": "장비 수집이 중심인 슈팅 역할극 게임",
   "original": "Looter Shooter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00427",
+  "primary_tag_id": "ML-T00427",
   "description": {
     "definition": "총격 전투로 더 좋은 장비를 획득하고 그 장비로 더 강한 전투와 수집에 나서는 반복 구조를 중심에 둔 슈팅 게임 갈래다.",
     "detail": "역할극의 레벨·임무·능력과 결합할 수 있으며 협동 대인공지능 전투가 흔하다. 생존과 제작 요소의 포함 여부는 부가 조건이다.\n\n작품 사례: 《[[보더랜드]]》는 다양한 수치와 속성을 무작위로 조합한 총기를 보상으로 제공한다. 새 장비를 찾아 전투와 수집을 되풀이하는 구조가 중심이다.",
@@ -13,25 +13,28 @@
     "boundary": "아이템을 주울 수 있는 모든 슈팅 게임을 뜻하지 않는다. 장비 수집과 성능 조합이 핵심 진행 목적이어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.202.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "적을 쏴서 좋은 총을 얻고 그 총으로 더 좋은 장비를 찾는다.\n\n작품 사례: 《[[보더랜드]]》는 다양한 수치와 속성을 무작위로 조합한 총기를 보상으로 제공한다. 새 장비를 찾아 전투와 수집을 되풀이하는 구조가 중심이다.",
+    "easy_ko": "적을 쏴서 좋은 총을 얻고 그 총으로 더 좋은 장비를 찾는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사격 전투로 장비를 얻고 그 장비의 성능을 조합해 더 높은 도전에 참여하는 게임 유형이다.\n\n레벨과 임무, 능력의 성장 체계와 결합할 수 있으며 협동 전투가 흔한 진행 방식이다. 무작위 보상과 장비 교체가 다음 전투에 참여할 동기를 제공한다.\n\n생존과 제작은 부가적인 요소이며 필수 조건이 아니다. 물건을 주울 수 있는 모든 슈팅이 아니라 장비 수집과 성능 구성이 핵심 목적이어야 한다.\n\n《[[보더랜드]]》는 수치와 속성을 여러 방식으로 조합한 총기를 보상으로 제공한다. 새로운 성능을 찾아 전투와 수집을 반복하는 흐름이 진행의 중심에 놓인다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사격 전투로 장비를 얻고 그 장비의 성능을 조합해 더 높은 도전에 참여하는 게임 유형이다.\n\n레벨과 임무, 능력의 성장 체계와 결합할 수 있으며 협동 전투가 흔한 진행 방식이다. 무작위 보상과 장비 교체가 다음 전투에 참여할 동기를 제공한다.\n\n생존과 제작은 부가적인 요소이며 필수 조건이 아니다. 물건을 주울 수 있는 모든 슈팅이 아니라 장비 수집과 성능 구성이 핵심 목적이어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[보더랜드]]》는 수치와 속성을 여러 방식으로 조합한 총기를 보상으로 제공한다. 새로운 성능을 찾아 전투와 수집을 반복하는 흐름이 진행의 중심에 놓인다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

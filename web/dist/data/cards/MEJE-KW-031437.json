@@ -4,8 +4,8 @@
   "title": "수수한 외모로 평가받는 여성",
   "original": "Plain Jane",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00956",
+  "primary_tag_id": "ML-T00956",
   "description": {
     "definition": "작품 안에서 본인이나 주변에게 외모가 수수하거나 매력적이지 않다고 여겨지는 여성 인물 유형이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "관객의 취향과 관계없이, 이야기 속에서는 눈에 띄는 미인으로 대우받지 않는 인물이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "외모에 대한 평가는 인물의 자의식과 사회적 대우를 갈라 놓을 수 있다. 남의 평가를 받아들여 자신감을 잃기도 하고, 외모를 크게 신경 쓰지 않은 채 다른 관심사를 추구하기도 한다. 처음의 평가가 바뀌는 전개에서는 옷차림의 변화보다 누가 어떤 기준으로 인물을 보았는지에 주목하면 관계의 변화를 더 분명히 드러낼 수 있다.\n\n반드시 변신을 거쳐 아름다움을 인정받아야 하는 유형은 아니다. 처음의 외모 평가를 유지하면서도 인물의 능력과 관계를 충분히 전개할 수 있다. 관객이 배우나 그림을 아름답다고 느끼는지보다 작품 내부에서 외모가 어떻게 언급되고 취급되는지가 판단 기준이다. 단순히 평상복을 입거나 안경을 썼다는 사실만으로 적용하지 않는다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "외모에 대한 평가는 인물의 자의식과 사회적 대우를 갈라 놓을 수 있다. 남의 평가를 받아들여 자신감을 잃기도 하고, 외모를 크게 신경 쓰지 않은 채 다른 관심사를 추구하기도 한다. 처음의 평가가 바뀌는 전개에서는 옷차림의 변화보다 누가 어떤 기준으로 인물을 보았는지에 주목하면 관계의 변화를 더 분명히 드러낼 수 있다.\n\n반드시 변신을 거쳐 아름다움을 인정받아야 하는 유형은 아니다. 처음의 외모 평가를 유지하면서도 인물의 능력과 관계를 충분히 전개할 수 있다. 관객이 배우나 그림을 아름답다고 느끼는지보다 작품 내부에서 외모가 어떻게 언급되고 취급되는지가 판단 기준이다. 단순히 평상복을 입거나 안경을 썼다는 사실만으로 적용하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

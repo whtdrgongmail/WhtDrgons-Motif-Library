@@ -4,8 +4,8 @@
   "title": "기괴한 형상으로 변형된 드래곤",
   "original": "Draconic Abomination",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01131",
+  "primary_tag_id": "ML-T01131",
   "description": {
     "definition": "일반적인 드래곤의 윤곽을 넘어서 이질적이고 불가해한 신체나 힘을 가진 존재 유형.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일반적인 용의 몸과 능력에서 더 나아가 분류하기 어려운 기괴함을 가진 드래곤이다. 이미 비현실적인 존재를 한층 낯설게 재구성한다.\n\n신체의 구조와 규모, 이해하기 어려운 힘이 인간적인 전투의 기대를 무너뜨릴 수 있다. 보통 용이 같은 세계에서 익숙한 동물이라면 예외적인 형상의 차이는 더욱 크게 보인다.\n\n강한 용과 같은 뜻은 아니다. 위력보다 존재의 이질성과 불가해함이 중심이며, 관객이 용의 흔적을 알아보면서도 기존 규칙만으로 설명할 수 없다는 긴장이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일반적인 용의 몸과 능력에서 더 나아가 분류하기 어려운 기괴함을 가진 드래곤이다. 이미 비현실적인 존재를 한층 낯설게 재구성한다.\n\n신체의 구조와 규모, 이해하기 어려운 힘이 인간적인 전투의 기대를 무너뜨릴 수 있다. 보통 용이 같은 세계에서 익숙한 동물이라면 예외적인 형상의 차이는 더욱 크게 보인다.\n\n강한 용과 같은 뜻은 아니다. 위력보다 존재의 이질성과 불가해함이 중심이며, 관객이 용의 흔적을 알아보면서도 기존 규칙만으로 설명할 수 없다는 긴장이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

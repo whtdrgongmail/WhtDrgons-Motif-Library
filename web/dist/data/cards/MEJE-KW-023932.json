@@ -4,8 +4,8 @@
   "title": "늘 같은 옷을 입는 인물",
   "original": "Limited Wardrobe",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01847",
+  "primary_tag_id": "ML-T01847",
   "description": {
     "definition": "인물이 대부분의 장면에서 같은 복장을 유지하여 옷 디자인의 변화를 최소화하는 관습이다.",
     "detail": "작품 사례: 《[[해피 프렌즈]]》 49화에서 H 박사가 데이트용 옷을 고르려고 옷장을 열지만 안에는 늘 입는 노랑·보라 옷만 반복해서 들어 있다. 늘 같은 옷이라는 관습을 작품 안의 농담으로 설명한다.",
@@ -13,10 +13,10 @@
     "boundary": "제복을 요구하는 한 장면만으로 판단하지 않고 반복되는 착장을 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 대부분의 상황에서 같은 복장을 유지하는 관습이다. 의상의 변화보다 익숙한 외형과 식별성을 우선한다.\n\n추운 계절에도 기본 디자인을 가리지 않는 모자와 목도리만 추가할 수 있다. 옷장에 같은 옷이 여러 벌 있다는 장면으로 반복의 이유를 농담처럼 설명하기도 한다.\n\n같은 옷처럼 그려진다고 실제로 한 벌을 계속 입는다는 뜻은 아니다. 디자인의 반복과 세계 안의 의복 관리 설정을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 대부분의 상황에서 같은 복장을 유지하는 관습이다. 의상의 변화보다 익숙한 외형과 식별성을 우선한다.\n\n추운 계절에도 기본 디자인을 가리지 않는 모자와 목도리만 추가할 수 있다. 옷장에 같은 옷이 여러 벌 있다는 장면으로 반복의 이유를 농담처럼 설명하기도 한다.\n\n같은 옷처럼 그려진다고 실제로 한 벌을 계속 입는다는 뜻은 아니다. 디자인의 반복과 세계 안의 의복 관리 설정을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

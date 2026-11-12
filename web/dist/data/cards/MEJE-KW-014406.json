@@ -4,8 +4,8 @@
   "title": "변신 장면을 관객에게 가리기",
   "original": "Transformation Discretion Shot",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01920",
+  "primary_tag_id": "ML-T01920",
   "description": {
     "definition": "인물의 신체 변화를 직접 보여 주지 않고 화면 밖이나 가림 요소 뒤에서 일어나게 처리하는 연출이다. 변신의 결과는 제시하더라도 과정은 관객의 시야에서 제외한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "인물이 주변 사람에게 들키지 않으려고 숨는 행동 자체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.005.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "변신이 일어나는 동안 신체 변화의 과정을 관객에게 보여 주지 않는다. 화면 밖이나 가림 요소 뒤에서 변화를 처리하고 결과만 제시할 수 있다.\n\n관객은 전후의 모습으로 변신을 알지만 중간의 시각 정보는 얻지 못한다. 무엇을 보여 주고 생략할지에 관한 화면 구성의 선택이다.\n\n인물이 주변 사람에게 정체를 숨기려고 몸을 가리는 행동과는 별개다. 가려지는 대상이 작중 목격자의 시선인지 관객의 시야인지 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "변신이 일어나는 동안 신체 변화의 과정을 관객에게 보여 주지 않는다. 화면 밖이나 가림 요소 뒤에서 변화를 처리하고 결과만 제시할 수 있다.\n\n관객은 전후의 모습으로 변신을 알지만 중간의 시각 정보는 얻지 못한다. 무엇을 보여 주고 생략할지에 관한 화면 구성의 선택이다.\n\n인물이 주변 사람에게 정체를 숨기려고 몸을 가리는 행동과는 별개다. 가려지는 대상이 작중 목격자의 시선인지 관객의 시야인지 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

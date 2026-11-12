@@ -4,28 +4,28 @@
   "title": "교훈을 말하자마자 어기는 결말",
   "original": "Ignored Aesop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00616",
+  "primary_tag_id": "ML-T00616",
   "description": {
     "definition": "인물들이 사건에서 배운 교훈을 정리하면서 곧바로 그 교훈과 모순되는 말이나 행동을 해 아무것도 배우지 않았음을 드러내는 결말이다.",
     "detail": "다른 교훈을 찾아 말을 바꾸다가 결국 아무 교훈도 없었다고 끝내는 희극으로 이어질 수 있다.\n\n작품 사례: 《[[심슨 가족]]》에서 바트는 괴롭히는 아이들의 인정을 신경 쓰지 않겠다고 했다가, 곧 그들을 구하면 멋지게 보일 것이라며 다시 인정받으려 한다.",
     "usage": "배움의 선언과 직후의 모순을 함께 확인한다.",
-    "boundary": "시간이 오래 지난 뒤 교훈을 잊거나 작품이 애초에 교훈을 제시하지 않은 경우와 구별한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.001.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "배웠다고 말하는 순간 다시 똑같은 실수를 한다.\n\n작품 사례: 《[[심슨 가족]]》에서 바트는 괴롭히는 아이들의 인정을 신경 쓰지 않겠다고 했다가, 곧 그들을 구하면 멋지게 보일 것이라며 다시 인정받으려 한다.",
+    "easy_ko": "배웠다고 말하는 순간 다시 똑같은 실수를 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 교훈을 찾아 말을 바꾸다가 결국 아무 교훈도 없었다고 끝내는 희극으로 이어질 수 있다.\n\n시간이 오래 지난 뒤 교훈을 잊거나 작품이 애초에 교훈을 제시하지 않은 경우와 구별한다.\n\n《[[심슨 가족]]》에서 바트는 괴롭히는 아이들의 인정을 신경 쓰지 않겠다고 했다가, 곧 그들을 구하면 멋지게 보일 것이라며 다시 인정받으려 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 교훈을 찾아 말을 바꾸다가 결국 아무 교훈도 없었다고 끝내는 희극으로 이어질 수 있다.\n\n시간이 오래 지난 뒤 교훈을 잊거나 작품이 애초에 교훈을 제시하지 않은 경우와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[심슨 가족]]》에서 바트는 괴롭히는 아이들의 인정을 신경 쓰지 않겠다고 했다가, 곧 그들을 구하면 멋지게 보일 것이라며 다시 인정받으려 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

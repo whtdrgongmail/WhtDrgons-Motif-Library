@@ -4,8 +4,8 @@
   "title": "반려동물 대회 에피소드",
   "original": "Pet Contest Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00772",
+  "primary_tag_id": "ML-T00772",
   "description": {
     "definition": "반려동물을 품평회나 재주 대회에 출전시키는 과정과 경쟁이 중심이 되는 에피소드다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "우리 동물이 최고라고 믿는 보호자가 대회에 나갔다가 승패보다 중요한 관계를 확인한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "출전 준비, 다른 참가자와의 비교, 심사와 결과가 회차의 사건을 조직한다. 대회는 동물의 능력뿐 아니라 보호자의 자부심과 경쟁심을 드러낸다. 혈통이나 외모를 중시하는 참가자와 소박한 주인공을 대비하면 계층과 인정의 갈등을 담을 수 있다.\n\n우승이 유일한 결말은 아니다. 패배해도 서로의 가치를 인정하거나 대회 밖에서 동물의 장점을 증명하면 경쟁의 기준을 바꾸는 마무리가 된다. 동물이 단지 배경으로 등장하는 일반 경기와 달리, 반려동물의 평가와 보호자의 반응이 회차를 움직이는 중심이어야 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "출전 준비, 다른 참가자와의 비교, 심사와 결과가 회차의 사건을 조직한다. 대회는 동물의 능력뿐 아니라 보호자의 자부심과 경쟁심을 드러낸다. 혈통이나 외모를 중시하는 참가자와 소박한 주인공을 대비하면 계층과 인정의 갈등을 담을 수 있다.\n\n우승이 유일한 결말은 아니다. 패배해도 서로의 가치를 인정하거나 대회 밖에서 동물의 장점을 증명하면 경쟁의 기준을 바꾸는 마무리가 된다. 동물이 단지 배경으로 등장하는 일반 경기와 달리, 반려동물의 평가와 보호자의 반응이 회차를 움직이는 중심이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

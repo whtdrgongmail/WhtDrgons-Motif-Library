@@ -4,34 +4,37 @@
   "title": "소녀들이 군사 장비를 직접 운용하는 구성",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-028461",
+  "primary_tag_id": "MEJE-KW-028461",
   "description": {
-    "definition": "소녀 인물들을 군사 장비와 별개의 조종자·승무원으로 배치하여 장비 운용과 동료 관계를 함께 보여 주는 구성이다.",
+    "definition": "귀여운 소녀 인물들의 매력과 동료 관계를 감상의 중심에 두면서, 이들을 군사 장비와 별개의 조종자·승무원으로 배치하는 구성이다.",
     "detail": "작품 사례: 《[[황야의 코토부키 비행대]]》의 여섯 용병 조종사는 비행기를 몰아 수송 비행선을 하늘 해적에게서 지킨다.",
     "usage": "기술 숙련과 팀워크의 성장을 장비 운용에 연결한다.",
     "boundary": "소녀 자신이 무기나 함선의 인격화인 구성과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.407.002",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "소녀들이 전차와 비행기에 타서 움직이고 싸운다.",
+    "easy_ko": "귀여운 소녀들이 전차나 비행기 같은 군사 장비를 직접 조종하고, 임무를 수행하며 동료 관계를 맺는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-08",
-    "row_version": 3
+    "updated_at": "2026-11-11",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "귀여운 소녀들이 군사 장비의 조종자나 승무원으로 배치되는 구성은 장비 운용과 동료 관계를 함께 서사의 자원으로 삼는다. 기술 숙련은 전투와 임무 수행에 직접 연결되고, 인물들은 장비의 기능과 한계를 이해하면서 팀으로 움직인다.\n\n소녀를 군사 장비나 함선의 의인화로 표현하는 구성과는 구분된다. 이 경우 인물은 실제 장비를 운용하는 주체로 놓이며, 기술 학습과 협력이 관계 변화와 맞물릴 수 있다. 기획할 때는 장비의 조작 조건과 임무의 위험을 관계의 변화에 연결하되, 군사 활동이 인물의 생활과 이야기에서 차지하는 비중을 분명히 한다.\n\n작품 사례: 《[[황야의 코토부키 비행대]]》에서 여섯 용병 조종사는 직접 비행기를 몰아 수송 비행선을 하늘 해적에게서 지킨다. 인물이 장비 자체로 표현되는 설정과 달리 조종과 팀 전술이 사건을 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "귀여운 소녀들이 군사 장비의 조종자나 승무원으로 배치되는 구성은 장비 운용과 동료 관계를 함께 서사의 자원으로 삼는다. 기술 숙련은 전투와 임무 수행에 직접 연결되고, 인물들은 장비의 기능과 한계를 이해하면서 팀으로 움직인다.\n\n소녀를 군사 장비나 함선의 의인화로 표현하는 구성과는 구분된다. 이 경우 인물은 실제 장비를 운용하는 주체로 놓이며, 기술 학습과 협력이 관계 변화와 맞물릴 수 있다. 기획할 때는 장비의 조작 조건과 임무의 위험을 관계의 변화에 연결하되, 군사 활동이 인물의 생활과 이야기에서 차지하는 비중을 분명히 한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[황야의 코토부키 비행대]]》에서 여섯 용병 조종사는 직접 비행기를 몰아 수송 비행선을 하늘 해적에게서 지킨다. 인물이 장비 자체로 표현되는 설정과 달리 조종과 팀 전술이 사건을 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": false
+  }
 }

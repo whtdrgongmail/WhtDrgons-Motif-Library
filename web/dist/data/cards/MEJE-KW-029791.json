@@ -4,8 +4,8 @@
   "title": "쌓인 커피잔으로 드러내는 과로",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01845",
+  "primary_tag_id": "ML-T01845",
   "description": {
     "definition": "책상에 쌓인 커피잔이나 서류에 남은 커피 자국으로 인물이 오래 일하고 스트레스를 받고 있음을 시각적으로 암시하는 장치다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 음료 소비량으로 노동 강도를 측정한다는 뜻이 아니라 작품의 시각적 신호를 설명한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.001.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "책상에 쌓인 커피잔과 서류의 자국이 오래 이어진 업무와 스트레스를 암시한다. 소품의 축적으로 작업 시간과 부담을 보여 주는 장치다.\n\n인물이 과로했다고 직접 말하지 않아도 사용한 흔적이 누적된 시간을 전달한다. 현재의 공간 안에 이전 활동의 결과를 남겨 상태를 설명하는 방식이다.\n\n실제 커피 소비량으로 노동 강도를 재는 기준은 아니다. 작품이 잔과 얼룩을 어떤 시각적 신호로 사용하는지를 다룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "책상에 쌓인 커피잔과 서류의 자국이 오래 이어진 업무와 스트레스를 암시한다. 소품의 축적으로 작업 시간과 부담을 보여 주는 장치다.\n\n인물이 과로했다고 직접 말하지 않아도 사용한 흔적이 누적된 시간을 전달한다. 현재의 공간 안에 이전 활동의 결과를 남겨 상태를 설명하는 방식이다.\n\n실제 커피 소비량으로 노동 강도를 재는 기준은 아니다. 작품이 잔과 얼룩을 어떤 시각적 신호로 사용하는지를 다룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

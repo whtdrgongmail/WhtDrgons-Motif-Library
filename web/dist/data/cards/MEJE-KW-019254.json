@@ -4,8 +4,8 @@
   "title": "종교 공동체가 적으로 여기는 이단자",
   "original": "The Heretic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01373",
+  "primary_tag_id": "ML-T01373",
   "description": {
     "definition": "종교의 가르침이나 신앙 기준에 이견을 가진 사람이 그 종교의 추종자들에게 배척과 적대의 대상으로 규정된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "이단이라는 공동체의 규정 자체를 객관적 악의 증거로 삼지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "종교 공동체의 공인된 가르침과 다른 믿음을 가진 사람이 이단자로 규정되어 적대받는 구도다. 신앙의 차이가 소속과 안전을 결정하는 사회적 경계가 된다.\n\n기존 질서를 비판한 사람이 추방되거나 자기 해석을 지키려 새 집단을 만들 수 있다. 통치 권력과 종교 권위가 결합하면 믿음의 판정이 처벌과 정치적 통제의 수단이 된다.\n\n이단이라는 호칭은 특정 공동체의 기준에서 나온 것이지 중립적인 악의 분류가 아니다. 이견을 가졌다고 반드시 합리적이거나 선한 것도 아니므로, 서로의 주장과 실제 행동을 나누어 평가해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "종교 공동체의 공인된 가르침과 다른 믿음을 가진 사람이 이단자로 규정되어 적대받는 구도다. 신앙의 차이가 소속과 안전을 결정하는 사회적 경계가 된다.\n\n기존 질서를 비판한 사람이 추방되거나 자기 해석을 지키려 새 집단을 만들 수 있다. 통치 권력과 종교 권위가 결합하면 믿음의 판정이 처벌과 정치적 통제의 수단이 된다.\n\n이단이라는 호칭은 특정 공동체의 기준에서 나온 것이지 중립적인 악의 분류가 아니다. 이견을 가졌다고 반드시 합리적이거나 선한 것도 아니므로, 서로의 주장과 실제 행동을 나누어 평가해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

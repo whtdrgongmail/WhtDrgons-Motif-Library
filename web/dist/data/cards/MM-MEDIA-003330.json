@@ -4,17 +4,17 @@
   "title": "Dawngate",
   "original": "Dawngate",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《Dawngate》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《Dawngate》의 자원 거점은 점령 뒤 자동 병력이 채굴하여 팀에 자원을 제공한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Dawngate》는 두 팀이 맞서는 온라인 대전 게임이다. 자원 거점의 통제가 경제에 영향을 준다. 전투 외의 수입 거점을 점령하는 목표가 팀의 자원과 지도 지배를 연결한다.\n\n거점을 점령하면 자동 병력이 채굴한다. 플레이어의 지속적인 직접 채굴이 수입의 필수 조건은 아니다. 직접 전투의 성과와 지속적인 경제 이익을 얻는 선택이 같은 팀 전략의 다른 부분이 된다.\n\n채굴한 자원은 팀에 제공된다. 공간의 점령을 유지하는 행동이 공동 경제의 이득으로 연결되는 구성이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Dawngate》는 두 팀이 맞서는 온라인 대전 게임이다. 자원 거점의 통제가 경제에 영향을 준다. 전투 외의 수입 거점을 점령하는 목표가 팀의 자원과 지도 지배를 연결한다.\n\n거점을 점령하면 자동 병력이 채굴한다. 플레이어의 지속적인 직접 채굴이 수입의 필수 조건은 아니다. 직접 전투의 성과와 지속적인 경제 이익을 얻는 선택이 같은 팀 전략의 다른 부분이 된다.\n\n채굴한 자원은 팀에 제공된다. 공간의 점령을 유지하는 행동이 공동 경제의 이득으로 연결되는 구성이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

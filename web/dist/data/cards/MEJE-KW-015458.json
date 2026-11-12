@@ -4,8 +4,8 @@
   "title": "개심 직후의 죽음",
   "original": "Redemption Equals Death",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "악역이 마지막에 선한 선택으로 돌아선 직후 죽어 악한 삶의 종결과 속죄를 한 결말로 묶는 구성이다.",
     "detail": "작품 사례: [[Super Cop 2]]의 David는 범죄 조직의 정보원이었지만 Jessica를 위해 두목을 배신하려 하며, 그 방향 전환은 결국 자신의 죽음으로 끝난다.",
@@ -13,10 +13,10 @@
     "boundary": "죽은 뒤 남들이 평가를 바꾸는 경우와 달리 살아 있는 동안의 전환이 먼저 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마지막의 선한 선택과 죽음이 가까이 배치되어 악한 삶을 마무리하는 하나의 결말을 이룬다. 인물의 변화는 행동으로 확인되지만, 그 뒤 살아가며 책임을 갚을 과정은 죽음으로 끝나게 된다.\n\n죽은 뒤 다른 인물들이 평가를 바꾸는 것만으로는 개심이 성립하지 않는다. 살아 있는 동안 선한 방향으로 전환해야 하며, 죽음이 과거의 피해를 실제로 없애거나 모두에게 용서받았다는 뜻인지는 별도로 판단한다.\n\n[[Super Cop 2]]의 David는 범죄 조직의 정보원이었지만 Jessica를 위해 두목을 배신하려 하며, 그 방향 전환은 결국 자신의 죽음으로 끝난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마지막의 선한 선택과 죽음이 가까이 배치되어 악한 삶을 마무리하는 하나의 결말을 이룬다. 인물의 변화는 행동으로 확인되지만, 그 뒤 살아가며 책임을 갚을 과정은 죽음으로 끝나게 된다.\n\n죽은 뒤 다른 인물들이 평가를 바꾸는 것만으로는 개심이 성립하지 않는다. 살아 있는 동안 선한 방향으로 전환해야 하며, 죽음이 과거의 피해를 실제로 없애거나 모두에게 용서받았다는 뜻인지는 별도로 판단한다."
+      ],
+      [
+        "관련 작품",
+        "[[Super Cop 2]]의 David는 범죄 조직의 정보원이었지만 Jessica를 위해 두목을 배신하려 하며, 그 방향 전환은 결국 자신의 죽음으로 끝난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

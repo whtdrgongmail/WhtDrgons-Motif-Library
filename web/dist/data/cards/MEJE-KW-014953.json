@@ -4,8 +4,8 @@
   "title": "경적으로 알리는 차량의 도착",
   "original": "Honking Arriving Car",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02063",
+  "primary_tag_id": "ML-T02063",
   "description": {
     "definition": "자동차 경적을 도착 신호로 사용하여 인물의 등장·퇴장·장면 전환을 자연스럽게 연결하는 음향 관습이다.",
     "detail": "작품 사례: [[The Black Dahlia]]에서 형사에게 조사받던 여성은 밖에 도착한 트럭의 경적을 듣고, 차가 기다려 주지 않는다며 자리를 뜨려 한다.",
@@ -13,10 +13,10 @@
     "boundary": "교통 체증의 소음이나 죽은 운전자가 누른 경적과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "장면 밖에 도착한 차의 경적이 인물에게 기다리는 차량의 존재를 알리는 표현이다. 소리만으로 이동의 시간과 대화 종료의 이유를 제공할 수 있다.\n\n교통 위험을 알리는 경고와는 기능이 다르다. 정체의 소음과 죽은 운전자가 누른 소리도 제외되며 차량 도착의 통보가 중심이다.\n\n[[The Black Dahlia]]의 여성은 조사 중 밖의 트럭 경적을 듣는다. 차가 기다려 주지 않는다며 나가려 하여 소리가 도착과 장면 전환의 계기가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "장면 밖에 도착한 차의 경적이 인물에게 기다리는 차량의 존재를 알리는 표현이다. 소리만으로 이동의 시간과 대화 종료의 이유를 제공할 수 있다.\n\n교통 위험을 알리는 경고와는 기능이 다르다. 정체의 소음과 죽은 운전자가 누른 소리도 제외되며 차량 도착의 통보가 중심이다."
+      ],
+      [
+        "관련 작품",
+        "[[The Black Dahlia]]의 여성은 조사 중 밖의 트럭 경적을 듣는다. 차가 기다려 주지 않는다며 나가려 하여 소리가 도착과 장면 전환의 계기가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

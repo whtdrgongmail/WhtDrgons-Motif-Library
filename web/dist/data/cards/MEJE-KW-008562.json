@@ -4,8 +4,8 @@
   "title": "감정에 응답하는 무기",
   "original": "Empathic Weapon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "자기 의지를 지닌 무기가 사용자의 마음을 알아보고 쓰임을 허락하거나 도움을 주는 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자기 의지를 가진 무기가 사용자의 감정과 의도를 알아보고 협조하는 관계다. 인물은 도구를 소유하기보다 상대의 도움을 요청한다.\n\n좋은 자질을 인정받아야 사용할 수 있다면 힘의 정당성이 인격과 연결된다. 무기가 사용을 거부하고 판단을 내리는 순간은 주인공의 선택이 옳은지 다시 생각하게 한다.\n\n사용자의 감정에 따라 출력만 바뀌는 기계와는 다르다. 무기 자체의 의지와 응답이 핵심이며 인정의 기준은 작품이 정한 가치관에 따라 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자기 의지를 가진 무기가 사용자의 감정과 의도를 알아보고 협조하는 관계다. 인물은 도구를 소유하기보다 상대의 도움을 요청한다.\n\n좋은 자질을 인정받아야 사용할 수 있다면 힘의 정당성이 인격과 연결된다. 무기가 사용을 거부하고 판단을 내리는 순간은 주인공의 선택이 옳은지 다시 생각하게 한다.\n\n사용자의 감정에 따라 출력만 바뀌는 기계와는 다르다. 무기 자체의 의지와 응답이 핵심이며 인정의 기준은 작품이 정한 가치관에 따라 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

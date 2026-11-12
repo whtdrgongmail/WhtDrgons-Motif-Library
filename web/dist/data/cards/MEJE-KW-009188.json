@@ -4,8 +4,8 @@
   "title": "게임 길잡이 동료",
   "original": "Exposition Fairy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02151",
+  "primary_tag_id": "ML-T02151",
   "description": {
     "definition": "인물 곁의 동료가 조작법·기능·진행 단서를 알려 주며 [[플레이어]]의 이해를 돕는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주인공 곁에서 조작과 기능, 진행 단서를 알려 주는 동료다. 시스템의 안내를 이야기 속 관계와 대화로 전달한다.\n\n낯선 기능을 처음 배울 때 도움을 주고 막힌 상황에서 목표를 상기시킨다. 안내가 반복되거나 자주 개입하면 동료의 성격보다 진행을 방해하는 기능으로 느껴질 수 있다.\n\n모든 조언자가 같은 역할은 아니다. 플레이 이해를 돕는 정보가 핵심이며 인물이 세계 안에서 아는 사실과 플레이어에게만 필요한 조작 정보를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주인공 곁에서 조작과 기능, 진행 단서를 알려 주는 동료다. 시스템의 안내를 이야기 속 관계와 대화로 전달한다.\n\n낯선 기능을 처음 배울 때 도움을 주고 막힌 상황에서 목표를 상기시킨다. 안내가 반복되거나 자주 개입하면 동료의 성격보다 진행을 방해하는 기능으로 느껴질 수 있다.\n\n모든 조언자가 같은 역할은 아니다. 플레이 이해를 돕는 정보가 핵심이며 인물이 세계 안에서 아는 사실과 플레이어에게만 필요한 조작 정보를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

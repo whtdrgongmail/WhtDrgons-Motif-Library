@@ -4,8 +4,8 @@
   "title": "성격 다른 두 수사관이 이끄는 범죄극",
   "original": "Buddy Cop Show",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00287",
+  "primary_tag_id": "ML-T00287",
   "description": {
     "definition": "두 수사관이 서로 다른 방식으로 사건을 풀며 동료가 된다. 수사와 관계의 변화가 나란히 진행되는 장르 형식이다. 수사라는 직업적 목표를 덜어내면 [[두 친구가 주인공인 동행 이야기]]의 동행 구조가 더 뚜렷해진다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.108",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "성격 다른 두 수사관이 이끄는 범죄극은 수사 방식이 다른 두 사람이 사건을 풀며 동료가 되는 이야기입니다. 범인을 찾는 과정과 두 사람 사이의 신뢰가 함께 변해 갑니다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "두 수사관의 파트너 관계와 범죄 해결을 함께 중심에 두는 형식이다. 성격과 조사 방식의 차이가 처음에는 갈등을 만들고 협력 과정에서 상호 신뢰의 근거로 바뀔 수 있다.\n\n한쪽이 놓친 정보를 다른 쪽이 보완하면 차이가 문제 해결의 자원이 된다. 사건의 위험은 직업적 협력을 개인적인 관계로 넓히고, 반복되는 수사에서는 두 사람의 대화 자체가 지속적인 재미가 된다.\n\n[[두 친구가 주인공인 동행 이야기]]와 구조를 공유하지만 수사라는 공동의 직무가 있다. 성별이나 대비의 유형은 고정되지 않는다. 조사 방식의 차이가 두 사람의 관계 변화와 결합하며 범죄극의 진행을 이끈다.",
+    "sections": [
+      [
+        "상세 설명",
+        "두 수사관의 파트너 관계와 범죄 해결을 함께 중심에 두는 형식이다. 성격과 조사 방식의 차이가 처음에는 갈등을 만들고 협력 과정에서 상호 신뢰의 근거로 바뀔 수 있다.\n\n한쪽이 놓친 정보를 다른 쪽이 보완하면 차이가 문제 해결의 자원이 된다. 사건의 위험은 직업적 협력을 개인적인 관계로 넓히고, 반복되는 수사에서는 두 사람의 대화 자체가 지속적인 재미가 된다.\n\n[[두 친구가 주인공인 동행 이야기]]와 구조를 공유하지만 수사라는 공동의 직무가 있다. 성별이나 대비의 유형은 고정되지 않는다. 조사 방식의 차이가 두 사람의 관계 변화와 결합하며 범죄극의 진행을 이끈다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

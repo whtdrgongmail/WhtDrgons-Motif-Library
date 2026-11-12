@@ -4,22 +4,44 @@
   "title": "무승",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00925",
+  "primary_tag_id": "ML-T00925",
   "description": {
-    "definition": "",
+    "definition": "종교 수행자로서 무술을 수련하고 그 기술을 사용하는 인물이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "09.005.009",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "종교 수행을 하면서 무술도 익힌 사람이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무승은 종교적 수행과 무술 수련이 한 인물에게 함께 나타나는 유형이다. 연결 문맥에는 [[승려]]의 수행과 [[무술가]]의 기술을 함께 지닌 불교 무승이 포함된다. 무술을 익히지 않은 수행자나 종교적 맥락이 없는 무술가를 같은 유형으로 묶지 않는다.\n\n더 구체적인 유형으로는 소림사에 속하거나 그 전통을 본뜬 공동체에서 수련한 무승이 있다. 무승이라는 말만으로 불교나 소림사 소속이 확정되지는 않는다.\n\n삭발이나 승복은 종교적 소속을 암시할 수 있지만 충분한 증거가 아니다. 작품이 제시한 공동체와 수행, 무술 수련의 관계를 살피며 외형만으로 실력이나 지위를 정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "무승은 종교적 수행과 무술 수련이 한 인물에게 함께 나타나는 유형이다. 연결 문맥에는 [[승려]]의 수행과 [[무술가]]의 기술을 함께 지닌 불교 무승이 포함된다. 무술을 익히지 않은 수행자나 종교적 맥락이 없는 무술가를 같은 유형으로 묶지 않는다.\n\n더 구체적인 유형으로는 소림사에 속하거나 그 전통을 본뜬 공동체에서 수련한 무승이 있다. 무승이라는 말만으로 불교나 소림사 소속이 확정되지는 않는다.\n\n삭발이나 승복은 종교적 소속을 암시할 수 있지만 충분한 증거가 아니다. 작품이 제시한 공동체와 수행, 무술 수련의 관계를 살피며 외형만으로 실력이나 지위를 정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "급조한 십자가로 초자연적 적을 막기",
   "original": "Improvised Cross",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02527",
+  "primary_tag_id": "ML-T02527",
   "description": {
     "definition": "성스러운 표식에 약한 존재를 상대할 때 주변 물건이나 몸으로 십자가 모양을 만들어 그 효력을 대신 얻는다.",
     "detail": "작품 사례: 《[[드래곤볼]]》에서 우파는 팔을 벌려 몸으로 십자가 모양을 만들고 드라큘라맨을 겁에 질리게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "정식 [[성물]]을 이미 들고 있는 경우와 구별한다. 단순한 직각 자체가 약점인지 신앙의 표지가 중요한지도 정해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.011",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001375",
+      "work_card_id": "MM-MEDIA-002561",
       "description_ko": "《드래곤볼》에서 우파는 팔을 벌려 몸으로 십자가 모양을 만들고 드라큘라맨을 겁에 질리게 한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주변 물건이나 몸의 자세를 십자가 모양으로 만들어 초자연적 적을 막는다. 정식 [[성물]] 없이도 형태와 신앙의 [[상징]]이 효과를 내는지 세계의 규칙을 드러낼 수 있다.\n\n이미 지니던 십자가와는 준비 방식이 다르다. 직각의 형태 자체가 효력을 갖는지 믿음이 필요한지는 작품마다 구분해야 한다.\n\n《[[드래곤볼]]》의 우파는 팔을 벌려 십자가를 만들고 드라큘라맨을 겁먹게 한다. 몸의 자세가 즉석 대용품으로 기능한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주변 물건이나 몸의 자세를 십자가 모양으로 만들어 초자연적 적을 막는다. 정식 [[성물]] 없이도 형태와 신앙의 [[상징]]이 효과를 내는지 세계의 규칙을 드러낼 수 있다.\n\n이미 지니던 십자가와는 준비 방식이 다르다. 직각의 형태 자체가 효력을 갖는지 믿음이 필요한지는 작품마다 구분해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[드래곤볼]]》의 우파는 팔을 벌려 십자가를 만들고 드라큘라맨을 겁먹게 한다. 몸의 자세가 즉석 대용품으로 기능한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "제복을 빼앗아 상대편으로 위장하기",
   "original": "Mugged for Disguise",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00787",
+  "primary_tag_id": "ML-T00787",
   "description": {
     "definition": "잠입하려는 인물이 경비원이나 다른 사람을 제압한 뒤 그 옷과 제복을 빼앗아 신분을 가장한다.",
     "detail": "탈취 장면을 화면 밖의 소리로 처리하고 다음 장면에서 제복 차림으로 보여 주는 희극적 생략이 흔하다. 원래 주인이 돌아오면 위장이 드러날 수 있다.\n\n작품 사례: 《[[빅 피니시 닥터 후(오디오 드라마)]]》의 한 오디오극에서 일행은 병사들의 제복을 빼앗아 성에 들어가 닥터를 찾으려 한다.",
@@ -13,30 +13,47 @@
     "boundary": "제복을 정식으로 구하거나 새로 만드는 변장과 달리 기존 착용자의 옷을 강제로 확보하는 사건이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "누군가의 옷을 빼앗아 그 사람처럼 들어간다.\n\n작품 사례: 《[[빅 피니시 닥터 후(오디오 드라마)]]》의 한 오디오극에서 일행은 병사들의 제복을 빼앗아 성에 들어가 닥터를 찾으려 한다.",
+    "easy_ko": "누군가의 옷을 빼앗아 그 사람처럼 들어간다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T00149",
-      "work_card_id": "MM-MEDIA-002532",
+      "work_card_id": "MM-MEDIA-002199",
       "description_ko": "《빅 피니시 닥터 후(오디오 드라마)》의 한 오디오극에서 일행은 병사들의 제복을 빼앗아 성에 들어가 닥터를 찾으려 한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "잠입에 필요한 제복을 기존 착용자에게서 강제로 빼앗아 확보하는 과정이다. 제복을 입은 상대를 유인해 제압한 뒤 그 옷을 입고 나타나면 준비와 침투를 짧은 장면으로 연결할 수 있다.\n\n희극에서는 제압을 화면 밖의 효과음으로 생략하고 옷이 맞지 않는 문제를 과장하기도 한다. 원래 착용자가 돌아오거나 다른 사람에게 발견되면 위장의 단서가 된다. 정식으로 지급받거나 새로 만든 제복을 입는 변장과 달리 착용자를 상대로 한 탈취가 핵심이다.\n\n《[[빅 피니시 닥터 후(오디오 드라마)]]》의 「The Church and the Crown」에서 루페와 델마르는 버킹엄의 병사 셋을 기절시키고 제복을 빼앗는다. 두 사람과 페리는 그 제복을 입고 닥터를 찾으러 버킹엄의 성에 잠입하려 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "잠입에 필요한 제복을 기존 착용자에게서 강제로 빼앗아 확보하는 과정이다. 제복을 입은 상대를 유인해 제압한 뒤 그 옷을 입고 나타나면 준비와 침투를 짧은 장면으로 연결할 수 있다.\n\n희극에서는 제압을 화면 밖의 효과음으로 생략하고 옷이 맞지 않는 문제를 과장하기도 한다. 원래 착용자가 돌아오거나 다른 사람에게 발견되면 위장의 단서가 된다. 정식으로 지급받거나 새로 만든 제복을 입는 변장과 달리 착용자를 상대로 한 탈취가 핵심이다."
+      ],
+      [
+        "관련 작품",
+        "《[[빅 피니시 닥터 후(오디오 드라마)]]》의 「The Church and the Crown」에서 루페와 델마르는 버킹엄의 병사 셋을 기절시키고 제복을 빼앗는다. 두 사람과 페리는 그 제복을 입고 닥터를 찾으러 버킹엄의 성에 잠입하려 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

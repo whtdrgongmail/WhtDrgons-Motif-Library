@@ -4,8 +4,8 @@
   "title": "항성계 사이를 타격하는 무기",
   "original": "Interstellar Weapon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "한 항성계나 성간 공간에서 발사한 탄두·빔·효과가 다른 항성계의 먼 표적까지 도달해 타격하는 무기이다.",
     "detail": "무기 자체가 전달되는 탄두일 수도 있고, 먼 곳에 남아 공격을 발사하는 시설일 수도 있다. 사거리와 도달 시간은 우주 전쟁의 경보·억제·대응 방식을 바꾼다.\n\n작품 사례: 《[[스타워즈: 깨어난 포스]]》에서 퍼스트 오더의 초병기는 여러 광년 밖의 복수 행성을 한 차례 발사로 타격한다.",
@@ -13,19 +13,19 @@
     "boundary": "우주선이 표적까지 이동한 뒤 가까이서 사격하는 무장 플랫폼과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "함대가 적의 별까지 가는 대신 아주 먼 곳에서 쏜 공격이 그 별에 도착한다.\n\n작품 사례: 《[[스타워즈: 깨어난 포스]]》에서 퍼스트 오더의 초병기는 여러 광년 밖의 복수 행성을 한 차례 발사로 타격한다.",
+    "easy_ko": "함대가 적의 별까지 가는 대신 아주 먼 곳에서 쏜 공격이 그 별에 도착한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무기 자체가 전달되는 탄두일 수도 있고, 먼 곳에 남아 공격을 발사하는 시설일 수도 있다. 사거리와 도달 시간은 우주 전쟁의 경보·억제·대응 방식을 바꾼다.\n\n우주선이 표적까지 이동한 뒤 가까이서 사격하는 무장 플랫폼과 구별한다.\n\n《[[스타워즈: 깨어난 포스]]》에서 퍼스트 오더의 초병기는 여러 광년 밖의 복수 행성을 한 차례 발사로 타격한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "무기 자체가 전달되는 탄두일 수도 있고, 먼 곳에 남아 공격을 발사하는 시설일 수도 있다. 사거리와 도달 시간은 우주 전쟁의 경보·억제·대응 방식을 바꾼다.\n\n우주선이 표적까지 이동한 뒤 가까이서 사격하는 무장 플랫폼과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[스타워즈: 깨어난 포스]]》에서 퍼스트 오더의 초병기는 여러 광년 밖의 복수 행성을 한 차례 발사로 타격한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -6,8 +6,8 @@
   "aliases": [
     "공포를 오락으로 즐기는 수용"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-009587",
+  "primary_tag_id": "MEJE-KW-009587",
   "description": {
     "definition": "다른 사람은 겁내는 공포 콘텐츠를 적극적으로 즐기며 두려움 자체를 오락으로 받아들이는 인물형이다.",
     "detail": "",
@@ -15,11 +15,11 @@
     "boundary": "공포를 못 느끼는 능력이나 현실의 고통을 즐기는 성향과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.007.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -32,5 +32,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 사람은 무서워하는 이야기와 콘텐츠를 적극적으로 즐긴다. 두려움을 피할 대상보다 오락의 경험으로 받아들이는 취향이다.\n\n어떤 작품을 고르고 어떻게 반응하는지에 따라 공포를 좋아하는 성향이 드러난다. 실제 위협에 대한 반응과 매체를 즐기는 행동은 나누어야 한다.\n\n두려움을 전혀 못 느끼는 능력과 다르다. 현실에서 타인의 고통을 즐기는 가학성과도 동일하지 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 사람은 무서워하는 이야기와 콘텐츠를 적극적으로 즐긴다. 두려움을 피할 대상보다 오락의 경험으로 받아들이는 취향이다.\n\n어떤 작품을 고르고 어떻게 반응하는지에 따라 공포를 좋아하는 성향이 드러난다. 실제 위협에 대한 반응과 매체를 즐기는 행동은 나누어야 한다.\n\n두려움을 전혀 못 느끼는 능력과 다르다. 현실에서 타인의 고통을 즐기는 가학성과도 동일하지 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

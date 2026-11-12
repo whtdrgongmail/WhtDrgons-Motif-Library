@@ -5,8 +5,8 @@
   "original": "Escaping an Abusive Man",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "남편·가족·옛 연인 등의 폭력과 집착에서 벗어나 안전과 자율을 되찾으려는 여성을 중심에 둔다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "작품 속 여성 인물이 폭력에서 벗어나려는 서사 구조를 가리키며, 현실의 피해자나 집단 전체를 규정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가까운 관계가 위협이 되어 삶을 되찾으려 한다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가까운 남성의 폭력과 집착에서 벗어나 안전과 자율을 되찾으려는 여성을 중심에 둔다. 관계의 위협을 끝내려는 행동이 이야기를 이끈다.\n\n남편과 가족, 옛 연인이라는 가까운 지위가 안전을 보장하지 않는다는 조건이 드러난다. 무엇을 피하고 어떤 삶을 회복하려는지 연결해야 한다.\n\n현실 피해자와 여성 집단 전체를 같은 유형으로 규정하지 않는다. 개별 작품의 이탈과 회복 구조를 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가까운 남성의 폭력과 집착에서 벗어나 안전과 자율을 되찾으려는 여성을 중심에 둔다. 관계의 위협을 끝내려는 행동이 이야기를 이끈다.\n\n남편과 가족, 옛 연인이라는 가까운 지위가 안전을 보장하지 않는다는 조건이 드러난다. 무엇을 피하고 어떤 삶을 회복하려는지 연결해야 한다.\n\n현실 피해자와 여성 집단 전체를 같은 유형으로 규정하지 않는다. 개별 작품의 이탈과 회복 구조를 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

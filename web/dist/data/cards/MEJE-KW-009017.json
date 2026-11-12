@@ -4,8 +4,8 @@
   "title": "잔혹한 밀렵꾼",
   "original": "Evil Poacher",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "야생동물을 불법 포획하는 인물을 탐욕스럽고 폭력적인 악역으로 그려 자연 보호 갈등을 선명하게 만드는 인물형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불법 포획과 사냥을 하는 인물을 탐욕스럽고 폭력적인 악역으로 그리는 구성이다. 야생동물의 보호와 인간의 이익이 직접 충돌한다.\n\n포획물을 팔려는 목적과 이를 막는 사람에 대한 위협이 결합할 수 있다. 보호 대상인 동물을 무해하고 친근하게 그리면 악역의 잔혹함이 더 선명해진다.\n\n모든 사냥과 생계 활동을 같은 악행으로 보는 개념은 아니다. 작품이 불법적인 포획과 폭력을 어떻게 연결하는지에 초점을 맞춘 인물형이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불법 포획과 사냥을 하는 인물을 탐욕스럽고 폭력적인 악역으로 그리는 구성이다. 야생동물의 보호와 인간의 이익이 직접 충돌한다.\n\n포획물을 팔려는 목적과 이를 막는 사람에 대한 위협이 결합할 수 있다. 보호 대상인 동물을 무해하고 친근하게 그리면 악역의 잔혹함이 더 선명해진다.\n\n모든 사냥과 생계 활동을 같은 악행으로 보는 개념은 아니다. 작품이 불법적인 포획과 폭력을 어떻게 연결하는지에 초점을 맞춘 인물형이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

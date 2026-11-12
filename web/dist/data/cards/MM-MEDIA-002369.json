@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "엑스파일",
   "original": "The X-Files",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "The X-Files"
+  ],
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《엑스파일》은 텔레비전 작품이다.",
-    "detail": "작품 사례: 《엑스파일》은 인물들이 성이나 설명적인 호칭으로 불리는 대표 사례로 원문에 제시된다. 반복되는 호칭이 관객에게도 인물의 대표 이름이 되는 기능을 보여 준다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -39,9 +41,30 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-013810",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014460",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-022871",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《엑스파일》은 FBI의 특수한 사건을 조사하는 멀더와 스컬리의 TV 시리즈다. 초자연 현상을 믿는 멀더와 의학적·과학적 검증을 중시하는 스컬리가 같은 단서를 서로 다른 방식으로 해석한다.\n\n단독 회차의 괴이한 사건과 외계인 및 정부 은폐에 관한 장기적인 줄거리를 병행한다. 두 사람의 불일치가 단순한 방해보다 조사와 신뢰의 조건이 되며, 시리즈 사이에 나온 극장판과 부활 시즌의 위치도 구별할 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《엑스파일》은 FBI의 특수한 사건을 조사하는 멀더와 스컬리의 TV 시리즈다. 초자연 현상을 믿는 멀더와 의학적·과학적 검증을 중시하는 스컬리가 같은 단서를 서로 다른 방식으로 해석한다.\n\n단독 회차의 괴이한 사건과 외계인 및 정부 은폐에 관한 장기적인 줄거리를 병행한다. 두 사람의 불일치가 단순한 방해보다 조사와 신뢰의 조건이 되며, 시리즈 사이에 나온 극장판과 부활 시즌의 위치도 구별할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "둘 다 아는 정보를 굳이 서로 설명하기",
   "original": "As You Know",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "등장인물들이 이미 공유한 사실을 다시 말해 관객에게 설정을 전달한다. 전달해야 할 정보와 인물 사이의 자연스러운 대화가 충돌한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대화의 실제 수신자는 극중 인물인데 필요한 정보는 관객을 향할 수 있다. 둘 다 아는 내용을 설명하면 정보 제공의 목적이 인물의 자연스러운 말과 어긋난다.\n\n첫 회차와 오랜 공백 뒤의 장면에서는 배경을 빠르게 전달하는 수단이 된다. 대화의 이유를 따로 마련했는지에 따라 어색함과 효율의 균형이 달라진다.\n\n앞선 사실을 확인하거나 오해를 바로잡는 대화와는 다르다. 듣는 인물에게 새 정보가 없는데 설명이 필요한 것처럼 진행되는지가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대화의 실제 수신자는 극중 인물인데 필요한 정보는 관객을 향할 수 있다. 둘 다 아는 내용을 설명하면 정보 제공의 목적이 인물의 자연스러운 말과 어긋난다.\n\n첫 회차와 오랜 공백 뒤의 장면에서는 배경을 빠르게 전달하는 수단이 된다. 대화의 이유를 따로 마련했는지에 따라 어색함과 효율의 균형이 달라진다.\n\n앞선 사실을 확인하거나 오해를 바로잡는 대화와는 다르다. 듣는 인물에게 새 정보가 없는데 설명이 필요한 것처럼 진행되는지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

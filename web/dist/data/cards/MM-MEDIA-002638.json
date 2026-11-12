@@ -4,27 +4,27 @@
   "title": "도라에몽",
   "original": "Doraemon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《도라에몽》은 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《도라에몽》의 토관이 쌓인 공터는 아이들이 자주 모이고 야구를 하는 공간으로, 집이나 학교 밖에서 일상을 연결하는 단골 장소이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -45,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미래에서 온 [[로봇]] 고양이가 도구로 소년 노비타를 돕는 일본 만화다. 노비타는 신기한 장치를 이용해 좋아하는 사람에게 잘 보이거나 자신을 괴롭히는 아이들에게 대응하려 한다.\n\n편리한 기술은 곧 예상하지 못한 문제를 일으켜 본래의 갈등을 스스로 해결하게 만든다. 여러 애니메이션과 영화로 확장되었지만, 이 항목은 도구와 생활 문제를 결합하는 원작 만화의 구조를 중심으로 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미래에서 온 [[로봇]] 고양이가 도구로 소년 노비타를 돕는 일본 만화다. 노비타는 신기한 장치를 이용해 좋아하는 사람에게 잘 보이거나 자신을 괴롭히는 아이들에게 대응하려 한다.\n\n편리한 기술은 곧 예상하지 못한 문제를 일으켜 본래의 갈등을 스스로 해결하게 만든다. 여러 애니메이션과 영화로 확장되었지만, 이 항목은 도구와 생활 문제를 결합하는 원작 만화의 구조를 중심으로 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

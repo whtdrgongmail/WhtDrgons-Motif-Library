@@ -4,8 +4,8 @@
   "title": "구조자의 직업을 잇다",
   "original": "Following in Their Rescuer's Footsteps",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01013",
+  "primary_tag_id": "ML-T01013",
   "description": {
     "definition": "위험에서 자신을 구한 사람에게 영감을 받은 인물이 나중에 같은 직업을 택해 다른 사람을 돕는다. [[친척의 길을 따라 택한 직업]]는 친척의 직업을 잇는 경우이고, 이 카드는 자신을 구한 사람의 일을 이어 간다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "어릴 때나 위험한 순간에 자신을 구한 사람을 본받아 같은 직업으로 남을 돕는 전개다. 받은 도움을 다음 사람에게 이어 주는 의미가 있으며, [[친척의 길을 따라 택한 직업]]과 달리 구조의 경험이 진로의 직접적인 계기다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "생명의 위기를 겪은 뒤 자신을 도운 사람의 일을 장래의 목표로 삼는다. 구조 경험이 단순한 감사의 기억을 넘어 다른 사람을 돕는 직업을 선택하는 원인이 된다.\n\n구조자를 직접 알면 그 사람만큼 훌륭해지고 싶다는 존경이 동기가 될 수 있다. 의료와 소방 같은 직업뿐 아니라 초인적인 구조 활동에도 적용되며, 나중에 우상의 결함을 알게 되면 직업적 이상이 시험받는다.\n\n[[친척의 길을 따라 택한 직업]]과는 영향을 준 관계가 다르다. 가족의 기대보다 자신이 받은 도움을 되돌려 주려는 경험이 중요하며, 구조자를 모방하는 외형과 실제 진로 선택도 구별할 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "생명의 위기를 겪은 뒤 자신을 도운 사람의 일을 장래의 목표로 삼는다. 구조 경험이 단순한 감사의 기억을 넘어 다른 사람을 돕는 직업을 선택하는 원인이 된다.\n\n구조자를 직접 알면 그 사람만큼 훌륭해지고 싶다는 존경이 동기가 될 수 있다. 의료와 소방 같은 직업뿐 아니라 초인적인 구조 활동에도 적용되며, 나중에 우상의 결함을 알게 되면 직업적 이상이 시험받는다.\n\n[[친척의 길을 따라 택한 직업]]과는 영향을 준 관계가 다르다. 가족의 기대보다 자신이 받은 도움을 되돌려 주려는 경험이 중요하며, 구조자를 모방하는 외형과 실제 진로 선택도 구별할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

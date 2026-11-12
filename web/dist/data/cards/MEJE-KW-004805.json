@@ -4,8 +4,8 @@
   "title": "체크포인트가 드문 구간",
   "original": "Checkpoint Starvation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02139",
+  "primary_tag_id": "ML-T02139",
   "description": {
     "definition": "게임에서 저장이나 재시작 지점이 오랫동안 나타나지 않는다. 실수 한 번의 손실이 커지면서 긴장과 피로가 함께 늘어난다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.008.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "저장이나 재시작 지점을 오랫동안 제공하지 않아 실패 때 되돌아가야 하는 진행량이 커지는 게임 구성이다. 같은 장애물도 앞서 쌓인 성과를 잃을 가능성 때문에 더 부담스러워진다.\n\n플레이어는 위험한 도전을 계속할지 다음 안전 지점을 찾을지 고민한다. 긴장이 높아지는 동시에 중단하기 어려운 피로도 생길 수 있어 난도뿐 아니라 이용 시간의 배분에도 영향을 준다.\n\n[[플레이어]]가 저장 기능을 자발적으로 쓰지 않는 경우와 구분한다. 지점 사이의 실제 진행 부담이 기준이며, 반복 실패가 반드시 새로운 학습 기회를 준다고 단정하거나 어려움 전체와 동일시하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "저장이나 재시작 지점을 오랫동안 제공하지 않아 실패 때 되돌아가야 하는 진행량이 커지는 게임 구성이다. 같은 장애물도 앞서 쌓인 성과를 잃을 가능성 때문에 더 부담스러워진다.\n\n플레이어는 위험한 도전을 계속할지 다음 안전 지점을 찾을지 고민한다. 긴장이 높아지는 동시에 중단하기 어려운 피로도 생길 수 있어 난도뿐 아니라 이용 시간의 배분에도 영향을 준다.\n\n[[플레이어]]가 저장 기능을 자발적으로 쓰지 않는 경우와 구분한다. 지점 사이의 실제 진행 부담이 기준이며, 반복 실패가 반드시 새로운 학습 기회를 준다고 단정하거나 어려움 전체와 동일시하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

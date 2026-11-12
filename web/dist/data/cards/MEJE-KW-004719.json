@@ -4,8 +4,8 @@
   "title": "인물의 장광설",
   "original": "Character Filibuster",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01977",
+  "primary_tag_id": "ML-T01977",
   "description": {
     "definition": "인물이 대화의 자연스러운 길이를 넘어서 자신의 철학이나 주장을 길고 체계적인 연설처럼 펼치는 장면.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 보통 대화의 범위를 넘어 길고 체계적인 논설을 즉석에서 말하는 장면이다. 서론과 논거를 갖춘 철학적 주장이 대화 대신 이어지는 형태가 대표적이다.\n\n인물의 세계관을 충분히 전달할 수 있지만 주변이 끼어들지 않고 계속 듣는 상황까지 요구한다. 서사의 시간이 멈춘 듯 느껴지면 발화가 인물보다 작가의 주장에 가까워 보일 수 있다.\n\n공식 연설과 재판처럼 긴 발언이 자연스러운 장면과는 맥락이 다르다. 길이만보다 일상 상황에서 비현실적으로 완성된 논설이 중단 없이 이어지는지가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 보통 대화의 범위를 넘어 길고 체계적인 논설을 즉석에서 말하는 장면이다. 서론과 논거를 갖춘 철학적 주장이 대화 대신 이어지는 형태가 대표적이다.\n\n인물의 세계관을 충분히 전달할 수 있지만 주변이 끼어들지 않고 계속 듣는 상황까지 요구한다. 서사의 시간이 멈춘 듯 느껴지면 발화가 인물보다 작가의 주장에 가까워 보일 수 있다.\n\n공식 연설과 재판처럼 긴 발언이 자연스러운 장면과는 맥락이 다르다. 길이만보다 일상 상황에서 비현실적으로 완성된 논설이 중단 없이 이어지는지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,17 +4,17 @@
   "title": "아컴 호러",
   "original": "Arkham Horror",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
     "definition": "《아컴 호러》는 테이블톱 게임 작품이다.",
-    "detail": "작품 사례: 보드게임 《아컴 호러》 3판은 시나리오의 코덱스가 사건과 선택을 제시하고 플레이의 결과에 따라 다른 결말로 이어지도록 한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -45,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "조사자들이 협력하여 고대의 존재가 깨어나는 것을 막는 크툴루 신화 기반의 보드게임이다. 마을을 조사하고 물품을 모으며 괴물 및 낯선 세계에 대응하는 행동이 도시의 운명과 연결된다.\n\n여러 카드와 표식은 우연한 조우와 인물 상태를 분담해 기록한다. 한 명의 강한 영웅보다 여러 조사자의 자원과 위험을 함께 관리해야 하며, 정신의 붕괴도 이야기 안의 위협으로 포함된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조사자들이 협력하여 고대의 존재가 깨어나는 것을 막는 크툴루 신화 기반의 보드게임이다. 마을을 조사하고 물품을 모으며 괴물 및 낯선 세계에 대응하는 행동이 도시의 운명과 연결된다.\n\n여러 카드와 표식은 우연한 조우와 인물 상태를 분담해 기록한다. 한 명의 강한 영웅보다 여러 조사자의 자원과 위험을 함께 관리해야 하며, 정신의 붕괴도 이야기 안의 위협으로 포함된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

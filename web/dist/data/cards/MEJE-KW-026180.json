@@ -4,8 +4,8 @@
   "title": "대리인을 보내 이별 통보하기",
   "original": "Proxy Breakup",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00732",
+  "primary_tag_id": "ML-T00732",
   "description": {
     "definition": "직접 연인에게 헤어지자고 말하지 않고 제삼자에게 그 말을 대신 전하도록 맡긴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "제삼자가 독자적으로 관계를 망치는 행위와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이별을 결정한 사람이 직접 대면하는 대신 다른 사람에게 통보를 맡긴다. 상대는 관계의 종료와 함께 당사자의 부재도 경험한다.\n\n대리인은 말을 전하면서 양쪽의 감정을 감당해야 할 수 있다. 이유를 충분히 설명하지 못하면 상처와 오해가 더 커진다.\n\n편지를 직접 보내는 방식과는 전달자의 인격적 역할이 다르다. 실제로 이별의 뜻을 위임했다는 조건이 필요하며 제삼자가 멋대로 갈라놓은 경우와 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이별을 결정한 사람이 직접 대면하는 대신 다른 사람에게 통보를 맡긴다. 상대는 관계의 종료와 함께 당사자의 부재도 경험한다.\n\n대리인은 말을 전하면서 양쪽의 감정을 감당해야 할 수 있다. 이유를 충분히 설명하지 못하면 상처와 오해가 더 커진다.\n\n편지를 직접 보내는 방식과는 전달자의 인격적 역할이 다르다. 실제로 이별의 뜻을 위임했다는 조건이 필요하며 제삼자가 멋대로 갈라놓은 경우와 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

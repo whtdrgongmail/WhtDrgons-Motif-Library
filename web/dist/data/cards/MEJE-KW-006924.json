@@ -4,8 +4,8 @@
   "title": "패배할 때마다 하는 대사",
   "original": "Defeat Catchphrase",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01996",
+  "primary_tag_id": "ML-T01996",
   "description": {
     "definition": "반복적으로 패배하는 인물이 매번 같은 문장을 외쳐 실패 자체를 알아볼 수 있는 장면 규칙으로 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 패배할 때마다 거의 같은 문장을 반복하는 대사 관습이다. 실패의 순간에 정해진 반응이 붙어 관객이 회차의 마무리를 알아보게 한다.\n\n좌절과 원망을 외치거나 다음의 복수를 다짐하는 내용이 사용될 수 있다. 익숙한 문구가 상황에 맞게 조금 바뀌면 반복 자체가 농담의 재료가 된다.\n\n한 번 큰소리로 한 말을 모두 포함하지는 않는다. 여러 패배에서 되풀이된다는 조건이 중요하며, 대사 뒤 원상태로 돌아오는 구조는 적대 관계의 지속성과 희극적인 안전감을 함께 제공한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 패배할 때마다 거의 같은 문장을 반복하는 대사 관습이다. 실패의 순간에 정해진 반응이 붙어 관객이 회차의 마무리를 알아보게 한다.\n\n좌절과 원망을 외치거나 다음의 복수를 다짐하는 내용이 사용될 수 있다. 익숙한 문구가 상황에 맞게 조금 바뀌면 반복 자체가 농담의 재료가 된다.\n\n한 번 큰소리로 한 말을 모두 포함하지는 않는다. 여러 패배에서 되풀이된다는 조건이 중요하며, 대사 뒤 원상태로 돌아오는 구조는 적대 관계의 지속성과 희극적인 안전감을 함께 제공한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

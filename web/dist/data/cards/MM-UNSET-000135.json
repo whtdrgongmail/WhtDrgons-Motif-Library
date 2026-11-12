@@ -2,24 +2,66 @@
   "id": "MM-UNSET-000135",
   "kind": "keyword",
   "title": "쿠키 크리스프",
-  "original": "",
+  "original": "Cookie Crisp",
+  "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02412",
+  "primary_tag_id": "ML-T02412",
   "description": {
-    "definition": "",
+    "definition": "쿠키 크리스프는 초콜릿 칩 쿠키를 닮은 작은 조각을 우유에 말아 먹는 아침용 시리얼 브랜드다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "29.008",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "작은 쿠키처럼 생긴 시리얼을 파는 상품 브랜드다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000248",
+      "card_id": "MM-UNSET-000135",
+      "label_ko": "쿠키 크리스프 공식 브랜드",
+      "icon_key": "website",
+      "url": "https://www.generalmills.com/our-food/brands/cookie-crisp",
+      "description_ko": "제너럴 밀스의 쿠키 크리스프 브랜드 소개",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "쿠키 크리스프는 제너럴 밀스의 아침용 [[시리얼]] 브랜드다. 작은 초콜릿 칩 쿠키와 비슷한 형태와 맛을 상품의 정체성으로 사용한다. 브랜드 이름은 실제 식품을 가리키며, 광고 속 인물이나 동물의 이름과 같은 개념이 아니다.\n\n이 카드를 연결한 광고 문맥에서는 상품을 알리는 캐릭터가 달라져도 브랜드명이 유지된다는 점이 중요하다. [[광고 캐릭터]]의 외형과 역할은 특정 시기의 홍보 방식이며, 제품 자체의 정의에 포함되지 않는다. 공식 브랜드 소개는 상품의 존재와 현재 특징을 확인하는 근거지만 과거 캐릭터의 교체 시점을 확정하는 자료는 아니다.\n\n브랜드를 작품처럼 다룰 때에는 실재 상품과 광고 속 허구적 표현을 구분한다. 캐릭터를 분석한다면 해당 광고의 등장인물 카드를 별도로 만들고, 이 카드는 식품 브랜드와 그 표현의 관계를 설명하는 연결점으로 사용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "쿠키 크리스프는 제너럴 밀스의 아침용 [[시리얼]] 브랜드다. 작은 초콜릿 칩 쿠키와 비슷한 형태와 맛을 상품의 정체성으로 사용한다. 브랜드 이름은 실제 식품을 가리키며, 광고 속 인물이나 동물의 이름과 같은 개념이 아니다."
+      ],
+      [
+        "사례",
+        "이 카드를 연결한 광고 문맥에서는 상품을 알리는 캐릭터가 달라져도 브랜드명이 유지된다는 점이 중요하다. [[광고 캐릭터]]의 외형과 역할은 특정 시기의 홍보 방식이며, 제품 자체의 정의에 포함되지 않는다. 공식 브랜드 소개는 상품의 존재와 현재 특징을 확인하는 근거지만 과거 캐릭터의 교체 시점을 확정하는 자료는 아니다."
+      ],
+      [
+        "관련 작품",
+        "브랜드를 작품처럼 다룰 때에는 실재 상품과 광고 속 허구적 표현을 구분한다. 캐릭터를 분석한다면 해당 광고의 등장인물 카드를 별도로 만들고, 이 카드는 식품 브랜드와 그 표현의 관계를 설명하는 연결점으로 사용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

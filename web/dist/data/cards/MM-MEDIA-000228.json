@@ -4,25 +4,25 @@
   "title": "Day of the Barney Trilogy",
   "original": "Day of the Barney Trilogy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00106",
+  "primary_tag_id": "ML-T00106",
   "description": {
     "definition": "이 카드는 팬픽 시리즈 《Day of the Barney Trilogy》를 가리킨다. 이 라이브러리에서는 [[주요 대상 밖의 혐오 집단]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Barney의 아동용 설정은 주요 대상 밖의 수용자들에게 공격적인 팬 창작의 소재가 되었으며, Day of the Barney Trilogy는 캐릭터를 공포스러운 존재로 바꾼 사례다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "source_relation",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Day of the Barney Trilogy》는 브라이언 불이 1993년 발표한 글에서 출발한 비공식 팬 소설 연작이다. 어린이 방송의 바니를 폭력적인 재난을 일으키는 적대적 존재로 재해석한다.\n\n첫 작품에서는 바니의 말을 들은 아이들이 어른들을 공격한다. 후속편들은 그 사건 이후의 황폐한 사회를 무대로 삼고 바니와 베이비 밥에게 악마적인 기원을 부여하며 설정을 확장한다.\n\n초기 단편의 어두운 농담은 긴 후속 이야기에서 더 진지한 묵시록적 서사로 이동한다. 원작 방송의 공식 설정을 설명하는 자료가 아니라, 원작에 대한 반감을 극단적인 허구로 바꾼 [[팬 창작]]이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Day of the Barney Trilogy》는 브라이언 불이 1993년 발표한 글에서 출발한 비공식 팬 소설 연작이다. 어린이 방송의 바니를 폭력적인 재난을 일으키는 적대적 존재로 재해석한다.\n\n첫 작품에서는 바니의 말을 들은 아이들이 어른들을 공격한다. 후속편들은 그 사건 이후의 황폐한 사회를 무대로 삼고 바니와 베이비 밥에게 악마적인 기원을 부여하며 설정을 확장한다.\n\n초기 단편의 어두운 농담은 긴 후속 이야기에서 더 진지한 묵시록적 서사로 이동한다. 원작 방송의 공식 설정을 설명하는 자료가 아니라, 원작에 대한 반감을 극단적인 허구로 바꾼 [[팬 창작]]이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

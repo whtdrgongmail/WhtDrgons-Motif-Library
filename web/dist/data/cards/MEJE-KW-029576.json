@@ -6,8 +6,8 @@
   "aliases": [
     "이어지는 회차 앞에 지난 내용을 요약하기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00555",
+  "primary_tag_id": "ML-T00555",
   "description": {
     "definition": "다음 부분을 시작하며 이전 회차의 영상을 짧게 이어 붙여 이어질 사건의 맥락을 상기시킨다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "새로운 정보를 과거 장면처럼 처음 공개하는 회상과 달리 이미 공개된 사건의 재정리가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.001.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,5 +32,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이전 장면을 골라 다시 제시하면 새 회차에 필요한 기억이 강조된다. 긴 연속 이야기의 관객은 그 정보를 현재 사건과 연결하며 진입할 수 있다.\n\n요약은 모든 과거를 균등하게 다루지 않는다. 특정 장면을 다시 보여 주는 선택은 곧 필요한 단서를 예고할 수 있어 관객의 기대에도 영향을 준다.\n\n[[시작 영상을 몽타주로 구성하기]]는 타이틀의 인상 형성이 중심이다. 이 구성은 이어지는 사건의 맥락을 기억시키는 정보의 기능을 맡는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이전 장면을 골라 다시 제시하면 새 회차에 필요한 기억이 강조된다. 긴 연속 이야기의 관객은 그 정보를 현재 사건과 연결하며 진입할 수 있다.\n\n요약은 모든 과거를 균등하게 다루지 않는다. 특정 장면을 다시 보여 주는 선택은 곧 필요한 단서를 예고할 수 있어 관객의 기대에도 영향을 준다.\n\n[[시작 영상을 몽타주로 구성하기]]는 타이틀의 인상 형성이 중심이다. 이 구성은 이어지는 사건의 맥락을 기억시키는 정보의 기능을 맡는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

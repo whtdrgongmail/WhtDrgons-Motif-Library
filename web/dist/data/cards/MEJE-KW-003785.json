@@ -4,8 +4,8 @@
   "title": "갈라진 길이 다시 합쳐지는 이야기",
   "original": "Branch-and-Bottleneck Plot Structure",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00618",
+  "primary_tag_id": "ML-T00618",
   "description": {
     "definition": "선택에 따라 사건의 중간 경로가 달라지지만 뒤에는 공통 장면으로 돌아온다. 선택의 자유와 다시 만나는 줄기의 범위를 함께 설계한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이야기의 경로가 여러 갈래로 나뉘었다가 공통 사건으로 다시 합쳐지는 구조다. 완전히 선형인 이야기와 끝없이 별도 경로로 확장하는 분기 사이의 절충으로 사용한다.\n\n한 경로를 고르면 다른 경로를 볼 수 없는 배타적 분기와, 여러 과제를 모두 수행하되 순서만 선택하는 병렬 과제가 있다. 두 방식 모두 일정 지점 이후의 공통 전개를 공유한다.\n\n합류가 선택의 의미를 지우지 않도록 후속 대사와 결과에 이전 행동을 반영할 수 있다. 경로의 차이와 최종 도착점의 동일성은 별개의 설계 요소다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이야기의 경로가 여러 갈래로 나뉘었다가 공통 사건으로 다시 합쳐지는 구조다. 완전히 선형인 이야기와 끝없이 별도 경로로 확장하는 분기 사이의 절충으로 사용한다.\n\n한 경로를 고르면 다른 경로를 볼 수 없는 배타적 분기와, 여러 과제를 모두 수행하되 순서만 선택하는 병렬 과제가 있다. 두 방식 모두 일정 지점 이후의 공통 전개를 공유한다.\n\n합류가 선택의 의미를 지우지 않도록 후속 대사와 결과에 이전 행동을 반영할 수 있다. 경로의 차이와 최종 도착점의 동일성은 별개의 설계 요소다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

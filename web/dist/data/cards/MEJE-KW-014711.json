@@ -4,8 +4,8 @@
   "title": "동료를 지키려고 적의 진입 막기",
   "original": "You Shall Not Pass!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02527",
+  "primary_tag_id": "ML-T02527",
   "description": {
     "definition": "인물이 적의 앞을 가로막아 그 뒤에 있는 동료들을 보호하거나 벗어날 기회를 주는 장면이다.",
     "detail": "작품 사례: [[Ring of Red]]의 마지막 임무에서 바이제거와 료코는 뒤에 남아 소련군을 막으며, 동료들이 탈출할 시간을 벌어 준다.",
@@ -13,10 +13,10 @@
     "boundary": "최대한 많은 적을 쓰러뜨리는 최후 항전이나 단순한 점령 방어와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.011",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "동료가 탈출하고 안전해질 시간을 확보하려 적의 접근을 막는 행동이다. 저지의 성패는 적의 총 손실보다 지켜야 할 사람의 이동과 생존에 연결된다.\n\n많은 적을 쓰러뜨리는 것 자체가 목적인 최후 항전과 다르다. 특정 구역의 점령 유지보다 동료의 보호가 중심 목적이어야 한다.\n\n[[Ring of Red]]의 마지막 임무에서 바이제거와 료코는 소련군을 막으려고 남는다. 뒤에 머무는 선택이 동료들의 탈출 시간을 확보한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "동료가 탈출하고 안전해질 시간을 확보하려 적의 접근을 막는 행동이다. 저지의 성패는 적의 총 손실보다 지켜야 할 사람의 이동과 생존에 연결된다.\n\n많은 적을 쓰러뜨리는 것 자체가 목적인 최후 항전과 다르다. 특정 구역의 점령 유지보다 동료의 보호가 중심 목적이어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Ring of Red]]의 마지막 임무에서 바이제거와 료코는 소련군을 막으려고 남는다. 뒤에 머무는 선택이 동료들의 탈출 시간을 확보한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

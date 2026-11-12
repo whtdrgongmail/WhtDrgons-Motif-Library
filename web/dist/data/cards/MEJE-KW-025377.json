@@ -4,8 +4,8 @@
   "title": "여러 플레이를 이어 주는 상위 진행 체계",
   "original": "Macrogame",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02095",
+  "primary_tag_id": "ML-T02095",
   "description": {
     "definition": "한 번의 플레이나 한 이용자의 세션을 넘어 결과·보상·상태가 이어지도록 만든 게임 구조다.",
     "detail": "작품 사례: 《[[데빌 메이 크라이]]》 시리즈는 같은 저장 파일에서 얻은 기술과 강화가 다음 플레이에도 이어진다. 첫 진행에서 마련한 능력이 더 높은 난도의 도전을 준비하게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 게임 밖에서 전략을 논의하는 메타게임과 다르며 상태나 성과의 연결이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.003.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 세션의 결과가 하나의 상위 진행으로 이어진다. 개별 게임이 끝나도 상태와 보상이 다음 플레이의 조건이 된다.\n\n여러 이용자의 기여가 합쳐지는 방식도 가능하다. 한 번의 판 안에서만 성장하는 규칙과는 누적의 범위가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 세션의 결과가 하나의 상위 진행으로 이어진다. 개별 게임이 끝나도 상태와 보상이 다음 플레이의 조건이 된다.\n\n여러 이용자의 기여가 합쳐지는 방식도 가능하다. 한 번의 판 안에서만 성장하는 규칙과는 누적의 범위가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

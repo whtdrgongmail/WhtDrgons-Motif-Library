@@ -1,25 +1,48 @@
 {
   "id": "MM-UNSET-000136",
-  "kind": "keyword",
+  "kind": "organization",
   "title": "아이언 메이든",
-  "original": "",
+  "original": "Iron Maiden",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
   "primary_tag_id": null,
   "description": {
-    "definition": "",
+    "definition": "아이언 메이든은 영국의 헤비메탈 밴드로, 음반과 공연에 마스코트 에디의 여러 모습을 사용한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": null,
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "음악을 만드는 영국의 밴드다. 음반 그림마다 모습이 달라지는 에디라는 캐릭터로도 알려져 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "아이언 메이든의 공식 소개는 에디를 밴드의 마스코트로 설명하며, 음반 표지와 상품에 반복해서 등장한다고 밝힌다. 따라서 이 카드는 에디라는 캐릭터 자체가 아니라 밴드를 가리킨다.\n\n공식 자료는 《[[Powerslave]]》와 연결된 파라오 에디, 《[[Somewhere in Time]]》와 연결된 사이보그 에디를 같은 마스코트의 서로 다른 모습으로 다룬다. 음반마다 외형을 바꾸면서도 하나의 상징을 계속 사용하는 방식을 보여 준다.\n\n밴드 공식 사이트는 파라오 에디와 사이보그 에디를 에디의 여러 모습으로 소개한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "아이언 메이든의 공식 소개는 에디를 밴드의 마스코트로 설명하며, 음반 표지와 상품에 반복해서 등장한다고 밝힌다. 따라서 이 카드는 에디라는 캐릭터 자체가 아니라 밴드를 가리킨다.\n\n공식 자료는 《[[Powerslave]]》와 연결된 파라오 에디, 《[[Somewhere in Time]]》와 연결된 사이보그 에디를 같은 마스코트의 서로 다른 모습으로 다룬다. 음반마다 외형을 바꾸면서도 하나의 상징을 계속 사용하는 방식을 보여 준다."
+      ],
+      [
+        "사례",
+        "밴드 공식 사이트는 파라오 에디와 사이보그 에디를 에디의 여러 모습으로 소개한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

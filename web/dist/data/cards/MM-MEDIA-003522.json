@@ -4,22 +4,61 @@
   "title": "아기공룡 둘리(만화)",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02502",
+  "primary_tag_id": "ML-T02502",
   "description": {
-    "definition": "",
+    "definition": "《아기공룡 둘리(만화)》는 김수정이 창작한 한국 만화 《아기공룡 둘리》의 원작 만화를 가리킨다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "02.012.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "production_culture",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "둘리와 주변 인물의 사건을 그린 김수정의 만화 원작이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000137",
+      "card_id": "MM-MEDIA-003522",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.komacon.kr/b_sys/index.asp?b_code=18&b_mode=view&b_sq=18578",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "한국만화영상진흥원은 《[[아기공룡 둘리]]》를 대표적인 명랑만화로 전시했고, 만화 잡지 《[[보물섬]]》의 실물 자료 전시에서도 김수정의 작품으로 소개했다. 잡지에 실린 만화라는 출발점을 알면 같은 캐릭터가 등장하는 [[애니메이션]]과 원작의 제작 이력을 구분할 수 있다.\n\n한국만화영상진흥원의 만화비평은 둘리와 고길동의 충돌을 작품의 웃음을 읽는 중요한 관계로 다룬다. 둘리의 소동을 둘러싸고 어른의 생활 질서와 낯선 동거인의 행동이 맞부딪히는 구조다. 명랑만화라는 분류를 그림체만으로 이해하기보다 인물 사이의 마찰이 반복해서 웃음으로 바뀌는 방식과 연결해 볼 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한국만화영상진흥원은 《[[아기공룡 둘리]]》를 대표적인 명랑만화로 전시했고, 만화 잡지 《[[보물섬]]》의 실물 자료 전시에서도 김수정의 작품으로 소개했다. 잡지에 실린 만화라는 출발점을 알면 같은 캐릭터가 등장하는 [[애니메이션]]과 원작의 제작 이력을 구분할 수 있다.\n\n한국만화영상진흥원의 만화비평은 둘리와 고길동의 충돌을 작품의 웃음을 읽는 중요한 관계로 다룬다. 둘리의 소동을 둘러싸고 어른의 생활 질서와 낯선 동거인의 행동이 맞부딪히는 구조다. 명랑만화라는 분류를 그림체만으로 이해하기보다 인물 사이의 마찰이 반복해서 웃음으로 바뀌는 방식과 연결해 볼 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 5,
+    "replaces_short_fields": true
+  }
 }

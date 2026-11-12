@@ -4,8 +4,8 @@
   "title": "유난히 자주 웃는 인물",
   "original": "The Hyena",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00938",
+  "primary_tag_id": "ML-T00938",
   "description": {
     "definition": "다른 인물보다 자주 또는 쉽게 웃는 반응이 뚜렷한 성격 표지가 되는 인물형이다. 즐거움·조롱·긴장 등 웃음의 이유는 맥락에 따라 달라진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 하이에나이거나 희극 역할을 맡을 필요는 없으며 한 번 크게 웃는 장면만으로는 부족하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 인물에 비해 자주 또는 쉽게 웃는 반응이 반복된다. 웃음의 빈도와 시점이 알아볼 수 있는 성격의 표지가 된다.\n\n같은 웃음도 즐거움과 조롱, 긴장에서 비롯될 수 있다. 웃는 이유와 주변의 반응을 결합하면 친근한 분위기나 불편한 인상을 서로 다르게 만들 수 있다.\n\n한 번 크게 웃는 장면만으로는 반복 성향을 정하기 어렵다. 동물의 정체나 희극적인 직책이 아니라 지속적인 반응 방식이 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 인물에 비해 자주 또는 쉽게 웃는 반응이 반복된다. 웃음의 빈도와 시점이 알아볼 수 있는 성격의 표지가 된다.\n\n같은 웃음도 즐거움과 조롱, 긴장에서 비롯될 수 있다. 웃는 이유와 주변의 반응을 결합하면 친근한 분위기나 불편한 인상을 서로 다르게 만들 수 있다.\n\n한 번 크게 웃는 장면만으로는 반복 성향을 정하기 어렵다. 동물의 정체나 희극적인 직책이 아니라 지속적인 반응 방식이 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

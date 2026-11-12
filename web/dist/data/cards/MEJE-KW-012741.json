@@ -4,8 +4,8 @@
   "title": "슬픔을 드러내는 잿빛 비",
   "original": "Gray Rain of Depression",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01863",
+  "primary_tag_id": "ML-T01863",
   "description": {
     "definition": "비와 흐린 빛을 [[인물]]의 실망·상실·우울감과 맞물리게 하여 [[감정]]을 강화하는 환경 연출이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "[[분노]]나 위험을 강조하는 [[폭풍]]과 구별하며 비 자체가 [[슬픔]]의 증거인 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "22",
+    "code": "22.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비와 흐린 조명은 인물의 감정 상태를 공간 전체에 투사하는 환경 연출로 작동한다. 창밖의 빗줄기와 낮은 채도는 대사로 직접 말하지 않은 상실감이나 실망을 장면의 분위기로 보강할 수 있다.\n\n날씨가 감정을 단독으로 증명하는 것은 아니다. 인물의 행동, 장면 전후의 사건, 다른 시청각 요소가 같은 정서를 지지하는지 확인하며, 위협이나 분노를 나타내는 [[폭풍]] 연출과 기능을 구별한다.\n\n가상 예시: 중요한 약속에 나타나지 않은 친구를 기다린 인물이 비 내리는 정류장에 홀로 남고, 흐린 조명이 그의 낙담을 강조한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "비와 흐린 조명은 인물의 감정 상태를 공간 전체에 투사하는 환경 연출로 작동한다. 창밖의 빗줄기와 낮은 채도는 대사로 직접 말하지 않은 상실감이나 실망을 장면의 분위기로 보강할 수 있다.\n\n날씨가 감정을 단독으로 증명하는 것은 아니다. 인물의 행동, 장면 전후의 사건, 다른 시청각 요소가 같은 정서를 지지하는지 확인하며, 위협이나 분노를 나타내는 [[폭풍]] 연출과 기능을 구별한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 중요한 약속에 나타나지 않은 친구를 기다린 인물이 비 내리는 정류장에 홀로 남고, 흐린 조명이 그의 낙담을 강조한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

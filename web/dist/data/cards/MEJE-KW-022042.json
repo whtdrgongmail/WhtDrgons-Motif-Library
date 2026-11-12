@@ -4,34 +4,37 @@
   "title": "일본 시대극",
   "original": "Jidaigeki",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-022042",
+  "primary_tag_id": "MEJE-KW-022042",
   "description": {
     "definition": "주로 메이지 유신 이전 또는 그 전환기의 일본을 무대로 삼아 과거의 사회와 생활을 재구성하는 역사물 장르다.",
     "detail": "고증을 중시하는 사실적 작품과 이상화된 활극이 모두 가능하다. 전국시대의 전쟁, 에도기의 생활, 막부 말기의 변화 등 선택한 시대에 따라 인물 관계와 [[갈등]]이 달라진다. 서부극이나 다른 [[장르]]의 구성을 일본풍 역사 무대에 옮기는 혼합도 가능하다.\n\n작품 사례: 《[[더 위쳐: 로닌]]》은 게롤트를 마을들을 떠돌며 요괴를 상대하는 로닌으로 재구성하고 에도풍 무대에 배치한다. 기존 판타지의 인물과 시대극 무대를 결합한 사례다.",
     "usage": "",
-    "boundary": "사무라이 검술물에만 한정되지 않는다. 궁정, 상인, 예술가, 여성의 삶 등 여러 주제를 다룰 수 있다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.112.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "옛 일본의 사회와 인물을 무대로 펼치는 시대 이야기다.\n\n작품 사례: 《[[더 위쳐: 로닌]]》은 게롤트를 마을들을 떠돌며 요괴를 상대하는 로닌으로 재구성하고 에도풍 무대에 배치한다. 기존 판타지의 인물과 시대극 무대를 결합한 사례다.",
+    "easy_ko": "옛 일본의 사회와 인물을 무대로 펼치는 시대 이야기다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -41,8 +44,43 @@
       "description_ko": "《더 위쳐: 로닌》은 게롤트를 마을들을 떠돌며 요괴를 상대하는 로닌으로 재구성하고 에도풍 무대에 배치한다. 기존 판타지의 인물과 시대극 무대를 결합한 사례다.",
       "spoiler_level": "unreviewed",
       "row_version": 1
+    },
+    {
+      "media_tag_id": "ML-T02487",
+      "work_card_id": "MM-MEDIA-001764",
+      "description_ko": "《7인의 사무라이》는 16세기 일본을 무대로 농민과 사무라이 집단의 관계를 그린 일본 시대극의 실제 사례다.",
+      "spoiler_level": "none",
+      "row_version": 1
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000270",
+      "card_id": "MEJE-KW-022042",
+      "label_ko": "BFI 7인의 사무라이 작품",
+      "icon_key": "article",
+      "url": "https://www.bfi.org.uk/film/01391b07-5940-5d02-aa47-1158142f2b64/seven-samurai",
+      "description_ko": "일본 시대극의 실제 영화 사례와 시대적 배경",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "고증을 중시하는 사실적 작품과 이상화된 활극이 모두 가능하다. 전국시대의 전쟁, 에도기의 생활, 막부 말기의 변화 등 선택한 시대에 따라 인물 관계와 [[갈등]]이 달라진다. 서부극이나 다른 [[장르]]의 구성을 일본풍 역사 무대에 옮기는 혼합도 가능하다.\n\n사무라이 검술물에만 한정되지 않는다. 궁정, 상인, 예술가, 여성의 삶 등 여러 주제를 다룰 수 있다.\n\n《[[7인의 사무라이]]》는 일본의 과거 사회를 무대로 사무라이 집단과 마을의 관계를 그리는 일본 시대극 사례다. 검을 쓰는 장면만으로 시대극이 되는 것은 아니며, 인물의 지위와 생활 조건이 이야기의 갈등에 작용한다. 《[[더 위쳐: 로닌]]》은 일본 시대극의 무대를 기존 판타지 인물에 적용한 혼합 사례로 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "고증을 중시하는 사실적 작품과 이상화된 활극이 모두 가능하다. 전국시대의 전쟁, 에도기의 생활, 막부 말기의 변화 등 선택한 시대에 따라 인물 관계와 [[갈등]]이 달라진다. 서부극이나 다른 [[장르]]의 구성을 일본풍 역사 무대에 옮기는 혼합도 가능하다.\n\n사무라이 검술물에만 한정되지 않는다. 궁정, 상인, 예술가, 여성의 삶 등 여러 주제를 다룰 수 있다."
+      ],
+      [
+        "관련 작품",
+        "《[[7인의 사무라이]]》는 일본의 과거 사회를 무대로 사무라이 집단과 마을의 관계를 그리는 일본 시대극 사례다. 검을 쓰는 장면만으로 시대극이 되는 것은 아니며, 인물의 지위와 생활 조건이 이야기의 갈등에 작용한다. 《[[더 위쳐: 로닌]]》은 일본 시대극의 무대를 기존 판타지 인물에 적용한 혼합 사례로 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "모래 속을 파고드는 거대 벌레",
   "original": "Sand Worm",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01130",
+  "primary_tag_id": "ML-T01130",
   "description": {
     "definition": "거대한 벌레형 몸으로 모래 아래를 뚫고 이동하는 환상 생물이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "평범한 크기의 땅속 벌레나 물속의 뱀형 괴물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거대한 몸이 모래 아래를 이동해 지상의 시야에서 위치를 숨긴다. 땅의 흔들림과 흔적은 공격 전에 존재를 추정하는 단서가 된다.\n\n사막의 넓은 빈 공간이 안전한 이동로가 아니라 잠복한 포식자의 영역이 된다. 크기와 지하 이동을 결합해 피할 방향을 제한하는 위협을 만들 수 있다.\n\n벌레형 외형과 모래를 파고드는 행동이 함께 필요하다. 원문의 사막 위험 전반을 모든 모래 생물의 성질로 확대하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "거대한 몸이 모래 아래를 이동해 지상의 시야에서 위치를 숨긴다. 땅의 흔들림과 흔적은 공격 전에 존재를 추정하는 단서가 된다.\n\n사막의 넓은 빈 공간이 안전한 이동로가 아니라 잠복한 포식자의 영역이 된다. 크기와 지하 이동을 결합해 피할 방향을 제한하는 위협을 만들 수 있다.\n\n벌레형 외형과 모래를 파고드는 행동이 함께 필요하다. 원문의 사막 위험 전반을 모든 모래 생물의 성질로 확대하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "다시 나타나니 선역이 된 악역",
   "original": "Heel–Face Return",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01952",
+  "primary_tag_id": "ML-T01952",
   "description": {
     "definition": "악역으로 퇴장한 인물이 화면 밖에서 변화한 뒤 선역을 돕는 모습으로 재등장하는 전개다.",
     "detail": "작품 사례: [[Battle Angel Alita]]에서 적의 부하였던 Super Nova가 돌아와 Alita의 몸을 복구하고 Erica를 구할 방법을 찾는 데 협력한다.",
@@ -13,10 +13,10 @@
     "boundary": "타락한 영웅이 원래 진영으로 돌아오는 모든 경우를 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "23.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역이 한동안 이야기에서 사라졌다가 다시 등장했을 때 이미 선한 역할을 맡는 구성이다. 변화의 중간 과정이 생략되어 있어, 과거의 적대 행동과 현재의 협력이 나란히 제시되면서 바뀐 위치가 인식된다.\n\n타락했던 영웅이 원래 편으로 돌아오는 모든 사건을 뜻하지는 않는다. 퇴장과 재등장 사이에 선역으로 바뀐 상태라는 대비가 필요하다. 변화의 사유가 모두 묘사되지 않더라도 새로 하는 행동이 실제로 어느 쪽을 돕는지는 분명해야 한다.\n\n[[Battle Angel Alita]]의 Super Nova는 이전에 적의 부하였지만 재등장한 뒤 Alita의 몸을 복구한다. Erica를 구할 방법을 찾는 데도 협력하여, 과거 소속과 다른 현재의 선한 역할이 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악역이 한동안 이야기에서 사라졌다가 다시 등장했을 때 이미 선한 역할을 맡는 구성이다. 변화의 중간 과정이 생략되어 있어, 과거의 적대 행동과 현재의 협력이 나란히 제시되면서 바뀐 위치가 인식된다.\n\n타락했던 영웅이 원래 편으로 돌아오는 모든 사건을 뜻하지는 않는다. 퇴장과 재등장 사이에 선역으로 바뀐 상태라는 대비가 필요하다. 변화의 사유가 모두 묘사되지 않더라도 새로 하는 행동이 실제로 어느 쪽을 돕는지는 분명해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Battle Angel Alita]]의 Super Nova는 이전에 적의 부하였지만 재등장한 뒤 Alita의 몸을 복구한다. Erica를 구할 방법을 찾는 데도 협력하여, 과거 소속과 다른 현재의 선한 역할이 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

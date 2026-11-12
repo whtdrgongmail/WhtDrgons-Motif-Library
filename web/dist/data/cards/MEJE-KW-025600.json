@@ -5,8 +5,8 @@
   "original": "A Mirror Portal to a Hostile World",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01464",
+  "primary_tag_id": "ML-T01464",
   "description": {
     "definition": "사람을 위험한 세계로 끌어들이거나 그곳의 괴물을 밖으로 내보내는 적대적 거울 통로이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "안전한 세계로 가는 중립적인 거울 통로와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거울이 위험한 다른 세계와 이어지는 통로가 된다. 사람이 안으로 끌려가는 방향과 괴물이 밖으로 나오는 방향 모두 적대적인 왕래로 설정될 수 있다.\n\n익숙한 방 안의 물건이 다른 세계의 경계가 된다. 통과할 수 있는 방향과 조건을 정하면 거울이 만드는 위험의 방식도 구체화된다.\n\n다른 세계로 이동할 수 있다는 사실만으로는 충분하지 않다. 안전한 목적지로 이어지는 중립적 통로와 달리 적대적인 위험이 연결에 포함된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "거울이 위험한 다른 세계와 이어지는 통로가 된다. 사람이 안으로 끌려가는 방향과 괴물이 밖으로 나오는 방향 모두 적대적인 왕래로 설정될 수 있다.\n\n익숙한 방 안의 물건이 다른 세계의 경계가 된다. 통과할 수 있는 방향과 조건을 정하면 거울이 만드는 위험의 방식도 구체화된다.\n\n다른 세계로 이동할 수 있다는 사실만으로는 충분하지 않다. 안전한 목적지로 이어지는 중립적 통로와 달리 적대적인 위험이 연결에 포함된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

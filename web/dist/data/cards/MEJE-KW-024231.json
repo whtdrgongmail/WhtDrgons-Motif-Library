@@ -5,8 +5,8 @@
   "original": "The Always-Available Map",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "별도의 획득 없이 화면이나 메뉴에서 구역 지도를 계속 확인할 수 있다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "별도 아이템을 얻지 않아도 구역 지도를 확인할 수 있다. 길을 찾을 정보의 접근권이 처음부터 주어져 지도 획득이 탐색의 관문이 되지 않는다.\n\n플레이어는 이동 전 경로를 계획하고 현재 위치를 점검할 수 있다. 구조를 알더라도 장애물과 사건의 조건은 남으므로 공간을 모르는 긴장과 실제 통과의 어려움을 분리해 설계할 수 있다.\n\n처음부터 볼 수 있다는 사실이 모든 비밀의 공개를 뜻하지는 않는다. 미탐색 구역과 숨은 통로의 표시 여부는 별도 규칙이며 지도 접근과 정보의 완전성을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "별도 아이템을 얻지 않아도 구역 지도를 확인할 수 있다. 길을 찾을 정보의 접근권이 처음부터 주어져 지도 획득이 탐색의 관문이 되지 않는다.\n\n플레이어는 이동 전 경로를 계획하고 현재 위치를 점검할 수 있다. 구조를 알더라도 장애물과 사건의 조건은 남으므로 공간을 모르는 긴장과 실제 통과의 어려움을 분리해 설계할 수 있다.\n\n처음부터 볼 수 있다는 사실이 모든 비밀의 공개를 뜻하지는 않는다. 미탐색 구역과 숨은 통로의 표시 여부는 별도 규칙이며 지도 접근과 정보의 완전성을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

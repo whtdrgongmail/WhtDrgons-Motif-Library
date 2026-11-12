@@ -6,8 +6,8 @@
   "aliases": [
     "이성애자로 보이도록 돕는 위장 연인"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00991",
+  "primary_tag_id": "ML-T00991",
   "description": {
     "definition": "타인에게 자신의 성적 지향이나 실제 연애 대상을 감추기 위해 다른 사람과 연인 또는 배우자 관계처럼 보이게 하는 역할이다.",
     "detail": "위장 상대가 사정을 알고 도움에 동의한다는 조건이 중심이다.",
@@ -15,14 +15,20 @@
     "boundary": "모든 형식적 결혼을 뜻하지 않으며 숨기려는 연애 관계나 성적 지향이 동기이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "진짜 사랑하는 상대를 숨기려고 사회가 기대하는 짝과 함께 다닌다.",
     "review_status": "reviewed",
@@ -32,5 +38,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "연인 역할을 빌리는 위장은 공개된 관계와 당사자 사이의 실제 합의가 다를 수 있음을 전제로 한다. 성적 지향이나 실제 연애 상대를 감추려 두 사람이 연인처럼 행동하면, 겉으로 보이는 관계는 사회적 안전을 위한 장치가 되고 당사자들은 그 역할의 목적을 공유한다.\n\n모든 형식적 결혼이나 우정 관계가 이 유형은 아니다. 감춰야 할 성적 지향 또는 실제 연애 대상이 동기이며, 위장 상대가 사정을 알고 동의하는 조건이 중요하다. 동의 없는 기만을 편의상 같은 범주로 처리하지 않는다.\n\n가상 예시: 공개적으로 동성 연애를 밝히기 어려운 두 친구가 가족의 압박을 피하려 서로의 연인인 척하기로 합의한다. 둘은 대외적으로만 역할을 수행하고 실제 관계와 위장의 목적을 함께 알고 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "연인 역할을 빌리는 위장은 공개된 관계와 당사자 사이의 실제 합의가 다를 수 있음을 전제로 한다. 성적 지향이나 실제 연애 상대를 감추려 두 사람이 연인처럼 행동하면, 겉으로 보이는 관계는 사회적 안전을 위한 장치가 되고 당사자들은 그 역할의 목적을 공유한다.\n\n모든 형식적 결혼이나 우정 관계가 이 유형은 아니다. 감춰야 할 성적 지향 또는 실제 연애 대상이 동기이며, 위장 상대가 사정을 알고 동의하는 조건이 중요하다. 동의 없는 기만을 편의상 같은 범주로 처리하지 않는다."
+      ],
+      [
+        "사례",
+        "가상 예시: 공개적으로 동성 연애를 밝히기 어려운 두 친구가 가족의 압박을 피하려 서로의 연인인 척하기로 합의한다. 둘은 대외적으로만 역할을 수행하고 실제 관계와 위장의 목적을 함께 알고 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

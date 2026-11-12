@@ -4,8 +4,8 @@
   "title": "귀족층만 사용하는 별도의 언어",
   "original": "Noble Tongue",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01339",
+  "primary_tag_id": "ML-T01339",
   "description": {
     "definition": "상류 계층이 평민과 완전히 다른 언어를 사용하여 계층 사이의 언어적 경계를 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "같은 언어의 격식 차이나 전문용어만으로 구별되는 경우와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상류 계층이 평민의 일상 언어와 별도의 언어를 사용하여 사회적 경계를 만드는 설정이다. 언어의 습득이 대화뿐 아니라 권력에 접근하는 자격이 된다.\n\n외국 지배층의 언어와 높은 위상을 가진 문화의 언어가 그 역할을 맡을 수 있다. 한 인물이 두 언어를 오가면 집단 사이를 중개하거나 출신과 교육을 숨기는 행동도 가능하다.\n\n어려운 어휘와 격식 있는 말투만 다른 경우와는 다르다. 별개의 언어라는 조건이 핵심이며, 종교 의식과 학문에 남은 언어가 언제나 같은 계층적 기능을 수행하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상류 계층이 평민의 일상 언어와 별도의 언어를 사용하여 사회적 경계를 만드는 설정이다. 언어의 습득이 대화뿐 아니라 권력에 접근하는 자격이 된다.\n\n외국 지배층의 언어와 높은 위상을 가진 문화의 언어가 그 역할을 맡을 수 있다. 한 인물이 두 언어를 오가면 집단 사이를 중개하거나 출신과 교육을 숨기는 행동도 가능하다.\n\n어려운 어휘와 격식 있는 말투만 다른 경우와는 다르다. 별개의 언어라는 조건이 핵심이며, 종교 의식과 학문에 남은 언어가 언제나 같은 계층적 기능을 수행하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

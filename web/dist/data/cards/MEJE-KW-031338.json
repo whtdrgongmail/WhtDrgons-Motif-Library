@@ -4,8 +4,8 @@
   "title": "보이지 않는 상대와 통화하는 척하기",
   "original": "Phoning the Phantom",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00787",
+  "primary_tag_id": "ML-T00787",
   "description": {
     "definition": "남들에게 보이거나 들리지 않는 존재와 대화하면서 전화 통화인 것처럼 꾸미는 행동이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "자기에게만 보이는 유령과 말다툼하던 인물이 휴대전화를 귀에 대어 혼잣말처럼 보이지 않게 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "대화 상대는 실제로 곁에 있지만 다른 사람의 감각에는 잡히지 않는다. 전화기나 이어폰을 사용하면 주변 사람들은 들리지 않는 상대가 회선 너머에 있다고 자연스럽게 해석한다. 인물은 특별한 감각이나 비밀 동료의 존재를 밝히지 않고도 대화를 이어 갈 수 있다.\n\n죽은 이에게서 실제 전화가 오는 [[죽은 사람에게서 온 연락]]과는 다르다. 기기는 통신 수단보다 위장을 위한 소품이다. 주변 상황과 맞지 않는 대답이나 몸짓이 나오면 그 위장이 흔들리며 웃음이 생긴다. 상대와의 대화 자체는 진짜이므로 아무 상대 없이 허풍을 떠는 상황과도 구별된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "대화 상대는 실제로 곁에 있지만 다른 사람의 감각에는 잡히지 않는다. 전화기나 이어폰을 사용하면 주변 사람들은 들리지 않는 상대가 회선 너머에 있다고 자연스럽게 해석한다. 인물은 특별한 감각이나 비밀 동료의 존재를 밝히지 않고도 대화를 이어 갈 수 있다.\n\n죽은 이에게서 실제 전화가 오는 [[죽은 사람에게서 온 연락]]과는 다르다. 기기는 통신 수단보다 위장을 위한 소품이다. 주변 상황과 맞지 않는 대답이나 몸짓이 나오면 그 위장이 흔들리며 웃음이 생긴다. 상대와의 대화 자체는 진짜이므로 아무 상대 없이 허풍을 떠는 상황과도 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

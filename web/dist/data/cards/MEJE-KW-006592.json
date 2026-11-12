@@ -4,8 +4,8 @@
   "title": "얇은 얼음이 예고하는 추락",
   "original": "Danger — Thin Ice",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00692",
+  "primary_tag_id": "ML-T00692",
   "description": {
     "definition": "물이 덮인 곳의 얼음이 갓 얼어 약하다는 정보가 먼저 제시된다. 나중에 누군가 얼음을 밟을 때 앞선 경고가 긴장이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "06",
+    "code": "06.003.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "얼음이 얇다는 경고를 먼저 보여 주고 뒤에 인물이 빠지게 하는 장치다. 평온한 수면 위 이동이 곧 무너질 수 있다는 정보로 긴장을 준비한다.\n\n금이 가는 소리와 경고 표지, 최근의 결빙에 대한 대사가 위험을 예고한다. 구조 뒤에도 추위와 젖은 몸의 문제가 남으면 물 밖으로 나오는 것과 안전의 차이를 보여 준다.\n\n얼음이 나온다는 사실만으로 사고가 필수인 것은 아니다. 이 유형은 작품이 위험을 주목시킨 뒤 실제 사건으로 연결하는 구조이며 현실의 생존 확률을 고정된 수치로 설명하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "얼음이 얇다는 경고를 먼저 보여 주고 뒤에 인물이 빠지게 하는 장치다. 평온한 수면 위 이동이 곧 무너질 수 있다는 정보로 긴장을 준비한다.\n\n금이 가는 소리와 경고 표지, 최근의 결빙에 대한 대사가 위험을 예고한다. 구조 뒤에도 추위와 젖은 몸의 문제가 남으면 물 밖으로 나오는 것과 안전의 차이를 보여 준다.\n\n얼음이 나온다는 사실만으로 사고가 필수인 것은 아니다. 이 유형은 작품이 위험을 주목시킨 뒤 실제 사건으로 연결하는 구조이며 현실의 생존 확률을 고정된 수치로 설명하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

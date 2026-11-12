@@ -4,8 +4,8 @@
   "title": "소중한 사람을 인질로 잡아 행동을 강요하기",
   "original": "I Have Your Wife",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00871",
+  "primary_tag_id": "ML-T00871",
   "description": {
     "definition": "상대가 지키려는 사람을 붙잡아 해치겠다고 위협하며 절도·전달·배신·항복 같은 행동을 강요하는 [[갈등]]이다.",
     "detail": "연인이나 가족뿐 아니라 낯선 사람도 대상이 될 수 있다. 피해자는 도움을 은밀히 청하거나 구출을 시도하고, 가해자의 약속 파기가 보복으로 이어지기도 한다.\n\n작품 사례: 《[[데스노트]]》에서 멜로는 수사팀 책임자의 딸 사유를 납치해 협박하고, 이미 경찰인 아버지에게 사건이 더 퍼지지 않게 하라고 요구한다.",
@@ -13,30 +13,47 @@
     "boundary": "단순 억류나 인질 없이 말로만 하는 협박과 구별하며 실제 인질이 없는 허세는 변형으로 표시한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "가족을 붙잡아 두고 시키는 대로 하지 않으면 해치겠다고 한다.\n\n작품 사례: 《[[데스노트]]》에서 멜로는 수사팀 책임자의 딸 사유를 납치해 협박하고, 이미 경찰인 아버지에게 사건이 더 퍼지지 않게 하라고 요구한다.",
+    "easy_ko": "가족을 붙잡아 두고 시키는 대로 하지 않으면 해치겠다고 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001526",
+      "work_card_id": "MM-MEDIA-002463",
       "description_ko": "《데스노트》에서 멜로는 수사팀 책임자의 딸 사유를 납치해 협박하고, 이미 경찰인 아버지에게 사건이 더 퍼지지 않게 하라고 요구한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가해자는 인질의 안전을 조건으로 특정 행동을 요구한다. 배우자와 가족뿐 아니라 지켜야 할 친구나 낯선 사람도 대상이 될 수 있으며, 강요받는 행동은 전달과 절도, 배신과 항복 등으로 다양하다.\n\n피해자가 은밀히 도움을 청하거나 구출을 시도하면서 [[갈등]]이 진행될 수 있다. 단순한 억류와 달리 행동의 강요가 중요하며, 실제 인질 없이 허세를 부리는 경우는 그 변형이다.\n\n《[[데스노트]]》에서 멜로는 수사팀 책임자의 딸 사유를 납치해 협박하고, 이미 경찰인 아버지에게 사건이 더 퍼지지 않게 하라고 요구한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가해자는 인질의 안전을 조건으로 특정 행동을 요구한다. 배우자와 가족뿐 아니라 지켜야 할 친구나 낯선 사람도 대상이 될 수 있으며, 강요받는 행동은 전달과 절도, 배신과 항복 등으로 다양하다.\n\n피해자가 은밀히 도움을 청하거나 구출을 시도하면서 [[갈등]]이 진행될 수 있다. 단순한 억류와 달리 행동의 강요가 중요하며, 실제 인질 없이 허세를 부리는 경우는 그 변형이다."
+      ],
+      [
+        "관련 작품",
+        "《[[데스노트]]》에서 멜로는 수사팀 책임자의 딸 사유를 납치해 협박하고, 이미 경찰인 아버지에게 사건이 더 퍼지지 않게 하라고 요구한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

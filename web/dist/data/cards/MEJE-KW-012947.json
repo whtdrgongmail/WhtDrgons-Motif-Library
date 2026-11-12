@@ -4,8 +4,8 @@
   "title": "크러스트그라인드",
   "original": "Crustgrind",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-012947",
+  "primary_tag_id": "MEJE-KW-012947",
   "description": {
     "definition": "크러스트 펑크의 영향이 강하게 남은 그라인드코어 양식이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 3,
+  "row_version": 4,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "크러스트그라인드는 [[크러스트 펑크]]의 거친 음색과 [[그라인드코어]]의 고속·압축된 곡 구성을 결합하는 이름이다. 두 갈래의 역사적 접점이 있으므로 모든 영향을 별도 장르로 분리하는 데에는 주의가 필요하다. 한쪽의 요소가 이름만으로 추정되지 않도록 실제 연주와 곡 구성을 확인한다.\n\n크러스트 펑크 쪽의 지속적인 거친 기타 질감이나 리듬과 그라인드코어 쪽의 짧은 폭발적 전개가 함께 중심을 이룰 수 있다. [[데스그라인드]]가 데스 메탈과의 결합을 강조하는 것과는 구별된다. 가사의 주제만으로 음악적 결합을 판정하지 않는다.\n\n가상 예시: 음반 여러 곡에서 크러스트 펑크의 거친 기타 소리가 유지되고 곡마다 그라인드코어의 극단적으로 빠른 짧은 구간이 핵심 구조를 이룬다면 결합 양식을 설명할 수 있다. 한 곡에 두 계열의 악기 소리가 잠깐 교차하는 경우에는 분류 근거가 약하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "크러스트그라인드는 [[크러스트 펑크]]의 거친 음색과 [[그라인드코어]]의 고속·압축된 곡 구성을 결합하는 이름이다. 두 갈래의 역사적 접점이 있으므로 모든 영향을 별도 장르로 분리하는 데에는 주의가 필요하다. 한쪽의 요소가 이름만으로 추정되지 않도록 실제 연주와 곡 구성을 확인한다.\n\n크러스트 펑크 쪽의 지속적인 거친 기타 질감이나 리듬과 그라인드코어 쪽의 짧은 폭발적 전개가 함께 중심을 이룰 수 있다. [[데스그라인드]]가 데스 메탈과의 결합을 강조하는 것과는 구별된다. 가사의 주제만으로 음악적 결합을 판정하지 않는다."
+      ],
+      [
+        "사례",
+        "가상 예시: 음반 여러 곡에서 크러스트 펑크의 거친 기타 소리가 유지되고 곡마다 그라인드코어의 극단적으로 빠른 짧은 구간이 핵심 구조를 이룬다면 결합 양식을 설명할 수 있다. 한 곡에 두 계열의 악기 소리가 잠깐 교차하는 경우에는 분류 근거가 약하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

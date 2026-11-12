@@ -4,8 +4,8 @@
   "title": "연쇄적으로 밝혀지는 비밀",
   "original": "Domino Revelation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00711",
+  "primary_tag_id": "ML-T00711",
   "description": {
     "definition": "한 가지 숨겨진 사실이 드러나자 그것이 다른 비밀의 단서가 되어 발견이 계속 이어지는 전개. 폭로의 순서가 세계에 대한 이해를 넓힌다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.006.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "하나의 비밀이 드러나면서 다른 사실을 추론할 근거가 생기고 폭로가 연이어 발생하는 전개다. 각 발견이 다음 발견의 원인이 된다.\n\n작은 범죄의 배후가 더 큰 조직으로 이어지거나 한 초자연적 존재의 확인이 다른 전승까지 사실로 바꿀 수 있다. 관객의 세계 이해가 단계적으로 확대되면서 사건의 규모가 커진다.\n\n서로 무관한 비밀을 한꺼번에 나열하는 것과는 다르다. 앞선 정보가 다음 해석을 가능하게 하는 연결이 필요하며 모든 의문이 같은 원인으로 수렴할 필요는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "하나의 비밀이 드러나면서 다른 사실을 추론할 근거가 생기고 폭로가 연이어 발생하는 전개다. 각 발견이 다음 발견의 원인이 된다.\n\n작은 범죄의 배후가 더 큰 조직으로 이어지거나 한 초자연적 존재의 확인이 다른 전승까지 사실로 바꿀 수 있다. 관객의 세계 이해가 단계적으로 확대되면서 사건의 규모가 커진다.\n\n서로 무관한 비밀을 한꺼번에 나열하는 것과는 다르다. 앞선 정보가 다음 해석을 가능하게 하는 연결이 필요하며 모든 의문이 같은 원인으로 수렴할 필요는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

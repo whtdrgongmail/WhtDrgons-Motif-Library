@@ -4,8 +4,8 @@
   "title": "악인끼리 맺은 연애",
   "original": "Unholy Matrimony",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "악역으로 행동하는 두 인물이 서로 연애 관계를 이루어 대외적인 악행과 사적인 사랑이 함께 존재하는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "결혼이나 안정된 금슬은 필수 조건이 아니며 서로 사랑한다고 개심한 것으로 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남에게는 악인이지만 서로에게는 연애 상대다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역 두 사람이 서로 사랑하면서 바깥에는 해로운 행동을 한다. 사적인 애정과 공적인 악행이 한 관계 안에 공존한다.\n\n서로에게 다정하다는 사실이 다른 피해를 취소하지는 않는다. 두 악역이 협력한다는 조건보다 실제 연애 관계가 확인되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악역 두 사람이 서로 사랑하면서 바깥에는 해로운 행동을 한다. 사적인 애정과 공적인 악행이 한 관계 안에 공존한다.\n\n서로에게 다정하다는 사실이 다른 피해를 취소하지는 않는다. 두 악역이 협력한다는 조건보다 실제 연애 관계가 확인되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

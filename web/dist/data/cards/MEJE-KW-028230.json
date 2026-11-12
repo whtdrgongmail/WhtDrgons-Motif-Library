@@ -4,8 +4,8 @@
   "title": "모던 메탈코어",
   "original": "Modern metalcore",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-028230",
+  "primary_tag_id": "MEJE-KW-028230",
   "description": {
     "definition": "포스트 하드코어와 얼터너티브 메탈의 성향을 강조하며 귀에 남는 후렴·브레이크다운·깨끗한 [[보컬]]을 적극 사용하는 [[메탈코어]] 계열이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "모던 메탈코어는 [[메탈코어]]의 무거운 기타와 브레이크다운에 깨끗한 보컬, 뚜렷한 후렴, 다른 대중음악 계열의 편곡을 적극적으로 결합하는 흐름이다. 곡 안에서 거친 구간과 선명한 노래 구간의 대비가 중요한 역할을 할 수 있다. 특정 시대의 모든 메탈코어를 한꺼번에 가리키는 단순한 시간표현은 아니다.\n\n포스트 하드코어나 얼터너티브 메탈과 접점이 있으나 어떤 요소가 곡의 중심인지 구별해야 한다. [[멜로딕 메탈코어]]가 기타 선율의 전개에 무게를 둘 때, 이 갈래는 후렴·보컬·음향 대비의 구성에 초점을 둘 수 있다. 두 이름을 완전히 배타적인 범주로 다루기보다 각각 설명하는 특징을 밝힌다.\n\n가상 예시: 낮고 무거운 기타 리프와 외치는 보컬 뒤에 깨끗한 목소리의 반복 후렴을 배치하고 다시 브레이크다운으로 전환한다면 모던 메탈코어의 구성 방법을 설명할 수 있다. 발라드 후렴만 있고 메탈코어의 연주 구조가 없다면 같은 분류는 어렵다.\n\n작품 사례: Bring Me the Horizon의 〈[[Can You Feel My Heart?]]〉는 깨끗한 보컬과 후렴, 브레이크다운을 결합한 모던 메탈코어 곡이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "모던 메탈코어는 [[메탈코어]]의 무거운 기타와 브레이크다운에 깨끗한 보컬, 뚜렷한 후렴, 다른 대중음악 계열의 편곡을 적극적으로 결합하는 흐름이다. 곡 안에서 거친 구간과 선명한 노래 구간의 대비가 중요한 역할을 할 수 있다. 특정 시대의 모든 메탈코어를 한꺼번에 가리키는 단순한 시간표현은 아니다.\n\n포스트 하드코어나 얼터너티브 메탈과 접점이 있으나 어떤 요소가 곡의 중심인지 구별해야 한다. [[멜로딕 메탈코어]]가 기타 선율의 전개에 무게를 둘 때, 이 갈래는 후렴·보컬·음향 대비의 구성에 초점을 둘 수 있다. 두 이름을 완전히 배타적인 범주로 다루기보다 각각 설명하는 특징을 밝힌다."
+      ],
+      [
+        "사례",
+        "가상 예시: 낮고 무거운 기타 리프와 외치는 보컬 뒤에 깨끗한 목소리의 반복 후렴을 배치하고 다시 브레이크다운으로 전환한다면 모던 메탈코어의 구성 방법을 설명할 수 있다. 발라드 후렴만 있고 메탈코어의 연주 구조가 없다면 같은 분류는 어렵다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: Bring Me the Horizon의 〈[[Can You Feel My Heart?]]〉는 깨끗한 보컬과 후렴, 브레이크다운을 결합한 모던 메탈코어 곡이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

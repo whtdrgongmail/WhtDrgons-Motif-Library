@@ -4,8 +4,8 @@
   "title": "행성 여행 자체가 이야기인 전개",
   "original": "Interplanetary Voyage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00613",
+  "primary_tag_id": "ML-T00613",
   "description": {
     "definition": "다른 행성에 도착하는 결과만큼 출발 준비·항해·지연·선내 생활을 이야기의 중심에 놓는 우주여행 [[서사]]. 우주 공간을 건너는 시간이 인물 관계와 탐험의 경험을 만든다. [[행성 간 이동이 일상인 우주]]는 이 과정을 대개 짧게 넘어간다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.001.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "목적지에 도착하기 전의 항해가 사건의 대부분을 차지하면 행성 사이의 이동 자체가 모험이 된다. 출발 준비와 지연, 선내 생활이 이야기를 구성하는 재료다.\n\n여행자는 같은 공간에서 시간을 보내며 관계를 바꾸고 항해 중의 문제를 해결한다. 이동에 걸리는 시간이 인물의 경험으로 축적되므로 목적지만 바꾸어서는 같은 이야기가 성립하지 않는다.\n\n우주선이 일상적인 교통수단으로 잠깐 등장하는 경우와 구별한다. 행성 방문의 순서보다 그 사이를 이동하는 과정에 서사적 무게가 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "목적지에 도착하기 전의 항해가 사건의 대부분을 차지하면 행성 사이의 이동 자체가 모험이 된다. 출발 준비와 지연, 선내 생활이 이야기를 구성하는 재료다.\n\n여행자는 같은 공간에서 시간을 보내며 관계를 바꾸고 항해 중의 문제를 해결한다. 이동에 걸리는 시간이 인물의 경험으로 축적되므로 목적지만 바꾸어서는 같은 이야기가 성립하지 않는다.\n\n우주선이 일상적인 교통수단으로 잠깐 등장하는 경우와 구별한다. 행성 방문의 순서보다 그 사이를 이동하는 과정에 서사적 무게가 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

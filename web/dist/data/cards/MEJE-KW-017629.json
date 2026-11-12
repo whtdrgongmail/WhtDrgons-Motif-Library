@@ -6,8 +6,8 @@
   "aliases": [
     "유아적 태도와 불안정함이 결합한 성인"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02592",
+  "primary_tag_id": "ML-T02592",
   "description": {
     "definition": "어린아이 같은 욕구와 태도를 지닌 성인이 불안정한 행동과 잔혹함으로 주변에 위협을 주는 허구의 인물 유형이다.",
     "detail": "미숙한 욕구를 통제할 수 없는 성인이라는 대비가 긴장을 만든다. 실제 정신질환이나 어린아이 전체를 폭력성과 동일시하지 않는다.",
@@ -15,10 +15,10 @@
     "boundary": "미성숙함과 폭력이 결합한 허구적 유형이며 정신질환이나 실제 아동을 폭력성과 동일시하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,5 +32,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성인의 힘을 가진 인물이 어린아이 같은 욕구와 반응을 잔혹한 행동으로 실현한다. 사소한 불만과 큰 피해의 불균형이 예측하기 어려운 위협을 만든다.\n\n겉으로 순진하거나 장난스러워 보여도 타인의 고통을 이해하거나 억제하지 못하는 행동이 중요하다. 이는 허구의 인물 구성 방식이며 실제 아동이나 정신질환의 특성과 동일하지 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성인의 힘을 가진 인물이 어린아이 같은 욕구와 반응을 잔혹한 행동으로 실현한다. 사소한 불만과 큰 피해의 불균형이 예측하기 어려운 위협을 만든다.\n\n겉으로 순진하거나 장난스러워 보여도 타인의 고통을 이해하거나 억제하지 못하는 행동이 중요하다. 이는 허구의 인물 구성 방식이며 실제 아동이나 정신질환의 특성과 동일하지 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

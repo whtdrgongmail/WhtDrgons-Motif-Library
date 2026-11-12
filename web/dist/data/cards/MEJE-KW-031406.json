@@ -4,8 +4,8 @@
   "title": "거짓말을 드러내는 신체 신호",
   "original": "Pinocchio Nose",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01948",
+  "primary_tag_id": "ML-T01948",
   "description": {
     "definition": "인물이 거짓말할 때마다 특정 버릇이나 신체 변화가 나타나 그 말을 의심하게 만드는 설정이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "말은 그럴듯하지만 늘 같은 동작이 나와 거짓말인 줄 알게 된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "말의 내용과 몸의 반응이 서로 다른 정보를 준다. 작은 버릇이라면 관찰한 인물만 알아볼 수 있고, 눈에 띄는 초자연적 변화라면 숨기려는 시도 자체가 희극이 된다. 관객에게 먼저 규칙을 알려 주면 등장인물보다 한발 앞서 속임수를 알아차리는 재미가 생긴다.\n\n같은 신호가 거짓말과 안정적으로 연결되어야 한다. 긴장이나 부끄러움만으로도 나타나는 반응이라면 다른 해석이 가능하므로 정확한 거짓말 탐지 장치와는 다르다. 이는 특정 인물에게 설정한 허구적 규칙이며, 현실에서 하나의 몸짓만 보고 타인의 진위를 확정할 수 있다는 주장이 아니다. 신호를 숨기거나 오해하는 상황은 이후의 변주가 된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "말의 내용과 몸의 반응이 서로 다른 정보를 준다. 작은 버릇이라면 관찰한 인물만 알아볼 수 있고, 눈에 띄는 초자연적 변화라면 숨기려는 시도 자체가 희극이 된다. 관객에게 먼저 규칙을 알려 주면 등장인물보다 한발 앞서 속임수를 알아차리는 재미가 생긴다.\n\n같은 신호가 거짓말과 안정적으로 연결되어야 한다. 긴장이나 부끄러움만으로도 나타나는 반응이라면 다른 해석이 가능하므로 정확한 거짓말 탐지 장치와는 다르다. 이는 특정 인물에게 설정한 허구적 규칙이며, 현실에서 하나의 몸짓만 보고 타인의 진위를 확정할 수 있다는 주장이 아니다. 신호를 숨기거나 오해하는 상황은 이후의 변주가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

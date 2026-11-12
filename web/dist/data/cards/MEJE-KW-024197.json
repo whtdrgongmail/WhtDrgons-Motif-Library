@@ -5,8 +5,8 @@
   "original": "A Robot Voice Winding Down",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02013",
+  "primary_tag_id": "ML-T02013",
   "description": {
     "definition": "작동을 멈추는 로봇이나 전자 장치의 음성이 느려지고 낮아지다가 사라져 기능 상실을 소리로 표현한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "실제 디지털 장비가 반드시 그렇게 고장 난다는 기술 설명이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.002.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "멈추는 로봇과 장치의 음성이 점점 느려지고 낮아지다 사라진다. 기능 상실을 직관적인 소리의 변화로 표현한다.\n\n말이 끊기는 과정은 기계의 상태와 메시지가 끝까지 전달되지 못한 상황을 동시에 알릴 수 있다. 속도와 높이의 변화가 종료를 알아보는 표지가 된다.\n\n현실 디지털 장비가 반드시 같은 소리를 내며 고장 나는 것은 아니다. 허구의 청각적인 표현 방식을 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "멈추는 로봇과 장치의 음성이 점점 느려지고 낮아지다 사라진다. 기능 상실을 직관적인 소리의 변화로 표현한다.\n\n말이 끊기는 과정은 기계의 상태와 메시지가 끝까지 전달되지 못한 상황을 동시에 알릴 수 있다. 속도와 높이의 변화가 종료를 알아보는 표지가 된다.\n\n현실 디지털 장비가 반드시 같은 소리를 내며 고장 나는 것은 아니다. 허구의 청각적인 표현 방식을 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

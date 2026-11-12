@@ -5,21 +5,47 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "",
+    "definition": "글을 적거나 입력할 때 의도한 글자와 다르게 기록된 글자 또는 그 오류다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "이름이나 문장의 한 글자를 잘못 쓰거나 잘못 입력한 것이다. 글자의 오류가 뜻을 바꿀 수도 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "오자는 글자 단위의 기록 오류다. 입력·인쇄·필사 과정에서 다른 글자를 쓰거나 글자의 순서를 바꾸어 원래 의도한 표기와 달라질 수 있다. 단어의 뜻이 우연히 통하더라도 의도한 표기와 다르면 오자에 해당한다.\n\n작품 안에서 발견된 틀린 글자가 곧바로 [[삭제된 내용의 흔적]]이나 숨겨진 [[복선]]을 뜻하지는 않는다. 앞의 경우는 참조 대상이 사라졌다는 제작상의 증거가, 뒤의 경우는 후속 내용과의 의도적인 연결이 필요하다. 반복되는 잘못된 표기가 인물의 특징이나 이야기 장치인지도 별도로 확인한다.\n\n가상 예: 안내문에 인물 이름의 한 글자가 잘못 입력되어 다른 이름처럼 보인다.",
+    "sections": [
+      [
+        "상세 설명",
+        "오자는 글자 단위의 기록 오류다. 입력·인쇄·필사 과정에서 다른 글자를 쓰거나 글자의 순서를 바꾸어 원래 의도한 표기와 달라질 수 있다. 단어의 뜻이 우연히 통하더라도 의도한 표기와 다르면 오자에 해당한다.\n\n작품 안에서 발견된 틀린 글자가 곧바로 [[삭제된 내용의 흔적]]이나 숨겨진 [[복선]]을 뜻하지는 않는다. 앞의 경우는 참조 대상이 사라졌다는 제작상의 증거가, 뒤의 경우는 후속 내용과의 의도적인 연결이 필요하다. 반복되는 잘못된 표기가 인물의 특징이나 이야기 장치인지도 별도로 확인한다."
+      ],
+      [
+        "사례",
+        "가상 예: 안내문에 인물 이름의 한 글자가 잘못 입력되어 다른 이름처럼 보인다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -6,8 +6,8 @@
   "aliases": [
     "다른 음식 속에 채소를 숨기기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "상대가 거부하는 재료를 좋아하는 음식 속에 감춰 알아차리지 못한 채 먹게 하는 장치다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "재료를 알리고 동의받은 조리와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,5 +32,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상대가 싫어하는 재료를 선호하는 음식 안에 넣어 정체를 알아보기 어렵게 한다. 좋아하는 음식의 맛과 모습이 거부감을 가리는 수단이다.\n\n당사자가 내용을 알기 전에 먹었다는 사실이 나중에 공개되면 기호와 판단 사이의 모순을 드러낼 수 있다. 이미 거부한 재료를 먹었다는 발견이 장면의 전환점이 된다.\n\n재료를 설명하고 동의를 얻은 요리와는 정보 관계가 다르다. 먹는 척하며 몰래 버리는 행동은 반대쪽 인물이 주도하는 회피이므로 별개로 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상대가 싫어하는 재료를 선호하는 음식 안에 넣어 정체를 알아보기 어렵게 한다. 좋아하는 음식의 맛과 모습이 거부감을 가리는 수단이다.\n\n당사자가 내용을 알기 전에 먹었다는 사실이 나중에 공개되면 기호와 판단 사이의 모순을 드러낼 수 있다. 이미 거부한 재료를 먹었다는 발견이 장면의 전환점이 된다.\n\n재료를 설명하고 동의를 얻은 요리와는 정보 관계가 다르다. 먹는 척하며 몰래 버리는 행동은 반대쪽 인물이 주도하는 회피이므로 별개로 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

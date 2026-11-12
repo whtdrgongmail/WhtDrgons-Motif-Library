@@ -4,8 +4,8 @@
   "title": "작명 규칙에서 벗어난 주인공",
   "original": "Hero with a Unique Name",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01994",
+  "primary_tag_id": "ML-T01994",
   "description": {
     "definition": "같은 집단의 인물들이 공통 작명 규칙을 따르는 가운데 주인공에게만 다른 계열의 이름을 부여하여 중심 인물임을 드러내는 방식이다.",
     "detail": "작품 사례: [[Mega Man (Classic)]]의 로봇들은 히트맨·봄맨·아이스맨처럼 능력에 맞춰 이름을 얻지만, 여러 능력을 사용할 수 있는 주인공 메가맨의 이름은 그 규칙에서 벗어난다.",
@@ -13,10 +13,10 @@
     "boundary": "등장인물 모두의 이름이 제각각이거나 주인공 이름이 우연히 드문 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "집단에 반복되는 이름의 규칙을 [[주인공]]에게만 다르게 적용하는 작명 방식이다. 예외적인 이름이 인물을 주변과 구분하는 표지가 된다.\n\n모두의 이름이 제각각인 상황이나 우연히 드문 이름을 가졌다는 사실과는 다르다. 확인 가능한 공통 규칙과 주인공의 이탈이 함께 필요하다.\n\n[[Mega Man (Classic)]]의 로봇은 히트맨과 봄맨, 아이스맨처럼 기능에 맞는 이름을 갖는다. 여러 능력을 사용하는 메가맨은 같은 방식으로 기능 하나에 대응하지 않아 예외로 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "집단에 반복되는 이름의 규칙을 [[주인공]]에게만 다르게 적용하는 작명 방식이다. 예외적인 이름이 인물을 주변과 구분하는 표지가 된다.\n\n모두의 이름이 제각각인 상황이나 우연히 드문 이름을 가졌다는 사실과는 다르다. 확인 가능한 공통 규칙과 주인공의 이탈이 함께 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Mega Man (Classic)]]의 로봇은 히트맨과 봄맨, 아이스맨처럼 기능에 맞는 이름을 갖는다. 여러 능력을 사용하는 메가맨은 같은 방식으로 기능 하나에 대응하지 않아 예외로 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

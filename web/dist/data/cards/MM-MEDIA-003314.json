@@ -1,45 +1,68 @@
 {
   "id": "MM-MEDIA-003314",
   "kind": "work",
-  "title": "Southern Cross",
+  "title": "Southern Cross(MUCK)",
   "original": "Southern Cross",
-  "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "aliases": [
+    "Southern Cross"
+  ],
+  "tag_id": "ML-T02492",
+  "primary_tag_id": "ML-T02492",
   "description": {
-    "definition": "《Southern Cross》는 미디어 작품군 작품이다.",
-    "detail": "",
+    "definition": "《Southern Cross》는 《[[파이널 판타지 VII]]》를 바탕으로 한 설정을 텍스트 온라인 공간에서 확장한 MUCK 역할놀이 작품군이다.",
+    "detail": "제공 원문은 작품이 여러 차례 다른 시기·지역을 다루는 형태로 이어졌다고 설명한다. MUCK의 개별 운영 시기와 후속 프로젝트를 하나의 단일 게임 발매작으로 계산하지 않는다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.006.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "participation_mode",
+    "parent_relation": "contextual",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Southern Cross》는 기존 게임 세계의 먼 미래를 공유 배경으로 삼아 참가자들이 지역과 시대를 확장한 공동 서사다.",
+    "easy_ko": "여러 사람이 글로 인물을 연기하고 세계를 확장하던 온라인 역할놀이 공간이다. 《파이널 판타지 VII》 이후의 가상 시대를 바탕으로 했다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 3
+    "updated_at": "2026-11-10",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
     {
       "card_id": "MEJE-KW-029520",
-      "row_version": 1
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《[[Southern Cross]]》는 여러 참가자가 텍스트 명령과 대화로 인물을 연기하는 MUCK 형식의 온라인 [[역할놀이]] 작품군이다. 《[[파이널 판타지 VII]]》 이후의 세계를 바탕으로 하지만, 원작 게임의 공식 후속편과는 다른 방향으로 설정이 전개되었다.\n\n이 온라인 세계는 여러 주요 시기와 지역을 각각 다루는 운영 형태를 가졌다. 같은 표제의 각 운영 시기를 하나의 고정된 줄거리나 동일한 게임 판본으로 묶으면 참가자가 확장한 설정과 원작 게임의 공식 연속성이 혼동된다.\n\n참가자들은 게임에서 한참 뒤의 시대를 배경으로 사회와 지역을 확장했다. 이를 원작 게임의 공식 미래사로 기술하지 않는다.\n\n이 카드는 MUCK 형식의 《[[Southern Cross]]》를 가리킨다. 뒤이은 《[[Southern Cross: Heroes of Space]]》는 별도 프로젝트로 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《[[Southern Cross]]》는 여러 참가자가 텍스트 명령과 대화로 인물을 연기하는 MUCK 형식의 온라인 [[역할놀이]] 작품군이다. 《[[파이널 판타지 VII]]》 이후의 세계를 바탕으로 하지만, 원작 게임의 공식 후속편과는 다른 방향으로 설정이 전개되었다.\n\n이 온라인 세계는 여러 주요 시기와 지역을 각각 다루는 운영 형태를 가졌다. 같은 표제의 각 운영 시기를 하나의 고정된 줄거리나 동일한 게임 판본으로 묶으면 참가자가 확장한 설정과 원작 게임의 공식 연속성이 혼동된다."
+      ],
+      [
+        "사례",
+        "참가자들은 게임에서 한참 뒤의 시대를 배경으로 사회와 지역을 확장했다. 이를 원작 게임의 공식 미래사로 기술하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "이 카드는 MUCK 형식의 《[[Southern Cross]]》를 가리킨다. 뒤이은 《[[Southern Cross: Heroes of Space]]》는 별도 프로젝트로 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": false
+  }
 }

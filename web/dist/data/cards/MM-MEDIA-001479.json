@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "레드 데드 리뎀션 2",
   "original": "Red Dead Redemption 2",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Red Dead Redemption 2"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《레드 데드 리뎀션 2》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《레드 데드 리뎀션 2》의 덫사냥꾼은 고기와 가죽을 사고, 아서가 가져온 재료로 특별한 옷을 만들어 준다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -38,6 +40,10 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-015474",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-016584",
       "row_version": 1
@@ -63,5 +69,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "록스타의 2018년 오픈월드 게임으로, 앞선 레드 데드 리뎀션보다 이른 시기의 무법자 집단을 다룬다. 1899년의 아서 모건은 가족처럼 여기는 갱단에 충성하지만 그 삶의 기반은 점점 사라진다.\n\n실패한 범행 뒤 법 집행자와 현상금 사냥꾼들에게 추적받으면서 조직은 이동을 반복한다. 두목 더치의 약속과 실제 결과 사이의 간극은 생존의 어려움뿐 아니라 동료를 어디까지 믿을지의 문제를 만든다.\n\n자유로운 변경이라는 이상과 더 강해지는 국가 및 자본의 통제가 충돌한다. 열린 세계의 생활과 극본이 정한 몰락의 방향이 함께 존재하여, 인물의 선택은 외부의 추격과 내부의 관계 변화를 동시에 감당해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "록스타의 2018년 오픈월드 게임으로, 앞선 레드 데드 리뎀션보다 이른 시기의 무법자 집단을 다룬다. 1899년의 아서 모건은 가족처럼 여기는 갱단에 충성하지만 그 삶의 기반은 점점 사라진다.\n\n실패한 범행 뒤 법 집행자와 현상금 사냥꾼들에게 추적받으면서 조직은 이동을 반복한다. 두목 더치의 약속과 실제 결과 사이의 간극은 생존의 어려움뿐 아니라 동료를 어디까지 믿을지의 문제를 만든다.\n\n자유로운 변경이라는 이상과 더 강해지는 국가 및 자본의 통제가 충돌한다. 열린 세계의 생활과 극본이 정한 몰락의 방향이 함께 존재하여, 인물의 선택은 외부의 추격과 내부의 관계 변화를 동시에 감당해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

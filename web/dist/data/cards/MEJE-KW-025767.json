@@ -5,8 +5,8 @@
   "original": "An In-Between Being Passes the Impossible Test",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00858",
+  "primary_tag_id": "ML-T00858",
   "description": {
     "definition": "두 범주 어느 쪽도 할 수 없다는 과제에서 양쪽의 성질을 함께 지닌 존재가 금지 조건의 빈틈을 충족한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "힘으로 조건을 무시하는 것과 달리 분류의 모호함을 이용한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "08.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "둘로 나뉜 범주 모두가 금지된 과제에서 양쪽의 성질을 가진 존재가 빈틈을 통과한다. 힘으로 규칙을 깨기보다 분류에 들어맞지 않는 위치가 조건의 적용을 바꾼다.\n\n평소에는 불완전하다고 여긴 정체가 유일한 자격으로 역전될 수 있다. 인물은 자신의 중간성을 숨기지 않고 사용할 이유를 얻고, 과제의 권위는 범주가 완전하다는 가정의 한계를 드러낸다.\n\n금지에 예외를 특별히 허락받은 경우와는 다르다. 양쪽이라는 말만으로 모든 규칙을 피해 갈 수 있는 것도 아니다. 정확히 어떤 조건이 무엇을 배제했고 중간 상태가 왜 적용되지 않는지 설명해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "둘로 나뉜 범주 모두가 금지된 과제에서 양쪽의 성질을 가진 존재가 빈틈을 통과한다. 힘으로 규칙을 깨기보다 분류에 들어맞지 않는 위치가 조건의 적용을 바꾼다.\n\n평소에는 불완전하다고 여긴 정체가 유일한 자격으로 역전될 수 있다. 인물은 자신의 중간성을 숨기지 않고 사용할 이유를 얻고, 과제의 권위는 범주가 완전하다는 가정의 한계를 드러낸다.\n\n금지에 예외를 특별히 허락받은 경우와는 다르다. 양쪽이라는 말만으로 모든 규칙을 피해 갈 수 있는 것도 아니다. 정확히 어떤 조건이 무엇을 배제했고 중간 상태가 왜 적용되지 않는지 설명해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

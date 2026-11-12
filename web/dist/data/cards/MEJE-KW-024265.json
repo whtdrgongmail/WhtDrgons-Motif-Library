@@ -5,7 +5,7 @@
   "original": "Queer Media",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "primary_tag_id": "ML-F18",
   "description": {
     "definition": "성소수자 인물뿐 아니라 그들의 정체성·문화·경험을 주요 주제로 다루는 작품이다.",
     "detail": "",
@@ -13,20 +13,14 @@
     "boundary": "다양한 [[장르]]에서 성소수자 인물이 등장하기만 하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "18",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "등장인물의 존재를 넘어 그들의 경험이 작품의 중심이다.",
     "review_status": "reviewed",
@@ -36,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성소수자의 삶과 정체성, 문화가 사건과 인물의 선택을 조직하는 주요 주제인 작품이다. 등장인물의 속성을 넘어서 경험의 의미가 이야기의 중심에 놓인다.\n\n[[성장 서사]]와 로맨스, 역사물 등 여러 장르와 결합할 수 있다. 사회적 갈등을 다루는 경우와 일상적 기쁨과 관계를 다루는 경우 모두 가능하다. 주요 갈등과 인물의 선택이 성소수자의 경험을 중심으로 조직될 때, 인물 구성의 다양성과 작품 주제의 중심성이 함께 드러난다.\n\n성소수자 인물이 있다는 사실만으로 모든 작품을 같은 범주에 넣지는 않는다. 인물의 경험이 중심 주제와 어느 정도 연결되는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성소수자의 삶과 정체성, 문화가 사건과 인물의 선택을 조직하는 주요 주제인 작품이다. 등장인물의 속성을 넘어서 경험의 의미가 이야기의 중심에 놓인다.\n\n[[성장 서사]]와 로맨스, 역사물 등 여러 장르와 결합할 수 있다. 사회적 갈등을 다루는 경우와 일상적 기쁨과 관계를 다루는 경우 모두 가능하다. 주요 갈등과 인물의 선택이 성소수자의 경험을 중심으로 조직될 때, 인물 구성의 다양성과 작품 주제의 중심성이 함께 드러난다.\n\n성소수자 인물이 있다는 사실만으로 모든 작품을 같은 범주에 넣지는 않는다. 인물의 경험이 중심 주제와 어느 정도 연결되는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

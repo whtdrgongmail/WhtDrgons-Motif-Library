@@ -4,8 +4,8 @@
   "title": "큰 위험을 앞두고 보급이 후해지기",
   "original": "Suspicious Game Generosity",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02156",
+  "primary_tag_id": "ML-T02156",
   "description": {
     "definition": "게임이 강한 적이나 위험한 구간을 앞두고 유난히 많은 자원을 제공해 다가올 도전을 암시하는 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.010.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "강한 적과 위험한 구간 앞에 평소보다 많은 자원을 준다. 보급의 풍부함이 다가올 위협을 예상하게 하는 게임 구성이다.\n\n플레이어는 안도하는 동시에 왜 이렇게 많은지 경계할 수 있다. 회복과 탄약을 충분히 준비하게 하면 이후 도전은 결핍보다 사용 시점과 수행 능력을 시험하는 방향으로 바뀐다.\n\n자원이 많은 모든 장소가 보스의 예고는 아니다. 배치의 반복과 다음 사건의 연결을 확인해야 하며 보급의 양이 위험의 정확한 크기를 보장하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "강한 적과 위험한 구간 앞에 평소보다 많은 자원을 준다. 보급의 풍부함이 다가올 위협을 예상하게 하는 게임 구성이다.\n\n플레이어는 안도하는 동시에 왜 이렇게 많은지 경계할 수 있다. 회복과 탄약을 충분히 준비하게 하면 이후 도전은 결핍보다 사용 시점과 수행 능력을 시험하는 방향으로 바뀐다.\n\n자원이 많은 모든 장소가 보스의 예고는 아니다. 배치의 반복과 다음 사건의 연결을 확인해야 하며 보급의 양이 위험의 정확한 크기를 보장하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

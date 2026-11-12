@@ -4,8 +4,8 @@
   "title": "기계 존재의 시야",
   "original": "Robo-Cam",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01889",
+  "primary_tag_id": "ML-T01889",
   "description": {
     "definition": "로봇이나 기계적 존재의 일인칭 시점을 화면에 제시하여 그 존재가 보는 방식을 보여 주는 연출이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "사람이 보조 표시 장치를 쓰는 경우와 관찰 주체가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.006.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관찰 주체가 로봇이나 기계적 존재인 화면을 제시한다. 사람의 눈에 장치를 더한 화면과 달리 기계가 세계를 받아들이는 위치에 관객을 둔다.\n\n게임 안의 조작 화면만이 아니라 다른 영상에서도 이런 시점을 사용할 수 있다. 화면 설계의 변화로 관찰자가 바뀌었음을 알릴 수 있지만 모든 기계 시점이 같은 표시 장치를 요구하는 것은 아니다.\n\n누가 보는지와 표시가 극중 공간에 실제로 존재하는지는 별개의 구분이다. 기계의 시야라는 이유만으로 보이는 글자와 수치까지 모두 극중 물체라고 설명해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관찰 주체가 로봇이나 기계적 존재인 화면을 제시한다. 사람의 눈에 장치를 더한 화면과 달리 기계가 세계를 받아들이는 위치에 관객을 둔다.\n\n게임 안의 조작 화면만이 아니라 다른 영상에서도 이런 시점을 사용할 수 있다. 화면 설계의 변화로 관찰자가 바뀌었음을 알릴 수 있지만 모든 기계 시점이 같은 표시 장치를 요구하는 것은 아니다.\n\n누가 보는지와 표시가 극중 공간에 실제로 존재하는지는 별개의 구분이다. 기계의 시야라는 이유만으로 보이는 글자와 수치까지 모두 극중 물체라고 설명해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

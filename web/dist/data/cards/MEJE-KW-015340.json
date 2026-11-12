@@ -4,8 +4,8 @@
   "title": "치료를 위해 의식 없는 이의 옷을 벗김",
   "original": "Undressing the Unconscious",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00801",
+  "primary_tag_id": "ML-T00801",
   "description": {
     "definition": "의식을 잃은 인물의 건강이나 치료를 위해 다른 인물이 옷을 제거해야 하는 상황이다.",
     "detail": "작품 사례: [[Blood+]]에서 Solomon은 구조한 Saya의 상처에 붕대를 감으려고 옷을 벗기고, 깨어난 Saya는 그 상황과 그가 준 옷을 불편해한다.",
@@ -13,10 +13,10 @@
     "boundary": "돌봄을 명분으로 한 관음과 실제 치료 목적의 묘사를 구별하며 세부 연출에 따라 경계와 신뢰가 쟁점이 된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.008.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "의식 없는 사람의 상처를 다루기 위해 옷을 벗기는 처치 장면이다. 치료의 필요와 당사자가 상황을 통제할 수 없는 신체적 경계가 함께 문제가 된다.\n\n치료를 명분으로 한 관음과 실제 돌봄의 묘사는 구별해야 한다. 목적뿐 아니라 세부 연출과 이후 반응이 신뢰와 불편의 의미를 결정한다.\n\n[[Blood+]]의 Solomon은 구조한 Saya에게 붕대를 감으려고 옷을 벗긴다. 깨어난 Saya는 상황과 그가 준 옷을 불편해해 처치의 목적과 당사자의 경험이 분리된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "의식 없는 사람의 상처를 다루기 위해 옷을 벗기는 처치 장면이다. 치료의 필요와 당사자가 상황을 통제할 수 없는 신체적 경계가 함께 문제가 된다.\n\n치료를 명분으로 한 관음과 실제 돌봄의 묘사는 구별해야 한다. 목적뿐 아니라 세부 연출과 이후 반응이 신뢰와 불편의 의미를 결정한다."
+      ],
+      [
+        "관련 작품",
+        "[[Blood+]]의 Solomon은 구조한 Saya에게 붕대를 감으려고 옷을 벗긴다. 깨어난 Saya는 상황과 그가 준 옷을 불편해해 처치의 목적과 당사자의 경험이 분리된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

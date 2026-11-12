@@ -4,8 +4,8 @@
   "title": "가난한 여성과 부유한 남성의 연애",
   "original": "Uptown Girl",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "경제적으로 가난한 여성과 부유한 남성의 사랑에서 생활 수준과 가족의 기대 차이가 [[갈등]]이 되는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "이전 Uptown Girl 제안은 성별 배치가 반대여서 자동 재사용하지 않으며 재산이 사랑의 진정성을 결정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로의 집안 형편이 크게 다른 두 사람이 사랑한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가난한 여성과 부유한 남성의 관계에서 경제적 차이가 중요한 장애가 된다. 생활의 기대와 가족의 승인 기준이 다르게 작동한다.\n\n돈의 차이가 힘의 불균형을 만들 수 있지만 사랑의 진심과는 별개다. 같은 성격의 두 사람도 계층 조건 때문에 다른 선택을 요구받는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가난한 여성과 부유한 남성의 관계에서 경제적 차이가 중요한 장애가 된다. 생활의 기대와 가족의 승인 기준이 다르게 작동한다.\n\n돈의 차이가 힘의 불균형을 만들 수 있지만 사랑의 진심과는 별개다. 같은 성격의 두 사람도 계층 조건 때문에 다른 선택을 요구받는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

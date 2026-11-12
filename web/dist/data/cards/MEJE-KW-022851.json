@@ -5,8 +5,8 @@
   "original": "A Health-Cost Ability Cannot Kill You",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02098",
+  "primary_tag_id": "ML-T02098",
   "description": {
     "definition": "[[체력]]을 비용으로 쓰는 능력에 최소 잔여 체력을 남기는 제한을 두어, 능력 사용 자체로 사용자가 전투 불능이 되지 않게 하는 규칙이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "적의 공격에 대한 생존 보장과 달리 능력 비용의 지불 과정에 적용되는 안전장치다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자기 체력을 비용으로 쓰는 능력에 최소 잔여량이 정해져 있다. 능력을 사용한 비용만으로 사용자가 즉시 전투 불능이 되지 않도록 하는 제한이다.\n\n강한 효과를 위해 체력을 소비하게 하면서도 지불 과정에는 생존의 하한을 둔다. 비용의 위험과 사용 가능한 범위를 같은 규칙 안에서 조절한다.\n\n적의 공격을 견디게 하는 생존 보장과 다르다. 남겨 둔 체력이 다른 피해까지 막아 주는 것은 아니며 능력 비용의 계산에만 적용된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자기 체력을 비용으로 쓰는 능력에 최소 잔여량이 정해져 있다. 능력을 사용한 비용만으로 사용자가 즉시 전투 불능이 되지 않도록 하는 제한이다.\n\n강한 효과를 위해 체력을 소비하게 하면서도 지불 과정에는 생존의 하한을 둔다. 비용의 위험과 사용 가능한 범위를 같은 규칙 안에서 조절한다.\n\n적의 공격을 견디게 하는 생존 보장과 다르다. 남겨 둔 체력이 다른 피해까지 막아 주는 것은 아니며 능력 비용의 계산에만 적용된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

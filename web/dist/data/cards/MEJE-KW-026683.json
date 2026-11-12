@@ -4,8 +4,8 @@
   "title": "자기 의식과 욕망을 가진 무기",
   "original": "Empathic Weapon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "독자적인 인식과 바람을 지니고 도구 이상의 존재로 기능하는 무기이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "대장 MEJE-KW-008562는 사용자의 감정에 응답하고 사용을 허락하는 조건이 있다. 현재는 그 조건 없이 자의식을 가진 무기 전반이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무기가 독자적인 인식과 욕망을 가져 단순한 도구의 지위를 넘는다. 사용자의 목적과 다른 의사를 표현할 수 있다.\n\n공격 수단과 협력 상대가 같은 존재에 결합한다. 무기를 사용하는 행위는 그 의사와 협상하거나 충돌하는 관계로 확장된다.\n\n사용자를 선별하거나 감정에 응답해야만 하는 것은 아니다. 특정 허락 절차보다 독자적 자아가 있다는 점이 범위의 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "무기가 독자적인 인식과 욕망을 가져 단순한 도구의 지위를 넘는다. 사용자의 목적과 다른 의사를 표현할 수 있다.\n\n공격 수단과 협력 상대가 같은 존재에 결합한다. 무기를 사용하는 행위는 그 의사와 협상하거나 충돌하는 관계로 확장된다.\n\n사용자를 선별하거나 감정에 응답해야만 하는 것은 아니다. 특정 허락 절차보다 독자적 자아가 있다는 점이 범위의 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

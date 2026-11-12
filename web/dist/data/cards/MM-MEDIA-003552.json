@@ -2,24 +2,65 @@
   "id": "MM-MEDIA-003552",
   "kind": "work",
   "title": "드레스덴 파일즈(소설 시리즈)",
-  "original": "",
+  "original": "The Dresden Files",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00067",
+  "primary_tag_id": "ML-T00067",
   "description": {
-    "definition": "",
+    "definition": "《드레스덴 파일즈(소설 시리즈)》는 짐 부처가 집필한 마법사 해리 드레스덴의 초자연 사건 수사 소설 연작이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.007.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "시카고의 마법사 탐정 해리 드레스덴이 이상한 사건을 해결하는 소설 시리즈다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000155",
+      "card_id": "MM-MEDIA-003552",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/series/AU5/dresden-files/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "펭귄랜덤하우스는 짐 부처의 연작을 시카고에서 일하는 전문 마법사 해리 드레스던의 [[초자연]] 범죄 수사 이야기로 소개한다. 일상적인 도시의 사건을 조사하는 탐정의 역할에 마법사 사회와 괴물의 문제를 겹쳐 놓아, 사건 하나를 푸는 일이 숨은 세계의 규칙을 드러내는 통로가 된다.\n\n출판사 목록의 각 권은 서로 다른 사건을 맡으면서도 해리의 관계와 의무를 이어 간다. 예컨대 《[[Turn Coat]]》 소개에서는 마법사 협의회의 살인 혐의를 쓴 모건을 숨기고 진범을 찾는 일이, 《[[Peace Talks]]》 소개에서는 초자연 세력의 협상을 지키는 일이 중심 과제로 제시된다. 이 카드는 특정 사건을 담은 한 권이나 TV판·게임판이 아니라 소설 연작 전체의 범위를 뜻한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "펭귄랜덤하우스는 짐 부처의 연작을 시카고에서 일하는 전문 마법사 해리 드레스던의 [[초자연]] 범죄 수사 이야기로 소개한다. 일상적인 도시의 사건을 조사하는 탐정의 역할에 마법사 사회와 괴물의 문제를 겹쳐 놓아, 사건 하나를 푸는 일이 숨은 세계의 규칙을 드러내는 통로가 된다.\n\n출판사 목록의 각 권은 서로 다른 사건을 맡으면서도 해리의 관계와 의무를 이어 간다. 예컨대 《[[Turn Coat]]》 소개에서는 마법사 협의회의 살인 혐의를 쓴 모건을 숨기고 진범을 찾는 일이, 《[[Peace Talks]]》 소개에서는 초자연 세력의 협상을 지키는 일이 중심 과제로 제시된다. 이 카드는 특정 사건을 담은 한 권이나 TV판·게임판이 아니라 소설 연작 전체의 범위를 뜻한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 5,
+    "replaces_short_fields": true
+  }
 }

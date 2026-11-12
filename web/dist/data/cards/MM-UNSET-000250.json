@@ -4,22 +4,44 @@
   "title": "스승",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00885",
+  "primary_tag_id": "ML-T00885",
   "description": {
-    "definition": "",
+    "definition": "다른 인물에게 지식·기술·판단의 기준을 가르치거나 조언하여 배움과 성장을 이끄는 역할의 인물이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "09.001.005",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "경험이나 솜씨를 다른 사람에게 알려 주며 배우는 사람의 성장을 돕는 인물이에요. 학교 선생님뿐 아니라 검술을 가르치는 사람이나 생활의 길을 안내하는 조언자도 스승 역할을 할 수 있어요.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "스승은 기술을 직접 시범 보이거나 과제를 주고, 실패를 평가하거나 판단의 기준을 전하는 방식으로 제자를 이끈다. 제도적인 교사 신분이 반드시 필요한 것은 아니며, 나이가 많거나 전투력이 높다는 이유만으로 자동으로 스승이 되는 것도 아니다. 실제로 가르침과 안내를 제공하는 관계가 있어야 한다.\n\n[[스승과 제자]]는 두 사람 사이의 교육 관계이고 이 카드는 그 관계에서 가르치는 쪽의 인물 역할이다. 뛰어난 검사가 가르침을 맡을 수는 있지만 [[검술의 숙련으로 인정받는 검사]]라는 전문성과 스승이라는 역할은 별개다. 가르침이 유익한지, 숨은 목적이 있는지, 제자가 독립하게 되는지는 각각 다른 서사적 조건이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "스승은 기술을 직접 시범 보이거나 과제를 주고, 실패를 평가하거나 판단의 기준을 전하는 방식으로 제자를 이끈다. 제도적인 교사 신분이 반드시 필요한 것은 아니며, 나이가 많거나 전투력이 높다는 이유만으로 자동으로 스승이 되는 것도 아니다. 실제로 가르침과 안내를 제공하는 관계가 있어야 한다.\n\n[[스승과 제자]]는 두 사람 사이의 교육 관계이고 이 카드는 그 관계에서 가르치는 쪽의 인물 역할이다. 뛰어난 검사가 가르침을 맡을 수는 있지만 [[검술의 숙련으로 인정받는 검사]]라는 전문성과 스승이라는 역할은 별개다. 가르침이 유익한지, 숨은 목적이 있는지, 제자가 독립하게 되는지는 각각 다른 서사적 조건이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

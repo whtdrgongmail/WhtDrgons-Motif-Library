@@ -4,27 +4,27 @@
   "title": "드래곤볼",
   "original": "Dragon Ball",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《드래곤볼》은 미디어 작품군이다.",
-    "detail": "작품 사례: 《드래곤볼》의 사이어인 편이 끝난 뒤 손오공 일행은 병원에서 회복하며 잃은 동료들을 되살리기 위한 다음 여정을 논의한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -61,5 +61,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《드래곤볼》 작품군은 아키라 토리야마의 만화에서 출발해 [[애니메이션]]과 게임 등으로 확장되었다. 강한 소년 손오공의 모험과 소원을 이루는 구슬을 둘러싼 만남이 긴 이야기의 출발점이다.\n\n모험과 희극에서 시작한 관계는 강한 적과의 대결, 이전 적과의 협력으로 이어진다. 승리 뒤에도 훈련과 다음 목표가 남아 인물의 성장과 세계의 범위가 함께 커진다.\n\n미디어 작품군을 다루는 카드이므로 원작 만화와 Z, 슈퍼, 극장판과 게임의 연속성을 구별해야 한다. 같은 인물이 등장해도 모든 사건과 능력의 규칙이 한 판본에 동시에 속하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《드래곤볼》 작품군은 아키라 토리야마의 만화에서 출발해 [[애니메이션]]과 게임 등으로 확장되었다. 강한 소년 손오공의 모험과 소원을 이루는 구슬을 둘러싼 만남이 긴 이야기의 출발점이다.\n\n모험과 희극에서 시작한 관계는 강한 적과의 대결, 이전 적과의 협력으로 이어진다. 승리 뒤에도 훈련과 다음 목표가 남아 인물의 성장과 세계의 범위가 함께 커진다.\n\n미디어 작품군을 다루는 카드이므로 원작 만화와 Z, 슈퍼, 극장판과 게임의 연속성을 구별해야 한다. 같은 인물이 등장해도 모든 사건과 능력의 규칙이 한 판본에 동시에 속하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

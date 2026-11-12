@@ -4,8 +4,8 @@
   "title": "적 위치를 알려 주는 레이더",
   "original": "Enemy-Detecting Radar",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02151",
+  "primary_tag_id": "ML-T02151",
   "description": {
     "definition": "게임 화면의 레이더나 지도에 적의 위치와 움직임이 표시되어 [[플레이어]]의 탐색을 돕는다. [[적 정보 스캔]]이 적의 성질을 알려 준다면 레이더는 그 적의 위치를 알려 준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "25",
+    "code": "25.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화면의 레이더와 지도에 적의 위치와 이동을 표시하는 기능이다. 직접 보이지 않는 공간을 판단 가능한 정보로 바꾼다.\n\n방향과 시야까지 표시하면 회피와 잠입의 계획을 세울 수 있다. 정보가 제한되거나 특정 구간에서 사라지면 평소의 의존이 새로운 불안과 난도의 원인이 된다.\n\n실제 탐지 장비와 같은 정확도를 가정할 필요는 없다. 플레이 편의를 위한 표시와 인물이 세계 안에서 가진 장비를 구별하며 약점과 성질을 알려 주는 스캔과도 기능이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화면의 레이더와 지도에 적의 위치와 이동을 표시하는 기능이다. 직접 보이지 않는 공간을 판단 가능한 정보로 바꾼다.\n\n방향과 시야까지 표시하면 회피와 잠입의 계획을 세울 수 있다. 정보가 제한되거나 특정 구간에서 사라지면 평소의 의존이 새로운 불안과 난도의 원인이 된다.\n\n실제 탐지 장비와 같은 정확도를 가정할 필요는 없다. 플레이 편의를 위한 표시와 인물이 세계 안에서 가진 장비를 구별하며 약점과 성질을 알려 주는 스캔과도 기능이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

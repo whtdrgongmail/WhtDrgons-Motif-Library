@@ -4,8 +4,8 @@
   "title": "최대 체력 자체가 줄어들기",
   "original": "Maximum HP Reduction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02098",
+  "primary_tag_id": "ML-T02098",
   "description": {
     "definition": "현재 체력을 잃는 데 그치지 않고 회복해도 채울 수 있는 최대 체력의 상한이 낮아지는 효과다.",
     "detail": "작품 사례: 《[[젤다의 전설 티어스 오브 더 킹덤]]》의 도입부에서 링크는 가논돌프의 힘에 노출된 뒤 많은 하트 그릇을 잃는다. 이후 다시 체력 상한을 키워야 하므로 단순한 현재 체력 피해와 다르다.",
@@ -13,10 +13,10 @@
     "boundary": "레벨과 모든 능력의 전반적 감소 대신 생명 수치의 상한에 적용된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현재 체력뿐 아니라 회복 가능한 상한이 줄어든다. 회복품을 써도 이전의 최대치에 도달할 수 없어 손상의 비용이 오래 남는다.\n\n상한을 되돌리는 조건은 일반 회복과 따로 마련될 수 있다. 일시적으로 체력을 잃는 효과와 구별되는 규칙이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현재 체력뿐 아니라 회복 가능한 상한이 줄어든다. 회복품을 써도 이전의 최대치에 도달할 수 없어 손상의 비용이 오래 남는다.\n\n상한을 되돌리는 조건은 일반 회복과 따로 마련될 수 있다. 일시적으로 체력을 잃는 효과와 구별되는 규칙이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

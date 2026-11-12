@@ -4,8 +4,8 @@
   "title": "잠시 악역이 되었다가 돌아오기",
   "original": "Temporarily a Villain",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00693",
+  "primary_tag_id": "ML-T00693",
   "description": {
     "definition": "선한 인물이 일정 기간 악한 역할이나 성향으로 바뀌었다가 다시 원래의 선한 위치로 복귀하는 전개다.",
     "detail": "작품 사례: [[The Loud House]]의 Luan은 평소 가족의 웃음을 맡지만, 만우절이 되면 장난에 지나치게 몰두해 무자비한 장난꾼으로 달라진다.",
@@ -13,10 +13,10 @@
     "boundary": "가짜 배신이나 여러 번 끝없이 오가는 전향과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평소의 선한 위치에서 벗어나는 기간과 다시 돌아오는 시점이 하나의 변화를 이룬다. 제한된 행사나 사건이 그 기간을 정할 수도 있으며, 일시적인 행동이라도 다른 인물에게 주는 피해는 실제로 제시될 수 있다.\n\n처음부터 아군을 돕기 위해 악역인 척한 가짜 배신과는 다르다. 실제로 악한 역할이나 성향을 보였다가 복귀하는 순서가 필요하며, 한 번의 변화를 끝없이 반복하는 진영 이동과도 구분한다.\n\n[[The Loud House]]의 Luan은 평소 가족의 웃음을 맡지만, 만우절이 되면 장난에 지나치게 몰두해 무자비한 장난꾼으로 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평소의 선한 위치에서 벗어나는 기간과 다시 돌아오는 시점이 하나의 변화를 이룬다. 제한된 행사나 사건이 그 기간을 정할 수도 있으며, 일시적인 행동이라도 다른 인물에게 주는 피해는 실제로 제시될 수 있다.\n\n처음부터 아군을 돕기 위해 악역인 척한 가짜 배신과는 다르다. 실제로 악한 역할이나 성향을 보였다가 복귀하는 순서가 필요하며, 한 번의 변화를 끝없이 반복하는 진영 이동과도 구분한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Loud House]]의 Luan은 평소 가족의 웃음을 맡지만, 만우절이 되면 장난에 지나치게 몰두해 무자비한 장난꾼으로 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

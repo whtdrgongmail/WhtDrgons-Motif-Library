@@ -4,8 +4,8 @@
   "title": "두 세계에 속한 아이",
   "original": "Child of Two Worlds",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00948",
+  "primary_tag_id": "ML-T00948",
   "description": {
     "definition": "서로 다른 문화나 집단에 연결된 인물이 어느 한쪽으로만 분류되지 않는다. 두 소속의 경험이 갈등의 원인이 되면서 두 세계를 잇는 가능성도 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 다른 두 공동체에 동시에 소속된 인물이다. 부모의 출신과 양육 환경, 거주와 문화적 정체성이 달라 이중적인 관계가 형성될 수 있다.\n\n어느 쪽에서도 온전히 받아들여지지 못하거나 반대로 두 집단을 잇는 중재자가 된다. 한쪽을 선택할지 둘을 함께 받아들일지가 인물의 성장과 정치적 갈등을 구성한다.\n\n혼혈이라는 생물학적 조건에 한정되지 않는다. 실제 공동체 소속과 인물의 자기 인식, 주변이 부여하는 정체성은 서로 다를 수 있어 각각을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 다른 두 공동체에 동시에 소속된 인물이다. 부모의 출신과 양육 환경, 거주와 문화적 정체성이 달라 이중적인 관계가 형성될 수 있다.\n\n어느 쪽에서도 온전히 받아들여지지 못하거나 반대로 두 집단을 잇는 중재자가 된다. 한쪽을 선택할지 둘을 함께 받아들일지가 인물의 성장과 정치적 갈등을 구성한다.\n\n혼혈이라는 생물학적 조건에 한정되지 않는다. 실제 공동체 소속과 인물의 자기 인식, 주변이 부여하는 정체성은 서로 다를 수 있어 각각을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

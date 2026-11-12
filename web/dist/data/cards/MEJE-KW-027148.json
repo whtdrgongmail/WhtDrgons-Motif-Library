@@ -4,8 +4,8 @@
   "title": "핵심 물건을 지키는 괴물",
   "original": "MacGuffin Guardian",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01130",
+  "primary_tag_id": "ML-T01130",
   "description": {
     "definition": "이야기의 목표물을 지키며 접근과 획득을 막는 괴물이다.",
     "detail": "드래곤·살아 움직이는 조각상·악마 같은 비인간 수호자가 목표물을 지킨다. 기계형 변주도 가능하다. 자격을 시험하는 수호자의 시험 일부로 배치될 수도 있다.\n\n작품 사례: 《[[기동전사 건담 AGE]]》의 SID는 EXA-DB를 지키는 무인 기동병기이다. 원문은 목표물을 지키는 괴물 역할의 기계형 변주로 설명한다.",
@@ -13,19 +13,19 @@
     "boundary": "이전 제안의 인간을 포함한 수호자 전반보다 괴물을 명시한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "물건을 얻으려면 수호 괴물을 넘어야 한다.\n\n작품 사례: 《[[기동전사 건담 AGE]]》의 SID는 EXA-DB를 지키는 무인 기동병기이다. 원문은 목표물을 지키는 괴물 역할의 기계형 변주로 설명한다.",
+    "easy_ko": "물건을 얻으려면 수호 괴물을 넘어야 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "괴물이 목표물에 접근하지 못하게 막는다. 물건을 찾는 데 성공해도 마지막 획득을 위해 별도의 대결과 우회가 필요하다.\n\n괴물의 목적은 충성이나 본능 등으로 달라질 수 있다. 우연히 같은 장소에 있는 적과 수호 기능을 맡은 존재는 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "괴물이 목표물에 접근하지 못하게 막는다. 물건을 찾는 데 성공해도 마지막 획득을 위해 별도의 대결과 우회가 필요하다.\n\n괴물의 목적은 충성이나 본능 등으로 달라질 수 있다. 우연히 같은 장소에 있는 적과 수호 기능을 맡은 존재는 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

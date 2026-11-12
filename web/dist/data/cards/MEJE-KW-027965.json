@@ -4,8 +4,8 @@
   "title": "동물 형태의 로봇",
   "original": "Mechanical Animals",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01141",
+  "primary_tag_id": "ML-T01141",
   "description": {
     "definition": "동물의 외형이나 행동을 본떠 만들어진 [[로봇]]으로, 동료·반려·정찰·작업 등 동물에 연상되는 역할을 수행한다.",
     "detail": "작품 사례: 《[[인크레더블]]》의 섬 기지에는 진짜처럼 보이는 로봇 앵무새가 있어 낯선 방문자에게 음성 암호를 요구하고 경보를 울린다.",
@@ -13,10 +13,10 @@
     "boundary": "반드시 귀엽거나 지능이 낮아야 하는 것은 아니다. 자연 생물처럼 존재하는 기계 생명체와 겹칠 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "동물의 몸과 행동을 닮은 로봇이다. 익숙한 생물의 형상을 통해 반려와 정찰, 작업 같은 기능을 전달한다.\n\n자율성과 인격의 정도에 따라 도구와 동료의 위치가 달라진다. 외형이 같아도 실제 동물과 생물학적 조건을 공유하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "동물의 몸과 행동을 닮은 로봇이다. 익숙한 생물의 형상을 통해 반려와 정찰, 작업 같은 기능을 전달한다.\n\n자율성과 인격의 정도에 따라 도구와 동료의 위치가 달라진다. 외형이 같아도 실제 동물과 생물학적 조건을 공유하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

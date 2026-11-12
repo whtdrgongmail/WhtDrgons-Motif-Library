@@ -4,8 +4,8 @@
   "title": "다른 작품 세계에 이어지는 연계 소설",
   "original": "Tie-In Novel",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00067",
+  "primary_tag_id": "ML-T00067",
   "description": {
     "definition": "이미 만들어진 영화·애니메이션·만화 등의 세계와 인물을 공유하며 그 작품에 연결되는 소설을 제작한다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": "원래 줄거리를 그대로 소설로 옮길 수도 있지만 반드시 같은 사건을 재현할 필요는 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "02.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기존 작품의 인물과 세계를 공유하는 연계 소설이다. 원래 매체의 사건을 확장하거나 다른 시점과 모험을 제공할 수 있다.\n\n공식 허락과 정사 지위는 별도의 정보다. 같은 제목이 있다는 사실만으로 원작의 모든 설정과 일치한다고 단정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기존 작품의 인물과 세계를 공유하는 연계 소설이다. 원래 매체의 사건을 확장하거나 다른 시점과 모험을 제공할 수 있다.\n\n공식 허락과 정사 지위는 별도의 정보다. 같은 제목이 있다는 사실만으로 원작의 모든 설정과 일치한다고 단정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

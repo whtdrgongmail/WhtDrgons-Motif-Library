@@ -4,8 +4,8 @@
   "title": "신이라 믿으며 반대자를 제거하려는 인물",
   "original": "A God Am I",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "자신이 신이라고 확신하면서 자신에게 반대하는 모든 사람을 죽이려 하는 인물이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 신 자칭과 달리 반대자 제거의 의도가 필수이며 실제 신인지와는 별개다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "초월적인 힘을 얻은 뒤 자신을 신이라고 확신한다. 반대자의 존재를 권위의 침해로 받아들여 제거하려 할 수 있다.\n\n실제 신성의 지위와 인물의 믿음은 다르다. 큰 능력 자체보다 자기 절대화와 타인에게 행사하는 권력이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "초월적인 힘을 얻은 뒤 자신을 신이라고 확신한다. 반대자의 존재를 권위의 침해로 받아들여 제거하려 할 수 있다.\n\n실제 신성의 지위와 인물의 믿음은 다르다. 큰 능력 자체보다 자기 절대화와 타인에게 행사하는 권력이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "성장기의 성소수자 연애",
   "original": "Coming-of-Age Queer Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00305",
+  "primary_tag_id": "ML-T00305",
   "description": {
     "definition": "청소년이 자신의 성적 지향이나 성별 [[정체성]]을 알아가며 관계를 맺는 이야기를 다룬다. [[첫사랑]]과 자기 이해가 함께 성장의 축이 된다. 첫사랑과 자기 이해가 함께 진행되는 이야기는 더 넓은 성장 [[서사]]의 한 모습이다: [[어른이 되어 가는 이야기]].",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "03",
+    "code": "03.109.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "청소년이 자신의 감정과 정체를 이해해 가는 과정에 연애가 함께 놓인다. 또래와 가까워지면서 누구에게 끌리는지와 주변의 기대가 어떻게 다른지 알아보는 경험이 성장의 축이 된다.\n\n학교처럼 다양한 사람을 만나는 공간은 새로운 감정의 계기를 마련한다. 처음 깨달은 감정이 실제 관계로 이어질 수도 있고 이별을 겪을 수도 있어 자기 이해와 연애의 성취는 같은 결과가 아닐 수 있다.\n\n[[어른이 되어 가는 이야기]]의 한 범위이며 [[첫사랑]]과 겹칠 수 있다. 성소수자라는 이유로 고통만이 필수적인 결말이 되는 것은 아니고, 한 번의 상대 선택만으로 앞으로의 모든 [[정체성]]을 외부가 확정해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "청소년이 자신의 감정과 정체를 이해해 가는 과정에 연애가 함께 놓인다. 또래와 가까워지면서 누구에게 끌리는지와 주변의 기대가 어떻게 다른지 알아보는 경험이 성장의 축이 된다.\n\n학교처럼 다양한 사람을 만나는 공간은 새로운 감정의 계기를 마련한다. 처음 깨달은 감정이 실제 관계로 이어질 수도 있고 이별을 겪을 수도 있어 자기 이해와 연애의 성취는 같은 결과가 아닐 수 있다.\n\n[[어른이 되어 가는 이야기]]의 한 범위이며 [[첫사랑]]과 겹칠 수 있다. 성소수자라는 이유로 고통만이 필수적인 결말이 되는 것은 아니고, 한 번의 상대 선택만으로 앞으로의 모든 [[정체성]]을 외부가 확정해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

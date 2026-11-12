@@ -4,8 +4,8 @@
   "title": "혼자 집에서 옷을 벗고 지내기",
   "original": "Home Nudist",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00813",
+  "primary_tag_id": "ML-T00813",
   "description": {
     "definition": "다른 사람이 없거나 사적인 공간임을 이용해 집에서 알몸으로 자유롭게 생활하는 행동을 다루는 관습이다.",
     "detail": "작품 사례: [[The Good Place]]에서 민디는 30년 동안 다른 사람을 만나지 않아 집에서 알몸으로 지내다가, 방문객들이 나타나자 꽃 뒤로 숨는다.",
@@ -13,10 +13,10 @@
     "boundary": "잠잘 때만 옷을 벗거나 남에게 보여 주려는 공개적인 노출과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000972",
+      "work_card_id": "MM-MEDIA-002210",
       "description_ko": "The Good Place에서 민디는 30년 동안 다른 사람을 만나지 않아 집에서 알몸으로 지내다가, 방문객들이 나타나자 꽃 뒤로 숨는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 사람의 시선이 없는 집에서 옷을 입지 않고 생활하는 행동이다. 사적인 공간이라는 전제가 신체 표현과 느긋함의 이유가 된다.\n\n수면 때만 옷을 벗는 행동과 다르다. 남에게 보이려는 공개 노출도 아니며 예상하지 못한 방문이 사생활의 조건을 바꿀 수 있다.\n\n[[The Good Place]]의 민디는 오랫동안 타인을 만나지 않아 집에서 알몸으로 지낸다. 방문객이 나타나 꽃 뒤에 숨으면서 평소의 자유와 갑작스러운 타인의 시선이 대비된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 사람의 시선이 없는 집에서 옷을 입지 않고 생활하는 행동이다. 사적인 공간이라는 전제가 신체 표현과 느긋함의 이유가 된다.\n\n수면 때만 옷을 벗는 행동과 다르다. 남에게 보이려는 공개 노출도 아니며 예상하지 못한 방문이 사생활의 조건을 바꿀 수 있다."
+      ],
+      [
+        "관련 작품",
+        "[[The Good Place]]의 민디는 오랫동안 타인을 만나지 않아 집에서 알몸으로 지낸다. 방문객이 나타나 꽃 뒤에 숨으면서 평소의 자유와 갑작스러운 타인의 시선이 대비된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

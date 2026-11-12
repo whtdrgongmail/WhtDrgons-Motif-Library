@@ -4,8 +4,8 @@
   "title": "군사 기술로 다루는 로봇",
   "original": "Real Robot",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-027959",
+  "primary_tag_id": "MEJE-KW-027959",
   "description": {
     "definition": "메카를 특수한 영웅보다 발전된 군사 기술과 장비의 일부로 다루는 작품의 접근이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.104.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "리얼 로봇은 메카를 특별한 영웅의 고유 능력으로만 다루지 않고, 군사 조직이 운용하는 기술과 장비의 일부로 설정하는 접근이다. 기체의 생산·운용·전술 조건은 전투 방식과 세계의 제도를 함께 설명하며, 조종자의 능력도 장비와 조직의 한계 안에서 드러난다.\n\n현실에서 실제 제작할 수 있다는 보증이나 사실적인 외형만으로 분류하는 말은 아니다. 작품이 로봇을 세계 안에서 어떤 기능과 제약을 가진 대상으로 설명하는지가 기준이다. 기획에서는 운용 비용, 보급, 명령 체계와 전술적 역할이 사건에 주는 영향을 정해 영웅적 장치와 군사 기술의 관계를 조정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "리얼 로봇은 메카를 특별한 영웅의 고유 능력으로만 다루지 않고, 군사 조직이 운용하는 기술과 장비의 일부로 설정하는 접근이다. 기체의 생산·운용·전술 조건은 전투 방식과 세계의 제도를 함께 설명하며, 조종자의 능력도 장비와 조직의 한계 안에서 드러난다.\n\n현실에서 실제 제작할 수 있다는 보증이나 사실적인 외형만으로 분류하는 말은 아니다. 작품이 로봇을 세계 안에서 어떤 기능과 제약을 가진 대상으로 설명하는지가 기준이다. 기획에서는 운용 비용, 보급, 명령 체계와 전술적 역할이 사건에 주는 영향을 정해 영웅적 장치와 군사 기술의 관계를 조정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

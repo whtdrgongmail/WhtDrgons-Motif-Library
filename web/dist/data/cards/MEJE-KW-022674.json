@@ -4,8 +4,8 @@
   "title": "어린이를 대상으로 한 일본 만화·애니메이션",
   "original": "Kodomomuke",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F30",
+  "tag_id": "ML-T02429",
+  "primary_tag_id": "ML-T02429",
   "description": {
     "definition": "어린 연령의 독자를 주요 대상으로 제작된 일본 [[만화]]와 [[애니메이션]]을 묶는 대상 독자 분류다.",
     "detail": "작품 사례: 《[[도라에몽]]》은 원문이 어린이를 주요 독자로 삼는 만화·애니메이션 계열의 대표 목록에 포함한 작품이다.",
@@ -13,10 +13,10 @@
     "boundary": "어른이 즐길 수 없다는 뜻이나 특정 줄거리 [[장르]]가 아니며 해외 편집판의 인상만으로 원래 대상층을 확정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "30",
+    "code": "30.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001382",
+      "work_card_id": "MM-MEDIA-002509",
       "description_ko": "《도라에몽》은 원문이 어린이를 주요 독자로 삼는 만화·애니메이션 계열의 대표 목록에 포함한 작품이다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "어린이를 주요 대상으로 제작하는 일본 만화와 애니메이션의 독자층 분류다. 소재와 장르보다 누구에게 전달하도록 만들었는지가 기준이다.\n\n이해하기 쉬운 관계와 반복적인 구조를 사용할 수 있지만 표현과 주제의 범위는 작품마다 다르다. 다른 연령의 관객도 즐길 수 있어 실제 소비층과 기획상의 대상을 나누어 보아야 한다.\n\n귀여운 그림체와 어린 주인공만으로 분류를 확정할 수는 없다. 청소년 대상 작품과 구분할 때는 제작과 배포의 맥락을 함께 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "어린이를 주요 대상으로 제작하는 일본 만화와 애니메이션의 독자층 분류다. 소재와 장르보다 누구에게 전달하도록 만들었는지가 기준이다.\n\n이해하기 쉬운 관계와 반복적인 구조를 사용할 수 있지만 표현과 주제의 범위는 작품마다 다르다. 다른 연령의 관객도 즐길 수 있어 실제 소비층과 기획상의 대상을 나누어 보아야 한다.\n\n귀여운 그림체와 어린 주인공만으로 분류를 확정할 수는 없다. 청소년 대상 작품과 구분할 때는 제작과 배포의 맥락을 함께 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

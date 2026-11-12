@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "브레이킹 배드",
   "original": "Breaking Bad",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Breaking Bad"
+  ],
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《브레이킹 배드》는 텔레비전 작품이다.",
-    "detail": "작품 사례: 《브레이킹 배드》의 회차 제목 「I.F.T.」는 스카일러가 마지막에 하는 고백의 첫 글자들로 구성되어, 짧은 표기의 뜻이 대사를 통해 드러난다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -38,6 +40,10 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-015418",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-019996",
       "row_version": 1
@@ -67,5 +73,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "암 진단을 받은 화학 교사가 가족의 재정 위기를 막으려 옛 제자와 마약 제조에 들어가는 범죄 시리즈다. 전문지식으로 만든 고순도 제품은 성공의 근거이면서 더 위험한 관심을 끌어오는 원인이 된다.\n\n유통업자와 경쟁자, 수사기관을 상대하는 동안 가족을 위한 선택이라는 초기 목적도 흔들린다. 작업의 문제와 가까운 사람들에게 미치는 피해가 함께 커지면서 한 인물의 변화를 장기적으로 따른다.",
+    "sections": [
+      [
+        "상세 설명",
+        "암 진단을 받은 화학 교사가 가족의 재정 위기를 막으려 옛 제자와 마약 제조에 들어가는 범죄 시리즈다. 전문지식으로 만든 고순도 제품은 성공의 근거이면서 더 위험한 관심을 끌어오는 원인이 된다.\n\n유통업자와 경쟁자, 수사기관을 상대하는 동안 가족을 위한 선택이라는 초기 목적도 흔들린다. 작업의 문제와 가까운 사람들에게 미치는 피해가 함께 커지면서 한 인물의 변화를 장기적으로 따른다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

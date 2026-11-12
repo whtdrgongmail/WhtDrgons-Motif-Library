@@ -4,8 +4,8 @@
   "title": "도움을 주는 척 접근하는 위험한 사람",
   "original": "Bad Samaritan",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "길을 잃거나 다친 인물에게 친절을 베푸는 사람이 다른 의도를 숨긴다. 도움을 거절하기 어려운 상황을 악용해 신뢰를 위협으로 바꾼다. 친숙한 외형이 위협으로 바뀌는 [[축제의 산타가 위협적인 존재로 바뀌기]]와 위험의 출발점이 닮았다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "곤경에 빠진 사람을 돕는 듯 접근한 뒤 그 취약한 상태를 이용해 해를 끼치는 인물이다. 도움을 받은 쪽이 경계를 낮추었다는 사실이 위험의 원인이 된다.\n\n치료와 숙식의 제공처럼 신뢰를 만드는 행동이 먼저 제시되면 배신의 효과가 커진다. 악의가 처음부터 있었는지 도움을 준 뒤 기회를 이용했는지에 따라 [[기만]]의 계획성은 달라진다.\n\n선의로 도왔다가 갈등이 생긴 사람이나 도움을 받고 배신하는 수혜자와는 역할이 다르다. 친절한 태도와 선한 목적을 같은 것으로 받아들인 판단이 뒤집히는 구조다.",
+    "sections": [
+      [
+        "상세 설명",
+        "곤경에 빠진 사람을 돕는 듯 접근한 뒤 그 취약한 상태를 이용해 해를 끼치는 인물이다. 도움을 받은 쪽이 경계를 낮추었다는 사실이 위험의 원인이 된다.\n\n치료와 숙식의 제공처럼 신뢰를 만드는 행동이 먼저 제시되면 배신의 효과가 커진다. 악의가 처음부터 있었는지 도움을 준 뒤 기회를 이용했는지에 따라 [[기만]]의 계획성은 달라진다.\n\n선의로 도왔다가 갈등이 생긴 사람이나 도움을 받고 배신하는 수혜자와는 역할이 다르다. 친절한 태도와 선한 목적을 같은 것으로 받아들인 판단이 뒤집히는 구조다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

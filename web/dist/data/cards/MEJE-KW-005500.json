@@ -4,8 +4,8 @@
   "title": "거부하기 어려운 명령의 목소리",
   "original": "Compelling Voice",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01502",
+  "primary_tag_id": "ML-T01502",
   "description": {
     "definition": "특별한 목소리나 말의 힘이 듣는 이의 의지와 관계없이 복종하게 만드는 초자연적 능력.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "말을 들은 상대가 자신의 의사에 반해서도 명령을 따르게 되는 초자연적인 목소리다. 설득의 성공이 아니라 선택권의 직접적인 제한이 중심이다.\n\n능력이 목소리와 연결되어 있으면 들을 수 있는지와 명령을 이해하는지가 중요한 조건이 된다. 명령의 범위와 지속 시간, 저항 가능성에 따라 지배의 강도가 달라진다.\n\n권위적인 말투와 일반적인 협박만으로는 성립하지 않는다. 상대가 원치 않아도 행동하게 하는 설정이 필요하며, 그 결과로 관계의 신뢰와 동의가 훼손될 수 있다는 점이 능력의 서사적 위험이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "말을 들은 상대가 자신의 의사에 반해서도 명령을 따르게 되는 초자연적인 목소리다. 설득의 성공이 아니라 선택권의 직접적인 제한이 중심이다.\n\n능력이 목소리와 연결되어 있으면 들을 수 있는지와 명령을 이해하는지가 중요한 조건이 된다. 명령의 범위와 지속 시간, 저항 가능성에 따라 지배의 강도가 달라진다.\n\n권위적인 말투와 일반적인 협박만으로는 성립하지 않는다. 상대가 원치 않아도 행동하게 하는 설정이 필요하며, 그 결과로 관계의 신뢰와 동의가 훼손될 수 있다는 점이 능력의 서사적 위험이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

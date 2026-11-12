@@ -4,8 +4,8 @@
   "title": "위험한 대련",
   "original": "Deadly Sparring",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00771",
+  "primary_tag_id": "ML-T00771",
   "description": {
     "definition": "연습이나 친선 경기로 시작한 대련이 격해져 심각한 부상이나 죽음의 위험을 낳는다. 통제된 승부라는 믿음이 무너진다. 대련이 벌어지는 공간 자체가 위험하게 설계되었다면 [[치명적인 훈련장]]도 함께 나타난다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.005.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "연습과 친선으로 시작한 싸움이 위험한 폭력으로 확대되는 전개다. 훈련의 합의와 감정의 통제, 안전 규칙이 무너진다.\n\n기존의 원한과 경쟁심이 원인이거나 한쪽이 처음부터 해치려 계획했을 수 있다. 실전 무기와 기술을 보호 없이 사용한 결과라면 의도와 무관하게 위험이 발생한다.\n\n계획된 엄격한 훈련과 상대를 속인 공격은 구분해야 한다. 참가자가 언제 위험을 알아차리고 중단할 수 있었는지가 관계와 책임을 결정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "연습과 친선으로 시작한 싸움이 위험한 폭력으로 확대되는 전개다. 훈련의 합의와 감정의 통제, 안전 규칙이 무너진다.\n\n기존의 원한과 경쟁심이 원인이거나 한쪽이 처음부터 해치려 계획했을 수 있다. 실전 무기와 기술을 보호 없이 사용한 결과라면 의도와 무관하게 위험이 발생한다.\n\n계획된 엄격한 훈련과 상대를 속인 공격은 구분해야 한다. 참가자가 언제 위험을 알아차리고 중단할 수 있었는지가 관계와 책임을 결정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

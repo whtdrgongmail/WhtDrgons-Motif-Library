@@ -4,19 +4,19 @@
   "title": "끝났다는 순간에 이제 시작이라고 선언하기",
   "original": "It Has Only Just Begun",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01963",
+  "primary_tag_id": "ML-T01963",
   "description": {
     "definition": "계획이나 대결이 끝난 듯한 시점에 아직 시작에 불과하다고 선언해, 다음 단계나 남은 가능성을 강조하는 대사 장치다.",
     "detail": "작품 사례: 《[[신세기 에반게리온]]》에서 겐도는 폭주한 초호기의 모습을 지켜보며 모든 것이 이제 시작된다고 말해, 이미 벌어진 사태 너머의 계획을 암시한다.",
-    "usage": "악당의 다음 계획이나 영웅의 재기를 예고하고, 결말 뒤에도 사건이 이어진다는 기대를 남길 때 쓴다.",
-    "boundary": "평범한 시작 안내보다 이미 벌어진 사건을 더 큰 전개의 서막으로 다시 해석하는 효과가 중요하다. 선언이 실제 속편으로 이어져야 하는 것은 아니다."
+    "usage": "",
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001359",
+      "work_card_id": "MM-MEDIA-002496",
       "description_ko": "《신세기 에반게리온》에서 겐도는 폭주한 초호기의 모습을 지켜보며 모든 것이 이제 시작된다고 말해, 이미 벌어진 사태 너머의 계획을 암시한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악당의 다음 계획이나 영웅의 재기를 예고하고, 결말 뒤에도 사건이 이어진다는 기대를 남길 때 쓴다.\n\n평범한 시작 안내보다 이미 벌어진 사건을 더 큰 전개의 서막으로 다시 해석하는 효과가 중요하다. 선언이 실제 속편으로 이어져야 하는 것은 아니다.\n\n《[[신세기 에반게리온(TV 애니메이션)]]》에서 겐도는 폭주한 초호기의 모습을 지켜보며 모든 것이 이제 시작된다고 말해, 이미 벌어진 사태 너머의 계획을 암시한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악당의 다음 계획이나 영웅의 재기를 예고하고, 결말 뒤에도 사건이 이어진다는 기대를 남길 때 쓴다.\n\n평범한 시작 안내보다 이미 벌어진 사건을 더 큰 전개의 서막으로 다시 해석하는 효과가 중요하다. 선언이 실제 속편으로 이어져야 하는 것은 아니다."
+      ],
+      [
+        "관련 작품",
+        "《[[신세기 에반게리온(TV 애니메이션)]]》에서 겐도는 폭주한 초호기의 모습을 지켜보며 모든 것이 이제 시작된다고 말해, 이미 벌어진 사태 너머의 계획을 암시한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

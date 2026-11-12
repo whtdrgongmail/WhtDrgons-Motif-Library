@@ -4,17 +4,17 @@
   "title": "Splatoon 1",
   "original": "Splatoon 1",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "이 카드는 비디오게임 《Splatoon 1》를 가리킨다. 이 라이브러리에서는 [[어리석은 선택을 해야 진행되는 게임]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Splatoon 1에서 최종 전투 앞의 전기메기는 함정이라고 경고받지만, 플레이어는 진행을 위해 가까이 가야 하고 결국 적의 거대 기계가 작동한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "첫 《Splatoon》은 2015년 Wii U용으로 발표된 닌텐도의 3인칭 슈팅 게임이다. 오징어와 사람 형태를 바꾸는 잉클링들이 잉크 무기로 공간을 칠한다.\n\n일반적인 영역 배틀에서는 네 명씩 두 팀이 겨루며 더 넓은 면적을 자기 색으로 칠한 팀이 이긴다. 적을 맞히는 행동은 유리한 상황을 만들지만 그 자체만으로 승리가 결정되지는 않는다.\n\n자기 팀 잉크 안에서는 오징어 형태로 빠르게 이동할 수 있다. 공격과 이동 경로 확보가 같은 자원에 연결되어 영역의 색이 전투와 공간 통제를 동시에 결정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "첫 《Splatoon》은 2015년 Wii U용으로 발표된 닌텐도의 3인칭 슈팅 게임이다. 오징어와 사람 형태를 바꾸는 잉클링들이 잉크 무기로 공간을 칠한다.\n\n일반적인 영역 배틀에서는 네 명씩 두 팀이 겨루며 더 넓은 면적을 자기 색으로 칠한 팀이 이긴다. 적을 맞히는 행동은 유리한 상황을 만들지만 그 자체만으로 승리가 결정되지는 않는다.\n\n자기 팀 잉크 안에서는 오징어 형태로 빠르게 이동할 수 있다. 공격과 이동 경로 확보가 같은 자원에 연결되어 영역의 색이 전투와 공간 통제를 동시에 결정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

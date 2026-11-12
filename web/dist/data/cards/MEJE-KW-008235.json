@@ -4,8 +4,8 @@
   "title": "너무 쉽게 용서받는 가해자",
   "original": "Easily Forgiven",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "심각한 해를 끼친 인물이 충분한 책임이나 변화 없이 피해자와 주변 사람들에게 곧바로 용서받는 관계 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "심각한 피해를 준 인물이 충분한 사과와 책임 없이 빠르게 용서받는 전개다. 화해의 속도가 피해의 크기와 맞지 않아 보일 수 있으며, 작품이 넘어간 상처와 피해자의 선택이 실제로 표현되는지에 따라 관계의 설득력이 달라진다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "심각한 잘못을 저지른 인물이 피해의 크기에 비해 지나치게 빠르고 쉽게 용서받는 것으로 느껴지는 전개다. 화해 자체보다 책임과 변화의 과정이 충분히 제시되지 않는다는 점이 문제의 중심이다. 작품 속 인물의 수용과 관객의 감정이 어긋날 수 있다.\n\n악역이 동료가 된 뒤 과거의 피해가 더는 언급되지 않으면 관계 변화가 편의적으로 보인다. 피해자의 용서가 다른 피해자들의 책임 요구까지 지워 버릴 수도 있다. 반대로 속죄와 보상, 재발을 막는 변화가 보이면 같은 화해도 다른 무게를 얻는다.\n\n용서를 선택한 피해자를 비난하는 개념으로 사용할 필요는 없다. 개인이 분노를 놓는 일과 법적·사회적 책임을 면제하는 일은 구별된다. 얼마나 쉽게 느껴지는지는 작품이 쌓아 온 피해와 이후의 행동을 함께 대조해야 판단할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "심각한 잘못을 저지른 인물이 피해의 크기에 비해 지나치게 빠르고 쉽게 용서받는 것으로 느껴지는 전개다. 화해 자체보다 책임과 변화의 과정이 충분히 제시되지 않는다는 점이 문제의 중심이다. 작품 속 인물의 수용과 관객의 감정이 어긋날 수 있다.\n\n악역이 동료가 된 뒤 과거의 피해가 더는 언급되지 않으면 관계 변화가 편의적으로 보인다. 피해자의 용서가 다른 피해자들의 책임 요구까지 지워 버릴 수도 있다. 반대로 속죄와 보상, 재발을 막는 변화가 보이면 같은 화해도 다른 무게를 얻는다.\n\n용서를 선택한 피해자를 비난하는 개념으로 사용할 필요는 없다. 개인이 분노를 놓는 일과 법적·사회적 책임을 면제하는 일은 구별된다. 얼마나 쉽게 느껴지는지는 작품이 쌓아 온 피해와 이후의 행동을 함께 대조해야 판단할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

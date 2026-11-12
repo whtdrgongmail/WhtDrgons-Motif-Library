@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F15",
   "description": {
-    "definition": "",
+    "definition": "이전 마왕과 다른 인물이 마왕이라는 칭호나 지위를 이어받는 일이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "15",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "원래 마왕과는 다른 인물이 다음 마왕이 되는 일이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마왕의 자리 계승은 한 인물에게 있던 마왕의 칭호나 지위가 다른 인물에게 넘어가는 일이다. 이어받는 사람이 어떤 방법으로 선택되는지, 권한과 능력까지 함께 받는지는 연결 문맥만으로 정할 수 없다.\n\n같은 마왕이 죽었다가 되살아나거나 환생해 다시 등장하는 경우에는 지위가 다른 사람에게 옮겨 간 것이 아니다. 외모와 기억이 달라 보여도 이전 마왕과 존재가 이어진다는 설정이면 귀환 또는 환생을 따로 설명한다.\n\n계승 뒤에 이전 마왕의 적대 관계와 의무가 새 마왕에게 어떻게 이어지는지도 작품마다 다를 수 있다. 칭호의 이전과 능력의 이전을 같은 사건으로 가정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마왕의 자리 계승은 한 인물에게 있던 마왕의 칭호나 지위가 다른 인물에게 넘어가는 일이다. 이어받는 사람이 어떤 방법으로 선택되는지, 권한과 능력까지 함께 받는지는 연결 문맥만으로 정할 수 없다.\n\n같은 마왕이 죽었다가 되살아나거나 환생해 다시 등장하는 경우에는 지위가 다른 사람에게 옮겨 간 것이 아니다. 외모와 기억이 달라 보여도 이전 마왕과 존재가 이어진다는 설정이면 귀환 또는 환생을 따로 설명한다.\n\n계승 뒤에 이전 마왕의 적대 관계와 의무가 새 마왕에게 어떻게 이어지는지도 작품마다 다를 수 있다. 칭호의 이전과 능력의 이전을 같은 사건으로 가정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

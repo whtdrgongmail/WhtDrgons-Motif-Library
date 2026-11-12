@@ -4,8 +4,8 @@
   "title": "탈것만 타면 사고 내는 선장",
   "original": "Captain Crash",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "유능하다는 평을 들어도 탈것을 몰 때마다 예상 밖의 사고를 내는 인물. 반복된 실패가 주변의 신뢰와 웃음을 함께 바꾼다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "조종에 능숙하다고 소개됐는데도 탈것을 몰 때마다 사고와 파손을 겪는 인물 유형이다. 명성과 반복된 결과가 어긋나 동료가 믿어야 할 이유 자체가 농담이 된다.\n\n고장과 적의 공격처럼 당사자의 잘못이 아닌 이유도 있을 수 있다. 살아남아 다시 맡는 흐름을 반복하면 망가지는 물건의 규모와 인물의 태연함이 대비되어 액션과 희극을 함께 이어 간다.\n\n한 번의 추락과 사고만으로 상습적인 성향을 확정하지 않는다. [[서사]]의 반복과 원인을 확인하며, 탑승자가 무사했다는 결과를 실제 조종 능력과 안전한 행동의 증거로 설명하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조종에 능숙하다고 소개됐는데도 탈것을 몰 때마다 사고와 파손을 겪는 인물 유형이다. 명성과 반복된 결과가 어긋나 동료가 믿어야 할 이유 자체가 농담이 된다.\n\n고장과 적의 공격처럼 당사자의 잘못이 아닌 이유도 있을 수 있다. 살아남아 다시 맡는 흐름을 반복하면 망가지는 물건의 규모와 인물의 태연함이 대비되어 액션과 희극을 함께 이어 간다.\n\n한 번의 추락과 사고만으로 상습적인 성향을 확정하지 않는다. [[서사]]의 반복과 원인을 확인하며, 탑승자가 무사했다는 결과를 실제 조종 능력과 안전한 행동의 증거로 설명하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

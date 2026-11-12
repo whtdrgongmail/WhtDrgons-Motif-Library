@@ -4,8 +4,8 @@
   "title": "조작 버튼을 설명하는 등장인물",
   "original": "He Knows About Timed Hits",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "게임 속 인물이 플레이어에게 버튼과 입력 방법을 직접 말하며 조작법을 가르치는 튜토리얼 표현이다.",
     "detail": "작품 사례: [[TechnoMage: Return of Eternity]]의 첫 대화에서 Melvin은 행동 버튼으로 대화창을 넘기고 다른 버튼으로 카메라를 돌리라고 직접 설명한다.",
@@ -13,10 +13,10 @@
     "boundary": "화면 밖 안내문이나 세계 내부 행동만 설명하는 대사와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임 속 인물이 현실의 버튼과 [[카메라]] 조작 방법을 대사로 알려 주는 안내 방식이다. 인물은 세계 내부에서 말하지만 지시 대상은 [[플레이어]]의 입력 장치이므로, 이야기의 대화와 실제 조작 교육이 겹친다.\n\n화면 바깥에 나타나는 안내문과는 전달자가 다르다. 문을 어떻게 열어야 하는지 같은 세계 내부의 행동만 설명하는 대사도 별개다. 대사가 실제 입력 체계를 지시할 때 [[튜토리얼]]의 기능이 인물의 발화에 포함된다.\n\n[[TechnoMage: Return of Eternity]]의 첫 대화에서 Melvin은 행동 버튼으로 대화창을 넘기고 다른 버튼으로 카메라를 회전하라고 말한다. 등장인물이 직접 현실의 조작 절차를 설명하는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임 속 인물이 현실의 버튼과 [[카메라]] 조작 방법을 대사로 알려 주는 안내 방식이다. 인물은 세계 내부에서 말하지만 지시 대상은 [[플레이어]]의 입력 장치이므로, 이야기의 대화와 실제 조작 교육이 겹친다.\n\n화면 바깥에 나타나는 안내문과는 전달자가 다르다. 문을 어떻게 열어야 하는지 같은 세계 내부의 행동만 설명하는 대사도 별개다. 대사가 실제 입력 체계를 지시할 때 [[튜토리얼]]의 기능이 인물의 발화에 포함된다."
+      ],
+      [
+        "관련 작품",
+        "[[TechnoMage: Return of Eternity]]의 첫 대화에서 Melvin은 행동 버튼으로 대화창을 넘기고 다른 버튼으로 카메라를 회전하라고 말한다. 등장인물이 직접 현실의 조작 절차를 설명하는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

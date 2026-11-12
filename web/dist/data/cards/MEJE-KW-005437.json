@@ -4,8 +4,8 @@
   "title": "만화 연재의 한 집필 구간",
   "original": "Comic Book Run",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "오래 이어지는 만화 시리즈를 특정 작가나 편집 방향이 맡은 시기로 나눈다. 같은 인물이라도 구간마다 분위기와 해석이 달라질 수 있다. 집필 구간이 여럿 바뀌어도 인물의 나이를 크게 움직이지 않는 [[시간 규칙]]이 쓰일 수 있다: [[세월이 흐르지 않는 장기 연재 만화]].",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "장기 만화 연재에서 특정 창작자가 담당한 기간과 그 기간의 작품군이다. 같은 제목 아래에서도 집필진에 따라 인물 구성과 주제, 줄거리의 방향이 달라진다.\n\n특히 작가의 지속적인 참여가 구간을 구분하는 기준이 되는 경우가 많다. 그림 작가와의 협업도 특징을 만들지만 담당 기간이 정확히 일치할 필요는 없다.\n\n작가가 떠났다가 돌아오면 별도의 집필 구간으로 구별할 수 있다. 단일 이야기 묶음보다 넓은 제작상의 단위이며, 긴 연재를 특정한 스타일과 연속적인 줄거리의 범위로 이해하는 데 쓰인다.",
+    "sections": [
+      [
+        "상세 설명",
+        "장기 만화 연재에서 특정 창작자가 담당한 기간과 그 기간의 작품군이다. 같은 제목 아래에서도 집필진에 따라 인물 구성과 주제, 줄거리의 방향이 달라진다.\n\n특히 작가의 지속적인 참여가 구간을 구분하는 기준이 되는 경우가 많다. 그림 작가와의 협업도 특징을 만들지만 담당 기간이 정확히 일치할 필요는 없다.\n\n작가가 떠났다가 돌아오면 별도의 집필 구간으로 구별할 수 있다. 단일 이야기 묶음보다 넓은 제작상의 단위이며, 긴 연재를 특정한 스타일과 연속적인 줄거리의 범위로 이해하는 데 쓰인다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

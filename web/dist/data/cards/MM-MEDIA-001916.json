@@ -4,27 +4,27 @@
   "title": "매스 이펙트",
   "original": "Mass Effect",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《매스 이펙트》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《매스 이펙트》에서는 게스 스토커가 주변 레이더를 교란하여 화면의 작은 지도가 제대로 작동하지 않게 만든다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -45,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화성에서 고대 문명의 기술을 발견한 인류가 다른 은하 사회와 만나는 군사 우주극 작품군이다. 주변 물체의 질량을 바꾸는 물질이 발견되어 초광속 이동과 방어막 같은 기술이 가능해진다.\n\n기술적 도약은 인간이 우주에서 유일한 지적 존재가 아니라는 인식으로 이어진다. 역할수행과 삼인칭 전투를 결합한 게임에서 출발해 여러 매체로 확장했으며, 개별 편의 사건과 공동 세계의 조건을 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화성에서 고대 문명의 기술을 발견한 인류가 다른 은하 사회와 만나는 군사 우주극 작품군이다. 주변 물체의 질량을 바꾸는 물질이 발견되어 초광속 이동과 방어막 같은 기술이 가능해진다.\n\n기술적 도약은 인간이 우주에서 유일한 지적 존재가 아니라는 인식으로 이어진다. 역할수행과 삼인칭 전투를 결합한 게임에서 출발해 여러 매체로 확장했으며, 개별 편의 사건과 공동 세계의 조건을 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

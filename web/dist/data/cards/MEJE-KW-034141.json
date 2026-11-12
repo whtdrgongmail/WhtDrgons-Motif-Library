@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-034141",
+  "kind": "keyword",
+  "title": "움직이지 않는 플레이어를 압박하는 느린 즉사 공격",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "오래 움직이지 않는 플레이어에게 느리지만 치명적인 공격을 보내 자리를 유지할 수 없게 한다.",
+    "detail": "",
+    "usage": "[[강제 이동]]으로 정지 대기를 제한한다.",
+    "boundary": "정체된 플레이를 끝내는 기능을 중심으로 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "가만히 있으면 느린 위험이 결국 닿는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "오래 정지한 플레이어에게 느리지만 치명적인 공격을 보내 움직이게 한다. 공격의 목적은 대기 위치를 계속 유지하지 못하게 하는 데 있다.\n\n속도가 느려 피할 기회를 주면서도 맞았을 때의 대가로 이동을 요구한다. 정지 전략과 대응 행동의 선택을 바꾸는 설계다.\n\n모든 느린 즉사 공격을 뜻하지 않는다. 움직이지 않는 플레이를 끝내는 기능이 중심이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "오래 정지한 플레이어에게 느리지만 치명적인 공격을 보내 움직이게 한다. 공격의 목적은 대기 위치를 계속 유지하지 못하게 하는 데 있다.\n\n속도가 느려 피할 기회를 주면서도 맞았을 때의 대가로 이동을 요구한다. 정지 전략과 대응 행동의 선택을 바꾸는 설계다.\n\n모든 느린 즉사 공격을 뜻하지 않는다. 움직이지 않는 플레이를 끝내는 기능이 중심이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

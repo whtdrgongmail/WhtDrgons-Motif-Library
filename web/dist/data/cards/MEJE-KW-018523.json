@@ -4,8 +4,8 @@
   "title": "셔터 설정으로 움직임의 질감 바꾸기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01900",
+  "primary_tag_id": "ML-T01900",
   "description": {
     "definition": "노출 시간을 조절해 움직이는 대상의 잔상을 길게 남기거나 각 프레임을 비정상적으로 또렷하게 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "편집 속도나 실제 움직임의 빠르기만 바꾸는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "노출 시간은 움직임의 잔상을 길게 하거나 개별 프레임을 또렷하게 만든다. 같은 행동도 촬영의 질감이 다르게 느껴진다.\n\n날카로운 타격과 혼란, 주관적인 속도감은 영상의 선명도와 흐림으로 표현될 수 있다. 실제 동작과 기록한 모습의 차이를 분리해야 한다.\n\n편집을 빠르게 하거나 대상의 속도만 바꾼 경우와 다르다. 셔터 설정이 잔상의 형태에 관여해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "노출 시간은 움직임의 잔상을 길게 하거나 개별 프레임을 또렷하게 만든다. 같은 행동도 촬영의 질감이 다르게 느껴진다.\n\n날카로운 타격과 혼란, 주관적인 속도감은 영상의 선명도와 흐림으로 표현될 수 있다. 실제 동작과 기록한 모습의 차이를 분리해야 한다.\n\n편집을 빠르게 하거나 대상의 속도만 바꾼 경우와 다르다. 셔터 설정이 잔상의 형태에 관여해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

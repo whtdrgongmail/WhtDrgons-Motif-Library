@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "어메이징 디지털 서커스",
   "original": "The Amazing Digital Circus",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "The Amazing Digital Circus"
+  ],
+  "tag_id": "ML-T00100",
   "primary_tag_id": "ML-T00100",
   "description": {
     "definition": "《어메이징 디지털 서커스》는 웹애니메이션 작품이다.",
-    "detail": "작품 사례: 《어메이징 디지털 서커스》에서 잭스는 주블의 팔을 떼어 자신의 등을 긁다가 바로 그 팔에 목이 졸린다. 타인을 불편하게 만든 행동과 같은 수단이 자신에게 되돌아오는 희극적 보응이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.009.002",
     "review_status": "provisional",
@@ -39,9 +41,26 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014925",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-014151",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "구스웍스가 창작한 성인 대상 웹 애니메이션이다. 폼니를 비롯한 인물들이 디지털 서커스에 갇힌 상황을 다룬다. 밝은 가상 캐릭터의 외형과 벗어날 수 없는 생활의 불안이 동시에 유지되는 웹애니메이션이다.\n\n귀여운 만화적 외형과 탈출할 수 없는 심리적 고통이 대비된다. 진행자 케인의 행사들은 일상을 유지하면서도 통제받는 상태를 강조한다. 진행자가 마련한 놀이도 참여자의 선택권이 부족하면 오락보다 통제의 경험이 될 수 있다.\n\n가상 공간의 규칙이 인물의 정체성과 정신적 안정에 영향을 준다. 밝은 시각적 연출과 [[심리 공포]]가 동시에 작동하는 작품이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "구스웍스가 창작한 성인 대상 웹 애니메이션이다. 폼니를 비롯한 인물들이 디지털 서커스에 갇힌 상황을 다룬다. 밝은 가상 캐릭터의 외형과 벗어날 수 없는 생활의 불안이 동시에 유지되는 웹애니메이션이다.\n\n귀여운 만화적 외형과 탈출할 수 없는 심리적 고통이 대비된다. 진행자 케인의 행사들은 일상을 유지하면서도 통제받는 상태를 강조한다. 진행자가 마련한 놀이도 참여자의 선택권이 부족하면 오락보다 통제의 경험이 될 수 있다.\n\n가상 공간의 규칙이 인물의 정체성과 정신적 안정에 영향을 준다. 밝은 시각적 연출과 [[심리 공포]]가 동시에 작동하는 작품이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

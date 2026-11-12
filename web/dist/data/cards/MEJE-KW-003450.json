@@ -1,11 +1,13 @@
 {
   "id": "MEJE-KW-003450",
   "kind": "keyword",
-  "title": "개인 기록을 연재하는 웹 공간",
+  "title": "개인 블로그",
   "original": "Blog",
-  "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "aliases": [
+    "개인 기록을 연재하는 웹 공간"
+  ],
+  "tag_id": "MEJE-KW-003450",
+  "primary_tag_id": "MEJE-KW-003450",
   "description": {
     "definition": "한 사람이 글과 사진을 시간 순서로 올려 생각이나 활동을 기록하는 웹 형식. 독자가 댓글과 링크로 이어질 수 있어 개인의 기록이 공개 대화가 된다.",
     "detail": "",
@@ -13,18 +15,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
-    "review_status": "provisional",
+    "code": "02.009.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "publication_form",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +40,30 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원어 Blog는 Web log를 줄인 말이다. 기록을 웹에 게시한다는 뜻에서 출발했으며, 지금은 개인·단체가 게시물을 축적하는 온라인 출판 형식을 가리킨다.\n\n블로그의 기본 단위는 작성 시점과 고유 주소가 있는 게시물이다. 게시물은 역순 목록, 분류, 검색, 링크로 다시 찾을 수 있다. 작성자가 직접 쓰고 공개한다는 구조가 개인 기록, 전문 글, 단체 공지에 공통으로 적용된다. 댓글이나 구독 기능은 자주 쓰이지만 블로그의 필수 조건은 아니다.\n\n창작자가 제작 과정을 날짜별 게시물로 공개하면 독자는 개별 글과 전체 진행 기록을 함께 읽을 수 있다. 게시물이 시간순으로 쌓이고 각 글로 직접 연결할 수 있다는 점이 단순한 소개 페이지와 다르다.\n\n[[시사 소식을 전하는 블로그]]는 주제를 시사 정보로 좁힌 하위 형식이다. [[글타래가 이어지는 온라인 게시판]]은 여러 이용자의 주제별 대화가 중심이므로 작성자 중심의 블로그와 구별된다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "원어 Blog는 Web log를 줄인 말이다. 기록을 웹에 게시한다는 뜻에서 출발했으며, 지금은 개인·단체가 게시물을 축적하는 온라인 출판 형식을 가리킨다."
+      ],
+      [
+        "상세 설명",
+        "블로그의 기본 단위는 작성 시점과 고유 주소가 있는 게시물이다. 게시물은 역순 목록, 분류, 검색, 링크로 다시 찾을 수 있다. 작성자가 직접 쓰고 공개한다는 구조가 개인 기록, 전문 글, 단체 공지에 공통으로 적용된다. 댓글이나 구독 기능은 자주 쓰이지만 블로그의 필수 조건은 아니다."
+      ],
+      [
+        "사례",
+        "창작자가 제작 과정을 날짜별 게시물로 공개하면 독자는 개별 글과 전체 진행 기록을 함께 읽을 수 있다. 게시물이 시간순으로 쌓이고 각 글로 직접 연결할 수 있다는 점이 단순한 소개 페이지와 다르다."
+      ],
+      [
+        "관련 작품",
+        "[[시사 소식을 전하는 블로그]]는 주제를 시사 정보로 좁힌 하위 형식이다. [[글타래가 이어지는 온라인 게시판]]은 여러 이용자의 주제별 대화가 중심이므로 작성자 중심의 블로그와 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

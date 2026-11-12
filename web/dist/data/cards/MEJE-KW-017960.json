@@ -4,8 +4,8 @@
   "title": "다른 사람의 모습으로 변신하는 능력",
   "original": "Humanshifting",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01496",
+  "primary_tag_id": "ML-T01496",
   "description": {
     "definition": "자신의 얼굴이나 몸을 바꾸어 여러 인간의 모습으로 나타나는 변신 능력이다. 동물·사물 등 임의의 형태로 변하는 능력보다 범위가 좁지만 타인의 신분을 흉내 내는 데 효과적이다.",
     "detail": "얼굴만 바뀌거나 목소리·체격까지 바뀌는 등 복제 범위와 사용 조건이 다를 수 있다.\n\n작품 사례: 《[[원피스]]》의 봉쿠레는 만져 본 사람의 얼굴·목소리·몸을 흉내 낼 수 있지만, 자신의 전투 기술을 쓰려면 본래 몸으로 돌아가야 한다.",
@@ -13,30 +13,47 @@
     "boundary": "분장·옷차림만 바꾸는 위장과 구분하며 비인간이 한 번 인간이 되는 사건과도 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.001.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "가면을 쓰지 않고 몸 자체를 다른 사람처럼 바꾼다.\n\n작품 사례: 《[[원피스]]》의 봉쿠레는 만져 본 사람의 얼굴·목소리·몸을 흉내 낼 수 있지만, 자신의 전투 기술을 쓰려면 본래 몸으로 돌아가야 한다.",
+    "easy_ko": "가면을 쓰지 않고 몸 자체를 다른 사람처럼 바꾼다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》의 봉쿠레는 만져 본 사람의 얼굴·목소리·몸을 흉내 낼 수 있지만, 자신의 전투 기술을 쓰려면 본래 몸으로 돌아가야 한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "얼굴만 바뀌거나 목소리와 체격까지 복제하는 등 가능한 범위가 다르다. 변신한 사람의 신분을 흉내 낼 수 있어 누구를 복제할 수 있고 무엇이 원래 몸을 드러내는지가 정체 추적의 단서가 된다.\n\n분장과 옷차림을 바꾸는 위장보다 실제 신체 변화가 중요하다. 비인간이 한 번 사람으로 변하는 사건이나 동물과 사물까지 제한 없이 바뀌는 능력과는 범위가 다르다.\n\n《[[원피스(만화)]]》의 봉쿠레는 만져 본 사람의 얼굴·목소리·몸을 흉내 낼 수 있지만, 자신의 전투 기술을 쓰려면 본래 몸으로 돌아가야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "얼굴만 바뀌거나 목소리와 체격까지 복제하는 등 가능한 범위가 다르다. 변신한 사람의 신분을 흉내 낼 수 있어 누구를 복제할 수 있고 무엇이 원래 몸을 드러내는지가 정체 추적의 단서가 된다.\n\n분장과 옷차림을 바꾸는 위장보다 실제 신체 변화가 중요하다. 비인간이 한 번 사람으로 변하는 사건이나 동물과 사물까지 제한 없이 바뀌는 능력과는 범위가 다르다."
+      ],
+      [
+        "관련 작품",
+        "《[[원피스(만화)]]》의 봉쿠레는 만져 본 사람의 얼굴·목소리·몸을 흉내 낼 수 있지만, 자신의 전투 기술을 쓰려면 본래 몸으로 돌아가야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

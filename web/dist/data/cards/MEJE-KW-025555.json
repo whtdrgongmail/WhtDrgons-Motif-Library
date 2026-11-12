@@ -5,8 +5,8 @@
   "original": "The Female Singer Gets All the Visual Attention",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02293",
+  "primary_tag_id": "ML-T02293",
   "description": {
     "definition": "여성 보컬만 눈에 띄게 꾸미고 사진·영상의 중심에 놓아 남성 연주자들을 배경으로 줄이거나 아예 생략하는 홍보 방식이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "밴드의 성별 구성 자체와 다르며 여성 보컬이 실제 지휘권을 갖는다는 뜻도 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "밴드 홍보가 여성 보컬만 중심에 놓으면 실제 여러 사람의 활동이 한 사람의 이미지로 압축된다. 연주자는 소리에는 참여해도 사진과 영상에서는 배경이 될 수 있다.\n\n화려하게 꾸민 한 사람은 상품을 대표하는 얼굴처럼 기능한다. 시각적 주목의 분배와 실제 음악 작업의 분업은 서로 다른 정보를 전달한다.\n\n여성 보컬이 있다는 성별 구성만으로는 부족하다. 홍보 중심에 있다는 사실이 실제 지휘권까지 증명하지도 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "밴드 홍보가 여성 보컬만 중심에 놓으면 실제 여러 사람의 활동이 한 사람의 이미지로 압축된다. 연주자는 소리에는 참여해도 사진과 영상에서는 배경이 될 수 있다.\n\n화려하게 꾸민 한 사람은 상품을 대표하는 얼굴처럼 기능한다. 시각적 주목의 분배와 실제 음악 작업의 분업은 서로 다른 정보를 전달한다.\n\n여성 보컬이 있다는 성별 구성만으로는 부족하다. 홍보 중심에 있다는 사실이 실제 지휘권까지 증명하지도 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

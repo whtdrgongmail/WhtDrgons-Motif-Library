@@ -4,8 +4,8 @@
   "title": "마법이 사라진 뒤의 세계",
   "original": "Here There Were Dragons",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02562",
+  "primary_tag_id": "ML-T02562",
   "description": {
     "definition": "먼 과거에는 신·괴물·[[마법]]이 흔했지만 현재에는 사라지거나 극히 드물어져 흔적만 남은 세계 설정이다.",
     "detail": "작품 사례: [[The Flight of Dragons]]의 마지막에는 논리와 수학으로 악당이 사라지고 마법 세계가 인류에게서 영원히 봉인되어, 과학의 시대가 남는다.",
@@ -13,10 +13,10 @@
     "boundary": "마법이 현재도 널리 존재하되 숨겨진 세계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.013",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "과거에는 초자연적 존재와 힘이 있었지만 현재에는 그 시대가 끝났다는 시간적 격차가 세계의 특징이 된다. 소멸의 원인은 세계의 역사와 현재 질서를 연결하며, 남은 과학적 일상과 이전의 풍요를 대비시킬 수 있다.\n\n[[마법]]이 현재도 존재하지만 일부 사람에게 숨겨져 있는 설정과는 다르다. 현재의 접근 가능성과 과거의 존재 여부를 구분하여, 단순히 등장하지 않았다는 이유만으로 소멸했다고 판단하지 않는다.\n\n《[[The Flight of Dragons]]》의 결말은 마법 세계가 인류에게서 봉인되고 과학의 시대가 남는 것으로 제시된다. 논리와 수학에 의한 악당의 소멸이 시대 전환의 사건과 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "과거에는 초자연적 존재와 힘이 있었지만 현재에는 그 시대가 끝났다는 시간적 격차가 세계의 특징이 된다. 소멸의 원인은 세계의 역사와 현재 질서를 연결하며, 남은 과학적 일상과 이전의 풍요를 대비시킬 수 있다.\n\n[[마법]]이 현재도 존재하지만 일부 사람에게 숨겨져 있는 설정과는 다르다. 현재의 접근 가능성과 과거의 존재 여부를 구분하여, 단순히 등장하지 않았다는 이유만으로 소멸했다고 판단하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[The Flight of Dragons]]》의 결말은 마법 세계가 인류에게서 봉인되고 과학의 시대가 남는 것으로 제시된다. 논리와 수학에 의한 악당의 소멸이 시대 전환의 사건과 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

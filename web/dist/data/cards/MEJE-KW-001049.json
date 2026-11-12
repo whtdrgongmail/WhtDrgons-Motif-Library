@@ -4,8 +4,8 @@
   "title": "잘못된 조언을 되씹는 비꼼",
   "original": "Advice Recollection Snark",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01987",
+  "primary_tag_id": "ML-T01987",
   "description": {
     "definition": "곤란한 상황에 빠진 인물이 전에 들은 낙관적인 조언을 떠올려 비꼬는 대사 방식. 기대했던 경험과 현재의 현실을 한 문장에 겹쳐 보여 준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "잘될 것이라던 조언을 따랐다가 더 나쁜 처지에 빠진다. 전에 들은 말을 다시 인용하며 현재의 결과를 비꼬는 대사다.\n\n조언의 표현을 나열한 다음 실제 상황의 참담함을 덧붙일 수 있다. 조언자가 곁에 있으면 말을 정확히 따르지 않았다는 변명으로 다시 갈등이 생기기도 한다.\n\n일반적으로 조언을 후회하는 심리만을 뜻하지 않는다. 낙관적인 원래 문구와 지금의 처지를 같은 말 안에 겹치는 표현 방식이 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "잘될 것이라던 조언을 따랐다가 더 나쁜 처지에 빠진다. 전에 들은 말을 다시 인용하며 현재의 결과를 비꼬는 대사다.\n\n조언의 표현을 나열한 다음 실제 상황의 참담함을 덧붙일 수 있다. 조언자가 곁에 있으면 말을 정확히 따르지 않았다는 변명으로 다시 갈등이 생기기도 한다.\n\n일반적으로 조언을 후회하는 심리만을 뜻하지 않는다. 낙관적인 원래 문구와 지금의 처지를 같은 말 안에 겹치는 표현 방식이 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

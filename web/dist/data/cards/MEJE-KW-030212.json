@@ -4,8 +4,8 @@
   "title": "생물의 환경과 행동을 관찰하는 자연 다큐멘터리",
   "original": "Nature Documentary",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00588",
+  "primary_tag_id": "ML-T00588",
   "description": {
     "definition": "동물과 자연환경의 모습을 촬영하고 관찰·해설의 형식으로 그 생태와 행동을 전달하는 다큐멘터리 갈래다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "모든 장면이 개입 없는 기록이라고 가정하지 않으며 구성·연출·복원의 방식은 작품별로 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "04",
+    "code": "04.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실제 생물의 행동을 기록하고 설명하면 관객은 직접 가기 어려운 환경의 삶을 경험할 수 있다. 촬영과 서술의 선택은 넓은 생태계에서 무엇을 중요하게 볼지 정한다.\n\n보이지 않게 관찰하는 방식과 진행자가 현장에 참여하는 방식은 인간의 존재감을 다르게 만든다. 기록된 행동과 그에 붙인 해석은 서로 다른 정보다.\n\n[[동물의 삶을 인물과 갈등의 이야기로 전하는 다큐멘터리]]는 인물화된 서사에 초점을 둔다. 자연 다큐멘터리 전체가 같은 극적 구성을 사용하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실제 생물의 행동을 기록하고 설명하면 관객은 직접 가기 어려운 환경의 삶을 경험할 수 있다. 촬영과 서술의 선택은 넓은 생태계에서 무엇을 중요하게 볼지 정한다.\n\n보이지 않게 관찰하는 방식과 진행자가 현장에 참여하는 방식은 인간의 존재감을 다르게 만든다. 기록된 행동과 그에 붙인 해석은 서로 다른 정보다.\n\n[[동물의 삶을 인물과 갈등의 이야기로 전하는 다큐멘터리]]는 인물화된 서사에 초점을 둔다. 자연 다큐멘터리 전체가 같은 극적 구성을 사용하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

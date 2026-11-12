@@ -4,27 +4,27 @@
   "title": "미소녀 전사 세일러 문",
   "original": "Sailor Moon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《미소녀 전사 세일러 문》은 미디어 작품이다.",
-    "detail": "작품 사례: 《미소녀 전사 세일러 문》의 마코토는 큰 키 때문에 맞는 교복이 없고 외모와 힘 때문에 불량하다는 오해도 받는다. 자신의 모습과 성격을 편안하게 받아들이는 과정이 함께 그려진다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《미소녀 전사 세일러 문》은 츠키노 우사기와 동료 세일러 전사들이 지구를 위협하는 적에 맞서는 작품군이다. 평범한 학교생활을 하던 소녀가 달 왕국과 연결된 전생을 알게 되면서 현재의 일상과 과거의 사명이 겹친다.\n\n각 행성과 연결된 전사들이 팀을 이루므로 한 사람의 [[변신]]뿐 아니라 동료의 발견과 협력이 이야기의 중요한 구조가 된다. 우사기의 미숙함과 성장, 전생의 관계가 반복되는 전투와 함께 전개되어 전사로서의 역할과 소녀의 생활을 연결한다.\n\n다케우치 나오코의 만화와 이를 바탕으로 한 애니메이션이 작품군의 기반이다. 초기 TV판은 원작 연재와 병행하여 제작되어 인물의 성격과 사건의 결과가 달라지는 부분도 있으므로 서로 다른 각색의 세부를 같은 사건으로 취급하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《미소녀 전사 세일러 문》은 츠키노 우사기와 동료 세일러 전사들이 지구를 위협하는 적에 맞서는 작품군이다. 평범한 학교생활을 하던 소녀가 달 왕국과 연결된 전생을 알게 되면서 현재의 일상과 과거의 사명이 겹친다.\n\n각 행성과 연결된 전사들이 팀을 이루므로 한 사람의 [[변신]]뿐 아니라 동료의 발견과 협력이 이야기의 중요한 구조가 된다. 우사기의 미숙함과 성장, 전생의 관계가 반복되는 전투와 함께 전개되어 전사로서의 역할과 소녀의 생활을 연결한다.\n\n다케우치 나오코의 만화와 이를 바탕으로 한 애니메이션이 작품군의 기반이다. 초기 TV판은 원작 연재와 병행하여 제작되어 인물의 성격과 사건의 결과가 달라지는 부분도 있으므로 서로 다른 각색의 세부를 같은 사건으로 취급하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

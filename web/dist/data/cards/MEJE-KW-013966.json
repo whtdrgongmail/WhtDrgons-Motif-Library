@@ -4,8 +4,8 @@
   "title": "요양을 위한 시골 이주",
   "original": "Healthy Country Air",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00750",
+  "primary_tag_id": "ML-T00750",
   "description": {
     "definition": "도시의 오염과 긴장에서 벗어나 깨끗한 공기와 여유로운 환경이 건강을 회복시킬 것이라는 기대 때문에 시골로 옮기는 전개이다.",
     "detail": "작품 사례: [[The Secret World of Arrietty]]의 Sho는 심장 수술을 앞두고 시골로 보내지며, 그곳에서 Arrietty를 만나 삶에 대한 태도도 달라진다.",
@@ -13,10 +13,10 @@
     "boundary": "현실 질환의 치료 효과를 보장하지 않으며 바람 자체가 마법적 치유를 하는 설정과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "건강을 회복하기 위한 환경 변화로 도시를 떠나 시골에 머문다. 깨끗한 공기와 느린 생활이 도움이 되리라는 기대가 이동의 동기가 된다.\n\n이주는 인물에게 새로운 관계와 생활을 경험하게 하는 출발점이 될 수 있다. 건강상의 이유로 정한 거처가 삶에 대한 태도까지 바꾸는 서사적 공간으로 확장된다.\n\n이러한 기대의 재현이 실제 질환에 대한 치료 효과를 입증하지는 않는다. 자연의 바람이 초자연적으로 병을 낫게 하는 규칙과도 구별된다.\n\n[[The Secret World of Arrietty]]의 Sho는 심장 수술을 앞두고 시골에 가며 Arrietty를 만난다.\n\n[[The Secret World of Arrietty]]",
+    "sections": [
+      [
+        "상세 설명",
+        "건강을 회복하기 위한 환경 변화로 도시를 떠나 시골에 머문다. 깨끗한 공기와 느린 생활이 도움이 되리라는 기대가 이동의 동기가 된다.\n\n이주는 인물에게 새로운 관계와 생활을 경험하게 하는 출발점이 될 수 있다. 건강상의 이유로 정한 거처가 삶에 대한 태도까지 바꾸는 서사적 공간으로 확장된다.\n\n이러한 기대의 재현이 실제 질환에 대한 치료 효과를 입증하지는 않는다. 자연의 바람이 초자연적으로 병을 낫게 하는 규칙과도 구별된다."
+      ],
+      [
+        "사례",
+        "[[The Secret World of Arrietty]]의 Sho는 심장 수술을 앞두고 시골에 가며 Arrietty를 만난다."
+      ],
+      [
+        "관련 작품",
+        "[[The Secret World of Arrietty]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

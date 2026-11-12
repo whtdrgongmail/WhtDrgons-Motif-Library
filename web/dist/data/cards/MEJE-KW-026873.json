@@ -4,8 +4,8 @@
   "title": "분량과 연애 가능성이 모두 균형 잡힌 하렘",
   "original": "Balanced Harem",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MEJE-KW-026949",
+  "primary_tag_id": "MEJE-KW-026949",
   "description": {
     "definition": "한 주인공을 둘러싼 여러 연애 후보에게 비슷한 등장 분량과 최종 상대가 될 가능성을 함께 부여하는 구조이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-002634는 분량과 사건 배분, 002차 268행은 선택 우세의 균형이다. 현재는 두 조건을 동시에 요구한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.002.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "많이 나오는 사람과 이길 것 같은 사람이 한쪽으로 정해져 있지 않다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 연애 후보에게 비슷한 분량과 관계의 진전 가능성을 나누어 선택이 쉽게 예측되지 않도록 한다. 한 후보의 등장만 많고 선택에서는 배제되는 구성과 구별된다.\n\n각 인물의 사건과 주인공과의 접촉을 번갈아 배치하면 관객은 여러 관계를 비교할 수 있다. 균형이 유지될수록 최종 선택보다 개별 상호작용과 희극이 중심이 될 수도 있다.\n\n[[중심 연애를 흔드는 보조 연애 후보]]처럼 잠시 방해만 하는 역할과는 비중이 다르다. 시간을 정확히 같은 초 단위로 맞춰야 한다는 뜻은 아니며, 서사적 관심과 실제 가능성이 함께 분산되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 연애 후보에게 비슷한 분량과 관계의 진전 가능성을 나누어 선택이 쉽게 예측되지 않도록 한다. 한 후보의 등장만 많고 선택에서는 배제되는 구성과 구별된다.\n\n각 인물의 사건과 주인공과의 접촉을 번갈아 배치하면 관객은 여러 관계를 비교할 수 있다. 균형이 유지될수록 최종 선택보다 개별 상호작용과 희극이 중심이 될 수도 있다.\n\n[[중심 연애를 흔드는 보조 연애 후보]]처럼 잠시 방해만 하는 역할과는 비중이 다르다. 시간을 정확히 같은 초 단위로 맞춰야 한다는 뜻은 아니며, 서사적 관심과 실제 가능성이 함께 분산되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

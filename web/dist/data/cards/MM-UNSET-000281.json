@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000281",
   "kind": "keyword",
   "title": "박자표",
-  "original": "",
+  "original": "Time signature",
+  "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02036",
+  "primary_tag_id": "ML-T02036",
   "description": {
-    "definition": "",
+    "definition": "한 마디에 포함되는 박의 수와 박의 묶음 방식을 나타내는 음악 기보상의 표시.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 3,
+  "classification": {
+    "code": "24.005",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "곡의 박을 몇 개씩 묶어 세는지 악보에 나타내는 표기다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "박자표는 마디 안의 박의 수와 박의 단위에 관한 정보를 제공한다. 박자표가 특이하거나 복잡하다는 사실은 그 자체로 곡 전체의 리듬 구성이나 [[장르]]를 결정하지 않는다.\n\n강세, 쉼, 반복, 악기 사이의 관계는 박자표와 함께 곡의 리듬을 형성한다. 규칙적인 박자표에서도 복잡한 연주가 나타날 수 있으며, 변칙적인 박자표가 매스 록의 필수 조건인 것도 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "박자표는 마디 안의 박의 수와 박의 단위에 관한 정보를 제공한다. 박자표가 특이하거나 복잡하다는 사실은 그 자체로 곡 전체의 리듬 구성이나 [[장르]]를 결정하지 않는다.\n\n강세, 쉼, 반복, 악기 사이의 관계는 박자표와 함께 곡의 리듬을 형성한다. 규칙적인 박자표에서도 복잡한 연주가 나타날 수 있으며, 변칙적인 박자표가 매스 록의 필수 조건인 것도 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

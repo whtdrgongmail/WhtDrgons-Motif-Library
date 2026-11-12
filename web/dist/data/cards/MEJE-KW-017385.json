@@ -4,8 +4,8 @@
   "title": "현지화에서 반복해서 바뀌는 명칭",
   "original": "Inconsistent Dub",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02282",
+  "primary_tag_id": "ML-T02282",
   "description": {
     "definition": "같은 작품을 번역·더빙하는 과정에서 동일 인물·기술·설정의 명칭이나 설명이 계속 달라지는 현상이다. 일관된 용어 기준을 공유하지 못한 결과가 독자의 이해를 흔든다.",
     "detail": "작품 사례: 《[[유미의 세포들]]》 번역에서는 같은 예절세포가 Manner Cell과 Etiquette Cell로 달리 불리는 등, 세포 명칭이 일관되지 않게 바뀐다.",
@@ -13,10 +13,10 @@
     "boundary": "한 번 바꾼 설정이 나중의 줄거리와 충돌하는 모순과 다르다. 여기서는 같은 대상을 반복해서 다르게 옮기는 것이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현지화가 같은 대상을 여러 번 다른 이름으로 옮겨 용어의 동일성이 흐려진다. 독자는 변화가 설정인지 번역의 불일치인지 구분하기 어려울 수 있다.\n\n한 번의 변경이 후속 줄거리와 충돌하는 것과는 다르다. 반복 명칭의 문제를 뜻하며 더빙 외의 번역 매체에서도 나타날 수 있다.\n\n《[[유미의 세포들]]》 번역은 같은 예절세포를 Manner Cell과 Etiquette Cell로 달리 부른다. 한 대상의 호칭이 일정하지 않은 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현지화가 같은 대상을 여러 번 다른 이름으로 옮겨 용어의 동일성이 흐려진다. 독자는 변화가 설정인지 번역의 불일치인지 구분하기 어려울 수 있다.\n\n한 번의 변경이 후속 줄거리와 충돌하는 것과는 다르다. 반복 명칭의 문제를 뜻하며 더빙 외의 번역 매체에서도 나타날 수 있다."
+      ],
+      [
+        "관련 작품",
+        "《[[유미의 세포들]]》 번역은 같은 예절세포를 Manner Cell과 Etiquette Cell로 달리 부른다. 한 대상의 호칭이 일정하지 않은 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

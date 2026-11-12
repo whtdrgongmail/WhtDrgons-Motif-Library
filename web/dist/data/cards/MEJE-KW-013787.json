@@ -4,8 +4,8 @@
   "title": "독서를 싫어하는 인물",
   "original": "Hates Reading",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02588",
+  "primary_tag_id": "ML-T02588",
   "description": {
     "definition": "책 읽기를 지루하거나 불쾌한 활동으로 여겨 피하는 성향이 반복적으로 드러나는 인물이다.",
     "detail": "작품 사례: [[Kagurabachi]]의 하쿠리는 선천적인 재능과 달리 이론 공부와 필독서를 힘겨워하며, 거대한 도서관 분량을 읽어야 한다는 말에 강한 거부감을 보인다.",
@@ -13,10 +13,10 @@
     "boundary": "읽을 수 없는 상태나 특정 책만 싫어하는 경우와 자동으로 같지 않다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007.011",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "독서를 지루하거나 불쾌하게 느껴 피한다. 읽는 능력의 부재보다 활동에 대한 반복적인 거부가 인물의 성향으로 나타난다.\n\n다른 오락을 더 좋아하거나 강요된 학습과 불편한 경험 때문에 책을 꺼릴 수 있다. 처음에는 싫어하다 자신에게 맞는 책을 만난 뒤 태도가 달라지는 변형도 있다.\n\n특정 책의 내용을 반대하는 것과 모든 독서를 싫어하는 태도는 다르다. 실제 연령이나 지능을 독서 취향 하나로 판단하는 기준으로 쓰지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "독서를 지루하거나 불쾌하게 느껴 피한다. 읽는 능력의 부재보다 활동에 대한 반복적인 거부가 인물의 성향으로 나타난다.\n\n다른 오락을 더 좋아하거나 강요된 학습과 불편한 경험 때문에 책을 꺼릴 수 있다. 처음에는 싫어하다 자신에게 맞는 책을 만난 뒤 태도가 달라지는 변형도 있다.\n\n특정 책의 내용을 반대하는 것과 모든 독서를 싫어하는 태도는 다르다. 실제 연령이나 지능을 독서 취향 하나로 판단하는 기준으로 쓰지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

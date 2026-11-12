@@ -4,8 +4,8 @@
   "title": "평민으로 길러진 비밀 왕위 계승자",
   "original": "Hidden Backup Prince",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00951",
+  "primary_tag_id": "ML-T00951",
   "description": {
     "definition": "왕가나 특별한 혈통의 아이가 신분을 감춘 채 떨어진 곳에서 자라, 본가가 몰락하거나 계승이 끊길 때 후계자가 될 수 있는 설정이다. 보호 계획뿐 아니라 유기·납치·우연한 이별로 생길 수도 있다.",
     "detail": "작품 사례: [[Tales of Wedding Rings]]의 크리스털은 마법사 보호자와 지구에서 히메라는 이름으로 자라지만, 실제로는 다른 세계의 공주이며 언젠가 돌아갈 의무를 알고 있다.",
@@ -13,10 +13,10 @@
     "boundary": "왕족임을 감추는 모든 인물을 뜻하지 않으며 실제 왕가 몰살이나 왕위 즉위가 필수는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.008.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "왕가의 혈통을 지닌 인물이 별도의 환경에서 평민처럼 자라며 잠재적인 계승 가능성을 보존하는 설정이다. 현재의 생활과 출생에 따른 의무가 분리되어 있다.\n\n왕족이라는 사실을 잠깐 감춘 모든 경우와는 다르다. 실제 왕가의 몰살과 최종 즉위는 필수 조건이 아니며 숨겨진 혈통과 양육의 기능이 중요하다.\n\n[[Tales of Wedding Rings]]의 크리스털은 보호자인 마법사와 지구에서 히메라는 이름으로 자란다. 다른 세계의 공주인 본인에게는 언젠가 돌아갈 의무가 있어 평범한 양육과 계승의 조건이 함께 존재한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "왕가의 혈통을 지닌 인물이 별도의 환경에서 평민처럼 자라며 잠재적인 계승 가능성을 보존하는 설정이다. 현재의 생활과 출생에 따른 의무가 분리되어 있다.\n\n왕족이라는 사실을 잠깐 감춘 모든 경우와는 다르다. 실제 왕가의 몰살과 최종 즉위는 필수 조건이 아니며 숨겨진 혈통과 양육의 기능이 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Tales of Wedding Rings]]의 크리스털은 보호자인 마법사와 지구에서 히메라는 이름으로 자란다. 다른 세계의 공주인 본인에게는 언젠가 돌아갈 의무가 있어 평범한 양육과 계승의 조건이 함께 존재한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

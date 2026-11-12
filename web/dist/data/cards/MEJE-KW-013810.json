@@ -4,8 +4,8 @@
   "title": "위원회에 불려 나가는 주인공",
   "original": "Hauled Before a Senate Subcommittee",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01347",
+  "primary_tag_id": "ML-T01347",
   "description": {
     "definition": "공적인 임무를 수행한 인물이 감독 권한을 가진 위원회에 출석하여 자신의 행동과 결과를 설명해야 하는 전개이다.",
     "detail": "작품 사례: [[The X-Files]]의 스컬리는 외교관의 죽음에 관해 상원 위원회에서 증언하고, 멀더의 행방을 밝히지 않아 구금되어 임무와 감독 권한의 충돌을 겪는다.",
@@ -13,10 +13,10 @@
     "boundary": "미국 의회에 한정하지 않으며 법정 재판과 행정적 감독 절차를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "15.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,33 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-001079",
+      "work_card_id": "MM-MEDIA-002369",
       "description_ko": "The X-Files의 스컬리는 외교관의 죽음에 관해 상원 위원회에서 증언하고, 멀더의 행방을 밝히지 않아 구금되어 임무와 감독 권한의 충돌을 겪는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "임무를 수행한 인물은 감독 기관 앞에서 자신의 행동과 결과를 설명해야 한다. 현장에서 판단할 자유와 사후 책임이 서로 다른 권한으로 충돌한다.\n\n출석과 증언의 요구는 작전의 비밀이나 동료 보호와 부딪힐 수 있다. 위원회의 질문에 어디까지 답할지 선택하는 과정이 새로운 갈등이 된다.\n\n특정 국가 의회에만 한정되지 않는다. 범죄의 유무를 판단하는 재판과 조직 또는 공적 업무를 감독하는 절차도 구분해야 한다.\n\n[[The X-Files]]의 스컬리는 상원 위원회에서 증언하면서 멀더의 행방을 밝히지 않아 구금된다.\n\n[[The X-Files]]",
+    "sections": [
+      [
+        "상세 설명",
+        "임무를 수행한 인물은 감독 기관 앞에서 자신의 행동과 결과를 설명해야 한다. 현장에서 판단할 자유와 사후 책임이 서로 다른 권한으로 충돌한다.\n\n출석과 증언의 요구는 작전의 비밀이나 동료 보호와 부딪힐 수 있다. 위원회의 질문에 어디까지 답할지 선택하는 과정이 새로운 갈등이 된다.\n\n특정 국가 의회에만 한정되지 않는다. 범죄의 유무를 판단하는 재판과 조직 또는 공적 업무를 감독하는 절차도 구분해야 한다."
+      ],
+      [
+        "사례",
+        "[[The X-Files]]의 스컬리는 상원 위원회에서 증언하면서 멀더의 행방을 밝히지 않아 구금된다."
+      ],
+      [
+        "관련 작품",
+        "[[The X-Files]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

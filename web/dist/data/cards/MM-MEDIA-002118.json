@@ -4,17 +4,17 @@
   "title": "도카폰 킹덤",
   "original": "Dokapon Kingdom",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《도카폰 킹덤》은 비디오게임 작품이다.",
-    "detail": "작품 사례: 《도카폰 킹덤》은 여러 직업을 열고 정해진 장소에서 전직할 수 있다. 전직 뒤에도 이미 얻은 능력치가 남고 직업을 완성하면 성장 보너스를 얻는 식으로 직업 선택과 성장 이력이 연결된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -51,5 +51,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "직업을 열고 정해진 장소에서 전환하는 규칙을 가진 게임이다. 이전에 축적한 능력치와 직업 완성의 성장 보너스가 다음 선택에 영향을 준다.\n\n현재 직업만 아니라 지나온 성장 이력까지 효율의 일부가 된다. 한 번의 전환으로 모든 과거가 초기화되는 방식과 구별되며 구체적인 수치는 확인 없이 더하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "직업을 열고 정해진 장소에서 전환하는 규칙을 가진 게임이다. 이전에 축적한 능력치와 직업 완성의 성장 보너스가 다음 선택에 영향을 준다.\n\n현재 직업만 아니라 지나온 성장 이력까지 효율의 일부가 된다. 한 번의 전환으로 모든 과거가 초기화되는 방식과 구별되며 구체적인 수치는 확인 없이 더하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

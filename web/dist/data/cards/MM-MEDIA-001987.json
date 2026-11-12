@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "젤다의 전설 이상한 모자",
   "original": "The Legend of Zelda: The Minish Cap",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "젤다의 전설: 이상한 모자"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《젤다의 전설 이상한 모자》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《젤다의 전설 이상한 모자》의 작은 피콜족은 마음씨 착한 아이들에게만 보인다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -45,7 +47,28 @@
     {
       "card_id": "MEJE-KW-023811",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-018912",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-030383",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《젤다의 전설 이상한 모자》는 작은 종족 미니시와 마법사 바티를 둘러싼 게임이다. 축제에 나타난 바티가 피콜의 검을 부수고 찾던 힘을 얻으려 하면서, 링크는 검과 그 힘의 기원을 추적하게 된다.\n\n게임보이 어드밴스용으로 만든 단독 모험이며 포 소드 계열보다 앞선 이야기의 역할을 한다. 같은 검과 적이 등장하더라도 여러 명이 함께 진행하는 다른 작품과 형식이 다르고, 이 작품에서는 기원과 작은 존재들의 세계를 알아 가는 과정이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《젤다의 전설 이상한 모자》는 작은 종족 미니시와 마법사 바티를 둘러싼 게임이다. 축제에 나타난 바티가 피콜의 검을 부수고 찾던 힘을 얻으려 하면서, 링크는 검과 그 힘의 기원을 추적하게 된다.\n\n게임보이 어드밴스용으로 만든 단독 모험이며 포 소드 계열보다 앞선 이야기의 역할을 한다. 같은 검과 적이 등장하더라도 여러 명이 함께 진행하는 다른 작품과 형식이 다르고, 이 작품에서는 기원과 작은 존재들의 세계를 알아 가는 과정이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

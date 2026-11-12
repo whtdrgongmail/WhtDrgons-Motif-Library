@@ -4,8 +4,8 @@
   "title": "마법과 사격을 함께 쓰는 전투원",
   "original": "Mage Marksman",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-027456",
+  "primary_tag_id": "MEJE-KW-027456",
   "description": {
     "definition": "원거리 무기의 사격 능력과 주문 사용을 함께 활용하는 전투원 유형이다.",
     "detail": "작품 사례: 《[[킹덤 하츠(연작)]]》의 시그바르와 브라이는 공간을 다루는 능력과 쌍수 애로건 사격을 함께 사용한다.",
@@ -13,11 +13,11 @@
     "boundary": "마법이 걸린 탄약을 쓰기만 하고 본인이 주문을 다루지 않는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.005.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원거리 무기의 공격과 주문의 효과를 하나의 전투 방식에 결합한다. 거리를 유지하면서 상황에 따라 서로 다른 자원을 쓰는 선택지가 생긴다.\n\n주문이 조준과 탄체에 영향을 주거나 사격과 별도로 방어와 보조를 담당할 수 있다. 무엇이 결합되는지에 따라 같은 외형의 전투원도 다른 전술을 갖는다.\n\n마법 탄환만 쏘는 무기와 사용자가 직접 주문도 쓰는 구성은 구별된다. 원문의 원거리 전투 전반을 총기만의 유형으로 좁히지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원거리 무기의 공격과 주문의 효과를 하나의 전투 방식에 결합한다. 거리를 유지하면서 상황에 따라 서로 다른 자원을 쓰는 선택지가 생긴다.\n\n주문이 조준과 탄체에 영향을 주거나 사격과 별도로 방어와 보조를 담당할 수 있다. 무엇이 결합되는지에 따라 같은 외형의 전투원도 다른 전술을 갖는다.\n\n마법 탄환만 쏘는 무기와 사용자가 직접 주문도 쓰는 구성은 구별된다. 원문의 원거리 전투 전반을 총기만의 유형으로 좁히지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "어린이 합창으로 강조하는 노래의 메시지",
   "original": "Kids Rock",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02051",
+  "primary_tag_id": "ML-T02051",
   "description": {
     "definition": "성인 중심의 노래나 주제가에 어린이 합창을 더하여 순수함·공동체성·미래 세대와 연결된 메시지의 정서적 무게를 높이는 음악 표현이다.",
     "detail": "작품 사례: 《[[Pooh's Heffalump Movie]]》의 노래에는 성인 가수와 5학년 어린이 합창단이 함께 참여한다. 어린 목소리의 집단성이 노래의 정서를 강화한다.",
@@ -13,10 +13,10 @@
     "boundary": "어린 가수가 주된 연주자로 활동하는 경우와 달리 어린이 합창이 노래의 효과를 보강하는 기능이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성인의 노래에 여러 어린 목소리를 더하면 개인의 감정이 공동체나 다음 세대의 목소리처럼 확장될 수 있다. 합창의 음색과 집단성은 가사의 연대감이나 순수함을 보강하고, 불길한 맥락에서는 그 기대가 불안을 키우기도 한다.\n\n어린 가수가 혼자 부르거나 어린이 밴드가 주인공인 음악 활동 전체를 가리키지는 않는다. 노래에서 어린이 합창이 더하는 정서적 효과가 판단 기준이며, 어린 목소리의 존재 자체보다 보강 기능이 중요하다.\n\n《[[Pooh's Heffalump Movie]]》의 「Shoulder to Shoulder」와 「In the Name of the Hundred Acre Wood」에는 칼리 사이먼과 함께 5학년 어린이 합창단이 참여한다. 성인 가수의 목소리에 어린이들의 합창을 더하는 편성이 이 유형의 구체적인 음악 사례에 해당한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성인의 노래에 여러 어린 목소리를 더하면 개인의 감정이 공동체나 다음 세대의 목소리처럼 확장될 수 있다. 합창의 음색과 집단성은 가사의 연대감이나 순수함을 보강하고, 불길한 맥락에서는 그 기대가 불안을 키우기도 한다.\n\n어린 가수가 혼자 부르거나 어린이 밴드가 주인공인 음악 활동 전체를 가리키지는 않는다. 노래에서 어린이 합창이 더하는 정서적 효과가 판단 기준이며, 어린 목소리의 존재 자체보다 보강 기능이 중요하다."
+      ],
+      [
+        "관련 작품",
+        "《[[Pooh's Heffalump Movie]]》의 「Shoulder to Shoulder」와 「In the Name of the Hundred Acre Wood」에는 칼리 사이먼과 함께 5학년 어린이 합창단이 참여한다. 성인 가수의 목소리에 어린이들의 합창을 더하는 편성이 이 유형의 구체적인 음악 사례에 해당한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

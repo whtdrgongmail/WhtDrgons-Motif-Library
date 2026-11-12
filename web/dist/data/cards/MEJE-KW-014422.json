@@ -4,8 +4,8 @@
   "title": "놓아 주라는 말을 추락으로 악용하기",
   "original": "Unhand Them, Villain!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "붙잡은 사람을 놓으라는 요구를 악역이 문자 그대로 받아들이는 척하여 높은 곳에서 손을 놓고 추락시키는 장면이다. 구출 요구가 살해의 구실로 뒤집힌다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "아무 대사 없이 떨어뜨리는 살해나 실제로 안전하게 풀어 주는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "구조를 원하는 사람의 말은 안전하게 풀어 주라는 뜻이지만 악역은 붙잡은 손만 떼는 것으로 해석한다. 말의 문자적 의미가 요구의 목적을 배반한다.\n\n높은 장소라는 조건 때문에 풀어 주는 행위가 추락을 일으킨다. 구출을 요구한 말이 오히려 살해를 정당화하는 조롱으로 바뀌는 구조이다.\n\n대화 없이 떨어뜨리는 공격과는 다르다. 악역이 상대의 뜻을 알고도 고의로 좁게 해석하는 관계가 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "구조를 원하는 사람의 말은 안전하게 풀어 주라는 뜻이지만 악역은 붙잡은 손만 떼는 것으로 해석한다. 말의 문자적 의미가 요구의 목적을 배반한다.\n\n높은 장소라는 조건 때문에 풀어 주는 행위가 추락을 일으킨다. 구출을 요구한 말이 오히려 살해를 정당화하는 조롱으로 바뀌는 구조이다.\n\n대화 없이 떨어뜨리는 공격과는 다르다. 악역이 상대의 뜻을 알고도 고의로 좁게 해석하는 관계가 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

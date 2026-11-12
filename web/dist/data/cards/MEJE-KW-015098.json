@@ -4,8 +4,8 @@
   "title": "올드스쿨 개버",
   "original": "Old school gabber",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008393",
+  "primary_tag_id": "MEJE-KW-008393",
   "description": {
     "definition": "강한 킥과 단순하고 직접적인 구성을 통해 격렬한 춤의 에너지를 만드는 초기 개버 양식이다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": "후대의 정교하고 왜곡된 [[뉴스타일 개버]]와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.304.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "올드스쿨 개버는 초기 개버의 강한 킥과 간결한 구성을 강조하는 이름이다. 복잡한 전개보다 직접적인 리듬의 충격과 격렬한 춤의 에너지가 앞서며, 오래된 전자음악 전체를 가리키는 시대 구분은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "올드스쿨 개버는 초기 개버의 강한 킥과 간결한 구성을 강조하는 이름이다. 복잡한 전개보다 직접적인 리듬의 충격과 격렬한 춤의 에너지가 앞서며, 오래된 전자음악 전체를 가리키는 시대 구분은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

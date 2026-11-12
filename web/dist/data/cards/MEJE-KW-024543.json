@@ -4,8 +4,8 @@
   "title": "다음 단서로 이어지는 조사 사슬",
   "original": "Linked List Clue Methodology",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "MEJE-KW-030549",
+  "primary_tag_id": "MEJE-KW-030549",
   "description": {
     "definition": "하나의 단서가 다음 단서를 찾을 장소나 행동을 가리키고 그 연결을 따라가면 최종 해답에 도달하는 조사 구조다.",
     "detail": "작품 사례: 《[[배트맨(만화)]]》의 리들러는 범죄 현장에 수수께끼를 남겨 다음 행동을 추적하게 한다. 일부러 제공한 단서가 영웅을 계획의 다음 단계로 이끄는 사슬이 된다.",
@@ -13,11 +13,11 @@
     "boundary": "여러 독립 단서를 한 번에 종합하는 방식과 구별하며 범죄 수사 이외의 탐험에도 쓸 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
-    "review_status": "provisional",
+    "code": "05.005.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "각 단서가 다음 탐색 지점을 가리키는 연쇄적인 조사 구조다. 하나의 발견이 다음 행동의 지시가 되어 최종 목적지까지 진행된다.\n\n[[단서]]의 순서가 탐험과 추리의 경로를 조직한다. 각 단계에서 새 정보를 얻으므로 긴 설명을 한 번에 제시하지 않고 발견의 리듬을 만들 수 있다. 이전 단서를 해독하지 못하면 다음 조사 장소에도 접근하기 어려워, 정보의 획득 순서가 탐색 경로를 결정한다.\n\n여러 독립 증거를 종합하여 결론을 내리는 방식과는 다르다. 앞 단서가 다음 단서의 위치나 접근 방법을 알려 주어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "각 단서가 다음 탐색 지점을 가리키는 연쇄적인 조사 구조다. 하나의 발견이 다음 행동의 지시가 되어 최종 목적지까지 진행된다.\n\n[[단서]]의 순서가 탐험과 추리의 경로를 조직한다. 각 단계에서 새 정보를 얻으므로 긴 설명을 한 번에 제시하지 않고 발견의 리듬을 만들 수 있다. 이전 단서를 해독하지 못하면 다음 조사 장소에도 접근하기 어려워, 정보의 획득 순서가 탐색 경로를 결정한다.\n\n여러 독립 증거를 종합하여 결론을 내리는 방식과는 다르다. 앞 단서가 다음 단서의 위치나 접근 방법을 알려 주어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

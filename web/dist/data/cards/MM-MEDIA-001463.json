@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "파이널판타지14",
   "original": "Final Fantasy XIV",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Final Fantasy XIV"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《파이널판타지14》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《파이널판타지14》에는 전투 직업과 별도로 광부·어부·목수·요리사 같은 채집·제작 직업이 있어 물건을 만들고 시장에서 거래할 수 있다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -38,6 +40,10 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-014016",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-016556",
       "row_version": 1
@@ -87,5 +93,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "파이널 판타지의 온라인 다중 사용자 역할수행게임이다. 여러 모험가가 같은 세계를 공유하는 구조 안에 개인의 성장과 장기적인 주된 이야기를 결합한다.\n\n에오르제아의 도시국가들은 거대한 제국의 군사적 위협과 지역 고유의 문제에 대응한다. 플레이어는 직업과 전투 역할을 발전시키며 다른 이용자와 협력하고, 세계의 질서에 영향을 주는 인물들과 관계를 맺는다.\n\n최초 공개판과 재출발한 판본은 제작과 이야기의 중요한 전환으로 구분된다. 이후 확장에 따라 지역과 규칙이 크게 늘어났으므로 한 시기의 콘텐츠를 전체의 불변 조건으로 설명하지 않아야 하며, 온라인 공동체와 극본의 사건도 다른 층위이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "파이널 판타지의 온라인 다중 사용자 역할수행게임이다. 여러 모험가가 같은 세계를 공유하는 구조 안에 개인의 성장과 장기적인 주된 이야기를 결합한다.\n\n에오르제아의 도시국가들은 거대한 제국의 군사적 위협과 지역 고유의 문제에 대응한다. 플레이어는 직업과 전투 역할을 발전시키며 다른 이용자와 협력하고, 세계의 질서에 영향을 주는 인물들과 관계를 맺는다.\n\n최초 공개판과 재출발한 판본은 제작과 이야기의 중요한 전환으로 구분된다. 이후 확장에 따라 지역과 규칙이 크게 늘어났으므로 한 시기의 콘텐츠를 전체의 불변 조건으로 설명하지 않아야 하며, 온라인 공동체와 극본의 사건도 다른 층위이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

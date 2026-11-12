@@ -1,0 +1,47 @@
+{
+  "id": "MM-UNSET-000574",
+  "kind": "keyword",
+  "title": "공유 세계의 규모",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "하나의 온라인 세계를 여러 공간 구역으로 구성하고, 서버 간 분담으로 이용자를 수용하는 규모·운영 설정.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "공유하는 온라인 공간을 구역으로 나누고 서버가 각 구역의 처리를 분담하는 방식이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "이 카드의 기준은 추상적인 세계관의 넓이가 아니라, 대규모 온라인 게임에서 실제 공간 구역을 여러 서버가 나누어 처리하는 운영 구조다. 구역 분담은 동시 이용자를 수용하기 위한 기술적 규모와 공간 구성을 함께 정한다. [[온라인 세계의 구역을 여러 서버에 나누기]]가 직접적인 근거다.\n\n같은 세계를 복제해 서버별로 별도 인스턴스를 제공하거나 이용자를 갈라놓는 방식과 구분한다. 서버가 나뉘어도 각 이용자가 같은 게임 세계의 서로 다른 구역을 오가도록 연결되어 있는지가 판단 조건이다. 단지 지도 면적이 넓거나 이용자가 많다는 사실만으로는 해당하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 카드의 기준은 추상적인 세계관의 넓이가 아니라, 대규모 온라인 게임에서 실제 공간 구역을 여러 서버가 나누어 처리하는 운영 구조다. 구역 분담은 동시 이용자를 수용하기 위한 기술적 규모와 공간 구성을 함께 정한다. [[온라인 세계의 구역을 여러 서버에 나누기]]가 직접적인 근거다.\n\n같은 세계를 복제해 서버별로 별도 인스턴스를 제공하거나 이용자를 갈라놓는 방식과 구분한다. 서버가 나뉘어도 각 이용자가 같은 게임 세계의 서로 다른 구역을 오가도록 연결되어 있는지가 판단 조건이다. 단지 지도 면적이 넓거나 이용자가 많다는 사실만으로는 해당하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

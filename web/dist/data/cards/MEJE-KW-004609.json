@@ -4,8 +4,8 @@
   "title": "천체의 때를 기다리는 마법",
   "original": "Celestial Deadline",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01558",
+  "primary_tag_id": "ML-T01558",
   "description": {
     "definition": "주문이 해나 달, 별의 특정한 위치나 주기에만 작동한다. 강한 힘에도 기다려야 하는 시간이 생긴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.008.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마법의 작동과 지속 시간이 해와 달, 별의 움직임 같은 자연적 주기에 따라 정해지는 설정이다. 인간이 정한 시각보다 해 뜰 때나 특정 천문 현상이 조건이 된다.\n\n의식을 시작할 기회가 제한되거나 저주가 풀리는 순간이 정해질 수 있다. 등장인물은 날짜와 하늘의 상태를 계산하고 그때까지 버티거나 필요한 준비를 끝내야 한다.\n\n정밀한 시간 계산보다 관객이 이해하기 쉬운 극적 단위로 쓰이기도 한다. 조건이 실제 천문 현상과 얼마나 엄밀히 연결되는지는 작품마다 다르며, 핵심은 마법을 마음대로 사용할 수 없는 외부의 시간 제한이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마법의 작동과 지속 시간이 해와 달, 별의 움직임 같은 자연적 주기에 따라 정해지는 설정이다. 인간이 정한 시각보다 해 뜰 때나 특정 천문 현상이 조건이 된다.\n\n의식을 시작할 기회가 제한되거나 저주가 풀리는 순간이 정해질 수 있다. 등장인물은 날짜와 하늘의 상태를 계산하고 그때까지 버티거나 필요한 준비를 끝내야 한다.\n\n정밀한 시간 계산보다 관객이 이해하기 쉬운 극적 단위로 쓰이기도 한다. 조건이 실제 천문 현상과 얼마나 엄밀히 연결되는지는 작품마다 다르며, 핵심은 마법을 마음대로 사용할 수 없는 외부의 시간 제한이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

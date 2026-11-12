@@ -4,8 +4,8 @@
   "title": "정식 합류 없이 가장 가까운 동료",
   "original": "Honorary True Companion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00996",
+  "primary_tag_id": "ML-T00996",
   "description": {
     "definition": "주요 일행과 깊은 유대와 협력 관계를 맺지만 개인 사정이나 역할 때문에 상시 구성원이 되지 않고 필요할 때 돌아오는 동맹자다.",
     "detail": "작품 사례: [[Arrow]]의 라일라는 다른 조직에 속해 있으면서도 팀 애로가 필요로 하면 돕고, 팀 역시 그녀가 위험에 처하면 격하게 반응한다.",
@@ -13,10 +13,10 @@
     "boundary": "나중에 완전히 팀에 합류하는 추가 대원이나 한 번 등장한 우연한 협력자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000064",
+      "work_card_id": "MM-MEDIA-001847",
       "description_ko": "Arrow의 라일라는 다른 조직에 속해 있으면서도 팀 애로가 필요로 하면 돕고, 팀 역시 그녀가 위험에 처하면 격하게 반응한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정식 대원이 되지 않으면서도 팀과 지속적인 신뢰와 지원 관계를 유지하는 동료다. 조직의 경계와 정서적인 친밀함이 일치하지 않는다.\n\n나중에 완전히 합류하는 추가 대원과 다르다. 한 번의 우연한 협력도 아니며 비정규적 참여와 반복되는 상호 지원이 함께 있어야 한다.\n\n[[Arrow]]의 라일라는 다른 조직에 속해 있지만 팀 애로가 필요할 때 돕는다. 팀도 그녀의 위기에 적극적으로 반응해 정식 소속과 가까운 동료 관계가 분리된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정식 대원이 되지 않으면서도 팀과 지속적인 신뢰와 지원 관계를 유지하는 동료다. 조직의 경계와 정서적인 친밀함이 일치하지 않는다.\n\n나중에 완전히 합류하는 추가 대원과 다르다. 한 번의 우연한 협력도 아니며 비정규적 참여와 반복되는 상호 지원이 함께 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Arrow]]의 라일라는 다른 조직에 속해 있지만 팀 애로가 필요할 때 돕는다. 팀도 그녀의 위기에 적극적으로 반응해 정식 소속과 가까운 동료 관계가 분리된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

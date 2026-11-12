@@ -4,8 +4,8 @@
   "title": "독설을 주고받는 절친",
   "original": "Vitriolic Best Buds",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00997",
+  "primary_tag_id": "ML-T00997",
   "description": {
     "definition": "서로 자주 싸우거나 험한 말을 주고받지만 실제로는 깊은 우정과 신뢰를 유지하는 관계이다.",
     "detail": "작품 사례: [[Sunrider]]의 이카리와 크리스카는 날카롭게 말을 주고받으면서도 가까운 우정을 맺어, 거친 대화 표면과 실제 친밀감이 공존한다.",
@@ -13,10 +13,10 @@
     "boundary": "속으로도 지속적으로 미워하는 영웅 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "표면적인 대화는 거칠고 다툼이 많아도 관계의 바탕에는 신뢰가 있다. 인물들은 서로에게 험한 말을 하면서도 가까움을 유지한다.\n\n말만 떼어 보면 적대적으로 보이므로 실제 도움과 믿음의 행동을 함께 확인해야 한다. 발언과 관계의 정서가 반대처럼 보이는 대비가 특징이다.\n\n속으로도 계속 미워하는 사람들과는 다르다. 모욕의 빈도만으로 친밀함을 추정할 수 없으며 우정의 근거가 필요하다.\n\n[[Sunrider]]의 이카리와 크리스카는 독설을 주고받으면서도 가까운 우정을 유지한다.\n\n[[Sunrider]]",
+    "sections": [
+      [
+        "상세 설명",
+        "표면적인 대화는 거칠고 다툼이 많아도 관계의 바탕에는 신뢰가 있다. 인물들은 서로에게 험한 말을 하면서도 가까움을 유지한다.\n\n말만 떼어 보면 적대적으로 보이므로 실제 도움과 믿음의 행동을 함께 확인해야 한다. 발언과 관계의 정서가 반대처럼 보이는 대비가 특징이다.\n\n속으로도 계속 미워하는 사람들과는 다르다. 모욕의 빈도만으로 친밀함을 추정할 수 없으며 우정의 근거가 필요하다."
+      ],
+      [
+        "사례",
+        "[[Sunrider]]의 이카리와 크리스카는 독설을 주고받으면서도 가까운 우정을 유지한다."
+      ],
+      [
+        "관련 작품",
+        "[[Sunrider]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

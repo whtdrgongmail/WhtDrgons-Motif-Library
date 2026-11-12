@@ -1,0 +1,55 @@
+{
+  "id": "MM-UNSET-000989",
+  "kind": "keyword",
+  "title": "레벨",
+  "original": "Level",
+  "aliases": [],
+  "tag_id": "ML-T02088",
+  "primary_tag_id": "ML-T02088",
+  "description": {
+    "definition": "레벨은 게임에서 캐릭터·기술·구간 등의 단계나 성장 정도를 나타내는 수치 또는 구분이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 2,
+  "classification": {
+    "code": "25.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "게임에서 얼마나 성장했는지, 또는 어떤 단계에 있는지를 보여 주는 숫자나 구분이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "같은 단어라도 캐릭터 레벨은 능력의 성장 정도를, 구간 레벨은 플레이할 공간의 단위를 뜻할 수 있다. 카드나 작품에서 무엇의 레벨인지 밝히면 성장 규칙과 장소 구분을 혼동하지 않을 수 있다.\n\n적의 공격으로 캐릭터 레벨이 낮아지면 이미 얻은 성장 상태가 약화된다. 반면 어떤 임무가 요구 레벨을 정했다면 그 수치에 도달하기 전에는 접근이 제한된다.\n\n[[쌓아 온 레벨을 빼앗는 공격]]과 [[레벨을 직접 요구하는 진행 문턱]]은 레벨 수치를 서로 다른 방식으로 사용하는 규칙이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 단어라도 캐릭터 레벨은 능력의 성장 정도를, 구간 레벨은 플레이할 공간의 단위를 뜻할 수 있다. 카드나 작품에서 무엇의 레벨인지 밝히면 성장 규칙과 장소 구분을 혼동하지 않을 수 있다."
+      ],
+      [
+        "사례",
+        "적의 공격으로 캐릭터 레벨이 낮아지면 이미 얻은 성장 상태가 약화된다. 반면 어떤 임무가 요구 레벨을 정했다면 그 수치에 도달하기 전에는 접근이 제한된다."
+      ],
+      [
+        "관련 작품",
+        "[[쌓아 온 레벨을 빼앗는 공격]]과 [[레벨을 직접 요구하는 진행 문턱]]은 레벨 수치를 서로 다른 방식으로 사용하는 규칙이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

@@ -4,8 +4,8 @@
   "title": "집중을 유지해야 지속되는 마법",
   "original": "Concentration-Bound Magic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T02515",
+  "primary_tag_id": "ML-T02515",
   "description": {
     "definition": "주문이 유지되는 동안 사용자가 계속 정신을 집중해야 하고 주의가 끊기면 효과도 약해지거나 사라지는 규칙. 방해와 피로가 힘의 자연스러운 약점이 된다. [[갑옷을 입으면 마법이 약해지기]]는 장비를 통한 다른 제약이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주문이 지속되려면 사용자가 계속 집중해야 한다. 주의가 끊기면 효과가 약해지거나 없어져 발동 이후에도 부담이 남는다.\n\n방해와 피로는 마법을 유지하는 능력에 직접 관여한다. 한 번 성공했다고 끝나는 것이 아니라 지속되는 정신 상태가 규칙의 일부다.\n\n갑옷 같은 장비로 힘이 제한되는 경우와 다르다. 마법을 유지하는 동안의 집중이 조건이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주문이 지속되려면 사용자가 계속 집중해야 한다. 주의가 끊기면 효과가 약해지거나 없어져 발동 이후에도 부담이 남는다.\n\n방해와 피로는 마법을 유지하는 능력에 직접 관여한다. 한 번 성공했다고 끝나는 것이 아니라 지속되는 정신 상태가 규칙의 일부다.\n\n갑옷 같은 장비로 힘이 제한되는 경우와 다르다. 마법을 유지하는 동안의 집중이 조건이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

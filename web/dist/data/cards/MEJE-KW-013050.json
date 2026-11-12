@@ -4,8 +4,8 @@
   "title": "그런지",
   "original": "Grunge",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00502",
+  "primary_tag_id": "ML-T00502",
   "description": {
     "definition": "왜곡된 기타 음향, [[거친 질감]], 강약 대비와 내면의 불안을 드러내는 가사로 특징지어지는 [[얼터너티브 록]]의 한 흐름이다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": "의상만 비슷한 경우와 구분하며 모든 소속 밴드가 동일한 작곡 양식을 공유한다고 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.301.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "왜곡된 기타와 거친 질감, 강약의 대비와 내면의 불안을 담은 가사가 결합한 얼터너티브 록의 흐름이다. 소리와 정서가 함께 양식의 특징을 이룬다.\n\n어떤 음향을 강조하고 가사가 무엇을 드러내는지 비교하면 음악적인 인상을 설명할 수 있다. 여러 요소의 결합을 실제 곡과 활동의 맥락에서 구분해야 한다.\n\n비슷한 옷차림만으로는 판정하지 않는다. 관련 밴드가 모두 같은 작곡 방식을 쓴다고도 보지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "왜곡된 기타와 거친 질감, 강약의 대비와 내면의 불안을 담은 가사가 결합한 얼터너티브 록의 흐름이다. 소리와 정서가 함께 양식의 특징을 이룬다.\n\n어떤 음향을 강조하고 가사가 무엇을 드러내는지 비교하면 음악적인 인상을 설명할 수 있다. 여러 요소의 결합을 실제 곡과 활동의 맥락에서 구분해야 한다.\n\n비슷한 옷차림만으로는 판정하지 않는다. 관련 밴드가 모두 같은 작곡 방식을 쓴다고도 보지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

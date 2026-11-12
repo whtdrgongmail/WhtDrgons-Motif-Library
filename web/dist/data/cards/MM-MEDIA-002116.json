@@ -4,17 +4,17 @@
   "title": "WWE 메인 이벤트",
   "original": "WWE Main Event",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《WWE 메인 이벤트》는 텔레비전 작품이다.",
-    "detail": "작품 사례: 《WWE 메인 이벤트》는 원문에서 선수들의 입장 장면 생략이 자주 나타나는 방송으로 제시된다. 입장 연출을 받지 못한 선수의 역할을 보여 주되 경기 결과까지 추정하지 않는다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정본은 이 방송에서 선수 입장 장면을 생략하는 연출이 자주 나타난다고 기록한다. 경기 참여와 별도로 등장에 배정된 시간이 인물의 비중을 표현한다.\n\n입장 연출이 없는 선수는 관객에게 빠르게 제시되지만 그 사실만으로 경기의 승패까지 알 수는 없다. 확인된 방송 편집의 특징과 추정되는 결과를 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정본은 이 방송에서 선수 입장 장면을 생략하는 연출이 자주 나타난다고 기록한다. 경기 참여와 별도로 등장에 배정된 시간이 인물의 비중을 표현한다.\n\n입장 연출이 없는 선수는 관객에게 빠르게 제시되지만 그 사실만으로 경기의 승패까지 알 수는 없다. 확인된 방송 편집의 특징과 추정되는 결과를 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

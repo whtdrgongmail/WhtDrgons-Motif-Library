@@ -4,8 +4,8 @@
   "title": "부모의 필요를 돌보는 데 헌신하는 자녀",
   "original": "The Dutiful Son",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00940",
+  "primary_tag_id": "ML-T00940",
   "description": {
     "definition": "부모가 필요로 하는 돌봄과 지원을 자신의 중요한 책임으로 받아들이고 지속적으로 수행하는 인물상이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "부모의 모든 요구를 무조건 옳다고 받아들여야 한다는 명령과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "부모가 필요로 하는 돌봄과 지원을 자녀가 중요한 책임으로 받아들인다. 한 번의 도움보다 지속적인 수행이 관계의 역할을 만든다.\n\n헌신은 부모의 필요에 어떻게 대응하는지 반복되는 행동에서 드러난다. 자녀가 그 지원을 삶에서 중요하게 여긴다는 점과 실제 돌봄이 연결되어야 한다.\n\n부모의 모든 요구를 무조건 옳다고 받아들이라는 명령과는 다르다. 돌봄의 책임을 인정하는 것과 모든 요구에 동의하는 것은 동일하지 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "부모가 필요로 하는 돌봄과 지원을 자녀가 중요한 책임으로 받아들인다. 한 번의 도움보다 지속적인 수행이 관계의 역할을 만든다.\n\n헌신은 부모의 필요에 어떻게 대응하는지 반복되는 행동에서 드러난다. 자녀가 그 지원을 삶에서 중요하게 여긴다는 점과 실제 돌봄이 연결되어야 한다.\n\n부모의 모든 요구를 무조건 옳다고 받아들이라는 명령과는 다르다. 돌봄의 책임을 인정하는 것과 모든 요구에 동의하는 것은 동일하지 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Level-Up Leaves Current Health Unchanged",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02089",
+  "primary_tag_id": "ML-T02089",
   "description": {
     "definition": "최대 체력은 증가하지만 현재 체력은 회복하지 않아 새 상한의 혜택을 얻으려면 별도 회복이 필요하다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성장으로 최대 체력은 늘지만 현재 남은 체력은 변하지 않는다. 능력의 상한과 즉시 사용할 자원을 분리한 규칙이다.\n\n성장은 이후에 더 많은 피해를 견딜 가능성을 주지만 당장의 위험을 제거하지 않는다. 새 상한을 채우려면 전투 밖의 회복 수단이 필요하다.\n\n레벨 상승이 곧 완전 회복인 방식과 다르다. 체력 비율이 그대로 유지되는 규칙과도 수치의 변화가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성장으로 최대 체력은 늘지만 현재 남은 체력은 변하지 않는다. 능력의 상한과 즉시 사용할 자원을 분리한 규칙이다.\n\n성장은 이후에 더 많은 피해를 견딜 가능성을 주지만 당장의 위험을 제거하지 않는다. 새 상한을 채우려면 전투 밖의 회복 수단이 필요하다.\n\n레벨 상승이 곧 완전 회복인 방식과 다르다. 체력 비율이 그대로 유지되는 규칙과도 수치의 변화가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

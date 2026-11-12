@@ -4,8 +4,8 @@
   "title": "아픈 사람에게 수프를 건넴",
   "original": "Soup Is Medicine",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00820",
+  "primary_tag_id": "ML-T00820",
   "description": {
     "definition": "병든 인물에게 수프를 먹이는 행동을 회복과 보살핌의 표지로 사용하는 음식 장면이다.",
     "detail": "작품 사례: [[Ella Enchanted]]에서 Mandy는 감기에 걸린 Ella와 어머니에게 회복 수프를 먹이며, 유니콘 털이 들어간 음식으로 두 사람을 돌본다.",
@@ -13,10 +13,10 @@
     "boundary": "특정 수프가 질병을 치료한다는 의학적 주장을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.010.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "아픈 사람에게 수프를 제공해 위로와 돌봄의 마음을 전달하는 행동이다. 일상적인 음식이 몸의 상태를 살피는 관계의 표현이 된다.\n\n특정 수프의 치료 효능을 의학적으로 보장하지 않는다. 환상적인 재료와 효과는 해당 작품의 규칙으로 구분하며 일반 음식의 실제 효과로 확대하지 않는다.\n\n[[Ella Enchanted]]의 Mandy는 감기에 걸린 Ella와 어머니에게 회복 수프를 먹인다. 유니콘 털이 든 음식은 작품의 환상적 돌봄 표현이지 현실의 처방 사례는 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "아픈 사람에게 수프를 제공해 위로와 돌봄의 마음을 전달하는 행동이다. 일상적인 음식이 몸의 상태를 살피는 관계의 표현이 된다.\n\n특정 수프의 치료 효능을 의학적으로 보장하지 않는다. 환상적인 재료와 효과는 해당 작품의 규칙으로 구분하며 일반 음식의 실제 효과로 확대하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[Ella Enchanted]]의 Mandy는 감기에 걸린 Ella와 어머니에게 회복 수프를 먹인다. 유니콘 털이 든 음식은 작품의 환상적 돌봄 표현이지 현실의 처방 사례는 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

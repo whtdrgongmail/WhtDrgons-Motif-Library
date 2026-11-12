@@ -4,8 +4,8 @@
   "title": "좋아하는 음식을 질리도록 먹이는 벌",
   "original": "Radish Cure",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00814",
+  "primary_tag_id": "ML-T00814",
   "description": {
     "definition": "상대가 좋아하는 음식을 지나치게 반복 제공하여 그 [[즐거움]]을 잃게 만드는 징벌 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "처음부터 싫은 음식을 주는 벌과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.010.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "좋아하던 음식을 금지하는 대신 원치 않을 만큼 계속 제공하여 욕구를 뒤집는 벌이다. 처음의 즐거움과 나중의 자발적인 거부가 같은 대상에서 생긴다.\n\n벌을 주는 사람은 직접 빼앗지 않고 당사자가 과도함을 경험하게 한다. 원하는 대로 받는 일이 더는 만족으로 이어지지 않으면서 선택의 태도가 달라진다.\n\n애초에 싫어하던 음식으로 괴롭히는 경우와 다르다. 이 방식의 교훈은 좋아하는 것을 얻지 못하는 결핍보다 지나친 충족이 만든 질림에 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "좋아하던 음식을 금지하는 대신 원치 않을 만큼 계속 제공하여 욕구를 뒤집는 벌이다. 처음의 즐거움과 나중의 자발적인 거부가 같은 대상에서 생긴다.\n\n벌을 주는 사람은 직접 빼앗지 않고 당사자가 과도함을 경험하게 한다. 원하는 대로 받는 일이 더는 만족으로 이어지지 않으면서 선택의 태도가 달라진다.\n\n애초에 싫어하던 음식으로 괴롭히는 경우와 다르다. 이 방식의 교훈은 좋아하는 것을 얻지 못하는 결핍보다 지나친 충족이 만든 질림에 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

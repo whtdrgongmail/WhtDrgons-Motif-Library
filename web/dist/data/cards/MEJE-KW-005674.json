@@ -4,8 +4,8 @@
   "title": "인형에게 대신 결정을 묻는 인물",
   "original": "Consulting Mister Puppet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00938",
+  "primary_tag_id": "ML-T00938",
   "description": {
     "definition": "인물이 손인형이나 늘 데리고 다니는 물건에게 의견을 묻고 그 답을 믿는다. 혼자 내리기 어려운 판단을 다른 목소리의 형태로 드러낸다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인형과 애완동물, 상상 속 친구에게 결정을 물었다고 주장하는 인물이다. 다른 사람은 답을 듣지 못하므로 조언의 출처가 정말 별개인지 모호하다.\n\n자기 의견을 직접 말할 자신이 없거나 인정하기 어려운 욕구를 동료의 말로 대신할 수 있다. 조언이 늘 본인에게 유리하면 책임을 외부로 돌리는 희극이 된다.\n\n실제로 말하는 동료가 설정상 존재한다면 다른 관계가 될 수 있다. 단순히 물건과 대화하는 행동보다 그 대상의 권위에 의존해 결정을 설명하는 기능이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인형과 애완동물, 상상 속 친구에게 결정을 물었다고 주장하는 인물이다. 다른 사람은 답을 듣지 못하므로 조언의 출처가 정말 별개인지 모호하다.\n\n자기 의견을 직접 말할 자신이 없거나 인정하기 어려운 욕구를 동료의 말로 대신할 수 있다. 조언이 늘 본인에게 유리하면 책임을 외부로 돌리는 희극이 된다.\n\n실제로 말하는 동료가 설정상 존재한다면 다른 관계가 될 수 있다. 단순히 물건과 대화하는 행동보다 그 대상의 권위에 의존해 결정을 설명하는 기능이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

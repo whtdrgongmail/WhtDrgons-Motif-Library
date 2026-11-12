@@ -4,8 +4,8 @@
   "title": "제세동기를 만능 소생 장치로 그리기",
   "original": "Magical Defibrillator",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F28",
+  "tag_id": "ML-T02318",
+  "primary_tag_id": "ML-T02318",
   "description": {
     "definition": "영상에서 제세동기를 거의 모든 위급 상황을 즉시 뒤집는 장치처럼 묘사하는 연출 [[관습]]. 제목의 Magical은 실제 마법이 아니라 화면 속 장치의 과장된 역할을 가리킨다. [[한 번에 낫게 하는 만능 해독제]]도 회복을 한 번의 물건 사용으로 압축하는 허구 장치다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "28",
+    "code": "28.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "제세동기가 여러 위기를 한 번에 뒤집는 소생 장치처럼 묘사된다. 기기의 역할이 의학적 조건보다 극적인 회복의 순간에 맞춰 과장되는 영상 관습이다.\n\n충전음과 구호, 몸이 크게 움직이는 반응 같은 반복적인 신호가 기대를 만든다. 실패 뒤 재시도가 성공하면 회복의 여부가 짧은 긴장의 단위가 된다.\n\n실제 처치의 적절한 대상과 절차를 설명하는 것은 아니다. 화면의 극적인 어휘와 장비의 현실적인 기능을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "제세동기가 여러 위기를 한 번에 뒤집는 소생 장치처럼 묘사된다. 기기의 역할이 의학적 조건보다 극적인 회복의 순간에 맞춰 과장되는 영상 관습이다.\n\n충전음과 구호, 몸이 크게 움직이는 반응 같은 반복적인 신호가 기대를 만든다. 실패 뒤 재시도가 성공하면 회복의 여부가 짧은 긴장의 단위가 된다.\n\n실제 처치의 적절한 대상과 절차를 설명하는 것은 아니다. 화면의 극적인 어휘와 장비의 현실적인 기능을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

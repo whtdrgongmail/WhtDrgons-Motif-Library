@@ -4,8 +4,8 @@
   "title": "가족 안에서 반복되는 자살 위기",
   "original": "Hereditary Suicide",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00970",
+  "primary_tag_id": "ML-T00970",
   "description": {
     "definition": "같은 가족의 여러 구성원이 자살하거나 자살을 시도하는 패턴을 가족사와 상처의 연속성으로 다루는 [[서사]] 설정이다.",
     "detail": "작품 사례: [[Cookie's Fortune]]에서 Camille은 고모의 자살을 숨기려다 살인 혐의를 받게 되고, 감옥에서 자신도 죽음을 택하며 가족의 비극이 반복된다.",
@@ -13,10 +13,10 @@
     "boundary": "유전적으로 정해진 운명이라는 뜻이 아니며 입양·재혼 가족의 반복도 포함할 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 가족의 여러 자살과 시도를 연결하면 인물의 현재가 앞선 상실과 가족사에 영향을 받는 [[서사]]가 된다. 반복의 의미는 각 사건의 관계와 남은 사람의 경험을 통해 구성해야 한다.\n\n이 배치를 유전적으로 정해진 운명이나 실제 개인의 미래에 대한 예측으로 해석하지 않는다. 입양과 재혼으로 맺어진 가족의 반복도 포함될 수 있으므로 혈연만이 설명의 기준은 아니다.\n\n[[Cookie's Fortune]]의 Camille은 고모의 자살을 감추려다가 살인 혐의를 받는다. 이후 감옥에서 자신도 죽음을 택해 앞선 죽음의 은폐와 또 다른 가족의 비극이 이어진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 가족의 여러 자살과 시도를 연결하면 인물의 현재가 앞선 상실과 가족사에 영향을 받는 [[서사]]가 된다. 반복의 의미는 각 사건의 관계와 남은 사람의 경험을 통해 구성해야 한다.\n\n이 배치를 유전적으로 정해진 운명이나 실제 개인의 미래에 대한 예측으로 해석하지 않는다. 입양과 재혼으로 맺어진 가족의 반복도 포함될 수 있으므로 혈연만이 설명의 기준은 아니다."
+      ],
+      [
+        "관련 작품",
+        "[[Cookie's Fortune]]의 Camille은 고모의 자살을 감추려다가 살인 혐의를 받는다. 이후 감옥에서 자신도 죽음을 택해 앞선 죽음의 은폐와 또 다른 가족의 비극이 이어진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

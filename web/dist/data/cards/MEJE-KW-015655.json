@@ -4,8 +4,8 @@
   "title": "다른 이를 향한 공격을 대신 맞기",
   "original": "Taking the Bullet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00807",
+  "primary_tag_id": "ML-T00807",
   "description": {
     "definition": "타인을 겨눈 치명적인 공격의 경로에 스스로 들어가 그 피해를 대신 받는 보호 행동이다.",
     "detail": "작품 사례: [[Sword Art Online]]의 아스나는 마비 상태를 깨고 키리토를 향한 공격을 대신 받아, 움직일 수 없던 몸으로도 그를 보호하려 한다.",
@@ -13,10 +13,10 @@
     "boundary": "이미 다친 사람을 나중에 감싸거나 강제로 방패가 된 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00066",
-      "work_card_id": "MM-MEDIA-000894",
+      "work_card_id": "MM-MEDIA-002905",
       "description_ko": "Sword Art Online의 아스나는 마비 상태를 깨고 키리토를 향한 공격을 대신 받아, 움직일 수 없던 몸으로도 그를 보호하려 한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "타인을 향한 공격의 경로에 자발적으로 개입하여 자신이 피해를 입는다. 보호 의도는 공격 전후의 위치와 움직임으로 확인되며, 총탄 이외의 공격에서도 같은 대상 전환이 일어날 수 있다.\n\n상처 입은 사람을 나중에 감싸는 행동이나 강제로 방패가 된 경우와는 시점과 자발성이 다르다. 실제 공격 대상이 자신의 개입 때문에 바뀌었는지가 기준이다.\n\n《[[Sword Art Online]]》에서 아스나는 마비를 깨고 키리토를 향한 공격을 대신 받는다. 움직임의 제약을 넘어 개입하는 행동이 보호 의도를 강조한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "타인을 향한 공격의 경로에 자발적으로 개입하여 자신이 피해를 입는다. 보호 의도는 공격 전후의 위치와 움직임으로 확인되며, 총탄 이외의 공격에서도 같은 대상 전환이 일어날 수 있다.\n\n상처 입은 사람을 나중에 감싸는 행동이나 강제로 방패가 된 경우와는 시점과 자발성이 다르다. 실제 공격 대상이 자신의 개입 때문에 바뀌었는지가 기준이다."
+      ],
+      [
+        "관련 작품",
+        "《[[Sword Art Online]]》에서 아스나는 마비를 깨고 키리토를 향한 공격을 대신 받는다. 움직임의 제약을 넘어 개입하는 행동이 보호 의도를 강조한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

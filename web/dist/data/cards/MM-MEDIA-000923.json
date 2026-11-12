@@ -4,28 +4,26 @@
   "title": "The Bad Guys",
   "original": "The Bad Guys",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-T00066",
+  "tag_id": "ML-T00054",
+  "primary_tag_id": "ML-T00054",
   "description": {
-    "definition": "이 카드는 문학 작품 《The Bad Guys》를 가리킨다. 이 라이브러리에서는 [[선행에 서툰 영웅 지망자]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: The Bad Guys에서 울프와 동료들은 선한 편이 되기로 하지만, 악당 시절의 습관 때문에 남을 돕는 일에도 자꾸 문제가 생기며 새 역할에 서서히 익숙해진다.",
+    "definition": "《The Bad Guys》는 에런 블레이비가 만든 아동용 그래픽 노블 연작이다. 악당으로 알려진 등장인물들이 선한 행동을 배우는 과정을 그린다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "02.007",
+    "code": "02.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "medium_family",
-    "parent_relation": "facet_member",
-    "allowed_roles": [
-      "medium"
-    ],
+    "semantic_kind": "work_form",
+    "parent_relation": "contextual",
+    "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,8 +38,21 @@
   "related_motifs": [
     {
       "card_id": "MEJE-KW-016206",
-      "row_version": 1
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《The Bad Guys》는 에런 블레이비의 어린이용 그래픽 노블 연작이다. 사나운 동물로 분류되는 늑대와 뱀, 피라냐, 상어가 영웅이 되려는 이야기다.\n\n이들은 겉모습 때문에 악당 취급받는 데 지쳐 선행을 시작한다. 그러나 좋은 의도와 별개로 타인을 돕는 기술이 부족해 계획이 쉽게 어긋난다.\n\n포식자의 이미지와 친절한 마음 사이의 차이가 유머를 만든다. 같은 제목의 영상 각색과 달리 여러 권에 걸쳐 확장되는 원작 책 시리즈를 뜻한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《The Bad Guys》는 에런 블레이비의 어린이용 그래픽 노블 연작이다. 사나운 동물로 분류되는 늑대와 뱀, 피라냐, 상어가 영웅이 되려는 이야기다.\n\n이들은 겉모습 때문에 악당 취급받는 데 지쳐 선행을 시작한다. 그러나 좋은 의도와 별개로 타인을 돕는 기술이 부족해 계획이 쉽게 어긋난다.\n\n포식자의 이미지와 친절한 마음 사이의 차이가 유머를 만든다. 같은 제목의 영상 각색과 달리 여러 권에 걸쳐 확장되는 원작 책 시리즈를 뜻한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

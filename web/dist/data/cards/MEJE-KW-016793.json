@@ -4,8 +4,8 @@
   "title": "급료로 악역의 부하를 고용하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000727",
+  "primary_tag_id": "MM-UNSET-000727",
   "description": {
     "definition": "악역이 금전 보상을 지급하여 부하에게 명령 수행과 서비스를 구매하는 고용 구조다.",
     "detail": "더 좋은 제안이나 지급 능력의 붕괴가 이탈의 계기가 된다.\n\n작품 사례: 《[[파이널 판타지 VII]]》의 신라 사장은 금전적 보상을 지배의 중심 수단으로 삼는다. 뒤를 이은 루퍼스는 공포를 앞세우며 통치 방식을 바꾼다.",
@@ -13,19 +13,25 @@
     "boundary": "유산에 대한 충성이나 무상 헌신과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": {
-    "easy_ko": "돈을 주니까 악역 밑에서 일한다.\n\n작품 사례: 《[[파이널 판타지 VII]]》의 신라 사장은 금전적 보상을 지배의 중심 수단으로 삼는다. 뒤를 이은 루퍼스는 공포를 앞세우며 통치 방식을 바꾼다.",
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "돈을 주니까 악역 밑에서 일한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +44,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역과 부하의 관계는 명령 수행에 돈을 지급하는 고용으로 구성된다. 부하는 지도자의 목적보다 보상을 얻기 위해 일을 할 수 있다.\n\n급료가 끊기거나 더 좋은 제안이 생기면 이탈의 이유가 된다. 지배 방식이 금전에서 공포로 바뀌면 같은 조직의 복종 근거도 달라진다.\n\n유산이나 개인에 대한 무상 헌신과는 다르다. 조직이 서비스와 행동을 구매한다는 교환 구조가 중심이다.\n\n[[파이널 판타지 VII]]의 신라 사장은 금전 보상을 중시하고 뒤를 이은 루퍼스는 공포를 앞세운다.\n\n[[파이널 판타지 VII]]",
+    "sections": [
+      [
+        "상세 설명",
+        "악역과 부하의 관계는 명령 수행에 돈을 지급하는 고용으로 구성된다. 부하는 지도자의 목적보다 보상을 얻기 위해 일을 할 수 있다.\n\n급료가 끊기거나 더 좋은 제안이 생기면 이탈의 이유가 된다. 지배 방식이 금전에서 공포로 바뀌면 같은 조직의 복종 근거도 달라진다.\n\n유산이나 개인에 대한 무상 헌신과는 다르다. 조직이 서비스와 행동을 구매한다는 교환 구조가 중심이다."
+      ],
+      [
+        "사례",
+        "[[파이널 판타지 VII]]의 신라 사장은 금전 보상을 중시하고 뒤를 이은 루퍼스는 공포를 앞세운다."
+      ],
+      [
+        "관련 작품",
+        "[[파이널 판타지 VII]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

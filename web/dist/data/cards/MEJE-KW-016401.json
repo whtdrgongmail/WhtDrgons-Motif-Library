@@ -4,8 +4,8 @@
   "title": "지면 위를 떠다니는 보드",
   "original": "Hover Board",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01454",
+  "primary_tag_id": "ML-T01454",
   "description": {
     "definition": "스케이트보드처럼 올라타되 땅에서 일정 높이 떠서 이동하는 보드형 탈것.",
     "detail": "작품 사례: 《[[킹덤 하츠 버스 바이 슬립]]》에서 벤투스의 키블레이드는 보드 형태의 글라이더로 변한다. 무기가 탑승 가능한 부유 장치가 되는 사례다.",
@@ -13,10 +13,10 @@
     "boundary": "자유롭게 고도를 올리는 하늘 서핑이나 바퀴 달린 균형 스쿠터와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-001384",
+      "work_card_id": "MM-MEDIA-002351",
       "description_ko": "《킹덤 하츠 버스 바이 슬립》에서 벤투스의 키블레이드는 보드 형태의 글라이더로 변한다. 무기가 탑승 가능한 부유 장치가 되는 사례다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보드에 올라타면 바퀴 대신 지면에서 떨어진 상태로 이동한다. 부양의 높이가 지상과 일정한 관계를 유지하는 탈것이다.\n\n익숙한 스케이트보드의 자세를 미래적인 이동 방식과 결합한다. 지면을 따라 이동하는 경험을 남기면서 바퀴의 존재를 지우는 디자인이다.\n\n자유롭게 고도를 높이는 하늘 서핑과는 이동 범위가 다르다. 바퀴 달린 균형 스쿠터와도 실제 부양 여부를 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보드에 올라타면 바퀴 대신 지면에서 떨어진 상태로 이동한다. 부양의 높이가 지상과 일정한 관계를 유지하는 탈것이다.\n\n익숙한 스케이트보드의 자세를 미래적인 이동 방식과 결합한다. 지면을 따라 이동하는 경험을 남기면서 바퀴의 존재를 지우는 디자인이다.\n\n자유롭게 고도를 높이는 하늘 서핑과는 이동 범위가 다르다. 바퀴 달린 균형 스쿠터와도 실제 부양 여부를 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

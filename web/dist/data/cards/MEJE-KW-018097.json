@@ -4,8 +4,8 @@
   "title": "몰랐던 친척의 존재를 알게 되기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00970",
+  "primary_tag_id": "ML-T00970",
   "description": {
     "definition": "자신에게 그런 친척이 있다는 사실조차 몰랐던 인물이 친족의 존재를 새로 알게 되면서 가족 관계의 범위를 다시 이해하는 상황.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "알고 지내던 친척과 오랜만에 재회하는 일과 구분한다. 친족의 생존 여부나 악의는 별도의 문제다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "존재 자체를 몰랐던 친척이 있다는 사실이 새롭게 밝혀진다. 인물은 기존에 알던 가족 관계의 범위를 다시 이해하게 된다.\n\n새로운 친족은 가계의 비밀이나 이전 생활 밖의 연결을 이야기 안으로 가져온다. 관계의 확인은 해당 인물의 과거와 현재의 소속을 해석하는 정보를 늘린다.\n\n알고 지내던 친척을 오랜만에 만나는 재회와 다르다. 그 친척이 살아 있는지 또는 악의를 가졌는지는 존재를 알게 되는 상황과 별도의 문제다.",
+    "sections": [
+      [
+        "상세 설명",
+        "존재 자체를 몰랐던 친척이 있다는 사실이 새롭게 밝혀진다. 인물은 기존에 알던 가족 관계의 범위를 다시 이해하게 된다.\n\n새로운 친족은 가계의 비밀이나 이전 생활 밖의 연결을 이야기 안으로 가져온다. 관계의 확인은 해당 인물의 과거와 현재의 소속을 해석하는 정보를 늘린다.\n\n알고 지내던 친척을 오랜만에 만나는 재회와 다르다. 그 친척이 살아 있는지 또는 악의를 가졌는지는 존재를 알게 되는 상황과 별도의 문제다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

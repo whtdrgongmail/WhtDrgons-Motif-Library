@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "포탈",
   "original": "Portal",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "포털"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《포탈》은 비디오게임 작품이다.",
-    "detail": "작품 사례: 《포탈》에는 포탈 건의 작동 기능 등을 변경할 수 있는 콘솔이 있다. 같은 도구를 쓰면서도 내부 조건을 바꾸는 실험이 가능해진다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -41,7 +43,24 @@
     {
       "card_id": "MEJE-KW-027793",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-028983",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《포탈》은 밸브의 1인칭 퍼즐 플랫폼 게임 계열이다. 포탈 건으로 공간을 연결하여 물리적 장애물을 해결한다. 포털로 서로 떨어진 공간을 연결하는 조작이 물리 퍼즐의 이동 경로를 바꾼다.\n\n콘솔에서는 포탈 건의 작동 기능 등을 변경할 수 있다. 동일한 도구에도 서로 다른 내부 조건을 적용할 수 있다. 공간의 출입 관계를 바꾸는 기본 규칙과 별도의 콘솔 명령은 서로 다른 개입 방식이다.\n\n일반적인 퍼즐 풀이와 콘솔을 이용한 설정 변경은 구분된다. 후자는 규칙을 그대로 따르는 것보다 규칙의 작동을 실험하는 기능이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《포탈》은 밸브의 1인칭 퍼즐 플랫폼 게임 계열이다. 포탈 건으로 공간을 연결하여 물리적 장애물을 해결한다. 포털로 서로 떨어진 공간을 연결하는 조작이 물리 퍼즐의 이동 경로를 바꾼다.\n\n콘솔에서는 포탈 건의 작동 기능 등을 변경할 수 있다. 동일한 도구에도 서로 다른 내부 조건을 적용할 수 있다. 공간의 출입 관계를 바꾸는 기본 규칙과 별도의 콘솔 명령은 서로 다른 개입 방식이다.\n\n일반적인 퍼즐 풀이와 콘솔을 이용한 설정 변경은 구분된다. 후자는 규칙을 그대로 따르는 것보다 규칙의 작동을 실험하는 기능이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

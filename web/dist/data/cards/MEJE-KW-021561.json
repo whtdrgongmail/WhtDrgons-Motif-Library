@@ -4,8 +4,8 @@
   "title": "사회파 추리",
   "original": "Social mystery",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00264",
+  "primary_tag_id": "ML-T00264",
   "description": {
     "definition": "범죄의 수수께끼를 사회적 현실과 인물의 사정 속에 놓고, 퍼즐 자체보다 현실 비판과 인간 드라마의 비중을 높이는 추리 갈래다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": "사회 문제가 잠깐 언급되는 모든 추리물이나 추론을 전혀 하지 않는 사회소설과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.106",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "왜 이런 사건이 생겼는지 사회와 사람의 삶을 함께 들여다본다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "범죄의 수수께끼를 인물의 사정과 사회적 현실 속에서 다룬다. 퍼즐의 해결뿐 아니라 현실 비판과 인간 드라마에 큰 비중을 두는 추리 갈래다.\n\n범죄가 생긴 이유를 개인의 비밀에만 한정하지 않고 제도와 생활의 압력에 연결한다. 조사와 추론은 사회적 조건을 드러내는 과정이 될 수 있다.\n\n사회 문제가 잠깐 나오는 모든 추리물을 뜻하지 않는다. 반대로 추론을 전혀 하지 않는 사회소설과도 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "범죄의 수수께끼를 인물의 사정과 사회적 현실 속에서 다룬다. 퍼즐의 해결뿐 아니라 현실 비판과 인간 드라마에 큰 비중을 두는 추리 갈래다.\n\n범죄가 생긴 이유를 개인의 비밀에만 한정하지 않고 제도와 생활의 압력에 연결한다. 조사와 추론은 사회적 조건을 드러내는 과정이 될 수 있다.\n\n사회 문제가 잠깐 나오는 모든 추리물을 뜻하지 않는다. 반대로 추론을 전혀 하지 않는 사회소설과도 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

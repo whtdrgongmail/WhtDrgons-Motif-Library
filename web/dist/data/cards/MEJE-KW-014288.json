@@ -4,8 +4,8 @@
   "title": "주인공을 돋보이게 하는 옛 차",
   "original": "Hero's Classic Car",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01457",
+  "primary_tag_id": "ML-T01457",
   "description": {
     "definition": "현재 배경보다 상당히 오래된 자동차를 인물의 지속적인 주 이동 수단으로 배정해 취향과 개성을 드러내는 장치다.",
     "detail": "작품 사례: [[Agents of S.H.I.E.L.D.]]에서 콜슨은 아버지와 손보던 1962년형 코르벳을 롤라라고 부르며 계속 곁에 둔다. 날 수 있게 개조된 오래된 차가 그의 애착과 개성을 보여 준다.",
@@ -13,10 +13,10 @@
     "boundary": "시대극에서 모두 타는 당시의 보통 차나 한 번 빌린 차와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000034",
+      "work_card_id": "MM-MEDIA-002936",
       "description_ko": "Agents of S.H.I.E.L.D.에서 콜슨은 아버지와 손보던 1962년형 코르벳을 롤라라고 부르며 계속 곁에 둔다. 날 수 있게 개조된 오래된 차가 그의 애착과 개성을 보여 준다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주변 시대보다 오래된 차를 반복해서 소유하고 사용하는 것으로 [[주인공]]의 개성을 표현한다. 차량의 연식과 관리의 흔적이 애착과 과거를 전달할 수 있다.\n\n시대극에서 모두가 사용하는 당시의 보통 차와는 다르다. 한 번 빌린 차량보다 지속적인 소유와 상대적인 오래됨이 인물 식별에 기여해야 한다.\n\n[[Agents of S.H.I.E.L.D.]]의 콜슨은 아버지와 손보던 1962년형 코르벳을 롤라라고 부른다. 비행하도록 개조한 옛 차를 곁에 두어 추억과 개인적 취향을 드러낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주변 시대보다 오래된 차를 반복해서 소유하고 사용하는 것으로 [[주인공]]의 개성을 표현한다. 차량의 연식과 관리의 흔적이 애착과 과거를 전달할 수 있다.\n\n시대극에서 모두가 사용하는 당시의 보통 차와는 다르다. 한 번 빌린 차량보다 지속적인 소유와 상대적인 오래됨이 인물 식별에 기여해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Agents of S.H.I.E.L.D.]]의 콜슨은 아버지와 손보던 1962년형 코르벳을 롤라라고 부른다. 비행하도록 개조한 옛 차를 곁에 두어 추억과 개인적 취향을 드러낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

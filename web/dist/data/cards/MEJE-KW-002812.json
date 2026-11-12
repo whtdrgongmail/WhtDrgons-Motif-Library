@@ -4,8 +4,8 @@
   "title": "연인인 두 전투 동료",
   "original": "Battle Couple",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "서로 사랑하는 두 인물이 같은 싸움에 참여한다. 보호하려는 마음과 상대를 믿고 맡기는 태도가 전투의 선택에 영향을 준다. 연애 관계가 없어도 [[전투 호흡이 맞는 두 동료]]의 전투 호흡은 성립한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "연인인 두 사람이 같은 전투에서 동료로 협력하는 관계다. 서로를 구하고 싶은 마음과 상대가 맡은 일을 믿어야 하는 책임이 충돌할 수 있다. [[전투 호흡이 맞는 두 동료]]에 연애 감정이 더해진 구도이므로 보호받는 한 사람만 수동적으로 남을 필요는 없다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[연애 관계]]인 두 인물이 동시에 전투 동료로 활동하는 유형이다. 애정과 실전의 신뢰가 같은 관계 안에서 형성되고 검증된다.\n\n협력 중의 농담과 구애는 위험한 상황에서도 친밀함이 유지됨을 보여 준다. 한쪽이 다치면 전술 판단과 보호 욕구가 충돌해 관계의 약점이 될 수도 있다.\n\n싸우는 사람에게 연인이 있다는 사실만으로는 충분하지 않다. 두 사람이 함께 행동하고 서로의 전투에 영향을 주어야 연인과 동료의 두 지위가 결합한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[연애 관계]]인 두 인물이 동시에 전투 동료로 활동하는 유형이다. 애정과 실전의 신뢰가 같은 관계 안에서 형성되고 검증된다.\n\n협력 중의 농담과 구애는 위험한 상황에서도 친밀함이 유지됨을 보여 준다. 한쪽이 다치면 전술 판단과 보호 욕구가 충돌해 관계의 약점이 될 수도 있다.\n\n싸우는 사람에게 연인이 있다는 사실만으로는 충분하지 않다. 두 사람이 함께 행동하고 서로의 전투에 영향을 주어야 연인과 동료의 두 지위가 결합한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

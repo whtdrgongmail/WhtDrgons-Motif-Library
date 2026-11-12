@@ -4,8 +4,8 @@
   "title": "극한의 시간과 환경에도 남는 음식",
   "original": "Indestructible Edible",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01473",
+  "primary_tag_id": "ML-T01473",
   "description": {
     "definition": "오랜 시간이나 가혹한 환경을 견딘 뒤에도 먹을 수 있는 상태로 남아 있는 음식이라는 설정이다.",
     "detail": "재난 뒤 비축 식량, 모험의 장기 여행 식량, 세대를 지나 전달되는 음식 등의 형태로 나타난다. 맛까지 좋아야 하는 것은 아니다.\n\n작품 사례: 《[[반지의 제왕]]》의 렘바스는 잎으로 싸 둔 상태에서 오랫동안 신선함을 유지하는 여행 식량으로 쓰인다.",
@@ -13,19 +13,19 @@
     "boundary": "실제 식품의 보존·섭취 안전을 보장하는 개념이 아니며 단순히 식감이 딱딱한 음식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "다른 물건이 망가지고 오래 지나도 음식만 여전히 먹을 수 있다.\n\n작품 사례: 《[[반지의 제왕]]》의 렘바스는 잎으로 싸 둔 상태에서 오랫동안 신선함을 유지하는 여행 식량으로 쓰인다.",
+    "easy_ko": "다른 물건이 망가지고 오래 지나도 음식만 여전히 먹을 수 있다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정상적인 음식이라면 상했을 시간과 환경을 지나서도 상태가 유지된다는 과장이다. 세계가 파괴되거나 오래 방치된 뒤 남은 음식이 대표적인 대상이다.\n\n보존성이 뛰어나다는 칭찬처럼 보이지만 맛과 질감이 처음부터 좋지 않았다는 농담으로 이어지기도 한다. 먹을 수 있음과 먹고 싶음이 다르다는 대비가 웃음을 만든다.\n\n종말 이후의 물자 확보를 쉽게 처리하는 장치로도 기능한다. 실제 제품의 보존 기간을 입증하는 개념이 아니라 음식의 강인함을 과장한 작품 속 규칙으로 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정상적인 음식이라면 상했을 시간과 환경을 지나서도 상태가 유지된다는 과장이다. 세계가 파괴되거나 오래 방치된 뒤 남은 음식이 대표적인 대상이다.\n\n보존성이 뛰어나다는 칭찬처럼 보이지만 맛과 질감이 처음부터 좋지 않았다는 농담으로 이어지기도 한다. 먹을 수 있음과 먹고 싶음이 다르다는 대비가 웃음을 만든다.\n\n종말 이후의 물자 확보를 쉽게 처리하는 장치로도 기능한다. 실제 제품의 보존 기간을 입증하는 개념이 아니라 음식의 강인함을 과장한 작품 속 규칙으로 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "돌봄에서 피어나는 연애 감정",
   "original": "Florence Nightingale Effect",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01016",
+  "primary_tag_id": "ML-T01016",
   "description": {
     "definition": "돌보는 사람과 치료받는 사람이 가까이 지내며 연애 감정을 느끼는 관계 설정이다. [[돌봄 관계]]에 따르는 권한과 의존의 차이도 [[서사]] 안에서 살필 필요가 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "돌보는 사람과 치료받는 사람이 가까이 지내며 연애 감정을 갖는 설정이다. 지속적인 관심이 호감으로 이어질 수 있지만 [[돌봄 관계]]의 권한과 의존이 대등한 선택에 영향을 주는지, 개인적인 애정과 역할의 책임을 구별해야 한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "돌보는 인물과 치료받는 인물이 가까이 지내면서 연애 감정을 느끼는 관계 설정이다. 취약한 상태와 도움의 경험이 친밀함의 계기가 된다.\n\n상처를 살피는 신체적 거리와 위기 뒤의 안도감이 감정의 강도를 높인다. 한쪽의 감정만 생기거나 회복 뒤 관계를 다르게 평가하는 전개도 가능하다.\n\n돌봄 자체가 사랑의 증거는 아니다. 전문적인 권한과 의존의 차이가 있으므로 작품은 진심과 의무, 자유로운 동의의 조건을 구별할 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "돌보는 인물과 치료받는 인물이 가까이 지내면서 연애 감정을 느끼는 관계 설정이다. 취약한 상태와 도움의 경험이 친밀함의 계기가 된다.\n\n상처를 살피는 신체적 거리와 위기 뒤의 안도감이 감정의 강도를 높인다. 한쪽의 감정만 생기거나 회복 뒤 관계를 다르게 평가하는 전개도 가능하다.\n\n돌봄 자체가 사랑의 증거는 아니다. 전문적인 권한과 의존의 차이가 있으므로 작품은 진심과 의무, 자유로운 동의의 조건을 구별할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

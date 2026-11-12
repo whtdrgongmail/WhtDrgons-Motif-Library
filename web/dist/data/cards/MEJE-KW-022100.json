@@ -5,8 +5,8 @@
   "original": "Horror During a Dog Walk",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00648",
+  "primary_tag_id": "ML-T00648",
   "description": {
     "definition": "개를 산책시키는 평범한 행동 도중 사람이나 동물이 위험을 알아차리고 공격·발견 사건으로 이어지는 도입부다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "조깅 장면과 달리 동물의 반응이 위협을 알리는 별도 단서로 작동할 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "개와 산책하던 평범한 상황이 위험의 발견과 공격으로 바뀐다. 익숙한 일상이 공포 사건의 도입을 제공한다.\n\n사람뿐 아니라 동물의 반응도 위협을 알리는 단서가 될 수 있다. 함께 걷는 존재가 있다는 점이 위험을 알아차리는 방식을 확장한다.\n\n조깅 같은 단독 이동 장면과 구별된다. 개 산책이 사건의 출발 조건으로 작용해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "개와 산책하던 평범한 상황이 위험의 발견과 공격으로 바뀐다. 익숙한 일상이 공포 사건의 도입을 제공한다.\n\n사람뿐 아니라 동물의 반응도 위협을 알리는 단서가 될 수 있다. 함께 걷는 존재가 있다는 점이 위험을 알아차리는 방식을 확장한다.\n\n조깅 같은 단독 이동 장면과 구별된다. 개 산책이 사건의 출발 조건으로 작용해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

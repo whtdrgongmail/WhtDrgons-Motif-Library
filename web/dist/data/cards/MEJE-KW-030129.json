@@ -4,8 +4,8 @@
   "title": "설명·대사·발화 동사에 같은 표현 겹치기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01992",
+  "primary_tag_id": "ML-T01992",
   "description": {
     "definition": "서술문과 인물 대사, 그 대사를 수식하는 발화 표현이 같은 감정이나 말을 거듭 사용해 중복을 극대화하는 문체 장치다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "의미 전달에 필요한 자연스러운 반복과 달리 여러 서술 층위의 불필요한 겹침이 효과를 만든다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 표현이 설명과 대사, 그 발화를 꾸미는 말에 다시 나타난다. 여러 서술 층위가 같은 정보를 과도하게 겹친다.\n\n중복 자체가 눈에 띄면 문체의 지나침을 웃음의 대상으로 만들 수 있다. 어디에서 같은 의미가 반복되는지 비교해야 효과가 보인다.\n\n필요한 강조와 자연스러운 반복 모두를 뜻하지 않는다. 불필요한 겹침이 장치로 사용되는 경우에 한정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 표현이 설명과 대사, 그 발화를 꾸미는 말에 다시 나타난다. 여러 서술 층위가 같은 정보를 과도하게 겹친다.\n\n중복 자체가 눈에 띄면 문체의 지나침을 웃음의 대상으로 만들 수 있다. 어디에서 같은 의미가 반복되는지 비교해야 효과가 보인다.\n\n필요한 강조와 자연스러운 반복 모두를 뜻하지 않는다. 불필요한 겹침이 장치로 사용되는 경우에 한정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

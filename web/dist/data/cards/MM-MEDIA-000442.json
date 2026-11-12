@@ -4,25 +4,25 @@
   "title": "Hope for the Heartless",
   "original": "Hope for the Heartless",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00106",
+  "primary_tag_id": "ML-T00106",
   "description": {
     "definition": "이 카드는 팬픽션 《Hope for the Heartless》를 가리킨다. 이 라이브러리에서는 [[속죄를 위한 여정]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Hope for the Heartless에서 부활한 Horned King은 정해진 기간의 속죄 임무를 강제로 맡고, 조언자들은 그가 Avalina를 잔인하게 대할 때마다 잘못을 지적한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "source_relation",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Hope for the Heartless》는 Disney [[애니메이션]] 《The Black Cauldron》을 바탕으로 한 팬 소설이다. 원작의 악당 뿔왕이 패배 후 구원을 얻으려 한다는 별도의 후일담을 구성한다.\n\n검은 솥에 갇혀 고통받던 뿔왕은 운명의 존재들에게 십팔 개월의 자유를 받는다. 그 안에 자신의 죄에도 불구하고 인간의 사랑을 얻어야 영원한 재감금을 피할 수 있다.\n\n부활한 성에 찾아온 소녀 아발리나는 그 시험과 연결되는 인물이 된다. 공식 영화의 결말과 다른 방향으로 악당의 변화 가능성을 탐색하는 비공식 창작이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Hope for the Heartless》는 Disney [[애니메이션]] 《The Black Cauldron》을 바탕으로 한 팬 소설이다. 원작의 악당 뿔왕이 패배 후 구원을 얻으려 한다는 별도의 후일담을 구성한다.\n\n검은 솥에 갇혀 고통받던 뿔왕은 운명의 존재들에게 십팔 개월의 자유를 받는다. 그 안에 자신의 죄에도 불구하고 인간의 사랑을 얻어야 영원한 재감금을 피할 수 있다.\n\n부활한 성에 찾아온 소녀 아발리나는 그 시험과 연결되는 인물이 된다. 공식 영화의 결말과 다른 방향으로 악당의 변화 가능성을 탐색하는 비공식 창작이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

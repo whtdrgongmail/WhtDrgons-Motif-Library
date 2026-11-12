@@ -4,8 +4,8 @@
   "title": "제품 이름이 섬뜩한 실제 재료를 뜻하기",
   "original": "Made from Real Girl Scouts",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01994",
+  "primary_tag_id": "ML-T01994",
   "description": {
     "definition": "비유나 관용적인 제품명으로 받아들인 말이 실제 재료를 문자 그대로 가리켜 공포나 어두운 농담을 만드는 표현이다.",
     "detail": "작품 사례: 《[[마법소녀 마도카☆마기카]]》의 소울 젬은 이름만 그럴듯한 장식품이 아니라 실제 마법소녀의 영혼과 연결된 물건이다. 명칭이 감추지 않고 문자 그대로 알려 주었던 정체가 뒤늦게 드러난다.",
@@ -13,10 +13,10 @@
     "boundary": "이름의 문자적 재료와 실제 재료의 일치가 핵심이며 단순한 식인 설정 전체와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평범한 비유로 여긴 제품명이 실제 재료를 뜻한다고 드러난다. 이름의 두 의미 사이의 차이가 공포와 어두운 농담을 만든다.\n\n공개 전에는 관용적인 표현으로 읽힐 수 있어야 한다. 처음부터 재료를 명시한 물건과는 정보의 순서가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평범한 비유로 여긴 제품명이 실제 재료를 뜻한다고 드러난다. 이름의 두 의미 사이의 차이가 공포와 어두운 농담을 만든다.\n\n공개 전에는 관용적인 표현으로 읽힐 수 있어야 한다. 처음부터 재료를 명시한 물건과는 정보의 순서가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

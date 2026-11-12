@@ -4,8 +4,8 @@
   "title": "기억상실을 중심에 둔 특별편",
   "original": "Amnesia Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00952",
+  "primary_tag_id": "ML-T00952",
   "description": {
     "definition": "연속 작품의 한 회차가 인물의 기억상실과 회복을 중심 사건으로 삼는 구성. 익숙한 관계를 잠시 낯설게 만들어 인물들의 역할을 다시 보여준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "09.008.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -27,8 +27,28 @@
     "updated_at": "2026-11-01",
     "row_version": 1
   },
-  "applied_tags": [],
+  "applied_tags": [
+    {
+      "tag_id": "ML-T00556",
+      "role": "subject",
+      "review_status": "reviewed",
+      "row_version": 1
+    }
+  ],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "익숙한 인물이 관계를 기억하지 못하면 주변 사람들은 자신을 다시 설명해야 한다. 평소 당연했던 역할과 갈등을 낯선 시선에서 보여 줄 기회가 생긴다.\n\n회복을 목표로 하는 사건은 동료들의 도움과 오해를 조직한다. 기억이 돌아온 뒤 원래 상태로 복귀하는 구성에서는 특별편의 경험이 얼마나 남는지도 살펴볼 수 있다.\n\n[[기억을 잃은 영웅]]처럼 장기적인 출발 설정과는 다르다. 한 회차나 이야기 구간의 중심 갈등이 기억 상실과 그에 대한 대응이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "익숙한 인물이 관계를 기억하지 못하면 주변 사람들은 자신을 다시 설명해야 한다. 평소 당연했던 역할과 갈등을 낯선 시선에서 보여 줄 기회가 생긴다.\n\n회복을 목표로 하는 사건은 동료들의 도움과 오해를 조직한다. 기억이 돌아온 뒤 원래 상태로 복귀하는 구성에서는 특별편의 경험이 얼마나 남는지도 살펴볼 수 있다.\n\n[[기억을 잃은 영웅]]처럼 장기적인 출발 설정과는 다르다. 한 회차나 이야기 구간의 중심 갈등이 기억 상실과 그에 대한 대응이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "에로틱 문학",
   "original": "Erotic Literature",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00387",
+  "primary_tag_id": "ML-T00387",
   "description": {
     "definition": "성적 욕망과 친밀함을 글의 중요한 소재와 표현 대상으로 삼는 문학 갈래다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.119.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성적 욕망과 친밀함을 중요한 소재로 다루는 문학이다. 신체의 이미지와 인물의 내면을 언어로 구성한다.\n\n시점과 서술의 거리, 표현의 생략은 같은 관계를 다른 정서로 느끼게 한다. 연애와 권력, 자아 인식의 갈등이 성적인 경험과 연결되면서 다양한 문학적 목적을 가질 수 있다.\n\n소재가 성적이라는 사실만으로 문체와 완성도는 결정되지 않는다. 관련 범주 사이의 경계는 관습에 따라 달라지며 구체적인 내용과 독자층을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성적 욕망과 친밀함을 중요한 소재로 다루는 문학이다. 신체의 이미지와 인물의 내면을 언어로 구성한다.\n\n시점과 서술의 거리, 표현의 생략은 같은 관계를 다른 정서로 느끼게 한다. 연애와 권력, 자아 인식의 갈등이 성적인 경험과 연결되면서 다양한 문학적 목적을 가질 수 있다.\n\n소재가 성적이라는 사실만으로 문체와 완성도는 결정되지 않는다. 관련 범주 사이의 경계는 관습에 따라 달라지며 구체적인 내용과 독자층을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

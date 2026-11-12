@@ -4,8 +4,8 @@
   "title": "물로 채워지는 함정",
   "original": "Drowning Pit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01324",
+  "primary_tag_id": "ML-T01324",
   "description": {
     "definition": "인물이 빠진 공간에 물이 차오르거나 빠져나올 길이 막혀 시간이 지날수록 위험이 커지는 함정이다.",
     "detail": "작품 사례: [[A Song of Ice and Fire]]에서 타이윈은 레인 가문 사람들이 피한 광산의 출입구를 막은 뒤 강물을 끌어들여, 방어에 유리했던 피난처를 탈출할 수 없는 수몰 함정으로 바꾼다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 수중 배경이나 시야를 가리는 물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "14",
+    "code": "14.010.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,33 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00066",
-      "work_card_id": "MM-MEDIA-000021",
+      "work_card_id": "MM-MEDIA-002064",
       "description_ko": "A Song of Ice and Fire에서 타이윈은 레인 가문 사람들이 피한 광산의 출입구를 막은 뒤 강물을 끌어들여, 방어에 유리했던 피난처를 탈출할 수 없는 수몰 함정으로 바꾼다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "갇힌 공간의 수위가 높아지거나 출구가 막히면서 시간이 위험을 증가시킨다. 공간의 제약과 물의 유입이 함께 탈출의 압박을 만든다.\n\n안전하다고 선택한 피난처가 물을 막거나 빠져나갈 수 없는 장소로 뒤집힐 수 있다. 위협은 물 자체보다 닫힌 공간 안에서 변화하는 조건에 있다.\n\n일반적인 수중 배경이나 물 때문에 시야가 나빠진 장면과는 다르다. 머무를수록 상황이 악화되는 함정의 구조가 있어야 한다.\n\n[[A Song of Ice and Fire]]의 레인 가문이 피한 광산은 출입구 봉쇄와 강물 유입으로 수몰 함정이 된다.\n\n[[A Song of Ice and Fire]]",
+    "sections": [
+      [
+        "상세 설명",
+        "갇힌 공간의 수위가 높아지거나 출구가 막히면서 시간이 위험을 증가시킨다. 공간의 제약과 물의 유입이 함께 탈출의 압박을 만든다.\n\n안전하다고 선택한 피난처가 물을 막거나 빠져나갈 수 없는 장소로 뒤집힐 수 있다. 위협은 물 자체보다 닫힌 공간 안에서 변화하는 조건에 있다.\n\n일반적인 수중 배경이나 물 때문에 시야가 나빠진 장면과는 다르다. 머무를수록 상황이 악화되는 함정의 구조가 있어야 한다."
+      ],
+      [
+        "사례",
+        "[[A Song of Ice and Fire]]의 레인 가문이 피한 광산은 출입구 봉쇄와 강물 유입으로 수몰 함정이 된다."
+      ],
+      [
+        "관련 작품",
+        "[[A Song of Ice and Fire]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

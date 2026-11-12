@@ -4,27 +4,30 @@
   "title": "개척민 포로 서사",
   "original": "The Captivity Narrative",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-018287",
+  "primary_tag_id": "MEJE-KW-018287",
   "description": {
     "definition": "유럽계 정착민이 북미 원주민에게 납치되어 포로가 되는 일을 중심으로 구성된 역사적 [[서사]] 유형이다.",
     "detail": "특히 백인 여성의 포로 경험을 다루는 전형이 언급된다. 실제 집단 전체의 성향이 아니라 정착민 중심의 시각과 서사 관습으로 읽는다.",
-    "usage": "서술자의 위치와 납치자의 묘사가 어떤 두려움이나 관점을 만드는지 살핀다.",
+    "usage": "서술자의 위치와 납치자의 묘사가 어떤 두려움이나 관점을 만드는지 확인한다.",
     "boundary": "배경과 시점이 다른 모든 감금·탈출 이야기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.112.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "개척민 포로 [[서사]]는 유럽계 정착민이 북미 원주민에게 붙잡히는 경험을 중심에 둔 역사적 서사 관습이다. 사건의 기록만이 아니라 누구의 공포와 시선을 이야기의 중심에 두는지가 형식의 의미를 만든다. 특히 백인 여성 포로의 이야기는 정착민 사회의 상상과 긴장을 드러내는 전형으로 다뤄져 왔다.\n\n이 명칭은 모든 감금·탈출 이야기의 일반 장르명이 아니다. 배경과 서술 위치, 원주민을 그리는 관습이 역사적으로 특정된 경우에 한정해 쓴다. 작품을 읽을 때는 실제 집단의 성향을 서사 속 묘사와 동일시하지 않고, 포로의 목소리와 납치자의 형상화가 정착민 중심의 관점을 어떻게 구성하는지 분석한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "개척민 포로 [[서사]]는 유럽계 정착민이 북미 원주민에게 붙잡히는 경험을 중심에 둔 역사적 서사 관습이다. 사건의 기록만이 아니라 누구의 공포와 시선을 이야기의 중심에 두는지가 형식의 의미를 만든다. 특히 백인 여성 포로의 이야기는 정착민 사회의 상상과 긴장을 드러내는 전형으로 다뤄져 왔다.\n\n이 명칭은 모든 감금·탈출 이야기의 일반 장르명이 아니다. 배경과 서술 위치, 원주민을 그리는 관습이 역사적으로 특정된 경우에 한정해 쓴다. 작품을 읽을 때는 실제 집단의 성향을 서사 속 묘사와 동일시하지 않고, 포로의 목소리와 납치자의 형상화가 정착민 중심의 관점을 어떻게 구성하는지 분석한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "미시적 크기의 로봇",
   "original": "Nanomachines",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01445",
+  "primary_tag_id": "ML-T01445",
   "description": {
     "definition": "아주 작은 크기로 제작되어 개별적으로는 보이지 않거나 세밀한 작업을 수행하는 기계 존재이다.",
     "detail": "현재 원문의 현실 나노기술 일반과 허구적 나노로봇은 구분한다. 이 카드는 작품 속 미시적 기계 설정이며 실제 의학적 효과나 물리적 가능성을 보증하지 않는다.\n\n작품 사례: 《[[갓 오브 하이스쿨(웹툰)]]》에서 대회 참가자에게 주입된 나노기계는 생체 상태를 감시하고 경기 사이의 부상을 회복시킨다.",
@@ -13,10 +13,10 @@
     "boundary": "자기 복제나 모든 기능의 해결 능력은 필수가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미시적인 기계가 큰 장치로 접근하기 어려운 곳에서 작동한다. 작은 크기와 다수의 협력이 결합되면 몸과 물질의 상태를 바꾸는 설정을 만들 수 있다.\n\n개별 [[로봇]]의 능력과 집단이 낸 효과는 다른 수준이다. 원문의 나노기술 설명을 모든 미세 기계에 그대로 적용하지 않으며 허구의 광범위한 효과와 실제 기술의 가능성을 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미시적인 기계가 큰 장치로 접근하기 어려운 곳에서 작동한다. 작은 크기와 다수의 협력이 결합되면 몸과 물질의 상태를 바꾸는 설정을 만들 수 있다.\n\n개별 [[로봇]]의 능력과 집단이 낸 효과는 다른 수준이다. 원문의 나노기술 설명을 모든 미세 기계에 그대로 적용하지 않으며 허구의 광범위한 효과와 실제 기술의 가능성을 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

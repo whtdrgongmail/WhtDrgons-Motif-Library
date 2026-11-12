@@ -4,8 +4,8 @@
   "title": "다른 시대를 동시 진행처럼 교차하기",
   "original": "Meanwhile, in the Future…",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00629",
+  "primary_tag_id": "ML-T00629",
   "description": {
     "definition": "서로 다른 시점의 사건들을 마치 한편에서 동시에 일어나는 줄거리처럼 번갈아 제시하는 구성이다.",
     "detail": "작품 사례: 《[[드래곤볼 카이]]》의 셀 편 마지막은 현재의 인물들 이후와 미래로 돌아간 트랭크스의 승리를 함께 엮어 서로 다른 시대의 마무리를 보여 준다.",
@@ -13,10 +13,10 @@
     "boundary": "시간 여행은 필수가 아니다. 실제 사건 시간의 동시성과 화면에서 번갈아 제시되는 순서를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001670",
+      "work_card_id": "MM-MEDIA-001978",
       "description_ko": "《드래곤볼 카이》의 셀 편 마지막은 현재의 인물들 이후와 미래로 돌아간 트랭크스의 승리를 함께 엮어 서로 다른 시대의 마무리를 보여 준다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 다른 시대의 사건을 번갈아 보여 준다. 동시에 진행되는 듯한 편집이 시간의 거리를 줄여 대응을 만든다.\n\n반복되는 행동과 장소가 두 시점을 연결할 수 있다. 같은 시각에 다른 장소를 보여 주는 교차 편집과는 시간 관계가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 다른 시대의 사건을 번갈아 보여 준다. 동시에 진행되는 듯한 편집이 시간의 거리를 줄여 대응을 만든다.\n\n반복되는 행동과 장소가 두 시점을 연결할 수 있다. 같은 시각에 다른 장소를 보여 주는 교차 편집과는 시간 관계가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

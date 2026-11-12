@@ -4,8 +4,8 @@
   "title": "덱의 카드 수를 최대 체력으로 쓰기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02098",
+  "primary_tag_id": "ML-T02098",
   "description": {
     "definition": "플레이어가 구성한 카드 덱의 장수를 최대 생존 자원과 연동하여 덱 규모가 버틸 수 있는 피해량을 정하게 하는 규칙이다.",
     "detail": "작품 사례: [[Quantum Protocol]]에서 방어되지 않은 열로 공격이 들어오면 운용자가 피해를 받는다. 그 운용자가 버틸 수 있는 최대 체력은 구성한 덱의 카드 장수로 정해진다.",
@@ -13,10 +13,10 @@
     "boundary": "카드를 소모해 회복하거나 덱이 비었을 때만 패배하는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "덱의 카드 장수를 운용자의 최대 체력으로 환산하는 규칙이다. 카드 구성의 선택은 사용할 수 있는 행동뿐 아니라 피해를 견딜 한도에도 영향을 준다.\n\n카드를 소비해 체력을 회복하거나 덱이 비었을 때만 지는 방식과 다르다. 장수와 최대 체력 사이의 직접적인 규칙 관계가 있어야 한다.\n\n[[Quantum Protocol]]에서 방어되지 않은 열로 들어온 공격은 운용자에게 피해를 준다. 그 운용자의 최대 체력은 구성한 덱의 카드 수로 정해진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "덱의 카드 장수를 운용자의 최대 체력으로 환산하는 규칙이다. 카드 구성의 선택은 사용할 수 있는 행동뿐 아니라 피해를 견딜 한도에도 영향을 준다.\n\n카드를 소비해 체력을 회복하거나 덱이 비었을 때만 지는 방식과 다르다. 장수와 최대 체력 사이의 직접적인 규칙 관계가 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Quantum Protocol]]에서 방어되지 않은 열로 들어온 공격은 운용자에게 피해를 준다. 그 운용자의 최대 체력은 구성한 덱의 카드 수로 정해진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

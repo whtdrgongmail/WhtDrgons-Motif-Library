@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "헬로키티와 친구들의 슈퍼큐트 어드벤처",
   "original": "Hello Kitty and Friends Supercute Adventures",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "헬로키티와 친구들 슈퍼큐트 어드벤처"
+  ],
+  "tag_id": "ML-T00100",
   "primary_tag_id": "ML-T00100",
   "description": {
     "definition": "《헬로키티와 친구들의 슈퍼큐트 어드벤처》는 웹애니메이션 작품이다.",
-    "detail": "작품 사례: 《헬로키티와 친구들의 슈퍼큐트 어드벤처》의 「Jinx!」에서 쿠로미는 오렌지 소다를 구해 줄 때까지 말할 수 없어 몸짓으로 의사를 전달한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.009.002",
     "review_status": "provisional",
@@ -41,7 +43,24 @@
     {
       "card_id": "MEJE-KW-022053",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-027918",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "「Jinx!」의 쿠로미는 오렌지 소다를 얻기 전까지 말을 할 수 없는 조건에 놓인다. 필요한 의사는 대사 대신 몸짓으로 전달된다.\n\n이 제한은 평소의 표현 방식을 바꾸고 다른 인물의 해석을 필요하게 만든다. 웹애니메이션의 특정 회차에 속한 조건이며 캐릭터의 영구적인 능력과 같은 것으로 보지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "「Jinx!」의 쿠로미는 오렌지 소다를 얻기 전까지 말을 할 수 없는 조건에 놓인다. 필요한 의사는 대사 대신 몸짓으로 전달된다.\n\n이 제한은 평소의 표현 방식을 바꾸고 다른 인물의 해석을 필요하게 만든다. 웹애니메이션의 특정 회차에 속한 조건이며 캐릭터의 영구적인 능력과 같은 것으로 보지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

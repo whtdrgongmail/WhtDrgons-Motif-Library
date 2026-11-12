@@ -1,0 +1,47 @@
+{
+  "id": "MM-UNSET-000512",
+  "kind": "keyword",
+  "title": "능력치 의존성",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T02088",
+  "primary_tag_id": "ML-T02088",
+  "description": {
+    "definition": "게임의 효과와 행동 결과가 특정 능력치의 값에 따라 달라지도록 연결된 계산 관계다. 하나의 기능이 여러 수치에 의존하거나 여러 기능이 같은 수치에 의존할 수 있다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 3,
+  "classification": {
+    "code": "25.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "어떤 수치를 바꾸면 공격과 회피 같은 결과도 바뀌도록 정해 둔 연결이다. 한 수치가 여러 일을 좌우하면 그 수치를 높이는 이점이 함께 늘어난다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "의존 관계는 수치를 입력으로 삼는 계산식과 조건에서 확인된다. 함께 올라가는 두 값이 있다고 항상 한쪽이 다른 쪽의 원인은 아니므로 공통된 성장 규칙과 직접적인 참조를 구분해야 한다.\n\n연결 카드의 여러 행동 영역을 한 수치에 묶는 설계는 의존 관계의 특정한 형태다. 그런 구조가 항상 최적 투자 하나를 만드는 것은 아니며 실제 효과와 비용, 다른 선택의 가치를 함께 비교해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "의존 관계는 수치를 입력으로 삼는 계산식과 조건에서 확인된다. 함께 올라가는 두 값이 있다고 항상 한쪽이 다른 쪽의 원인은 아니므로 공통된 성장 규칙과 직접적인 참조를 구분해야 한다.\n\n연결 카드의 여러 행동 영역을 한 수치에 묶는 설계는 의존 관계의 특정한 형태다. 그런 구조가 항상 최적 투자 하나를 만드는 것은 아니며 실제 효과와 비용, 다른 선택의 가치를 함께 비교해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

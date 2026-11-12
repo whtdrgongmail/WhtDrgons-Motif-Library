@@ -1,25 +1,43 @@
 {
   "id": "MM-UNSET-000286",
-  "kind": "keyword",
+  "kind": "organization",
   "title": "에브리싱 에브리싱",
   "original": "",
   "aliases": [],
   "tag_id": null,
   "primary_tag_id": null,
   "description": {
-    "definition": "",
+    "definition": "리듬과 선율 및 보컬의 결합을 매스 팝 문맥에서 논하는 음악 밴드다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": null,
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "선율이 잘 들리는 방식과 리듬의 구성을 함께 비교할 때 연결되는 음악 집단이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "에브리싱 에브리싱은 음반을 발표하고 공연하는 밴드의 이름이다. [[뮤(Mew)]], [[TTNG]], [[폴스]], [[트리코]]와 함께 음악적 접근의 비교 대상으로 제시된다.\n\n매스 팝과의 연결은 밴드 이름을 장르와 동일시한다는 뜻이 아니다. 곡별로 선율의 접근성과 리듬의 배치, 목소리의 비중이 달라질 수 있으므로 같은 아티스트 안의 차이도 남겨 두어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "에브리싱 에브리싱은 음반을 발표하고 공연하는 밴드의 이름이다. [[뮤(Mew)]], [[TTNG]], [[폴스]], [[트리코]]와 함께 음악적 접근의 비교 대상으로 제시된다.\n\n매스 팝과의 연결은 밴드 이름을 장르와 동일시한다는 뜻이 아니다. 곡별로 선율의 접근성과 리듬의 배치, 목소리의 비중이 달라질 수 있으므로 같은 아티스트 안의 차이도 남겨 두어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

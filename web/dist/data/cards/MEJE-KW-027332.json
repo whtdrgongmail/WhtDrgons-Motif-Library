@@ -4,8 +4,8 @@
   "title": "되찾아야 하는 중요한 편지",
   "original": "Document MacGuffin",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01420",
+  "primary_tag_id": "ML-T01420",
   "description": {
     "definition": "주요 인물의 행동 목표가 반드시 회수해야 하는 중요한 편지로 주어지는 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "기존 카드의 문서 일반보다 편지의 회수가 명시된 유형이며 내용의 구체성은 별도다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "편지의 정보가 중요한 목표가 되어 인물들이 회수하려 한다. 작은 문서의 이동이 비밀과 권한의 소유를 바꾼다.\n\n실제 내용을 감추어 쟁탈 자체에 집중할 수 있다. 평범한 연락과 달리 편지가 없으면 주요 목적을 이루기 어려워야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "편지의 정보가 중요한 목표가 되어 인물들이 회수하려 한다. 작은 문서의 이동이 비밀과 권한의 소유를 바꾼다.\n\n실제 내용을 감추어 쟁탈 자체에 집중할 수 있다. 평범한 연락과 달리 편지가 없으면 주요 목적을 이루기 어려워야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

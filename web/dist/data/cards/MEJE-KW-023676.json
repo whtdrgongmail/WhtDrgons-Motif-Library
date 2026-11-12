@@ -4,8 +4,8 @@
   "title": "무술과 마법을 함께 구사하는 전사",
   "original": "Kung-Fu Wizard",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00917",
+  "primary_tag_id": "ML-T00917",
   "description": {
     "definition": "[[마법]]과 맨손 무술을 모두 익혀 전투에 사용하며 수련과 초자연적 힘이 서로 뒷받침하는 인물형이다.",
     "detail": "작품 사례: 《[[블리치(만화)]]》의 시호인 요루이치는 귀도와 백타를 결합한 순홍으로 격투와 전기 계열 힘을 함께 구사한다.",
@@ -13,10 +13,10 @@
     "boundary": "마법 발동을 위해 몸만 크게 움직이는 경우나 무기 전투만 익힌 마법사와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마법을 구사하는 인물이 맨손 무술에도 능하면 원거리 주문과 근접 격투를 상황에 맞게 함께 사용할 수 있다. 수련이 초자연적 능력을 돕거나 두 수단을 결합한 공격이 가능해지면서 연약한 마법사의 전형과 차이가 난다. 마법을 쓸 때 몸을 움직인다는 사실만으로 무술 실력이 입증되는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마법을 구사하는 인물이 맨손 무술에도 능하면 원거리 주문과 근접 격투를 상황에 맞게 함께 사용할 수 있다. 수련이 초자연적 능력을 돕거나 두 수단을 결합한 공격이 가능해지면서 연약한 마법사의 전형과 차이가 난다. 마법을 쓸 때 몸을 움직인다는 사실만으로 무술 실력이 입증되는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

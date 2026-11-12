@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-034245",
+  "kind": "keyword",
+  "title": "진행 전에 이동할 경로를 카메라로 훑기",
+  "original": "Puzzle Pan",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 움직이기 전에 카메라가 앞으로 따라가야 할 경로를 미리 탐색해 보여 준다.",
+    "detail": "",
+    "usage": "[[공간 안내]]와 목표의 위치를 플레이 전 정보로 제공한다.",
+    "boundary": "이동 중 인물을 따라가는 일반적인 추적 카메라와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "출발 전에 길을 화면으로 먼저 본다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "조작을 시작하기 전에 카메라가 퍼즐과 이동의 경로를 미리 보여 준다. 플레이어는 공간의 연결을 보고 실제 수행의 순서를 준비한다.\n\n[[안내·피드백]]의 시각적 표현이다. 이동 중 인물을 따라가는 카메라와 다르며, 안내된 길을 이해하는 것과 직접 통과하는 조작의 도전은 남아 있을 수 있다.\n\n복잡한 이동 순서를 먼저 보여 주면 플레이어는 지형의 연결과 필요한 동작을 예측할 수 있다. 카메라가 특정 장치에 머무는 방식으로 퍼즐의 관계를 암시할 수도 있다. 그러나 정답을 알아보는 일과 직접 조작해 성공하는 일은 다른 과제다. 강제로 장면을 보여 주는 길이가 길면 도전의 일부를 줄일 수 있어 정보 제공량과 탐색의 자율성 사이에 차이가 생긴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조작을 시작하기 전에 카메라가 퍼즐과 이동의 경로를 미리 보여 준다. 플레이어는 공간의 연결을 보고 실제 수행의 순서를 준비한다.\n\n[[안내·피드백]]의 시각적 표현이다. 이동 중 인물을 따라가는 카메라와 다르며, 안내된 길을 이해하는 것과 직접 통과하는 조작의 도전은 남아 있을 수 있다.\n\n복잡한 이동 순서를 먼저 보여 주면 플레이어는 지형의 연결과 필요한 동작을 예측할 수 있다. 카메라가 특정 장치에 머무는 방식으로 퍼즐의 관계를 암시할 수도 있다. 그러나 정답을 알아보는 일과 직접 조작해 성공하는 일은 다른 과제다. 강제로 장면을 보여 주는 길이가 길면 도전의 일부를 줄일 수 있어 정보 제공량과 탐색의 자율성 사이에 차이가 생긴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
+}

@@ -4,8 +4,8 @@
   "title": "나갈 길이 없는 게임 방",
   "original": "Dead-End Room",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "게임의 미로에서 들어갈 수는 있지만 밖으로 이어지는 통로가 없는 방에 갇힌다. 진행을 막는 설계가 함정이나 막다른 [[선택]]이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "들어갈 수는 있지만 정상적인 경로로 나올 수 없는 게임 방이다. 출구가 없거나 닫힌 순환의 다른 방으로만 연결되어 진행이 막힌다.\n\n메뉴와 초기화가 유일한 탈출이면 사실상 별도의 실패 상태가 된다. 피해를 주는 구조물을 함께 배치하면 빠져나갈 수 없다는 인식을 더 명확히 한다.\n\n아이템과 지식이 부족해 잠깐 막힌 퍼즐과는 다르다. 의도된 함정과 개발상의 오류를 구분하고 숨은 정상 출구가 있는지도 실제 규칙으로 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "들어갈 수는 있지만 정상적인 경로로 나올 수 없는 게임 방이다. 출구가 없거나 닫힌 순환의 다른 방으로만 연결되어 진행이 막힌다.\n\n메뉴와 초기화가 유일한 탈출이면 사실상 별도의 실패 상태가 된다. 피해를 주는 구조물을 함께 배치하면 빠져나갈 수 없다는 인식을 더 명확히 한다.\n\n아이템과 지식이 부족해 잠깐 막힌 퍼즐과는 다르다. 의도된 함정과 개발상의 오류를 구분하고 숨은 정상 출구가 있는지도 실제 규칙으로 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

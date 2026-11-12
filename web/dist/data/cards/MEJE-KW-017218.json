@@ -4,28 +4,28 @@
   "title": "알고 있던 인물이 사실은 사칭자",
   "original": "Impostor All Along",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00711",
+  "primary_tag_id": "ML-T00711",
   "description": {
     "definition": "중요 인물로 받아들였던 대상이 실제 본인이 아니라 의도적으로 그 자리를 맡은 가짜였음이 반전으로 밝혀지는 구성.",
     "detail": "실존 인물의 대체, 가공 신분, 사망자의 계승, 복제체, 강요된 대역, 본인이 만든 미끼 등으로 실현된다.\n\n작품 사례: 《[[레고 배트맨 무비]]》 초반에 악당들과 협상하러 온 듯한 고담 시장은 곧 배트맨의 변장으로 드러나며, 상대를 방심시키기 위한 대역이었다.",
     "usage": "신뢰의 붕괴와 지난 장면의 재해석을 만들 때 쓴다.",
-    "boundary": "관객에게 처음부터 위장이 공개되어 있거나 본인도 모르던 정체를 발견하는 경우와 구별한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "06",
+    "code": "06.006.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "앞서 믿고 본 말과 행동의 주인이 다른 사람이었다.\n\n작품 사례: 《[[레고 배트맨 무비]]》 초반에 악당들과 협상하러 온 듯한 고담 시장은 곧 배트맨의 변장으로 드러나며, 상대를 방심시키기 위한 대역이었다.",
+    "easy_ko": "앞서 믿고 본 말과 행동의 주인이 다른 사람이었다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실존 인물의 대체, 가공 신분, 사망자의 계승, 복제체, 강요된 대역, 본인이 만든 미끼 등으로 실현된다.\n\n관객에게 처음부터 위장이 공개되어 있거나 본인도 모르던 정체를 발견하는 경우와 구별한다.\n\n《[[레고 배트맨 무비]]》 초반에 악당들과 협상하러 온 듯한 고담 시장은 곧 배트맨의 변장으로 드러나며, 상대를 방심시키기 위한 대역이었다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실존 인물의 대체, 가공 신분, 사망자의 계승, 복제체, 강요된 대역, 본인이 만든 미끼 등으로 실현된다.\n\n관객에게 처음부터 위장이 공개되어 있거나 본인도 모르던 정체를 발견하는 경우와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[레고 배트맨 무비]]》 초반에 악당들과 협상하러 온 듯한 고담 시장은 곧 배트맨의 변장으로 드러나며, 상대를 방심시키기 위한 대역이었다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

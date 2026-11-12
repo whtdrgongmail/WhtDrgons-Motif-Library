@@ -6,8 +6,8 @@
   "aliases": [
     "눈에 잘 띄는 닌자"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00917",
+  "primary_tag_id": "ML-T00917",
   "description": {
     "definition": "잠입과 기습을 맡는 닌자가 눈에 띄는 복장·함성·과장된 동작으로 자신의 존재를 드러내며 정면 대결을 벌이는 표현이다. 은밀한 역할과 과시적인 행동이 어긋난다.",
     "detail": "작품 사례: [[A Ninja and an Assassin Under One Roof]]의 쿠사가쿠레 닌자들은 밝은 복장으로 요란하게 등장해 연설하다가, 말하는 중이나 방심한 틈에 코노하의 공격을 받는다.",
@@ -15,10 +15,10 @@
     "boundary": "옷은 화려하지만 실제로 조용히 잠입하는 닌자나 일부러 관심을 끄는 전술은 기능을 따로 판단한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "잠입을 맡는 인물이 요란한 복장과 함성으로 존재를 알리면 역할의 기대와 행동이 어긋난다. 과장된 등장과 정면 대결이 은밀함보다 앞서면서 닌자 이미지 자체를 변형한다.\n\n화려한 옷을 입어도 실제 잠입은 조용히 수행하는 경우와는 다르다. 일부러 시선을 끄는 전술이라면 그 기능도 따로 구분해야 하며 존재를 과시하는 행동이 핵심이다.\n\n[[A Ninja and an Assassin Under One Roof]]의 쿠사가쿠레 닌자는 밝은 옷으로 요란하게 나타나 연설한다. 말하거나 방심하는 사이 코노하에게 공격받아 과시적인 등장이 취약함으로 이어진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "잠입을 맡는 인물이 요란한 복장과 함성으로 존재를 알리면 역할의 기대와 행동이 어긋난다. 과장된 등장과 정면 대결이 은밀함보다 앞서면서 닌자 이미지 자체를 변형한다.\n\n화려한 옷을 입어도 실제 잠입은 조용히 수행하는 경우와는 다르다. 일부러 시선을 끄는 전술이라면 그 기능도 따로 구분해야 하며 존재를 과시하는 행동이 핵심이다."
+      ],
+      [
+        "관련 작품",
+        "[[A Ninja and an Assassin Under One Roof]]의 쿠사가쿠레 닌자는 밝은 옷으로 요란하게 나타나 연설한다. 말하거나 방심하는 사이 코노하에게 공격받아 과시적인 등장이 취약함으로 이어진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

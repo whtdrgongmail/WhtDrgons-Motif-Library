@@ -4,8 +4,8 @@
   "title": "발견된 영상 형식",
   "original": "Found Footage Films",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00590",
+  "primary_tag_id": "ML-T00590",
   "description": {
     "definition": "누군가 남긴 촬영물이나 기록 영상이 뒤늦게 발견되었다는 틀로 이야기를 전하는 형식이다. 불완전한 화면과 제한된 시점이 사건의 체험을 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "공포 [[장르]]로 한정하지 않으며 관객만을 위한 일반 카메라 시점과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "04",
+    "code": "04.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "뒤늦게 발견된 촬영물이나 기록 영상이라는 틀로 사건을 전달한다. 관객이 보는 화면은 작품 안의 누군가가 남긴 기록으로 제시된다.\n\n기록자의 제한된 시점과 불완전한 화면이 사건의 체험을 구성한다. 무엇을 보지 못했는지도 촬영물이라는 형식에서 생기는 정보의 한계가 된다.\n\n공포 장르에만 적용되는 형식은 아니다. 작품 속 기록과 무관하게 관객을 위해 배치된 일반적인 카메라 시점과 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "뒤늦게 발견된 촬영물이나 기록 영상이라는 틀로 사건을 전달한다. 관객이 보는 화면은 작품 안의 누군가가 남긴 기록으로 제시된다.\n\n기록자의 제한된 시점과 불완전한 화면이 사건의 체험을 구성한다. 무엇을 보지 못했는지도 촬영물이라는 형식에서 생기는 정보의 한계가 된다.\n\n공포 장르에만 적용되는 형식은 아니다. 작품 속 기록과 무관하게 관객을 위해 배치된 일반적인 카메라 시점과 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

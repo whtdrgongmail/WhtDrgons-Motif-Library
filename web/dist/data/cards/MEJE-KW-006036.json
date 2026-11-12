@@ -4,8 +4,8 @@
   "title": "몸과 떨어진 머리를 되찾다",
   "original": "Cranium Chase",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00803",
+  "primary_tag_id": "ML-T00803",
   "description": {
     "definition": "분리되어도 살아 있는 머리와 몸이 서로를 찾아 움직인다. 몸의 경계가 뒤틀린 상황을 추적극이나 희극으로 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "몸과 떨어진 머리를 되찾다는 분리된 머리와 몸이 각각 살아 움직이며 서로를 찾아가는 허구적 상황이다. 신체의 통합과 생명 유지 규칙이 뒤틀린다.\n\n기억과 판단이 어느 쪽에 있는지, 서로 소통하는지, 이동을 어떻게 하는지 정하면 추적의 논리가 달라진다. 분리 원인과 회복 가능성도 중요하다.\n\n현실의 신체 손상과 무관한 환상 규칙이다. 창작에서는 장애를 웃음의 직접 대상으로 삼지 않도록 관점을 둔다.\n\n가상 예시: 마법 사고로 분리된 머리와 몸은 각자 다른 방향으로 움직인다. 머리는 지도를 기억하고 몸은 표식을 따라 이동한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "몸과 떨어진 머리를 되찾다는 분리된 머리와 몸이 각각 살아 움직이며 서로를 찾아가는 허구적 상황이다. 신체의 통합과 생명 유지 규칙이 뒤틀린다.\n\n기억과 판단이 어느 쪽에 있는지, 서로 소통하는지, 이동을 어떻게 하는지 정하면 추적의 논리가 달라진다. 분리 원인과 회복 가능성도 중요하다.\n\n현실의 신체 손상과 무관한 환상 규칙이다. 창작에서는 장애를 웃음의 직접 대상으로 삼지 않도록 관점을 둔다."
+      ],
+      [
+        "사례",
+        "가상 예시: 마법 사고로 분리된 머리와 몸은 각자 다른 방향으로 움직인다. 머리는 지도를 기억하고 몸은 표식을 따라 이동한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "평범한 집에 비밀 손님을 숨기기",
   "original": "Batman in My Basement",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01286",
+  "primary_tag_id": "ML-T01286",
   "description": {
     "definition": "도망 중인 특별한 존재를 일반 가정의 방이나 지하실에 머물게 한다. 가족의 일상과 바깥의 거대한 사건이 좁은 공간에서 만난다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "도망 중인 특별한 존재를 평범한 인물이 자기 집의 방이나 지하실에 숨겨 주는 이야기다. 거대한 모험의 인물이 일상적인 가정의 규칙 안으로 들어온다.\n\n보호자는 손님을 돕는 동시에 가족에게 들키지 않도록 생활을 유지해야 한다. 능력과 정체가 비범한 손님일수록 일상적인 소음과 식사, 출입이 사건의 원인이 된다.\n\n유명한 영웅만 등장하는 유형은 아니며 [[외계인]]과 왕족 같은 다른 존재도 가능하다. 은신의 필요와 가족에게 비밀을 유지해야 하는 이중의 제약이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "도망 중인 특별한 존재를 평범한 인물이 자기 집의 방이나 지하실에 숨겨 주는 이야기다. 거대한 모험의 인물이 일상적인 가정의 규칙 안으로 들어온다.\n\n보호자는 손님을 돕는 동시에 가족에게 들키지 않도록 생활을 유지해야 한다. 능력과 정체가 비범한 손님일수록 일상적인 소음과 식사, 출입이 사건의 원인이 된다.\n\n유명한 영웅만 등장하는 유형은 아니며 [[외계인]]과 왕족 같은 다른 존재도 가능하다. 은신의 필요와 가족에게 비밀을 유지해야 하는 이중의 제약이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

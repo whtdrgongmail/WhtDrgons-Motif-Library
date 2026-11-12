@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "포켓몬 LEGENDS 아르세우스",
   "original": "Pokémon Legends: Arceus",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Pokémon LEGENDS 아르세우스"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《포켓몬 LEGENDS 아르세우스》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《포켓몬 LEGENDS 아르세우스》의 러브로스는 사랑으로 새로운 생명을 싹트게 하는 존재로 설명된다. 하트 무늬와 사랑·미움을 담는 바람의 기술이 관할과 디자인을 연결한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-020312",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-026809",
       "row_version": 1
     },
@@ -47,5 +53,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《포켓몬 LEGENDS 아르세우스》의 러브로스는 사랑으로 새 생명을 싹트게 하는 존재로 설명된다. 생명과 사랑이 관할의 성격을 이룬다. 후대의 익숙한 지역을 먼 과거의 탐색과 조사 임무로 재구성한 액션 역할극이다.\n\n하트 무늬는 이러한 의미를 외형으로 드러낸다. 바람의 기술에도 사랑과 미움이라는 정서적 요소가 연결된다. 신체의 무늬와 기술의 명명에 같은 정서가 반복되면 능력과 외형을 하나의 인상으로 연결할 수 있다.\n\n이름이나 설명에만 상징을 붙이는 데 그치지 않는다. 외형과 능력의 표현이 존재의 역할을 함께 전달하는 디자인이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《포켓몬 LEGENDS 아르세우스》의 러브로스는 사랑으로 새 생명을 싹트게 하는 존재로 설명된다. 생명과 사랑이 관할의 성격을 이룬다. 후대의 익숙한 지역을 먼 과거의 탐색과 조사 임무로 재구성한 액션 역할극이다.\n\n하트 무늬는 이러한 의미를 외형으로 드러낸다. 바람의 기술에도 사랑과 미움이라는 정서적 요소가 연결된다. 신체의 무늬와 기술의 명명에 같은 정서가 반복되면 능력과 외형을 하나의 인상으로 연결할 수 있다.\n\n이름이나 설명에만 상징을 붙이는 데 그치지 않는다. 외형과 능력의 표현이 존재의 역할을 함께 전달하는 디자인이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

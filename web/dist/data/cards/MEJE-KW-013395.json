@@ -6,8 +6,8 @@
   "aliases": [
     "불길한 분위기의 동물 소리"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02009",
+  "primary_tag_id": "ML-T02009",
   "description": {
     "definition": "불길하게 인식되는 동물의 소리를 [[배경]]에 넣어 어둠과 위험의 분위기를 조성하는 음향 연출이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "동물의 위치를 알리는 실용적 소리와 달리 정서적 기능이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "24",
+    "code": "24.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,5 +32,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "동물의 울음을 이용해 장소를 무섭거나 위험하게 느끼게 한다. 부정적인 문화적 이미지와 독특한 소리가 결합해 정서적인 배경이 된다.\n\n소리를 내는 동물이 화면에 나타날 필요는 없다. 잠깐의 그림자로만 보이거나 전혀 보이지 않은 채 울음만으로 주변의 성격을 전달할 수 있다.\n\n동물의 위치를 알려 주는 실용적인 신호와 다르다. 무엇이 근처에 있는지보다 인물이 있는 장소를 어떻게 느끼게 하는지가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "동물의 울음을 이용해 장소를 무섭거나 위험하게 느끼게 한다. 부정적인 문화적 이미지와 독특한 소리가 결합해 정서적인 배경이 된다.\n\n소리를 내는 동물이 화면에 나타날 필요는 없다. 잠깐의 그림자로만 보이거나 전혀 보이지 않은 채 울음만으로 주변의 성격을 전달할 수 있다.\n\n동물의 위치를 알려 주는 실용적인 신호와 다르다. 무엇이 근처에 있는지보다 인물이 있는 장소를 어떻게 느끼게 하는지가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

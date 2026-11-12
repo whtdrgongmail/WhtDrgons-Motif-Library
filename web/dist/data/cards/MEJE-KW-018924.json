@@ -4,8 +4,8 @@
   "title": "밟고 걸을 수 있는 구름",
   "original": "Solid Clouds",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02559",
+  "primary_tag_id": "ML-T02559",
   "description": {
     "definition": "구름을 사람이 서거나 걸을 수 있는 단단한 지지면으로 취급하는 세계의 물리 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "구름 위에 별도의 보이지 않는 발판이 있는 설정과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "구름이 체중을 받쳐 사람의 이동 경로가 된다. 단순한 풍경이 발판과 거주 공간으로 바뀌면서 하늘의 활용 범위가 넓어진다.\n\n모두에게 단단한 구름인지 특정 인물만 밟을 수 있는지에 따라 세계와 능력의 차이가 생긴다. 구름의 소멸과 변화는 이동 중의 위험이 될 수 있다.\n\n현실의 수증기와 같은 물성이라는 뜻은 아니다. 정본은 허구의 지지 규칙이며 비행과 공중 부양처럼 몸이 스스로 떠 있는 능력과도 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "구름이 체중을 받쳐 사람의 이동 경로가 된다. 단순한 풍경이 발판과 거주 공간으로 바뀌면서 하늘의 활용 범위가 넓어진다.\n\n모두에게 단단한 구름인지 특정 인물만 밟을 수 있는지에 따라 세계와 능력의 차이가 생긴다. 구름의 소멸과 변화는 이동 중의 위험이 될 수 있다.\n\n현실의 수증기와 같은 물성이라는 뜻은 아니다. 정본은 허구의 지지 규칙이며 비행과 공중 부양처럼 몸이 스스로 떠 있는 능력과도 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,27 +4,30 @@
   "title": "동물이 인간 사회를 비추는 우화",
   "original": "Beast Fable",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-002865",
+  "primary_tag_id": "MEJE-KW-002865",
   "description": {
-    "definition": "동물의 행동을 빌려 인간의 성향과 사회 관계를 비유하는 [[우화]]의 한 형식. 동물이 등장한다는 이유만으로 적용하지 않고, 동물의 행동이 인간 세계에 대한 생각을 어떻게 불러오는지 살핀다.",
+    "definition": "동물의 행동을 빌려 인간의 성향과 사회 관계를 비유하는 [[우화]]의 한 형식. 동물이 등장한다는 사실만으로 적용하지 않는다. 동물의 행동이 인간 사회의 관습이나 권력 관계를 비유하는지가 판정 기준이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 5,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.403.001",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "동물 [[우화]]는 인간 사회의 관계와 성향을 동물의 행동으로 압축해 보여준다. 동물의 먹이 다툼은 권력 경쟁으로, 무리의 위계는 사회적 서열이나 집단 규범으로 읽힐 수 있다. 동물의 종별 특성이나 생태적 습성이 비유의 재료가 되기도 하지만, 작품의 초점은 동물학적 사실 그 자체보다 그 행동을 통해 인간 세계를 이해하는 데 있다.\n\n말하는 동물이나 [[의인화]]는 흔한 장치지만 필수 조건은 아니다. 짧은 교훈담에 한정되지도 않으며, 풍자와 정치적 [[알레고리]]처럼 여러 층위의 해석을 허용할 수 있다. 동물이 주인공으로 등장해도 모험이나 자연 관찰이 중심이고 인간 사회에 대한 비유가 없다면 이 범주로 단정하기 어렵다. 판별의 기준은 동물의 행동과 인간의 관습·욕망 사이에 해석 가능한 대응 관계가 서사 전반에 있는가이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "동물 [[우화]]는 인간 사회의 관계와 성향을 동물의 행동으로 압축해 보여준다. 동물의 먹이 다툼은 권력 경쟁으로, 무리의 위계는 사회적 서열이나 집단 규범으로 읽힐 수 있다. 동물의 종별 특성이나 생태적 습성이 비유의 재료가 되기도 하지만, 작품의 초점은 동물학적 사실 그 자체보다 그 행동을 통해 인간 세계를 이해하는 데 있다.\n\n말하는 동물이나 [[의인화]]는 흔한 장치지만 필수 조건은 아니다. 짧은 교훈담에 한정되지도 않으며, 풍자와 정치적 [[알레고리]]처럼 여러 층위의 해석을 허용할 수 있다. 동물이 주인공으로 등장해도 모험이나 자연 관찰이 중심이고 인간 사회에 대한 비유가 없다면 이 범주로 단정하기 어렵다. 판별의 기준은 동물의 행동과 인간의 관습·욕망 사이에 해석 가능한 대응 관계가 서사 전반에 있는가이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

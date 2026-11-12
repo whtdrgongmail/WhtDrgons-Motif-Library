@@ -4,8 +4,8 @@
   "title": "혼외 출생의 선한 영웅",
   "original": "Heroic Bastard",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "부모가 서로 혼인하지 않은 상태에서 태어났지만 선하고 영웅적인 인물로 그려지는 주인공 유형이다.",
     "detail": "작품 사례: [[Old Knight in the Frontier: Bard Roehn]]의 Windellan은 왕의 혼외자로 태어났지만 전쟁에서 세운 공으로 민중과 귀족의 지지를 얻어 왕위에 오른다.",
@@ -13,10 +13,10 @@
     "boundary": "출생과 도덕성을 실제 [[인과]]로 단정하지 않으며 악당이라는 욕설의 뜻과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "혼외 출생에 붙은 사회적 낙인과 인물이 실제로 선택하는 선한 행동을 대비한다. 가족의 혼인 상태가 영웅적 성취를 가로막는 본성이라는 전제를 따르지 않는 인물 유형이다.\n\n출생과 도덕성 사이에 현실적인 [[인과]]가 있다는 뜻이 아니다. 악당을 비하하는 욕설과도 구별하며 선함은 출생 배경보다 행동과 책임을 통해 확인해야 한다.\n\n[[Old Knight in the Frontier: Bard Roehn]]의 Windellan은 왕의 혼외자로 태어나지만 전쟁의 공로로 지지를 얻는다. 민중과 귀족이 그를 지지해 왕위에 오르므로 출생 낙인과 실제 평가는 같지 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "혼외 출생에 붙은 사회적 낙인과 인물이 실제로 선택하는 선한 행동을 대비한다. 가족의 혼인 상태가 영웅적 성취를 가로막는 본성이라는 전제를 따르지 않는 인물 유형이다.\n\n출생과 도덕성 사이에 현실적인 [[인과]]가 있다는 뜻이 아니다. 악당을 비하하는 욕설과도 구별하며 선함은 출생 배경보다 행동과 책임을 통해 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Old Knight in the Frontier: Bard Roehn]]의 Windellan은 왕의 혼외자로 태어나지만 전쟁의 공로로 지지를 얻는다. 민중과 귀족이 그를 지지해 왕위에 오르므로 출생 낙인과 실제 평가는 같지 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

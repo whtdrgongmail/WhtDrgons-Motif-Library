@@ -4,8 +4,8 @@
   "title": "패자가 떠나는 최종 승부",
   "original": "Loser Leaves Town",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00763",
+  "primary_tag_id": "ML-T00763",
   "description": {
     "definition": "오래된 대립을 끝내기 위해 패자가 마을·조직·무대에서 물러나야 한다는 조건을 건 승부다.",
     "detail": "한쪽만 퇴장 조건을 부담하거나, 패배자가 다른 이름과 가면으로 돌아와 조건을 우회하는 변형이 있다.\n\n작품 사례: 《[[레이지타운]]》의 로비는 자신이 이기면 스포타쿠스가 마을을 떠나야 한다는 내기를 반복한다. 자신이 졌을 때는 같은 퇴장 조건을 지지 않는 비대칭적 사례다.",
@@ -13,19 +13,19 @@
     "boundary": "죽음이 아니라 활동 자격과 소속의 상실이 대가다. 현실의 은퇴 여부와 극중 약속은 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.004.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "이번에 지면 다시는 여기서 활동하지 못한다는 약속으로 맞붙는다.\n\n작품 사례: 《[[레이지타운]]》의 로비는 자신이 이기면 스포타쿠스가 마을을 떠나야 한다는 내기를 반복한다. 자신이 졌을 때는 같은 퇴장 조건을 지지 않는 비대칭적 사례다.",
+    "easy_ko": "이번에 지면 다시는 여기서 활동하지 못한다는 약속으로 맞붙는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "패자가 무대와 조직을 떠난다는 조건으로 마지막 승부를 치른다. 오래된 대립을 끝낼 수 있는 사회적인 결과가 승패에 붙는다.\n\n실제로 약속을 지키는지에 따라 후속 갈등이 달라진다. 일반적인 경기 패배보다 떠나야 하는 조건이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "패자가 무대와 조직을 떠난다는 조건으로 마지막 승부를 치른다. 오래된 대립을 끝낼 수 있는 사회적인 결과가 승패에 붙는다.\n\n실제로 약속을 지키는지에 따라 후속 갈등이 달라진다. 일반적인 경기 패배보다 떠나야 하는 조건이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

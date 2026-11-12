@@ -2,24 +2,81 @@
   "id": "MM-MEDIA-003543",
   "kind": "work",
   "title": "슈퍼 마리오 카트",
-  "original": "",
+  "original": "Super Mario Kart",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00078",
+  "primary_tag_id": "ML-T00078",
   "description": {
-    "definition": "",
+    "definition": "《슈퍼 마리오 카트》는 닌텐도가 1992년에 슈퍼 패미컴용으로 출시한 카트 경주 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.016.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "platform",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "마리오 캐릭터들이 카트를 타고 경주하는 첫 마리오 카트 게임이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000149",
+      "card_id": "MM-MEDIA-003543",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.nintendo.com/jp/character/mario/en/history/index.html",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000275",
+      "card_id": "MM-MEDIA-003543",
+      "label_ko": "슈퍼 마리오 카트 공식 소개",
+      "icon_key": "game",
+      "url": "https://www.nintendo.com/jp/titles/50010000040217.html",
+      "description_ko": "1992년 원작과 캐릭터·아이템·배틀 소개",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "1992년 슈퍼 패미컴용으로 발매된 시리즈 첫 작품이다. 마리오 시리즈의 인물 중 하나를 골라 카트 경주에 참가하며, 캐릭터마다 가속과 조종의 성향이 다르다. 경주와 별도의 배틀 방식이 함께 제공된다.\n\n바나나 껍질은 상대의 주행을 방해하고, 별은 사용자의 카트를 일시적으로 무적 상태로 만든다. 따라서 주행 속도만이 아니라 아이템을 쓰는 시점과 상대의 위치도 순위를 바꾼다. 캐릭터 선택, 코스, 아이템의 조합이 이 작품의 경쟁 구조를 이룬다.\n\n《[[마리오 카트 8 디럭스]]》는 같은 시리즈의 후속 작품이지만 슈퍼 패미컴 원작과 동일한 게임은 아니다. 원작의 화면 표현과 조작 방식, 후속작의 추가 코스·규칙을 구분해 기록한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "1992년 슈퍼 패미컴용으로 발매된 시리즈 첫 작품이다. 마리오 시리즈의 인물 중 하나를 골라 카트 경주에 참가하며, 캐릭터마다 가속과 조종의 성향이 다르다. 경주와 별도의 배틀 방식이 함께 제공된다."
+      ],
+      [
+        "사례",
+        "바나나 껍질은 상대의 주행을 방해하고, 별은 사용자의 카트를 일시적으로 무적 상태로 만든다. 따라서 주행 속도만이 아니라 아이템을 쓰는 시점과 상대의 위치도 순위를 바꾼다. 캐릭터 선택, 코스, 아이템의 조합이 이 작품의 경쟁 구조를 이룬다."
+      ],
+      [
+        "관련 작품",
+        "《[[마리오 카트 8 디럭스]]》는 같은 시리즈의 후속 작품이지만 슈퍼 패미컴 원작과 동일한 게임은 아니다. 원작의 화면 표현과 조작 방식, 후속작의 추가 코스·규칙을 구분해 기록한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "작품 속에 브랜드 상품을 배치하기",
   "original": "Product Placement",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02542",
+  "primary_tag_id": "ML-T02542",
   "description": {
     "definition": "실제 브랜드의 상품과 점포를 인물의 생활과 장면 안에 배치하여 노출하는 제작 관습이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "브랜드가 우연히 식별된다는 사실만으로 협찬 계약의 존재를 확정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.007.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실제 브랜드의 물건과 점포를 작품의 생활 공간에 노출하는 제작 관습이다. 상품이 배경과 행동에 들어오면서 홍보와 현실감의 기능을 함께 가질 수 있다.\n\n인물이 특정 제품을 사용하고 칭찬하거나 로고를 눈에 띄게 보여 줄 수 있다. 표현이 지나치면 이야기보다 광고가 앞선다는 인상을 주지만 익숙한 상품은 시대와 장소를 빠르게 전달하기도 한다.\n\n브랜드가 보인다는 사실만으로 금전 거래를 확정할 수는 없다. 실제 협찬과 자연스러운 배경 사용을 구별하고, 제작상의 관계는 공개된 근거가 있을 때 설명해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실제 브랜드의 물건과 점포를 작품의 생활 공간에 노출하는 제작 관습이다. 상품이 배경과 행동에 들어오면서 홍보와 현실감의 기능을 함께 가질 수 있다.\n\n인물이 특정 제품을 사용하고 칭찬하거나 로고를 눈에 띄게 보여 줄 수 있다. 표현이 지나치면 이야기보다 광고가 앞선다는 인상을 주지만 익숙한 상품은 시대와 장소를 빠르게 전달하기도 한다.\n\n브랜드가 보인다는 사실만으로 금전 거래를 확정할 수는 없다. 실제 협찬과 자연스러운 배경 사용을 구별하고, 제작상의 관계는 공개된 근거가 있을 때 설명해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

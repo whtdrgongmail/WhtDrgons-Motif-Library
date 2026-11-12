@@ -4,8 +4,8 @@
   "title": "블랙 메탈 음악",
   "original": "Black Metal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00508",
+  "primary_tag_id": "ML-T00508",
   "description": {
     "definition": "거친 음향과 어두운 분위기를 중심에 둔 극단적 [[헤비메탈]] 계열의 음악. 작품 속 사용에서는 음악의 소리와 그 장면이 부여한 이미지를 구분한다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "03.302.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "블랙 메탈은 거칠고 날카로운 음색과 어두운 분위기를 강조하는 극단적인 헤비메탈 계열이다. 속도와 소음의 밀도뿐 아니라 차갑고 광대한 공간감이 표현의 중요한 부분이 된다.\n\n같은 이름 아래 민속적인 요소와 전자적인 배경음, 실험적인 구성 등이 결합될 수 있다. 따라서 하나의 악기 편성과 제작 방식만으로 모든 하위 흐름을 설명할 수는 없다. 다른 메탈과 영향을 주고받으면서도 특정한 음색과 미학의 결합으로 구별된다.\n\n장르의 이미지와 개별 음악가의 실제 신념은 동일하지 않다. 어두운 상징과 원시적인 소리를 사용한다고 모든 곡이 같은 주제를 가진 것도 아니다. 여기서는 음악 장르를 뜻하며 검은색 금속이라는 재료의 의미와는 별개다.",
+    "sections": [
+      [
+        "상세 설명",
+        "블랙 메탈은 거칠고 날카로운 음색과 어두운 분위기를 강조하는 극단적인 헤비메탈 계열이다. 속도와 소음의 밀도뿐 아니라 차갑고 광대한 공간감이 표현의 중요한 부분이 된다.\n\n같은 이름 아래 민속적인 요소와 전자적인 배경음, 실험적인 구성 등이 결합될 수 있다. 따라서 하나의 악기 편성과 제작 방식만으로 모든 하위 흐름을 설명할 수는 없다. 다른 메탈과 영향을 주고받으면서도 특정한 음색과 미학의 결합으로 구별된다.\n\n장르의 이미지와 개별 음악가의 실제 신념은 동일하지 않다. 어두운 상징과 원시적인 소리를 사용한다고 모든 곡이 같은 주제를 가진 것도 아니다. 여기서는 음악 장르를 뜻하며 검은색 금속이라는 재료의 의미와는 별개다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Only Diegetic Music",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02003",
+  "primary_tag_id": "ML-T02003",
   "description": {
     "definition": "인물이 있는 세계 안에서 실제로 발생하는 음악만 사용하고 외부 배경음악은 두지 않는 음향 규칙이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "배경음악이 특정 순간 극중 노래로 바뀌는 사례와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "음악은 인물이 사는 세계에서 실제로 나오는 것만 사용한다. 바깥에서 덧붙인 배경 선율은 두지 않는 규칙이다.\n\n관객이 듣는 곡과 인물이 들을 수 있는 곡이 같은 층위에 놓인다. 어디에서 연주되거나 재생되는지 확인해야 한다.\n\n배경음악이 한순간 극중 노래로 바뀐 경우와 다르다. 작품의 음향 전체에 적용하는 제한이라는 조건이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "음악은 인물이 사는 세계에서 실제로 나오는 것만 사용한다. 바깥에서 덧붙인 배경 선율은 두지 않는 규칙이다.\n\n관객이 듣는 곡과 인물이 들을 수 있는 곡이 같은 층위에 놓인다. 어디에서 연주되거나 재생되는지 확인해야 한다.\n\n배경음악이 한순간 극중 노래로 바뀐 경우와 다르다. 작품의 음향 전체에 적용하는 제한이라는 조건이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "인더스트리얼 힙합",
   "original": "Industrial hip-hop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015905",
+  "primary_tag_id": "MEJE-KW-015905",
   "description": {
     "definition": "힙합의 비트·랩에 거친 전자음, 왜곡된 신시사이저, 금속성 타악 등 인더스트리얼 음악의 음향을 결합한 갈래다. 소리의 마찰과 압박감이 음악의 중요한 인상을 만든다.",
     "detail": "내면과 불길한 심리를 탐구하는 가사가 나타날 수 있지만 필수 조건은 아니다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.303.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "Industrial hip-hop은 힙합의 랩과 리듬에 인더스트리얼 음악의 거칠고 기계적인 음향을 결합한 장르 표현이다. 산업 소음을 연상시키는 질감이 특징이다.\n\n인더스트리얼 힙합은 랩과 힙합 비트의 구성 위에 왜곡된 전자음, 거친 신시사이저, 금속성 타악처럼 산업적이고 기계적인 음향을 결합한다. 이 음색은 음악에 압박감이나 마찰감을 부여하며, 곡의 정서와 리듬을 함께 형성한다.\n\n[[장르]]를 가르는 기준은 단순히 어둡거나 공격적인 분위기가 아니다. 랩의 박자와 보컬이 음악의 중심에 있으면서 인더스트리얼 계열의 음향 질감이 반복적이고 구조적으로 결합되는지를 들어야 한다. 때로는 소음에 가까운 사운드가 리듬의 일부가 되거나, 왜곡이 곡의 진행을 밀어붙이는 역할을 맡는다.\n\n내면의 불안이나 불길한 심리를 다룬 가사가 나타날 수 있지만 필수 조건은 아니다. 가사 주제만으로 분류하지 않고 실제 사운드의 배치와 질감을 기준으로 삼는다. 강한 비트나 거친 믹싱 하나만 있는 경우와 장르적 결합이 지속되는 경우를 구분해야 한다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "Industrial hip-hop은 힙합의 랩과 리듬에 인더스트리얼 음악의 거칠고 기계적인 음향을 결합한 장르 표현이다. 산업 소음을 연상시키는 질감이 특징이다."
+      ],
+      [
+        "상세 설명",
+        "인더스트리얼 힙합은 랩과 힙합 비트의 구성 위에 왜곡된 전자음, 거친 신시사이저, 금속성 타악처럼 산업적이고 기계적인 음향을 결합한다. 이 음색은 음악에 압박감이나 마찰감을 부여하며, 곡의 정서와 리듬을 함께 형성한다.\n\n[[장르]]를 가르는 기준은 단순히 어둡거나 공격적인 분위기가 아니다. 랩의 박자와 보컬이 음악의 중심에 있으면서 인더스트리얼 계열의 음향 질감이 반복적이고 구조적으로 결합되는지를 들어야 한다. 때로는 소음에 가까운 사운드가 리듬의 일부가 되거나, 왜곡이 곡의 진행을 밀어붙이는 역할을 맡는다.\n\n내면의 불안이나 불길한 심리를 다룬 가사가 나타날 수 있지만 필수 조건은 아니다. 가사 주제만으로 분류하지 않고 실제 사운드의 배치와 질감을 기준으로 삼는다. 강한 비트나 거친 믹싱 하나만 있는 경우와 장르적 결합이 지속되는 경우를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

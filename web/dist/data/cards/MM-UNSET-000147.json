@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F25",
   "description": {
-    "definition": "",
+    "definition": "참가자들이 정해진 대진·진행 규칙에 따라 여러 경기를 치러 우승자를 가리는 대회이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "여러 사람이 차례로 겨뤄 최종 우승자를 정하는 대회다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대진과 진행 규칙은 누가 다음 경기에 참여하고 어떤 결과로 우승자를 정하는지를 정한다. 이 카드에서는 대회 일반의 넓은 의미를 사용하므로, 한 번 지면 끝나는 탈락식만을 유일한 방식으로 보지는 않는다.\n\n탈락식과 조별 경기처럼 운영 방식이 다르면 한 경기의 패배가 갖는 의미도 달라진다. 연결된 경주 문맥은 한 번의 실패로 탈락하는 방식을 대비 대상으로 삼지만, 이를 모든 토너먼트의 필수 조건으로 확대해서는 안 된다.\n\n여러 경기의 [[누적 점수]]로 순위를 정하는 것은 성적을 모으는 별도 규칙이다. 또한 [[토너먼트 구조]]는 사건을 대진과 진출에 맞춰 배열하는 이야기 구성에 초점을 두므로, 실제 대회의 존재와 그 서사적 활용을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대진과 진행 규칙은 누가 다음 경기에 참여하고 어떤 결과로 우승자를 정하는지를 정한다. 이 카드에서는 대회 일반의 넓은 의미를 사용하므로, 한 번 지면 끝나는 탈락식만을 유일한 방식으로 보지는 않는다.\n\n탈락식과 조별 경기처럼 운영 방식이 다르면 한 경기의 패배가 갖는 의미도 달라진다. 연결된 경주 문맥은 한 번의 실패로 탈락하는 방식을 대비 대상으로 삼지만, 이를 모든 토너먼트의 필수 조건으로 확대해서는 안 된다.\n\n여러 경기의 [[누적 점수]]로 순위를 정하는 것은 성적을 모으는 별도 규칙이다. 또한 [[토너먼트 구조]]는 사건을 대진과 진출에 맞춰 배열하는 이야기 구성에 초점을 두므로, 실제 대회의 존재와 그 서사적 활용을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

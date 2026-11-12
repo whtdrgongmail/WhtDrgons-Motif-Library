@@ -4,8 +4,8 @@
   "title": "배움과 재미를 함께 담은 방송",
   "original": "Edutainment Show",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008319",
+  "primary_tag_id": "MEJE-KW-008319",
   "description": {
     "definition": "지식 전달과 볼거리를 한 프로그램 안에 결합한 교육·오락 방송 갈래. 교육과 오락을 결합하는 방식이 게임으로 옮겨 가면 [[배우며 즐기는 교육 게임]]이 된다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.408.001",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "broadcast_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "교육·오락 방송은 지식과 정보를 프로그램의 진행, 인물, 시연, 퀴즈 같은 볼거리와 결합한다. 진행자는 전문 용어를 생활 언어로 바꾸거나 실험과 현장 화면을 통해 추상적인 설명을 구체화할 수 있다. 오락 요소는 주의를 끌고 내용을 기억하게 하는 구조로 기능하며, 한 회 안에 질문과 설명, 확인이 이어질 수 있다. 어린이 프로그램뿐 아니라 과학, 역사, 생활 기술을 다루는 여러 포맷이 이 범주에 포함될 수 있다.\n\n재미있는 진행자가 나온다는 이유만으로 교육 방송은 아니다. 프로그램의 정보가 정확하고 이해 가능한 방식으로 구성되며, 시청자가 무엇을 배울 수 있는지가 형식과 연결되어야 한다. 반대로 강의처럼 보이지 않아도 퀴즈나 시연이 지식 전달을 조직한다면 해당할 수 있다. 시청자의 실제 조작과 시행착오가 학습의 중심인 게임과는 매체적 작동 방식이 다르며, 이 방송은 편집된 영상과 진행을 통해 지식에 접근시킨다. [[배우며 즐기는 교육 게임]]은 학습자가 직접 규칙을 수행한다는 점에서 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "교육·오락 방송은 지식과 정보를 프로그램의 진행, 인물, 시연, 퀴즈 같은 볼거리와 결합한다. 진행자는 전문 용어를 생활 언어로 바꾸거나 실험과 현장 화면을 통해 추상적인 설명을 구체화할 수 있다. 오락 요소는 주의를 끌고 내용을 기억하게 하는 구조로 기능하며, 한 회 안에 질문과 설명, 확인이 이어질 수 있다. 어린이 프로그램뿐 아니라 과학, 역사, 생활 기술을 다루는 여러 포맷이 이 범주에 포함될 수 있다.\n\n재미있는 진행자가 나온다는 이유만으로 교육 방송은 아니다. 프로그램의 정보가 정확하고 이해 가능한 방식으로 구성되며, 시청자가 무엇을 배울 수 있는지가 형식과 연결되어야 한다. 반대로 강의처럼 보이지 않아도 퀴즈나 시연이 지식 전달을 조직한다면 해당할 수 있다. 시청자의 실제 조작과 시행착오가 학습의 중심인 게임과는 매체적 작동 방식이 다르며, 이 방송은 편집된 영상과 진행을 통해 지식에 접근시킨다. [[배우며 즐기는 교육 게임]]은 학습자가 직접 규칙을 수행한다는 점에서 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

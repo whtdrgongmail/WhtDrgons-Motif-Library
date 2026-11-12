@@ -6,8 +6,8 @@
   "aliases": [
     "프랑켄슈타인의 후손인 괴짜 과학자"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00920",
+  "primary_tag_id": "ML-T00920",
   "description": {
     "definition": "프랑켄슈타인의 후손이라는 혈통으로 유명한 창조자의 이미지를 이어받는 과학자 인물이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "기존 카드처럼 같은 실험을 직접 이어 가야 한다는 조건은 현재 짧은 정의에 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,5 +32,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "과학자의 이름과 혈통이 유명한 창조자의 유산을 상기시킨다. 후손은 이전 연구를 계승하거나 그 평판에서 벗어나려는 목표를 가질 수 있다.\n\n가문에 대한 기대는 새로운 실험의 동기와 주변의 불신을 동시에 만든다. 조상의 실패를 반복하는지 바꾸는지가 세대 간 이야기의 연결점이 된다.\n\n단순히 프랑켄슈타인과 아는 사이라는 설정과는 다르다. 원문은 친족의 확장도 다루지만 정본은 후손 과학자에 한정하며 실제 혈통 정보와 허구의 계승을 혼동하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "과학자의 이름과 혈통이 유명한 창조자의 유산을 상기시킨다. 후손은 이전 연구를 계승하거나 그 평판에서 벗어나려는 목표를 가질 수 있다.\n\n가문에 대한 기대는 새로운 실험의 동기와 주변의 불신을 동시에 만든다. 조상의 실패를 반복하는지 바꾸는지가 세대 간 이야기의 연결점이 된다.\n\n단순히 프랑켄슈타인과 아는 사이라는 설정과는 다르다. 원문은 친족의 확장도 다루지만 정본은 후손 과학자에 한정하며 실제 혈통 정보와 허구의 계승을 혼동하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

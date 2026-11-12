@@ -4,8 +4,8 @@
   "title": "원주민 식인 전형을 이용한 착취 영화",
   "original": "Cannibal Film",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00248",
+  "primary_tag_id": "ML-T00248",
   "description": {
     "definition": "외부 탐험자가 낯선 지역에서 식인 집단을 만나는 형식의 공포 영화. 어두운 피부의 사람들을 야만적 위협으로 그리는 인종적 고정관념을 비판적으로 다뤄야 한다. 이 장르가 반복한 [[식인 부족이라는 식민지적 인물 틀]]의 묘사는 실제 문화에 대한 편견을 만들 수 있다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.105",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "원주민 식인 전형을 이용한 착취 영화는 낯선 지역을 찾은 외부인이 식인 집단을 만난다는 공포를 내세웁니다. 실제 원주민 문화를 야만성으로 몰아가는 시선이 담길 수 있어 비판적으로 읽어야 합니다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "외부인이 낯선 밀림에 들어가 식인 집단을 만나는 상황을 자극적으로 전시하는 착취 공포영화의 하위 유형이다. 탐험과 생존의 틀을 사용하면서 신체적 폭력과 충격의 장면을 감상의 주요 동력으로 배치한다.\n\n외부의 이른바 문명인과 현지 주민을 대립시키는 구조는 식민지적 편견을 반복하기 쉽다. 외부인의 폭력성을 함께 드러내는 작품도 있지만, 비판적인 대사가 있다는 사실만으로 현지인을 구경거리로 만드는 영상의 효과가 모두 사라지는 것은 아니다.\n\n식인이 잠깐 등장하는 모든 영화와 같은 분류는 아니다. 낯선 지역과 집단을 극단적인 잔혹함의 무대로 삼는 형식적 관습이 중요하다. 개별 작품을 분석할 때는 서사의 주장과 화면이 실제로 소비하게 하는 자극을 나누어 살펴볼 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "외부인이 낯선 밀림에 들어가 식인 집단을 만나는 상황을 자극적으로 전시하는 착취 공포영화의 하위 유형이다. 탐험과 생존의 틀을 사용하면서 신체적 폭력과 충격의 장면을 감상의 주요 동력으로 배치한다.\n\n외부의 이른바 문명인과 현지 주민을 대립시키는 구조는 식민지적 편견을 반복하기 쉽다. 외부인의 폭력성을 함께 드러내는 작품도 있지만, 비판적인 대사가 있다는 사실만으로 현지인을 구경거리로 만드는 영상의 효과가 모두 사라지는 것은 아니다.\n\n식인이 잠깐 등장하는 모든 영화와 같은 분류는 아니다. 낯선 지역과 집단을 극단적인 잔혹함의 무대로 삼는 형식적 관습이 중요하다. 개별 작품을 분석할 때는 서사의 주장과 화면이 실제로 소비하게 하는 자극을 나누어 살펴볼 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

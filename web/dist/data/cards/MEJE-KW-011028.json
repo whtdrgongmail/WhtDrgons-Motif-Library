@@ -4,8 +4,8 @@
   "title": "게임 규칙과 이야기의 불일치",
   "original": "Gameplay and Story Segregation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02169",
+  "primary_tag_id": "ML-T02169",
   "description": {
     "definition": "게임을 조작할 때 가능한 행동이나 능력이 대사와 영상 장면에서는 다르게 작동해 같은 세계의 규칙이 어긋나 보인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.012",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "조작 중에는 가능하던 행동이 대사와 영상에서는 불가능해지거나 같은 공격의 결과가 달라진다. 플레이어는 하나의 세계에 두 종류의 규칙이 적용되는 듯한 차이를 경험한다.\n\n게임의 반복을 재미있게 만들기 위해 전투를 길게 유지하면서 영상에서는 한 번의 공격을 치명적으로 그릴 수 있다. 편의와 극적 효과가 각각의 목적을 충족해도 연결 부분에서는 설정의 불일치가 두드러질 수 있다.\n\n[[플레이어]]가 선택하지 않은 행동이 영상에 나온다는 사실만으로 모순은 아니다. 실제 능력과 결과가 서로 충돌해야 하며, 기술적 제약과 의도적인 추상화, 설명되지 않은 오류를 같은 원인으로 단정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조작 중에는 가능하던 행동이 대사와 영상에서는 불가능해지거나 같은 공격의 결과가 달라진다. 플레이어는 하나의 세계에 두 종류의 규칙이 적용되는 듯한 차이를 경험한다.\n\n게임의 반복을 재미있게 만들기 위해 전투를 길게 유지하면서 영상에서는 한 번의 공격을 치명적으로 그릴 수 있다. 편의와 극적 효과가 각각의 목적을 충족해도 연결 부분에서는 설정의 불일치가 두드러질 수 있다.\n\n[[플레이어]]가 선택하지 않은 행동이 영상에 나온다는 사실만으로 모순은 아니다. 실제 능력과 결과가 서로 충돌해야 하며, 기술적 제약과 의도적인 추상화, 설명되지 않은 오류를 같은 원인으로 단정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

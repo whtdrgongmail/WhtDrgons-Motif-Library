@@ -5,8 +5,8 @@
   "original": "Naming a Vehicle Like a Pet",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "차나 배 같은 탈것에 애완동물처럼 개인적인 이름을 붙여 특정 개체로 대하는 명명 방식이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "모델명이나 제조사의 상품명과 구별한다. 이름이 여성형이어야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "차와 배 같은 탈것에 고유한 이름을 붙여 특정 개체로 대한다. 물건의 분류보다 소유자와의 개인적인 관계가 드러나는 명명이다.\n\n이름은 탈것에 대한 애착과 취향, 기억을 짧게 전달한다. 같은 모델의 여러 물건 가운데 이 개체를 다르게 느끼는 이유가 호칭에 반영된다.\n\n제조사가 정한 상품명과 모델명은 다르다. 개인적인 이름이 반드시 여성형이어야 하는 것도 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "차와 배 같은 탈것에 고유한 이름을 붙여 특정 개체로 대한다. 물건의 분류보다 소유자와의 개인적인 관계가 드러나는 명명이다.\n\n이름은 탈것에 대한 애착과 취향, 기억을 짧게 전달한다. 같은 모델의 여러 물건 가운데 이 개체를 다르게 느끼는 이유가 호칭에 반영된다.\n\n제조사가 정한 상품명과 모델명은 다르다. 개인적인 이름이 반드시 여성형이어야 하는 것도 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

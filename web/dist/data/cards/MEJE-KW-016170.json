@@ -4,8 +4,8 @@
   "title": "선택 우세를 고르게 둔 하렘",
   "original": "Balanced Harem",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MEJE-KW-026949",
+  "primary_tag_id": "MEJE-KW-026949",
   "description": {
     "definition": "여러 연애 후보가 중심인물의 선택을 놓고 뚜렷한 우세 없이 경쟁하도록 유지되는 관계 구조이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "여러 구애자가 등장해도 한 명의 승리가 확실하면 이 균형은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.002.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누가 최종 상대가 될지 계속 비슷한 가능성을 가진 채 남는다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 연애 후보의 관계가 특정 인물에게 확실하게 유리해지지 않도록 균형을 유지한다. 등장 인원수만 많은 것이 아니라 각 후보에게 배정되는 장면과 사건의 중요성이 비슷하여 선택의 전망이 한쪽으로 굳지 않는다.\n\n관계 진전이 생기더라도 다른 후보에게 비슷한 기회를 차례로 주거나 회차 말에 변화를 되돌려 균형을 유지할 수 있다. 모든 후보가 같은 비중일 필요는 없어 주요 후보군과 주변 후보군을 나눈 뒤 각 집단 안에서 비중을 맞추는 구성도 가능하다.\n\n전개 중의 균형과 결말의 선택은 별개다. 균형을 유지하다 마지막에 한 사람을 택할 수도 있으며, 모두와 관계를 맺는 결말이라고 해서 앞선 과정까지 균등했다고 볼 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 연애 후보의 관계가 특정 인물에게 확실하게 유리해지지 않도록 균형을 유지한다. 등장 인원수만 많은 것이 아니라 각 후보에게 배정되는 장면과 사건의 중요성이 비슷하여 선택의 전망이 한쪽으로 굳지 않는다.\n\n관계 진전이 생기더라도 다른 후보에게 비슷한 기회를 차례로 주거나 회차 말에 변화를 되돌려 균형을 유지할 수 있다. 모든 후보가 같은 비중일 필요는 없어 주요 후보군과 주변 후보군을 나눈 뒤 각 집단 안에서 비중을 맞추는 구성도 가능하다.\n\n전개 중의 균형과 결말의 선택은 별개다. 균형을 유지하다 마지막에 한 사람을 택할 수도 있으며, 모두와 관계를 맺는 결말이라고 해서 앞선 과정까지 균등했다고 볼 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

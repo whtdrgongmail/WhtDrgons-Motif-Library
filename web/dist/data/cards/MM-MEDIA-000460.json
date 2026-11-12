@@ -4,26 +4,28 @@
   "title": "I Kissed a Boy",
   "original": "I Kissed a Boy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00140",
+  "primary_tag_id": "ML-T00140",
   "description": {
     "definition": "이 카드는 노래 《I Kissed a Boy》를 가리킨다. 이 라이브러리에서는 [[남성 간 로맨스에 몰입한 여성 팬]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: I Kissed a Boy의 화자는 남자에게 키스해 여성 팬들의 관심을 끌려 하며, 남성 간 접촉을 그들이 좋아할 구경거리로 이용한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -41,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《I Kissed a Boy》라는 표제는 노래를 가리킨다.\n\n모티프 라이브러리에서는 [[남성 간 로맨스에 몰입한 여성 팬]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《I Kissed a Boy》라는 표제는 노래를 가리킨다.\n\n모티프 라이브러리에서는 [[남성 간 로맨스에 몰입한 여성 팬]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

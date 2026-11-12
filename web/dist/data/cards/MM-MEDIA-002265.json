@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "해피 트리 프렌즈",
   "original": "Happy Tree Friends",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Happy Tree Friends"
+  ],
+  "tag_id": "ML-T00100",
   "primary_tag_id": "ML-T00100",
   "description": {
     "definition": "《해피 트리 프렌즈》는 웹애니메이션 작품이다.",
-    "detail": "작품 사례: 《해피 트리 프렌즈》의 「I’ve Got You Under My Skin」에서 스니플스는 축소 잠수함을 이용해 럼피의 몸속 병원체를 공격하려 한다. 치료가 몸 안에서 벌어지는 모험과 전투로 표현된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.009.002",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-015876",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-015372",
       "row_version": 1
     },
@@ -51,5 +57,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "축소한 인물이 몸 안에서 활동하는 설정은 치료의 대상과 모험의 배경을 하나로 결합한다. 스니플스의 행동은 럼피의 신체 밖에서 하는 처치가 아니라 몸속 공간을 이동하며 위협에 직접 대응하는 사건으로 구성된다.\n\n보이지 않는 생리적 위험을 공간과 적으로 표현하는 장치다. 특정 회차의 상상적 설정을 실제 치료와 병원체 처리의 방법으로 받아들이지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "축소한 인물이 몸 안에서 활동하는 설정은 치료의 대상과 모험의 배경을 하나로 결합한다. 스니플스의 행동은 럼피의 신체 밖에서 하는 처치가 아니라 몸속 공간을 이동하며 위협에 직접 대응하는 사건으로 구성된다.\n\n보이지 않는 생리적 위험을 공간과 적으로 표현하는 장치다. 특정 회차의 상상적 설정을 실제 치료와 병원체 처리의 방법으로 받아들이지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

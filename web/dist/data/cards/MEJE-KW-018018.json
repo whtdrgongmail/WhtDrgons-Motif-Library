@@ -4,8 +4,8 @@
   "title": "물과 전기를 묶는 능력 조합",
   "original": "Hydro-Electro Combo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01516",
+  "primary_tag_id": "ML-T01516",
   "description": {
     "definition": "물과 전기의 연관성을 능력·생물·공격·약점의 결합 원리로 삼는 설정이다. 젖은 상태나 수중 환경이 전기 능력의 효과와 전술에 의미를 갖게 한다.",
     "detail": "한 인물의 이중 속성, 해양 생물의 전기 능력, 서로 다른 능력자의 협공, 전도를 이용한 공격, 속성 사이의 약점으로 변형된다.\n\n작품 사례: 《[[나루토]]》의 다루이는 물의 벽을 만든 뒤 번개를 흘려 상대를 공격하며, 물처럼 흐르는 전기 광선을 다루기도 한다.",
@@ -13,30 +13,47 @@
     "boundary": "물과 전기가 같은 장면에 있지만 상호작용하지 않는 경우와 다르다. 작품마다 정한 전기·물의 규칙을 실제 위험 대응법으로 옮기지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "물을 다루는 힘과 전기를 다루는 힘이 함께 등장해 공격을 돕거나 서로의 약점이 된다.\n\n작품 사례: 《[[나루토]]》의 다루이는 물의 벽을 만든 뒤 번개를 흘려 상대를 공격하며, 물처럼 흐르는 전기 광선을 다루기도 한다.",
+    "easy_ko": "물을 다루는 힘과 전기를 다루는 힘이 함께 등장해 공격을 돕거나 서로의 약점이 된다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001303",
+      "work_card_id": "MM-MEDIA-002184",
       "description_ko": "《나루토》의 다루이는 물의 벽을 만든 뒤 번개를 흘려 상대를 공격하며, 물처럼 흐르는 전기 광선을 다루기도 한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 인물이 두 속성을 갖거나 서로 다른 능력자가 협공할 수 있다. 전기 능력을 지닌 해양 생물이나 젖은 대상의 약점처럼 생물과 환경의 규칙으로 나타나는 경우도 있다.\n\n물과 전기가 단순히 같은 장면에 있는 것보다 서로의 효과를 바꾸는 상호작용이 중요하다. 전도와 공격 범위는 개별 작품의 규칙이며 실제 위험 대응법으로 옮길 수는 없다.\n\n《[[나루토(만화)]]》의 다루이는 물의 벽을 만든 뒤 번개를 흘려 상대를 공격하며, 물처럼 흐르는 전기 광선을 다루기도 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 인물이 두 속성을 갖거나 서로 다른 능력자가 협공할 수 있다. 전기 능력을 지닌 해양 생물이나 젖은 대상의 약점처럼 생물과 환경의 규칙으로 나타나는 경우도 있다.\n\n물과 전기가 단순히 같은 장면에 있는 것보다 서로의 효과를 바꾸는 상호작용이 중요하다. 전도와 공격 범위는 개별 작품의 규칙이며 실제 위험 대응법으로 옮길 수는 없다."
+      ],
+      [
+        "관련 작품",
+        "《[[나루토(만화)]]》의 다루이는 물의 벽을 만든 뒤 번개를 흘려 상대를 공격하며, 물처럼 흐르는 전기 광선을 다루기도 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

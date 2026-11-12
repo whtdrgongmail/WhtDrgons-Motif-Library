@@ -6,8 +6,8 @@
   "aliases": [
     "진지하게 받아들이지 않도록 하는 고백"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01972",
+  "primary_tag_id": "ML-T01972",
   "description": {
     "definition": "사실을 그대로 말하면서도 풍자나 농담처럼 들리는 태도를 써 상대가 거짓말로 받아들이게 하는 정보 은폐다.",
     "detail": "작품 사례: [[Have I Got News for You]]에서 지미 사빌이 여학교들이 자신을 두려워한다고 말하자, 관객은 실제 위험을 드러내는 말을 농담처럼 듣고 웃는다.",
@@ -15,10 +15,10 @@
     "boundary": "담담히 인정해도 상대가 행동할 수 없게 미리 막아 둔 전개와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "진실의 내용과 달리 비꼬거나 농담하는 말투 때문에 실제 고백이 믿을 수 없는 말로 받아들여지는 상황이다. 발화의 표면적인 신뢰 신호가 내용과 반대로 작용한다.\n\n상대가 사실을 알아도 행동하지 못하도록 미리 막은 구도와는 다르다. 여기서는 고백의 내용이 아니라 듣는 사람이 받아들이는 방식에 초점이 있다.\n\n[[Have I Got News for You]]에서 지미 사빌은 여학교들이 자신을 두려워한다고 말한다. 제공 자료는 관객이 이를 농담으로 듣고 웃는 장면을 위험한 진실의 희극적 수용 사례로 제시한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "진실의 내용과 달리 비꼬거나 농담하는 말투 때문에 실제 고백이 믿을 수 없는 말로 받아들여지는 상황이다. 발화의 표면적인 신뢰 신호가 내용과 반대로 작용한다.\n\n상대가 사실을 알아도 행동하지 못하도록 미리 막은 구도와는 다르다. 여기서는 고백의 내용이 아니라 듣는 사람이 받아들이는 방식에 초점이 있다."
+      ],
+      [
+        "관련 작품",
+        "[[Have I Got News for You]]에서 지미 사빌은 여학교들이 자신을 두려워한다고 말한다. 제공 자료는 관객이 이를 농담으로 듣고 웃는 장면을 위험한 진실의 희극적 수용 사례로 제시한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

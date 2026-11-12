@@ -4,8 +4,8 @@
   "title": "잔상이 될 만큼 팔다리 휘젓기",
   "original": "Human Hummingbird",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01921",
+  "primary_tag_id": "ML-T01921",
   "description": {
     "definition": "놀라거나 흥분한 인물이 팔다리를 너무 빨리 움직여 흐림이나 여러 잔상으로 보이게 하는 과장된 표현.",
     "detail": "제자리에서 버둥거리기, 달리는 다리만 흐려지기, 닿지 않는 상대를 향해 팔을 헛돌리기가 주요 변형이다.\n\n작품 사례: 《[[원피스]]》에서 브룩이 빠르게 달릴 때 다리가 여러 개처럼 보이는 잔상이 나타난다. 물 위를 달리는 속도를 과장된 팔다리 이미지로 전달한다.",
@@ -13,30 +13,51 @@
     "boundary": "전투의 연속 공격만을 뜻하지 않으며 희극적 감정과 동작의 과장이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.010.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "감정의 크기를 빠른 몸짓으로 보여 주며 허공에서 버둥대거나 달리는 다리의 반복으로 나타난다.\n\n작품 사례: 《[[원피스]]》에서 브룩이 빠르게 달릴 때 다리가 여러 개처럼 보이는 잔상이 나타난다. 물 위를 달리는 속도를 과장된 팔다리 이미지로 전달한다.",
+    "easy_ko": "감정의 크기를 빠른 몸짓으로 보여 주며 허공에서 버둥대거나 달리는 다리의 반복으로 나타난다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》에서 브룩이 빠르게 달릴 때 다리가 여러 개처럼 보이는 잔상이 나타난다. 물 위를 달리는 속도를 과장된 팔다리 이미지로 전달한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "팔다리를 빠르게 움직여 여러 개의 잔상과 흐림으로 표현한다. 감정과 속도가 실제 신체의 한계를 넘게 과장된다.\n\n빠른 팔다리를 여러 모양으로 겹치면 한 몸의 속도를 읽기 쉽게 과장할 수 있다. 실제로 팔다리가 늘어난 것이 아니라 감정과 운동의 강도가 이미지의 수를 바꾼다.\n\n공중에서 버둥거리거나 달리는 다리에도 적용된다. 전투의 연속 공격만을 뜻하는 표현은 아니다.\n\n《[[원피스]]》에서 브룩이 빠르게 달릴 때 다리가 여러 개처럼 보이는 잔상이 나타난다. 물 위를 달리는 속도를 과장된 팔다리 이미지로 전달한다.\n\n[[원피스]]",
+    "sections": [
+      [
+        "상세 설명",
+        "팔다리를 빠르게 움직여 여러 개의 잔상과 흐림으로 표현한다. 감정과 속도가 실제 신체의 한계를 넘게 과장된다.\n\n빠른 팔다리를 여러 모양으로 겹치면 한 몸의 속도를 읽기 쉽게 과장할 수 있다. 실제로 팔다리가 늘어난 것이 아니라 감정과 운동의 강도가 이미지의 수를 바꾼다.\n\n공중에서 버둥거리거나 달리는 다리에도 적용된다. 전투의 연속 공격만을 뜻하는 표현은 아니다."
+      ],
+      [
+        "사례",
+        "《[[원피스]]》에서 브룩이 빠르게 달릴 때 다리가 여러 개처럼 보이는 잔상이 나타난다. 물 위를 달리는 속도를 과장된 팔다리 이미지로 전달한다."
+      ],
+      [
+        "관련 작품",
+        "[[원피스]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

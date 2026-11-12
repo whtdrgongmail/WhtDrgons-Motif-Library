@@ -4,8 +4,8 @@
   "title": "부모를 미워하는 자녀",
   "original": "Hates Their Parent",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00971",
+  "primary_tag_id": "ML-T00971",
   "description": {
     "definition": "부모를 신뢰나 애정의 대상 대신 지속적인 반감과 원망의 대상으로 대하는 자녀의 관계이다.",
     "detail": "작품 사례: [[Neon Genesis Evangelion]]의 신지는 오랫동안 부재하고 냉담했던 아버지 겐도를 원망하면서도 그 인정을 바라, 반감과 애정의 욕구가 함께 존재한다.",
@@ -13,10 +13,10 @@
     "boundary": "부모의 실제 잘못과 자녀의 판단은 별도로 보며 미움 자체가 행동상의 대립을 뜻하지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "부모가 지속적인 원망의 대상이 되지만 애정에 대한 욕구가 함께 남을 수 있다. 관계의 감정은 미움 하나로 단순하게 정리되지 않는다.\n\n과거의 부재와 냉담함을 제시하면 반감의 배경이 설명된다. 부모의 실제 행동과 자녀가 그것을 어떻게 이해했는지는 나누어 확인할 수 있다.\n\n미워한다는 감정이 언제나 공개적인 대립으로 이어지는 것은 아니다. 겉으로 명령을 따라도 내면에 반감이 지속되는 관계가 가능하다.\n\n[[Neon Genesis Evangelion]]의 신지는 부재했던 겐도를 원망하면서도 아버지의 인정을 바란다.\n\n[[Neon Genesis Evangelion]]",
+    "sections": [
+      [
+        "상세 설명",
+        "부모가 지속적인 원망의 대상이 되지만 애정에 대한 욕구가 함께 남을 수 있다. 관계의 감정은 미움 하나로 단순하게 정리되지 않는다.\n\n과거의 부재와 냉담함을 제시하면 반감의 배경이 설명된다. 부모의 실제 행동과 자녀가 그것을 어떻게 이해했는지는 나누어 확인할 수 있다.\n\n미워한다는 감정이 언제나 공개적인 대립으로 이어지는 것은 아니다. 겉으로 명령을 따라도 내면에 반감이 지속되는 관계가 가능하다."
+      ],
+      [
+        "사례",
+        "[[Neon Genesis Evangelion]]의 신지는 부재했던 겐도를 원망하면서도 아버지의 인정을 바란다."
+      ],
+      [
+        "관련 작품",
+        "[[Neon Genesis Evangelion]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "계급에 못 미치는 무능한 지휘관",
   "original": "General Failure",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00933",
+  "primary_tag_id": "ML-T00933",
   "description": {
     "definition": "높은 군 지휘 계급을 지닌 인물이 그 지위에 걸맞은 작전 능력을 보여 주지 못하는 인물형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "악역 조직의 장군으로 한정하지 않는다. 한 번의 정당한 전술적 패배만으로 무능을 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.006.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "높은 지휘 계급에 비해 작전 판단과 실행 능력이 부족하게 묘사되는 인물이다. 공식적인 권한과 실제 역량의 차이가 부하에게 영향을 준다.\n\n잘못된 판단을 고집하거나 유능한 조언을 무시하면 불필요한 실패가 누적된다. 직위 때문에 명령이 유지되므로 개인의 실수가 조직의 손실로 확대되는 구조가 된다.\n\n한 번 패배한 지휘관을 모두 무능하다고 볼 수는 없다. 주어진 정보와 자원, 대안을 비교했을 때 지속적인 판단 부족이 드러나는지가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "높은 지휘 계급에 비해 작전 판단과 실행 능력이 부족하게 묘사되는 인물이다. 공식적인 권한과 실제 역량의 차이가 부하에게 영향을 준다.\n\n잘못된 판단을 고집하거나 유능한 조언을 무시하면 불필요한 실패가 누적된다. 직위 때문에 명령이 유지되므로 개인의 실수가 조직의 손실로 확대되는 구조가 된다.\n\n한 번 패배한 지휘관을 모두 무능하다고 볼 수는 없다. 주어진 정보와 자원, 대안을 비교했을 때 지속적인 판단 부족이 드러나는지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

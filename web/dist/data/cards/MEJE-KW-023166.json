@@ -5,8 +5,8 @@
   "original": "A Failed Lemonade Recipe",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00815",
+  "primary_tag_id": "ML-T00815",
   "description": {
     "definition": "음료를 만들어 본 경험이 부족한 판매자가 맛없는 제품을 팔아 장사에 곤란을 겪는 전개이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "일부러 고객을 속이는 판매와 달리 조리 경험 부족이 원인이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.010.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "음료를 만드는 경험이 부족한 사람이 맛없는 제품을 팔아 장사에 곤란을 겪는다. 판매의 실패가 고의보다 조리의 미숙함에서 나온다.\n\n맛에 대한 반응은 인물이 무엇을 익혀야 하는지 드러낸다. 개선이나 다른 사람과의 협력은 그 부족함에 대응하는 후속 행동이 될 수 있다.\n\n알면서도 고객을 속여 파는 경우와 구별한다. 실패의 원인이 경험 부족이라는 점이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "음료를 만드는 경험이 부족한 사람이 맛없는 제품을 팔아 장사에 곤란을 겪는다. 판매의 실패가 고의보다 조리의 미숙함에서 나온다.\n\n맛에 대한 반응은 인물이 무엇을 익혀야 하는지 드러낸다. 개선이나 다른 사람과의 협력은 그 부족함에 대응하는 후속 행동이 될 수 있다.\n\n알면서도 고객을 속여 파는 경우와 구별한다. 실패의 원인이 경험 부족이라는 점이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

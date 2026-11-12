@@ -4,8 +4,8 @@
   "title": "사랑 고백 직후 이어지는 성관계",
   "original": "Confession Triggers Consummation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02533",
+  "primary_tag_id": "ML-T02533",
   "description": {
     "definition": "처음 사랑을 고백한 인물들이 곧바로 성관계를 맺는 전개. 감정 확인과 신체적 관계의 전환을 한 장면에 붙인다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.010",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "처음으로 사랑을 고백한 두 인물이 곧바로 성적인 관계로 가까워지는 전개다. 말로 마음을 확인하는 순간과 신체적 친밀함이 빠르게 이어지며, 작품은 이를 관계의 전환으로 표현하지만 고백 자체가 이후의 모든 접촉에 동의한 뜻은 아니다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로의 사랑을 처음 명확히 고백한 직후 성관계로 이어지는 전개다. 정서적인 확인과 신체적인 친밀감이 같은 관계 변화의 순간으로 제시된다.\n\n오랫동안 유지된 망설임과 긴장이 해소되는 결말로 사용될 수 있다. 이후 두 사람이 공식적인 연인처럼 취급되면 행동이 관계의 새 단계를 표시한다.\n\n성관계 자체가 처음일 필요는 없다. 처음으로 감정을 인정했다는 점이 기준이며, 고백이 곧 행동의 의무나 동의를 의미하지는 않으므로 실제 장면에서는 각자의 선택을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로의 사랑을 처음 명확히 고백한 직후 성관계로 이어지는 전개다. 정서적인 확인과 신체적인 친밀감이 같은 관계 변화의 순간으로 제시된다.\n\n오랫동안 유지된 망설임과 긴장이 해소되는 결말로 사용될 수 있다. 이후 두 사람이 공식적인 연인처럼 취급되면 행동이 관계의 새 단계를 표시한다.\n\n성관계 자체가 처음일 필요는 없다. 처음으로 감정을 인정했다는 점이 기준이며, 고백이 곧 행동의 의무나 동의를 의미하지는 않으므로 실제 장면에서는 각자의 선택을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "마력이 집중되는 장소",
   "original": "Place of Power",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01285",
+  "primary_tag_id": "ML-T01285",
   "description": {
     "definition": "주변보다 많은 마법적 힘이 모여 의식이나 초상 현상의 작동을 돕는 장소이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "평소에는 불가능한 주문도 그 언덕에 올라가면 충분한 힘을 얻어 완성할 수 있다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "장소의 지형이나 축적된 사건이 힘의 근원이 되면, 공간 선택이 행동의 성패를 바꾼다. 의식을 치를 수 있는 곳이 제한되어 인물들이 같은 지점으로 모이거나, 힘이 커지는 시기를 기다리며 그곳을 지키는 전개를 만들 수 있다. 능력이 약한 인물도 주변의 힘을 빌릴 수 있으므로 개인의 실력과 현장의 조건을 나누어 보여 줄 수 있다.\n\n마력이 집중되어 있다는 것만으로 안전하거나 선한 장소가 되는 것은 아니다. [[악을 접근하지 못하게 하는 장소]]는 보호 기능에 초점을 두며, 강한 적이 많아 경험치를 쉽게 얻는 게임 구역은 보상의 분포를 다룬다. 존중받는 유적이라는 평판만 있는 경우와도 달리, 이 개념에서는 그곳의 초상적 힘이 세계 규칙이나 사건에 실제 차이를 만들어야 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "장소의 지형이나 축적된 사건이 힘의 근원이 되면, 공간 선택이 행동의 성패를 바꾼다. 의식을 치를 수 있는 곳이 제한되어 인물들이 같은 지점으로 모이거나, 힘이 커지는 시기를 기다리며 그곳을 지키는 전개를 만들 수 있다. 능력이 약한 인물도 주변의 힘을 빌릴 수 있으므로 개인의 실력과 현장의 조건을 나누어 보여 줄 수 있다.\n\n마력이 집중되어 있다는 것만으로 안전하거나 선한 장소가 되는 것은 아니다. [[악을 접근하지 못하게 하는 장소]]는 보호 기능에 초점을 두며, 강한 적이 많아 경험치를 쉽게 얻는 게임 구역은 보상의 분포를 다룬다. 존중받는 유적이라는 평판만 있는 경우와도 달리, 이 개념에서는 그곳의 초상적 힘이 세계 규칙이나 사건에 실제 차이를 만들어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

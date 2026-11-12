@@ -4,8 +4,8 @@
   "title": "배우자의 친족과 맺는 외도",
   "original": "A Family Affair",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "연인이나 배우자를 배신하는 상대가 그 사람의 친족이어서 연애의 배신과 가족 내부의 배신이 겹치는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "가족의 반대를 받는 합의된 연애나 친족이 단지 비밀을 알고 있는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 사람과의 비밀 관계가 배우자의 가족 안으로 이어진다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "연인이나 배우자가 그 사람의 친족과 외도하여 연애와 가족 관계의 배신이 겹치는 구성이다. 피해자는 파트너뿐 아니라 자신을 보호하리라 기대한 가족에게도 신뢰를 잃는다. 관계망이 겹쳐 있어 헤어진 뒤에도 갈등을 피하기 어렵다.\n\n[[형제자매]]의 배우자와의 관계가 대표적이지만 세대가 다른 친족도 포함될 수 있다. 기존 배우자보다 친족이 더 친절하거나 원래 사랑하던 상대였다는 설명으로 동정을 유도할 수 있다. 그렇더라도 가족 내부의 의무와 비밀 유지가 추가적인 문제로 남는다.\n\n기존 관계가 끝난 뒤 배우자의 친족과 새로 사귀는 경우와는 다르다. 외도가 진행되는 동안 배신이 성립해야 한다. 또한 친족이 아닌 배우자의 친척과 관계를 맺는다는 이유만으로 근친 관계라고 단정할 수 없으며, 실제 혈연과 혼인 관계를 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "연인이나 배우자가 그 사람의 친족과 외도하여 연애와 가족 관계의 배신이 겹치는 구성이다. 피해자는 파트너뿐 아니라 자신을 보호하리라 기대한 가족에게도 신뢰를 잃는다. 관계망이 겹쳐 있어 헤어진 뒤에도 갈등을 피하기 어렵다.\n\n[[형제자매]]의 배우자와의 관계가 대표적이지만 세대가 다른 친족도 포함될 수 있다. 기존 배우자보다 친족이 더 친절하거나 원래 사랑하던 상대였다는 설명으로 동정을 유도할 수 있다. 그렇더라도 가족 내부의 의무와 비밀 유지가 추가적인 문제로 남는다.\n\n기존 관계가 끝난 뒤 배우자의 친족과 새로 사귀는 경우와는 다르다. 외도가 진행되는 동안 배신이 성립해야 한다. 또한 친족이 아닌 배우자의 친척과 관계를 맺는다는 이유만으로 근친 관계라고 단정할 수 없으며, 실제 혈연과 혼인 관계를 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

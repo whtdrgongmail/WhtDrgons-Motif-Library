@@ -4,8 +4,8 @@
   "title": "일을 피하며 동거인에게 얹혀사는 여성",
   "original": "Pretty Freeloaders",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00992",
+  "primary_tag_id": "ML-T00992",
   "description": {
     "definition": "여성 인물이 함께 사는 남성에게 생활을 의존하면서 스스로 일을 하려 하지 않는 관계 설정이다.",
     "detail": "동거와 경제적 의존에 자발적 노력 회피가 겹친 관계를 다룬다.",
@@ -13,14 +13,20 @@
     "boundary": "수입 없는 가사노동이나 서로 합의한 부양 관계를 나태함으로 간주하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.003.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께 살지만 생계 책임은 상대에게만 맡긴다.",
     "review_status": "reviewed",
@@ -30,5 +36,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "Pretty freeloaders는 매력적이거나 예쁘다는 pretty와 남에게 얹혀사는 사람을 뜻하는 freeloader의 결합이다.\n\n이 관계 설정에서는 여성 인물이 함께 사는 남성에게 생활을 의존하면서 스스로 일하거나 책임을 맡으려 하지 않는다. 경제적 부양과 자발적 노력 회피가 한 관계 안에 겹친다.\n\n동거인 중 한 사람이 생계와 가사 부담을 더 많이 지면 관계의 공정성이 문제가 된다. 상대가 의존을 받아들이는 이유와 그 비용을 감당하는 방식에 따라 합의된 생활인지 이용인지 달라진다.\n\n작품은 이 구도를 희극적인 무책임함으로 처리할 수도 있고, 성별 고정관념을 반복할 수도 있다. 수입이 없는 인물이 가사와 돌봄을 맡기도 하므로, 눈에 띄는 임금 소득만으로 기여를 판단할 수 없다.\n\n가사노동을 담당하거나 합의된 부양 관계를 유지하는 것만으로 나태함을 뜻하지 않는다. 생계와 집안일을 상대에게 넘기면서 자발적으로 책임을 피하는 설정이어야 한다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "Pretty freeloaders는 매력적이거나 예쁘다는 pretty와 남에게 얹혀사는 사람을 뜻하는 freeloader의 결합이다."
+      ],
+      [
+        "상세 설명",
+        "이 관계 설정에서는 여성 인물이 함께 사는 남성에게 생활을 의존하면서 스스로 일하거나 책임을 맡으려 하지 않는다. 경제적 부양과 자발적 노력 회피가 한 관계 안에 겹친다.\n\n동거인 중 한 사람이 생계와 가사 부담을 더 많이 지면 관계의 공정성이 문제가 된다. 상대가 의존을 받아들이는 이유와 그 비용을 감당하는 방식에 따라 합의된 생활인지 이용인지 달라진다.\n\n작품은 이 구도를 희극적인 무책임함으로 처리할 수도 있고, 성별 고정관념을 반복할 수도 있다. 수입이 없는 인물이 가사와 돌봄을 맡기도 하므로, 눈에 띄는 임금 소득만으로 기여를 판단할 수 없다.\n\n가사노동을 담당하거나 합의된 부양 관계를 유지하는 것만으로 나태함을 뜻하지 않는다. 생계와 집안일을 상대에게 넘기면서 자발적으로 책임을 피하는 설정이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

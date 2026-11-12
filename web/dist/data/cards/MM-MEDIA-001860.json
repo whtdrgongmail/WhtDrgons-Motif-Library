@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "레 미제라블",
   "original": "Les Misérables",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Les Misérables"
+  ],
+  "tag_id": "ML-T00066",
   "primary_tag_id": "ML-T00066",
   "description": {
     "definition": "《레 미제라블》은 문학 작품이다.",
-    "detail": "작품 사례: 《레 미제라블》의 자베르는 장발장이 사회에 여러 차례 보답한 뒤에도 탈옥수라는 이유로 끈질기게 추적한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.007",
     "review_status": "provisional",
@@ -39,9 +41,26 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-015533",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-020274",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《레 미제라블》은 19세기 프랑스를 배경으로 장 발장의 삶과 여러 인물의 이야기를 엮은 빅토르 위고의 소설이다. 형벌을 받은 과거를 지닌 인물이 새 삶을 시도하지만 법과 사회의 판단이 계속 뒤따른다.\n\n개인의 구원과 돌봄이 빈곤과 혁명, 제도의 문제와 연결되어 긴 서사를 이룬다. 이후 영화와 뮤지컬이 중심 인물과 사건을 선택해 각색했으므로, 그 노래나 생략된 구성을 원작 소설 자체의 형식으로 볼 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《레 미제라블》은 19세기 프랑스를 배경으로 장 발장의 삶과 여러 인물의 이야기를 엮은 빅토르 위고의 소설이다. 형벌을 받은 과거를 지닌 인물이 새 삶을 시도하지만 법과 사회의 판단이 계속 뒤따른다.\n\n개인의 구원과 돌봄이 빈곤과 혁명, 제도의 문제와 연결되어 긴 서사를 이룬다. 이후 영화와 뮤지컬이 중심 인물과 사건을 선택해 각색했으므로, 그 노래나 생략된 구성을 원작 소설 자체의 형식으로 볼 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

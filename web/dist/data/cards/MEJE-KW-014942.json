@@ -4,8 +4,8 @@
   "title": "수상한 물건을 강매하는 장사꾼",
   "original": "Honest John's Dealership",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00923",
+  "primary_tag_id": "ML-T00923",
   "description": {
     "definition": "출처·품질·가격·계약 조건이 의심스러운 상품을 과장된 신뢰와 압박으로 팔아 빠른 이익을 얻으려는 판매자 유형이다.",
     "detail": "작품 사례: [[Super Daryl Deluxe]]의 교과서 상점은 학교에서 훔친 책을 팔며, 직원에게 범죄까지 요구하고 대가로 가치 없다고 여기는 책장을 준다.",
@@ -13,10 +13,10 @@
     "boundary": "불법 경로라도 품질을 보장하는 암시장 중개자나 비싼 상품을 정직하게 파는 상인과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "물건의 문제와 불리한 거래 조건을 가린 채 판매와 요구를 밀어붙이는 상인 유형이다. 수상한 유통과 기만이 거래 관계를 구성한다.\n\n불법 경로라도 품질을 정직하게 보장하는 중개자와는 다르다. 단순히 비싼 상품을 파는 상인보다 문제를 숨기고 압박하는 태도가 중요하다.\n\n[[Super Daryl Deluxe]]의 교과서 상점은 훔친 책을 팔고 직원에게 범죄를 요구한다. 대가로는 가치 없다고 여기는 책장을 주어 판매와 고용 모두에 불리한 조건을 부여한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "물건의 문제와 불리한 거래 조건을 가린 채 판매와 요구를 밀어붙이는 상인 유형이다. 수상한 유통과 기만이 거래 관계를 구성한다.\n\n불법 경로라도 품질을 정직하게 보장하는 중개자와는 다르다. 단순히 비싼 상품을 파는 상인보다 문제를 숨기고 압박하는 태도가 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Super Daryl Deluxe]]의 교과서 상점은 훔친 책을 팔고 직원에게 범죄를 요구한다. 대가로는 가치 없다고 여기는 책장을 주어 판매와 고용 모두에 불리한 조건을 부여한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

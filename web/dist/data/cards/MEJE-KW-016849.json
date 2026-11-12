@@ -4,28 +4,28 @@
   "title": "회차 제목에 반복되는 명명 규칙",
   "original": "Idiosyncratic Episode Naming",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "연속 작품의 회차나 후속편 제목을 일정한 문장 형식·소재·어휘 규칙에 맞춰 짓는 방식이다. 반복되는 제목이 작품의 개성을 드러낸다.",
     "detail": "방송 화면에 제목이 표시되지 않아도 공식 회차명에 규칙이 있을 수 있다. 번역이나 초기 시험편에서 규칙이 달라질 수 있다.\n\n작품 사례: 《[[매트릭스 2 리로디드]]》를 비롯한 매트릭스 후속 영화는 원제의 부제를 Re로 시작시켜 시리즈의 명명 규칙을 이어 간다.",
-    "usage": "여러 회차 제목의 공통 형식을 확인하되 내용과의 연결도 따로 살핀다.",
+    "usage": "여러 회차 제목의 공통 형식을 확인하되 내용과의 연결도 따로 확인한다.",
     "boundary": "서로 관련된 몇 회차만 제목을 주고받는 구성이나 모든 제목이 우연히 짧은 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "매회 제목을 지을 때 같은 틀을 따른다.\n\n작품 사례: 《[[매트릭스 2 리로디드]]》를 비롯한 매트릭스 후속 영화는 원제의 부제를 Re로 시작시켜 시리즈의 명명 규칙을 이어 간다.",
+    "easy_ko": "매회 제목을 지을 때 같은 틀을 따른다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "회차나 후속편마다 같은 문장 형식과 어휘, 소재를 사용한다. 화면에 회차 제목이 표시되지 않더라도 공식 제목 목록에서는 규칙을 확인할 수 있다.\n\n초기 시험편은 규칙의 예외일 수 있고 번역 과정에서 패턴이 사라지기도 한다. 서로 관련된 몇 회차끼리만 제목을 대응시키는 구성이나 우연히 길이가 비슷한 제목들과는 반복의 범위가 다르다.\n\n《[[매트릭스 2 리로디드]]》를 비롯한 매트릭스 후속 영화는 원제의 부제를 Re로 시작시켜 시리즈의 명명 규칙을 이어 간다.",
+    "sections": [
+      [
+        "상세 설명",
+        "회차나 후속편마다 같은 문장 형식과 어휘, 소재를 사용한다. 화면에 회차 제목이 표시되지 않더라도 공식 제목 목록에서는 규칙을 확인할 수 있다.\n\n초기 시험편은 규칙의 예외일 수 있고 번역 과정에서 패턴이 사라지기도 한다. 서로 관련된 몇 회차끼리만 제목을 대응시키는 구성이나 우연히 길이가 비슷한 제목들과는 반복의 범위가 다르다."
+      ],
+      [
+        "관련 작품",
+        "《[[매트릭스 2 리로디드]]》를 비롯한 매트릭스 후속 영화는 원제의 부제를 Re로 시작시켜 시리즈의 명명 규칙을 이어 간다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

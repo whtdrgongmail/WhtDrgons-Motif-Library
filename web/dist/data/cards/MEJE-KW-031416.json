@@ -4,8 +4,8 @@
   "title": "형편없는 랩 공연으로 만드는 웃음",
   "original": "Piss-Take Rap",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02053",
+  "primary_tag_id": "ML-T02053",
   "description": {
     "definition": "인물의 어설픈 랩과 그에 대한 반응을 통해 공연자의 자신감과 실제 평가 사이의 간격을 웃음으로 만든다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "본인은 멋진 래퍼처럼 행동하지만 듣는 사람은 민망해한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "박자가 어긋나거나 운율이 억지스럽고, 유행어와 자기 과시가 지나치면 랩의 자신감이 오히려 웃음의 재료가 된다. 공연을 준비한 인물은 분위기를 띄우려 하지만 듣는 쪽은 피하거나 침묵한다. 이 반응의 차이가 크면 실력 부족 이상의 사회적 어색함이 생긴다.\n\n공연이 실제로 서툰 경우와 주변 인물이 편견 때문에 자격이 없다고 여기는 경우는 구분해야 한다. 나이나 출신만으로 랩 실력을 판단하는 관객의 태도 자체를 풍자할 수도 있다. 단순히 취향에 맞지 않는 음악이 아니라 작품이 실패한 공연 또는 실패했다고 받아들여지는 공연을 어떻게 구성하는지가 판단 기준이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "박자가 어긋나거나 운율이 억지스럽고, 유행어와 자기 과시가 지나치면 랩의 자신감이 오히려 웃음의 재료가 된다. 공연을 준비한 인물은 분위기를 띄우려 하지만 듣는 쪽은 피하거나 침묵한다. 이 반응의 차이가 크면 실력 부족 이상의 사회적 어색함이 생긴다.\n\n공연이 실제로 서툰 경우와 주변 인물이 편견 때문에 자격이 없다고 여기는 경우는 구분해야 한다. 나이나 출신만으로 랩 실력을 판단하는 관객의 태도 자체를 풍자할 수도 있다. 단순히 취향에 맞지 않는 음악이 아니라 작품이 실패한 공연 또는 실패했다고 받아들여지는 공연을 어떻게 구성하는지가 판단 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

@@ -4,8 +4,8 @@
   "title": "글자 모양을 닮은 건축물",
   "original": "Alphabet Architecture",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01839",
+  "primary_tag_id": "ML-T01839",
   "description": {
     "definition": "건물의 전체 형태를 집단의 이름이나 머리글자처럼 꾸며 높은 곳에서 읽히게 하는 공간 연출. 거대한 표지판이자 소속을 드러내는 배경이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "건축물의 윤곽을 글자로 만들면 도시의 일부가 거대한 소속 표지가 된다. 높은 시점이나 원경에서 모양을 공개하는 장면은 공간 소개와 조직의 이름을 한 이미지에 결합한다.\n\n문자형 건축은 우연히 글자처럼 보이는 구조와 다르다. 이름이나 머리글자를 의도적으로 드러낸다는 관계가 필요하다. 실제 이용의 편의보다 식별성을 우선하는 형태라면 세계의 과장된 양식과 조직의 자기 과시를 함께 표현할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "건축물의 윤곽을 글자로 만들면 도시의 일부가 거대한 소속 표지가 된다. 높은 시점이나 원경에서 모양을 공개하는 장면은 공간 소개와 조직의 이름을 한 이미지에 결합한다.\n\n문자형 건축은 우연히 글자처럼 보이는 구조와 다르다. 이름이나 머리글자를 의도적으로 드러낸다는 관계가 필요하다. 실제 이용의 편의보다 식별성을 우선하는 형태라면 세계의 과장된 양식과 조직의 자기 과시를 함께 표현할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "간단히 접속해 성장 경쟁을 벌이는 io 게임",
   "original": ".io Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02088",
+  "primary_tag_id": "ML-T02088",
   "description": {
     "definition": "짧은 진입 절차와 단순한 조작으로 다른 이용자와 즉시 경쟁하며, 플레이 중 성장과 탈락에 따른 초기화를 반복하는 온라인 게임 유형이다.",
     "detail": "브라우저 실행, 읽기 쉬운 규칙, 대인 경쟁, 외형적 크기로 보이는 성장, 이야기보다 플레이에 대한 집중이 자주 결합한다. 모든 특징이 필수는 아니며 주소의 .io 표기만으로 분류하지 않는다.\n\n작품 사례: 《[[Agar.io]]》에서 플레이어는 작은 세포를 움직여 먹이와 자신보다 작은 세포를 먹고 커지며 다른 플레이어와 경쟁한다.",
@@ -13,19 +13,19 @@
     "boundary": "모든 브라우저 게임이나 모든 대규모 온라인 게임을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "계정 준비 없이 들어가 작은 캐릭터를 키우고 다른 플레이어와 겨루다가 탈락하면 다시 시작한다.\n\n작품 사례: 《[[Agar.io]]》에서 플레이어는 작은 세포를 움직여 먹이와 자신보다 작은 세포를 먹고 커지며 다른 플레이어와 경쟁한다.",
+    "easy_ko": "계정 준비 없이 들어가 작은 캐릭터를 키우고 다른 플레이어와 겨루다가 탈락하면 다시 시작한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "브라우저 실행, 읽기 쉬운 규칙, 대인 경쟁, 외형적 크기로 보이는 성장, 이야기보다 플레이에 대한 집중이 자주 결합한다. 모든 특징이 필수는 아니며 주소의 .io 표기만으로 분류하지 않는다.\n\n모든 브라우저 게임이나 모든 대규모 온라인 게임을 뜻하지 않는다.\n\n《[[Agar.io]]》에서 플레이어는 작은 세포를 움직여 먹이와 자신보다 작은 세포를 먹고 커지며 다른 플레이어와 경쟁한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "브라우저 실행, 읽기 쉬운 규칙, 대인 경쟁, 외형적 크기로 보이는 성장, 이야기보다 플레이에 대한 집중이 자주 결합한다. 모든 특징이 필수는 아니며 주소의 .io 표기만으로 분류하지 않는다.\n\n모든 브라우저 게임이나 모든 대규모 온라인 게임을 뜻하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[Agar.io]]》에서 플레이어는 작은 세포를 움직여 먹이와 자신보다 작은 세포를 먹고 커지며 다른 플레이어와 경쟁한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

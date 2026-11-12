@@ -4,8 +4,8 @@
   "title": "고급 문화를 즐기는 악역",
   "original": "Wicked Cultured",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "악역이 예술·취향·생활의 세련된 즐거움을 알아보고 즐기는 모습을 보인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "교양이 있다는 사실이 인격이나 행위의 도덕성을 보장하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역에게 예술과 생활의 세련된 취향을 부여하는 인물 구성이다. 잔혹한 행위와 섬세한 감상의 병치가 인상의 복잡함을 만든다.\n\n교양은 권력과 여유를 보여 주거나 악행이 무지에서만 발생하지 않는다는 점을 강조할 수 있다. 우아한 태도와 폭력의 대비가 위협감을 키우기도 한다. 문화적 취향을 섬세하게 묘사하면서도 폭력은 그대로 두면, 세련된 생활과 타인에게 가하는 해가 한 인물 안에 공존한다.\n\n취향의 세련됨은 도덕성의 증거가 아니다. 특정 문화나 예술의 향유자 전체를 악역의 성격과 연결해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악역에게 예술과 생활의 세련된 취향을 부여하는 인물 구성이다. 잔혹한 행위와 섬세한 감상의 병치가 인상의 복잡함을 만든다.\n\n교양은 권력과 여유를 보여 주거나 악행이 무지에서만 발생하지 않는다는 점을 강조할 수 있다. 우아한 태도와 폭력의 대비가 위협감을 키우기도 한다. 문화적 취향을 섬세하게 묘사하면서도 폭력은 그대로 두면, 세련된 생활과 타인에게 가하는 해가 한 인물 안에 공존한다.\n\n취향의 세련됨은 도덕성의 증거가 아니다. 특정 문화나 예술의 향유자 전체를 악역의 성격과 연결해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

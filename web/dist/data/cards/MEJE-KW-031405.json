@@ -4,8 +4,8 @@
   "title": "뾰족한 물체로 몸이나 옷을 고정하기",
   "original": "Pinned to the Wall",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00781",
+  "primary_tag_id": "ML-T00781",
   "description": {
     "definition": "날카로운 물체가 인물의 몸이나 옷과 벽·바닥 같은 표면을 함께 붙잡아 움직임을 제한하는 연출이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "옷자락이 벽에 고정되어 인물이 그 자리에서 빠져나가지 못한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "이 장면의 핵심은 공격이 끝난 뒤에도 물체가 표면과 인물을 연결한다는 점이다. 몸을 다치게 하는 위협적인 방식과 옷만 붙잡아 비살상적으로 멈추게 하는 방식은 결과가 크게 다르다. 후자는 뛰어난 정확성을 과시하거나 추락하는 인물을 뜻밖에 붙잡는 연출에도 쓰인다.\n\n고정된 인물은 옷을 버리거나 도움을 기다려야 하는 새로운 제약을 얻는다. 따라서 짧은 공격이 대화, 탈출, 구조의 시간을 만드는 장치로 이어질 수 있다. [[몸으로 눌러 바닥에 제압하기]]처럼 누르는 사람의 지속적인 접촉으로 묶이는 방식과는 다르다. 벽이 가장 알아보기 쉬운 배경이지만 바닥이나 천장에서도 같은 구조가 성립한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "이 장면의 핵심은 공격이 끝난 뒤에도 물체가 표면과 인물을 연결한다는 점이다. 몸을 다치게 하는 위협적인 방식과 옷만 붙잡아 비살상적으로 멈추게 하는 방식은 결과가 크게 다르다. 후자는 뛰어난 정확성을 과시하거나 추락하는 인물을 뜻밖에 붙잡는 연출에도 쓰인다.\n\n고정된 인물은 옷을 버리거나 도움을 기다려야 하는 새로운 제약을 얻는다. 따라서 짧은 공격이 대화, 탈출, 구조의 시간을 만드는 장치로 이어질 수 있다. [[몸으로 눌러 바닥에 제압하기]]처럼 누르는 사람의 지속적인 접촉으로 묶이는 방식과는 다르다. 벽이 가장 알아보기 쉬운 배경이지만 바닥이나 천장에서도 같은 구조가 성립한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

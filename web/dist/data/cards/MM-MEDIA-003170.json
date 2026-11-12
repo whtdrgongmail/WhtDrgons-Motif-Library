@@ -4,17 +4,17 @@
   "title": "배틀스타 갤럭티카",
   "original": "Battlestar Galactica",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
-    "definition": "《배틀스타 갤럭티카》는 텔레비전 작품이다.",
-    "detail": "작품 사례: 《배틀스타 갤럭티카》에서 아폴로는 콜로니얼 원을 향하는 미사일을 다른 방향으로 유인해 대통령을 구하고, 이후 스타벅도 아폴로를 위해 같은 행동을 한다.",
+    "definition": "《배틀스타 갤럭티카》는 1978년 텔레비전 시리즈에서 출발해 2003년 재구성판 등으로 확장된 SF 작품군이다. 이 항목은 프랜차이즈 전체를 가리키며 특정 연도의 시리즈 한 편과 구별한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《배틀스타 갤럭티카》에서 아폴로는 콜로니얼 원을 향하는 미사일을 다른 방향으로 유인해 대통령을 구하고, 이후 스타벅도 아폴로를 위해 같은 행동을 한다.",
+    "easy_ko": "1978년 원작과 2003년 재구성판 등으로 이어지는 《배틀스타 갤럭티카》 작품군이다. 개별 시리즈를 찾을 때는 제작 연도를 구분한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-11",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,5 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000326",
+      "card_id": "MM-MEDIA-003170",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.syfy.com/syfy-wire/11-essential-battlestar-galactica-episodes",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "《배틀스타 갤럭티카》는 1978년 텔레비전 작품에서 시작해 후속 시리즈와 재구성판으로 확장된 [[SF]] [[프랜차이즈]]다. 이 이름은 작품군 전체와 특정 연도의 개별 시리즈에 모두 쓰이므로 판본 구별이 필요하다.\n\n초기 작품은 사일런의 기습으로 열두 식민지가 파괴된 뒤, 살아남은 사람들이 전함 갤럭티카와 함께 지구를 찾아 이동하는 설정을 제시했다. 집단의 생존과 추격이 작품군을 이어 주는 기본 구도다.\n\n2003년 시작된 재구성판은 이 기본 구도를 새로운 인물 관계와 정치적 갈등으로 다시 다뤘다. 1978년판과 2003년판을 하나의 사건 연속성으로 합치지 않으며, 구체적인 장면 사례는 해당 판본의 카드에 연결한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《배틀스타 갤럭티카》는 1978년 텔레비전 작품에서 시작해 후속 시리즈와 재구성판으로 확장된 [[SF]] [[프랜차이즈]]다. 이 이름은 작품군 전체와 특정 연도의 개별 시리즈에 모두 쓰이므로 판본 구별이 필요하다.\n\n초기 작품은 사일런의 기습으로 열두 식민지가 파괴된 뒤, 살아남은 사람들이 전함 갤럭티카와 함께 지구를 찾아 이동하는 설정을 제시했다. 집단의 생존과 추격이 작품군을 이어 주는 기본 구도다.\n\n2003년 시작된 재구성판은 이 기본 구도를 새로운 인물 관계와 정치적 갈등으로 다시 다뤘다. 1978년판과 2003년판을 하나의 사건 연속성으로 합치지 않으며, 구체적인 장면 사례는 해당 판본의 카드에 연결한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

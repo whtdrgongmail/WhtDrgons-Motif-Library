@@ -4,8 +4,8 @@
   "title": "좋은 평판을 얻은 악역",
   "original": "Villain with Good Publicity",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "실제로는 남에게 해를 끼치는 인물이 대중에게 호감과 신뢰를 얻는 구도다. 공적인 명성이 악행의 발견이나 대응을 어렵게 할 수 있다.",
     "detail": "작품 사례: [[Mobile Suit Gundam SEED Destiny]]의 신은 선한 일을 하려 하지만, 좋은 평판을 가진 상사의 속내를 알아보지 못해 악역의 계획에 힘을 보태게 된다.",
@@ -13,10 +13,10 @@
     "boundary": "소수 부하만 충성하는 악역이나 악행 때문에 인기를 얻는 경우와 구분하여 평판의 내용을 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실제 목적과 행위가 악해도 사회적 이미지는 긍정적으로 유지되는 악역이다. 평판은 선의를 가진 인물을 협력자로 만들거나 계획을 의심하지 못하게 하는 자원이 될 수 있다.\n\n소수 부하만 충성하거나 악행 자체를 찬양하는 인기가 있는 경우와는 평판의 내용이 다르다. 좋은 사람으로 알려지는 이유와 실제 행동의 차이를 확인해야 한다.\n\n《[[Mobile Suit Gundam SEED Destiny]]》의 신은 좋은 일을 원하면서도 평판이 좋은 상사의 속내를 알아보지 못한다. 그 신뢰가 결과적으로 악역의 계획을 돕는 행동으로 이어진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실제 목적과 행위가 악해도 사회적 이미지는 긍정적으로 유지되는 악역이다. 평판은 선의를 가진 인물을 협력자로 만들거나 계획을 의심하지 못하게 하는 자원이 될 수 있다.\n\n소수 부하만 충성하거나 악행 자체를 찬양하는 인기가 있는 경우와는 평판의 내용이 다르다. 좋은 사람으로 알려지는 이유와 실제 행동의 차이를 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Mobile Suit Gundam SEED Destiny]]》의 신은 좋은 일을 원하면서도 평판이 좋은 상사의 속내를 알아보지 못한다. 그 신뢰가 결과적으로 악역의 계획을 돕는 행동으로 이어진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

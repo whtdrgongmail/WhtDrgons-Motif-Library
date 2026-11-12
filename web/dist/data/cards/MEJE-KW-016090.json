@@ -4,8 +4,8 @@
   "title": "어두운 곳을 관객에게는 밝게 보이기",
   "original": "Hollywood Darkness",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01863",
+  "primary_tag_id": "ML-T01863",
   "description": {
     "definition": "극중에서는 빛이 거의 없다고 설정된 공간을 관객이 행동을 볼 수 있을 정도로 밝게 촬영하거나 묘사하는 연출이다.",
     "detail": "작품 사례: [[Sleeping Beauty (1959)]]에서 요정들이 오로라를 찾는 비밀 통로는 지팡이 끝의 작은 불빛으로 설명되지 않을 만큼 밝게 보인다.",
@@ -13,10 +13,10 @@
     "boundary": "작품 안에 실제 광원이 있거나 야간시력 시점을 명시한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물에게는 어두운 장소가 관객에게는 행동을 읽을 만큼 밝게 표현된다. 이야기 속 조명 조건과 화면의 가시성을 분리하여, 어둠의 긴장감을 유지하면서도 사건을 보여 주는 타협이다.\n\n작중의 충분한 광원이나 야간시력 시점이 설명된 경우와는 다르다. 단순히 밝아 보인다는 인상보다 명시된 어둠과 실제 화면의 차이를 비교해야 한다.\n\n《[[Sleeping Beauty (1959)]]》의 비밀 통로는 요정 지팡이의 작은 빛으로 설명하기 어려울 만큼 잘 보인다. 장면의 가시성이 인물에게 주어진 광량보다 크게 표현된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물에게는 어두운 장소가 관객에게는 행동을 읽을 만큼 밝게 표현된다. 이야기 속 조명 조건과 화면의 가시성을 분리하여, 어둠의 긴장감을 유지하면서도 사건을 보여 주는 타협이다.\n\n작중의 충분한 광원이나 야간시력 시점이 설명된 경우와는 다르다. 단순히 밝아 보인다는 인상보다 명시된 어둠과 실제 화면의 차이를 비교해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Sleeping Beauty (1959)]]》의 비밀 통로는 요정 지팡이의 작은 빛으로 설명하기 어려울 만큼 잘 보인다. 장면의 가시성이 인물에게 주어진 광량보다 크게 표현된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

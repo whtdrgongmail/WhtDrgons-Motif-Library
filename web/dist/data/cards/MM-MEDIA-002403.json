@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "포켓몬 불가사의 던전: 마그나게이트와 무한대 미궁",
   "original": "Pokémon Mystery Dungeon: Gates to Infinity",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Pokémon Mystery Dungeon: Gates to Infinity"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《포켓몬 불가사의 던전: 마그나게이트와 무한대 미궁》은 비디오게임 작품이다.",
-    "detail": "작품 사례: 《포켓몬 불가사의 던전: 마그나게이트와 무한대 미궁》에서는 모집한 모든 포켓몬이 활동 파티의 경험치를 받으며, 실제 레벨 상승은 던전에 데려갔을 때 반영된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -41,7 +43,24 @@
     {
       "card_id": "MEJE-KW-023026",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-029773",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《[[포켓몬 불가사의 던전]]》 계열의 로그라이크 게임이다. 인간이 포켓몬으로 변한 주인공이 다른 포켓몬의 세계에 도착한다. 포켓몬이 된 주인공이 동료와 거점을 만들며 자신이 온 이유를 알아가는 던전 탐험 게임이다.\n\n동료와 함께 포켓몬 파라다이스를 만들며 자신이 불려 온 이유를 알아간다. 던전 탐험과 거점의 성장이 함께 진행된다. 무작위 탐험의 성과와 지속되는 거점의 변화가 서로 다른 시간 규모로 성장한다.\n\n인간 트레이너가 아닌 포켓몬의 시점에서 관계를 구성한다. 반복되는 탐험의 위험과 동료를 신뢰하는 이야기가 결합한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《[[포켓몬 불가사의 던전]]》 계열의 로그라이크 게임이다. 인간이 포켓몬으로 변한 주인공이 다른 포켓몬의 세계에 도착한다. 포켓몬이 된 주인공이 동료와 거점을 만들며 자신이 온 이유를 알아가는 던전 탐험 게임이다.\n\n동료와 함께 포켓몬 파라다이스를 만들며 자신이 불려 온 이유를 알아간다. 던전 탐험과 거점의 성장이 함께 진행된다. 무작위 탐험의 성과와 지속되는 거점의 변화가 서로 다른 시간 규모로 성장한다.\n\n인간 트레이너가 아닌 포켓몬의 시점에서 관계를 구성한다. 반복되는 탐험의 위험과 동료를 신뢰하는 이야기가 결합한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

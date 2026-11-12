@@ -4,19 +4,19 @@
   "title": "국적이 흐려지는 팝송 영어 발음",
   "original": "International Pop Song English",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "팝송을 부를 때 특정 지역의 일상 영어 억양 대신 널리 유통되는 노래의 발음을 따라 여러 억양 특징을 섞어 사용하는 가창 관습이다.",
-    "detail": "모음 처리, 음절 말의 자음과 r 발음, 운을 맞추는 소리의 조정 등이 함께 나타날 수 있다. 개별 발음 하나가 필수 조건은 아니며, 이 관습을 하나의 실제 지역 방언으로 취급하지 않는다.",
+    "detail": "",
     "usage": "영어 가창에서 출신 지역의 말투보다 [[장르]] 관습이 앞서는 표현을 설명할 때 쓴다.",
-    "boundary": "미국 영어 그 자체나 비영어권 가수만의 특징으로 단정하지 않는다. 특정 지역 억양을 의도적으로 유지하는 가창과 구별한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "모음 처리, 음절 말의 자음과 r 발음, 운을 맞추는 소리의 조정 등이 함께 나타날 수 있다. 개별 발음 하나가 필수 조건은 아니며, 이 관습을 하나의 실제 지역 방언으로 취급하지 않는다.\n\n영어 가창에서 출신 지역의 말투보다 [[장르]]의 발음 관습이 앞서는 경우다.\n\n미국 영어 그 자체나 비영어권 가수만의 특징으로 단정하지 않는다. 특정 지역 억양을 의도적으로 유지하는 가창과 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "모음 처리, 음절 말의 자음과 r 발음, 운을 맞추는 소리의 조정 등이 함께 나타날 수 있다. 개별 발음 하나가 필수 조건은 아니며, 이 관습을 하나의 실제 지역 방언으로 취급하지 않는다.\n\n영어 가창에서 출신 지역의 말투보다 [[장르]]의 발음 관습이 앞서는 경우다.\n\n미국 영어 그 자체나 비영어권 가수만의 특징으로 단정하지 않는다. 특정 지역 억양을 의도적으로 유지하는 가창과 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

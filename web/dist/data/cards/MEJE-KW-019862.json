@@ -5,8 +5,8 @@
   "original": "Detective Uses Investigation Secrets for Blackmail",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00918",
+  "primary_tag_id": "ML-T00918",
   "description": {
     "definition": "의뢰를 수행하다 알게 된 상대의 비밀을 본래 목적 밖의 사적 이익과 압박에 이용하는 비윤리적인 탐정형 인물이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "현실의 조사·협박 방법보다 역할과 도덕적 전환을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "탐정이 의뢰를 수행하며 얻은 비밀을 의뢰의 목적 밖에서 개인적인 이익을 위해 사용한다. 정보를 알아낼 권한과 그 정보를 이용할 정당성이 갈라지는 도덕적 전환이다.\n\n조사의 성과는 해결의 수단이면서 상대를 압박하는 자원이 된다. 의뢰인은 도움을 청한 관계에서 취약한 관계로 바뀔 수 있고, 탐정이 아는 것이 많을수록 신뢰의 붕괴도 커진다.\n\n의뢰에 필요한 협상과 비밀을 공개하는 공익적 판단은 별도의 맥락을 갖는다. 비밀을 알았다는 사실만으로 협박을 확정할 수는 없다. 사적 이익과 강압으로 돌렸다는 연결을 기준으로 설명하며 현실의 조사 방법을 안내하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "탐정이 의뢰를 수행하며 얻은 비밀을 의뢰의 목적 밖에서 개인적인 이익을 위해 사용한다. 정보를 알아낼 권한과 그 정보를 이용할 정당성이 갈라지는 도덕적 전환이다.\n\n조사의 성과는 해결의 수단이면서 상대를 압박하는 자원이 된다. 의뢰인은 도움을 청한 관계에서 취약한 관계로 바뀔 수 있고, 탐정이 아는 것이 많을수록 신뢰의 붕괴도 커진다.\n\n의뢰에 필요한 협상과 비밀을 공개하는 공익적 판단은 별도의 맥락을 갖는다. 비밀을 알았다는 사실만으로 협박을 확정할 수는 없다. 사적 이익과 강압으로 돌렸다는 연결을 기준으로 설명하며 현실의 조사 방법을 안내하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

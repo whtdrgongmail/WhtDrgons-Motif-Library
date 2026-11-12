@@ -4,8 +4,8 @@
   "title": "적 로봇의 제어권 탈취",
   "original": "Hack Your Enemy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01535",
+  "primary_tag_id": "ML-T01535",
   "description": {
     "definition": "적의 기계 병력을 전산적으로 무력화하거나 재설정하여 아군으로 전환하는 [[능력]]·[[행동]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "생물의 [[정신 지배]]와 구분하며 자발적인 전향도 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "17",
+    "code": "17.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "적이 운용하는 로봇의 제어 체계에 개입하여 전투를 멈추거나 명령의 대상을 바꾼다. 로봇을 파괴하지 않고 꺼 버리는 방식과 자신을 지휘자로 인식시켜 아군으로 사용하는 방식은 같은 제어권 개입에서 나오는 서로 다른 결과다.\n\n적군 장비가 아군으로 전환되면 전력이 늘어날 뿐 아니라 원래의 소속을 이용한 침투도 가능해진다. 다만 인격이 있는 기계라면 명령과 성격을 강제로 바꾸는 행위의 의미도 남는다. 생물을 설득하거나 자발적인 전향을 받아들이는 장면과 달리, 전산적 조작이 소속 변경의 원인이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "적이 운용하는 로봇의 제어 체계에 개입하여 전투를 멈추거나 명령의 대상을 바꾼다. 로봇을 파괴하지 않고 꺼 버리는 방식과 자신을 지휘자로 인식시켜 아군으로 사용하는 방식은 같은 제어권 개입에서 나오는 서로 다른 결과다.\n\n적군 장비가 아군으로 전환되면 전력이 늘어날 뿐 아니라 원래의 소속을 이용한 침투도 가능해진다. 다만 인격이 있는 기계라면 명령과 성격을 강제로 바꾸는 행위의 의미도 남는다. 생물을 설득하거나 자발적인 전향을 받아들이는 장면과 달리, 전산적 조작이 소속 변경의 원인이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

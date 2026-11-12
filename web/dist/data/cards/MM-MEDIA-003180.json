@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "팬텀 킹덤",
   "original": "Makai Kingdom",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Makai Kingdom"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《팬텀 킹덤》은 비디오게임 작품이다.",
-    "detail": "작품 사례: 《팬텀 킹덤》에서 제타는 초반에 책이 된 뒤 이야기의 중심이면서도 직접 전투에 참여하지 못하고 부하를 배치하는 역할을 맡는다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,6 +41,14 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-021042",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-025125",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-028735",
       "row_version": 1
     },
@@ -47,5 +57,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《팬텀 킹덤》의 제타는 이야기 초반에 책으로 변한다. 중심인물의 신체가 전투원과 다른 형태가 된다. 중요한 인물이라도 직접 전투할 수 없는 상태가 되면 다른 존재의 행동을 통해 목표를 수행해야 한다.\n\n제타는 직접 전투에 참여하지 못한다. 인물의 중요성과 직접 조작 가능한 전투 능력이 일치하지 않는다. 이야기의 중심성은 플레이어가 그 인물을 전투 유닛으로 조작할 수 있다는 조건과 별개다.\n\n그 대신 부하를 배치하는 역할을 맡는다. 서사의 주인공과 전장 행동의 실행자를 나누는 구성이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《팬텀 킹덤》의 제타는 이야기 초반에 책으로 변한다. 중심인물의 신체가 전투원과 다른 형태가 된다. 중요한 인물이라도 직접 전투할 수 없는 상태가 되면 다른 존재의 행동을 통해 목표를 수행해야 한다.\n\n제타는 직접 전투에 참여하지 못한다. 인물의 중요성과 직접 조작 가능한 전투 능력이 일치하지 않는다. 이야기의 중심성은 플레이어가 그 인물을 전투 유닛으로 조작할 수 있다는 조건과 별개다.\n\n그 대신 부하를 배치하는 역할을 맡는다. 서사의 주인공과 전장 행동의 실행자를 나누는 구성이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

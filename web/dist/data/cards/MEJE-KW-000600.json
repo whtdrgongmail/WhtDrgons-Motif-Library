@@ -4,8 +4,8 @@
   "title": "마법의 위협은 마법으로만 막기",
   "original": "Magic Must Defeat Magic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "초자연적 위협에는 보통의 무기나 기술이 효과를 내지 못하고 같은 종류의 힘만 대응할 수 있는 세계 [[규칙]]. 해결 수단이 제한되어 마법 사용자의 참여가 필수로 바뀐다. [[마법을 무효화하는 힘]]은 그 대응 수단 중 하나가 될 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마법으로 생긴 위협에 보통 무기나 기술이 통하지 않을 때 대응 수단도 초상적인 힘으로 제한된다. 물리적 수단을 충분히 모으는 것만으로 해결할 수 없는 규칙이다.\n\n이 제한 때문에 마법을 다루는 인물의 참여나 그에 상응하는 자원이 필요해진다. 위협을 공격하는 방식뿐 아니라 마법의 효력을 없애는 방식도 대응에 포함될 수 있다.\n\n마법이 유리한 수단인 경우와 반드시 필요한 경우를 구별한다. 더 효율적이라는 비교가 아니라 다른 종류의 수단으로는 방어가 성립하지 않는다는 조건이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마법으로 생긴 위협에 보통 무기나 기술이 통하지 않을 때 대응 수단도 초상적인 힘으로 제한된다. 물리적 수단을 충분히 모으는 것만으로 해결할 수 없는 규칙이다.\n\n이 제한 때문에 마법을 다루는 인물의 참여나 그에 상응하는 자원이 필요해진다. 위협을 공격하는 방식뿐 아니라 마법의 효력을 없애는 방식도 대응에 포함될 수 있다.\n\n마법이 유리한 수단인 경우와 반드시 필요한 경우를 구별한다. 더 효율적이라는 비교가 아니라 다른 종류의 수단으로는 방어가 성립하지 않는다는 조건이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

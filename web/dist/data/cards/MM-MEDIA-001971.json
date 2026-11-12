@@ -4,17 +4,17 @@
   "title": "쿠스코? 쿠스코!",
   "original": "The Emperor's New Groove",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
-    "definition": "《쿠스코? 쿠스코!》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《쿠스코? 쿠스코!》에서 이즈마의 실험실 입구에는 정상 출입 레버 옆에 악어 웅덩이로 빠뜨리는 레버가 있어 주인들조차 자꾸 잘못 당긴다.",
+    "definition": "《쿠스코? 쿠스코!》는 라마로 변한 황제가 농부 파차와 함께 왕좌를 되찾으려는 애니메이션 코미디 영화다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《쿠스코? 쿠스코!》에서 이즈마의 실험실 입구에는 정상 출입 레버 옆에 악어 웅덩이로 빠뜨리는 레버가 있어 주인들조차 자꾸 잘못 당긴다.",
+    "easy_ko": "자기중심적인 황제 쿠스코가 라마가 된 뒤, 자신이 몰아내려던 농부 파차와 손을 잡습니다. 둘은 성으로 돌아가는 길에 서로의 차이를 극복하고 위협을 헤쳐 나갑니다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -45,7 +45,39 @@
     {
       "card_id": "MEJE-KW-024774",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-015449",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000287",
+      "card_id": "MM-MEDIA-001971",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://movies.disney.com/the-emperors-new-groove",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "이 영화는 황제 쿠스코가 권력을 잃고 라마의 몸으로 바뀌면서 벌어지는 모험을 코미디로 풀어낸다. 쿠스코는 자신의 계획에 반대했던 농부 파차와 동행해야 하며, 두 인물의 성격과 이해관계 차이가 여정의 갈등이자 웃음의 원천이 된다.\n\n이야기는 왕궁의 [[권력 다툼]]과 두 주인공의 관계 변화를 함께 따라간다. 쿠스코가 특권을 누리던 통치자에서 타인의 도움을 필요로 하는 처지로 이동하면서, 작품은 빠른 농담과 신체적 [[변신]]을 통해 자기중심성 및 협력의 문제를 가볍게 다룬다.\n\n디즈니 공식 소개는 황제 쿠스코가 고문 이즈마와 부하 크롱크의 계략으로 라마가 되고, 농부 파차와 뜻밖의 동맹을 맺어 차이를 극복하는 모험을 한다고 요약한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 영화는 황제 쿠스코가 권력을 잃고 라마의 몸으로 바뀌면서 벌어지는 모험을 코미디로 풀어낸다. 쿠스코는 자신의 계획에 반대했던 농부 파차와 동행해야 하며, 두 인물의 성격과 이해관계 차이가 여정의 갈등이자 웃음의 원천이 된다.\n\n이야기는 왕궁의 [[권력 다툼]]과 두 주인공의 관계 변화를 함께 따라간다. 쿠스코가 특권을 누리던 통치자에서 타인의 도움을 필요로 하는 처지로 이동하면서, 작품은 빠른 농담과 신체적 [[변신]]을 통해 자기중심성 및 협력의 문제를 가볍게 다룬다."
+      ],
+      [
+        "사례",
+        "디즈니 공식 소개는 황제 쿠스코가 고문 이즈마와 부하 크롱크의 계략으로 라마가 되고, 농부 파차와 뜻밖의 동맹을 맺어 차이를 극복하는 모험을 한다고 요약한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "선택적으로만 눈치채는 경비원",
   "original": "Conspicuously Selective Perception",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02173",
+  "primary_tag_id": "ML-T02173",
   "description": {
     "definition": "잠입 게임의 경비원이 [[플레이어]]의 작은 행동에는 민감하면서 주변의 큰 변화에는 반응하지 않는다. 현실적인 감시보다 게임의 탐색 규칙이 앞선다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.012.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[게임 인공지능]]이 조종하는 경비와 적이 비슷한 자극에도 플레이어의 행동만 선택적으로 의심하는 현상이다. 세계 안에서 같은 소리와 움직임이 같은 반응을 얻지 못한다.\n\n발소리에는 민감하면서 기계의 소음과 사라진 동료는 무시할 수 있다. 위장한 플레이어가 뛰는 순간만 정체를 알아보면 발각 규칙과 주변 인물의 행동 사이의 차이가 드러난다.\n\n모든 감지 범위 제한이 같은 문제는 아니다. 게임 진행과 계산량을 조절하는 규칙이 필요하지만, 그 기준이 지나치게 자의적이면 세계의 설득력과 이용자가 학습한 예상이 충돌한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[게임 인공지능]]이 조종하는 경비와 적이 비슷한 자극에도 플레이어의 행동만 선택적으로 의심하는 현상이다. 세계 안에서 같은 소리와 움직임이 같은 반응을 얻지 못한다.\n\n발소리에는 민감하면서 기계의 소음과 사라진 동료는 무시할 수 있다. 위장한 플레이어가 뛰는 순간만 정체를 알아보면 발각 규칙과 주변 인물의 행동 사이의 차이가 드러난다.\n\n모든 감지 범위 제한이 같은 문제는 아니다. 게임 진행과 계산량을 조절하는 규칙이 필요하지만, 그 기준이 지나치게 자의적이면 세계의 설득력과 이용자가 학습한 예상이 충돌한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

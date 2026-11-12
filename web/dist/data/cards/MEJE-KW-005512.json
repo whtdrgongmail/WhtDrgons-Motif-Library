@@ -4,8 +4,8 @@
   "title": "대전형 멀티플레이",
   "original": "Competitive Multiplayer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02145",
+  "primary_tag_id": "ML-T02145",
   "description": {
     "definition": "여러 [[플레이어]]가 같은 게임에 참여해 서로의 성과를 겨루거나 상대 팀과 대결하는 플레이 형식. 여러 인물이나 진영을 고르는 대전에서는 [[대전 선택지의 균형]]가 주요 설계 과제다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "25",
+    "code": "25.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 이용자가 같은 게임에서 서로의 승리를 막으며 대결하는 방식이다. 개인전과 팀전이 가능하고 컴퓨터가 조종하는 인물이 함께 참여할 수도 있다.\n\n같은 규칙을 공유해도 상대의 행동이 계속 달라지므로 예측과 대응이 중요하다. 팀전에서는 같은 편끼리 협력하면서 다른 편과 경쟁하는 두 관계가 동시에 형성된다.\n\n여러 사람이 접속했다는 사실만으로 대전이 되는 것은 아니다. 공동 목표를 해결하는 협동 방식과 달리 상대적인 우열과 승패가 핵심이며, 한 작품 안에 두 방식이 별도로 제공될 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 이용자가 같은 게임에서 서로의 승리를 막으며 대결하는 방식이다. 개인전과 팀전이 가능하고 컴퓨터가 조종하는 인물이 함께 참여할 수도 있다.\n\n같은 규칙을 공유해도 상대의 행동이 계속 달라지므로 예측과 대응이 중요하다. 팀전에서는 같은 편끼리 협력하면서 다른 편과 경쟁하는 두 관계가 동시에 형성된다.\n\n여러 사람이 접속했다는 사실만으로 대전이 되는 것은 아니다. 공동 목표를 해결하는 협동 방식과 달리 상대적인 우열과 승패가 핵심이며, 한 작품 안에 두 방식이 별도로 제공될 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,27 +4,27 @@
   "title": "단간론파 시리즈",
   "original": "Danganronpa",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《단간론파 시리즈》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《단간론파 시리즈》의 제노사이더 쇼는 과거 여러 살인을 저질렀지만 미래기관을 위해 절망 세력과 싸우는 조건으로 사면받는다. 악행의 피해가 있어도 당사자가 그에 상응하는 처벌을 피하는 사례다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "재능 있는 학생들이 갇힌 공간에서 서로를 죽이고 범인을 추리하게 되는 비주얼 노벨 중심의 작품군이다. 살인이 일어나면 학급 재판으로 범인을 결정하며 정답과 오답에 따라 생존자가 달라진다.\n\n특별한 재능을 인정하는 학교의 명예로운 이미지와 강요된 살인 게임이 대비된다. 추리 과정에 사격이나 리듬 같은 조작을 결합하지만 각 작품의 장소와 연속성은 동일하게 고정되지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "재능 있는 학생들이 갇힌 공간에서 서로를 죽이고 범인을 추리하게 되는 비주얼 노벨 중심의 작품군이다. 살인이 일어나면 학급 재판으로 범인을 결정하며 정답과 오답에 따라 생존자가 달라진다.\n\n특별한 재능을 인정하는 학교의 명예로운 이미지와 강요된 살인 게임이 대비된다. 추리 과정에 사격이나 리듬 같은 조작을 결합하지만 각 작품의 장소와 연속성은 동일하게 고정되지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

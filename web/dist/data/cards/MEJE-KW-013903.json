@@ -4,8 +4,8 @@
   "title": "보스를 조작하는 역할 역전",
   "original": "Role-Reversal Boss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "일시적으로 보스 캐릭터를 조작하여 평소의 플레이어 캐릭터와 싸우게 하는 전투 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "주인공의 서사적 패배를 플레이 가능한 승리 조건으로 바꾸는 데 쓰일 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "플레이어가 보스 같은 존재를 맡아 평소의 주인공을 상대한다. 조작할 대상과 적의 위치가 바뀌어 전투를 보는 기준이 뒤집힌다.\n\n보스의 공격 패턴을 직접 운용해 이겨야 하거나 잠깐의 특수 전투 뒤 원래 방식으로 돌아갈 수 있다. 이야기에서 예정된 주인공의 패배를 플레이어의 승리 과제로 표현하는 효과도 있다.\n\n단순히 강한 인물을 얻는 장면과 다르다. 평소 조작하던 쪽이 상대가 된다는 역할의 교체가 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플레이어가 보스 같은 존재를 맡아 평소의 주인공을 상대한다. 조작할 대상과 적의 위치가 바뀌어 전투를 보는 기준이 뒤집힌다.\n\n보스의 공격 패턴을 직접 운용해 이겨야 하거나 잠깐의 특수 전투 뒤 원래 방식으로 돌아갈 수 있다. 이야기에서 예정된 주인공의 패배를 플레이어의 승리 과제로 표현하는 효과도 있다.\n\n단순히 강한 인물을 얻는 장면과 다르다. 평소 조작하던 쪽이 상대가 된다는 역할의 교체가 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

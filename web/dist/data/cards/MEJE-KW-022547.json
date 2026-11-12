@@ -5,8 +5,8 @@
   "original": "Shared Credit for Assists",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
     "definition": "최종 처치자 외에 전투를 도운 사람에게도 점수나 경험치를 배분하는 보상 규칙이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "최종 타격자에게만 공을 몰아주는 규칙과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "적에게 마지막 타격을 한 사람뿐 아니라 싸움을 도운 사람도 보상받는다. 처치의 순간과 전투에 기여한 범위를 서로 다른 기준으로 취급한다.\n\n점수와 경험치가 공동 참여에 배분되므로 마지막 일격을 차지하려는 경쟁을 줄일 수 있다. 함께 싸우는 행동을 보상 구조 안에서 장려한다.\n\n최종 타격자에게만 성과를 몰아주는 규칙과 다르다. 기여자도 보상의 대상이 된다는 조건이 핵심이며 구체적인 배분량은 별도 요소다.",
+    "sections": [
+      [
+        "상세 설명",
+        "적에게 마지막 타격을 한 사람뿐 아니라 싸움을 도운 사람도 보상받는다. 처치의 순간과 전투에 기여한 범위를 서로 다른 기준으로 취급한다.\n\n점수와 경험치가 공동 참여에 배분되므로 마지막 일격을 차지하려는 경쟁을 줄일 수 있다. 함께 싸우는 행동을 보상 구조 안에서 장려한다.\n\n최종 타격자에게만 성과를 몰아주는 규칙과 다르다. 기여자도 보상의 대상이 된다는 조건이 핵심이며 구체적인 배분량은 별도 요소다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

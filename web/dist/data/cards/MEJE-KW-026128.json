@@ -4,8 +4,8 @@
   "title": "중매하던 상대에게 자신이 사랑에 빠지기",
   "original": "Matchmaker Crush",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00824",
+  "primary_tag_id": "ML-T00824",
   "description": {
     "definition": "두 사람을 이어 주려던 인물이 그중 한 사람을 좋아하게 되어 중개자 역할과 자기 감정이 충돌한다.",
     "detail": "작품 사례: 《[[포켓몬스터 DP]]》에서 금선은 친구 화성과 빛나를 이어 주려다가 자신이 화성을 좋아한다는 사실을 알아차린다. 중개 역할과 자신의 마음이 충돌한다.",
@@ -13,10 +13,10 @@
     "boundary": "처음부터 사랑을 차지하려 중매를 가장한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "08.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관계의 중개자가 도움을 주던 과정에서 자신의 감정을 발견한다. 맡은 역할을 잘 수행할수록 좋아하는 사람을 다른 상대에게 가까이 보내는 역설이 생긴다.\n\n진심을 숨길지 털어놓을지가 친구의 신뢰와 연결된다. 소개받는 사람의 감정까지 달라지면 계획과 실제 관계를 함께 다시 조정해야 한다.\n\n처음부터 방해하려고 중매를 가장한 경우와는 출발 동기가 다르다. 돕는 시도 이후 실제 호감이 생겼다는 순서가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관계의 중개자가 도움을 주던 과정에서 자신의 감정을 발견한다. 맡은 역할을 잘 수행할수록 좋아하는 사람을 다른 상대에게 가까이 보내는 역설이 생긴다.\n\n진심을 숨길지 털어놓을지가 친구의 신뢰와 연결된다. 소개받는 사람의 감정까지 달라지면 계획과 실제 관계를 함께 다시 조정해야 한다.\n\n처음부터 방해하려고 중매를 가장한 경우와는 출발 동기가 다르다. 돕는 시도 이후 실제 호감이 생겼다는 순서가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

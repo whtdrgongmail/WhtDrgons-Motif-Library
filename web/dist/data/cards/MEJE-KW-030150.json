@@ -4,8 +4,8 @@
   "title": "이야기를 운문으로 전달하는 시",
   "original": "Narrative Poem",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T01975",
+  "primary_tag_id": "ML-T01975",
   "description": {
     "definition": "사건과 인물의 이야기를 운문 형식으로 구성하여 전하는 시적 서사다.",
     "detail": "작품 사례: 《[[일리아스]]》는 전쟁과 인물들의 행동을 운문으로 이어 가는 이야기시의 사례다.",
@@ -13,10 +13,10 @@
     "boundary": "감정이나 이미지만 제시하는 시와 달리 이야기의 사건 전개가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "23.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "운문으로 사건을 전달하면 이야기의 순서와 소리의 반복이 함께 구성된다. 리듬과 압축된 표현은 장면과 감정을 기억하기 쉬운 형태로 묶을 수 있다.\n\n모든 시가 줄거리를 갖는 것은 아니며 모든 이야기가 산문으로 쓰이는 것도 아니다. 인물과 사건의 전개가 중심을 이루는 시적 서사라는 점에서 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "운문으로 사건을 전달하면 이야기의 순서와 소리의 반복이 함께 구성된다. 리듬과 압축된 표현은 장면과 감정을 기억하기 쉬운 형태로 묶을 수 있다.\n\n모든 시가 줄거리를 갖는 것은 아니며 모든 이야기가 산문으로 쓰이는 것도 아니다. 인물과 사건의 전개가 중심을 이루는 시적 서사라는 점에서 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

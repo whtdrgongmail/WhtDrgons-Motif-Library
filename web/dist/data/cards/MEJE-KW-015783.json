@@ -4,8 +4,8 @@
   "title": "직무로 수행하는 영웅 활동",
   "original": "Punch-Clock Hero",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "구조와 악행 저지를 개인적 소명이나 특별한 자아실현보다 자신이 맡은 일로 받아들이는 영웅 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "보수를 받는다는 사실만으로는 부족하며 영웅 활동을 직무로 대하는 태도가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "구조와 악행 저지를 특별한 자아실현보다 맡은 업무로 받아들인다. 영웅적인 일을 수행하는 자기 인식이 일상적인 직무에 가깝다.\n\n인물에게 중요한 것은 특별한 존재라는 선언보다 해야 할 일을 처리하는 태도다. 활동의 사회적 의미와 본인이 이를 설명하는 방식 사이의 차이가 역할의 특징이 된다.\n\n보수를 받는다는 사실만으로는 부족하다. 돈의 유무보다 영웅 활동을 직무로 대하는 지속적인 태도가 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "구조와 악행 저지를 특별한 자아실현보다 맡은 업무로 받아들인다. 영웅적인 일을 수행하는 자기 인식이 일상적인 직무에 가깝다.\n\n인물에게 중요한 것은 특별한 존재라는 선언보다 해야 할 일을 처리하는 태도다. 활동의 사회적 의미와 본인이 이를 설명하는 방식 사이의 차이가 역할의 특징이 된다.\n\n보수를 받는다는 사실만으로는 부족하다. 돈의 유무보다 영웅 활동을 직무로 대하는 지속적인 태도가 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

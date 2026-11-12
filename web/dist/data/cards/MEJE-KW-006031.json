@@ -4,8 +4,8 @@
   "title": "관 속에 다른 시신을 숨기다",
   "original": "Cramming the Coffin",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "매장이나 화장을 앞둔 관에 원래 예정된 시신 외의 다른 시신을 숨기는 행위. 장례 절차를 이용해 별도의 사망 사실이나 범행을 감춘다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "정식 절차의 합장과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "장례를 앞둔 관에 예정된 시신 외의 시신을 숨겨 별도의 사망이나 범행을 감추는 행위다. 장례 절차와 공동체의 신뢰가 악용된다.\n\n관의 관리, 운구 인원, 신원 확인 방식이 은폐의 개연성을 좌우한다. 다른 시신을 넣은 이유와 이를 발견하지 못한 경로가 제시되어야 한다.\n\n합의된 공동 매장과 범죄 은폐는 다르다. 창작에서는 희생자의 신원과 장례 공동체의 역할을 단순한 장치로 축소하지 않는다.\n\n가상 예시: 범인은 관에 다른 시신을 숨기려 하지만 운구 담당자가 무게 차이를 알아차려 장례를 멈추고 신고한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "장례를 앞둔 관에 예정된 시신 외의 시신을 숨겨 별도의 사망이나 범행을 감추는 행위다. 장례 절차와 공동체의 신뢰가 악용된다.\n\n관의 관리, 운구 인원, 신원 확인 방식이 은폐의 개연성을 좌우한다. 다른 시신을 넣은 이유와 이를 발견하지 못한 경로가 제시되어야 한다.\n\n합의된 공동 매장과 범죄 은폐는 다르다. 창작에서는 희생자의 신원과 장례 공동체의 역할을 단순한 장치로 축소하지 않는다."
+      ],
+      [
+        "사례",
+        "가상 예시: 범인은 관에 다른 시신을 숨기려 하지만 운구 담당자가 무게 차이를 알아차려 장례를 멈추고 신고한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

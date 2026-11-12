@@ -4,8 +4,8 @@
   "title": "형체 없는 것을 훔치기",
   "original": "Intangible Theft",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00797",
+  "primary_tag_id": "ML-T00797",
   "description": {
     "definition": "이름·기억·시간 등 물리적인 물건이 아닌 성질이나 정보를 소유물처럼 빼앗는 설정.",
     "detail": "작품 사례: 《[[킹덤 하츠 II]]》의 노바디가 사진이라는 말 자체를 훔친 뒤, 등장인물들은 그 단어를 발음할 수 없고 대사창에도 빈칸으로 나타난다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 모방이나 삭제보다 한쪽이 잃고 다른 쪽이 빼앗는 관계가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.008.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,12 +38,29 @@
     },
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》에서 푸딩은 다른 사람의 기억 일부를 꺼내 보관하여 당사자가 그 기억을 잃게 만든다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "언어나 기억 같은 비물질적 대상을 소유물처럼 빼앗는다. 한쪽이 그 기능을 잃는 결과가 있어야 단순 모방과 다른 탈취의 관계가 성립한다.\n\n추상 대상이 언급되었다고 모두 절도는 아니다. 복제나 삭제와 구별하여 잃은 쪽과 빼앗은 행위의 연결을 확인해야 한다.\n\n《[[킹덤 하츠 II]]》에서 사진이라는 말이 도난당하자 인물들은 발음하지 못하고 대사창도 빈칸이 된다. 언어의 사용 가능성이 탈취의 결과로 바뀐다.",
+    "sections": [
+      [
+        "상세 설명",
+        "언어나 기억 같은 비물질적 대상을 소유물처럼 빼앗는다. 한쪽이 그 기능을 잃는 결과가 있어야 단순 모방과 다른 탈취의 관계가 성립한다.\n\n추상 대상이 언급되었다고 모두 절도는 아니다. 복제나 삭제와 구별하여 잃은 쪽과 빼앗은 행위의 연결을 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[킹덤 하츠 II]]》에서 사진이라는 말이 도난당하자 인물들은 발음하지 못하고 대사창도 빈칸이 된다. 언어의 사용 가능성이 탈취의 결과로 바뀐다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

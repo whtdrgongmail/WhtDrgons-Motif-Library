@@ -4,28 +4,28 @@
   "title": "패배 직전에 다시 일어서는 힘",
   "original": "Heroic Second Wind",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02335",
+  "primary_tag_id": "ML-T02335",
   "description": {
     "definition": "결정적인 타격으로 끝난 듯 보였던 영웅이 마지막 의지·각성·도움으로 힘을 되찾아 전세를 뒤집는 절정 장면이다.",
-    "detail": "반격의 계기는 목표와 약속의 재확인, 친구와 보호 대상의 기억, 자기 신뢰와 의지, [[내적 갈등]]의 해결, 분노 또는 집중, 동료의 호소, 초자연적 도움·치유·새 능력 등으로 달라진다. 회복의 원인과 반격의 시점을 함께 살핀다.\n\n작품 사례: [[Captain Underpants: The First Epic Movie]]에서 쓰러져 있던 Captain Underpants는 아이들의 구조 요청을 듣고 깨어난다. 음식 찌꺼기를 삼켜 힘을 강화하고 다시 나설 수 있게 된다.",
+    "detail": "반격의 계기는 목표와 약속의 재확인, 친구와 보호 대상의 기억, 자기 신뢰와 의지, [[내적 갈등]]의 해결, 분노 또는 집중, 동료의 호소, 초자연적 도움·치유·새 능력 등으로 달라진다. 회복의 원인과 반격이 시작되는 시점의 결합에 따라 전개의 의미가 달라진다.\n\n작품 사례: [[Captain Underpants: The First Epic Movie]]에서 쓰러져 있던 Captain Underpants는 아이들의 구조 요청을 듣고 깨어난다. 음식 찌꺼기를 삼켜 힘을 강화하고 다시 나설 수 있게 된다.",
     "usage": "명백한 열세에서 회복과 역전으로 이어지는 전환을 확인한다.",
     "boundary": "처음부터 쓰러지지 않고 버틴 인물이나 부상을 가장한 유인과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "28.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "적이 승리를 확신하는 순간 쓰러진 주인공이 다시 일어난다.\n\n작품 사례: [[Captain Underpants: The First Epic Movie]]에서 쓰러져 있던 Captain Underpants는 아이들의 구조 요청을 듣고 깨어난다. 음식 찌꺼기를 삼켜 힘을 강화하고 다시 나설 수 있게 된다.",
+    "easy_ko": "적이 승리를 확신하는 순간 쓰러진 주인공이 다시 일어난다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "반격의 계기는 목표와 약속의 재확인, 친구와 보호 대상의 기억, 자기 신뢰, [[내적 갈등]]의 해결, 분노나 집중, 동료의 호소, 초자연적 도움·치유·새 능력 등으로 달라진다. 회복의 원인이 마련된 뒤 반격이 시작되며, 그 시점이 적의 승리 확신과 맞물리기도 한다. 처음부터 쓰러지지 않고 버틴 경우나 부상을 가장해 적을 유인한 경우와 구별된다.\n\n작품 사례: 《[[Captain Underpants: The First Epic Movie]]》에서 쓰러져 있던 캡틴 언더팬츠는 아이들의 구조 요청을 듣고 깨어난다. 방사성 급식 찌꺼기를 삼킨 뒤 초능력이 강화되어 다시 싸울 힘을 얻는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "반격의 계기는 목표와 약속의 재확인, 친구와 보호 대상의 기억, 자기 신뢰, [[내적 갈등]]의 해결, 분노나 집중, 동료의 호소, 초자연적 도움·치유·새 능력 등으로 달라진다. 회복의 원인이 마련된 뒤 반격이 시작되며, 그 시점이 적의 승리 확신과 맞물리기도 한다. 처음부터 쓰러지지 않고 버틴 경우나 부상을 가장해 적을 유인한 경우와 구별된다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[Captain Underpants: The First Epic Movie]]》에서 쓰러져 있던 캡틴 언더팬츠는 아이들의 구조 요청을 듣고 깨어난다. 방사성 급식 찌꺼기를 삼킨 뒤 초능력이 강화되어 다시 싸울 힘을 얻는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

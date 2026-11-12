@@ -4,19 +4,19 @@
   "title": "Children's Party at the Palace",
   "original": "Children's Party at the Palace",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-T02487",
+  "tag_id": "ML-T00061",
+  "primary_tag_id": "ML-T00061",
   "description": {
-    "definition": "이 카드는 영화 《Children's Party at the Palace》를 가리킨다. 이 라이브러리에서는 [[큰 해를 끼치지 못하는 악역]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Children's Party at the Palace의 일부 악역은 코기들을 딴 데로 유인하거나 여왕의 가방을 훔쳐 파티를 망치려 해, 중대한 파괴보다 온건하고 우스운 방해를 벌인다.",
+    "definition": "《Children's Party at the Palace》는 2006년 영국 왕실 아동 행사를 위해 제작·방송된 공연 프로그램이다. 독립 영화가 아니라 행사와 텔레비전 방송이 결합된 사례다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "02.005",
+    "code": "02.014",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,8 +40,21 @@
   "related_motifs": [
     {
       "card_id": "MEJE-KW-015196",
-      "row_version": 1
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Children's Party at the Palace》는 2006년 버킹엄궁에서 열린 어린이 행사와 방송 공연을 다룬다. 영국 아동문학의 여러 인물이 한 공간에서 만나는 구성이 특징이다.\n\n공연 《The Queen's Handbag》에서는 여왕의 잃어버린 가방과 안경을 찾는 목표가 서로 다른 작품의 인물들을 연결한다. 각 인물의 익숙한 성격이 새 사건 속에서 공연과 농담의 재료가 된다.\n\n무대와 별도 세트, 실제 궁 안에서 촬영한 부분이 함께 사용되었다. 독립적인 극영화 하나로만 이해하기보다 기념행사와 극중 공연, 텔레비전 제시가 결합한 형식으로 보아야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Children's Party at the Palace》는 2006년 버킹엄궁에서 열린 어린이 행사와 방송 공연을 다룬다. 영국 아동문학의 여러 인물이 한 공간에서 만나는 구성이 특징이다.\n\n공연 《The Queen's Handbag》에서는 여왕의 잃어버린 가방과 안경을 찾는 목표가 서로 다른 작품의 인물들을 연결한다. 각 인물의 익숙한 성격이 새 사건 속에서 공연과 농담의 재료가 된다.\n\n무대와 별도 세트, 실제 궁 안에서 촬영한 부분이 함께 사용되었다. 독립적인 극영화 하나로만 이해하기보다 기념행사와 극중 공연, 텔레비전 제시가 결합한 형식으로 보아야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

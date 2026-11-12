@@ -4,8 +4,8 @@
   "title": "자기 무기로 자멸하기",
   "original": "Hoist by His Own Petard",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00724",
+  "primary_tag_id": "ML-T00724",
   "description": {
     "definition": "타인을 해치려고 만든 도구·함정·계획이 되돌아와 그 실행자 자신의 패배나 죽음을 초래하는 전개다.",
     "detail": "작품 사례: [[Changeling: The Lost]]의 요정들은 인간을 노예로 바꾸며 권능을 나눴다가, 탈출한 이들이 같은 권능으로 자신들을 공격하는 일을 겪는다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 불운이나 악행과 인과관계 없는 응보, 모든 실수의 역효과와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.008.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "타인을 해치려고 준비한 무기와 권능이 되돌아와 자신의 패배를 직접 일으키는 구성이다. 가해 수단의 마련이 그 수단에 당할 조건을 만든다.\n\n단순한 불운과 모든 실수의 역효과를 뜻하지 않는다. 악행과 관계없는 응보와도 다르며 준비한 위해 수단과 실패 사이의 직접적인 인과가 필요하다.\n\n[[Changeling: The Lost]]의 요정들은 인간을 노예로 바꾸며 권능을 나눈다. 탈출한 이들이 그 권능으로 요정을 공격하면서 지배를 위해 제공했던 힘이 자신에게 돌아온다.",
+    "sections": [
+      [
+        "상세 설명",
+        "타인을 해치려고 준비한 무기와 권능이 되돌아와 자신의 패배를 직접 일으키는 구성이다. 가해 수단의 마련이 그 수단에 당할 조건을 만든다.\n\n단순한 불운과 모든 실수의 역효과를 뜻하지 않는다. 악행과 관계없는 응보와도 다르며 준비한 위해 수단과 실패 사이의 직접적인 인과가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Changeling: The Lost]]의 요정들은 인간을 노예로 바꾸며 권능을 나눈다. 탈출한 이들이 그 권능으로 요정을 공격하면서 지배를 위해 제공했던 힘이 자신에게 돌아온다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

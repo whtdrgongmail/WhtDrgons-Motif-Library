@@ -5,8 +5,8 @@
   "original": "Someone Talks You into Missing the Goal",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00710",
+  "primary_tag_id": "ML-T00710",
   "description": {
     "definition": "다른 사람의 말이나 평범한 기만 때문에 찾던 물건을 무가치하거나 다른 대상이라고 여긴다.",
     "detail": "작품 사례: 《[[파이널 판타지 VII: 어드벤트 칠드런]]》에서 루퍼스는 카다쥬의 성격을 이용해 눈앞의 상자가 찾는 목표임을 알아보지 못하게 한다.",
@@ -14,10 +14,10 @@
     "boundary": "[[마법]]에 의한 인식 조작과 달리 일상적인 설득이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "06",
+    "code": "06.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "목표가 가까이 있어도 인물은 타인의 설명 때문에 다른 물건으로 판단한다. 물리적으로 감춘 것이 아니라 해석을 바꾸어 발견을 막는 기만이다.\n\n정보를 가진 인물은 상대의 성격과 기대를 이용해 탐색 방향을 돌린다. 눈앞의 단서가 무시되는 이유가 대화의 설득력에 연결된다.\n\n[[마법]]으로 보이지 않게 하거나 인식을 강제로 바꾸는 능력과는 다르다. 평범한 말과 판단의 오류로 효과가 생겨야 한다.\n\n[[파이널 판타지 VII: 어드벤트 칠드런]]의 루퍼스는 카다쥬의 성격을 이용해 눈앞의 상자가 목표라는 사실을 알아보지 못하게 한다.\n\n[[파이널 판타지 VII: 어드벤트 칠드런]]",
+    "sections": [
+      [
+        "상세 설명",
+        "목표가 가까이 있어도 인물은 타인의 설명 때문에 다른 물건으로 판단한다. 물리적으로 감춘 것이 아니라 해석을 바꾸어 발견을 막는 기만이다.\n\n정보를 가진 인물은 상대의 성격과 기대를 이용해 탐색 방향을 돌린다. 눈앞의 단서가 무시되는 이유가 대화의 설득력에 연결된다.\n\n[[마법]]으로 보이지 않게 하거나 인식을 강제로 바꾸는 능력과는 다르다. 평범한 말과 판단의 오류로 효과가 생겨야 한다."
+      ],
+      [
+        "사례",
+        "[[파이널 판타지 VII: 어드벤트 칠드런]]의 루퍼스는 카다쥬의 성격을 이용해 눈앞의 상자가 목표라는 사실을 알아보지 못하게 한다."
+      ],
+      [
+        "관련 작품",
+        "[[파이널 판타지 VII: 어드벤트 칠드런]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

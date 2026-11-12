@@ -4,8 +4,8 @@
   "title": "도움인 척 건네는 의도적인 피해",
   "original": "Lending a Backhand",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "상대를 해치려는 인물이 겉으로는 도움을 제공하는 형식을 취해 신뢰·평판을 지키거나 곤경을 조롱하는 행동이다.",
     "detail": "작품 사례: 《[[쿵푸팬더 2]]》에서 셴은 포를 절망에 빠뜨린 뒤 그를 향해 대포를 겨누며 고통을 덜어 주겠다는 식으로 말한다. 해치려는 행동을 치료와 도움의 언어로 포장한다.",
@@ -13,10 +13,10 @@
     "boundary": "좋은 의도로 돕다가 실패하는 경우와 다르며, 상대를 살리려 일부러 냉정하게 구는 행동과도 목적이 반대다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "도움을 주는 것처럼 보이는 행동이 실제로는 수혜자의 상황을 악화시키도록 의도되어 있다. 가해자는 평판을 유지하거나 신뢰를 쌓으면서 상대를 약화할 수 있어 겉의 호의와 실제 효과가 반대 방향으로 움직인다. 선의의 실수로 피해를 준 경우와 달리 피해가 도움 제공자의 계획에 포함되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "도움을 주는 것처럼 보이는 행동이 실제로는 수혜자의 상황을 악화시키도록 의도되어 있다. 가해자는 평판을 유지하거나 신뢰를 쌓으면서 상대를 약화할 수 있어 겉의 호의와 실제 효과가 반대 방향으로 움직인다. 선의의 실수로 피해를 준 경우와 달리 피해가 도움 제공자의 계획에 포함되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

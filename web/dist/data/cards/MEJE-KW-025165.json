@@ -4,8 +4,8 @@
   "title": "모든 구애자와 공개적으로 함께하기",
   "original": "Marry Them All",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00986",
+  "primary_tag_id": "ML-T00986",
   "description": {
     "definition": "여러 구애자 가운데 한 사람만 택하지 않고 모두와 공개적인 관계를 맺어 연애 경쟁을 해소하는 방식이다.",
     "detail": "작품 사례: 《[[Family(2008)]]》의 제마는 벤과 스튜어트 두 사람 모두와 장기적인 관계를 유지한다. 두 남성은 제마에게 다른 한 사람도 소중하다는 것을 받아들이며, 세 사람의 가족을 관계의 중심에 둔다.",
@@ -13,14 +13,20 @@
     "boundary": "상대 몰래 관계를 중복하는 외도와 달리 복수 관계의 공개적인 성립이 조건이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.007",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 명을 고르는 대신 모두와 함께하기로 한다.",
     "review_status": "reviewed",
@@ -45,5 +51,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 구애자 가운데 하나를 고르지 않고 모두와 공개적인 관계를 이룬다. 경쟁의 전제를 독점적인 선택에서 바꾸는 결말이다.\n\n관계자들이 이를 알고 받아들이는지가 중요하다. 몰래 여러 사람을 만나는 배신과는 정보와 합의의 조건이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 구애자 가운데 하나를 고르지 않고 모두와 공개적인 관계를 이룬다. 경쟁의 전제를 독점적인 선택에서 바꾸는 결말이다.\n\n관계자들이 이를 알고 받아들이는지가 중요하다. 몰래 여러 사람을 만나는 배신과는 정보와 합의의 조건이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

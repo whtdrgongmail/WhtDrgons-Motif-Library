@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032710",
+  "kind": "keyword",
+  "title": "새 게임이 기존 기록을 지운다고 먼저 알리기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "저장 공간이 하나인 게임에서 새로 시작하면 자동 저장이 이전 진행을 덮어쓸 수 있음을 확인 절차나 경고로 알려 주는 기능이다.",
+    "detail": "",
+    "usage": "[[진행 기록의 보호]]로 의도하지 않은 초기화를 줄인다.",
+    "boundary": "기록을 여러 개 선택하는 메뉴와 달리 기존 기록의 손실을 인지시키는 절차가 핵심이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "새로 시작하기 전에 지금까지 한 기록이 없어질 수 있다고 알려 준다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "하나의 저장 공간을 쓰는 게임은 새 시작이 이전 진행을 지울 수 있다. 경고와 확인은 이 결과를 이용자의 선택 전에 알린다.\n\n새 게임을 누르는 의도와 과거 기록을 버리는 의도는 다를 수 있다. 손실을 명확히 하면 사용자는 같은 버튼이 가져올 두 결과를 함께 판단한다.\n\n여러 저장 파일을 고르는 메뉴와는 다르다. 기존 기록이 덮일 수 있다는 인지를 만드는 절차가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "하나의 저장 공간을 쓰는 게임은 새 시작이 이전 진행을 지울 수 있다. 경고와 확인은 이 결과를 이용자의 선택 전에 알린다.\n\n새 게임을 누르는 의도와 과거 기록을 버리는 의도는 다를 수 있다. 손실을 명확히 하면 사용자는 같은 버튼이 가져올 두 결과를 함께 판단한다.\n\n여러 저장 파일을 고르는 메뉴와는 다르다. 기존 기록이 덮일 수 있다는 인지를 만드는 절차가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

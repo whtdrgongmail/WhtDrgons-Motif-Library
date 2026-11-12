@@ -4,8 +4,8 @@
   "title": "마법과 정신 능력의 경계를 묻기",
   "original": "Magic or Psychic?",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01209",
+  "primary_tag_id": "ML-T01209",
   "description": {
     "definition": "한 세계에 마법과 [[정신 능력]]이 함께 있을 때 둘의 출처·훈련법·한계를 어떻게 구별하는지 묻는 [[설정]] 문제. 인물의 명칭만 다른지 실제 [[규칙]]도 다른지 드러내야 한다. [[마법을 다른 이름으로 부르기]]는 같은 힘을 다르게 부르는 경우다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "13",
+    "code": "13.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 세계의 [[마법]]과 정신 능력이 실제로 다른 규칙인지 확인하는 설정 문제이다. 이름뿐 아니라 출처와 훈련, 한계가 비교의 대상이 된다.\n\n각 체계에 어떤 행동이 가능한지 제시하면 인물의 분류가 실제 작동과 연결된다. 같은 효과도 서로 다른 이유로 발생할 수 있다.\n\n같은 힘을 다른 명칭으로 부르는 경우와는 다르다. 명칭의 차이만으로 별도 체계가 존재한다고 단정할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 세계의 [[마법]]과 정신 능력이 실제로 다른 규칙인지 확인하는 설정 문제이다. 이름뿐 아니라 출처와 훈련, 한계가 비교의 대상이 된다.\n\n각 체계에 어떤 행동이 가능한지 제시하면 인물의 분류가 실제 작동과 연결된다. 같은 효과도 서로 다른 이유로 발생할 수 있다.\n\n같은 힘을 다른 명칭으로 부르는 경우와는 다르다. 명칭의 차이만으로 별도 체계가 존재한다고 단정할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

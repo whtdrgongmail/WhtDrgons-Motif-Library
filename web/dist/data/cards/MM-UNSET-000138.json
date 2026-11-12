@@ -2,24 +2,66 @@
   "id": "MM-UNSET-000138",
   "kind": "keyword",
   "title": "오큐파이 운동",
-  "original": "",
+  "original": "Occupy movement",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F15",
   "description": {
-    "definition": "",
+    "definition": "오큐파이 운동은 2011년 미국의 월가 점거 시위를 출발점으로 경제적 불평등과 금융 권력에 항의하며 여러 지역으로 퍼진 사회운동이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "15",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "월가에서 시작된 점거 시위가 다른 도시로 이어진 운동이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000274",
+      "card_id": "MM-UNSET-000138",
+      "label_ko": "오큐파이 운동 웹 아카이브",
+      "icon_key": "website",
+      "url": "https://www.loc.gov/item/lcwaN0006224/",
+      "description_ko": "오큐파이 운동의 역사와 확산에 관한 기록",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "오큐파이 운동은 경제적 불평등과 금융 권력, 대표성 문제에 항의한 여러 지역의 점거 시위와 연대 활동을 통칭한다. 2011년 뉴욕의 [[월가 점거 운동]]은 널리 알려진 초기 사례다. '우리는 99%'라는 구호는 부와 권력이 소수에게 집중된다는 비판을 표현한다.\n\n지역별 참가자들은 공공장소의 점거, 집회, 온라인 소통을 사용했지만 요구 사항과 조직 방식이 모두 같지는 않았다. 따라서 이 운동을 하나의 중앙 조직이 지휘한 단일 사건으로 설명하지 않는다. 월가의 시위를 가리킬 때와 국제적으로 확산된 운동 전체를 가리킬 때의 범위를 구별한다.\n\n일부 시위에서 [[가이 포크스 가면]]이 저항의 표지로 등장했으나 오큐파이 운동만의 전용 상징은 아니다. 가면을 사용한 장면만으로 참가자가 [[어나니머스]] 소속이라고 판단할 수 없다. 현실의 시위와 작품 속 시위 묘사를 연결할 때에도 실제 사건과 창작 장면을 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "오큐파이 운동은 경제적 불평등과 금융 권력, 대표성 문제에 항의한 여러 지역의 점거 시위와 연대 활동을 통칭한다. 2011년 뉴욕의 [[월가 점거 운동]]은 널리 알려진 초기 사례다. '우리는 99%'라는 구호는 부와 권력이 소수에게 집중된다는 비판을 표현한다."
+      ],
+      [
+        "사례",
+        "지역별 참가자들은 공공장소의 점거, 집회, 온라인 소통을 사용했지만 요구 사항과 조직 방식이 모두 같지는 않았다. 따라서 이 운동을 하나의 중앙 조직이 지휘한 단일 사건으로 설명하지 않는다. 월가의 시위를 가리킬 때와 국제적으로 확산된 운동 전체를 가리킬 때의 범위를 구별한다."
+      ],
+      [
+        "관련 작품",
+        "일부 시위에서 [[가이 포크스 가면]]이 저항의 표지로 등장했으나 오큐파이 운동만의 전용 상징은 아니다. 가면을 사용한 장면만으로 참가자가 [[어나니머스]] 소속이라고 판단할 수 없다. 현실의 시위와 작품 속 시위 묘사를 연결할 때에도 실제 사건과 창작 장면을 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

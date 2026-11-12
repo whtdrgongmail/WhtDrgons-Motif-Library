@@ -4,8 +4,8 @@
   "title": "적이 지키는 해안에 상륙하기",
   "original": "Storming the Beaches",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00778",
+  "primary_tag_id": "ML-T00778",
   "description": {
     "definition": "물 건너에서 온 군사 세력이 방어자의 공격을 받으며 해안에 발판을 확보하려는 전투이다. 물과 육지의 경계가 충돌의 중심이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "평온한 해변 도착과 달리 적의 저항 속에 거점을 확보하는 목적이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "물 건너에서 접근한 세력이 적이 방어하는 해안에 상륙해 발판을 확보하는 전투다. 수상 이동에서 육상 전투로 바뀌는 경계가 주요 장애가 된다.\n\n병력은 이동 수단에서 내려 방어선에 접근해야 하므로 행동이 제한될 수 있다. 해안에 도달하는 과정과 도착 뒤 진지를 확보하는 과정이 연속된 목표로 구성된다.\n\n배끼리 싸우는 해전과는 중심 목적이 다르다. 사용되는 이동 수단과 무기는 시대와 세계관에 따라 바뀌지만 적이 지키는 물가를 넘어야 한다는 조건은 유지된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "물 건너에서 접근한 세력이 적이 방어하는 해안에 상륙해 발판을 확보하는 전투다. 수상 이동에서 육상 전투로 바뀌는 경계가 주요 장애가 된다.\n\n병력은 이동 수단에서 내려 방어선에 접근해야 하므로 행동이 제한될 수 있다. 해안에 도달하는 과정과 도착 뒤 진지를 확보하는 과정이 연속된 목표로 구성된다.\n\n배끼리 싸우는 해전과는 중심 목적이 다르다. 사용되는 이동 수단과 무기는 시대와 세계관에 따라 바뀌지만 적이 지키는 물가를 넘어야 한다는 조건은 유지된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

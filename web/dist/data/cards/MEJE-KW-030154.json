@@ -4,8 +4,8 @@
   "title": "욕설의 문구 대신 욕했다는 행동만 서술하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01952",
+  "primary_tag_id": "ML-T01952",
   "description": {
     "definition": "욕설을 직접 인용하지 않고 인물이 욕을 했거나 저주했다는 행동 설명으로 발화를 전달하는 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "발화를 없었던 일로 만들지 않으며 실제 문구의 음향을 가리는 방식과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 한 욕설을 직접 적지 않고 욕했다는 행동 설명으로 전달한다. 구체적인 문구는 제시하지 않아도 발화가 있었다는 사실은 남는다.\n\n표현 수위를 낮추면서도 분노나 무례함을 서술에 유지할 수 있다. 무엇이라고 말했는지보다 어떤 종류의 말을 했는지로 정보를 바꾸는 방식이다.\n\n욕설이 없었던 일로 처리되는 것은 아니다. 실제 소리를 내보낸 뒤 일부를 가리는 방식과도 전달 수단이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 한 욕설을 직접 적지 않고 욕했다는 행동 설명으로 전달한다. 구체적인 문구는 제시하지 않아도 발화가 있었다는 사실은 남는다.\n\n표현 수위를 낮추면서도 분노나 무례함을 서술에 유지할 수 있다. 무엇이라고 말했는지보다 어떤 종류의 말을 했는지로 정보를 바꾸는 방식이다.\n\n욕설이 없었던 일로 처리되는 것은 아니다. 실제 소리를 내보낸 뒤 일부를 가리는 방식과도 전달 수단이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

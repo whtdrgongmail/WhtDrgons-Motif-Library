@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "단간론파 -희망의 학원과 절망의 고교생-",
   "original": "Danganronpa: Trigger Happy Havoc",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "단간론파: 희망의 학원과 절망의 고교생"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《단간론파 -희망의 학원과 절망의 고교생-》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《단간론파 -희망의 학원과 절망의 고교생-》는 원문에서 선형 줄거리를 가진 비주얼 노벨로 분류한다. 플레이 과정의 상호작용과 큰 이야기의 단일한 진행을 구별하는 사례다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,9 +41,34 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-021467",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-021468",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-021469",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-024515",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《단간론파 -희망의 학원과 절망의 고교생-》는 특별한 재능을 지닌 학생들이 모인 학교에서 벌어지는 미스터리 어드벤처 게임이다. 추첨으로 입학한 나에기 마코토는 첫 등교 날 의식을 잃고, 다른 학생들과 함께 폐쇄된 학원에 갇힌다.\n\n희망을 상징하던 학교가 서로를 의심하고 살인 사건을 조사해야 하는 공간으로 바뀐다. 인물과 대화하며 정보를 얻는 과정과 증거로 진술의 모순을 밝히는 학급재판이 연결되어, 학생들과 가까워지는 일과 범인을 찾아야 하는 일이 동시에 진행된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《단간론파 -희망의 학원과 절망의 고교생-》는 특별한 재능을 지닌 학생들이 모인 학교에서 벌어지는 미스터리 어드벤처 게임이다. 추첨으로 입학한 나에기 마코토는 첫 등교 날 의식을 잃고, 다른 학생들과 함께 폐쇄된 학원에 갇힌다.\n\n희망을 상징하던 학교가 서로를 의심하고 살인 사건을 조사해야 하는 공간으로 바뀐다. 인물과 대화하며 정보를 얻는 과정과 증거로 진술의 모순을 밝히는 학급재판이 연결되어, 학생들과 가까워지는 일과 범인을 찾아야 하는 일이 동시에 진행된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

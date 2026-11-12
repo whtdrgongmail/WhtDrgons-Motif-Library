@@ -5,8 +5,8 @@
   "original": "Color-Coded Health and Status Meter",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02155",
+  "primary_tag_id": "ML-T02155",
   "description": {
     "definition": "체력의 위험 수준이나 중독 같은 상태 변화에 따라 계기의 색이나 점멸을 바꾼다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.010.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "체력계의 색과 점멸을 위험 수준이나 상태 이상에 따라 바꾼다. 숫자와 길이 외에 추가적인 시각 정보가 상태를 전달한다.\n\n작은 계기를 자세히 읽지 않아도 급한 변화를 알아차릴 수 있다. 체력의 양과 별개인 중독 등의 조건을 같은 표시 영역에 함께 전달한다.\n\n항상 같은 색인 장식적 계기와 다르다. 색의 의미와 전환 기준은 개별 게임에서 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "체력계의 색과 점멸을 위험 수준이나 상태 이상에 따라 바꾼다. 숫자와 길이 외에 추가적인 시각 정보가 상태를 전달한다.\n\n작은 계기를 자세히 읽지 않아도 급한 변화를 알아차릴 수 있다. 체력의 양과 별개인 중독 등의 조건을 같은 표시 영역에 함께 전달한다.\n\n항상 같은 색인 장식적 계기와 다르다. 색의 의미와 전환 기준은 개별 게임에서 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

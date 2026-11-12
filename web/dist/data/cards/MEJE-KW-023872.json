@@ -4,8 +4,8 @@
   "title": "처음부터 뻔한 용의자는 무죄로 드러나기",
   "original": "Never the Obvious Suspect",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "추리 이야기 초반에 범인으로 너무 명백해 보이는 용의자를 제시한 뒤 그가 범인이 아니라고 밝혀 추측을 뒤집는 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "의심받았다는 이유만으로 모든 용의자가 무죄가 되는 규칙은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "초반에 너무 뻔한 용의자를 제시한 뒤 그가 범인이 아니라고 밝혀 수사를 다른 방향으로 돌리는 구성이다. 첫 인상과 실제 증거가 다르다.\n\n동기와 기회가 충분해 보였어도 알리바이와 새로운 사실로 가능성이 제거될 수 있다. 관객은 이전 정보의 다른 의미와 남은 인물의 관계를 다시 검토한다.\n\n처음의 용의자가 실제 범인인 반전과는 결과가 반대다. 무죄가 확인되는 범위와 다른 잘못이 있는지는 별개의 문제다.",
+    "sections": [
+      [
+        "상세 설명",
+        "초반에 너무 뻔한 용의자를 제시한 뒤 그가 범인이 아니라고 밝혀 수사를 다른 방향으로 돌리는 구성이다. 첫 인상과 실제 증거가 다르다.\n\n동기와 기회가 충분해 보였어도 알리바이와 새로운 사실로 가능성이 제거될 수 있다. 관객은 이전 정보의 다른 의미와 남은 인물의 관계를 다시 검토한다.\n\n처음의 용의자가 실제 범인인 반전과는 결과가 반대다. 무죄가 확인되는 범위와 다른 잘못이 있는지는 별개의 문제다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

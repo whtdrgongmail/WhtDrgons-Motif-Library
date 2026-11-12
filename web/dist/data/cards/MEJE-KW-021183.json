@@ -4,39 +4,56 @@
   "title": "기이한 비밀을 품은 고립된 섬",
   "original": "Island of Mystery",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01323",
+  "primary_tag_id": "ML-T01323",
   "description": {
     "definition": "외부와 쉽게 왕래할 수 없는 섬에 낯선 생물·문명·기술·현상이 모여 있어 방문자가 그 비밀을 탐색하고 탈출해야 하는 장소 설정이다.",
     "detail": "안개·항로 이상·은폐 장치 등으로 발견하기 어렵고 나가는 일은 더 어려울 수 있다. 외부 도움의 부재와 한정된 탐사 공간이 결합된다.\n\n작품 사례: 《[[원피스]]》의 리틀 가든에는 공룡이 살아 있어, 낯선 섬을 탐험하는 항해가 선사시대 같은 생태계와의 만남이 된다.",
     "usage": "고립된 환경에서 신비를 발견하고 스스로 생존과 귀환을 해결하는 모험을 만든다.",
-    "boundary": "기밀 시설이라는 기능만 있는 섬 기지나 특별한 비밀이 없는 평범한 무인도와 구별한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "14",
+    "code": "14.010.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "난파해 도착한 섬에는 지도에 없는 폐허와 기이한 생명체가 숨어 있다.\n\n작품 사례: 《[[원피스]]》의 리틀 가든에는 공룡이 살아 있어, 낯선 섬을 탐험하는 항해가 선사시대 같은 생태계와의 만남이 된다.",
+    "easy_ko": "난파해 도착한 섬에는 지도에 없는 폐허와 기이한 생명체가 숨어 있다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》의 리틀 가든에는 공룡이 살아 있어, 낯선 섬을 탐험하는 항해가 선사시대 같은 생태계와의 만남이 된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "안개·항로 이상·은폐 장치 등으로 발견하기 어렵고 나가는 일은 더 어려울 수 있다. 외부 도움의 부재와 한정된 탐사 공간이 결합된다.\n\n기밀 시설이라는 기능만 있는 섬 기지나 특별한 비밀이 없는 평범한 무인도와 구별한다.\n\n《[[원피스(만화)]]》의 리틀 가든에는 공룡이 살아 있어, 낯선 섬을 탐험하는 항해가 선사시대 같은 생태계와의 만남이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "안개·항로 이상·은폐 장치 등으로 발견하기 어렵고 나가는 일은 더 어려울 수 있다. 외부 도움의 부재와 한정된 탐사 공간이 결합된다.\n\n기밀 시설이라는 기능만 있는 섬 기지나 특별한 비밀이 없는 평범한 무인도와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[원피스(만화)]]》의 리틀 가든에는 공룡이 살아 있어, 낯선 섬을 탐험하는 항해가 선사시대 같은 생태계와의 만남이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

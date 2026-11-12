@@ -4,8 +4,8 @@
   "title": "관객만 먼저 아는 진실",
   "original": "Dramatic Irony",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01941",
+  "primary_tag_id": "ML-T01941",
   "description": {
     "definition": "인물은 모르는 사실을 관객이 먼저 알기 때문에 같은 말과 행동이 두 층위로 읽히는 [[서사]] 기법이다.",
     "detail": "작품 사례: [[Much Ado About Nothing]]에서 클라우디오는 히어로가 죽었다고 믿고 다른 여성과의 결혼을 받아들이지만, 관객은 히어로가 살아 있고 이것이 시험임을 안다.",
@@ -13,10 +13,10 @@
     "boundary": "관객과 인물이 동시에 진실을 알아차리는 단순 반전과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "23",
+    "code": "23.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "극적 아이러니는 [[관객]]과 등장인물 사이의 정보 격차가 말과 행동을 다르게 읽히게 하는 [[서사]] 기법이다. 관객이 먼저 아는 사실은 평범한 장면에 긴장이나 이중 의미를 더한다.\n\n관객이 먼저 안다는 사실이 장면의 긴장이나 의미를 바꾸는지 검토한다. 관객과 인물이 동시에 진실을 알게 되는 반전은 정보 격차가 없어 구별된다. 선행 정보가 이후 장면을 지속적으로 다르게 읽게 할 때 이 기법의 작동이 분명해진다.\n\n사례: [[Much Ado About Nothing]]에서 클라우디오는 히어로가 죽었다고 믿지만, 관객은 그녀가 살아 있고 시험이 진행 중임을 안다.",
+    "sections": [
+      [
+        "상세 설명",
+        "극적 아이러니는 [[관객]]과 등장인물 사이의 정보 격차가 말과 행동을 다르게 읽히게 하는 [[서사]] 기법이다. 관객이 먼저 아는 사실은 평범한 장면에 긴장이나 이중 의미를 더한다.\n\n관객이 먼저 안다는 사실이 장면의 긴장이나 의미를 바꾸는지 검토한다. 관객과 인물이 동시에 진실을 알게 되는 반전은 정보 격차가 없어 구별된다. 선행 정보가 이후 장면을 지속적으로 다르게 읽게 할 때 이 기법의 작동이 분명해진다."
+      ],
+      [
+        "사례",
+        "사례: [[Much Ado About Nothing]]에서 클라우디오는 히어로가 죽었다고 믿지만, 관객은 그녀가 살아 있고 시험이 진행 중임을 안다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

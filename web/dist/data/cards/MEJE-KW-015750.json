@@ -4,8 +4,8 @@
   "title": "노예 집단을 해방해 새 터전으로 이끄는 지도자",
   "original": "Moses Archetype",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "예속된 사람들을 해방하고 약속된 새 삶의 터전으로 인도하는 과정을 중심 역할로 맡는 지도자 원형이다.",
     "detail": "작품 사례: 《[[Alien Chronicles]]》의 암프리스는 지배 종족에게 예속된 이들의 해방을 이끌고 새로운 고향 Ruu-113으로 집단 이주를 이끈다.",
@@ -13,10 +13,10 @@
     "boundary": "개인 한 명을 구조하거나 목적지 없이 권력을 무너뜨리는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "예속된 집단을 해방하는 행동과 새로운 생활 터전으로 인도하는 행동이 한 지도자의 역할로 연결된다. 권력을 무너뜨리는 순간 이후에도 집단이 함께 이동하고 정착할 방향을 마련하는 책임이 이어진다.\n\n개인 한 명의 구조나 목적지 없는 봉기만으로는 같은 구도가 성립하지 않는다. 해방되는 집단과 그들이 향하는 새 터전이 지도자의 활동을 통해 연결되는지 확인한다.\n\n《[[Alien Chronicles]]》의 암프리스는 지배 종족에게 예속된 이들의 해방을 이끌고 Ruu-113을 새 고향으로 삼아 이주를 인도한다. 집단 해방과 이동의 두 단계가 결합된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "예속된 집단을 해방하는 행동과 새로운 생활 터전으로 인도하는 행동이 한 지도자의 역할로 연결된다. 권력을 무너뜨리는 순간 이후에도 집단이 함께 이동하고 정착할 방향을 마련하는 책임이 이어진다.\n\n개인 한 명의 구조나 목적지 없는 봉기만으로는 같은 구도가 성립하지 않는다. 해방되는 집단과 그들이 향하는 새 터전이 지도자의 활동을 통해 연결되는지 확인한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Alien Chronicles]]》의 암프리스는 지배 종족에게 예속된 이들의 해방을 이끌고 Ruu-113을 새 고향으로 삼아 이주를 인도한다. 집단 해방과 이동의 두 단계가 결합된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

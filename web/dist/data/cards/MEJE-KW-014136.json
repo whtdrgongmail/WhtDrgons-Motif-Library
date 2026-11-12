@@ -4,8 +4,8 @@
   "title": "인간성을 파괴하는 감옥",
   "original": "Hellhole Prison",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01297",
+  "primary_tag_id": "ML-T01297",
   "description": {
     "definition": "극심한 결핍·폭력·감시·실험 등으로 수감자를 억압하고 무너뜨리는 감옥 배경이다.",
     "detail": "작품 사례: [[Gamer]]의 수감자들은 대중의 오락을 위한 전쟁 게임에 동원되고, 교도관은 수감자가 무너지는 모습에도 무심하게 반응한다.",
@@ -13,10 +13,10 @@
     "boundary": "탈출이 어렵다는 조건만 있는 보안형 감옥과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수감 환경이 존엄과 생존을 침해하며 사람을 소모 가능한 대상으로 취급하는 감옥이다. 감시와 구금은 통제에 그치지 않고 인간성을 훼손하는 조건이 된다.\n\n탈출하기 어렵다는 보안의 강도만으로는 충분하지 않다. 어떤 제도와 대우가 수감자의 인격을 부정하는지 구체적인 근거가 필요하다.\n\n[[Gamer]]의 수감자들은 대중이 즐기는 전쟁 게임에 동원된다. 교도관은 그들이 무너지는 과정에 무심해 오락의 수단과 비인간적인 대우가 결합된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수감 환경이 존엄과 생존을 침해하며 사람을 소모 가능한 대상으로 취급하는 감옥이다. 감시와 구금은 통제에 그치지 않고 인간성을 훼손하는 조건이 된다.\n\n탈출하기 어렵다는 보안의 강도만으로는 충분하지 않다. 어떤 제도와 대우가 수감자의 인격을 부정하는지 구체적인 근거가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Gamer]]의 수감자들은 대중이 즐기는 전쟁 게임에 동원된다. 교도관은 그들이 무너지는 과정에 무심해 오락의 수단과 비인간적인 대우가 결합된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

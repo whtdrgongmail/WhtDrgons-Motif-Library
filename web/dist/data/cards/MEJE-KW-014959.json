@@ -4,8 +4,8 @@
   "title": "범죄자 사이에도 지키는 의리",
   "original": "Honor Among Thieves",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00996",
+  "primary_tag_id": "ML-T00996",
   "description": {
     "definition": "법과 일반적 규범을 어기는 인물들이 자기 동료에게는 신뢰·충성·명예를 지키며 위기 때도 서로를 저버리지 않는 관계 관습이다.",
     "detail": "작품 사례: [[The Book of Mormon]]의 비밀 결사는 구성원끼리 법의 추적에서 서로를 감싸며, 그 결속이 범죄를 막는 데 큰 장애가 된다.",
@@ -13,10 +13,10 @@
     "boundary": "모든 사람에게 선한 인물이나 배신의 손해만 계산한 일시적 협력과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "범죄 집단 안에서도 서로 보호하고 약속을 지키는 유대가 나타나는 관계다. 외부에 대한 악행과 내부의 의리가 동시에 성립할 수 있다.\n\n모든 사람에게 선하다는 뜻은 아니다. 배신의 손해만 계산한 일시적 협력과 구분되며 내부의 결속이 실제 행동의 이유가 되어야 한다.\n\n[[The Book of Mormon]]의 비밀 결사는 법의 추적에서 구성원을 서로 보호한다. 그 결속이 범죄를 막기 어렵게 해 내부 의리의 존재와 외부의 해악이 함께 드러난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "범죄 집단 안에서도 서로 보호하고 약속을 지키는 유대가 나타나는 관계다. 외부에 대한 악행과 내부의 의리가 동시에 성립할 수 있다.\n\n모든 사람에게 선하다는 뜻은 아니다. 배신의 손해만 계산한 일시적 협력과 구분되며 내부의 결속이 실제 행동의 이유가 되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Book of Mormon]]의 비밀 결사는 법의 추적에서 구성원을 서로 보호한다. 그 결속이 범죄를 막기 어렵게 해 내부 의리의 존재와 외부의 해악이 함께 드러난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

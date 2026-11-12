@@ -4,8 +4,8 @@
   "title": "화산 안에 숨긴 악당의 기지",
   "original": "Volcano Lair",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01316",
+  "primary_tag_id": "ML-T01316",
   "description": {
     "definition": "악역이 화산 내부를 은신처나 지휘 기지로 사용하는 공간 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "화산 근처에서 잠시 싸우는 장면과 달리 활동의 본거지여야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화산 안을 악당의 은신처와 지휘 시설로 사용하는 공간 설정이다. 큰 지형의 고립감과 내부의 열이 권력과 위험의 이미지를 만든다.\n\n용암을 둘러싼 통로와 동굴 구조는 침입과 탈출의 장애가 된다. 시설의 붕괴와 분화가 겹치면 악당의 패배가 기지 전체의 파괴로 확대될 수 있다.\n\n화산 근처에 있는 일반 건물과는 위치와 이미지의 기능이 다르다. 지열을 이용하는 기술적 이유가 제시될 수도 있지만 과시와 [[상징]]만으로 선택되는 경우도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화산 안을 악당의 은신처와 지휘 시설로 사용하는 공간 설정이다. 큰 지형의 고립감과 내부의 열이 권력과 위험의 이미지를 만든다.\n\n용암을 둘러싼 통로와 동굴 구조는 침입과 탈출의 장애가 된다. 시설의 붕괴와 분화가 겹치면 악당의 패배가 기지 전체의 파괴로 확대될 수 있다.\n\n화산 근처에 있는 일반 건물과는 위치와 이미지의 기능이 다르다. 지열을 이용하는 기술적 이유가 제시될 수도 있지만 과시와 [[상징]]만으로 선택되는 경우도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

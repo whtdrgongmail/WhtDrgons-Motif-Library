@@ -4,8 +4,8 @@
   "title": "행방을 모른 채 바다를 떠도는 인물",
   "original": "Lost at Sea",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00863",
+  "primary_tag_id": "ML-T00863",
   "description": {
     "definition": "바다에 표류하는 인물의 위치를 외부 사람들이 알지 못해, 구조와 귀환이 불확실해진 고립 상황.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "계획된 항해나 위치가 계속 전달되는 해상 체류와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "육지로 돌아갈 수단 없이 바다에 떠 있어 구조와 귀환이 불확실한 고립 상황이다. 배가 있어도 위치와 항로를 모르면 주변의 넓은 공간은 탈출 경로가 되지 못한다.\n\n폭풍과 난파 뒤 구명정이나 떠다니는 잔해에 의지하는 구성이 흔하다. 마실 물과 식량이 줄면서 협력과 분배가 갈등으로 바뀌고 구조 신호를 보낼 기회가 중요한 사건이 된다.\n\n무인도에 갇힌 상태와 달리 안정적인 땅과 자원이 없다는 조건이 중심이다. 외부 사람들이 행방을 모르면 기다림 자체의 전망이 사라져, 우연한 발견과 스스로 방향을 찾는 행동 사이에서 긴장이 생긴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "육지로 돌아갈 수단 없이 바다에 떠 있어 구조와 귀환이 불확실한 고립 상황이다. 배가 있어도 위치와 항로를 모르면 주변의 넓은 공간은 탈출 경로가 되지 못한다.\n\n폭풍과 난파 뒤 구명정이나 떠다니는 잔해에 의지하는 구성이 흔하다. 마실 물과 식량이 줄면서 협력과 분배가 갈등으로 바뀌고 구조 신호를 보낼 기회가 중요한 사건이 된다.\n\n무인도에 갇힌 상태와 달리 안정적인 땅과 자원이 없다는 조건이 중심이다. 외부 사람들이 행방을 모르면 기다림 자체의 전망이 사라져, 우연한 발견과 스스로 방향을 찾는 행동 사이에서 긴장이 생긴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

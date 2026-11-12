@@ -6,17 +6,17 @@
   "aliases": [
     "Battlestar Galactica"
   ],
-  "tag_id": null,
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
-    "definition": "《배틀스타 갤럭티카》는 텔레비전 작품이다.",
-    "detail": "작품 사례: 《배틀스타 갤럭티카》 2003년판은 신형 기체의 명명식에서 로슬린이 샴페인 병을 부딪칠 듯하다가 마개만 따는 변주로 의식과 기체의 취약함을 함께 드러낸다.",
+    "definition": "《배틀스타 갤럭티카》(2003)는 동명의 1978년 작품을 재구성한 SF 텔레비전 시리즈다. 2003년 미니시리즈에서 시작해 후속 시즌으로 이어졌으며 프랜차이즈 전체와는 구별된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -32,10 +32,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《배틀스타 갤럭티카》 2003년판은 신형 기체의 명명식에서 로슬린이 샴페인 병을 부딪칠 듯하다가 마개만 따는 변주로 의식과 기체의 취약함을 함께 드러낸다.",
+    "easy_ko": "2003년 미니시리즈에서 시작한 새 《배틀스타 갤럭티카》 시리즈다. 1978년 원작이나 작품군 전체와 구분해 볼 수 있다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-11",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -49,5 +49,29 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000327",
+      "card_id": "MM-MEDIA-003438",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.syfy.com/syfy-wire/11-essential-battlestar-galactica-episodes",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "《배틀스타 갤럭티카》(2003)는 1978년 작품의 기본 설정을 새롭게 구성한 [[SF]] 텔레비전 시리즈다. 2003년 [[미니시리즈]]에서 시작해 네 시즌의 본편으로 이어졌으며, 로널드 D. 무어가 개발에 참여했다.\n\n인류의 거주지인 열두 식민지는 사일런의 공격을 받고, 살아남은 사람들은 전함 갤럭티카가 이끄는 함대에서 생존을 이어 간다. 군사적 방어와 민간인의 정치적 결정이 같은 집단의 생존 문제로 연결된다.\n\n이 판본은 원작을 그대로 연장한 후속 이야기가 아니라 [[리부트]]에 해당한다. 프랜차이즈 전체나 1978년판의 사건을 이 시리즈의 장면으로 간주하지 않고, 사례를 기록할 때 2003년 시작 판본에 속하는지 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《배틀스타 갤럭티카》(2003)는 1978년 작품의 기본 설정을 새롭게 구성한 [[SF]] 텔레비전 시리즈다. 2003년 [[미니시리즈]]에서 시작해 네 시즌의 본편으로 이어졌으며, 로널드 D. 무어가 개발에 참여했다.\n\n인류의 거주지인 열두 식민지는 사일런의 공격을 받고, 살아남은 사람들은 전함 갤럭티카가 이끄는 함대에서 생존을 이어 간다. 군사적 방어와 민간인의 정치적 결정이 같은 집단의 생존 문제로 연결된다.\n\n이 판본은 원작을 그대로 연장한 후속 이야기가 아니라 [[리부트]]에 해당한다. 프랜차이즈 전체나 1978년판의 사건을 이 시리즈의 장면으로 간주하지 않고, 사례를 기록할 때 2003년 시작 판본에 속하는지 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

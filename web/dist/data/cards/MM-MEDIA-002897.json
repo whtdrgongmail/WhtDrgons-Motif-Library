@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "카툰 네트워크 액션 팩",
   "original": "Cartoon Network Action Pack",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Cartoon Network Action Pack"
+  ],
+  "tag_id": "ML-T02513",
   "primary_tag_id": "ML-T02513",
   "description": {
     "definition": "《카툰 네트워크 액션 팩》은 만화 작품이다.",
-    "detail": "작품 사례: 《카툰 네트워크 액션 팩》의 벤 관련 이야기에서는 실제 구조 장면을 다르게 편집해 기자가 영웅이고 벤이 무력한 인물인 것처럼 방송한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 4,
   "classification": {
     "code": "02.020",
     "review_status": "provisional",
@@ -43,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《카툰 네트워크 액션 팩》은 카툰 네트워크의 액션 [[애니메이션]]을 각색한 DC의 만화 선집이다. 서로 다른 애니메이션의 인물들을 여러 이야기로 수록하는 만화 선집이다.\n\n벤 관련 이야기에서는 실제 구조 장면이 편집되어 방송된다. 기자가 영웅처럼 보이고 벤의 역할은 축소된다. 한 작품의 연속 줄거리보다 각 원작의 세계와 형식을 만화로 옮긴 여러 구성의 공존이 특징이다.\n\n현장에서 벌어진 사건과 시청자에게 전달되는 영상의 내용이 다르다. 편집 권한이 인물에 대한 평판을 바꾸는 장치다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《카툰 네트워크 액션 팩》은 카툰 네트워크의 액션 [[애니메이션]]을 각색한 DC의 만화 선집이다. 서로 다른 애니메이션의 인물들을 여러 이야기로 수록하는 만화 선집이다.\n\n벤 관련 이야기에서는 실제 구조 장면이 편집되어 방송된다. 기자가 영웅처럼 보이고 벤의 역할은 축소된다. 한 작품의 연속 줄거리보다 각 원작의 세계와 형식을 만화로 옮긴 여러 구성의 공존이 특징이다.\n\n현장에서 벌어진 사건과 시청자에게 전달되는 영상의 내용이 다르다. 편집 권한이 인물에 대한 평판을 바꾸는 장치다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

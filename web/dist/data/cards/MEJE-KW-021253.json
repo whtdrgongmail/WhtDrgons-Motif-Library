@@ -4,8 +4,8 @@
   "title": "특정 역할만 쓸 수 있는 아이템",
   "original": "Exclusive Items",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02097",
+  "primary_tag_id": "ML-T02097",
   "description": {
     "definition": "게임의 특정 역할이나 인물 유형에게만 사용이 허용되는 소모품·도구를 두어 그 역할에 독자적인 활용 범위를 주는 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "인물 전용 갑옷 같은 단순 장비 착용 제한보다 아이템 활용 역할의 독자성을 다룬다. 누구나 쓰되 더 강해지는 경우는 효과 증폭에 해당한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 역할만 도구를 사용할 수 있으면 파티의 차이는 능력치뿐 아니라 가능한 행동에도 생긴다. 같은 물건을 얻어도 활용할 담당자가 필요해진다.\n\n아이템 담당이 구분되면 물건을 얻는 일과 쓸 사람을 준비하는 일이 나뉜다. 파티 구성은 단순한 피해량 비교를 넘어 어떤 상황에 어떤 도구로 대응할 수 있는지를 결정한다.\n\n누구나 사용하되 한 역할의 효과만 커지는 경우와는 다르다. 단순한 착용 제한보다 아이템 활용의 독자성이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 역할만 도구를 사용할 수 있으면 파티의 차이는 능력치뿐 아니라 가능한 행동에도 생긴다. 같은 물건을 얻어도 활용할 담당자가 필요해진다.\n\n아이템 담당이 구분되면 물건을 얻는 일과 쓸 사람을 준비하는 일이 나뉜다. 파티 구성은 단순한 피해량 비교를 넘어 어떤 상황에 어떤 도구로 대응할 수 있는지를 결정한다.\n\n누구나 사용하되 한 역할의 효과만 커지는 경우와는 다르다. 단순한 착용 제한보다 아이템 활용의 독자성이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

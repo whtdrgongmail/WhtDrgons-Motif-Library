@@ -4,8 +4,8 @@
   "title": "함께 늙어 가는 연인",
   "original": "Grow Old with Me",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "젊거나 중년일 때 이어진 연인 [[관계]]가 노년까지 지속되는 모습을 보여 사랑의 [[시간]]과 동행을 강조하는 모티프다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "노년에 처음 만나 시작한 [[연애]]와 달리 함께 보낸 긴 시간이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "오래된 연인이 주름진 모습으로도 서로를 돌보며 같은 추억을 나눈다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "젊거나 중년일 때 시작한 연애가 노년까지 이어진다. 사랑의 성립뿐 아니라 함께 늙는 시간이 관계의 중심이 되는 모티프다.\n\n지나간 세월을 두 사람이 공유한다는 사실이 지속성과 동행을 보여 준다. 나이 든 현재의 모습은 이전부터 이어진 애정의 역사와 연결된다.\n\n노년에 처음 만나 시작한 연애와 다르다. 노인 연인이 등장한다는 외형보다 함께 보낸 긴 시간이 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "젊거나 중년일 때 시작한 연애가 노년까지 이어진다. 사랑의 성립뿐 아니라 함께 늙는 시간이 관계의 중심이 되는 모티프다.\n\n지나간 세월을 두 사람이 공유한다는 사실이 지속성과 동행을 보여 준다. 나이 든 현재의 모습은 이전부터 이어진 애정의 역사와 연결된다.\n\n노년에 처음 만나 시작한 연애와 다르다. 노인 연인이 등장한다는 외형보다 함께 보낸 긴 시간이 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

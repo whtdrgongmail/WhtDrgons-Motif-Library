@@ -4,8 +4,8 @@
   "title": "동료를 부르는 기능 버튼",
   "original": "Holler Button",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "플레이어 캐릭터가 외쳐 비플레이어 인물을 부르거나 지시할 수 있고 그 호출이 게임 규칙에 실제 영향을 주는 입력 기능이다.",
     "detail": "작품 사례: [[Haunting Ground]]에서 플레이어가 호출 입력을 하면 피오나가 개 동료 휴이를 부르며, 평온할 때의 부름이 위협받는 상황에서는 다급한 도움 요청으로 바뀐다.",
@@ -13,10 +13,10 @@
     "boundary": "소리만 내고 게임 상황을 바꾸지 않는 장식적 외침과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "호출 입력으로 동료의 위치와 행동, 지원 상태를 바꾸게 하는 게임 기능이다. 인물의 외침이 실제 조작과 협력의 수단이 된다.\n\n소리만 들리고 상황에는 영향을 주지 않는 장식적 외침과 다르다. 호출 뒤의 반응과 기능적인 결과가 확인되어야 한다.\n\n[[Haunting Ground]]에서 호출 입력은 피오나가 개 동료 휴이를 부르게 한다. 평온한 부름은 위협 속에서 다급한 도움 요청으로 바뀌어 같은 기능이 상황의 정서도 전달한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "호출 입력으로 동료의 위치와 행동, 지원 상태를 바꾸게 하는 게임 기능이다. 인물의 외침이 실제 조작과 협력의 수단이 된다.\n\n소리만 들리고 상황에는 영향을 주지 않는 장식적 외침과 다르다. 호출 뒤의 반응과 기능적인 결과가 확인되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Haunting Ground]]에서 호출 입력은 피오나가 개 동료 휴이를 부르게 한다. 평온한 부름은 위협 속에서 다급한 도움 요청으로 바뀌어 같은 기능이 상황의 정서도 전달한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

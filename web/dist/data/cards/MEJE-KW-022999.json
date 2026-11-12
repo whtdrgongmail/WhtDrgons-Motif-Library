@@ -4,8 +4,8 @@
   "title": "성별 전환과 함께 바꾸는 파생 이름",
   "original": "Sobriquet Sex Switch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "성별이나 [[성별 표현]]을 바꾼 인물이 원래 이름에서 파생된 새 이름을 사용하는 명명 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "결과가 반드시 어색하거나 즉흥적일 필요는 없어 주카드의 우스운 이름 변형과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성별과 [[성별 표현]]이 바뀐 인물이 기존 이름에서 파생한 새 이름을 쓰는 방식이다. 변화한 모습과 이전 인물의 연속성을 동시에 전달한다.\n\n비슷한 소리와 철자를 유지하거나 같은 글자를 다르게 읽어 연결을 만들 수 있다. 관객은 새 이름을 처음 들어도 원래 인물과의 관계를 짐작하며 별도의 소개 부담을 줄인다.\n\n모든 사람이 성별 변화와 함께 이름을 바꾸는 것은 아니다. 중립적인 이름을 그대로 쓰거나 완전히 다른 이름을 선택할 수도 있으며, 허구의 편리한 관습을 현실의 개인 선택에 대한 규칙으로 일반화할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성별과 [[성별 표현]]이 바뀐 인물이 기존 이름에서 파생한 새 이름을 쓰는 방식이다. 변화한 모습과 이전 인물의 연속성을 동시에 전달한다.\n\n비슷한 소리와 철자를 유지하거나 같은 글자를 다르게 읽어 연결을 만들 수 있다. 관객은 새 이름을 처음 들어도 원래 인물과의 관계를 짐작하며 별도의 소개 부담을 줄인다.\n\n모든 사람이 성별 변화와 함께 이름을 바꾸는 것은 아니다. 중립적인 이름을 그대로 쓰거나 완전히 다른 이름을 선택할 수도 있으며, 허구의 편리한 관습을 현실의 개인 선택에 대한 규칙으로 일반화할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

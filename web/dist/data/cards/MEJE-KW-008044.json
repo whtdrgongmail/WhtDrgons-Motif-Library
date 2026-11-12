@@ -4,8 +4,8 @@
   "title": "아이와 어른 모습 사이의 변신",
   "original": "Dual Age Modes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01496",
+  "primary_tag_id": "ML-T01496",
   "description": {
     "definition": "인물이 어린 모습과 성장한 모습 두 가지를 오가며 상황에 맞는 외형과 능력을 사용한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.001.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 인물이 어린 외형과 성장한 외형 사이를 오가는 변신 설정이다. 두 모습은 대체로 서로 닮아 있어 동일 인물의 다른 나이 상태로 인식된다.\n\n한쪽이 본래 모습이고 외부 자극이나 능력에 의해 다른 쪽이 나타날 수 있다. 어린 외형은 무해하거나 친근한 인상을 주고, 성장한 외형은 힘이나 권위를 표현하는 데 쓰이기도 한다.\n\n시간이 흘러 실제로 성장하는 전개와는 구별된다. 변신의 핵심은 두 연령 외형을 사용할 수 있다는 점이며, 각 모습의 능력 차이나 전환 조건은 작품마다 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 인물이 어린 외형과 성장한 외형 사이를 오가는 변신 설정이다. 두 모습은 대체로 서로 닮아 있어 동일 인물의 다른 나이 상태로 인식된다.\n\n한쪽이 본래 모습이고 외부 자극이나 능력에 의해 다른 쪽이 나타날 수 있다. 어린 외형은 무해하거나 친근한 인상을 주고, 성장한 외형은 힘이나 권위를 표현하는 데 쓰이기도 한다.\n\n시간이 흘러 실제로 성장하는 전개와는 구별된다. 변신의 핵심은 두 연령 외형을 사용할 수 있다는 점이며, 각 모습의 능력 차이나 전환 조건은 작품마다 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

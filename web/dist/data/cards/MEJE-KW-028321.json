@@ -4,8 +4,8 @@
   "title": "스테이지를 다시 방문하는 탐험 액션",
   "original": "Crest-Likes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-028321",
+  "primary_tag_id": "MEJE-KW-028321",
   "description": {
     "definition": "세계가 독립된 [[스테이지]]로 나뉘어 있어도 새 능력을 갖고 이전 구역을 반복 탐색할 수 있는 [[탐험]] 액션 구성이다.",
     "detail": "작품 사례: 《[[데몬즈 크레스트]]》는 하나로 완전히 이어진 세계 대신 분리된 스테이지를 사용하는 탐험 액션의 참조로 소개된다.",
@@ -14,24 +14,27 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.203.006",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "지역은 나뉘어 있지만 배운 능력으로 예전 장소를 다시 연다.",
+    "easy_ko": "지역은 나뉘어 있지만 새로 배운 능력을 이용하면 예전 장소를 다시 탐험할 수 있다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-08",
-    "row_version": 4
+    "updated_at": "2026-11-12",
+    "row_version": 5
   },
   "applied_tags": [],
   "related_media": [
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[스테이지]]가 서로 나뉜 탐험 액션에서는 새로운 능력이 이전 구역을 다시 조사할 이유를 만든다. 처음에는 통과할 수 없던 길이나 도달하지 못한 장소가 능력 획득 뒤 접근 가능해지고, 재방문은 세계의 구조와 보상을 확장한다. 진행은 지도 전체를 한 번에 여는 대신 구역과 능력의 조합으로 이루어진다.\n\n이 구성의 핵심은 단순히 여러 스테이지가 있다는 점이 아니라, 능력 성장과 과거 구역의 재탐색이 순환한다는 데 있다. 한 구역을 완료한 뒤 돌아갈 수 없는 선형 진행과 구별된다. 설계할 때는 새 능력이 이동과 상호작용을 어떻게 바꾸는지, 이전 장소에 돌아왔을 때 어떤 선택과 발견이 추가되는지 연결한다.\n\n작품 사례: 《[[데몬즈 크레스트]]》는 구분된 스테이지를 다시 방문하며 새 능력으로 이전에 접근하지 못한 장소를 조사하게 한다. 재탐색이 캐릭터 능력의 성장과 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[스테이지]]가 서로 나뉜 탐험 액션에서는 새로운 능력이 이전 구역을 다시 조사할 이유를 만든다. 처음에는 통과할 수 없던 길이나 도달하지 못한 장소가 능력 획득 뒤 접근 가능해지고, 재방문은 세계의 구조와 보상을 확장한다. 진행은 지도 전체를 한 번에 여는 대신 구역과 능력의 조합으로 이루어진다.\n\n이 구성의 핵심은 단순히 여러 스테이지가 있다는 점이 아니라, 능력 성장과 과거 구역의 재탐색이 순환한다는 데 있다. 한 구역을 완료한 뒤 돌아갈 수 없는 선형 진행과 구별된다. 설계할 때는 새 능력이 이동과 상호작용을 어떻게 바꾸는지, 이전 장소에 돌아왔을 때 어떤 선택과 발견이 추가되는지 연결한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[데몬즈 크레스트]]》는 구분된 스테이지를 다시 방문하며 새 능력으로 이전에 접근하지 못한 장소를 조사하게 한다. 재탐색이 캐릭터 능력의 성장과 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

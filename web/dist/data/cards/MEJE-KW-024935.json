@@ -5,8 +5,8 @@
   "original": "A Major Voice-Actor Replacement in a Long-Running Anime",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02283",
+  "primary_tag_id": "ML-T02283",
   "description": {
     "definition": "장기 애니메이션의 방영처 변화나 수입 재개 같은 제작 조건 변화로 여러 배역의 더빙 배우가 함께 바뀌는 현상이다.",
     "detail": "작품 사례: 《[[포켓몬스터(TV 애니메이션)]]》의 영어 더빙은 여러 해 제작이 이어진 뒤 주요 성우들이 교체되는 사례로 제시된다.",
@@ -14,10 +14,10 @@
     "boundary": "이야기 속 인물 자체의 세대교체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작품 속 인물은 계속 존재하지만 그 목소리를 맡은 배우들이 함께 바뀐다. 장기 방영과 수입, 편성 같은 제작 조건이 교체의 맥락이 된다.\n\n기록에서는 어느 언어판의 어떤 시기에 변화가 있었는지 구분해야 한다. 원작의 진행과 더빙 제작의 이력은 같은 시간이 아닐 수 있다.\n\n인물 자체가 다음 세대로 바뀌는 이야기와는 다르다. 배역을 유지한 채 여러 연기자가 교체되었다는 제작상의 변화가 중심이다.\n\n[[포켓몬스터(TV 애니메이션)]]의 영어 더빙은 장기간 제작 뒤 주요 성우들이 교체된 사례로 정본에 제시된다.\n\n[[포켓몬스터(TV 애니메이션)]]",
+    "sections": [
+      [
+        "상세 설명",
+        "작품 속 인물은 계속 존재하지만 그 목소리를 맡은 배우들이 함께 바뀐다. 장기 방영과 수입, 편성 같은 제작 조건이 교체의 맥락이 된다.\n\n기록에서는 어느 언어판의 어떤 시기에 변화가 있었는지 구분해야 한다. 원작의 진행과 더빙 제작의 이력은 같은 시간이 아닐 수 있다.\n\n인물 자체가 다음 세대로 바뀌는 이야기와는 다르다. 배역을 유지한 채 여러 연기자가 교체되었다는 제작상의 변화가 중심이다."
+      ],
+      [
+        "사례",
+        "[[포켓몬스터(TV 애니메이션)]]의 영어 더빙은 장기간 제작 뒤 주요 성우들이 교체된 사례로 정본에 제시된다."
+      ],
+      [
+        "관련 작품",
+        "[[포켓몬스터(TV 애니메이션)]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,7 +4,7 @@
   "title": "BattleTech",
   "original": "BattleTech",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
     "definition": "이 카드는 테이블톱 게임 《BattleTech》를 가리킨다. 이 라이브러리에서는 [[잔혹하지만 효율적인 독재의 묘사]]의 작품 사례와 연결된다.",
@@ -14,7 +14,7 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -45,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 다른 무장과 방어력, 이동 능력을 가진 배틀메크들을 지형 지도 위에서 맞붙게 하는 테이블톱 전쟁 게임이다. 배경 세계가 확장되면서 특정한 가상 전투를 재현하는 시나리오와 일반 병력, 우주전 및 대규모 전쟁의 규칙도 더해졌다.\n\n군사 세력의 성격은 전투 규칙과 별개로 배경 서사에 기여한다. 유능하지만 냉혹한 쿠리타 가문과 잔혹함 때문에 군을 망친 폰 로어스 가문의 대비는 [[잔혹하지만 효율적인 독재의 묘사]]와 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 다른 무장과 방어력, 이동 능력을 가진 배틀메크들을 지형 지도 위에서 맞붙게 하는 테이블톱 전쟁 게임이다. 배경 세계가 확장되면서 특정한 가상 전투를 재현하는 시나리오와 일반 병력, 우주전 및 대규모 전쟁의 규칙도 더해졌다.\n\n군사 세력의 성격은 전투 규칙과 별개로 배경 서사에 기여한다. 유능하지만 냉혹한 쿠리타 가문과 잔혹함 때문에 군을 망친 폰 로어스 가문의 대비는 [[잔혹하지만 효율적인 독재의 묘사]]와 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

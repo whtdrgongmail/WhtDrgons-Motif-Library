@@ -5,8 +5,8 @@
   "original": "One Actor Plays Every Role",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "한 작품에 등장하는 모든 인물의 연기나 목소리를 동일한 배우가 담당하는 제작 방식이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "한 배우가 몇몇 배역만 겸하는 경우나 등장인물 자체가 한 명뿐인 작품과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작품의 모든 등장인물 연기나 목소리를 한 배우가 담당한다. 등장인물의 수와 연기자의 수가 일대일로 대응하지 않는 제작 방식이다.\n\n여러 인물이 구분되려면 같은 배우의 표현 안에서 차이가 전달되어야 한다. 관객에게는 다양한 인물의 관계가 제시되지만 수행의 출처는 한 사람으로 집중된다.\n\n몇 배역만 겸하는 다역과 범위가 다르다. 등장인물이 원래 한 명뿐인 작품도 모든 배역을 한 사람이 나누어 연기하는 조건과 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작품의 모든 등장인물 연기나 목소리를 한 배우가 담당한다. 등장인물의 수와 연기자의 수가 일대일로 대응하지 않는 제작 방식이다.\n\n여러 인물이 구분되려면 같은 배우의 표현 안에서 차이가 전달되어야 한다. 관객에게는 다양한 인물의 관계가 제시되지만 수행의 출처는 한 사람으로 집중된다.\n\n몇 배역만 겸하는 다역과 범위가 다르다. 등장인물이 원래 한 명뿐인 작품도 모든 배역을 한 사람이 나누어 연기하는 조건과 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

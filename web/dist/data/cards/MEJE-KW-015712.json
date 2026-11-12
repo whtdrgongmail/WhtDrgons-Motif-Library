@@ -4,8 +4,8 @@
   "title": "노래로 영웅을 깎아내리기",
   "original": "\"The Hero Sucks\" Song",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "인물들이 노래를 통해 영웅의 결점과 무능함을 조롱하거나 평판을 떨어뜨리는 뮤지컬 장치다.",
     "detail": "작품 사례: [[Mario + Rabbids Kingdom Battle]]의 팬텀은 마리오를 깎아내리는 오페라를 부르며, 둥근 몸으로 어떻게 배관을 통과하느냐는 식으로 영웅의 외형까지 조롱한다.",
@@ -13,10 +13,10 @@
     "boundary": "영웅이 악당을 비난하는 노래나 단순한 악역의 자기 자랑과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영웅을 향한 공격이 노래의 가사와 공연으로 이루어진다. 인격이나 능력뿐 아니라 외형도 조롱의 대상이 될 수 있으며, 노래는 적대자의 평가를 관객에게 직접 전달하는 장치가 된다.\n\n악당이 부른다는 사실만으로 영웅 비난 노래가 되는 것은 아니다. 가사의 중심 대상이 영웅인지 확인해야 하며, 악역의 자기 자랑이나 영웅이 악당을 비난하는 곡과 구분한다.\n\n《[[Mario + Rabbids Kingdom Battle]]》의 팬텀은 마리오의 외형과 배관공 역할을 연결하여 비웃는 오페라를 부른다. 영웅에 대한 조롱이 전투 속 공연으로 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영웅을 향한 공격이 노래의 가사와 공연으로 이루어진다. 인격이나 능력뿐 아니라 외형도 조롱의 대상이 될 수 있으며, 노래는 적대자의 평가를 관객에게 직접 전달하는 장치가 된다.\n\n악당이 부른다는 사실만으로 영웅 비난 노래가 되는 것은 아니다. 가사의 중심 대상이 영웅인지 확인해야 하며, 악역의 자기 자랑이나 영웅이 악당을 비난하는 곡과 구분한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Mario + Rabbids Kingdom Battle]]》의 팬텀은 마리오의 외형과 배관공 역할을 연결하여 비웃는 오페라를 부른다. 영웅에 대한 조롱이 전투 속 공연으로 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

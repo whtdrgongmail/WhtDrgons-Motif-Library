@@ -4,8 +4,8 @@
   "title": "숙주의 몸에서 빠져나오지 못하는 빙의자",
   "original": "Trapped in the Host",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "다른 몸을 차지한 존재가 그 숙주에서 벗어날 수 없어 몸의 운명에 묶이는 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "몸이 죽으면 자유롭게 떠나는 빙의자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 몸을 차지한 존재가 원할 때 빠져나오지 못해 숙주의 상태에 묶이는 규칙이다. 지배의 수단이 도리어 감금의 조건이 된다.\n\n숙주에게 특별한 성질이 있거나 외부의 봉인이 작동해 이탈이 막힐 수 있다. 빙의자는 숙주를 보호하거나 도움을 요청해야 해 이전의 권력 관계가 뒤집힌다.\n\n숙주가 저항하지만 이동 자체는 자유로운 상황과는 다르다. 탈출의 조건과 몸이 손상될 때 함께 겪는 결과가 설정의 긴장을 결정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 몸을 차지한 존재가 원할 때 빠져나오지 못해 숙주의 상태에 묶이는 규칙이다. 지배의 수단이 도리어 감금의 조건이 된다.\n\n숙주에게 특별한 성질이 있거나 외부의 봉인이 작동해 이탈이 막힐 수 있다. 빙의자는 숙주를 보호하거나 도움을 요청해야 해 이전의 권력 관계가 뒤집힌다.\n\n숙주가 저항하지만 이동 자체는 자유로운 상황과는 다르다. 탈출의 조건과 몸이 손상될 때 함께 겪는 결과가 설정의 긴장을 결정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

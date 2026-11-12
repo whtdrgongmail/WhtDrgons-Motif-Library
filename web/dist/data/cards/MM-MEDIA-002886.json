@@ -4,27 +4,27 @@
   "title": "아이스 에이지",
   "original": "Ice Age",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《아이스 에이지》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《아이스 에이지》의 매니는 긴 털의 매머드라는 모습으로 작품의 빙하기 배경을 대표한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -69,9 +69,15 @@
   ],
   "longform_article": {
     "text": "《아이스 에이지》는 빙하기의 동물들이 함께 이동하고 서로를 돌보는 이야기를 중심에 둔 애니메이션 영화와 그 후속 작품군이다. 첫 영화에서는 매머드 매니, 나무늘보 시드, 검치호 디에고가 인간 아이를 가족에게 돌려보내기 위해 동행한다. 서로 다른 동물들이 임시 가족을 이루는 관계가 이야기를 이끈다.\n\n매니의 긴 털과 거대한 몸집은 관객이 화면의 시대를 빙하기로 알아보는 직접적인 시각 정보다. 따라서 이 작품은 [[매머드로 빙하기의 시대를 식별하기]]와 [[매머드로 빙하기와 혹한을 나타내기]]의 사례로 연결된다. 매머드의 모습이 시대 배경을 전달한다는 설명과, 매니가 다른 인물과 맺는 관계는 각각 시각 표지와 서사 역할로 구분해 읽어야 한다. 작품 속 동물의 행동을 실제 고생물학적 사실로 받아들여서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《아이스 에이지》는 빙하기의 동물들이 함께 이동하고 서로를 돌보는 이야기를 중심에 둔 애니메이션 영화와 그 후속 작품군이다. 첫 영화에서는 매머드 매니, 나무늘보 시드, 검치호 디에고가 인간 아이를 가족에게 돌려보내기 위해 동행한다. 서로 다른 동물들이 임시 가족을 이루는 관계가 이야기를 이끈다.\n\n매니의 긴 털과 거대한 몸집은 관객이 화면의 시대를 빙하기로 알아보는 직접적인 시각 정보다. 따라서 이 작품은 [[매머드로 빙하기의 시대를 식별하기]]와 [[매머드로 빙하기와 혹한을 나타내기]]의 사례로 연결된다. 매머드의 모습이 시대 배경을 전달한다는 설명과, 매니가 다른 인물과 맺는 관계는 각각 시각 표지와 서사 역할로 구분해 읽어야 한다. 작품 속 동물의 행동을 실제 고생물학적 사실로 받아들여서는 안 된다."
+      ]
+    ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 1,
+    "updated_at": "2026-11-09",
+    "row_version": 4,
     "replaces_short_fields": false
   }
 }

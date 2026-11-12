@@ -4,8 +4,8 @@
   "title": "마법 사용이 괴물을 끌어들이기",
   "original": "Magic Is a Monster Magnet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "마력의 사용이나 보유가 위험한 존재에게 감지되어 괴물의 접근을 부르는 세계 [[규칙]]. 능력을 쓸수록 적에게 위치가 드러나는 비용을 만든다. [[마력을 먹는 존재]]는 접근하는 괴물의 한 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마력을 쓰거나 지닌 사실이 괴물에게 감지되어 접근을 부른다. 힘을 사용하는 이익에 위치와 존재를 드러내는 비용이 붙는다.\n\n능력이 필요할수록 위험한 존재를 끌어들일 수 있어 사용 판단이 복잡해진다. 감지되는 조건이 무엇인지가 능력과 위협을 연결한다.\n\n다가오는 괴물이 반드시 마력을 먹어야 하는 것은 아니다. 마력 섭취는 한 유형이고 이 규칙의 핵심은 사용이나 보유가 접근의 원인이 된다는 점이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마력을 쓰거나 지닌 사실이 괴물에게 감지되어 접근을 부른다. 힘을 사용하는 이익에 위치와 존재를 드러내는 비용이 붙는다.\n\n능력이 필요할수록 위험한 존재를 끌어들일 수 있어 사용 판단이 복잡해진다. 감지되는 조건이 무엇인지가 능력과 위협을 연결한다.\n\n다가오는 괴물이 반드시 마력을 먹어야 하는 것은 아니다. 마력 섭취는 한 유형이고 이 규칙의 핵심은 사용이나 보유가 접근의 원인이 된다는 점이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

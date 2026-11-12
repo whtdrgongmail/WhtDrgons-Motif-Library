@@ -4,8 +4,8 @@
   "title": "성관계를 묘사하지 않는 행복한 연인",
   "original": "Chastity Couple",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "분명한 연인이며 행복하게 관계를 유지하지만 작품에서 성관계를 보이거나 암시하지 않는 커플의 재현 방식이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "신체 접촉 자체가 적다는 뜻은 아니며 비연애적 우정과도 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사랑하는 사이는 확실해도 성관계에 대한 장면이나 암시는 나오지 않는다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "연인 관계는 명확하지만 성적 친밀함을 보여 주거나 암시하지 않는 커플의 재현 방식이다. 사랑의 확인이 다른 종류의 행동과 대사에 집중된다.\n\n함께 생활하고 서로를 돌보는 모습만으로 관계가 안정적이라고 제시할 수 있다. 관객이 신체 접촉을 기대하는 장면에서도 이를 생략하면 작품의 표현 범위가 드러난다.\n\n묘사가 없다는 사실이 실제로 성관계를 하지 않는다는 설정을 뜻하지는 않는다. 무성애나 금욕 같은 정체와 선택은 별도의 근거가 있을 때만 구분해 설명해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "연인 관계는 명확하지만 성적 친밀함을 보여 주거나 암시하지 않는 커플의 재현 방식이다. 사랑의 확인이 다른 종류의 행동과 대사에 집중된다.\n\n함께 생활하고 서로를 돌보는 모습만으로 관계가 안정적이라고 제시할 수 있다. 관객이 신체 접촉을 기대하는 장면에서도 이를 생략하면 작품의 표현 범위가 드러난다.\n\n묘사가 없다는 사실이 실제로 성관계를 하지 않는다는 설정을 뜻하지는 않는다. 무성애나 금욕 같은 정체와 선택은 별도의 근거가 있을 때만 구분해 설명해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

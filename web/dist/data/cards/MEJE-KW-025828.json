@@ -4,8 +4,8 @@
   "title": "원래 흔적이 남는 배경 국가 변경",
   "original": "Thinly-Veiled Dub Country Change",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "현지화에서 배경 국가를 바꾸지만 화면이나 문화 요소에 원래 장소의 뚜렷한 흔적이 남는 변경이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "이름만 바뀌고 장소를 유지한다고 명시한 경우와 달리 국가 변경을 시도한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현지화에서 배경 국가를 바꾸려 하지만 원래 문화의 흔적이 남는 경우다. 설명과 시각 정보 사이에 불일치가 생긴다. 대사는 새 국가를 주장하지만 화면의 표지와 생활은 원래 장소를 드러내어 정보가 어긋난다.\n\n지명은 바뀌어도 건축과 음식, 학교 관습이 원래 장소를 가리킬 수 있다. 관객은 두 지역의 기호를 동시에 해석하게 된다. 이름만 바꾼 정도와 배경의 국가까지 바꾸었다고 설정한 변경은 다른 범위다.\n\n원래 나라를 유지하면서 명칭만 번역한 것과는 다르다. 변경을 완전히 숨기려는 시도인지 의도적 혼합인지도 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현지화에서 배경 국가를 바꾸려 하지만 원래 문화의 흔적이 남는 경우다. 설명과 시각 정보 사이에 불일치가 생긴다. 대사는 새 국가를 주장하지만 화면의 표지와 생활은 원래 장소를 드러내어 정보가 어긋난다.\n\n지명은 바뀌어도 건축과 음식, 학교 관습이 원래 장소를 가리킬 수 있다. 관객은 두 지역의 기호를 동시에 해석하게 된다. 이름만 바꾼 정도와 배경의 국가까지 바꾸었다고 설정한 변경은 다른 범위다.\n\n원래 나라를 유지하면서 명칭만 번역한 것과는 다르다. 변경을 완전히 숨기려는 시도인지 의도적 혼합인지도 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "참사 현장에 다가가지 못하게 막기",
   "original": "Held Back from the Carnage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00776",
+  "primary_tag_id": "ML-T00776",
   "description": {
     "definition": "위험에 처한 사람을 돕거나 상태를 보려는 인물을 타인이 붙잡거나 명령으로 제지하는 장면이다.",
     "detail": "작품 사례: [[Picket Fences]]에서 Matt가 총을 맞은 뒤 Jimmy와 Jill이 들것을 보고 달려들려 하자, Kenny와 Max가 두 사람을 붙잡는다.",
@@ -13,10 +13,10 @@
     "boundary": "싸움을 시작하려는 공격자를 말리는 행위와 기본 목적이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "참사 현장에 있는 사람을 돕거나 상태를 확인하려는 인물의 접근을 다른 사람이 막는 장면이다. 접근하는 쪽의 절박함과 제지하는 쪽의 안전, 보호, 통제 목적이 한 행동에서 충돌한다.\n\n공격자가 싸움을 시작하지 못하게 붙잡는 경우와는 기본 목적이 다르다. 여기서는 이미 피해가 발생한 현장으로 다가가려는 의사가 중요하다. 몸을 잡거나 명령으로 멈추게 하면 직접 상황을 확인하고 싶은 마음과 현장 관리의 필요가 대비된다.\n\n[[Picket Fences]]에서 Matt가 총에 맞은 뒤 Jimmy와 Jill은 들것을 보고 달려들려 한다. Kenny와 Max가 두 사람을 붙잡아 접근을 막으면서 피해 현장에 대한 절박한 반응과 제지가 함께 나타난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "참사 현장에 있는 사람을 돕거나 상태를 확인하려는 인물의 접근을 다른 사람이 막는 장면이다. 접근하는 쪽의 절박함과 제지하는 쪽의 안전, 보호, 통제 목적이 한 행동에서 충돌한다.\n\n공격자가 싸움을 시작하지 못하게 붙잡는 경우와는 기본 목적이 다르다. 여기서는 이미 피해가 발생한 현장으로 다가가려는 의사가 중요하다. 몸을 잡거나 명령으로 멈추게 하면 직접 상황을 확인하고 싶은 마음과 현장 관리의 필요가 대비된다."
+      ],
+      [
+        "관련 작품",
+        "[[Picket Fences]]에서 Matt가 총에 맞은 뒤 Jimmy와 Jill은 들것을 보고 달려들려 한다. Kenny와 Max가 두 사람을 붙잡아 접근을 막으면서 피해 현장에 대한 절박한 반응과 제지가 함께 나타난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

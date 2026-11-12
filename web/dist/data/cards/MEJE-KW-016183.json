@@ -4,8 +4,8 @@
   "title": "게임을 취미로 즐기는 여성",
   "original": "Gamer Chick",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-009587",
+  "primary_tag_id": "MEJE-KW-009587",
   "description": {
     "definition": "비디오게임을 즐기는 여성이라는 관심사가 인물의 뚜렷한 특징으로 제시되는 유형이다.",
     "detail": "작품 사례: [[Crush Crush]]의 미오는 게임 최고 점수를 주인공에게 빼앗기자 울면서 아이스크림을 먹을 만큼 자신의 게임 기록에 큰 애착을 보인다.",
@@ -13,11 +13,11 @@
     "boundary": "여성이 게임을 즐긴다는 취미 설정을 뜻하며, 뛰어난 실력이나 주변의 놀라움이 반드시 필요한 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.007.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임에 대한 애착이 여성 인물의 반복적인 취미와 감정 반응으로 나타난다. 성별과 취미를 결합하는 인물 분류이지만 뛰어난 실력이나 타인의 놀라움이 반드시 있어야 하는 것은 아니다.\n\n게임을 하는 여성이라는 사실을 예외나 특별한 성격의 증거로 다루지 않는다. 구체적인 플레이와 관심이 인물에게 어떤 비중인지 보아야 하며 모든 여성 게이머를 같은 태도로 일반화할 수 없다.\n\n《[[Crush Crush]]》의 미오는 최고 기록을 빼앗긴 뒤 울며 아이스크림을 먹는다. 자기 게임 기록에 대한 강한 애착이 감정 반응으로 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임에 대한 애착이 여성 인물의 반복적인 취미와 감정 반응으로 나타난다. 성별과 취미를 결합하는 인물 분류이지만 뛰어난 실력이나 타인의 놀라움이 반드시 있어야 하는 것은 아니다.\n\n게임을 하는 여성이라는 사실을 예외나 특별한 성격의 증거로 다루지 않는다. 구체적인 플레이와 관심이 인물에게 어떤 비중인지 보아야 하며 모든 여성 게이머를 같은 태도로 일반화할 수 없다."
+      ],
+      [
+        "관련 작품",
+        "《[[Crush Crush]]》의 미오는 최고 기록을 빼앗긴 뒤 울며 아이스크림을 먹는다. 자기 게임 기록에 대한 강한 애착이 감정 반응으로 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

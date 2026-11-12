@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F16",
   "description": {
-    "definition": "",
+    "definition": "주변에서 구한 비전용 물건을 당장의 공격 수단으로 사용하는 행위나 게임 내 활용 방식이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "16",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "원래 무기가 아닌 물건을 급한 상황에서 무기처럼 쓰는 것이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "본래 무기가 아닌 주변 사물을 공격 수단으로 사용하는 방식이다. 《[[젤다의 전설 브레스 오브 더 와일드]]》에서 횃불은 조명 도구인 동시에 공격에도 쓰인다. 전용 무기와 내구성이나 공격력이 같다는 뜻은 아니다.\n\n비전용 사물을 무기로 활용하면 환경의 물건이 전투 선택지에 포함된다. 물건의 원래 용도와 임시 공격 용도가 함께 성립하는 경우를 가리킨다.",
+    "sections": [
+      [
+        "상세 설명",
+        "본래 무기가 아닌 주변 사물을 공격 수단으로 사용하는 방식이다. 《[[젤다의 전설 브레스 오브 더 와일드]]》에서 횃불은 조명 도구인 동시에 공격에도 쓰인다. 전용 무기와 내구성이나 공격력이 같다는 뜻은 아니다.\n\n비전용 사물을 무기로 활용하면 환경의 물건이 전투 선택지에 포함된다. 물건의 원래 용도와 임시 공격 용도가 함께 성립하는 경우를 가리킨다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

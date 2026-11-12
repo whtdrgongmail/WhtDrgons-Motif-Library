@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-034081",
+  "kind": "keyword",
+  "title": "육지의 달리기 수치가 물속에서는 호흡 수치가 되기",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T02155",
+  "primary_tag_id": "ML-T02155",
+  "description": {
+    "definition": "육지에서 달리기에 사용하는 자원 표시를 물속에서는 호흡 시간의 관리에 사용하거나 그 자리의 표시를 호흡 게이지로 교체하는 인터페이스 규칙이다.",
+    "detail": "",
+    "usage": "이동 환경에 따라 같은 화면 영역이나 자원의 의미를 바꾼다.",
+    "boundary": "동일한 자원 총량을 공유하는지 표시 위치만 바꾸는지는 작품별로 구분한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 2,
+  "classification": {
+    "code": "25.010.004",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "달릴 때 보던 막대가 물속에서는 남은 숨을 알려 준다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "육지의 달리기 표시가 물속 호흡 표시로 바뀌면 같은 화면 영역이 다른 생존 정보를 전달한다. 이동 환경의 변화가 인터페이스의 의미를 전환한다.\n\n사용자는 익숙한 위치에서 수치를 읽지만 지금 무엇이 소모되는지는 환경에 따라 다시 이해해야 한다. 실제 자원을 공유하는 설계와 표시만 바꾸는 설계는 서로 다를 수 있다.\n\n단순히 호흡 게이지가 있다는 것과는 다르다. 육지에서 쓰던 자원 또는 표시와의 전환 관계가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "육지의 달리기 표시가 물속 호흡 표시로 바뀌면 같은 화면 영역이 다른 생존 정보를 전달한다. 이동 환경의 변화가 인터페이스의 의미를 전환한다.\n\n사용자는 익숙한 위치에서 수치를 읽지만 지금 무엇이 소모되는지는 환경에 따라 다시 이해해야 한다. 실제 자원을 공유하는 설계와 표시만 바꾸는 설계는 서로 다를 수 있다.\n\n단순히 호흡 게이지가 있다는 것과는 다르다. 육지에서 쓰던 자원 또는 표시와의 전환 관계가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

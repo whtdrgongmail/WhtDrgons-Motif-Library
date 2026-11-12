@@ -4,8 +4,8 @@
   "title": "상사로 착각한 사람이 조수였다",
   "original": "Actually, That's My Assistant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01004",
+  "primary_tag_id": "ML-T01004",
   "description": {
     "definition": "권위 있어 보이는 사람을 책임자로 지목했지만 실제 책임자는 옆의 다른 인물인 상황. 옷차림이나 나이 같은 겉모습으로 지위를 추정한 인물의 선입견이 드러난다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "겉으로 더 권위 있어 보이는 조수를 책임자로 지목했다가 실제 책임자가 따로 있음을 알게 된다. 나이와 성별, 복장, 태도에 대한 선입견이 직위 판단을 대신하면서 겉모습과 권한 사이의 불일치가 드러난다.\n\n책임자가 젊거나 괴짜처럼 보일 수도 있고 조수가 실제 업무에 더 능숙해 보일 수도 있다. 착각을 우연히 겪는 대신 책임자를 보호하려고 조수를 앞세우는 구성도 가능하다. 중요한 사람을 하인으로 오인하는 경우와 맞물리지만, 여기서는 누가 윗사람인가를 두 인물 사이에서 바꾸어 인식하는 관계가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "겉으로 더 권위 있어 보이는 조수를 책임자로 지목했다가 실제 책임자가 따로 있음을 알게 된다. 나이와 성별, 복장, 태도에 대한 선입견이 직위 판단을 대신하면서 겉모습과 권한 사이의 불일치가 드러난다.\n\n책임자가 젊거나 괴짜처럼 보일 수도 있고 조수가 실제 업무에 더 능숙해 보일 수도 있다. 착각을 우연히 겪는 대신 책임자를 보호하려고 조수를 앞세우는 구성도 가능하다. 중요한 사람을 하인으로 오인하는 경우와 맞물리지만, 여기서는 누가 윗사람인가를 두 인물 사이에서 바꾸어 인식하는 관계가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

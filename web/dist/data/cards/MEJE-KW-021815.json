@@ -4,8 +4,8 @@
   "title": "하늘에서 지상으로 내려오는 난관",
   "original": "Arduous Descent to Terra Firma",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00861",
+  "primary_tag_id": "ML-T00861",
   "description": {
     "definition": "높은 곳이나 공중에서 지상으로 돌아오는 이동 자체가 해결해야 할 위험과 시련이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "올라온 길이 사라진 상황에만 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "높은 곳에 올라간 인물이 지상으로 내려오는 방법을 잃어 귀환 자체가 난관이 되는 상황이다. 도달의 성공 뒤에 새로운 이동 문제가 생긴다.\n\n올라갈 때 쓴 장치가 고장 나거나 건물이 무너지면 같은 경로를 되돌아갈 수 없다. 구조를 기다릴지 다른 통로를 찾을지 선택하면서 시간 제한이 더해질 수 있다.\n\n높이에서 떨어지는 장면과는 달리 내려갈 방법을 계획하는 과정이 중심이다. 비행 능력과 장비가 없는 인물에게 공간의 높이가 직접적인 제약으로 작용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "높은 곳에 올라간 인물이 지상으로 내려오는 방법을 잃어 귀환 자체가 난관이 되는 상황이다. 도달의 성공 뒤에 새로운 이동 문제가 생긴다.\n\n올라갈 때 쓴 장치가 고장 나거나 건물이 무너지면 같은 경로를 되돌아갈 수 없다. 구조를 기다릴지 다른 통로를 찾을지 선택하면서 시간 제한이 더해질 수 있다.\n\n높이에서 떨어지는 장면과는 달리 내려갈 방법을 계획하는 과정이 중심이다. 비행 능력과 장비가 없는 인물에게 공간의 높이가 직접적인 제약으로 작용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

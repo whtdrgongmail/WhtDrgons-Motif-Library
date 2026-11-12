@@ -4,8 +4,8 @@
   "title": "위험한 늪지",
   "original": "Swamps Are Evil",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01283",
+  "primary_tag_id": "ML-T01283",
   "description": {
     "definition": "늪과 습지를 깊이 들어갈수록 위험해지는 불길한 공간으로 묘사하는 관습.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 습지 전체가 악하거나 무가치하다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.005.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "늪과 습지를 불결하고 길을 찾기 어려운 위험 지대로 표현하는 공간 관습이다. 수면과 땅의 경계가 불확실해 안전해 보이는 발판도 함정일 수 있다는 긴장을 만든다.\n\n안개와 썩은 물, 발을 잡아끄는 진흙은 이동을 느리게 하고 시야를 제한한다. 독성 동물과 기생체, 물속의 괴물은 환경적 위험에 추가되어 여행자가 도움 없이 고립된 인상을 강화한다.\n\n실제 습지의 생태적 가치와는 별개의 장르적 표현이다. 모든 습지를 같은 위험으로 단정하는 개념이 아니라 작품이 어떤 요소를 골라 불길한 통과 공간으로 구성하는지를 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "늪과 습지를 불결하고 길을 찾기 어려운 위험 지대로 표현하는 공간 관습이다. 수면과 땅의 경계가 불확실해 안전해 보이는 발판도 함정일 수 있다는 긴장을 만든다.\n\n안개와 썩은 물, 발을 잡아끄는 진흙은 이동을 느리게 하고 시야를 제한한다. 독성 동물과 기생체, 물속의 괴물은 환경적 위험에 추가되어 여행자가 도움 없이 고립된 인상을 강화한다.\n\n실제 습지의 생태적 가치와는 별개의 장르적 표현이다. 모든 습지를 같은 위험으로 단정하는 개념이 아니라 작품이 어떤 요소를 골라 불길한 통과 공간으로 구성하는지를 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "크리스마스에 중식당에서 대안 찾기",
   "original": "Peking Duck Christmas",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00738",
+  "primary_tag_id": "ML-T00738",
   "description": {
     "definition": "통상적인 크리스마스 식사나 모임을 할 수 없는 인물이 문을 연 중식당에서 식사와 교류의 대안을 찾는 전개이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "크리스마스 계획이 없거나 망가진 사람들이 문 연 중식당에 모여 뜻밖의 시간을 보낸다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "명절을 기념하지 않는 배경, 가족과의 거리, 준비한 식사의 실패처럼 출발점은 달라도 인물은 주변의 축제에서 비켜나 있다. 다른 가게가 닫힌 상황에서 열린 식당은 단순한 음식 공급처를 넘어 머물 수 있는 장소가 된다. 기대한 만찬과 다른 식사를 나누며 애초의 계획보다 지금 함께 있는 사람에게 주의를 돌릴 수 있다.\n\n제목에 붙은 특정 요리를 반드시 먹어야 하는 것은 아니며, 핵심은 익숙한 축하 방식의 빈자리를 영업 중인 식당이 채운다는 점이다. 다른 종류의 식당으로 바꾸는 변형도 같은 만남의 구조를 쓸 수 있다. 다만 특정 종교의 모든 사람이 같은 명절 습관을 갖거나 모든 중식당이 휴일에 영업한다고 가정할 필요는 없다. 해당 지역과 인물의 사정을 장면 안에서 드러내면 문화적 배경을 단순화하지 않고도 기능이 전달된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "명절을 기념하지 않는 배경, 가족과의 거리, 준비한 식사의 실패처럼 출발점은 달라도 인물은 주변의 축제에서 비켜나 있다. 다른 가게가 닫힌 상황에서 열린 식당은 단순한 음식 공급처를 넘어 머물 수 있는 장소가 된다. 기대한 만찬과 다른 식사를 나누며 애초의 계획보다 지금 함께 있는 사람에게 주의를 돌릴 수 있다.\n\n제목에 붙은 특정 요리를 반드시 먹어야 하는 것은 아니며, 핵심은 익숙한 축하 방식의 빈자리를 영업 중인 식당이 채운다는 점이다. 다른 종류의 식당으로 바꾸는 변형도 같은 만남의 구조를 쓸 수 있다. 다만 특정 종교의 모든 사람이 같은 명절 습관을 갖거나 모든 중식당이 휴일에 영업한다고 가정할 필요는 없다. 해당 지역과 인물의 사정을 장면 안에서 드러내면 문화적 배경을 단순화하지 않고도 기능이 전달된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": false
   }
 }

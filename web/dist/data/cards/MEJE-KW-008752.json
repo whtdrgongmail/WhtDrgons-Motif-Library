@@ -4,8 +4,8 @@
   "title": "얻는 만큼 치러야 하는 대가",
   "original": "Equivalent Exchange",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01230",
+  "primary_tag_id": "ML-T01230",
   "description": {
     "definition": "새 능력이나 결과를 얻으려면 그와 맞먹는 자원이나 소중한 것을 잃어야 하는 세계의 교환 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "새 능력과 결과를 얻기 위해 그에 상응하는 자원과 가치를 포기해야 하는 세계의 규칙이다. 변화에 비용이 필요하다는 원리를 분명하게 제시한다.\n\n인물은 무엇을 얻고 잃을지 비교하면서 자신의 우선순위를 드러낸다. 서로 다른 가치가 정확히 같을 수 있는지 질문하면 단순한 자원 계산이 도덕적 딜레마로 확대된다.\n\n아무 대가나 붙는 능력과는 교환의 대응 관계가 다르다. 등가가 객관적 법칙인지 인물의 믿음인지 구분해야 하며 물질적 양과 정서적 가치를 항상 같은 단위로 셀 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "새 능력과 결과를 얻기 위해 그에 상응하는 자원과 가치를 포기해야 하는 세계의 규칙이다. 변화에 비용이 필요하다는 원리를 분명하게 제시한다.\n\n인물은 무엇을 얻고 잃을지 비교하면서 자신의 우선순위를 드러낸다. 서로 다른 가치가 정확히 같을 수 있는지 질문하면 단순한 자원 계산이 도덕적 딜레마로 확대된다.\n\n아무 대가나 붙는 능력과는 교환의 대응 관계가 다르다. 등가가 객관적 법칙인지 인물의 믿음인지 구분해야 하며 물질적 양과 정서적 가치를 항상 같은 단위로 셀 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

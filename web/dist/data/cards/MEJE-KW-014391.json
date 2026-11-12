@@ -4,8 +4,8 @@
   "title": "공포로 바뀐 숨바꼭질",
   "original": "Hide-and-Seek Horror",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F19",
+  "tag_id": "ML-T01652",
+  "primary_tag_id": "ML-T01652",
   "description": {
     "definition": "숨는 사람과 찾는 사람이라는 놀이의 구조를 실제 살해·사고·위험 회피와 연결하여 공포를 만드는 장치다. 익숙하고 안전한 놀이의 기대가 생존의 위협으로 바뀐다.",
     "detail": "작품 사례: [[Silent Breath]]의 블라인드 시스터는 숨바꼭질을 제안하고 숫자를 센 뒤, 플레이어를 찾아 죽이려 하여 놀이의 절차를 공포로 바꾼다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 은신이나 긴장감 있는 탐색만 있고 숨바꼭질의 연상이 없는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "19",
+    "code": "19.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "숨바꼭질의 약속과 절차를 죽음의 위협에 연결하는 공포 구성이다. 익숙한 놀이의 기다림과 찾기가 실제 생존의 조건으로 바뀐다.\n\n일반적인 은신과 탐색만으로는 충분하지 않다. 숫자 세기와 찾기 같은 놀이의 규칙과 표현이 위험을 이해하는 기준으로 작동해야 한다.\n\n[[Silent Breath]]의 블라인드 시스터는 숨바꼭질을 제안하고 숫자를 센다. 그 뒤 플레이어를 찾아 죽이려 하여 놀이의 순서가 적의 공격 절차가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "숨바꼭질의 약속과 절차를 죽음의 위협에 연결하는 공포 구성이다. 익숙한 놀이의 기다림과 찾기가 실제 생존의 조건으로 바뀐다.\n\n일반적인 은신과 탐색만으로는 충분하지 않다. 숫자 세기와 찾기 같은 놀이의 규칙과 표현이 위험을 이해하는 기준으로 작동해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Silent Breath]]의 블라인드 시스터는 숨바꼭질을 제안하고 숫자를 센다. 그 뒤 플레이어를 찾아 죽이려 하여 놀이의 순서가 적의 공격 절차가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

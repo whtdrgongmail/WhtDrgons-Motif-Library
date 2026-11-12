@@ -4,8 +4,8 @@
   "title": "길게 늘어나는 팔",
   "original": "Extendable Arms",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01496",
+  "primary_tag_id": "ML-T01496",
   "description": {
     "definition": "인물이 팔이나 다른 팔다리를 비정상적으로 길게 뻗어 먼 곳의 물건에 닿거나 공격하는 능력이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.001.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "팔다리의 길이를 비정상적으로 늘려 먼 물건과 공간에 닿는 능력이다. 신체의 도달 범위가 자유롭게 확장된다.\n\n멀리 있는 사람을 구조하거나 장애물을 돌아가는 행동은 전투 이외의 실용성을 보여 준다. 길어진 팔의 탄력과 통제는 채찍 같은 움직임과 정밀한 조작을 결합할 수 있다.\n\n몸 전체의 크기를 키우는 변화와는 다르다. 특정 부위의 연장과 회복 규칙이 중요하며 길이 증가가 힘과 내구성까지 같은 비율로 높인다는 뜻은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "팔다리의 길이를 비정상적으로 늘려 먼 물건과 공간에 닿는 능력이다. 신체의 도달 범위가 자유롭게 확장된다.\n\n멀리 있는 사람을 구조하거나 장애물을 돌아가는 행동은 전투 이외의 실용성을 보여 준다. 길어진 팔의 탄력과 통제는 채찍 같은 움직임과 정밀한 조작을 결합할 수 있다.\n\n몸 전체의 크기를 키우는 변화와는 다르다. 특정 부위의 연장과 회복 규칙이 중요하며 길이 증가가 힘과 내구성까지 같은 비율로 높인다는 뜻은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

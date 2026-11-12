@@ -4,8 +4,8 @@
   "title": "던전 안에 있는 가게",
   "original": "Dungeon Shop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02103",
+  "primary_tag_id": "ML-T02103",
   "description": {
     "definition": "위험한 게임 구역 깊숙한 곳에 상인이 자리 잡아 탐험 중인 [[플레이어]]에게 물건을 파는 배치. 험지 탐색 중 쉬어 갈 수 있는 [[위험한 장소를 탐색하며 나아가기]]은 던전의 편의 시설로 기능한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "25",
+    "code": "25.004.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "적과 함정이 있는 던전 안에 상점이 배치되어 탐험 중 물품을 구입할 수 있는 구성이다. 위험한 구역 내부에 [[보급]]과 거래의 기능이 존재한다.\n\n긴 탐색 도중 소모품을 보충하거나 다음 장애물에 필요한 물건을 얻도록 한다. 안전한 거점과 위험한 통로의 대비를 만들어 진행의 리듬을 조절할 수도 있다.\n\n상인이 어떻게 그곳에 도달하고 영업을 유지하는지는 별도의 의문이 될 수 있다. 게임의 편의를 위한 배치인지 세계 안의 사정으로 설명되는지는 작품마다 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "적과 함정이 있는 던전 안에 상점이 배치되어 탐험 중 물품을 구입할 수 있는 구성이다. 위험한 구역 내부에 [[보급]]과 거래의 기능이 존재한다.\n\n긴 탐색 도중 소모품을 보충하거나 다음 장애물에 필요한 물건을 얻도록 한다. 안전한 거점과 위험한 통로의 대비를 만들어 진행의 리듬을 조절할 수도 있다.\n\n상인이 어떻게 그곳에 도달하고 영업을 유지하는지는 별도의 의문이 될 수 있다. 게임의 편의를 위한 배치인지 세계 안의 사정으로 설명되는지는 작품마다 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

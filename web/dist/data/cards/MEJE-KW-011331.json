@@ -4,8 +4,8 @@
   "title": "지알로",
   "original": "Giallo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-011331",
+  "primary_tag_id": "MEJE-KW-011331",
   "description": {
     "definition": "[[범죄]]의 정체를 추적하는 수수께끼 [[구조]]에 [[공포]]·[[스릴러]]와 강한 시각적 양식을 결합하는 이탈리아 범죄영화 계열이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 3,
+  "row_version": 4,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.108.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,33 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000268",
+      "card_id": "MEJE-KW-011331",
+      "label_ko": "BFI 지알로 해설",
+      "icon_key": "article",
+      "url": "https://www.bfi.org.uk/features/where-begin-giallo",
+      "description_ko": "이탈리아 지알로 영화의 범죄·추리·공포 경계를 설명",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "지알로는 범죄의 정체를 추적하는 수수께끼 구조에 공포·스릴러의 긴장과 강한 시각적 표현을 [[결합]]한 이탈리아 범죄[[영화]] 계열이다. 관객은 범인을 추리하면서 살인 장면과 불안한 분위기를 함께 경험한다.\n\n강렬한 색채, 양식화된 살인, 주관적 시점이나 불안한 음악은 추리 과정의 정서적 불안과 결합할 수 있다. 장르는 사건의 해답뿐 아니라 그 해답을 둘러싼 감각적 경험도 전면에 둔다.\n\n모든 이탈리아 범죄영화나 모든 [[슬래셔]] 영화를 뜻하지 않는다. 범죄 추리와 공포·스릴러적 양식의 결합이 필요하다.\n\n가상 예: 이탈리아 범죄영화가 범인의 정체를 추적하면서 불안한 시점 연출과 강한 색채, 공포 분위기를 함께 사용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "지알로는 범죄의 정체를 추적하는 수수께끼 구조에 공포·스릴러의 긴장과 강한 시각적 표현을 [[결합]]한 이탈리아 범죄[[영화]] 계열이다. 관객은 범인을 추리하면서 살인 장면과 불안한 분위기를 함께 경험한다.\n\n강렬한 색채, 양식화된 살인, 주관적 시점이나 불안한 음악은 추리 과정의 정서적 불안과 결합할 수 있다. 장르는 사건의 해답뿐 아니라 그 해답을 둘러싼 감각적 경험도 전면에 둔다.\n\n모든 이탈리아 범죄영화나 모든 [[슬래셔]] 영화를 뜻하지 않는다. 범죄 추리와 공포·스릴러적 양식의 결합이 필요하다."
+      ],
+      [
+        "사례",
+        "가상 예: 이탈리아 범죄영화가 범인의 정체를 추적하면서 불안한 시점 연출과 강한 색채, 공포 분위기를 함께 사용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

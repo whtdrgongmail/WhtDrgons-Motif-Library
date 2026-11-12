@@ -4,8 +4,8 @@
   "title": "빈 머리를 암시하는 울림",
   "original": "Hollow-Sounding Head",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02009",
+  "primary_tag_id": "ML-T02009",
   "description": {
     "definition": "인물의 머리를 두드릴 때 속이 빈 물체 같은 소리가 나게 하여 어리석음이나 생각 없음을 희화화하는 효과다.",
     "detail": "작품 사례: [[The Simpsons]]에서 호머가 번스의 머리를 봉고처럼 두드리자 빈 통 같은 울림이 나고, 옆의 레니도 제법 좋은 소리가 난다며 반응한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 두개골 상태를 설명하거나 타격의 통증만 표현하는 소리와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "머리를 두드렸을 때 빈 통 같은 소리가 나게 하여 지적 빈약함을 비유하는 효과음이다. 몸을 내부가 비어 있는 물건처럼 취급하는 과장이 사용된다.\n\n실제 두개골의 상태와 지능을 설명하는 소리가 아니다. 타격의 통증만 전달하는 효과음과도 다르며 비현실적 울림이 비유로 작용해야 한다.\n\n[[The Simpsons]]에서 호머는 번스의 머리를 봉고처럼 두드린다. 빈 통 같은 소리에 레니도 좋은 소리라고 반응해 머리의 타격을 악기와 지적 비유의 농담으로 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "머리를 두드렸을 때 빈 통 같은 소리가 나게 하여 지적 빈약함을 비유하는 효과음이다. 몸을 내부가 비어 있는 물건처럼 취급하는 과장이 사용된다.\n\n실제 두개골의 상태와 지능을 설명하는 소리가 아니다. 타격의 통증만 전달하는 효과음과도 다르며 비현실적 울림이 비유로 작용해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Simpsons]]에서 호머는 번스의 머리를 봉고처럼 두드린다. 빈 통 같은 소리에 레니도 좋은 소리라고 반응해 머리의 타격을 악기와 지적 비유의 농담으로 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

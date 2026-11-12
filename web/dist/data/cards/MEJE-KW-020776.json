@@ -4,8 +4,8 @@
   "title": "주요 줄거리 밖에서 악행을 벌이는 악역",
   "original": "Villain of Another Story",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "악한 행동을 하지만 그 악행이 현재 따라가는 주요 사건과 직접적인 관련을 맺지 않는 인물이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "본편의 배후 조종자나 일시적으로 모습을 감춘 주적과 구별한다. 악행과 현재 줄거리의 비연결성이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주요 사건에서는 악역으로 다뤄지지 않지만 다른 곳에서 악행을 하는 인물이다. 따라가는 이야기의 범위와 인물의 전체 행적이 일치하지 않는다.\n\n주인공과 이해가 맞아 협력하더라도 바깥의 피해는 남을 수 있다. 작품에 드러나지 않은 행동을 임의로 추정하는 경우와는 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주요 사건에서는 악역으로 다뤄지지 않지만 다른 곳에서 악행을 하는 인물이다. 따라가는 이야기의 범위와 인물의 전체 행적이 일치하지 않는다.\n\n주인공과 이해가 맞아 협력하더라도 바깥의 피해는 남을 수 있다. 작품에 드러나지 않은 행동을 임의로 추정하는 경우와는 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

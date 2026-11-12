@@ -4,8 +4,8 @@
   "title": "실패로 돌아간 개심",
   "original": "Redemption Failure",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00693",
+  "primary_tag_id": "ML-T00693",
   "description": {
     "definition": "한동안 악행을 그만둔 인물이 예기치 않은 압박이나 상황 때문에 다시 악역의 삶으로 돌아가는 전개다.",
     "detail": "작품 사례: [[Jackie Chan Adventures]]의 Chow·Ratso·Finn은 선한 사람이 되려 하지만 뜻대로 되지 않자 자신들은 착하게 사는 데 서툴다며 악행으로 돌아간다.",
@@ -13,10 +13,10 @@
     "boundary": "처음부터 속이려고 개심한 척한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역이 한동안 선하게 살려고 실제로 노력하다가 다시 악행을 선택하는 전개다. 개심의 시도가 있었던 기간과 그 노력을 포기하게 된 계기를 나누면, 처음부터 거짓으로 속인 경우와 다른 실패의 과정을 설명할 수 있다.\n\n선한 생활에 익숙하지 않거나 바뀐 선택이 기대한 결과를 주지 못하는 일이 포기의 이유가 될 수 있다. 그렇더라도 과거의 시도가 전부 연기였던 것은 아니다. 도덕적 변화가 한 번의 선언으로 끝나지 않고 행동을 유지하는 문제라는 점이 드러난다.\n\n[[Jackie Chan Adventures]]의 Chow·Ratso·Finn은 선한 사람이 되려 하지만 일이 뜻대로 되지 않자 악행으로 돌아간다. 자신들은 착하게 사는 데 서툴다고 말하며 시도를 포기하므로, 거짓 개심과는 다른 재타락이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악역이 한동안 선하게 살려고 실제로 노력하다가 다시 악행을 선택하는 전개다. 개심의 시도가 있었던 기간과 그 노력을 포기하게 된 계기를 나누면, 처음부터 거짓으로 속인 경우와 다른 실패의 과정을 설명할 수 있다.\n\n선한 생활에 익숙하지 않거나 바뀐 선택이 기대한 결과를 주지 못하는 일이 포기의 이유가 될 수 있다. 그렇더라도 과거의 시도가 전부 연기였던 것은 아니다. 도덕적 변화가 한 번의 선언으로 끝나지 않고 행동을 유지하는 문제라는 점이 드러난다."
+      ],
+      [
+        "관련 작품",
+        "[[Jackie Chan Adventures]]의 Chow·Ratso·Finn은 선한 사람이 되려 하지만 일이 뜻대로 되지 않자 악행으로 돌아간다. 자신들은 착하게 사는 데 서툴다고 말하며 시도를 포기하므로, 거짓 개심과는 다른 재타락이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "공화국 안의 세습 권력",
   "original": "Hereditary Republic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01330",
+  "primary_tag_id": "ML-T01330",
   "description": {
     "definition": "선거와 공화국의 직함을 유지하면서 실질적인 최고 권력은 특정 가문이나 소수 가문의 후손에게 이어지는 정치 설정이다.",
     "detail": "작품 사례: [[Alternate Presidents]]의 The War of '07에서는 Burr가 아홉 번 대통령을 지낸 뒤 손자를 부통령에 앉히고, 권력이 다음 가족 구성원에게 이어진다.",
@@ -13,10 +13,10 @@
     "boundary": "군주제가 법으로 정한 왕위 계승이나 한 번 등장한 정치인 가족만으로는 부족하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공화국의 직함과 선거를 남겨 두면서 같은 가문의 후손에게 최고 권력이 돌아가면 제도와 실제 승계가 달라진다. 선출 절차가 존재한다는 사실만으로 가문 중심의 권력이 사라지는 것은 아니다.\n\n법으로 정한 군주제의 [[왕위 계승]]과는 겉으로 내세우는 제도가 다르다. 정치인 가족이 한 번 등장하는 정도보다 특정 가문이나 소수 가문이 실질적 권력을 이어받는 반복 구조가 필요하다.\n\n[[Alternate Presidents]]의 The War of '07에서는 Burr가 아홉 차례 대통령을 지낸 뒤 손자를 부통령에 앉힌다. 가족 구성원을 다음 권력의 자리에 배치하여 공화국의 직함 안에서 승계가 이루어진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공화국의 직함과 선거를 남겨 두면서 같은 가문의 후손에게 최고 권력이 돌아가면 제도와 실제 승계가 달라진다. 선출 절차가 존재한다는 사실만으로 가문 중심의 권력이 사라지는 것은 아니다.\n\n법으로 정한 군주제의 [[왕위 계승]]과는 겉으로 내세우는 제도가 다르다. 정치인 가족이 한 번 등장하는 정도보다 특정 가문이나 소수 가문이 실질적 권력을 이어받는 반복 구조가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Alternate Presidents]]의 The War of '07에서는 Burr가 아홉 차례 대통령을 지낸 뒤 손자를 부통령에 앉힌다. 가족 구성원을 다음 권력의 자리에 배치하여 공화국의 직함 안에서 승계가 이루어진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "30 록",
   "original": "30 Rock",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "30 Rock"
+  ],
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《30 록》은 텔레비전 작품이다.",
-    "detail": "작품 사례: 《30 록》은 통상 촬영 방식과 다른 생방송 회차를 마련하고 관객 앞에서 연기한다. 시차별 공연에서는 일부 농담과 현장 반응이 달라졌다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -45,7 +47,24 @@
     {
       "card_id": "MEJE-KW-024670",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-029404",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《30 록》라는 표제는 텔레비전을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 텔레비전을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《30 록》라는 표제는 텔레비전을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 텔레비전을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

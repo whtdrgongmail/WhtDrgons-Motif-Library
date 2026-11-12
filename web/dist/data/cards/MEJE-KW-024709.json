@@ -4,8 +4,8 @@
   "title": "추락 충격을 대신 받는 몸",
   "original": "Living Crashpad",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00799",
+  "primary_tag_id": "ML-T00799",
   "description": {
     "definition": "떨어지는 인물이 다른 인물의 몸 위에 착지하여 그 몸이 충격을 줄여 주는 장면이다.",
     "detail": "작품 사례: 《[[더 배트맨]]》에서 캣우먼과 배트맨이 지붕 아래로 함께 떨어질 때 배트맨이 아래에 깔려 충격을 먼저 받고 캣우먼은 그 위에서 상대적으로 무사히 착지한다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 포옹이나 우연한 충돌과 달리 낙하 충격을 다른 몸이 받아 내야 한다. 고의적인 보호와 우연한 희극 모두 가능하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.008.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-002615",
+      "work_card_id": "MM-MEDIA-002324",
       "description_ko": "《더 배트맨》에서 캣우먼과 배트맨이 지붕 아래로 함께 떨어질 때 배트맨이 아래에 깔려 충격을 먼저 받고 캣우먼은 그 위에서 상대적으로 무사히 착지한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "떨어진 사람이 다른 사람의 몸에 착지해 충격을 줄인다. 완충재처럼 취급된 인물의 반응이 뒤늦게 드러날 수 있다.\n\n구조의 의도와 우연한 충돌에 따라 관계의 의미가 달라진다. 현실에서 같은 착지가 안전하다는 설명으로 받아들여서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "떨어진 사람이 다른 사람의 몸에 착지해 충격을 줄인다. 완충재처럼 취급된 인물의 반응이 뒤늦게 드러날 수 있다.\n\n구조의 의도와 우연한 충돌에 따라 관계의 의미가 달라진다. 현실에서 같은 착지가 안전하다는 설명으로 받아들여서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

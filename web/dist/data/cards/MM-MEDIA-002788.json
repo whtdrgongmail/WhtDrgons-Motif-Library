@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "북두의 권(만화)",
   "original": "Fist of the North Star",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "북두의 권"
+  ],
+  "tag_id": "ML-T02513",
   "primary_tag_id": "ML-T02513",
   "description": {
     "definition": "《북두의 권(만화)》는 만화 작품이다.",
-    "detail": "작품 사례: 《북두의 권(만화)》에서는 켄시로의 공격을 받은 적에게 현실의 타격보다 훨씬 과장된 신체 파괴가 일어난다. 공격의 초인적인 위력을 극단적인 시각 결과로 표시하는 방식이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.020",
     "review_status": "provisional",
@@ -39,9 +41,34 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-022456",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-022696",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-025270",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-027612",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "핵전쟁 뒤 무법자가 약자를 지배하는 황무지를 떠도는 켄시로의 일본 만화다. 주인공은 인체의 급소에 작용하는 무술을 이어받아 납치된 연인을 찾고 힘없는 사람을 돕는다.\n\n처음의 라이벌과의 싸움 뒤에는 같은 무술을 배운 형제의 지배 야망이 중심 갈등이 된다. 단 한 명만 계승하도록 정해진 기술의 규칙이 개인적인 경쟁과 세계의 폭력을 연결한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "핵전쟁 뒤 무법자가 약자를 지배하는 황무지를 떠도는 켄시로의 일본 만화다. 주인공은 인체의 급소에 작용하는 무술을 이어받아 납치된 연인을 찾고 힘없는 사람을 돕는다.\n\n처음의 라이벌과의 싸움 뒤에는 같은 무술을 배운 형제의 지배 야망이 중심 갈등이 된다. 단 한 명만 계승하도록 정해진 기술의 규칙이 개인적인 경쟁과 세계의 폭력을 연결한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

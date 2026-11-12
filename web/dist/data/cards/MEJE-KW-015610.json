@@ -4,8 +4,8 @@
   "title": "이름 대신 번호로 통제하기",
   "original": "You Are Number Six",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "개인을 이름이 아닌 번호로 취급하여 고유한 정체성을 약화시키고 집단 관리의 대상으로 만드는 관습이다.",
     "detail": "작품 사례: [[Star Wars: The Clone Wars]]에서 폰즈는 자신의 신원을 번호로 답하지만, 사망 장면의 기록을 본 아나킨은 그의 이름을 다시 말해 번호로 관리되는 병사와 고유한 개인의 차이를 드러낸다.",
@@ -13,10 +13,10 @@
     "boundary": "편의를 위한 일시적 대기번호와 달리 인격의 박탈과 통제가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "고유한 이름 대신 관리 번호를 앞세우면 개인이 조직의 단위로 취급되는 방식이 드러난다. 다른 인물이 이름을 다시 불러 주는 행동은 행정적 식별과 한 사람의 정체성을 대비시킬 수 있다.\n\n편의를 위한 일시적인 대기번호나 모든 번호 체계가 인격 박탈을 뜻하지는 않는다. 이름을 대체하는 범위와 개인의 권리를 축소하는 통제 목적이 제시되는지 확인해야 한다.\n\n《[[Star Wars: The Clone Wars]]》의 폰즈는 신원을 번호로 답하지만, 사망 기록을 본 아나킨은 그의 이름을 다시 말한다. 번호로 관리되는 병사를 한 개인으로 기억하는 대비가 형성된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "고유한 이름 대신 관리 번호를 앞세우면 개인이 조직의 단위로 취급되는 방식이 드러난다. 다른 인물이 이름을 다시 불러 주는 행동은 행정적 식별과 한 사람의 정체성을 대비시킬 수 있다.\n\n편의를 위한 일시적인 대기번호나 모든 번호 체계가 인격 박탈을 뜻하지는 않는다. 이름을 대체하는 범위와 개인의 권리를 축소하는 통제 목적이 제시되는지 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Star Wars: The Clone Wars]]》의 폰즈는 신원을 번호로 답하지만, 사망 기록을 본 아나킨은 그의 이름을 다시 말한다. 번호로 관리되는 병사를 한 개인으로 기억하는 대비가 형성된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

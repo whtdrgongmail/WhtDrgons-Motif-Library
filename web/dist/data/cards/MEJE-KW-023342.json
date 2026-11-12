@@ -4,8 +4,8 @@
   "title": "여러 도구를 숨긴 기계 의수",
   "original": "Swiss-Army Appendage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01445",
+  "primary_tag_id": "ML-T01445",
   "description": {
     "definition": "기계로 된 신체 부속이나 의수 안에 여러 유용한 도구와 장치를 넣어 필요에 따라 꺼내 쓴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "주머니에 공구를 넣는 것과 달리 신체 부속 자체가 다기능 장비다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기계 의수나 신체 부속 안에 여러 도구를 수납하고 필요할 때 꺼내 쓴다. 신체를 대신하는 장치가 동시에 여러 작업의 수단이 된다.\n\n별도의 도구 가방 없이도 몸에 결합된 장비로 문제를 해결할 수 있다. 어떤 도구가 내장되어 있는지 공개하는 순간이 인물의 대응 가능성을 확장한다.\n\n주머니에 공구를 넣고 다니는 것과는 장치의 위치와 통합 정도가 다르다. 도구가 많다는 사실만으로 모든 상황에 적합한 기능이 있다고 추정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기계 의수나 신체 부속 안에 여러 도구를 수납하고 필요할 때 꺼내 쓴다. 신체를 대신하는 장치가 동시에 여러 작업의 수단이 된다.\n\n별도의 도구 가방 없이도 몸에 결합된 장비로 문제를 해결할 수 있다. 어떤 도구가 내장되어 있는지 공개하는 순간이 인물의 대응 가능성을 확장한다.\n\n주머니에 공구를 넣고 다니는 것과는 장치의 위치와 통합 정도가 다르다. 도구가 많다는 사실만으로 모든 상황에 적합한 기능이 있다고 추정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

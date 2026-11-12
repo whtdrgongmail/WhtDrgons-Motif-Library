@@ -4,8 +4,8 @@
   "title": "위협이 될 유능한 부하를 제거하기",
   "original": "Shoot the Dangerous Minion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "악당이 뛰어난 부하의 능력이 장차 자신을 위협할 수 있다고 여겨 그 부하를 죽이는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실패한 부하를 벌하거나 필요 없어진 부하를 처분하는 경우와 달리 능력 자체가 제거 동기다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "일을 잘하는 부하가 오히려 상사의 두려움 때문에 제거된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유능한 부하가 장차 자신을 위협할까 두려워 지도자가 제거한다. 능력을 인정받을수록 안전해지는 대신 오히려 표적이 되는 역전이 생긴다.\n\n[[미래의 위협일 수 있다는 이유로 미리 제거하기]]의 조직 내부형이다. 실패의 처벌과 쓸모가 다한 뒤의 처분과 달리, 현재의 능력과 잠재력이 제거 이유인지 확인한다.\n\n실패한 부하를 처벌하는 경우와 달리 일을 잘한 사실이 오히려 위협의 근거가 된다. 상관은 지위나 영향력을 잃을 가능성을 두려워하며 현재의 충성보다 미래의 독립을 중시한다. 부하가 실제 반역을 계획했는지는 별도로 확인해야 한다. 유능한 인물을 제거한 결과 조직의 능력이 약해지면 권력 보존과 공동 목표의 충돌이 드러난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유능한 부하가 장차 자신을 위협할까 두려워 지도자가 제거한다. 능력을 인정받을수록 안전해지는 대신 오히려 표적이 되는 역전이 생긴다.\n\n[[미래의 위협일 수 있다는 이유로 미리 제거하기]]의 조직 내부형이다. 실패의 처벌과 쓸모가 다한 뒤의 처분과 달리, 현재의 능력과 잠재력이 제거 이유인지 확인한다.\n\n실패한 부하를 처벌하는 경우와 달리 일을 잘한 사실이 오히려 위협의 근거가 된다. 상관은 지위나 영향력을 잃을 가능성을 두려워하며 현재의 충성보다 미래의 독립을 중시한다. 부하가 실제 반역을 계획했는지는 별도로 확인해야 한다. 유능한 인물을 제거한 결과 조직의 능력이 약해지면 권력 보존과 공동 목표의 충돌이 드러난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "떨어지는 피아노",
   "original": "Piano Drop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00799",
+  "primary_tag_id": "ML-T00799",
   "description": {
     "definition": "높은 곳에 매달리거나 놓인 피아노가 아래의 인물이나 사물 위로 추락하는 몸개그 장치다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.008.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "길을 걷는 인물 머리 위로 운반 중이던 피아노가 떨어지며 큰 소동이 난다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "피아노는 크고 무거운 물체이면서 소리 나는 악기라서 추락의 시각적 충격과 소음이 결합된다. 위태로운 운반 장면을 먼저 보여 주면 관객은 떨어질 순간을 기다리고, 아무 예고 없이 등장시키면 터무니없는 불운의 강도가 웃음의 중심이 된다.\n\n희극에서는 현실적인 중상 대신 납작해짐이나 일시적인 기절 같은 과장된 결과가 따르기 쉽다. 이때 위험의 물리적 크기와 가벼운 후유증의 차이가 관습을 만든다. 피아노가 단순히 넘어지는 사고와는 높은 곳에서의 낙하가 중심이라는 점에서 구별할 수 있으며, 같은 상황을 사실적으로 다루면 웃음보다 재난의 장면이 된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "피아노는 크고 무거운 물체이면서 소리 나는 악기라서 추락의 시각적 충격과 소음이 결합된다. 위태로운 운반 장면을 먼저 보여 주면 관객은 떨어질 순간을 기다리고, 아무 예고 없이 등장시키면 터무니없는 불운의 강도가 웃음의 중심이 된다.\n\n희극에서는 현실적인 중상 대신 납작해짐이나 일시적인 기절 같은 과장된 결과가 따르기 쉽다. 이때 위험의 물리적 크기와 가벼운 후유증의 차이가 관습을 만든다. 피아노가 단순히 넘어지는 사고와는 높은 곳에서의 낙하가 중심이라는 점에서 구별할 수 있으며, 같은 상황을 사실적으로 다루면 웃음보다 재난의 장면이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

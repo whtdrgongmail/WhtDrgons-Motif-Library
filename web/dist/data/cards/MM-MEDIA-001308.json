@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "닥터 후",
   "original": "Doctor Who",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Doctor Who"
+  ],
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《닥터 후》는 텔레비전 작품이다.",
-    "detail": "작품 사례: 《닥터 후》의 2010년 크리스마스 편에서 에이미와 로리는 신혼여행 중 탄 우주선이 추락할 위기에 놓인다. 휴가의 안전이 닥터의 개입에 달린 상황으로 바뀐다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -38,6 +40,38 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-013659",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014049",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-015407",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014120",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-015654",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014354",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014846",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014864",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-016261",
       "row_version": 1
@@ -355,5 +389,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《닥터 후》는 닥터라 불리는 외계인과 동행자들이 시간과 우주를 여행하는 영국 TV 시리즈다. 고향을 떠난 닥터는 살아 있는 시간기계 타디스로 여러 시대의 인물과 위협을 만난다.\n\n시대와 장소를 자유롭게 바꿀 수 있어 역사극과 미래의 과학소설, 공포를 서로 다른 회차에 사용할 수 있다. 오래 이어진 제작 과정에서 배우와 구성은 변하지만 닥터의 여행을 축으로 삼는다. 방대한 외전까지 모두 같은 사건 기록으로 묶지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《닥터 후》는 닥터라 불리는 외계인과 동행자들이 시간과 우주를 여행하는 영국 TV 시리즈다. 고향을 떠난 닥터는 살아 있는 시간기계 타디스로 여러 시대의 인물과 위협을 만난다.\n\n시대와 장소를 자유롭게 바꿀 수 있어 역사극과 미래의 과학소설, 공포를 서로 다른 회차에 사용할 수 있다. 오래 이어진 제작 과정에서 배우와 구성은 변하지만 닥터의 여행을 축으로 삼는다. 방대한 외전까지 모두 같은 사건 기록으로 묶지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

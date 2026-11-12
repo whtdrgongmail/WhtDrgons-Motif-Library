@@ -4,39 +4,56 @@
   "title": "조건과 약점이 있는 투명화",
   "original": "Invisibility with Drawbacks",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01490",
+  "primary_tag_id": "ML-T01490",
   "description": {
     "definition": "투명 상태를 유지하려면 제한된 조건을 충족해야 하거나 다른 흔적이 남아 은신에 뚜렷한 약점이 생기는 능력 설정이다.",
     "detail": "지속 시간·정지·호흡·행동 제한, 물과 먼지, 소리와 발자국 등으로 효과를 제약할 수 있다. 옷이나 시각의 처리도 별도 규칙이 된다.\n\n작품 사례: 《[[원피스]]》의 투명투명 열매는 사용자의 모습을 숨겨도 소리까지 없애지는 못하며, 증기와 먼지가 위치를 드러낼 수 있다.",
     "usage": "투명화의 강점과 상대가 이용할 빈틈을 함께 설계한다.",
-    "boundary": "투명화가 항상 실패한다는 뜻이 아니며 단순히 관객에게만 윤곽이 보이는 표현과 구별한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "17",
+    "code": "17.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "안 보일 수는 있지만 움직이거나 공격하면 들키고 발자국 같은 흔적도 남는다.\n\n작품 사례: 《[[원피스]]》의 투명투명 열매는 사용자의 모습을 숨겨도 소리까지 없애지는 못하며, 증기와 먼지가 위치를 드러낼 수 있다.",
+    "easy_ko": "안 보일 수는 있지만 움직이거나 공격하면 들키고 발자국 같은 흔적도 남는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》의 투명투명 열매는 사용자의 모습을 숨겨도 소리까지 없애지는 못하며, 증기와 먼지가 위치를 드러낼 수 있다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "지속 시간·정지·호흡·행동 제한, 물과 먼지, 소리와 발자국 등으로 효과를 제약할 수 있다. 옷이나 시각의 처리도 별도 규칙이 된다.\n\n투명화의 강점과 상대가 이용할 빈틈을 함께 부여한다.\n\n투명화가 항상 실패한다는 뜻이 아니며 단순히 관객에게만 윤곽이 보이는 표현과 구별한다.\n\n《[[원피스(만화)]]》의 투명투명 열매는 사용자의 모습을 숨겨도 소리까지 없애지는 못하며, 증기와 먼지가 위치를 드러낼 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "지속 시간·정지·호흡·행동 제한, 물과 먼지, 소리와 발자국 등으로 효과를 제약할 수 있다. 옷이나 시각의 처리도 별도 규칙이 된다.\n\n투명화의 강점과 상대가 이용할 빈틈을 함께 부여한다.\n\n투명화가 항상 실패한다는 뜻이 아니며 단순히 관객에게만 윤곽이 보이는 표현과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[원피스(만화)]]》의 투명투명 열매는 사용자의 모습을 숨겨도 소리까지 없애지는 못하며, 증기와 먼지가 위치를 드러낼 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

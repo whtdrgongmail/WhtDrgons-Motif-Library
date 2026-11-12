@@ -4,8 +4,8 @@
   "title": "뉴스 보도처럼 꾸민 텔레비전 광고",
   "original": "Phony Newscast",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02540",
+  "primary_tag_id": "ML-T02540",
   "description": {
     "definition": "방송 뉴스의 진행·화면·말투를 모방하여 상품 광고가 실제 보도인 것처럼 보이게 만드는 형식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "뉴스 자체의 상품 보도와 광고가 뉴스 형식을 연기하는 경우를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "진행자의 말투와 자막, 현장 중계처럼 보이는 화면을 사용해 광고에 보도의 외형을 부여한다. 메시지의 상업적 목적보다 뉴스 형식의 익숙한 권위가 먼저 인식될 수 있다.\n\n상품 소개가 사건의 해결이나 새로운 발견처럼 구성되면 시청자는 독립적인 정보 전달로 받아들일 수 있다. 광고임을 밝히는 방식과 시점은 이 형식의 인상을 크게 바꾼다.\n\n뉴스 형식을 흉내 낸 허구 프로그램 전체보다 범위가 좁다. 한국어 카드는 상품 홍보 목적에 한정하며, 뉴스 장면이 포함된 일반 드라마나 명시적인 뉴스 패러디 전체를 포함하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "진행자의 말투와 자막, 현장 중계처럼 보이는 화면을 사용해 광고에 보도의 외형을 부여한다. 메시지의 상업적 목적보다 뉴스 형식의 익숙한 권위가 먼저 인식될 수 있다.\n\n상품 소개가 사건의 해결이나 새로운 발견처럼 구성되면 시청자는 독립적인 정보 전달로 받아들일 수 있다. 광고임을 밝히는 방식과 시점은 이 형식의 인상을 크게 바꾼다.\n\n뉴스 형식을 흉내 낸 허구 프로그램 전체보다 범위가 좁다. 한국어 카드는 상품 홍보 목적에 한정하며, 뉴스 장면이 포함된 일반 드라마나 명시적인 뉴스 패러디 전체를 포함하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

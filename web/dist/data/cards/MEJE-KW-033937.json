@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-033937",
+  "kind": "keyword",
+  "title": "상호작용할 인물 머리 위에 아이콘 띄우기",
+  "original": "Overhead Interaction Indicator",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "플레이어가 대화하거나 특정 행동을 할 수 있는 인물의 머리 위에 아이콘을 띄워 상호작용 대상임을 알리는 인터페이스 방식이다.",
+    "detail": "작품 사례: 《[[젤다의 전설 시간의 오카리나]]》에서는 상호작용할 인물 위에 파란 화살표가 표시되어 플레이어에게 말을 걸 수 있는 대상을 알려 준다.",
+    "usage": "혼잡한 화면에서 가능한 상호작용과 대상의 위치를 함께 안내한다.",
+    "boundary": "인물이 아닌 물체의 색 변화나 소리 안내까지 포함하는 일반 주목 신호와 구분한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "말을 걸거나 행동할 사람이 머리 위 표시로 드러난다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "머리 위의 표지는 인물을 단순한 배경과 상호작용 대상으로 빠르게 구분한다. 플레이어는 가까이 가서 시험하지 않아도 대화와 과제의 가능성을 예상할 수 있다.\n\n아이콘의 모양과 색이 다르면 행동의 종류와 우선순위를 나눌 수 있다. 세계 안의 등장인물이 그 표시를 보는지와 플레이어에게만 제공되는지는 별도의 표현 규칙이다.\n\n주변 환경의 물건을 강조하는 신호와는 대상이 다르다. 인물 위의 시각 표지가 가능한 상호작용을 안내하는 인터페이스다.",
+    "sections": [
+      [
+        "상세 설명",
+        "머리 위의 표지는 인물을 단순한 배경과 상호작용 대상으로 빠르게 구분한다. 플레이어는 가까이 가서 시험하지 않아도 대화와 과제의 가능성을 예상할 수 있다.\n\n아이콘의 모양과 색이 다르면 행동의 종류와 우선순위를 나눌 수 있다. 세계 안의 등장인물이 그 표시를 보는지와 플레이어에게만 제공되는지는 별도의 표현 규칙이다.\n\n주변 환경의 물건을 강조하는 신호와는 대상이 다르다. 인물 위의 시각 표지가 가능한 상호작용을 안내하는 인터페이스다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
+}

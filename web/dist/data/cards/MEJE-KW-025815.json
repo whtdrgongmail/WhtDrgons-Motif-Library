@@ -5,8 +5,8 @@
   "original": "A Localized Release Goes Out of Print",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "현지화 권리 상실이나 절판 등으로 기존 판본이 더 이상 공식 공급되지 않는 상태이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "005차 Keep Circulating the Tapes는 사본의 순환과 보존까지 다룬다. 현재 설명에는 공급 중단만 있어 그 대응을 단정하지 않았다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "권리 상실이나 절판 등으로 기존 현지화판이 더 이상 공식 공급되지 않는다. 판본이 만들어져 있다는 사실과 현재 정식으로 구할 수 있다는 조건이 분리된다.\n\n독자는 같은 작품의 존재를 알아도 해당 언어판에 접근하기 어려워진다. 다른 판본이 계속 유통되더라도 중단된 현지화판의 공급 문제와는 별개다.\n\n제작이 처음부터 없었던 경우와 다르다. 공급 중단이 팬 사본의 순환이나 보존 활동으로 이어진다고 자동으로 추정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "권리 상실이나 절판 등으로 기존 현지화판이 더 이상 공식 공급되지 않는다. 판본이 만들어져 있다는 사실과 현재 정식으로 구할 수 있다는 조건이 분리된다.\n\n독자는 같은 작품의 존재를 알아도 해당 언어판에 접근하기 어려워진다. 다른 판본이 계속 유통되더라도 중단된 현지화판의 공급 문제와는 별개다.\n\n제작이 처음부터 없었던 경우와 다르다. 공급 중단이 팬 사본의 순환이나 보존 활동으로 이어진다고 자동으로 추정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

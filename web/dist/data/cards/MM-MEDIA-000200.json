@@ -1,34 +1,22 @@
 {
   "id": "MM-MEDIA-000200",
-  "kind": "work",
+  "kind": "organization",
   "title": "Crass",
   "original": "Crass",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-T00139",
+  "primary_tag_id": null,
   "description": {
-    "definition": "이 카드는 음악 작품 《Crass》를 가리킨다. 이 라이브러리에서는 [[곡조와 가사의 정서 불일치]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Crass는 거칠고 공격적으로 들리는 음악 양식에 평화주의 메시지를 담아, 곡조의 인상과 가사의 뜻을 어긋나게 한다.",
+    "definition": "크래스는 영국의 아나코 펑크 밴드다. 거친 음악과 평화주의적 가사의 대비는 [[곡조와 가사의 정서 불일치]]의 사례다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
-  "classification": {
-    "code": "02.008",
-    "review_status": "provisional",
-    "row_version": 1
-  },
-  "classification_semantics": {
-    "semantic_kind": "medium_family",
-    "parent_relation": "facet_member",
-    "allowed_roles": [
-      "medium"
-    ],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "updated_at": "2026-11-12",
+  "row_version": 4,
+  "classification": null,
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "Crass는 거칠고 공격적으로 들리는 음악 양식에 평화주의 메시지를 담아, 곡조의 인상과 가사의 뜻을 어긋나게 한다.",
     "review_status": "reviewed",
@@ -37,11 +25,19 @@
   },
   "applied_tags": [],
   "related_media": [],
-  "related_motifs": [
-    {
-      "card_id": "MEJE-KW-013590",
-      "row_version": 1
-    }
-  ],
-  "references": []
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "Crass는 1977년 영국의 공동체 공간 Dial House를 기반으로 결성된 펑크 밴드다. 무정부주의를 정치적 주장뿐 아니라 저항과 생활 방식으로 제시한 집단이다.\n\n페니 랭보와 스티브 이그노런트의 드럼과 보컬 연주에서 출발해 공동체의 다른 구성원들이 참여했다. 초기 공연의 혼란을 겪은 뒤 무대에서의 태도와 집단의 표현 방식을 정비했다.\n\n이들의 활동에서는 음악과 정치적 발언이 밀접하게 이어진다. 따라서 특정 노래의 공격적인 소리만으로 설명하기보다 공연과 공동체 활동까지 포함한 펑크 문화의 실천으로 이해할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "Crass는 1977년 영국의 공동체 공간 Dial House를 기반으로 결성된 펑크 밴드다. 무정부주의를 정치적 주장뿐 아니라 저항과 생활 방식으로 제시한 집단이다.\n\n페니 랭보와 스티브 이그노런트의 드럼과 보컬 연주에서 출발해 공동체의 다른 구성원들이 참여했다. 초기 공연의 혼란을 겪은 뒤 무대에서의 태도와 집단의 표현 방식을 정비했다.\n\n이들의 활동에서는 음악과 정치적 발언이 밀접하게 이어진다. 따라서 특정 노래의 공격적인 소리만으로 설명하기보다 공연과 공동체 활동까지 포함한 펑크 문화의 실천으로 이해할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "싸움까지 맡는 집사",
   "original": "Battle Butler",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "집을 돌보는 사람이 주인을 지키기 위해 직접 싸운다. 예의 바른 봉사와 전투 능력이 같은 인물의 역할을 이룬다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가사와 주인의 일상을 관리하는 집사나 개인 시종이 실전에서도 유능한 전투원으로 활동한다. 비전투적인 공식 직무와 숨은 능력의 차이가 인상의 핵심이다.\n\n정중한 말투와 절제된 행동을 싸움 중에도 유지하면 전문성과 냉정함이 함께 부각된다. 주인을 지키는 역할은 일상적인 봉사와 전투를 같은 충성의 연장으로 연결한다.\n\n단순히 경호원이 집사 복장을 한 경우와 실제 가사 직무를 함께 수행하는 경우는 차이가 있다. 전투 능력이 알려져 있는지와 처음 공개되는지도 반전의 정도를 정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가사와 주인의 일상을 관리하는 집사나 개인 시종이 실전에서도 유능한 전투원으로 활동한다. 비전투적인 공식 직무와 숨은 능력의 차이가 인상의 핵심이다.\n\n정중한 말투와 절제된 행동을 싸움 중에도 유지하면 전문성과 냉정함이 함께 부각된다. 주인을 지키는 역할은 일상적인 봉사와 전투를 같은 충성의 연장으로 연결한다.\n\n단순히 경호원이 집사 복장을 한 경우와 실제 가사 직무를 함께 수행하는 경우는 차이가 있다. 전투 능력이 알려져 있는지와 처음 공개되는지도 반전의 정도를 정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "프로레슬링을 중심에 둔 회차",
   "original": "Pro Wrestling Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00556",
+  "primary_tag_id": "ML-T00556",
   "description": {
     "definition": "등장인물이 [[프로레슬링]] 공연이나 경기에 참여하는 일을 중심으로 전개되는 에피소드다.",
     "detail": "작품 사례: [[The Simpsons]]에서 에이브는 번스의 설득으로 옛 프로레슬러 역할에 복귀하지만, 바트에게 나쁜 영향을 주는 모습을 보고 다시 은퇴한다.",
@@ -13,10 +13,10 @@
     "boundary": "일반 격투 회차나 레슬링을 잠시 관람하는 장면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.001.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "프로레슬링의 배역과 경기, 관객의 반응이 회차의 주된 사건을 구성한다. 과거의 역할로 복귀하는 인물은 공연상의 성공과 주변에 주는 영향 사이에서 다시 선택할 수 있다.\n\n일반적인 격투나 잠깐의 경기 관람과는 중심 활동이 다르다. 레슬링의 형식과 역할 수행이 갈등을 진행시키는지 보아야 한다.\n\n《[[The Simpsons]]》의 에이브는 번스의 권유로 옛 프로레슬러 역할에 돌아간다. 바트에게 미치는 나쁜 영향을 본 뒤 다시 은퇴하는 과정이 회차의 변화를 이룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "프로레슬링의 배역과 경기, 관객의 반응이 회차의 주된 사건을 구성한다. 과거의 역할로 복귀하는 인물은 공연상의 성공과 주변에 주는 영향 사이에서 다시 선택할 수 있다.\n\n일반적인 격투나 잠깐의 경기 관람과는 중심 활동이 다르다. 레슬링의 형식과 역할 수행이 갈등을 진행시키는지 보아야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[The Simpsons]]》의 에이브는 번스의 권유로 옛 프로레슬러 역할에 돌아간다. 바트에게 미치는 나쁜 영향을 본 뒤 다시 은퇴하는 과정이 회차의 변화를 이룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "The Warning Is Cut Off at the Critical Moment",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00863",
+  "primary_tag_id": "ML-T00863",
   "description": {
     "definition": "임무의 성공과 생존에 꼭 필요한 경고나 행동 지침을 전달하던 통신이 핵심 내용에 이르러 끊기는 장치다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "사소한 잡담 누락과 달리 빠진 정보가 수행의 위험을 직접 바꾼다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "08.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "임무에 꼭 필요한 경고나 지시를 전달하던 통신이 핵심 내용 직전에 끊긴다. 연락이 있었다는 사실에도 불구하고 행동을 결정할 정보는 남지 않는다.\n\n인물은 누락된 지침을 모른 채 위험에 대응해야 한다. 관객도 같은 정보 부족을 겪으면 이후 선택의 불확실성이 함께 유지된다.\n\n사소한 대화가 들리지 않은 경우와 구별한다. 빠진 내용이 성공과 생존의 위험을 직접 바꾸어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "임무에 꼭 필요한 경고나 지시를 전달하던 통신이 핵심 내용 직전에 끊긴다. 연락이 있었다는 사실에도 불구하고 행동을 결정할 정보는 남지 않는다.\n\n인물은 누락된 지침을 모른 채 위험에 대응해야 한다. 관객도 같은 정보 부족을 겪으면 이후 선택의 불확실성이 함께 유지된다.\n\n사소한 대화가 들리지 않은 경우와 구별한다. 빠진 내용이 성공과 생존의 위험을 직접 바꾸어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "기술로 컴퓨터에 머무는 영혼",
   "original": "Virtual Ghost",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01449",
+  "primary_tag_id": "ML-T01449",
   "description": {
     "definition": "미래 기술을 통해 유령이나 영혼이 컴퓨터에 거처를 갖도록 하는 설정이다.",
     "detail": "작품 사례: [[Cyberpunk 2077]]에서 V는 조니 실버핸드의 가상 인격과 신의 존재에 관해 논쟁한다. 사라진 인물의 의식이 기술 안에 남아 현재의 인물과 대화하는 설정이다.",
@@ -13,10 +13,10 @@
     "boundary": "초자연적 빙의와 기술적 수용을 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.005.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽었거나 죽어 가는 사람의 마음을 기술 안에 남겨 컴퓨터를 거처로 삼게 한다. 생물학적 몸의 종료와 대화 가능한 인격의 지속이 분리된다.\n\n남은 인격은 현재의 사람과 관계를 맺거나 가상 공간에서 활동할 수 있다. 원래 사람의 지속인지 그처럼 행동하는 소프트웨어인지에 따라 존재의 해석은 달라질 수 있다.\n\n초자연적인 영혼이 기계에 빙의하는 사건과 다르다. 기술로 의식을 보존했다는 설정이 실제 영혼의 존재까지 입증하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽었거나 죽어 가는 사람의 마음을 기술 안에 남겨 컴퓨터를 거처로 삼게 한다. 생물학적 몸의 종료와 대화 가능한 인격의 지속이 분리된다.\n\n남은 인격은 현재의 사람과 관계를 맺거나 가상 공간에서 활동할 수 있다. 원래 사람의 지속인지 그처럼 행동하는 소프트웨어인지에 따라 존재의 해석은 달라질 수 있다.\n\n초자연적인 영혼이 기계에 빙의하는 사건과 다르다. 기술로 의식을 보존했다는 설정이 실제 영혼의 존재까지 입증하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

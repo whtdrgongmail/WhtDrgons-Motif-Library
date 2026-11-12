@@ -4,8 +4,8 @@
   "title": "자연과 자연물을 숭배하는 신앙",
   "original": "Nature Worship",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01373",
+  "primary_tag_id": "ML-T01373",
   "description": {
     "definition": "자연 전체나 특정 자연의 힘·장소·생물을 경외와 예배의 대상으로 삼는 신앙 설정이다.",
     "detail": "작품 사례: 《[[아바타(연작)]]》의 나비족은 판도라의 생물들에 깃들고 이들과 연결되는 에이와를 숭배한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 신앙을 미개하거나 비합리적이라고 단정하지 않으며 단순한 자연 감상이나 환경 보호와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,13 +30,26 @@
   "applied_tags": [],
   "related_media": [
     {
-      "media_tag_id": "ML-F02",
+      "media_tag_id": "ML-T02516",
       "work_card_id": "MM-MEDIA-001802",
       "description_ko": "《아바타(연작)》의 나비족은 판도라의 생물들에 깃들고 이들과 연결되는 에이와를 숭배한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자연의 장소와 현상을 경외의 대상으로 삼으면 생활의 환경이 의례와 윤리의 기준이 된다. 특정 바위와 나무, 계절의 변화는 단순한 배경보다 큰 의미를 얻는다.\n\n신과 정령이 자연을 통해 나타난다고 믿거나 자연 자체가 살아 있다고 보는 등 근거는 다양할 수 있다. 창작은 이런 믿음을 세계의 실제 능력과 연결할 수도 있다.\n\n자연을 좋아하고 보호하는 태도와 신앙은 동일하지 않다. 경외와 예배의 대상이라는 관계가 설정의 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자연의 장소와 현상을 경외의 대상으로 삼으면 생활의 환경이 의례와 윤리의 기준이 된다. 특정 바위와 나무, 계절의 변화는 단순한 배경보다 큰 의미를 얻는다.\n\n신과 정령이 자연을 통해 나타난다고 믿거나 자연 자체가 살아 있다고 보는 등 근거는 다양할 수 있다. 창작은 이런 믿음을 세계의 실제 능력과 연결할 수도 있다.\n\n자연을 좋아하고 보호하는 태도와 신앙은 동일하지 않다. 경외와 예배의 대상이라는 관계가 설정의 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

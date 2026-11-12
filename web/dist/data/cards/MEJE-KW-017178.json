@@ -4,8 +4,8 @@
   "title": "이름뿐인 피난처가 된 감옥",
   "original": "Implicit Prison",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01297",
+  "primary_tag_id": "ML-T01297",
   "description": {
     "definition": "감옥으로 불리지 않는 공간이 외부 위협·권력의 제한 때문에 의사에 반하여 떠날 수 없는 장소로 기능하는 설정.",
     "detail": "안락한 생활 조건이 강제 체류를 없애지는 않으며 집·[[성소]]·도시 전체가 이런 공간이 될 수 있다.\n\n작품 사례: 《[[해리 포터와 불사조 기사단]]》의 시리우스는 마법부의 추적을 피하려 자신이 도망쳤던 집에 갇혀 지내며, 피난처에서도 가족의 흔적과 [[갈등]]을 벗어나지 못한다.",
@@ -13,19 +13,19 @@
     "boundary": "스스로 원해 머무르는 은둔이나 실제 감옥의 험한 주변 환경과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "보호받는 곳처럼 보여도 나갈 자유가 없으면 사실상 갇힌 상태다.\n\n작품 사례: 《[[해리 포터와 불사조 기사단]]》의 시리우스는 마법부의 추적을 피하려 자신이 도망쳤던 집에 갇혀 지내며, 피난처에서도 가족의 흔적과 갈등을 벗어나지 못한다.",
+    "easy_ko": "보호받는 곳처럼 보여도 나갈 자유가 없으면 사실상 갇힌 상태다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "안락한 생활 조건이 강제 체류를 없애지는 않으며 집·[[성소]]·도시 전체가 이런 공간이 될 수 있다.\n\n스스로 원해 머무르는 은둔이나 실제 감옥의 험한 주변 환경과 구별한다.\n\n소설 《[[해리 포터와 불사조 기사단]]》의 시리우스는 마법부의 추적을 피하려 자신이 도망쳤던 집에 갇혀 지낸다. 피난처에서도 가족의 초상과 크리처가 되풀이하는 차별적 태도 때문에 불편함과 [[갈등]]이 지속된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "안락한 생활 조건이 강제 체류를 없애지는 않으며 집·[[성소]]·도시 전체가 이런 공간이 될 수 있다.\n\n스스로 원해 머무르는 은둔이나 실제 감옥의 험한 주변 환경과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "소설 《[[해리 포터와 불사조 기사단]]》의 시리우스는 마법부의 추적을 피하려 자신이 도망쳤던 집에 갇혀 지낸다. 피난처에서도 가족의 초상과 크리처가 되풀이하는 차별적 태도 때문에 불편함과 [[갈등]]이 지속된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

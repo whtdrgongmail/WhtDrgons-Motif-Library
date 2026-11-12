@@ -4,8 +4,8 @@
   "title": "음역을 벗어나 무너지는 노래",
   "original": "Vocal Range Exceeded",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "노래의 요구 음높이가 가창자의 낼 수 있는 범위를 넘어 목소리가 불안정하거나 다른 소리로 바뀌는 장면이다.",
     "detail": "작품 사례: [[Citizen Kane]]에서 낮은 음역의 수전은 남편 때문에 소프라노 배역으로 오페라에 서지만, 감당하지 못하는 노래에 교사와 비평가가 혹평한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 박자가 틀리거나 가사를 잊는 실수와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-000176",
+      "work_card_id": "MM-MEDIA-002051",
       "description_ko": "Citizen Kane에서 낮은 음역의 수전은 남편 때문에 소프라노 배역으로 오페라에 서지만, 감당하지 못하는 노래에 교사와 비평가가 혹평한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가수의 가능한 음역과 배역이 요구하는 음역이 맞지 않아 공연이 실패하는 상황이다. 특정 구간의 높고 낮음이 실력 평가의 원인이 된다.\n\n박자를 놓치거나 가사를 잊는 실수와 다르다. 음정이 나쁘다는 일반적인 설명보다 요구 범위와 수행 능력의 불일치가 제시되어야 한다.\n\n[[Citizen Kane]]의 수전은 낮은 음역을 가졌지만 남편 때문에 소프라노 배역을 맡는다. 감당하지 못한 노래가 교사와 비평가의 혹평으로 이어져 배역 선택과 수행의 불일치가 드러난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가수의 가능한 음역과 배역이 요구하는 음역이 맞지 않아 공연이 실패하는 상황이다. 특정 구간의 높고 낮음이 실력 평가의 원인이 된다.\n\n박자를 놓치거나 가사를 잊는 실수와 다르다. 음정이 나쁘다는 일반적인 설명보다 요구 범위와 수행 능력의 불일치가 제시되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Citizen Kane]]의 수전은 낮은 음역을 가졌지만 남편 때문에 소프라노 배역을 맡는다. 감당하지 못한 노래가 교사와 비평가의 혹평으로 이어져 배역 선택과 수행의 불일치가 드러난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

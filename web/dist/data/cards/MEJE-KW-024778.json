@@ -5,8 +5,8 @@
   "original": "The Victim Leaves and the Work Stops",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01018",
+  "primary_tag_id": "ML-T01018",
   "description": {
     "definition": "억지로 일을 맡겼던 피해자가 떠나자 가해자의 생활이나 운영에 필요한 노동이 수행되지 않는 전개이다.",
     "detail": "작품 사례: 《[[배트맨: 애니메이티드 시리즈]]》에서 할리가 조커에게 돌아오지 않는 동안 은신처 관리와 생활의 노동이 비어 조커가 감당하지 못한다.",
@@ -14,14 +14,20 @@
     "boundary": "일반적인 퇴사 공백보다 학대와 강제적 노동 의존이 선행한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.006.007",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "모든 일을 떠넘기던 사람이 없어져 집이나 조직이 돌아가지 않는다.",
     "review_status": "reviewed",
@@ -39,5 +45,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "강제로 노동을 맡겼던 사람이 떠나자 가해자의 생활이나 운영이 유지되지 않는다. 착취 관계에 가려졌던 노동 의존이 부재를 통해 드러난다.\n\n이전에는 당연하게 제공되던 관리와 생활의 일이 비게 된다. 피해자의 이탈은 관계의 단절인 동시에 가해자가 스스로 감당하지 못하는 노동을 가시화한다.\n\n일반적인 퇴사 뒤의 업무 공백과는 다르다. 그전에 학대와 강제적인 노동 의존이 있었다는 관계가 필요하다.\n\n《[[배트맨: 애니메이티드 시리즈]]》에서 할리가 조커에게 돌아오지 않는 동안 은신처 관리와 생활의 노동이 비어 조커가 감당하지 못한다.\n\n[[배트맨: 애니메이티드 시리즈]]",
+    "sections": [
+      [
+        "상세 설명",
+        "강제로 노동을 맡겼던 사람이 떠나자 가해자의 생활이나 운영이 유지되지 않는다. 착취 관계에 가려졌던 노동 의존이 부재를 통해 드러난다.\n\n이전에는 당연하게 제공되던 관리와 생활의 일이 비게 된다. 피해자의 이탈은 관계의 단절인 동시에 가해자가 스스로 감당하지 못하는 노동을 가시화한다.\n\n일반적인 퇴사 뒤의 업무 공백과는 다르다. 그전에 학대와 강제적인 노동 의존이 있었다는 관계가 필요하다."
+      ],
+      [
+        "사례",
+        "《[[배트맨: 애니메이티드 시리즈]]》에서 할리가 조커에게 돌아오지 않는 동안 은신처 관리와 생활의 노동이 비어 조커가 감당하지 못한다."
+      ],
+      [
+        "관련 작품",
+        "[[배트맨: 애니메이티드 시리즈]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

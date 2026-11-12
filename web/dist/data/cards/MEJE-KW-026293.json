@@ -4,8 +4,8 @@
   "title": "고백이 엉뚱한 사람에게 전달되기",
   "original": "MistakenDeclarationOfLove",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01945",
+  "primary_tag_id": "ML-T01945",
   "description": {
     "definition": "사랑의 고백이 의도한 상대가 아닌 다른 사람에게 향하거나 전달되어 잘못된 관계 이해를 일으키는 전개다.",
     "detail": "작품 사례: 《[[파이널 판타지 IX]]》에서 에이코가 지탄에게 쓴 편지를 스타이너는 베아트릭스가 자신에게 쓴 것으로 오해한다. 뒤에 편지를 발견한 베아트릭스도 스타이너의 고백으로 받아들인다.",
@@ -13,10 +13,10 @@
     "boundary": "고백을 하지 못하는 경우나 마음이 없는 상대에게 고백하는 경우와 달리 수신자가 잘못 지정되는 것이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "23.003.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "고백의 말은 실제이지만 수신자의 신원을 잘못 이해했다. 용기를 낸 결과가 의도하지 않은 인물과의 오해로 이어진다.\n\n고백을 들은 사람의 감정과 원래 상대의 반응이 서로 얽힐 수 있다. 뒤늦은 정정은 진심을 표현한 사실과 누구를 향했는지를 나누어 설명해야 한다.\n\n거절된 고백과는 오류의 위치가 다르다. 잘못 알아본 직접 발언과 중간 전달의 착오 모두 가능하며 장난으로 꾸민 거짓 고백과는 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "고백의 말은 실제이지만 수신자의 신원을 잘못 이해했다. 용기를 낸 결과가 의도하지 않은 인물과의 오해로 이어진다.\n\n고백을 들은 사람의 감정과 원래 상대의 반응이 서로 얽힐 수 있다. 뒤늦은 정정은 진심을 표현한 사실과 누구를 향했는지를 나누어 설명해야 한다.\n\n거절된 고백과는 오류의 위치가 다르다. 잘못 알아본 직접 발언과 중간 전달의 착오 모두 가능하며 장난으로 꾸민 거짓 고백과는 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

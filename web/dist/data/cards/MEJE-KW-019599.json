@@ -4,8 +4,8 @@
   "title": "파워 일렉트로닉스",
   "original": "Power Electronics",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00520",
+  "primary_tag_id": "ML-T00520",
   "description": {
     "definition": "전통적인 선율과 리듬을 줄이고 낮은 전자 진동·고음의 비명 같은 소리·피드백과 왜곡된 음성을 전면에 놓는 양식이다.",
     "detail": "작품 사례: SPK의 〈[[슬로건]]〉는 이 음악 양식의 실제 곡 사례다.",
@@ -13,19 +13,22 @@
     "boundary": "인접 양식과 혼합될 수 있으므로 특정 악기 하나나 창작자의 소속만으로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.304",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "멜로디 대신 극단적인 전자음과 소음의 압박을 만든다.",
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전통적인 선율과 리듬을 줄이고 전자 진동과 고음, 피드백과 왜곡된 목소리를 전면에 둔다. 소리의 강한 질감이 구성의 중심이 되는 양식이다.\n\n익숙한 멜로디의 흐름보다 음향 요소의 배치와 마찰이 청각적 인상을 만든다. 실제 곡에서 어떤 소리가 강조되는지 연결해 설명할 수 있다.\n\n특정 악기를 썼거나 창작자가 어느 집단에 속한다는 이유만으로 확정하지 않는다. 인접한 양식과의 혼합을 실제 음악에 따라 구분해야 한다.\n\nSPK의 〈[[슬로건]]〉는 이 음악 양식의 실제 곡 사례다.\n\n[[슬로건]]",
+    "sections": [
+      [
+        "상세 설명",
+        "전통적인 선율과 리듬을 줄이고 전자 진동과 고음, 피드백과 왜곡된 목소리를 전면에 둔다. 소리의 강한 질감이 구성의 중심이 되는 양식이다.\n\n익숙한 멜로디의 흐름보다 음향 요소의 배치와 마찰이 청각적 인상을 만든다. 실제 곡에서 어떤 소리가 강조되는지 연결해 설명할 수 있다.\n\n특정 악기를 썼거나 창작자가 어느 집단에 속한다는 이유만으로 확정하지 않는다. 인접한 양식과의 혼합을 실제 음악에 따라 구분해야 한다."
+      ],
+      [
+        "사례",
+        "SPK의 〈[[슬로건]]〉는 이 음악 양식의 실제 곡 사례다."
+      ],
+      [
+        "관련 작품",
+        "[[슬로건]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

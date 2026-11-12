@@ -4,8 +4,8 @@
   "title": "막연한 두려움에 과잉 대응해 화를 부르기",
   "original": "Improperly Paranoid",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F11",
+  "tag_id": "ML-T01085",
+  "primary_tag_id": "ML-T01085",
   "description": {
     "definition": "작은 가능성에 대한 불안을 견디지 못한 인물이 타인에게 해로운 선제 행동을 하고, 그 때문에 오히려 두려워하던 사태를 일으킨다.",
     "detail": "작품 사례: 《[[드래곤볼 다이마]]》에서 고마는 침공을 걱정해 영웅들을 아이로 만들고 덴데를 납치하지만, 그 행동이 실제 마계 침입을 부른다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 위험에 비례한 대비나 모든 일에 지속적으로 불안해하는 성격 전체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "11",
+    "code": "11.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001669",
+      "work_card_id": "MM-MEDIA-002566",
       "description_ko": "《드래곤볼 다이마》에서 고마는 침공을 걱정해 영웅들을 아이로 만들고 덴데를 납치하지만, 그 행동이 실제 마계 침입을 부른다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "두려움에 대한 과도한 통제가 원래 피하려던 위기를 실제로 일으킨다. 대비의 명목과 결과를 대조하면 불신과 통제 욕구가 자기실현적 파국의 원인으로 드러난다.\n\n실제 위험에 비례한 준비나 불안한 성격 일반과 다르다. 예방 행동이 새로운 위협을 불러왔다는 연결이 있어야 한다.\n\n《[[드래곤볼 다이마]]》의 고마는 침공을 막으려 영웅을 아이로 만들고 덴데를 납치하지만 그 때문에 마계 침입을 부른다. 방어의 명분이 공격의 계기를 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "두려움에 대한 과도한 통제가 원래 피하려던 위기를 실제로 일으킨다. 대비의 명목과 결과를 대조하면 불신과 통제 욕구가 자기실현적 파국의 원인으로 드러난다.\n\n실제 위험에 비례한 준비나 불안한 성격 일반과 다르다. 예방 행동이 새로운 위협을 불러왔다는 연결이 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[드래곤볼 다이마]]》의 고마는 침공을 막으려 영웅을 아이로 만들고 덴데를 납치하지만 그 때문에 마계 침입을 부른다. 방어의 명분이 공격의 계기를 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "일렉트로 하우스",
   "original": "Electro House",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00521",
+  "primary_tag_id": "ML-T00521",
   "description": {
     "definition": "[[하우스]] 음악의 리듬에 강한 전자음과 저음을 결합한 댄스 음악 갈래.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.304.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "하우스의 규칙적인 박자에 강한 저음과 짧은 전자음 구절을 결합한 전자 댄스 음악의 경향이다. 긴 상승 구간 뒤에 리듬과 음색이 집중되는 구간을 배치하여 긴장과 해소를 만든다. 보컬이 없어도 소리의 변화가 중심적인 사건이 된다.\n\n춤추기 좋은 반복을 유지하면서 신시사이저의 질감과 대비를 강조한다. 다른 전자음악의 요소를 받아들이기 쉬워 작품마다 구성의 차이가 크다. 공연에서는 예상과 기다림, 강한 전환이 집단의 반응을 이끄는 수단이 된다.\n\n후대에 크게 유행했다고 그 시기에 처음 생긴 형식은 아니다. 장르의 기원과 대중적인 확산을 구별할 필요가 있다. 비슷한 박자를 사용하는 다른 하우스 계열과도 음색과 전개 방식의 비중을 비교하여 설명하는 편이 정확하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "하우스의 규칙적인 박자에 강한 저음과 짧은 전자음 구절을 결합한 전자 댄스 음악의 경향이다. 긴 상승 구간 뒤에 리듬과 음색이 집중되는 구간을 배치하여 긴장과 해소를 만든다. 보컬이 없어도 소리의 변화가 중심적인 사건이 된다.\n\n춤추기 좋은 반복을 유지하면서 신시사이저의 질감과 대비를 강조한다. 다른 전자음악의 요소를 받아들이기 쉬워 작품마다 구성의 차이가 크다. 공연에서는 예상과 기다림, 강한 전환이 집단의 반응을 이끄는 수단이 된다.\n\n후대에 크게 유행했다고 그 시기에 처음 생긴 형식은 아니다. 장르의 기원과 대중적인 확산을 구별할 필요가 있다. 비슷한 박자를 사용하는 다른 하우스 계열과도 음색과 전개 방식의 비중을 비교하여 설명하는 편이 정확하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

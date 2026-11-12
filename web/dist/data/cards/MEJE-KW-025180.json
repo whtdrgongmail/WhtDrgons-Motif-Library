@@ -5,8 +5,8 @@
   "original": "The Abuser Escalates When the Victim Leaves",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "자신의 해로운 대우에서 떠나는 상대를 틀렸다고 여기거나 되찾으려 하여 더 큰 통제와 악행으로 나아가는 전개다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "단순한 이별의 슬픔과 달리 가해 책임을 인정하지 않는 회수와 통제의 행동이 조건이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "떠나려는 사람을 붙잡겠다며 오히려 더 위험해진다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "학대받던 상대가 떠나자 가해자가 이를 인정하지 않고 되찾으려 통제를 강화한다. 관계의 단절이 반성보다 더 큰 악행으로 이어지는 분기다.\n\n상대의 선택을 존중하는 대신 자기 소유를 빼앗겼다고 여기는 태도가 드러난다. 되돌리려는 행동은 이전의 가해 책임을 외면한다는 정보와 연결된다.\n\n이별 후 슬퍼한다는 감정만으로는 부족하다. 상대를 다시 통제하려는 구체적인 행동이 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "학대받던 상대가 떠나자 가해자가 이를 인정하지 않고 되찾으려 통제를 강화한다. 관계의 단절이 반성보다 더 큰 악행으로 이어지는 분기다.\n\n상대의 선택을 존중하는 대신 자기 소유를 빼앗겼다고 여기는 태도가 드러난다. 되돌리려는 행동은 이전의 가해 책임을 외면한다는 정보와 연결된다.\n\n이별 후 슬퍼한다는 감정만으로는 부족하다. 상대를 다시 통제하려는 구체적인 행동이 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

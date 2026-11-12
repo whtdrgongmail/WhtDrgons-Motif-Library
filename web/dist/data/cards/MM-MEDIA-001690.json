@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "패밀리 가이",
   "original": "Family Guy",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Family Guy"
+  ],
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
-    "definition": "《패밀리 가이》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《패밀리 가이》에서 수녀들은 이단 사태에 대비한 유리 상자를 깨고 그 안에 준비된 자들을 꺼낸다.",
+    "definition": "《패밀리 가이》는 그리핀 가족을 중심으로 한 미국 애니메이션 시리즈다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -30,14 +32,34 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《패밀리 가이》에서 수녀들은 이단 사태에 대비한 유리 상자를 깨고 그 안에 준비된 자들을 꺼낸다.",
+    "easy_ko": "그리핀 가족의 일상을 과장과 풍자로 그리는 애니메이션 시리즈다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-013023",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014371",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-016224",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-016226",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014978",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-017349",
       "row_version": 1
@@ -47,5 +69,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《패밀리 가이》는 가상의 도시 쿠아호그에 사는 그리핀 가족을 다루는 미국 [[애니메이션]] 시트콤이다. 피터와 로이스, 세 자녀의 일상에 인간처럼 말하고 행동하는 개 브라이언과 야심 많은 아기 스튜이가 함께한다.\n\n피터의 이기적인 판단과 어리석은 행동이 가족을 소동에 끌어들이며, 평범한 가족 구성원과 현실을 벗어난 두 존재의 조합이 이야기의 폭을 넓힌다. 여기서는 같은 이름의 작품군 전체가 아니라 이 가족을 중심으로 전개되는 TV 시리즈를 가리킨다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《패밀리 가이》는 가상의 도시 쿠아호그에 사는 그리핀 가족을 다루는 미국 [[애니메이션]] 시트콤이다. 피터와 로이스, 세 자녀의 일상에 인간처럼 말하고 행동하는 개 브라이언과 야심 많은 아기 스튜이가 함께한다.\n\n피터의 이기적인 판단과 어리석은 행동이 가족을 소동에 끌어들이며, 평범한 가족 구성원과 현실을 벗어난 두 존재의 조합이 이야기의 폭을 넓힌다. 여기서는 같은 이름의 작품군 전체가 아니라 이 가족을 중심으로 전개되는 TV 시리즈를 가리킨다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "타인을 위해 쓰는 소원",
   "original": "Selfless Wish",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00807",
+  "primary_tag_id": "ML-T00807",
   "description": {
     "definition": "자신에게 주어진 소원의 기회를 개인적 이익 대신 다른 사람의 필요를 위해 사용하는 [[선택]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "소원 결과가 우연히 남에게도 도움이 되는 것과 달리 의도적인 양보가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "간절히 원하던 일을 이룰 기회를 얻었으나 그 소원을 다른 사람의 필요를 위해 사용한다. 소원을 얻기까지의 노력이 클수록 포기한 개인적 이익이 분명해져, 양보는 단순한 말보다 실제 비용이 있는 선택이 된다.\n\n소원을 들어주는 존재를 자유롭게 해 주는 행동도 그 존재를 위해 기회를 쓰는 방식이 될 수 있다. 이후 다른 경로로 원래의 바람을 보상받더라도 최초 선택의 의도는 타인을 향한다. 자신의 소원이 우연히 남에게도 이익을 준 경우와는 누구의 필요를 선택했는지가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "간절히 원하던 일을 이룰 기회를 얻었으나 그 소원을 다른 사람의 필요를 위해 사용한다. 소원을 얻기까지의 노력이 클수록 포기한 개인적 이익이 분명해져, 양보는 단순한 말보다 실제 비용이 있는 선택이 된다.\n\n소원을 들어주는 존재를 자유롭게 해 주는 행동도 그 존재를 위해 기회를 쓰는 방식이 될 수 있다. 이후 다른 경로로 원래의 바람을 보상받더라도 최초 선택의 의도는 타인을 향한다. 자신의 소원이 우연히 남에게도 이익을 준 경우와는 누구의 필요를 선택했는지가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

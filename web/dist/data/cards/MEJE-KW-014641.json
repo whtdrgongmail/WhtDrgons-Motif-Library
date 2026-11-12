@@ -4,8 +4,8 @@
   "title": "체력 소모 대신 별도 조건으로 처치하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02097",
+  "primary_tag_id": "ML-T02097",
   "description": {
     "definition": "적에게 피해를 누적하는 대신 필요한 물건을 완성하거나 연관 사건을 해결해야 처치할 수 있게 하는 설계다. 승리 조건은 일반적인 체력 고갈과 분리된다.",
     "detail": "작품 사례: [[Destroy the Godmodder]]에는 공격으로 체력을 깎는 대신 특정 유물을 완성해야 없앨 수 있는 존재가 있다. 필요한 조각을 찾는 일이 타격을 반복하는 일보다 중요해진다.",
@@ -13,10 +13,10 @@
     "boundary": "단지 약점을 맞히면 체력이 줄거나 체력 수치가 보이지 않는 적과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "체력을 반복해서 줄이는 것과 별개인 과제의 달성을 적 제거의 필수 조건으로 삼는 규칙이다. 전투의 목표가 타격량보다 조건의 발견과 수행에 놓인다.\n\n약점을 맞혀 체력을 줄이는 적과는 다르다. 체력이 보이지 않는다는 이유만으로도 충분하지 않으며 독립적인 제거 요건이 있어야 한다.\n\n[[Destroy the Godmodder]]에는 특정 유물을 완성해야 제거할 수 있는 존재가 있다. 필요한 조각의 수집이 공격의 반복보다 결정적인 목표가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "체력을 반복해서 줄이는 것과 별개인 과제의 달성을 적 제거의 필수 조건으로 삼는 규칙이다. 전투의 목표가 타격량보다 조건의 발견과 수행에 놓인다.\n\n약점을 맞혀 체력을 줄이는 적과는 다르다. 체력이 보이지 않는다는 이유만으로도 충분하지 않으며 독립적인 제거 요건이 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Destroy the Godmodder]]에는 특정 유물을 완성해야 제거할 수 있는 존재가 있다. 필요한 조각의 수집이 공격의 반복보다 결정적인 목표가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

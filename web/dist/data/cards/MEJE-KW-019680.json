@@ -5,8 +5,8 @@
   "original": "Absurd Excuse to Reject Someone",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01971",
+  "primary_tag_id": "ML-T01971",
   "description": {
     "definition": "상대가 믿지 않을 것을 알면서 황당한 이유를 내놓아 실제 사정 대신 관계를 끊거나 무시하겠다는 태도를 전달한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "당황해서 실수한 핑계와 의도적인 무시를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "핑계를 믿게 만들 생각 없이 황당한 이유를 제시해 거절한다. 표면의 설명이 설득에 실패하도록 의도되어 있어 상대는 진짜 사정보다 관계를 유지할 의사가 없다는 메시지를 받는다.\n\n상대가 핑계의 오류를 지적해도 거절한 사람의 태도는 흔들리지 않을 수 있다. 이 간격은 대화가 사실 확인의 문제가 아니라 응답할 가치조차 인정하지 않는 권력 관계임을 드러내며 희극과 모욕 양쪽으로 작용한다.\n\n급히 꾸민 거짓말이 우연히 들통난 경우와는 다르다. 믿지 않을 것을 알면서도 사용하는지가 핵심이며, 황당한 사정이 실제로 일어나는 세계에서는 문맥을 함께 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "핑계를 믿게 만들 생각 없이 황당한 이유를 제시해 거절한다. 표면의 설명이 설득에 실패하도록 의도되어 있어 상대는 진짜 사정보다 관계를 유지할 의사가 없다는 메시지를 받는다.\n\n상대가 핑계의 오류를 지적해도 거절한 사람의 태도는 흔들리지 않을 수 있다. 이 간격은 대화가 사실 확인의 문제가 아니라 응답할 가치조차 인정하지 않는 권력 관계임을 드러내며 희극과 모욕 양쪽으로 작용한다.\n\n급히 꾸민 거짓말이 우연히 들통난 경우와는 다르다. 믿지 않을 것을 알면서도 사용하는지가 핵심이며, 황당한 사정이 실제로 일어나는 세계에서는 문맥을 함께 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

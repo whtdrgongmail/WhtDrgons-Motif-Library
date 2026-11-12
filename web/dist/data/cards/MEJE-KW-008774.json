@@ -4,8 +4,8 @@
   "title": "질서가 무너진 밀폐 시설에서 탈출",
   "original": "Escape from the Crazy Place",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00754",
+  "primary_tag_id": "ML-T00754",
   "description": {
     "definition": "원래 통제되던 병원·연구소·[[우주선]] 등이 혼란에 빠져 그 안에 갇힌 인물이 위험을 피해 빠져나오는 전개다. [[맞서지 못할 적에게서 달아나는 게임 구간]]은 혼란에 빠진 시설에서 탈출하는 상황을 게임 구간의 핵심 과제로 만들 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 5,
   "classification": {
-    "code": "05",
+    "code": "07.003.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "병원이나 연구소처럼 통제되던 폐쇄 공간의 질서가 무너지고 인물이 그곳에서 탈출하는 구성이다. 안전을 담당하던 조직과 시설이 더 이상 믿을 만하지 않다.\n\n흩어진 시체와 기록, 단절된 연락이 사고의 규모를 전달한다. 인물은 전체 상황을 모른 채 위험을 피하면서 시설의 비밀을 알아내게 된다.\n\n일반적인 감옥 탈출과 달리 관리 체계 자체의 붕괴가 중요하다. 적의 공격뿐 아니라 정보 부족과 구조 요청의 실패가 고립감을 강화한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "병원이나 연구소처럼 통제되던 폐쇄 공간의 질서가 무너지고 인물이 그곳에서 탈출하는 구성이다. 안전을 담당하던 조직과 시설이 더 이상 믿을 만하지 않다.\n\n흩어진 시체와 기록, 단절된 연락이 사고의 규모를 전달한다. 인물은 전체 상황을 모른 채 위험을 피하면서 시설의 비밀을 알아내게 된다.\n\n일반적인 감옥 탈출과 달리 관리 체계 자체의 붕괴가 중요하다. 적의 공격뿐 아니라 정보 부족과 구조 요청의 실패가 고립감을 강화한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

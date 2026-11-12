@@ -4,8 +4,8 @@
   "title": "옆으로 흐르는 뮤직비디오",
   "original": "Conveyor Belt Video",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01891",
+  "primary_tag_id": "ML-T01891",
   "description": {
     "definition": "[[카메라]]가 한 방향으로 길게 움직이며 여러 작은 공간을 차례로 지나가 장면들이 운반대처럼 이어지는 영상 구성.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "카메라가 옆으로 계속 이동하며 이어진 여러 장면을 보여 주는 [[뮤직비디오]] 형식이다. 공간이 컨베이어처럼 흘러가는 인상을 만든다.\n\n벽 하나를 제거한 세트와 일상의 단면을 이어 붙여 서로 다른 상황을 한 움직임 안에 묶을 수 있다. 숨긴 연결 편집을 사용해도 연속 이동처럼 보이는 효과가 중심이다.\n\n오래 끊지 않고 촬영했다는 길이와 수평 이동의 형식은 다르다. 실제 한 번의 촬영인지 편집으로 연결했는지와 관계없이 방향성 있는 카메라 이동이 구성 원리가 되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "카메라가 옆으로 계속 이동하며 이어진 여러 장면을 보여 주는 [[뮤직비디오]] 형식이다. 공간이 컨베이어처럼 흘러가는 인상을 만든다.\n\n벽 하나를 제거한 세트와 일상의 단면을 이어 붙여 서로 다른 상황을 한 움직임 안에 묶을 수 있다. 숨긴 연결 편집을 사용해도 연속 이동처럼 보이는 효과가 중심이다.\n\n오래 끊지 않고 촬영했다는 길이와 수평 이동의 형식은 다르다. 실제 한 번의 촬영인지 편집으로 연결했는지와 관계없이 방향성 있는 카메라 이동이 구성 원리가 되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

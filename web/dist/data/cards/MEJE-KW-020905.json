@@ -4,8 +4,8 @@
   "title": "실력을 보여 주는 위협 시범",
   "original": "Intimidation Demonstration",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00776",
+  "primary_tag_id": "ML-T00776",
   "description": {
     "definition": "직접 상대를 공격하기 전에 무기 조작·신체 능력·화력을 시연해 자신의 위력을 알리고 상대를 위축시키는 행동이다.",
     "detail": "개인의 무술 시범에서 군사력의 과시까지 규모가 달라진다. 상대가 물러나면 실제 전투 없이 목적을 얻는다.\n\n작품 사례: 《[[드래곤볼 다이마]]》에서 타마가미 1호는 마인 쿠우의 뒤로 빠르게 이동하는 모습을 반복해 보여 주고, 쿠우는 승산이 없음을 깨닫고 항복한다.",
@@ -13,30 +13,47 @@
     "boundary": "단순한 멋내기 동작이나 위협과 무관한 힘의 사용과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "싸우기 전 칼을 현란하게 돌리거나 물건을 부숴 만만한 상대가 아님을 보인다.\n\n작품 사례: 《[[드래곤볼 다이마]]》에서 타마가미 1호는 마인 쿠우의 뒤로 빠르게 이동하는 모습을 반복해 보여 주고, 쿠우는 승산이 없음을 깨닫고 항복한다.",
+    "easy_ko": "싸우기 전 칼을 현란하게 돌리거나 물건을 부숴 만만한 상대가 아님을 보인다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001669",
+      "work_card_id": "MM-MEDIA-002566",
       "description_ko": "《드래곤볼 다이마》에서 타마가미 1호는 마인 쿠우의 뒤로 빠르게 이동하는 모습을 반복해 보여 주고, 쿠우는 승산이 없음을 깨닫고 항복한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "개인의 무술 시범에서 군사력의 과시까지 규모가 달라진다. 상대가 물러나면 실제 전투 없이 목적을 얻는다.\n\n단순한 멋내기 동작이나 위협과 무관한 힘의 사용과 구별한다.\n\n《[[드래곤볼 다이마]]》에서 타마가미 1호는 마인 쿠우의 뒤로 빠르게 이동하는 모습을 반복해 보여 주고, 쿠우는 승산이 없음을 깨닫고 항복한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "개인의 무술 시범에서 군사력의 과시까지 규모가 달라진다. 상대가 물러나면 실제 전투 없이 목적을 얻는다.\n\n단순한 멋내기 동작이나 위협과 무관한 힘의 사용과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[드래곤볼 다이마]]》에서 타마가미 1호는 마인 쿠우의 뒤로 빠르게 이동하는 모습을 반복해 보여 주고, 쿠우는 승산이 없음을 깨닫고 항복한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

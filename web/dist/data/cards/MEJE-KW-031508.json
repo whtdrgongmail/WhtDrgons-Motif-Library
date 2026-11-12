@@ -4,8 +4,8 @@
   "title": "고장 난 자동 장치를 직접 조작해야 하는 위기",
   "original": "Plot-Demanded Manual Mode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00614",
+  "primary_tag_id": "ML-T00614",
   "description": {
     "definition": "중요한 자동 시스템이 고장 나 사람이 위험한 위치에서 수동으로 작동시켜야 하는 상황이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "자동 장치가 멈춰 누군가 직접 들어가 손으로 작동시켜야 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "이 위기는 평소 보이지 않던 자동화의 의존을 드러낸다. 정상이라면 사람의 개입 없이 끝날 일을 시스템이 수행하지 못하고, 남은 수동 제어 수단은 접근하기 어렵거나 위험한 곳에 있다. 문제의 해결이 명령 입력에서 몸을 움직이는 임무로 바뀐다.\n\n장면의 긴장은 누가 가느냐뿐 아니라 어떻게 손상을 피하며 도달하느냐에서 생긴다. 남은 시간과 필요한 조작을 분명히 하면 기술적 문제를 인물의 선택으로 연결할 수 있다. 성공해도 반드시 죽는 상황은 더 강한 희생 구조이고, 수동 조작 자체가 꼭 죽음을 뜻하지는 않는다. 처음부터 사람이 조종하는 장치와는 자동 기능의 상실이 계기라는 점에서 다르다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "이 위기는 평소 보이지 않던 자동화의 의존을 드러낸다. 정상이라면 사람의 개입 없이 끝날 일을 시스템이 수행하지 못하고, 남은 수동 제어 수단은 접근하기 어렵거나 위험한 곳에 있다. 문제의 해결이 명령 입력에서 몸을 움직이는 임무로 바뀐다.\n\n장면의 긴장은 누가 가느냐뿐 아니라 어떻게 손상을 피하며 도달하느냐에서 생긴다. 남은 시간과 필요한 조작을 분명히 하면 기술적 문제를 인물의 선택으로 연결할 수 있다. 성공해도 반드시 죽는 상황은 더 강한 희생 구조이고, 수동 조작 자체가 꼭 죽음을 뜻하지는 않는다. 처음부터 사람이 조종하는 장치와는 자동 기능의 상실이 계기라는 점에서 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

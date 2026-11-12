@@ -4,8 +4,8 @@
   "title": "무기처럼 사용하는 치료 도구",
   "original": "Healing Shiv",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "칼·총·화살 등 무기와 같은 형태와 사용 방식을 가졌지만 대상을 해치는 대신 회복·방어·지원을 제공하는 도구이다.",
     "detail": "작품 사례: [[How To Cheat a Dragon's Curse]]에서는 치료용 감자에 오래 박혀 있던 화살이 그 성분을 머금어, 환자를 맞히자 Vorpentitis를 낫게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 무기의 안전한 사용을 뜻하지 않으며 회복이 도구·탄약·대상의 흡수 능력 중 어디서 오는지 구별할 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무기 같은 형태와 동작으로 치료와 보호를 제공한다. 공격을 예상하게 하는 외형이 반대의 기능을 수행한다.\n\n효과가 도구 자체와 탄약, 대상의 흡수 능력 중 어디서 오는지에 따라 작동은 달라진다. 외형과 결과를 분리해 이해해야 한다.\n\n현실 무기의 안전한 사용을 뜻하지 않는다. 대상을 해치지 않는 허구적 지원 도구의 규칙이다.\n\n[[How To Cheat a Dragon's Curse]]에서는 치료용 감자에 오래 박혀 있던 화살이 그 성분을 머금어, 환자를 맞히자 Vorpentitis를 낫게 한다.\n\n[[How To Cheat a Dragon's Curse]]",
+    "sections": [
+      [
+        "상세 설명",
+        "무기 같은 형태와 동작으로 치료와 보호를 제공한다. 공격을 예상하게 하는 외형이 반대의 기능을 수행한다.\n\n효과가 도구 자체와 탄약, 대상의 흡수 능력 중 어디서 오는지에 따라 작동은 달라진다. 외형과 결과를 분리해 이해해야 한다.\n\n현실 무기의 안전한 사용을 뜻하지 않는다. 대상을 해치지 않는 허구적 지원 도구의 규칙이다."
+      ],
+      [
+        "사례",
+        "[[How To Cheat a Dragon's Curse]]에서는 치료용 감자에 오래 박혀 있던 화살이 그 성분을 머금어, 환자를 맞히자 Vorpentitis를 낫게 한다."
+      ],
+      [
+        "관련 작품",
+        "[[How To Cheat a Dragon's Curse]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

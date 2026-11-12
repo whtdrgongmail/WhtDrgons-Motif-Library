@@ -2,24 +2,69 @@
   "id": "MM-MEDIA-003575",
   "kind": "work",
   "title": "이블 데드 3: 암흑의 군단",
-  "original": "",
+  "original": "Army of Darkness",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00055",
+  "primary_tag_id": "ML-T00055",
   "description": {
-    "definition": "",
+    "definition": "《이블 데드 3: 암흑의 군단》은 샘 레이미가 연출한 1993년 개봉 실사 영화다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.005.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "현대인 애시가 중세로 가서 악령의 군대와 싸우는 공포 코미디 영화다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000172",
+      "card_id": "MM-MEDIA-003575",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.universalpicturesathome.com/movies/army-of-darkness",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "샘 레이미의 1993년 영화 《[[Army of Darkness]]》는 20세기에서 중세로 넘어간 애시를 중심에 둔다. 산탄총과 전기톱을 지닌 그는 악마에게 사로잡힌 데다이트에 맞서기 위해 중세의 임시 군대를 이끌어야 한다. 유니버설은 이 작품을 공포, 어두운 코미디, 액션으로 분류한다.\n\n애시는 원래 전쟁을 지휘하려던 영웅이 아니라 자기 시대로 돌아가려는 여행자다. 하지만 살아 있는 사람들을 지키고 중세에서 만난 연인을 구하는 일이 귀환이라는 개인 목표와 얽힌다. 현대의 무기와 태도가 중세의 군대 및 마법적 적과 충돌하는 데서 액션과 우스꽝스러움이 함께 생긴다.\n\n유니버설의 줄거리에서 애시는 산탄총과 전기톱을 사용하면서도 데다이트에 맞설 중세 군대를 이끌어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "샘 레이미의 1993년 영화 《[[Army of Darkness]]》는 20세기에서 중세로 넘어간 애시를 중심에 둔다. 산탄총과 전기톱을 지닌 그는 악마에게 사로잡힌 데다이트에 맞서기 위해 중세의 임시 군대를 이끌어야 한다. 유니버설은 이 작품을 공포, 어두운 코미디, 액션으로 분류한다.\n\n애시는 원래 전쟁을 지휘하려던 영웅이 아니라 자기 시대로 돌아가려는 여행자다. 하지만 살아 있는 사람들을 지키고 중세에서 만난 연인을 구하는 일이 귀환이라는 개인 목표와 얽힌다. 현대의 무기와 태도가 중세의 군대 및 마법적 적과 충돌하는 데서 액션과 우스꽝스러움이 함께 생긴다."
+      ],
+      [
+        "사례",
+        "유니버설의 줄거리에서 애시는 산탄총과 전기톱을 사용하면서도 데다이트에 맞설 중세 군대를 이끌어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

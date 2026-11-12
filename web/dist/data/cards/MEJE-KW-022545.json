@@ -4,8 +4,8 @@
   "title": "프로그램 오류로 들어가는 비정상 스테이지",
   "original": "Minus World",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "오류를 이용하여 정규 진행 경로 밖의 스테이지에 도달하며 그 공간에서 일정 수준의 플레이가 가능한 현상이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "게임을 곧바로 멈추게 하는 오류 화면과 달리 적어도 일부 조작과 진행이 가능한 공간이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정상적인 진행 경로 밖에서 오류와 조작을 통해 도달하는 비정상적인 게임 공간이다. 유효한 스테이지가 아닌 데이터가 일정한 지형처럼 드러날 수 있다.\n\n익숙한 그래픽이 어긋난 규칙으로 조합되면 기괴하고 낯선 인상이 생긴다. 플레이어는 원래 목적을 수행하기보다 공간이 어디까지 작동하는지 탐색하게 된다.\n\n의도적으로 숨긴 비밀 스테이지와는 제작상의 성격이 다르다. 단순히 화면 밖으로 나간 상태와도 구별되며, 어느 정도의 이동과 상호작용이 가능한지가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정상적인 진행 경로 밖에서 오류와 조작을 통해 도달하는 비정상적인 게임 공간이다. 유효한 스테이지가 아닌 데이터가 일정한 지형처럼 드러날 수 있다.\n\n익숙한 그래픽이 어긋난 규칙으로 조합되면 기괴하고 낯선 인상이 생긴다. 플레이어는 원래 목적을 수행하기보다 공간이 어디까지 작동하는지 탐색하게 된다.\n\n의도적으로 숨긴 비밀 스테이지와는 제작상의 성격이 다르다. 단순히 화면 밖으로 나간 상태와도 구별되며, 어느 정도의 이동과 상호작용이 가능한지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

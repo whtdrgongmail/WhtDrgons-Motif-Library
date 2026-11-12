@@ -4,8 +4,8 @@
   "title": "친구로 알았던 주적",
   "original": "Big Bad Friend",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "가까운 친구라고 믿었던 인물이 큰 갈등을 설계한 것으로 드러난다. 정체 공개 뒤에는 지난 신뢰가 어떻게 이용됐는지도 다시 읽힌다. 친구의 정체가 [[이야기 전체를 이끄는 주적]]로 드러나 신뢰를 다시 읽게 한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "믿고 고민을 나누던 친구가 사실은 큰 사건을 계획한 주적이었다고 밝혀지는 전개다. 정체가 드러나면 과거의 조언과 도움이 조종이었는지 다시 판단하게 된다. [[이야기 전체를 이끄는 주적]]의 위치와 개인적인 배신감이 겹쳐 갈등의 무게가 커진다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가까운 친구가 주요 갈등의 배후였다는 사실은 과거의 조언과 보호를 새로 해석하게 한다. 진짜 우정이 있었어도 그 우정과 해로운 계획이 함께 지속될 수 있다는 점이 충격의 중심이다.\n\n처음부터 모든 친절이 위장인 경우와 상대를 좋아하지만 목적을 포기하지 않는 경우는 다르다. 후자에서는 살려 두려는 시도가 동시에 진실을 막는 통제가 될 수 있다. 인물이 숨긴 정보와 실제 감정을 나누어 설명해야 한다.\n\n주인공이 사실에 접근할수록 친구는 관계와 계획 중 무엇을 지킬지 선택해야 한다. 설득과 구금, 협력 제안은 그 갈등의 다른 해결법이 된다. 그냥 악한 친구가 등장한다는 설정과 달리 이야기의 핵심 위협과 관계가 연결되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가까운 친구가 주요 갈등의 배후였다는 사실은 과거의 조언과 보호를 새로 해석하게 한다. 진짜 우정이 있었어도 그 우정과 해로운 계획이 함께 지속될 수 있다는 점이 충격의 중심이다.\n\n처음부터 모든 친절이 위장인 경우와 상대를 좋아하지만 목적을 포기하지 않는 경우는 다르다. 후자에서는 살려 두려는 시도가 동시에 진실을 막는 통제가 될 수 있다. 인물이 숨긴 정보와 실제 감정을 나누어 설명해야 한다.\n\n주인공이 사실에 접근할수록 친구는 관계와 계획 중 무엇을 지킬지 선택해야 한다. 설득과 구금, 협력 제안은 그 갈등의 다른 해결법이 된다. 그냥 악한 친구가 등장한다는 설정과 달리 이야기의 핵심 위협과 관계가 연결되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

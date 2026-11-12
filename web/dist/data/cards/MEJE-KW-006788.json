@@ -4,8 +4,8 @@
   "title": "현명한 선택에도 피하지 못한 죽음",
   "original": "Death by Pragmatism",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "위험을 경계하고 합리적으로 행동하던 인물까지 죽는 전개. 생존 장르의 익숙한 기대를 깨뜨려 위협의 불가피성을 강조한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "합리적인 생존책을 제시하고 실천한 인물이 오히려 죽어 해결 가능성이 막히는 구성이다. 위험에 맞는 상식적인 행동이 이야기의 지속 때문에 실패한다.\n\n연락과 대피, 집단 유지 같은 쉬운 해결을 제거하면 남은 인물은 더 불리한 조건에서 움직인다. 이성적인 판단조차 통하지 않는 위협이라는 인상도 만들 수 있다.\n\n잘못된 장르 규칙을 믿어 실패한 경우와는 다르다. 제안이 실제로 타당했는지, 죽음을 정당화하려 불필요한 악행을 덧붙였는지 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "합리적인 생존책을 제시하고 실천한 인물이 오히려 죽어 해결 가능성이 막히는 구성이다. 위험에 맞는 상식적인 행동이 이야기의 지속 때문에 실패한다.\n\n연락과 대피, 집단 유지 같은 쉬운 해결을 제거하면 남은 인물은 더 불리한 조건에서 움직인다. 이성적인 판단조차 통하지 않는 위협이라는 인상도 만들 수 있다.\n\n잘못된 장르 규칙을 믿어 실패한 경우와는 다르다. 제안이 실제로 타당했는지, 죽음을 정당화하려 불필요한 악행을 덧붙였는지 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

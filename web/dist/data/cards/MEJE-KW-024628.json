@@ -4,8 +4,8 @@
   "title": "문체와 인간 탐구를 중시하는 문학 소설",
   "original": "Lit Fic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-024628",
+  "primary_tag_id": "MEJE-KW-024628",
   "description": {
     "definition": "사건의 흥미뿐 아니라 문체·주제·인물의 심리적 깊이에 중심을 두고 문학적 성취를 지향하는 소설의 범주이다.",
     "detail": "일상과 내적 변화가 주요 소재가 되기 쉽다. 과학소설이나 범죄소설의 장치도 인간과 사회를 탐구하는 방식으로 결합할 수 있다.\n\n작품 사례: 소설 《[[프랑켄슈타인]]》은 과학소설의 상상력과 문학적 정전으로서의 수용이 겹치는 사례이다. 환상적 소재가 있다는 이유만으로 문학성 중심의 독서에서 제외되지 않는다.",
@@ -14,24 +14,27 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-04",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.406.002",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "무슨 사건이 일어나는가만큼 그 경험을 어떤 말로 쓰고 인간을 어떻게 이해하는가가 중요하다.\n\n작품 사례: 소설 《[[프랑켄슈타인]]》은 과학소설의 상상력과 문학적 정전으로서의 수용이 겹치는 사례이다. 환상적 소재가 있다는 이유만으로 문학성 중심의 독서에서 제외되지 않는다.",
+    "easy_ko": "무슨 사건이 일어나는가만큼 그 경험을 어떤 말로 쓰고 인간을 어떻게 이해하는가가 중요하다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일상과 내적 변화가 주요 소재가 되기 쉽지만 현실적 배경이나 낮은 사건 밀도가 필수는 아니다. 문체와 심리, 주제를 통해 인간과 사회를 이해하려는 목표가 작품의 독서 기대를 형성한다.\n\n[[장르]] 소설과 완전히 배타적인 범주는 아니다. 과학소설과 범죄소설의 장치도 인간 탐구와 결합할 수 있으며 수용과 분류가 겹치기도 한다. 문학성이라는 명칭만으로 개별 작품의 우열을 확정해서는 안 된다.\n\n소설 《[[프랑켄슈타인]]》은 과학소설의 상상력과 문학적 정전으로서의 수용이 겹치는 사례이다. 환상적 소재가 있다는 이유만으로 문학성 중심의 독서에서 제외되지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일상과 내적 변화가 주요 소재가 되기 쉽지만 현실적 배경이나 낮은 사건 밀도가 필수는 아니다. 문체와 심리, 주제를 통해 인간과 사회를 이해하려는 목표가 작품의 독서 기대를 형성한다.\n\n[[장르]] 소설과 완전히 배타적인 범주는 아니다. 과학소설과 범죄소설의 장치도 인간 탐구와 결합할 수 있으며 수용과 분류가 겹치기도 한다. 문학성이라는 명칭만으로 개별 작품의 우열을 확정해서는 안 된다."
+      ],
+      [
+        "관련 작품",
+        "소설 《[[프랑켄슈타인]]》은 과학소설의 상상력과 문학적 정전으로서의 수용이 겹치는 사례이다. 환상적 소재가 있다는 이유만으로 문학성 중심의 독서에서 제외되지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

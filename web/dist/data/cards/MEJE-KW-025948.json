@@ -4,8 +4,8 @@
   "title": "불행과 고통을 중심에 둔 문학",
   "original": "Misery Lit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-025948",
+  "primary_tag_id": "MEJE-KW-025948",
   "description": {
     "definition": "비극·상실·실패·고통을 주된 소재와 감정적 중심으로 삼는 문학 갈래다.",
     "detail": "원문은 회고록과 자서전을 주요 형태로 들되 허구 문학도 포함한다. 실제 기록이라는 홍보 주장과 작품 내용의 재현을 구분하고, 독자 성별 비율이나 시장 변화 같은 미검증 수치는 일반 정의에 넣지 않는다.\n\n작품 사례: 《[[안젤라의 재]]》는 프랭크 매코트가 아일랜드 리머릭에서 겪은 가난한 유년기와 청년기의 일들을 회고하는 작품으로 원문에 제시된다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.406.007",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "고통스러운 삶의 경험이 주변 사건이 아니라 작품 전체를 조직하는 중심 관심이 되는 문학적 범주다. 학대와 가난, 중독이나 역사적 참사처럼 지속적인 고통의 경험이 주요 소재가 되며 회고록과 자서전이 대표적인 형태다.\n\n허구 작품도 포함할 수 있으므로 이 분류가 곧 기록의 사실성을 보증하지는 않는다. 비허구로 홍보하는 방식과 내용의 진위는 따로 검토해야 한다. 비극적인 장면 하나가 있는 작품이나 희극적으로 불운을 나열하는 작품을 모두 같은 범주로 묶지는 않는다.\n\n《[[안젤라의 재]]》는 프랭크 매코트가 아일랜드 리머릭에서 보낸 가난한 유년기와 청년기의 경험을 회고한다. 삶의 고통을 중심에 둔 회고록의 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "고통스러운 삶의 경험이 주변 사건이 아니라 작품 전체를 조직하는 중심 관심이 되는 문학적 범주다. 학대와 가난, 중독이나 역사적 참사처럼 지속적인 고통의 경험이 주요 소재가 되며 회고록과 자서전이 대표적인 형태다.\n\n허구 작품도 포함할 수 있으므로 이 분류가 곧 기록의 사실성을 보증하지는 않는다. 비허구로 홍보하는 방식과 내용의 진위는 따로 검토해야 한다. 비극적인 장면 하나가 있는 작품이나 희극적으로 불운을 나열하는 작품을 모두 같은 범주로 묶지는 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[안젤라의 재]]》는 프랭크 매코트가 아일랜드 리머릭에서 보낸 가난한 유년기와 청년기의 경험을 회고한다. 삶의 고통을 중심에 둔 회고록의 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

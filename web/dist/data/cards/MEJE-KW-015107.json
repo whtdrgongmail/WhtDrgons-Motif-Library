@@ -4,8 +4,8 @@
   "title": "디지털 하드코어",
   "original": "Digital Hardcore",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00520",
+  "primary_tag_id": "ML-T00520",
   "description": {
     "definition": "[[하드코어 펑크]]의 가창·가사·기타 요소를 개버 계열 전자 반주와 결합하는 양식이다.",
     "detail": "작품 사례: [[Machine Girl]]의 [[This Is Your Face On Dogs]]는 펑크의 보컬·기타 요소와 개버 계열 전자 반주가 결합하는 디지털 하드코어의 사례다.",
@@ -13,19 +13,22 @@
     "boundary": "전자악기가 쓰였다는 사실만으로 모든 펑크를 포함하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.304",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "거칠게 외치는 펑크와 전자 하드코어 비트가 함께 울린다.",
@@ -36,13 +39,6 @@
   "applied_tags": [],
   "related_media": [
     {
-      "media_tag_id": "ML-T00139",
-      "work_card_id": "MM-MEDIA-000564",
-      "description_ko": "Machine Girl의 This Is Your Face On Dogs는 펑크의 보컬·기타 요소와 개버 계열 전자 반주가 결합하는 디지털 하드코어의 사례다.",
-      "spoiler_level": "unreviewed",
-      "row_version": 1
-    },
-    {
       "media_tag_id": "ML-F02",
       "work_card_id": "MM-MEDIA-001083",
       "description_ko": "Machine Girl의 This Is Your Face On Dogs는 펑크의 보컬·기타 요소와 개버 계열 전자 반주가 결합하는 디지털 하드코어의 사례다.",
@@ -51,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "디지털 하드코어는 펑크의 저항적 태도와 강한 가창을 전자 댄스 음악의 제작 방식에 결합한 음악이다. 기타 밴드의 연주를 그대로 전자 악기로 옮기는 데 그치지 않고, 빠른 전자 리듬과 거친 소음을 표현의 중심 재료로 사용한다.\n\nAtari Teenage Riot의 활동에서는 [[테크노]]와 애시드 [[하우스]], 펑크가 같은 프로젝트 안에서 연결되었다. 속도와 소음은 춤의 강도를 높이는 동시에 정치적인 발언의 공격성을 드러내는 수단으로 사용된다.\n\n전자 반주를 쓰는 모든 펑크나 빠른 댄스곡을 같은 이름으로 묶는 것은 아니다. 펑크와 댄스의 결합을 당사자가 하나의 활동 방향으로 내세웠다는 맥락이 있으며, 같은 이름의 레이블과 그곳에 발표된 개별 작품의 범위도 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "디지털 하드코어는 펑크의 저항적 태도와 강한 가창을 전자 댄스 음악의 제작 방식에 결합한 음악이다. 기타 밴드의 연주를 그대로 전자 악기로 옮기는 데 그치지 않고, 빠른 전자 리듬과 거친 소음을 표현의 중심 재료로 사용한다.\n\nAtari Teenage Riot의 활동에서는 [[테크노]]와 애시드 [[하우스]], 펑크가 같은 프로젝트 안에서 연결되었다. 속도와 소음은 춤의 강도를 높이는 동시에 정치적인 발언의 공격성을 드러내는 수단으로 사용된다.\n\n전자 반주를 쓰는 모든 펑크나 빠른 댄스곡을 같은 이름으로 묶는 것은 아니다. 펑크와 댄스의 결합을 당사자가 하나의 활동 방향으로 내세웠다는 맥락이 있으며, 같은 이름의 레이블과 그곳에 발표된 개별 작품의 범위도 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

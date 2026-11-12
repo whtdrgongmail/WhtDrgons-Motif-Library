@@ -4,8 +4,8 @@
   "title": "속임수와 장난으로 가르치는 스승",
   "original": "Trickster Mentor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00885",
+  "primary_tag_id": "ML-T00885",
   "description": {
     "definition": "상대를 속이거나 뜻밖의 장난을 거는 방법으로 교훈을 배우고 성장하도록 이끄는 스승이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단순히 제자를 괴롭히는 인물과 달리 성장과 배움이라는 목적이 확인된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "장난처럼 보이는 시련이 배움과 연결되면 스승의 기만은 교육의 도구가 된다. 제자는 처음의 불쾌함과 뒤늦게 이해한 교훈을 함께 경험한다.\n\n정체를 숨긴 스승은 제자의 평소 태도를 관찰할 수 있다. 뜻밖의 변신과 거짓 시험은 자기 평가의 한계를 드러내는 방식이 될 수 있다.\n\n괴롭힘을 교육이라고 부르는 주장만으로 같은 역할이 성립하지는 않는다. 실제로 어떤 배움과 성장이 생겼는지가 장난의 서사적 기능을 정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "장난처럼 보이는 시련이 배움과 연결되면 스승의 기만은 교육의 도구가 된다. 제자는 처음의 불쾌함과 뒤늦게 이해한 교훈을 함께 경험한다.\n\n정체를 숨긴 스승은 제자의 평소 태도를 관찰할 수 있다. 뜻밖의 변신과 거짓 시험은 자기 평가의 한계를 드러내는 방식이 될 수 있다.\n\n괴롭힘을 교육이라고 부르는 주장만으로 같은 역할이 성립하지는 않는다. 실제로 어떤 배움과 성장이 생겼는지가 장난의 서사적 기능을 정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

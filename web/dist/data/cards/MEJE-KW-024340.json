@@ -5,8 +5,8 @@
   "original": "A Health-Change Indicator",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02155",
+  "primary_tag_id": "ML-T02155",
   "description": {
     "definition": "체력이 줄거나 늘어나는 순간에만 상태 계기를 잠시 보여 준다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.010.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "체력이 변할 때만 계기를 잠시 보여 주고 이후 숨긴다. 정보의 지속적인 노출보다 필요한 순간의 알림을 선택한 표시 방식이다.\n\n평소에는 화면을 덜 가리면서 변화가 생길 때 주의를 모은다. 플레이어가 상태를 알아야 하는 시점과 표시의 존재가 연결된다.\n\n계기가 전혀 없는 구성과 다르다. 표시를 숨긴 시간에도 체력이라는 자원 자체가 사라진 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "체력이 변할 때만 계기를 잠시 보여 주고 이후 숨긴다. 정보의 지속적인 노출보다 필요한 순간의 알림을 선택한 표시 방식이다.\n\n평소에는 화면을 덜 가리면서 변화가 생길 때 주의를 모은다. 플레이어가 상태를 알아야 하는 시점과 표시의 존재가 연결된다.\n\n계기가 전혀 없는 구성과 다르다. 표시를 숨긴 시간에도 체력이라는 자원 자체가 사라진 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

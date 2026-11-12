@@ -4,8 +4,8 @@
   "title": "합계가 같게 숫자를 놓는 마방진 퍼즐",
   "original": "Magic Square Puzzle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02087",
+  "primary_tag_id": "ML-T02087",
   "description": {
     "definition": "격자의 가로·세로와 대각선 합이 같아지도록 숫자를 배치해 문이나 장치를 여는 퍼즐. 이름의 Magic은 수학 퍼즐의 명칭이며 주문 발동을 필수로 하지 않는다. [[계산식 자체가 주문이 되는 마법]]은 수학 표현 자체에 초자연적 힘을 부여한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "행마다 숫자 중복만 막는 퍼즐과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.002.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "격자의 숫자는 가로와 세로뿐 아니라 대각선에서도 같은 합을 만들도록 배치된다. 여러 방향의 합계가 동시에 맞아야 해답이 된다.\n\n게임은 이 수학적 조건을 문이나 장치의 작동과 연결할 수 있다. 퍼즐 명칭의 [[마법]]이라는 말과 세계 안의 초자연적인 효력은 따로 구분해야 한다.\n\n행마다 중복을 피하는 숫자 퍼즐과는 검증 규칙이 다르다. 계산식 자체가 주문이라는 설정도 이 조건에 자동으로 포함되지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "격자의 숫자는 가로와 세로뿐 아니라 대각선에서도 같은 합을 만들도록 배치된다. 여러 방향의 합계가 동시에 맞아야 해답이 된다.\n\n게임은 이 수학적 조건을 문이나 장치의 작동과 연결할 수 있다. 퍼즐 명칭의 [[마법]]이라는 말과 세계 안의 초자연적인 효력은 따로 구분해야 한다.\n\n행마다 중복을 피하는 숫자 퍼즐과는 검증 규칙이 다르다. 계산식 자체가 주문이라는 설정도 이 조건에 자동으로 포함되지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

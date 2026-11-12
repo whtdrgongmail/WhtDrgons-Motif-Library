@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "터미네이터 2: 심판의 날",
   "original": "Terminator 2: Judgment Day",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Terminator 2: Judgment Day"
+  ],
+  "tag_id": "ML-T02487",
   "primary_tag_id": "ML-T02487",
   "description": {
     "definition": "《터미네이터 2: 심판의 날》은 영화 작품이다.",
-    "detail": "작품 사례: 《터미네이터 2: 심판의 날》의 도입에서 핵화염 속 놀이터의 네 기계 말은 묵시록의 기수들을 연상시키는 이미지로 사용된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.005",
     "review_status": "provisional",
@@ -38,6 +40,10 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-014335",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-016304",
       "row_version": 1
@@ -71,5 +77,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《터미네이터 2: 심판의 날》은 미래의 기계들이 존 코너를 없애려 다시 과거에 개입하는 영화다. 형체를 바꾸는 T-1000이 추적자로 나타나고, 앞선 영화의 위협을 닮은 T-800은 보호하는 쪽에 배치된다.\n\n사라와 존의 생존은 미래의 핵전쟁을 막을 수 있는가라는 문제로 이어진다. 첫 영화의 추격 공포를 이어받으면서도 더 큰 액션과 보호 관계를 전면에 둔 후속편이며, 같은 인물이 등장한다고 적과 아군의 역할까지 같지는 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《터미네이터 2: 심판의 날》은 미래의 기계들이 존 코너를 없애려 다시 과거에 개입하는 영화다. 형체를 바꾸는 T-1000이 추적자로 나타나고, 앞선 영화의 위협을 닮은 T-800은 보호하는 쪽에 배치된다.\n\n사라와 존의 생존은 미래의 핵전쟁을 막을 수 있는가라는 문제로 이어진다. 첫 영화의 추격 공포를 이어받으면서도 더 큰 액션과 보호 관계를 전면에 둔 후속편이며, 같은 인물이 등장한다고 적과 아군의 역할까지 같지는 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

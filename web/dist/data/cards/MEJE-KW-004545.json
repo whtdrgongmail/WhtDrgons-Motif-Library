@@ -4,8 +4,8 @@
   "title": "서부극에 기계와 미래 기술 섞기",
   "original": "Cattle Punk",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00347",
+  "primary_tag_id": "ML-T00347",
   "description": {
     "definition": "서부의 마을과 개척 이야기에 로봇이나 낯선 장치를 더하는 [[장르 혼합]]. 익숙한 법과 이동 방식이 새 기술과 부딪힌다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.114",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "서부극에 기계와 미래 기술을 섞으면 개척 마을의 생활과 낯선 장치가 한 화면에서 부딪힙니다. 기술이 이동과 권력의 규칙을 바꾸는지가 단순한 소품 추가와 구별되는 지점입니다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서부극의 공간과 인물 관계에 기계, 로봇, 미래 무기 같은 과학소설 요소를 결합한 설정이다. 개척 마을과 총잡이라는 익숙한 구도가 새로운 기술과 같은 무대에 놓인다.\n\n기술이 낯설어도 주인공은 전통적인 서부극의 방식으로 문제를 해결할 수 있다. 다른 행성이나 대체 역사라는 배경은 지구의 실제 역사와 다른 기계 문명을 설명하는 틀이 된다.\n\n[[장르 혼합]] 가운데 서부극의 사회와 시각적 문법이 중심에 남아 있어야 한다. 증기 장치 하나만으로는 성립하지 않는다. 첨단 기술이 서부극의 갈등이나 해결 방식을 바꾸면서 장르의 결합이 드러난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서부극의 공간과 인물 관계에 기계, 로봇, 미래 무기 같은 과학소설 요소를 결합한 설정이다. 개척 마을과 총잡이라는 익숙한 구도가 새로운 기술과 같은 무대에 놓인다.\n\n기술이 낯설어도 주인공은 전통적인 서부극의 방식으로 문제를 해결할 수 있다. 다른 행성이나 대체 역사라는 배경은 지구의 실제 역사와 다른 기계 문명을 설명하는 틀이 된다.\n\n[[장르 혼합]] 가운데 서부극의 사회와 시각적 문법이 중심에 남아 있어야 한다. 증기 장치 하나만으로는 성립하지 않는다. 첨단 기술이 서부극의 갈등이나 해결 방식을 바꾸면서 장르의 결합이 드러난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

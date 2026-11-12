@@ -4,8 +4,8 @@
   "title": "발코니 아래에서 마음을 전하기",
   "original": "Balcony Wooing Scene",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02533",
+  "primary_tag_id": "ML-T02533",
   "description": {
     "definition": "한 인물이 위층 발코니나 창가의 상대에게 노래나 말로 애정을 고백한다. 물리적인 높이와 접근의 어려움이 관계의 간격을 보여 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.010",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "발코니나 높은 창가의 상대에게 아래쪽 인물이 노래나 말로 사랑을 전하는 장면이다. 직접 다가갈 수 없는 거리가 고백의 간절함을 눈에 보이게 한다. 공개적인 고백이 상대에게 부담이 될 수도 있어 듣는 사람이 반응하거나 거절할 여지를 함께 보아야 한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "구애하는 사람이 발코니나 침실 창 아래에서 위쪽의 상대에게 말을 걸거나 노래하는 장면이다. 닿기 어려운 물리적 거리가 관계를 막는 사회적 거리와 겹친다.\n\n정상적인 만남이 금지되었거나 연락을 받아 주지 않는 상황에서 간절함을 표현한다. 상대가 창에 나타나는 순간은 접근이 받아들여졌다는 작은 보상처럼 기능할 수 있다.\n\n같은 구도도 이웃을 방해하거나 과장된 감상성을 강조하면 패러디가 된다. 구애의 진심과 별개로 상대가 그 접근을 원했는지에 따라 낭만과 일방적인 침입의 의미는 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "구애하는 사람이 발코니나 침실 창 아래에서 위쪽의 상대에게 말을 걸거나 노래하는 장면이다. 닿기 어려운 물리적 거리가 관계를 막는 사회적 거리와 겹친다.\n\n정상적인 만남이 금지되었거나 연락을 받아 주지 않는 상황에서 간절함을 표현한다. 상대가 창에 나타나는 순간은 접근이 받아들여졌다는 작은 보상처럼 기능할 수 있다.\n\n같은 구도도 이웃을 방해하거나 과장된 감상성을 강조하면 패러디가 된다. 구애의 진심과 별개로 상대가 그 접근을 원했는지에 따라 낭만과 일방적인 침입의 의미는 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

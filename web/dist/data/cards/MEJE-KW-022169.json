@@ -4,8 +4,8 @@
   "title": "노랫말을 끼워 구성하는 팬픽",
   "original": "Song Fic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00576",
+  "primary_tag_id": "ML-T00576",
   "description": {
     "definition": "[[팬 창작]] 소설의 진행 중에 노랫말을 배치하여 인물의 감정이나 사건과 연결한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단순히 노래 제목을 언급하거나 작품 밖에서 추천 음악을 제시하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "팬픽 본문에 노랫말을 삽입하면 음악의 가사가 장면의 감정과 사건을 해석하는 또 하나의 문장이 된다. 인물이 극중에서 노래하거나 듣는 방식도 있고, 사건 서술 사이에 가사를 배치하는 방식도 있다. 단순한 추천곡 목록이나 제목 언급과 달리 가사 자체가 읽는 흐름에 참여하며, 독자가 원곡을 모르면 의도한 정서가 충분히 전달되지 않을 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "팬픽 본문에 노랫말을 삽입하면 음악의 가사가 장면의 감정과 사건을 해석하는 또 하나의 문장이 된다. 인물이 극중에서 노래하거나 듣는 방식도 있고, 사건 서술 사이에 가사를 배치하는 방식도 있다. 단순한 추천곡 목록이나 제목 언급과 달리 가사 자체가 읽는 흐름에 참여하며, 독자가 원곡을 모르면 의도한 정서가 충분히 전달되지 않을 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

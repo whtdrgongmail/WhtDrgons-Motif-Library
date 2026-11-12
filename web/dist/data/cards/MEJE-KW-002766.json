@@ -4,8 +4,8 @@
   "title": "악역의 후계자가 스승을 배신하기",
   "original": "Bastard Understudy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "악역에게 기술과 계획을 배운 측근이 결정적 순간 권력을 빼앗는다. 가르침을 통해 키운 능력이 스승을 향한다는 관계의 역전이다. 스승이 제자의 선택을 계산하지 못하면 [[상대의 성격을 계산에 넣은 계략]]가 실패한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "악역이 길러 낸 제자가 배운 기술과 정보를 이용해 스승의 자리를 빼앗는 전개다. 가르칠수록 커진 제자의 능력이 결국 스승 자신을 위협한다. 스승이 제자를 언제나 복종할 사람으로 생각했다면 배신은 그 관계를 잘못 판단한 결과가 된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역에게 배운 후계자나 보좌자가 그 지위와 능력을 이용해 스승을 [[배신]]한다. 기존 악의 원칙이 가르친 사람 자신에게 돌아오는 구조다.\n\n스승은 유능한 후계자를 키웠다고 생각하지만 제자는 복종보다 권력 획득을 배웠을 수 있다. 배신은 세력 교체를 만들며 뒤의 적이 앞선 적보다 위험하다는 전환점이 된다.\n\n반드시 선한 편으로 전향해야 하는 것은 아니다. 스승의 악행을 거부하는 선택과 같은 목적을 독점하려는 선택은 윤리적인 방향이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악역에게 배운 후계자나 보좌자가 그 지위와 능력을 이용해 스승을 [[배신]]한다. 기존 악의 원칙이 가르친 사람 자신에게 돌아오는 구조다.\n\n스승은 유능한 후계자를 키웠다고 생각하지만 제자는 복종보다 권력 획득을 배웠을 수 있다. 배신은 세력 교체를 만들며 뒤의 적이 앞선 적보다 위험하다는 전환점이 된다.\n\n반드시 선한 편으로 전향해야 하는 것은 아니다. 스승의 악행을 거부하는 선택과 같은 목적을 독점하려는 선택은 윤리적인 방향이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "의사로 착각한 환자",
   "original": "Dr. Psych Patient",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00745",
+  "primary_tag_id": "ML-T00745",
   "description": {
     "definition": "정신병동에서 의료진처럼 보인 사람과 대화한 인물이 뒤늦게 그가 환자임을 알아차리는 오인 장면이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.002.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정신의료 공간을 방문한 인물이 환자를 의료진과 다른 권위자로 잘못 알아보는 장면이다. 가운과 말투가 신분을 판단하는 단서로 작용한다.\n\n나중에 실제 담당자가 나타나면 앞선 대화의 의미가 뒤집힌다. 희극적인 당혹감으로 끝날 수도 있고 잘못된 신뢰 때문에 위험을 겪는 진지한 사건이 될 수도 있다.\n\n정신건강 문제를 겪는 사람이 모두 사칭하고 위험하다는 뜻은 아니다. 직업적인 표식의 신뢰성과 오인을 사용하는 허구적 장치이며, 환자를 단순한 반전용 구경거리로 소비하는지 구분할 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정신의료 공간을 방문한 인물이 환자를 의료진과 다른 권위자로 잘못 알아보는 장면이다. 가운과 말투가 신분을 판단하는 단서로 작용한다.\n\n나중에 실제 담당자가 나타나면 앞선 대화의 의미가 뒤집힌다. 희극적인 당혹감으로 끝날 수도 있고 잘못된 신뢰 때문에 위험을 겪는 진지한 사건이 될 수도 있다.\n\n정신건강 문제를 겪는 사람이 모두 사칭하고 위험하다는 뜻은 아니다. 직업적인 표식의 신뢰성과 오인을 사용하는 허구적 장치이며, 환자를 단순한 반전용 구경거리로 소비하는지 구분할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

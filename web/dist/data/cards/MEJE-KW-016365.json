@@ -4,8 +4,8 @@
   "title": "광고 차단 감지에 따른 이용 안내",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "사이트가 광고 차단 여부를 감지해 차단 해제나 유료 구독을 요청하는 화면을 제시하는 운영 방식.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "외부 이미지 주소를 바꾸는 대응과는 작동 대상이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사이트가 광고 차단 여부에 반응해 차단 해제나 유료 구독을 요청한다. 사용자의 접근과 사이트의 수익 조건을 안내 화면에서 직접 연결하는 운영 방식이다.\n\n사용자는 콘텐츠를 계속 볼 가치와 제시된 조건을 받아들일 의사를 함께 판단하게 된다. 안내만 하는지 접근을 막는지에 따라 같은 요청도 선택지를 제공하는 설명과 이용 제한으로 다르게 작용한다.\n\n광고 주소를 바꾸어 차단을 우회하는 대응과는 대상이 다르다. 감지되었다는 사실이 사용자의 의도를 입증하는 것은 아니며 실제 화면의 조건과 대안을 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사이트가 광고 차단 여부에 반응해 차단 해제나 유료 구독을 요청한다. 사용자의 접근과 사이트의 수익 조건을 안내 화면에서 직접 연결하는 운영 방식이다.\n\n사용자는 콘텐츠를 계속 볼 가치와 제시된 조건을 받아들일 의사를 함께 판단하게 된다. 안내만 하는지 접근을 막는지에 따라 같은 요청도 선택지를 제공하는 설명과 이용 제한으로 다르게 작용한다.\n\n광고 주소를 바꾸어 차단을 우회하는 대응과는 대상이 다르다. 감지되었다는 사실이 사용자의 의도를 입증하는 것은 아니며 실제 화면의 조건과 대안을 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

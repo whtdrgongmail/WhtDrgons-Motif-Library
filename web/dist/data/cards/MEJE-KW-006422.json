@@ -4,8 +4,8 @@
   "title": "혼자만 다른 제복을 입은 인물",
   "original": "Custom Uniform",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01849",
+  "primary_tag_id": "ML-T01849",
   "description": {
     "definition": "같은 조직의 구성원인데도 중요한 인물만 유난히 다른 제복을 입는다. 소속은 유지하면서 화면에서는 눈에 띄게 만드는 디자인이다. 혼자 다른 제복을 입히는 이유가 몸을 더 드러내기 위해서라면 [[노출을 늘린 특별 제복]]이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "모두 같은 제복을 입는 집단에서 주요 인물만 눈에 띄는 변형을 착용하는 디자인이다. 제복의 통일성보다 캐릭터 식별과 개성을 우선한다.\n\n색과 재단, 액세서리를 바꾸면 군중 속에서도 즉시 인물을 알아볼 수 있다. 아무도 지적하지 않는다면 규율이 느슨하거나 특별한 능력 때문에 예외를 인정받는 인상을 줄 수 있다.\n\n계급과 직무, 안전을 위한 정당한 차이와는 구분해야 한다. 동일한 규정 아래에서도 혼자 다르게 입는다는 조건이 시각적 예외를 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "모두 같은 제복을 입는 집단에서 주요 인물만 눈에 띄는 변형을 착용하는 디자인이다. 제복의 통일성보다 캐릭터 식별과 개성을 우선한다.\n\n색과 재단, 액세서리를 바꾸면 군중 속에서도 즉시 인물을 알아볼 수 있다. 아무도 지적하지 않는다면 규율이 느슨하거나 특별한 능력 때문에 예외를 인정받는 인상을 줄 수 있다.\n\n계급과 직무, 안전을 위한 정당한 차이와는 구분해야 한다. 동일한 규정 아래에서도 혼자 다르게 입는다는 조건이 시각적 예외를 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

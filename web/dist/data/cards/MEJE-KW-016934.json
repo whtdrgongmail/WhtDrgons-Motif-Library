@@ -4,39 +4,56 @@
   "title": "자신이 영웅임을 모르는 영웅",
   "original": "Ignorant of the Call",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "주변에서는 특별한 영웅이나 구원자로 여기지만 본인은 자신의 행동을 평범한 선택이나 당연한 일로 받아들여 더 큰 사명을 깨닫지 못하는 인물이다.",
     "detail": "모험의 부름이 명시되지 않거나 개인의 성향과 겹쳐 스스로는 운명적 역할을 인식하지 못할 수 있다.\n\n작품 사례: 《[[원피스]]》의 루피는 친구를 돕고 모험하려 움직이지만, 그 행동이 폭군과 지배 세력에 맞서는 큰 역할로 이어진다.",
     "usage": "실제 영웅적 기능과 당사자의 자기 이해를 비교한다.",
-    "boundary": "영웅임을 알면서 겸손하게 공을 돌리는 태도나 사명을 알고 거절하는 선택과 구별한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "세상을 바꾸고도 그냥 할 일을 했다고 생각한다.\n\n작품 사례: 《[[원피스]]》의 루피는 친구를 돕고 모험하려 움직이지만, 그 행동이 폭군과 지배 세력에 맞서는 큰 역할로 이어진다.",
+    "easy_ko": "세상을 바꾸고도 그냥 할 일을 했다고 생각한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》의 루피는 친구를 돕고 모험하려 움직이지만, 그 행동이 폭군과 지배 세력에 맞서는 큰 역할로 이어진다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "모험의 부름이 명시되지 않거나 개인의 성향과 겹쳐 스스로는 운명적 역할을 인식하지 못할 수 있다.\n\n영웅임을 알면서 겸손하게 공을 돌리는 태도나 사명을 알고 거절하는 선택과 구별한다.\n\n《[[원피스]]》의 루피는 친구를 돕고 모험하려 움직이지만, 그 행동이 폭군과 지배 세력에 맞서는 큰 역할로 이어진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "모험의 부름이 명시되지 않거나 개인의 성향과 겹쳐 스스로는 운명적 역할을 인식하지 못할 수 있다.\n\n영웅임을 알면서 겸손하게 공을 돌리는 태도나 사명을 알고 거절하는 선택과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[원피스]]》의 루피는 친구를 돕고 모험하려 움직이지만, 그 행동이 폭군과 지배 세력에 맞서는 큰 역할로 이어진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

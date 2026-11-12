@@ -4,22 +4,59 @@
   "title": "중독",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01093",
+  "primary_tag_id": "ML-T01093",
   "description": {
-    "definition": "",
+    "definition": "게임을 하는 행동을 조절하기 어려워지고 다른 활동보다 우선하며, 해로운 결과가 생겨도 그 행동을 이어 가는 상태이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 3,
+  "classification": {
+    "code": "11.008",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "게임 때문에 생활에 문제가 생겨도 스스로 그만두거나 줄이기 어려운 상태다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000265",
+      "card_id": "MM-UNSET-000180",
+      "label_ko": "WHO 게임이용장애 설명",
+      "icon_key": "article",
+      "url": "https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder/",
+      "description_ko": "ICD-11의 게임이용장애 정의와 생활 기능 손상 조건",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "이 카드의 '중독'은 모든 반복 행동을 가리키는 일상 표현이 아니라, 게임 이용을 통제하기 어려워 생활 기능에 중대한 손상이 나타나는 상태를 설명한다. 세계보건기구의 게임이용장애 기준은 통제의 어려움, 다른 활동보다 높아진 우선순위, 해로운 결과에도 지속하거나 심해지는 행동 양상을 함께 본다.\n\n게임을 오래 하거나 특정 보상 구조에 자주 반응한다는 사실만으로 장애를 판정할 수 없다. 개인·가족·사회·교육·직업 등 중요한 생활 영역의 뚜렷한 손상이 필요하며, 이러한 양상은 보통 적어도 12개월 동안 나타난다. 작품 속 [[게임 메커니즘]]이나 [[보상]]의 설계와 실제 이용자의 임상 상태는 서로 다른 분석 대상이다.\n\n가상 예시: 인물이 게임을 하느라 약속을 한 번 잊는 장면만으로는 이 상태를 설명할 수 없다. 조절의 어려움과 우선순위 변화, 해로운 결과에도 이어지는 행동, 생활 기능의 손상이 지속적으로 제시된다면 비로소 장애의 조건을 검토할 수 있다. 허구의 장면만으로 실제 사람을 진단하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 카드의 '중독'은 모든 반복 행동을 가리키는 일상 표현이 아니라, 게임 이용을 통제하기 어려워 생활 기능에 중대한 손상이 나타나는 상태를 설명한다. 세계보건기구의 게임이용장애 기준은 통제의 어려움, 다른 활동보다 높아진 우선순위, 해로운 결과에도 지속하거나 심해지는 행동 양상을 함께 본다.\n\n게임을 오래 하거나 특정 보상 구조에 자주 반응한다는 사실만으로 장애를 판정할 수 없다. 개인·가족·사회·교육·직업 등 중요한 생활 영역의 뚜렷한 손상이 필요하며, 이러한 양상은 보통 적어도 12개월 동안 나타난다. 작품 속 [[게임 메커니즘]]이나 [[보상]]의 설계와 실제 이용자의 임상 상태는 서로 다른 분석 대상이다."
+      ],
+      [
+        "사례",
+        "가상 예시: 인물이 게임을 하느라 약속을 한 번 잊는 장면만으로는 이 상태를 설명할 수 없다. 조절의 어려움과 우선순위 변화, 해로운 결과에도 이어지는 행동, 생활 기능의 손상이 지속적으로 제시된다면 비로소 장애의 조건을 검토할 수 있다. 허구의 장면만으로 실제 사람을 진단하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

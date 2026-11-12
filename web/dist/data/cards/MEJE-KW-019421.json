@@ -4,8 +4,8 @@
   "title": "진검에 뒤지지 않는 목검",
   "original": "Wooden Katanas Are Even Better",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "칼 모양의 나무 무기가 실제 검에 못지않거나 더 뛰어난 위력을 발휘하도록 묘사되는 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 목검의 성능에 관한 설명이나 단순한 훈련 장면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "목검이나 죽도 같은 나무 무기가 금속 검에 뒤지지 않는 위력을 발휘하는 설정이다. 재료의 한계보다 사용자의 검술 실력이 우선하는 표현이 흔하다.\n\n평범한 연습 도구로 강적을 제압하면 인물의 숙련도가 강조된다. 날이 없는 무기가 물체를 베는 등 통상적인 성질을 넘어서는 연출로 능력의 차이를 표현하기도 한다.\n\n금속 무기를 피하는 태도나 살상을 제한하려는 의도와 연결될 수 있지만 필수 조건은 아니다. 목검이 등장한다는 사실과 그것이 진검에 견줄 정도로 묘사되는 것은 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "목검이나 죽도 같은 나무 무기가 금속 검에 뒤지지 않는 위력을 발휘하는 설정이다. 재료의 한계보다 사용자의 검술 실력이 우선하는 표현이 흔하다.\n\n평범한 연습 도구로 강적을 제압하면 인물의 숙련도가 강조된다. 날이 없는 무기가 물체를 베는 등 통상적인 성질을 넘어서는 연출로 능력의 차이를 표현하기도 한다.\n\n금속 무기를 피하는 태도나 살상을 제한하려는 의도와 연결될 수 있지만 필수 조건은 아니다. 목검이 등장한다는 사실과 그것이 진검에 견줄 정도로 묘사되는 것은 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

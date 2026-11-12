@@ -4,8 +4,8 @@
   "title": "국경마다 최소한만 바꾸는 공통 광고",
   "original": "Homogenous Multinational Ad Campaign",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02540",
+  "primary_tag_id": "ML-T02540",
   "description": {
     "definition": "여러 국가에 같은 제품을 홍보하기 위해 기본 구성과 메시지를 공유하고 언어·인물·지역 표지만 바꾸도록 설계한 광고 캠페인이다.",
     "detail": "작품 사례: [[Sing 2]]와 통신 서비스를 함께 홍보한 크리스마스 광고는 같은 구성으로 미국에서는 Xfinity, 영국에서는 Sky를 내세운다.",
@@ -13,10 +13,10 @@
     "boundary": "한 나라용 광고를 무계획하게 다른 시장에 재사용하거나 제목만 현지화하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 시장에서 공통 구성을 사용하도록 만든 광고를 브랜드와 언어 등 최소 요소만 바꾸어 배포하는 방식이다. 국제적 재사용의 계획이 기본 형식에 포함된다.\n\n한 나라용 광고의 무계획한 재활용과 다르다. 제목만 바꾸는 현지화도 아니며 동일한 메시지와 구성을 공동으로 활용하는 제작의 범위가 중요하다.\n\n[[Sing 2]]와 통신 서비스를 결합한 성탄 광고는 미국과 영국에서 같은 구성을 사용한다. 미국은 Xfinity, 영국은 Sky를 내세워 시장별 서비스 이름을 바꾼다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 시장에서 공통 구성을 사용하도록 만든 광고를 브랜드와 언어 등 최소 요소만 바꾸어 배포하는 방식이다. 국제적 재사용의 계획이 기본 형식에 포함된다.\n\n한 나라용 광고의 무계획한 재활용과 다르다. 제목만 바꾸는 현지화도 아니며 동일한 메시지와 구성을 공동으로 활용하는 제작의 범위가 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Sing 2]]와 통신 서비스를 결합한 성탄 광고는 미국과 영국에서 같은 구성을 사용한다. 미국은 Xfinity, 영국은 Sky를 내세워 시장별 서비스 이름을 바꾼다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

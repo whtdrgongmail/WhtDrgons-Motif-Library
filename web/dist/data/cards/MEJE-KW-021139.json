@@ -4,8 +4,8 @@
   "title": "실제 모습과 정반대인 별명",
   "original": "Ironic Nickname",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "주변 사람들이 인물의 실제 모습과 일부러 맞지 않는 특징을 별명으로 붙이는 명명 방식이다.",
     "detail": "모순을 통해 친밀함·놀림·집단의 호칭 관습을 나타낼 수 있다.\n\n작품 사례: 《[[킹덤 컴: 딜리버런스]]》의 거대한 산적 두목은 왜소한 존재를 뜻하는 Runt라는 별명으로 불리며 주인공보다 큰 몽둥이를 휘두른다.",
@@ -13,19 +13,19 @@
     "boundary": "태어날 때 받은 이름이 우연히 어긋나는 경우나 아무 뜻 없는 별명과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "덩치 큰 사람을 꼬마라고 불러 정반대의 특징을 드러낸다.\n\n작품 사례: 《[[킹덤 컴: 딜리버런스]]》의 거대한 산적 두목은 왜소한 존재를 뜻하는 Runt라는 별명으로 불리며 주인공보다 큰 몽둥이를 휘두른다.",
+    "easy_ko": "덩치 큰 사람을 꼬마라고 불러 정반대의 특징을 드러낸다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주변 사람들이 인물의 실제 모습과 일부러 어울리지 않는 특징을 별명으로 붙인다. 호칭의 뜻과 실제 외형이 반대가 되면서 친밀함이나 놀림, 집단의 호칭 관습을 표현할 수 있다.\n\n별명과 인물 사이의 의도적인 모순이 중심이다. 태어날 때 받은 이름이 나중의 모습과 우연히 어긋나거나 별명에 대비할 만한 뜻 자체가 없는 경우는 여기에 포함하지 않는다.\n\n《[[킹덤 컴: 딜리버런스]]》의 거대한 산적 두목은 왜소한 존재를 뜻하는 Runt라는 별명으로 불린다. 주인공보다 큰 몽둥이를 휘두르는 인물의 크기와 별명의 뜻이 정반대로 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주변 사람들이 인물의 실제 모습과 일부러 어울리지 않는 특징을 별명으로 붙인다. 호칭의 뜻과 실제 외형이 반대가 되면서 친밀함이나 놀림, 집단의 호칭 관습을 표현할 수 있다.\n\n별명과 인물 사이의 의도적인 모순이 중심이다. 태어날 때 받은 이름이 나중의 모습과 우연히 어긋나거나 별명에 대비할 만한 뜻 자체가 없는 경우는 여기에 포함하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[킹덤 컴: 딜리버런스]]》의 거대한 산적 두목은 왜소한 존재를 뜻하는 Runt라는 별명으로 불린다. 주인공보다 큰 몽둥이를 휘두르는 인물의 크기와 별명의 뜻이 정반대로 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

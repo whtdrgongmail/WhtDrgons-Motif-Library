@@ -4,22 +4,56 @@
   "title": "덱 고갈",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02514",
+  "primary_tag_id": "ML-T02514",
   "description": {
-    "definition": "",
+    "definition": "카드 [[게임]]에서 뽑을 덱의 카드가 모두 소진된 상태 또는 그 상태를 의도적으로 만드는 전략이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 3,
+  "classification": {
+    "code": "25.013",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "덱에 뽑을 카드가 남지 않은 상황이다. 게임에 따라 그때 패배하거나, 새 카드를 뽑지 못하거나, 버린 카드를 다시 섞어 계속 진행한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "덱 고갈은 [[승리 조건]]과 카드 재순환 규칙에 따라 의미가 달라진다. 덱이 비면 즉시 패배하는 게임에서는 상대의 덱을 줄이는 전략이 직접적인 승리 수단이 된다. 다른 게임에서는 일시적으로 선택지가 줄어드는 불리한 상태에 그칠 수 있다.\n\n상대의 특정 카드 한 장을 제거하는 방해와 덱 전체를 소진시키려는 전략은 목표가 다르다. 제거 속도, 방어하며 버틸 시간, 다시 채울 수단의 존재가 결과를 결정한다.\n\n상대가 매 차례 두 장씩 버리게 만들고, 남은 카드를 다시 채울 수 없다면 몇 차례 뒤 덱 고갈에 도달할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "덱 고갈은 [[승리 조건]]과 카드 재순환 규칙에 따라 의미가 달라진다. 덱이 비면 즉시 패배하는 게임에서는 상대의 덱을 줄이는 전략이 직접적인 승리 수단이 된다. 다른 게임에서는 일시적으로 선택지가 줄어드는 불리한 상태에 그칠 수 있다.\n\n상대의 특정 카드 한 장을 제거하는 방해와 덱 전체를 소진시키려는 전략은 목표가 다르다. 제거 속도, 방어하며 버틸 시간, 다시 채울 수단의 존재가 결과를 결정한다."
+      ],
+      [
+        "사례",
+        "상대가 매 차례 두 장씩 버리게 만들고, 남은 카드를 다시 채울 수 없다면 몇 차례 뒤 덱 고갈에 도달할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

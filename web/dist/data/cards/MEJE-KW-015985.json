@@ -4,8 +4,8 @@
   "title": "패션에 열중하는 인물",
   "original": "The Fashionista",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-009587",
+  "primary_tag_id": "MEJE-KW-009587",
   "description": {
     "definition": "옷차림과 스타일을 주요 취미와 관심사로 삼아 꾸미기와 유행을 적극적으로 즐기는 인물형이다.",
     "detail": "작품 사례: [[M9 Girls!]]의 카를리타는 소녀들의 의상을 디자인하면서 패션 취향을 적극 반영해, 모든 복장에 긴 장갑을 더한다.",
@@ -13,11 +13,11 @@
     "boundary": "외모가 단정하다는 사실이나 의류 업계 직업과만 동일시하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.007.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "의복의 조합과 디자인이 인물의 관심과 행동을 반복적으로 이끈다. 다른 사람의 복장을 정하는 경우에는 개인적 취향이 집단의 시각적 인상에까지 반영될 수 있다.\n\n옷차림이 단정하거나 의류업에 종사한다는 사실만으로 패션에 열중한다고 볼 수는 없다. 외모보다 디자인을 선택하고 구현하는 과정의 비중을 확인해야 한다.\n\n《[[M9 Girls!]]》의 카를리타는 소녀들의 의상을 디자인하면서 모두에게 긴 장갑을 더한다. 개인적 취향이 여러 인물의 복장에 일관되게 반영된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "의복의 조합과 디자인이 인물의 관심과 행동을 반복적으로 이끈다. 다른 사람의 복장을 정하는 경우에는 개인적 취향이 집단의 시각적 인상에까지 반영될 수 있다.\n\n옷차림이 단정하거나 의류업에 종사한다는 사실만으로 패션에 열중한다고 볼 수는 없다. 외모보다 디자인을 선택하고 구현하는 과정의 비중을 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[M9 Girls!]]》의 카를리타는 소녀들의 의상을 디자인하면서 모두에게 긴 장갑을 더한다. 개인적 취향이 여러 인물의 복장에 일관되게 반영된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

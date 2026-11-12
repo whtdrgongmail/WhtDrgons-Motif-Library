@@ -2,24 +2,63 @@
   "id": "MM-MEDIA-003540",
   "kind": "work",
   "title": "Somewhere in Time",
-  "original": "",
+  "original": "Somewhere In Time",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00142",
+  "primary_tag_id": "ML-T00142",
   "description": {
-    "definition": "",
+    "definition": "《Somewhere in Time》은 아이언 메이든이 1986년에 발표한 정규 음반이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.008.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "publication_form",
+    "parent_relation": "contextual",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "아이언 메이든의 1986년 앨범으로, 미래 도시를 배경으로 한 에디의 표지가 특징이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000147",
+      "card_id": "MM-MEDIA-003540",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.ironmaiden.com/studio-album/somewhere-in-time/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "아이언 메이든의 공식 음반 목록은 이 앨범의 발매일을 1986년 9월 29일로, 프로듀서를 마틴 버치로 기록한다. 여덟 곡 가운데 〈Caught Somewhere in Time〉, 〈Wasted Years〉, 〈Stranger in a Strange Land〉 등이 수록되어 있다. 앨범명과 비슷한 첫 곡의 제목은 같지 않으므로 음반 전체를 한 곡의 이야기로 읽어서는 안 된다.\n\n밴드는 40주년 발표에서 이 음반을 여섯 번째 정규 앨범으로 소개하고, 2015년 리마스터 음원을 담은 2026년 재발매를 별도로 알렸다. 미래적인 에디 도상은 이 시기의 시각적 표지를 이루지만, 1986년 원반과 재발매 음반은 발매 이력이 다르다. 2026년에 발표된 동명 그래픽 앨범 역시 원래 음악 앨범을 기념하는 후속 출판물이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "아이언 메이든의 공식 음반 목록은 이 앨범의 발매일을 1986년 9월 29일로, 프로듀서를 마틴 버치로 기록한다. 여덟 곡 가운데 〈Caught Somewhere in Time〉, 〈Wasted Years〉, 〈Stranger in a Strange Land〉 등이 수록되어 있다. 앨범명과 비슷한 첫 곡의 제목은 같지 않으므로 음반 전체를 한 곡의 이야기로 읽어서는 안 된다.\n\n밴드는 40주년 발표에서 이 음반을 여섯 번째 정규 앨범으로 소개하고, 2015년 리마스터 음원을 담은 2026년 재발매를 별도로 알렸다. 미래적인 에디 도상은 이 시기의 시각적 표지를 이루지만, 1986년 원반과 재발매 음반은 발매 이력이 다르다. 2026년에 발표된 동명 그래픽 앨범 역시 원래 음악 앨범을 기념하는 후속 출판물이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

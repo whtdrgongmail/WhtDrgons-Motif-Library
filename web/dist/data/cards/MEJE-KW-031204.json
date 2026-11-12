@@ -4,8 +4,8 @@
   "title": "어려운 선택에 더 좋은 보상을 주기",
   "original": "Path of Most Resistance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
     "definition": "게임에서 더 위험하거나 번거로운 경로와 선택이 우수한 보상으로 이어지도록 설계된 구조이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "쉽게 지나가는 대신 고된 도전을 택하면 더 좋은 장비나 성장 기회를 얻는다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "난도가 높은 구간에 중요한 물건을 두거나 약한 대상을 오래 성장시킨 뒤 큰 효용을 주면, 눈앞의 불편이 장기적인 투자로 바뀐다. 전투를 피하는 방식도 허용되지만 싸울 때만 충분한 경험치와 보상을 얻는다면 플레이어는 어려운 쪽을 선호하게 된다. 이 관계가 반복되면 고난이 보상의 위치를 알려 주는 신호가 된다.\n\n모든 위험한 길이 반드시 이득이라는 뜻은 아니다. 아직 넘지 말라는 장벽과 선택 가능한 도전을 구분할 단서가 있어야 합리적인 판단이 가능하다. 유일한 길이 어려운 경우보다 여러 선택 중 더 큰 부담을 감수할 때 이 구조가 분명하며, 다음 목적지를 알려 주는 [[적의 출현을 따라가는 진행 경로]]와도 기능이 다르다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "난도가 높은 구간에 중요한 물건을 두거나 약한 대상을 오래 성장시킨 뒤 큰 효용을 주면, 눈앞의 불편이 장기적인 투자로 바뀐다. 전투를 피하는 방식도 허용되지만 싸울 때만 충분한 경험치와 보상을 얻는다면 플레이어는 어려운 쪽을 선호하게 된다. 이 관계가 반복되면 고난이 보상의 위치를 알려 주는 신호가 된다.\n\n모든 위험한 길이 반드시 이득이라는 뜻은 아니다. 아직 넘지 말라는 장벽과 선택 가능한 도전을 구분할 단서가 있어야 합리적인 판단이 가능하다. 유일한 길이 어려운 경우보다 여러 선택 중 더 큰 부담을 감수할 때 이 구조가 분명하며, 다음 목적지를 알려 주는 [[적의 출현을 따라가는 진행 경로]]와도 기능이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": false
   }
 }

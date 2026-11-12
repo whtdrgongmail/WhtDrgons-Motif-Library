@@ -4,8 +4,8 @@
   "title": "가족 살해로 악함의 선을 넘었음을 보이기",
   "original": "Kinslaying Is a Special Kind of Evil",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F18",
+  "tag_id": "ML-T01575",
+  "primary_tag_id": "ML-T01575",
   "description": {
     "definition": "자신의 가족을 죽이거나 죽이려는 행동을 인물의 특히 극단적인 악함을 드러내는 도덕적 표지로 사용하는 관습이다.",
     "detail": "작품 사례: 《[[베르세르크]]》의 가니슈카는 자신의 아들을 제물로 바쳐 사도가 된다. 가장 가까운 관계까지 힘의 재료로 삼은 사실이 그의 잔혹함을 강조한다.",
@@ -13,10 +13,10 @@
     "boundary": "가족 살해가 발생했다는 사실만으로 성립하지 않는다. 작품이 그 행위를 특별한 배신과 악함으로 판단하는 기능이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "18",
+    "code": "18.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001301",
+      "work_card_id": "MM-MEDIA-002477",
       "description_ko": "《베르세르크》의 가니슈카는 자신의 아들을 제물로 바쳐 사도가 된다. 가장 가까운 관계까지 힘의 재료로 삼은 사실이 그의 잔혹함을 강조한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자기 가족을 살해하거나 죽이려는 행동을 통해 인물이 마지막 도덕적 제약까지 버렸다고 강조한다. 가족이라는 가까운 관계가 배신의 무게를 늘리므로 행위는 극단적인 악함을 판단하는 표지로 기능한다. 가족 사이에 살인이 일어났다는 사건 사실만으로는 부족하며 작품의 도덕적 강조가 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자기 가족을 살해하거나 죽이려는 행동을 통해 인물이 마지막 도덕적 제약까지 버렸다고 강조한다. 가족이라는 가까운 관계가 배신의 무게를 늘리므로 행위는 극단적인 악함을 판단하는 표지로 기능한다. 가족 사이에 살인이 일어났다는 사건 사실만으로는 부족하며 작품의 도덕적 강조가 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

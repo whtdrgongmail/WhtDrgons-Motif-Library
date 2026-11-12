@@ -5,8 +5,8 @@
   "original": "Treated as Evil Until He Becomes Evil",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00698",
+  "primary_tag_id": "ML-T00698",
   "description": {
     "definition": "처음부터 나쁜 사람일 것이라는 배척과 학대를 오래 겪은 인물이 원망에 밀려 실제 악행을 선택하여 가해자들의 편견을 확인해 주는 전개다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "악행이 태생적 소속에서 필연적으로 나온다는 주장이 아니다. 사회적 가해가 변화의 원인으로 연결되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "06.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주변은 인물이 원래 악할 것이라고 믿고 배척과 학대를 가한다. 누적된 원망이 실제 악행의 선택으로 이어져 편견이 맞았다는 외관이 생긴다.\n\n이 전개는 공동체가 적대자를 만드는 과정과 이후의 책임 회피를 드러낸다. 변화의 원인을 지운 채 처음부터 그랬다고 말하는 모순이 생길 수 있다.\n\n태생적인 소속이 악행을 필연적으로 만든다는 주장이 아니다. 사회적인 가해와 인물의 변화가 인과적으로 연결되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주변은 인물이 원래 악할 것이라고 믿고 배척과 학대를 가한다. 누적된 원망이 실제 악행의 선택으로 이어져 편견이 맞았다는 외관이 생긴다.\n\n이 전개는 공동체가 적대자를 만드는 과정과 이후의 책임 회피를 드러낸다. 변화의 원인을 지운 채 처음부터 그랬다고 말하는 모순이 생길 수 있다.\n\n태생적인 소속이 악행을 필연적으로 만든다는 주장이 아니다. 사회적인 가해와 인물의 변화가 인과적으로 연결되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

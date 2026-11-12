@@ -4,8 +4,8 @@
   "title": "모피 무역의 강길 운송인",
   "original": "Voyageur",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00911",
+  "primary_tag_id": "ML-T00911",
   "description": {
     "definition": "모피 무역을 위해 강을 따라 물자를 운송하면서 사냥과 덫질도 하는 변경의 노동자 유형이다. 사냥만 하는 인물과 달리 강길 운송과 상업 활동이 생업의 축이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "모든 프랑스계 캐나다인이나 모든 사냥꾼을 뜻하지 않는다. 운송·모피 거래라는 직업적 맥락이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.004.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "강길로 모피와 물자를 운송하는 인물은 이동 노동과 변경의 거래를 연결한다. 사냥과 덫질도 생업에 참여하지만 운송 경로가 활동의 축을 이룬다.\n\n강은 단순한 풍경이 아니라 상품과 노동을 연결하는 경로다. 인물은 사냥의 성과를 거래할 장소로 옮겨야 하므로 고립된 생존자보다 변경 경제의 연결자로 기능한다.\n\n모든 사냥꾼을 뜻하지는 않는다. 특정 출신이라는 이유가 아니라 모피 거래와 강 운송이라는 직업 조건이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "강길로 모피와 물자를 운송하는 인물은 이동 노동과 변경의 거래를 연결한다. 사냥과 덫질도 생업에 참여하지만 운송 경로가 활동의 축을 이룬다.\n\n강은 단순한 풍경이 아니라 상품과 노동을 연결하는 경로다. 인물은 사냥의 성과를 거래할 장소로 옮겨야 하므로 고립된 생존자보다 변경 경제의 연결자로 기능한다.\n\n모든 사냥꾼을 뜻하지는 않는다. 특정 출신이라는 이유가 아니라 모피 거래와 강 운송이라는 직업 조건이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

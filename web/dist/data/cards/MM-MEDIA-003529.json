@@ -2,24 +2,67 @@
   "id": "MM-MEDIA-003529",
   "kind": "work",
   "title": "Captain Silver",
-  "original": "",
+  "original": "キャプテンシルバー",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00078",
+  "primary_tag_id": "ML-T00078",
   "description": {
-    "definition": "",
+    "definition": "《Captain Silver》는 세가가 1988년 세가 마크 III·마스터 시스템용으로 발매한 액션 게임이다. 이 카드는 해당 가정용 판본을 가리킨다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 2,
+  "classification": {
+    "code": "02.016.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "platform",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "1988년에 세가의 가정용 게임기로 나온 액션 게임이다. 같은 제목의 다른 플랫폼 판본과는 수록 내용이 다를 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000317",
+      "card_id": "MM-MEDIA-003529",
+      "label_ko": "세가 공식 소프트웨어 목록",
+      "icon_key": "game",
+      "url": "https://www.sega.jp/history/hard/mastersystem/software.html",
+      "description_ko": "원제와 1988년 발매 정보를 확인할 수 있는 세가의 마스터 시스템 목록",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "세가의 공식 소프트웨어 목록은 원제를 《[[キャプテンシルバー]]》로 기록하고 1988년 7월 2일 발매된 액션 게임으로 분류한다. 이 작품을 분석할 때는 같은 제목의 아케이드판과 가정용 판본, 지역별 발매판을 구별해야 한다. 특정 판본의 내용이 다른 판본의 모든 장면을 대표한다고 볼 수 없다.\n\n라이브러리에서 이 작품은 실제 플레이 가능한 내용과 인쇄된 안내 문서가 일치하지 않는 경우를 검토하는 자료로 연결된다. 설명서·광고·게임 화면은 제작과 유통 단계가 달라, 어느 판본과 어느 지역의 자료인지 확인해야 차이가 성립한다.\n\n지역판 비교에서는 먼저 같은 스테이지가 실제 게임에 있는지 확인하고, 이어 해당 판본의 설명서가 그 스테이지를 소개하는지 대조한다. 서로 다른 지역의 설명서를 한 판본의 자료처럼 합치면 제작 차이를 잘못 판단할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "세가의 공식 소프트웨어 목록은 원제를 《[[キャプテンシルバー]]》로 기록하고 1988년 7월 2일 발매된 액션 게임으로 분류한다. 이 작품을 분석할 때는 같은 제목의 아케이드판과 가정용 판본, 지역별 발매판을 구별해야 한다. 특정 판본의 내용이 다른 판본의 모든 장면을 대표한다고 볼 수 없다.\n\n라이브러리에서 이 작품은 실제 플레이 가능한 내용과 인쇄된 안내 문서가 일치하지 않는 경우를 검토하는 자료로 연결된다. 설명서·광고·게임 화면은 제작과 유통 단계가 달라, 어느 판본과 어느 지역의 자료인지 확인해야 차이가 성립한다."
+      ],
+      [
+        "사례",
+        "지역판 비교에서는 먼저 같은 스테이지가 실제 게임에 있는지 확인하고, 이어 해당 판본의 설명서가 그 스테이지를 소개하는지 대조한다. 서로 다른 지역의 설명서를 한 판본의 자료처럼 합치면 제작 차이를 잘못 판단할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

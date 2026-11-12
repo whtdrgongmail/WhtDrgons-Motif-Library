@@ -1,0 +1,51 @@
+{
+  "id": "MM-UNSET-000821",
+  "kind": "keyword",
+  "title": "공간 이동",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F14",
+  "description": {
+    "definition": "인물·사물·카메라의 위치가 한 공간 안에서 바뀌는 이동이다. 이동 주체와 기준점에 따라 실제 대상의 움직임인지 시점의 변화인지 구분한다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 2,
+  "classification": {
+    "code": "14",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "같은 공간 안에서 사람이나 물건 또는 카메라의 위치가 달라지는 일이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "공간 이동을 분석할 때는 무엇이 움직였는지 먼저 확인한다. 인물이 걸어서 화면 밖으로 나가는 것, 사물이 옮겨지는 것, 카메라가 위치를 바꾸어 정지한 대상을 다른 각도에서 보여 주는 것은 서로 다른 사건이다.\n\n[[회전 없이 카메라를 가로로 이동하기]]에서는 피사체가 제자리에 있어도 카메라가 수평으로 움직여 화면 속 상대적 위치가 달라진다. 카메라를 제자리에서 돌리는 회전과는 이동 축 및 원근의 변화가 다르다.\n\n가상 예시: 카메라가 복도를 따라 옆으로 이동하자 앞에 서 있던 인물 뒤쪽의 문이 화면에 드러난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공간 이동을 분석할 때는 무엇이 움직였는지 먼저 확인한다. 인물이 걸어서 화면 밖으로 나가는 것, 사물이 옮겨지는 것, 카메라가 위치를 바꾸어 정지한 대상을 다른 각도에서 보여 주는 것은 서로 다른 사건이다.\n\n[[회전 없이 카메라를 가로로 이동하기]]에서는 피사체가 제자리에 있어도 카메라가 수평으로 움직여 화면 속 상대적 위치가 달라진다. 카메라를 제자리에서 돌리는 회전과는 이동 축 및 원근의 변화가 다르다."
+      ],
+      [
+        "사례",
+        "가상 예시: 카메라가 복도를 따라 옆으로 이동하자 앞에 서 있던 인물 뒤쪽의 문이 화면에 드러난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

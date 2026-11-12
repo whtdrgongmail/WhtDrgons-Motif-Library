@@ -4,8 +4,8 @@
   "title": "롤플레잉 성장을 결합한 탐험 액션",
   "original": "IGAvania",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00488",
+  "primary_tag_id": "ML-T00488",
   "description": {
     "definition": "연결된 세계의 능력 기반 [[탐험]]에 [[장비]]와 능력치 등 롤플레잉 성장 요소를 결합하는 구성이다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": "RPG 요소가 약한 메트로이드 계열과의 차이를 설명하는 범위다. 고딕풍 외형이나 특정 제작자만을 필수 조건으로 삼지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.210.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "능력을 얻으며 연결된 세계를 탐험하는 액션 구조에 장비와 능력치의 성장을 결합한다. 탐색의 진전과 롤플레잉식 육성이 함께 작동한다.\n\n발견한 보상은 새로운 이동 범위를 제공하면서 전투의 구성도 바꿀 수 있다. 어디에 갈 수 있는지와 어떤 능력으로 싸울지가 같은 성장 과정에서 확장된다.\n\n롤플레잉 요소가 약한 탐험 액션과의 차이를 설명하는 유형이다. 고딕풍의 겉모습이나 특정 제작자의 참여만으로 이 구성을 정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "능력을 얻으며 연결된 세계를 탐험하는 액션 구조에 장비와 능력치의 성장을 결합한다. 탐색의 진전과 롤플레잉식 육성이 함께 작동한다.\n\n발견한 보상은 새로운 이동 범위를 제공하면서 전투의 구성도 바꿀 수 있다. 어디에 갈 수 있는지와 어떤 능력으로 싸울지가 같은 성장 과정에서 확장된다.\n\n롤플레잉 요소가 약한 탐험 액션과의 차이를 설명하는 유형이다. 고딕풍의 겉모습이나 특정 제작자의 참여만으로 이 구성을 정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "게임 화면을 업무 화면으로 숨기는 버튼",
   "original": "Boss Button",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "게임 도중 단축키를 누르면 화면이 문서나 바탕화면처럼 바뀐다. 플레이를 들키지 않으려는 사용자의 상황이 기능에 반영된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임 중 특정 키를 눌러 화면을 업무 프로그램처럼 바꾸거나 게임의 존재를 감추는 기능이다. 사용자가 상사와 동료에게 플레이 사실을 들키지 않도록 고안된 장치다.\n\n문서와 표 같은 정적인 가짜 화면을 표시하거나 작업 환경으로 즉시 돌아가는 방식이 있다. 빨리 숨길 수 있다는 편의와 자세히 보면 위장을 알아챌 수 있다는 한계가 함께 존재한다.\n\n전투 중 보스에게 작용하는 입력과는 전혀 다른 의미의 명칭이다. 운영체제의 일반적인 창 전환과도 구별되며 게임이 특별한 은폐 기능을 제공한다는 점이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임 중 특정 키를 눌러 화면을 업무 프로그램처럼 바꾸거나 게임의 존재를 감추는 기능이다. 사용자가 상사와 동료에게 플레이 사실을 들키지 않도록 고안된 장치다.\n\n문서와 표 같은 정적인 가짜 화면을 표시하거나 작업 환경으로 즉시 돌아가는 방식이 있다. 빨리 숨길 수 있다는 편의와 자세히 보면 위장을 알아챌 수 있다는 한계가 함께 존재한다.\n\n전투 중 보스에게 작용하는 입력과는 전혀 다른 의미의 명칭이다. 운영체제의 일반적인 창 전환과도 구별되며 게임이 특별한 은폐 기능을 제공한다는 점이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

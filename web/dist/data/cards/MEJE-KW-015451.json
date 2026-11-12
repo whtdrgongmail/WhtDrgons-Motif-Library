@@ -4,8 +4,8 @@
   "title": "학대 때문에 상관을 배신하기",
   "original": "Mistreatment-Induced Betrayal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "상관이 부하를 소모품처럼 대하고 안전을 무시한 결과 충성하던 부하가 등을 돌리는 전개다.",
     "detail": "작품 사례: [[Codex Equus]]의 Hol Horse는 고용주가 끔찍한 행동을 하면 등을 돌리며, Godly Brand의 학대를 견디다 결국 그를 배신하고 상대편에 합류한다.",
@@ -13,14 +13,20 @@
     "boundary": "더 큰 보상만을 위한 배신과 달리 부당한 대우가 원인이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "목숨을 걸고 일했는데 버림받자 더는 그 사람을 따르지 않는다.",
     "review_status": "reviewed",
@@ -45,5 +51,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "부당한 대우가 누적되면서 상관에게 충성할 이유가 무너진다. 위험을 떠넘기거나 부하의 존엄을 무시한 행동이 배신의 원인으로 제시되므로, 권력자의 지배 방식이 조직 내부의 적을 만드는 구조가 된다.\n\n더 많은 보수를 제시한 다른 고용주에게 옮기는 행동과는 동기가 다르다. 배신 이전의 대우와 이후의 이탈을 연결하는 근거가 필요하며, 학대의 피해와 배신 뒤 저지른 행동의 평가는 별도로 해야 한다.\n\n[[Codex Equus]]의 Hol Horse는 고용주가 끔찍한 행동을 하면 등을 돌리며, Godly Brand의 학대를 견디다 결국 그를 배신하고 상대편에 합류한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "부당한 대우가 누적되면서 상관에게 충성할 이유가 무너진다. 위험을 떠넘기거나 부하의 존엄을 무시한 행동이 배신의 원인으로 제시되므로, 권력자의 지배 방식이 조직 내부의 적을 만드는 구조가 된다.\n\n더 많은 보수를 제시한 다른 고용주에게 옮기는 행동과는 동기가 다르다. 배신 이전의 대우와 이후의 이탈을 연결하는 근거가 필요하며, 학대의 피해와 배신 뒤 저지른 행동의 평가는 별도로 해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Codex Equus]]의 Hol Horse는 고용주가 끔찍한 행동을 하면 등을 돌리며, Godly Brand의 학대를 견디다 결국 그를 배신하고 상대편에 합류한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

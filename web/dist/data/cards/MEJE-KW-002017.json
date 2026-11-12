@@ -4,8 +4,8 @@
   "title": "군대를 웃음의 무대로 삼기",
   "original": "Armed Farces",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00306",
+  "primary_tag_id": "ML-T00306",
   "description": {
     "definition": "군대의 명령 체계와 조직 생활을 과장된 실수와 부조리로 보여 주는 희극 형식. 전쟁 자체를 다룰 때에는 웃음과 피해의 거리도 작품의 선택이 된다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.110",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "군대를 웃음의 무대로 삼는 이야기는 명령과 조직 생활에서 생기는 실수나 부조리를 희극으로 만듭니다. 전쟁의 실제 피해를 다룬다면 무엇을 웃음거리로 삼는지 주의 깊게 보아야 합니다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "군대의 훈련과 위계, 작전 수행을 주된 웃음의 무대로 삼는다. 어리숙한 병사와 권위적인 장교, 세상 물정 모르는 신병의 조합이 조직의 모순을 드러낸다.\n\n평시의 생활극과 전시의 희극은 위험의 무게가 다르다. 군대 코미디는 전쟁이 격해지면 어두워질 수 있으며, 우스운 인물이 등장한다고 전투의 피해까지 가벼워지는 것은 아니다.\n\n평시에는 훈련과 행정, 생활 규율의 부조리가 주요 소재가 된다. 전시에는 같은 인물들이 위험 속에서도 엉뚱하게 행동하면서 전투의 긴장과 일상적인 우스움이 함께 나타난다.\n\n실제 전쟁의 참혹함이 전면에 나오는 순간 어조가 바뀔 수 있다. 평소에는 무능해 보이던 부대가 힘을 모아 활약하면 웃음으로 쌓은 관계가 전투의 근거가 된다. 군인이 등장하는 모든 희극보다 군 조직 자체가 사건의 기반인 경우에 가깝다.",
+    "sections": [
+      [
+        "상세 설명",
+        "군대의 훈련과 위계, 작전 수행을 주된 웃음의 무대로 삼는다. 어리숙한 병사와 권위적인 장교, 세상 물정 모르는 신병의 조합이 조직의 모순을 드러낸다.\n\n평시의 생활극과 전시의 희극은 위험의 무게가 다르다. 군대 코미디는 전쟁이 격해지면 어두워질 수 있으며, 우스운 인물이 등장한다고 전투의 피해까지 가벼워지는 것은 아니다.\n\n평시에는 훈련과 행정, 생활 규율의 부조리가 주요 소재가 된다. 전시에는 같은 인물들이 위험 속에서도 엉뚱하게 행동하면서 전투의 긴장과 일상적인 우스움이 함께 나타난다.\n\n실제 전쟁의 참혹함이 전면에 나오는 순간 어조가 바뀔 수 있다. 평소에는 무능해 보이던 부대가 힘을 모아 활약하면 웃음으로 쌓은 관계가 전투의 근거가 된다. 군인이 등장하는 모든 희극보다 군 조직 자체가 사건의 기반인 경우에 가깝다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

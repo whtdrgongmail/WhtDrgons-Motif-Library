@@ -1,34 +1,22 @@
 {
   "id": "MM-MEDIA-001167",
-  "kind": "work",
+  "kind": "organization",
   "title": "Weezer",
   "original": "Weezer",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-T00139",
+  "primary_tag_id": null,
   "description": {
-    "definition": "이 카드는 음악 작품 《Weezer》를 가리킨다. 이 라이브러리에서는 [[오도 관계의 순환 화음 진행]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Weezer의 Island in the Sun에는 오도 관계의 순환 진행 중 일부가 나타나, 전체 순환을 모두 쓰지 않고도 그 흐름을 활용하는 사례가 된다.",
+    "definition": "위저는 미국의 록 밴드다. 이 카드는 동명의 여러 음반이 아닌 음악 그룹을 가리킨다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
-  "classification": {
-    "code": "02.008",
-    "review_status": "provisional",
-    "row_version": 1
-  },
-  "classification_semantics": {
-    "semantic_kind": "medium_family",
-    "parent_relation": "facet_member",
-    "allowed_roles": [
-      "medium"
-    ],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "updated_at": "2026-11-12",
+  "row_version": 4,
+  "classification": null,
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "Weezer의 Island in the Sun에는 오도 관계의 순환 진행 중 일부가 나타나, 전체 순환을 모두 쓰지 않고도 그 흐름을 활용하는 사례가 된다.",
     "review_status": "reviewed",
@@ -37,11 +25,19 @@
   },
   "applied_tags": [],
   "related_media": [],
-  "related_motifs": [
-    {
-      "card_id": "MEJE-KW-013677",
-      "row_version": 1
-    }
-  ],
-  "references": []
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "리버스 쿼모를 중심으로 결성된 미국의 얼터너티브 록 밴드이다. 강한 기타 중심의 소리와 기억하기 쉬운 선율을 결합하며 파워 팝 등의 양식과도 접점을 가진다.\n\n1994년의 첫 동명 앨범은 색깔로 구별하는 관습 속에서 블루 앨범으로 알려졌다. 음악 비디오와 싱글의 수용은 밴드의 대중적 인지도를 높였으며, 이후의 여러 동명 앨범도 시기별 음악을 구별할 필요를 만든다.\n\n가사를 통해 드러나는 어색함과 욕망, 자기 인식은 선율적인 표현과 함께 독특한 인상을 준다. 긴 활동 기간의 모든 앨범을 하나의 고정된 양식으로 묶기보다 개별 음반의 표현을 살펴야 하며, 이 카드는 단일 곡보다 음악 집단을 가리킨다.",
+    "sections": [
+      [
+        "상세 설명",
+        "리버스 쿼모를 중심으로 결성된 미국의 얼터너티브 록 밴드이다. 강한 기타 중심의 소리와 기억하기 쉬운 선율을 결합하며 파워 팝 등의 양식과도 접점을 가진다.\n\n1994년의 첫 동명 앨범은 색깔로 구별하는 관습 속에서 블루 앨범으로 알려졌다. 음악 비디오와 싱글의 수용은 밴드의 대중적 인지도를 높였으며, 이후의 여러 동명 앨범도 시기별 음악을 구별할 필요를 만든다.\n\n가사를 통해 드러나는 어색함과 욕망, 자기 인식은 선율적인 표현과 함께 독특한 인상을 준다. 긴 활동 기간의 모든 앨범을 하나의 고정된 양식으로 묶기보다 개별 음반의 표현을 살펴야 하며, 이 카드는 단일 곡보다 음악 집단을 가리킨다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

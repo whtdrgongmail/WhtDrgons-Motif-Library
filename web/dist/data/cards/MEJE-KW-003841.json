@@ -4,8 +4,8 @@
   "title": "가짜 물건임을 부숴 증명하기",
   "original": "Break the Fake",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00785",
+  "primary_tag_id": "ML-T00785",
   "description": {
     "definition": "진품이라 믿던 물건을 깨거나 부수자 모조품임이 드러난다. 물건을 아끼던 마음과 진실을 밝히려는 행동이 충돌한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가치 있는 물건으로 믿었던 것이 모조품임을 드러내며 파괴하는 장면이다. 깨지는 소리와 재질의 노출이 진위를 즉각적으로 확인시키는 시각적 증거가 된다.\n\n의심하는 사람을 설득하려 일부러 부수거나 우연한 파손으로 가짜임을 알아차릴 수 있다. 진위를 이미 안 뒤 분노로 파괴한다면 속았다는 감정의 표현이 중심이 된다.\n\n진품을 실수로 깨뜨려 손해를 보는 장면과는 반대 구조다. 모든 위조품이 파괴되는 것은 아니며, 증거나 장식적 가치를 이유로 보관하는 선택과도 구분할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가치 있는 물건으로 믿었던 것이 모조품임을 드러내며 파괴하는 장면이다. 깨지는 소리와 재질의 노출이 진위를 즉각적으로 확인시키는 시각적 증거가 된다.\n\n의심하는 사람을 설득하려 일부러 부수거나 우연한 파손으로 가짜임을 알아차릴 수 있다. 진위를 이미 안 뒤 분노로 파괴한다면 속았다는 감정의 표현이 중심이 된다.\n\n진품을 실수로 깨뜨려 손해를 보는 장면과는 반대 구조다. 모든 위조품이 파괴되는 것은 아니며, 증거나 장식적 가치를 이유로 보관하는 선택과도 구분할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

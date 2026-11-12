@@ -4,8 +4,8 @@
   "title": "영어로 처음 쓰는 라이트 노벨",
   "original": "Original English Language Light Novels",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00067",
+  "primary_tag_id": "ML-T00067",
   "description": {
     "definition": "일본어 작품을 번역하는 대신 영어로 처음부터 [[라이트 노벨]]의 문체와 삽화 관습을 적용해 소설을 만든다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": "원작 언어와 형식의 차이를 구별하며 영어 번역판 일반과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "02.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영어를 원작 언어로 삼으면서 라이트 노벨의 문체와 삽화 배치 같은 형식을 적용한다. 번역되어 영어가 된 작품이 아니라 처음부터 그 언어로 해당 독서 경험을 만들려는 창작이다.\n\n형식과 언어를 분리하면 같은 관습도 다른 독자 환경에서 새로 사용될 수 있다. 삽화가 인물의 인상을 맡고 글의 진행이 대화와 장면의 속도를 조절하는 등 선택한 형식이 내용의 전달 방식에 관여한다.\n\n영어로 쓰인 짧은 소설 전체가 같은 범주는 아니다. 일본을 배경으로 해야 하는 조건도 없다. 어떤 문체와 편집 관습을 채택했는지와 시장에서 어떤 이름으로 분류하는지는 구분하여 설명해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영어를 원작 언어로 삼으면서 라이트 노벨의 문체와 삽화 배치 같은 형식을 적용한다. 번역되어 영어가 된 작품이 아니라 처음부터 그 언어로 해당 독서 경험을 만들려는 창작이다.\n\n형식과 언어를 분리하면 같은 관습도 다른 독자 환경에서 새로 사용될 수 있다. 삽화가 인물의 인상을 맡고 글의 진행이 대화와 장면의 속도를 조절하는 등 선택한 형식이 내용의 전달 방식에 관여한다.\n\n영어로 쓰인 짧은 소설 전체가 같은 범주는 아니다. 일본을 배경으로 해야 하는 조건도 없다. 어떤 문체와 편집 관습을 채택했는지와 시장에서 어떤 이름으로 분류하는지는 구분하여 설명해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "The Hobbit",
   "original": "The Hobbit",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "호빗"
+  ],
+  "tag_id": "ML-T00066",
   "primary_tag_id": "ML-T00066",
   "description": {
     "definition": "이 카드는 문학 작품 《The Hobbit》를 가리킨다. 이 라이브러리에서는 [[고향을 그리워하는 노래]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: The Hobbit에서 난쟁이들은 용에게 빼앗긴 에레보르와 돌아갈 고향을 노래하고, 이를 들은 빌보도 모험에 동참하고 싶어진다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.007",
     "review_status": "provisional",
@@ -43,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "안락한 생활에 만족하던 호빗 빌보가 마법사와 열세 드워프의 제안을 받아 먼 산의 보물을 찾으러 가는 소설이다. 용이 차지한 재산을 되찾는 목적이 고향을 벗어나게 한다.\n\n여행은 엘프와 트롤, 거미 등 다양한 존재를 만나며 익숙한 판단의 범위를 넓히는 과정이다. 자신과 다른 동료들의 목표에 참여한 작은 인물이 거대한 용과 맞서는 단계까지 이동하는 성장의 모험이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "안락한 생활에 만족하던 호빗 빌보가 마법사와 열세 드워프의 제안을 받아 먼 산의 보물을 찾으러 가는 소설이다. 용이 차지한 재산을 되찾는 목적이 고향을 벗어나게 한다.\n\n여행은 엘프와 트롤, 거미 등 다양한 존재를 만나며 익숙한 판단의 범위를 넓히는 과정이다. 자신과 다른 동료들의 목표에 참여한 작은 인물이 거대한 용과 맞서는 단계까지 이동하는 성장의 모험이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

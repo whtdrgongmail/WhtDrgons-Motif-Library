@@ -1,0 +1,64 @@
+{
+  "id": "MM-UNSET-000982",
+  "kind": "keyword",
+  "title": "추리 서사",
+  "original": "Detective fiction",
+  "aliases": [],
+  "tag_id": "ML-T00264",
+  "primary_tag_id": "ML-T00264",
+  "description": {
+    "definition": "추리 서사는 사건에 관한 불완전한 정보에서 단서를 해석하여 진상에 도달하는 과정을 중심에 둔 이야기 구성이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 2,
+  "classification": {
+    "code": "03.106",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
+  "easy_explanation": {
+    "easy_ko": "무슨 일이 일어났는지 곧바로 알려 주지 않고, 단서를 따라가며 진실을 알아내는 이야기다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "독자는 탐정이나 조사 인물에게 주어진 단서를 바탕으로 사건의 원인과 책임자를 추론한다. 단서의 공개 순서, 잘못된 가설, 새 증거의 해석이 이야기의 진행을 만든다.\n\n탐정이 범인을 알아내도 공개하지 않기로 선택한다면 수수께끼는 해결되지만 처벌이라는 통상적인 종결은 유보된다.\n\n[[진실을 알아도 범인을 넘기지 않는 탐정]]은 추리 서사의 진실 규명과 법적 처벌을 분리한 변형이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "독자는 탐정이나 조사 인물에게 주어진 단서를 바탕으로 사건의 원인과 책임자를 추론한다. 단서의 공개 순서, 잘못된 가설, 새 증거의 해석이 이야기의 진행을 만든다."
+      ],
+      [
+        "사례",
+        "탐정이 범인을 알아내도 공개하지 않기로 선택한다면 수수께끼는 해결되지만 처벌이라는 통상적인 종결은 유보된다."
+      ],
+      [
+        "관련 작품",
+        "[[진실을 알아도 범인을 넘기지 않는 탐정]]은 추리 서사의 진실 규명과 법적 처벌을 분리한 변형이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

@@ -4,8 +4,8 @@
   "title": "신들의 일상 시트콤",
   "original": "Pantheon Sitcom",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00309",
+  "primary_tag_id": "ML-T00309",
   "description": {
     "definition": "여러 신을 일상적 [[관계]]와 생활 소동의 [[인물]]로 배치하여 [[상황 코미디]]를 구성하는 형식이다.",
     "detail": "",
@@ -13,14 +13,23 @@
     "boundary": "신이 한 번 웃긴 [[행동]]을 하는 것보다 [[집단]]의 반복적 일상 관계가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "04",
+    "code": "03.110.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "우주를 다스리는 신들도 한집 식구처럼 다투고 사소한 문제로 소동을 벌인다.",
     "review_status": "reviewed",
@@ -30,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 신을 반복해서 함께 생활하는 [[인물]]들로 삼아 [[상황 코미디]]를 구성한다. 신들의 일상적 [[관계]]와 소동이 주요 형식이 되어 우주적인 권능도 친숙한 생활 갈등 속에서 다루어질 수 있다.\n\n신이 등장하는 이야기에서 한 번 웃긴 [[행동]]이 나온다는 사실만으로는 충분하지 않다. 여러 인물이 계속 관계를 맺고 그 관계에서 비슷하거나 새로운 소동이 생기는 일상 구성이 중심이어야 한다.\n\n따라서 특정 신의 괴짜 성격과는 다른 분류다. 한 인물이 별나다는 특징보다 신적 [[집단]]의 생활과 관계를 지속적인 코미디 형식으로 삼는지가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 신을 반복해서 함께 생활하는 [[인물]]들로 삼아 [[상황 코미디]]를 구성한다. 신들의 일상적 [[관계]]와 소동이 주요 형식이 되어 우주적인 권능도 친숙한 생활 갈등 속에서 다루어질 수 있다.\n\n신이 등장하는 이야기에서 한 번 웃긴 [[행동]]이 나온다는 사실만으로는 충분하지 않다. 여러 인물이 계속 관계를 맺고 그 관계에서 비슷하거나 새로운 소동이 생기는 일상 구성이 중심이어야 한다.\n\n따라서 특정 신의 괴짜 성격과는 다른 분류다. 한 인물이 별나다는 특징보다 신적 [[집단]]의 생활과 관계를 지속적인 코미디 형식으로 삼는지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

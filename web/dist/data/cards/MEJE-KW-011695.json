@@ -4,8 +4,8 @@
   "title": "복고 로큰롤 성향의 글램 록",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00499",
+  "primary_tag_id": "ML-T00499",
   "description": {
     "definition": "초기 [[로큰롤]]의 직접적이고 친숙한 [[노래]] 형식을 화려한 [[글램 록]] 이미지로 재구성하는 경향이다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": "과거 곡을 연주하는 모든 공연이 아니라 글램 록의 [[시각]]·공연 양식과 결합한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.301.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "초기 로큰롤의 직접적인 노래와 공연 에너지를 글램 록의 의상과 무대 이미지에 결합한 경향이다. T. Rex, 모트 더 후플, 쇼와디와디 등은 이 방향의 사례로, 예술적 실험을 강조한 계열과 구별된다.\n\n복고적 음악 어법은 과거 곡을 그대로 재연하는 일에 한정되지 않는다. 친숙한 로큰롤의 형식을 활용하면서도 화려한 외양과 과장된 공연으로 당대 대중에게 다가가는 방식이 중심이다. 오래된 노래를 연주한다는 사실만으로 글램 록에 포함되지는 않는다.\n\n이처럼 음악적 복고와 [[시각]]적 공연 양식이 함께 작동한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "초기 로큰롤의 직접적인 노래와 공연 에너지를 글램 록의 의상과 무대 이미지에 결합한 경향이다. T. Rex, 모트 더 후플, 쇼와디와디 등은 이 방향의 사례로, 예술적 실험을 강조한 계열과 구별된다.\n\n복고적 음악 어법은 과거 곡을 그대로 재연하는 일에 한정되지 않는다. 친숙한 로큰롤의 형식을 활용하면서도 화려한 외양과 과장된 공연으로 당대 대중에게 다가가는 방식이 중심이다. 오래된 노래를 연주한다는 사실만으로 글램 록에 포함되지는 않는다.\n\n이처럼 음악적 복고와 [[시각]]적 공연 양식이 함께 작동한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

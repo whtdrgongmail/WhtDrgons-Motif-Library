@@ -5,8 +5,8 @@
   "original": "Level-Up Adds the Health Increase",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02089",
+  "primary_tag_id": "ML-T02089",
   "description": {
     "definition": "레벨 상승으로 증가한 최대 체력만큼 현재 체력에도 더한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "최대 체력이 늘어난 수치만큼 현재 체력에도 더한다. 성장의 이익이 회복으로 반영되지만 남아 있던 손실은 완전히 사라지지 않는다.\n\n새 상한까지 부족한 절대량을 유지하면서 사용할 체력은 늘어난다. 회복과 성장의 효과를 연결하되 전투의 소모를 일부 보존하는 규칙이다.\n\n완전 회복이나 체력 비율 유지와 다르다. 계산의 기준은 새 최대치 전체가 아니라 최대치의 증가분이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "최대 체력이 늘어난 수치만큼 현재 체력에도 더한다. 성장의 이익이 회복으로 반영되지만 남아 있던 손실은 완전히 사라지지 않는다.\n\n새 상한까지 부족한 절대량을 유지하면서 사용할 체력은 늘어난다. 회복과 성장의 효과를 연결하되 전투의 소모를 일부 보존하는 규칙이다.\n\n완전 회복이나 체력 비율 유지와 다르다. 계산의 기준은 새 최대치 전체가 아니라 최대치의 증가분이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

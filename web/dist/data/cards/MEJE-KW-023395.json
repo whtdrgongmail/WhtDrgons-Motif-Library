@@ -4,8 +4,8 @@
   "title": "긴 꼬리로 후려치기",
   "original": "Tail Slap",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00776",
+  "primary_tag_id": "ML-T00776",
   "description": {
     "definition": "긴 꼬리를 휘둘러 상대나 주변 구조물을 직접 때리는 공격이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "꼬리가 닿거나 끌리는 것만으로 성립하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "긴 꼬리를 휘둘러 타격하면 팔과 별개로 뒤쪽과 옆쪽을 공격할 수 있는 자연 무기가 된다. 꼬리가 있다는 사실만으로 성립하지는 않고 힘과 유연성을 실제 공격에 사용하는 장면이 필요하다. 독침이나 별도의 무기를 꼬리 끝에 다는 방식과는 공격을 만드는 주된 요소가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "긴 꼬리를 휘둘러 타격하면 팔과 별개로 뒤쪽과 옆쪽을 공격할 수 있는 자연 무기가 된다. 꼬리가 있다는 사실만으로 성립하지는 않고 힘과 유연성을 실제 공격에 사용하는 장면이 필요하다. 독침이나 별도의 무기를 꼬리 끝에 다는 방식과는 공격을 만드는 주된 요소가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

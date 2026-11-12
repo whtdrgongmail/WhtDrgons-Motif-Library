@@ -4,8 +4,8 @@
   "title": "무죄 결론을 정해 놓은 형식적 재판",
   "original": "Reverse Kangaroo Court",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01347",
+  "primary_tag_id": "ML-T01347",
   "description": {
     "definition": "권력·연줄·뇌물·차별 등의 이유로 피고를 풀어 주기로 정한 채 재판 절차를 형식적으로 진행한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제로 죄가 없음을 확인해 무죄가 되는 절차와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "피고를 풀어 주겠다는 결론이 먼저 정해져 있고 재판은 이를 공적으로 확인하는 형식이 된다. 증거와 심리가 결론을 정하기보다 이미 있는 권력의 선택을 꾸민다.\n\n절차의 외형이 유지될수록 부당한 결정도 정당한 결과처럼 보일 수 있다. 주변 인물이 결론을 알고 어떻게 증언하고 침묵하는지 보여 주면 재판의 문제는 개인의 연줄을 넘어 협조 구조로 드러난다.\n\n실제로 무죄임을 확인한 재판과는 다르다. 무죄 판결만 보고 부패를 추정할 수 없으며 결과보다 결론이 고정된 과정의 근거가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "피고를 풀어 주겠다는 결론이 먼저 정해져 있고 재판은 이를 공적으로 확인하는 형식이 된다. 증거와 심리가 결론을 정하기보다 이미 있는 권력의 선택을 꾸민다.\n\n절차의 외형이 유지될수록 부당한 결정도 정당한 결과처럼 보일 수 있다. 주변 인물이 결론을 알고 어떻게 증언하고 침묵하는지 보여 주면 재판의 문제는 개인의 연줄을 넘어 협조 구조로 드러난다.\n\n실제로 무죄임을 확인한 재판과는 다르다. 무죄 판결만 보고 부패를 추정할 수 없으며 결과보다 결론이 고정된 과정의 근거가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

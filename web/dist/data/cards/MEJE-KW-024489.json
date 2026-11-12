@@ -5,8 +5,8 @@
   "original": "A Long Song Built from a Short Refrain",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02026",
+  "primary_tag_id": "ML-T02026",
   "description": {
     "definition": "짧은 가사 묶음을 여러 번 반복하여 충분한 길이의 노래를 구성한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "긴 무가사 연주 위주의 구성과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "짧은 가사 묶음을 여러 번 반복하여 긴 노래를 만든다. 이야기 정보의 증가보다 익숙한 말이 음악의 시간 속에서 다시 들리는 경험이 중심이다.\n\n같은 문장도 반주와 강세가 바뀌면 다른 감정을 만들 수 있다. 반복이 관객의 기억과 참여를 돕는 한편 변화가 부족하면 길이의 부담이 커질 수 있다.\n\n가사 사이에 긴 연주가 이어지는 곡과는 배치가 다르다. 짧은 가사를 썼다는 사실만으로 단순한 구성은 아니며 반복 중 무엇이 달라지는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "짧은 가사 묶음을 여러 번 반복하여 긴 노래를 만든다. 이야기 정보의 증가보다 익숙한 말이 음악의 시간 속에서 다시 들리는 경험이 중심이다.\n\n같은 문장도 반주와 강세가 바뀌면 다른 감정을 만들 수 있다. 반복이 관객의 기억과 참여를 돕는 한편 변화가 부족하면 길이의 부담이 커질 수 있다.\n\n가사 사이에 긴 연주가 이어지는 곡과는 배치가 다르다. 짧은 가사를 썼다는 사실만으로 단순한 구성은 아니며 반복 중 무엇이 달라지는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

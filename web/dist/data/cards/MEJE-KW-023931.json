@@ -4,8 +4,8 @@
   "title": "제작을 쉽게 하는 시각적 단순화",
   "original": "Lazy Artist",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "장면을 그리거나 움직이는 데 필요한 작업을 줄이기 위해 형태·동작·배경의 세부를 생략하거나 재사용하는 제작 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "이 방식만으로 제작자의 게으름을 단정하지 않는다. 의도한 미학이나 자원 배분도 원인이 될 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "형태와 동작, 배경의 세부를 줄이거나 재사용해 제작 부담을 낮추는 시각적 표현 방식이다. 필요한 곳에 시간과 자원을 집중할 수 있게 한다.\n\n단순한 형태는 여러 장면에서 일관되게 그리기 쉽고 관객이 빠르게 알아보게 한다. 정교한 장면과 대비해 중요한 동작에 작업량을 더 배분하는 선택도 가능하다.\n\n단순해 보인다는 이유만으로 게으른 제작이라고 판단할 수는 없다. 예산과 일정, 의도한 문체와 가독성 등 여러 조건이 결과를 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "형태와 동작, 배경의 세부를 줄이거나 재사용해 제작 부담을 낮추는 시각적 표현 방식이다. 필요한 곳에 시간과 자원을 집중할 수 있게 한다.\n\n단순한 형태는 여러 장면에서 일관되게 그리기 쉽고 관객이 빠르게 알아보게 한다. 정교한 장면과 대비해 중요한 동작에 작업량을 더 배분하는 선택도 가능하다.\n\n단순해 보인다는 이유만으로 게으른 제작이라고 판단할 수는 없다. 예산과 일정, 의도한 문체와 가독성 등 여러 조건이 결과를 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

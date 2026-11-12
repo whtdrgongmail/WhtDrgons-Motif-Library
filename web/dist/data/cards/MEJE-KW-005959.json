@@ -4,8 +4,8 @@
   "title": "컨트리 랩",
   "original": "Country Rap",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00534",
+  "primary_tag_id": "ML-T00534",
   "description": {
     "definition": "[[컨트리]] 음악의 악기와 이야기 방식에 힙합의 리듬과 랩을 섞는 장르다. 두 음악 문화가 만나는 방식에 따라 곡의 무게중심이 달라진다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.305.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "컨트리 랩은 컨트리 음악의 악기·서사 관습과 힙합의 비트·랩 전달 방식을 결합하는 음악적 교차 장르다. 두 전통의 결합 비중과 제작 방식에 따라 소리가 달라진다.\n\n가사 주제, 리듬 구조, 악기 편성, 보컬 전달법을 함께 비교해야 [[장르]] 혼합의 성격이 드러난다. 랩이 잠깐 삽입되거나 컨트리 악기가 배경에 쓰였다는 사실만으로 전체 곡을 이 갈래로 분류하기 어렵다.\n\n장르 명칭은 음악 산업과 청중의 사용에 따라 변할 수 있다. 분석에서는 인종·지역·계급을 둘러싼 음악 문화의 맥락을 고려하고, 두 장르를 단일한 소리로 고정하지 않는다.\n\n가상 예시: 가수는 밴조와 페달 스틸 기타 위에 힙합 드럼을 얹고, 벌스에서는 랩으로 농촌 노동자의 이주 경험을 이야기한다. 후렴은 컨트리식 멜로디로 구성된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "컨트리 랩은 컨트리 음악의 악기·서사 관습과 힙합의 비트·랩 전달 방식을 결합하는 음악적 교차 장르다. 두 전통의 결합 비중과 제작 방식에 따라 소리가 달라진다.\n\n가사 주제, 리듬 구조, 악기 편성, 보컬 전달법을 함께 비교해야 [[장르]] 혼합의 성격이 드러난다. 랩이 잠깐 삽입되거나 컨트리 악기가 배경에 쓰였다는 사실만으로 전체 곡을 이 갈래로 분류하기 어렵다.\n\n장르 명칭은 음악 산업과 청중의 사용에 따라 변할 수 있다. 분석에서는 인종·지역·계급을 둘러싼 음악 문화의 맥락을 고려하고, 두 장르를 단일한 소리로 고정하지 않는다."
+      ],
+      [
+        "사례",
+        "가상 예시: 가수는 밴조와 페달 스틸 기타 위에 힙합 드럼을 얹고, 벌스에서는 랩으로 농촌 노동자의 이주 경험을 이야기한다. 후렴은 컨트리식 멜로디로 구성된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

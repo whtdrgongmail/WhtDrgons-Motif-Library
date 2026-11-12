@@ -2,24 +2,69 @@
   "id": "MM-MEDIA-003562",
   "kind": "work",
   "title": "필라스 오브 이터니티",
-  "original": "",
+  "original": "Pillars of Eternity",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00076",
+  "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "",
+    "definition": "《필라스 오브 이터니티》는 옵시디언 엔터테인먼트가 제작한 판타지 역할수행 비디오게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.016",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "여러 동료와 함께 판타지 세계를 탐험하며 인물의 종족과 직업을 골라 성장시키는 게임이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000163",
+      "card_id": "MM-MEDIA-003562",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.obsidian.net/games/pillars-of-eternity",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "플레이어는 한 명의 주인공을 만들고 [[동료]]들과 함께 지역과 던전을 탐험한다. 공식 소개가 강조하는 것은 이동 경로와 세력에 대한 선택이 뒤의 결과에 영향을 준다는 점이다. 탐험은 보물과 비밀을 찾는 활동인 동시에, 어떤 관계와 입장을 형성할지 정하는 과정이다.\n\n인간·아우마우아·드워프·엘프·갓라이크·올란의 여섯 종족과 열한 직업은 캐릭터를 구성하는 서로 다른 축이다. 종족과 직업을 구분하면 외형과 출신만으로 역할을 결정하지 않고, 한 범주 안에서도 여러 방식으로 인물을 만들 수 있다. 일부 종족 안의 하위 계통은 큰 범주를 유지하면서 세부적인 차이를 선택하게 한다.\n\n은신·운동·지식·기계·생존의 다섯 핵심 기술도 별도의 대응 수단을 제공한다. 전투 역할만으로 인물의 활용을 설명하지 않고 상황을 해결하는 방법을 함께 구분하는 구조다. 세력과의 평판은 이러한 행동과 [[선택]]을 관계의 결과로 이어 주므로 캐릭터 생성 이후의 결정도 중요하게 남는다.\n\n[[특화된 하위 종족으로 선택지를 늘리기]]는 이 작품의 종족 선택을 설명하는 연결 항목이다. 종족을 전부 새로운 큰 범주로 늘리는 대신 계통 내부의 차이를 고르게 한다. 설정상의 분류가 플레이어가 실제로 선택하는 항목으로 구현된 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플레이어는 한 명의 주인공을 만들고 [[동료]]들과 함께 지역과 던전을 탐험한다. 공식 소개가 강조하는 것은 이동 경로와 세력에 대한 선택이 뒤의 결과에 영향을 준다는 점이다. 탐험은 보물과 비밀을 찾는 활동인 동시에, 어떤 관계와 입장을 형성할지 정하는 과정이다.\n\n인간·아우마우아·드워프·엘프·갓라이크·올란의 여섯 종족과 열한 직업은 캐릭터를 구성하는 서로 다른 축이다. 종족과 직업을 구분하면 외형과 출신만으로 역할을 결정하지 않고, 한 범주 안에서도 여러 방식으로 인물을 만들 수 있다. 일부 종족 안의 하위 계통은 큰 범주를 유지하면서 세부적인 차이를 선택하게 한다.\n\n은신·운동·지식·기계·생존의 다섯 핵심 기술도 별도의 대응 수단을 제공한다. 전투 역할만으로 인물의 활용을 설명하지 않고 상황을 해결하는 방법을 함께 구분하는 구조다. 세력과의 평판은 이러한 행동과 [[선택]]을 관계의 결과로 이어 주므로 캐릭터 생성 이후의 결정도 중요하게 남는다."
+      ],
+      [
+        "관련 작품",
+        "[[특화된 하위 종족으로 선택지를 늘리기]]는 이 작품의 종족 선택을 설명하는 연결 항목이다. 종족을 전부 새로운 큰 범주로 늘리는 대신 계통 내부의 차이를 고르게 한다. 설정상의 분류가 플레이어가 실제로 선택하는 항목으로 구현된 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

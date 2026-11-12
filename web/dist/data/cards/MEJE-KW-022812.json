@@ -4,8 +4,8 @@
   "title": "과장된 표현의 인물들이 모인 팀",
   "original": "The Ham Squad",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01002",
+  "primary_tag_id": "ML-T01002",
   "description": {
     "definition": "대사와 몸짓이 유난히 극적인 인물들이 일시적으로 만나는 데 그치지 않고 지속적인 집단으로 활동하는 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "한 장면에서만 과장 연기를 주고받는 대결이나 작품의 모든 인물이 같은 스타일인 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.004.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "말과 몸짓이 유난히 극적인 인물들이 지속적인 팀으로 활동하는 구성이다. 한 사람의 과장보다 서로 맞물리는 집단의 에너지가 중심이 된다.\n\n각자가 크게 선언하고 반응하면 짧은 소개도 공연처럼 확대된다. 침착한 인물을 한 명 두면 주변의 과장이 더 뚜렷해지고 그 인물의 피로가 추가 농담이 된다.\n\n작품 전체가 같은 수준으로 과장된 경우와는 대비가 다르다. 팀이 주변 인물보다도 두드러진 표현을 지속적으로 보이는지가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "말과 몸짓이 유난히 극적인 인물들이 지속적인 팀으로 활동하는 구성이다. 한 사람의 과장보다 서로 맞물리는 집단의 에너지가 중심이 된다.\n\n각자가 크게 선언하고 반응하면 짧은 소개도 공연처럼 확대된다. 침착한 인물을 한 명 두면 주변의 과장이 더 뚜렷해지고 그 인물의 피로가 추가 농담이 된다.\n\n작품 전체가 같은 수준으로 과장된 경우와는 대비가 다르다. 팀이 주변 인물보다도 두드러진 표현을 지속적으로 보이는지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

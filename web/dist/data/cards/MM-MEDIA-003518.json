@@ -2,24 +2,73 @@
   "id": "MM-MEDIA-003518",
   "kind": "work",
   "title": "Hothouse",
-  "original": "",
+  "original": "Hothouse",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00067",
+  "primary_tag_id": "ML-T00067",
   "description": {
-    "definition": "",
+    "definition": "《Hothouse》는 브라이언 올디스가 미래의 지구와 식물이 우세한 생태계를 그린 소설이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.007.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "미래 지구에서 거대한 식물과 생물들이 살아가는 모습을 그린 소설이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000133",
+      "card_id": "MM-MEDIA-003518",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://brianaldiss.co.uk/writing/novels/novels-h-l/hothouse/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "브라이언 올디스의 《Hothouse》는 태양이 수명을 다해 가는 먼 미래의 지구를 배경으로 한다. 지구의 햇빛이 드는 면에는 거대한 나무가 번성하고, 지표와 달을 잇는 생물 및 다양한 식물 종이 인간을 압도한다. 이 설정은 익숙한 인간 중심 환경을 식물 중심의 생태 조건으로 바꾼 미래 지구의 사례다.\n\n주인공 그렌과 야트무르는 생존을 위해 식물과 공생하거나 대립해야 하는 환경을 이동한다. 작품의 거대 식물은 단순한 배경 장식이 아니라 이동 경로와 생존 조건을 결정하는 존재다. 따라서 작품을 식물형 괴물 하나의 사례로 축소하기보다 생태계 전체가 재구성된 설정으로 이해하는 편이 정확하다.\n\n브라이언 올디스의 공식 소개에 따르면 이 작품은 단편 연작으로 먼저 발표됐고 1962년에 단행본 초판이 나왔다. 이 카드는 그 소설을 가리키며 같은 제목의 다른 매체 작품과 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "브라이언 올디스의 《Hothouse》는 태양이 수명을 다해 가는 먼 미래의 지구를 배경으로 한다. 지구의 햇빛이 드는 면에는 거대한 나무가 번성하고, 지표와 달을 잇는 생물 및 다양한 식물 종이 인간을 압도한다. 이 설정은 익숙한 인간 중심 환경을 식물 중심의 생태 조건으로 바꾼 미래 지구의 사례다."
+      ],
+      [
+        "사례",
+        "주인공 그렌과 야트무르는 생존을 위해 식물과 공생하거나 대립해야 하는 환경을 이동한다. 작품의 거대 식물은 단순한 배경 장식이 아니라 이동 경로와 생존 조건을 결정하는 존재다. 따라서 작품을 식물형 괴물 하나의 사례로 축소하기보다 생태계 전체가 재구성된 설정으로 이해하는 편이 정확하다."
+      ],
+      [
+        "관련 작품",
+        "브라이언 올디스의 공식 소개에 따르면 이 작품은 단편 연작으로 먼저 발표됐고 1962년에 단행본 초판이 나왔다. 이 카드는 그 소설을 가리키며 같은 제목의 다른 매체 작품과 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

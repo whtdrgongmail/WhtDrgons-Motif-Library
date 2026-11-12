@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "붕괴: 스타레일",
   "original": "Honkai: Star Rail",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Honkai: Star Rail"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《붕괴: 스타레일》은 비디오게임이다.",
-    "detail": "작품 사례: 《붕괴: 스타레일》의 게파드는 꽃을 기르는 취미가 있지만 자신이 그 일에 능숙하지 않다고 인정한다. 식물에 대한 관심과 재배 실력이 어긋나는 완화된 사례이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-013956",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-016259",
       "row_version": 1
     },
@@ -47,5 +53,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미호요가 개발한 [[턴제 전투]] 역할수행게임으로, 우주를 달리는 열차와 여러 세계의 여행을 중심에 둔다. 플레이어는 행성을 위협할 수 있는 스텔라론을 몸에 지닌 개척자로 깨어난다.\n\n자신의 기원과 목적이 불분명한 인물은 은하열차의 동료들과 만난다. 서로 다른 세계의 위기와 질서를 경험하면서 개인적인 수수께끼와 우주적인 세력들의 갈등이 병행된다.\n\n과학적인 장비와 신화적인 힘이 함께 존재하는 우주 판타지의 형식이다. 전투에서는 동료의 역할과 행동 순서를 조합하는 판단이 중요하며, 같은 붕괴 작품군에 속한다는 이유로 모든 인물과 사건을 하나의 동일한 세계로 간주해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미호요가 개발한 [[턴제 전투]] 역할수행게임으로, 우주를 달리는 열차와 여러 세계의 여행을 중심에 둔다. 플레이어는 행성을 위협할 수 있는 스텔라론을 몸에 지닌 개척자로 깨어난다.\n\n자신의 기원과 목적이 불분명한 인물은 은하열차의 동료들과 만난다. 서로 다른 세계의 위기와 질서를 경험하면서 개인적인 수수께끼와 우주적인 세력들의 갈등이 병행된다.\n\n과학적인 장비와 신화적인 힘이 함께 존재하는 우주 판타지의 형식이다. 전투에서는 동료의 역할과 행동 순서를 조합하는 판단이 중요하며, 같은 붕괴 작품군에 속한다는 이유로 모든 인물과 사건을 하나의 동일한 세계로 간주해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

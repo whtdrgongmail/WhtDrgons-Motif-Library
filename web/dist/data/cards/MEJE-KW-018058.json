@@ -4,8 +4,8 @@
   "title": "자기 위협을 막아 준다며 보호비 받기",
   "original": "Protection Racket",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00766",
+  "primary_tag_id": "ML-T00766",
   "description": {
     "definition": "폭력을 행사할 수 있는 집단이 그 폭력으로부터 지켜 주겠다는 명목으로 돈이나 복종을 요구하는 갈취 방식이다. 보호를 거절할 때의 위험도 보호를 제안한 쪽이 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "외부의 실제 위협에 대응하는 합법적 경비 서비스와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.004.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위협을 만들 수 있는 집단이 바로 그 위협을 막아 준다며 대가를 요구한다. 거절하면 제안자가 피해를 가하므로 보호와 가해가 같은 주체에게 묶인다.\n\n반복되는 지불은 안전을 구매하는 선택처럼 보이지만 실제로는 강제된 복종을 유지한다. 별개의 외부 위협에 대응하는 경비 서비스와 구조가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위협을 만들 수 있는 집단이 바로 그 위협을 막아 준다며 대가를 요구한다. 거절하면 제안자가 피해를 가하므로 보호와 가해가 같은 주체에게 묶인다.\n\n반복되는 지불은 안전을 구매하는 선택처럼 보이지만 실제로는 강제된 복종을 유지한다. 별개의 외부 위협에 대응하는 경비 서비스와 구조가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Automation Makes the Product Worse",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00715",
+  "primary_tag_id": "ML-T00715",
   "description": {
     "definition": "정성 들여 만들던 생산을 기계·[[로봇]]·[[마법]]으로 대체한 뒤 물건의 질이 나빠지거나 자동화 수단이 위험해져 기존 방식의 가치를 드러내는 전개다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "자동화가 언제나 실패한다는 사실 주장 대신 작품이 그 [[인과]]를 채택한 구성으로 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "06.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정성을 들이던 수작업을 자동화한 뒤 품질이 떨어지거나 자동화 수단이 위험해진다. 효율을 얻으려던 변화가 기존 방식의 가치를 드러내는 실패로 이어진다.\n\n생산량이나 속도와 품질, 돌봄의 관계가 사건으로 제시된다. 기계나 로봇, 마법 가운데 무엇을 썼든 대체 이후의 악화가 이야기의 인과를 만든다.\n\n모든 자동화가 실패한다는 현실의 법칙은 아니다. 해당 작품이 생산 방식의 변경과 실패를 어떻게 연결했는지에 한정해 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정성을 들이던 수작업을 자동화한 뒤 품질이 떨어지거나 자동화 수단이 위험해진다. 효율을 얻으려던 변화가 기존 방식의 가치를 드러내는 실패로 이어진다.\n\n생산량이나 속도와 품질, 돌봄의 관계가 사건으로 제시된다. 기계나 로봇, 마법 가운데 무엇을 썼든 대체 이후의 악화가 이야기의 인과를 만든다.\n\n모든 자동화가 실패한다는 현실의 법칙은 아니다. 해당 작품이 생산 방식의 변경과 실패를 어떻게 연결했는지에 한정해 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

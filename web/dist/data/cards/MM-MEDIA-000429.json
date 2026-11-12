@@ -4,17 +4,17 @@
   "title": "Heroes of Might and Magic",
   "original": "Heroes of Might and Magic",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "이 카드는 비디오게임 《Heroes of Might and Magic》를 가리킨다. 이 라이브러리에서는 [[유니콘으로 나타내는 왕권과 귀족성]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Heroes of Might and Magic의 유니콘 공국은 유니콘 문장을 쓰는 가문이 다스리며, 그리핀 왕통이 무너진 뒤 새 황실이 된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Heroes of Might and Magic》은 New World Computing에서 시작한 턴제 전략 게임 연작이다. 도시를 발전시키고 영웅을 통해 병력을 운용하는 방식으로 전쟁을 진행한다.\n\n도시의 건물은 생물 모집과 주문 학습, 자원 거래를 가능하게 한다. 영웅은 지도에서 자원과 유물을 얻고 전투 경험으로 성장하며 목표 지점을 점령한다.\n\n전투에서는 격자 공간의 생물 부대가 번갈아 행동한다. 같은 종류의 생물을 묶는 부대 구성과 제한된 슬롯 때문에 수량과 조합을 함께 고려해야 하며, 경제와 탐험이 전투 준비에 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Heroes of Might and Magic》은 New World Computing에서 시작한 턴제 전략 게임 연작이다. 도시를 발전시키고 영웅을 통해 병력을 운용하는 방식으로 전쟁을 진행한다.\n\n도시의 건물은 생물 모집과 주문 학습, 자원 거래를 가능하게 한다. 영웅은 지도에서 자원과 유물을 얻고 전투 경험으로 성장하며 목표 지점을 점령한다.\n\n전투에서는 격자 공간의 생물 부대가 번갈아 행동한다. 같은 종류의 생물을 묶는 부대 구성과 제한된 슬롯 때문에 수량과 조합을 함께 고려해야 하며, 경제와 탐험이 전투 준비에 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

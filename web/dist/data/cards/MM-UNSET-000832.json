@@ -1,0 +1,47 @@
+{
+  "id": "MM-UNSET-000832",
+  "kind": "keyword",
+  "title": "영상 저장",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F27",
+  "description": {
+    "definition": "움직이는 영상의 정보를 기록 매체나 파일 등의 형태로 남겨 이후 재생할 수 있게 하는 일.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "27",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "지금 보는 화면을 나중에 다시 재생할 수 있는 기록으로 보관하는 것이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "영상 저장에서 기록된 자료의 형태와 실제 표시되는 화면의 형태는 항상 같지 않을 수 있다. 재생 단계에서 정해진 규칙에 따라 비율을 복원하는 경우에는 저장 상태만 보고 최종 구도를 판단하기 어렵다.\n\n[[압축 저장한 와이드 영상을 화면비에 맞춰 복원하기]]는 가로 방향으로 압축한 영상을 재생할 때 다시 펼친다. 이 문맥의 압축은 화면 형태의 처리이므로, 파일의 용량을 줄이는 다른 압축 방식과 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영상 저장에서 기록된 자료의 형태와 실제 표시되는 화면의 형태는 항상 같지 않을 수 있다. 재생 단계에서 정해진 규칙에 따라 비율을 복원하는 경우에는 저장 상태만 보고 최종 구도를 판단하기 어렵다.\n\n[[압축 저장한 와이드 영상을 화면비에 맞춰 복원하기]]는 가로 방향으로 압축한 영상을 재생할 때 다시 펼친다. 이 문맥의 압축은 화면 형태의 처리이므로, 파일의 용량을 줄이는 다른 압축 방식과 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

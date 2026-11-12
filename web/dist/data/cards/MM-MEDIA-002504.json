@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "해피 프렌즈",
   "original": "Happy Friends",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Happy Friends"
+  ],
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "《해피 프렌즈》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《해피 프렌즈》의 퀴즈 쇼 에피소드에서 마지막 문제에 이른 참가자는 친구에게 전화해 답을 묻는 도움을 선택한다. 혼자 풀기 어려운 순간에 외부의 지식을 빌리는 구조다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -38,6 +40,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-012184",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014789",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-022600",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-024335",
       "row_version": 1
@@ -75,5 +89,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《해피 프렌즈》에는 퀴즈 쇼를 소재로 삼은 에피소드가 있다. 마지막 문제에 도달한 참가자가 도움 기능을 사용하는 상황을 보여 준다. 어린 초인들이 행성의 일상과 침략의 위협에 대응하는 중국 애니메이션이다.\n\n참가자는 친구에게 전화하여 정답에 대한 도움을 요청한다. 현장에 없는 사람의 지식을 자신의 문제 풀이에 끌어오는 선택이다. 퀴즈의 답을 외부 친구에게서 구하는 선택은 참가자 자신의 지식과 지원망의 지식을 다른 자원으로 사용한다.\n\n혼자 알고 있는 정보만으로 해결하는 시험과 달리 외부 조언이 결과에 개입한다. 도움을 청하는 시점이 마지막 문제라는 점에서 선택의 긴장도 높아진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《해피 프렌즈》에는 퀴즈 쇼를 소재로 삼은 에피소드가 있다. 마지막 문제에 도달한 참가자가 도움 기능을 사용하는 상황을 보여 준다. 어린 초인들이 행성의 일상과 침략의 위협에 대응하는 중국 애니메이션이다.\n\n참가자는 친구에게 전화하여 정답에 대한 도움을 요청한다. 현장에 없는 사람의 지식을 자신의 문제 풀이에 끌어오는 선택이다. 퀴즈의 답을 외부 친구에게서 구하는 선택은 참가자 자신의 지식과 지원망의 지식을 다른 자원으로 사용한다.\n\n혼자 알고 있는 정보만으로 해결하는 시험과 달리 외부 조언이 결과에 개입한다. 도움을 청하는 시점이 마지막 문제라는 점에서 선택의 긴장도 높아진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

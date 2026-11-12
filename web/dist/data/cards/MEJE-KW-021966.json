@@ -4,8 +4,8 @@
   "title": "통과할 수 있는 가짜 벽",
   "original": "Illusory Walls",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02084",
+  "primary_tag_id": "ML-T02084",
   "description": {
     "definition": "단단한 벽처럼 보이지만 충돌 판정이 없어 캐릭터가 그대로 지나갈 수 있는 게임 공간의 장치다.",
     "detail": "시각적으로 막혀 있다는 정보와 실제 이동 가능 여부가 반대다.",
@@ -13,10 +13,10 @@
     "boundary": "투명하지만 이동을 막는 벽이나 공격해서 부수어야 하는 벽과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.002.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "벽의 외형은 통행을 막는다고 알려 주지만 실제 충돌 규칙은 이동을 허용한다. 시각적인 정보와 물리적인 동작이 반대가 된다.\n\n플레이어는 보이는 지형을 그대로 믿지 않고 탐색해야 숨은 길을 찾을 수 있다. 벽의 발견은 새로운 장비보다 공간에 대한 가정을 바꾸는 경험이다.\n\n보이지 않는데 이동을 막는 벽과는 반대이다. 파괴한 뒤 통과하는 벽도 처음 상태에서는 실제 장애라는 점에서 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "벽의 외형은 통행을 막는다고 알려 주지만 실제 충돌 규칙은 이동을 허용한다. 시각적인 정보와 물리적인 동작이 반대가 된다.\n\n플레이어는 보이는 지형을 그대로 믿지 않고 탐색해야 숨은 길을 찾을 수 있다. 벽의 발견은 새로운 장비보다 공간에 대한 가정을 바꾸는 경험이다.\n\n보이지 않는데 이동을 막는 벽과는 반대이다. 파괴한 뒤 통과하는 벽도 처음 상태에서는 실제 장애라는 점에서 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

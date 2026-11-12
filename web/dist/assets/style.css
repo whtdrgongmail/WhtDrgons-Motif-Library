@@ -132,19 +132,17 @@ html[data-theme=dark] .meje-brand img{filter:none}
 .site-version:hover,.site-version:focus-visible{color:var(--green);text-decoration:underline}
 @media(max-width:800px){.site-footer>.footer-identity{flex-basis:100%}}
 
-/* Korean card titles keep their compact layout while showing an English companion. */
+/* Catalog thumbnails show only the title and tags; the article retains the original term. */
 .motif-card .thumb-title{margin-bottom:0}
-.thumb-original{font-size:11px;line-height:1.4;color:var(--text-muted);margin:6px 0 0;overflow:hidden;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow-wrap:anywhere}
 .motif-card .thumb-tags{margin-top:auto;padding-top:16px}
 .original-provenance{display:inline-block;margin-right:8px;font-size:11px;font-weight:600;vertical-align:2px;color:var(--text-subtle)}
-@media(max-width:540px){.thumb-original{font-size:9px;line-height:1.35}.motif-card .thumb-tags{padding-top:12px}}
+@media(max-width:540px){.motif-card .thumb-tags{padding-top:12px}}
 
 /* Long-form reading area and four app-like external links. */
 .longform-article{margin:34px 0 0;padding-top:26px;border-top:1px solid var(--line)}
 .longform-article h3{font-size:19px;font-weight:650;letter-spacing:-.4px;margin:0 0 22px}
 .longform-article p{font-size:16px;line-height:1.9;word-break:keep-all;overflow-wrap:anywhere;margin:0 0 18px}
 .longform-article p:last-child{margin-bottom:0}
-.review-draft-label{display:inline-block;vertical-align:middle;margin-left:8px;padding:2px 7px;border:1px solid var(--line);border-radius:999px;color:var(--muted);font-size:11px;font-weight:500;letter-spacing:0}
 .reference-links{grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
 .reference-links li{border:1px solid var(--line);border-radius:18px;background:var(--surface);padding:18px 12px 15px;text-align:center;min-width:0}
 .reference-links li a.reference-app{display:flex;flex-direction:column;justify-content:flex-start;align-items:center;gap:7px;min-height:100px;color:var(--ink)}
@@ -157,3 +155,16 @@ html[data-theme=dark] .meje-brand img{filter:none}
 .reference-links li p{font-size:11px;line-height:1.5;margin:9px 0 0;color:var(--text-muted)}
 @media(max-width:700px){.reference-links{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:540px){.longform-article p{font-size:14px;line-height:1.85}.reference-links li{padding:15px 8px}.reference-icon{width:42px;height:42px;border-radius:13px}.reference-icon svg{width:22px;height:22px}}
+
+/* The side rail carries the facet and branch colors on both card sizes. */
+.motif-card.concept-card,.detail-cover-card.concept-cover-card{border-left:3px solid var(--accent);background:color-mix(in srgb,var(--card) 82%,#e9d8bd)}
+.motif-card.work-card,.detail-cover-card.work-cover-card{background:color-mix(in srgb,var(--card) 76%,#d5e8f5);border-left:4px solid var(--tab)}
+.motif-card.concept-card,.motif-card.work-card{position:relative;overflow:hidden}
+.motif-card.concept-card:before,.motif-card.work-card:before,.detail-cover-card.concept-cover-card:before,.detail-cover-card.work-cover-card:before{content:'';position:absolute;left:7px;top:13px;bottom:13px;width:2px;border-radius:2px;background:linear-gradient(to bottom,var(--accent) 0 62%,var(--tab) 62% 100%);opacity:.72;pointer-events:none}
+.detail-cover-card.concept-cover-card:before,.detail-cover-card.work-cover-card:before{left:8px;top:16px;bottom:16px}
+.motif-card.work-card .thumb-mark{width:23px;height:23px;border:1px solid var(--accent);border-radius:7px;background:color-mix(in srgb,var(--accent) 18%,transparent);opacity:1}
+.motif-card.work-card .thumb-mark:after{content:'';display:block;width:9px;height:9px;margin:6px;border-radius:2px;background:var(--accent)}
+.motif-card .thumb-chip-primary{background:color-mix(in srgb,var(--accent) 22%,var(--card));border-left:2px solid var(--accent);color:var(--ink)}
+.motif-card .thumb-chip-applied{border-left:2px solid var(--tab);background:color-mix(in srgb,var(--tab) 16%,var(--card))}
+html[data-theme=dark] .motif-card.concept-card,html[data-theme=dark] .detail-cover-card.concept-cover-card{background:color-mix(in srgb,var(--card) 76%,#473c30)}
+html[data-theme=dark] .motif-card.work-card,html[data-theme=dark] .detail-cover-card.work-cover-card{background:color-mix(in srgb,var(--card) 76%,#20394c)}

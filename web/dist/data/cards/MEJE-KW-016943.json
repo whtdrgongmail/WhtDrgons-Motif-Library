@@ -4,8 +4,8 @@
   "title": "위기를 알리는 뉴스를 듣지 않고 지나치기",
   "original": "Ignored Vital News Reports",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01941",
+  "primary_tag_id": "ML-T01941",
   "description": {
     "definition": "뉴스가 닥쳐올 재난이나 위험을 이미 알리고 있는데 인물들이 일상에 몰두하거나 채널을 돌려 그 정보를 놓치는 구성이다.",
     "detail": "관객은 흘러나오는 뉴스로 위험을 먼저 알아차리고 인물의 평온함과 대비를 느낀다.\n\n작품 사례: 《[[새벽의 황당한 저주]]》에서 숀은 죽은 이들이 돌아온다는 방송을 채널을 바꾸며 흘려듣고, 눈앞의 위기를 알아차리지 못한다.",
@@ -13,19 +13,19 @@
     "boundary": "정보가 차단되었거나 언론 자체가 보도하지 않은 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "화면에서는 큰일이 났다는데 인물은 귀 기울이지 않는다.\n\n작품 사례: 《[[새벽의 황당한 저주]]》에서 숀은 죽은 이들이 돌아온다는 방송을 채널을 바꾸며 흘려듣고, 눈앞의 위기를 알아차리지 못한다.",
+    "easy_ko": "화면에서는 큰일이 났다는데 인물은 귀 기울이지 않는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위험 정보가 이미 방송되지만 인물이 듣지 않아 대응 기회를 놓친다. 관객은 보도를 이해하고 인물은 일상을 이어 가므로 정보 차이가 긴장과 반어를 만든다.\n\n정보가 차단되거나 언론이 보도하지 않은 경우와 다르다. 보도가 전달 가능한 상태였고 인물이 그것을 놓쳤다는 조건이 필요하다.\n\n《[[새벽의 황당한 저주]]》의 숀은 채널을 바꾸며 죽은 이들의 귀환 소식을 흘려듣는다. 방송의 경고와 눈앞의 평온한 행동이 대비된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위험 정보가 이미 방송되지만 인물이 듣지 않아 대응 기회를 놓친다. 관객은 보도를 이해하고 인물은 일상을 이어 가므로 정보 차이가 긴장과 반어를 만든다.\n\n정보가 차단되거나 언론이 보도하지 않은 경우와 다르다. 보도가 전달 가능한 상태였고 인물이 그것을 놓쳤다는 조건이 필요하다."
+      ],
+      [
+        "관련 작품",
+        "《[[새벽의 황당한 저주]]》의 숀은 채널을 바꾸며 죽은 이들의 귀환 소식을 흘려듣는다. 방송의 경고와 눈앞의 평온한 행동이 대비된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

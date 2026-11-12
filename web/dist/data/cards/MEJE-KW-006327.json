@@ -4,8 +4,8 @@
   "title": "수정구",
   "original": "Crystal Ball",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01482",
+  "primary_tag_id": "ML-T01482",
   "description": {
     "definition": "미래를 점치거나 먼 곳을 들여다보는 데 쓰는 둥근 유리 또는 수정 구체. 마법을 눈에 보이게 하는 소품이자 정보의 창으로 기능한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "빛나는 구체를 통해 미래와 먼 장소를 보거나 상대와 연락하는 마법 도구다. 투명한 수정구가 전형적이지만 재료와 크기는 다양하다.\n\n사용자가 표면을 바라보는 행동만으로 보이지 않는 정보에 접근한다는 것을 표현한다. 화면에 나타난 이미지가 진실인지 기만인지에 따라 지식과 유혹의 수단이 된다.\n\n모든 구형 마법 물체가 같은 기능을 갖는 것은 아니다. 예언과 원격 관측, 통신을 구분하고 도구가 알려 준 정보와 사용자의 해석도 별개로 보아야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "빛나는 구체를 통해 미래와 먼 장소를 보거나 상대와 연락하는 마법 도구다. 투명한 수정구가 전형적이지만 재료와 크기는 다양하다.\n\n사용자가 표면을 바라보는 행동만으로 보이지 않는 정보에 접근한다는 것을 표현한다. 화면에 나타난 이미지가 진실인지 기만인지에 따라 지식과 유혹의 수단이 된다.\n\n모든 구형 마법 물체가 같은 기능을 갖는 것은 아니다. 예언과 원격 관측, 통신을 구분하고 도구가 알려 준 정보와 사용자의 해석도 별개로 보아야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

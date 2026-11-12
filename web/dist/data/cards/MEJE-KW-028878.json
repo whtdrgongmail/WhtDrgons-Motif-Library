@@ -4,8 +4,8 @@
   "title": "대상을 잘못 알아보고 다른 사람을 죽이기",
   "original": "Murder by Mistake",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "특정인을 죽이려던 인물이 신원 착오 때문에 원래 목표가 아닌 사람을 살해하는 사건이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "낯선 피해자를 무작위로 고른 범행이나 대역임을 알고 죽인 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "살해하려던 대상의 신원을 잘못 알아 다른 사람을 죽인다. 의도한 표적과 실제 피해자가 분리된다.\n\n수사는 범행 동기가 피해자에게 맞지 않는 점에서 새 방향을 얻을 수 있다. 계획의 성공과 결과의 치명성은 다른 문제다.",
+    "sections": [
+      [
+        "상세 설명",
+        "살해하려던 대상의 신원을 잘못 알아 다른 사람을 죽인다. 의도한 표적과 실제 피해자가 분리된다.\n\n수사는 범행 동기가 피해자에게 맞지 않는 점에서 새 방향을 얻을 수 있다. 계획의 성공과 결과의 치명성은 다른 문제다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

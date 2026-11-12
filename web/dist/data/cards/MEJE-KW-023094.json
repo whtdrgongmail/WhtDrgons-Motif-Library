@@ -4,8 +4,8 @@
   "title": "극중 공간에서 발생하는 음악",
   "original": "Source Music",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02003",
+  "primary_tag_id": "ML-T02003",
   "description": {
     "definition": "관객이 듣는 음악의 연주자나 재생 장치가 이야기 속 공간에 존재하여 인물들도 들을 수 있는 음악이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "나중에 출처를 밝히는 반전은 필수가 아니며 관객만 듣는 배경음악과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "연주자와 재생 장치가 이야기 속 공간에 있어 인물도 들을 수 있는 음악이다. 관객만 듣는 일반 배경음악과 소리의 발생 위치가 다르다.\n\n라디오와 공연, 거리의 연주를 통해 장소의 분위기와 인물의 취향을 전달할 수 있다. 사건과 우연히 어울리는 곡을 선택하면 환경의 소리이면서 장면에 대한 논평으로도 기능한다.\n\n음악이 극적으로 잘 맞는다는 이유만으로 세계 밖의 소리라고 볼 수는 없다. 인물이 끄거나 연주를 멈출 때 어떻게 변하는지 등 발생원의 단서가 중요하며, 장면 중간에 배경음악으로 전환되는 변형도 가능하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "연주자와 재생 장치가 이야기 속 공간에 있어 인물도 들을 수 있는 음악이다. 관객만 듣는 일반 배경음악과 소리의 발생 위치가 다르다.\n\n라디오와 공연, 거리의 연주를 통해 장소의 분위기와 인물의 취향을 전달할 수 있다. 사건과 우연히 어울리는 곡을 선택하면 환경의 소리이면서 장면에 대한 논평으로도 기능한다.\n\n음악이 극적으로 잘 맞는다는 이유만으로 세계 밖의 소리라고 볼 수는 없다. 인물이 끄거나 연주를 멈출 때 어떻게 변하는지 등 발생원의 단서가 중요하며, 장면 중간에 배경음악으로 전환되는 변형도 가능하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "작은 생물들이 이루는 큰 몸",
   "original": "The Worm That Walks",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01156",
+  "primary_tag_id": "ML-T01156",
   "description": {
     "definition": "수많은 작은 생물이 공동의 통제 아래 모여 더 큰 생물 한 개체처럼 움직이는 설정이다.",
     "detail": "작품 사례: [[Dark Heresy]]의 바일 서번트는 방호복 속에 가득 모인 구더기와 오물로 몸을 이루고, 하나의 존재처럼 말하며 싸운다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 함께 이동하는 떼와 달리 전체가 한 몸의 형태와 기능을 갖는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작은 개체들이 모여 하나의 큰 몸의 윤곽과 기능을 만든다. 무리의 이동보다 전체가 한 존재로 말하거나 싸우는 행동이 강조되면 개별 생물은 신체의 구성 요소로 취급된다.\n\n단순히 같은 방향으로 이동하는 떼와는 조직 방식이 다르다. 정신을 공유한다는 조건과도 구분하여, 큰 몸의 형태와 통합된 기능이 실제로 존재하는지 확인해야 한다.\n\n《[[Dark Heresy]]》의 바일 서번트는 방호복 안에 모인 구더기와 오물로 몸을 이루지만 한 존재처럼 말하고 싸운다. 외피와 집합체가 하나의 인물로 작동한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작은 개체들이 모여 하나의 큰 몸의 윤곽과 기능을 만든다. 무리의 이동보다 전체가 한 존재로 말하거나 싸우는 행동이 강조되면 개별 생물은 신체의 구성 요소로 취급된다.\n\n단순히 같은 방향으로 이동하는 떼와는 조직 방식이 다르다. 정신을 공유한다는 조건과도 구분하여, 큰 몸의 형태와 통합된 기능이 실제로 존재하는지 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Dark Heresy]]》의 바일 서번트는 방호복 안에 모인 구더기와 오물로 몸을 이루지만 한 존재처럼 말하고 싸운다. 외피와 집합체가 하나의 인물로 작동한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

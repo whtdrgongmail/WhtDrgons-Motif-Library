@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "그랜드 테프트 오토 V",
   "original": "Grand Theft Auto V",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Grand Theft Auto V"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《그랜드 테프트 오토 V》는 비디오게임이다.",
-    "detail": "작품 사례: 《그랜드 테프트 오토 V》의 바인우드는 허영과 범죄가 얽힌 영화 산업의 공간으로 그려진다. 마이클이 관계를 맺는 제작자 솔로몬 리처즈도 지하세계 인물들과 얽혀 있다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014985",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-014146",
       "row_version": 1
     },
@@ -59,5 +65,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "록스타 노스의 오픈월드 액션 게임으로, 가상의 도시 로스 산토스와 주변 지역에서 세 범죄자의 이야기를 교차한다. 서로 다른 경력과 생활을 가진 주인공들이 같은 범행과 이해관계에 연결된다.\n\n인물 사이를 바꾸어 보는 구성은 도시의 다른 계층과 생활을 경험하게 한다. 협력해서 이익을 얻어야 하지만 성격과 기대가 달라, 범행의 준비와 실행만큼 동료를 믿을 수 있는지가 중요해진다.\n\n자유로운 이동과 별도의 활동은 주된 줄거리 밖에서도 풍자적인 도시를 관찰하게 한다. 이후 여러 기종으로 개정되면서 시각 및 기능에 차이가 생겼으므로, 단일 플레이 이야기와 온라인 콘텐츠의 변화도 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "록스타 노스의 오픈월드 액션 게임으로, 가상의 도시 로스 산토스와 주변 지역에서 세 범죄자의 이야기를 교차한다. 서로 다른 경력과 생활을 가진 주인공들이 같은 범행과 이해관계에 연결된다.\n\n인물 사이를 바꾸어 보는 구성은 도시의 다른 계층과 생활을 경험하게 한다. 협력해서 이익을 얻어야 하지만 성격과 기대가 달라, 범행의 준비와 실행만큼 동료를 믿을 수 있는지가 중요해진다.\n\n자유로운 이동과 별도의 활동은 주된 줄거리 밖에서도 풍자적인 도시를 관찰하게 한다. 이후 여러 기종으로 개정되면서 시각 및 기능에 차이가 생겼으므로, 단일 플레이 이야기와 온라인 콘텐츠의 변화도 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

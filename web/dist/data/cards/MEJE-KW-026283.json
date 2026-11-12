@@ -4,8 +4,8 @@
   "title": "미국 남성과 러시아 여성의 연애 구도",
   "original": "When Harry Met Svetlana",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "미국 출신 남성과 러시아 출신 여성을 연인으로 짝지어 국적과 문화 배경이 다른 관계를 구성한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "국적이 성격이나 [[갈등]]의 종류를 자동으로 결정한다고 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 나라의 인물이 사랑으로 만난다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미국 출신 남성과 러시아 출신 여성을 연인으로 배치하는 조합이다. 서로 다른 국적과 문화 경험이 인물 관계의 배경이 된다.\n\n언어와 생활 관습의 차이를 통해 교류와 오해를 표현할 수 있다. 다만 차이가 어떤 의미를 갖는지는 개별 인물의 경험에 달려 있다.\n\n국적만으로 성격과 갈등을 자동 결정하지 않는다. 반복되는 관습과 실제 사회의 다양성을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미국 출신 남성과 러시아 출신 여성을 연인으로 배치하는 조합이다. 서로 다른 국적과 문화 경험이 인물 관계의 배경이 된다.\n\n언어와 생활 관습의 차이를 통해 교류와 오해를 표현할 수 있다. 다만 차이가 어떤 의미를 갖는지는 개별 인물의 경험에 달려 있다.\n\n국적만으로 성격과 갈등을 자동 결정하지 않는다. 반복되는 관습과 실제 사회의 다양성을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

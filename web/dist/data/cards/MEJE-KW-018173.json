@@ -4,8 +4,8 @@
   "title": "악당이 영웅을 구해 주기",
   "original": "Villainous Rescue",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00782",
+  "primary_tag_id": "ML-T00782",
   "description": {
     "definition": "악역이 영웅을 위험에서 구조하며 그 구조 행위 자체에서는 악행을 저지르지 않는 상황이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "구조가 곧 완전한 개과천선이라는 뜻은 아니다. 구조를 가장한 즉각적인 가해와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역이 위험에 빠진 영웅을 구조하는 상황이다. 적이라는 기존 관계와 생존을 돕는 현재의 행동이 충돌해 동기를 다시 판단하게 한다.\n\n더 큰 공동의 적과 싸우거나 영웅을 직접 쓰러뜨릴 기회를 지키려 구조할 수 있다. 명예와 애정, 실용적인 계산 중 무엇이 이유인지에 따라 이후의 관계가 달라진다.\n\n구조 한 번이 곧 선한 편으로의 전향을 뜻하지 않는다. 동시에 실제로 생명을 구한 행위까지 부정할 필요도 없으며, 장기적인 목적과 현재 행동의 가치를 나누어 보는 구도가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악역이 위험에 빠진 영웅을 구조하는 상황이다. 적이라는 기존 관계와 생존을 돕는 현재의 행동이 충돌해 동기를 다시 판단하게 한다.\n\n더 큰 공동의 적과 싸우거나 영웅을 직접 쓰러뜨릴 기회를 지키려 구조할 수 있다. 명예와 애정, 실용적인 계산 중 무엇이 이유인지에 따라 이후의 관계가 달라진다.\n\n구조 한 번이 곧 선한 편으로의 전향을 뜻하지 않는다. 동시에 실제로 생명을 구한 행위까지 부정할 필요도 없으며, 장기적인 목적과 현재 행동의 가치를 나누어 보는 구도가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "여러 기능을 묶은 가상 총기",
   "original": "Combo Rifle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01412",
+  "primary_tag_id": "ML-T01412",
   "description": {
     "definition": "작품 속 총기가 서로 다른 무기의 역할을 한 몸에 담은 만능 장비로 그려진다. 장비 하나로 모든 상황에 대응할 수 있다는 환상을 보여 준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 다른 총기의 기능을 결합하거나 합쳐 새로운 무기로 바꿀 수 있는 가상 장비다. 여러 상황에 필요한 무장을 적은 물건으로 해결한다는 편의가 강조된다.\n\n분리된 짧은 무기를 조립해 장거리용 형태로 바꾸는 식의 변형이 사용될 수 있다. 장비를 바꾸는 동작은 전투의 국면 전환과 인물의 준비성을 보여 준다.\n\n실제 무기의 구조와 탄약 체계를 그대로 재현하는 개념은 아니다. 기능의 결합이 시각적으로 이해하기 쉽고 멋있다는 점이 우선되며, 실제로 가능한 모듈화와 허구적 변형은 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 다른 총기의 기능을 결합하거나 합쳐 새로운 무기로 바꿀 수 있는 가상 장비다. 여러 상황에 필요한 무장을 적은 물건으로 해결한다는 편의가 강조된다.\n\n분리된 짧은 무기를 조립해 장거리용 형태로 바꾸는 식의 변형이 사용될 수 있다. 장비를 바꾸는 동작은 전투의 국면 전환과 인물의 준비성을 보여 준다.\n\n실제 무기의 구조와 탄약 체계를 그대로 재현하는 개념은 아니다. 기능의 결합이 시각적으로 이해하기 쉽고 멋있다는 점이 우선되며, 실제로 가능한 모듈화와 허구적 변형은 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

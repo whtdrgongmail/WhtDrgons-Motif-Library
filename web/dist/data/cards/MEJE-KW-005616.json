@@ -4,8 +4,8 @@
   "title": "결합 쌍둥이의 재현",
   "original": "Conjoined Twins",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00956",
+  "primary_tag_id": "ML-T00956",
   "description": {
     "definition": "몸의 일부를 공유하는 쌍둥이가 작품의 인물로 등장한다. 공포나 구경거리로만 다루는 관습과 각자의 삶과 선택을 보여 주는 표현을 구분한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -27,8 +27,28 @@
     "updated_at": "2026-11-01",
     "row_version": 1
   },
-  "applied_tags": [],
+  "applied_tags": [
+    {
+      "tag_id": "ML-T02549",
+      "role": "subject",
+      "review_status": "reviewed",
+      "row_version": 1
+    }
+  ],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "몸의 일부가 연결된 쌍둥이를 인물과 소재로 다루는 표현이다. 함께 생활하는 조건과 서로 다른 개인으로서의 의사가 동시에 중요하다.\n\n작품은 협력과 사생활, 관계 선택의 문제를 다룰 수 있지만 공포와 구경거리의 대상으로만 사용할 수도 있다. 외형의 낯섦보다 각자의 성격과 판단을 얼마나 부여하는지가 재현의 차이를 만든다.\n\n실존하는 사람들의 일상을 비정상적인 비극으로 단정해서는 안 된다. 신체의 연결 부위와 건강 상태는 다양하며, 허구의 과장된 이미지와 실제 의학적인 조건을 같은 것으로 일반화하지 않는 것이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "몸의 일부가 연결된 쌍둥이를 인물과 소재로 다루는 표현이다. 함께 생활하는 조건과 서로 다른 개인으로서의 의사가 동시에 중요하다.\n\n작품은 협력과 사생활, 관계 선택의 문제를 다룰 수 있지만 공포와 구경거리의 대상으로만 사용할 수도 있다. 외형의 낯섦보다 각자의 성격과 판단을 얼마나 부여하는지가 재현의 차이를 만든다.\n\n실존하는 사람들의 일상을 비정상적인 비극으로 단정해서는 안 된다. 신체의 연결 부위와 건강 상태는 다양하며, 허구의 과장된 이미지와 실제 의학적인 조건을 같은 것으로 일반화하지 않는 것이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

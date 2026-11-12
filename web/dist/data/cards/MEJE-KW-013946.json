@@ -4,8 +4,8 @@
   "title": "치유의 바람",
   "original": "Healing Winds",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01526",
+  "primary_tag_id": "ML-T01526",
   "description": {
     "definition": "공기나 바람을 매개로 상처를 회복시키는 능력으로, 멀리 있거나 여러 명인 대상에게 치유를 전달하는 데 쓰이는 설정이다.",
     "detail": "작품 사례: [[Fairy Tail]]의 Wendy는 깨끗한 공기를 다루는 [[마법]]으로 부상을 치료하고 Erza의 중독도 해소하지만, 오염된 공기에서는 힘이 약해진다.",
@@ -13,10 +13,10 @@
     "boundary": "쾌적한 공기가 주는 기분이나 현실의 치료 효과를 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "바람이나 공기가 치유를 전달하는 매개가 된다. 가까이 접촉하지 않고도 먼 대상이나 여러 사람에게 회복을 제공할 수 있는 방식이다.\n\n공기의 상태를 조건으로 두면 환경이 능력의 효율에 관여한다. 깨끗한 곳에서 가능한 회복이 오염된 장소에서는 약해지는 한계를 만들 수 있다.\n\n쾌적한 공기를 마셔 기분이 좋아지는 일상적인 경험과는 다르다. 실제 치료 효과가 아니라 작품이 정한 초자연적인 회복 규칙이다.\n\n[[Fairy Tail]]의 Wendy는 깨끗한 공기의 마법으로 부상과 중독을 치료하지만 오염된 공기에서 힘이 약해진다.\n\n[[Fairy Tail]]",
+    "sections": [
+      [
+        "상세 설명",
+        "바람이나 공기가 치유를 전달하는 매개가 된다. 가까이 접촉하지 않고도 먼 대상이나 여러 사람에게 회복을 제공할 수 있는 방식이다.\n\n공기의 상태를 조건으로 두면 환경이 능력의 효율에 관여한다. 깨끗한 곳에서 가능한 회복이 오염된 장소에서는 약해지는 한계를 만들 수 있다.\n\n쾌적한 공기를 마셔 기분이 좋아지는 일상적인 경험과는 다르다. 실제 치료 효과가 아니라 작품이 정한 초자연적인 회복 규칙이다."
+      ],
+      [
+        "사례",
+        "[[Fairy Tail]]의 Wendy는 깨끗한 공기의 마법으로 부상과 중독을 치료하지만 오염된 공기에서 힘이 약해진다."
+      ],
+      [
+        "관련 작품",
+        "[[Fairy Tail]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

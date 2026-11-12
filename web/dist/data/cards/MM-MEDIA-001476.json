@@ -4,27 +4,27 @@
   "title": "위쳐",
   "original": "The Witcher",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《위쳐》는 미디어 작품이다.",
-    "detail": "작품 사례: 《위쳐》의 위쳐들은 보수를 받고 괴물을 퇴치하는 떠돌이 전문가이며, 변이를 거쳐 빠르고 강한 몸과 어둠 속 시야를 얻는다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -45,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《위쳐》는 안제이 사프콥스키의 판타지 단편과 장편에서 출발해 게임과 영상 등으로 확장된 작품군이다. 처음에는 서로 느슨하게 연결된 단편에서 고전 동화의 익숙한 요소를 비틀었고, 이후 더 긴 사건을 이어가는 장편 서사로 발전했다.\n\n짧은 이야기마다 별도의 문제를 다루는 형식과 여러 권에 걸쳐 인물과 사건을 누적하는 형식이 같은 세계 안에 존재한다. 따라서 한 편의 모험을 이해하는 일과 작품군 전체의 장기적인 흐름을 이해하는 일은 범위가 다르다.\n\n원전 소설 외에 만화, 테이블톱 역할수행 게임, 비디오게임과 여러 TV 각색이 있다. 원작을 옮긴 매체와 원작 이후의 사건을 이어가는 게임은 각색의 관계가 다르며, 모든 판본의 인물 모습과 사건을 하나의 고정된 줄거리로 합치지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《위쳐》는 안제이 사프콥스키의 판타지 단편과 장편에서 출발해 게임과 영상 등으로 확장된 작품군이다. 처음에는 서로 느슨하게 연결된 단편에서 고전 동화의 익숙한 요소를 비틀었고, 이후 더 긴 사건을 이어가는 장편 서사로 발전했다.\n\n짧은 이야기마다 별도의 문제를 다루는 형식과 여러 권에 걸쳐 인물과 사건을 누적하는 형식이 같은 세계 안에 존재한다. 따라서 한 편의 모험을 이해하는 일과 작품군 전체의 장기적인 흐름을 이해하는 일은 범위가 다르다.\n\n원전 소설 외에 만화, 테이블톱 역할수행 게임, 비디오게임과 여러 TV 각색이 있다. 원작을 옮긴 매체와 원작 이후의 사건을 이어가는 게임은 각색의 관계가 다르며, 모든 판본의 인물 모습과 사건을 하나의 고정된 줄거리로 합치지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

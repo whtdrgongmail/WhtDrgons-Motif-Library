@@ -4,8 +4,8 @@
   "title": "우주 분위기의 디스코",
   "original": "Space Disco",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02060",
+  "primary_tag_id": "ML-T02060",
   "description": {
     "definition": "디스코의 춤 리듬에 전자 악기의 소리와 우주·과학소설의 이미지나 주제를 결합한 음악 갈래다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "전자 악기를 쓰는 모든 디스코가 아니라 우주적 주제와 인상이 함께 나타나는 경우를 가리킨다. 반드시 가사가 없어야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "디스코의 춤 리듬에 전자 악기의 소리와 우주 또는 과학소설의 이미지를 결합한다. 음악의 리듬과 주제적 인상이 함께 양식의 특징을 이룬다.\n\n춤을 위한 익숙한 감각과 미래적인 공간의 인상을 동시에 만들 수 있다. 공연의 시각 이미지나 사운드에서 복고적인 분위기와 우주적 상상이 만난다.\n\n전자 악기를 사용한 모든 디스코를 가리키지 않는다. 우주적 주제와 인상이 필요하며, 가사가 없다는 조건까지 요구되는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "디스코의 춤 리듬에 전자 악기의 소리와 우주 또는 과학소설의 이미지를 결합한다. 음악의 리듬과 주제적 인상이 함께 양식의 특징을 이룬다.\n\n춤을 위한 익숙한 감각과 미래적인 공간의 인상을 동시에 만들 수 있다. 공연의 시각 이미지나 사운드에서 복고적인 분위기와 우주적 상상이 만난다.\n\n전자 악기를 사용한 모든 디스코를 가리키지 않는다. 우주적 주제와 인상이 필요하며, 가사가 없다는 조건까지 요구되는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

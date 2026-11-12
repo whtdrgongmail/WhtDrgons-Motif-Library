@@ -1,34 +1,22 @@
 {
   "id": "MM-MEDIA-000889",
-  "kind": "work",
+  "kind": "organization",
   "title": "Suprême NTM",
   "original": "Suprême NTM",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-T00139",
+  "primary_tag_id": null,
   "description": {
-    "definition": "이 카드는 음악 작품 《Suprême NTM》를 가리킨다. 이 라이브러리에서는 [[하드코어 힙합]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Suprême NTM에서는 조이스타의 거칠고 갈라지는 목소리가 가사의 대결적인 인상과 결합해, 힙합의 공격적인 전달을 강화한다.",
+    "definition": "수프렘 NTM은 프랑스 힙합 그룹이다. 조이스타와 쿨 셴의 그룹을 가리키며 동명의 1998년 음반과 구분한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
-  "classification": {
-    "code": "02.008",
-    "review_status": "provisional",
-    "row_version": 1
-  },
-  "classification_semantics": {
-    "semantic_kind": "medium_family",
-    "parent_relation": "facet_member",
-    "allowed_roles": [
-      "medium"
-    ],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "updated_at": "2026-11-12",
+  "row_version": 4,
+  "classification": null,
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "Suprême NTM에서는 조이스타의 거칠고 갈라지는 목소리가 가사의 대결적인 인상과 결합해, 힙합의 공격적인 전달을 강화한다.",
     "review_status": "reviewed",
@@ -37,15 +25,19 @@
   },
   "applied_tags": [],
   "related_media": [],
-  "related_motifs": [
-    {
-      "card_id": "MEJE-KW-013617",
-      "row_version": 1
-    },
-    {
-      "card_id": "MEJE-KW-015901",
-      "row_version": 1
-    }
-  ],
-  "references": []
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "쉬프렘 NTM은 1989년 생드니에서 결성된 프랑스 힙합 그룹이다. 조이스타와 쿨 셴이 중심이며 그래피티와 랩 활동에서 출발했다.\n\n[[하드코어 힙합]]을 주된 형식으로 삼으면서 펑크와 솔, 레게의 영향도 사용한다. 저소득층과 다양한 이주 배경의 주민이 사는 교외 지역의 경찰 폭력과 단속 등이 노래의 소재다.\n\n1990년대 프랑스 힙합의 대중적 성공을 이끈 그룹 중 하나다. 같은 이름의 1998년 앨범도 있으므로 음악가 집단과 개별 음반은 항목의 대상에 따라 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "쉬프렘 NTM은 1989년 생드니에서 결성된 프랑스 힙합 그룹이다. 조이스타와 쿨 셴이 중심이며 그래피티와 랩 활동에서 출발했다.\n\n[[하드코어 힙합]]을 주된 형식으로 삼으면서 펑크와 솔, 레게의 영향도 사용한다. 저소득층과 다양한 이주 배경의 주민이 사는 교외 지역의 경찰 폭력과 단속 등이 노래의 소재다.\n\n1990년대 프랑스 힙합의 대중적 성공을 이끈 그룹 중 하나다. 같은 이름의 1998년 앨범도 있으므로 음악가 집단과 개별 음반은 항목의 대상에 따라 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

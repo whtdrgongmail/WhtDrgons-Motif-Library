@@ -5,8 +5,8 @@
   "original": "The Kidnapper Grows Fond of the Captive",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01016",
+  "primary_tag_id": "ML-T01016",
   "description": {
     "definition": "포로의 음식·상처·생활을 챙기는 역할을 맡은 인물이 반복적인 접촉 속에서 상대의 안위를 진심으로 걱정하게 된다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "돌봄의 일부가 있다고 강압 관계 전체가 대등하거나 안전해졌다고 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "감시하며 돌보던 상대가 소중한 사람이 된다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "포로를 보살피는 역할을 맡은 인물이 접촉을 반복하면서 의무 이상의 걱정을 느끼게 된다. 강제로 형성된 관계 안에서 정서적인 관심이 변화하는 과정이다.\n\n상대를 추상적인 적이나 관리 대상만으로 보던 태도가 구체적인 생활과 상처를 아는 방향으로 이동한다. 돌봄이라는 반복 행동이 감정 변화의 매개가 된다.\n\n걱정이 생겼다고 포로 관계의 강압성이 없어지는 것은 아니다. 한 번 치료했다는 사실보다 관계가 반복되며 진심 어린 염려로 이어지는지가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "포로를 보살피는 역할을 맡은 인물이 접촉을 반복하면서 의무 이상의 걱정을 느끼게 된다. 강제로 형성된 관계 안에서 정서적인 관심이 변화하는 과정이다.\n\n상대를 추상적인 적이나 관리 대상만으로 보던 태도가 구체적인 생활과 상처를 아는 방향으로 이동한다. 돌봄이라는 반복 행동이 감정 변화의 매개가 된다.\n\n걱정이 생겼다고 포로 관계의 강압성이 없어지는 것은 아니다. 한 번 치료했다는 사실보다 관계가 반복되며 진심 어린 염려로 이어지는지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

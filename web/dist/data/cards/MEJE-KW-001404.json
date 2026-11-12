@@ -5,28 +5,22 @@
   "original": "Alternative Comics",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "primary_tag_id": "ML-F27",
   "description": {
-    "definition": "대형 출판사의 주류 장르·연재 방식 밖에서 개인적 소재와 작가의 표현을 앞세우는 만화 흐름. 제작 규모만으로 정의하기보다 내용과 유통 맥락을 함께 살핀다.",
+    "definition": "대형 출판사의 주류 장르·연재 방식 밖에서 개인적 소재와 작가의 표현을 앞세우는 만화 흐름. 제작 규모뿐 아니라 내용과 유통 맥락도 주류 만화와 구별되는 특징이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "27",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "대안 만화는 큰 출판사의 익숙한 장르와 연재 방식에서 벗어나 작가의 관심과 표현을 앞세운 만화 흐름입니다. 제작비가 적다는 사실보다 내용과 발표 방식이 어떻게 다른지 살핍니다.",
     "review_status": "reviewed",
@@ -36,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대안 [[만화]]는 주류 출판사의 장르 관습과 정기 연재 체계 바깥에서 작가의 개인적 관심, 형식 실험, 주변화된 경험을 전면에 두는 창작·유통 흐름이다. 여기서 ‘대안’은 독립 출판이라는 형식 하나보다 무엇을 이야기하고 어떤 독자에게 어떤 경로로 닿는지의 조합을 가리킨다. 자전적 기억, 일상의 불편, 정치적 관점처럼 대형 상업 연재에서 중심에 놓이기 어려운 소재가 자주 등장한다.\n\n작품을 분류할 때는 출판사의 규모만 보지 않고 서사와 그림의 선택, 작가의 통제권, 유통 맥락을 함께 확인한다. 소규모 출판물도 익숙한 상업 문법을 그대로 따를 수 있고, 널리 유통된 작품도 대안 만화의 미학과 관심을 이어갈 수 있다. 그래서 이 항목은 특정 그림체나 독립 출판물 전부를 뜻하지 않으며, 주류 규범과의 관계 속에서 형성된 만화 실천을 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대안 [[만화]]는 주류 출판사의 장르 관습과 정기 연재 체계 바깥에서 작가의 개인적 관심, 형식 실험, 주변화된 경험을 전면에 두는 창작·유통 흐름이다. 여기서 ‘대안’은 독립 출판이라는 형식 하나보다 무엇을 이야기하고 어떤 독자에게 어떤 경로로 닿는지의 조합을 가리킨다. 자전적 기억, 일상의 불편, 정치적 관점처럼 대형 상업 연재에서 중심에 놓이기 어려운 소재가 자주 등장한다.\n\n작품을 분류할 때는 출판사의 규모만 보지 않고 서사와 그림의 선택, 작가의 통제권, 유통 맥락을 함께 확인한다. 소규모 출판물도 익숙한 상업 문법을 그대로 따를 수 있고, 널리 유통된 작품도 대안 만화의 미학과 관심을 이어갈 수 있다. 그래서 이 항목은 특정 그림체나 독립 출판물 전부를 뜻하지 않으며, 주류 규범과의 관계 속에서 형성된 만화 실천을 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

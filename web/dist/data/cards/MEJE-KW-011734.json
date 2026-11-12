@@ -4,8 +4,8 @@
   "title": "보이지 않는 것을 드러내는 안경",
   "original": "See-Thru Specs",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01482",
+  "primary_tag_id": "ML-T01482",
   "description": {
     "definition": "착용해야만 평소 감지할 수 없는 대상이나 숨겨진 정보를 볼 수 있게 하는 특수 안경이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 시력 교정 및 단순한 야간 시야 보조와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "안경의 착용 전후로 인물이 접근할 수 있는 시각 정보가 달라진다. 평상시에는 보이지 않던 대상을 볼 수 있게 하는 기능이 있어야 하며, 시력 교정으로 흐린 윤곽이 선명해지는 정도와 구별된다.\n\n숨겨진 대상의 존재와 그 대상을 볼 수 있는 인물이 분리되므로 안경은 정보를 얻는 조건이 된다. 무엇이 보이는지는 개별 설정에 따르며, 모든 종류의 은폐를 무조건 해제하는 장비라고 일반화할 수는 없다.\n\n단순히 어두운 곳에서 주변을 더 잘 보게 하는 야간 시야 보조도 보이지 않는 대상을 드러내는 기능과 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "안경의 착용 전후로 인물이 접근할 수 있는 시각 정보가 달라진다. 평상시에는 보이지 않던 대상을 볼 수 있게 하는 기능이 있어야 하며, 시력 교정으로 흐린 윤곽이 선명해지는 정도와 구별된다.\n\n숨겨진 대상의 존재와 그 대상을 볼 수 있는 인물이 분리되므로 안경은 정보를 얻는 조건이 된다. 무엇이 보이는지는 개별 설정에 따르며, 모든 종류의 은폐를 무조건 해제하는 장비라고 일반화할 수는 없다.\n\n단순히 어두운 곳에서 주변을 더 잘 보게 하는 야간 시야 보조도 보이지 않는 대상을 드러내는 기능과 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -6,8 +6,8 @@
   "aliases": [
     "불길 속으로 들어가는 구조"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00782",
+  "primary_tag_id": "ML-T00782",
   "description": {
     "definition": "불이 난 건물이나 장소에서 사람을 구하여 [[인물]]의 용기와 이타심을 보여 주는 [[장면]]이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "불을 끄는 장면 전체보다 위험에 처한 사람의 [[구조]]와 영웅성의 표현이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 5,
+  "updated_at": "2026-11-10",
+  "row_version": 6,
   "classification": {
-    "code": "07",
+    "code": "07.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물은 불이 난 장소의 사람을 구하며 자신도 위험을 감수한다. 구조의 선택은 용기와 타인을 우선하는 태도를 보여 준다.\n\n누가 위험에 남았고 구조자가 어떤 비용을 받아들였는지가 장면의 의미를 만든다. 화재는 배경인 동시에 선한 행동을 확인할 조건이 된다.\n\n불을 끄는 모든 장면과는 범위가 다르다. 사람을 구하는 행동과 영웅성의 표현이 함께 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물은 불이 난 장소의 사람을 구하며 자신도 위험을 감수한다. 구조의 선택은 용기와 타인을 우선하는 태도를 보여 준다.\n\n누가 위험에 남았고 구조자가 어떤 비용을 받아들였는지가 장면의 의미를 만든다. 화재는 배경인 동시에 선한 행동을 확인할 조건이 된다.\n\n불을 끄는 모든 장면과는 범위가 다르다. 사람을 구하는 행동과 영웅성의 표현이 함께 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "기획된 홍보 해시태그",
   "original": "#EngineeredHashtag",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02293",
+  "primary_tag_id": "ML-T02293",
   "description": {
     "definition": "제작사나 광고주가 정해 둔 해시태그로 관객의 게시물을 한데 모으고 자발적 입소문을 유도한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "제작사와 광고주가 공통 해시태그를 제안해 관객의 게시물을 홍보의 흐름으로 모으는 방식이다. 이용자의 자발적인 표현과 기획된 캠페인이 연결된다.\n\n같은 표시는 반응을 찾기 쉽게 하고 참여가 많다는 인상을 만든다. 관객이 비판과 농담에 태그를 사용하면 기업이 의도한 메시지와 실제 공개된 반응이 달라질 수 있다.\n\n이용자가 자연스럽게 만든 태그와는 출발이 다르다. 기획과 유료 홍보, 일반 참여를 구분해야 하며 게시물의 수가 곧 긍정적인 평가를 뜻하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "제작사와 광고주가 공통 해시태그를 제안해 관객의 게시물을 홍보의 흐름으로 모으는 방식이다. 이용자의 자발적인 표현과 기획된 캠페인이 연결된다.\n\n같은 표시는 반응을 찾기 쉽게 하고 참여가 많다는 인상을 만든다. 관객이 비판과 농담에 태그를 사용하면 기업이 의도한 메시지와 실제 공개된 반응이 달라질 수 있다.\n\n이용자가 자연스럽게 만든 태그와는 출발이 다르다. 기획과 유료 홍보, 일반 참여를 구분해야 하며 게시물의 수가 곧 긍정적인 평가를 뜻하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

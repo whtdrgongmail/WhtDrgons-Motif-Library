@@ -4,8 +4,8 @@
   "title": "지구와 다른 생화학의 외계 생명",
   "original": "Silicon-Based Life",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01149",
+  "primary_tag_id": "ML-T01149",
   "description": {
     "definition": "지구 생물의 탄소 중심 생화학과 다른 물질적 토대에 기반한다고 설정되는 외계 생물이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 대체 생명의 존재가 입증되었다는 뜻이 아니며 원어의 규소를 모든 변형의 필수 재료로 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "생명의 기본 재료가 지구의 탄소 중심 설명과 다르게 설정된다. 겉모습이 특이한 수준을 넘어 대사와 환경 적응의 원리가 다른 존재다.\n\n다른 온도와 물질을 필요로 하면 식량과 거주 공간을 공유하기 어렵다. 탐사의 상식이 통하지 않는 이유를 생화학의 차이로 설명할 수 있다.\n\n원문은 규소를 탄소 대신 사용하는 생물을 구체적으로 다룬다. 정본은 다른 물질 토대 전반으로 더 넓으며 화학적 유사성이 실제 생명의 가능성을 보장하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "생명의 기본 재료가 지구의 탄소 중심 설명과 다르게 설정된다. 겉모습이 특이한 수준을 넘어 대사와 환경 적응의 원리가 다른 존재다.\n\n다른 온도와 물질을 필요로 하면 식량과 거주 공간을 공유하기 어렵다. 탐사의 상식이 통하지 않는 이유를 생화학의 차이로 설명할 수 있다.\n\n원문은 규소를 탄소 대신 사용하는 생물을 구체적으로 다룬다. 정본은 다른 물질 토대 전반으로 더 넓으며 화학적 유사성이 실제 생명의 가능성을 보장하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

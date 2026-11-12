@@ -4,8 +4,8 @@
   "title": "화면 밖 받침대로 키 맞추기",
   "original": "Scully Box",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "촬영 화면에 드러나지 않는 받침대 위에 배우를 세워 상대적 키와 얼굴 높이를 조절하는 제작 기법이다.",
     "detail": "작품 사례: [[Daredevil (2003)]]은 이미 키가 196센티미터인 Michael Clarke Duncan에게 받침대까지 사용해, Kingpin이 초인적으로 커 보이게 촬영했다.",
@@ -13,10 +13,10 @@
     "boundary": "배우의 실제 키 변화나 화면 안에서 의도적으로 보이는 단상과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "배우를 보이지 않는 받침대 위에 세워 화면 안에서 상대적인 신장과 얼굴 높이를 조절한다. 관객이 보는 키는 실제 신장뿐 아니라 촬영 조건으로 만들어질 수 있으므로, 제작상의 조작과 배우의 신체 조건을 구별해야 한다.\n\n단순히 짧은 배우를 높이는 데만 한정되는 기법은 아니다. 이미 큰 배우를 더 거대하게 보이도록 만들 수도 있으며, 화면에 의도적으로 보이는 단상과 달리 받침대 자체는 구도 밖에 감춰진다.\n\n[[Daredevil (2003)]]은 이미 키가 196센티미터인 Michael Clarke Duncan에게 받침대까지 사용해, Kingpin이 초인적으로 커 보이게 촬영했다.",
+    "sections": [
+      [
+        "상세 설명",
+        "배우를 보이지 않는 받침대 위에 세워 화면 안에서 상대적인 신장과 얼굴 높이를 조절한다. 관객이 보는 키는 실제 신장뿐 아니라 촬영 조건으로 만들어질 수 있으므로, 제작상의 조작과 배우의 신체 조건을 구별해야 한다.\n\n단순히 짧은 배우를 높이는 데만 한정되는 기법은 아니다. 이미 큰 배우를 더 거대하게 보이도록 만들 수도 있으며, 화면에 의도적으로 보이는 단상과 달리 받침대 자체는 구도 밖에 감춰진다."
+      ],
+      [
+        "관련 작품",
+        "[[Daredevil (2003)]]은 이미 키가 196센티미터인 Michael Clarke Duncan에게 받침대까지 사용해, Kingpin이 초인적으로 커 보이게 촬영했다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

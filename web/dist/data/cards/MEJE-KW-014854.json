@@ -4,8 +4,8 @@
   "title": "부두교를 인형 저주와 좀비 마법으로 축소하기",
   "original": "Hollywood Voodoo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F28",
+  "tag_id": "ML-T02316",
+  "primary_tag_id": "ML-T02316",
   "description": {
     "definition": "대중문화에서 부두교를 종교적 생활·공동체 맥락과 분리해 저주 인형·점술·죽은 자 조종 같은 허구의 주문으로 축소해 묘사하는 관습이다.",
     "detail": "작품 사례: [[The Dragon Tree Spell Book]]의 부두 주문은 피해자를 닮은 인형을 매개로 삼고, 인형에 가한 손상이 대상에게도 생기게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 종교의 신앙과 관행을 설명하거나 악한 종교라고 단정하는 개념이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "28",
+    "code": "28.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "부두교의 문화와 종교적 맥락을 인형 저주와 좀비 같은 이국적 마법 효과로 대체하는 재현이다. 전통의 이름이 간단한 공격 규칙을 나타내는 표지가 된다.\n\n실제 종교의 신앙과 관행을 설명하지 않는다. 악한 종교라는 판단도 아니며 작품의 축소된 표현과 현실 공동체를 구분해야 한다.\n\n[[The Dragon Tree Spell Book]]의 부두 주문은 피해자와 닮은 인형을 매개로 삼는다. 인형에 입힌 손상이 대상에게도 생기는 규칙이 전통의 이름 아래 마법적 효과로 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "부두교의 문화와 종교적 맥락을 인형 저주와 좀비 같은 이국적 마법 효과로 대체하는 재현이다. 전통의 이름이 간단한 공격 규칙을 나타내는 표지가 된다.\n\n실제 종교의 신앙과 관행을 설명하지 않는다. 악한 종교라는 판단도 아니며 작품의 축소된 표현과 현실 공동체를 구분해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Dragon Tree Spell Book]]의 부두 주문은 피해자와 닮은 인형을 매개로 삼는다. 인형에 입힌 손상이 대상에게도 생기는 규칙이 전통의 이름 아래 마법적 효과로 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

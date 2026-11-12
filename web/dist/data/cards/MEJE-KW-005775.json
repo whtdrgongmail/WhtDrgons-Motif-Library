@@ -4,8 +4,8 @@
   "title": "다음 목표가 가까이 놓인 모험",
   "original": "Convenient Questing",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "게임의 새로운 목적지가 최근에 열린 지역과 자연스럽게 이어져 [[플레이어]]의 이동이 끊기지 않게 하는 지도 설계.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다음 임무가 가까운 새 지역에 이어져 이동과 진행이 효율적으로 연결되는 모험 구조다. 지금 갈 수 있는 영역과 이야기의 순서가 자연스럽게 맞아떨어진다.\n\n높은 난도의 지역을 너무 일찍 지나지 않게 하고 이미 다닌 길의 반복을 줄인다. 같은 대상을 뒤쫓는 설정은 마을마다 새 단서를 얻는 동선을 설명할 수 있다.\n\n장거리 여행을 생략한다는 사실만으로는 충분하지 않다. 임무의 목표와 새로 열리는 장소가 지속적으로 가까이 대응하는 배치가 중요하며 지나친 정렬은 세계를 인위적으로 작게 보이게 할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다음 임무가 가까운 새 지역에 이어져 이동과 진행이 효율적으로 연결되는 모험 구조다. 지금 갈 수 있는 영역과 이야기의 순서가 자연스럽게 맞아떨어진다.\n\n높은 난도의 지역을 너무 일찍 지나지 않게 하고 이미 다닌 길의 반복을 줄인다. 같은 대상을 뒤쫓는 설정은 마을마다 새 단서를 얻는 동선을 설명할 수 있다.\n\n장거리 여행을 생략한다는 사실만으로는 충분하지 않다. 임무의 목표와 새로 열리는 장소가 지속적으로 가까이 대응하는 배치가 중요하며 지나친 정렬은 세계를 인위적으로 작게 보이게 할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

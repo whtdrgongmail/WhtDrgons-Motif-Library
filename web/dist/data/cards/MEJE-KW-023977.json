@@ -4,8 +4,8 @@
   "title": "지붕을 건너뛰며 이동하기",
   "original": "Roof Hopping",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00747",
+  "primary_tag_id": "ML-T00747",
   "description": {
     "definition": "건물의 지붕들을 연속된 발판으로 삼아 뛰어 건너며 이동하는 행동이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "한 지붕 위를 달리기만 하는 장면과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "지붕을 연속된 발판으로 삼아 도시를 가로지른다. 지상의 교통과 사람을 피해 독립적인 이동 경로를 만든다.\n\n도약 능력과 건물 사이의 간격이 위험을 결정한다. 지붕 위에서 한 번 싸우는 장면보다 지붕 간 이동이 반복되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "지붕을 연속된 발판으로 삼아 도시를 가로지른다. 지상의 교통과 사람을 피해 독립적인 이동 경로를 만든다.\n\n도약 능력과 건물 사이의 간격이 위험을 결정한다. 지붕 위에서 한 번 싸우는 장면보다 지붕 간 이동이 반복되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "벽돌을 깨는 공 튕기기 게임",
   "original": "Breaking Out",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02488",
+  "primary_tag_id": "ML-T02488",
   "description": {
     "definition": "판 아래의 막대로 공을 되돌려 위쪽 블록을 없애는 게임 유형. 공의 경로를 읽고 자리를 옮기는 조작이 핵심이다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "02.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "패들을 움직여 공을 튕기고 화면의 블록을 제거하는 액션 게임의 하위 장르다. 공을 놓쳐 화면 아래로 흘려보내면 시도 기회를 잃는 구조가 기본이다.\n\n강화 아이템과 적, 패들의 능력 변화 등을 추가하여 변형한다. 공의 반사 방향과 속도를 예상하는 조작이 핵심이며, 다른 게임 안의 짧은 미니게임으로도 구현하기 쉽다.\n\n블록을 깨는 소재만 공유하는 퍼즐과는 구분한다. 패들과 반사되는 공의 상호작용이 장르의 중심이며, 탈출을 뜻하는 일반적인 제목 표현과도 관계가 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "패들을 움직여 공을 튕기고 화면의 블록을 제거하는 액션 게임의 하위 장르다. 공을 놓쳐 화면 아래로 흘려보내면 시도 기회를 잃는 구조가 기본이다.\n\n강화 아이템과 적, 패들의 능력 변화 등을 추가하여 변형한다. 공의 반사 방향과 속도를 예상하는 조작이 핵심이며, 다른 게임 안의 짧은 미니게임으로도 구현하기 쉽다.\n\n블록을 깨는 소재만 공유하는 퍼즐과는 구분한다. 패들과 반사되는 공의 상호작용이 장르의 중심이며, 탈출을 뜻하는 일반적인 제목 표현과도 관계가 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

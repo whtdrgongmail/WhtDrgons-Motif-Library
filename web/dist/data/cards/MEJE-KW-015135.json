@@ -4,8 +4,8 @@
   "title": "군대 안의 비밀 술 제조",
   "original": "Military Moonshiner",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00815",
+  "primary_tag_id": "ML-T00815",
   "description": {
     "definition": "음주나 술의 반입이 금지된 군 조직에서 일부 군인이 몰래 술을 만들어 규율을 우회하는 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "제조 절차가 아니라 금지된 욕구와 조직 규율의 충돌을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.010.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "군 조직 안의 금주 규율과 달리 일부 구성원이 몰래 술을 만들어 동료에게 공급한다. 문서상의 금지와 실제 생활의 욕구가 어긋나며, 규율을 집행하는 사람도 공급의 수혜자가 되면 비밀이 묵인될 여지가 생긴다.\n\n규정의 엄격함에 따라 완전히 숨기거나 모두가 알면서 모른 척하는 상태가 된다. 장교와 병사가 같은 공급망에 접근하는 정도의 차이도 조직 내부 관계를 드러낼 수 있다. 술의 제조법보다 누가 만들고 누가 알고도 허용하는지가 이야기의 구체적인 내용이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "군 조직 안의 금주 규율과 달리 일부 구성원이 몰래 술을 만들어 동료에게 공급한다. 문서상의 금지와 실제 생활의 욕구가 어긋나며, 규율을 집행하는 사람도 공급의 수혜자가 되면 비밀이 묵인될 여지가 생긴다.\n\n규정의 엄격함에 따라 완전히 숨기거나 모두가 알면서 모른 척하는 상태가 된다. 장교와 병사가 같은 공급망에 접근하는 정도의 차이도 조직 내부 관계를 드러낼 수 있다. 술의 제조법보다 누가 만들고 누가 알고도 허용하는지가 이야기의 구체적인 내용이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

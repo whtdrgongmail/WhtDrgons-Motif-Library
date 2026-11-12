@@ -4,8 +4,8 @@
   "title": "슬픔을 달래는 아이스크림 폭식",
   "original": "Heartbreak and Ice Cream",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F11",
+  "tag_id": "ML-T01078",
+  "primary_tag_id": "ML-T01078",
   "description": {
     "definition": "실연이나 우울에 빠진 인물이 아이스크림이나 단 음식을 큰 통째로 먹으며 감정을 달래는 장면이다.",
     "detail": "작품 사례: [[The Owl House]]의 Lilith는 어머니가 Eda만 챙기자 속상한 마음으로 ‘eyes cream’을 잔뜩 먹고, 자신의 부모 문제를 떠올린 King도 함께한다.",
@@ -13,10 +13,10 @@
     "boundary": "배고픔이나 즐거운 간식 시간이 아니라 슬픔과 섭취 행동의 연결이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "11",
+    "code": "11.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "낙담과 실연 등의 슬픔을 많은 아이스크림을 먹는 행동으로 표현하는 관습이다. 평소의 간식이 감정적 위안을 찾는 수단으로 바뀐다.\n\n배고픔이나 즐거운 간식 시간과는 동기가 다르다. 특정 음식의 실제 치료 효과를 뜻하지 않으며 슬픔과 섭취 행동의 연결이 필요하다.\n\n[[The Owl House]]의 Lilith는 어머니가 Eda만 챙기자 속상해하며 eyes cream을 많이 먹는다. 자신의 부모 문제를 떠올린 King도 함께해 가족에 대한 낙담이 섭취의 공통 동기가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "낙담과 실연 등의 슬픔을 많은 아이스크림을 먹는 행동으로 표현하는 관습이다. 평소의 간식이 감정적 위안을 찾는 수단으로 바뀐다.\n\n배고픔이나 즐거운 간식 시간과는 동기가 다르다. 특정 음식의 실제 치료 효과를 뜻하지 않으며 슬픔과 섭취 행동의 연결이 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[The Owl House]]의 Lilith는 어머니가 Eda만 챙기자 속상해하며 eyes cream을 많이 먹는다. 자신의 부모 문제를 떠올린 King도 함께해 가족에 대한 낙담이 섭취의 공통 동기가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

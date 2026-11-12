@@ -4,8 +4,8 @@
   "title": "법률 업무와 소송을 따라가는 극",
   "original": "Law Procedural",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00324",
+  "primary_tag_id": "ML-T00324",
   "description": {
     "definition": "변호사의 활동과 민사·형사 소송의 진행을 주요 사건으로 삼아 [[갈등]]과 해결을 펼치는 극 형식이다. 법정 안의 주장과 법정 밖의 준비가 이야기의 축이 된다.",
     "detail": "작품 사례: 《[[이상한 변호사 우영우]]》는 원문이 법률 업무와 소송을 중심에 둔 극의 사례로 분류한 한국 드라마다.",
@@ -13,17 +13,20 @@
     "boundary": "수사까지만 다루는 경찰극이나 다른 [[장르]]의 일회성 법정 회차와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.111.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "변호사의 활동과 소송 절차를 주요 사건으로 삼는 극 형식이다. 법정의 주장과 증언뿐 아니라 준비와 협상, 증거를 다루는 과정이 이야기의 축이 된다.\n\n서로 다른 해석이 같은 사실을 놓고 충돌하므로 대사와 논증 자체가 행동으로 기능한다. 민사와 형사, 군사 재판 등 다루는 사건에 따라 인물의 이해관계와 위기의 성격이 달라진다.\n\n범죄 수사 중심의 이야기와는 직업적 관점과 해결 절차가 다르다. 실제 법률 제도는 지역과 시대에 따라 다르므로, 긴장을 위해 압축한 허구의 재판을 현실 절차의 일반적인 설명으로 볼 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "변호사의 활동과 소송 절차를 주요 사건으로 삼는 극 형식이다. 법정의 주장과 증언뿐 아니라 준비와 협상, 증거를 다루는 과정이 이야기의 축이 된다.\n\n서로 다른 해석이 같은 사실을 놓고 충돌하므로 대사와 논증 자체가 행동으로 기능한다. 민사와 형사, 군사 재판 등 다루는 사건에 따라 인물의 이해관계와 위기의 성격이 달라진다.\n\n범죄 수사 중심의 이야기와는 직업적 관점과 해결 절차가 다르다. 실제 법률 제도는 지역과 시대에 따라 다르므로, 긴장을 위해 압축한 허구의 재판을 현실 절차의 일반적인 설명으로 볼 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

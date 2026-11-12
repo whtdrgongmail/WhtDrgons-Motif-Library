@@ -4,8 +4,8 @@
   "title": "손패 상한",
   "original": "Hand Limit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02514",
+  "primary_tag_id": "ML-T02514",
   "description": {
     "definition": "[[플레이어]]가 손에 보유할 수 있는 카드 수를 제한하고 초과 시 버리기·드로우 금지 등으로 조절하는 [[규칙]]이다.",
     "detail": "상한을 넘자마자 버리게 하거나, 자기 차례가 끝날 때 정리하게 하거나, 상한 상태에서는 더 뽑지 못하게 하는 방식으로 집행한다. 효과에 따라 상한 자체가 늘거나 줄 수도 있다.",
@@ -13,14 +13,22 @@
     "boundary": "덱의 카드 수 제한이나 전장에 놓을 수 있는 수량 제한과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "손에 쥘 수 있는 카드 수가 정해져 있다. 그 수를 넘으면 일부를 버려야 하므로 좋은 카드도 모두 보관할 수 없다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "카드를 손에 보유할 수 있는 양에 상한을 두어 선택의 축적을 제한한다. 제한은 카드 획득과 보관 전략을 함께 바꾼다.\n\n초과 즉시 버리거나 차례가 끝날 때 정리하는 등 집행 시점에 따라 일시적인 보유가 달라진다. 상한에 이르면 추가 드로우를 막는 방식도 가능하다.\n\n덱 전체의 크기나 전장에 내려놓을 수 있는 수량과는 관리 대상이 다르다. 효과로 한도가 변할 수 있으므로 기본 상한과 현재 적용값도 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "카드를 손에 보유할 수 있는 양에 상한을 두어 선택의 축적을 제한한다. 제한은 카드 획득과 보관 전략을 함께 바꾼다.\n\n초과 즉시 버리거나 차례가 끝날 때 정리하는 등 집행 시점에 따라 일시적인 보유가 달라진다. 상한에 이르면 추가 드로우를 막는 방식도 가능하다.\n\n덱 전체의 크기나 전장에 내려놓을 수 있는 수량과는 관리 대상이 다르다. 효과로 한도가 변할 수 있으므로 기본 상한과 현재 적용값도 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

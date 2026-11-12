@@ -4,39 +4,56 @@
   "title": "상대의 언어를 모르는 척하기",
   "original": "Language Fluency Denial",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00787",
+  "primary_tag_id": "ML-T00787",
   "description": {
     "definition": "실제로는 상대의 언어를 이해하거나 말할 수 있는 인물이 그 능력을 숨겨 대화를 피하거나 신분과 정보를 감추는 행동이다.",
     "detail": "다른 말로 응답하기, 서툴게 말하기, 침묵하기의 세 방식이 있다. 상대가 그 다른 언어도 구사하면 회피가 실패할 수 있다.\n\n작품 사례: 《[[드래곤볼]]》에서 나메크인은 프리저의 질문에 고유 언어로만 답해 모르는 척하지만 프리저가 공통어로 말하라고 요구한다. 상대가 위장 의도를 알아차려 회피가 막히는 사례다.",
-    "usage": "관계 회피·정체 은폐·눈앞에서의 정보 청취를 만들고 무심코 한 반응으로 위장이 풀리게 한다.",
-    "boundary": "실제 언어 장벽이나 자발적인 독특한 말투와 다르다. 자신의 이해 능력을 상대가 오판하도록 의도해야 한다."
+    "usage": "",
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "알아듣고도 못 알아듣는 척한다.\n\n작품 사례: 《[[드래곤볼]]》에서 나메크인은 프리저의 질문에 고유 언어로만 답해 모르는 척하지만 프리저가 공통어로 말하라고 요구한다. 상대가 위장 의도를 알아차려 회피가 막히는 사례다.",
+    "easy_ko": "알아듣고도 못 알아듣는 척한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001375",
+      "work_card_id": "MM-MEDIA-002561",
       "description_ko": "《드래곤볼》에서 나메크인은 프리저의 질문에 고유 언어로만 답해 모르는 척하지만 프리저가 공통어로 말하라고 요구한다. 상대가 위장 의도를 알아차려 회피가 막히는 사례다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 말로 응답하기, 서툴게 말하기, 침묵하기의 세 방식이 있다. 상대가 그 다른 언어도 구사하면 회피가 실패할 수 있다.\n\n관계 회피·정체 은폐·눈앞에서의 정보 청취를 만들고 무심코 한 반응으로 위장이 풀리게 한다.\n\n실제 언어 장벽이나 자발적인 독특한 말투와 다르다. 자신의 이해 능력을 상대가 오판하도록 의도해야 한다.\n\n《[[드래곤볼(만화)]]》에서 나메크인은 프리저의 질문에 고유 언어로만 답해 모르는 척하지만 프리저가 공통어로 말하라고 요구한다. 상대가 위장 의도를 알아차려 회피가 막히는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 말로 응답하기, 서툴게 말하기, 침묵하기의 세 방식이 있다. 상대가 그 다른 언어도 구사하면 회피가 실패할 수 있다.\n\n관계 회피·정체 은폐·눈앞에서의 정보 청취를 만들고 무심코 한 반응으로 위장이 풀리게 한다.\n\n실제 언어 장벽이나 자발적인 독특한 말투와 다르다. 자신의 이해 능력을 상대가 오판하도록 의도해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[드래곤볼(만화)]]》에서 나메크인은 프리저의 질문에 고유 언어로만 답해 모르는 척하지만 프리저가 공통어로 말하라고 요구한다. 상대가 위장 의도를 알아차려 회피가 막히는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

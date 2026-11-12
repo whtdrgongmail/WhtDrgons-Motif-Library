@@ -4,8 +4,8 @@
   "title": "완벽하게 남을 닮는 라텍스 가면",
   "original": "Latex Perfection",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01437",
+  "primary_tag_id": "ML-T01437",
   "description": {
     "definition": "라텍스 가면 같은 분장 도구가 다른 사람의 얼굴을 빈틈없이 재현하여 신원을 속일 수 있도록 작동하는 설정이다.",
     "detail": "작품 사례: 《[[도라에몽]]》에서 진구는 비실이의 어머니 등 다른 사람의 모습에 꼭 맞는 가면과 변장을 사용해 물건을 되찾는다.",
@@ -13,10 +13,10 @@
     "boundary": "얼굴을 가리기만 하는 가면이나 보통 수준의 분장과 구별한다. 목소리·체격까지 자동으로 바뀐다고 덧붙이지 않고 얼굴 위장의 완전성을 중심에 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001382",
+      "work_card_id": "MM-MEDIA-002509",
       "description_ko": "《도라에몽》에서 진구는 비실이의 어머니 등 다른 사람의 모습에 꼭 맞는 가면과 변장을 사용해 물건을 되찾는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "라텍스와 실리콘 가면 같은 분장이 다른 사람의 얼굴을 완벽하게 재현하여 신원을 속이는 설정이다. 가까운 사람도 분장을 알아보지 못할 정도의 정밀함이 전제된다.\n\n얼굴을 벗겨 내는 순간 잠입과 사칭의 전모를 드러내는 데 쓰인다. 작품에 따라 표정과 얼굴 크기까지 바꾸는 수준으로 묘사되어 실제 분장의 물리적 제약을 넘어설 수 있다.\n\n비슷한 인상을 만드는 일반적인 분장과는 효과의 범위가 다르다. 외형 외에도 목소리와 행동이 어떻게 재현되는지에 따라 속임수의 설득력이 달라지며, 가면 자체가 모든 신원 확인을 해결한다고 볼 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "라텍스와 실리콘 가면 같은 분장이 다른 사람의 얼굴을 완벽하게 재현하여 신원을 속이는 설정이다. 가까운 사람도 분장을 알아보지 못할 정도의 정밀함이 전제된다.\n\n얼굴을 벗겨 내는 순간 잠입과 사칭의 전모를 드러내는 데 쓰인다. 작품에 따라 표정과 얼굴 크기까지 바꾸는 수준으로 묘사되어 실제 분장의 물리적 제약을 넘어설 수 있다.\n\n비슷한 인상을 만드는 일반적인 분장과는 효과의 범위가 다르다. 외형 외에도 목소리와 행동이 어떻게 재현되는지에 따라 속임수의 설득력이 달라지며, 가면 자체가 모든 신원 확인을 해결한다고 볼 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

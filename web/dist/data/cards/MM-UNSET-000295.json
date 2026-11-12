@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F12",
   "description": {
-    "definition": "",
+    "definition": "수정되지 않은 난자가 발달하여 새 개체를 이루는 생식 방식.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "12",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "정자에 의한 수정 없이 난자에서 새 개체가 생기는 번식 방식이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "단위생식은 외부의 정자와 결합하지 않은 난자가 발생하여 자손을 만드는 생물학적 생식 방식이다. 종에 따라 유전적 구성과 생존 가능한 자손을 만드는 조건은 달라질 수 있다.\n\n허구 세계의 인구 지속을 설명하는 설정으로 사용할 수 있지만, 인구가 계속되는 생물학적 방식과 외부인을 주민으로 받아들이는 정치·사회 규칙은 서로 다른 문제다.",
+    "sections": [
+      [
+        "상세 설명",
+        "단위생식은 외부의 정자와 결합하지 않은 난자가 발생하여 자손을 만드는 생물학적 생식 방식이다. 종에 따라 유전적 구성과 생존 가능한 자손을 만드는 조건은 달라질 수 있다.\n\n허구 세계의 인구 지속을 설명하는 설정으로 사용할 수 있지만, 인구가 계속되는 생물학적 방식과 외부인을 주민으로 받아들이는 정치·사회 규칙은 서로 다른 문제다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

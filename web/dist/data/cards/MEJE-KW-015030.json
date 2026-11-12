@@ -4,8 +4,8 @@
   "title": "부가육화음",
   "original": "Sixth chord",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02036",
+  "primary_tag_id": "ML-T02036",
   "description": {
     "definition": "기본 삼화음에 근음과 육도 관계인 음을 더한 화음이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "같은 음 집합이 다른 문맥에서는 칠화음의 자리바꿈으로 해석될 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "부가육화음은 [[삼화음]]에 [[근음]]에서 육도 관계가 되는 음을 더한 [[화음]]이다. C장삼화음의 C·E·G에 A를 더한 C6가 한 예다.\n\n부가된 육도음은 바탕 삼화음의 세 구성음을 없애지 않고 음향을 확장한다. 화음 기호 6은 이런 추가음을 나타내며, 실제 연주에서는 음역과 중복음을 달리할 수 있다.\n\n육도음이 들린다는 이유만으로 모든 화음을 부가육화음이라고 부르지는 않는다. 어느 [[근음]]과 삼화음을 기준으로 추가된 음인지, [[화음의 자리바꿈]]이나 다른 화음으로 해석할 여지는 없는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "부가육화음은 [[삼화음]]에 [[근음]]에서 육도 관계가 되는 음을 더한 [[화음]]이다. C장삼화음의 C·E·G에 A를 더한 C6가 한 예다.\n\n부가된 육도음은 바탕 삼화음의 세 구성음을 없애지 않고 음향을 확장한다. 화음 기호 6은 이런 추가음을 나타내며, 실제 연주에서는 음역과 중복음을 달리할 수 있다.\n\n육도음이 들린다는 이유만으로 모든 화음을 부가육화음이라고 부르지는 않는다. 어느 [[근음]]과 삼화음을 기준으로 추가된 음인지, [[화음의 자리바꿈]]이나 다른 화음으로 해석할 여지는 없는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

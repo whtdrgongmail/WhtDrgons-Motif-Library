@@ -4,8 +4,8 @@
   "title": "마지막 순간 저지된 결정타",
   "original": "Thwarted Coup de Grâce",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02336",
+  "primary_tag_id": "ML-T02336",
   "description": {
     "definition": "[[죽음]]을 확정할 마지막 공격이 실행 직전에 멈추거나 방해받아 대상이 살아남는 [[전개]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "아직 승패가 정해지지 않은 교전 중의 일반 방어와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "28.004.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이미 죽음으로 이어질 마지막 공격이 실행 직전에 멈추거나 방해받는다. 대상이 스스로 버틸 수 있는 일반 교전보다 생존 가능성이 거의 사라진 시점에 개입이 발생한다.\n\n공격의 준비와 대상의 무방비 상태를 충분히 제시하면 중단 순간이 위기의 해소로 작동한다. 누가 어떤 이유로 멈추었는지에 따라 구원자의 등장, 공격자의 망설임, 관계의 반전이 서로 다른 후속 사건을 만든다.\n\n아직 승부가 열려 있는 싸움의 방어와는 위기의 단계가 다르다. 결정타가 멈췄다고 위험 전체가 끝나는 것은 아니며 한 번의 생존과 사건의 최종 해결은 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이미 죽음으로 이어질 마지막 공격이 실행 직전에 멈추거나 방해받는다. 대상이 스스로 버틸 수 있는 일반 교전보다 생존 가능성이 거의 사라진 시점에 개입이 발생한다.\n\n공격의 준비와 대상의 무방비 상태를 충분히 제시하면 중단 순간이 위기의 해소로 작동한다. 누가 어떤 이유로 멈추었는지에 따라 구원자의 등장, 공격자의 망설임, 관계의 반전이 서로 다른 후속 사건을 만든다.\n\n아직 승부가 열려 있는 싸움의 방어와는 위기의 단계가 다르다. 결정타가 멈췄다고 위험 전체가 끝나는 것은 아니며 한 번의 생존과 사건의 최종 해결은 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

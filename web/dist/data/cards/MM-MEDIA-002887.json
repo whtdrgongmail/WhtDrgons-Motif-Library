@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "바람과 함께 사라지다",
   "original": "Gone with the Wind",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Gone with the Wind"
+  ],
+  "tag_id": "ML-T02487",
   "primary_tag_id": "ML-T02487",
   "description": {
     "definition": "《바람과 함께 사라지다》는 영화 작품이다.",
-    "detail": "작품 사례: 《바람과 함께 사라지다》의 매미는 백인 가정의 돌봄을 맡는 흑인 여성 인물로 이 원형을 보여 준다. 이 사례는 흑인 여성 일반의 성격이 아니라 작품의 역할 배치를 설명한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.005",
     "review_status": "provisional",
@@ -39,9 +41,30 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014217",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014759",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-027552",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미국 남북전쟁 직전부터 재건기까지 스칼렛 오하라의 삶을 따라가는 서사 영화다. 강인하고 냉혹한 남부 여성의 생존과 욕망이 사회의 붕괴 및 변화와 함께 진행된다.\n\n원작 소설과 고전 할리우드의 시각은 남부를 낭만적으로 재현하는 경향을 가진다. 따라서 영화가 만든 아름다운 과거의 이미지와 그 시대의 실제 사회 전체를 구분하여 이해해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미국 남북전쟁 직전부터 재건기까지 스칼렛 오하라의 삶을 따라가는 서사 영화다. 강인하고 냉혹한 남부 여성의 생존과 욕망이 사회의 붕괴 및 변화와 함께 진행된다.\n\n원작 소설과 고전 할리우드의 시각은 남부를 낭만적으로 재현하는 경향을 가진다. 따라서 영화가 만든 아름다운 과거의 이미지와 그 시대의 실제 사회 전체를 구분하여 이해해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

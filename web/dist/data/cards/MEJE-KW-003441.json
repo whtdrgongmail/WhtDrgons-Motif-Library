@@ -4,8 +4,8 @@
   "title": "승리를 알리는 번쩍이는 조명",
   "original": "Blinking Lights of Victory",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01863",
+  "primary_tag_id": "ML-T01863",
   "description": {
     "definition": "승부나 경품의 결과가 확정되는 순간 불빛을 빠르게 켜고 끈다. 작은 결과도 무대의 큰 사건처럼 느끼게 하는 시각 신호다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "승리와 경품 당첨을 불빛의 빠른 점멸로 알리는 무대 연출이다. 말로 결과를 전달하는 것에 더해 화면 전체를 바꾸어 중요한 순간이라는 인상을 만든다.\n\n큰 상일수록 조명과 소리, 장식의 규모를 늘리면 성취의 크기를 즉시 비교할 수 있다. 게임에서도 성공 판정과 보상의 순간을 구분해 플레이어가 결과를 알아보게 하는 피드백으로 쓸 수 있다.\n\n번쩍이는 모든 조명이 승리를 뜻하지는 않는다. 실제 판정과 조명의 시점을 확인하며, [[관객]]을 향한 축하 효과와 작품 안의 경고 신호를 나누어 본다.",
+    "sections": [
+      [
+        "상세 설명",
+        "승리와 경품 당첨을 불빛의 빠른 점멸로 알리는 무대 연출이다. 말로 결과를 전달하는 것에 더해 화면 전체를 바꾸어 중요한 순간이라는 인상을 만든다.\n\n큰 상일수록 조명과 소리, 장식의 규모를 늘리면 성취의 크기를 즉시 비교할 수 있다. 게임에서도 성공 판정과 보상의 순간을 구분해 플레이어가 결과를 알아보게 하는 피드백으로 쓸 수 있다.\n\n번쩍이는 모든 조명이 승리를 뜻하지는 않는다. 실제 판정과 조명의 시점을 확인하며, [[관객]]을 향한 축하 효과와 작품 안의 경고 신호를 나누어 본다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

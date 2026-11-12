@@ -4,8 +4,8 @@
   "title": "수용소의 성적 폭력을 자극적으로 소비하는 대중소설",
   "original": "stalag fiction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-030280",
+  "primary_tag_id": "MEJE-KW-030280",
   "description": {
     "definition": "전쟁 포로수용소와 나치의 가해를 배경으로 성적 폭력과 굴욕을 자극적으로 상품화한 대중소설 유형이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.406.003",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이 유형은 나치 수용소나 전쟁 포로수용소를 배경으로 성적 폭력과 굴욕을 자극적인 독서 경험으로 구성한 대중소설을 가리킨다. 수용소라는 역사적 공간을 차용하지만, 기록과 증언보다 폭력의 선정적 재현을 판매의 중심에 둔다는 점이 분류의 핵심이다.\n\n[[나치의 잔혹함을 자극으로 소비하는 착취물]]과는 역사적 폭력을 소비 가능한 볼거리로 만드는 방식이 닮았다. 이 카드에서는 매체가 소설이라는 점, 반복되는 이야기의 구성과 독서 시장의 맥락을 구분해 다룬다. 배경만 수용소라고 해서 같은 범주로 분류할 수 없으며 작품의 표현 목적과 폭력의 배치가 기준이다.\n\n실제 생존자의 증언, 수용소의 역사를 조사한 논픽션, 피해자의 경험을 비판적으로 재현한 소설은 별도로 판단해야 한다. 분석에서는 피해를 재현하는 세부 장면보다 폭력이 어떤 시선으로 상품화되는지, 역사적 책임과 피해자의 관점이 어떻게 다뤄지는지 명확히 기록한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 유형은 나치 수용소나 전쟁 포로수용소를 배경으로 성적 폭력과 굴욕을 자극적인 독서 경험으로 구성한 대중소설을 가리킨다. 수용소라는 역사적 공간을 차용하지만, 기록과 증언보다 폭력의 선정적 재현을 판매의 중심에 둔다는 점이 분류의 핵심이다.\n\n[[나치의 잔혹함을 자극으로 소비하는 착취물]]과는 역사적 폭력을 소비 가능한 볼거리로 만드는 방식이 닮았다. 이 카드에서는 매체가 소설이라는 점, 반복되는 이야기의 구성과 독서 시장의 맥락을 구분해 다룬다. 배경만 수용소라고 해서 같은 범주로 분류할 수 없으며 작품의 표현 목적과 폭력의 배치가 기준이다.\n\n실제 생존자의 증언, 수용소의 역사를 조사한 논픽션, 피해자의 경험을 비판적으로 재현한 소설은 별도로 판단해야 한다. 분석에서는 피해를 재현하는 세부 장면보다 폭력이 어떤 시선으로 상품화되는지, 역사적 책임과 피해자의 관점이 어떻게 다뤄지는지 명확히 기록한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

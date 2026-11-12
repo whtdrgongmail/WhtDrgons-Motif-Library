@@ -4,8 +4,8 @@
   "title": "본 장면을 기억에서 지우고 싶다고 말하기",
   "original": "Brain Bleach",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01989",
+  "primary_tag_id": "ML-T01989",
   "description": {
     "definition": "인물이 충격적이거나 민망한 장면을 본 뒤 기억을 씻고 싶다고 과장한다. 실제 기억 변화가 아니라 강한 거부감의 말이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보고 싶지 않은 광경을 접한 인물이 기억을 씻어 내고 싶다고 과장하는 반응이다. 실제 기억의 조작보다 강한 당황과 혐오를 언어로 표현하는 데 중심이 있다.\n\n보통의 불평으로 부족하다는 듯 거창한 정화의 이미지를 꺼내면 민망한 장면의 강도가 희극적으로 커진다. 다른 인물이 뒤늦게 같은 것을 보게 하면 반응의 반복과 차이가 다음 농담이 된다.\n\n기억이 실제로 지워지는 설정과 비유적인 발언을 구분한다. 표현의 과장을 현실의 신체에 행하는 행동으로 바꾸지 않으며, 당사자의 거부감을 대상 전체에 대한 객관적인 평가로 받아들이지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보고 싶지 않은 광경을 접한 인물이 기억을 씻어 내고 싶다고 과장하는 반응이다. 실제 기억의 조작보다 강한 당황과 혐오를 언어로 표현하는 데 중심이 있다.\n\n보통의 불평으로 부족하다는 듯 거창한 정화의 이미지를 꺼내면 민망한 장면의 강도가 희극적으로 커진다. 다른 인물이 뒤늦게 같은 것을 보게 하면 반응의 반복과 차이가 다음 농담이 된다.\n\n기억이 실제로 지워지는 설정과 비유적인 발언을 구분한다. 표현의 과장을 현실의 신체에 행하는 행동으로 바꾸지 않으며, 당사자의 거부감을 대상 전체에 대한 객관적인 평가로 받아들이지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

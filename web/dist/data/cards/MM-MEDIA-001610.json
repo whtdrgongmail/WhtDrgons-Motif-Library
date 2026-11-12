@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "스팅",
   "original": "The Sting",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "The Sting"
+  ],
+  "tag_id": "ML-T02487",
   "primary_tag_id": "ML-T02487",
   "description": {
     "definition": "《스팅》은 영화 작품이다.",
-    "detail": "작품 사례: 《스팅》에서 사기꾼들은 불법 도박장의 운반책을 속였다가 보복을 당하고, 다시 도박장을 꾸려 조직 보스에게 복수할 계획을 세운다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.005",
     "review_status": "provisional",
@@ -39,9 +41,26 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014651",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-017014",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "조지 로이 힐이 연출한 1973년 사기극 영화로, 동료를 살해한 조직의 우두머리에게 복수하려는 두 사기꾼을 중심으로 한다. 직접적인 공격보다 상대가 스스로 믿고 참여할 상황을 만드는 계획이 중심이다.\n\n미숙한 후커는 노련한 곤도프를 찾아 팀을 모으고, 표적이 속았다는 사실조차 알지 못하게 큰 판을 준비한다. 그러나 경찰과 암살자의 추적이 겹치면서 계획의 바깥에서도 위험을 관리해야 한다.\n\n관객에게 보여 주는 정보 역시 인물의 사기와 연결되어 실제 연기와 진실을 구분하기 어렵게 만든다. 각 단계의 의미가 나중에 다시 해석되는 구성이므로, 치밀한 준비와 관객의 기대를 통제하는 서술이 함께 작동한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조지 로이 힐이 연출한 1973년 사기극 영화로, 동료를 살해한 조직의 우두머리에게 복수하려는 두 사기꾼을 중심으로 한다. 직접적인 공격보다 상대가 스스로 믿고 참여할 상황을 만드는 계획이 중심이다.\n\n미숙한 후커는 노련한 곤도프를 찾아 팀을 모으고, 표적이 속았다는 사실조차 알지 못하게 큰 판을 준비한다. 그러나 경찰과 암살자의 추적이 겹치면서 계획의 바깥에서도 위험을 관리해야 한다.\n\n관객에게 보여 주는 정보 역시 인물의 사기와 연결되어 실제 연기와 진실을 구분하기 어렵게 만든다. 각 단계의 의미가 나중에 다시 해석되는 구성이므로, 치밀한 준비와 관객의 기대를 통제하는 서술이 함께 작동한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "작품 안에 숨은 제작사 흔적",
   "original": "Company Cameo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "제작사가 자사의 이름이나 로고를 작품 세계의 배경과 소품에 넣어 자신을 짧게 드러내는 표현. 제작사의 로고를 남기는 대신 같은 회사의 다른 작품을 보여 주면 [[같은 제작사의 작품끼리 언급하기]]이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작품 안에 제작사와 배급사의 이름, 로고 같은 흔적을 넣는 방식이다. 시작 화면의 공식 표기와 달리 이야기의 소품과 배경 속에 등장한다.\n\n회사에 대한 자부심과 자기 풍자, 세밀한 관찰을 위한 숨은 요소로 사용될 수 있다. 짧게 보이면 알아본 관객만 추가적인 재미를 얻는다.\n\n창작자 개인이 출연하는 것과는 대상이 다르다. 같은 회사의 다른 작품을 언급하는 경우와도 구별되며, 이 방식에서는 회사 자체가 관객의 인식 대상이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작품 안에 제작사와 배급사의 이름, 로고 같은 흔적을 넣는 방식이다. 시작 화면의 공식 표기와 달리 이야기의 소품과 배경 속에 등장한다.\n\n회사에 대한 자부심과 자기 풍자, 세밀한 관찰을 위한 숨은 요소로 사용될 수 있다. 짧게 보이면 알아본 관객만 추가적인 재미를 얻는다.\n\n창작자 개인이 출연하는 것과는 대상이 다르다. 같은 회사의 다른 작품을 언급하는 경우와도 구별되며, 이 방식에서는 회사 자체가 관객의 인식 대상이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

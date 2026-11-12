@@ -5,8 +5,8 @@
   "original": "Time-Zone Differences Strain a Long-Distance Romance",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "멀리 사는 연인의 활동 시간이 크게 달라 연락 시점이 어긋나고 이해 부족이나 오해가 생기는 [[관계 갈등]]이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "정서적 관심 부족이 실제 원인인 경우와 달리 시간 구조가 소통의 장벽이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한쪽이 이야기하고 싶을 때 다른 쪽은 잠들거나 일하고 있다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "멀리 사는 연인들의 생활 시간이 크게 달라 연락할 기회가 어긋난다. 서로 활동하는 시간의 구조가 소통의 장벽이 되는 갈등이다.\n\n연락이 닿지 않는 일이 이해의 부족이나 오해로 이어질 수 있다. 물리적인 거리뿐 아니라 언제 깨어 있고 행동하는지가 관계에 영향을 준다.\n\n관심이 없어 일부러 연락하지 않는 경우와 다르다. 시간대의 차이가 실제 원인이라는 조건이 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "멀리 사는 연인들의 생활 시간이 크게 달라 연락할 기회가 어긋난다. 서로 활동하는 시간의 구조가 소통의 장벽이 되는 갈등이다.\n\n연락이 닿지 않는 일이 이해의 부족이나 오해로 이어질 수 있다. 물리적인 거리뿐 아니라 언제 깨어 있고 행동하는지가 관계에 영향을 준다.\n\n관심이 없어 일부러 연락하지 않는 경우와 다르다. 시간대의 차이가 실제 원인이라는 조건이 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

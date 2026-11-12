@@ -5,8 +5,8 @@
   "original": "A Real Person Enters a Comic",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02508",
+  "primary_tag_id": "ML-T02508",
   "description": {
     "definition": "현실을 살아가던 인물이 특정 만화 속 공간으로 이동하여 그 이야기의 내부와 직접 관계를 맺는 설정이다.",
     "detail": "작품 사례: 《[[W]]》에서는 웹툰 작가인 아버지가 실종된 뒤 외과의사인 딸이 그 웹툰의 세계로 들어간다.",
@@ -14,10 +14,10 @@
     "boundary": "평범한 꿈이나 만화를 읽는 몰입의 비유와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.002.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현실에서 살던 인물이 특정 만화의 세계 안으로 이동한다. 작품을 밖에서 읽던 관계가 그 공간의 사건에 직접 참여하는 관계로 바뀐다.\n\n현실의 인물과 창작된 세계가 서로 어떤 영향을 주는지가 이야기의 규칙이 된다. 두 영역 사이의 경계와 이동 이후의 인과관계를 함께 구성한다.\n\n꿈을 꾸거나 독서에 깊이 몰입했다는 비유와 다르다. 이야기 안에서 실제 이동으로 취급되어 만화 내부와 관계를 맺어야 한다.\n\n《[[W]]》에서는 웹툰 작가인 아버지가 실종된 뒤 외과의사인 딸이 그 웹툰의 세계로 들어간다.\n\n[[W]]",
+    "sections": [
+      [
+        "상세 설명",
+        "현실에서 살던 인물이 특정 만화의 세계 안으로 이동한다. 작품을 밖에서 읽던 관계가 그 공간의 사건에 직접 참여하는 관계로 바뀐다.\n\n현실의 인물과 창작된 세계가 서로 어떤 영향을 주는지가 이야기의 규칙이 된다. 두 영역 사이의 경계와 이동 이후의 인과관계를 함께 구성한다.\n\n꿈을 꾸거나 독서에 깊이 몰입했다는 비유와 다르다. 이야기 안에서 실제 이동으로 취급되어 만화 내부와 관계를 맺어야 한다."
+      ],
+      [
+        "사례",
+        "《[[W]]》에서는 웹툰 작가인 아버지가 실종된 뒤 외과의사인 딸이 그 웹툰의 세계로 들어간다."
+      ],
+      [
+        "관련 작품",
+        "[[W]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000291",
   "kind": "keyword",
   "title": "성별 고정관념",
-  "original": "",
+  "original": "Gender stereotype",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F15",
   "description": {
-    "definition": "",
+    "definition": "성별을 근거로 개인의 성격, 능력, 행동이나 사회적 역할을 단순화해 일반화하는 믿음이나 기대.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "15",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "사람의 성별만 보고 어떤 성격이나 역할을 맡아야 한다고 여기는 고정된 생각이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성별 고정관념은 서사에서 인물의 실패와 책임을 다르게 설명하는 방식으로 나타날 수 있다. 여성 통치자의 실패는 여성 전체의 결함으로 일반화하면서 남성 인물의 유사한 실패는 개인의 문제로 한정하는 경우가 이에 해당한다.\n\n이런 서술은 특정 성별에게만 집단 책임을 부과하고 다른 성별에게는 개인적 예외를 허용한다. 해당 관념은 작품이 어떤 사회적 기대와 권력 관계를 재생산하거나 비판하는지와 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성별 고정관념은 서사에서 인물의 실패와 책임을 다르게 설명하는 방식으로 나타날 수 있다. 여성 통치자의 실패는 여성 전체의 결함으로 일반화하면서 남성 인물의 유사한 실패는 개인의 문제로 한정하는 경우가 이에 해당한다.\n\n이런 서술은 특정 성별에게만 집단 책임을 부과하고 다른 성별에게는 개인적 예외를 허용한다. 해당 관념은 작품이 어떤 사회적 기대와 권력 관계를 재생산하거나 비판하는지와 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

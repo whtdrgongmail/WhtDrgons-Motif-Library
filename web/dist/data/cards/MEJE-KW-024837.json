@@ -4,8 +4,8 @@
   "title": "함께 갇혀 관계를 마주하기",
   "original": "Locked in a Room",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "MM-UNSET-000783",
+  "primary_tag_id": "MM-UNSET-000783",
   "description": {
     "definition": "서로 피하거나 불편해하던 인물들이 한 공간에서 벗어날 수 없어 함께 시간을 보내고 대화하게 되는 구도이다.",
     "detail": "작품 사례: 《[[아바타: 아앙의 전설]]》에서 카타라와 주코는 동굴에 함께 갇혀 비슷한 상처를 이야기하며 가까워질 기회를 얻지만, 이후 주코의 선택으로 관계가 다시 악화된다.",
@@ -13,14 +13,20 @@
     "boundary": "생존 위험이 필수는 아니며 실제 방 대신 지붕이나 제한된 장소도 가능하다. 화해가 반드시 성공할 필요도 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
-    "review_status": "provisional",
+    "code": "10.003.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "나갈 수 없어서 계속 마주하다 보니 상대를 새로 보게 된다.",
     "review_status": "reviewed",
@@ -38,5 +44,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 피하던 인물들이 제한된 공간을 벗어나지 못해 함께 머무는 구도다. 회피의 선택지가 줄어들면서 대화와 관찰이 강제된다.\n\n강제적 근접성은 평소 보이지 않던 성격과 사정을 드러낼 수 있다. 화해뿐 아니라 불화가 더 분명해지는 결과도 가능하다. 당장 떠날 수 없다는 조건이 회피하던 대화를 미루기 어렵게 하여, 물리적 감금이 관계의 정보와 감정을 교환하는 계기가 된다.\n\n생명을 위협하는 함정이나 문자 그대로의 방이 필수는 아니다. 다른 사람을 피할 수 없는 공간 조건이 관계에 영향을 주어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 피하던 인물들이 제한된 공간을 벗어나지 못해 함께 머무는 구도다. 회피의 선택지가 줄어들면서 대화와 관찰이 강제된다.\n\n강제적 근접성은 평소 보이지 않던 성격과 사정을 드러낼 수 있다. 화해뿐 아니라 불화가 더 분명해지는 결과도 가능하다. 당장 떠날 수 없다는 조건이 회피하던 대화를 미루기 어렵게 하여, 물리적 감금이 관계의 정보와 감정을 교환하는 계기가 된다.\n\n생명을 위협하는 함정이나 문자 그대로의 방이 필수는 아니다. 다른 사람을 피할 수 없는 공간 조건이 관계에 영향을 주어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

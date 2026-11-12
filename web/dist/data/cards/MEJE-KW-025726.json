@@ -5,8 +5,8 @@
   "original": "Gentle Slice of Life Without a Villain",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00371",
+  "primary_tag_id": "ML-T00371",
   "description": {
     "definition": "누군가의 악의나 격렬한 [[갈등]]보다 평범하고 온화한 생활 경험을 중심으로 이야기를 구성한다.",
     "detail": "",
@@ -14,17 +14,20 @@
     "boundary": "악역 없이도 큰 제도적 갈등이 있는 이야기와 강조점이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.117.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -37,5 +40,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "큰 악역과 격렬한 적대보다 평범하고 온화한 생활 경험을 중심으로 진행한다. 사건의 가치는 적을 이기는 성취보다 관계와 일상의 작은 변화에서 생긴다.\n\n관객은 누가 승리할지보다 인물이 같은 시간을 어떻게 보내는지에 주의를 기울일 수 있다. 반복되는 장소와 습관 속의 미세한 차이를 쌓으면 큰 위기 없이도 친밀함과 시간의 흐름을 전달한다.\n\n악역이 없다는 조건만으로 잔잔한 일상이 되는 것은 아니다. 큰 제도적 갈등이나 재난이 중심인 이야기와는 긴장의 크기가 다르며 사건이 작다는 사실을 변화의 부재와 동일시하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "큰 악역과 격렬한 적대보다 평범하고 온화한 생활 경험을 중심으로 진행한다. 사건의 가치는 적을 이기는 성취보다 관계와 일상의 작은 변화에서 생긴다.\n\n관객은 누가 승리할지보다 인물이 같은 시간을 어떻게 보내는지에 주의를 기울일 수 있다. 반복되는 장소와 습관 속의 미세한 차이를 쌓으면 큰 위기 없이도 친밀함과 시간의 흐름을 전달한다.\n\n악역이 없다는 조건만으로 잔잔한 일상이 되는 것은 아니다. 큰 제도적 갈등이나 재난이 중심인 이야기와는 긴장의 크기가 다르며 사건이 작다는 사실을 변화의 부재와 동일시하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

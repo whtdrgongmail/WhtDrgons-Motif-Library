@@ -5,8 +5,8 @@
   "original": "Pretending the Wrong Victim Was an Accident",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "의도한 살해 대상을 처음부터 노렸으면서 다른 사람으로 착각한 실수였다고 보이게 하는 전개이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "실제 오인 살해와 달리 착오 자체가 위장이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원래 의도한 사람을 죽이고도 다른 사람으로 착각했다고 꾸민다. 살인의 표면적 설명에 거짓된 실수를 넣는 전개다.\n\n수사자는 대상의 선택이 우연인지 의도인지 구분해야 한다. 처음부터 알고 노렸다는 정보가 드러나면 동기와 책임의 해석이 바뀐다.\n\n실제로 사람을 잘못 알아보고 죽인 경우와 다르다. 오인 자체가 의도적으로 연출된 위장이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원래 의도한 사람을 죽이고도 다른 사람으로 착각했다고 꾸민다. 살인의 표면적 설명에 거짓된 실수를 넣는 전개다.\n\n수사자는 대상의 선택이 우연인지 의도인지 구분해야 한다. 처음부터 알고 노렸다는 정보가 드러나면 동기와 책임의 해석이 바뀐다.\n\n실제로 사람을 잘못 알아보고 죽인 경우와 다르다. 오인 자체가 의도적으로 연출된 위장이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

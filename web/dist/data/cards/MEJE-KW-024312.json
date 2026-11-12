@@ -5,8 +5,8 @@
   "original": "Lifesteal Reversed on the Undead",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02110",
+  "primary_tag_id": "ML-T02110",
   "description": {
     "definition": "생명력이 없는 언데드에게 흡수 공격을 사용하면 효과가 없거나 상대를 회복하고 사용자가 피해를 입는 역전이 일어난다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.005.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "언데드에게 생명력 흡수를 쓰면 효과가 없거나 공격의 이득과 손해가 뒤집힌다. 살아 있는 대상에서 통하던 자원 교환이 다른 존재 조건에서는 성립하지 않는다.\n\n사용자는 강한 흡수 능력을 반복하기보다 상대의 성질을 먼저 확인해야 한다. 실패와 역효과의 차이를 명확히 하면 능력의 일반적인 효율과 특정 대상의 위험을 구별할 수 있다.\n\n언데드에게 모든 회복과 흡수가 같은 효과를 낸다는 뜻은 아니다. 정의에 포함된 여러 역전 중 실제 규칙을 확인해야 하며 생명의 유무라는 설정과 현실의 에너지 개념을 섞지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "언데드에게 생명력 흡수를 쓰면 효과가 없거나 공격의 이득과 손해가 뒤집힌다. 살아 있는 대상에서 통하던 자원 교환이 다른 존재 조건에서는 성립하지 않는다.\n\n사용자는 강한 흡수 능력을 반복하기보다 상대의 성질을 먼저 확인해야 한다. 실패와 역효과의 차이를 명확히 하면 능력의 일반적인 효율과 특정 대상의 위험을 구별할 수 있다.\n\n언데드에게 모든 회복과 흡수가 같은 효과를 낸다는 뜻은 아니다. 정의에 포함된 여러 역전 중 실제 규칙을 확인해야 하며 생명의 유무라는 설정과 현실의 에너지 개념을 섞지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "마스코트 호러",
   "original": "Mascot Horror",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-016273",
+  "primary_tag_id": "MEJE-KW-016273",
   "description": {
     "definition": "어린이에게 친숙할 법한 마스코트와 상품·놀이 공간의 이미지를 위협적인 존재나 환경으로 뒤집는 공포 유형이다.",
     "detail": "귀여운 캐릭터와 어린 시절의 장소가 공포와 대비된다. 외형이 귀엽거나 팬덤이 겹친다는 이유만으로 모든 게임을 이 [[장르]]로 분류하지 않는다.\n\n작품 사례: 《[[프레디의 피자가게]]》는 가족용 피자가게의 마스코트들이 야간 근무자를 위협하는 설정으로 친숙한 어린이 공간을 공포로 바꾼다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.105.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "귀여운 캐릭터와 어린 시절의 장소가 공포와 대비된다. 외형이 귀엽거나 팬덤이 겹친다는 이유만으로 모든 게임을 이 [[장르]]로 분류하지 않는다.\n\n모든 유명 괴물 캐릭터나 마스코트가 있는 공포물 전체를 뜻하지 않는다.\n\n작품 사례: 《[[프레디의 피자가게]]》는 가족용 피자가게의 마스코트들이 야간 근무자를 위협하는 설정으로 친숙한 어린이 공간을 공포로 바꾼다.",
+    "sections": [
+      [
+        "상세 설명",
+        "귀여운 캐릭터와 어린 시절의 장소가 공포와 대비된다. 외형이 귀엽거나 팬덤이 겹친다는 이유만으로 모든 게임을 이 [[장르]]로 분류하지 않는다.\n\n모든 유명 괴물 캐릭터나 마스코트가 있는 공포물 전체를 뜻하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[프레디의 피자가게]]》는 가족용 피자가게의 마스코트들이 야간 근무자를 위협하는 설정으로 친숙한 어린이 공간을 공포로 바꾼다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

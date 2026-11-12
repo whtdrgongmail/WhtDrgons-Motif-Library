@@ -4,8 +4,8 @@
   "title": "상대가 감당하기 어려운 순간의 고백",
   "original": "Poorly Timed Confession",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00687",
+  "primary_tag_id": "ML-T00687",
   "description": {
     "definition": "상대가 이미 큰 충격이나 고통을 겪는 시점에 중요한 비밀이나 감정을 밝혀 부담과 갈등을 더하는 전개다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "큰 상실을 겪고 겨우 진정하던 인물에게 또 다른 충격적인 사실을 말해 상황이 악화되는 경우다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "말하는 인물에게는 더 미룰 수 없는 이유가 있을 수 있지만, 듣는 인물의 상태는 그 내용을 받아들일 준비가 되어 있지 않다. 고백의 내용과 시점이 서로 작용하여 같은 말도 다른 때보다 거세게 받아들여진다. [[숨겨진 정보의 공개]]뿐 아니라 [[사랑을 고백하기]]도 이런 충돌을 만들 수 있다.\n\n상대가 화를 내거나 무너지고, 말한 사람이 뒤늦게 죄책감을 느끼면 정보의 공개가 새로운 관계 갈등으로 이어진다. [[뜻을 제대로 전하지 못해 참사가 생기기]]가 내용의 전달 실패에 초점을 둔다면 이 경우는 전달된 사실이 맞더라도 시점 때문에 문제가 생긴다. 단순히 상대가 바빠 대화를 미루는 장면과도 구별된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "말하는 인물에게는 더 미룰 수 없는 이유가 있을 수 있지만, 듣는 인물의 상태는 그 내용을 받아들일 준비가 되어 있지 않다. 고백의 내용과 시점이 서로 작용하여 같은 말도 다른 때보다 거세게 받아들여진다. [[숨겨진 정보의 공개]]뿐 아니라 [[사랑을 고백하기]]도 이런 충돌을 만들 수 있다.\n\n상대가 화를 내거나 무너지고, 말한 사람이 뒤늦게 죄책감을 느끼면 정보의 공개가 새로운 관계 갈등으로 이어진다. [[뜻을 제대로 전하지 못해 참사가 생기기]]가 내용의 전달 실패에 초점을 둔다면 이 경우는 전달된 사실이 맞더라도 시점 때문에 문제가 생긴다. 단순히 상대가 바빠 대화를 미루는 장면과도 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

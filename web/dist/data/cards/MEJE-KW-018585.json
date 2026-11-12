@@ -4,8 +4,8 @@
   "title": "쉽게 눈에 띄는 미행",
   "original": "Incredibly Obvious Tail",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00740",
+  "primary_tag_id": "ML-T00740",
   "description": {
     "definition": "추적자가 뒤를 돌아보면 알아볼 만큼 노골적으로 따라가는데도 미행을 계속하는 장면이다.",
     "detail": "서투른 미행과 의도적인 압박을 모두 표현할 수 있다. 잘 보이는 미행자를 미끼로 삼고 다른 추적자는 숨기는 변형도 있다.\n\n작품 사례: 《[[데스노트]]》에서 레이 펜버는 야가미 라이토를 미행하다가 상대에게 발견된다.",
@@ -13,30 +13,43 @@
     "boundary": "대놓고 뒤쫓아 붙잡는 추격과 달리 미행이나 감시라는 상황이 전제된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "숨으려는 추적자가 너무 잘 보여 뒤쫓는다는 사실이 드러난다.\n\n작품 사례: 《[[데스노트]]》에서 레이 펜버는 야가미 라이토를 미행하다가 상대에게 발견된다.",
+    "easy_ko": "숨으려는 추적자가 너무 잘 보여 뒤쫓는다는 사실이 드러난다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001526",
+      "work_card_id": "MM-MEDIA-002463",
       "description_ko": "《데스노트》에서 레이 펜버는 야가미 라이토를 미행하다가 상대에게 발견된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미행자가 눈에 띄게 같은 경로를 따라와 조금만 주의하면 알아차릴 수 있는 표현이다. 은밀해야 할 행동의 외형이 관객에게 명확하게 드러나 추적의 긴장이나 무능의 희극을 만든다.\n\n대상이 알아차리지 못하면 관객과 인물의 정보 차이가 커진다. 반대로 일부러 눈에 띄게 따라가면 숨은 조사의 실패가 아니라 행동을 억제하려는 위협일 수 있어, 같은 외형도 목적에 따라 의미가 달라진다.\n\n서툰 미행만 보고 상대의 전체 능력을 확정할 수는 없다. 다른 추적을 가리는 역할일 수도 있으며, 관객에게 보이기 위한 연출과 등장인물이 실제로 인식한 정도를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미행자가 눈에 띄게 같은 경로를 따라와 조금만 주의하면 알아차릴 수 있는 표현이다. 은밀해야 할 행동의 외형이 관객에게 명확하게 드러나 추적의 긴장이나 무능의 희극을 만든다.\n\n대상이 알아차리지 못하면 관객과 인물의 정보 차이가 커진다. 반대로 일부러 눈에 띄게 따라가면 숨은 조사의 실패가 아니라 행동을 억제하려는 위협일 수 있어, 같은 외형도 목적에 따라 의미가 달라진다.\n\n서툰 미행만 보고 상대의 전체 능력을 확정할 수는 없다. 다른 추적을 가리는 역할일 수도 있으며, 관객에게 보이기 위한 연출과 등장인물이 실제로 인식한 정도를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

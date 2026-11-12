@@ -4,8 +4,8 @@
   "title": "사건 속으로 뛰어드는 기자",
   "original": "Intrepid Reporter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "기사를 기다려 전달하는 데 머물지 않고 취재할 사건을 적극적으로 찾아 현장과 전개에 직접 관여하는 기자 유형이다.",
     "detail": "작품 사례: [[Dark Heritage]]의 기자 클린트는 살인 사건과 댄슨 가문을 직접 조사하다가, 정보를 전하려던 상대가 바로 그 가문의 일원임을 깨닫고 위험에 빠진다.",
@@ -13,10 +13,10 @@
     "boundary": "이미 정리된 정보를 방송에서 읽기만 하는 역할과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,10 +31,10 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-000221",
+      "work_card_id": "MM-MEDIA-002743",
       "description_ko": "Dark Heritage의 기자 클린트는 살인 사건과 댄슨 가문을 직접 조사하다가, 정보를 전하려던 상대가 바로 그 가문의 일원임을 깨닫고 위험에 빠진다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     },
     {
       "media_tag_id": "ML-T00148",
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "취재를 위해 현장에 접근하고 단서를 따라가는 행동이 기자를 사건의 참여자로 만든다. 정보를 전달하는 직무와 진실을 알아내기 위한 위험이 결합하여, 조사 과정 자체가 이야기의 동력이 된다.\n\n이미 정리된 정보를 읽어 주는 역할과는 능동성이 다르다. 위험에 우연히 휘말렸다는 사실만으로 충분하지 않으며, 취재를 위한 선택이 사건을 더 깊이 조사하게 하는지 확인한다.\n\n《[[Dark Heritage]]》의 기자 클린트는 살인 사건과 댄슨 가문을 조사하다가 정보를 전하려던 상대가 그 가문의 일원임을 깨닫는다. 취재로 얻은 단서가 곧 위험에 빠지는 계기가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "취재를 위해 현장에 접근하고 단서를 따라가는 행동이 기자를 사건의 참여자로 만든다. 정보를 전달하는 직무와 진실을 알아내기 위한 위험이 결합하여, 조사 과정 자체가 이야기의 동력이 된다.\n\n이미 정리된 정보를 읽어 주는 역할과는 능동성이 다르다. 위험에 우연히 휘말렸다는 사실만으로 충분하지 않으며, 취재를 위한 선택이 사건을 더 깊이 조사하게 하는지 확인한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Dark Heritage]]》의 기자 클린트는 살인 사건과 댄슨 가문을 조사하다가 정보를 전하려던 상대가 그 가문의 일원임을 깨닫는다. 취재로 얻은 단서가 곧 위험에 빠지는 계기가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

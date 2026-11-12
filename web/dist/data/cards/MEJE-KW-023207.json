@@ -5,8 +5,8 @@
   "original": "Ignoring the Recipe and Wrecking the Meal",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00815",
+  "primary_tag_id": "ML-T00815",
   "description": {
     "definition": "기본 조합을 이해하지 못하면서 레시피를 불필요하다고 여기고 제멋대로 재료를 섞어 음식을 망치는 전개이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "요리 실력이 있으나 기괴한 취향의 음식을 의도적으로 만드는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.010.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기본 조합을 모르면서 조리법을 무시하고 재료를 섞어 음식을 망친다. 자신감과 기초 역량의 불균형이 결과로 드러나는 전개다.\n\n실험하고 싶다는 태도 자체보다 필요한 지식의 부재가 실패를 만든다. 무엇을 이해하지 못했고 왜 지침을 거부했는지를 연결하면 희극의 구조가 보인다.\n\n능숙한 요리사가 기괴한 취향을 의도적으로 구현한 경우와 다르다. 실패의 원인은 무모한 무지여야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기본 조합을 모르면서 조리법을 무시하고 재료를 섞어 음식을 망친다. 자신감과 기초 역량의 불균형이 결과로 드러나는 전개다.\n\n실험하고 싶다는 태도 자체보다 필요한 지식의 부재가 실패를 만든다. 무엇을 이해하지 못했고 왜 지침을 거부했는지를 연결하면 희극의 구조가 보인다.\n\n능숙한 요리사가 기괴한 취향을 의도적으로 구현한 경우와 다르다. 실패의 원인은 무모한 무지여야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

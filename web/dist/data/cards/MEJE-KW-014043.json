@@ -4,8 +4,8 @@
   "title": "몸이 불어나며 굵어지는 목소리",
   "original": "Heavy Voice",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "인물의 몸이 짧은 시간에 크게 불어날 때 목소리도 더 낮고 두꺼워지도록 바꾸는 음향 과장이다.",
     "detail": "작품 사례: [[All Hail King Julien]]의 Clover는 사탕에 빠져 몸집이 크게 불어나고, 늘어난 몸의 부피에 맞춰 목소리도 더 거칠게 바뀐다.",
@@ -13,10 +13,10 @@
     "boundary": "힘이 강해져 음성이 변하거나 원래 낮은 목소리인 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "몸집이 갑자기 커지는 변화와 목소리가 굵고 거칠어지는 변화를 함께 배치하는 표현이다. 관객은 외형뿐 아니라 소리에서도 커진 몸을 인식하게 되며, 체적의 변화를 음성까지 확대하는 과장이 생긴다.\n\n처음부터 낮은 목소리를 가진 인물과는 다르다. 힘이 강해졌다는 사실만으로 음성이 바뀌는 경우도 별개이며, 여기서는 몸의 부피 증가와 음성 변화가 동시에 연결되어야 한다. 현실의 신체 변화 원리를 일반화하기보다 작품의 표현 규칙으로 이해해야 한다.\n\n[[All Hail King Julien]]의 Clover는 사탕에 빠져 몸집이 크게 늘어난다. 그 외형 변화에 맞춰 목소리도 더 거칠게 표현되어, 커진 부피를 청각적으로도 강조한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "몸집이 갑자기 커지는 변화와 목소리가 굵고 거칠어지는 변화를 함께 배치하는 표현이다. 관객은 외형뿐 아니라 소리에서도 커진 몸을 인식하게 되며, 체적의 변화를 음성까지 확대하는 과장이 생긴다.\n\n처음부터 낮은 목소리를 가진 인물과는 다르다. 힘이 강해졌다는 사실만으로 음성이 바뀌는 경우도 별개이며, 여기서는 몸의 부피 증가와 음성 변화가 동시에 연결되어야 한다. 현실의 신체 변화 원리를 일반화하기보다 작품의 표현 규칙으로 이해해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[All Hail King Julien]]의 Clover는 사탕에 빠져 몸집이 크게 늘어난다. 그 외형 변화에 맞춰 목소리도 더 거칠게 표현되어, 커진 부피를 청각적으로도 강조한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

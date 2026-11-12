@@ -4,27 +4,27 @@
   "title": "터미네이터",
   "original": "Terminator",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《터미네이터》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《터미네이터》 시리즈는 인간이 자신들을 제거하려는 기계와 싸우며 생존과 미래를 지키는 대립을 중심에 둔다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -45,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《터미네이터》는 시간 여행을 하는 살인 기계를 중심에 둔 SF 액션 프랜차이즈다. 첫 영화에서 출발해 여러 매체로 이어졌다. 미래의 기계 전쟁에서 보낸 존재들이 과거의 인물에게 접근하며 현재의 생존을 위협한다.\n\n인간은 자신들을 제거하려는 기계와 싸운다. 생존뿐 아니라 미래의 전개가 대립의 대상이다. 개별 영화와 후속 판본의 시간선이 다를 수 있어 시리즈의 모든 사건을 하나의 확정된 역사로 합칠 수는 없다.\n\n과거에 대한 개입은 미래를 바꾸려는 수단이다. 현재 벌어지는 추격의 결과가 인류의 장기적인 생존 가능성과 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《터미네이터》는 시간 여행을 하는 살인 기계를 중심에 둔 SF 액션 프랜차이즈다. 첫 영화에서 출발해 여러 매체로 이어졌다. 미래의 기계 전쟁에서 보낸 존재들이 과거의 인물에게 접근하며 현재의 생존을 위협한다.\n\n인간은 자신들을 제거하려는 기계와 싸운다. 생존뿐 아니라 미래의 전개가 대립의 대상이다. 개별 영화와 후속 판본의 시간선이 다를 수 있어 시리즈의 모든 사건을 하나의 확정된 역사로 합칠 수는 없다.\n\n과거에 대한 개입은 미래를 바꾸려는 수단이다. 현재 벌어지는 추격의 결과가 인류의 장기적인 생존 가능성과 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

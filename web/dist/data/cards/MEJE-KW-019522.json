@@ -5,8 +5,8 @@
   "original": "Transformation Fails on an Already-Transformed Target",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "대상을 특정 존재나 상태로 바꾸는 능력이 이미 그 상태인 대상에게는 새로운 변화를 일으키지 못한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "변신 [[마법]]을 막는 방어 능력과 현재 상태 때문에 효과가 없는 경우를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대상을 특정 상태로 바꾸는 효과가 이미 그 상태인 상대에게는 새 변화를 주지 못한다. 능력의 결과와 대상의 현재 상태가 같기 때문이다.\n\n겉으로는 능력이 실패한 듯 보여도 방어가 작동한 것은 아닐 수 있다. 무엇으로 바꾸려 했고 상대가 무엇인지 비교하면 무효의 이유가 드러난다.\n\n변신을 막는 저항 능력과 구별한다. 변화의 여지가 없다는 상태상의 조건이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대상을 특정 상태로 바꾸는 효과가 이미 그 상태인 상대에게는 새 변화를 주지 못한다. 능력의 결과와 대상의 현재 상태가 같기 때문이다.\n\n겉으로는 능력이 실패한 듯 보여도 방어가 작동한 것은 아닐 수 있다. 무엇으로 바꾸려 했고 상대가 무엇인지 비교하면 무효의 이유가 드러난다.\n\n변신을 막는 저항 능력과 구별한다. 변화의 여지가 없다는 상태상의 조건이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "먹을거리를 범죄 단서로 오인하는 수색견",
   "original": "Hounds Hunt a Ham",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00738",
+  "primary_tag_id": "ML-T00738",
   "description": {
     "definition": "수색견이 음식이나 장난감에 관심을 보인 것을 조련사가 범죄 물질이나 추적 대상의 발견으로 오해하는 희극 상황.",
     "detail": "작품 사례: 《[[역전재판]]》에서 수사를 돕도록 빌린 미사일은 핫도그 가판대에 정신이 팔려 수색에 도움이 되지 않는다. 유능한 수색을 기대했던 상황이 개의 먹을거리 관심으로 바뀐다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 탐지견의 정확도나 수사 제도를 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수색견이 음식 등에 보인 관심을 사람이 추적 성공의 신호로 오인한다. 개의 행동과 조련사의 해석이 어긋나는 희극이다.\n\n전문적인 수색을 기대하던 장면이 일상적인 먹을거리의 유혹으로 바뀐다. 발견에 대한 성급한 확신이 틀린 방향으로 행동하게 만들 수 있다.\n\n제공 원문은 실제 탐지견의 용도와 매체 속 실패의 묘사를 구별한다. 이런 장면으로 현실 탐지견 전체의 정확도나 제도를 평가할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수색견이 음식 등에 보인 관심을 사람이 추적 성공의 신호로 오인한다. 개의 행동과 조련사의 해석이 어긋나는 희극이다.\n\n전문적인 수색을 기대하던 장면이 일상적인 먹을거리의 유혹으로 바뀐다. 발견에 대한 성급한 확신이 틀린 방향으로 행동하게 만들 수 있다.\n\n제공 원문은 실제 탐지견의 용도와 매체 속 실패의 묘사를 구별한다. 이런 장면으로 현실 탐지견 전체의 정확도나 제도를 평가할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "부하를 괴롭히면서 위험은 피하는 지휘관",
   "original": "The Neidermeyer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02587",
+  "primary_tag_id": "ML-T02587",
   "description": {
     "definition": "높은 군사 지위를 이용해 부하를 함부로 대하지만 자신은 전투의 위험을 회피하는 인물이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "엄격하지만 위험을 함께 감수하는 지휘관과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.014",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "지휘권으로 부하를 괴롭히면서 자신은 위험을 피한다. 권한과 책임이 불균형하게 배분된 군사 관계다.\n\n부하는 처벌과 명령 때문에 무능을 알면서도 따를 수 있다. 엄격한 훈련과 자기 이익을 위한 학대는 목적과 결과로 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "지휘권으로 부하를 괴롭히면서 자신은 위험을 피한다. 권한과 책임이 불균형하게 배분된 군사 관계다.\n\n부하는 처벌과 명령 때문에 무능을 알면서도 따를 수 있다. 엄격한 훈련과 자기 이익을 위한 학대는 목적과 결과로 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

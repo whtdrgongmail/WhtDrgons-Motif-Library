@@ -4,8 +4,8 @@
   "title": "날카로운 현악기 공포음",
   "original": "\"Psycho\" Strings",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02056",
+  "primary_tag_id": "ML-T02056",
   "description": {
     "definition": "높고 거친 현악기나 유사한 음색의 소리를 사용해 장면의 긴장과 충격을 강화하는 음악 연출.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "모든 고음 음악이 공포음은 아니며 장면에서의 기능을 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "날카롭고 긁는 듯한 현악 음색을 짧게 반복해 불안과 충격을 전달하는 음악 연출이다. 화면에 위험이 확실히 보이기 전에도 비정상적인 상태를 암시할 수 있다.\n\n급격한 공격음과 높은 긴장감은 살해나 정체 공개의 순간에 자주 배치된다. 현악기 대신 비슷한 금속성 소리를 가진 악기를 사용해 같은 효과를 내기도 한다.\n\n깊고 지속적인 저음으로 압박하는 음악과는 음역과 발음 방식이 다르다. 익숙한 관습을 일부러 과장하면 사소한 상황을 큰 공포처럼 취급하는 패러디가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "날카롭고 긁는 듯한 현악 음색을 짧게 반복해 불안과 충격을 전달하는 음악 연출이다. 화면에 위험이 확실히 보이기 전에도 비정상적인 상태를 암시할 수 있다.\n\n급격한 공격음과 높은 긴장감은 살해나 정체 공개의 순간에 자주 배치된다. 현악기 대신 비슷한 금속성 소리를 가진 악기를 사용해 같은 효과를 내기도 한다.\n\n깊고 지속적인 저음으로 압박하는 음악과는 음역과 발음 방식이 다르다. 익숙한 관습을 일부러 과장하면 사소한 상황을 큰 공포처럼 취급하는 패러디가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

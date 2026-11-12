@@ -4,8 +4,8 @@
   "title": "공포 이미지가 된 수녀",
   "original": "Nuns Are Spooky",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00925",
+  "primary_tag_id": "ML-T00925",
   "description": {
     "definition": "수녀의 복장이나 종교적 역할을 섬뜩함과 위협의 인상으로 사용하는 인물 묘사.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "현실의 수녀 전체를 악하거나 위험하다고 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수녀의 복장과 조용한 동작을 일상과 떨어진 섬뜩함으로 표현하는 관습이다. 긴 옷과 베일은 얼굴과 발의 움직임을 가려 비인간적으로 보이는 실루엣을 만들 수 있다.\n\n신앙적 권위와 초자연적인 지식이 낯선 행동의 배경으로 제시되기도 한다. 과거의 상처나 죄를 잊으려고 종교생활을 택했다는 설정을 사용하면 내적 비밀이 추가된다.\n\n불길해 보인다는 이유만으로 반드시 악역인 것은 아니다. 엄격한 교육자나 명백히 사악한 성직자와 달리 종교적 형상이 만드는 공포의 인상에 중심이 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수녀의 복장과 조용한 동작을 일상과 떨어진 섬뜩함으로 표현하는 관습이다. 긴 옷과 베일은 얼굴과 발의 움직임을 가려 비인간적으로 보이는 실루엣을 만들 수 있다.\n\n신앙적 권위와 초자연적인 지식이 낯선 행동의 배경으로 제시되기도 한다. 과거의 상처나 죄를 잊으려고 종교생활을 택했다는 설정을 사용하면 내적 비밀이 추가된다.\n\n불길해 보인다는 이유만으로 반드시 악역인 것은 아니다. 엄격한 교육자나 명백히 사악한 성직자와 달리 종교적 형상이 만드는 공포의 인상에 중심이 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

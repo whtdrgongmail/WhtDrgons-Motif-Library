@@ -4,8 +4,8 @@
   "title": "허구 종족에만 허락된 마법",
   "original": "Racially Exclusive Magic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "어떤 허구 종족만 특정 마법 계열을 사용할 수 있다는 세계 [[규칙]]. 혼혈 인물과 교육 기회의 처리 방식이 종족 구분의 경계를 드러낸다. [[종족 전체에 타고난 마법 능력]]은 종족 구성원 모두가 힘을 갖는다는 [[설정]]으로 독점 규칙과 구별한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[마법]] 계열은 특정 종족에게만 허용되고 다른 종에게는 닫혀 있다. 세계의 능력 분류가 종족의 경계와 연결된다.\n\n혼혈과 교육의 처리를 정하면 무엇을 자격으로 인정하는지 드러난다. 배우고 싶다는 의사와 사용 가능성 사이에 제약이 생긴다.\n\n독점과 보편적 보유는 다른 규칙이다. 어떤 종족만 쓸 수 있다고 그 모든 구성원이 자동으로 힘을 가진다고 볼 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[마법]] 계열은 특정 종족에게만 허용되고 다른 종에게는 닫혀 있다. 세계의 능력 분류가 종족의 경계와 연결된다.\n\n혼혈과 교육의 처리를 정하면 무엇을 자격으로 인정하는지 드러난다. 배우고 싶다는 의사와 사용 가능성 사이에 제약이 생긴다.\n\n독점과 보편적 보유는 다른 규칙이다. 어떤 종족만 쓸 수 있다고 그 모든 구성원이 자동으로 힘을 가진다고 볼 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

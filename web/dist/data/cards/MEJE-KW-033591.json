@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-033591",
+  "kind": "keyword",
+  "title": "끝이 시작을 만들어 내는 닫힌 시간 고리",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F13",
+  "description": {
+    "definition": "시간 순서의 마지막 부분이 시작 부분의 원인을 이루어 명확한 처음과 끝이 없는 순환을 형성한다.",
+    "detail": "",
+    "usage": "원인과 결과가 서로를 성립시키는 구성을 설계한다.",
+    "boundary": "같은 시간대를 매번 새 결과로 반복하는 구조와 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "13",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "사건의 끝으로 가 보니 그 끝이 시작을 만들었다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "시간 순서의 끝에서 벌어진 일이 시작의 원인이 된다. 원인과 결과가 서로를 성립시켜 명확한 첫 지점을 정하기 어렵다.\n\n마지막 사건을 이해하면 처음 사건의 이유가 드러나고 처음 사건은 다시 마지막을 가능하게 한다. 두 방향의 인과가 하나의 닫힌 구성을 이룬다.\n\n같은 시간대를 반복하며 매번 다른 결과를 만드는 구조와 다르다. 끝이 기존 시작을 낳는 순환 관계가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "시간 순서의 끝에서 벌어진 일이 시작의 원인이 된다. 원인과 결과가 서로를 성립시켜 명확한 첫 지점을 정하기 어렵다.\n\n마지막 사건을 이해하면 처음 사건의 이유가 드러나고 처음 사건은 다시 마지막을 가능하게 한다. 두 방향의 인과가 하나의 닫힌 구성을 이룬다.\n\n같은 시간대를 반복하며 매번 다른 결과를 만드는 구조와 다르다. 끝이 기존 시작을 낳는 순환 관계가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

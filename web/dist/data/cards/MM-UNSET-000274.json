@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000274",
   "kind": "keyword",
   "title": "논리합",
-  "original": "",
+  "original": "Disjunction",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "",
+    "definition": "둘 이상의 명제 가운데 하나 이상이 참일 때 전체를 참으로 하는 논리 연산.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "여러 선택지를 잇고 그중 적어도 하나가 맞으면 전체 문장을 참으로 보는 논리 방식이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일상어의 또는은 문맥에 따라 하나만 선택하라는 뜻으로 쓰이지만, 논리합은 연결된 명제 중 하나 이상이 참이면 참이다. 따라서 두 선택지가 모두 참이거나 그중 하나가 참인 경우에도 전체 진술은 참일 수 있다.\n\n이 성질은 선택지 중 어느 하나인지 특정하지 않고도 전체 질문에 긍정하는 대답을 가능하게 한다. 다만 논리합만으로 대답자가 왜 그렇게 답했는지까지 확정되지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일상어의 또는은 문맥에 따라 하나만 선택하라는 뜻으로 쓰이지만, 논리합은 연결된 명제 중 하나 이상이 참이면 참이다. 따라서 두 선택지가 모두 참이거나 그중 하나가 참인 경우에도 전체 진술은 참일 수 있다.\n\n이 성질은 선택지 중 어느 하나인지 특정하지 않고도 전체 질문에 긍정하는 대답을 가능하게 한다. 다만 논리합만으로 대답자가 왜 그렇게 답했는지까지 확정되지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "그림자 밖으로 모습을 드러내기",
   "original": "Emerging from the Shadows",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01865",
+  "primary_tag_id": "ML-T01865",
   "description": {
     "definition": "인물의 얼굴이나 몸을 어둠에 감춰 두었다가 중요한 순간 빛 속으로 나오게 해 정체를 드러내는 시각 연출이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.004.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "어둠에 감춰 둔 얼굴과 몸을 빛 속으로 이동시켜 인물의 정체를 공개하는 연출이다. 보이지 않던 정보를 공간의 이동으로 드러낸다.\n\n관객이 기다리던 인물의 귀환과 낯선 존재의 첫 등장에 모두 쓸 수 있다. 숨기는 시간이 길수록 공개된 얼굴과 이전의 추측 사이의 차이가 큰 효과를 낸다.\n\n단순히 조명이 밝아지는 장면과는 기능이 다르다. 인물의 인식과 정체에 대한 정보 변화가 있어야 하며 다른 인물과 관객이 같은 순간에 알아볼 필요는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "어둠에 감춰 둔 얼굴과 몸을 빛 속으로 이동시켜 인물의 정체를 공개하는 연출이다. 보이지 않던 정보를 공간의 이동으로 드러낸다.\n\n관객이 기다리던 인물의 귀환과 낯선 존재의 첫 등장에 모두 쓸 수 있다. 숨기는 시간이 길수록 공개된 얼굴과 이전의 추측 사이의 차이가 큰 효과를 낸다.\n\n단순히 조명이 밝아지는 장면과는 기능이 다르다. 인물의 인식과 정체에 대한 정보 변화가 있어야 하며 다른 인물과 관객이 같은 순간에 알아볼 필요는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "경쟁사의 직원과 서비스를 무능하게 그리는 광고",
   "original": "Scapegoat Ad",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02540",
+  "primary_tag_id": "ML-T02540",
   "description": {
     "definition": "경쟁 업체의 직원이나 서비스를 서투르고 불성실한 모습으로 묘사하여 자사 상품의 우위를 만드는 광고 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "제품의 실제 성능을 직접 비교하는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "경쟁 업체의 품질을 직원 한 명의 무능함과 불성실로 의인화한다. 서비스의 복잡한 차이를 인물 간 대조로 바꾸어 자사의 우위를 쉽게 전달하는 방식이다.\n\n상대 직원이 실수를 반복하고 자사 직원이 침착하게 해결하면 비교는 성능 설명보다 인물 평가에 의존한다. 회사 정책과 자원 문제도 현장 직원 개인의 결함처럼 보일 수 있다.\n\n실제 조사에 근거한 서비스 비교와는 표현 방식이 다르다. 특정 직원의 행동을 보여 주었다는 사실만으로 업체 전체의 품질을 일반화할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "경쟁 업체의 품질을 직원 한 명의 무능함과 불성실로 의인화한다. 서비스의 복잡한 차이를 인물 간 대조로 바꾸어 자사의 우위를 쉽게 전달하는 방식이다.\n\n상대 직원이 실수를 반복하고 자사 직원이 침착하게 해결하면 비교는 성능 설명보다 인물 평가에 의존한다. 회사 정책과 자원 문제도 현장 직원 개인의 결함처럼 보일 수 있다.\n\n실제 조사에 근거한 서비스 비교와는 표현 방식이 다르다. 특정 직원의 행동을 보여 주었다는 사실만으로 업체 전체의 품질을 일반화할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

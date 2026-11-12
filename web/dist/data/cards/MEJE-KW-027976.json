@@ -4,8 +4,8 @@
   "title": "취재진에게 둘러싸이는 장면",
   "original": "Media Scrum",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01859",
+  "primary_tag_id": "ML-T01859",
   "description": {
     "definition": "여러 기자가 한 사람 주위로 몰려들어 질문과 마이크·카메라를 동시에 들이대는 장면이다.",
     "detail": "작품 사례: 《[[주토피아]]》에서 주디는 기자회견장을 떠나는 닉을 따라가려 하지만 마이크를 들이대는 취재진에게 둘러싸여 움직이지 못한다.",
@@ -13,10 +13,10 @@
     "boundary": "기자 집단 자체가 아니라 한 사람에게 취재가 집중되는 행동을 가리킨다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "22.003.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-002272",
+      "work_card_id": "MM-MEDIA-001420",
       "description_ko": "《주토피아》에서 주디는 기자회견장을 떠나는 닉을 따라가려 하지만 마이크를 들이대는 취재진에게 둘러싸여 움직이지 못한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 기자가 한 사람에게 몰려 질문과 촬영을 동시에 시도한다. 정보의 답변 주체는 하나인데 요구하는 매체가 많아 물리적인 압박이 가시화된다.\n\n질문을 피하는 인물을 따라가면 공식 발표로 정리되지 않은 문제가 있음을 암시할 수 있다. 더 큰 화제가 나타나 시선이 옮겨 가면 뉴스 가치에 따라 관심이 움직이는 모습도 드러난다.\n\n[[공포를 부풀리는 언론 보도]]처럼 내용의 정확성을 평가하는 유형과는 다르다. 기자들이 같은 장소에 있다는 사실만으로 부족하며 특정 인물에게 취재가 집중되는 행동이 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 기자가 한 사람에게 몰려 질문과 촬영을 동시에 시도한다. 정보의 답변 주체는 하나인데 요구하는 매체가 많아 물리적인 압박이 가시화된다.\n\n질문을 피하는 인물을 따라가면 공식 발표로 정리되지 않은 문제가 있음을 암시할 수 있다. 더 큰 화제가 나타나 시선이 옮겨 가면 뉴스 가치에 따라 관심이 움직이는 모습도 드러난다.\n\n[[공포를 부풀리는 언론 보도]]처럼 내용의 정확성을 평가하는 유형과는 다르다. 기자들이 같은 장소에 있다는 사실만으로 부족하며 특정 인물에게 취재가 집중되는 행동이 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

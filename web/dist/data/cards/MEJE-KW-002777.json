@@ -4,8 +4,8 @@
   "title": "화장실을 찾는 척 금지 구역에 들어가기",
   "original": "Bathroom Search Excuse",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00753",
+  "primary_tag_id": "ML-T00753",
   "description": {
     "definition": "길을 잃은 것처럼 화장실 위치를 물으며 들어갈 수 없는 공간을 살핀다. 일상적인 요청이 침입의 설명으로 쓰인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.003.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "금지된 구역을 살피다가 들킨 인물이 화장실을 찾다 길을 잃었다고 둘러대는 핑계다. 일상적인 신체의 필요가 의심스러운 이동에 대한 설명으로 사용된다.\n\n미리 위치를 물어 이동의 허락을 받는 방식과 몰래 돌아다닌 뒤 해명하는 방식이 있다. 상대가 예의를 지키려는 태도는 잠시 추궁을 약하게 만들 수 있다.\n\n핑계가 통할지는 장소와 이동 경로의 개연성에 달려 있다. 단순히 화장실을 실제로 찾는 행동과 달리 다른 목적의 탐색을 감추는 발화여야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "금지된 구역을 살피다가 들킨 인물이 화장실을 찾다 길을 잃었다고 둘러대는 핑계다. 일상적인 신체의 필요가 의심스러운 이동에 대한 설명으로 사용된다.\n\n미리 위치를 물어 이동의 허락을 받는 방식과 몰래 돌아다닌 뒤 해명하는 방식이 있다. 상대가 예의를 지키려는 태도는 잠시 추궁을 약하게 만들 수 있다.\n\n핑계가 통할지는 장소와 이동 경로의 개연성에 달려 있다. 단순히 화장실을 실제로 찾는 행동과 달리 다른 목적의 탐색을 감추는 발화여야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

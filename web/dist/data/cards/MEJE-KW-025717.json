@@ -5,8 +5,8 @@
   "original": "Treating an Accident as Malice",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "가해자가 상대의 사소하거나 무의도적인 실수를 자신을 해치려는 행동으로 해석하고 벌의 이유로 삼는다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "살해를 필수로 하는 기존의 성가신 사람 제거 카드와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "작은 실수도 일부러 한 공격이라고 몰아간다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가해자가 사소하거나 의도하지 않은 실수를 자신을 해치려는 행동으로 규정하고 벌을 내린다. 상대의 의도보다 가해자의 해석이 처벌의 근거를 독점한다.\n\n당사자가 해명해도 악의의 증거로 다시 해석되면 대화를 통해 빠져나갈 길이 줄어든다. 일상적인 행동까지 위험해지는 상황은 권력의 예측 불가능성과 피해자의 지속적인 긴장을 보여 줄 수 있다.\n\n실제 피해와 책임을 확인하는 절차와는 다르다. 모든 오해가 학대는 아니며 무해한 사건을 구실로 처벌을 정당화하는 권력 관계가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가해자가 사소하거나 의도하지 않은 실수를 자신을 해치려는 행동으로 규정하고 벌을 내린다. 상대의 의도보다 가해자의 해석이 처벌의 근거를 독점한다.\n\n당사자가 해명해도 악의의 증거로 다시 해석되면 대화를 통해 빠져나갈 길이 줄어든다. 일상적인 행동까지 위험해지는 상황은 권력의 예측 불가능성과 피해자의 지속적인 긴장을 보여 줄 수 있다.\n\n실제 피해와 책임을 확인하는 절차와는 다르다. 모든 오해가 학대는 아니며 무해한 사건을 구실로 처벌을 정당화하는 권력 관계가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

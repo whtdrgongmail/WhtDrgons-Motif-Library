@@ -4,8 +4,8 @@
   "title": "칠판 긁는 소리로 대화와 소란을 멈추기",
   "original": "Nails on a Blackboard",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02009",
+  "primary_tag_id": "ML-T02009",
   "description": {
     "definition": "날카롭고 불쾌한 마찰음을 내어 주변 사람의 주의를 강제로 끌고 소란을 중단시키는 음향 장치다.",
     "detail": "작품 사례: 《[[죠스]]》에서 퀸트는 마을 회의의 소란 속에서 칠판을 긁어 사람들을 조용하게 만든다. 불쾌한 소리가 그의 등장과 발언권 확보를 연결한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 무서운 긁는 소리와 달리 주의 집중이나 정숙을 유도하는 기능을 본다. 인간 반응의 생물학적 원인을 확정하는 카드가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "칠판을 긁는 날카로운 소리가 대화를 덮으면 사람들은 하던 말을 멈추고 소리의 주인에게 주의를 돌린다. 불쾌함과 집중을 동시에 만드는 감각적 자극으로 소란을 끊는 장면이다.\n\n단순히 큰소리로 조용히 하라고 외치는 방식과는 사용되는 자극이 다르다. 비슷한 소리를 내는 다른 표면으로 변형될 수 있지만, 그 소리가 사람들의 반응과 주의 전환을 실제로 이끌어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "칠판을 긁는 날카로운 소리가 대화를 덮으면 사람들은 하던 말을 멈추고 소리의 주인에게 주의를 돌린다. 불쾌함과 집중을 동시에 만드는 감각적 자극으로 소란을 끊는 장면이다.\n\n단순히 큰소리로 조용히 하라고 외치는 방식과는 사용되는 자극이 다르다. 비슷한 소리를 내는 다른 표면으로 변형될 수 있지만, 그 소리가 사람들의 반응과 주의 전환을 실제로 이끌어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

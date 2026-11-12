@@ -4,8 +4,8 @@
   "title": "중등 전환기의 학교 배경",
   "original": "Junior High",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01287",
+  "primary_tag_id": "ML-T01287",
   "description": {
     "definition": "초등교육과 고등학교 사이에서 초기 청소년이 새로운 학업과 또래 관계에 적응하는 학교 단계와 배경이다.",
     "detail": "작품 사례: [[As Told by Ginger]]는 고등학교에 들어가기 전인 진저와 친구들의 또래 관계와 사회적 난관을 다루고, 뒤에는 고교 진학 후 생활로 무대를 옮긴다.",
@@ -13,10 +13,10 @@
     "boundary": "국가마다 학년과 제도가 다르므로 특정 연령이나 학년을 보편 규칙으로 고정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "초등 이후와 고교 이전의 학교 단계가 또래 관계와 사회적 적응의 조건이 된다. 이후 진학으로 무대가 바뀌면 같은 인물들이 겪는 전환과 달라진 생활을 비교할 수 있다.\n\n학교 단계의 명칭과 학년 구성은 국가마다 다르다. 특정 연령을 보편적인 기준으로 고정하지 않고 작품이 묘사하는 교육 체계와 전환의 맥락을 확인해야 한다.\n\n《[[As Told by Ginger]]》는 고교 진학 전 진저와 친구들의 또래 문제를 다룬 뒤 고등학교 생활로 이동한다. 학교 배경의 변화가 인물들의 성장 단계와 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "초등 이후와 고교 이전의 학교 단계가 또래 관계와 사회적 적응의 조건이 된다. 이후 진학으로 무대가 바뀌면 같은 인물들이 겪는 전환과 달라진 생활을 비교할 수 있다.\n\n학교 단계의 명칭과 학년 구성은 국가마다 다르다. 특정 연령을 보편적인 기준으로 고정하지 않고 작품이 묘사하는 교육 체계와 전환의 맥락을 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[As Told by Ginger]]》는 고교 진학 전 진저와 친구들의 또래 문제를 다룬 뒤 고등학교 생활로 이동한다. 학교 배경의 변화가 인물들의 성장 단계와 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

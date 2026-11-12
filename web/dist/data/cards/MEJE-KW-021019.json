@@ -4,28 +4,28 @@
   "title": "잠깐씩 풀리는 투명화",
   "original": "Invisibility Flicker",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01490",
+  "primary_tag_id": "ML-T01490",
   "description": {
     "definition": "투명한 상태가 짧은 순간 끊겨 모습이 드러났다 다시 감춰지는 능력 또는 장비의 작동 현상이다.",
     "detail": "피격·접촉·공격 같은 행동이 계기가 될 수 있고 게임에서는 추적과 반격의 기회를 주는 균형 장치로 쓰인다.\n\n작품 사례: 《[[해리 포터와 비밀의 방]]》에서 해리와 론이 탄 자동차의 투명 장치가 고장 나 깜빡이며 드러나고, 머글에게 목격된다.",
     "usage": "숨은 존재의 위험을 짧게 알리거나 은신 능력의 빈틈을 설계한다.",
-    "boundary": "관객에게만 반투명하게 보여 주는 표현과 달리 이야기 세계 안에서도 실제로 모습이 드러나야 한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "17",
+    "code": "17.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "안 보이던 존재가 순간적으로 깜빡이며 모습을 드러낸다.\n\n작품 사례: 《[[해리 포터와 비밀의 방]]》에서 해리와 론이 탄 자동차의 투명 장치가 고장 나 깜빡이며 드러나고, 머글에게 목격된다.",
+    "easy_ko": "안 보이던 존재가 순간적으로 깜빡이며 모습을 드러낸다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "피격·접촉·공격 같은 행동이 계기가 될 수 있고 게임에서는 추적과 반격의 기회를 주는 균형 장치로 쓰인다.\n\n숨은 존재의 위험을 짧게 알리거나 은신 능력에 대응할 빈틈을 제공한다.\n\n관객에게만 반투명하게 보여 주는 표현과 달리 이야기 세계 안에서도 실제로 모습이 드러나야 한다.\n\n소설 《[[해리 포터와 비밀의 방]]》에서 해리와 론이 탄 자동차의 투명 장치가 고장 나 깜빡이며 드러나고, 머글에게 목격된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "피격·접촉·공격 같은 행동이 계기가 될 수 있고 게임에서는 추적과 반격의 기회를 주는 균형 장치로 쓰인다.\n\n숨은 존재의 위험을 짧게 알리거나 은신 능력에 대응할 빈틈을 제공한다.\n\n관객에게만 반투명하게 보여 주는 표현과 달리 이야기 세계 안에서도 실제로 모습이 드러나야 한다."
+      ],
+      [
+        "관련 작품",
+        "소설 《[[해리 포터와 비밀의 방]]》에서 해리와 론이 탄 자동차의 투명 장치가 고장 나 깜빡이며 드러나고, 머글에게 목격된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

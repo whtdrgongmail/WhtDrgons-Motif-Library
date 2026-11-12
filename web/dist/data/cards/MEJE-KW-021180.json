@@ -4,8 +4,8 @@
   "title": "고립된 섬의 비밀 기지",
   "original": "Island Base",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01316",
+  "primary_tag_id": "ML-T01316",
   "description": {
     "definition": "주변 육지와 인구 밀집 지역에서 떨어진 섬에 본부나 실험 시설을 두어 활동과 규모를 외부에 숨기는 장소 설정이다.",
     "detail": "악역뿐 아니라 영웅의 본부가 될 수 있으며 화산·지하·수중 시설과 결합하기 쉽다.\n\n작품 사례: 《[[원피스]]》에서 카이도는 와노쿠니 안쪽 바다의 오니가시마에 성을 세워 해적단의 거점으로 사용한다.",
@@ -13,30 +13,43 @@
     "boundary": "섬에 있는 평범한 건물이나 조직의 거점 기능이 없는 신비한 섬과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "바다로 둘러싸인 섬 안에서 조직이 군대와 장비를 조용히 운영한다.\n\n작품 사례: 《[[원피스]]》에서 카이도는 와노쿠니 안쪽 바다의 오니가시마에 성을 세워 해적단의 거점으로 사용한다.",
+    "easy_ko": "바다로 둘러싸인 섬 안에서 조직이 군대와 장비를 조용히 운영한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》에서 카이도는 와노쿠니 안쪽 바다의 오니가시마에 성을 세워 해적단의 거점으로 사용한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인구가 많은 육지에서 떨어진 섬에 본부와 실험 시설을 숨기는 장소 설정이다. 물리적인 거리가 외부의 관찰과 개입을 어렵게 만든다.\n\n대규모 인력과 장비를 운용하면서도 사회의 눈을 피한다는 설명에 사용할 수 있다. 접근 경로가 제한되어 방어와 감시에 유리하지만 보급과 탈출도 같은 경로에 의존하게 된다.\n\n반드시 악당의 기지일 필요는 없다. 영웅의 비밀 본부에도 적용되며, 섬이라는 배경만이 아니라 활동과 규모를 숨기는 고립의 기능이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인구가 많은 육지에서 떨어진 섬에 본부와 실험 시설을 숨기는 장소 설정이다. 물리적인 거리가 외부의 관찰과 개입을 어렵게 만든다.\n\n대규모 인력과 장비를 운용하면서도 사회의 눈을 피한다는 설명에 사용할 수 있다. 접근 경로가 제한되어 방어와 감시에 유리하지만 보급과 탈출도 같은 경로에 의존하게 된다.\n\n반드시 악당의 기지일 필요는 없다. 영웅의 비밀 본부에도 적용되며, 섬이라는 배경만이 아니라 활동과 규모를 숨기는 고립의 기능이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -10,11 +10,11 @@
     "definition": "독심 같은 설정상 이유 없이 한 인물이 다른 인물의 상상 장면을 관객처럼 보고 구체적인 내용에 반응하는 희극적 연출.",
     "detail": "생각 풍선이나 상상 컷처럼 매체가 관객에게 보여 준 정보를 극중 인물이 그대로 알아차린다.\n\n작품 사례: 《[[강철의 연금술사]]》에서 메이 창이 키 크고 멋진 에드워드를 상상하자, 진짜 에드워드를 아는 요키가 생각 풍선 속 인물을 보고 누구냐고 의아해한다.",
     "usage": "상상 연출의 약속을 깨는 농담을 만들거나 인물의 숨은 욕망을 뜻밖에 들키게 한다.",
-    "boundary": "설정상 가능한 독심·텔레파시와 다르다. 단지 멍한 표정이나 수상한 몸짓을 보고 추측하는 경우도 제외한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
     "code": "22",
     "review_status": "provisional",
@@ -22,21 +22,38 @@
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "머릿속에서만 펼쳐진 장면인데 옆 사람이 그 안의 세부 사항을 지적한다.\n\n작품 사례: 《[[강철의 연금술사]]》에서 메이 창이 키 크고 멋진 에드워드를 상상하자, 진짜 에드워드를 아는 요키가 생각 풍선 속 인물을 보고 누구냐고 의아해한다.",
+    "easy_ko": "머릿속에서만 펼쳐진 장면인데 옆 사람이 그 안의 세부 사항을 지적한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001331",
+      "work_card_id": "MM-MEDIA-002178",
       "description_ko": "《강철의 연금술사》에서 메이 창이 키 크고 멋진 에드워드를 상상하자, 진짜 에드워드를 아는 요키가 생각 풍선 속 인물을 보고 누구냐고 의아해한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "생각 풍선이나 상상 컷처럼 매체가 관객에게 보여 준 정보를 극중 인물이 그대로 알아차린다.\n\n설정상 가능한 독심·텔레파시와 다르다. 단지 멍한 표정이나 수상한 몸짓을 보고 추측하는 경우도 제외한다.\n\n《[[강철의 연금술사(만화)]]》에서 메이 창이 키 크고 멋진 에드워드를 상상하자, 진짜 에드워드를 아는 요키가 생각 풍선 속 인물을 보고 누구냐고 의아해한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "생각 풍선이나 상상 컷처럼 매체가 관객에게 보여 준 정보를 극중 인물이 그대로 알아차린다.\n\n설정상 가능한 독심·텔레파시와 다르다. 단지 멍한 표정이나 수상한 몸짓을 보고 추측하는 경우도 제외한다."
+      ],
+      [
+        "관련 작품",
+        "《[[강철의 연금술사(만화)]]》에서 메이 창이 키 크고 멋진 에드워드를 상상하자, 진짜 에드워드를 아는 요키가 생각 풍선 속 인물을 보고 누구냐고 의아해한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

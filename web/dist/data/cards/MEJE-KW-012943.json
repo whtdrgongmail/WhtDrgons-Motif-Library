@@ -4,8 +4,8 @@
   "title": "사이버그라인드",
   "original": "Cybergrind",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-012943",
+  "primary_tag_id": "MEJE-KW-012943",
   "description": {
     "definition": "[[그라인드코어]]에 전자 리듬·샘플·합성 음향을 결합하여 기계적이고 밀도 높은 소리를 만드는 양식이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[사이버그라인드]]는 [[그라인드코어]]의 고속·고밀도 연주에 전자 비트, 기계음, 샘플을 결합한 하위 갈래다. 드럼 머신이나 전자음악의 박자 구조를 적극적으로 사용하며, 일부 곡은 극단적인 기타 연주와 댄스 음악의 리듬을 동시에 들려준다. 전자 악기를 사용한다는 사실만으로는 이 조합이 성립하지 않는다.\n\n전자 비트가 곡을 조직하는지, 왜곡된 기타·거친 발성 등 그라인드코어의 요소가 유지되는지를 함께 확인한다. 단순한 전자 리믹스와 달리 처음부터 두 양식의 결합을 중심에 둔 곡도 있다. [[노이즈그라인드]]가 소음의 무질서와 즉흥성을 강조하는 것과 구별되는 설명 기준이다.\n\n가상 예시: 매우 빠른 기타와 외치는 보컬 위에 반복적인 전자 드럼 패턴과 신호음을 배치한다면 사이버그라인드의 결합 방식을 보여 줄 수 있다. 기타 연주 없이 고속 전자 비트만 반복하는 곡은 다른 전자음악 장르에 가까울 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[사이버그라인드]]는 [[그라인드코어]]의 고속·고밀도 연주에 전자 비트, 기계음, 샘플을 결합한 하위 갈래다. 드럼 머신이나 전자음악의 박자 구조를 적극적으로 사용하며, 일부 곡은 극단적인 기타 연주와 댄스 음악의 리듬을 동시에 들려준다. 전자 악기를 사용한다는 사실만으로는 이 조합이 성립하지 않는다.\n\n전자 비트가 곡을 조직하는지, 왜곡된 기타·거친 발성 등 그라인드코어의 요소가 유지되는지를 함께 확인한다. 단순한 전자 리믹스와 달리 처음부터 두 양식의 결합을 중심에 둔 곡도 있다. [[노이즈그라인드]]가 소음의 무질서와 즉흥성을 강조하는 것과 구별되는 설명 기준이다."
+      ],
+      [
+        "사례",
+        "가상 예시: 매우 빠른 기타와 외치는 보컬 위에 반복적인 전자 드럼 패턴과 신호음을 배치한다면 사이버그라인드의 결합 방식을 보여 줄 수 있다. 기타 연주 없이 고속 전자 비트만 반복하는 곡은 다른 전자음악 장르에 가까울 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

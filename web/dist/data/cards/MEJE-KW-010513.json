@@ -4,8 +4,8 @@
   "title": "외국에서 온 교환학생",
   "original": "Foreign Exchange Student",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00928",
+  "primary_tag_id": "ML-T00928",
   "description": {
     "definition": "학교에 온 외국 교환학생을 새 인물로 들여 문화적 차이와 새로운 관계를 이야기의 계기로 삼는다. 출신지를 성격이나 외모로 단정하는 표현은 별개의 재현 문제다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.012",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "외국에서 온 교환학생이 기존 학교의 관계에 들어오는 구성이다. 새로운 인물과 문화적 경험이 일상적인 환경의 전환점이 된다.\n\n인물은 익숙한 규칙을 질문하고 서로의 생활을 비교하면서 관객에게 배경을 새롭게 보이게 한다. 언어와 체류 기간의 제한은 우정과 이별의 목표를 만든다.\n\n출신 국가가 성격과 외모를 결정하지는 않는다. 교환이라는 제도적 위치와 개인의 다양성을 구분해야 하며 낯선 매력만을 위해 인물을 소비하는 표현도 별도로 볼 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "외국에서 온 교환학생이 기존 학교의 관계에 들어오는 구성이다. 새로운 인물과 문화적 경험이 일상적인 환경의 전환점이 된다.\n\n인물은 익숙한 규칙을 질문하고 서로의 생활을 비교하면서 관객에게 배경을 새롭게 보이게 한다. 언어와 체류 기간의 제한은 우정과 이별의 목표를 만든다.\n\n출신 국가가 성격과 외모를 결정하지는 않는다. 교환이라는 제도적 위치와 개인의 다양성을 구분해야 하며 낯선 매력만을 위해 인물을 소비하는 표현도 별도로 볼 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

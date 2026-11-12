@@ -5,8 +5,8 @@
   "original": "An Innocent Person Held Hostage by the Truth",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00873",
+  "primary_tag_id": "ML-T00873",
   "description": {
     "definition": "악인이 범행이 풀려도 진실 공개가 무고한 사람들에게 큰 피해를 주도록 상황을 만들어 탐정의 폭로를 어렵게 하는 구조이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "범인이 우연히 동정할 사정을 가진 경우와 달리 악인이 그 공개 비용을 전략에 이용한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "08.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "범인이 진실을 공개하면 무고한 사람이 큰 피해를 입도록 상황을 만든다. 탐정이 사건을 풀어도 폭로 여부는 다시 고민해야 하는 구조다.\n\n해답을 아는 일과 그것을 알리는 일이 분리된다. 악인은 타인의 고통을 공개의 비용으로 삼아 탐정의 행동을 제약한다.\n\n범인에게 우연히 동정할 사정이 있다는 경우와 다르다. 무고한 이의 피해가 범인의 전략 안에서 폭로를 막는 수단으로 사용되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "범인이 진실을 공개하면 무고한 사람이 큰 피해를 입도록 상황을 만든다. 탐정이 사건을 풀어도 폭로 여부는 다시 고민해야 하는 구조다.\n\n해답을 아는 일과 그것을 알리는 일이 분리된다. 악인은 타인의 고통을 공개의 비용으로 삼아 탐정의 행동을 제약한다.\n\n범인에게 우연히 동정할 사정이 있다는 경우와 다르다. 무고한 이의 피해가 범인의 전략 안에서 폭로를 막는 수단으로 사용되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

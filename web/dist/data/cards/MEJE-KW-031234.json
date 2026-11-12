@@ -4,8 +4,8 @@
   "title": "후추로 터뜨리는 재채기",
   "original": "Pepper Sneeze",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01921",
+  "primary_tag_id": "ML-T01921",
   "description": {
     "definition": "후추가 코에 닿자 인물이 과장되게 재채기하는 것으로 원인과 신체 반응을 명확히 연결하는 희극적 장면이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.010.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "후추통이 엎질러진 뒤 코를 씰룩이던 인물이 참지 못하고 큰 재채기를 터뜨리는 식이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "후추통이나 가루를 먼저 보여 주면 관객은 뒤따를 반응을 예상할 수 있다. 이후 코의 움직임과 참으려는 동작을 늘이면 실제 재채기가 나오기 전부터 긴장이 형성되고, 아주 작은 가루와 큰 소리·몸짓의 차이가 웃음을 만든다.\n\n숨어 있던 인물의 위치가 드러나면 [[결정적인 순간에 재채기나 기침으로 일을 망치기]]와 결합한다. 반응의 위력이 주변 물건을 날리거나 사고를 내면 [[재채기 자체가 위험을 일으키기]]에 해당한다. 이 카드는 후추를 반응의 소품으로 쓰는 표현 관습이며 신체 반응을 재현하기 위한 실험이나 행동 지침은 아니다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "후추통이나 가루를 먼저 보여 주면 관객은 뒤따를 반응을 예상할 수 있다. 이후 코의 움직임과 참으려는 동작을 늘이면 실제 재채기가 나오기 전부터 긴장이 형성되고, 아주 작은 가루와 큰 소리·몸짓의 차이가 웃음을 만든다.\n\n숨어 있던 인물의 위치가 드러나면 [[결정적인 순간에 재채기나 기침으로 일을 망치기]]와 결합한다. 반응의 위력이 주변 물건을 날리거나 사고를 내면 [[재채기 자체가 위험을 일으키기]]에 해당한다. 이 카드는 후추를 반응의 소품으로 쓰는 표현 관습이며 신체 반응을 재현하기 위한 실험이나 행동 지침은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

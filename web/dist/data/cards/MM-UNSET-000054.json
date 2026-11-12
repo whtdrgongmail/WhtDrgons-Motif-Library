@@ -5,21 +5,47 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F12",
   "description": {
-    "definition": "",
+    "definition": "태생이나 신체·존재 방식에 [[마법]]이 핵심 조건으로 작용하는 존재다. 단순히 마법을 배운 인물과 구별된다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "12",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "마법을 쓰는 기술만 가진 것이 아니라 몸이나 생존 방식 자체가 마법과 연결된 존재다. 어떤 작품에서는 마력이 끊기면 능력뿐 아니라 건강이나 존재 유지에도 문제가 생긴다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마법적 존재라는 분류는 존재의 성질을 가리킨다. 주문을 익힌 인간은 능력만 마법적일 수 있지만, 마법적 존재는 신체·기원·수명·생존 조건 중 중요한 부분이 작품의 마법 규칙에 의존한다.\n\n모든 마법적 존재가 마력 공급 없이는 죽는 것은 아니다. 일부 작품에서만 마력의 소모나 차단이 생존에 직접 영향을 준다. 그 조건을 확인하지 않고 서로 다른 존재 유형을 하나로 합치지 않는다.\n\n마력 공급이 끊기면 쇠약해지는 존재는 마법을 쓰지 않는 순간에도 마법적 조건에 영향을 받는다. 반면 평범한 인간이 배운 주문만 사용하지 못하게 된다면 존재 자체가 마법적이라고 단정할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마법적 존재라는 분류는 존재의 성질을 가리킨다. 주문을 익힌 인간은 능력만 마법적일 수 있지만, 마법적 존재는 신체·기원·수명·생존 조건 중 중요한 부분이 작품의 마법 규칙에 의존한다.\n\n모든 마법적 존재가 마력 공급 없이는 죽는 것은 아니다. 일부 작품에서만 마력의 소모나 차단이 생존에 직접 영향을 준다. 그 조건을 확인하지 않고 서로 다른 존재 유형을 하나로 합치지 않는다."
+      ],
+      [
+        "사례",
+        "마력 공급이 끊기면 쇠약해지는 존재는 마법을 쓰지 않는 순간에도 마법적 조건에 영향을 받는다. 반면 평범한 인간이 배운 주문만 사용하지 못하게 된다면 존재 자체가 마법적이라고 단정할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

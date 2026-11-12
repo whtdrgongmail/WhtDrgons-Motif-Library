@@ -4,8 +4,8 @@
   "title": "폭력적 집착 인물이 둘 이상인 삼각관계",
   "original": "Psychotic Love Triangle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00985",
+  "primary_tag_id": "ML-T00985",
   "description": {
     "definition": "[[삼각관계]]의 구성원 중 둘 이상이 사랑의 이름으로 위험한 집착이나 폭력을 행사할 수 있는 인물인 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제 정신질환의 진단명이 아니라 극중 집착과 폭력의 행동 조건으로 정의한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 명의 집착만 문제가 아니라 여러 사람이 서로 위험하게 매달린다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "삼각관계 안의 둘 이상이 집착이나 폭력을 행사할 수 있어 연애 경쟁이 위험해지는 구도다. 감정적 선택이 생존과 안전의 문제로 확장된다.\n\n위험한 집착이 여러 방향에서 작동하면 한 사람을 피하는 선택도 다른 위협을 불러올 수 있다. 관계의 정보와 통제권을 누가 갖는지가 긴장을 만든다. 위협을 가하는 사람이 둘 이상이므로 한 경쟁자를 피하는 선택이 다른 쪽의 집착을 강화하는 식으로 위험이 서로 증폭될 수 있다.\n\n실제 정신질환의 진단을 뜻하는 분류는 아니다. 사랑을 명분으로 한 강압과 폭력의 행동 조건을 구체적으로 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "삼각관계 안의 둘 이상이 집착이나 폭력을 행사할 수 있어 연애 경쟁이 위험해지는 구도다. 감정적 선택이 생존과 안전의 문제로 확장된다.\n\n위험한 집착이 여러 방향에서 작동하면 한 사람을 피하는 선택도 다른 위협을 불러올 수 있다. 관계의 정보와 통제권을 누가 갖는지가 긴장을 만든다. 위협을 가하는 사람이 둘 이상이므로 한 경쟁자를 피하는 선택이 다른 쪽의 집착을 강화하는 식으로 위험이 서로 증폭될 수 있다.\n\n실제 정신질환의 진단을 뜻하는 분류는 아니다. 사랑을 명분으로 한 강압과 폭력의 행동 조건을 구체적으로 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

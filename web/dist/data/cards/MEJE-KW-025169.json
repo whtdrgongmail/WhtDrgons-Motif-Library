@@ -4,8 +4,8 @@
   "title": "비독점적 관계에 합의하여 연애 경쟁을 해소하기",
   "original": "Polyamory",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00986",
+  "primary_tag_id": "ML-T00986",
   "description": {
     "definition": "관계에 반드시 독점성이 필요하지 않다는 상호 이해나 합의로 복수의 사랑 관계를 받아들이는 방식이다.",
     "detail": "작품 사례: 《[[Family(2008)]]》의 제마는 벤과 스튜어트 두 사람 모두와 장기적인 관계를 유지한다. 두 남성은 제마에게 다른 한 사람도 소중하다는 것을 받아들이며, 세 사람의 가족을 관계의 중심에 둔다.",
@@ -13,14 +13,20 @@
     "boundary": "이 현재 항목은 [[삼각관계]]를 해소하는 합의의 역할에 한정하며 비동의 외도와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.007",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람만 사랑해야 한다는 조건을 서로 내려놓는다.",
     "review_status": "reviewed",
@@ -38,5 +44,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관계자들의 동의로 여러 사랑 관계를 함께 유지한다. 한 사람만 선택해야 한다는 경쟁의 전제를 수정한다.\n\n합의는 각자의 경계와 요구를 포함하며 한 번의 동의로 모든 문제가 끝나지는 않는다. 비밀스러운 외도와 비독점적 관계는 구분되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관계자들의 동의로 여러 사랑 관계를 함께 유지한다. 한 사람만 선택해야 한다는 경쟁의 전제를 수정한다.\n\n합의는 각자의 경계와 요구를 포함하며 한 번의 동의로 모든 문제가 끝나지는 않는다. 비밀스러운 외도와 비독점적 관계는 구분되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

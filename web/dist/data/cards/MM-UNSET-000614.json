@@ -1,0 +1,47 @@
+{
+  "id": "MM-UNSET-000614",
+  "kind": "keyword",
+  "title": "보이지 않는 선행 조건",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "행동의 성공이나 진행을 위해 먼저 충족해야 하지만 당사자에게 충분히 알려지지 않은 조건이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "눈앞의 문제를 풀기 전에 해야 할 일이 있는데 무엇인지 안내되지 않은 상태다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "보이지 않는 선행 조건은 현재 행동의 성패가 그 밖의 조건에 의존하는 정보 구조다. 아직 조건이 충족되지 않았다는 사실과 조건 자체를 모른다는 사실을 구별해야 한다. 해법을 몰라 실패하는 경우와 달리 올바른 행동을 해도 판정이 허용되지 않을 수 있다.\n\n[[다른 곳을 보기 전에는 풀 수 없는 퍼즐]]은 별도 장소의 확인 이벤트를 먼저 요구하는 유형이다. 그 조건이 드러나지 않으면 탐색과 시행착오가 단순한 풀이 이상의 과제가 된다. 일반 개념은 특정 장소 방문만을 필수로 하지 않으며 무엇이 선행하고 무엇이 차단되는지 따로 밝혀야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보이지 않는 선행 조건은 현재 행동의 성패가 그 밖의 조건에 의존하는 정보 구조다. 아직 조건이 충족되지 않았다는 사실과 조건 자체를 모른다는 사실을 구별해야 한다. 해법을 몰라 실패하는 경우와 달리 올바른 행동을 해도 판정이 허용되지 않을 수 있다.\n\n[[다른 곳을 보기 전에는 풀 수 없는 퍼즐]]은 별도 장소의 확인 이벤트를 먼저 요구하는 유형이다. 그 조건이 드러나지 않으면 탐색과 시행착오가 단순한 풀이 이상의 과제가 된다. 일반 개념은 특정 장소 방문만을 필수로 하지 않으며 무엇이 선행하고 무엇이 차단되는지 따로 밝혀야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

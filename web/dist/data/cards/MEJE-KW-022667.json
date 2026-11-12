@@ -4,8 +4,8 @@
   "title": "모르면서 모든 것을 아는 체하는 인물",
   "original": "Know-Nothing Know-It-All",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00946",
+  "primary_tag_id": "ML-T00946",
   "description": {
     "definition": "실제 지식과 능력이 부족한데도 자신이 항상 옳고 뛰어나다고 주장하며 반박을 무시하는 인물이다.",
     "detail": "자기 무지를 인식하지 못하는 경우와 부족함을 알면서도 권위를 꾸미는 경우를 나눌 수 있다.\n\n작품 사례: 《[[드래곤볼]]》 초반의 크리링은 실제 지식보다 더 아는 것처럼 행동하고, 순진한 손오공이 그 설명을 따르면서 문제가 드러난다.",
@@ -13,30 +13,47 @@
     "boundary": "지식은 정확하지만 수행이 서툰 인물이나 능력이 실제로 뛰어난 오만한 천재와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "틀린 말을 확신에 차서 하며 지적받으면 남들이 자기를 몰라준다고 한다.\n\n작품 사례: 《[[드래곤볼]]》 초반의 크리링은 실제 지식보다 더 아는 것처럼 행동하고, 순진한 손오공이 그 설명을 따르면서 문제가 드러난다.",
+    "easy_ko": "틀린 말을 확신에 차서 하며 지적받으면 남들이 자기를 몰라준다고 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001375",
+      "work_card_id": "MM-MEDIA-002561",
       "description_ko": "《드래곤볼》 초반의 크리링은 실제 지식보다 더 아는 것처럼 행동하고, 순진한 손오공이 그 설명을 따르면서 문제가 드러난다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자신의 무지를 깨닫지 못하는 경우와 부족함을 알면서 권위를 꾸미는 경우가 모두 있다. 다른 사람이 반박하거나 실패의 증거가 나와도 자신이 옳다는 태도를 유지하는 것이 특징이다.\n\n지식은 정확하지만 수행이 서툰 인물이나 능력이 실제로 뛰어난 오만한 천재와 구별된다. 확신의 정도와 실제 지식 사이의 불일치가 핵심이다.\n\n《[[드래곤볼(만화)]]》 초반의 크리링은 실제 지식보다 더 아는 것처럼 행동하고, 순진한 손오공이 그 설명을 따르면서 문제가 드러난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자신의 무지를 깨닫지 못하는 경우와 부족함을 알면서 권위를 꾸미는 경우가 모두 있다. 다른 사람이 반박하거나 실패의 증거가 나와도 자신이 옳다는 태도를 유지하는 것이 특징이다.\n\n지식은 정확하지만 수행이 서툰 인물이나 능력이 실제로 뛰어난 오만한 천재와 구별된다. 확신의 정도와 실제 지식 사이의 불일치가 핵심이다."
+      ],
+      [
+        "관련 작품",
+        "《[[드래곤볼(만화)]]》 초반의 크리링은 실제 지식보다 더 아는 것처럼 행동하고, 순진한 손오공이 그 설명을 따르면서 문제가 드러난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

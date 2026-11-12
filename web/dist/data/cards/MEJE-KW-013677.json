@@ -4,8 +4,8 @@
   "title": "오도 관계의 순환 화음 진행",
   "original": "Circle of Fifths",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02036",
+  "primary_tag_id": "ML-T02036",
   "description": {
     "definition": "근음이 오도 관계로 이어지며 여러 음계 화음을 거쳐 중심 화음으로 돌아오는 진행이다.",
     "detail": "작품 사례: [[Weezer]]의 [[Island in the Sun]]에는 오도 관계의 순환 진행 중 일부가 나타나, 전체 순환을 모두 쓰지 않고도 그 흐름을 활용하는 사례가 된다.",
@@ -13,10 +13,10 @@
     "boundary": "조성들을 원형으로 배열한 도표 자체와는 구별하는 음악 진행 용례이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,13 +30,6 @@
   "applied_tags": [],
   "related_media": [
     {
-      "media_tag_id": "ML-T00139",
-      "work_card_id": "MM-MEDIA-001167",
-      "description_ko": "Weezer의 Island in the Sun에는 오도 관계의 순환 진행 중 일부가 나타나, 전체 순환을 모두 쓰지 않고도 그 흐름을 활용하는 사례가 된다.",
-      "spoiler_level": "unreviewed",
-      "row_version": 1
-    },
-    {
       "media_tag_id": "ML-F02",
       "work_card_id": "MM-MEDIA-000484",
       "description_ko": "Weezer의 Island in the Sun에는 오도 관계의 순환 진행 중 일부가 나타나, 전체 순환을 모두 쓰지 않고도 그 흐름을 활용하는 사례가 된다.",
@@ -45,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "근음이 오도 관계로 이어지는 화음들은 여러 단계를 거쳐 중심 화음으로 돌아오는 흐름을 만든다. 곡은 그 순환 전체가 아니라 일부 구간만 활용할 수도 있다.\n\n몇 개의 화음만 사용해도 오도 관계의 연결감은 남을 수 있다. 따라서 완전한 순환을 찾는 일과 부분적으로 같은 진행을 활용하는 일을 나누어 설명할 수 있다.\n\n조성을 원으로 배열한 도표를 보여 주는 것과는 다르다. 실제 소리의 시간적 진행을 설명하는 용례다.\n\n[[Weezer]]의 [[Island in the Sun]]에는 오도 관계의 순환 진행 중 일부가 나타나, 전체 순환을 모두 쓰지 않고도 그 흐름을 활용하는 사례가 된다.\n\n[[Weezer]]",
+    "sections": [
+      [
+        "상세 설명",
+        "근음이 오도 관계로 이어지는 화음들은 여러 단계를 거쳐 중심 화음으로 돌아오는 흐름을 만든다. 곡은 그 순환 전체가 아니라 일부 구간만 활용할 수도 있다.\n\n몇 개의 화음만 사용해도 오도 관계의 연결감은 남을 수 있다. 따라서 완전한 순환을 찾는 일과 부분적으로 같은 진행을 활용하는 일을 나누어 설명할 수 있다.\n\n조성을 원으로 배열한 도표를 보여 주는 것과는 다르다. 실제 소리의 시간적 진행을 설명하는 용례다."
+      ],
+      [
+        "사례",
+        "[[Weezer]]의 [[Island in the Sun]]에는 오도 관계의 순환 진행 중 일부가 나타나, 전체 순환을 모두 쓰지 않고도 그 흐름을 활용하는 사례가 된다."
+      ],
+      [
+        "관련 작품",
+        "[[Weezer]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

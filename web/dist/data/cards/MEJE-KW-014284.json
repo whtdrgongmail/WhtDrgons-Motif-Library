@@ -4,8 +4,8 @@
   "title": "일시적으로 빠진 영웅을 구하기",
   "original": "Hero on Hiatus",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00677",
+  "primary_tag_id": "ML-T00677",
   "description": {
     "definition": "주인공이 부상·감금·질병 등 비자발적 사정으로 행동하지 못해 동료들이 그를 회복시키는 과제를 맡았다가 복귀 후 본래 여정을 이어 가는 구성이다.",
     "detail": "작품 사례: [[Kid Icarus: Uprising]]에서 피트가 다크 피트를 구하다 날개를 잃자, 한 스테이지 동안 다크 피트를 조작한다. 이번 목표는 피트를 다시 활동할 수 있게 돌려놓는 것이다.",
@@ -13,10 +13,10 @@
     "boundary": "스스로 싫어서 떠난 은퇴나 영구적 주역 교체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.001.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비자발적으로 활동할 수 없게 된 영웅을 동료가 대신 행동하며 복귀시키는 구성이다. 일시적인 공백이 다른 인물의 역할을 확대한다.\n\n자발적인 은퇴와 영구적인 주역 교체와는 다르다. 부재의 원인과 구조 행동, 다시 활동할 수 있게 되는 목표가 연결되어야 한다.\n\n[[Kid Icarus: Uprising]]의 피트는 다크 피트를 구하다 날개를 잃는다. 이후 한 스테이지는 다크 피트를 조작해 피트의 복귀를 돕는 목표로 진행된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "비자발적으로 활동할 수 없게 된 영웅을 동료가 대신 행동하며 복귀시키는 구성이다. 일시적인 공백이 다른 인물의 역할을 확대한다.\n\n자발적인 은퇴와 영구적인 주역 교체와는 다르다. 부재의 원인과 구조 행동, 다시 활동할 수 있게 되는 목표가 연결되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Kid Icarus: Uprising]]의 피트는 다크 피트를 구하다 날개를 잃는다. 이후 한 스테이지는 다크 피트를 조작해 피트의 복귀를 돕는 목표로 진행된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

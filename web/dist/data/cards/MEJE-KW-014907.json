@@ -4,8 +4,8 @@
   "title": "상대를 멀리 날려 버리는 맨손 타격",
   "original": "Megaton Punch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01921",
+  "primary_tag_id": "ML-T01921",
   "description": {
     "definition": "주먹 같은 맨몸의 타격 한 번으로 상대가 비현실적으로 먼 거리까지 튕겨 나가는 과장된 액션이다.",
     "detail": "작품 사례: 《[[해피 프렌즈]]》의 해피 S는 강력한 주먹 한 방으로 상대를 하늘 높이 날려 보내곤 한다.",
@@ -13,10 +13,10 @@
     "boundary": "방망이로 공처럼 쳐 내는 장면과 달리 맨손 공격이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.010.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "맨손의 한 번 타격으로 상대가 하늘과 먼 곳까지 날아가는 과장이다. 신체의 힘이 실제 거리와 체공의 비현실적인 크기로 나타난다.\n\n방망이 등 무기로 공처럼 쳐 내는 표현과는 다르다. 단순한 넘어짐보다 충격 이후의 긴 이동이 공격의 핵심적인 효과여야 한다.\n\n《[[해피 프렌즈]]》의 해피 S는 강한 주먹으로 상대를 하늘 높이 날린다. 반복되는 먼 이동이 맨손 타격의 위력을 알아보기 쉽게 과장한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "맨손의 한 번 타격으로 상대가 하늘과 먼 곳까지 날아가는 과장이다. 신체의 힘이 실제 거리와 체공의 비현실적인 크기로 나타난다.\n\n방망이 등 무기로 공처럼 쳐 내는 표현과는 다르다. 단순한 넘어짐보다 충격 이후의 긴 이동이 공격의 핵심적인 효과여야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[해피 프렌즈]]》의 해피 S는 강한 주먹으로 상대를 하늘 높이 날린다. 반복되는 먼 이동이 맨손 타격의 위력을 알아보기 쉽게 과장한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

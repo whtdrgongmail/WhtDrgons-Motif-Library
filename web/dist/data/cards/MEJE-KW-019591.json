@@ -4,8 +4,8 @@
   "title": "초기형 인더스트리얼",
   "original": "Old-School Industrial",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00520",
+  "primary_tag_id": "ML-T00520",
   "description": {
     "definition": "거칠고 원초적인 녹음 질감, 단순한 신시사이저·드럼머신, 발견한 소리와 금속 타격, 테이프 가공 등을 결합하는 초기의 실험적 인더스트리얼 양식이다.",
     "detail": "작품 사례: Throbbing Gristle의 〈[[왓 어 데이]]〉는 이 음악 양식의 실제 곡 사례다.",
@@ -13,19 +13,22 @@
     "boundary": "인접 양식과 혼합될 수 있으므로 특정 악기 하나나 창작자의 소속만으로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.304",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "전통 악기와 소음, 녹음 가공을 낯설게 섞는 초기형이다.",
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거친 녹음과 금속 타격, 가공한 테이프 소리를 전자 리듬과 엮어 원초적인 질감을 만든다. 소리의 불균일함과 실험적인 조합이 음악의 인상에 참여한다.\n\n발견한 소리와 테이프 가공은 악기의 정제된 음색과 다른 재료를 제공한다. 단순한 리듬 위에 이를 결합하면 녹음 질감 자체도 곡의 표현 요소가 된다.\n\n금속 소리가 한 번 난다고 같은 양식은 아니다. 여러 표현의 결합을 확인해야 하며 특정 악기나 음악가의 소속만으로 분류할 수 없다.\n\nThrobbing Gristle의 〈[[왓 어 데이]]〉는 이 음악 양식의 실제 곡 사례다.\n\n[[왓 어 데이]]",
+    "sections": [
+      [
+        "상세 설명",
+        "거친 녹음과 금속 타격, 가공한 테이프 소리를 전자 리듬과 엮어 원초적인 질감을 만든다. 소리의 불균일함과 실험적인 조합이 음악의 인상에 참여한다.\n\n발견한 소리와 테이프 가공은 악기의 정제된 음색과 다른 재료를 제공한다. 단순한 리듬 위에 이를 결합하면 녹음 질감 자체도 곡의 표현 요소가 된다.\n\n금속 소리가 한 번 난다고 같은 양식은 아니다. 여러 표현의 결합을 확인해야 하며 특정 악기나 음악가의 소속만으로 분류할 수 없다."
+      ],
+      [
+        "사례",
+        "Throbbing Gristle의 〈[[왓 어 데이]]〉는 이 음악 양식의 실제 곡 사례다."
+      ],
+      [
+        "관련 작품",
+        "[[왓 어 데이]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

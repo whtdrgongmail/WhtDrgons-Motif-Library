@@ -3,9 +3,11 @@
   "kind": "keyword",
   "title": "악역의 다수 하급 부하",
   "original": "Mooks",
-  "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "aliases": [
+    "졸개"
+  ],
+  "tag_id": "ML-T00883",
+  "primary_tag_id": "ML-T00883",
   "description": {
     "definition": "주요 악역 아래에서 다수로 등장하며 개별 인물보다 집단적 전력과 장애물 역할을 맡는 하급 부하들이다.",
     "detail": "작품 사례: [[Puella Magi Madoka Magica]]에서 마법소녀가 된 사야카가 맞서는 적에는 마녀뿐 아니라 그 아래에서 움직이는 사역마들도 포함된다.",
@@ -13,10 +15,10 @@
     "boundary": "악역과 대등한 동료나 별도 [[서사]]를 가진 모든 측근을 같은 유형으로 묶지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역의 수적 전력을 이루는 하급 부하는 개별 서사보다 집단의 위협과 전투 규모를 전달하는 기능이 앞선다. 강한 중심 적과 다수의 하급 적을 구별하면 위계와 전투의 단계가 드러난다.\n\n악역의 동등한 동료나 독립된 [[서사]]가 중심인 측근까지 모두 같은 역할로 묶을 수는 없다. 수가 많다는 사실보다 조직 안에서 어떤 기능으로 제시되는지 확인한다.\n\n《[[Puella Magi Madoka Magica]]》의 사야카는 마녀뿐 아니라 그 아래에서 움직이는 사역마들과도 싸운다. 중심 적과 하급 전력의 구분이 적 집단의 구조를 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악역의 수적 전력을 이루는 하급 부하는 개별 서사보다 집단의 위협과 전투 규모를 전달하는 기능이 앞선다. 강한 중심 적과 다수의 하급 적을 구별하면 위계와 전투의 단계가 드러난다.\n\n악역의 동등한 동료나 독립된 [[서사]]가 중심인 측근까지 모두 같은 역할로 묶을 수는 없다. 수가 많다는 사실보다 조직 안에서 어떤 기능으로 제시되는지 확인한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Puella Magi Madoka Magica]]》의 사야카는 마녀뿐 아니라 그 아래에서 움직이는 사역마들과도 싸운다. 중심 적과 하급 전력의 구분이 적 집단의 구조를 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

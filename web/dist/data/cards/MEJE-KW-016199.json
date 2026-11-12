@@ -4,8 +4,8 @@
   "title": "영웅을 조직하고 지원하는 기관",
   "original": "Heroes \"R\" Us",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01364",
+  "primary_tag_id": "ML-T01364",
   "description": {
     "definition": "영웅을 모집·훈련·장비 제공·지휘하여 필요한 곳에 활동을 배치하는 조직 설정이다.",
     "detail": "작품 사례: [[Champions]]의 PRIMUS와 UNTIL은 초인 범죄를 수사하고 진압하는 기관이며, 필요할 때 소속 초능력 요원들을 투입한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 친목 모임이나 영웅에게 우연히 도움을 준 단체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영웅의 활동이 개인적인 결단에만 맡겨지지 않고 인력과 자원, 임무를 조정하는 제도에 의해 지속된다. 기관은 수사와 출동을 맡고 필요에 맞는 능력자를 배치하는 기반이 된다.\n\n영웅들의 친목 모임이나 일회적인 후원 단체와는 기능의 지속성이 다르다. 조직이 임무와 지원을 실제로 관리하는지 확인해야 한다.\n\n《[[Champions]]》의 PRIMUS와 UNTIL은 초인 범죄를 수사하고 진압하며 필요할 때 소속 초능력 요원을 투입한다. 개인 영웅의 활동을 제도적으로 조직하는 기관의 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영웅의 활동이 개인적인 결단에만 맡겨지지 않고 인력과 자원, 임무를 조정하는 제도에 의해 지속된다. 기관은 수사와 출동을 맡고 필요에 맞는 능력자를 배치하는 기반이 된다.\n\n영웅들의 친목 모임이나 일회적인 후원 단체와는 기능의 지속성이 다르다. 조직이 임무와 지원을 실제로 관리하는지 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Champions]]》의 PRIMUS와 UNTIL은 초인 범죄를 수사하고 진압하며 필요할 때 소속 초능력 요원을 투입한다. 개인 영웅의 활동을 제도적으로 조직하는 기관의 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

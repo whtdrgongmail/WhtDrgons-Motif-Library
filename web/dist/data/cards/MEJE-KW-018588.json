@@ -4,28 +4,28 @@
   "title": "슬퍼하지 않는 태도가 낳는 범행 의심",
   "original": "Incriminating Indifference",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F11",
+  "tag_id": "ML-T01085",
+  "primary_tag_id": "ML-T01085",
   "description": {
     "definition": "가까운 사람의 죽음이나 불행에 기대만큼 감정을 드러내지 않는 인물이 그 차분함 때문에 냉혹하거나 사건에 연루되었다는 의심을 받는 전개다.",
     "detail": "수사물은 차분한 사람에게 먼저 의심을 집중시킨 뒤 실제 범인은 격렬한 슬픔을 연기했다고 뒤집을 수 있다.\n\n작품 사례: 《[[이방인]]》에서 뫼르소가 어머니의 장례식에서 슬픔을 드러내지 않았다는 사실은 살인 재판에서 그의 냉혹함을 판단하는 근거로 동원된다.",
     "usage": "겉으로 보이는 감정과 사실 판단의 차이, 집단이 기대하는 [[애도]] 규범을 다룬다.",
-    "boundary": "감정 표현의 차이는 실제 유죄를 입증하는 근거와 다르다. 작품에서도 충격·절제·사적인 애도 때문에 반응이 다를 수 있다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "11",
+    "code": "11.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "울지 않는다는 이유가 잘못을 저질렀다는 의심으로 이어진다.\n\n작품 사례: 《[[이방인]]》에서 뫼르소가 어머니의 장례식에서 슬픔을 드러내지 않았다는 사실은 살인 재판에서 그의 냉혹함을 판단하는 근거로 동원된다.",
+    "easy_ko": "울지 않는다는 이유가 잘못을 저질렀다는 의심으로 이어진다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수사물은 차분한 사람에게 먼저 의심을 집중시킨 뒤 실제 범인은 격렬한 슬픔을 연기했다고 뒤집을 수 있다.\n\n감정 표현의 차이는 실제 유죄를 입증하는 근거와 다르다. 작품에서도 충격·절제·사적인 애도 때문에 반응이 다를 수 있다.\n\n소설 《[[이방인]]》에서 뫼르소가 어머니의 장례식에서 슬픔을 드러내지 않았다는 사실은 살인 재판에서 그의 냉혹함을 판단하는 근거로 동원된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수사물은 차분한 사람에게 먼저 의심을 집중시킨 뒤 실제 범인은 격렬한 슬픔을 연기했다고 뒤집을 수 있다.\n\n감정 표현의 차이는 실제 유죄를 입증하는 근거와 다르다. 작품에서도 충격·절제·사적인 애도 때문에 반응이 다를 수 있다."
+      ],
+      [
+        "관련 작품",
+        "소설 《[[이방인]]》에서 뫼르소가 어머니의 장례식에서 슬픔을 드러내지 않았다는 사실은 살인 재판에서 그의 냉혹함을 판단하는 근거로 동원된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

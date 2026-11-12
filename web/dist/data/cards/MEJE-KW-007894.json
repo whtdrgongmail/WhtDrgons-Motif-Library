@@ -4,8 +4,8 @@
   "title": "개편을 위한 방송 중단",
   "original": "Drawing Board Hiatus",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "시청률이 낮은 방송을 즉시 폐지하지 않고 편성에서 잠시 빼 수정 후 복귀를 기대하는 제작·편성 결정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성과가 낮은 프로그램을 바로 폐지하지 않고 편성에서 잠시 빼 개편을 시도하는 결정이다. 휴식 기간이 제작 방향을 다시 정하는 시간으로 제시된다.\n\n대본과 출연, 형식의 변경 뒤 새 시점에 복귀할 가능성을 남긴다. 방송사는 기존 투자를 살리면서 낮은 성과가 현재 편성에 주는 영향을 줄이려 한다.\n\n공식적인 복귀의 기대와 실제 재개는 다르다. 관심과 자원이 줄면 중단이 길어지거나 완전히 취소될 수 있으며, 계절과 제작 일정에 따른 예정된 휴방과도 이유를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성과가 낮은 프로그램을 바로 폐지하지 않고 편성에서 잠시 빼 개편을 시도하는 결정이다. 휴식 기간이 제작 방향을 다시 정하는 시간으로 제시된다.\n\n대본과 출연, 형식의 변경 뒤 새 시점에 복귀할 가능성을 남긴다. 방송사는 기존 투자를 살리면서 낮은 성과가 현재 편성에 주는 영향을 줄이려 한다.\n\n공식적인 복귀의 기대와 실제 재개는 다르다. 관심과 자원이 줄면 중단이 길어지거나 완전히 취소될 수 있으며, 계절과 제작 일정에 따른 예정된 휴방과도 이유를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

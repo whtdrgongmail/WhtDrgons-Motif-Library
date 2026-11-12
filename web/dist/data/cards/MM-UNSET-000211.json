@@ -2,24 +2,62 @@
   "id": "MM-UNSET-000211",
   "kind": "keyword",
   "title": "논리적 역설",
-  "original": "",
+  "original": "Logical paradox",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "",
+    "definition": "받아들일 만해 보이는 전제와 추론에서 출발했는데 서로 양립할 수 없는 결론이나 일관된 진리값을 정하기 어려운 문제에 이르는 역설.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "생각을 차례로 따라가면 맞는 것 같은데, 끝에서는 함께 맞을 수 없는 답이 나오는 문제다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000358",
+      "card_id": "MM-UNSET-000211",
+      "label_ko": "스탠퍼드 철학백과: 거짓말쟁이 역설",
+      "icon_key": "link",
+      "url": "https://plato.stanford.edu/entries/liar-paradox/",
+      "description_ko": "자기 지시와 참·거짓 판정 문제를 설명하는 학술 참고 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "논리적 역설은 받아들일 만해 보이는 전제와 추론을 함께 적용했을 때 양립할 수 없는 판단에 이르는 문제다. 계산상의 단순한 실수라면 잘못된 한 단계를 고치면 되지만, 역설에서는 어떤 전제나 의미 규칙을 수정해야 하는지가 논쟁의 대상이 된다.\n\n[[자신의 거짓을 선언하는 역설]]은 한 문장이 자기 자신의 거짓을 주장할 때 생기는 참·거짓 판정의 충돌이다. [[서로의 진위를 참조하는 순환 역설]]은 둘 이상의 문장이 서로의 진위를 가리키는 방식으로 비슷한 문제를 만든다. 자기 지시만으로 모든 문장이 역설이 되는 것은 아니며, 그 구조가 실제 모순된 판단을 낳는지 확인해야 한다.\n\n수사 기법인 [[역설]]은 표면상 대립하는 표현을 통해 해석 가능한 의미를 전달한다는 점에서 논리적 역설과 다르다. 작품에서 역설을 들은 [[인공지능]]이 멈추는 장면은 논리 문제를 극적으로 표현한 허구적 장치다. 역설 자체가 모든 [[컴퓨터]]에 고장을 일으키는 기술이라는 뜻은 아니다.\n\n거짓말쟁이 역설에서 ‘이 문장은 거짓이다’를 참이라고 가정하면 문장의 내용에 따라 거짓이 되고, 거짓이라고 가정하면 반대로 참이라는 문제가 생긴다. 자기 지시와 진리 판정 규칙이 충돌하는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "논리적 역설은 받아들일 만해 보이는 전제와 추론을 함께 적용했을 때 양립할 수 없는 판단에 이르는 문제다. 계산상의 단순한 실수라면 잘못된 한 단계를 고치면 되지만, 역설에서는 어떤 전제나 의미 규칙을 수정해야 하는지가 논쟁의 대상이 된다.\n\n[[자신의 거짓을 선언하는 역설]]은 한 문장이 자기 자신의 거짓을 주장할 때 생기는 참·거짓 판정의 충돌이다. [[서로의 진위를 참조하는 순환 역설]]은 둘 이상의 문장이 서로의 진위를 가리키는 방식으로 비슷한 문제를 만든다. 자기 지시만으로 모든 문장이 역설이 되는 것은 아니며, 그 구조가 실제 모순된 판단을 낳는지 확인해야 한다.\n\n수사 기법인 [[역설]]은 표면상 대립하는 표현을 통해 해석 가능한 의미를 전달한다는 점에서 논리적 역설과 다르다. 작품에서 역설을 들은 [[인공지능]]이 멈추는 장면은 논리 문제를 극적으로 표현한 허구적 장치다. 역설 자체가 모든 [[컴퓨터]]에 고장을 일으키는 기술이라는 뜻은 아니다."
+      ],
+      [
+        "사례",
+        "거짓말쟁이 역설에서 ‘이 문장은 거짓이다’를 참이라고 가정하면 문장의 내용에 따라 거짓이 되고, 거짓이라고 가정하면 반대로 참이라는 문제가 생긴다. 자기 지시와 진리 판정 규칙이 충돌하는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

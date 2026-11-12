@@ -4,8 +4,8 @@
   "title": "작살 발사기",
   "original": "Harpoon Gun",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "창 모양의 작살을 발사하여 목표에 박히게 하는 도구나 무기이다.",
     "detail": "작품 사례: [[Killers on Wheels]]에서는 해변 숙소를 지키는 인물들이 작살 발사기를 방어 무기로 사용하여, 해안 환경의 도구가 대결의 수단으로 바뀐다.",
@@ -13,10 +13,10 @@
     "boundary": "휴대형과 선박 장착형의 규모·성능을 동일하게 보지 않으며 모든 발사체 무기를 포함하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작살을 발사해 목표에 박히게 하는 도구다. 해양 환경의 장비가 수중 전투나 즉흥적인 대결의 수단으로 전환될 수 있다.\n\n케이블이 연결된 설정에서는 박힌 대상을 끌어오는 기능이 더해질 수 있다. 바다와 관련된 인물의 이미지에 맞춰 무기의 종류를 선택하는 표현도 가능하다.\n\n잠수자가 쓰는 휴대형과 선박에 올린 큰 장비는 같은 규모가 아니다. 외형의 공통점과 작품이 부여한 성능을 구분하고 실제 사용 절차로 확대하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작살을 발사해 목표에 박히게 하는 도구다. 해양 환경의 장비가 수중 전투나 즉흥적인 대결의 수단으로 전환될 수 있다.\n\n케이블이 연결된 설정에서는 박힌 대상을 끌어오는 기능이 더해질 수 있다. 바다와 관련된 인물의 이미지에 맞춰 무기의 종류를 선택하는 표현도 가능하다.\n\n잠수자가 쓰는 휴대형과 선박에 올린 큰 장비는 같은 규모가 아니다. 외형의 공통점과 작품이 부여한 성능을 구분하고 실제 사용 절차로 확대하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

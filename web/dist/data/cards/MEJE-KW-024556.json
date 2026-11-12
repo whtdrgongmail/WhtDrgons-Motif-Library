@@ -5,8 +5,8 @@
   "original": "Redrawing Lip Flaps for the Dub",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02283",
+  "primary_tag_id": "ML-T02283",
   "description": {
     "definition": "번역된 대사를 자연스럽게 유지하기 위해 기존 화면의 입 움직임이나 장면 시간을 수정한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "번역과 영상의 시간 관계를 다루는 제작 선택이며 모든 언어·작품의 제작법이 같다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "번역 음성을 자연스럽게 유지하기 위해 기존 화면의 입 움직임과 장면 시간을 바꾼다. 음성을 영상에만 맞추기보다 영상도 조정한다.\n\n자연스러운 속도와 말투를 보존하려면 어느 요소를 수정할지 결정해야 한다. 이 방식에서는 번역 음성이 새 화면의 기준으로 작용한다.\n\n모든 언어와 작품에 공통된 제작법은 아니다. 기존 화면을 유지한 채 발화만 바꾸는 선택과 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "번역 음성을 자연스럽게 유지하기 위해 기존 화면의 입 움직임과 장면 시간을 바꾼다. 음성을 영상에만 맞추기보다 영상도 조정한다.\n\n자연스러운 속도와 말투를 보존하려면 어느 요소를 수정할지 결정해야 한다. 이 방식에서는 번역 음성이 새 화면의 기준으로 작용한다.\n\n모든 언어와 작품에 공통된 제작법은 아니다. 기존 화면을 유지한 채 발화만 바꾸는 선택과 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

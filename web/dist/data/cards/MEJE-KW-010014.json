@@ -4,8 +4,8 @@
   "title": "대결 중심 연속물",
   "original": "Fighting Series",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-010014",
+  "primary_tag_id": "MEJE-KW-010014",
   "description": {
     "definition": "전투 자체와 새로운 기술의 습득이 사건의 핵심이 되어 인물의 성장과 다음 대결을 이끄는 연속 이야기 유형이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.101.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대결 중심 연속물은 새로운 상대와의 싸움을 반복하면서 기술 습득, 전략 변화, 패배와 재도전을 인물의 성장 경로로 삼는다. 각 대결은 독립적인 승패에 그치지 않고 다음 상대의 등장이나 더 큰 목표와 이어져 연재·연속 전개의 리듬을 만든다.\n\n[[액션]] 장르와 겹치지만 판정의 기준은 빠른 장면이나 전투의 양이 아니라 대결이 연속 구조를 조직하는가에 있다. 한 번의 전투가 부수적으로 등장하는 이야기나 대결 없이 추격·위기 대응만 이어지는 액션물과 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대결 중심 연속물은 새로운 상대와의 싸움을 반복하면서 기술 습득, 전략 변화, 패배와 재도전을 인물의 성장 경로로 삼는다. 각 대결은 독립적인 승패에 그치지 않고 다음 상대의 등장이나 더 큰 목표와 이어져 연재·연속 전개의 리듬을 만든다.\n\n[[액션]] 장르와 겹치지만 판정의 기준은 빠른 장면이나 전투의 양이 아니라 대결이 연속 구조를 조직하는가에 있다. 한 번의 전투가 부수적으로 등장하는 이야기나 대결 없이 추격·위기 대응만 이어지는 액션물과 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

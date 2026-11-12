@@ -4,8 +4,8 @@
   "title": "사소한 차이 지적으로 무너지는 비유",
   "original": "Analogy Backfire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01982",
+  "primary_tag_id": "ML-T01982",
   "description": {
     "definition": "상황을 설명하려고 든 비유가 세부 조건을 따지는 상대의 반박에 막혀 전달력을 잃는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "비유가 반대 결론을 증명하는 경우에 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비유를 들은 사람이 세부의 차이를 지적하여 원래의 메시지를 무너뜨린다. 영감을 주려던 비교가 다른 결론이나 불편한 함의로 바뀐다.\n\n같은 대상을 비교해도 어떤 성질을 선택했는지에 따라 효과가 달라진다. 비유의 중심과 무관한 지적이 대화를 막는 과정이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "비유를 들은 사람이 세부의 차이를 지적하여 원래의 메시지를 무너뜨린다. 영감을 주려던 비교가 다른 결론이나 불편한 함의로 바뀐다.\n\n같은 대상을 비교해도 어떤 성질을 선택했는지에 따라 효과가 달라진다. 비유의 중심과 무관한 지적이 대화를 막는 과정이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

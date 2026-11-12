@@ -4,8 +4,8 @@
   "title": "버블검 팝 음악",
   "original": "Bubblegum Music",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-003984",
+  "primary_tag_id": "MEJE-KW-003984",
   "description": {
     "definition": "가볍고 반복적인 선율과 밝은 목소리를 앞세운 대중음악 장르. 쉬운 후렴이 노래의 인상을 빠르게 남긴다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "밝고 쉽게 기억되는 선율과 반복적인 후렴을 앞세우는 팝 음악의 양식이다. 어린 청중에게 빠르게 다가가는 소리와 단순한 인상의 즐거움이 중요하게 작동한다.\n\n짧고 귀에 남는 구절은 공연과 방송 밖에서도 쉽게 따라 부를 수 있다. 작품에 삽입하면 발랄한 분위기를 만들고, 어두운 장면과 대비하면 음악과 사건 사이의 불균형이 다른 효과를 낼 수 있다.\n\n가볍게 들린다는 사실만으로 음악적 가치가 낮다고 판단하지 않는다. 음악의 실제 구성과 제작·수용 맥락을 확인하며, 밝은 곡과 어린 연주자가 있는 모든 팝을 같은 범주로 묶지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "밝고 쉽게 기억되는 선율과 반복적인 후렴을 앞세우는 팝 음악의 양식이다. 어린 청중에게 빠르게 다가가는 소리와 단순한 인상의 즐거움이 중요하게 작동한다.\n\n짧고 귀에 남는 구절은 공연과 방송 밖에서도 쉽게 따라 부를 수 있다. 작품에 삽입하면 발랄한 분위기를 만들고, 어두운 장면과 대비하면 음악과 사건 사이의 불균형이 다른 효과를 낼 수 있다.\n\n가볍게 들린다는 사실만으로 음악적 가치가 낮다고 판단하지 않는다. 음악의 실제 구성과 제작·수용 맥락을 확인하며, 밝은 곡과 어린 연주자가 있는 모든 팝을 같은 범주로 묶지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

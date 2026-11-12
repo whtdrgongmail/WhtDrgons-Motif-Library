@@ -5,21 +5,47 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "",
+    "definition": "발언·행동·표현의 의미를 해석할 때 필요한 앞뒤 정보와 사회적·시간적 조건이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "같은 말도 누가, 언제, 어떤 질문에 답하며 했는지에 따라 뜻이 달라진다. 이렇게 뜻을 이해하는 데 필요한 주변 정보를 맥락이라고 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "언어적 맥락에는 앞뒤 문장과 대화의 질문·답변 관계가 포함된다. 상황적 맥락에는 말한 사람과 듣는 사람의 관계, 발생 시점, 장소, 이미 공유한 정보가 포함된다. 표현의 의미는 단어만으로 항상 결정되지 않으며 이러한 조건과 함께 해석된다.\n\n[[인용의 맥락을 제거하기]]는 발언 일부를 사실대로 옮겨도 필요한 조건을 빠뜨리면 다른 인상을 줄 수 있다는 점을 이용한다. 맥락을 확인한다는 것은 발언자에게 임의의 숨은 의도를 부여하는 일이 아니라, 해석에 직접 영향을 주는 조건을 자료와 함께 대조하는 일이다.\n\n가상 예: ‘괜찮다’라는 답을 앞의 질문 없이 제시하면, 제안을 받아들인 말인지 상대를 안심시키려는 말인지 구분하기 어렵다.",
+    "sections": [
+      [
+        "상세 설명",
+        "언어적 맥락에는 앞뒤 문장과 대화의 질문·답변 관계가 포함된다. 상황적 맥락에는 말한 사람과 듣는 사람의 관계, 발생 시점, 장소, 이미 공유한 정보가 포함된다. 표현의 의미는 단어만으로 항상 결정되지 않으며 이러한 조건과 함께 해석된다.\n\n[[인용의 맥락을 제거하기]]는 발언 일부를 사실대로 옮겨도 필요한 조건을 빠뜨리면 다른 인상을 줄 수 있다는 점을 이용한다. 맥락을 확인한다는 것은 발언자에게 임의의 숨은 의도를 부여하는 일이 아니라, 해석에 직접 영향을 주는 조건을 자료와 함께 대조하는 일이다."
+      ],
+      [
+        "사례",
+        "가상 예: ‘괜찮다’라는 답을 앞의 질문 없이 제시하면, 제안을 받아들인 말인지 상대를 안심시키려는 말인지 구분하기 어렵다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

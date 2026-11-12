@@ -4,8 +4,8 @@
   "title": "식물 조작 능력",
   "original": "Green Thumb",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01516",
+  "primary_tag_id": "ML-T01516",
   "description": {
     "definition": "식물의 성장과 움직임·형태를 변화시키거나 식물을 불러내어 목적에 맞게 사용하는 초자연적 [[능력]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 원예 실력이나 동물 통제, 균류만 다루는 힘과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "17",
+    "code": "17.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "능력자는 식물의 성장 속도와 움직임, 형태를 초자연적으로 바꾸거나 식물을 불러내 목적에 맞게 사용한다. 덩굴로 이동을 막고 뿌리로 방벽을 만들며 나뭇가지를 움직이는 식으로, 식물 자체가 행동의 매개가 된다.\n\n원예 지식이나 작물을 건강하게 키우는 기술만으로는 해당하지 않는다. 동물을 조종하는 힘과도 구별되며, 균류만 다루는 설정 역시 식물 조작이라는 범위를 벗어난다.\n\n가상 예시: 숲의 수호자가 손짓하자 담쟁이가 돌담을 타고 자라 무너진 틈을 가리고, 낮은 가지들이 부상자를 받쳐 든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "능력자는 식물의 성장 속도와 움직임, 형태를 초자연적으로 바꾸거나 식물을 불러내 목적에 맞게 사용한다. 덩굴로 이동을 막고 뿌리로 방벽을 만들며 나뭇가지를 움직이는 식으로, 식물 자체가 행동의 매개가 된다.\n\n원예 지식이나 작물을 건강하게 키우는 기술만으로는 해당하지 않는다. 동물을 조종하는 힘과도 구별되며, 균류만 다루는 설정 역시 식물 조작이라는 범위를 벗어난다."
+      ],
+      [
+        "사례",
+        "가상 예시: 숲의 수호자가 손짓하자 담쟁이가 돌담을 타고 자라 무너진 틈을 가리고, 낮은 가지들이 부상자를 받쳐 든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "에로틱 영화",
   "original": "Erotic Film",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008758",
+  "primary_tag_id": "MEJE-KW-008758",
   "description": {
     "definition": "인물 사이의 성적 긴장과 친밀함을 이야기와 시각 표현의 중심에 두는 영화 갈래다. [[에로틱 문학]]은 성적 관계를 화면 대신 글로 표현하는 가까운 장르다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.119.005",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성적인 긴장과 친밀한 관계가 주요 줄거리와 시각 표현을 구성하는 영화 범주다. 관계의 욕망이 사건과 인물의 판단을 이끈다.\n\n관객의 흥분뿐 아니라 불편과 충격을 의도하거나 권력과 [[정체성]]을 탐구하는 방식으로 사용될 수 있다. 드라마와 희극 등 다른 장르의 구조와 결합하기도 한다.\n\n노출 장면의 수만으로 범주를 결정하지 않는다. 성적 관계가 작품에서 차지하는 역할과 표현의 목적이 중요하며 등급과 배급의 기준은 시대와 지역에 따라 달라질 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성적인 긴장과 친밀한 관계가 주요 줄거리와 시각 표현을 구성하는 영화 범주다. 관계의 욕망이 사건과 인물의 판단을 이끈다.\n\n관객의 흥분뿐 아니라 불편과 충격을 의도하거나 권력과 [[정체성]]을 탐구하는 방식으로 사용될 수 있다. 드라마와 희극 등 다른 장르의 구조와 결합하기도 한다.\n\n노출 장면의 수만으로 범주를 결정하지 않는다. 성적 관계가 작품에서 차지하는 역할과 표현의 목적이 중요하며 등급과 배급의 기준은 시대와 지역에 따라 달라질 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

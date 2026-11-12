@@ -5,8 +5,8 @@
   "original": "Using Everyday Makeup as a Weapon",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00776",
+  "primary_tag_id": "ML-T00776",
   "description": {
     "definition": "특수 장치가 아닌 평범한 화장품을 원래의 물리적 성질을 이용해 공격이나 방어에 쓰는 행동이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "일반적인 즉석 무기보다 화장품이라는 대상 범위가 좁고 숨겨 둔 무기 기능이 없어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평범한 화장품을 그 물건의 원래 성질을 이용해 공격이나 방어 수단으로 바꾼다. 무기 기능을 숨긴 특수 장치가 아니라 주변의 소지품을 즉석에서 활용한다.\n\n인물은 가까이 있는 물건이 현재 상황에 어떻게 쓰일지 알아차린다. 기성 무장의 준비보다 소지품의 성질을 파악한 임기응변이 능력으로 제시된다.\n\n일반적인 즉석 무기 중에서도 대상이 화장품으로 한정된다. 처음부터 무기로 설계한 물건을 화장품처럼 꾸민 경우와는 작동의 출발점이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평범한 화장품을 그 물건의 원래 성질을 이용해 공격이나 방어 수단으로 바꾼다. 무기 기능을 숨긴 특수 장치가 아니라 주변의 소지품을 즉석에서 활용한다.\n\n인물은 가까이 있는 물건이 현재 상황에 어떻게 쓰일지 알아차린다. 기성 무장의 준비보다 소지품의 성질을 파악한 임기응변이 능력으로 제시된다.\n\n일반적인 즉석 무기 중에서도 대상이 화장품으로 한정된다. 처음부터 무기로 설계한 물건을 화장품처럼 꾸민 경우와는 작동의 출발점이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

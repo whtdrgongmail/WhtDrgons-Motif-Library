@@ -4,28 +4,28 @@
   "title": "자신의 모험을 작품으로 남기는 결말",
   "original": "I Should Write a Book About This",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00616",
+  "primary_tag_id": "ML-T00616",
   "description": {
     "definition": "일련의 사건을 겪은 인물이 그 경험을 책이나 영화 같은 작품으로 만들어 남기는 방식으로 이야기를 마무리하는 구성이다.",
     "detail": "책의 첫 문장과 작중 집필의 시작이 같아질 수 있다. 영상판에서는 방금 본 장면이 촬영 중인 장면이었다고 드러내기도 한다.\n\n작품 사례: 《[[포켓몬스터 소드·실드]]》의 소니아는 사건 뒤 갈라르의 영웅에 대한 진실을 담은 책을 써 모험을 기록으로 남긴다.",
     "usage": "이야기를 회고와 기록의 틀로 닫거나 서술자의 기억과 과장의 가능성을 남긴다.",
-    "boundary": "평소 작가인 인물이 다른 소재를 쓰거나 작품 밖 제작자가 자기 경험을 참고한 일만으로 성립하지 않는다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.001.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "모험이 끝난 뒤 주인공이 그 일을 기록해 우리가 본 이야기로 만든다.\n\n작품 사례: 《[[포켓몬스터 소드·실드]]》의 소니아는 사건 뒤 갈라르의 영웅에 대한 진실을 담은 책을 써 모험을 기록으로 남긴다.",
+    "easy_ko": "모험이 끝난 뒤 주인공이 그 일을 기록해 우리가 본 이야기로 만든다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "책의 첫 문장과 작중 집필의 시작이 같아질 수 있다. 영상판에서는 방금 본 장면이 촬영 중인 장면이었다고 드러내기도 한다.\n\n평소 작가인 인물이 다른 소재를 쓰거나 작품 밖 제작자가 자기 경험을 참고한 일만으로 성립하지 않는다.\n\n《[[포켓몬스터 소드·실드]]》의 소니아는 사건 뒤 갈라르의 영웅에 대한 진실을 담은 책을 써 모험을 기록으로 남긴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "책의 첫 문장과 작중 집필의 시작이 같아질 수 있다. 영상판에서는 방금 본 장면이 촬영 중인 장면이었다고 드러내기도 한다.\n\n평소 작가인 인물이 다른 소재를 쓰거나 작품 밖 제작자가 자기 경험을 참고한 일만으로 성립하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[포켓몬스터 소드·실드]]》의 소니아는 사건 뒤 갈라르의 영웅에 대한 진실을 담은 책을 써 모험을 기록으로 남긴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "선율들이 서로 어울리는 대위 구성",
   "original": "Counterpoint",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02016",
+  "primary_tag_id": "ML-T02016",
   "description": {
     "definition": "둘 이상의 독립적인 선율이 동시에 진행하면서 서로 어울리고 반응하도록 엮는 작곡 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단일 선율에 화음만 붙이는 구성과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.002.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "독립적인 둘 이상의 선율을 동시에 진행시켜 서로 어울리게 한다. 각 성부는 자체 흐름을 가지면서 전체의 관계에 참여한다.\n\n한 선율이 다른 선율에 반응하거나 다른 시점에 이어지면 복합적인 움직임이 생긴다. 듣는 관점에 따라 주목하는 가락도 달라질 수 있다.\n\n단일한 선율에 화음만 붙이는 방식과는 다르다. 선율들의 독립성과 동시적인 조화가 함께 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "독립적인 둘 이상의 선율을 동시에 진행시켜 서로 어울리게 한다. 각 성부는 자체 흐름을 가지면서 전체의 관계에 참여한다.\n\n한 선율이 다른 선율에 반응하거나 다른 시점에 이어지면 복합적인 움직임이 생긴다. 듣는 관점에 따라 주목하는 가락도 달라질 수 있다.\n\n단일한 선율에 화음만 붙이는 방식과는 다르다. 선율들의 독립성과 동시적인 조화가 함께 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

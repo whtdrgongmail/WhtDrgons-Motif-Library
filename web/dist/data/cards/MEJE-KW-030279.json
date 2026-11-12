@@ -4,8 +4,8 @@
   "title": "나치의 잔혹함을 자극으로 소비하는 착취물",
   "original": "Nazisploitation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-009149",
+  "primary_tag_id": "MEJE-KW-009149",
   "description": {
     "definition": "나치의 수용소나 감금 공간을 배경으로 성적 폭력과 잔혹함을 자극적인 볼거리로 전면에 내세우는 착취물 갈래다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": "피해의 역사나 모든 나치 소재 작품을 이 장르로 묶지 않으며 노골적인 행위의 세부를 카드에 재현하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.405",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
+    "semantic_kind": "film_genre",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "역사적 가해의 공간을 충격과 성적 자극을 파는 배경으로 쓴다.",
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "나치 착취물은 나치 수용소나 구금 공간을 배경으로 성적 폭력과 잔혹함을 전면적인 볼거리로 상품화하는 영화 갈래다. 역사적 폭력이 비판이나 기록의 맥락보다 관객의 충격과 자극을 끌어내는 방식으로 소비될 때 이 명칭이 적용된다.\n\n나치 시대를 다룬 모든 작품이나 피해의 역사를 기억하려는 재현을 같은 범주로 묶어서는 안 된다. 자극의 상품화가 구성의 중심인지, 피해자의 경험과 역사적 맥락이 어떻게 취급되는지가 구분 기준이다. 비평과 창작 분석에서는 성폭력이나 잔혹 행위의 세부를 되풀이하지 않고, 역사적 폭력이 어떤 시선과 소비 구조에 놓이는지 설명한다.\n\n작품 사례: 《[[일사: 나치 친위대의 암캐]]》는 나치 구금 공간과 역사적 폭력을 자극적 볼거리로 사용하는 영화다. 피해의 기록보다 충격의 상품화가 중심인지 검토하는 나치 착취물의 사례로 다룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "나치 착취물은 나치 수용소나 구금 공간을 배경으로 성적 폭력과 잔혹함을 전면적인 볼거리로 상품화하는 영화 갈래다. 역사적 폭력이 비판이나 기록의 맥락보다 관객의 충격과 자극을 끌어내는 방식으로 소비될 때 이 명칭이 적용된다.\n\n나치 시대를 다룬 모든 작품이나 피해의 역사를 기억하려는 재현을 같은 범주로 묶어서는 안 된다. 자극의 상품화가 구성의 중심인지, 피해자의 경험과 역사적 맥락이 어떻게 취급되는지가 구분 기준이다. 비평과 창작 분석에서는 성폭력이나 잔혹 행위의 세부를 되풀이하지 않고, 역사적 폭력이 어떤 시선과 소비 구조에 놓이는지 설명한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[일사: 나치 친위대의 암캐]]》는 나치 구금 공간과 역사적 폭력을 자극적 볼거리로 사용하는 영화다. 피해의 기록보다 충격의 상품화가 중심인지 검토하는 나치 착취물의 사례로 다룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

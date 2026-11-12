@@ -4,8 +4,8 @@
   "title": "의료 지식을 전투에 쓰는 의사",
   "original": "Deadly Doctor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00921",
+  "primary_tag_id": "ML-T00921",
   "description": {
     "definition": "선하거나 악한 의사가 의료 지식·도구·상징을 대결에 활용하는 인물 유형. 돌봄과 전투의 역할이 한 인물 안에서 맞물린다.",
     "detail": "작품 사례: [[Lost Dimension]]의 Sojiro Sagara는 적을 최대 체력 이상으로 회복시켜 오히려 피해를 주는 기술로, 치료자의 능력을 공격에 이용한다.",
@@ -13,10 +13,10 @@
     "boundary": "치료를 시도하다 실수하는 인물과 달리 해침의 목적이나 기능이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "치료를 담당하는 지식과 도구가 대결의 수단으로 바뀐다. 의사는 돌봄과 해침이라는 서로 다른 기능을 같은 전문성 안에서 수행한다.\n\n치유 능력도 사용 대상과 효과에 따라 공격으로 전환될 수 있다. 인물이 선한지 악한지는 별도이며 의료적 상징을 전투에 연결하는 방식이 중요하다.\n\n치료하다가 우연히 피해를 준 실수와는 다르다. 해치는 목적이나 공격 기능이 실제로 제시되어야 한다.\n\n[[Lost Dimension]]의 Sojiro Sagara는 적을 최대 체력 이상으로 회복시켜 피해를 주는 기술을 사용한다.\n\n[[Lost Dimension]]",
+    "sections": [
+      [
+        "상세 설명",
+        "치료를 담당하는 지식과 도구가 대결의 수단으로 바뀐다. 의사는 돌봄과 해침이라는 서로 다른 기능을 같은 전문성 안에서 수행한다.\n\n치유 능력도 사용 대상과 효과에 따라 공격으로 전환될 수 있다. 인물이 선한지 악한지는 별도이며 의료적 상징을 전투에 연결하는 방식이 중요하다.\n\n치료하다가 우연히 피해를 준 실수와는 다르다. 해치는 목적이나 공격 기능이 실제로 제시되어야 한다."
+      ],
+      [
+        "사례",
+        "[[Lost Dimension]]의 Sojiro Sagara는 적을 최대 체력 이상으로 회복시켜 피해를 주는 기술을 사용한다."
+      ],
+      [
+        "관련 작품",
+        "[[Lost Dimension]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

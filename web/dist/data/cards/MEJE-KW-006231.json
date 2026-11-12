@@ -4,8 +4,8 @@
   "title": "서로 동시에 맞히는 교차 주먹",
   "original": "Cross Counter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "두 격투 인물이 같은 순간 서로에게 주먹을 뻗어 함께 타격을 입는다. 대등한 실력이나 소모된 힘이 한 장면에 드러난다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "Cross Counter는 두 격투자가 거의 동시에 주먹을 뻗어 서로 타격받는 장면이다. 회피 후 반격과 달리 양쪽 공격이 겹쳐 대등함이나 고집을 압축한다.\n\n동시성은 거리와 움직임으로 이해되어야 한다. 타격 뒤 균형이나 다음 행동이 달라질 때 교환이 장면 결과로 이어진다.\n\n가상 예시: 두 복서가 동시에 공격해 모두 충격을 받고 거리를 벌린다.",
+    "sections": [
+      [
+        "상세 설명",
+        "Cross Counter는 두 격투자가 거의 동시에 주먹을 뻗어 서로 타격받는 장면이다. 회피 후 반격과 달리 양쪽 공격이 겹쳐 대등함이나 고집을 압축한다.\n\n동시성은 거리와 움직임으로 이해되어야 한다. 타격 뒤 균형이나 다음 행동이 달라질 때 교환이 장면 결과로 이어진다."
+      ],
+      [
+        "사례",
+        "가상 예시: 두 복서가 동시에 공격해 모두 충격을 받고 거리를 벌린다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

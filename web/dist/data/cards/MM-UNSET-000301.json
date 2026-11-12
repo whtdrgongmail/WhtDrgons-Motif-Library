@@ -2,24 +2,46 @@
   "id": "MM-UNSET-000301",
   "kind": "keyword",
   "title": "쉽게 잡아 큰 보상을 얻는 적",
-  "original": "",
+  "original": "Piñata Enemy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
-    "definition": "",
+    "definition": "상대적으로 적은 위험과 수고로 많은 보상을 주어 플레이어가 반갑게 찾아다니는 적이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 3,
+  "classification": {
+    "code": "25.008",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "위협적인 적보다 만나면 자원 획득 기회가 생겨 기쁜 적이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "적의 등장 자체가 부담이 아니라 보너스의 신호가 된다. 상대적으로 약한 전투력과 높은 자원 보상이 결합되어 플레이어가 먼저 찾아다니며, 드물게 만난다면 탐색에도 기대가 생긴다. 보상은 돈뿐 아니라 경험치나 유용한 물건일 수 있다.\n\n단지 평범한 적이 우연히 돈을 떨어뜨리는 경우보다 보상 공급원이라는 역할이 강해야 한다. 도망을 잘 치거나 잡기 어려운 희귀 적과도 다르다. [[약점을 알면 큰 보상을 주는 적]]처럼 공략 지식이나 준비가 핵심인 형태와 겹칠 수 있지만, 여기서는 위험 대비 높은 지급량이 중심이다. 자주 반복해 잡을 수 있다면 게임 전체의 성장 속도와 자원 균형에도 영향을 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "적의 등장 자체가 부담이 아니라 보너스의 신호가 된다. 상대적으로 약한 전투력과 높은 자원 보상이 결합되어 플레이어가 먼저 찾아다니며, 드물게 만난다면 탐색에도 기대가 생긴다. 보상은 돈뿐 아니라 경험치나 유용한 물건일 수 있다.\n\n단지 평범한 적이 우연히 돈을 떨어뜨리는 경우보다 보상 공급원이라는 역할이 강해야 한다. 도망을 잘 치거나 잡기 어려운 희귀 적과도 다르다. [[약점을 알면 큰 보상을 주는 적]]처럼 공략 지식이나 준비가 핵심인 형태와 겹칠 수 있지만, 여기서는 위험 대비 높은 지급량이 중심이다. 자주 반복해 잡을 수 있다면 게임 전체의 성장 속도와 자원 균형에도 영향을 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
+    "replaces_short_fields": true
+  }
 }

@@ -4,22 +4,44 @@
   "title": "죽음의 게임",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00858",
+  "primary_tag_id": "ML-T00858",
   "description": {
-    "definition": "",
+    "definition": "경기나 과제에서 탈락하면 생명을 잃는 규칙을 핵심 위협으로 삼는 이야기 구성이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 3,
+  "classification": {
+    "code": "08.006",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "게임에서 탈락하면 목숨을 잃는 이야기다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "익숙한 놀이 규칙과 참가자의 생존이 연결되면 작은 실수나 탈락 판정의 의미가 달라진다. 중요한 것은 장면이 잔혹하다는 사실보다 규칙에서 벗어난 결과가 생명 상실로 이어진다는 조건이다.\n\n참가자가 그 조건을 언제 이해하는지도 사건의 전개를 바꾼다. 탈락의 의미를 뒤늦게 알아차리면 기존의 대응이 무너질 수 있고, 도망치려는 행동이 오히려 규칙 위반이 되는 경우에는 [[집단 공포]]가 추가 피해와 연결된다.\n\n모든 죽음의 게임이 같은 경기 방식이나 같은 반응을 요구하지는 않는다. 참가자의 선택과 움직임을 제한하는 구체적인 규칙을 확인해야 하며, 단지 위험한 경기나 죽을 가능성이 있는 임무 전체와 동일하게 취급해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "익숙한 놀이 규칙과 참가자의 생존이 연결되면 작은 실수나 탈락 판정의 의미가 달라진다. 중요한 것은 장면이 잔혹하다는 사실보다 규칙에서 벗어난 결과가 생명 상실로 이어진다는 조건이다.\n\n참가자가 그 조건을 언제 이해하는지도 사건의 전개를 바꾼다. 탈락의 의미를 뒤늦게 알아차리면 기존의 대응이 무너질 수 있고, 도망치려는 행동이 오히려 규칙 위반이 되는 경우에는 [[집단 공포]]가 추가 피해와 연결된다.\n\n모든 죽음의 게임이 같은 경기 방식이나 같은 반응을 요구하지는 않는다. 참가자의 선택과 움직임을 제한하는 구체적인 규칙을 확인해야 하며, 단지 위험한 경기나 죽을 가능성이 있는 임무 전체와 동일하게 취급해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "돌아보게 한 뒤 얼굴을 치기",
   "original": "\"Hey, You!\" Haymaker",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "등을 보인 상대를 부르거나 어깨를 건드려 돌아보게 만든 직후 얼굴을 주먹으로 때리는 동작이다. 주의를 끄는 행동이 타격을 준비한다.",
     "detail": "작품 사례: [[Spider-Man: The New Animated Series]]에서 스파이더맨은 일렉트로 옆의 벽에서 말을 걸고, 그가 돌아보는 순간 주먹을 날린다.",
@@ -13,10 +13,10 @@
     "boundary": "뒤통수를 그대로 때리는 기습이나 돌아본 사람이 놀라 먼저 주먹질하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상대의 주의를 끌어 자신을 향하게 한 직후 얼굴을 공격하는 연속 동작이다. 호출과 돌아봄, 타격이 하나의 기습 방식으로 연결된다.\n\n뒤통수를 그대로 때리는 공격과 다르다. 돌아본 사람이 놀라 먼저 때리는 반사 행동도 발화자와 공격자의 관계가 반대다.\n\n[[Spider-Man: The New Animated Series]]의 스파이더맨은 일렉트로 옆 벽에서 말을 건다. 일렉트로가 돌아보는 순간 공격해 응시 방향의 전환을 타격의 조건으로 사용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상대의 주의를 끌어 자신을 향하게 한 직후 얼굴을 공격하는 연속 동작이다. 호출과 돌아봄, 타격이 하나의 기습 방식으로 연결된다.\n\n뒤통수를 그대로 때리는 공격과 다르다. 돌아본 사람이 놀라 먼저 때리는 반사 행동도 발화자와 공격자의 관계가 반대다."
+      ],
+      [
+        "관련 작품",
+        "[[Spider-Man: The New Animated Series]]의 스파이더맨은 일렉트로 옆 벽에서 말을 건다. 일렉트로가 돌아보는 순간 공격해 응시 방향의 전환을 타격의 조건으로 사용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

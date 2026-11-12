@@ -5,7 +5,7 @@
   "original": "Judaism and Jewish Culture in Media",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "primary_tag_id": "ML-F18",
   "description": {
     "definition": "유대인 중심 인물의 문화적 배경이나 유대교가 사건 전개 또는 성격 형성에 중요한 역할을 하는 작품 범주다.",
     "detail": "작품 사례: 《[[심슨 가족]]》의 「Today I Am A Clown」에서 크러스티는 어린 시절 바르미츠바를 치르지 않았음을 알고 성인이 된 뒤 아버지의 도움으로 의식을 준비한다. 문화적 정체성이 해당 회차의 줄거리를 이끈다.",
@@ -13,20 +13,14 @@
     "boundary": "유대인이라는 언급만 있거나 창작자의 정체성만 알려진 경우와 구별한다. 유대교 전승을 소재로 쓰는 것과도 범위가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "18",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "등장인물이 유대인이라는 소개를 넘어 그 문화와 신앙이 이야기를 움직인다.",
     "review_status": "reviewed",
@@ -44,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유대 문화와 신앙이 중심인 작품에서는 유대인 인물의 배경이 소개 정보에 그치지 않는다. 종교적 실천과 공동체의 기억, 문화적 관습이 사건을 일으키거나 인물의 선택과 관계를 형성하는 힘으로 작동한다.\n\n유대인 인물이 등장하거나 창작자의 정체성이 알려졌다는 사실만으로는 이 범주에 들지 않는다. 유대교 전승을 단순 소재로 쓰는 작품과도 구별해야 한다. 분석할 때는 문화와 신앙이 인물의 삶과 사건 전개에 어떤 구체적 역할을 하는지 확인하며, 특정 전통을 단일하고 균질한 모습으로 취급하지 않는다.\n\n작품 사례: 《[[심슨 가족]]》의 「Today I Am A Clown」에서 크러스티는 어린 시절 바르미츠바를 치르지 않았음을 알고 성인이 되어 의식을 준비한다. 유대교 의례와 가족 관계가 해당 회차의 사건을 이끈다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유대 문화와 신앙이 중심인 작품에서는 유대인 인물의 배경이 소개 정보에 그치지 않는다. 종교적 실천과 공동체의 기억, 문화적 관습이 사건을 일으키거나 인물의 선택과 관계를 형성하는 힘으로 작동한다.\n\n유대인 인물이 등장하거나 창작자의 정체성이 알려졌다는 사실만으로는 이 범주에 들지 않는다. 유대교 전승을 단순 소재로 쓰는 작품과도 구별해야 한다. 분석할 때는 문화와 신앙이 인물의 삶과 사건 전개에 어떤 구체적 역할을 하는지 확인하며, 특정 전통을 단일하고 균질한 모습으로 취급하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[심슨 가족]]》의 「Today I Am A Clown」에서 크러스티는 어린 시절 바르미츠바를 치르지 않았음을 알고 성인이 되어 의식을 준비한다. 유대교 의례와 가족 관계가 해당 회차의 사건을 이끈다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "은밀한 부위로 시선을 끄는 표식",
   "original": "Intimate Marks",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01873",
+  "primary_tag_id": "ML-T01873",
   "description": {
     "definition": "가슴·성기 주변·엉덩이처럼 은밀한 신체 부위나 그 위의 옷에 글자·무늬·[[상징]]을 놓아 시선을 유도하는 디자인이다.",
     "detail": "문신·점·로고·의복의 문구 등이 기능하며 경계 바로 위에 놓는 배치도 가능하다.\n\n작품 사례: 《[[블리치]]》에서 마츠모토 란기쿠의 힘 제한 표식은 옷깃 사이 가슴 부근에 놓여 노출된 부위로 시선을 모은다.",
@@ -13,30 +13,47 @@
     "boundary": "배·등·일반적인 다리의 표식이나 얼굴의 매력점은 위치와 기능이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "표식의 위치 때문에 관객의 눈이 몸의 은밀한 부위로 향한다.\n\n작품 사례: 《[[블리치]]》에서 마츠모토 란기쿠의 힘 제한 표식은 옷깃 사이 가슴 부근에 놓여 노출된 부위로 시선을 모은다.",
+    "easy_ko": "표식의 위치 때문에 관객의 눈이 몸의 은밀한 부위로 향한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001295",
+      "work_card_id": "MM-MEDIA-002137",
       "description_ko": "《블리치》에서 마츠모토 란기쿠의 힘 제한 표식은 옷깃 사이 가슴 부근에 놓여 노출된 부위로 시선을 모은다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가슴·성기 주변·엉덩이처럼 은밀한 신체 부위나 그 위의 옷에 글자·무늬·[[상징]]을 배치해 시선을 유도하는 디자인이다. 문신·점·로고·의복의 문구 등이 표식이 되며, 표식의 위치와 노출된 부위의 관계가 시각적 효과를 만든다.\n\n표식은 해당 부위의 경계 바로 위에 놓일 수도 있다. 다만 배·등·일반적인 다리의 표식이나 얼굴의 매력점은 위치와 기능이 다르므로, 몸에 표식이 있다는 사실만으로 같은 구성으로 분류하지 않는다.\n\n[[블리치]]에서 마츠모토 란기쿠의 힘 제한 표식은 옷깃 사이 가슴 부근에 놓인다. 표식의 배치가 노출된 부위로 시선을 모으므로, 위치가 시각적 기능을 수행하는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가슴·성기 주변·엉덩이처럼 은밀한 신체 부위나 그 위의 옷에 글자·무늬·[[상징]]을 배치해 시선을 유도하는 디자인이다. 문신·점·로고·의복의 문구 등이 표식이 되며, 표식의 위치와 노출된 부위의 관계가 시각적 효과를 만든다.\n\n표식은 해당 부위의 경계 바로 위에 놓일 수도 있다. 다만 배·등·일반적인 다리의 표식이나 얼굴의 매력점은 위치와 기능이 다르므로, 몸에 표식이 있다는 사실만으로 같은 구성으로 분류하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[블리치]]에서 마츠모토 란기쿠의 힘 제한 표식은 옷깃 사이 가슴 부근에 놓인다. 표식의 배치가 노출된 부위로 시선을 모으므로, 위치가 시각적 기능을 수행하는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Staying in Prison When You Could Escape",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00781",
+  "primary_tag_id": "ML-T00781",
   "description": {
     "definition": "탈출 능력이나 자원이 있으면서도 사업 운영이나 별도 목적 때문에 수감 상태를 자발적으로 유지하는 인물의 선택이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "탈출이 불가능하여 체념한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "나갈 능력이 있어도 다른 목적 때문에 감옥에 남는다. 수감은 피할 수 없는 처지보다 유지할 이익이 있는 상태다.\n\n무엇을 안에서 계속하려는지가 행동의 수수께끼가 된다. 탈출의 가능성과 실제 의사를 나누어야 선택의 의미가 드러난다.\n\n탈출이 불가능해 체념한 경우와 다르다. 나갈 수 있다는 조건과 자발적인 잔류가 함께 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "나갈 능력이 있어도 다른 목적 때문에 감옥에 남는다. 수감은 피할 수 없는 처지보다 유지할 이익이 있는 상태다.\n\n무엇을 안에서 계속하려는지가 행동의 수수께끼가 된다. 탈출의 가능성과 실제 의사를 나누어야 선택의 의미가 드러난다.\n\n탈출이 불가능해 체념한 경우와 다르다. 나갈 수 있다는 조건과 자발적인 잔류가 함께 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "뼈를 던져 공격하기",
   "original": "Ballistic Bone",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "해골이나 괴물이 뼈를 원거리 공격의 탄환처럼 던진다. 몸의 일부인지 따로 마련한 무기인지에 따라 존재의 규칙이 달라진다. 뼈를 던지는 전투와 [[거대한 전투 도끼로 힘을 과시하기]]는 무기의 재료와 인상이 다르다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "뼈를 던지거나 발사해 원거리 공격의 탄환으로 사용하는 방식이다. 해골 같은 적의 신체 이미지와 공격 수단을 일치시키기 쉽다.\n\n계속 뼈를 발사하는 적은 어디에서 탄약을 얻는지 불분명해도 고유한 전투 유형으로 인식된다. 자기 몸의 일부인지 별도 재료인지에 따라 신체의 재생이나 [[소환]]이라는 설정을 덧붙일 수 있다.\n\n[[뼈를 무기로 사용하기]]의 원거리 변형으로 볼 수 있다. 뼈를 손에 쥔 채 휘두르는 공격과 달리 발사 이후의 궤적과 회피가 상호작용의 중심이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "뼈를 던지거나 발사해 원거리 공격의 탄환으로 사용하는 방식이다. 해골 같은 적의 신체 이미지와 공격 수단을 일치시키기 쉽다.\n\n계속 뼈를 발사하는 적은 어디에서 탄약을 얻는지 불분명해도 고유한 전투 유형으로 인식된다. 자기 몸의 일부인지 별도 재료인지에 따라 신체의 재생이나 [[소환]]이라는 설정을 덧붙일 수 있다.\n\n[[뼈를 무기로 사용하기]]의 원거리 변형으로 볼 수 있다. 뼈를 손에 쥔 채 휘두르는 공격과 달리 발사 이후의 궤적과 회피가 상호작용의 중심이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Everyday Life Simulator",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00453",
+  "primary_tag_id": "ML-T00453",
   "description": {
     "definition": "인간 인물의 일상 행동과 삶을 직접 조종하거나 간접 관리하는 생활 시뮬레이션이다.",
     "detail": "",
@@ -14,17 +14,20 @@
     "boundary": "특정 한 직업의 기술만 재현하는 게임보다 생활 전반을 중심에 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.206.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -37,5 +40,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인간 인물의 일상 행동과 생활 전반을 직접 조종하거나 간접적으로 관리한다. 단일한 경기의 승리보다 여러 생활 조건을 지속적으로 조정하는 과정이 플레이의 중심이다.\n\n식사와 관계, 일과 휴식이 서로 영향을 주면 한 행동의 이득이 다른 필요의 부족을 만들 수 있다. 플레이어는 완벽한 효율만 추구할 수도 있고 인물의 독특한 삶을 구성하는 목표를 만들 수도 있다.\n\n특정 직업의 기술만 재현하는 게임과는 관리의 범위가 다르다. 일상 활동이 잠깐 등장한다고 생활 시뮬레이션이 되는 것은 아니며 인물의 생활을 유지하고 바꾸는 행동이 중심이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인간 인물의 일상 행동과 생활 전반을 직접 조종하거나 간접적으로 관리한다. 단일한 경기의 승리보다 여러 생활 조건을 지속적으로 조정하는 과정이 플레이의 중심이다.\n\n식사와 관계, 일과 휴식이 서로 영향을 주면 한 행동의 이득이 다른 필요의 부족을 만들 수 있다. 플레이어는 완벽한 효율만 추구할 수도 있고 인물의 독특한 삶을 구성하는 목표를 만들 수도 있다.\n\n특정 직업의 기술만 재현하는 게임과는 관리의 범위가 다르다. 일상 활동이 잠깐 등장한다고 생활 시뮬레이션이 되는 것은 아니며 인물의 생활을 유지하고 바꾸는 행동이 중심이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

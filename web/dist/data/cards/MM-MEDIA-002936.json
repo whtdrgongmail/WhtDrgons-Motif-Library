@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "에이전트 오브 쉴드",
   "original": "Agents of S.H.I.E.L.D.",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Agents of S.H.I.E.L.D."
+  ],
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《에이전트 오브 쉴드》는 텔레비전 작품이다.",
-    "detail": "작품 사례: 《에이전트 오브 쉴드》의 칼 크릴은 흡수할 수 있는 재료들을 모으며, 하이드라는 임무 보상으로 그 수집에 새 재료를 더해 준다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -39,9 +41,26 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014288",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-027846",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "쉴드의 요원들이 위험한 초자연적 대상과 첨단 기술을 조사하고 통제하는 [[텔레비전]] 시리즈다. 살아 돌아온 필 콜슨을 중심으로 서로 다른 전문성을 가진 인물들이 현장 임무에 참여한다.\n\n민간인을 보호하려는 조사는 영웅 영화에서 남은 세계의 변화를 일상적인 업무로 연결한다. 영화의 큰 전투를 반복하기보다 비밀 조직의 집단 활동을 연속적인 방송 이야기로 전개한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "쉴드의 요원들이 위험한 초자연적 대상과 첨단 기술을 조사하고 통제하는 [[텔레비전]] 시리즈다. 살아 돌아온 필 콜슨을 중심으로 서로 다른 전문성을 가진 인물들이 현장 임무에 참여한다.\n\n민간인을 보호하려는 조사는 영웅 영화에서 남은 세계의 변화를 일상적인 업무로 연결한다. 영화의 큰 전투를 반복하기보다 비밀 조직의 집단 활동을 연속적인 방송 이야기로 전개한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "위협을 없애려고 지역 전체를 파괴하기",
   "original": "It's the Only Way to Be Sure",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00785",
+  "primary_tag_id": "ML-T00785",
   "description": {
     "definition": "위험한 존재나 오염의 확산을 확실히 차단한다며 그것이 있는 시설·도시·지역을 통째로 파괴하는 선택이다. 무고한 사람이나 아군의 손실도 감수할 수 있다.",
     "detail": "작품 사례: 《[[원피스]]》의 버스터 콜은 섬을 함포 사격으로 없애고 탈출선까지 공격해, 표적이 살아서 빠져나갈 가능성을 차단한다.",
@@ -13,10 +13,10 @@
     "boundary": "증거만 지우기 위한 파괴와 달리 위협의 잔존·탈출 방지가 목적이다. 파괴가 실제로 문제를 해결한다는 보장은 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》의 버스터 콜은 섬을 함포 사격으로 없애고 탈출선까지 공격해, 표적이 살아서 빠져나갈 가능성을 차단한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위험의 확산을 막으려 그것이 있는 지역 전체를 파괴한다. 피해를 국지적으로 끝내겠다는 목적이 큰 희생을 감수하는 선택으로 이어진다.\n\n안에 남은 사람과 다른 대안의 존재가 도덕적 갈등을 만든다. 파괴의 규모보다 확산 차단을 위한 의도와 인과가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위험의 확산을 막으려 그것이 있는 지역 전체를 파괴한다. 피해를 국지적으로 끝내겠다는 목적이 큰 희생을 감수하는 선택으로 이어진다.\n\n안에 남은 사람과 다른 대안의 존재가 도덕적 갈등을 만든다. 파괴의 규모보다 확산 차단을 위한 의도와 인과가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

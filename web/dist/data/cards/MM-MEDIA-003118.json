@@ -4,17 +4,17 @@
   "title": "배틀테크",
   "original": "BattleTech",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
     "definition": "《배틀테크》는 테이블톱 게임 작품이다.",
-    "detail": "작품 사례: 《배틀테크》의 이동 구조물은 거대한 궤도 위에 건물을 올린 형태이며 강한 화력과 장갑을 갖는다. 매우 느리고 비싸며 다른 행성으로 옮기기 어려워 방어 역할에 묶인다는 한계도 제시된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《배틀테크》는 지형판 위에서 거대한 배틀메크들을 운용하는 전쟁 게임이다. 기체마다 무장과 방어, 이동 능력이 달라 같은 크기의 부대라도 전장과 거리에 따라 다른 판단이 필요하다.\n\n미래의 전쟁을 설정한 시나리오와 확장 규칙은 일반 병력과 우주전, 더 큰 규모의 충돌까지 다룬다. 세계를 공유한 카드 게임과 컴퓨터 게임도 있지만, 이 카드에서는 기체와 전장의 조건을 판정하는 테이블톱 규칙을 중심에 둔다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《배틀테크》는 지형판 위에서 거대한 배틀메크들을 운용하는 전쟁 게임이다. 기체마다 무장과 방어, 이동 능력이 달라 같은 크기의 부대라도 전장과 거리에 따라 다른 판단이 필요하다.\n\n미래의 전쟁을 설정한 시나리오와 확장 규칙은 일반 병력과 우주전, 더 큰 규모의 충돌까지 다룬다. 세계를 공유한 카드 게임과 컴퓨터 게임도 있지만, 이 카드에서는 기체와 전장의 조건을 판정하는 테이블톱 규칙을 중심에 둔다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

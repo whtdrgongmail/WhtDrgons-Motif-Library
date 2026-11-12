@@ -4,8 +4,8 @@
   "title": "Kaleidoscope",
   "original": "Kaleidoscope",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00067",
+  "primary_tag_id": "ML-T00067",
   "description": {
     "definition": "이 카드는 Kevin Berry의 소설 《Kaleidoscope》를 가리킨다. 이 라이브러리에서는 [[손쉽게 우회하는 차량 시동]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: Stim의 후속 이야기 Kaleidoscope에서 클로이는 평소 운전하지 않는데도 짧은 시간에 다른 사람의 차를 시동 걸어 떠나, 정상 절차를 우회하는 기술적 난관이 빠르게 생략된다.",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -41,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Kaleidoscope》는 뉴질랜드 작가 Kevin Berry의 현대 소설이다. 작가의 작품 소개는 아스퍼거 증후군과 양극성 장애 등을 지닌 클로이를 중심 인물로 제시한다.\n\n클로이는 재치와 행동력이 있지만 복약을 중단한 상태이며 고양이도 잃어버렸다. 삶에서 무엇을 원하는지 확신하지 못하는 상황에서 큰 변화와 불운을 맞아 대처해야 한다.\n\n앞선 작품 《[[Stim]]》에도 클로이가 로버트의 동거인으로 등장한다. 작가는 자신의 현대 소설을 지진을 겪은 크라이스트처치에 둔다고 설명하며, 개인의 불확실성과 주변 세계의 흔들림이 겹치는 작품 소개를 제공한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Kaleidoscope》는 뉴질랜드 작가 Kevin Berry의 현대 소설이다. 작가의 작품 소개는 아스퍼거 증후군과 양극성 장애 등을 지닌 클로이를 중심 인물로 제시한다.\n\n클로이는 재치와 행동력이 있지만 복약을 중단한 상태이며 고양이도 잃어버렸다. 삶에서 무엇을 원하는지 확신하지 못하는 상황에서 큰 변화와 불운을 맞아 대처해야 한다.\n\n앞선 작품 《[[Stim]]》에도 클로이가 로버트의 동거인으로 등장한다. 작가는 자신의 현대 소설을 지진을 겪은 크라이스트처치에 둔다고 설명하며, 개인의 불확실성과 주변 세계의 흔들림이 겹치는 작품 소개를 제공한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

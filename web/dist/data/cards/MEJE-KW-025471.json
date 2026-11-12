@@ -4,8 +4,8 @@
   "title": "우편함을 부수는 장난으로 불량함을 보이기",
   "original": "Mailbox Baseball",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00785",
+  "primary_tag_id": "ML-T00785",
   "description": {
     "definition": "인물이 길가의 우편함을 놀이처럼 훼손하여 타인의 재산과 규칙을 무시하는 태도를 드러내는 장면이다.",
     "detail": "작품 사례: 《[[심슨 가족]]》의 「Half-Decent Proposal」에서는 히버트가 차를 타고 가며 우편함을 훼손하는 짧은 장면이 등장한다.",
@@ -13,10 +13,10 @@
     "boundary": "스포츠 활동과 구별하며 실제 훼손 요령이나 법률 안내를 제공하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "타인의 우편함을 파괴하는 행동이 가벼운 놀이처럼 처리된다. 피해를 재미로 소비하는 태도는 인물의 무책임함과 규칙에 대한 무시를 빠르게 드러낸다.\n\n동행자들이 웃거나 반대하는 반응은 집단 안의 가치관을 비교하게 한다. 파손 뒤의 결과를 보여 주면 장난이라는 명분과 실제 손해의 차이가 분명해진다.\n\n실제 실행 방법보다 서사적 표지에 초점을 둔다. 우편함의 우연한 파손과 달리 의도적인 훼손을 오락으로 취급한다는 조건이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "타인의 우편함을 파괴하는 행동이 가벼운 놀이처럼 처리된다. 피해를 재미로 소비하는 태도는 인물의 무책임함과 규칙에 대한 무시를 빠르게 드러낸다.\n\n동행자들이 웃거나 반대하는 반응은 집단 안의 가치관을 비교하게 한다. 파손 뒤의 결과를 보여 주면 장난이라는 명분과 실제 손해의 차이가 분명해진다.\n\n실제 실행 방법보다 서사적 표지에 초점을 둔다. 우편함의 우연한 파손과 달리 의도적인 훼손을 오락으로 취급한다는 조건이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

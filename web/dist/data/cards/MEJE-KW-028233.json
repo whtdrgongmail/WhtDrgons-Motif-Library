@@ -4,8 +4,8 @@
   "title": "뉴 메탈코어",
   "original": "Nu metalcore",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015091",
+  "primary_tag_id": "MEJE-KW-015091",
   "description": {
     "definition": "[[메탈코어]]와 뉴 메탈을 결합하며 랩과 인더스트리얼 요소, 경우에 따라 깨끗한 [[보컬]]을 함께 쓰는 양식이다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": "랩이나 전자음이 한 번 나온다는 이유만으로 판정하지 않는다. 현재 문단이 설명한 두 양식의 결합이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "메탈코어와 뉴 메탈의 요소를 결합하는 음악 양식이다. 랩과 인더스트리얼 요소를 함께 쓰며 경우에 따라 깨끗한 보컬도 포함한다.\n\n두 계열의 리듬과 가창 방식이 어떻게 한 음악 안에서 작동하는지가 정체성을 만든다. 요소의 단순한 목록보다 양식 사이의 결합 관계가 설명의 중심이다.\n\n랩이나 전자음이 한 번 등장했다는 이유만으로 판정하지 않는다. 두 양식의 결합이 실제 음악 구성의 기준이 되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "메탈코어와 뉴 메탈의 요소를 결합하는 음악 양식이다. 랩과 인더스트리얼 요소를 함께 쓰며 경우에 따라 깨끗한 보컬도 포함한다.\n\n두 계열의 리듬과 가창 방식이 어떻게 한 음악 안에서 작동하는지가 정체성을 만든다. 요소의 단순한 목록보다 양식 사이의 결합 관계가 설명의 중심이다.\n\n랩이나 전자음이 한 번 등장했다는 이유만으로 판정하지 않는다. 두 양식의 결합이 실제 음악 구성의 기준이 되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

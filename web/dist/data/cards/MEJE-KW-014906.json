@@ -4,8 +4,8 @@
   "title": "무기 한 방으로 하늘 끝까지 날리기",
   "original": "Home-Run Hitter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "근접 무기의 타격으로 상대나 물체를 하늘 멀리 사라질 만큼 과장되게 날려 보내는 공격 표현이다.",
     "detail": "작품 사례: [[Dungeon Fighter Online]]의 퇴마사는 적을 띄운 뒤 거대 무기로 받아쳐, 완전히 충전한 공격이면 화면 밖으로 날려 보낸다.",
@@ -13,10 +13,10 @@
     "boundary": "맨주먹의 과장된 타격이나 단순히 야구방망이를 무기로 사용하는 장면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무기의 한 차례 타격이 상대를 비현실적으로 높은 하늘과 먼 거리로 날려 보내는 표현이다. 충격의 위세를 피해 수치보다 극단적인 이동으로 보여 준다.\n\n맨손 타격의 과장과는 수단이 다르다. 단순히 방망이를 쓰는 장면보다 공처럼 멀리 날리는 거리와 궤적의 강조가 필요하다.\n\n[[Dungeon Fighter Online]]의 퇴마사는 띄운 적을 거대한 무기로 받아친다. 완전히 충전하면 화면 밖으로 날려 보내 힘의 크기를 공격 뒤 이동으로 표현한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "무기의 한 차례 타격이 상대를 비현실적으로 높은 하늘과 먼 거리로 날려 보내는 표현이다. 충격의 위세를 피해 수치보다 극단적인 이동으로 보여 준다.\n\n맨손 타격의 과장과는 수단이 다르다. 단순히 방망이를 쓰는 장면보다 공처럼 멀리 날리는 거리와 궤적의 강조가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Dungeon Fighter Online]]의 퇴마사는 띄운 적을 거대한 무기로 받아친다. 완전히 충전하면 화면 밖으로 날려 보내 힘의 크기를 공격 뒤 이동으로 표현한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

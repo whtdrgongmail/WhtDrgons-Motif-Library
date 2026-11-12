@@ -4,8 +4,8 @@
   "title": "변경된 설정에도 반복되는 원작 사건",
   "original": "The Stations of the Canon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F26",
+  "tag_id": "ML-T02217",
+  "primary_tag_id": "ML-T02217",
   "description": {
     "definition": "[[팬 창작]]이 원작의 조건을 크게 바꾸었는데도 주요 관계·사건·장면의 순서를 다시 따라가는 구성이다. 변경된 원인이 결과를 얼마나 바꾸는지가 긴장이나 모순을 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "원작 조건이 그대로인 충실한 재현과 달리 이미 가정이 달라졌다는 점이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "26",
+    "code": "26.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원작의 조건이 달라져도 익숙한 사건과 관계의 순서가 다시 나타난다. 변경된 원인이 결과에 어떤 차이를 주는지 비교하는 구조다.\n\n같은 장면에서 다른 선택을 보여 주면 변형의 효과가 선명해진다. 반대로 큰 변화에도 결과가 그대로면 인과의 설득력이 약해질 수 있다.\n\n단순히 원작의 문장을 재현하는 행위와는 분석의 초점이 다르다. 정본은 [[팬 창작]]의 구성 방식이며 익숙한 사건의 사용이 언제나 실패라는 뜻은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원작의 조건이 달라져도 익숙한 사건과 관계의 순서가 다시 나타난다. 변경된 원인이 결과에 어떤 차이를 주는지 비교하는 구조다.\n\n같은 장면에서 다른 선택을 보여 주면 변형의 효과가 선명해진다. 반대로 큰 변화에도 결과가 그대로면 인과의 설득력이 약해질 수 있다.\n\n단순히 원작의 문장을 재현하는 행위와는 분석의 초점이 다르다. 정본은 [[팬 창작]]의 구성 방식이며 익숙한 사건의 사용이 언제나 실패라는 뜻은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

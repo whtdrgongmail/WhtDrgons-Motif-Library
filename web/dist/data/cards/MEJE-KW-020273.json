@@ -5,8 +5,8 @@
   "original": "Even Lighting Across a Spaceship in Space",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01863",
+  "primary_tag_id": "ML-T01863",
   "description": {
     "definition": "별의 위치나 그림자와 무관하게 우주선의 여러 면을 고르게 밝혀 형태를 쉽게 읽도록 하는 영상 관습이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "특정 작품이 별도의 외부 조명 장치를 설정한 경우와 순수한 가독성 연출을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "별과 그림자의 위치에 상관없이 우주선의 여러 면이 고르게 밝다. 실제 광원의 조건보다 기체의 형태를 읽기 쉽게 하는 표현이 우선한다.\n\n관객은 어느 방향에서 보더라도 디자인과 공간상의 방향을 파악하기 쉬워진다. 조명은 물리적 재현뿐 아니라 화면의 가독성을 조절하는 역할을 한다.\n\n설정상 별도의 외부 조명 장치가 있는 경우와 구별한다. 작품 안의 장치로 설명되는 빛과 관객을 위한 연출상의 밝기는 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "별과 그림자의 위치에 상관없이 우주선의 여러 면이 고르게 밝다. 실제 광원의 조건보다 기체의 형태를 읽기 쉽게 하는 표현이 우선한다.\n\n관객은 어느 방향에서 보더라도 디자인과 공간상의 방향을 파악하기 쉬워진다. 조명은 물리적 재현뿐 아니라 화면의 가독성을 조절하는 역할을 한다.\n\n설정상 별도의 외부 조명 장치가 있는 경우와 구별한다. 작품 안의 장치로 설명되는 빛과 관객을 위한 연출상의 밝기는 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

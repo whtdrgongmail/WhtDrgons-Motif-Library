@@ -4,22 +4,44 @@
   "title": "기업도시",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01355",
+  "primary_tag_id": "ML-T01355",
   "description": {
-    "definition": "",
+    "definition": "일자리와 주거·생활 시설이 한 기업의 사업에 크게 의존하는 도시이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 3,
+  "classification": {
+    "code": "15.004",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "회사 한 곳이 많은 주민의 일과 생활을 좌우하는 도시다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일터와 거주지, 생활 서비스가 같은 기업에 묶이면 고용 관계를 바꾸는 일이 생활 기반의 변화로 이어진다. 다른 일자리가 드물거나 외부로 이동하기 어려울수록 주민이 기업의 결정에 대응할 여지는 줄어든다.\n\n자원 채굴과 운송을 위해 형성된 도시에서는 생산 시설의 운영 문제가 노동자의 주거와 안전 문제에 곧바로 연결될 수 있다. 이때 도시가 주민의 생활을 중심으로 운영되는지, 기업의 생산과 반출을 중심으로 운영되는지가 갈등의 조건이 된다.\n\n기업이 활동하는 모든 도시를 가리키는 것은 아니다. 이 카드에서는 주민의 일자리와 생활 기반이 특정 기업에 크게 의존하는 의미로 한정한다. [[행성 기업도시]]는 여기에 행성 규모의 고립이 더해진 설정이며, 법과 치안까지 기업이 맡는 [[기업 통치]]는 별도의 조건이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일터와 거주지, 생활 서비스가 같은 기업에 묶이면 고용 관계를 바꾸는 일이 생활 기반의 변화로 이어진다. 다른 일자리가 드물거나 외부로 이동하기 어려울수록 주민이 기업의 결정에 대응할 여지는 줄어든다.\n\n자원 채굴과 운송을 위해 형성된 도시에서는 생산 시설의 운영 문제가 노동자의 주거와 안전 문제에 곧바로 연결될 수 있다. 이때 도시가 주민의 생활을 중심으로 운영되는지, 기업의 생산과 반출을 중심으로 운영되는지가 갈등의 조건이 된다.\n\n기업이 활동하는 모든 도시를 가리키는 것은 아니다. 이 카드에서는 주민의 일자리와 생활 기반이 특정 기업에 크게 의존하는 의미로 한정한다. [[행성 기업도시]]는 여기에 행성 규모의 고립이 더해진 설정이며, 법과 치안까지 기업이 맡는 [[기업 통치]]는 별도의 조건이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

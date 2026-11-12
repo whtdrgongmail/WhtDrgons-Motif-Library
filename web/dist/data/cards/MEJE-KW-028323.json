@@ -4,8 +4,8 @@
   "title": "스테이지 순서대로 진행하는 고전형 액션",
   "original": "Classicvania",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00415",
+  "primary_tag_id": "ML-T00415",
   "description": {
     "definition": "개별 [[스테이지]]를 정해진 순서로 돌파하는 직선적인 플랫폼 [[액션]] 구성이다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": "새 능력으로 이전 세계를 재탐색하는 순환과 구별한다. 고전 작품이라는 이유만으로 이 구조가 되는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.201.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "개별 스테이지를 정해진 순서로 돌파하는 직선적인 플랫폼 액션이다. 구간의 도전과 완주가 다음 단계로 이어지는 진행 단위를 만든다.\n\n난도를 단계적으로 높이면서 각 구역의 완료를 명확하게 보여 줄 수 있다. 이동의 중심은 이전 공간을 다시 해석하기보다 현재 단계를 끝내는 데 있다.\n\n새 능력을 얻어 같은 세계를 재탐색하는 순환 구조와 다르다. 제작 시기가 오래되었다는 이유만으로 이 진행 방식을 갖는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "개별 스테이지를 정해진 순서로 돌파하는 직선적인 플랫폼 액션이다. 구간의 도전과 완주가 다음 단계로 이어지는 진행 단위를 만든다.\n\n난도를 단계적으로 높이면서 각 구역의 완료를 명확하게 보여 줄 수 있다. 이동의 중심은 이전 공간을 다시 해석하기보다 현재 단계를 끝내는 데 있다.\n\n새 능력을 얻어 같은 세계를 재탐색하는 순환 구조와 다르다. 제작 시기가 오래되었다는 이유만으로 이 진행 방식을 갖는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

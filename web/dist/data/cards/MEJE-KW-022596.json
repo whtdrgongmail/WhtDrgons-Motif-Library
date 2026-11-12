@@ -4,28 +4,34 @@
   "title": "입맞춤을 피해 거리를 표하기",
   "original": "Kiss Diss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02534",
+  "primary_tag_id": "ML-T02534",
   "description": {
     "definition": "두 사람이 입맞춤할 듯 가까워진 순간 한쪽이 얼굴을 돌리거나 물러나 접촉을 피한다. 거절·서먹함·시기가 맞지 않음을 행동으로 드러낸다.",
     "detail": "고의적인 냉대뿐 아니라 우연한 회피가 거절처럼 보이는 변형도 가능하다.\n\n작품 사례: 《[[달의 요정 세일러문]]》 애니메이션에서 피쉬 아이가 마모루에게 입맞춤하려 하지만 마모루가 이를 피한다. 다가가는 쪽의 기대와 받아 주지 않는 쪽의 태도가 한 동작으로 갈린다.",
-    "usage": "대사 없이 두 사람의 감정 차이를 보여 주거나, 회피의 이유를 오해하게 해 관계의 긴장을 만든다.",
-    "boundary": "외부 사건 때문에 둘 모두의 뜻과 무관하게 중단되는 [[닿기 직전 멈춘 입맞춤]]과 구별한다."
+    "usage": "",
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.011",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": {
-    "easy_ko": "입을 맞추려 다가갔는데 상대가 마지막 순간 얼굴을 돌린다.\n\n작품 사례: 《[[달의 요정 세일러문]]》 애니메이션에서 피쉬 아이가 마모루에게 입맞춤하려 하지만 마모루가 이를 피한다. 다가가는 쪽의 기대와 받아 주지 않는 쪽의 태도가 한 동작으로 갈린다.",
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "입을 맞추려 다가갔는데 상대가 마지막 순간 얼굴을 돌린다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "고의적인 냉대뿐 아니라 우연한 회피가 거절처럼 보이는 변형도 가능하다.\n\n대사 없이 두 사람의 감정 차이를 보여 주거나, 회피의 이유를 오해하게 해 관계의 긴장을 만든다.\n\n외부 사건 때문에 둘 모두의 뜻과 무관하게 중단되는 [[닿기 직전 멈춘 입맞춤]]과 구별한다.\n\n《[[달의 요정 세일러문]]》 애니메이션에서 피쉬 아이가 마모루에게 입맞춤하려 하지만 마모루가 이를 피한다. 다가가는 쪽의 기대와 받아 주지 않는 쪽의 태도가 한 동작으로 갈린다.",
+    "sections": [
+      [
+        "상세 설명",
+        "고의적인 냉대뿐 아니라 우연한 회피가 거절처럼 보이는 변형도 가능하다.\n\n대사 없이 두 사람의 감정 차이를 보여 주거나, 회피의 이유를 오해하게 해 관계의 긴장을 만든다.\n\n외부 사건 때문에 둘 모두의 뜻과 무관하게 중단되는 [[닿기 직전 멈춘 입맞춤]]과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[달의 요정 세일러문]]》 애니메이션에서 피쉬 아이가 마모루에게 입맞춤하려 하지만 마모루가 이를 피한다. 다가가는 쪽의 기대와 받아 주지 않는 쪽의 태도가 한 동작으로 갈린다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

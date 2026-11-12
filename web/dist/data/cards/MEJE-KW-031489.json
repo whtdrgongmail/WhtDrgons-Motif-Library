@@ -4,8 +4,8 @@
   "title": "한 배우가 쌍둥이를 모두 연기하기",
   "original": "Playing Their Own Twin",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "서로 닮은 쌍둥이 인물의 배역을 실제 쌍둥이 배우 대신 한 배우가 함께 맡는 제작 방식이다.",
     "detail": "",
@@ -13,29 +13,42 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "화면에서는 쌍둥이가 대화하지만 두 얼굴은 한 배우의 연기다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
-  "applied_tags": [],
+  "applied_tags": [
+    {
+      "tag_id": "ML-T02549",
+      "role": "subject",
+      "review_status": "reviewed",
+      "row_version": 1
+    }
+  ],
   "related_media": [],
   "related_motifs": [],
   "references": [],
   "longform_article": {
-    "text": "한 배우가 쌍둥이를 맡으면 외모의 동일성을 확보하면서 성격 차이를 연기로 보여 줄 수 있다. 말의 속도, 자세, 표정의 습관이 두 인물을 알아보는 단서가 된다. 기존 인물의 쌍둥이를 뒤늦게 등장시키거나 특정 배우의 장점을 두 역할에 쓰고 싶을 때도 가능한 선택이다.\n\n같은 장면에서 둘이 만난다면 대역, 촬영 분리, 화면 합성 등 상호작용을 성립시키는 준비가 필요하므로 한 사람을 쓴다고 제작이 자동으로 간단해지지는 않는다. 실제 친족을 그 배우가 연기하는 경우나, 분신·복제인간을 같은 배우가 맡는 경우와는 범주가 다르다. 이 유형의 초점은 쌍둥이라는 가족 관계를 한 연기자가 구현한다는 데 있다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "text": "한 배우가 [[쌍둥이]]를 맡으면 외모의 동일성을 확보하면서 성격 차이를 연기로 보여 줄 수 있다. 말의 속도, 자세, 표정의 습관이 두 인물을 알아보는 단서가 된다. 기존 인물의 쌍둥이를 뒤늦게 등장시키거나 특정 배우의 장점을 두 역할에 쓰고 싶을 때도 가능한 선택이다.\n\n같은 장면에서 둘이 만난다면 대역, 촬영 분리, 화면 합성 등 상호작용을 성립시키는 준비가 필요하므로 한 사람을 쓴다고 제작이 자동으로 간단해지지는 않는다. 실제 친족을 그 배우가 연기하는 경우나, 분신·복제인간을 같은 배우가 맡는 경우와는 범주가 다르다. 이 유형의 초점은 쌍둥이라는 가족 관계를 한 연기자가 구현한다는 데 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 배우가 [[쌍둥이]]를 맡으면 외모의 동일성을 확보하면서 성격 차이를 연기로 보여 줄 수 있다. 말의 속도, 자세, 표정의 습관이 두 인물을 알아보는 단서가 된다. 기존 인물의 쌍둥이를 뒤늦게 등장시키거나 특정 배우의 장점을 두 역할에 쓰고 싶을 때도 가능한 선택이다.\n\n같은 장면에서 둘이 만난다면 대역, 촬영 분리, 화면 합성 등 상호작용을 성립시키는 준비가 필요하므로 한 사람을 쓴다고 제작이 자동으로 간단해지지는 않는다. 실제 친족을 그 배우가 연기하는 경우나, 분신·복제인간을 같은 배우가 맡는 경우와는 범주가 다르다. 이 유형의 초점은 쌍둥이라는 가족 관계를 한 연기자가 구현한다는 데 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 6,
     "replaces_short_fields": true
   }
 }

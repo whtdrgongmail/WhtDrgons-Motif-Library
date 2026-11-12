@@ -4,8 +4,8 @@
   "title": "결과와 기록을 속여 게임에서 유리해지기",
   "original": "The Cheater",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02520",
+  "primary_tag_id": "ML-T02520",
   "description": {
     "definition": "판정 결과나 캐릭터의 자원 기록을 정직하게 제시하지 않아 규칙 밖의 이익을 얻는 참가자다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "규칙 안에서 유리한 선택을 하는 최적화와 달리 사실을 속이거나 합의된 절차를 어긴다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.014.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "굴린 결과와 남은 자원을 속여 이득을 챙긴다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "참가자가 판정 결과나 자원 기록을 사실대로 내놓지 않아 이익을 얻는다. 공동 규칙 안의 선택보다 기록을 믿는 관계를 악용한다.\n\n다른 참가자는 제시된 결과를 바탕으로 놀이를 이어 가므로 거짓 기록은 합의한 절차를 무너뜨린다. 규칙을 적용하기 위한 정보 자체가 바뀌는 문제다.\n\n규칙 안에서 가장 유리한 선택을 찾는 최적화와 다르다. 사실을 속이거나 합의한 처리 방식을 어긴다는 조건이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "참가자가 판정 결과나 자원 기록을 사실대로 내놓지 않아 이익을 얻는다. 공동 규칙 안의 선택보다 기록을 믿는 관계를 악용한다.\n\n다른 참가자는 제시된 결과를 바탕으로 놀이를 이어 가므로 거짓 기록은 합의한 절차를 무너뜨린다. 규칙을 적용하기 위한 정보 자체가 바뀌는 문제다.\n\n규칙 안에서 가장 유리한 선택을 찾는 최적화와 다르다. 사실을 속이거나 합의한 처리 방식을 어긴다는 조건이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

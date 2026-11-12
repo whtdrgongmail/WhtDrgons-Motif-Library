@@ -4,17 +4,17 @@
   "title": "애니매트릭스",
   "original": "The Animatrix",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "《애니매트릭스》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《애니매트릭스》의 「두 번째 르네상스」에서 주인을 해친 로봇은 인간과 같은 권리의 주체로 인정되지 않고 파괴된다. 기계를 소유물로 보는 질서가 인간과 기계의 충돌로 이어진다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "로봇의 행위에 대한 처분에는 책임을 지는 인격과 처분 가능한 소유물 사이의 구분이 전제된다. 인간을 해쳤다는 사건 자체와 별개로, 로봇에게 어떤 지위를 부여하는지가 대응의 방식과 정당화에 영향을 준다.\n\n개별 사건의 처리가 인간과 기계의 더 큰 대립으로 이어진다. 판단의 기준은 행위뿐 아니라 어떤 존재에게 인격을 인정하는지의 문제와 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "로봇의 행위에 대한 처분에는 책임을 지는 인격과 처분 가능한 소유물 사이의 구분이 전제된다. 인간을 해쳤다는 사건 자체와 별개로, 로봇에게 어떤 지위를 부여하는지가 대응의 방식과 정당화에 영향을 준다.\n\n개별 사건의 처리가 인간과 기계의 더 큰 대립으로 이어진다. 판단의 기준은 행위뿐 아니라 어떤 존재에게 인격을 인정하는지의 문제와 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

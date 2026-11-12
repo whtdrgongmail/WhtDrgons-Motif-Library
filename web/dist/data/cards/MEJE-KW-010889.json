@@ -4,8 +4,8 @@
   "title": "펑크 메탈",
   "original": "Funk Metal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-010889",
+  "primary_tag_id": "MEJE-KW-010889",
   "description": {
     "definition": "펑크의 리듬감과 [[헤비메탈]]의 강한 기타 소리를 결합한 음악 장르다. 메탈의 강도를 덜고 록의 요소를 중심에 놓은 가까운 장르는 [[펑크록]]이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 4,
+  "row_version": 5,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "펑크의 리듬감과 헤비메탈의 강한 기타를 결합한 음악 갈래이다. 여기서 펑크는 펑키한 그루브를 중심으로 하는 음악을 가리킨다.\n\n반복되는 리듬과 강한 소리의 대비가 곡의 추진력을 만든다. 랩과 다른 록 요소가 섞이면 인접한 여러 혼합 장르와 겹칠 수 있다.\n\n같은 한글 표기로 불리는 펑크 록의 거친 표현만을 뜻하지는 않는다. 악기의 강도뿐 아니라 리듬과 연주 방식의 결합이 중요한 구별이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "펑크의 리듬감과 헤비메탈의 강한 기타를 결합한 음악 갈래이다. 여기서 펑크는 펑키한 그루브를 중심으로 하는 음악을 가리킨다.\n\n반복되는 리듬과 강한 소리의 대비가 곡의 추진력을 만든다. 랩과 다른 록 요소가 섞이면 인접한 여러 혼합 장르와 겹칠 수 있다.\n\n같은 한글 표기로 불리는 펑크 록의 거친 표현만을 뜻하지는 않는다. 악기의 강도뿐 아니라 리듬과 연주 방식의 결합이 중요한 구별이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

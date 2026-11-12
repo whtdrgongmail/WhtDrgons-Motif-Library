@@ -4,28 +4,28 @@
   "title": "정확한 타이밍에 추가 성능 주기",
   "original": "\"Just Frame\" Bonus",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02077",
+  "primary_tag_id": "ML-T02077",
   "description": {
     "definition": "원래도 쓸 수 있는 기술을 매우 정확한 순간에 입력하면 반격·추가 효과·뚜렷한 성능 향상을 보상으로 받는다.",
     "detail": "방어 피해를 없애거나 반격을 추가하고 자원을 돌려주는 등 기본 기능을 강화한다. 성공 여부를 영상·동작·음향으로 알려 연습을 돕는다.\n\n작품 사례: 《[[메탈 기어 라이징 리벤전스]]》에서 방어는 타이밍을 정확히 맞추면 반격으로 바뀐다. 높은 난이도에서는 성공 시간이 짧아지지만 반격 피해가 커져 정확성의 보상이 된다.",
     "usage": "",
-    "boundary": "실패하면 아예 못 쓰는 입력이나 작은 연속 수치 변화와 구별한다. 모든 게임에 같은 프레임 수를 적용하지 않는다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.001.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "같은 기술도 딱 맞는 순간에 쓰면 더 좋은 효과가 난다.\n\n작품 사례: 《[[메탈 기어 라이징 리벤전스]]》에서 방어는 타이밍을 정확히 맞추면 반격으로 바뀐다. 높은 난이도에서는 성공 시간이 짧아지지만 반격 피해가 커져 정확성의 보상이 된다.",
+    "easy_ko": "같은 기술도 딱 맞는 순간에 쓰면 더 좋은 효과가 난다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "방어 피해를 없애거나 반격을 추가하고 자원을 돌려주는 등 기본 기능을 강화한다. 성공 여부를 영상·동작·음향으로 알려 연습을 돕는다.\n\n실패하면 아예 못 쓰는 입력이나 작은 연속 수치 변화와 구별한다. 모든 게임에 같은 프레임 수를 적용하지 않는다.\n\n《[[메탈 기어 라이징 리벤전스]]》에서 방어는 타이밍을 정확히 맞추면 반격으로 바뀐다. 높은 난이도에서는 성공 시간이 짧아지지만 반격 피해가 커져 정확성의 보상이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "방어 피해를 없애거나 반격을 추가하고 자원을 돌려주는 등 기본 기능을 강화한다. 성공 여부를 영상·동작·음향으로 알려 연습을 돕는다.\n\n실패하면 아예 못 쓰는 입력이나 작은 연속 수치 변화와 구별한다. 모든 게임에 같은 프레임 수를 적용하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[메탈 기어 라이징 리벤전스]]》에서 방어는 타이밍을 정확히 맞추면 반격으로 바뀐다. 높은 난이도에서는 성공 시간이 짧아지지만 반격 피해가 커져 정확성의 보상이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "인더스트리얼 록",
   "original": "Industrial Rock",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-019602",
+  "primary_tag_id": "MEJE-KW-019602",
   "description": {
     "definition": "인더스트리얼의 전자음과 가공 질감을 록의 악기·곡 구성과 결합한 음악 양식이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-03",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인더스트리얼 록은 록 밴드의 기타·드럼·보컬과 기계적 반복, 전자 신호, 가공된 소음의 질감을 결합하는 음악 양식이다. 전자음은 효과음으로 잠깐 등장할 수도 있지만, 장르적 특징을 설명하려면 그것이 리듬이나 곡의 분위기를 지속적으로 조직해야 한다.\n\n록의 악기 편성을 사용하면서도 악기의 자연스러운 울림을 일부러 변형하거나 반복되는 기계음을 대비시킬 수 있다. [[인더스트리얼 메탈]]과 겹치는 영역은 있지만 기타의 무게와 메탈 편곡이 중심인 경우와 록의 곡 구조가 중심인 경우를 구분한다. 소리의 출처보다 음향이 곡 안에서 맡는 기능이 분류에 중요하다.\n\n가상 예시: 록의 후렴과 기타 연주가 이어지는 동안 일정한 기계 박동과 왜곡된 소음이 곡의 리듬을 이끈다면 인더스트리얼 록의 편곡을 설명할 수 있다. 공장 소리를 곡 앞에 한 번 넣은 일반 록 곡은 같은 기준에 미치지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인더스트리얼 록은 록 밴드의 기타·드럼·보컬과 기계적 반복, 전자 신호, 가공된 소음의 질감을 결합하는 음악 양식이다. 전자음은 효과음으로 잠깐 등장할 수도 있지만, 장르적 특징을 설명하려면 그것이 리듬이나 곡의 분위기를 지속적으로 조직해야 한다.\n\n록의 악기 편성을 사용하면서도 악기의 자연스러운 울림을 일부러 변형하거나 반복되는 기계음을 대비시킬 수 있다. [[인더스트리얼 메탈]]과 겹치는 영역은 있지만 기타의 무게와 메탈 편곡이 중심인 경우와 록의 곡 구조가 중심인 경우를 구분한다. 소리의 출처보다 음향이 곡 안에서 맡는 기능이 분류에 중요하다."
+      ],
+      [
+        "사례",
+        "가상 예시: 록의 후렴과 기타 연주가 이어지는 동안 일정한 기계 박동과 왜곡된 소음이 곡의 리듬을 이끈다면 인더스트리얼 록의 편곡을 설명할 수 있다. 공장 소리를 곡 앞에 한 번 넣은 일반 록 곡은 같은 기준에 미치지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

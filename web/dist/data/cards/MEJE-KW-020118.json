@@ -5,8 +5,8 @@
   "original": "Inn-Based Frame Story of Travelers Tales",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00638",
+  "primary_tag_id": "ML-T00638",
   "description": {
     "definition": "서로 다른 곳에서 온 손님들이 한 장소에서 자기 세계의 이야기를 들려주며 독립된 여러 [[서사]]를 묶는 구성이다.",
     "detail": "작품 사례: 《[[샌드맨]]》의 「세상의 끝」에서는 여관에 머무는 이들의 여러 이야기가 만남의 장소를 중심으로 이어진다.",
@@ -14,10 +14,10 @@
     "boundary": "배경만 여관인 단일 사건과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여관의 손님들이 자기 이야기를 들려주면 하나의 만남이 여러 독립 서사를 연결한다. 장소는 공통으로 유지되어도 이야기의 세계와 경험은 달라질 수 있다.\n\n손님들의 출신과 듣는 반응은 각 이야기 사이의 완충 구간이 된다. 액자 공간이 돌아올 기준점을 주므로 서로 다른 내용을 같은 묶음으로 받아들이기 쉬워진다.\n\n여관에서 벌어지는 단일 사건과는 다르다. 손님들의 별도 경험담이 실제로 이어져야 한다.\n\n《[[샌드맨]]》의 「세상의 끝」에서는 여관에 머무는 이들의 여러 이야기가 만남의 장소를 중심으로 이어진다.\n\n[[샌드맨]]",
+    "sections": [
+      [
+        "상세 설명",
+        "여관의 손님들이 자기 이야기를 들려주면 하나의 만남이 여러 독립 서사를 연결한다. 장소는 공통으로 유지되어도 이야기의 세계와 경험은 달라질 수 있다.\n\n손님들의 출신과 듣는 반응은 각 이야기 사이의 완충 구간이 된다. 액자 공간이 돌아올 기준점을 주므로 서로 다른 내용을 같은 묶음으로 받아들이기 쉬워진다.\n\n여관에서 벌어지는 단일 사건과는 다르다. 손님들의 별도 경험담이 실제로 이어져야 한다."
+      ],
+      [
+        "사례",
+        "《[[샌드맨]]》의 「세상의 끝」에서는 여관에 머무는 이들의 여러 이야기가 만남의 장소를 중심으로 이어진다."
+      ],
+      [
+        "관련 작품",
+        "[[샌드맨]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

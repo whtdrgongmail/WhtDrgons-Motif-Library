@@ -4,8 +4,8 @@
   "title": "변기로 증거를 없애려 하다",
   "original": "Flush the Evidence",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00790",
+  "primary_tag_id": "ML-T00790",
   "description": {
     "definition": "범죄나 비밀의 흔적을 급히 없애려는 인물이 화장실로 달려가며 추격과 수색의 긴장을 만드는 장면이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불리한 흔적을 급히 없애기 위해 인물이 변기로 향하는 장면이다. 수색과 발견의 시간에 맞서 증거의 소멸을 시도한다.\n\n문이 열리기 전까지 행동을 마칠 수 있는지가 긴장을 만든다. 처리에 실패하면 오히려 무엇을 숨기려 했는지 드러나는 계기가 될 수 있다.\n\n화면 속 성공이 실제로 흔적을 완전히 없앤다는 뜻은 아니다. 구체적인 처리법보다 다가오는 수사와 인물의 당황이 이야기의 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불리한 흔적을 급히 없애기 위해 인물이 변기로 향하는 장면이다. 수색과 발견의 시간에 맞서 증거의 소멸을 시도한다.\n\n문이 열리기 전까지 행동을 마칠 수 있는지가 긴장을 만든다. 처리에 실패하면 오히려 무엇을 숨기려 했는지 드러나는 계기가 될 수 있다.\n\n화면 속 성공이 실제로 흔적을 완전히 없앤다는 뜻은 아니다. 구체적인 처리법보다 다가오는 수사와 인물의 당황이 이야기의 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

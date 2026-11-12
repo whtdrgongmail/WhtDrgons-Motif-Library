@@ -4,8 +4,8 @@
   "title": "도착하면 회복되는 저장 지점",
   "original": "Healing Checkpoint",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02139",
+  "primary_tag_id": "ML-T02139",
   "description": {
     "definition": "체크포인트나 저장 지점에 도착하면 체력·마력·탄약 등 소모 자원이 채워져 다음 구간을 준비하게 하는 게임 기제이다.",
     "detail": "작품 사례: [[Angel's Gear]]의 Screamer Maiden은 사용하면 저장과 함께 체력·탄약을 가득 채운다. Deus Vain의 동귀어진 시도를 넘기는 데도 이 회복이 필요하다.",
@@ -13,10 +13,10 @@
     "boundary": "자동 회복과 인접한 회복 물품을 통한 보급 모두 가능하지만 저장 지점과의 결합이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.008.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "저장이나 진행 기록을 남기는 위치가 소모된 자원을 보충하는 지점도 겸한다. 플레이어는 그곳에 도달한 상태를 기준으로 다음 구간의 자원 계획을 다시 세울 수 있다.\n\n위험 구간을 통과하는 목표와 회복을 확보하는 목표가 같은 위치에 결합된다. 자동으로 채워지는 방식과 인접 물품을 이용하는 방식은 다르지만 저장 지점과 기능적으로 연결되어야 한다.\n\n어느 장소에서나 시간에 따라 회복되는 규칙과는 위치 의존성이 다르다. 저장 기능이 없는 일반 보급소도 동일한 분류로 확정할 수 없다.\n\n[[Angel's Gear]]의 Screamer Maiden은 사용 시 저장과 함께 체력과 탄약을 회복한다.\n\n[[Angel's Gear]]",
+    "sections": [
+      [
+        "상세 설명",
+        "저장이나 진행 기록을 남기는 위치가 소모된 자원을 보충하는 지점도 겸한다. 플레이어는 그곳에 도달한 상태를 기준으로 다음 구간의 자원 계획을 다시 세울 수 있다.\n\n위험 구간을 통과하는 목표와 회복을 확보하는 목표가 같은 위치에 결합된다. 자동으로 채워지는 방식과 인접 물품을 이용하는 방식은 다르지만 저장 지점과 기능적으로 연결되어야 한다.\n\n어느 장소에서나 시간에 따라 회복되는 규칙과는 위치 의존성이 다르다. 저장 기능이 없는 일반 보급소도 동일한 분류로 확정할 수 없다."
+      ],
+      [
+        "사례",
+        "[[Angel's Gear]]의 Screamer Maiden은 사용 시 저장과 함께 체력과 탄약을 회복한다."
+      ],
+      [
+        "관련 작품",
+        "[[Angel's Gear]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

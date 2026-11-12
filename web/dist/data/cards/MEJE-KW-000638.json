@@ -4,8 +4,8 @@
   "title": "평범한 인물에게 찾아온 신비한 연인",
   "original": "Magical Girlfriend",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "평범한 [[주인공]]의 삶에 신이나 마법사 같은 초자연적 연인이 나타나 관계와 일상을 바꾸는 이야기형. 상대가 주인공의 소망만을 채우는 장치로 머무는지 독립된 목적을 지니는지도 읽어야 한다. [[마법 계약에서 시작되는 연애]]는 관계를 묶는 계약이 출발점이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "특별한 힘이 없던 [[주인공]]에게 초자연적 존재가 연인으로 다가와 일상까지 바뀌는 이야기다. 신비한 힘이 문제를 해결해 줄 수도 있지만 그 존재의 사정과 목적 때문에 새 갈등이 생긴다. 상대도 스스로 선택하는 인물인지가 관계를 이해할 기준이다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평범한 사람의 삶에 초자연적 연인이 들어와 관계와 일상의 조건을 바꾸는 이야기다. 특별한 존재의 힘이 주인공의 기존 결핍을 해결하면서 새로운 문제도 가져올 수 있다.\n\n상대가 무엇을 원하고 자신의 세계와 어떤 관계인지에 따라 일방적인 소원 충족과 상호적인 연애의 차이가 드러난다. [[마법 계약에서 시작되는 연애]]와 겹칠 수 있지만 계약은 필수가 아니다. 신비한 연인 자신의 선택도 관계의 전개를 결정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평범한 사람의 삶에 초자연적 연인이 들어와 관계와 일상의 조건을 바꾸는 이야기다. 특별한 존재의 힘이 주인공의 기존 결핍을 해결하면서 새로운 문제도 가져올 수 있다.\n\n상대가 무엇을 원하고 자신의 세계와 어떤 관계인지에 따라 일방적인 소원 충족과 상호적인 연애의 차이가 드러난다. [[마법 계약에서 시작되는 연애]]와 겹칠 수 있지만 계약은 필수가 아니다. 신비한 연인 자신의 선택도 관계의 전개를 결정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

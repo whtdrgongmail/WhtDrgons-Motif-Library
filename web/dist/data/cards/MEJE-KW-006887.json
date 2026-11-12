@@ -4,8 +4,8 @@
   "title": "해체 후 재구축",
   "original": "Decon-Recon Switch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F28",
+  "tag_id": "ML-T02340",
+  "primary_tag_id": "ML-T02340",
   "description": {
     "definition": "익숙한 장르나 관습의 문제를 드러낸 뒤 그 안에 남은 가치를 새 조건에서 다시 세운다. [[서사 관습 해체]]로 관습의 한계를 드러낸 뒤 그 관습의 새 가능성을 찾는 흐름이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "28",
+    "code": "28.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "익숙한 장르 관습의 문제를 드러낸 뒤 그 관습의 가치를 새로운 조건에서 다시 성립시키는 구성이다. 비판과 긍정이 같은 작품 안에서 이어진다.\n\n처음에는 이상적인 행동이 현실에서 낳을 대가와 모순을 보여 준다. 이후 인물들이 그 한계를 인정하고 다른 실천 방법을 찾으면 처음의 이상이 더 복잡한 형태로 회복된다.\n\n문제를 지적한 뒤 아무 일 없던 듯 원래 모습으로 돌아가는 것과는 다르다. 비판의 결과가 재구축에 반영되어야 하며, 관습을 사랑하면서도 무비판적으로 반복하지 않는 태도를 표현할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "익숙한 장르 관습의 문제를 드러낸 뒤 그 관습의 가치를 새로운 조건에서 다시 성립시키는 구성이다. 비판과 긍정이 같은 작품 안에서 이어진다.\n\n처음에는 이상적인 행동이 현실에서 낳을 대가와 모순을 보여 준다. 이후 인물들이 그 한계를 인정하고 다른 실천 방법을 찾으면 처음의 이상이 더 복잡한 형태로 회복된다.\n\n문제를 지적한 뒤 아무 일 없던 듯 원래 모습으로 돌아가는 것과는 다르다. 비판의 결과가 재구축에 반영되어야 하며, 관습을 사랑하면서도 무비판적으로 반복하지 않는 태도를 표현할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

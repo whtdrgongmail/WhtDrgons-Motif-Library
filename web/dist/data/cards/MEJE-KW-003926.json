@@ -4,8 +4,8 @@
   "title": "메아리가 제멋대로 대답하기",
   "original": "Broken Echo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02015",
+  "primary_tag_id": "ML-T02015",
   "description": {
     "definition": "되돌아올 소리가 말을 바꾸거나 다른 답을 한다. 자연 현상처럼 보이던 소리가 대화의 상대가 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.002.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "메아리가 원래 소리를 그대로 반복하지 않고 대답하거나 내용을 바꾸는 농담이다. 음향 현상을 독자적인 의사를 가진 상대처럼 취급한다.\n\n모욕을 듣는 사람에게 되돌리거나 논란이 있는 말을 반복하기 거부하고, 다른 억양으로 답하는 변형이 있다. 인물이 이상함을 알아차리면 메아리와 대화하는 상황 자체가 추가 웃음을 만든다.\n\n실제 반사음의 성질을 설명하는 장면은 아니다. 이전 대사를 다른 맥락에서 반복하는 서사적 반향과도 구분되며, 공간의 실제 메아리가 자율적으로 행동하는 것처럼 보여야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "메아리가 원래 소리를 그대로 반복하지 않고 대답하거나 내용을 바꾸는 농담이다. 음향 현상을 독자적인 의사를 가진 상대처럼 취급한다.\n\n모욕을 듣는 사람에게 되돌리거나 논란이 있는 말을 반복하기 거부하고, 다른 억양으로 답하는 변형이 있다. 인물이 이상함을 알아차리면 메아리와 대화하는 상황 자체가 추가 웃음을 만든다.\n\n실제 반사음의 성질을 설명하는 장면은 아니다. 이전 대사를 다른 맥락에서 반복하는 서사적 반향과도 구분되며, 공간의 실제 메아리가 자율적으로 행동하는 것처럼 보여야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

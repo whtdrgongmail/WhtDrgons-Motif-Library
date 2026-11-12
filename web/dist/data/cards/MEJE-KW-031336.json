@@ -4,8 +4,8 @@
   "title": "발신지 추적을 위한 통화 시간 벌기",
   "original": "Phone-Trace Race",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00858",
+  "primary_tag_id": "ML-T00858",
   "description": {
     "definition": "발신지를 알아내는 데 필요한 시간 동안 상대를 통화에 붙잡아 두려는 추적 장면이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "08.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "추적 담당자가 조금만 더 통화하라고 신호를 보내지만 상대는 완료 직전에 전화를 끊는다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "통화와 추적 진행을 나란히 보여 주면 대화가 곧 제한 시간 경쟁이 된다. 말을 이어 가야 하는 인물은 상대의 요구에 반응하면서도 끊지 못하게 붙잡아야 하고, 관객은 남은 시간이 줄어드는 것을 지켜본다. 상대가 추적을 알고 있다는 대사는 대화의 주도권까지 빼앗는 효과를 낸다.\n\n일부러 추적이 끝날 때까지 통화해 엉뚱한 장소로 유도하는 변형도 가능하다. 중요한 것은 통화 지속이 위치 확보의 조건으로 제시된다는 점이다. 모든 실제 통신 추적이 같은 시간을 요구한다는 뜻은 아니므로, 시대와 작품의 기술 조건에 맞는 규칙으로 이해해야 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "통화와 추적 진행을 나란히 보여 주면 대화가 곧 제한 시간 경쟁이 된다. 말을 이어 가야 하는 인물은 상대의 요구에 반응하면서도 끊지 못하게 붙잡아야 하고, 관객은 남은 시간이 줄어드는 것을 지켜본다. 상대가 추적을 알고 있다는 대사는 대화의 주도권까지 빼앗는 효과를 낸다.\n\n일부러 추적이 끝날 때까지 통화해 엉뚱한 장소로 유도하는 변형도 가능하다. 중요한 것은 통화 지속이 위치 확보의 조건으로 제시된다는 점이다. 모든 실제 통신 추적이 같은 시간을 요구한다는 뜻은 아니므로, 시대와 작품의 기술 조건에 맞는 규칙으로 이해해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

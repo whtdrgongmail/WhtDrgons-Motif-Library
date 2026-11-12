@@ -4,8 +4,8 @@
   "title": "유능하게 살아남는 무명 지원대",
   "original": "Men of Sherwood",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00884",
+  "primary_tag_id": "ML-T00884",
   "description": {
     "definition": "주인공을 돕는 작은 전투 집단이 개별 비중과 이름은 적어도 적에게 실질적으로 대응하며 쉽게 전멸하지 않는 구성이다.",
     "detail": "작품 사례: 실사 《[[아바타: 아앙의 전설 (2024)]]》에서 소카에게 훈련받은 마을 아이들은 무기와 배운 기술로 불의 제국 병사들을 지연시키며 사상자 없이 지원 역할을 수행한다.",
@@ -13,10 +13,10 @@
     "boundary": "정규 군대 전체나 각자 주인공급 비중을 가진 팀과 달리 작고 유능한 지원 집단이다. 사상자가 전혀 없어야 한다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-002995",
+      "work_card_id": "MM-MEDIA-002119",
       "description_ko": "실사 《아바타: 아앙의 전설 (2024)》에서 소카에게 훈련받은 마을 아이들은 무기와 배운 기술로 불의 제국 병사들을 지연시키며 사상자 없이 지원 역할을 수행한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이름과 개인 비중이 적어도 유능하게 싸우는 지원 집단이다. 주역이 아닌 병력도 적에게 대응하고 생존할 수 있음을 보여 준다.\n\n구조와 지원이 실제 결과를 바꾸어야 한다. 희생만 맡는 무명 병사와는 전투의 기능이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이름과 개인 비중이 적어도 유능하게 싸우는 지원 집단이다. 주역이 아닌 병력도 적에게 대응하고 생존할 수 있음을 보여 준다.\n\n구조와 지원이 실제 결과를 바꾸어야 한다. 희생만 맡는 무명 병사와는 전투의 기능이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

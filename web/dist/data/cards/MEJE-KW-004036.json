@@ -4,8 +4,8 @@
   "title": "괴롭히던 사람이 친구가 되기",
   "original": "Bully Turned Buddy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "과거의 가해자가 행동을 바꾸고 피해자와 새 관계를 맺는다. 화해가 성립하려면 책임 인정과 피해자의 선택이 필요하다. 과거의 [[가해자와 피해자]]가 한편이 되는 [[괴롭히던 사람과 피해자를 억지로 한 팀에 넣기]]보다 책임을 인정한 뒤의 선택이 중심이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "과거에 괴롭힘을 가했던 사람이 행동을 바꾸고 피해자와 친구 관계를 맺는 전개다. [[가해자와 피해자]] 사이의 화해는 잘못을 인정하고 안전을 확보한 뒤 피해자가 선택할 때 가능하다. 함께 일해야 했다는 사실만으로 신뢰가 생기거나 용서할 의무가 생기지는 않는다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "괴롭히던 인물이 과거의 피해자와 실제 친구 관계를 맺게 되는 변화다. 일방적인 가해와 두려움으로 이루어졌던 관계가 상호 호의와 신뢰를 요구하는 관계로 바뀌므로, 단순한 공동 행동보다 큰 전환을 뜻한다.\n\n오해의 해소, 자신의 행동에 대한 반성, 성장에 따른 변화 등 여러 계기가 가능하다. 외부의 위기에서 서로를 돕는 경험이 전환점이 되기도 하지만, 한 번의 도움만으로 이전의 상처가 모두 사라지는 것은 아니다.\n\n변화의 설득력은 가해 행동이 멈췄는지, 책임을 인정하는지, 피해자가 관계를 선택할 수 있는지에 달려 있다. 괴롭힘을 애정 표현이었다고 재해석하는 방식과는 구별해야 한다. 우정의 결말을 택하더라도 용서가 의무라는 메시지로 단순화하지 않는 것이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "괴롭히던 인물이 과거의 피해자와 실제 친구 관계를 맺게 되는 변화다. 일방적인 가해와 두려움으로 이루어졌던 관계가 상호 호의와 신뢰를 요구하는 관계로 바뀌므로, 단순한 공동 행동보다 큰 전환을 뜻한다.\n\n오해의 해소, 자신의 행동에 대한 반성, 성장에 따른 변화 등 여러 계기가 가능하다. 외부의 위기에서 서로를 돕는 경험이 전환점이 되기도 하지만, 한 번의 도움만으로 이전의 상처가 모두 사라지는 것은 아니다.\n\n변화의 설득력은 가해 행동이 멈췄는지, 책임을 인정하는지, 피해자가 관계를 선택할 수 있는지에 달려 있다. 괴롭힘을 애정 표현이었다고 재해석하는 방식과는 구별해야 한다. 우정의 결말을 택하더라도 용서가 의무라는 메시지로 단순화하지 않는 것이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

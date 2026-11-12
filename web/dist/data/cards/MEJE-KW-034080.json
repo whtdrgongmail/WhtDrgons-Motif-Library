@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-034080",
+  "kind": "keyword",
+  "title": "수면에서는 헤엄치지만 잠수는 할 수 없기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "깊은 물에서도 표면 위로 이동하는 수영은 허용하면서 수중 공간으로 들어가는 이동은 허용하지 않는 게임 이동 규칙이다.",
+    "detail": "",
+    "usage": "바다와 강의 횡단 기능을 수중 탐색과 분리한다.",
+    "boundary": "물에 닿기만 해도 실패하는 규칙과 구분한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "물 위로는 가지만 물속 아래로 내려가지는 못한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "깊은 물 위를 헤엄칠 수 있지만 아래로 잠수할 수는 없다. 수면 이동과 수중 탐색을 따로 허용하는 게임 규칙이다.\n\n물은 길을 막는 실패 구역보다 횡단 가능한 공간이 된다. 다만 아래쪽에 들어갈 자유는 없어 바다와 강의 기능이 수면으로 한정된다.\n\n물에 닿기만 하면 죽는 경우와 다르다. 수영이 가능하다는 조건과 잠수의 불가능을 함께 유지해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "깊은 물 위를 헤엄칠 수 있지만 아래로 잠수할 수는 없다. 수면 이동과 수중 탐색을 따로 허용하는 게임 규칙이다.\n\n물은 길을 막는 실패 구역보다 횡단 가능한 공간이 된다. 다만 아래쪽에 들어갈 자유는 없어 바다와 강의 기능이 수면으로 한정된다.\n\n물에 닿기만 하면 죽는 경우와 다르다. 수영이 가능하다는 조건과 잠수의 불가능을 함께 유지해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

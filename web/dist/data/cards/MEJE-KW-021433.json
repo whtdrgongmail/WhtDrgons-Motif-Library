@@ -4,8 +4,8 @@
   "title": "긴급 상황을 명분으로 한 주인공의 강압 심문",
   "original": "Jack Bauer Interrogation Technique",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00766",
+  "primary_tag_id": "ML-T00766",
   "description": {
     "definition": "주인공 편의 인물이 시간이 없다는 이유 등으로 협박이나 고문을 써서 상대에게 필요한 정보를 말하게 하려는 장면이다.",
     "detail": "작품 사례: 《[[니모를 찾아서]]》에서 도리는 말린의 행방을 말하지 않는 게를 갈매기들 앞에 들어 올려, 잡아먹힐 위험으로 대답을 압박한다.",
@@ -13,10 +13,10 @@
     "boundary": "주인공이 한다는 이유로 정당하거나 정확한 정보를 얻는다고 전제하지 않는다. 작품 속 정보 획득 장면의 관습을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.004.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "급한 위험을 막는다는 명분으로 주인공 편이 강압적인 심문을 한다. 시간의 제한이 평소의 절차와 도덕적 경계를 넘는 이유로 제시된다.\n\n필요한 정보의 존재와 강압으로 얻은 정보의 신뢰도는 별개다. 주인공이 한다는 사실만으로 방법의 효과와 정당성이 보장되지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "급한 위험을 막는다는 명분으로 주인공 편이 강압적인 심문을 한다. 시간의 제한이 평소의 절차와 도덕적 경계를 넘는 이유로 제시된다.\n\n필요한 정보의 존재와 강압으로 얻은 정보의 신뢰도는 별개다. 주인공이 한다는 사실만으로 방법의 효과와 정당성이 보장되지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "비밀로 유지하는 연애",
   "original": "Secret Relationship",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00983",
+  "primary_tag_id": "ML-T00983",
   "description": {
     "definition": "서로 연인인 두 사람이 어떤 이유로 그 관계를 주변 사람들에게 숨기는 설정이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "한쪽만 마음을 숨긴 짝사랑이나 정식 관계가 아닌 일방적 추측과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "둘만 아는 관계를 남들 앞에서는 드러내지 않는다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실제로 관계를 맺은 두 사람이 주변에 그 사실을 숨기는 설정이다. 직장 내 지위 차이, 신분 노출의 위험, 가족의 반대 등 구체적인 이유가 있을 수도 있고 공개할 준비가 되지 않았다는 감정적인 이유일 수도 있다. 관계를 유지하는 행동과 들키지 않으려는 행동이 동시에 필요해진다.\n\n희극에서는 둘만 아는 표현과 어색한 변명, 반복되는 자리 이탈이 오히려 의심을 부른다. 다른 사람들은 이미 알고도 모르는 척하거나 숨기려는 노력을 재미있게 지켜볼 수 있다. 극적인 이야기에서는 발각이 평판이나 안전을 위협하여 비밀 유지 자체가 중요한 갈등이 된다.\n\n공개는 한꺼번에 이루어질 수도 있고 일부 사람만 먼저 알아차려 공범이 되는 단계로 진행될 수도 있다. 실제로 사귀지 않으면서 연인인 척하는 위장 관계와는 반대 방향이다. 사랑이 아니라 친밀한 우정을 주변의 반대 때문에 숨기는 경우에도 같은 비밀 유지 구조가 적용될 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실제로 관계를 맺은 두 사람이 주변에 그 사실을 숨기는 설정이다. 직장 내 지위 차이, 신분 노출의 위험, 가족의 반대 등 구체적인 이유가 있을 수도 있고 공개할 준비가 되지 않았다는 감정적인 이유일 수도 있다. 관계를 유지하는 행동과 들키지 않으려는 행동이 동시에 필요해진다.\n\n희극에서는 둘만 아는 표현과 어색한 변명, 반복되는 자리 이탈이 오히려 의심을 부른다. 다른 사람들은 이미 알고도 모르는 척하거나 숨기려는 노력을 재미있게 지켜볼 수 있다. 극적인 이야기에서는 발각이 평판이나 안전을 위협하여 비밀 유지 자체가 중요한 갈등이 된다.\n\n공개는 한꺼번에 이루어질 수도 있고 일부 사람만 먼저 알아차려 공범이 되는 단계로 진행될 수도 있다. 실제로 사귀지 않으면서 연인인 척하는 위장 관계와는 반대 방향이다. 사랑이 아니라 친밀한 우정을 주변의 반대 때문에 숨기는 경우에도 같은 비밀 유지 구조가 적용될 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

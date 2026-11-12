@@ -4,8 +4,8 @@
   "title": "자세를 잡아 주는 친밀감",
   "original": "Hands-On Approach",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02534",
+  "primary_tag_id": "ML-T02534",
   "description": {
     "definition": "스포츠나 악기 등을 가르치며 팔·어깨를 직접 잡아 자세를 교정하는 접촉이 연애적 긴장으로 바뀌는 [[장면]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "기능적인 [[지도]]만 있는 경우와 달리 감정적 의미가 추가되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.011",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가르치는 손길 때문에 동작보다 서로의 거리를 의식하게 된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "운동이나 악기를 가르치며 팔과 어깨를 잡아 자세를 고치는 접촉이 연애적 긴장으로 이어진다. 실용적인 동작이 당사자에게 다른 의미를 갖게 된다.\n\n한쪽의 호감이나 서로 의식하는 관계 때문에 필요한 접촉도 어색하고 특별하게 느껴진다. 모든 자세 교정이 낭만적인 장면은 아니며, 반응과 연출이 접촉의 친밀함을 강조해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "운동이나 악기를 가르치며 팔과 어깨를 잡아 자세를 고치는 접촉이 연애적 긴장으로 이어진다. 실용적인 동작이 당사자에게 다른 의미를 갖게 된다.\n\n한쪽의 호감이나 서로 의식하는 관계 때문에 필요한 접촉도 어색하고 특별하게 느껴진다. 모든 자세 교정이 낭만적인 장면은 아니며, 반응과 연출이 접촉의 친밀함을 강조해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "The Case Versus the Family's Financial Needs",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00825",
+  "primary_tag_id": "ML-T00825",
   "description": {
     "definition": "수사자가 죽음의 진실을 밝힐 의무와 유족이 기대하는 경제적 도움의 상실 사이에서 갈등한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "작품의 도덕적 [[갈등]]이며 실제 보험 약관이나 법률의 결론을 대신하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "08",
+    "code": "08.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수사자가 진실을 밝히면 남겨진 가족이 기대하던 경제적 도움을 잃을 수 있다. 사건을 정확히 분류해야 하는 의무와 현재 살아 있는 사람의 생활을 지키려는 마음이 충돌한다.\n\n피해자의 죽음은 이미 끝난 과거이지만 조사 결과는 유족의 미래를 바꾼다. 진실을 감출지 드러낼지의 판단은 규정의 준수보다 관계와 책임의 문제로 제시되며, 누가 그 정보를 알고 선택하는지도 중요하다.\n\n실제 보험과 법의 결론을 이 구조로 대신할 수는 없다. 이야기마다 도움의 조건과 수사자의 권한이 다르다. 유족이 이익을 원한다는 사실만으로 진실을 숨기라고 요구했다고 추정해서도 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수사자가 진실을 밝히면 남겨진 가족이 기대하던 경제적 도움을 잃을 수 있다. 사건을 정확히 분류해야 하는 의무와 현재 살아 있는 사람의 생활을 지키려는 마음이 충돌한다.\n\n피해자의 죽음은 이미 끝난 과거이지만 조사 결과는 유족의 미래를 바꾼다. 진실을 감출지 드러낼지의 판단은 규정의 준수보다 관계와 책임의 문제로 제시되며, 누가 그 정보를 알고 선택하는지도 중요하다.\n\n실제 보험과 법의 결론을 이 구조로 대신할 수는 없다. 이야기마다 도움의 조건과 수사자의 권한이 다르다. 유족이 이익을 원한다는 사실만으로 진실을 숨기라고 요구했다고 추정해서도 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

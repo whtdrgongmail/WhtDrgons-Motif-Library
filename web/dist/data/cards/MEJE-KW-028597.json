@@ -4,8 +4,8 @@
   "title": "패색을 뒤집는 경기의 대역전",
   "original": "Miracle Rally",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "MEJE-KW-001026",
+  "primary_tag_id": "MEJE-KW-001026",
   "description": {
     "definition": "스포츠 경기에서 패배가 거의 확실해 보이던 선수나 팀이 결정적인 계기를 통해 흐름을 바꾸고 끝내 승리하는 전개다.",
     "detail": "작품 사례: 《[[아이실드 21]]》에서 데이몬 데빌 배츠는 테이코쿠 알렉산더즈에 크게 뒤진 마지막 쿼터에 점수를 몰아넣어 승리한다. 거의 불가능해 보이는 점수 차이를 뒤집는 구조다.",
@@ -13,11 +13,11 @@
     "boundary": "계속 팽팽했던 경기나 따라붙다가 패배하는 시도와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
-    "review_status": "provisional",
+    "code": "05.005.008",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "점수와 남은 시간, 전력 차이 때문에 승리가 어려워 보이는 상황이 먼저 제시된다. 이후의 득점이나 전략 변화가 앞선 열세를 실제 승리로 전환해야 역전의 구조가 완성된다.\n\n교체 선수의 투입이나 팀의 협력 회복은 분위기 변화와 경기 결과를 연결하는 계기가 된다. 관객은 전환 전후의 성과를 비교하면서 승리가 얼마나 어려웠는지 체감한다.\n\n팽팽한 접전의 마지막 득점과는 출발 조건이 다르다. 크게 추격했더라도 패배로 끝났다면 노력의 드라마는 성립하지만 승리로 마무리되는 이 유형과는 결말이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "점수와 남은 시간, 전력 차이 때문에 승리가 어려워 보이는 상황이 먼저 제시된다. 이후의 득점이나 전략 변화가 앞선 열세를 실제 승리로 전환해야 역전의 구조가 완성된다.\n\n교체 선수의 투입이나 팀의 협력 회복은 분위기 변화와 경기 결과를 연결하는 계기가 된다. 관객은 전환 전후의 성과를 비교하면서 승리가 얼마나 어려웠는지 체감한다.\n\n팽팽한 접전의 마지막 득점과는 출발 조건이 다르다. 크게 추격했더라도 패배로 끝났다면 노력의 드라마는 성립하지만 승리로 마무리되는 이 유형과는 결말이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "어디서나 음모를 의심하는 인물",
   "original": "Conspiracy Theorist",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00938",
+  "primary_tag_id": "ML-T00938",
   "description": {
     "definition": "인물이 우연이나 불확실한 사건에서도 숨은 계획을 찾아내려 한다. 그 의심이 근거 있는 경계인지 과도한 확신인지는 이야기마다 다르다. 숨은 계획에 대한 의심이 실제 사건과 맞아떨어지면 추적하는 이야기로 이어질 수 있다: [[거대한 음모를 파헤치는 스릴러]].",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사건의 원인을 비밀 집단의 조종과 연결하여 해석하는 인물이다. 작은 우연과 설명의 빈틈도 더 큰 계획의 증거로 받아들인다.\n\n실제 음모가 있는 세계에서는 중요한 단서를 먼저 알아볼 수 있다. 반대로 모든 반증을 은폐의 증거로 해석하면 믿음이 검증되지 않는 폐쇄적인 구조가 된다.\n\n권력에 질문하거나 비밀을 조사하는 모든 인물과 같지는 않다. 증거를 비교하는 탐구와 결론을 먼저 정한 의심을 구분해야 하며 작중에서 일부가 맞았다고 모든 주장이 입증되는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사건의 원인을 비밀 집단의 조종과 연결하여 해석하는 인물이다. 작은 우연과 설명의 빈틈도 더 큰 계획의 증거로 받아들인다.\n\n실제 음모가 있는 세계에서는 중요한 단서를 먼저 알아볼 수 있다. 반대로 모든 반증을 은폐의 증거로 해석하면 믿음이 검증되지 않는 폐쇄적인 구조가 된다.\n\n권력에 질문하거나 비밀을 조사하는 모든 인물과 같지는 않다. 증거를 비교하는 탐구와 결론을 먼저 정한 의심을 구분해야 하며 작중에서 일부가 맞았다고 모든 주장이 입증되는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "젠트",
   "original": "Djent",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-007577",
+  "primary_tag_id": "MEJE-KW-007577",
   "description": {
     "definition": "낮게 조율한 기타의 짧고 묵직한 리프와 복잡한 박자를 특징으로 하는 현대 메탈의 하위 장르. 반복적인 리듬과 불규칙한 악센트가 함께 들린다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.008",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "낮게 조율한 기타의 타격감 있는 음색과 무거운 반복 리듬을 중심으로 하는 [[헤비메탈]]의 흐름이다. 불규칙한 악센트와 복수의 리듬 층이 맞물리는 감각이 특징적이다.\n\n짧게 끊는 리프와 복잡한 박자 관계는 같은 반복 안에서도 중심이 이동하는 인상을 준다. 밴드에 따라 전자적 음향과 맑은 질감, 선율적인 보컬이 결합되어 무거움과 공간감이 대비된다.\n\n특정 기타 음색 하나만으로 장르를 확정하지 않는다. 그루브와 곡 구성, 관련 메탈 양식이 겹치는 범주이므로 복잡한 박자를 쓴 모든 곡을 같은 유형으로 분류할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "낮게 조율한 기타의 타격감 있는 음색과 무거운 반복 리듬을 중심으로 하는 [[헤비메탈]]의 흐름이다. 불규칙한 악센트와 복수의 리듬 층이 맞물리는 감각이 특징적이다.\n\n짧게 끊는 리프와 복잡한 박자 관계는 같은 반복 안에서도 중심이 이동하는 인상을 준다. 밴드에 따라 전자적 음향과 맑은 질감, 선율적인 보컬이 결합되어 무거움과 공간감이 대비된다.\n\n특정 기타 음색 하나만으로 장르를 확정하지 않는다. 그루브와 곡 구성, 관련 메탈 양식이 겹치는 범주이므로 복잡한 박자를 쓴 모든 곡을 같은 유형으로 분류할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

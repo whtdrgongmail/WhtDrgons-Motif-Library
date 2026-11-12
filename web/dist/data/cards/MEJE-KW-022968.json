@@ -4,8 +4,8 @@
   "title": "수집물 백 개마다 얻는 추가 생명",
   "original": "Law of 100",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02136",
+  "primary_tag_id": "ML-T02136",
   "description": {
     "definition": "흔한 수집물을 일정 수, 대표적으로 백 개 모으면 수치를 소모하거나 초기화하면서 추가 생명을 주는 게임 보상 규칙이다.",
     "detail": "작품 사례: 《[[스폰지밥 스퀘어팬츠: 슈퍼스폰지]]》에서는 황금 뒤집개 백 개를 모으면 추가 생명을 받는다.",
@@ -13,10 +13,10 @@
     "boundary": "점수 임계치로 주는 보너스와 구별한다. 작품마다 필요한 개수나 복구되는 자원의 범위는 다를 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.008.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "흔한 수집물의 누적량이 기준에 도달하면 추가 생명을 주고 수집 수치를 다시 계산한다. 작은 보상을 계속 모으는 행동이 생존 자원으로 이어지므로 주요 목표 밖의 경로를 탐색할 동기도 생긴다. 점수를 충분히 올려 생명을 얻는 방식과는 무엇을 세는지가 다르며, 백 개라는 수는 대표적인 설정이지 모든 게임의 고정 규칙은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "흔한 수집물의 누적량이 기준에 도달하면 추가 생명을 주고 수집 수치를 다시 계산한다. 작은 보상을 계속 모으는 행동이 생존 자원으로 이어지므로 주요 목표 밖의 경로를 탐색할 동기도 생긴다. 점수를 충분히 올려 생명을 얻는 방식과는 무엇을 세는지가 다르며, 백 개라는 수는 대표적인 설정이지 모든 게임의 고정 규칙은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,27 +4,27 @@
   "title": "나루토",
   "original": "Naruto",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《나루토》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《나루토》의 의료 인술은 치료를 위한 힘이지만 원문은 공격에 전용될 수 있는 위험성도 설명한다. 치료 계열 능력이 사용 목적에 따라 해로운 힘이 되는 허구적 사례다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -53,5 +53,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《나루토》 작품군은 기시모토 마사시의 만화에서 출발한 닌자 판타지다. 나뭇잎 마을의 지도자 호카게를 꿈꾸는 나루토 안에는 마을을 공격했던 구미의 존재가 봉인되어 있다.\n\n인정받고 싶은 소년의 목표는 자신을 경계하는 공동체와 관계를 맺는 과정이 된다. 팀의 협력과 서로 다른 마을의 이해가 결합하면서 개인의 성장과 사회의 갈등이 함께 확대된다.\n\n이 카드는 미디어 작품군을 대상으로 한다. 원작 만화와 [[애니메이션]]의 추가 회차, 영화와 게임의 별도 사건을 하나의 동일한 연속성으로 합치지 않아야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《나루토》 작품군은 기시모토 마사시의 만화에서 출발한 닌자 판타지다. 나뭇잎 마을의 지도자 호카게를 꿈꾸는 나루토 안에는 마을을 공격했던 구미의 존재가 봉인되어 있다.\n\n인정받고 싶은 소년의 목표는 자신을 경계하는 공동체와 관계를 맺는 과정이 된다. 팀의 협력과 서로 다른 마을의 이해가 결합하면서 개인의 성장과 사회의 갈등이 함께 확대된다.\n\n이 카드는 미디어 작품군을 대상으로 한다. 원작 만화와 [[애니메이션]]의 추가 회차, 영화와 게임의 별도 사건을 하나의 동일한 연속성으로 합치지 않아야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -9,12 +9,12 @@
   "description": {
     "definition": "가족·보호자·연애의 경쟁자 등이 소중한 사람과 새로 관계를 맺는 상대에게 그 사람을 해치면 책임을 묻겠다고 경고하는 장면이다.",
     "detail": "보호 역할을 넘기면서 관심은 유지한다는 표시다. 경고받는 쪽이 그 마음을 인정하며 관계를 받아들이기도 한다.\n\n작품 사례: 《[[원피스]]》에서 나미를 가족처럼 돌본 겐조는 루피에게 앞으로 나미를 울리면 가만두지 않겠다고 경고한다.",
-    "usage": "경고의 대상이 둘의 관계에서 어떻게 책임을 맡게 되는지 살핀다.",
-    "boundary": "사랑받는 당사자의 선택을 무시하고 소유권을 주장하는 위협이나 적에게 하는 일반적인 협박과 구별한다."
+    "usage": "경고의 대상이 둘의 관계에서 어떻게 책임을 맡게 되는지 확인한다.",
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
     "code": "10",
     "review_status": "provisional",
@@ -22,21 +22,38 @@
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "그 사람을 맡기지만 울리거나 상처 주면 가만있지 않겠다고 한다.\n\n작품 사례: 《[[원피스]]》에서 나미를 가족처럼 돌본 겐조는 루피에게 앞으로 나미를 울리면 가만두지 않겠다고 경고한다.",
+    "easy_ko": "그 사람을 맡기지만 울리거나 상처 주면 가만있지 않겠다고 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》에서 나미를 가족처럼 돌본 겐조는 루피에게 앞으로 나미를 울리면 가만두지 않겠다고 경고한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보호 역할을 넘기면서 관심은 유지한다는 표시다. 경고받는 쪽이 그 마음을 인정하며 관계를 받아들이기도 한다.\n\n사랑받는 당사자의 선택을 무시하고 소유권을 주장하는 위협이나 적에게 하는 일반적인 협박과 구별한다.\n\n《[[원피스]]》에서 나미를 가족처럼 돌본 겐조는 루피에게 앞으로 나미를 울리면 가만두지 않겠다고 경고한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보호 역할을 넘기면서 관심은 유지한다는 표시다. 경고받는 쪽이 그 마음을 인정하며 관계를 받아들이기도 한다.\n\n사랑받는 당사자의 선택을 무시하고 소유권을 주장하는 위협이나 적에게 하는 일반적인 협박과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[원피스]]》에서 나미를 가족처럼 돌본 겐조는 루피에게 앞으로 나미를 울리면 가만두지 않겠다고 경고한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

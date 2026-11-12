@@ -4,27 +4,27 @@
   "title": "젤다의 전설",
   "original": "The Legend of Zelda",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《젤다의 전설》은 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《젤다의 전설》의 마스터 소드는 하이랄의 [[전승]] 속에서 악을 물리치는 검으로 알려져 있으며, 선택된 영웅만 뽑을 수 있다는 규칙이 명성과 자격을 연결한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -45,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "링크와 젤다, 가논의 반복되는 대립을 중심으로 한 판타지 액션 어드벤처 작품군이다. 용기와 지혜, 힘에 대응하는 세 인물이 여러 시대에 다시 태어나 하이랄의 위기를 이룬다.\n\n같은 신화의 구도를 공유하면서도 개별 게임은 다른 상황과 형태의 영웅을 제시한다. 이름과 목적이 반복된다는 이유만으로 모든 링크를 한 사람의 연속된 생애로 취급하지 않고 작품별 환생과 세계를 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "링크와 젤다, 가논의 반복되는 대립을 중심으로 한 판타지 액션 어드벤처 작품군이다. 용기와 지혜, 힘에 대응하는 세 인물이 여러 시대에 다시 태어나 하이랄의 위기를 이룬다.\n\n같은 신화의 구도를 공유하면서도 개별 게임은 다른 상황과 형태의 영웅을 제시한다. 이름과 목적이 반복된다는 이유만으로 모든 링크를 한 사람의 연속된 생애로 취급하지 않고 작품별 환생과 세계를 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

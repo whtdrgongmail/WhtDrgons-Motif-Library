@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "하이 스쿨 뮤지컬",
   "original": "High School Musical",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "High School Musical"
+  ],
+  "tag_id": "ML-T02487",
   "primary_tag_id": "ML-T02487",
   "description": {
     "definition": "《하이 스쿨 뮤지컬》은 영화 작품이다.",
-    "detail": "작품 사례: 《하이 스쿨 뮤지컬》에서 샤페이가 화가 나 복도를 걸어 나가자 다른 학생들이 급히 길을 비켜 주어 그녀의 위세를 드러낸다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.005",
     "review_status": "provisional",
@@ -39,9 +41,26 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014988",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-025526",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "농구팀 주장 트로이와 공부를 잘하는 새 전학생 가브리엘라가 학교 뮤지컬에 도전하는 영화다. 휴양지에서 처음 만난 두 사람은 학교에서 다시 만나 기존의 역할과 다른 활동을 원한다.\n\n연극부의 중심인 쌍둥이뿐 아니라 가까운 친구들도 변화를 달가워하지 않는다. 예술과 운동에 붙은 집단의 기대를 넘어서려는 선택이 연애와 학교 공연의 경쟁에 함께 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "농구팀 주장 트로이와 공부를 잘하는 새 전학생 가브리엘라가 학교 뮤지컬에 도전하는 영화다. 휴양지에서 처음 만난 두 사람은 학교에서 다시 만나 기존의 역할과 다른 활동을 원한다.\n\n연극부의 중심인 쌍둥이뿐 아니라 가까운 친구들도 변화를 달가워하지 않는다. 예술과 운동에 붙은 집단의 기대를 넘어서려는 선택이 연애와 학교 공연의 경쟁에 함께 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

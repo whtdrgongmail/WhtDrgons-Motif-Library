@@ -4,8 +4,8 @@
   "title": "전개를 위해 때맞춰 고장 나기",
   "original": "Plot-Driven Breakdown",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00684",
+  "primary_tag_id": "ML-T00684",
   "description": {
     "definition": "결정적인 순간에 뚜렷한 원인 없이 장비나 시설이 고장 나서 인물이 새로운 행동을 해야 하는 전개다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "06",
+    "code": "06.002.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "탈출 직전에 멀쩡하던 차량이 멈춰, 서로 싫어하던 두 사람이 함께 밤을 보내게 된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "고장의 핵심 기능은 익숙한 해결책을 제거하는 것이다. 믿던 도구가 작동하지 않으면 인물은 다른 기술을 쓰거나 타인에게 도움을 청하고, 예정에 없던 공간에 머물러야 한다. 단순히 물건이 낡았다는 묘사보다 그 고장이 사건의 방향을 바꾸는지가 중요하다. 사전에 충분히 준비했는데도 이유가 설명되지 않은 채 정확히 필요한 순간에 문제가 생길수록 작위성이 두드러진다.\n\n무기 파손, 이동 수단의 정지, 전력 소진뿐 아니라 통로나 건물 일부의 붕괴도 같은 역할을 맡을 수 있다. 이미 알려진 결함이 누적되어 고장 나는 전개는 인과가 마련되어 있다는 점에서 다르다. 고장 뒤 인물의 선택과 관계 변화에 충분한 비중을 주면 장치는 효과적이지만, 해결이 끝나자 이유 없이 정상으로 돌아오면 편의적인 장애물처럼 보이기 쉽다. 고장 시점뿐 아니라 지속 시간과 수리 조건도 함께 설계할 필요가 있다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "고장의 핵심 기능은 익숙한 해결책을 제거하는 것이다. 믿던 도구가 작동하지 않으면 인물은 다른 기술을 쓰거나 타인에게 도움을 청하고, 예정에 없던 공간에 머물러야 한다. 단순히 물건이 낡았다는 묘사보다 그 고장이 사건의 방향을 바꾸는지가 중요하다. 사전에 충분히 준비했는데도 이유가 설명되지 않은 채 정확히 필요한 순간에 문제가 생길수록 작위성이 두드러진다.\n\n무기 파손, 이동 수단의 정지, 전력 소진뿐 아니라 통로나 건물 일부의 붕괴도 같은 역할을 맡을 수 있다. 이미 알려진 결함이 누적되어 고장 나는 전개는 인과가 마련되어 있다는 점에서 다르다. 고장 뒤 인물의 선택과 관계 변화에 충분한 비중을 주면 장치는 효과적이지만, 해결이 끝나자 이유 없이 정상으로 돌아오면 편의적인 장애물처럼 보이기 쉽다. 고장 시점뿐 아니라 지속 시간과 수리 조건도 함께 설계할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

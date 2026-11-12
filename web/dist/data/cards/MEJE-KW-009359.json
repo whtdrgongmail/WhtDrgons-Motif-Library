@@ -4,8 +4,8 @@
   "title": "수치 계산 내역 표시",
   "original": "Factor Breakdown",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02155",
+  "primary_tag_id": "ML-T02155",
   "description": {
     "definition": "게임에서 능력치나 자원의 최종값에 이르기까지 어떤 요소가 얼마나 영향을 주었는지 보여 주는 정보 표시다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.010.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[능력치]]와 자원의 최종값을 만드는 가산과 배율 등 계산 과정을 보여 주는 표시다. 결과의 숫자와 원인을 연결한다.\n\n색과 비율로 큰 영향을 주는 요소를 알리면 장비와 강화의 선택을 비교하기 쉽다. 복잡한 성장 체계도 각 항목의 기여를 확인하면서 이해할 수 있다.\n\n최종 수치만 표시하는 창과는 정보량이 다르다. 반올림과 조건부 효과, 표시되지 않는 요소가 있을 수 있으므로 화면의 내역이 전체 규칙을 완전히 설명하는지는 별도로 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[능력치]]와 자원의 최종값을 만드는 가산과 배율 등 계산 과정을 보여 주는 표시다. 결과의 숫자와 원인을 연결한다.\n\n색과 비율로 큰 영향을 주는 요소를 알리면 장비와 강화의 선택을 비교하기 쉽다. 복잡한 성장 체계도 각 항목의 기여를 확인하면서 이해할 수 있다.\n\n최종 수치만 표시하는 창과는 정보량이 다르다. 반올림과 조건부 효과, 표시되지 않는 요소가 있을 수 있으므로 화면의 내역이 전체 규칙을 완전히 설명하는지는 별도로 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

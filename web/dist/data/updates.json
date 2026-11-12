@@ -1,0 +1,40 @@
+{
+  "releases": [
+    {
+      "release_id": "20261108-01",
+      "published_at": "2026-11-08",
+      "title": "카드 설명 중복 정리와 11차 첫 등록",
+      "summary": "11차 신규 개념 491장을 등록하고 쉬운 설명과 상세원고에 검토 중 상태를 표시했습니다. 기존 카드 4201장의 쉬운 설명에서 상세 필드와 반복되던 작품 사례를 제거했습니다. 내부 링크 대상 334장은 미설정 카드로 연결했습니다.",
+      "new_cards": "491",
+      "existing_articles_added": "0",
+      "repeated_paragraphs_removed": "4201",
+      "unset_cards_added": "334",
+      "commit": "c062b57",
+      "row_version": "1"
+    },
+    {
+      "release_id": "20261108-02",
+      "published_at": "2026-11-08",
+      "title": "10·11차 분석 결과 추가 반영",
+      "summary": "10차에서 근거와 분류가 확인되고 기존 카드와 충돌하지 않는 개념 2729장을 등록했습니다. 11차에서는 색인 개념 2장을 추가하고 미설정 카드 2장을 정의가 있는 카드로 보완했습니다. 기존 카드 370장에는 기존 정의와 쉬운 설명을 보존하면서 상세원고 초안을 추가했습니다. 10차 상세원고와 충돌 후보는 계속 검토합니다.",
+      "new_cards": "2731",
+      "existing_articles_added": "370",
+      "repeated_paragraphs_removed": "0",
+      "unset_cards_added": "0",
+      "commit": "",
+      "row_version": "2"
+    },
+    {
+      "release_id": "20261112-01",
+      "published_at": "2026-11-12",
+      "title": "상세 본문 누락 해소와 세부분류 보강",
+      "summary": "공개 대상 카드 326장의 상세 본문을 추가해 본문 누락을 0장으로 줄였습니다. 쉬운 설명과 상세 문단이 유사한 15장의 반복 내용을 수정했습니다. 기존 분류 체계의 하위 태그를 2,075장에 추가했습니다. 세부분류가 비어 있는 20,269장은 상위 분류축으로 탐색할 수 있으며 후속 분류 대상으로 남습니다.",
+      "new_cards": "0",
+      "existing_articles_added": "326",
+      "repeated_paragraphs_removed": "15",
+      "unset_cards_added": "0",
+      "commit": "",
+      "row_version": "1"
+    }
+  ]
+}

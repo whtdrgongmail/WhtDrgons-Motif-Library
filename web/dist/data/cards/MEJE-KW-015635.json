@@ -4,8 +4,8 @@
   "title": "마지막 절정에 돌아오는 주제가",
   "original": "Last Episode Theme Reprise",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "작품의 마지막 회나 최종 결말의 중요한 장면에 익숙한 주제가를 다시 사용하여 여정의 성취와 종결감을 강조하는 음악 장치다.",
     "detail": "작품 사례: [[Tengen Toppa Gurren Lagann]]의 마지막 대결에서는 적의 거대한 공격 앞에서 익숙한 오프닝 노래가 돌아오고 로제놈이 공격을 받아내어, 축적된 여정과 최후의 역전을 음악으로 이어 준다.",
@@ -13,10 +13,10 @@
     "boundary": "중간 회의 일반적 주제가 사용이나 엔딩 크레디트만의 재생과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마지막 절정에 익숙한 주제가가 돌아오면 이전 회차들의 기억이 현재의 대결에 겹쳐진다. 이미 축적된 음악적 친숙함을 이용하여 결말의 성취나 역전에 정서적 무게를 더한다.\n\n중간 회차의 주제가 사용이나 결말 뒤 크레디트에서만 들리는 재생과는 배치가 다르다. 최종 절정의 사건과 곡의 귀환이 실제로 연결되는지 확인해야 한다.\n\n《[[Tengen Toppa Gurren Lagann]]》의 최후 대결에서는 익숙한 오프닝 곡이 돌아오는 가운데 로제놈이 적의 거대한 공격을 받아낸다. 음악의 귀환이 마지막 역전과 함께 배치된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마지막 절정에 익숙한 주제가가 돌아오면 이전 회차들의 기억이 현재의 대결에 겹쳐진다. 이미 축적된 음악적 친숙함을 이용하여 결말의 성취나 역전에 정서적 무게를 더한다.\n\n중간 회차의 주제가 사용이나 결말 뒤 크레디트에서만 들리는 재생과는 배치가 다르다. 최종 절정의 사건과 곡의 귀환이 실제로 연결되는지 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Tengen Toppa Gurren Lagann]]》의 최후 대결에서는 익숙한 오프닝 곡이 돌아오는 가운데 로제놈이 적의 거대한 공격을 받아낸다. 음악의 귀환이 마지막 역전과 함께 배치된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

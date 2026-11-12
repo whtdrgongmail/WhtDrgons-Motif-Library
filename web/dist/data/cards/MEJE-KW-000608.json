@@ -4,8 +4,8 @@
   "title": "마법 가게에서 산 물건의 대가",
   "original": "Magic Shop Fable",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00618",
+  "primary_tag_id": "ML-T00618",
   "description": {
     "definition": "인물이 우연히 찾은 가게에서 소원을 이룰 듯한 물건을 얻지만 뒤늦게 예상하지 못한 대가를 치르는 이야기 구조. 판매자의 경고와 구매자의 선택이 결말의 의미를 만든다. [[사용 횟수가 정해진 마법 도구]]는 물건의 사용 한계를 정한 별도 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "우연히 찾은 가게의 물건이 소원을 이룰 듯하지만 나중에 뜻밖의 대가를 요구한다. 구매의 기대와 결과가 어긋나는 이야기 구조다.\n\n판매자의 경고와 구매자가 한 선택이 결말의 책임과 의미를 만든다. 무엇을 얻었는지뿐 아니라 어떤 조건을 알고 받아들였는지 구분해야 한다.\n\n사용 횟수가 정해진 도구와는 쟁점이 다르다. 단순한 기능 제한보다 예상하지 못한 비용과 후속 결과가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "우연히 찾은 가게의 물건이 소원을 이룰 듯하지만 나중에 뜻밖의 대가를 요구한다. 구매의 기대와 결과가 어긋나는 이야기 구조다.\n\n판매자의 경고와 구매자가 한 선택이 결말의 책임과 의미를 만든다. 무엇을 얻었는지뿐 아니라 어떤 조건을 알고 받아들였는지 구분해야 한다.\n\n사용 횟수가 정해진 도구와는 쟁점이 다르다. 단순한 기능 제한보다 예상하지 못한 비용과 후속 결과가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

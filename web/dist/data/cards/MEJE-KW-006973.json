@@ -4,8 +4,8 @@
   "title": "뒤늦게 등장하는 화자",
   "original": "Delayed Narrator Introduction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01926",
+  "primary_tag_id": "ML-T01926",
   "description": {
     "definition": "이야기를 들려주던 목소리의 주인이 본편 중간에 인물로 등장한다. 익명의 해설로 여겼던 말을 특정 인물의 경험으로 다시 읽게 한다. 이야기를 전하던 목소리의 정체가 바뀌면 관객이 사건을 새롭게 해석할 수 있으며 [[모든 일을 환상으로 돌리는 해석]] 같은 수용 방식도 생긴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "익명으로 이야기를 전달하던 목소리의 주인이 중간에 실제 등장인물로 밝혀지는 구성이다. 외부의 해설이라고 생각했던 말이 특정한 사람의 서술로 바뀐다.\n\n주역이 그 인물을 만나거나 서술자가 자신을 사건에 연결하며 정체를 알릴 수 있다. 이후에도 삼인칭을 유지하거나 직접 경험을 말하는 일인칭으로 전환할 수 있다.\n\n앞서 보지 못한 사건까지 어떻게 알았는지가 새 질문이 된다. 다른 사람에게 들었거나 추측했을 가능성을 구분해야 하며, 화자의 위치가 밝혀지면 이전 설명의 정확성과 편향을 다시 평가하게 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "익명으로 이야기를 전달하던 목소리의 주인이 중간에 실제 등장인물로 밝혀지는 구성이다. 외부의 해설이라고 생각했던 말이 특정한 사람의 서술로 바뀐다.\n\n주역이 그 인물을 만나거나 서술자가 자신을 사건에 연결하며 정체를 알릴 수 있다. 이후에도 삼인칭을 유지하거나 직접 경험을 말하는 일인칭으로 전환할 수 있다.\n\n앞서 보지 못한 사건까지 어떻게 알았는지가 새 질문이 된다. 다른 사람에게 들었거나 추측했을 가능성을 구분해야 하며, 화자의 위치가 밝혀지면 이전 설명의 정확성과 편향을 다시 평가하게 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

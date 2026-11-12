@@ -5,8 +5,8 @@
   "original": "Endings Unlocked by Earlier Choices",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02132",
+  "primary_tag_id": "ML-T02132",
   "description": {
     "definition": "결말은 마지막 선택으로 정하지만 선택 가능한 결말의 목록은 앞서 충족한 사건 조건이나 부가 임무에 따라 달라지는 혼합 분기 구조다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "모든 플레이어에게 같은 마지막 선택지가 주어지는 방식과, 누적 행동이 결말을 자동 결정하는 방식 사이에 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.007.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마지막 선택이 결말을 정해도 이전 행동이 선택지의 목록을 바꾸면 과정과 결심이 함께 결과에 참여한다. 플레이어는 해금한 범위 안에서 최종 가치를 고른다.\n\n부가 임무의 성과는 선택 가능한 결말로 보존되고 마지막 판단은 현재의 플레이어에게 남는다. 과정이 아무 의미 없게 되지도 않고 과거 행동이 의사를 대신 결정하지도 않는 두 단계 구조다.\n\n모두에게 같은 선택지를 주는 방식과 누적 행동이 결말을 자동 결정하는 방식 사이의 혼합 구조다. 두 단계의 영향이 구분되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마지막 선택이 결말을 정해도 이전 행동이 선택지의 목록을 바꾸면 과정과 결심이 함께 결과에 참여한다. 플레이어는 해금한 범위 안에서 최종 가치를 고른다.\n\n부가 임무의 성과는 선택 가능한 결말로 보존되고 마지막 판단은 현재의 플레이어에게 남는다. 과정이 아무 의미 없게 되지도 않고 과거 행동이 의사를 대신 결정하지도 않는 두 단계 구조다.\n\n모두에게 같은 선택지를 주는 방식과 누적 행동이 결말을 자동 결정하는 방식 사이의 혼합 구조다. 두 단계의 영향이 구분되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

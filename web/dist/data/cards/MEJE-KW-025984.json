@@ -4,8 +4,8 @@
   "title": "죽음 앞에서 전하는 사랑 고백",
   "original": "DyingDeclarationOfLove",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02533",
+  "primary_tag_id": "ML-T02533",
   "description": {
     "definition": "자신이나 상대가 죽음을 앞둔 상황에서 더 미룰 수 없다는 절박함 속에 사랑을 고백하는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-008145의 고백자 자신의 임종뿐 아니라 상대의 임종도 포함하는 넓은 범위다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.010",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "둘 중 누군가를 잃기 전에 사랑한다고 전한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽음이 임박해 더 미룰 수 없다고 느낀 사람이 사랑을 밝힌다. 남은 시간이 짧다는 조건이 평소의 망설임을 넘어선다.\n\n상대가 살아남으면 고백의 기억이 관계를 바꿀 수 있다. 슬픈 분위기만 있는 고백과 실제 죽음의 위협은 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽음이 임박해 더 미룰 수 없다고 느낀 사람이 사랑을 밝힌다. 남은 시간이 짧다는 조건이 평소의 망설임을 넘어선다.\n\n상대가 살아남으면 고백의 기억이 관계를 바꿀 수 있다. 슬픈 분위기만 있는 고백과 실제 죽음의 위협은 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

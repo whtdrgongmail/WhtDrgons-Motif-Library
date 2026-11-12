@@ -5,21 +5,47 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "",
+    "definition": "일정 기간 여러 사람이 반복해서 사용해 널리 알려진 말이나 표현이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "많은 사람이 한동안 따라 쓰는 말이다. 작품 속 인물의 말버릇이 퍼져 유행어가 될 수도 있고, 사회에서 먼저 쓰이던 말이 작품에 들어갈 수도 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유행어의 핵심은 표현 자체의 새로움보다 특정 시기와 집단에서 반복되고 공유되는 사용 방식이다. 매체를 통해 퍼질 수도 있고 작은 공동체에서 먼저 사용되다가 넓어질 수도 있다.\n\n한 인물이 자주 말한다고 해서 곧바로 사회적 유행어가 되는 것은 아니다. 작품 안에서 그 인물을 알아보게 하는 반복 [[대사]]인지, 작품 밖의 사람들까지 따라 쓰는 표현인지를 구분하면 사용 범위가 명확해진다.\n\n한 인물의 특정 말을 관객이 따라 쓰고, 다른 작품에서도 그 말을 알아볼 수 있다는 전제로 인용한다면 작품의 말버릇이 유행어로 확장된 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유행어의 핵심은 표현 자체의 새로움보다 특정 시기와 집단에서 반복되고 공유되는 사용 방식이다. 매체를 통해 퍼질 수도 있고 작은 공동체에서 먼저 사용되다가 넓어질 수도 있다.\n\n한 인물이 자주 말한다고 해서 곧바로 사회적 유행어가 되는 것은 아니다. 작품 안에서 그 인물을 알아보게 하는 반복 [[대사]]인지, 작품 밖의 사람들까지 따라 쓰는 표현인지를 구분하면 사용 범위가 명확해진다."
+      ],
+      [
+        "사례",
+        "한 인물의 특정 말을 관객이 따라 쓰고, 다른 작품에서도 그 말을 알아볼 수 있다는 전제로 인용한다면 작품의 말버릇이 유행어로 확장된 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

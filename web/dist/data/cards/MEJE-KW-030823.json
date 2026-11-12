@@ -4,8 +4,8 @@
   "title": "음식 모양으로 만든 차량",
   "original": "The Dinnermobile",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01454",
+  "primary_tag_id": "ML-T01454",
   "description": {
     "definition": "차량의 차체를 특정 음식의 형태처럼 디자인한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "음식을 싣거나 판매하기만 하는 차량과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "차체 전체를 음식처럼 만들면 광고 그림을 붙이는 수준을 넘어 탈것의 형태가 상품의 이미지가 된다. 움직이는 거대한 음식이라는 낯섦은 광고와 어린이용 시각 유머에 모두 활용될 수 있다.\n\n음식을 실어 나르거나 판매한다는 기능만으로는 충분하지 않다. 실제로 차체의 외형이 음식과 닮아야 하며, 어떤 제품을 홍보하는지는 필수 조건이 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "차체 전체를 음식처럼 만들면 광고 그림을 붙이는 수준을 넘어 탈것의 형태가 상품의 이미지가 된다. 움직이는 거대한 음식이라는 낯섦은 광고와 어린이용 시각 유머에 모두 활용될 수 있다.\n\n음식을 실어 나르거나 판매한다는 기능만으로는 충분하지 않다. 실제로 차체의 외형이 음식과 닮아야 하며, 어떤 제품을 홍보하는지는 필수 조건이 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

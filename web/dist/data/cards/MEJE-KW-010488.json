@@ -4,8 +4,8 @@
   "title": "고의로 굶기는 가해",
   "original": "Forced Starvation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00852",
+  "primary_tag_id": "ML-T00852",
   "description": {
     "definition": "가해자가 음식에 대한 접근을 막아 인물을 복종시키거나 처벌한다. 피해자의 생존을 위협하는 권력 남용으로 다룬다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "음식에 대한 접근을 의도적으로 막아 복종과 처벌의 수단으로 삼는 가해다. 생존에 필요한 자원이 통제의 도구가 된다.\n\n피해자는 힘이 약해져 저항과 탈출의 기회도 줄어든다. 음식의 제공을 보상처럼 다루면 기본적인 필요가 권력자의 선심으로 바뀌는 구조가 드러난다.\n\n공동의 식량 부족과 고의적인 박탈은 다른 상황이다. 의도와 자원의 분배를 구분해야 하며 대상의 잘못을 이유로 가해가 자동 정당화되는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "음식에 대한 접근을 의도적으로 막아 복종과 처벌의 수단으로 삼는 가해다. 생존에 필요한 자원이 통제의 도구가 된다.\n\n피해자는 힘이 약해져 저항과 탈출의 기회도 줄어든다. 음식의 제공을 보상처럼 다루면 기본적인 필요가 권력자의 선심으로 바뀌는 구조가 드러난다.\n\n공동의 식량 부족과 고의적인 박탈은 다른 상황이다. 의도와 자원의 분배를 구분해야 하며 대상의 잘못을 이유로 가해가 자동 정당화되는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

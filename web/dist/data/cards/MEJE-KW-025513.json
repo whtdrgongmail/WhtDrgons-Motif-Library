@@ -4,8 +4,8 @@
   "title": "소리를 조종하는 무기",
   "original": "Sonic Stunner",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "소리의 발생이나 성질을 제어하여 효과를 내는 허구의 무기 장치이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 음향의 효과나 장치 제작법이 아니라 작품 안의 초자연적·가상 기술 규칙이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소리가 단순한 효과음이 아니라 공격이나 제압의 원리가 된다. 음의 발생과 방향 등을 제어하는 가상 무기다.\n\n보이지 않는 힘을 청각적 표현으로 전달할 수 있다. 방어와 회피의 조건도 물체의 궤적보다 소리의 전달 방식에 연결된다.\n\n현실 장치의 제작이나 성능을 설명하는 개념은 아니다. 작품이 정한 작동 규칙과 실제 음향 현상을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소리가 단순한 효과음이 아니라 공격이나 제압의 원리가 된다. 음의 발생과 방향 등을 제어하는 가상 무기다.\n\n보이지 않는 힘을 청각적 표현으로 전달할 수 있다. 방어와 회피의 조건도 물체의 궤적보다 소리의 전달 방식에 연결된다.\n\n현실 장치의 제작이나 성능을 설명하는 개념은 아니다. 작품이 정한 작동 규칙과 실제 음향 현상을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

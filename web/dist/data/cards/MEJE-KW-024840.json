@@ -4,8 +4,8 @@
   "title": "화장실로 숨어 문을 잠그기",
   "original": "Locked in the Bathroom",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02601",
+  "primary_tag_id": "ML-T02601",
   "description": {
     "definition": "인물이 불편한 감정·대면·추격을 피하려 화장실이나 칸 안으로 들어가 스스로 문을 잠그는 행동이다.",
     "detail": "작품 사례: 아치 코믹스의 《[[소닉 더 헤지혹]]》에서 라라수는 수호자가 되려는 뜻을 부모가 반대하자 말다툼을 피해 화장실에 들어가 문을 잠근다.",
@@ -13,10 +13,10 @@
     "boundary": "타인이 벌로 가두거나 우연히 못 나오는 상황과 달리 스스로 피신하는 선택이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불편한 상황을 피하려 화장실에 들어가 문을 잠근다. 혼자 있을 수 있는 장소가 일시적인 피신처가 된다.\n\n주변은 대화를 시도하거나 기다리며 관계의 갈등을 이어 간다. 신체적인 필요로 들어간 행동과 감정적 회피는 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불편한 상황을 피하려 화장실에 들어가 문을 잠근다. 혼자 있을 수 있는 장소가 일시적인 피신처가 된다.\n\n주변은 대화를 시도하거나 기다리며 관계의 갈등을 이어 간다. 신체적인 필요로 들어간 행동과 감정적 회피는 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

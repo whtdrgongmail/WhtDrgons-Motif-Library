@@ -6,27 +6,27 @@
   "aliases": [
     "매트릭스"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《매트릭스(연작)》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《매트릭스(연작)》 연작은 세라프와 키메이커를 속내를 쉽게 읽을 수 없는 동아시아계 인물로 배치하여 신비로운 인상을 만든다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "해커 네오와 조력자 모피어스, 트리니티를 중심으로 한 공상과학 액션 영화에서 확장한 작품군이다. [[인공지능]] 스미스와의 대립에 철학적·형이상학적 질문을 결합한다.\n\n시간을 늘인 듯한 시각 효과는 격렬한 액션을 보는 방식을 바꾸는 대표적인 표현이 되었다. 원래 영화들의 흐름과 나중에 다시 제작한 후속편을 구분하며, 개별 작품의 설정을 작품군 전체에 소급하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "해커 네오와 조력자 모피어스, 트리니티를 중심으로 한 공상과학 액션 영화에서 확장한 작품군이다. [[인공지능]] 스미스와의 대립에 철학적·형이상학적 질문을 결합한다.\n\n시간을 늘인 듯한 시각 효과는 격렬한 액션을 보는 방식을 바꾸는 대표적인 표현이 되었다. 원래 영화들의 흐름과 나중에 다시 제작한 후속편을 구분하며, 개별 작품의 설정을 작품군 전체에 소급하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

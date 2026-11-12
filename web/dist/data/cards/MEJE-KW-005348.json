@@ -4,8 +4,8 @@
   "title": "화면 전체를 한 색조로 물들이기",
   "original": "Color Wash",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01870",
+  "primary_tag_id": "ML-T01870",
   "description": {
     "definition": "영상의 넓은 범위에 비슷한 색조를 적용해 장면들의 분위기를 통일한다. 색의 선택이 장소의 온도와 시대감, 감정을 좌우한다. 시간이 멈춘 구간에만 다른 색조를 입히면 [[시간 정지를 나타내는 색 변화]]의 신호가 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.004.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화면의 넓은 영역을 유사한 색조로 조정하여 시각적 통일감을 만드는 연출이다. 촬영과 조명, 세트의 색 선택이나 후반의 색 보정으로 구현할 수 있다.\n\n따뜻한 지역과 차가운 공간을 구분하거나 회상과 현재를 다르게 보이게 하는 데 쓰인다. 인물의 감정과 화면 분위기가 함께 변하면 주관적인 경험도 표현할 수 있다.\n\n특정 물체 하나의 색을 강조하는 것과는 범위가 다르다. 지나친 색조 통일은 세부의 구별을 약화시킬 수 있으므로, 전체적인 분위기와 중요한 정보의 식별 가능성이 함께 조절된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화면의 넓은 영역을 유사한 색조로 조정하여 시각적 통일감을 만드는 연출이다. 촬영과 조명, 세트의 색 선택이나 후반의 색 보정으로 구현할 수 있다.\n\n따뜻한 지역과 차가운 공간을 구분하거나 회상과 현재를 다르게 보이게 하는 데 쓰인다. 인물의 감정과 화면 분위기가 함께 변하면 주관적인 경험도 표현할 수 있다.\n\n특정 물체 하나의 색을 강조하는 것과는 범위가 다르다. 지나친 색조 통일은 세부의 구별을 약화시킬 수 있으므로, 전체적인 분위기와 중요한 정보의 식별 가능성이 함께 조절된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

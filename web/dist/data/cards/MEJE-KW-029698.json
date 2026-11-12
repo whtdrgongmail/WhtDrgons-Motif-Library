@@ -4,8 +4,8 @@
   "title": "다른 참가자의 놀이를 망가뜨리며 즐기기",
   "original": "The Troll",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02522",
+  "primary_tag_id": "ML-T02522",
   "description": {
     "definition": "다른 사람과 함께 즐기는 대신 그들의 불편·좌절·분노를 자신의 재미로 삼아 진행과 관계를 고의로 방해하는 참가자다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "모두가 동의한 짓궂은 역할연기나 경쟁에서 상대를 이기는 것 자체와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.014.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "자기 캐릭터를 연기한다는 핑계로 다른 사람의 시간을 망가뜨린다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "함께 노는 다른 사람의 좌절과 분노를 재미로 삼아 진행을 고의로 방해한다. 공동의 즐거움보다 타인의 불편을 자신의 보상으로 사용하는 참가자다.\n\n인물들 사이의 갈등을 연기하는 일과 실제 참가자의 놀이를 망치는 일은 다르다. 집단이 무엇에 동의했는지를 기준으로 방해의 성격을 판단할 수 있다.\n\n모두가 합의한 짓궂은 역할이나 정당한 경쟁에서 이기는 행동과 다르다. 타인의 즐거움을 해치는 의도와 효과가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "함께 노는 다른 사람의 좌절과 분노를 재미로 삼아 진행을 고의로 방해한다. 공동의 즐거움보다 타인의 불편을 자신의 보상으로 사용하는 참가자다.\n\n인물들 사이의 갈등을 연기하는 일과 실제 참가자의 놀이를 망치는 일은 다르다. 집단이 무엇에 동의했는지를 기준으로 방해의 성격을 판단할 수 있다.\n\n모두가 합의한 짓궂은 역할이나 정당한 경쟁에서 이기는 행동과 다르다. 타인의 즐거움을 해치는 의도와 효과가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

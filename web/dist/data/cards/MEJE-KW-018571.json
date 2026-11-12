@@ -4,8 +4,8 @@
   "title": "일행을 제때 모두 쓰러뜨려야 멈추는 부활",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
     "definition": "한 적을 쓰러뜨린 뒤 정해진 시간 안에 동료 적들까지 처리하지 못하면 먼저 쓰러진 적이 다시 일어나는 전투 규칙이다. 처치의 순서와 간격이 승리 조건이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "다른 적의 생존 여부와 무관하게 정해진 횟수만 부활하는 적과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "적 하나를 쓰러뜨린 뒤 일정 시간 안에 나머지 적도 처리해야 한다. 동료가 살아 있으면 먼저 쓰러진 적이 다시 일어나므로 처치의 간격이 승리 조건이 된다.\n\n여러 적의 체력을 함께 조절하거나 연속 처치를 준비해야 한다. 개별 적에게 피해를 많이 주는 것과 집단 전체를 끝내는 것이 다른 과제가 된다.\n\n동료의 생존과 관계없이 정해진 횟수만 되살아나는 적과 다르다. 부활이 중단되는 조건은 다른 적들의 처리 시점에 연결되어 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "적 하나를 쓰러뜨린 뒤 일정 시간 안에 나머지 적도 처리해야 한다. 동료가 살아 있으면 먼저 쓰러진 적이 다시 일어나므로 처치의 간격이 승리 조건이 된다.\n\n여러 적의 체력을 함께 조절하거나 연속 처치를 준비해야 한다. 개별 적에게 피해를 많이 주는 것과 집단 전체를 끝내는 것이 다른 과제가 된다.\n\n동료의 생존과 관계없이 정해진 횟수만 되살아나는 적과 다르다. 부활이 중단되는 조건은 다른 적들의 처리 시점에 연결되어 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

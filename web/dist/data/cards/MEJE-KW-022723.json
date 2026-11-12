@@ -5,8 +5,8 @@
   "original": "A Ladder Stops Your Fall",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "낙하 중인 캐릭터가 사다리를 붙잡거나 접촉하면 낙하 운동이 즉시 사다리 이동 상태로 바뀌는 게임 규칙이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "현실의 안전 장비나 충격을 묘사한 붙잡기와 구별하며, 모든 게임에 적용되는 규칙은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "낙하 중인 캐릭터가 사다리를 잡거나 닿는 즉시 사다리 이동 상태가 된다. 떨어지던 운동이 접촉 판정으로 바로 중단되는 게임 규칙이다.\n\n수직 경로의 사다리는 추락 중에도 이동을 회복할 지점이 될 수 있다. 낙하 상태와 오르기 상태를 바꾸는 처리 방식이 경로 선택이나 규칙의 허점을 만든다.\n\n현실에서 안전하게 붙잡는 방법이나 충격의 설명과 다르다. 모든 게임에서 가능한 행동도 아니므로 개별 판정 규칙을 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "낙하 중인 캐릭터가 사다리를 잡거나 닿는 즉시 사다리 이동 상태가 된다. 떨어지던 운동이 접촉 판정으로 바로 중단되는 게임 규칙이다.\n\n수직 경로의 사다리는 추락 중에도 이동을 회복할 지점이 될 수 있다. 낙하 상태와 오르기 상태를 바꾸는 처리 방식이 경로 선택이나 규칙의 허점을 만든다.\n\n현실에서 안전하게 붙잡는 방법이나 충격의 설명과 다르다. 모든 게임에서 가능한 행동도 아니므로 개별 판정 규칙을 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

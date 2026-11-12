@@ -4,8 +4,8 @@
   "title": "애그로테크",
   "original": "Aggrotech",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008393",
+  "primary_tag_id": "MEJE-KW-008393",
   "description": {
     "definition": "[[일렉트로 인더스트리얼]]에 강한 댄스 추진력과 빠르고 공격적인 전자음을 더한 하위 양식이다.",
     "detail": "작품 사례: Combichrist의 〈[[디스 이즈 마이 라이플]]〉는 이 음악 양식의 실제 곡 사례다.",
@@ -13,18 +13,21 @@
     "boundary": "인접 양식과 혼합될 수 있으므로 특정 악기 하나나 창작자의 소속만으로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.304.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일렉트로 인더스트리얼의 기반에 빠르고 공격적인 전자음과 댄스 추진력이 강조된다. 속도와 리듬의 압력이 장르의 인상을 만든다.\n\n개별 곡에서 어떤 요소가 중심인지 확인하면 인접 양식과의 혼합을 설명할 수 있다. 이름보다 실제 소리의 결합이 판단 근거가 된다.\n\n악기 하나나 창작자의 소속만으로 모든 곡을 분류하지 않는다. 다른 음악 양식의 요소가 함께 나타날 수 있다.\n\nCombichrist의 〈[[디스 이즈 마이 라이플]]〉는 정본이 제시한 애그로테크 곡 사례이다.\n\n[[디스 이즈 마이 라이플]]",
+    "sections": [
+      [
+        "상세 설명",
+        "일렉트로 인더스트리얼의 기반에 빠르고 공격적인 전자음과 댄스 추진력이 강조된다. 속도와 리듬의 압력이 장르의 인상을 만든다.\n\n개별 곡에서 어떤 요소가 중심인지 확인하면 인접 양식과의 혼합을 설명할 수 있다. 이름보다 실제 소리의 결합이 판단 근거가 된다.\n\n악기 하나나 창작자의 소속만으로 모든 곡을 분류하지 않는다. 다른 음악 양식의 요소가 함께 나타날 수 있다."
+      ],
+      [
+        "사례",
+        "Combichrist의 〈[[디스 이즈 마이 라이플]]〉는 정본이 제시한 애그로테크 곡 사례이다."
+      ],
+      [
+        "관련 작품",
+        "[[디스 이즈 마이 라이플]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

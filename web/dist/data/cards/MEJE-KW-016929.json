@@ -9,12 +9,12 @@
   "description": {
     "definition": "이미 약속했다는 이유로 불리한 결과나 유혹이 있어도 그 말을 지키려 하며 약속 파기를 제안받는 것을 모욕처럼 여기는 태도다.",
     "detail": "죽은 사람과의 약속이나 잘못 알고 한 약속에도 구속을 느낄 수 있다. 약속의 문구를 좁게 해석하거나 상대의 허락으로 해제하는 [[갈등]]이 뒤따를 수 있다.\n\n작품 사례: 《[[드래곤볼]]》에서 오공은 결혼을 음식으로 착각하고 했던 약속도 자신의 말이라며 지켜 치치와 결혼한다.",
-    "usage": "외부의 처벌보다 스스로 한 말이 행동의 근거인지 살핀다.",
+    "usage": "외부의 처벌보다 스스로 한 말이 행동의 근거인지 확인한다.",
     "boundary": "좋은 일이어서 하는 행동이나 강제로 계약을 이행하는 것만으로는 충분하지 않다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
     "code": "11",
     "review_status": "provisional",
@@ -22,21 +22,38 @@
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "아무도 몰라도 내가 말했으니 반드시 지킨다.\n\n작품 사례: 《[[드래곤볼]]》에서 오공은 결혼을 음식으로 착각하고 했던 약속도 자신의 말이라며 지켜 치치와 결혼한다.",
+    "easy_ko": "아무도 몰라도 내가 말했으니 반드시 지킨다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001375",
+      "work_card_id": "MM-MEDIA-002561",
       "description_ko": "《드래곤볼》에서 오공은 결혼을 음식으로 착각하고 했던 약속도 자신의 말이라며 지켜 치치와 결혼한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽은 사람과의 약속이나 잘못 알고 한 약속에도 구속을 느낄 수 있다. 약속의 문구를 좁게 해석하거나 상대의 허락으로 해제하는 [[갈등]]이 뒤따를 수 있다.\n\n좋은 일이어서 하는 행동이나 강제로 계약을 이행하는 것만으로는 충분하지 않다.\n\n《[[드래곤볼(만화)]]》에서 오공은 결혼을 음식으로 착각하고 했던 약속도 자신의 말이라며 지켜 치치와 결혼한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽은 사람과의 약속이나 잘못 알고 한 약속에도 구속을 느낄 수 있다. 약속의 문구를 좁게 해석하거나 상대의 허락으로 해제하는 [[갈등]]이 뒤따를 수 있다.\n\n좋은 일이어서 하는 행동이나 강제로 계약을 이행하는 것만으로는 충분하지 않다."
+      ],
+      [
+        "관련 작품",
+        "《[[드래곤볼(만화)]]》에서 오공은 결혼을 음식으로 착각하고 했던 약속도 자신의 말이라며 지켜 치치와 결혼한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

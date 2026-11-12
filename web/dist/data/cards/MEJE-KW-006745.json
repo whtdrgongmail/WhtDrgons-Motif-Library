@@ -4,8 +4,8 @@
   "title": "농담 아닌 악당",
   "original": "Dead Serious",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00687",
+  "primary_tag_id": "ML-T00687",
   "description": {
     "definition": "위협이 가벼워 보이던 악당이 중요한 인물을 해치며 자신의 위험성을 입증한다. 작품의 분위기를 한층 무겁게 바꾸는 사건이다. 악당의 위협을 확실히 알리려고 [[죽은 조력자]]가 쓰일 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "06",
+    "code": "06.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가볍게 보이던 악역이 중요한 인물을 죽여 실제로 심각한 위협임을 증명하는 전개다. 익숙한 생존의 기대가 깨져 이후의 긴장 수준이 달라진다.\n\n새 악역의 소개와 기존 악역의 재평가 모두에 사용할 수 있다. 과거 동료가 악해진 경우에는 되돌리려던 인물들이 실제로 맞서야 한다는 전환점이 된다.\n\n그냥 잔인한 장면을 보여 주는 것보다 관객의 평가 변화가 중요하다. 희생한 인물의 독립적인 의미가 있는지 위협을 과시하는 도구로만 소비되는지도 구분할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가볍게 보이던 악역이 중요한 인물을 죽여 실제로 심각한 위협임을 증명하는 전개다. 익숙한 생존의 기대가 깨져 이후의 긴장 수준이 달라진다.\n\n새 악역의 소개와 기존 악역의 재평가 모두에 사용할 수 있다. 과거 동료가 악해진 경우에는 되돌리려던 인물들이 실제로 맞서야 한다는 전환점이 된다.\n\n그냥 잔인한 장면을 보여 주는 것보다 관객의 평가 변화가 중요하다. 희생한 인물의 독립적인 의미가 있는지 위협을 과시하는 도구로만 소비되는지도 구분할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

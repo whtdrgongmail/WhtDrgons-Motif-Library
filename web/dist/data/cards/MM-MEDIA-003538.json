@@ -2,24 +2,67 @@
   "id": "MM-MEDIA-003538",
   "kind": "work",
   "title": "둠(게임 시리즈)",
-  "original": "",
+  "original": "DOOM",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
-    "definition": "",
+    "definition": "《둠》은 여러 비디오게임과 관련 작품을 포함하는 게임 작품군이다. 이 카드는 단일 출시작이 아니라 공통 표제와 세계 설정으로 연결된 시리즈를 가리킨다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "02.021",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "여러 게임으로 이어진 《둠》 시리즈를 한곳에서 찾기 위한 카드다. 특정 한 편의 출시 정보와 시리즈 전체의 특징을 구별한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000262",
+      "card_id": "MM-MEDIA-003538",
+      "label_ko": "DOOM 공식 사이트",
+      "icon_key": "website",
+      "url": "https://doom.bethesda.net/en",
+      "description_ko": "시리즈의 개별 게임과 공식 소개를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "《둠》의 개별 게임은 출시 연도, 플랫폼, 시스템과 이야기 전개가 다르다. 출판사 공식 사이트도 여러 작품을 같은 시리즈의 관계 속에서 소개한다. 따라서 이 카드는 작품군이며 각 게임의 사건을 모든 판본에 공통인 설정으로 단정하지 않는다.\n\n기존 연결 문맥은 화성의 연구 시설에서 진행된 실험이 지옥으로 이어지는 통로와 재앙의 배경이 된다는 사례를 담고 있다. 이 사례를 사용할 때는 해당 게임 또는 판본을 특정해야 한다. 연구 시설이라는 [[고립된 공간]], 위험한 실험, 통로의 개방은 서로 구분되는 설정 요소다.\n\n화성의 연구 시설과 실험으로 생긴 지옥의 통로를 다루는 판본에서는 멀리 떨어진 연구 장소가 위기와 탈출의 공간이 된다. 이를 《둠》의 모든 작품에서 동일하게 나타나는 사건으로 확대하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《둠》의 개별 게임은 출시 연도, 플랫폼, 시스템과 이야기 전개가 다르다. 출판사 공식 사이트도 여러 작품을 같은 시리즈의 관계 속에서 소개한다. 따라서 이 카드는 작품군이며 각 게임의 사건을 모든 판본에 공통인 설정으로 단정하지 않는다.\n\n기존 연결 문맥은 화성의 연구 시설에서 진행된 실험이 지옥으로 이어지는 통로와 재앙의 배경이 된다는 사례를 담고 있다. 이 사례를 사용할 때는 해당 게임 또는 판본을 특정해야 한다. 연구 시설이라는 [[고립된 공간]], 위험한 실험, 통로의 개방은 서로 구분되는 설정 요소다."
+      ],
+      [
+        "사례",
+        "화성의 연구 시설과 실험으로 생긴 지옥의 통로를 다루는 판본에서는 멀리 떨어진 연구 장소가 위기와 탈출의 공간이 된다. 이를 《둠》의 모든 작품에서 동일하게 나타나는 사건으로 확대하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

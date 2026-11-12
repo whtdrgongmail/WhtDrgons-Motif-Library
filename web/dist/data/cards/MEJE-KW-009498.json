@@ -4,8 +4,8 @@
   "title": "기억상실 가장",
   "original": "Faking Amnesia",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00710",
+  "primary_tag_id": "ML-T00710",
   "description": {
     "definition": "인물이 불리한 사실을 피하거나 다른 목적을 이루려고 기억을 잃은 척한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "06",
+    "code": "06.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 기억을 잃은 척하여 책임과 불리한 질문을 피하거나 다른 목적을 이루는 행동이다. 모른다는 주장이 의도적인 위장이 된다.\n\n부끄러운 사건을 감추거나 상대의 반응을 관찰하는 데 사용할 수 있다. 필요한 정보만 기억하면 선택적인 망각의 모순이 드러나기 쉽다.\n\n실제 기억상실과는 다르다. 주변 사람이 믿는 상태와 인물의 실제 지식 사이의 차이가 핵심이며, 예상하지 못한 의무와 취급이 새 부담이 될 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 기억을 잃은 척하여 책임과 불리한 질문을 피하거나 다른 목적을 이루는 행동이다. 모른다는 주장이 의도적인 위장이 된다.\n\n부끄러운 사건을 감추거나 상대의 반응을 관찰하는 데 사용할 수 있다. 필요한 정보만 기억하면 선택적인 망각의 모순이 드러나기 쉽다.\n\n실제 기억상실과는 다르다. 주변 사람이 믿는 상태와 인물의 실제 지식 사이의 차이가 핵심이며, 예상하지 못한 의무와 취급이 새 부담이 될 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

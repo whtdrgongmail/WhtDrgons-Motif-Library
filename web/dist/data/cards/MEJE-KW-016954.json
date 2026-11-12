@@ -4,8 +4,8 @@
   "title": "애인이 있다는 말로 접근을 거절하기",
   "original": "\"I Have a Boyfriend\" Excuse",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01971",
+  "primary_tag_id": "ML-T01971",
   "description": {
     "definition": "이미 연인이 있다고 말해 다른 사람의 구애나 접근을 중단시키려는 대응이다.",
     "detail": "실제 연인의 존재는 필수 조건이 아니다. 말만으로는 믿지 않는 상대가 증거를 요구하거나 제삼자가 대신 말할 수도 있다.\n\n작품 사례: 《[[월간순정 노자키 군]]》에서 미코시바는 거절을 받아들이지 않는 고백 상대에게 애인이 있다고 했다가 증거를 요구받아 가짜 여자친구를 구한다.",
@@ -13,19 +13,19 @@
     "boundary": "현장에 있는 사람이 직접 연인 행세를 해 구조하는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "나 애인 있어요라는 말로 상대를 물리친다.\n\n작품 사례: 《[[월간순정 노자키 군]]》에서 미코시바는 거절을 받아들이지 않는 고백 상대에게 애인이 있다고 했다가 증거를 요구받아 가짜 여자친구를 구한다.",
+    "easy_ko": "나 애인 있어요라는 말로 상대를 물리친다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실제 연인의 존재는 필수 조건이 아니다. 말만으로는 믿지 않는 상대가 증거를 요구하거나 제삼자가 대신 말할 수도 있다.\n\n현장에 있는 사람이 직접 연인 행세를 해 구조하는 방식과 구별한다.\n\n《[[월간순정 노자키 군]]》에서 미코시바는 거절을 받아들이지 않는 고백 상대에게 애인이 있다고 했다가 증거를 요구받아 가짜 여자친구를 구한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실제 연인의 존재는 필수 조건이 아니다. 말만으로는 믿지 않는 상대가 증거를 요구하거나 제삼자가 대신 말할 수도 있다.\n\n현장에 있는 사람이 직접 연인 행세를 해 구조하는 방식과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[월간순정 노자키 군]]》에서 미코시바는 거절을 받아들이지 않는 고백 상대에게 애인이 있다고 했다가 증거를 요구받아 가짜 여자친구를 구한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

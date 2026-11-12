@@ -4,8 +4,8 @@
   "title": "숨겨진 세계가 재난으로 끝나기",
   "original": "Cataclysm Climax",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00662",
+  "primary_tag_id": "ML-T00662",
   "description": {
     "definition": "이야기 끝에 지진이나 폭발이 오래 감춰진 장소를 무너뜨린다. 탐험의 성취와 그곳을 잃는 상실이 한 결말에 겹친다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.007.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "탐험하던 고립된 세계가 결말 무렵 대재난으로 파괴되는 전개다. 섬이나 지하 문명 같은 장소에서 지진과 화산 활동 등이 발생하여 인물들이 급히 탈출해야 한다.\n\n재난은 미리 암시될 수도 있고 갑작스럽게 발생할 수도 있다. 자연 현상처럼 보이기도 하지만 방문자의 행동이나 전투 중 파손이 세계의 균형을 무너뜨리는 원인이 되기도 한다.\n\n발견한 장소를 충분히 탐색한 뒤 그곳을 상실하게 한다는 구조가 특징이다. 적을 이기는 목표가 생존과 탈출로 전환되며, 재방문의 가능성이나 발견한 세계가 외부에 알려질 가능성도 제한된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "탐험하던 고립된 세계가 결말 무렵 대재난으로 파괴되는 전개다. 섬이나 지하 문명 같은 장소에서 지진과 화산 활동 등이 발생하여 인물들이 급히 탈출해야 한다.\n\n재난은 미리 암시될 수도 있고 갑작스럽게 발생할 수도 있다. 자연 현상처럼 보이기도 하지만 방문자의 행동이나 전투 중 파손이 세계의 균형을 무너뜨리는 원인이 되기도 한다.\n\n발견한 장소를 충분히 탐색한 뒤 그곳을 상실하게 한다는 구조가 특징이다. 적을 이기는 목표가 생존과 탈출로 전환되며, 재방문의 가능성이나 발견한 세계가 외부에 알려질 가능성도 제한된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

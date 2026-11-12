@@ -4,8 +4,8 @@
   "title": "크로스오버에서 만난 연인",
   "original": "Crossover Couple",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "다른 작품의 인물 둘이 공동 이야기에서 만나 연애 관계를 맺는다. 만남이 짧게 끝나더라도 원래 이야기 사이의 거리를 잠시 지운다. 공식 공동 이야기에서 맺어진 연애와 팬들이 별개 작품 인물을 엮는 [[서로 다른 작품 인물의 팬 연애 조합]]는 성립하는 위치가 다르다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 다른 작품에 속한 두 인물이 공동 이야기에서 만나 연인이 되는 설정이다. 각 작품의 관계가 새로운 만남으로 확장되며, 팬의 해석 속에서 성립하는 [[서로 다른 작품 인물의 팬 연애 조합]]와는 관계가 제시되는 위치가 다르다.",
     "review_status": "reviewed",
@@ -30,5 +36,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 다른 작품의 인물 두 명이 공동 이야기에서 만나 연애 관계를 맺는 구성이다. 원래 각기 다른 관계망에 있던 인물들의 만남이 새로운 감정선과 선택을 만들며, 짧은 공동 출연이어도 기존 이야기 사이의 거리를 잠시 좁힐 수 있다.\n\n두 인물이 함께 등장하더라도 연애 관계가 제시되지 않으면 해당하지 않는다. 또한 공식 공동 이야기에서 실제로 형성된 관계와 팬들이 별개 작품의 인물을 짝지어 해석하는 [[서로 다른 작품 인물의 팬 연애 조합]]은 성립 위치가 다르다.\n\n가상 예시: 공동 임무를 수행하던 두 인물이 각자의 임무 복귀를 앞두고 관계를 이어갈 방법을 선택한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 다른 작품의 인물 두 명이 공동 이야기에서 만나 연애 관계를 맺는 구성이다. 원래 각기 다른 관계망에 있던 인물들의 만남이 새로운 감정선과 선택을 만들며, 짧은 공동 출연이어도 기존 이야기 사이의 거리를 잠시 좁힐 수 있다.\n\n두 인물이 함께 등장하더라도 연애 관계가 제시되지 않으면 해당하지 않는다. 또한 공식 공동 이야기에서 실제로 형성된 관계와 팬들이 별개 작품의 인물을 짝지어 해석하는 [[서로 다른 작품 인물의 팬 연애 조합]]은 성립 위치가 다르다."
+      ],
+      [
+        "사례",
+        "가상 예시: 공동 임무를 수행하던 두 인물이 각자의 임무 복귀를 앞두고 관계를 이어갈 방법을 선택한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

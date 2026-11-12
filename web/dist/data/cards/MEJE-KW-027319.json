@@ -4,8 +4,8 @@
   "title": "탑 꼭대기의 천문 마법 작업실",
   "original": "Wizard Workshop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T02580",
+  "primary_tag_id": "ML-T02580",
   "description": {
     "definition": "마법사의 높은 작업 공간에 망원경과 기이한 연구 도구를 놓아 별의 관찰과 [[마법]] 연구를 연결하는 장소 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "별 지도를 쓰는 모든 작업실과 달리 현재 항목은 탑 상층의 연구 공간이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "높은 곳의 작업실에 별을 관찰하는 도구와 신비한 연구 장비를 함께 배치한다. 하늘과 가까운 공간은 천체의 움직임과 마법 지식을 시각적으로 연결한다.\n\n방의 지붕과 창, 쌓인 기구는 연구자의 고립과 전문성을 표현할 수 있다. 과학적인 관찰 도구와 [[마법]]의 소품이 공존하면서 세계의 지식 체계도 드러난다.\n\n원문은 전통적인 마법 작업실 전반을 다룬다. 정본은 탑 꼭대기와 천문 관찰의 결합에 초점을 두므로 모든 마법사의 방이 같은 시설을 갖는다고 보지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "높은 곳의 작업실에 별을 관찰하는 도구와 신비한 연구 장비를 함께 배치한다. 하늘과 가까운 공간은 천체의 움직임과 마법 지식을 시각적으로 연결한다.\n\n방의 지붕과 창, 쌓인 기구는 연구자의 고립과 전문성을 표현할 수 있다. 과학적인 관찰 도구와 [[마법]]의 소품이 공존하면서 세계의 지식 체계도 드러난다.\n\n원문은 전통적인 마법 작업실 전반을 다룬다. 정본은 탑 꼭대기와 천문 관찰의 결합에 초점을 두므로 모든 마법사의 방이 같은 시설을 갖는다고 보지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

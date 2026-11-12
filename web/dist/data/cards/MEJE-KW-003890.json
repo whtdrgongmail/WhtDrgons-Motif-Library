@@ -4,8 +4,8 @@
   "title": "붙잡은 적을 본거지 깊숙이 데려오기",
   "original": "Bring Him to Me",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00781",
+  "primary_tag_id": "ML-T00781",
   "description": {
     "definition": "권력자가 포로를 자기 공간의 중심으로 데려와 직접 만나려 한다. 힘을 과시하는 선택이 내부의 약점을 드러낼 수도 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "붙잡은 적을 우두머리의 본거지 깊숙한 곳으로 데려오라는 명령이다. 심문과 과시, 개인적인 대면을 위해 적을 살아 있게 둔다는 선택이 전제된다.\n\n포로가 지휘실과 주요 장치에 가까워지면서 탈출과 파괴의 기회를 얻을 수 있다. 경비까지 물리치면 지배자가 자신에게 유리한 공간을 오히려 적에게 제공하는 역설이 생긴다.\n\n주인공이 이 결과를 노려 일부러 붙잡혔다면 같은 사건에 별도의 침투 전략이 겹친다. 모든 포로 이송이 아니라 권력의 중심으로 적을 접근시키는 위험한 선택이 특징이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "붙잡은 적을 우두머리의 본거지 깊숙한 곳으로 데려오라는 명령이다. 심문과 과시, 개인적인 대면을 위해 적을 살아 있게 둔다는 선택이 전제된다.\n\n포로가 지휘실과 주요 장치에 가까워지면서 탈출과 파괴의 기회를 얻을 수 있다. 경비까지 물리치면 지배자가 자신에게 유리한 공간을 오히려 적에게 제공하는 역설이 생긴다.\n\n주인공이 이 결과를 노려 일부러 붙잡혔다면 같은 사건에 별도의 침투 전략이 겹친다. 모든 포로 이송이 아니라 권력의 중심으로 적을 접근시키는 위험한 선택이 특징이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

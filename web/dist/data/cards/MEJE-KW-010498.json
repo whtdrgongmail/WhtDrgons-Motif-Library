@@ -4,8 +4,8 @@
   "title": "재판을 무효로 돌리려는 술책",
   "original": "Forcing a Mistrial",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "인물이 불리한 판결을 피하거나 재판을 다시 열기 위해 심리의 공정성을 무너뜨리는 일을 벌인다. 법정 [[서사]]에서 절차의 허점을 갈등으로 쓴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불리한 재판의 진행을 무효화하거나 다시 시작하게 하려고 공정한 심리를 훼손하는 구성이다. 실체적 진실보다 절차의 결과를 조작한다.\n\n인물은 현재 판결을 피하기 위해 재판 참가자의 신뢰와 판단에 영향을 주려 한다. 성공해도 혐의의 해결과 무죄 확인은 별개로 남아 다음 갈등이 이어질 수 있다.\n\n정당한 절차 위반의 지적과 의도적인 훼손은 다르다. 작품의 법정 관습과 실제 관할의 절차를 구분해야 하며 다시 재판한다는 사실이 곧 유리한 결과를 뜻하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불리한 재판의 진행을 무효화하거나 다시 시작하게 하려고 공정한 심리를 훼손하는 구성이다. 실체적 진실보다 절차의 결과를 조작한다.\n\n인물은 현재 판결을 피하기 위해 재판 참가자의 신뢰와 판단에 영향을 주려 한다. 성공해도 혐의의 해결과 무죄 확인은 별개로 남아 다음 갈등이 이어질 수 있다.\n\n정당한 절차 위반의 지적과 의도적인 훼손은 다르다. 작품의 법정 관습과 실제 관할의 절차를 구분해야 하며 다시 재판한다는 사실이 곧 유리한 결과를 뜻하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

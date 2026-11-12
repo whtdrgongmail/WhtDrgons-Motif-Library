@@ -6,27 +6,27 @@
   "aliases": [
     "킹덤 하츠"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《킹덤 하츠(연작)》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《킹덤 하츠(연작)》에서는 모그리가 운영하는 합성점에 모은 재료를 가져가 물약과 액세서리, 키블레이드 등을 만들고, 강력한 물건일수록 희귀한 재료가 필요해진다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -83,5 +83,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《[[킹덤 하츠]]》는 스퀘어 에닉스와 디즈니가 공동 전개하는 액션 롤플레잉 게임 시리즈다. 소라와 친구들을 중심으로 디즈니의 여러 세계와 스퀘어 계열 인물이 만난다. 서로 다른 작품의 무대를 여행하면서도 마음과 어둠, 세계의 연결이라는 공통 설정이 전체 이야기를 묶는다.\n\n첫 이야기에서 소라는 하트리스의 습격으로 고향을 잃고 리쿠와 카이리를 찾아 나선다. 키블레이드는 세계를 침입하는 틈을 닫는 수단이며, 도널드와 구피는 사라진 왕을 찾기 위해 동행한다. 개인적인 친구 찾기와 여러 세계를 구하는 임무가 하나의 여행으로 결합한다.\n\n리쿠가 카이리를 구하려고 어둠의 힘에 이끌리면서 친구들은 같은 목적을 위해 서로 다른 방법을 선택한다. 후속작과 파생작은 서로 다른 인물과 시간대의 사건을 더해 관계망을 확장한다. 따라서 시리즈 전체와 첫 작품을 구분해야 하며, 번호만으로 이야기의 모든 선후 관계를 판단하기 어렵다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《[[킹덤 하츠]]》는 스퀘어 에닉스와 디즈니가 공동 전개하는 액션 롤플레잉 게임 시리즈다. 소라와 친구들을 중심으로 디즈니의 여러 세계와 스퀘어 계열 인물이 만난다. 서로 다른 작품의 무대를 여행하면서도 마음과 어둠, 세계의 연결이라는 공통 설정이 전체 이야기를 묶는다.\n\n첫 이야기에서 소라는 하트리스의 습격으로 고향을 잃고 리쿠와 카이리를 찾아 나선다. 키블레이드는 세계를 침입하는 틈을 닫는 수단이며, 도널드와 구피는 사라진 왕을 찾기 위해 동행한다. 개인적인 친구 찾기와 여러 세계를 구하는 임무가 하나의 여행으로 결합한다.\n\n리쿠가 카이리를 구하려고 어둠의 힘에 이끌리면서 친구들은 같은 목적을 위해 서로 다른 방법을 선택한다. 후속작과 파생작은 서로 다른 인물과 시간대의 사건을 더해 관계망을 확장한다. 따라서 시리즈 전체와 첫 작품을 구분해야 하며, 번호만으로 이야기의 모든 선후 관계를 판단하기 어렵다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

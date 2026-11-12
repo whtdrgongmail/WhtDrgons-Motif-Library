@@ -4,8 +4,8 @@
   "title": "정착지 이름에 이상이나 위협의 상징 담기",
   "original": "Symbolica",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01994",
+  "primary_tag_id": "ML-T01994",
   "description": {
     "definition": "풍요·평온·강인함·지옥 등의 상징적 뜻을 새 행성 이름으로 삼아 기대나 성격을 전달하는 방식이다.",
     "detail": "작품 사례: 《[[Childe Cycle]]》에서 하모니와 어소시에이션이라는 행성 이름은 집단 사이의 긴장을 누그러뜨리려는 바람을 담지만 실제 [[갈등]]을 해결하지 못한다.",
@@ -13,10 +13,10 @@
     "boundary": "특정 고향이나 인물의 이름을 그대로 가져오는 방식과 달리 상징적 의미가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "새 정착지의 이름에 평온과 풍요, 위협 같은 뜻을 담는다. 아직 경험하지 않은 장소의 기대를 이름이 먼저 전달한다.\n\n실제 생활이 이름과 어긋나면 반어가 생길 수 있다. 지명은 주민의 희망과 세계의 성격을 함께 표현한다.\n\n고향과 인물의 이름을 그대로 옮기는 방식과 다르다. 상징적 의미를 선택한 명명이 중심이다.\n\n《[[Childe Cycle]]》에서 하모니와 어소시에이션이라는 행성 이름은 집단 사이의 긴장을 누그러뜨리려는 바람을 담지만 실제 [[갈등]]을 해결하지 못한다.\n\n[[Childe Cycle]]",
+    "sections": [
+      [
+        "상세 설명",
+        "새 정착지의 이름에 평온과 풍요, 위협 같은 뜻을 담는다. 아직 경험하지 않은 장소의 기대를 이름이 먼저 전달한다.\n\n실제 생활이 이름과 어긋나면 반어가 생길 수 있다. 지명은 주민의 희망과 세계의 성격을 함께 표현한다.\n\n고향과 인물의 이름을 그대로 옮기는 방식과 다르다. 상징적 의미를 선택한 명명이 중심이다."
+      ],
+      [
+        "사례",
+        "《[[Childe Cycle]]》에서 하모니와 어소시에이션이라는 행성 이름은 집단 사이의 긴장을 누그러뜨리려는 바람을 담지만 실제 [[갈등]]을 해결하지 못한다."
+      ],
+      [
+        "관련 작품",
+        "[[Childe Cycle]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

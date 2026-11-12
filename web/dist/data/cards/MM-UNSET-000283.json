@@ -1,25 +1,43 @@
 {
   "id": "MM-UNSET-000283",
-  "kind": "keyword",
+  "kind": "organization",
   "title": "뮤(Mew)",
   "original": "",
   "aliases": [],
   "tag_id": null,
   "primary_tag_id": null,
   "description": {
-    "definition": "",
+    "definition": "선율과 리듬의 결합을 매스 팝 문맥에서 다루는 음악 밴드다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": null,
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "복잡한 리듬과 쉽게 들리는 선율을 함께 이야기할 때 연결되는 밴드다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "뮤(Mew)는 밴드의 고유명이며 음악 장르의 다른 이름이 아니다. 매스 팝의 맥락에서 선율과 리듬의 관계를 비교할 때 다룰 수 있다.\n\n[[TTNG]], [[폴스]], [[에브리싱 에브리싱]], [[트리코]]와 나란히 언급되는 것은 관련 음악적 방향을 비교하기 위한 연결이다. 같은 밴드라도 곡마다 선율·리듬·보컬의 비중이 다를 수 있어 모든 곡을 같은 구성으로 단정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "뮤(Mew)는 밴드의 고유명이며 음악 장르의 다른 이름이 아니다. 매스 팝의 맥락에서 선율과 리듬의 관계를 비교할 때 다룰 수 있다.\n\n[[TTNG]], [[폴스]], [[에브리싱 에브리싱]], [[트리코]]와 나란히 언급되는 것은 관련 음악적 방향을 비교하기 위한 연결이다. 같은 밴드라도 곡마다 선율·리듬·보컬의 비중이 다를 수 있어 모든 곡을 같은 구성으로 단정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

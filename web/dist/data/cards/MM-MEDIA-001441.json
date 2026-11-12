@@ -4,27 +4,27 @@
   "title": "강철의 연금술사",
   "original": "Fullmetal Alchemist",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《강철의 연금술사》는 미디어 작품이다.",
-    "detail": "작품 사례: 《강철의 연금술사》의 현자의 돌은 사람들을 희생시켜 만들며, 강력한 연금술을 가능하게 하는 자원 안에 희생된 생명들이 들어 있다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《강철의 연금술사》는 죽은 어머니를 되살리려다 신체를 잃은 엘릭 형제가 몸을 되찾을 방법을 찾는 작품군이다. 에드워드는 팔과 다리를 잃고 알폰스는 육체 대신 갑옷에 영혼이 붙은 상태가 되어 현자의 돌을 찾아 나선다.\n\n연금술의 의식은 두 사람에게 희망인 동시에 돌이킬 수 없는 상실의 원인이었다. 이미 힘의 대가를 겪은 형제들이 더 강력한 수단을 추구하는 여정이므로, 문제를 해결할 능력과 그 능력을 쓰는 선택이 계속 연결된다.\n\n아라카와 히로무의 원작 만화에서 여러 [[애니메이션]]과 영화로 확장되었다. 2003년 TV판은 중간부터 독자적인 이야기로 진행하고 이후의 Brotherhood는 원작을 직접 각색하므로, 한 판본의 결말을 다른 판본의 후속 사건으로 합쳐서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《강철의 연금술사》는 죽은 어머니를 되살리려다 신체를 잃은 엘릭 형제가 몸을 되찾을 방법을 찾는 작품군이다. 에드워드는 팔과 다리를 잃고 알폰스는 육체 대신 갑옷에 영혼이 붙은 상태가 되어 현자의 돌을 찾아 나선다.\n\n연금술의 의식은 두 사람에게 희망인 동시에 돌이킬 수 없는 상실의 원인이었다. 이미 힘의 대가를 겪은 형제들이 더 강력한 수단을 추구하는 여정이므로, 문제를 해결할 능력과 그 능력을 쓰는 선택이 계속 연결된다.\n\n아라카와 히로무의 원작 만화에서 여러 [[애니메이션]]과 영화로 확장되었다. 2003년 TV판은 중간부터 독자적인 이야기로 진행하고 이후의 Brotherhood는 원작을 직접 각색하므로, 한 판본의 결말을 다른 판본의 후속 사건으로 합쳐서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

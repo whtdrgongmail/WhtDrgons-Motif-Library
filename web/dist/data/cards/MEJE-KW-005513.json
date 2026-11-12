@@ -4,8 +4,8 @@
   "title": "회차를 엮어 만든 영화",
   "original": "Compilation Movie",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00564",
+  "primary_tag_id": "ML-T00564",
   "description": {
     "definition": "기존 시리즈의 여러 회차를 다시 편집해 한 편의 장편 영상처럼 공개하는 작품 형식. 기존 작품을 다시 묶는 점은 같지만 게임을 상품으로 엮으면 [[기존 게임을 묶어 재발매]]이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "04",
+    "code": "04.002.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기존 [[텔레비전]] 회차들을 편집하여 장편 영화의 길이와 형식으로 구성한 작품이다. 새로 촬영한 내용보다 이미 발표한 영상이 중심을 이룬다.\n\n연속된 이야기를 묶고 반복되는 시작과 끝을 제거하면 하나의 긴 사건처럼 보이게 할 수 있다. 반대로 편집 가능한 자료가 제한되면 회차 구분과 자막이 그대로 남아 연결이 어색해진다.\n\n같은 소재를 처음부터 새로 제작한 영화와는 다르다. 내용의 보존과 재구성의 비중에 따라 감상 경험이 달라지며, 새 장면과 수정이 조금 추가되어도 기본적인 자료의 출처는 기존 연재에 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기존 [[텔레비전]] 회차들을 편집하여 장편 영화의 길이와 형식으로 구성한 작품이다. 새로 촬영한 내용보다 이미 발표한 영상이 중심을 이룬다.\n\n연속된 이야기를 묶고 반복되는 시작과 끝을 제거하면 하나의 긴 사건처럼 보이게 할 수 있다. 반대로 편집 가능한 자료가 제한되면 회차 구분과 자막이 그대로 남아 연결이 어색해진다.\n\n같은 소재를 처음부터 새로 제작한 영화와는 다르다. 내용의 보존과 재구성의 비중에 따라 감상 경험이 달라지며, 새 장면과 수정이 조금 추가되어도 기본적인 자료의 출처는 기존 연재에 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

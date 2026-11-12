@@ -4,8 +4,8 @@
   "title": "이동 공동체의 연속 방문 모험",
   "original": "Wagon Train to the Stars",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00642",
+  "primary_tag_id": "ML-T00642",
   "description": {
     "definition": "함께 이동하는 동료 집단이 새로운 장소에 도착할 때마다 다른 사건과 만나는 에피소드형 모험 구조다. 여행의 지속성과 방문지의 변화가 이야기의 연속성을 만든다.",
     "detail": "작품 사례: [[Star Trek: The Original Series]]의 소개 구상은 함께 이동하는 동료들이 새 장소마다 다른 모험을 만나는 구조를 우주 여행에 옮긴다.",
@@ -13,10 +13,10 @@
     "boundary": "한 장소에 정착한 군상극이나 단일 목적지에 도달하는 일회성 여정과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "함께 이동하는 동료들이 방문지마다 새 사건을 만나면 집단의 지속성과 장소의 변화가 동시에 생긴다. 출발과 도착을 반복하는 틀 안에서 회차마다 다른 문제와 관계를 배치할 수 있다.\n\n한 장소에 머무는 군상극이나 한 목적지에 가는 일회성 여정과는 반복 단위가 다르다. 고정된 동료들이 계속 이동하고 새 방문을 통해 다음 모험이 시작되어야 한다.\n\n[[Star Trek: The Original Series]]의 소개 구상은 이동하는 동료 집단이 낯선 장소마다 모험을 겪는 형식을 우주 여행에 적용한다. 배경이 바뀌어도 함께 여행하는 집단이 연속성을 유지한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "함께 이동하는 동료들이 방문지마다 새 사건을 만나면 집단의 지속성과 장소의 변화가 동시에 생긴다. 출발과 도착을 반복하는 틀 안에서 회차마다 다른 문제와 관계를 배치할 수 있다.\n\n한 장소에 머무는 군상극이나 한 목적지에 가는 일회성 여정과는 반복 단위가 다르다. 고정된 동료들이 계속 이동하고 새 방문을 통해 다음 모험이 시작되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Star Trek: The Original Series]]의 소개 구상은 이동하는 동료 집단이 낯선 장소마다 모험을 겪는 형식을 우주 여행에 적용한다. 배경이 바뀌어도 함께 여행하는 집단이 연속성을 유지한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

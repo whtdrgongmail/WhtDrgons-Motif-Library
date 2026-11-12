@@ -4,8 +4,8 @@
   "title": "식인 식물",
   "original": "Man-Eating Plant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01130",
+  "primary_tag_id": "ML-T01130",
   "description": {
     "definition": "사람을 먹잇감으로 삼아 붙잡거나 삼키는 괴물 식물.",
     "detail": "입처럼 변형된 잎, 움직이는 덩굴, 포획 통, 유혹하는 향기 등으로 포식한다. 포획 방식은 같은 식물형 괴물 안에서도 다를 수 있다.\n\n작품 사례: 《[[흡혈 식물 대소동]]》의 오드리 2는 인간의 피를 먹이로 요구하는 식물이며, 말을 통해 사람을 유혹하는 성격까지 갖는다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 식충식물의 범위와 창작 속 인간 포식을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "12",
+    "code": "12.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "입처럼 변형된 잎, 움직이는 덩굴, 포획 통, 유혹하는 향기 등으로 포식한다. 포획 방식은 같은 식물형 괴물 안에서도 다를 수 있다.\n\n실제 식충식물의 범위와 창작 속 인간 포식을 구분한다.\n\n1986년 영화 《[[흡혈 식물 대소동]]》의 오드리 2는 인간의 피를 먹이로 요구한다. 말을 통해 사람을 유혹하고 조종하는 성격도 지닌다.",
+    "sections": [
+      [
+        "상세 설명",
+        "입처럼 변형된 잎, 움직이는 덩굴, 포획 통, 유혹하는 향기 등으로 포식한다. 포획 방식은 같은 식물형 괴물 안에서도 다를 수 있다.\n\n실제 식충식물의 범위와 창작 속 인간 포식을 구분한다."
+      ],
+      [
+        "관련 작품",
+        "1986년 영화 《[[흡혈 식물 대소동]]》의 오드리 2는 인간의 피를 먹이로 요구한다. 말을 통해 사람을 유혹하고 조종하는 성격도 지닌다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-033303",
+  "kind": "keyword",
+  "title": "인물 출입을 기준으로 장면 나누기",
+  "original": "FrenchScenes",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F04",
+  "description": {
+    "definition": "장소와 시간이 그대로여도 대화에 인물이 들어오거나 나가면 새 [[장면]]으로 번호를 붙이는 극의 구분 방식이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "04",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "대화 참여자가 바뀌면 다음 장면이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "장소와 시간이 그대로여도 인물의 출입을 기준으로 새 장면을 구분한다. 대화에 참여하는 구성의 변화가 극의 진행 단위가 된다.\n\n새 사람이 들어오면 공유할 수 있는 정보와 말의 목적이 달라진다. 번호의 구분은 공간의 이동보다 관계와 발화 조건의 전환을 따라 사건을 읽도록 돕는다.\n\n모든 극이 같은 장면 구분법을 쓰지는 않는다. 촬영 편집의 컷과도 다른 기준이며 실제 대본이 채택한 규칙을 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "장소와 시간이 그대로여도 인물의 출입을 기준으로 새 장면을 구분한다. 대화에 참여하는 구성의 변화가 극의 진행 단위가 된다.\n\n새 사람이 들어오면 공유할 수 있는 정보와 말의 목적이 달라진다. 번호의 구분은 공간의 이동보다 관계와 발화 조건의 전환을 따라 사건을 읽도록 돕는다.\n\n모든 극이 같은 장면 구분법을 쓰지는 않는다. 촬영 편집의 컷과도 다른 기준이며 실제 대본이 채택한 규칙을 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

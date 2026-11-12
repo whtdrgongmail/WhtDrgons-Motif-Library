@@ -4,8 +4,8 @@
   "title": "실제 게임 안에서 성장하는 서사",
   "original": "The Virtual Reality LitRPG",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00397",
+  "primary_tag_id": "ML-T00397",
   "description": {
     "definition": "인물이 가상현실 등 실제 게임에 들어가 그 게임의 규칙에 따라 모험하고 성장하는 게임 [[서사]] 하위형이다.",
     "detail": "작품 사례: 소설 《[[달빛조각사]]》의 이현은 새 가상현실 온라인 게임에서 조각사로 성장한다. 게임 속 성취와 현실의 경제·기업 문제가 이어진다.",
@@ -13,17 +13,20 @@
     "boundary": "로그아웃 불능이나 의식 업로드는 가능한 변형이며 필수 조건이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.401.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "world_pattern",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "story_pattern",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 실제 게임에 들어가면 그곳의 규칙이 모험과 성장의 조건이 된다. 능력의 획득도 게임의 진행 방식 안에서 이루어진다.\n\n게임 안의 직업과 성장은 현실의 돈과 시간에도 영향을 줄 수 있다. 가상 성취와 현실의 경제 문제가 연결되면 두 생활의 선택이 서로의 조건을 바꾸는 이야기가 된다.\n\n로그아웃이 막혀 있어야 하는 것은 아니다. 게임처럼 보이는 이세계와 실제 게임 내부라는 설정은 구분해야 한다.\n\n소설 《[[달빛조각사]]》의 이현은 새 가상현실 온라인 게임에서 조각사로 성장한다. 게임 속 성취와 현실의 경제·기업 문제가 이어진다.\n\n[[달빛조각사]]",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 실제 게임에 들어가면 그곳의 규칙이 모험과 성장의 조건이 된다. 능력의 획득도 게임의 진행 방식 안에서 이루어진다.\n\n게임 안의 직업과 성장은 현실의 돈과 시간에도 영향을 줄 수 있다. 가상 성취와 현실의 경제 문제가 연결되면 두 생활의 선택이 서로의 조건을 바꾸는 이야기가 된다.\n\n로그아웃이 막혀 있어야 하는 것은 아니다. 게임처럼 보이는 이세계와 실제 게임 내부라는 설정은 구분해야 한다."
+      ],
+      [
+        "사례",
+        "소설 《[[달빛조각사]]》의 이현은 새 가상현실 온라인 게임에서 조각사로 성장한다. 게임 속 성취와 현실의 경제·기업 문제가 이어진다."
+      ],
+      [
+        "관련 작품",
+        "[[달빛조각사]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

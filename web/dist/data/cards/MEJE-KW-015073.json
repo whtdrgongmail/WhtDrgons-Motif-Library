@@ -4,8 +4,8 @@
   "title": "연속 타격 뒤에 깨닫는 무력함",
   "original": "Punch! Punch! Punch! Uh Oh...",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "상대를 거듭 때린 인물이 공격이 전혀 먹히지 않았음을 깨닫고 자신의 위험을 뒤늦게 인식하는 전개이다.",
     "detail": "작품 사례: [[The Super Mario Bros. Movie]]에서 쿠파는 슈퍼스타를 얻은 형제들을 짓누르지만 바닥만 부서지자, 공격이 통하지 않으며 자신이 위험해졌음을 뒤늦게 알아챈다.",
@@ -13,10 +13,10 @@
     "boundary": "한 번의 무효화보다 반복 공격에서 뒤늦은 깨달음으로 넘어가는 단계가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공격자는 여러 차례의 타격을 계속한 뒤에도 상대가 영향을 받지 않았다는 사실을 늦게 이해한다. 행동의 반복과 인식의 지연이 단계적으로 연결된다.\n\n처음에는 우세한 듯했던 공격이 무력함의 증거로 바뀐다. 상대의 안전을 깨닫는 순간 자신의 위험도 알게 되어 힘의 관계가 한 번에 뒤집힌다.\n\n처음 한 번의 공격이 막힌 장면과는 시간 구조가 다르다. 반복해서 밀어붙인 뒤 앞선 행동 전체를 재해석하는 깨달음이 있어야 한다.\n\n[[The Super Mario Bros. Movie]]에서 쿠파는 슈퍼스타를 얻은 형제들을 공격하다 바닥만 부서지는 것을 보고 위험을 깨닫는다.\n\n[[The Super Mario Bros. Movie]]",
+    "sections": [
+      [
+        "상세 설명",
+        "공격자는 여러 차례의 타격을 계속한 뒤에도 상대가 영향을 받지 않았다는 사실을 늦게 이해한다. 행동의 반복과 인식의 지연이 단계적으로 연결된다.\n\n처음에는 우세한 듯했던 공격이 무력함의 증거로 바뀐다. 상대의 안전을 깨닫는 순간 자신의 위험도 알게 되어 힘의 관계가 한 번에 뒤집힌다.\n\n처음 한 번의 공격이 막힌 장면과는 시간 구조가 다르다. 반복해서 밀어붙인 뒤 앞선 행동 전체를 재해석하는 깨달음이 있어야 한다."
+      ],
+      [
+        "사례",
+        "[[The Super Mario Bros. Movie]]에서 쿠파는 슈퍼스타를 얻은 형제들을 공격하다 바닥만 부서지는 것을 보고 위험을 깨닫는다."
+      ],
+      [
+        "관련 작품",
+        "[[The Super Mario Bros. Movie]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

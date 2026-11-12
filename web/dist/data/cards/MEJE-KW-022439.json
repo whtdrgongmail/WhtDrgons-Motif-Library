@@ -5,8 +5,8 @@
   "original": "The Preacher Takes the Treatment They Deny",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00925",
+  "primary_tag_id": "ML-T00925",
   "description": {
     "definition": "종교 지도자가 신도에게는 믿음만으로 병을 이겨 내라며 치료를 막으면서 자신은 병이 나면 몰래 의료의 도움을 받는 위선적 인물 유형이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "종교적 믿음과 의료를 함께 인정하는 인물과 구별한다. 타인에게 내세운 금지와 자신의 행동이 충돌해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.005.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "종교 지도자가 신도에게는 믿음으로만 병을 견디라며 치료를 막지만 자신은 몰래 의료를 이용한다. 타인에게 적용한 금지와 자신의 생존 행동이 충돌한다.\n\n숨겨진 치료가 밝혀지면 지도자의 권위와 신뢰가 흔들릴 수 있다. 신도에게 요구한 희생을 본인은 감수하지 않았다는 차이가 배신감의 근거가 된다.\n\n종교와 의료를 함께 인정하는 태도와 다르다. 믿음의 유무보다 신도에게 내세운 규칙을 자기에게는 적용하지 않는 이중성이 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "종교 지도자가 신도에게는 믿음으로만 병을 견디라며 치료를 막지만 자신은 몰래 의료를 이용한다. 타인에게 적용한 금지와 자신의 생존 행동이 충돌한다.\n\n숨겨진 치료가 밝혀지면 지도자의 권위와 신뢰가 흔들릴 수 있다. 신도에게 요구한 희생을 본인은 감수하지 않았다는 차이가 배신감의 근거가 된다.\n\n종교와 의료를 함께 인정하는 태도와 다르다. 믿음의 유무보다 신도에게 내세운 규칙을 자기에게는 적용하지 않는 이중성이 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

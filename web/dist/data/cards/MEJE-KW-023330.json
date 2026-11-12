@@ -4,8 +4,8 @@
   "title": "기계라면 두루 고치는 수리 전문가",
   "original": "Mr. Fixit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00935",
+  "primary_tag_id": "ML-T00935",
   "description": {
     "definition": "여러 종류의 기계와 생활 장치를 능숙하게 고치는 폭넓은 수리 솜씨를 가진 인물이다.",
     "detail": "처음 보는 물질과 작동 원리의 장비까지 역으로 파악해 고칠 수 있는 과장된 수리 능력으로 나타날 수 있다. 반드시 과학자나 박사일 필요는 없다.\n\n작품 사례: 《[[드래곤볼(만화)]]》의 부르마는 처음 접하는 외계 비행체의 구조를 파악하고 수리하며, 익숙한 지구 장비를 넘어서는 기술 적응력을 보여 준다.",
@@ -13,10 +13,10 @@
     "boundary": "새 발명이나 특정 장비 한 종류의 정비에만 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "낯선 기계라도 구조를 파악하고 수리하는 능력이 인물의 특징으로 강조된다. 고장 난 장치가 사건의 장애가 될 때 이 인물은 해결을 맡으며, 다양한 기계를 고치는 범용성이 역할을 만든다. 과학자라는 직함이나 발명 능력은 필수 조건이 아니고 한 기종만 정비하는 기술자보다 범위가 넓다.",
+    "sections": [
+      [
+        "상세 설명",
+        "낯선 기계라도 구조를 파악하고 수리하는 능력이 인물의 특징으로 강조된다. 고장 난 장치가 사건의 장애가 될 때 이 인물은 해결을 맡으며, 다양한 기계를 고치는 범용성이 역할을 만든다. 과학자라는 직함이나 발명 능력은 필수 조건이 아니고 한 기종만 정비하는 기술자보다 범위가 넓다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

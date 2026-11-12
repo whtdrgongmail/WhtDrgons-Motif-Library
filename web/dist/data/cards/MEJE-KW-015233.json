@@ -4,8 +4,8 @@
   "title": "청소년을 싫어하는 인물",
   "original": "Teen Hater",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00938",
+  "primary_tag_id": "ML-T00938",
   "description": {
     "definition": "개인의 행위와 무관하게 청소년 집단 전반에 적대감이나 강한 거부감을 보이는 인물 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "특정 청소년의 행동을 비판하는 것과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "청소년을 개인보다 문제를 일으키는 집단으로 받아들이는 인물이다. 실제로 무엇을 했는지 알기 전부터 반항과 무례함 등을 예상한다.\n\n어른은 권위에 대한 도전을 이유로 싫어할 수 있고 어린아이는 더 많은 자유를 질투할 수 있다. 청소년 자신도 주변의 고정관념을 내면화해 같은 반감을 보일 수 있다.\n\n특정 학생의 행동을 비판하는 경우와 다르다. 어린아이에게는 호의적이어도 청소년에게만 적대적일 수 있어 미성년자 전체에 대한 태도와도 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "청소년을 개인보다 문제를 일으키는 집단으로 받아들이는 인물이다. 실제로 무엇을 했는지 알기 전부터 반항과 무례함 등을 예상한다.\n\n어른은 권위에 대한 도전을 이유로 싫어할 수 있고 어린아이는 더 많은 자유를 질투할 수 있다. 청소년 자신도 주변의 고정관념을 내면화해 같은 반감을 보일 수 있다.\n\n특정 학생의 행동을 비판하는 경우와 다르다. 어린아이에게는 호의적이어도 청소년에게만 적대적일 수 있어 미성년자 전체에 대한 태도와도 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,27 +4,27 @@
   "title": "마블 시네마틱 유니버스",
   "original": "Marvel Cinematic Universe",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《마블 시네마틱 유니버스》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《마블 시네마틱 유니버스》는 여러 영웅의 개별 시리즈를 유지하면서 이들을 공동 세계와 집단 이야기로 결합한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《마블 시네마틱 유니버스》는 여러 영웅의 영화와 시리즈를 공동 세계에 배치한다. 개별 영웅의 영화와 시리즈가 사건과 인물을 공유하는 연결된 작품 세계다.\n\n각 영웅의 개별 작품은 자체 인물과 사건을 유지한다. 모든 이야기가 처음부터 하나의 집단극으로만 진행되는 것은 아니다. 독립적인 한 편의 갈등과 여러 편에 걸친 공통 사건은 분량과 전개 범위가 다르다.\n\n영웅들은 공동 사건과 집단 이야기에 합류한다. 개별 시리즈의 독립성과 크로스오버의 연결을 병행하는 프랜차이즈 구조다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《마블 시네마틱 유니버스》는 여러 영웅의 영화와 시리즈를 공동 세계에 배치한다. 개별 영웅의 영화와 시리즈가 사건과 인물을 공유하는 연결된 작품 세계다.\n\n각 영웅의 개별 작품은 자체 인물과 사건을 유지한다. 모든 이야기가 처음부터 하나의 집단극으로만 진행되는 것은 아니다. 독립적인 한 편의 갈등과 여러 편에 걸친 공통 사건은 분량과 전개 범위가 다르다.\n\n영웅들은 공동 사건과 집단 이야기에 합류한다. 개별 시리즈의 독립성과 크로스오버의 연결을 병행하는 프랜차이즈 구조다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "이러다 지옥에 가겠다는 자조",
   "original": "I'm Going to Hell for This",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01962",
+  "primary_tag_id": "ML-T01962",
   "description": {
     "definition": "자신의 행동이나 농담이 부도덕하거나 무례함을 인정하며 지옥에 갈 것 같다고 말하는 상투적 반응.",
     "detail": "사소한 잘못을 과장할 수 있으며 잘못인 줄 알지만 그럴 가치가 있었다는 말이 이어지기도 한다.\n\n작품 사례: 《[[원피스]]》에서 나미는 빚을 핑계로 조로를 부려 먹고 비난을 받자, 웃으며 자신은 곧장 지옥에 갈 것이라고 인정한다.",
@@ -13,30 +13,47 @@
     "boundary": "실제로 지옥에 가는 세계 규칙이나 상대에게 저주를 퍼붓는 대사와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "심한 농담을 해 놓고 이런 말 하면 벌받겠다고 스스로 덧붙인다.\n\n작품 사례: 《[[원피스]]》에서 나미는 빚을 핑계로 조로를 부려 먹고 비난을 받자, 웃으며 자신은 곧장 지옥에 갈 것이라고 인정한다.",
+    "easy_ko": "심한 농담을 해 놓고 이런 말 하면 벌받겠다고 스스로 덧붙인다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》에서 나미는 빚을 핑계로 조로를 부려 먹고 비난을 받자, 웃으며 자신은 곧장 지옥에 갈 것이라고 인정한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "행동이나 농담의 무례함을 알면서 지옥에 갈 것 같다고 스스로 평가한다. 작은 위반을 과장하기도 하고 잘못인 줄 알지만 그럴 가치가 있었다는 말을 덧붙이기도 한다.\n\n문제의식을 자조적인 반응으로 표현한다는 점이 중심이다. 실제 사후세계의 처벌 규칙이나 상대를 향해 퍼붓는 저주와는 구별된다.\n\n《[[원피스(만화)]]》에서 나미는 빚을 핑계로 조로를 부려 먹고 비난을 받자, 웃으며 자신은 곧장 지옥에 갈 것이라고 인정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "행동이나 농담의 무례함을 알면서 지옥에 갈 것 같다고 스스로 평가한다. 작은 위반을 과장하기도 하고 잘못인 줄 알지만 그럴 가치가 있었다는 말을 덧붙이기도 한다.\n\n문제의식을 자조적인 반응으로 표현한다는 점이 중심이다. 실제 사후세계의 처벌 규칙이나 상대를 향해 퍼붓는 저주와는 구별된다."
+      ],
+      [
+        "관련 작품",
+        "《[[원피스(만화)]]》에서 나미는 빚을 핑계로 조로를 부려 먹고 비난을 받자, 웃으며 자신은 곧장 지옥에 갈 것이라고 인정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

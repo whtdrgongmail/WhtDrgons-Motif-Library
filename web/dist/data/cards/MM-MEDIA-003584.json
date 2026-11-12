@@ -2,24 +2,65 @@
   "id": "MM-MEDIA-003584",
   "kind": "work",
   "title": "뿌요뿌요",
-  "original": "",
+  "original": "ぷよぷよ",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00076",
+  "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "",
+    "definition": "《뿌요뿌요》는 같은 색의 뿌요를 연결해 없애는 낙하형 퍼즐 게임의 첫 작품이다. 1991년 MSX2와 패미컴 디스크 시스템판으로 나왔다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "02.016",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "색이 같은 뿌요 네 개 이상을 붙여 지우는 퍼즐 게임이다. 뒤에 나온 시리즈 작품이 아니라 1991년 처음 나온 게임을 뜻한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000304",
+      "card_id": "MM-MEDIA-003584",
+      "label_ko": "세가 공식 시리즈 안내",
+      "icon_key": "game",
+      "url": "https://puyo.sega.jp/portal/series/Puyopuyo.html",
+      "description_ko": "첫 뿌요뿌요와 아케이드판 설명",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "낙하 중인 뿌요의 위치를 정하면 이후 같은 색이 연결되는 방식과 남는 공간이 달라진다. 이어지는 제거가 발생하도록 미리 배치하는 판단이 플레이에 영향을 준다.\n\n《[[컬럼스]]》와 같은 낙하형 퍼즐 범주에 속하지만 같은 색 네 개를 연결하는 규칙과 조각의 모양을 구별해야 한다. 1992년에 세가가 선보인 아케이드판과 메가 드라이브판은 1991년 첫 출시 이후의 판본이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "낙하 중인 뿌요의 위치를 정하면 이후 같은 색이 연결되는 방식과 남는 공간이 달라진다. 이어지는 제거가 발생하도록 미리 배치하는 판단이 플레이에 영향을 준다.\n\n《[[컬럼스]]》와 같은 낙하형 퍼즐 범주에 속하지만 같은 색 네 개를 연결하는 규칙과 조각의 모양을 구별해야 한다. 1992년에 세가가 선보인 아케이드판과 메가 드라이브판은 1991년 첫 출시 이후의 판본이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

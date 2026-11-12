@@ -4,8 +4,8 @@
   "title": "전차 화력과 비행 능력을 결합한 차량",
   "original": "Flying Tanks",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01454",
+  "primary_tag_id": "ML-T01454",
   "description": {
     "definition": "전차로 취급되는 중무장 차량이 지상 주행의 범위를 넘어 공중이나 우주에서 비행하도록 구성된 병기다.",
     "detail": "작품 사례: 《[[Schlock Mercenary]]》의 호버탱크는 사실상 앞에 큰 포를 장착한 소형 우주선이지만 계속 전차로 불린다.",
@@ -13,10 +13,10 @@
     "boundary": "수송기에 실린 전차와 구별하며 자체 비행이 가능한 차량이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중무장 차량이 스스로 공중이나 우주를 이동할 수 있다. 전차라는 분류와 항공 이동의 자유가 결합하여 지상 병기의 범위를 넓힌다.\n\n기체의 화력과 이동 방식이 다른 병종의 성질을 함께 가진다. 우주선에 가까운 형태라도 작품이 계속 전차로 부르는 경우에는 명칭과 기능을 나누어 기록할 수 있다.\n\n수송기에 실려 이동하는 전차와는 다르다. 다른 탈것에 의존하지 않는 자체 비행 능력이 필요하다.\n\n[[Schlock Mercenary]]의 호버탱크는 큰 포를 앞에 단 소형 우주선에 가깝지만 전차로 불린다.\n\n[[Schlock Mercenary]]",
+    "sections": [
+      [
+        "상세 설명",
+        "중무장 차량이 스스로 공중이나 우주를 이동할 수 있다. 전차라는 분류와 항공 이동의 자유가 결합하여 지상 병기의 범위를 넓힌다.\n\n기체의 화력과 이동 방식이 다른 병종의 성질을 함께 가진다. 우주선에 가까운 형태라도 작품이 계속 전차로 부르는 경우에는 명칭과 기능을 나누어 기록할 수 있다.\n\n수송기에 실려 이동하는 전차와는 다르다. 다른 탈것에 의존하지 않는 자체 비행 능력이 필요하다."
+      ],
+      [
+        "사례",
+        "[[Schlock Mercenary]]의 호버탱크는 큰 포를 앞에 단 소형 우주선에 가깝지만 전차로 불린다."
+      ],
+      [
+        "관련 작품",
+        "[[Schlock Mercenary]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

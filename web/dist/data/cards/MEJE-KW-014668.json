@@ -4,8 +4,8 @@
   "title": "공동 수익 가로채기",
   "original": "Hoarding the Profits",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00791",
+  "primary_tag_id": "ML-T00791",
   "description": {
     "definition": "공동으로 일하거나 거래한 상대에게 돌아갈 보상까지 자신이 독차지하려고 약속·분배 규칙을 무시하거나 악용하는 행동이다.",
     "detail": "작품 사례: [[SpongeBob SquarePants]]에서 함께 보물을 찾은 스폰지밥과 뚱이는 자기 몫을 기대한다. 그러나 집게사장이 전부 차지하려 하자 함께 찾았다는 이유로 몫을 요구하며 다툰다.",
@@ -13,10 +13,10 @@
     "boundary": "불평등한 결과만으로 판단하지 않으며 정당하게 합의된 보수 차이와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여럿의 기여로 얻은 이익을 한 사람이 차지해 다른 참여자의 몫을 배제하는 행동이다. 협력의 결과와 분배 권한이 어긋나 [[갈등]]이 생긴다.\n\n결과가 불평등하다는 사실만으로는 충분하지 않다. 기여와 약속에 근거한 몫이 무시되었는지 구분하며 정당하게 합의된 보수 차이와 나누어야 한다.\n\n[[SpongeBob SquarePants]]의 스폰지밥과 뚱이는 함께 찾은 보물의 몫을 기대한다. 집게사장이 전부 차지하려 하자 공동의 기여를 근거로 분배를 요구하며 다툰다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여럿의 기여로 얻은 이익을 한 사람이 차지해 다른 참여자의 몫을 배제하는 행동이다. 협력의 결과와 분배 권한이 어긋나 [[갈등]]이 생긴다.\n\n결과가 불평등하다는 사실만으로는 충분하지 않다. 기여와 약속에 근거한 몫이 무시되었는지 구분하며 정당하게 합의된 보수 차이와 나누어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[SpongeBob SquarePants]]의 스폰지밥과 뚱이는 함께 찾은 보물의 몫을 기대한다. 집게사장이 전부 차지하려 하자 공동의 기여를 근거로 분배를 요구하며 다툰다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

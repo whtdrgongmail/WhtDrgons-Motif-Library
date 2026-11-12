@@ -4,8 +4,8 @@
   "title": "괴롭히던 사람과 피해자를 억지로 한 팀에 넣기",
   "original": "Bully and Wimp Pairing",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "서로를 두려워하거나 미워하던 두 인물이 같은 목표를 수행해야 한다. 피해자의 안전과 가해자의 책임이 협력보다 먼저 다뤄져야 한다. 억지 협력이 신뢰로 바뀌려면 [[괴롭히던 사람이 친구가 되기]]처럼 가해자의 행동 변화가 필요하다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "괴롭히던 사람과 피해자가 외부의 지시나 위기 때문에 같은 임무를 수행해야 하는 상황이다. 함께 일한다고 피해자의 두려움이 곧 없어지지는 않는다. [[괴롭히던 사람이 친구가 되기]]로 바뀌려면 가해자의 책임 인정과 행동 변화, 피해자가 거절할 권리가 필요하다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "괴롭히는 인물과 그에게 괴롭힘을 당하던 인물을 한 조로 묶어 함께 행동하게 하는 구성이다. 평소의 권력 차이가 협력이 필요한 상황으로 옮겨 오면서, 상대를 피하거나 일방적으로 지배하던 관계가 그대로 유지되기 어려워진다.\n\n체력과 지식처럼 서로 다른 능력을 주면 상호 의존을 만들 수 있다. 가해자는 피해자의 도움이 필요해지고 피해자는 자신의 능력을 인정받을 기회를 얻지만, 이런 기능적 협력이 과거의 가해를 자동으로 해소하지는 않는다.\n\n어색한 동행을 희극으로 다루거나 실제 우정으로 발전시키는 등 결말은 다양하다. 단순히 성격이 다른 두 사람의 조합과 달리 이미 존재하던 괴롭힘의 이력이 중요하다. 관계가 좋아졌다는 표시만큼 가해 행동의 중단과 피해자의 선택을 보여 주어야 변화의 의미가 분명해진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "괴롭히는 인물과 그에게 괴롭힘을 당하던 인물을 한 조로 묶어 함께 행동하게 하는 구성이다. 평소의 권력 차이가 협력이 필요한 상황으로 옮겨 오면서, 상대를 피하거나 일방적으로 지배하던 관계가 그대로 유지되기 어려워진다.\n\n체력과 지식처럼 서로 다른 능력을 주면 상호 의존을 만들 수 있다. 가해자는 피해자의 도움이 필요해지고 피해자는 자신의 능력을 인정받을 기회를 얻지만, 이런 기능적 협력이 과거의 가해를 자동으로 해소하지는 않는다.\n\n어색한 동행을 희극으로 다루거나 실제 우정으로 발전시키는 등 결말은 다양하다. 단순히 성격이 다른 두 사람의 조합과 달리 이미 존재하던 괴롭힘의 이력이 중요하다. 관계가 좋아졌다는 표시만큼 가해 행동의 중단과 피해자의 선택을 보여 주어야 변화의 의미가 분명해진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

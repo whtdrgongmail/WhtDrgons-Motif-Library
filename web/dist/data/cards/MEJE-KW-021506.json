@@ -4,8 +4,8 @@
   "title": "오래 기다리는 소꿉친구의 사랑",
   "original": "Patient Childhood Love Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00993",
+  "primary_tag_id": "ML-T00993",
   "description": {
     "definition": "어릴 때부터 주인공을 사랑한 친구가 상대가 자신의 마음을 알아차릴 때까지 기다리는 연애 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "모든 소꿉친구 관계나 상대를 압박하는 일방적 집착과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.003.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가장 오래 곁에 있던 친구가 조용히 사랑을 기다린다.",
     "review_status": "reviewed",
@@ -30,5 +36,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "오랜 친밀함은 연애의 기반이면서 동시에 장애물이다. 상대가 도움과 동행을 당연한 우정으로 받아들이면, 좋아하는 사람은 가까운 자리를 유지하면서도 마음을 전달하지 못한다. 주변 사람이 둘을 연인처럼 보더라도 당사자 사이에 관계를 확인하는 단계가 없으면 기다림은 계속된다.\n\n새로운 구혼자가 나타나거나 일상의 특권이 흔들리면 수동적인 태도를 바꿀 계기가 생긴다. 오래 알아 왔다는 사실이 결말의 승리를 보장하지는 않으며, 상대에게 사랑을 돌려줄 의무를 만들지도 않는다. 함께 자라다가 나중에 처음 연애 감정을 느끼는 전개와 달리 이미 품은 마음을 오래 유보해 왔다는 시간이 핵심이다.\n\n가령, 소꿉친구 민서는 태호가 실연할 때마다 곁에서 위로하지만 마음을 말하지 않는다. 태호가 다른 사람과 사귀기 시작하자 민서는 계속 기다릴지 고민한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "오랜 친밀함은 연애의 기반이면서 동시에 장애물이다. 상대가 도움과 동행을 당연한 우정으로 받아들이면, 좋아하는 사람은 가까운 자리를 유지하면서도 마음을 전달하지 못한다. 주변 사람이 둘을 연인처럼 보더라도 당사자 사이에 관계를 확인하는 단계가 없으면 기다림은 계속된다.\n\n새로운 구혼자가 나타나거나 일상의 특권이 흔들리면 수동적인 태도를 바꿀 계기가 생긴다. 오래 알아 왔다는 사실이 결말의 승리를 보장하지는 않으며, 상대에게 사랑을 돌려줄 의무를 만들지도 않는다. 함께 자라다가 나중에 처음 연애 감정을 느끼는 전개와 달리 이미 품은 마음을 오래 유보해 왔다는 시간이 핵심이다."
+      ],
+      [
+        "사례",
+        "가령, 소꿉친구 민서는 태호가 실연할 때마다 곁에서 위로하지만 마음을 말하지 않는다. 태호가 다른 사람과 사귀기 시작하자 민서는 계속 기다릴지 고민한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 5,
+    "replaces_short_fields": false
+  }
 }

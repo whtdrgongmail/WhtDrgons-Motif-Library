@@ -4,8 +4,8 @@
   "title": "뜨거운 조리 도구에 갇힌 최후",
   "original": "Cooked to Death",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "인물이 조리 공간의 위험 속에서 죽음을 맞도록 꾸며 익숙한 부엌을 위협적인 장소로 바꾸는 사건. 음식을 만드는 위협이라는 점에서 [[살아 있는 먹이를 요리하려 하기]]과 닿지만, 여기서는 최후의 사건에 초점이 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "오븐과 가마, 튀김기 같은 조리 장치에 사람을 가두어 죽이는 장면이다. 음식을 만드는 공간이 신체를 위협하는 처형과 방어의 도구로 전환된다.\n\n공격자를 밀어 넣는 즉흥적인 반격과 악역이 미리 준비한 잔혹한 함정 모두 가능하다. 익숙한 주방의 열이 닫힌 공간과 결합하면서 벗어나지 못하는 공포를 만든다.\n\n단순히 불에 타는 모든 죽음과는 장치의 용도가 다르다. 먹으려는 목적이 반드시 필요한 것은 아니며 실제 조리 기구의 작동을 정확히 재현하는 유형도 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "오븐과 가마, 튀김기 같은 조리 장치에 사람을 가두어 죽이는 장면이다. 음식을 만드는 공간이 신체를 위협하는 처형과 방어의 도구로 전환된다.\n\n공격자를 밀어 넣는 즉흥적인 반격과 악역이 미리 준비한 잔혹한 함정 모두 가능하다. 익숙한 주방의 열이 닫힌 공간과 결합하면서 벗어나지 못하는 공포를 만든다.\n\n단순히 불에 타는 모든 죽음과는 장치의 용도가 다르다. 먹으려는 목적이 반드시 필요한 것은 아니며 실제 조리 기구의 작동을 정확히 재현하는 유형도 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

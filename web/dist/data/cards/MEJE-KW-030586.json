@@ -4,8 +4,8 @@
   "title": "차로 치어 죽인 동물을 식사로 삼기",
   "original": "Roadkill for Dinner",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00814",
+  "primary_tag_id": "ML-T00814",
   "description": {
     "definition": "도로에서 자신의 차에 치인 동물을 버리지 않고 음식으로 먹는 사건이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "계획적인 사냥과 구별하며 실제 식품 안전 판단을 제공하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.010.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "운전 중 죽인 동물을 식사 재료로 삼는 전개다. 사고의 결과가 뜻밖의 먹거리로 전환된다. 우연한 교통사고의 결과가 식재료의 획득으로 처리되는 전환이 핵심이다.\n\n사고로 생긴 죽음과 식사가 같은 사건에 연결된다. 동물을 버리는 대신 먹는 선택은 계획하지 않았던 획득을 음식의 출처로 바꾸며 인물과 주변의 반응 차이를 드러낼 수 있다. 계획한 사냥이나 보통의 음식 구매와 달리 죽음의 원인과 식사의 연결이 장면의 특이성을 만든다.\n\n의도적으로 동물을 잡는 사냥과 획득 과정이 다르다. 이 장면의 존재만으로 실제 식품 안전을 판단할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "운전 중 죽인 동물을 식사 재료로 삼는 전개다. 사고의 결과가 뜻밖의 먹거리로 전환된다. 우연한 교통사고의 결과가 식재료의 획득으로 처리되는 전환이 핵심이다.\n\n사고로 생긴 죽음과 식사가 같은 사건에 연결된다. 동물을 버리는 대신 먹는 선택은 계획하지 않았던 획득을 음식의 출처로 바꾸며 인물과 주변의 반응 차이를 드러낼 수 있다. 계획한 사냥이나 보통의 음식 구매와 달리 죽음의 원인과 식사의 연결이 장면의 특이성을 만든다.\n\n의도적으로 동물을 잡는 사냥과 획득 과정이 다르다. 이 장면의 존재만으로 실제 식품 안전을 판단할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

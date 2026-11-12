@@ -6,8 +6,8 @@
   "aliases": [
     "의식과 생명을 담은 핵"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01207",
+  "primary_tag_id": "ML-T01207",
   "description": {
     "definition": "육체 내부의 기관이나 장치에 자아가 보존되어 그 핵이 무사하면 다른 몸이나 수리한 몸에서 활동을 재개할 수 있는 설정이다.",
     "detail": "작품 사례: [[Gravity Circuit]]의 Circuit은 [[로봇]]의 기억과 성격을 보존하여, 몸이 파괴되어도 다시 만들거나 다른 몸에서 활동을 이어 갈 수 있게 한다.",
@@ -15,10 +15,10 @@
     "boundary": "핵을 몸 밖에 숨겨도 본체가 계속 활동하는 영혼 보관물과 달리 분리된 몸은 작동을 멈춘다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기억과 성격을 몸 안의 핵에 보존해 신체와 자아의 생존을 분리하는 설정이다. 몸이 손상되어도 핵이 남으면 재구성과 다른 육체에서의 활동이 가능할 수 있다.\n\n핵을 떼어 낸 몸은 작동을 멈춘다는 조건이 중요하다. 본체가 활동하는 동안 영혼 보관물을 다른 장소에 숨겨 두는 유형과는 구조가 다르다.\n\n[[Gravity Circuit]]의 Circuit은 [[로봇]]의 기억과 성격을 보존한다. 몸의 파괴가 곧 인격의 소멸이 되지 않으며 새 몸으로 활동을 이어 갈 근거가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기억과 성격을 몸 안의 핵에 보존해 신체와 자아의 생존을 분리하는 설정이다. 몸이 손상되어도 핵이 남으면 재구성과 다른 육체에서의 활동이 가능할 수 있다.\n\n핵을 떼어 낸 몸은 작동을 멈춘다는 조건이 중요하다. 본체가 활동하는 동안 영혼 보관물을 다른 장소에 숨겨 두는 유형과는 구조가 다르다."
+      ],
+      [
+        "관련 작품",
+        "[[Gravity Circuit]]의 Circuit은 [[로봇]]의 기억과 성격을 보존한다. 몸의 파괴가 곧 인격의 소멸이 되지 않으며 새 몸으로 활동을 이어 갈 근거가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

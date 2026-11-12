@@ -4,8 +4,8 @@
   "title": "늦게 맡는 지도자의 자리",
   "original": "Delayed Leadership Ascendance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00963",
+  "primary_tag_id": "ML-T00963",
   "description": {
     "definition": "능력과 경험이 있어도 지휘를 피하던 인물이 여러 사건 뒤에야 지도자 역할을 받아들인다. 리더십이 타고난 자격보다 선택과 책임으로 완성된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이끌 능력이 있지만 권한을 맡지 않던 인물이 나중에 지도자의 책임을 수락하는 전개다. 실력의 발견보다 그 역할을 선택하기까지의 과정이 중심이다.\n\n이전 실패와 권력에 대한 불신, 다른 사람을 지배하기 싫은 마음이 망설임의 이유가 될 수 있다. 사건을 겪으며 도움을 주는 것과 결정을 맡는 것의 차이를 깨닫는다.\n\n지위가 자동으로 주어진다고 지도력이 완성되는 것은 아니다. 책임을 수락한 뒤 어떤 기준으로 집단을 이끄는지가 중요하며, 타고난 운명보다 경험과 선택으로 리더가 되는 모습을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이끌 능력이 있지만 권한을 맡지 않던 인물이 나중에 지도자의 책임을 수락하는 전개다. 실력의 발견보다 그 역할을 선택하기까지의 과정이 중심이다.\n\n이전 실패와 권력에 대한 불신, 다른 사람을 지배하기 싫은 마음이 망설임의 이유가 될 수 있다. 사건을 겪으며 도움을 주는 것과 결정을 맡는 것의 차이를 깨닫는다.\n\n지위가 자동으로 주어진다고 지도력이 완성되는 것은 아니다. 책임을 수락한 뒤 어떤 기준으로 집단을 이끄는지가 중요하며, 타고난 운명보다 경험과 선택으로 리더가 되는 모습을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

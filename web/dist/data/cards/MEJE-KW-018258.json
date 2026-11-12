@@ -4,8 +4,8 @@
   "title": "악행으로 동료임을 입증하라는 시험",
   "original": "If You're So Evil, Eat This Kitten!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00768",
+  "primary_tag_id": "ML-T00768",
   "description": {
     "definition": "악한 집단이 새 구성원이나 의심스러운 동료에게 해로운 행동을 시켜 정말 자기편인지 확인하는 충성 시험이다.",
     "detail": "잠입한 선인은 정체를 숨기는 목적과 도덕적 한계 사이에 놓인다. 대안을 찾거나 명령을 거부할 수 있다.\n\n작품 사례: 《[[드래곤볼 Z]]》에서 라데츠는 오공에게 인간들을 죽여 사이어인에 대한 충성을 증명하라고 요구하지만 오공은 거부하고 맞선다.",
@@ -13,19 +13,19 @@
     "boundary": "보통의 입단 의식이나 상대가 선한 사람인지 확인하는 시험과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "우리 편이 맞다면 이 나쁜 짓도 해 보라고 시킨다.\n\n작품 사례: 《[[드래곤볼 Z]]》에서 라데츠는 오공에게 인간들을 죽여 사이어인에 대한 충성을 증명하라고 요구하지만 오공은 거부하고 맞선다.",
+    "easy_ko": "우리 편이 맞다면 이 나쁜 짓도 해 보라고 시킨다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "잠입한 선인은 정체를 숨기는 목적과 도덕적 한계 사이에 놓인다. 대안을 찾거나 명령을 거부할 수 있다.\n\n악행의 수행 여부가 소속과 충성을 판단하는 기준이 된다. 집단의 명령을 따르는 행동에는 신뢰를 얻는 목적과 정체를 의심받지 않으려는 목적이 겹칠 수 있다.\n\n보통의 입단 의식이나 상대가 선한 사람인지 확인하는 시험과 구별한다.\n\n《[[드래곤볼 Z(애니메이션)]]》에서 라데츠는 오공에게 인간들을 죽여 사이어인에 대한 충성을 증명하라고 요구하지만 오공은 거부하고 맞선다.",
+    "sections": [
+      [
+        "상세 설명",
+        "잠입한 선인은 정체를 숨기는 목적과 도덕적 한계 사이에 놓인다. 대안을 찾거나 명령을 거부할 수 있다.\n\n악행의 수행 여부가 소속과 충성을 판단하는 기준이 된다. 집단의 명령을 따르는 행동에는 신뢰를 얻는 목적과 정체를 의심받지 않으려는 목적이 겹칠 수 있다.\n\n보통의 입단 의식이나 상대가 선한 사람인지 확인하는 시험과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[드래곤볼 Z(애니메이션)]]》에서 라데츠는 오공에게 인간들을 죽여 사이어인에 대한 충성을 증명하라고 요구하지만 오공은 거부하고 맞선다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -6,8 +6,8 @@
   "aliases": [
     "배우의 즉흥을 위해 비워 둔 대본"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "대본이 구체적인 대사나 동작을 정하지 않고 특정 부분의 표현을 배우의 즉흥 연기에 맡기는 제작 방식이다.",
     "detail": "작품 사례: [[My Little Pony: Equestria Girls – Rainbow Rocks]]에서 스닙스와 스네일스의 랩은 성우들이 미리 정해진 가사 없이 즉석에서 만들어, 의도한 어설픔을 즉흥 연기로 구현한다.",
@@ -15,10 +15,10 @@
     "boundary": "촬영 중 우연히 나온 행동을 나중에 채택하는 경우와 달리 즉흥의 여지를 미리 마련한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대본에서 특정 부분의 대사·행동을 비워 두거나 포괄적인 지시만 준다. 표현은 배우가 즉흥으로 정하되 그런 여유를 둔 결정은 사전에 이루어진다.\n\n배우의 목소리·몸짓·개그를 사용할 수 있으며 일부 장면부터 작품 대부분까지 적용 범위가 다르다. 즉흥 구간과 정해진 줄거리의 연결은 별도 제작 조건이다.\n\n촬영 중 우연히 나온 행동을 나중에 채택하는 경우와 다르다. 즉흥의 자리를 미리 마련하며 결과가 능숙하거나 의도적으로 서툴게 들릴 수도 있다.\n\n작품 사례: 《[[My Little Pony: Equestria Girls – Rainbow Rocks]]》에서 스닙스와 스네일스의 랩은 성우들이 미리 정해진 가사 없이 즉석에서 만들어, 의도한 어설픔을 즉흥 연기로 구현한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대본에서 특정 부분의 대사·행동을 비워 두거나 포괄적인 지시만 준다. 표현은 배우가 즉흥으로 정하되 그런 여유를 둔 결정은 사전에 이루어진다.\n\n배우의 목소리·몸짓·개그를 사용할 수 있으며 일부 장면부터 작품 대부분까지 적용 범위가 다르다. 즉흥 구간과 정해진 줄거리의 연결은 별도 제작 조건이다.\n\n촬영 중 우연히 나온 행동을 나중에 채택하는 경우와 다르다. 즉흥의 자리를 미리 마련하며 결과가 능숙하거나 의도적으로 서툴게 들릴 수도 있다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[My Little Pony: Equestria Girls – Rainbow Rocks]]》에서 스닙스와 스네일스의 랩은 성우들이 미리 정해진 가사 없이 즉석에서 만들어, 의도한 어설픔을 즉흥 연기로 구현한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "학대자의 매달리는 사과",
   "original": "Desperate Abuser Apology",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "학대 관계에서 벗어난 사람에게 가해자가 사과와 변화의 약속을 내세워 다시 관계로 끌어들이려는 전개. 말의 절박함과 실제 책임이 같지 않을 수 있음을 보여 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "학대받던 사람이 떠나자 가해자가 절박한 사과와 변화의 약속으로 다시 가까워지려는 전개다. 말의 강도만으로 책임 있는 변화가 확인되는 것은 아니며, 피해자의 안전과 거리를 유지할 선택이 관계의 핵심적인 판단 기준이 된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "학대 관계에서 벗어난 사람에게 가해자가 매달리며 돌아오라고 하는 전개다. 사과와 변화의 약속이 관계를 다시 통제하려는 수단으로 사용된다.\n\n혼자서는 살 수 없다는 호소와 선물, 이전의 좋은 기억이 동원될 수 있다. 말은 절박하지만 피해를 인정하고 선택권을 존중하는 행동은 부족할 수 있다.\n\n진심 어린 후회도 관계 복귀를 요구할 권리를 만들지는 않는다. 사과의 강도와 지속적인 책임의 이행을 구별해야 하며, 돌아오지 않는 사람을 다시 위협한다면 통제의 목적이 더욱 분명해진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "학대 관계에서 벗어난 사람에게 가해자가 매달리며 돌아오라고 하는 전개다. 사과와 변화의 약속이 관계를 다시 통제하려는 수단으로 사용된다.\n\n혼자서는 살 수 없다는 호소와 선물, 이전의 좋은 기억이 동원될 수 있다. 말은 절박하지만 피해를 인정하고 선택권을 존중하는 행동은 부족할 수 있다.\n\n진심 어린 후회도 관계 복귀를 요구할 권리를 만들지는 않는다. 사과의 강도와 지속적인 책임의 이행을 구별해야 하며, 돌아오지 않는 사람을 다시 위협한다면 통제의 목적이 더욱 분명해진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

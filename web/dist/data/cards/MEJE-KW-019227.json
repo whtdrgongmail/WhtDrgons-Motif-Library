@@ -4,8 +4,8 @@
   "title": "흡혈귀와 늑대인간의 혼합체",
   "original": "Vampiric Werewolf",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01133",
+  "primary_tag_id": "ML-T01133",
   "description": {
     "definition": "[[흡혈귀]]의 성질과 늑대인간의 성질을 한 존재가 함께 지니는 혼합 괴물 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "둘이 동료로 등장하는 경우나 한쪽 특징을 잠깐 흉내 낸 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 존재가 [[흡혈귀]]와 [[늑대인간]]의 성질을 함께 지닌 혼합 괴물이다. 서로 다른 저주와 변신이 배타적이지 않다는 세계의 규칙에서 성립한다.\n\n물림과 혈통, 추가 의례로 여러 힘을 얻을 수 있다. 장점만 결합하면 압도적인 적이 되고 약점과 욕구도 함께 남으면 서로 충돌하는 생존 조건이 갈등을 만든다.\n\n두 종족이 함께 싸우거나 인간과 괴물의 단순한 혼혈인 경우와는 다르다. 개별 세계가 두 상태의 공존을 허용하는지와 변신·흡혈·재생의 규칙이 어떻게 결합하는지를 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 존재가 [[흡혈귀]]와 [[늑대인간]]의 성질을 함께 지닌 혼합 괴물이다. 서로 다른 저주와 변신이 배타적이지 않다는 세계의 규칙에서 성립한다.\n\n물림과 혈통, 추가 의례로 여러 힘을 얻을 수 있다. 장점만 결합하면 압도적인 적이 되고 약점과 욕구도 함께 남으면 서로 충돌하는 생존 조건이 갈등을 만든다.\n\n두 종족이 함께 싸우거나 인간과 괴물의 단순한 혼혈인 경우와는 다르다. 개별 세계가 두 상태의 공존을 허용하는지와 변신·흡혈·재생의 규칙이 어떻게 결합하는지를 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

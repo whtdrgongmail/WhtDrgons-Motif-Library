@@ -4,8 +4,8 @@
   "title": "미국 도시 빈곤 지역의 삶을 다루는 영화",
   "original": "Hood Film",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00321",
+  "primary_tag_id": "ML-T00321",
   "description": {
     "definition": "미국의 가난한 도시 지역에 사는 흑인 또는 라틴계 공동체의 생활과 성장, 구조적 불평등 속의 선택을 중심에 놓는 영화 장르다.",
     "detail": "작품 사례: [[A Guide to Recognizing Your Saints]]는 주인공이 퀸스에서 갱단과 충돌하며 보낸 거친 청소년기와 성인이 되어 돌아온 동네를 대비한다.",
@@ -13,17 +13,20 @@
     "boundary": "범죄 장면만 있는 영화나 특정 공동체 전체를 범죄적이라고 일반화하는 묘사와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.111.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미국 도시의 빈곤 지역에 사는 공동체의 일상과 사회적 제약을 중심으로 하는 영화 범주다. 범죄와 폭력은 삶의 조건과 관계를 설명하는 일부가 될 수 있다.\n\n범죄 장면이 있다는 사실만으로 충분하지 않다. 특정 공동체 전체가 본래 범죄적이라는 일반화와 구별하고 지역과 계층의 구체적인 경험을 설명해야 한다.\n\n[[A Guide to Recognizing Your Saints]]는 퀸스에서 갱단과 충돌한 주인공의 청소년기를 다룬다. 성인이 된 뒤 돌아온 동네와 대비해 한 지역의 경험과 시간적 거리를 연결한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미국 도시의 빈곤 지역에 사는 공동체의 일상과 사회적 제약을 중심으로 하는 영화 범주다. 범죄와 폭력은 삶의 조건과 관계를 설명하는 일부가 될 수 있다.\n\n범죄 장면이 있다는 사실만으로 충분하지 않다. 특정 공동체 전체가 본래 범죄적이라는 일반화와 구별하고 지역과 계층의 구체적인 경험을 설명해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[A Guide to Recognizing Your Saints]]는 퀸스에서 갱단과 충돌한 주인공의 청소년기를 다룬다. 성인이 된 뒤 돌아온 동네와 대비해 한 지역의 경험과 시간적 거리를 연결한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,22 +4,48 @@
   "title": "타락",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01583",
+  "primary_tag_id": "ML-T01583",
   "description": {
-    "definition": "",
+    "definition": "인물이 이전에 지키던 도덕적 기준이나 책임을 점차 포기하고, 타인에게 해를 끼치는 선택을 정당화하게 되는 변화 과정이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "18.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "처음에는 잘못이라고 여기던 행동을 욕망이나 두려움 때문에 반복하면서 스스로 허용하게 되는 변화다. 한 번의 실수보다 판단 기준이 계속 바뀌는지가 중요하다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "타락은 한 번의 잘못이나 잠깐의 분노만으로 성립하지 않는다. 인물이 이전에는 거부했던 해로운 선택을 반복하고, 그 선택을 설명하는 자신의 기준까지 바꾸는 과정이 있어야 한다.\n\n변화의 원인은 유혹, 권력, 공포, 상실 등으로 다를 수 있다. [[상대의 악한 성향을 키우는 조종자]]처럼 타인을 부추기는 인물이 등장할 수도 있지만, 스스로 내린 선택과 외부의 강요는 구별해서 설명해야 한다.\n\n동료를 보호하려고 한 번 규칙을 어긴 인물이 나중에는 자신의 지위를 지키기 위해 같은 위반을 반복하고 피해를 외면한다면, 행동의 목적과 도덕적 기준이 함께 변한 사례로 볼 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "타락은 한 번의 잘못이나 잠깐의 분노만으로 성립하지 않는다. 인물이 이전에는 거부했던 해로운 선택을 반복하고, 그 선택을 설명하는 자신의 기준까지 바꾸는 과정이 있어야 한다.\n\n변화의 원인은 유혹, 권력, 공포, 상실 등으로 다를 수 있다. [[상대의 악한 성향을 키우는 조종자]]처럼 타인을 부추기는 인물이 등장할 수도 있지만, 스스로 내린 선택과 외부의 강요는 구별해서 설명해야 한다."
+      ],
+      [
+        "사례",
+        "동료를 보호하려고 한 번 규칙을 어긴 인물이 나중에는 자신의 지위를 지키기 위해 같은 위반을 반복하고 피해를 외면한다면, 행동의 목적과 도덕적 기준이 함께 변한 사례로 볼 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

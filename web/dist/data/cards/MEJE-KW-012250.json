@@ -4,8 +4,8 @@
   "title": "동료를 끌어모으는 영웅",
   "original": "Magnetic Hero",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "개인적 매력과 신뢰를 바탕으로 새로운 친구와 동맹을 쉽게 얻어 주변 세력을 모으는 [[영웅]] 유형이다.",
     "detail": "작품 사례: [[Oathbringer]]의 칼라딘은 여행하며 난민과 경비병 집단을 차례로 친구와 동맹으로 끌어들이지만, 서로 적군이 된 이들의 충돌까지 막지는 못한다.",
@@ -13,10 +13,10 @@
     "boundary": "공식 권한이나 강제로 부하를 모으는 것과 달리 자발적인 끌림이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "동료를 얻는 원인이 공식 지위나 보상보다 개인에 대한 신뢰와 호감에 놓인다. 새로 만난 이들이 자발적으로 편에 서고, 그 선택이 주인공 주변의 [[관계]]를 넓히는 구조다.\n\n이 항목은 모든 동맹 형성이나 팀 구성과 같지 않다. 명령에 따른 복종, 고용, 강제 동원은 제외하며, 매력으로 사람을 모으더라도 갈등 해결까지 자동으로 보장하지 않는다.\n\n[[Oathbringer]]에서 칼라딘은 여행 중 난민과 경비병 집단을 친구이자 동맹으로 끌어들인다. 이 관계 형성은 적군이 된 집단 사이의 충돌을 저절로 해소하지는 않는다.\n\n[[Oathbringer]]",
+    "sections": [
+      [
+        "상세 설명",
+        "동료를 얻는 원인이 공식 지위나 보상보다 개인에 대한 신뢰와 호감에 놓인다. 새로 만난 이들이 자발적으로 편에 서고, 그 선택이 주인공 주변의 [[관계]]를 넓히는 구조다.\n\n이 항목은 모든 동맹 형성이나 팀 구성과 같지 않다. 명령에 따른 복종, 고용, 강제 동원은 제외하며, 매력으로 사람을 모으더라도 갈등 해결까지 자동으로 보장하지 않는다."
+      ],
+      [
+        "사례",
+        "[[Oathbringer]]에서 칼라딘은 여행 중 난민과 경비병 집단을 친구이자 동맹으로 끌어들인다. 이 관계 형성은 적군이 된 집단 사이의 충돌을 저절로 해소하지는 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[Oathbringer]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

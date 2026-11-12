@@ -4,8 +4,8 @@
   "title": "전통 의상으로만 문화를 표시하기",
   "original": "Culture Equals Costume",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01847",
+  "primary_tag_id": "ML-T01847",
   "description": {
     "definition": "등장인물의 출신 문화를 알리려고 실제 일상과 관계없이 전통적이거나 고정관념적인 옷을 입힌다. 의상 하나가 집단 전체를 대신하는 단순화를 드러낸다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 문화적 출신을 전통 복장으로만 빠르게 표시하는 관습이다. 상황상 평상복과 다른 옷이 자연스럽더라도 알아보기 쉬운 민족적 표지를 유지한다.\n\n여러 국가의 대표를 짧게 소개할 때 설명을 줄일 수 있다. 하지만 의례복과 특정 지역의 옷을 모두의 일상복처럼 쓰면 문화의 다양성과 변화가 사라진다.\n\n실제로 전통 옷을 입는 장면과 고정관념적인 배치는 구분해야 한다. 장소와 행사, 시대와 인물의 선택에 맞는지 여부가 중요하며 전통복 자체가 낡거나 우스운 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 문화적 출신을 전통 복장으로만 빠르게 표시하는 관습이다. 상황상 평상복과 다른 옷이 자연스럽더라도 알아보기 쉬운 민족적 표지를 유지한다.\n\n여러 국가의 대표를 짧게 소개할 때 설명을 줄일 수 있다. 하지만 의례복과 특정 지역의 옷을 모두의 일상복처럼 쓰면 문화의 다양성과 변화가 사라진다.\n\n실제로 전통 옷을 입는 장면과 고정관념적인 배치는 구분해야 한다. 장소와 행사, 시대와 인물의 선택에 맞는지 여부가 중요하며 전통복 자체가 낡거나 우스운 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

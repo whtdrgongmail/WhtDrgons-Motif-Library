@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "Superman: The Animated Series",
   "original": "Superman: The Animated Series",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "슈퍼맨: 애니메이티드 시리즈"
+  ],
+  "tag_id": "ML-T00072",
   "primary_tag_id": "ML-T00072",
   "description": {
     "definition": "이 카드는 서구권 애니메이션 《Superman: The Animated Series》를 가리킨다. 이 라이브러리에서는 [[유령 지대 같은 별도 차원]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Superman: The Animated Series에서 조엘은 크립톤 주민을 팬텀 존에 보관했다가 다른 행성에서 꺼내는 대피안을 생각해, 유령 같은 수용 공간을 현실과 분리된 차원으로 활용한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.001",
     "review_status": "provisional",
@@ -45,5 +47,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "멸망하는 크립톤에서 지구로 온 칼엘이 클라크 켄트로 자라 메트로폴리스를 지키는 [[애니메이션]] 시리즈다. 양부모에게 배운 도덕감과 태양 아래 얻은 초인적인 힘이 영웅의 정체성을 함께 이룬다.\n\n원작 신화의 기본 요소를 간결하고 시대에 덜 묶인 화면으로 재구성한다. 같은 인물의 실사 작품이나 만화 전체와 구분되는 영상판이며, 강한 능력과 그것을 사용하는 원칙이 동시에 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "멸망하는 크립톤에서 지구로 온 칼엘이 클라크 켄트로 자라 메트로폴리스를 지키는 [[애니메이션]] 시리즈다. 양부모에게 배운 도덕감과 태양 아래 얻은 초인적인 힘이 영웅의 정체성을 함께 이룬다.\n\n원작 신화의 기본 요소를 간결하고 시대에 덜 묶인 화면으로 재구성한다. 같은 인물의 실사 작품이나 만화 전체와 구분되는 영상판이며, 강한 능력과 그것을 사용하는 원칙이 동시에 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

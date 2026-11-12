@@ -4,8 +4,8 @@
   "title": "죽음을 앞둔 마지막 입맞춤",
   "original": "Last Kiss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02534",
+  "primary_tag_id": "ML-T02534",
   "description": {
     "definition": "연인 둘 중 한 사람 또는 둘 모두가 죽기 전에 마지막으로 입맞춤을 나눈다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "죽을 것이라 생각했지만 살아남는 위기의 고백과 구별한다. 죽음 이전의 마지막이라는 서사적 위치가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.011",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이별이 영원해지기 직전에 마지막 입맞춤을 한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽음을 앞두었거나 다시 만나지 못할 수 있다고 생각하는 연인이 마지막 입맞춤을 나누는 장면이다. 앞으로의 시간이 사라진다는 인식이 친밀함에 작별의 의미를 더한다.\n\n실제 임종과 위험한 출발 직전에 배치하여 관계를 짧은 행동으로 압축할 수 있다. 인물들은 마지막임을 몰라도 음악과 장면의 분위기가 관객에게 그 가능성을 먼저 알릴 수 있다.\n\n작품에서 마지막으로 보여 준 입맞춤이 모두 같은 의미는 아니다. 죽음과 이별의 전망이 중요하며, 이후 살아 돌아오는 결과가 있더라도 당시의 감정과 결심은 그대로 남는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽음을 앞두었거나 다시 만나지 못할 수 있다고 생각하는 연인이 마지막 입맞춤을 나누는 장면이다. 앞으로의 시간이 사라진다는 인식이 친밀함에 작별의 의미를 더한다.\n\n실제 임종과 위험한 출발 직전에 배치하여 관계를 짧은 행동으로 압축할 수 있다. 인물들은 마지막임을 몰라도 음악과 장면의 분위기가 관객에게 그 가능성을 먼저 알릴 수 있다.\n\n작품에서 마지막으로 보여 준 입맞춤이 모두 같은 의미는 아니다. 죽음과 이별의 전망이 중요하며, 이후 살아 돌아오는 결과가 있더라도 당시의 감정과 결심은 그대로 남는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

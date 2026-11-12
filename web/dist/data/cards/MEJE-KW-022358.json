@@ -4,8 +4,8 @@
   "title": "자고 일어나니 모르는 몸으로 변해 있기",
   "original": "Just Woke Up That Way",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00810",
+  "primary_tag_id": "ML-T00810",
   "description": {
     "definition": "잠자는 동안 자기 의사와 무관하게 몸이나 모습이 바뀌고 깨어난 인물이 원인을 모른 채 변화를 발견한다.",
     "detail": "작품 사례: 《[[슈렉 2]]》에서 피오나는 자신이 모르는 사이 일어난 [[마법]]의 영향으로 아침에 인간의 모습으로 깨어난다. 같은 약의 효과를 의도적으로 받은 슈렉보다 피오나의 당혹스러운 발견이 이 유형에 직접 맞는다.",
@@ -13,10 +13,10 @@
     "boundary": "자발적으로 변신 약을 먹고 결과를 예상한 경우보다 변화를 모른 채 겪는 인물의 발견을 중심으로 본다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.009.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "잠들기 전과 다른 몸으로 깨어난 인물은 변신 과정이 아니라 그 결과부터 겪는다. 거울이나 달라진 감각으로 이상을 알아차리면서 인물과 관객에게 원인 규명의 문제가 함께 주어진다. 스스로 변신을 선택해 결과를 예상한 경우와 달리, 잠든 동안 동의 없이 변화했다는 정보의 공백이 도입을 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "잠들기 전과 다른 몸으로 깨어난 인물은 변신 과정이 아니라 그 결과부터 겪는다. 거울이나 달라진 감각으로 이상을 알아차리면서 인물과 관객에게 원인 규명의 문제가 함께 주어진다. 스스로 변신을 선택해 결과를 예상한 경우와 달리, 잠든 동안 동의 없이 변화했다는 정보의 공백이 도입을 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

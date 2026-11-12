@@ -5,8 +5,8 @@
   "original": "Dealing Damage Charges the Super Move",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02099",
+  "primary_tag_id": "ML-T02099",
   "description": {
     "definition": "상대에게 피해를 주는 행동이 특수 공격의 사용 조건을 쌓아 적극적인 전투를 보상한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "시간이 지나기만 하면 회복되는 재사용 대기시간과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.004.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상대에게 공격을 성공시키면 특수 공격을 쓸 게이지가 쌓인다. 시간을 기다리는 것보다 위험을 감수하고 전투에 참여하는 행동이 다음 강력한 수단의 조건이 된다.\n\n공격에 성공한 쪽은 더 많은 선택지를 얻지만 무리한 접근은 피해의 위험도 높인다. 게이지를 현재의 우위를 굳히는 데 쓸지 불리한 상황에 대비해 남길지에 따라 공격적 운영의 방식이 달라질 수 있다.\n\n시간만 지나면 돌아오는 대기시간과는 충전의 원인이 다르다. 공격 입력과 실제 명중은 구별해야 하며 적중 횟수와 피해량 중 무엇을 기준으로 삼는지는 별도 규칙이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상대에게 공격을 성공시키면 특수 공격을 쓸 게이지가 쌓인다. 시간을 기다리는 것보다 위험을 감수하고 전투에 참여하는 행동이 다음 강력한 수단의 조건이 된다.\n\n공격에 성공한 쪽은 더 많은 선택지를 얻지만 무리한 접근은 피해의 위험도 높인다. 게이지를 현재의 우위를 굳히는 데 쓸지 불리한 상황에 대비해 남길지에 따라 공격적 운영의 방식이 달라질 수 있다.\n\n시간만 지나면 돌아오는 대기시간과는 충전의 원인이 다르다. 공격 입력과 실제 명중은 구별해야 하며 적중 횟수와 피해량 중 무엇을 기준으로 삼는지는 별도 규칙이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

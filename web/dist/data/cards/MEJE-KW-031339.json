@@ -4,8 +4,8 @@
   "title": "실제 자격처럼 내세우는 허위 학위",
   "original": "Phony Degree",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00946",
+  "primary_tag_id": "ML-T00946",
   "description": {
     "definition": "제대로 취득하지 않았거나 학문적 자격과 다른 성격의 학위를 정규 자격인 것처럼 내세워 권위와 대우를 요구하는 인물 설정이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "공부와 검증을 거쳐 얻은 학위가 아닌데도 증서를 걸어 놓고 전문가처럼 행세한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "문제는 증서의 존재보다 그것으로 요구하는 신뢰다. 돈을 내고 얻은 무의미한 증서, 꾸며 낸 학력, 명예적 수여를 실제 교육과 검증의 결과처럼 내세우면 상대는 잘못된 근거로 능력을 인정하게 된다. 호칭에 집착하거나 학위 표시를 과장하는 행동으로 권위에 대한 욕망을 드러낼 수 있다.\n\n명예 학위를 받은 사실 자체가 기만은 아니며, 그것의 성격을 정확히 밝히는 인물은 구별해야 한다. 실제 자격이 있지만 인정받지 못하는 사람이나 자격 없이도 능력이 뛰어난 사람과도 다르다. 학위를 내세운 요구와 실제 지식 사이의 간극이 드러날 때 가장의 허술함이 이야기의 사건이 된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "문제는 증서의 존재보다 그것으로 요구하는 신뢰다. 돈을 내고 얻은 무의미한 증서, 꾸며 낸 학력, 명예적 수여를 실제 교육과 검증의 결과처럼 내세우면 상대는 잘못된 근거로 능력을 인정하게 된다. 호칭에 집착하거나 학위 표시를 과장하는 행동으로 권위에 대한 욕망을 드러낼 수 있다.\n\n명예 학위를 받은 사실 자체가 기만은 아니며, 그것의 성격을 정확히 밝히는 인물은 구별해야 한다. 실제 자격이 있지만 인정받지 못하는 사람이나 자격 없이도 능력이 뛰어난 사람과도 다르다. 학위를 내세운 요구와 실제 지식 사이의 간극이 드러날 때 가장의 허술함이 이야기의 사건이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

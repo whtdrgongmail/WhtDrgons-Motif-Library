@@ -4,17 +4,17 @@
   "title": "Legend of Ace",
   "original": "Legend of Ace",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《Legend of Ace》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《Legend of Ace》는 아이템 체계 대신 일정 레벨마다 선택하는 카드로 영웅을 강화한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Legend of Ace》는 영웅을 골라 싸우는 팀 대전 게임이다. 성장 체계에 카드를 사용한다. 성장의 시점마다 카드를 선택해 같은 영웅의 능력을 다른 방향으로 구성한다.\n\n일정 레벨에 도달할 때마다 카드를 선택한다. 능력의 방향은 성장 시점의 선택에 따라 달라진다. 사전에 정한 빌드와 경기 중 선택한 강화가 결합하므로 레벨 상승만으로 결과가 고정되지 않는다.\n\n카드는 통상적인 아이템 체계를 대신한다. 장비 구매보다 정해진 성장 단계에서의 선택으로 강화 구성을 정하는 방식이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Legend of Ace》는 영웅을 골라 싸우는 팀 대전 게임이다. 성장 체계에 카드를 사용한다. 성장의 시점마다 카드를 선택해 같은 영웅의 능력을 다른 방향으로 구성한다.\n\n일정 레벨에 도달할 때마다 카드를 선택한다. 능력의 방향은 성장 시점의 선택에 따라 달라진다. 사전에 정한 빌드와 경기 중 선택한 강화가 결합하므로 레벨 상승만으로 결과가 고정되지 않는다.\n\n카드는 통상적인 아이템 체계를 대신한다. 장비 구매보다 정해진 성장 단계에서의 선택으로 강화 구성을 정하는 방식이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

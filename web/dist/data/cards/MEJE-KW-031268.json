@@ -4,8 +4,8 @@
   "title": "보급 없이 움직이는 괴물",
   "original": "Perpetual-Motion Monster",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01130",
+  "primary_tag_id": "ML-T01130",
   "description": {
     "definition": "먹이·물·휴식 같은 생존 자원을 보충하지 않고도 계속 활동할 수 있는 존재다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "성문 밖 괴물들이 아무것도 먹지 않고 몇 달을 기다릴 수 있어 농성으로 지치게 할 수 없다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "이 존재의 위협은 순간적인 힘보다 지속성에서 나온다. 살아 있는 군대라면 필요한 보급로와 휴식이 사라져 추적이나 포위가 길어질수록 상대가 불리해진다.\n\n언데드나 기계 병사가 자주 이 역할을 맡지만 종족만으로 성립하지는 않는다. 연료나 마력을 주기적으로 공급받아야 한다면 무보급 활동의 조건을 다시 살펴야 한다. [[영구기관]]과 연결되는 설정이지만 공학적 작동 원리의 설명은 필수가 아니다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "이 존재의 위협은 순간적인 힘보다 지속성에서 나온다. 살아 있는 군대라면 필요한 보급로와 휴식이 사라져 추적이나 포위가 길어질수록 상대가 불리해진다.\n\n언데드나 기계 병사가 자주 이 역할을 맡지만 종족만으로 성립하지는 않는다. 연료나 마력을 주기적으로 공급받아야 한다면 무보급 활동의 조건을 다시 살펴야 한다. [[영구기관]]과 연결되는 설정이지만 공학적 작동 원리의 설명은 필수가 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

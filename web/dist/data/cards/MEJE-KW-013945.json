@@ -4,8 +4,8 @@
   "title": "치유 배양 탱크",
   "original": "Healing Vat",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01482",
+  "primary_tag_id": "ML-T01482",
   "description": {
     "definition": "환자를 특수 액체가 든 탱크에 넣어 심각한 신체 손상을 빠르게 회복시키는 공상과학적 치료 장치이다.",
     "detail": "작품 사례: [[Dune (2021)]]에서 독으로 심하게 다친 Baron Harkonnen은 짙고 검은 액체가 든 탱크 안에 머무르며 몸을 회복한다.",
@@ -13,10 +13,10 @@
     "boundary": "생물을 보관하거나 성장시키기만 하는 탱크와 달리 치료 목적이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특수 액체 탱크가 신체를 회복시키면 공상과학 치료가 별도의 환경과 장치로 시각화된다. 심각한 손상이 빠르게 나아가는 동안 환자는 그 공간에 머문다.\n\n회복 중인 몸을 액체 안에 둔 모습은 환자의 취약함과 장치의 성능을 동시에 보여 준다. 치료가 눈에 보이는 환경에 집중되어 다른 탱크의 보관과 성장 기능과 구별된다.\n\n생물을 저장하거나 성장시키기만 하는 탱크와는 다르다. 치료와 회복의 목적이 있어야 한다.\n\n[[Dune (2021)]]에서 독으로 심하게 다친 Baron Harkonnen은 짙고 검은 액체가 든 탱크 안에 머무르며 몸을 회복한다.\n\n[[Dune (2021)]]",
+    "sections": [
+      [
+        "상세 설명",
+        "특수 액체 탱크가 신체를 회복시키면 공상과학 치료가 별도의 환경과 장치로 시각화된다. 심각한 손상이 빠르게 나아가는 동안 환자는 그 공간에 머문다.\n\n회복 중인 몸을 액체 안에 둔 모습은 환자의 취약함과 장치의 성능을 동시에 보여 준다. 치료가 눈에 보이는 환경에 집중되어 다른 탱크의 보관과 성장 기능과 구별된다.\n\n생물을 저장하거나 성장시키기만 하는 탱크와는 다르다. 치료와 회복의 목적이 있어야 한다."
+      ],
+      [
+        "사례",
+        "[[Dune (2021)]]에서 독으로 심하게 다친 Baron Harkonnen은 짙고 검은 액체가 든 탱크 안에 머무르며 몸을 회복한다."
+      ],
+      [
+        "관련 작품",
+        "[[Dune (2021)]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

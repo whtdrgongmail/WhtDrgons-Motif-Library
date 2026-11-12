@@ -4,28 +4,28 @@
   "title": "부모의 실직이 흔드는 가족",
   "original": "Jobless Parent Drama",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00971",
+  "primary_tag_id": "ML-T00971",
   "description": {
     "definition": "부모가 일자리를 잃거나 구하지 못하면서 생활비와 양육 문제로 가족이 갈등하고 적응하는 이야기다.",
     "detail": "즐기던 활동을 포기하거나 생계를 유지하던 역할을 다른 가족이 맡는다. 희망과 절약의 교훈뿐 아니라 체면·자존감·역할 변화의 [[갈등]]도 다룰 수 있다.\n\n작품 사례: 《[[심슨 가족]]》의 「Homer’s Odyssey」에서 호머는 발전소 일자리를 잃은 뒤 새 직장을 구하지 못해 심각하게 절망한다. 일자리 상실이 가족의 생활과 부모의 자존감을 동시에 흔든다.",
     "usage": "",
-    "boundary": "부모가 너무 일에 매달려 가족과 멀어지는 갈등과 구별한다. 경제적 변화가 자녀와 가족 생활에 미치는 영향이 중심이다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "부모의 일자리가 사라지자 가족 전체의 생활과 관계가 바뀐다.\n\n작품 사례: 《[[심슨 가족]]》의 「Homer’s Odyssey」에서 호머는 발전소 일자리를 잃은 뒤 새 직장을 구하지 못해 심각하게 절망한다. 일자리 상실이 가족의 생활과 부모의 자존감을 동시에 흔든다.",
+    "easy_ko": "부모의 일자리가 사라지자 가족 전체의 생활과 관계가 바뀐다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "즐기던 활동을 포기하거나 생계를 유지하던 역할을 다른 가족이 맡는다. 희망과 절약의 교훈뿐 아니라 체면·자존감·역할 변화의 [[갈등]]도 다룰 수 있다.\n\n부모가 너무 일에 매달려 가족과 멀어지는 갈등과 구별한다. 경제적 변화가 자녀와 가족 생활에 미치는 영향이 중심이다.\n\n《[[심슨 가족]]》의 「Homer’s Odyssey」에서 호머는 발전소 일자리를 잃은 뒤 새 직장을 구하지 못해 심각하게 절망한다. 일자리 상실이 가족의 생활과 부모의 자존감을 동시에 흔든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "즐기던 활동을 포기하거나 생계를 유지하던 역할을 다른 가족이 맡는다. 희망과 절약의 교훈뿐 아니라 체면·자존감·역할 변화의 [[갈등]]도 다룰 수 있다.\n\n부모가 너무 일에 매달려 가족과 멀어지는 갈등과 구별한다. 경제적 변화가 자녀와 가족 생활에 미치는 영향이 중심이다."
+      ],
+      [
+        "관련 작품",
+        "《[[심슨 가족]]》의 「Homer’s Odyssey」에서 호머는 발전소 일자리를 잃은 뒤 새 직장을 구하지 못해 심각하게 절망한다. 일자리 상실이 가족의 생활과 부모의 자존감을 동시에 흔든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

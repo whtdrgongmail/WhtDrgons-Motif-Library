@@ -4,8 +4,8 @@
   "title": "디지털 카드 대전 게임",
   "original": "Card Battle Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02489",
+  "primary_tag_id": "ML-T02489",
   "description": {
     "definition": "화면 속 카드를 모으고 조합해 다른 [[플레이어]]와 겨루는 게임 유형. 실제 카드로는 어려운 변화도 화면의 규칙으로 만들 수 있다. 패를 새로 얻는 전략도 가능하다: [[손의 카드를 바꿔 새로 뽑기]]. 화면으로 옮겨진 [[카드게임]]의 규칙을 바탕으로 한다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "02",
+    "code": "02.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "카드의 수집과 덱 구성을 중심으로 전투하는 디지털 게임이다. 실제 [[수집형 카드 게임]]을 옮길 수도 있고 컴퓨터의 계산과 표현을 전제로 새로운 규칙을 만들 수도 있다.\n\n새 카드는 전투 보상과 상점의 무작위 묶음 등으로 공급될 수 있다. 원하는 카드를 직접 고르는 방식과 무작위 획득은 성장의 속도와 선택을 달리한다. 실제 카드 시장의 교환과 단품 구매가 디지털 작품에 그대로 존재하는 것은 아니다.\n\n줄거리가 있으면 카드의 승패가 사회와 모험의 중요한 사건을 결정할 수 있다. 그러나 모든 카드를 쓰는 게임이 같은 장르는 아니다. 한 판 안에서 덱을 새로 만드는 형식과 미리 모은 카드로 구성을 준비하는 방식은 중심 경험이 다르며 다른 장르와 결합할 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "카드의 수집과 덱 구성을 중심으로 전투하는 디지털 게임이다. 실제 [[수집형 카드 게임]]을 옮길 수도 있고 컴퓨터의 계산과 표현을 전제로 새로운 규칙을 만들 수도 있다.\n\n새 카드는 전투 보상과 상점의 무작위 묶음 등으로 공급될 수 있다. 원하는 카드를 직접 고르는 방식과 무작위 획득은 성장의 속도와 선택을 달리한다. 실제 카드 시장의 교환과 단품 구매가 디지털 작품에 그대로 존재하는 것은 아니다.\n\n줄거리가 있으면 카드의 승패가 사회와 모험의 중요한 사건을 결정할 수 있다. 그러나 모든 카드를 쓰는 게임이 같은 장르는 아니다. 한 판 안에서 덱을 새로 만드는 형식과 미리 모은 카드로 구성을 준비하는 방식은 중심 경험이 다르며 다른 장르와 결합할 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

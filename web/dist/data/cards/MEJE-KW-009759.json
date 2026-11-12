@@ -4,8 +4,8 @@
   "title": "패션쇼",
   "original": "Fashion Show",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00822",
+  "primary_tag_id": "ML-T00822",
   "description": {
     "definition": "모델이 무대나 전시장에 새 의상과 장신구를 선보여 관객의 시선을 모으는 행사 장면이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.010.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "모델이 의상과 장신구를 무대에서 선보이는 행사이다. 걸음과 자세, 조명과 음악이 옷의 인상을 구성한다.\n\n관객과 사진가가 보기 쉬운 통로를 사용하거나 정지된 장면을 차례로 공개할 수 있다. 패션업계와 유명인들의 만남은 사회적 위상과 경쟁을 보여 주는 배경이 된다.\n\n단순한 옷 판매와는 전시와 공연의 기능이 다르다. 작품에서는 무대 위의 완벽한 이미지와 뒤편의 노동 및 갈등을 대비하기도 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "모델이 의상과 장신구를 무대에서 선보이는 행사이다. 걸음과 자세, 조명과 음악이 옷의 인상을 구성한다.\n\n관객과 사진가가 보기 쉬운 통로를 사용하거나 정지된 장면을 차례로 공개할 수 있다. 패션업계와 유명인들의 만남은 사회적 위상과 경쟁을 보여 주는 배경이 된다.\n\n단순한 옷 판매와는 전시와 공연의 기능이 다르다. 작품에서는 무대 위의 완벽한 이미지와 뒤편의 노동 및 갈등을 대비하기도 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

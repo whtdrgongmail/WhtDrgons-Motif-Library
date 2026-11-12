@@ -5,8 +5,8 @@
   "original": "Powdered Life Storage",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02579",
+  "primary_tag_id": "ML-T02579",
   "description": {
     "definition": "살아 있는 몸을 가루나 기본 재료 상태로 환원하여 활동을 멈춘 채 저장하고 나중에 다시 살아 있는 몸으로 복원하는 설정이다.",
     "detail": "가루로 많은 병력을 저장했다가 한꺼번에 복원하는 경우는 규모와 용도가 다른 변형이다.\n\n작품 사례: 《[[배트맨(극장 영화)]]》 영화의 장치는 살아 있는 외교관들을 가루로 줄여 보관하고 이후 다시 사람으로 복원할 수 있게 한다.",
@@ -14,19 +14,19 @@
     "boundary": "이미 죽은 존재를 되살리는 부활과 달리 생명의 보관·재개에 해당한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.005.010",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "살아 있는 사람을 작은 재료처럼 보관하다 필요할 때 되돌린다.\n\n작품 사례: 《[[배트맨(극장 영화)]]》 영화의 장치는 살아 있는 외교관들을 가루로 줄여 보관하고 이후 다시 사람으로 복원할 수 있게 한다.",
+    "easy_ko": "살아 있는 사람을 작은 재료처럼 보관하다 필요할 때 되돌린다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -39,5 +39,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가루로 많은 병력을 저장했다가 한꺼번에 복원하는 경우는 규모와 용도가 다른 변형이다.\n\n이미 죽은 존재를 되살리는 부활과 달리 생명의 보관·재개에 해당한다.\n\n《[[배트맨(극장 영화)]]》의 장치는 살아 있는 외교관들을 가루로 줄여 보관하고 이후 다시 사람으로 복원할 수 있게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가루로 많은 병력을 저장했다가 한꺼번에 복원하는 경우는 규모와 용도가 다른 변형이다.\n\n이미 죽은 존재를 되살리는 부활과 달리 생명의 보관·재개에 해당한다."
+      ],
+      [
+        "관련 작품",
+        "《[[배트맨(극장 영화)]]》의 장치는 살아 있는 외교관들을 가루로 줄여 보관하고 이후 다시 사람으로 복원할 수 있게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

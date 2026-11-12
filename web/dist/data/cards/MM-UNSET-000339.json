@@ -1,0 +1,62 @@
+{
+  "id": "MM-UNSET-000339",
+  "kind": "keyword",
+  "title": "신뢰할 수 없는 시점",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T01934",
+  "primary_tag_id": "ML-T01934",
+  "description": {
+    "definition": "인물이나 서술 매체가 제시한 사건 정보가 인식의 한계·기억 오류·편견·의도적인 왜곡 때문에 실제 사건과 어긋날 수 있는 서술 관점이다. 독자는 다른 장면과 증거를 대조해 제시된 정보를 다시 판단한다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "23.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "이야기를 보여 주는 사람이나 화면의 정보가 틀릴 수 있어, 보는 사람이 다른 단서를 함께 확인해야 하는 방식이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [
+    {
+      "id": "REF-000281",
+      "card_id": "MM-UNSET-000339",
+      "label_ko": "오리건주립대 문학 용어 안내",
+      "icon_key": "article",
+      "url": "https://liberalarts.oregonstate.edu/wlf/what-unreliable-narrator",
+      "description_ko": "신뢰할 수 없는 화자의 정보 전달과 독자의 판단",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "[[화자·시점]]은 누가 무엇을 알고 사건을 전달하는지 정하는 서술 조건이다. 신뢰할 수 없는 시점에서는 그 전달 내용이 작품 안의 다른 정보와 충돌한다. 잘못된 사실 보고뿐 아니라 사건의 원인과 타인의 의도를 오해하는 해석도 신뢰의 문제를 만든다.\n\n이 관점은 반드시 거짓말하는 화자를 뜻하지 않는다. 인물이 진심으로 믿지만 잘못 기억한 장면, 제한된 관찰 때문에 놓친 행동, 자신의 이해관계로 치우친 평가도 해당할 수 있다. 반전이 밝혀진 뒤에는 이전 장면이 왜 그렇게 보였는지 설명할 근거가 필요하다.\n\n[[잘못 본 장면을 진실로 바꿔 재현하기]]처럼 인물이 기억한 장면을 다시 보여 주되 관찰하지 못한 부분이나 잘못 이해한 행동을 수정하면, 관객은 처음 제시된 정보의 한계를 확인할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[화자·시점]]은 누가 무엇을 알고 사건을 전달하는지 정하는 서술 조건이다. 신뢰할 수 없는 시점에서는 그 전달 내용이 작품 안의 다른 정보와 충돌한다. 잘못된 사실 보고뿐 아니라 사건의 원인과 타인의 의도를 오해하는 해석도 신뢰의 문제를 만든다.\n\n이 관점은 반드시 거짓말하는 화자를 뜻하지 않는다. 인물이 진심으로 믿지만 잘못 기억한 장면, 제한된 관찰 때문에 놓친 행동, 자신의 이해관계로 치우친 평가도 해당할 수 있다. 반전이 밝혀진 뒤에는 이전 장면이 왜 그렇게 보였는지 설명할 근거가 필요하다."
+      ],
+      [
+        "사례",
+        "[[잘못 본 장면을 진실로 바꿔 재현하기]]처럼 인물이 기억한 장면을 다시 보여 주되 관찰하지 못한 부분이나 잘못 이해한 행동을 수정하면, 관객은 처음 제시된 정보의 한계를 확인할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
+}

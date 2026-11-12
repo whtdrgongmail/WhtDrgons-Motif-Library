@@ -4,8 +4,8 @@
   "title": "나중에 쓸모가 밝혀지는 선물",
   "original": "Chekhov's Gift",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00709",
+  "primary_tag_id": "ML-T00709",
   "description": {
     "definition": "별생각 없이 받은 듯한 선물이 이야기 후반에 필요한 능력이나 정보를 제공한다. 선물을 주고받은 관계도 그때 새 의미를 얻는다. 선물의 쓰임을 앞서 숨겨 두는 구성은 [[체호프의 총]]을 인물 관계에 얹은 형태다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "처음부터 용도를 알고 요청한 보급품과 구별하며 쓸모의 뒤늦은 발견이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "06",
+    "code": "06.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "처음에는 용도와 중요성이 분명하지 않았던 선물이 나중에 핵심적인 기능을 하는 장치다. 선물이라는 사적인 관계가 물건의 지속적인 소유를 자연스럽게 설명한다.\n\n준 사람이 쓰임을 미리 알았거나 우연히 필요한 순간을 만날 수 있다. 기능을 발견하는 과정이 인물과 관객에게 동시에 새로운 의미를 제공한다.\n\n처음부터 임무용 장비라고 분명히 설명한 물건과는 정보의 배치가 다르다. 생일과 축일 자체보다 선물의 초기 인상과 나중의 역할 사이의 변화가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "처음에는 용도와 중요성이 분명하지 않았던 선물이 나중에 핵심적인 기능을 하는 장치다. 선물이라는 사적인 관계가 물건의 지속적인 소유를 자연스럽게 설명한다.\n\n준 사람이 쓰임을 미리 알았거나 우연히 필요한 순간을 만날 수 있다. 기능을 발견하는 과정이 인물과 관객에게 동시에 새로운 의미를 제공한다.\n\n처음부터 임무용 장비라고 분명히 설명한 물건과는 정보의 배치가 다르다. 생일과 축일 자체보다 선물의 초기 인상과 나중의 역할 사이의 변화가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

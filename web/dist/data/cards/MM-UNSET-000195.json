@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F12",
   "description": {
-    "definition": "",
+    "definition": "죽은 몸이나 죽음 이후의 존재가 여럿 모여 전투 집단을 이룬 군대이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "12",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "죽은 이들이 움직이거나 싸우도록 모인 군대다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 죽음 이후의 존재가 전투 집단으로 움직이려면 개별 존재의 상태와 조직의 지휘 방식을 함께 정해야 한다. 시체를 조종하는 힘이 있는지, 구성원이 스스로 판단하는지에 따라 같은 외형의 군대도 다른 위협이 된다.\n\n죽은 사람들이 다시 온전한 생명을 얻는 [[집단 부활]]과는 구분된다. 시체가 움직이는 상태와 살아 돌아와 생활을 이어 가는 상태는 같지 않으며, 전투에 참여한다는 사실만으로 부활의 성격이 정해지지는 않는다.\n\n죽은 동료의 영혼이 잠깐 나타나 돕는 현상도 자동으로 군대가 되지는 않는다. 여러 존재가 조직적으로 전투 역할을 맡는지와 그 상태가 어떻게 유지되는지를 확인해야 하며, 단순히 죽은 존재의 수가 많다는 이유만으로 분류하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 죽음 이후의 존재가 전투 집단으로 움직이려면 개별 존재의 상태와 조직의 지휘 방식을 함께 정해야 한다. 시체를 조종하는 힘이 있는지, 구성원이 스스로 판단하는지에 따라 같은 외형의 군대도 다른 위협이 된다.\n\n죽은 사람들이 다시 온전한 생명을 얻는 [[집단 부활]]과는 구분된다. 시체가 움직이는 상태와 살아 돌아와 생활을 이어 가는 상태는 같지 않으며, 전투에 참여한다는 사실만으로 부활의 성격이 정해지지는 않는다.\n\n죽은 동료의 영혼이 잠깐 나타나 돕는 현상도 자동으로 군대가 되지는 않는다. 여러 존재가 조직적으로 전투 역할을 맡는지와 그 상태가 어떻게 유지되는지를 확인해야 하며, 단순히 죽은 존재의 수가 많다는 이유만으로 분류하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

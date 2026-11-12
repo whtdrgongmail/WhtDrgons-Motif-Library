@@ -5,8 +5,8 @@
   "original": "A Map That Rotates with Your Heading",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "플레이어의 진행 방향이 지도 위쪽을 향하도록 지도 전체의 방향을 회전시킨다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "플레이어가 진행하는 방향이 위쪽에 오도록 지도가 함께 회전한다. 고정된 방위보다 현재 몸의 방향에 맞추어 공간을 읽게 하는 표시 방식이다.\n\n앞으로 갈 길과 화면의 위쪽이 일치해 즉각적인 이동 판단을 도울 수 있다. 반면 방향을 바꿀 때마다 지형의 배치도 돌아가므로 전체 공간의 고정된 관계를 기억하는 방식은 달라질 수 있다.\n\n북쪽 등 한 방위를 계속 위에 두는 지도와는 기준이 다르다. 지도가 회전한다고 실제 세계가 움직이는 것은 아니며 전체 지도와 일부 안내 표시의 회전도 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플레이어가 진행하는 방향이 위쪽에 오도록 지도가 함께 회전한다. 고정된 방위보다 현재 몸의 방향에 맞추어 공간을 읽게 하는 표시 방식이다.\n\n앞으로 갈 길과 화면의 위쪽이 일치해 즉각적인 이동 판단을 도울 수 있다. 반면 방향을 바꿀 때마다 지형의 배치도 돌아가므로 전체 공간의 고정된 관계를 기억하는 방식은 달라질 수 있다.\n\n북쪽 등 한 방위를 계속 위에 두는 지도와는 기준이 다르다. 지도가 회전한다고 실제 세계가 움직이는 것은 아니며 전체 지도와 일부 안내 표시의 회전도 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

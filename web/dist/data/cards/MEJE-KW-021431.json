@@ -4,8 +4,8 @@
   "title": "소원을 악의적으로 비틀어 주는 존재",
   "original": "Jackass Genie",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "소원을 들어줄 힘이 있으면서도 말의 허점이나 억지 조건을 이용해 소원자의 처지를 더 나쁘게 만들려는 존재다.",
     "detail": "작품 사례: 《[[둠 패트롤]]》에서 캔들메이커는 도로시의 소원대로 조슈아를 되살리지만, 곧 그녀의 마음속에서 빠져나와 그를 다시 죽인다.",
@@ -13,10 +13,10 @@
     "boundary": "표현을 단순히 문자 그대로 이해해 실수하는 존재와 다르다. 소원자에게 불행을 주려는 의도가 핵심이며 문구를 정교하게 해도 위험이 남을 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소원을 실현하되 요청의 허점을 악용해 원한 결과와 반대로 만든다. 힘의 부족보다 들어주는 존재의 악의가 피해의 원인이다.\n\n표현을 아무리 조심해도 억지 해석을 덧붙일 수 있다. 단순히 말을 문자 그대로 이해한 실수와 의도적인 해악은 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소원을 실현하되 요청의 허점을 악용해 원한 결과와 반대로 만든다. 힘의 부족보다 들어주는 존재의 악의가 피해의 원인이다.\n\n표현을 아무리 조심해도 억지 해석을 덧붙일 수 있다. 단순히 말을 문자 그대로 이해한 실수와 의도적인 해악은 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

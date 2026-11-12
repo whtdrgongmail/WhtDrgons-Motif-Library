@@ -4,8 +4,8 @@
   "title": "슬픔의 사연을 털어놓는 노래",
   "original": "Melancholy Musical Number",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "인물이 자신을 슬프게 한 일과 그에 따른 감정을 노래로 표현하는 장면이다.",
     "detail": "작품 사례: 《[[토마스와 친구들: 빅 월드 어드벤처]]》의 〈[[Sometimes You Make a Friend]]〉에서 토마스는 자신이 한 일을 후회하며 니아에게 사과하고 싶은 마음을 노래한다.",
@@ -13,10 +13,10 @@
     "boundary": "슬픈 음악을 듣는 장면과 다르며 단순한 우울 상태보다 무엇이 슬픈지의 사연이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 무엇 때문에 슬픈지와 그 감정을 노래로 드러낸다. 사건의 설명과 정서의 표현이 음악 안에서 함께 진행된다.\n\n이전의 행복한 기억을 되풀이하면 현재의 상실이 대비되고 작은 일에도 진지하게 노래하면 과장된 희극이 될 수 있다. 슬픔의 원인과 연출의 태도에 따라 같은 형식의 분위기가 달라진다.\n\n[[잃어버린 사랑을 그리워하는 노래]]는 원인이 연애의 상실인 구체적 유형이다. 다른 슬픈 곡을 듣는 인물과 달리 본인이 노래로 자신의 사연을 표현해야 하며 단순히 배경음이 우울한 장면과 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 무엇 때문에 슬픈지와 그 감정을 노래로 드러낸다. 사건의 설명과 정서의 표현이 음악 안에서 함께 진행된다.\n\n이전의 행복한 기억을 되풀이하면 현재의 상실이 대비되고 작은 일에도 진지하게 노래하면 과장된 희극이 될 수 있다. 슬픔의 원인과 연출의 태도에 따라 같은 형식의 분위기가 달라진다.\n\n[[잃어버린 사랑을 그리워하는 노래]]는 원인이 연애의 상실인 구체적 유형이다. 다른 슬픈 곡을 듣는 인물과 달리 본인이 노래로 자신의 사연을 표현해야 하며 단순히 배경음이 우울한 장면과 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

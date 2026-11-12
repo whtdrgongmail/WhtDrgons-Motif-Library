@@ -4,8 +4,8 @@
   "title": "종교 집단의 최고 지도자",
   "original": "High Priest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00925",
+  "primary_tag_id": "ML-T00925",
   "description": {
     "definition": "교단이나 종교 공동체의 최상위 권위를 맡아 신앙과 조직을 이끄는 인물이다. 선악 여부와는 별개이며 종교의 부패를 주도하거나 모르거나 바로잡으려 할 수도 있다.",
     "detail": "작품 사례: [[The Mandalorian]]의 아머러는 부족의 전통과 규범을 알려 주는 최고 권위로 존중받아, 말 한마디로 구성원들의 싸움을 멈추게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "신앙의 대상인 신 자체나 지위가 낮은 개별 성직자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-001010",
+      "work_card_id": "MM-MEDIA-001714",
       "description_ko": "The Mandalorian의 아머러는 부족의 전통과 규범을 알려 주는 최고 권위로 존중받아, 말 한마디로 구성원들의 싸움을 멈추게 한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "종교 [[공동체]]의 최상위 지도자는 신앙 해석과 조직의 방향에 큰 권위를 행사한다. 구성원의 행동을 멈추거나 규범을 확인하는 말이 공통된 기준으로 받아들여질 수 있다.\n\n그 지위 자체가 선함이나 부패를 뜻하지는 않는다. 조직의 문제를 주도하거나 모르거나 바로잡으려는 경우 모두 가능하며, 신앙 대상인 신이나 하위 성직자와는 역할이 다르다.\n\n[[The Mandalorian]]의 아머러는 부족의 전통과 규범을 설명하는 최고 권위로 존중받는다. 말 한마디로 구성원의 싸움을 멈추는 모습이 공동체 안에서의 권한을 드러낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "종교 [[공동체]]의 최상위 지도자는 신앙 해석과 조직의 방향에 큰 권위를 행사한다. 구성원의 행동을 멈추거나 규범을 확인하는 말이 공통된 기준으로 받아들여질 수 있다.\n\n그 지위 자체가 선함이나 부패를 뜻하지는 않는다. 조직의 문제를 주도하거나 모르거나 바로잡으려는 경우 모두 가능하며, 신앙 대상인 신이나 하위 성직자와는 역할이 다르다."
+      ],
+      [
+        "관련 작품",
+        "[[The Mandalorian]]의 아머러는 부족의 전통과 규범을 설명하는 최고 권위로 존중받는다. 말 한마디로 구성원의 싸움을 멈추는 모습이 공동체 안에서의 권한을 드러낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

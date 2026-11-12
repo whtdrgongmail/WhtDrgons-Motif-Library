@@ -4,8 +4,8 @@
   "title": "한 현장에서 충돌한 절도 계획",
   "original": "Heist Clash",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00797",
+  "primary_tag_id": "ML-T00797",
   "description": {
     "definition": "서로 다른 절도 집단이 같은 장소를 같은 때 노리면서 계획이 얽히는 사건이다.",
     "detail": "작품 사례: [[Conan the Barbarian (1982)]]에서 탑을 털러 온 Conan과 Subotai는 같은 목표로 잠입한 Valeria를 만나 잠시 대치한 뒤 함께 움직인다.",
@@ -13,10 +13,10 @@
     "boundary": "이미 훔친 물건을 도둑에게서 다시 훔치는 사건과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.008.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 독립적으로 세운 절도 계획이 같은 장소와 시간에 겹쳐 실행에 영향을 주는 사건이다. 각 집단은 상대의 존재를 예상하지 못했으므로, 목표에 도달하는 과정에서 경쟁하거나 계획을 조정해야 한다.\n\n이미 훔친 물건을 다른 도둑에게서 다시 가져오는 사건과는 시점이 다르다. 아직 진행 중인 별개의 범행들이 현장에서 충돌한다는 조건이 필요하다. 우연한 대면은 대치로 이어질 수도 있고 같은 목표를 위한 임시 협력으로 바뀔 수도 있다.\n\n[[Conan the Barbarian (1982)]]에서 탑을 털러 간 Conan과 Subotai는 같은 목적의 잠입자 Valeria를 만난다. 잠시 대치한 뒤 함께 움직이면서 독립된 범행 계획의 충돌이 협력으로 바뀐다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 독립적으로 세운 절도 계획이 같은 장소와 시간에 겹쳐 실행에 영향을 주는 사건이다. 각 집단은 상대의 존재를 예상하지 못했으므로, 목표에 도달하는 과정에서 경쟁하거나 계획을 조정해야 한다.\n\n이미 훔친 물건을 다른 도둑에게서 다시 가져오는 사건과는 시점이 다르다. 아직 진행 중인 별개의 범행들이 현장에서 충돌한다는 조건이 필요하다. 우연한 대면은 대치로 이어질 수도 있고 같은 목표를 위한 임시 협력으로 바뀔 수도 있다."
+      ],
+      [
+        "관련 작품",
+        "[[Conan the Barbarian (1982)]]에서 탑을 털러 간 Conan과 Subotai는 같은 목적의 잠입자 Valeria를 만난다. 잠시 대치한 뒤 함께 움직이면서 독립된 범행 계획의 충돌이 협력으로 바뀐다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

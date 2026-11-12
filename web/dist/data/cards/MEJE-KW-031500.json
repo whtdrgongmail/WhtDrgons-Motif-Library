@@ -4,28 +4,28 @@
   "title": "창작자가 구독과 반응을 직접 요청하기",
   "original": "Please Subscribe to Our Channel",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02301",
+  "primary_tag_id": "ML-T02301",
   "description": {
-    "definition": "콘텐츠 안팎에서 제작자가 수용자에게 구독·추천·댓글·후원 같은 후속 행동을 직접 권하는 방식이다.",
+    "definition": "영상이나 잡지의 제작자가 시청자·독자에게 구독을 요청하고, 영상에서는 좋아요·댓글·다른 영상 시청 등을 권하는 방식이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "영상을 마치며 다음 편도 보도록 구독하고 의견을 남겨 달라고 부탁한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "이 요청은 작품을 보는 행동을 지속적인 관계로 연결한다. 구독은 다음 콘텐츠와의 접점을 만들고, 의견이나 추천 요청은 수용자의 반응을 끌어내며, 후원 요청은 제작 지속을 위한 지원을 구한다. 동영상뿐 아니라 정기 간행물과 방송 등 반복해서 찾아오는 매체에도 적용할 수 있다.\n\n말로 부탁하거나 버튼과 안내 화면을 배치할 수 있고, 제작자의 말투에 맞춘 농담으로 형식을 변주할 수도 있다. 다만 요청이 길거나 반복되면 본편의 흐름과 경쟁한다. 어떤 행동을 왜 바라는지 분명히 하고 콘텐츠의 마무리와 연결하면, 단순한 명령보다 제작자와 수용자 관계의 일부로 읽히게 할 수 있다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "이 요청은 작품을 보는 행동을 지속적인 관계로 연결한다. 구독은 다음 콘텐츠와의 접점을 만들고, 의견이나 추천 요청은 수용자의 반응을 끌어내며, 후원 요청은 제작 지속을 위한 지원을 구한다. 동영상뿐 아니라 정기 간행물과 방송 등 반복해서 찾아오는 매체에도 적용할 수 있다.\n\n말로 부탁하거나 버튼과 안내 화면을 배치할 수 있고, 제작자의 말투에 맞춘 농담으로 형식을 변주할 수도 있다. 다만 요청이 길거나 반복되면 본편의 흐름과 경쟁한다. 어떤 행동을 왜 바라는지 분명히 하고 콘텐츠의 마무리와 연결하면, 단순한 명령보다 제작자와 수용자 관계의 일부로 읽히게 할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

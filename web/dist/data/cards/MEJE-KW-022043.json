@@ -4,8 +4,8 @@
   "title": "검술 활극 중심의 일본 시대극",
   "original": "chanbara",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-022042",
+  "primary_tag_id": "MEJE-KW-022042",
   "description": {
     "definition": "[[일본 시대극]] 가운데 검으로 싸우는 장면과 무사의 활극을 주요 볼거리로 삼는 유형이다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": "시대극 전체가 반드시 검술물인 것은 아니다. 무대의 시대성과 검술 중심의 [[서사]]·연출을 함께 본다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.112.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일본 시대극에서 검술 전투와 무사의 활극을 주요 볼거리로 삼는다. 시대적인 배경과 칼을 쓰는 액션의 비중이 결합한다.\n\n무사가 나온다는 사실보다 어떤 장면이 이야기를 이끄는지 보아야 한다. 검으로 맞붙는 행동이 주요한 표현과 진행의 기능을 맡는다.\n\n일본 시대극 전체를 같은 유형으로 볼 수는 없다. 배경의 시대성과 검술 중심의 연출을 함께 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일본 시대극에서 검술 전투와 무사의 활극을 주요 볼거리로 삼는다. 시대적인 배경과 칼을 쓰는 액션의 비중이 결합한다.\n\n무사가 나온다는 사실보다 어떤 장면이 이야기를 이끄는지 보아야 한다. 검으로 맞붙는 행동이 주요한 표현과 진행의 기능을 맡는다.\n\n일본 시대극 전체를 같은 유형으로 볼 수는 없다. 배경의 시대성과 검술 중심의 연출을 함께 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

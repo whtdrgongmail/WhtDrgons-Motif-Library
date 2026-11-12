@@ -5,8 +5,8 @@
   "original": "The Prankster Gets a Taste of Their Own Medicine",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01022",
+  "primary_tag_id": "ML-T01022",
   "description": {
     "definition": "계속 재산을 훼손당한 사람이 대비한 결과 같은 장난을 반복하던 인물이 뜻밖의 손해를 입는 전개이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "구체적인 함정 제작이나 상해 방법은 다루지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "10.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "늘 통하던 짓이 피해자의 대비 때문에 자신에게 돌아온다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "계속 물건을 망가뜨리던 장난에 피해자가 대비해 가해자에게 손해가 돌아간다. 무책임한 반복 행동이 예상 밖 결과를 맞는 전개다.\n\n같은 장난을 다시 하려는 기대와 달라진 상황이 충돌한다. 누가 무엇을 배웠고 이번에는 왜 결과가 바뀌었는지가 역전의 근거가 된다.\n\n구체적인 함정과 상해의 방법을 안내하지 않는다. 이야기에서 대비와 반복의 대가가 어떤 관계인지 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "계속 물건을 망가뜨리던 장난에 피해자가 대비해 가해자에게 손해가 돌아간다. 무책임한 반복 행동이 예상 밖 결과를 맞는 전개다.\n\n같은 장난을 다시 하려는 기대와 달라진 상황이 충돌한다. 누가 무엇을 배웠고 이번에는 왜 결과가 바뀌었는지가 역전의 근거가 된다.\n\n구체적인 함정과 상해의 방법을 안내하지 않는다. 이야기에서 대비와 반복의 대가가 어떤 관계인지 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "죽음을 에둘러 부르는 말",
   "original": "Deadly Euphemism",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "MM-UNSET-000518",
+  "primary_tag_id": "MM-UNSET-000518",
   "description": {
     "definition": "죽음이나 살해를 직접 말하지 않고 완곡한 표현이나 암호 같은 말로 대신한다. 발화자의 거리감, 은폐 의도, 조직 문화를 드러낼 수 있다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.008.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽음과 살해를 직접 말하지 않고 행정과 업무의 용어로 바꾸어 부르는 표현이다. 관객이 숨은 뜻을 깨닫는 순간 평범한 대화가 차갑고 위협적으로 바뀐다.\n\n해방과 정리, 삭제 같은 말을 쓰면 피해자의 인간성이 언어에서 지워진다. 비밀 조직과 관료제뿐 아니라 선한 편의 작전에서도 폭력과 책임을 멀게 만드는 수단이 될 수 있다.\n\n유족을 배려하는 완곡어와는 목적이 다를 수 있다. 표현이 감추는 실제 행동과 인물의 태도를 구분하고 존재 자체를 지우는 설정에서는 문자 그대로의 뜻도 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽음과 살해를 직접 말하지 않고 행정과 업무의 용어로 바꾸어 부르는 표현이다. 관객이 숨은 뜻을 깨닫는 순간 평범한 대화가 차갑고 위협적으로 바뀐다.\n\n해방과 정리, 삭제 같은 말을 쓰면 피해자의 인간성이 언어에서 지워진다. 비밀 조직과 관료제뿐 아니라 선한 편의 작전에서도 폭력과 책임을 멀게 만드는 수단이 될 수 있다.\n\n유족을 배려하는 완곡어와는 목적이 다를 수 있다. 표현이 감추는 실제 행동과 인물의 태도를 구분하고 존재 자체를 지우는 설정에서는 문자 그대로의 뜻도 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

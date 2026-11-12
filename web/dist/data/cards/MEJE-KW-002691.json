@@ -4,8 +4,8 @@
   "title": "소리를 내어 구조를 요청하기",
   "original": "Banging for Help",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00782",
+  "primary_tag_id": "ML-T00782",
   "description": {
     "definition": "움직일 수 없는 인물이 벽과 바닥을 두드려 밖의 사람이 알아채게 한다. 목소리 대신 반복되는 소리가 위치와 긴급성을 전한다. 주변 물건으로 소리를 내는 [[냄비를 두드려 주의를 모으기]]도 구조 신호가 될 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "갇히거나 묶여 말을 제대로 전할 수 없는 인물이 주변 물체를 두드려 구조자의 주의를 끈다. 제한된 신체 움직임이 의사소통의 마지막 수단이 된다.\n\n벽과 바닥을 차거나 물건을 넘어뜨리는 행동은 누가 소리를 들을지에 따라 희망과 발각 위험을 함께 만든다. 관객은 구조자가 가까워지는 장면과 교차하며 성공 여부를 기다리게 된다.\n\n단순히 화가 나서 소란을 내는 장면과는 목적이 다르다. 소리가 도움을 부르는 신호라는 의도와 그것이 타인에게 도달할 가능성이 함께 제시되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "갇히거나 묶여 말을 제대로 전할 수 없는 인물이 주변 물체를 두드려 구조자의 주의를 끈다. 제한된 신체 움직임이 의사소통의 마지막 수단이 된다.\n\n벽과 바닥을 차거나 물건을 넘어뜨리는 행동은 누가 소리를 들을지에 따라 희망과 발각 위험을 함께 만든다. 관객은 구조자가 가까워지는 장면과 교차하며 성공 여부를 기다리게 된다.\n\n단순히 화가 나서 소란을 내는 장면과는 목적이 다르다. 소리가 도움을 부르는 신호라는 의도와 그것이 타인에게 도달할 가능성이 함께 제시되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

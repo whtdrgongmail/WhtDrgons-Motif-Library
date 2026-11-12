@@ -4,8 +4,8 @@
   "title": "사나운 탈것이 한 사람만 받아들이기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02539",
+  "primary_tag_id": "ML-T02539",
   "description": {
     "definition": "여러 사람에게 저항하는 생물 탈것이 특정 인물의 접근과 명령에는 순응해 특별한 관계를 드러낸다.",
     "detail": "작품 사례: 《[[반지의 제왕(소설)]]》의 섀도팩스는 자신을 존중한 간달프만을 기수로 받아들이고 다른 이의 탑승을 거절한다.",
@@ -13,19 +13,25 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.003.008",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": {
-    "easy_ko": "아무도 다루지 못하던 생물이 한 사람에게는 마음을 연다.",
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
     "review_status": "reviewed",
-    "updated_at": "2026-11-08",
-    "row_version": 3
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "아무도 다루지 못하던 생물이 한 사람에게는 신뢰와 친밀감을 보인다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +44,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 사람에게 저항하는 생물 탈것이 특정 인물만 기수로 받아들인다. 다른 사람에게 보인 사나움과 그 인물에 대한 순응이 관계의 특별함을 드러낸다.\n\n선택받은 사람의 접근과 명령에 대한 반응을 비교하면 단순히 다루기 쉬운 동물이 아니라는 점이 확인된다. 정본의 사례에서는 존중하는 태도가 기수 수용과 연결된다.\n\n한 사람이 탈것을 이용한다는 사실만으로는 부족하다. 다른 사람을 거부하면서 특정 인물에게만 허용하는 선택성이 필요하다.\n\n《[[반지의 제왕(소설)]]》의 섀도팩스는 자신을 존중한 간달프만을 기수로 받아들이고 다른 이의 탑승을 거절한다.\n\n[[반지의 제왕(소설)]]",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 사람에게 저항하는 생물 탈것이 특정 인물만 기수로 받아들인다. 다른 사람에게 보인 사나움과 그 인물에 대한 순응이 관계의 특별함을 드러낸다.\n\n선택받은 사람의 접근과 명령에 대한 반응을 비교하면 단순히 다루기 쉬운 동물이 아니라는 점이 확인된다. 정본의 사례에서는 존중하는 태도가 기수 수용과 연결된다.\n\n한 사람이 탈것을 이용한다는 사실만으로는 부족하다. 다른 사람을 거부하면서 특정 인물에게만 허용하는 선택성이 필요하다."
+      ],
+      [
+        "사례",
+        "《[[반지의 제왕(소설)]]》의 섀도팩스는 자신을 존중한 간달프만을 기수로 받아들이고 다른 이의 탑승을 거절한다."
+      ],
+      [
+        "관련 작품",
+        "[[반지의 제왕(소설)]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

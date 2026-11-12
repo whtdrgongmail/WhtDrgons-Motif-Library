@@ -6,8 +6,8 @@
   "aliases": [
     "우습게 보던 악역이 실제 위협으로 바뀌기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "처음에는 무해하거나 무능해 보이던 악역이 성장·타락하거나 숨겨진 실력을 드러내 실제 위협이 되는 유형이다.",
     "detail": "작품 사례: [[Final Fantasy II]]의 보르겐은 만만하게 보이는 악당이지만 그의 함정이 요제프의 희생을 낳아, 실제로 동료를 잃게 할 수 있는 위협임이 드러난다.",
@@ -15,10 +15,10 @@
     "boundary": "처음부터 위험하다고 제시된 악역과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "처음에는 만만해 보인 악역이 실제 손실을 일으켜 초기 판단을 바꾸게 하는 구성이다. 우스운 인상과 해를 입힐 수 있는 능력이 뒤늦게 분리된다.\n\n처음부터 위험하다고 제시된 적과 다르다. 힘의 공개뿐 아니라 이전 인식이 달라질 구체적인 결과가 필요하다.\n\n[[Final Fantasy II]]의 보르겐은 만만한 인상을 주지만 함정으로 요제프의 희생을 낳는다. 동료의 죽음이 실제 피해를 일으킬 수 있는 악역이라는 사실을 확인시킨다.",
+    "sections": [
+      [
+        "상세 설명",
+        "처음에는 만만해 보인 악역이 실제 손실을 일으켜 초기 판단을 바꾸게 하는 구성이다. 우스운 인상과 해를 입힐 수 있는 능력이 뒤늦게 분리된다.\n\n처음부터 위험하다고 제시된 적과 다르다. 힘의 공개뿐 아니라 이전 인식이 달라질 구체적인 결과가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Final Fantasy II]]의 보르겐은 만만한 인상을 주지만 함정으로 요제프의 희생을 낳는다. 동료의 죽음이 실제 피해를 일으킬 수 있는 악역이라는 사실을 확인시킨다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

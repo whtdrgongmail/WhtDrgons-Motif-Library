@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F10",
   "description": {
-    "definition": "",
+    "definition": "결혼의 의미와 생활 조건을 충분히 검토하거나 준비하기 전에 빠르게 내린 혼인 결정이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "10",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "함께 살 준비와 결혼 뒤의 일을 충분히 생각하기 전에 서둘러 결혼하는 일이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성급한 결혼은 결혼에 필요한 대화와 준비가 충분하지 않은 상태에서 혼인을 결정하는 경우다. 연결 문맥에서는 아주 이른 시기에 결혼한 두 사람이 성장한 뒤 그 선택을 다시 보게 된다. 그러나 나이가 어렸다는 사실만으로 성급했다고 단정할 수는 없다.\n\n결혼을 서두른 이유가 가족의 압력인지, 관계의 열기인지, 생활상의 필요인지는 작품이 제시한 정보로 판단한다. 이유가 확인되지 않았다면 하나의 동기를 추정해 넣지 않는다.\n\n성급한 결혼이 반드시 [[불행한 결혼]]으로 이어지는 것도 아니다. 이후에 관계가 어떻게 변하고 당사자가 어떤 선택을 하는지는 별개의 서사 과정이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성급한 결혼은 결혼에 필요한 대화와 준비가 충분하지 않은 상태에서 혼인을 결정하는 경우다. 연결 문맥에서는 아주 이른 시기에 결혼한 두 사람이 성장한 뒤 그 선택을 다시 보게 된다. 그러나 나이가 어렸다는 사실만으로 성급했다고 단정할 수는 없다.\n\n결혼을 서두른 이유가 가족의 압력인지, 관계의 열기인지, 생활상의 필요인지는 작품이 제시한 정보로 판단한다. 이유가 확인되지 않았다면 하나의 동기를 추정해 넣지 않는다.\n\n성급한 결혼이 반드시 [[불행한 결혼]]으로 이어지는 것도 아니다. 이후에 관계가 어떻게 변하고 당사자가 어떤 선택을 하는지는 별개의 서사 과정이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

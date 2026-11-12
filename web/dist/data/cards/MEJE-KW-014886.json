@@ -4,8 +4,8 @@
   "title": "각색에서 익숙한 전개를 뒤집기",
   "original": "Not His Sled",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00613",
+  "primary_tag_id": "ML-T00613",
   "description": {
     "definition": "관객이 원작을 알아 다음 사건을 예상하도록 만든 뒤 각색판에서 그 예상과 다른 결과를 제시하는 반전이다.",
     "detail": "작품 사례: [[True and the Rainbow Kingdom]]의 골디락스 패러디는 집을 바꾼 손님에게 설인들이 화낼 듯 보이다가, 오히려 새 장식을 좋아하는 결말로 뒤집힌다.",
@@ -13,10 +13,10 @@
     "boundary": "원작과 다르다는 사실만 있고 예상의 유도가 없는 일반적인 각색 변경과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.001.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관객이 원작의 익숙한 결과를 예상하게 한 뒤 각색에서 반대 방향으로 바꾸는 구성이다. 원형에 대한 기억이 예상과 반전의 조건이 된다.\n\n원작과 단지 다르게 만들었다는 사실만으로 충분하지 않다. 익숙한 전개를 먼저 떠올리게 하는 장치와 그 기대의 수정이 필요하다.\n\n[[True and the Rainbow Kingdom]]의 골디락스 패러디에서는 설인들이 손님의 집 장식 변경에 화낼 듯 보인다. 그러나 새 장식을 좋아하는 결말로 바뀌어 원형에서 예상한 반응을 뒤집는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관객이 원작의 익숙한 결과를 예상하게 한 뒤 각색에서 반대 방향으로 바꾸는 구성이다. 원형에 대한 기억이 예상과 반전의 조건이 된다.\n\n원작과 단지 다르게 만들었다는 사실만으로 충분하지 않다. 익숙한 전개를 먼저 떠올리게 하는 장치와 그 기대의 수정이 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[True and the Rainbow Kingdom]]의 골디락스 패러디에서는 설인들이 손님의 집 장식 변경에 화낼 듯 보인다. 그러나 새 장식을 좋아하는 결말로 바뀌어 원형에서 예상한 반응을 뒤집는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

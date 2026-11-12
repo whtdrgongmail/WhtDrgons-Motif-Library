@@ -4,8 +4,8 @@
   "title": "소리만 들어도 알아보는 고유 포효",
   "original": "Signature Roar",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "특정 생물의 울음을 다른 존재와 혼동하기 어려운 고유한 소리로 만들어 청각적 정체성을 부여하는 표현이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단순히 소리가 크다는 것보다 특정 존재를 식별하는 기능이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "반복해서 쓰는 고유한 울음으로 생물을 알아보게 한다. 모습이 나오기 전에도 소리만으로 정체를 전달할 수 있다.\n\n다른 장면에서 같은 소리가 연결과 기대를 만든다. 큰 울음이라는 일반적인 특성보다 혼동하기 어려운 청각적 표지가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "반복해서 쓰는 고유한 울음으로 생물을 알아보게 한다. 모습이 나오기 전에도 소리만으로 정체를 전달할 수 있다.\n\n다른 장면에서 같은 소리가 연결과 기대를 만든다. 큰 울음이라는 일반적인 특성보다 혼동하기 어려운 청각적 표지가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

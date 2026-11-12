@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-033434",
+  "kind": "keyword",
+  "title": "소원으로 소원 횟수를 늘릴 수 없기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F13",
+  "description": {
+    "definition": "소원을 들어주는 규칙에서 추가 소원을 요구해 기회를 무한히 늘리는 방법을 금지한다.",
+    "detail": "",
+    "usage": "제한된 선택을 무력화하는 우회로를 막는다.",
+    "boundary": "세 번이라는 숫자 자체와 별개인 재귀적 요청의 제한이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "13",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "소원을 더 달라는 소원은 허용되지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "소원을 써서 추가 소원을 얻는 요청을 금한다. 제한된 기회를 스스로 늘려 무한히 사용하는 우회로를 차단한다.\n\n소원은 어떤 대상을 바꿀 수 있어도 요청의 횟수라는 규칙에는 개입하지 못한다. 선택의 희소성을 보존하는 별도의 제한이다.\n\n횟수가 꼭 세 번이어야 하는 것은 아니다. 정해진 수량 자체와 그것을 재귀적으로 늘릴 수 없다는 규칙을 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소원을 써서 추가 소원을 얻는 요청을 금한다. 제한된 기회를 스스로 늘려 무한히 사용하는 우회로를 차단한다.\n\n소원은 어떤 대상을 바꿀 수 있어도 요청의 횟수라는 규칙에는 개입하지 못한다. 선택의 희소성을 보존하는 별도의 제한이다.\n\n횟수가 꼭 세 번이어야 하는 것은 아니다. 정해진 수량 자체와 그것을 재귀적으로 늘릴 수 없다는 규칙을 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

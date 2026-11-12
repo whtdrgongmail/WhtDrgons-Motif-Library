@@ -4,8 +4,8 @@
   "title": "거꾸로 든 설계도대로 지은 건물",
   "original": "Upside-Down Blueprints",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00720",
+  "primary_tag_id": "ML-T00720",
   "description": {
     "definition": "설계도를 잘못된 방향으로 읽은 탓에 건물이 의도와 어긋난 형태로 완성되는 희극적 [[인과]] 장치이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "[[현실]]의 건축 공정을 설명하기보다 읽기 실수를 물리적 결과로 과장한 농담이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "06.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "방향을 잘못 본 설계도에 충실하게 따라 기이한 건물이 만들어진다. 읽기의 실수를 물리적인 결과로 옮기는 희극적 인과다.\n\n작업자가 의문을 말해도 상사가 생각하지 말고 따르라고 지시할 수 있다. 반대로 이상해서 도면을 돌려 보았는데 처음 방향이 맞았다는 변형도 가능하다.\n\n실제 건물이 그런 순서로 지어질 수 있다는 설명은 아니다. 권위에 대한 복종과 현장 판단의 충돌이 설계도의 오해에 더해지는 농담이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "방향을 잘못 본 설계도에 충실하게 따라 기이한 건물이 만들어진다. 읽기의 실수를 물리적인 결과로 옮기는 희극적 인과다.\n\n작업자가 의문을 말해도 상사가 생각하지 말고 따르라고 지시할 수 있다. 반대로 이상해서 도면을 돌려 보았는데 처음 방향이 맞았다는 변형도 가능하다.\n\n실제 건물이 그런 순서로 지어질 수 있다는 설명은 아니다. 권위에 대한 복종과 현장 판단의 충돌이 설계도의 오해에 더해지는 농담이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

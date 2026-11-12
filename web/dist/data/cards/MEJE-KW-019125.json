@@ -4,8 +4,8 @@
   "title": "요리 재료가 되는 괴물",
   "original": "Monsters as Cuisine",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01382",
+  "primary_tag_id": "ML-T01382",
   "description": {
     "definition": "괴물이 아닌 존재들이 환상적 괴물을 식재료로 삼아 먹는 세계의 음식 문화이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "괴물끼리 서로 잡아먹는 포식 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인간과 다른 지성 존재가 환상적 괴물을 식재료로 삼는 음식 문화다. 괴물의 공격에 노출되는 관계를 사냥과 조리, 섭취의 관점으로 뒤집는다.\n\n궁핍한 모험가의 비상식량이거나 일상적인 요리의 재료일 수 있다. 위험한 사냥과 독성, 복잡한 손질 규칙은 언제 먹을 수 있는지와 누가 조리 지식을 갖는지를 결정한다.\n\n비상시에만 먹는 경우와 사육과 시장이 정착한 경우는 세계의 경제가 다르다. 지성이 있는 상대를 식재료로 다루는 문제는 별도로 검토해야 하며, 모든 괴물을 안전하게 먹을 수 있다는 일반 규칙은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인간과 다른 지성 존재가 환상적 괴물을 식재료로 삼는 음식 문화다. 괴물의 공격에 노출되는 관계를 사냥과 조리, 섭취의 관점으로 뒤집는다.\n\n궁핍한 모험가의 비상식량이거나 일상적인 요리의 재료일 수 있다. 위험한 사냥과 독성, 복잡한 손질 규칙은 언제 먹을 수 있는지와 누가 조리 지식을 갖는지를 결정한다.\n\n비상시에만 먹는 경우와 사육과 시장이 정착한 경우는 세계의 경제가 다르다. 지성이 있는 상대를 식재료로 다루는 문제는 별도로 검토해야 하며, 모든 괴물을 안전하게 먹을 수 있다는 일반 규칙은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

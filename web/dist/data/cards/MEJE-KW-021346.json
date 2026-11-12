@@ -4,23 +4,29 @@
   "title": "우두머리보다 오른팔과 깊은 원한 맺기",
   "original": "It's Personal with the Dragon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01020",
+  "primary_tag_id": "ML-T01020",
   "description": {
     "definition": "적대 세력의 우두머리가 전체 사건을 움직이더라도 주인공이 가장 직접적이고 감정적인 원한을 품는 상대는 그 부하나 집행자인 대립 구도다.",
     "detail": "작품 사례: 《[[젤다의 전설: 신들의 트라이포스]]》의 만화판에서 가논이 배후의 적이지만, 링크에게는 삼촌을 죽이고 부모를 어둠의 세계로 보낸 아그님이 개인적인 원수다.",
     "usage": "공적인 최종 목표와 개인적인 결전을 나누고, 악역 조직 안의 서로 다른 인물이 [[서사]] 기능을 맡게 할 때 쓴다.",
-    "boundary": "단순히 부하가 더 강하다는 것과 다르다. 주인공의 개인적 피해와 대립이 부하 쪽에 집중되어야 하며 우두머리가 패배한 뒤에도 결판이 남을 수 있다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "세상을 위협하는 대장은 따로 있지만 내 삶을 망친 적은 그 오른팔이다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "조직 전체를 막는 목표와 개인적 원한을 해결하는 대결이 서로 다른 적에게 배분된다. 우두머리를 쓰러뜨리는 결말과 부하에게 결판을 내는 장면이 별도로 필요해질 수 있다.\n\n단순히 부하가 더 강하다는 것과 다르다. 주인공의 개인적 피해와 대립이 부하 쪽에 집중되어야 하며 우두머리가 패배한 뒤에도 결판이 남을 수 있다.\n\n《[[젤다의 전설: 신들의 트라이포스]]》의 2005년 만화판에서 가논이 배후의 적이지만, 링크에게는 삼촌을 죽이고 부모를 어둠의 세계로 보낸 아그님이 개인적인 원수다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조직 전체를 막는 목표와 개인적 원한을 해결하는 대결이 서로 다른 적에게 배분된다. 우두머리를 쓰러뜨리는 결말과 부하에게 결판을 내는 장면이 별도로 필요해질 수 있다.\n\n단순히 부하가 더 강하다는 것과 다르다. 주인공의 개인적 피해와 대립이 부하 쪽에 집중되어야 하며 우두머리가 패배한 뒤에도 결판이 남을 수 있다."
+      ],
+      [
+        "관련 작품",
+        "《[[젤다의 전설: 신들의 트라이포스]]》의 2005년 만화판에서 가논이 배후의 적이지만, 링크에게는 삼촌을 죽이고 부모를 어둠의 세계로 보낸 아그님이 개인적인 원수다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

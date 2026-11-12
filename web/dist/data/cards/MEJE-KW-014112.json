@@ -4,8 +4,8 @@
   "title": "거대 괴물에게 맞아 떨어지는 헬기",
   "original": "Helicopter Flyswatter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00785",
+  "primary_tag_id": "ML-T00785",
   "description": {
     "definition": "거대한 생물이 가까이 날아온 헬기나 저공 항공기를 직접 쳐서 파괴하는 장면이다.",
     "detail": "작품 사례: [[Mega Shark vs. Giant Octopus]]에서 거대한 문어가 가까이 날아온 전투기를 후려쳐, 항공기를 작은 벌레처럼 무력화한다.",
@@ -13,10 +13,10 @@
     "boundary": "미사일 격추나 기계 고장과 달리 거대 신체의 직접 타격이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거대한 생물이 가까이 접근한 [[항공기]]를 자기 몸으로 쳐서 [[무력화]]하는 액션이다. 기체의 속도나 무장보다 괴물과의 크기 차이와 접근 거리가 중요해져, 항공기가 상대적으로 작은 물체처럼 보인다.\n\n헬기뿐 아니라 가까이 날아온 다른 항공기로도 표현할 수 있지만, 기계 고장이나 미사일에 의한 격추와는 원인이 다르다. 거대 신체의 직접 타격이 있어야 하며, 그 접촉이 항공기의 안전한 거리라는 기대를 무너뜨린다.\n\n[[Mega Shark vs. Giant Octopus]]의 거대한 문어는 가까이 날아온 전투기를 후려친다. 큰 신체에 비해 작아 보이는 항공기를 직접 타격하여 크기 차이의 위협을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "거대한 생물이 가까이 접근한 [[항공기]]를 자기 몸으로 쳐서 [[무력화]]하는 액션이다. 기체의 속도나 무장보다 괴물과의 크기 차이와 접근 거리가 중요해져, 항공기가 상대적으로 작은 물체처럼 보인다.\n\n헬기뿐 아니라 가까이 날아온 다른 항공기로도 표현할 수 있지만, 기계 고장이나 미사일에 의한 격추와는 원인이 다르다. 거대 신체의 직접 타격이 있어야 하며, 그 접촉이 항공기의 안전한 거리라는 기대를 무너뜨린다."
+      ],
+      [
+        "관련 작품",
+        "[[Mega Shark vs. Giant Octopus]]의 거대한 문어는 가까이 날아온 전투기를 후려친다. 큰 신체에 비해 작아 보이는 항공기를 직접 타격하여 크기 차이의 위협을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

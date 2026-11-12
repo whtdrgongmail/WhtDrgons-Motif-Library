@@ -4,25 +4,25 @@
   "title": "Codex Equus",
   "original": "Codex Equus",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00106",
+  "primary_tag_id": "ML-T00106",
   "description": {
     "definition": "이 카드는 팬픽션 《Codex Equus》를 가리킨다. 이 라이브러리에서는 [[학대 때문에 상관을 배신하기]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Codex Equus의 Hol Horse는 고용주가 끔찍한 행동을 하면 등을 돌리며, Godly Brand의 학대를 견디다 결국 그를 배신하고 상대편에 합류한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "source_relation",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Codex Equus》는 이퀘스트리아와 그 바깥 세계를 확장하는 공동 세계관 창작 프로젝트다. 여러 필자가 지역과 역사, 문화와 생물, 마법과 기술에 관한 항목을 작성한다.\n\n원작에서 주어진 정보와 선택적으로 채택한 설정을 바탕으로 설명의 범위를 넓힌다. 한 인물의 연속된 사건보다 서로 참조하는 자료들이 큰 세계를 형성하는 방식이 중요하다.\n\n기존 작품을 바탕으로 한 팬 프로젝트이므로 공식 설정과 구분해야 한다. 개별 항목의 설명이 모든 참여 작품과 원작에서 동일하게 적용되는 것은 아니며 확장된 세계 내부의 관계를 기준으로 읽어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Codex Equus》는 이퀘스트리아와 그 바깥 세계를 확장하는 공동 세계관 창작 프로젝트다. 여러 필자가 지역과 역사, 문화와 생물, 마법과 기술에 관한 항목을 작성한다.\n\n원작에서 주어진 정보와 선택적으로 채택한 설정을 바탕으로 설명의 범위를 넓힌다. 한 인물의 연속된 사건보다 서로 참조하는 자료들이 큰 세계를 형성하는 방식이 중요하다.\n\n기존 작품을 바탕으로 한 팬 프로젝트이므로 공식 설정과 구분해야 한다. 개별 항목의 설명이 모든 참여 작품과 원작에서 동일하게 적용되는 것은 아니며 확장된 세계 내부의 관계를 기준으로 읽어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000261",
   "kind": "keyword",
   "title": "횃불",
-  "original": "",
+  "original": "Torch",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F16",
   "description": {
-    "definition": "",
+    "definition": "막대나 손잡이 끝의 연소 물질에서 불꽃을 내어 주변을 밝히는 휴대용 조명 도구다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "16",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "손잡이 끝에서 불이 타올라 어두운 곳을 밝혀 주는 물건이에요. 전기로 빛나는 손전등과는 다르고, 들고 다니며 길을 살피는 데 쓸 수 있어요.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불꽃이 빛의 원천이고 손잡이가 연소하는 부분과 손을 떨어뜨리는 구조다. 들고 이동할 수도 있고 받침이나 벽의 고정구에 걸어 둘 수도 있다. 구체적인 재료와 연소 시간은 도구와 작품의 설정에 따라 다르다.\n\n[[횃불을 조명과 무기로 함께 쓰기]]는 원래 탐색을 위한 조명 도구를 위협과 공격에도 사용하는 장면 장치다. 횃불 자체와 그 용도의 전환을 구별해야 한다. [[불붙은 막대형 무기를 쓰기]]에는 처음부터 공격을 위해 만든 불꽃 봉이나 불을 발사하는 장비도 포함되므로 횃불보다 넓은 무기 설정이다. 모든 횃불이 마법이나 전투 능력을 가진 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불꽃이 빛의 원천이고 손잡이가 연소하는 부분과 손을 떨어뜨리는 구조다. 들고 이동할 수도 있고 받침이나 벽의 고정구에 걸어 둘 수도 있다. 구체적인 재료와 연소 시간은 도구와 작품의 설정에 따라 다르다.\n\n[[횃불을 조명과 무기로 함께 쓰기]]는 원래 탐색을 위한 조명 도구를 위협과 공격에도 사용하는 장면 장치다. 횃불 자체와 그 용도의 전환을 구별해야 한다. [[불붙은 막대형 무기를 쓰기]]에는 처음부터 공격을 위해 만든 불꽃 봉이나 불을 발사하는 장비도 포함되므로 횃불보다 넓은 무기 설정이다. 모든 횃불이 마법이나 전투 능력을 가진 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

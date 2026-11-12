@@ -4,8 +4,8 @@
   "title": "각색에서 인물의 종이 바뀌기",
   "original": "Adaptation Species Change",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02262",
+  "primary_tag_id": "ML-T02262",
   "description": {
     "definition": "원작의 동물·외계인·환상종 인물을 다른 매체로 옮기면서 생물 종이나 품종을 바꾸는 각색 방식. 촬영 가능성·시각 효과·이야기 톤이 이유가 될 수 있다. [[더빙에서 동물의 종이 바뀌기]]는 영상 속 모습보다 번역된 명칭이 달라지는 경우다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원작의 동물이나 외계인, 환상종 인물을 각색하면서 다른 종이나 품종으로 바꾼다. 인물의 연속성을 유지해도 신체의 생물학적 분류는 달라진다.\n\n촬영 가능성과 시각 효과, 이야기의 분위기는 변경의 이유가 될 수 있다. 다만 실제 변경 이유는 판본의 자료에 근거해 따로 확인해야 한다.\n\n더빙에서 번역 명칭만 바뀌는 경우와 구별한다. 영상 속 모습은 같은데 부르는 이름만 다른 것과 종 자체를 바꾼 각색은 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원작의 동물이나 외계인, 환상종 인물을 각색하면서 다른 종이나 품종으로 바꾼다. 인물의 연속성을 유지해도 신체의 생물학적 분류는 달라진다.\n\n촬영 가능성과 시각 효과, 이야기의 분위기는 변경의 이유가 될 수 있다. 다만 실제 변경 이유는 판본의 자료에 근거해 따로 확인해야 한다.\n\n더빙에서 번역 명칭만 바뀌는 경우와 구별한다. 영상 속 모습은 같은데 부르는 이름만 다른 것과 종 자체를 바꾼 각색은 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

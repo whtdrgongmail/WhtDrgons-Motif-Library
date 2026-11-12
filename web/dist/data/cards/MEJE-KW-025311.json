@@ -5,8 +5,8 @@
   "original": "A True Statement with Two Interpretations",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01991",
+  "primary_tag_id": "ML-T01991",
   "description": {
     "definition": "문장 자체는 참이지만 화자가 염두에 둔 범위와 청자가 자연스럽게 이해할 범위를 달리하여 오해를 유도한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "필수 사실을 그냥 말하지 않는 방식과 달리 같은 표현의 해석 차이를 이용한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.008.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 문장도 화자가 정한 범위와 청자가 이해한 범위가 다르다. 말은 참이지만 자연스러운 해석은 잘못된 결론으로 이어진다.\n\n시간과 조건을 좁게 적용하면 직접 거짓말하지 않고도 상대를 속일 수 있다. 무엇이 문자적으로 참인지와 무엇을 믿게 했는지 나누어 설명한다.\n\n필요한 정보를 아예 말하지 않은 누락과는 다르다. 실제로 사용한 표현의 해석 차이가 기만에 관여해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 문장도 화자가 정한 범위와 청자가 이해한 범위가 다르다. 말은 참이지만 자연스러운 해석은 잘못된 결론으로 이어진다.\n\n시간과 조건을 좁게 적용하면 직접 거짓말하지 않고도 상대를 속일 수 있다. 무엇이 문자적으로 참인지와 무엇을 믿게 했는지 나누어 설명한다.\n\n필요한 정보를 아예 말하지 않은 누락과는 다르다. 실제로 사용한 표현의 해석 차이가 기만에 관여해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

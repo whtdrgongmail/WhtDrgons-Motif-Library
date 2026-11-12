@@ -4,39 +4,56 @@
   "title": "실체와 반대 의미를 이루는 이름",
   "original": "Ironic Name",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "인물이나 존재의 고유 이름이 성격·삶·외형의 실제 모습과 반대되는 인상을 주어 역설을 만드는 명명 방식이다.",
     "detail": "웃음뿐 아니라 진지한 주제의 대비에도 쓰인다. 남이 붙인 별명의 반대 의미는 별도 관계 맥락이 있다.\n\n작품 사례: 《[[신의 탑]]》의 유리는 이름이 연약한 유리를 떠올리게 하지만, 실제로는 강한 공격도 견디는 하이 랭커다.",
     "usage": "이름과 실제 모습을 비교하게 하여 첫인상을 뒤집거나 삶의 역설을 압축한다.",
-    "boundary": "특징을 전혀 설명하지 않는 임의의 이름만으로는 부족하며 의미상의 대비가 필요하다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "운이 없는 사람의 이름이 행운을 뜻하거나 악인이 선함을 뜻하는 이름을 가진다.\n\n작품 사례: 《[[신의 탑]]》의 유리는 이름이 연약한 유리를 떠올리게 하지만, 실제로는 강한 공격도 견디는 하이 랭커다.",
+    "easy_ko": "운이 없는 사람의 이름이 행운을 뜻하거나 악인이 선함을 뜻하는 이름을 가진다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T00090",
-      "work_card_id": "MM-MEDIA-001296",
+      "work_card_id": "MM-MEDIA-002484",
       "description_ko": "《신의 탑》의 유리는 이름이 연약한 유리를 떠올리게 하지만, 실제로는 강한 공격도 견디는 하이 랭커다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "웃음뿐 아니라 진지한 주제의 대비에도 쓰인다. 남이 붙인 별명의 반대 의미는 별도 관계 맥락이 있다.\n\n특징을 전혀 설명하지 않는 임의의 이름만으로는 부족하며 의미상의 대비가 필요하다.\n\n《[[신의 탑]]》의 유리는 이름이 연약한 유리를 떠올리게 하지만, 실제로는 강한 공격도 견디는 하이 랭커다.",
+    "sections": [
+      [
+        "상세 설명",
+        "웃음뿐 아니라 진지한 주제의 대비에도 쓰인다. 남이 붙인 별명의 반대 의미는 별도 관계 맥락이 있다.\n\n특징을 전혀 설명하지 않는 임의의 이름만으로는 부족하며 의미상의 대비가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "《[[신의 탑]]》의 유리는 이름이 연약한 유리를 떠올리게 하지만, 실제로는 강한 공격도 견디는 하이 랭커다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

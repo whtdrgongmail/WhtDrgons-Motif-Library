@@ -4,28 +4,28 @@
   "title": "인물의 성격과 마음을 노래하는 캐릭터송",
   "original": "Image Song",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "특정 인물의 성격·정서·관점을 노래의 내용과 분위기로 표현하여 그 인물의 이미지를 확장하는 곡.",
     "detail": "성우가 부르거나 별도 음반에 실리는 경우가 많다. 본편 밖에서 먼저 공개한 노래를 이후 인물 중심 장면이나 주제가로 사용할 수도 있다. 애니메이션뿐 아니라 게임에도 쓰인다.\n\n작품 사례: 《[[소닉 어드벤처]]》는 조작 가능한 인물들에게 캐릭터송을 두며, 소닉의 곡인 It Doesn’t Matter는 그의 태도와 성격을 노래로 표현한다.",
     "usage": "본편을 보완하는 인물 묘사와 음악 상품의 관계를 설명하거나 인물별 목소리를 설계할 때 쓴다.",
-    "boundary": "본편에서 인물의 등장을 알리는 짧은 반복 선율과 같지 않다. 주제가나 출연자가 부른 노래라는 사실만으로 캐릭터송이 되지는 않는다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "이야기에서 다 보여 주지 못한 한 인물의 마음을 그 인물만의 노래로 들려준다.\n\n작품 사례: 《[[소닉 어드벤처]]》는 조작 가능한 인물들에게 캐릭터송을 두며, 소닉의 곡인 It Doesn’t Matter는 그의 태도와 성격을 노래로 표현한다.",
+    "easy_ko": "이야기에서 다 보여 주지 못한 한 인물의 마음을 그 인물만의 노래로 들려준다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성우가 부르거나 별도 음반에 실리는 경우가 많다. 본편 밖에서 먼저 공개한 노래를 이후 인물 중심 장면이나 주제가로 사용할 수도 있다. 애니메이션뿐 아니라 게임에도 쓰인다.\n\n노래의 내용과 목소리가 본편의 인물 묘사를 보완하고 음악 상품으로도 이어질 수 있다.\n\n본편에서 인물의 등장을 알리는 짧은 반복 선율과 같지 않다. 주제가나 출연자가 부른 노래라는 사실만으로 캐릭터송이 되지는 않는다.\n\n작품 사례: 《[[소닉 어드벤처]]》는 조작 가능한 인물들에게 캐릭터송을 두며, 소닉의 곡인 「It Doesn’t Matter」는 그의 태도와 성격을 노래로 표현한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성우가 부르거나 별도 음반에 실리는 경우가 많다. 본편 밖에서 먼저 공개한 노래를 이후 인물 중심 장면이나 주제가로 사용할 수도 있다. 애니메이션뿐 아니라 게임에도 쓰인다.\n\n노래의 내용과 목소리가 본편의 인물 묘사를 보완하고 음악 상품으로도 이어질 수 있다.\n\n본편에서 인물의 등장을 알리는 짧은 반복 선율과 같지 않다. 주제가나 출연자가 부른 노래라는 사실만으로 캐릭터송이 되지는 않는다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[소닉 어드벤처]]》는 조작 가능한 인물들에게 캐릭터송을 두며, 소닉의 곡인 「It Doesn’t Matter」는 그의 태도와 성격을 노래로 표현한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

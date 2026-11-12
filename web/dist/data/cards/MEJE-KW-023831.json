@@ -4,8 +4,8 @@
   "title": "악당처럼 웃으려다 위엄을 잃기",
   "original": "Un-Evil Laugh",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "인물이 위협적인 악당 웃음을 흉내 내려 하지만 소리가 어울리지 않아 사악한 인상을 만드는 데 실패하는 장면이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "처음에는 위협적인 웃음이었으나 기침 때문에 중단되는 변형과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위협하려고 내는 악당 웃음이 우스꽝스럽게 들리면 공포 대신 웃음이 돌아온다. 인물의 의도와 듣는 이의 반응이 어긋나면서 위엄을 세우려던 시도가 오히려 미숙함을 드러낸다. 웃음은 성공적이었지만 기침 때문에 중단된 경우와 달리 소리 자체가 위협의 효과를 만들지 못한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위협하려고 내는 악당 웃음이 우스꽝스럽게 들리면 공포 대신 웃음이 돌아온다. 인물의 의도와 듣는 이의 반응이 어긋나면서 위엄을 세우려던 시도가 오히려 미숙함을 드러낸다. 웃음은 성공적이었지만 기침 때문에 중단된 경우와 달리 소리 자체가 위협의 효과를 만들지 못한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

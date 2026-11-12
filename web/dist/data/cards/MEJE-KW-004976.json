@@ -4,8 +4,8 @@
   "title": "계속 망가지는 차",
   "original": "Chronically Crashed Car",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00720",
+  "primary_tag_id": "ML-T00720",
   "description": {
     "definition": "한 인물의 [[자동차]]가 여러 차례 사고나 소동으로 손상되고 다시 돌아와 반복 웃음을 만드는 장치.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "06",
+    "code": "06.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 차가 계속 사고와 파괴를 겪는 반복 장치다. 주인은 차를 수리하고 되찾아도 다시 망가뜨리며 손실에 대한 반응이 익숙한 농담이 된다.\n\n연작에서는 원상 복구로 같은 소품을 유지하고 영화에서는 손상이 점점 심해져 마지막에 완전히 멈추게 할 수 있다. 누적되는 외형 변화는 모험의 피해를 눈에 보이게 한다.\n\n한 번 큰 충돌을 겪는 차량과는 반복성이 다르다. 작중 수리의 설명과 실제 촬영에서 여러 대를 사용하는 방법은 서로 다른 층위이므로 개별 제작 사실을 추측하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 차가 계속 사고와 파괴를 겪는 반복 장치다. 주인은 차를 수리하고 되찾아도 다시 망가뜨리며 손실에 대한 반응이 익숙한 농담이 된다.\n\n연작에서는 원상 복구로 같은 소품을 유지하고 영화에서는 손상이 점점 심해져 마지막에 완전히 멈추게 할 수 있다. 누적되는 외형 변화는 모험의 피해를 눈에 보이게 한다.\n\n한 번 큰 충돌을 겪는 차량과는 반복성이 다르다. 작중 수리의 설명과 실제 촬영에서 여러 대를 사용하는 방법은 서로 다른 층위이므로 개별 제작 사실을 추측하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,21 +5,47 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "",
+    "definition": "서로 다른 발언의 일부를 편집해 원래 하지 않은 연속된 말처럼 제시하는 정보 조작 방식이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "여러 번 나누어 한 말을 잘라 붙여, 한 사람이 다른 뜻의 문장을 말한 것처럼 보이게 하는 편집이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "발언 합성은 단어·문장 조각을 고르고 배열하는 과정에서 화자가 말한 대상, 조건, 결론을 바꿀 수 있다. 서로 다른 질문에 대한 답을 한 답변으로 이어 붙이거나 중간 구절을 생략해 반대의 주장을 만든 경우가 이에 해당한다.\n\n이는 실제 발언의 일부를 그대로 제시하되 주변 [[맥락]]을 빼는 [[인용의 맥락을 제거하기]]와 구별된다. 발언 합성에서는 제시된 발언 자체의 연결 순서나 문장 구조가 재구성된다. 텍스트·음성·영상 가운데 어떤 매체를 사용했는지는 합성의 형식을 바꾸지만, 핵심 조건은 원래 없던 연속 발언을 만든다는 점이다.\n\n가상 예: 인터뷰의 ‘그 계획에는 반대한다’와 다른 질문의 ‘즉시 시작해야 한다’를 이어 붙여 계획을 즉시 시작하자는 발언처럼 공개한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "발언 합성은 단어·문장 조각을 고르고 배열하는 과정에서 화자가 말한 대상, 조건, 결론을 바꿀 수 있다. 서로 다른 질문에 대한 답을 한 답변으로 이어 붙이거나 중간 구절을 생략해 반대의 주장을 만든 경우가 이에 해당한다.\n\n이는 실제 발언의 일부를 그대로 제시하되 주변 [[맥락]]을 빼는 [[인용의 맥락을 제거하기]]와 구별된다. 발언 합성에서는 제시된 발언 자체의 연결 순서나 문장 구조가 재구성된다. 텍스트·음성·영상 가운데 어떤 매체를 사용했는지는 합성의 형식을 바꾸지만, 핵심 조건은 원래 없던 연속 발언을 만든다는 점이다."
+      ],
+      [
+        "사례",
+        "가상 예: 인터뷰의 ‘그 계획에는 반대한다’와 다른 질문의 ‘즉시 시작해야 한다’를 이어 붙여 계획을 즉시 시작하자는 발언처럼 공개한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

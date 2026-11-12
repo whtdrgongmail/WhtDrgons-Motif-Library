@@ -6,27 +6,27 @@
   "aliases": [
     "미소녀 전사 세일러 문"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《미소녀 전사 세일러 문(연작)》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《미소녀 전사 세일러 문(연작)》에서 우사기와 야텐은 다른 학생들의 여러 동아리 활동과 달리 자신들을 귀가부로 여긴다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -79,5 +79,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《[[미소녀 전사 세일러 문]]》 작품군은 평범한 학생이 변신하여 동료 전사들과 지구를 지키는 이야기를 중심으로 한다. 개인의 마법소녀 성장과 팀 단위의 협력을 결합한 형식이다.\n\n원래 만화와 [[TV 애니메이션]]이 비슷한 시기에 만들어지면서 같은 전제도 다른 사건과 성격으로 발전했다. 학교와 우정, 전생의 역할은 임무의 갈등과 함께 인물의 일상을 구성한다.\n\n이 소개는 미디어 작품군을 대상으로 한다. 1990년대 TV판과 원작 만화, 후속 각색의 인물 운명과 회차를 하나의 연속된 사실로 합치지 않아야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《[[미소녀 전사 세일러 문]]》 작품군은 평범한 학생이 변신하여 동료 전사들과 지구를 지키는 이야기를 중심으로 한다. 개인의 마법소녀 성장과 팀 단위의 협력을 결합한 형식이다.\n\n원래 만화와 [[TV 애니메이션]]이 비슷한 시기에 만들어지면서 같은 전제도 다른 사건과 성격으로 발전했다. 학교와 우정, 전생의 역할은 임무의 갈등과 함께 인물의 일상을 구성한다.\n\n이 소개는 미디어 작품군을 대상으로 한다. 1990년대 TV판과 원작 만화, 후속 각색의 인물 운명과 회차를 하나의 연속된 사실로 합치지 않아야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

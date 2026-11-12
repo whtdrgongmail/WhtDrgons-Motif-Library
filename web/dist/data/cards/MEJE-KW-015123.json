@@ -4,8 +4,8 @@
   "title": "펑콧",
   "original": "Funkot",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015123",
+  "primary_tag_id": "MEJE-KW-015123",
   "description": {
     "definition": "빠른 템포와 셋잇단음 성격의 킥, 카우벨과 드럼 브레이크 샘플을 활용하는 인도네시아 계열 댄스음악 양식이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.304.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "펑콧은 인도네시아의 빠른 전자 댄스음악 계열로, 반복적인 킥 위에 카우벨·타악기 소리·짧게 자른 목소리와 드럼 브레이크를 배치한다. 이러한 재료가 곡마다 모두 들어가야 하는 것은 아니며, 강세와 장식음이 빠른 박자 안에서 어떻게 움직이는지가 중요하다.\n\n[[브레이크코어]]가 잘게 쪼갠 드럼의 변화 자체를 중심으로 삼는 데 비해, 펑콧에서는 규칙적인 춤곡의 추진력과 빠른 장식적 타격이 함께 나타날 수 있다. 카우벨 한 번이나 높은 속도 하나만으로 두 장르를 구분하지 않는다. 곡의 반복 패턴, 저음과 타악기 배치를 함께 확인한다.\n\n가상 예시: 빠른 킥 위에 카우벨 소리와 세분된 드럼 타격을 반복적으로 겹치고 짧은 목소리 샘플을 박 사이에 넣는다면 펑콧의 편곡 특징을 설명할 수 있다. 카우벨만 한 번 등장하는 일반 댄스곡은 같은 근거가 부족하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "펑콧은 인도네시아의 빠른 전자 댄스음악 계열로, 반복적인 킥 위에 카우벨·타악기 소리·짧게 자른 목소리와 드럼 브레이크를 배치한다. 이러한 재료가 곡마다 모두 들어가야 하는 것은 아니며, 강세와 장식음이 빠른 박자 안에서 어떻게 움직이는지가 중요하다.\n\n[[브레이크코어]]가 잘게 쪼갠 드럼의 변화 자체를 중심으로 삼는 데 비해, 펑콧에서는 규칙적인 춤곡의 추진력과 빠른 장식적 타격이 함께 나타날 수 있다. 카우벨 한 번이나 높은 속도 하나만으로 두 장르를 구분하지 않는다. 곡의 반복 패턴, 저음과 타악기 배치를 함께 확인한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 빠른 킥 위에 카우벨 소리와 세분된 드럼 타격을 반복적으로 겹치고 짧은 목소리 샘플을 박 사이에 넣는다면 펑콧의 편곡 특징을 설명할 수 있다. 카우벨만 한 번 등장하는 일반 댄스곡은 같은 근거가 부족하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

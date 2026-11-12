@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000152",
   "kind": "keyword",
   "title": "앙상블",
-  "original": "",
+  "original": "ensemble cast",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F04",
   "description": {
-    "definition": "",
+    "definition": "앙상블은 여러 주요 인물에게 서사의 비중과 관점을 나누어 주고, 그 인물들의 관계와 상호 작용을 집단 단위로 구성하는 방식이다. 각 인물은 구별되는 역할을 맡으면서 공동 사건이나 공동체를 통해 서로 연결된다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "04",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "여러 주요 인물이 각자 역할을 하며 함께 이야기를 이루는 구성이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서사적 앙상블은 한 명의 주인공에게 이야기의 모든 비중을 집중하지 않고 여러 인물에게 중요한 역할과 관점을 나누어 준다. 인물들은 각자의 목표와 약점을 지니며, 공동 사건이나 오래된 관계망 안에서 서로 영향을 주고받는다. 등장인물 수가 많다는 사실만으로 앙상블이 되는 것은 아니며, 여럿의 서사적 기여와 연결이 [[집단 구성]]으로 드러나야 한다.\n\n이 구성은 인물마다 다른 해석과 반응을 병치해 사건의 여러 면을 보여줄 수 있다. 한 장면에서 주요 인물들이 서로 다른 생각을 동시에 표현하는 노래도 각 인물의 목소리와 관점을 드러내는 서사 장치로 기능할 수 있다. 성별이나 역할의 고정된 숫자 조합을 뜻하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서사적 앙상블은 한 명의 주인공에게 이야기의 모든 비중을 집중하지 않고 여러 인물에게 중요한 역할과 관점을 나누어 준다. 인물들은 각자의 목표와 약점을 지니며, 공동 사건이나 오래된 관계망 안에서 서로 영향을 주고받는다. 등장인물 수가 많다는 사실만으로 앙상블이 되는 것은 아니며, 여럿의 서사적 기여와 연결이 [[집단 구성]]으로 드러나야 한다.\n\n이 구성은 인물마다 다른 해석과 반응을 병치해 사건의 여러 면을 보여줄 수 있다. 한 장면에서 주요 인물들이 서로 다른 생각을 동시에 표현하는 노래도 각 인물의 목소리와 관점을 드러내는 서사 장치로 기능할 수 있다. 성별이나 역할의 고정된 숫자 조합을 뜻하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

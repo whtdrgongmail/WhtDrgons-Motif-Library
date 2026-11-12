@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-034079",
+  "kind": "keyword",
+  "title": "잠수 시간이 끝나면 피해 없이 자동으로 떠오르기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "캐릭터가 일정 시간 잠수하면 죽거나 피해를 받는 대신 자동으로 수면에 떠오르게 하여 잠수의 길이만 제한하는 이동 규칙이다.",
+    "detail": "",
+    "usage": "수중 이동을 제한하면서 실패의 부담을 줄인다.",
+    "boundary": "수면으로 나올 수 없는 지형과의 충돌은 별도로 설계해야 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "숨 참는 시간이 끝나면 자동으로 물 위로 돌아온다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "정해진 잠수 시간이 끝나면 캐릭터가 피해 없이 자동으로 떠오른다. 죽음보다 수중 이동의 길이만 제한하는 게임 규칙이다.\n\n시간 안에 갈 수 있는 범위는 남지만 실패의 부담은 작아진다. 잠수의 종료와 캐릭터의 손상이라는 두 결과를 분리한 설계다.\n\n위에 막힌 지형이 있다면 자동 상승의 처리도 따로 정해야 한다. 모든 수중 공간에서 같은 결과를 가정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정해진 잠수 시간이 끝나면 캐릭터가 피해 없이 자동으로 떠오른다. 죽음보다 수중 이동의 길이만 제한하는 게임 규칙이다.\n\n시간 안에 갈 수 있는 범위는 남지만 실패의 부담은 작아진다. 잠수의 종료와 캐릭터의 손상이라는 두 결과를 분리한 설계다.\n\n위에 막힌 지형이 있다면 자동 상승의 처리도 따로 정해야 한다. 모든 수중 공간에서 같은 결과를 가정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

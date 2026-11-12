@@ -4,8 +4,8 @@
   "title": "일인칭 서술로 숨기는 화자의 정체",
   "original": "The All-Concealing \"I\"",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01926",
+  "primary_tag_id": "ML-T01926",
   "description": {
     "definition": "주인공이 자신을 일인칭으로만 지칭하는 서술을 통해 본래의 존재나 정체를 숨겼다가 결말에서 반전으로 밝힌다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "모든 일인칭 서술이 아니라 인칭 표현이 정체 은폐에 기여해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화자가 자신을 나라고만 지칭하는 특성을 이용해 이름과 성별, 본래의 정체를 숨기는 서술이다. 가까운 내면을 들려주면서도 기본 정보를 늦게 밝힐 수 있다.\n\n독자가 빈 부분을 익숙한 인간과 역할로 채우게 한 뒤 다른 존재임을 공개하면 앞선 경험이 새롭게 읽힌다. 거짓말을 하지 않고도 무엇을 말하지 않았는지가 반전의 조건이 된다.\n\n언어마다 대명사와 문법이 주는 정보가 다르므로 같은 방식이 그대로 통하지 않을 수 있다. 단서를 공정하게 남겼는지와 억지로 숨긴 표현인지에 따라 공개의 설득력이 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화자가 자신을 나라고만 지칭하는 특성을 이용해 이름과 성별, 본래의 정체를 숨기는 서술이다. 가까운 내면을 들려주면서도 기본 정보를 늦게 밝힐 수 있다.\n\n독자가 빈 부분을 익숙한 인간과 역할로 채우게 한 뒤 다른 존재임을 공개하면 앞선 경험이 새롭게 읽힌다. 거짓말을 하지 않고도 무엇을 말하지 않았는지가 반전의 조건이 된다.\n\n언어마다 대명사와 문법이 주는 정보가 다르므로 같은 방식이 그대로 통하지 않을 수 있다. 단서를 공정하게 남겼는지와 억지로 숨긴 표현인지에 따라 공개의 설득력이 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

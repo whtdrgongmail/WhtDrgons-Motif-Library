@@ -4,8 +4,8 @@
   "title": "하늘을 서핑하는 보드",
   "original": "Sky Surfing",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01454",
+  "primary_tag_id": "ML-T01454",
   "description": {
     "definition": "보드에 올라타 하늘에서 방향과 고도를 자유롭게 바꾸며 비행하는 탈것 설정.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 물체 위에 서서 하늘을 이동하고 방향과 고도를 조절하는 탈것 설정이다. 몸 자체가 나는 것이 아니라 발아래 물체가 추진과 지탱의 역할을 맡는다.\n\n서핑보드뿐 아니라 양탄자와 빗자루, 구름 같은 형태도 가능하다. 몸을 기울이는 동작과 공중의 곡선 이동은 비행을 파도타기처럼 시각화해 속도와 자유로움을 표현한다.\n\n지면 가까운 높이에 제한된 호버보드와 달리 자유로운 공중 이동이 중요하다. 조종하지 않는 비행체의 겉면에 매달리는 경우나 실제 낙하 중 묘기를 부리는 활동과도 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 물체 위에 서서 하늘을 이동하고 방향과 고도를 조절하는 탈것 설정이다. 몸 자체가 나는 것이 아니라 발아래 물체가 추진과 지탱의 역할을 맡는다.\n\n서핑보드뿐 아니라 양탄자와 빗자루, 구름 같은 형태도 가능하다. 몸을 기울이는 동작과 공중의 곡선 이동은 비행을 파도타기처럼 시각화해 속도와 자유로움을 표현한다.\n\n지면 가까운 높이에 제한된 호버보드와 달리 자유로운 공중 이동이 중요하다. 조종하지 않는 비행체의 겉면에 매달리는 경우나 실제 낙하 중 묘기를 부리는 활동과도 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

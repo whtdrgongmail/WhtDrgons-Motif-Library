@@ -4,8 +4,8 @@
   "title": "사랑을 고백하기",
   "original": "Love Confession",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02533",
+  "primary_tag_id": "ML-T02533",
   "description": {
     "definition": "자신이 상대를 사랑한다는 감정을 상대에게 직접 밝히는 관계의 전환 행위.",
     "detail": "짧은 사랑한다는 말로 이루어질 수 있으며, 고백이 받아들여지는지는 별개의 결과다.",
@@ -13,14 +13,20 @@
     "boundary": "뜻하지 않게 감정을 드러내는 고백, 극심한 압박 속 고백, 고백 직후 육체적 관계로 이어지는 전개는 각각 별도 조건을 가진 하위 개념이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.010",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "마음속에만 두었던 사랑을 당사자에게 말로 전한다.",
     "review_status": "reviewed",
@@ -38,5 +44,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "Love confession은 사랑을 뜻하는 love와 고백을 뜻하는 confession의 명사 결합이다.\n\n사랑을 고백하기는 인물이 상대에게 자신이 사랑한다는 감정을 직접 밝히는 행위다. 암시나 추측에 머물던 감정이 말로 드러나며 관계가 새로운 단계로 넘어갈 수 있다.\n\n고백은 짧은 표현으로 이뤄질 수 있지만 상대의 반응은 별개의 문제다. 받아들여지거나 거절될 수도 있고, 대답이 미뤄지면 고백 이후의 불확실성이 관계를 바꾼다.\n\n이 순간은 서로의 감정을 어떻게 이해했는지 드러내며, 한쪽만 알고 있던 마음을 둘 사이의 공동 정보로 만든다. 성공 여부와 관계없이 고백 자체가 기존의 침묵을 끝내는 사건이 된다.\n\n압박 속에서 뜻하지 않게 감정을 드러낸 경우나 고백 직후 육체적 관계로 이어지는 전개는 별도의 조건을 가진다. 이 항목은 사랑의 감정을 직접 알리는 행위에 초점을 둔다.\n\n작품 사례: 《[[슈퍼걸의 세 슈퍼 친구]]》에서 브레이니악 5는 떠나려는 슈퍼걸에게 30세기에 남아 자신의 여자친구가 되어 달라고 부탁한다. 슈퍼걸은 마음을 고맙게 받아들이지만 그 시대에 머물 수 없어 거절한다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "Love confession은 사랑을 뜻하는 love와 고백을 뜻하는 confession의 명사 결합이다."
+      ],
+      [
+        "상세 설명",
+        "사랑을 고백하기는 인물이 상대에게 자신이 사랑한다는 감정을 직접 밝히는 행위다. 암시나 추측에 머물던 감정이 말로 드러나며 관계가 새로운 단계로 넘어갈 수 있다.\n\n고백은 짧은 표현으로 이뤄질 수 있지만 상대의 반응은 별개의 문제다. 받아들여지거나 거절될 수도 있고, 대답이 미뤄지면 고백 이후의 불확실성이 관계를 바꾼다.\n\n이 순간은 서로의 감정을 어떻게 이해했는지 드러내며, 한쪽만 알고 있던 마음을 둘 사이의 공동 정보로 만든다. 성공 여부와 관계없이 고백 자체가 기존의 침묵을 끝내는 사건이 된다.\n\n압박 속에서 뜻하지 않게 감정을 드러낸 경우나 고백 직후 육체적 관계로 이어지는 전개는 별도의 조건을 가진다. 이 항목은 사랑의 감정을 직접 알리는 행위에 초점을 둔다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[슈퍼걸의 세 슈퍼 친구]]》에서 브레이니악 5는 떠나려는 슈퍼걸에게 30세기에 남아 자신의 여자친구가 되어 달라고 부탁한다. 슈퍼걸은 마음을 고맙게 받아들이지만 그 시대에 머물 수 없어 거절한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

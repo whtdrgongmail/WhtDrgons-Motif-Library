@@ -4,8 +4,8 @@
   "title": "희귀하지만 실용성이 낮은 보상",
   "original": "Junk Rare",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
     "definition": "구하기 어렵거나 희귀도가 높은 카드·아이템이 실제 성능이나 활용도에서는 기대에 미치지 못한다.",
     "detail": "작품 사례: 《[[Yu-Gi-Oh! The Falsebound Kingdom]]》의 모이스처 크리처는 찾고 영입하기 까다롭지만 행동 횟수가 매우 적어 높은 능력치를 충분히 활용하기 어렵다. 획득 난도와 실전 효용이 어긋나는 사례다.",
@@ -13,10 +13,10 @@
     "boundary": "희귀하다는 사실과 강하다는 평가는 별개다. 수집 가치·특정 조합·개인 취향으로 가치가 달라질 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "희귀도가 높지만 실제로는 약하거나 쓸 상황이 좁은 카드와 아이템이다. 구하기 어렵다는 표시와 전투에서의 효용이 일치하지 않는다.\n\n플레이어는 쓸모가 적어도 다시 얻기 어려울까 봐 버리지 못할 수 있다. 수집의 가치와 승리를 위한 가치는 달라 같은 물건을 두고 평가가 나뉜다.\n\n처음에는 무용해 보여도 조합과 규칙의 변화로 활용법이 생길 수 있다. 한 시점의 낮은 성능과 본래 의도된 기능을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "희귀도가 높지만 실제로는 약하거나 쓸 상황이 좁은 카드와 아이템이다. 구하기 어렵다는 표시와 전투에서의 효용이 일치하지 않는다.\n\n플레이어는 쓸모가 적어도 다시 얻기 어려울까 봐 버리지 못할 수 있다. 수집의 가치와 승리를 위한 가치는 달라 같은 물건을 두고 평가가 나뉜다.\n\n처음에는 무용해 보여도 조합과 규칙의 변화로 활용법이 생길 수 있다. 한 시점의 낮은 성능과 본래 의도된 기능을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "동료가 추가 체력 역할을 하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02097",
+  "primary_tag_id": "ML-T02097",
   "description": {
     "definition": "조종 중인 인물이 타격으로 이탈하면 남은 동료로 조작이 넘어가 계속 진행하고 모든 동료를 잃었을 때 실패하는 방식이다. 일행의 수가 남은 피격 허용량처럼 기능한다.",
     "detail": "작품 사례: [[Donkey Kong Country]]의 초기 방식에서는 조종하던 캐릭터가 맞으면 동료로 조작이 넘어간다. 남은 동료가 계속 진행하므로 두 사람이 함께 있다는 사실이 추가 내구력처럼 작동한다.",
@@ -13,10 +13,10 @@
     "boundary": "각 인물이 독립적으로 전투하는 일반 파티나 사망 뒤 새 캐릭터를 만드는 재시작과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "동료의 존재와 조작 승계를 하나의 생존 여력처럼 사용하는 규칙이다. 조작 중인 인물이 맞아 이탈해도 남은 동료가 진행을 이어 간다.\n\n각 인물이 독립적으로 싸우는 일반 파티와 다르다. 죽은 뒤 새 캐릭터를 만드는 재시작보다 동료의 이탈과 즉각적인 승계가 추가 내구력을 구성한다.\n\n초기 [[Donkey Kong Country]] 방식에서는 조작 캐릭터가 맞으면 동료에게 조작이 넘어간다. 두 인물이 함께 있다는 사실이 한 번 더 견딜 수 있는 상태로 작용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "동료의 존재와 조작 승계를 하나의 생존 여력처럼 사용하는 규칙이다. 조작 중인 인물이 맞아 이탈해도 남은 동료가 진행을 이어 간다.\n\n각 인물이 독립적으로 싸우는 일반 파티와 다르다. 죽은 뒤 새 캐릭터를 만드는 재시작보다 동료의 이탈과 즉각적인 승계가 추가 내구력을 구성한다."
+      ],
+      [
+        "관련 작품",
+        "초기 [[Donkey Kong Country]] 방식에서는 조작 캐릭터가 맞으면 동료에게 조작이 넘어간다. 두 인물이 함께 있다는 사실이 한 번 더 견딜 수 있는 상태로 작용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

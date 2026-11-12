@@ -5,8 +5,8 @@
   "original": "Fixed-Screen Shooting Gallery",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02072",
+  "primary_tag_id": "ML-T02072",
   "description": {
     "definition": "플레이어의 위치를 이동시키지 않고 정해진 시야에 나타나는 목표를 맞히게 하는 사격 게임 구성이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "정해진 경로라도 배경을 따라 이동하는 레일 슈팅과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.001.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "플레이어의 위치를 움직이지 않고 고정된 시야 안에 나타나는 목표를 맞히게 한다. 공간을 이동하는 판단보다 목표를 발견하고 조준할 순서를 정하는 행동에 집중하는 구성이다.\n\n목표의 위치와 출현 시간을 바꾸면 화면이 고정되어 있어도 압박이 달라질 수 있다. 여러 목표가 겹치면 우선순위를 판단해야 하므로 이동의 자유가 적다는 사실이 곧 선택의 부재를 뜻하지 않는다.\n\n정해진 경로를 따라 시점이 이동하는 레일 슈팅과는 화면의 진행 방식이 다르다. 배경이 움직이지 않는다는 조건과 조준 장치의 종류, 목표의 행동은 각각 별도로 정해진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플레이어의 위치를 움직이지 않고 고정된 시야 안에 나타나는 목표를 맞히게 한다. 공간을 이동하는 판단보다 목표를 발견하고 조준할 순서를 정하는 행동에 집중하는 구성이다.\n\n목표의 위치와 출현 시간을 바꾸면 화면이 고정되어 있어도 압박이 달라질 수 있다. 여러 목표가 겹치면 우선순위를 판단해야 하므로 이동의 자유가 적다는 사실이 곧 선택의 부재를 뜻하지 않는다.\n\n정해진 경로를 따라 시점이 이동하는 레일 슈팅과는 화면의 진행 방식이 다르다. 배경이 움직이지 않는다는 조건과 조준 장치의 종류, 목표의 행동은 각각 별도로 정해진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

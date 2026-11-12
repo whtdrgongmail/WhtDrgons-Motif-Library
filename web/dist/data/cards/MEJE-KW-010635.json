@@ -4,8 +4,8 @@
   "title": "예상보다 긴 전주",
   "original": "Four More Measures",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02027",
+  "primary_tag_id": "ML-T02027",
   "description": {
     "definition": "노래가 곧 시작될 듯한 순간에도 기악 전주가 더 이어져 노래를 기다리거나 따라 부르는 사람을 당황하게 하는 음악 장면이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "노래가 시작될 듯한 지점에서 전주가 더 이어져 따라 부르려던 사람이 시점을 틀리는 장면이다. 음악의 기대와 실제 구성이 어긋난다.\n\n가라오케와 공연에서 먼저 입을 열었다가 멈추는 반응이 민망함을 만든다. 익숙한 곡이라 자신했던 태도가 강할수록 짧은 타이밍의 오류가 크게 느껴진다.\n\n긴 도입부가 모두 이런 효과를 내는 것은 아니다. 보컬 시작을 잘못 예상하게 하는 구간이 필요하며 연주 자체의 길이와 장면의 희극적 활용을 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "노래가 시작될 듯한 지점에서 전주가 더 이어져 따라 부르려던 사람이 시점을 틀리는 장면이다. 음악의 기대와 실제 구성이 어긋난다.\n\n가라오케와 공연에서 먼저 입을 열었다가 멈추는 반응이 민망함을 만든다. 익숙한 곡이라 자신했던 태도가 강할수록 짧은 타이밍의 오류가 크게 느껴진다.\n\n긴 도입부가 모두 이런 효과를 내는 것은 아니다. 보컬 시작을 잘못 예상하게 하는 구간이 필요하며 연주 자체의 길이와 장면의 희극적 활용을 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

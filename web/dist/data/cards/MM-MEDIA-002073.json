@@ -4,27 +4,27 @@
   "title": "동방 프로젝트",
   "original": "Touhou Project",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《동방 프로젝트》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《동방 프로젝트》의 레밀리아와 플랑드르는 어린 소녀 같은 외형과 고딕풍 차림을 지닌 오래된 흡혈귀로 제시된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "ZUN이 중심이 되어 제작한 동인 게임과 관련 작품의 세계다. 주요 게임은 복잡한 탄막을 피하며 진행하는 세로 스크롤 슈팅으로, 인물과 음악도 작품군의 중요한 요소다.\n\n배경인 환상향은 현대의 외부 세계와 경계로 나뉜 장소이며 인간과 요괴, 신 등 여러 존재가 공존한다. 하쿠레이 레이무와 키리사메 마리사 등이 이변의 원인을 찾아가 해결하는 구성이 반복된다.\n\n대결한 인물이 이후 지인과 동료로 다시 등장해 관계가 누적된다. 각 작품의 사건을 독립적으로 다루면서도 같은 공간과 인물을 이어 가므로 개별 게임과 전체 세계관을 구별해 이해할 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "ZUN이 중심이 되어 제작한 동인 게임과 관련 작품의 세계다. 주요 게임은 복잡한 탄막을 피하며 진행하는 세로 스크롤 슈팅으로, 인물과 음악도 작품군의 중요한 요소다.\n\n배경인 환상향은 현대의 외부 세계와 경계로 나뉜 장소이며 인간과 요괴, 신 등 여러 존재가 공존한다. 하쿠레이 레이무와 키리사메 마리사 등이 이변의 원인을 찾아가 해결하는 구성이 반복된다.\n\n대결한 인물이 이후 지인과 동료로 다시 등장해 관계가 누적된다. 각 작품의 사건을 독립적으로 다루면서도 같은 공간과 인물을 이어 가므로 개별 게임과 전체 세계관을 구별해 이해할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

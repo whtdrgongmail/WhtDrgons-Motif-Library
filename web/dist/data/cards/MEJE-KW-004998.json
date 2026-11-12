@@ -4,8 +4,8 @@
   "title": "무장한 종교 조직",
   "original": "Church Militant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01366",
+  "primary_tag_id": "ML-T01366",
   "description": {
     "definition": "신앙 기관이 자체 무력을 갖고 외부의 위협에 맞서거나 종교적 질서를 지키는 세력으로 등장하는 [[세계관]] 설정. 종교 세력의 무력이 교리 위반 단속을 맡으면 [[종교법을 집행하는 조직]]의 역할을 겸한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "15",
+    "code": "15.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "교단이 군대와 강력한 무장을 갖추고 종교적 목표를 위해 전투하는 설정이다. 신앙의 권위와 조직적인 무력이 하나의 권력으로 결합한다.\n\n실제로 악마와 괴물이 존재하는 세계에서는 신도와 사회를 지키는 역할을 할 수 있다. 같은 정당화가 이단 박해와 과도한 폭력으로 이어지면 보호와 억압의 경계를 시험한다.\n\n실존 종교의 교리를 그대로 재현한다고 볼 수는 없다. 가톨릭풍 외형과 다른 신앙 조직도 가능하며 선한 목적과 수단의 정당성은 별도로 평가해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "교단이 군대와 강력한 무장을 갖추고 종교적 목표를 위해 전투하는 설정이다. 신앙의 권위와 조직적인 무력이 하나의 권력으로 결합한다.\n\n실제로 악마와 괴물이 존재하는 세계에서는 신도와 사회를 지키는 역할을 할 수 있다. 같은 정당화가 이단 박해와 과도한 폭력으로 이어지면 보호와 억압의 경계를 시험한다.\n\n실존 종교의 교리를 그대로 재현한다고 볼 수는 없다. 가톨릭풍 외형과 다른 신앙 조직도 가능하며 선한 목적과 수단의 정당성은 별도로 평가해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "모두 알아챈 사실을 뒤늦게 깨닫기",
   "original": "Late to the Realization",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01941",
+  "primary_tag_id": "ML-T01941",
   "description": {
     "definition": "주변은 뚜렷한 단서로 상황을 파악했지만 중심 인물만 이해하지 못하다가 뒤늦게 진상을 깨닫는 정보 배치다. 다른 인물의 설명 시도나 답답함이 지연을 드러낸다.",
     "detail": "작품 사례: 《[[SD 건담 포스]]》에서 모두가 기자로 변장한 적을 알아보지만 바쿠네츠마루만 인터뷰를 기뻐한다. 적이 위장을 벗은 뒤에야 그가 정체를 알아차린다.",
@@ -13,10 +13,10 @@
     "boundary": "알고도 반응을 늦추는 경우나 잊은 정보를 떠올리는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주변 인물들은 같은 단서로 진상을 알았는데 중심 인물만 이해하지 못하면 정보 격차가 진행을 지연시킨다. 설명하려는 시도가 빗나가거나 단서가 반복되는 동안 관객은 언제 알아차릴지를 기다리게 된다. 이미 알고 있으면서 반응만 숨기는 경우와 달리 실제 이해가 뒤늦게 이루어져야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주변 인물들은 같은 단서로 진상을 알았는데 중심 인물만 이해하지 못하면 정보 격차가 진행을 지연시킨다. 설명하려는 시도가 빗나가거나 단서가 반복되는 동안 관객은 언제 알아차릴지를 기다리게 된다. 이미 알고 있으면서 반응만 숨기는 경우와 달리 실제 이해가 뒤늦게 이루어져야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

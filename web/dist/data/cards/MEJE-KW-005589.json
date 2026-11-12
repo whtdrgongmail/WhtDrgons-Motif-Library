@@ -4,8 +4,8 @@
   "title": "때를 보아 뒤늦게 인정하기",
   "original": "Confession Deferred",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01967",
+  "primary_tag_id": "ML-T01967",
   "description": {
     "definition": "인물이 자신의 관여를 부인하다 인정하는 편이 낫다고 판단한 순간에만 사실을 밝힌다. 고백의 진실보다 타이밍이 장면의 웃음이나 반전을 만든다. 숨긴 사실을 늦게 인정하는 인물이 사건의 범인이라면 [[고백으로 끝나는 추리]]의 마지막 장면이 될 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자신의 관련성을 부인하던 인물이 유리한 사정이 드러나거나 더 큰 위험을 느끼자 곧바로 인정하는 장면이다. 진실의 내용보다 고백의 시점을 계산한다.\n\n상대가 화난 것이 아니라 칭찬하려 했음을 알거나 부인을 계속하면 처벌이 커질 것이라 판단할 수 있다. 태도의 빠른 변화가 자기보호와 기회주의를 희극적으로 드러낸다.\n\n새로운 기억을 되찾은 경우와는 다르다. 이미 사실을 알면서 상황에 따라 공개를 조절한다는 점이 중심이며, 뒤늦은 인정이 신뢰를 회복할지 추가적인 의심을 부를지는 맥락에 달려 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자신의 관련성을 부인하던 인물이 유리한 사정이 드러나거나 더 큰 위험을 느끼자 곧바로 인정하는 장면이다. 진실의 내용보다 고백의 시점을 계산한다.\n\n상대가 화난 것이 아니라 칭찬하려 했음을 알거나 부인을 계속하면 처벌이 커질 것이라 판단할 수 있다. 태도의 빠른 변화가 자기보호와 기회주의를 희극적으로 드러낸다.\n\n새로운 기억을 되찾은 경우와는 다르다. 이미 사실을 알면서 상황에 따라 공개를 조절한다는 점이 중심이며, 뒤늦은 인정이 신뢰를 회복할지 추가적인 의심을 부를지는 맥락에 달려 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

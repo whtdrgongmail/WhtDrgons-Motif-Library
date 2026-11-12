@@ -41169,6 +41169,6082 @@
         "review_status": "reviewed",
         "row_version": 1
       }
+    },
+    {
+      "id": "ML-T02515",
+      "facet_id": "ML-F17",
+      "parent_id": "ML-F17",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "마법 체계",
+      "classification": {
+        "code": "17.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02516",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-F02",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "작품군",
+      "classification": {
+        "code": "02.021",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "work_scope",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-001406",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "얼터너티브 댄스",
+      "classification": {
+        "code": "03.301.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-002737",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "바로크 팝",
+      "classification": {
+        "code": "03.301.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-002926",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "침실에서 만든 듯한 친밀한 팝",
+      "classification": {
+        "code": "03.301.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-003507",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "블루스 록 음악",
+      "classification": {
+        "code": "03.301.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-003913",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "브릿팝 음악",
+      "classification": {
+        "code": "03.301.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-003984",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "버블검 팝 음악",
+      "classification": {
+        "code": "03.301.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-004950",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기독교 메탈",
+      "classification": {
+        "code": "03.302.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-004951",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기독교 록",
+      "classification": {
+        "code": "03.301.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-005628",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "사회 문제를 다루는 힙합",
+      "classification": {
+        "code": "03.303.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-005665",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00450",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "건설·운영 게임",
+      "classification": {
+        "code": "03.206.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-000751",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "투 톤 스카",
+      "classification": {
+        "code": "03.301.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-003506",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00527",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "블루스 음악",
+      "classification": {
+        "code": "03.305.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-003675",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00527",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "보사노바 음악",
+      "classification": {
+        "code": "03.305.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-006016",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00264",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "아늑한 추리물",
+      "classification": {
+        "code": "03.106.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-006170",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00248",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "크리피파스타",
+      "classification": {
+        "code": "03.105.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-006624",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "다크 웨이브",
+      "classification": {
+        "code": "03.304.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007176",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00264",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "탐정극",
+      "classification": {
+        "code": "03.106.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007315",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00248",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "디지털 호러",
+      "classification": {
+        "code": "03.105.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007414",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "디스코 랩",
+      "classification": {
+        "code": "03.303.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007577",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "젠트",
+      "classification": {
+        "code": "03.302.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007640",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00306",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "가정 시트콤",
+      "classification": {
+        "code": "03.110.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007714",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "둠 메탈",
+      "classification": {
+        "code": "03.302.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007733",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "두왑",
+      "classification": {
+        "code": "03.303.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007920",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "드림 팝",
+      "classification": {
+        "code": "03.301.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007959",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "드릴 음악",
+      "classification": {
+        "code": "03.303.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008120",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "던전 신스",
+      "classification": {
+        "code": "03.304.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008247",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00434",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "동아시아식 역할수행 게임",
+      "classification": {
+        "code": "03.204.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008289",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "일렉트로닉 보디 뮤직",
+      "classification": {
+        "code": "03.304.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008393",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "전자 댄스 음악",
+      "classification": {
+        "code": "03.304.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008395",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "전자 음악",
+      "classification": {
+        "code": "03.304.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008538",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "이모 음악",
+      "classification": {
+        "code": "03.301.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008612",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00414",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "무한 달리기 게임",
+      "classification": {
+        "code": "03.201.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008825",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "유로비트",
+      "classification": {
+        "code": "03.304.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008826",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "유로댄스",
+      "classification": {
+        "code": "03.304.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-009360",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00450",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공장 건설 게임",
+      "classification": {
+        "code": "03.206.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-010409",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "어쿠스틱 소리의 포크 펑크",
+      "classification": {
+        "code": "03.301.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-017996",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00248",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "과학적 상상이 공포가 되는 이야기",
+      "classification": {
+        "code": "03.105.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-017999",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00248",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "초인의 존재가 공포가 되는 이야기",
+      "classification": {
+        "code": "03.105.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-010889",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "펑크 메탈",
+      "classification": {
+        "code": "03.301.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-010890",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "펑크록",
+      "classification": {
+        "code": "03.301.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-010407",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "포크 메탈",
+      "classification": {
+        "code": "03.302.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-010953",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "퓨처 펑크",
+      "classification": {
+        "code": "03.304.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-011056",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "갱스터 랩",
+      "classification": {
+        "code": "03.303.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-011061",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "차고 록",
+      "classification": {
+        "code": "03.301.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-011285",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "지펑크",
+      "classification": {
+        "code": "03.303.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012938",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "그라인드코어",
+      "classification": {
+        "code": "03.302.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012939",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "데스그라인드",
+      "classification": {
+        "code": "03.302.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012940",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "고어그라인드",
+      "classification": {
+        "code": "03.302.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012943",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "사이버그라인드",
+      "classification": {
+        "code": "03.302.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012945",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "노이즈그라인드",
+      "classification": {
+        "code": "03.302.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015085",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "하드코어 펑크",
+      "classification": {
+        "code": "03.301.025",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015088",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "크러스트 펑크",
+      "classification": {
+        "code": "03.301.026",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000933",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "베이퍼웨이브",
+      "classification": {
+        "code": "03.304.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000934",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-T02277",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "자체 제작",
+      "classification": {
+        "code": "27.005.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-026933",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00979",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "첫사랑의 상대",
+      "classification": {
+        "code": "10.002.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008396",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "일렉트로니코어",
+      "classification": {
+        "code": "03.302.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-011693",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "글램 록",
+      "classification": {
+        "code": "03.301.027",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012957",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "블랙 메탈을 결합한 그라인드코어",
+      "classification": {
+        "code": "03.302.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-013280",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "헤어 메탈",
+      "classification": {
+        "code": "03.302.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015091",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "메탈코어",
+      "classification": {
+        "code": "03.302.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015100",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "스피드코어",
+      "classification": {
+        "code": "03.304.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015103",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "프렌치코어",
+      "classification": {
+        "code": "03.304.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015118",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "브레이크코어",
+      "classification": {
+        "code": "03.304.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015120",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "제이코어",
+      "classification": {
+        "code": "03.304.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015121",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "동방 음악의 제이코어 편곡",
+      "classification": {
+        "code": "03.304.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015123",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00520",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "펑콧",
+      "classification": {
+        "code": "03.304.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015902",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "재즈 랩",
+      "classification": {
+        "code": "03.303.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015903",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "조직범죄를 다루는 마피오소 랩",
+      "classification": {
+        "code": "03.303.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-019520",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "라가 메탈",
+      "classification": {
+        "code": "03.302.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-019602",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인더스트리얼 록",
+      "classification": {
+        "code": "03.301.028",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-028229",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "멜로딕 메탈코어",
+      "classification": {
+        "code": "03.302.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-028230",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "모던 메탈코어",
+      "classification": {
+        "code": "03.302.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000275",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "매스 록",
+      "classification": {
+        "code": "03.301.029",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000277",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "포스트 록",
+      "classification": {
+        "code": "03.301.030",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012941",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "포르노그라인드",
+      "classification": {
+        "code": "03.302.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012946",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "파워바이올런스",
+      "classification": {
+        "code": "03.301.031",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012947",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "크러스트그라인드",
+      "classification": {
+        "code": "03.302.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012948",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00504",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "고어노이즈",
+      "classification": {
+        "code": "03.302.025",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-011331",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00287",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "지알로",
+      "classification": {
+        "code": "03.108.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015677",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00421",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인물별 능력 조합이 중심인 슈팅 게임",
+      "classification": {
+        "code": "03.202.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-016273",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00248",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "마스코트 호러",
+      "classification": {
+        "code": "03.105.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-022042",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00330",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "일본 시대극",
+      "classification": {
+        "code": "03.112.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-022477",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00306",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "아이들을 중심에 둔 시트콤",
+      "classification": {
+        "code": "03.110.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-022614",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00317",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "노동 계층의 일상을 그리는 생활극",
+      "classification": {
+        "code": "03.111.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000282",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "매스 팝",
+      "classification": {
+        "code": "03.301.032",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-003450",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-T02495",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "개인 블로그",
+      "classification": {
+        "code": "02.009.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-006403",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-T02495",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "시사 블로그",
+      "classification": {
+        "code": "02.009.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-028202",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-T02495",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "온라인 게시판",
+      "classification": {
+        "code": "02.009.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "platform",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-028203",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-T02495",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "한 줄 대화 게시판",
+      "classification": {
+        "code": "02.009.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "platform",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-028204",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-T02495",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "이미지 게시판",
+      "classification": {
+        "code": "02.009.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "platform",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02517",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "역할극 참가자 행동",
+      "classification": {
+        "code": "25.014",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "play_conduct",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02518",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02517",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "자기 우위 중심 플레이",
+      "classification": {
+        "code": "25.014.001",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "play_conduct",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02519",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02517",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "규칙·메타정보의 편향적 이용",
+      "classification": {
+        "code": "25.014.002",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "play_conduct",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02520",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02517",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "판정·기록 조작",
+      "classification": {
+        "code": "25.014.003",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "play_conduct",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02521",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02517",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "폭력·약탈 중심 플레이",
+      "classification": {
+        "code": "25.014.004",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "play_conduct",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02522",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02517",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "고의적 진행 방해",
+      "classification": {
+        "code": "25.014.005",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "play_conduct",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02523",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-F09",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "가족 내 역할",
+      "classification": {
+        "code": "09.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02524",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T02523",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "어머니 인물",
+      "classification": {
+        "code": "09.011.001",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02525",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T02523",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "아버지 인물",
+      "classification": {
+        "code": "09.011.002",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02526",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-T00776",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "물리적 공격",
+      "classification": {
+        "code": "07.006.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02527",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-T00776",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공격 방어",
+      "classification": {
+        "code": "07.006.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02528",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-T00813",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "몸단장",
+      "classification": {
+        "code": "07.010.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-004670",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "제약 플레이",
+      "classification": {
+        "code": "25.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "play_conduct",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02529",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "게임 카메라 동작",
+      "classification": {
+        "code": "25.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_mechanic",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02530",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "비플레이어 인물의 상황 반응",
+      "classification": {
+        "code": "25.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_mechanic",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02531",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "온라인 참여 관리",
+      "classification": {
+        "code": "25.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_mechanic",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02532",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01947",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "정보 공개에 따른 재해석",
+      "classification": {
+        "code": "23.004.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02533",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00979",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연애 감정을 말로 확인하기",
+      "classification": {
+        "code": "10.002.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02534",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00979",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "접촉으로 드러나는 연애 감정",
+      "classification": {
+        "code": "10.002.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02535",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00880",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "구출 대상",
+      "classification": {
+        "code": "09.001.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02536",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00880",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "위험을 드러내는 선행 피해자",
+      "classification": {
+        "code": "09.001.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02537",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00938",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "덜렁거리는 인물",
+      "classification": {
+        "code": "09.007.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02538",
+      "facet_id": "ML-F19",
+      "parent_id": "ML-T01683",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "어두운 웃음의 톤",
+      "classification": {
+        "code": "19.007.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02539",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00988",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기승 관계",
+      "classification": {
+        "code": "10.003.008",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02540",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-T02293",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "광고 표현",
+      "classification": {
+        "code": "27.007.008",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02541",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-T02293",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "광고 출연",
+      "classification": {
+        "code": "27.007.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02542",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-T02293",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "간접광고",
+      "classification": {
+        "code": "27.007.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-004924",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00207",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기사도 로망스",
+      "classification": {
+        "code": "03.102.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-006442",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00421",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "귀여운 외형의 슈팅 게임",
+      "classification": {
+        "code": "03.202.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-010014",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00198",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대결 중심 연속물",
+      "classification": {
+        "code": "03.101.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015187",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00296",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "하렘물",
+      "classification": {
+        "code": "03.109.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015191",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00296",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "복수 배우자 관계 중심의 하렘 소설",
+      "classification": {
+        "code": "03.109.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015297",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00264",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "초자연 현상 조사물",
+      "classification": {
+        "code": "03.106.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-017993",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00231",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "군사 병기로 다루는 거대 로봇물",
+      "classification": {
+        "code": "03.104.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-018000",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00317",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "초자연적 관계가 얽힌 연속극",
+      "classification": {
+        "code": "03.111.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-030018",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00215",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "신화와 설화를 시적이고 비선형적으로 재구성하기",
+      "classification": {
+        "code": "03.103.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-006197",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00287",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "범죄자의 계획을 따라가는 범죄극",
+      "classification": {
+        "code": "03.108.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008758",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00386",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "에로틱 영화",
+      "classification": {
+        "code": "03.119.005",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-003109",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00527",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "빅밴드 음악",
+      "classification": {
+        "code": "03.305.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-005003",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00527",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "처트니 음악",
+      "classification": {
+        "code": "03.305.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008829",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "유로팝",
+      "classification": {
+        "code": "03.301.033",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-010993",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00527",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "가이타 술리아나",
+      "classification": {
+        "code": "03.305.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-013617",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "하드코어 힙합",
+      "classification": {
+        "code": "03.303.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015901",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "힙합",
+      "classification": {
+        "code": "03.303.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015904",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "호러코어",
+      "classification": {
+        "code": "03.303.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-015905",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인더스트리얼 힙합",
+      "classification": {
+        "code": "03.303.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-019519",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "영화 음악과 구별되는 인도 팝",
+      "classification": {
+        "code": "03.301.034",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-020485",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00511",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인스트루멘털 힙합",
+      "classification": {
+        "code": "03.303.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-031594",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00494",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "팝 음악",
+      "classification": {
+        "code": "03.301.035",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-001507",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00485",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "주제와 장면을 앞세운 미국식 보드게임",
+      "classification": {
+        "code": "03.210.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-002067",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00485",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "예술적 표현을 앞세운 게임",
+      "classification": {
+        "code": "03.210.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-004494",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00485",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "짧게 즐기기 쉬운 게임",
+      "classification": {
+        "code": "03.210.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-005405",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00485",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "웃음을 중심에 둔 비디오게임",
+      "classification": {
+        "code": "03.210.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008318",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00485",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "배우며 즐기는 교육 게임",
+      "classification": {
+        "code": "03.210.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008782",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00485",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "호위가 중심인 게임",
+      "classification": {
+        "code": "03.210.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008827",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00485",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "유로게임",
+      "classification": {
+        "code": "03.210.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-009101",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00485",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "운동형 비디오게임",
+      "classification": {
+        "code": "03.210.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-028321",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00428",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "스테이지를 다시 방문하는 탐험 액션",
+      "classification": {
+        "code": "03.203.006",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-031363",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00207",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "피카레스크",
+      "classification": {
+        "code": "03.102.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-002704",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00386",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "성인 남성 간 관계를 다루는 일본 만화 범주",
+      "classification": {
+        "code": "03.119.006",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-005163",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00231",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "태엽과 톱니바퀴의 대체 역사",
+      "classification": {
+        "code": "03.104.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007288",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00231",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "디젤펑크",
+      "classification": {
+        "code": "03.104.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008297",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00386",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "에치물",
+      "classification": {
+        "code": "03.119.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-009908",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00215",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "여성 주체 환상 서사",
+      "classification": {
+        "code": "03.103.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-018287",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00330",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "개척민 포로 서사",
+      "classification": {
+        "code": "03.112.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-021226",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00317",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "감상적 일상극으로 변한 네오리얼리즘",
+      "classification": {
+        "code": "03.111.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-027959",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00231",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "군사 기술로 다루는 로봇",
+      "classification": {
+        "code": "03.104.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-030594",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00231",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "메카 중심 영상물",
+      "classification": {
+        "code": "03.104.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-004320",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00231",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "초인을 현실 제도 속에서 묻는 장르",
+      "classification": {
+        "code": "03.104.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000105",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00354",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "무협",
+      "classification": {
+        "code": "03.115.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-002972",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-T02543",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 2,
+      "label": "벨라루스 미디어",
+      "classification": {
+        "code": "02.022.001",
+        "review_status": "reviewed",
+        "row_version": 2
+      },
+      "semantics": {
+        "semantic_kind": "work_scope",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-002984",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-T02543",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 2,
+      "label": "벨기에 미디어",
+      "classification": {
+        "code": "02.022.002",
+        "review_status": "reviewed",
+        "row_version": 2
+      },
+      "semantics": {
+        "semantic_kind": "work_scope",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02543",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-F02",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "지역별 미디어",
+      "classification": {
+        "code": "02.022",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "work_scope",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02544",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-F02",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "출판·발행 형식",
+      "classification": {
+        "code": "02.023",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02545",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-F02",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "게임 플랫폼·기기",
+      "classification": {
+        "code": "02.024",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "platform",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-007792",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-T02544",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "동인지",
+      "classification": {
+        "code": "02.023.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "publication_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000962",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-T02545",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "패미컴",
+      "classification": {
+        "code": "02.024.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "platform",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000309",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-F02",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대중매체",
+      "classification": {
+        "code": "02.025",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "medium_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02546",
+      "facet_id": "ML-F29",
+      "parent_id": "ML-F29",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "과학·수학 참조",
+      "classification": {
+        "code": "29.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-001985",
+      "facet_id": "ML-F01",
+      "parent_id": "ML-F01",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "반복 변주되는 이야기 원형",
+      "classification": {
+        "code": "01.006",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-013693",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-F03",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "노이즈 음악",
+      "classification": {
+        "code": "03.402",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-004693",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00527",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "샹송",
+      "classification": {
+        "code": "03.305.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-013692",
+      "facet_id": "ML-F03",
+      "parent_id": "MEJE-KW-013693",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "하시 노이즈",
+      "classification": {
+        "code": "03.402.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "music_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-009308",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-F03",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "우화",
+      "classification": {
+        "code": "03.403",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-002865",
+      "facet_id": "ML-F03",
+      "parent_id": "MEJE-KW-009308",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "동물이 인간 사회를 비추는 우화",
+      "classification": {
+        "code": "03.403.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02547",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-F03",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "고딕 서사",
+      "classification": {
+        "code": "03.404",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "genre_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012472",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02547",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "서던 고딕",
+      "classification": {
+        "code": "03.404.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-012473",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02547",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "서던 온타리오 고딕",
+      "classification": {
+        "code": "03.404.002",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02548",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "정서 반응",
+      "classification": {
+        "code": "11.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-025394",
+      "facet_id": "ML-F02",
+      "parent_id": "ML-T00061",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "텔레비전용 영화",
+      "classification": {
+        "code": "02.014.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "work_form",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "medium"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02549",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00970",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "쌍둥이",
+      "classification": {
+        "code": "10.001.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02550",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-T01050",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "타인을 보호하려는 동기",
+      "classification": {
+        "code": "11.002.007",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02551",
+      "facet_id": "ML-F19",
+      "parent_id": "ML-T01683",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "톤 전환",
+      "classification": {
+        "code": "19.007.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-009149",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-F03",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "착취 영화",
+      "classification": {
+        "code": "03.405",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "film_genre",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 2
+      }
+    },
+    {
+      "id": "MEJE-KW-029028",
+      "facet_id": "ML-F03",
+      "parent_id": "MEJE-KW-009149",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "충격적 현실을 내세운 몬도 영화",
+      "classification": {
+        "code": "03.405.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "film_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 2
+      }
+    },
+    {
+      "id": "ML-T02552",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-F03",
+      "node_kind": "collection",
+      "taggable": false,
+      "row_version": 1,
+      "label": "소설·출판 관행 색인",
+      "classification": {
+        "code": "03.406",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "collection",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02553",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-F03",
+      "node_kind": "collection",
+      "taggable": false,
+      "row_version": 1,
+      "label": "캐릭터 중심 작품군 색인",
+      "classification": {
+        "code": "03.407",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "collection",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02554",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-F03",
+      "node_kind": "collection",
+      "taggable": false,
+      "row_version": 1,
+      "label": "방송 프로그램 유형 색인",
+      "classification": {
+        "code": "03.408",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "collection",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-004868",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02552",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "여성 독자를 겨냥한 현대 소설",
+      "classification": {
+        "code": "03.406.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-024628",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02552",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "문체와 인간 탐구를 중시하는 문학 소설",
+      "classification": {
+        "code": "03.406.002",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-030280",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02552",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "수용소의 성적 폭력을 자극적으로 소비하는 대중소설",
+      "classification": {
+        "code": "03.406.003",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-031317",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02552",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "철학소설",
+      "classification": {
+        "code": "03.406.004",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-006445",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02553",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "귀여운 소녀들의 활동을 따르는 장르",
+      "classification": {
+        "code": "03.407.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-028461",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02553",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "귀여운 소녀들과 군사 장비를 결합한 작품",
+      "classification": {
+        "code": "03.407.002",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-029094",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02553",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "동료 괴물의 대결이 중심인 시리즈",
+      "classification": {
+        "code": "03.407.003",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-033287",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02553",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "오토코노코 장르",
+      "classification": {
+        "code": "03.407.004",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008319",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02554",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "배움과 재미를 함께 담은 방송",
+      "classification": {
+        "code": "03.408.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "broadcast_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-016121",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02554",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "집과 정원의 변화를 보여 주는 프로그램",
+      "classification": {
+        "code": "03.408.002",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "broadcast_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-003298",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02552",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기묘한 현실을 중심에 둔 소설",
+      "classification": {
+        "code": "03.406.005",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-024630",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02552",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "장르적 흥미와 문학적 표현을 결합한 소설",
+      "classification": {
+        "code": "03.406.006",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-025948",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02552",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "불행과 고통을 중심에 둔 문학",
+      "classification": {
+        "code": "03.406.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-029029",
+      "facet_id": "ML-F03",
+      "parent_id": "MEJE-KW-029028",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "죽음의 장면에 집중하는 충격 기록물",
+      "classification": {
+        "code": "03.405.001.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "film_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-022047",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T02554",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "신체 볼거리를 주된 매력으로 내세우는 방송 프로그램",
+      "classification": {
+        "code": "03.408.003",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "broadcast_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000988",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00988",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "임종 직전 혼인",
+      "classification": {
+        "code": "10.003.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000480",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T01019",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "관심의 경쟁",
+      "classification": {
+        "code": "10.007.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000504",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T01004",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "발언권의 불균형",
+      "classification": {
+        "code": "10.005.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000727",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00988",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "고용 관계",
+      "classification": {
+        "code": "10.003.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000783",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00988",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "강제된 접촉",
+      "classification": {
+        "code": "10.003.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000489",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T01034",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "과소평가된 팀",
+      "classification": {
+        "code": "10.009.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000599",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00988",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "유일한 유대",
+      "classification": {
+        "code": "10.003.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000608",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00979",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "관심의 삼각 관계",
+      "classification": {
+        "code": "10.002.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-030516",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00988",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "지위의 과시 수단이 되는 배우자",
+      "classification": {
+        "code": "10.003.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-026949",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00979",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "주인공에게 여러 연애 후보를 주는 이야기",
+      "classification": {
+        "code": "10.002.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-000846",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00648",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "액션으로 시작하는 프롤로그",
+      "classification": {
+        "code": "05.006.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-001026",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00640",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "한쪽으로 옮겨 가는 우세",
+      "classification": {
+        "code": "05.005.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-001090",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00655",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "모험 뒤 원래 모습으로 돌아감",
+      "classification": {
+        "code": "05.007.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-001245",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00618",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "서사 전체를 빌린 비유",
+      "classification": {
+        "code": "05.002.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000174",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00485",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "역할극 게임",
+      "classification": {
+        "code": "03.210.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "collection_member",
+        "allowed_roles": [
+          "genre"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02558",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인식 전환형 반전",
+      "classification": {
+        "code": "05.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02559",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-F13",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "허구 공간·물성 법칙",
+      "classification": {
+        "code": "13.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02560",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-F13",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "허구 생리·생식 규칙",
+      "classification": {
+        "code": "13.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02561",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-F13",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "복수 신화 체계의 실재",
+      "classification": {
+        "code": "13.012",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02562",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-F13",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "초자연 질서의 출현과 소멸",
+      "classification": {
+        "code": "13.013",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02563",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-F13",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "믿음에 의한 현실 성립",
+      "classification": {
+        "code": "13.014",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02564",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00548",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "시즌 단위",
+      "classification": {
+        "code": "04.001.012",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000848",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00576",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "경연 형식",
+      "classification": {
+        "code": "04.004.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02565",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00576",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "작업 과정 프로그램",
+      "classification": {
+        "code": "04.004.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02566",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00576",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "토크 프로그램",
+      "classification": {
+        "code": "04.004.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02567",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00592",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "본편·부가 콘텐츠 분담",
+      "classification": {
+        "code": "04.006.006",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02568",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00576",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "출연자 수 제한 형식",
+      "classification": {
+        "code": "04.004.012",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02569",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00576",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "비언어적 서사",
+      "classification": {
+        "code": "04.004.013",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-030549",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00640",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "핵심 수수께끼의 답을 찾아가는 이야기",
+      "classification": {
+        "code": "05.005.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02570",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00640",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "진전 무효화형 반복",
+      "classification": {
+        "code": "05.005.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02571",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "줄거리의 미회수 중단",
+      "classification": {
+        "code": "05.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-025524",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00640",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "새 악역이 이전 악역을 밀어내기",
+      "classification": {
+        "code": "05.005.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-027137",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00640",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "여러 목표물을 전부 모아야 하는 이야기",
+      "classification": {
+        "code": "05.005.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-031925",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00640",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "살아남기 위해 계속 다른 희생자를 공급하기",
+      "classification": {
+        "code": "05.005.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02572",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00633",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "중심 사건과 목표가 교체되는 줄거리",
+      "classification": {
+        "code": "05.004.007",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02573",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00640",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "곁사건으로 미뤄지는 주된 줄거리",
+      "classification": {
+        "code": "05.005.013",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02574",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00640",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "자기 죽음이 성립 조건인 계획",
+      "classification": {
+        "code": "05.005.014",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-033870",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00633",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "잠시 다른 장르로 들어가는 이야기",
+      "classification": {
+        "code": "05.004.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000488",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00633",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "전선과 특수 임무",
+      "classification": {
+        "code": "05.004.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000609",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00640",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "최종 승리의 독점",
+      "classification": {
+        "code": "05.005.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000610",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-T00640",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대신 나선 동료의 패배",
+      "classification": {
+        "code": "05.005.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-015949",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-T01202",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "한 몸을 공유하는 여러 정신",
+      "classification": {
+        "code": "13.005.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02575",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-T01202",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "자아의 신체 이동",
+      "classification": {
+        "code": "13.005.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02576",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-T01172",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "매체에 따라 달라지는 형상",
+      "classification": {
+        "code": "13.001.007",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02577",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-T01186",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "시간 이동 허용·귀환 규칙",
+      "classification": {
+        "code": "13.003.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02578",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-T01195",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "도덕적 속성의 인과 효력",
+      "classification": {
+        "code": "13.004.007",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02579",
+      "facet_id": "ML-F13",
+      "parent_id": "ML-T01202",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "가역적 생명 활동 보존",
+      "classification": {
+        "code": "13.005.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-024205",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-T01313",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "음식으로 이루어진 공간",
+      "classification": {
+        "code": "14.009.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02580",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-T01285",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연구·관측시설",
+      "classification": {
+        "code": "14.006.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02581",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-T01285",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "주점",
+      "classification": {
+        "code": "14.006.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02582",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-T01285",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "전시관·수집품 진열실",
+      "classification": {
+        "code": "14.006.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02583",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-T01313",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "수면 아래 공간",
+      "classification": {
+        "code": "14.009.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02584",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-T01313",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "하늘 위의 생활 공간",
+      "classification": {
+        "code": "14.009.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000717",
+      "facet_id": "ML-F12",
+      "parent_id": "ML-T01140",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "복제 생명",
+      "classification": {
+        "code": "12.006.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-027456",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00916",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "마법사",
+      "classification": {
+        "code": "09.005.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02585",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00948",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "정체 정보가 확정되지 않은 인물",
+      "classification": {
+        "code": "09.008.008",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02586",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00880",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "반복 수난의 대상",
+      "classification": {
+        "code": "09.001.012",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02587",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00916",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "군 조직 소속·출신 인물",
+      "classification": {
+        "code": "09.005.014",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02588",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00938",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "특정 대상의 기피 성향",
+      "classification": {
+        "code": "09.007.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02589",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00916",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "시중·접객 종사자",
+      "classification": {
+        "code": "09.005.015",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-010203",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00890",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "낯선 환경에 떨어진 인물",
+      "classification": {
+        "code": "09.002.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-009587",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00938",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "팬",
+      "classification": {
+        "code": "09.007.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02590",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00907",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "통치자 인물",
+      "classification": {
+        "code": "09.004.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-017419",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00916",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "괴물 사냥꾼",
+      "classification": {
+        "code": "09.005.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02591",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00938",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "과업을 회피하는 인물",
+      "classification": {
+        "code": "09.007.013",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-020952",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00938",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대인 관계 기술이 서툰 인물",
+      "classification": {
+        "code": "09.007.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02592",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00929",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연령에 비해 미숙한 인물",
+      "classification": {
+        "code": "09.006.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-018037",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00938",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "말과 행동이 어긋나는 위선자",
+      "classification": {
+        "code": "09.007.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-018221",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00948",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "한 몸에 공존하는 별개의 인격",
+      "classification": {
+        "code": "09.008.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-018116",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00938",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "상대에게 무례하게 구는 인물",
+      "classification": {
+        "code": "09.007.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02593",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00948",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "특정 존재와 자신을 동일시하는 인물",
+      "classification": {
+        "code": "09.008.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-025784",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00938",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "특정 음식을 인물의 고정 취향으로 삼기",
+      "classification": {
+        "code": "09.007.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02594",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00907",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "피험자 인물",
+      "classification": {
+        "code": "09.004.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-026773",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00880",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "재난을 끌어들이는 인물",
+      "classification": {
+        "code": "09.001.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02595",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00916",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "경찰·치안 담당 인물",
+      "classification": {
+        "code": "09.005.017",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02596",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00916",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "교육기관의 교사",
+      "classification": {
+        "code": "09.005.018",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000518",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01982",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "완곡한 설명",
+      "classification": {
+        "code": "23.008.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02597",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "모욕 발화",
+      "classification": {
+        "code": "23.006.010",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02598",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "설명 대화",
+      "classification": {
+        "code": "23.006.011",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02599",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T01026",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "상대를 보호하려는 진실 유보",
+      "classification": {
+        "code": "10.008.008",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_pattern",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-011370",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T01026",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "상대에게 맞지 않는 선물",
+      "classification": {
+        "code": "10.008.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_pattern",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02600",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T00979",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "부재한 연인의 귀환을 기다리는 관계",
+      "classification": {
+        "code": "10.002.014",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "collection_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-032860",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T01026",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "숨겨 둔 마음을 털어놓으며 관계 바꾸기",
+      "classification": {
+        "code": "10.008.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_pattern",
+        "parent_relation": "is_a",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02601",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-T00786",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "은신",
+      "classification": {
+        "code": "07.007.009",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02602",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-T00776",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "고문",
+      "classification": {
+        "code": "07.006.012",
+        "review_status": "provisional",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000169",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-T00786",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "사후 은폐",
+      "classification": {
+        "code": "07.007.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000062",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-T01917",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "칸 구성",
+      "classification": {
+        "code": "22.010.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000804",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-T01873",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "시각적 규모",
+      "classification": {
+        "code": "22.005.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
     }
   ]
 }

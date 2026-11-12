@@ -4,8 +4,8 @@
   "title": "악당이 되어 간 과거",
   "original": "Start of Darkness",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00693",
+  "primary_tag_id": "ML-T00693",
   "description": {
     "definition": "이미 알려진 악역이 어떤 경험과 선택을 거쳐 악한 존재가 되었는지 과거의 변화 과정을 보여 주는 이야기다.",
     "detail": "작품 사례: [[Spider-Man: The Animated Series]]에서 어린 Willie는 아버지의 죄를 대신 뒤집어쓴 뒤 범죄 세력을 키우고, 결국 아버지를 죽이는 Kingpin이 된다.",
@@ -13,10 +13,10 @@
     "boundary": "타락한 결과만 말하거나 악역의 출생만 소개하는 장면과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관객이 이미 알고 있는 악역의 현재를 기준으로 과거의 선택들이 제시된다. 당시에는 작은 타협처럼 보인 행동도 이후 결과와 연결되면서, 악한 인물이 형성된 과정과 전환점을 이해하는 단서가 된다.\n\n출생이나 어린 시절을 소개하는 것만으로 악역화의 과정이 설명되지는 않는다. 경험과 선택이 어떻게 연결되었는지가 필요하며, 배경을 이해시키는 기능과 현재의 악행을 면책하는 기능은 구별한다.\n\n[[Spider-Man: The Animated Series]]에서 어린 Willie는 아버지의 죄를 대신 뒤집어쓴 뒤 범죄 세력을 키우고, 결국 아버지를 죽이는 Kingpin이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관객이 이미 알고 있는 악역의 현재를 기준으로 과거의 선택들이 제시된다. 당시에는 작은 타협처럼 보인 행동도 이후 결과와 연결되면서, 악한 인물이 형성된 과정과 전환점을 이해하는 단서가 된다.\n\n출생이나 어린 시절을 소개하는 것만으로 악역화의 과정이 설명되지는 않는다. 경험과 선택이 어떻게 연결되었는지가 필요하며, 배경을 이해시키는 기능과 현재의 악행을 면책하는 기능은 구별한다."
+      ],
+      [
+        "관련 작품",
+        "[[Spider-Man: The Animated Series]]에서 어린 Willie는 아버지의 죄를 대신 뒤집어쓴 뒤 범죄 세력을 키우고, 결국 아버지를 죽이는 Kingpin이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

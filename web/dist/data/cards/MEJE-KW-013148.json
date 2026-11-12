@@ -4,8 +4,8 @@
   "title": "한 손으로 펌프 동작하기",
   "original": "One-Handed Shotgun Pump",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01921",
+  "primary_tag_id": "ML-T01921",
   "description": {
     "definition": "산탄총을 위아래로 움직이는 과장된 한 손 동작으로 다음 발사 준비를 표현하여 [[인물]]의 능숙함이나 멋을 강조하는 [[액션]] [[관습]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 취급 절차의 안내가 아니라 특정 동작의 화면 표현을 분류한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.010.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 손으로 총을 크게 움직여 다음 발사 준비를 수행하는 모습이 액션의 볼거리로 제시된다. 장전의 기능과 과시적인 몸짓이 하나의 동작에 결합한다.\n\n보통은 실용적인 준비에 해당할 시간이 인물의 능숙함을 보여 주는 장면이 된다. 크고 알아보기 쉬운 동작으로 관객이 무기의 준비 상태와 캐릭터의 멋을 동시에 읽게 한다.\n\n실제 안전한 취급 절차나 효율을 설명하는 항목이 아니다. 총을 한 손에 들었다는 사실만으로는 부족하며 특정한 과장 동작이 화면에서 강조되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 손으로 총을 크게 움직여 다음 발사 준비를 수행하는 모습이 액션의 볼거리로 제시된다. 장전의 기능과 과시적인 몸짓이 하나의 동작에 결합한다.\n\n보통은 실용적인 준비에 해당할 시간이 인물의 능숙함을 보여 주는 장면이 된다. 크고 알아보기 쉬운 동작으로 관객이 무기의 준비 상태와 캐릭터의 멋을 동시에 읽게 한다.\n\n실제 안전한 취급 절차나 효율을 설명하는 항목이 아니다. 총을 한 손에 들었다는 사실만으로는 부족하며 특정한 과장 동작이 화면에서 강조되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

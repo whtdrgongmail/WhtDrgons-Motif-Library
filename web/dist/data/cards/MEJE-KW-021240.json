@@ -4,19 +4,19 @@
   "title": "사소한 선택으로 거대한 사건에 들어가기",
   "original": "It Began with a Twist of Fate",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00648",
+  "primary_tag_id": "ML-T00648",
   "description": {
     "definition": "인물이 평범한 일상에서 한 대수롭지 않은 선택 때문에 예상하지 못한 모험이나 중대한 사건에 휘말리는 도입 방식이다.",
     "detail": "작품 사례: 《[[데스노트]]》에서 라이토는 인간계에 떨어진 낯선 노트를 주워 들고, 그 사소한 행동을 계기로 사람의 생사를 좌우하는 사건에 들어간다.",
-    "usage": "특별한 출신 설명 없이 관객과 가까운 인물을 비범한 사건으로 이끌거나, 이후 삶이 갈라지는 최초의 계기를 강조할 때 쓴다.",
-    "boundary": "어떤 사건이 우연히 시작되었다는 것만으로는 부족하다. 인물 자신의 사소한 일상적 선택이 진입의 계기가 되어야 하며, 나중에 특별한 운명이 밝혀져도 가능하다."
+    "usage": "",
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001526",
+      "work_card_id": "MM-MEDIA-002463",
       "description_ko": "《데스노트》에서 라이토는 인간계에 떨어진 낯선 노트를 주워 들고, 그 사소한 행동을 계기로 사람의 생사를 좌우하는 사건에 들어간다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특별한 출신 설명 없이 관객과 가까운 인물을 비범한 사건으로 이끌거나, 이후 삶이 갈라지는 최초의 계기를 강조할 때 쓴다.\n\n어떤 사건이 우연히 시작되었다는 것만으로는 부족하다. 인물 자신의 사소한 일상적 선택이 진입의 계기가 되어야 하며, 나중에 특별한 운명이 밝혀져도 가능하다.\n\n《[[데스노트(만화)]]》에서 라이토는 인간계에 떨어진 낯선 노트를 주워 들고, 그 사소한 행동을 계기로 사람의 생사를 좌우하는 사건에 들어간다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특별한 출신 설명 없이 관객과 가까운 인물을 비범한 사건으로 이끌거나, 이후 삶이 갈라지는 최초의 계기를 강조할 때 쓴다.\n\n어떤 사건이 우연히 시작되었다는 것만으로는 부족하다. 인물 자신의 사소한 일상적 선택이 진입의 계기가 되어야 하며, 나중에 특별한 운명이 밝혀져도 가능하다."
+      ],
+      [
+        "관련 작품",
+        "《[[데스노트(만화)]]》에서 라이토는 인간계에 떨어진 낯선 노트를 주워 들고, 그 사소한 행동을 계기로 사람의 생사를 좌우하는 사건에 들어간다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

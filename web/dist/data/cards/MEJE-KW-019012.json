@@ -4,8 +4,8 @@
   "title": "자녀를 위해 과도하게 보복하는 부모",
   "original": "Knight Templar Parent",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00971",
+  "primary_tag_id": "ML-T00971",
   "description": {
     "definition": "자기 자녀에게 문제를 일으켰다고 여기는 상대에게 부모가 터무니없이 극단적인 보복을 가하는 관계 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 위협을 막기 위한 필요한 보호와 구별한다. 상대의 잘못은 부모의 오해일 수도 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자녀를 지키려는 목적이 현재 위협에 대한 방어를 넘어 지나친 처벌과 보복으로 확대된 부모상이다. 애정의 크기와 행동의 정당성을 분리해 보여 준다.\n\n부모는 미래의 작은 가능성까지 제거하려고 타인의 삶과 안전을 희생할 수 있다. 자녀가 원치 않거나 반대해도 보호를 명분으로 결정을 대신하면 통제가 추가된다.\n\n위험이 닥친 순간 격렬하게 막는 반응과는 지속성과 비례성이 다르다. 선한 목적을 강조하면서도 자녀를 위해서라면 무엇이든 허용된다는 논리를 문제로 삼는 구도다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자녀를 지키려는 목적이 현재 위협에 대한 방어를 넘어 지나친 처벌과 보복으로 확대된 부모상이다. 애정의 크기와 행동의 정당성을 분리해 보여 준다.\n\n부모는 미래의 작은 가능성까지 제거하려고 타인의 삶과 안전을 희생할 수 있다. 자녀가 원치 않거나 반대해도 보호를 명분으로 결정을 대신하면 통제가 추가된다.\n\n위험이 닥친 순간 격렬하게 막는 반응과는 지속성과 비례성이 다르다. 선한 목적을 강조하면서도 자녀를 위해서라면 무엇이든 허용된다는 논리를 문제로 삼는 구도다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

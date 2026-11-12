@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "The Incredible Hulk",
   "original": "The Incredible Hulk",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "인크레더블 헐크"
+  ],
+  "tag_id": "ML-T00051",
   "primary_tag_id": "ML-T00051",
   "description": {
     "definition": "이 카드는 코믹북 《The Incredible Hulk》를 가리킨다. 이 라이브러리에서는 [[만능 해결 수단의 사용 제한]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: The Incredible Hulk에서 토르는 전력을 쓰면 통제력을 잃을까 걱정해 이전의 대결들에서 힘을 아꼈다고 밝히며, 강력한 능력의 사용에 스스로 제한을 둔다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.003",
     "review_status": "provisional",
@@ -43,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마블의 코믹북 《The Incredible Hulk》는 과학자 브루스 배너와 그가 변하는 거대한 헐크를 중심으로 한다. 감마선 사고 이후 감정의 동요가 압도적인 힘을 가진 몸의 변화와 연결된다.\n\n강해지는 일은 배너가 원하는 통제와 충돌할 수 있다. 위험을 막을 힘과 주변을 위협할 가능성이 같은 존재 안에 있어, 영웅 활동은 힘을 얻는 과정만이 아니라 그 힘과 함께 사는 문제로 이어진다.\n\n여러 시기와 제목의 코믹스에서 전제가 수정된 인물 계열이다. 영화와 TV의 단일 판본을 기준으로 모든 설정을 고정하지 않으며 실제 방사선의 효과를 설명하는 이야기로 보지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마블의 코믹북 《The Incredible Hulk》는 과학자 브루스 배너와 그가 변하는 거대한 헐크를 중심으로 한다. 감마선 사고 이후 감정의 동요가 압도적인 힘을 가진 몸의 변화와 연결된다.\n\n강해지는 일은 배너가 원하는 통제와 충돌할 수 있다. 위험을 막을 힘과 주변을 위협할 가능성이 같은 존재 안에 있어, 영웅 활동은 힘을 얻는 과정만이 아니라 그 힘과 함께 사는 문제로 이어진다.\n\n여러 시기와 제목의 코믹스에서 전제가 수정된 인물 계열이다. 영화와 TV의 단일 판본을 기준으로 모든 설정을 고정하지 않으며 실제 방사선의 효과를 설명하는 이야기로 보지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

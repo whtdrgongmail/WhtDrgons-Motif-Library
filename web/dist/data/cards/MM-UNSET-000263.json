@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F16",
   "description": {
-    "definition": "",
+    "definition": "마법을 발동하거나 전달하는 데 쓰이는 지팡이 형태의 도구 또는 무기다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "16",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "주문을 쓰도록 돕는 막대 모양의 도구다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[마법]] 효과를 전달하는 지팡이 형태의 도구다. 힘을 물건 자체가 보유하는 경우와 사용자의 주문을 모아 보내는 매개체인 경우를 구분할 수 있다.\n\n인물의 힘을 눈에 보이는 물건과 동작으로 표현하므로 누가 마법을 사용하는지 알아보게 한다. 지팡이를 지니거나 잃는 일이 능력의 사용 조건에 영향을 줄 수 있지만 모든 세계에서 같은 제한이 적용되는 것은 아니다.\n\n단지 막대처럼 생겼다는 이유로 근접 무기와 동일하지 않다. 불과 광선을 쏘는 형상은 가능한 하위 유형이며, 특정한 원소나 원거리 공격만을 마법 지팡이 전체의 필수 효과로 한정할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[마법]] 효과를 전달하는 지팡이 형태의 도구다. 힘을 물건 자체가 보유하는 경우와 사용자의 주문을 모아 보내는 매개체인 경우를 구분할 수 있다.\n\n인물의 힘을 눈에 보이는 물건과 동작으로 표현하므로 누가 마법을 사용하는지 알아보게 한다. 지팡이를 지니거나 잃는 일이 능력의 사용 조건에 영향을 줄 수 있지만 모든 세계에서 같은 제한이 적용되는 것은 아니다.\n\n단지 막대처럼 생겼다는 이유로 근접 무기와 동일하지 않다. 불과 광선을 쏘는 형상은 가능한 하위 유형이며, 특정한 원소나 원거리 공격만을 마법 지팡이 전체의 필수 효과로 한정할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

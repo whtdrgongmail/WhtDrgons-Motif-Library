@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000255",
   "kind": "keyword",
   "title": "스톱 모션",
-  "original": "",
+  "original": "Stop-motion animation",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F22",
   "description": {
-    "definition": "",
+    "definition": "실물 대상의 위치나 모양을 조금씩 바꾸어 한 프레임씩 촬영하고 이어 재생함으로써 스스로 움직이는 듯 보이게 하는 애니메이션 제작 기법이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "22",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "인형이나 물건을 조금 움직여 사진을 찍고, 다시 조금 움직여 찍는 일을 반복해요. 그 사진들을 연달아 보여 주면 가만히 있던 물건이 혼자 움직이는 것처럼 보여요.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인형·점토 모형·일상 물건·잘라 낸 평면 재료처럼 실제로 카메라 앞에 놓인 대상을 단계적으로 바꾸어 움직임을 만든다. 촬영한 이미지의 연속이 동작이 되므로 한 번에 연속 촬영한 실사 움직임이나 컴퓨터 안에서만 만든 형상과 제작 과정이 다르다.\n\n[[한 요소만 바뀌어 나타나는 정지 편집]]은 촬영을 멈춘 사이 대상을 바꾸어 갑작스러운 치환을 보이는 기법이다. 스톱 모션은 작은 변화를 누적해 지속되는 동작을 구성한다는 목적이 다르다. [[스톱모션처럼 보이는 컴퓨터 애니메이션]]은 이 기법의 외형을 재현하지만 실제 실물 촬영과 동일한 방식은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인형·점토 모형·일상 물건·잘라 낸 평면 재료처럼 실제로 카메라 앞에 놓인 대상을 단계적으로 바꾸어 움직임을 만든다. 촬영한 이미지의 연속이 동작이 되므로 한 번에 연속 촬영한 실사 움직임이나 컴퓨터 안에서만 만든 형상과 제작 과정이 다르다.\n\n[[한 요소만 바뀌어 나타나는 정지 편집]]은 촬영을 멈춘 사이 대상을 바꾸어 갑작스러운 치환을 보이는 기법이다. 스톱 모션은 작은 변화를 누적해 지속되는 동작을 구성한다는 목적이 다르다. [[스톱모션처럼 보이는 컴퓨터 애니메이션]]은 이 기법의 외형을 재현하지만 실제 실물 촬영과 동일한 방식은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

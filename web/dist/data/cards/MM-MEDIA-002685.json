@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "디스크월드",
   "original": "Discworld",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "디스크월드(소설 연작)"
+  ],
+  "tag_id": "ML-T00066",
   "primary_tag_id": "ML-T00066",
   "description": {
     "definition": "《디스크월드》는 문학 작품이다.",
-    "detail": "작품 사례: 《디스크월드》는 원문 집계에서 1983년부터 2015년까지 41편의 장편으로 이어져 출간 기간과 권수의 두 기준을 모두 충족한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.007",
     "review_status": "provisional",
@@ -43,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《디스크월드》는 네 코끼리와 거대한 거북이가 받친 원반 세계의 소설 계열이다. 초기의 영웅 판타지 패러디에서 출발해 도시와 제도, 죽음과 믿음 등 다양한 주제를 풍자한다.\n\n여러 책이 같은 세계의 시간 흐름을 공유하지만 다른 인물 집단이 중심에 서므로 모든 권이 하나의 주인공을 따르지는 않는다. 말장난과 기이한 설정이 현실의 일상과 권력을 다시 보게 하는 도구가 되며, 특정 영상 각색과는 전체 소설군을 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《디스크월드》는 네 코끼리와 거대한 거북이가 받친 원반 세계의 소설 계열이다. 초기의 영웅 판타지 패러디에서 출발해 도시와 제도, 죽음과 믿음 등 다양한 주제를 풍자한다.\n\n여러 책이 같은 세계의 시간 흐름을 공유하지만 다른 인물 집단이 중심에 서므로 모든 권이 하나의 주인공을 따르지는 않는다. 말장난과 기이한 설정이 현실의 일상과 권력을 다시 보게 하는 도구가 되며, 특정 영상 각색과는 전체 소설군을 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

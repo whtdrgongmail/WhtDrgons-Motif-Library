@@ -4,8 +4,8 @@
   "title": "모두에게 역할을 주는 모험가 직업군",
   "original": "An Adventurer Is You",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02144",
+  "primary_tag_id": "ML-T02144",
   "description": {
     "definition": "게임에서 전사·치유자·마법사처럼 서로 다른 직업 역할을 나눠 [[플레이어]]가 팀에 기여하게 하는 설계. 역할의 차이가 협력의 이유가 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "직업마다 가능한 행동을 달리하면 개인의 제한이 다른 동료를 필요로 하는 이유가 된다. 방어와 회복, 공격 등 역할의 조합이 팀의 대응 범위를 정한다.\n\n선택의 차이는 협력을 돕지만 특정 역할의 참여가 항상 필요한지는 게임마다 다르다. 한 사람이 여러 역할을 겸하는 설계와 엄격한 분담도 구분할 수 있다.\n\n세계의 직업 명칭만으로는 전투 역할이 나뉘었다고 할 수 없다. 실제 능력과 행동의 제약이 팀 구성에 영향을 주는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "직업마다 가능한 행동을 달리하면 개인의 제한이 다른 동료를 필요로 하는 이유가 된다. 방어와 회복, 공격 등 역할의 조합이 팀의 대응 범위를 정한다.\n\n선택의 차이는 협력을 돕지만 특정 역할의 참여가 항상 필요한지는 게임마다 다르다. 한 사람이 여러 역할을 겸하는 설계와 엄격한 분담도 구분할 수 있다.\n\n세계의 직업 명칭만으로는 전투 역할이 나뉘었다고 할 수 없다. 실제 능력과 행동의 제약이 팀 구성에 영향을 주는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "작품의 비판 메시지와 충돌하는 상품화",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02293",
+  "primary_tag_id": "ML-T02293",
   "description": {
     "definition": "작품이 비판한 가치나 행동을 공식 상품과 홍보가 오히려 장려하여 작품 밖에서 메시지가 어긋나는 현상이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "상품이 존재한다는 이유만으로 모순이라고 단정하지 않고 실제 주제와 판매 방식의 충돌을 제시한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작품이 비판한 가치와 행동을 공식 상품과 홍보가 오히려 권장한다. 서사의 메시지와 사업적인 확장이 서로 다른 방향으로 가는 현상이다.\n\n관객은 작품에서 경고받은 요소를 판매 과정에서는 즐기거나 선호하도록 요구받을 수 있다. 구체적인 주제와 상품화의 방식을 대조해야 충돌이 드러난다.\n\n상품이 있다는 사실만으로 모순은 아니다. 실제로 어떤 비판과 어떤 판매 메시지가 어긋나는지 근거가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작품이 비판한 가치와 행동을 공식 상품과 홍보가 오히려 권장한다. 서사의 메시지와 사업적인 확장이 서로 다른 방향으로 가는 현상이다.\n\n관객은 작품에서 경고받은 요소를 판매 과정에서는 즐기거나 선호하도록 요구받을 수 있다. 구체적인 주제와 상품화의 방식을 대조해야 충돌이 드러난다.\n\n상품이 있다는 사실만으로 모순은 아니다. 실제로 어떤 비판과 어떤 판매 메시지가 어긋나는지 근거가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

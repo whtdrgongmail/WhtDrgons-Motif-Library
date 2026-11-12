@@ -4,8 +4,8 @@
   "title": "개량형과 이전 기체의 대결",
   "original": "Upgrade vs. Prototype Fight",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00778",
+  "primary_tag_id": "ML-T00778",
   "description": {
     "definition": "성능이 개선된 후속 모델과 그 기반이 된 이전 기체가 서로 싸우는 구도다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "원형의 승리가 흔하더라도 필수 결말은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "개량형과 이전 기체가 싸우면 최신 성능의 우위와 익숙한 설계의 신뢰성이 맞선다. 새 기체는 수치상 향상을 자랑하지만 기존 기체의 조종자는 특성과 한계를 더 잘 이해할 수 있다.\n\n낡은 것과 새것이 함께 등장하는 것만으로는 부족하다. 직접 대결에서 차이가 작용해야 하며 최신형이 반드시 이기거나 이전 기체가 반드시 숨은 최강이어야 하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "개량형과 이전 기체가 싸우면 최신 성능의 우위와 익숙한 설계의 신뢰성이 맞선다. 새 기체는 수치상 향상을 자랑하지만 기존 기체의 조종자는 특성과 한계를 더 잘 이해할 수 있다.\n\n낡은 것과 새것이 함께 등장하는 것만으로는 부족하다. 직접 대결에서 차이가 작용해야 하며 최신형이 반드시 이기거나 이전 기체가 반드시 숨은 최강이어야 하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

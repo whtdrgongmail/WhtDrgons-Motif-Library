@@ -4,8 +4,8 @@
   "title": "폭발 장치로 통제되는 인물",
   "original": "Explosive Leash",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01413",
+  "primary_tag_id": "ML-T01413",
   "description": {
     "definition": "인물에게 폭발 위험을 지닌 구속 장치가 채워져 명령 불복이나 탈주를 막는 위협으로 작용한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "폭발 위험을 가진 구속 장치로 인물의 복종과 이동을 강제하는 설정이다. 감시자의 부재에도 위협이 몸에 남아 있다.\n\n죄수와 강제 동원된 요원은 명령 수행과 탈출의 가능성을 동시에 계산한다. 통제권이 누구에게 있는지와 약속을 믿을 수 있는지가 관계의 중심 갈등이 된다.\n\n장치의 외형보다 강압의 기능이 중요하다. 협력처럼 보이는 행동도 실제로 자유로운 동의가 아닐 수 있으며 기술적 위협과 통치자의 정당성은 별개다.",
+    "sections": [
+      [
+        "상세 설명",
+        "폭발 위험을 가진 구속 장치로 인물의 복종과 이동을 강제하는 설정이다. 감시자의 부재에도 위협이 몸에 남아 있다.\n\n죄수와 강제 동원된 요원은 명령 수행과 탈출의 가능성을 동시에 계산한다. 통제권이 누구에게 있는지와 약속을 믿을 수 있는지가 관계의 중심 갈등이 된다.\n\n장치의 외형보다 강압의 기능이 중요하다. 협력처럼 보이는 행동도 실제로 자유로운 동의가 아닐 수 있으며 기술적 위협과 통치자의 정당성은 별개다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

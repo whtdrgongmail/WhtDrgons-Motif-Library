@@ -4,8 +4,8 @@
   "title": "드래곤 혈통",
   "original": "Dragon Ancestry",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01130",
+  "primary_tag_id": "ML-T01130",
   "description": {
     "definition": "인물의 조상 가운데 드래곤이 있어 외모나 능력에 그 흔적이 남았다는 혈통 설정. 혈통이 몸의 형태로 드러나면 [[용의 특징을 지닌 인간형 종족]]과 연결된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "12",
+    "code": "12.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 조상 가운데 용이 있어 신체와 능력에 특징이 남았다는 혈통 설정이다. 평범해 보이는 사람에게도 특수한 기원이 있을 수 있다.\n\n비늘과 뿔 같은 외형뿐 아니라 마법과 변신의 능력으로 나타날 수 있다. 용이 사람의 형태를 취할 수 있는 세계에서는 서로 다른 종 사이의 관계가 혈통의 설명이 된다.\n\n용처럼 생겼다는 사실만으로 모든 인물이 같은 기원을 가진 것은 아니다. 유전된 특성과 본인이 배운 능력을 구분해야 하며, 혈통이 사회적 지위와 [[정체성]]에 미치는 영향도 개별적으로 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 조상 가운데 용이 있어 신체와 능력에 특징이 남았다는 혈통 설정이다. 평범해 보이는 사람에게도 특수한 기원이 있을 수 있다.\n\n비늘과 뿔 같은 외형뿐 아니라 마법과 변신의 능력으로 나타날 수 있다. 용이 사람의 형태를 취할 수 있는 세계에서는 서로 다른 종 사이의 관계가 혈통의 설명이 된다.\n\n용처럼 생겼다는 사실만으로 모든 인물이 같은 기원을 가진 것은 아니다. 유전된 특성과 본인이 배운 능력을 구분해야 하며, 혈통이 사회적 지위와 [[정체성]]에 미치는 영향도 개별적으로 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

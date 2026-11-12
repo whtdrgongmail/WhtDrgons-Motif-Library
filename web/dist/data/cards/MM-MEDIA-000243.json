@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "Dexter's Laboratory",
   "original": "Dexter's Laboratory",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "덱스터의 실험실"
+  ],
+  "tag_id": "ML-T00072",
   "primary_tag_id": "ML-T00072",
   "description": {
     "definition": "이 카드는 서구권 애니메이션 《Dexter's Laboratory》를 가리킨다. 이 라이브러리에서는 [[히피식 자유교육 교사]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Dexter's Laboratory의 상담교사는 염색 무늬 치마와 색안경을 착용하고, 학생의 감정을 부드럽게 물으며 권위보다 개방적인 태도를 보인다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.001",
     "review_status": "provisional",
@@ -45,5 +47,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Dexter's Laboratory》는 겐디 타르타코프스키가 만든 애니메이션이다. 어린 천재 덱스터는 자기 방에 거대한 비밀 연구실을 두고 갖가지 실험을 한다.\n\n덱스터는 뛰어난 지식과 장비를 갖추었지만 누나 디디가 연구실에 들어와 실험을 망치는 일을 막지 못한다. 또 다른 천재 맨다크와의 경쟁도 연구실의 질서를 위협한다.\n\n과학적 능력과 일상적인 통제력의 불균형이 희극을 만든다. 거대한 발명과 어린이의 사소한 감정이 같은 비중으로 부딪히며 짧은 이야기마다 다른 과장과 시각적 유머를 펼친다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Dexter's Laboratory》는 겐디 타르타코프스키가 만든 애니메이션이다. 어린 천재 덱스터는 자기 방에 거대한 비밀 연구실을 두고 갖가지 실험을 한다.\n\n덱스터는 뛰어난 지식과 장비를 갖추었지만 누나 디디가 연구실에 들어와 실험을 망치는 일을 막지 못한다. 또 다른 천재 맨다크와의 경쟁도 연구실의 질서를 위협한다.\n\n과학적 능력과 일상적인 통제력의 불균형이 희극을 만든다. 거대한 발명과 어린이의 사소한 감정이 같은 비중으로 부딪히며 짧은 이야기마다 다른 과장과 시각적 유머를 펼친다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -6,27 +6,27 @@
   "aliases": [
     "겨울왕국"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《겨울왕국(연작)》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《겨울왕국(연작)》 연작에서 순진한 안나와 사랑에 빠지는 크리스토프는 젊은 연애 상대인 테너 역할로 제시된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《[[겨울왕국]]》 작품군은 얼음의 힘을 가진 엘사와 동생 안나, 크리스토프와 올라프를 중심으로 한다. 엘사의 능력은 특별한 인물을 구별하는 특징이면서 여러 사건을 시작시키는 원인이다.\n\n힘을 감추고 드러내는 문제는 가족과 공동체의 관계에 영향을 준다. 자매가 서로를 이해하고 함께 행동하는 과정은 능력의 통제와 정서적인 유대를 별개의 과제로 남기지 않는다.\n\n2013년 애니메이션 영화에서 후속 영상과 책, 무대 등으로 확장된 작품군이다. 원래 동화와 각색, 후속 작품을 같은 줄거리로 합치지 않으며 매체마다 달라지는 사건의 범위를 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《[[겨울왕국]]》 작품군은 얼음의 힘을 가진 엘사와 동생 안나, 크리스토프와 올라프를 중심으로 한다. 엘사의 능력은 특별한 인물을 구별하는 특징이면서 여러 사건을 시작시키는 원인이다.\n\n힘을 감추고 드러내는 문제는 가족과 공동체의 관계에 영향을 준다. 자매가 서로를 이해하고 함께 행동하는 과정은 능력의 통제와 정서적인 유대를 별개의 과제로 남기지 않는다.\n\n2013년 애니메이션 영화에서 후속 영상과 책, 무대 등으로 확장된 작품군이다. 원래 동화와 각색, 후속 작품을 같은 줄거리로 합치지 않으며 매체마다 달라지는 사건의 범위를 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "쓰레기를 치워 자연 경관을 회복하기",
   "original": "Nature Clean-Up",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00816",
+  "primary_tag_id": "ML-T00816",
   "description": {
     "definition": "개인이나 집단이 자연 공간에 쌓인 쓰레기를 제거하여 환경과 경관을 되돌리려는 활동을 이야기의 행동으로 삼는 구성이다.",
     "detail": "작품 사례: 《[[아바타: 아앙의 전설]]》의 페인티드 레이디 편에서 카타라는 오염의 원인을 없앤 뒤 주민들이 강을 함께 청소하도록 이끈다.",
@@ -13,10 +13,10 @@
     "boundary": "자연이 스스로 폐허를 덮는 변화와 달리 인물의 정화 활동이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.010.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "쓰레기를 치우는 행동이 목표가 되면 자연 경관의 훼손과 회복이 인물의 구체적인 활동으로 제시된다. 개인의 실천이 동료를 모으는 계기가 되거나 공동 작업 자체가 관계를 바꿀 수도 있다.\n\n쓰레기를 보는 장면만으로는 충분하지 않다. 제거와 회복을 향한 행동이 있어야 하며, 이미 깨끗한 자연을 보호하려는 활동과는 출발 상태가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "쓰레기를 치우는 행동이 목표가 되면 자연 경관의 훼손과 회복이 인물의 구체적인 활동으로 제시된다. 개인의 실천이 동료를 모으는 계기가 되거나 공동 작업 자체가 관계를 바꿀 수도 있다.\n\n쓰레기를 보는 장면만으로는 충분하지 않다. 제거와 회복을 향한 행동이 있어야 하며, 이미 깨끗한 자연을 보호하려는 활동과는 출발 상태가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

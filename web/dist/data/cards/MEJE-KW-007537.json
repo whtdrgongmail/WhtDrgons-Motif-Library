@@ -4,8 +4,8 @@
   "title": "에너지를 다른 장치로 돌리기",
   "original": "Diverting Power",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "한정된 에너지를 한 기능에서 빼 다른 기능에 몰아 주는 장치 규칙이다. 방어나 공격의 강화가 다른 부분의 약화와 맞물린다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공유하는 에너지의 총량이 제한된 장치에서 한 기능을 강화하기 위해 다른 기능의 공급을 줄이는 규칙이다. 강화와 약화가 동시에 발생한다.\n\n방어를 높이면 공격이나 추진이 약해지는 식의 교환이 전투에 선택을 부여한다. 상대가 새로 생긴 취약점을 파악하면 단순한 출력 경쟁이 관찰과 대응의 싸움으로 바뀐다.\n\n아무 손실 없이 에너지를 추가하는 강화와는 다르다. 기능 사이의 실제 비용이 지속되어야 하며 수치와 용량은 작품이 정한 장치의 규칙으로 이해한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공유하는 에너지의 총량이 제한된 장치에서 한 기능을 강화하기 위해 다른 기능의 공급을 줄이는 규칙이다. 강화와 약화가 동시에 발생한다.\n\n방어를 높이면 공격이나 추진이 약해지는 식의 교환이 전투에 선택을 부여한다. 상대가 새로 생긴 취약점을 파악하면 단순한 출력 경쟁이 관찰과 대응의 싸움으로 바뀐다.\n\n아무 손실 없이 에너지를 추가하는 강화와는 다르다. 기능 사이의 실제 비용이 지속되어야 하며 수치와 용량은 작품이 정한 장치의 규칙으로 이해한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

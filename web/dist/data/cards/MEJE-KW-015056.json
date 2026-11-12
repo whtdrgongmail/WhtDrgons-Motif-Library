@@ -4,8 +4,8 @@
   "title": "시간이 지나며 밝아짐",
   "original": "Took a Level in Cheerfulness",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00693",
+  "primary_tag_id": "ML-T00693",
   "description": {
     "definition": "처음에는 덜 행복하거나 어두웠던 인물이 경험과 변화에 따라 더 명랑하고 즐거워지는 인물 변화이다.",
     "detail": "작품 사례: [[Ayakashi Triangle]]의 마츠리는 어린 시절부터 경호를 준비해 진지하고 무뚝뚝했지만, 초반의 경험을 거치며 평소에는 더 밝고 감정을 잘 드러내는 인물로 변한다.",
@@ -13,10 +13,10 @@
     "boundary": "일회적으로 좋은 일이 생겨 기뻐하는 반응과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "06.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사건과 관계가 쌓이면서 평소의 정서와 감정 표현이 더 밝아지는 인물 변화다. 특정한 기쁜 순간보다 반복되는 태도의 변화가 중심이다.\n\n좋은 일을 만났을 때 한 번 웃는 반응과 다르다. 이전의 침울함과 무뚝뚝함이 이후 일상에서 얼마나 달라졌는지 확인해야 한다.\n\n[[Ayakashi Triangle]]의 마츠리는 어릴 때부터 경호를 준비해 진지하고 무뚝뚝했다. 초반의 경험 이후 평소에는 더 밝고 감정을 드러내는 인물로 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사건과 관계가 쌓이면서 평소의 정서와 감정 표현이 더 밝아지는 인물 변화다. 특정한 기쁜 순간보다 반복되는 태도의 변화가 중심이다.\n\n좋은 일을 만났을 때 한 번 웃는 반응과 다르다. 이전의 침울함과 무뚝뚝함이 이후 일상에서 얼마나 달라졌는지 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Ayakashi Triangle]]의 마츠리는 어릴 때부터 경호를 준비해 진지하고 무뚝뚝했다. 초반의 경험 이후 평소에는 더 밝고 감정을 드러내는 인물로 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

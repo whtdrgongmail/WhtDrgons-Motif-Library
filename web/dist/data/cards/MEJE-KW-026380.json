@@ -4,8 +4,8 @@
   "title": "핵심 물건을 내세운 작품 제목",
   "original": "MacGuffin Title",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "찾고 지키고 되찾거나 파괴해야 할 특정 물건을 작품 제목으로 내세워 줄거리의 중심 목표를 예고한다.",
     "detail": "작품 사례: 《[[데스노트(만화)]]》는 라이토의 행동과 [[갈등]]을 이끄는 노트 자체를 작품 제목으로 내세운다.",
@@ -13,10 +13,10 @@
     "boundary": "이름에 물건이 나온다는 사실만으로 충분하지 않다. 실제 기능이 있는 핵심 물건도 포함하여 엄밀한 맥거핀에만 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "찾고 지키거나 파괴할 대상의 이름을 제목에 배치해 갈등의 중심을 예고한다.\n\n물건의 소유 상태와 생존 여부가 작품을 이해하는 중요한 기준이 된다.\n\n제목에 사물의 이름이 있다는 사실만으로는 부족하다. 그 물건을 확보하거나 보호하고 파괴하는 일이 실제로 줄거리를 움직여야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "찾고 지키거나 파괴할 대상의 이름을 제목에 배치해 갈등의 중심을 예고한다.\n\n물건의 소유 상태와 생존 여부가 작품을 이해하는 중요한 기준이 된다.\n\n제목에 사물의 이름이 있다는 사실만으로는 부족하다. 그 물건을 확보하거나 보호하고 파괴하는 일이 실제로 줄거리를 움직여야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

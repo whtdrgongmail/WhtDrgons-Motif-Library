@@ -4,8 +4,8 @@
   "title": "말의 소리와 뜻으로 만드는 말장난",
   "original": "Pun",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01990",
+  "primary_tag_id": "ML-T01990",
   "description": {
     "definition": "말의 형태나 의미를 놀이처럼 다루어 예상 밖의 연결과 웃음을 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "사건이나 행동만 우스운 장면과 달리 언어의 형식 또는 해석이 웃음의 재료가 되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "말의 소리와 표기, 여러 뜻을 겹쳐 예상 밖의 연결을 만드는 언어 표현이다. 같은 말을 다르게 이해할 수 있다는 성질이 웃음과 수수께끼의 재료가 된다.\n\n동음어를 바꾸거나 한 단어의 다른 뜻으로 대화를 이어 갈 수 있다. 인물이 재치를 과시하고 상대가 짜증내는 반응까지 포함하면 농담의 내용뿐 아니라 관계도 드러난다.\n\n같은 소리와 의미의 관계는 언어마다 달라 번역이 어렵다. 표면적인 문장을 그대로 옮기는 것과 농담의 기능을 새로 만드는 작업은 다르며, 우연한 연상과 의도된 효과를 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "말의 소리와 표기, 여러 뜻을 겹쳐 예상 밖의 연결을 만드는 언어 표현이다. 같은 말을 다르게 이해할 수 있다는 성질이 웃음과 수수께끼의 재료가 된다.\n\n동음어를 바꾸거나 한 단어의 다른 뜻으로 대화를 이어 갈 수 있다. 인물이 재치를 과시하고 상대가 짜증내는 반응까지 포함하면 농담의 내용뿐 아니라 관계도 드러난다.\n\n같은 소리와 의미의 관계는 언어마다 달라 번역이 어렵다. 표면적인 문장을 그대로 옮기는 것과 농담의 기능을 새로 만드는 작업은 다르며, 우연한 연상과 의도된 효과를 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

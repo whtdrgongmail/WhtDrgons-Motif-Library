@@ -4,8 +4,8 @@
   "title": "진단을 이용해 상대의 신뢰를 깎기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00786",
+  "primary_tag_id": "ML-T00786",
   "description": {
     "definition": "의학적 권위를 가진 인물이 상대에게 병이나 이상이 있다고 진단하여 말을 믿지 못하게 하거나 침묵시키는 행동이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "치료를 위한 정당한 진단과 달리 상대를 억누르는 목적과 효과가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "진단이 상대의 발언권을 줄이는 수단이 되면 의학적 권위는 치료 대신 통제에 쓰인다. 말의 내용보다 말한 사람의 상태를 문제 삼아 신뢰를 깎는다.\n\n듣는 사람은 진단한 전문가의 지위를 이유로 상대의 설명을 무시할 수 있다. 정보의 진위를 다투던 갈등이 누가 믿을 만한지의 싸움으로 옮겨가는 방식이다.\n\n정당한 치료 목적의 진단과는 다르다. 억누르려는 목적과 침묵시키는 효과를 함께 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "진단이 상대의 발언권을 줄이는 수단이 되면 의학적 권위는 치료 대신 통제에 쓰인다. 말의 내용보다 말한 사람의 상태를 문제 삼아 신뢰를 깎는다.\n\n듣는 사람은 진단한 전문가의 지위를 이유로 상대의 설명을 무시할 수 있다. 정보의 진위를 다투던 갈등이 누가 믿을 만한지의 싸움으로 옮겨가는 방식이다.\n\n정당한 치료 목적의 진단과는 다르다. 억누르려는 목적과 침묵시키는 효과를 함께 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

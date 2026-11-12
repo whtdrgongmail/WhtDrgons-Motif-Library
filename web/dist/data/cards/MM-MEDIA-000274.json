@@ -4,17 +4,17 @@
   "title": "DragonQuest (1980)",
   "original": "DragonQuest (1980)",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
     "definition": "이 카드는 테이블톱 게임 《DragonQuest (1980)》를 가리킨다. 이 라이브러리에서는 [[피로와 실제 부상을 나누는 생존 규칙]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: DragonQuest (1980)에서는 피로가 바닥난 인물의 행동에 불이익이 붙는다. 그 뒤 받는 공격은 상처를 나타내는 별도 자원을 직접 깎기 시작한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《DragonQuest》는 SPI가 1980년 처음 출판한 판타지 탁상 역할 수행 게임이다. 고정된 직업 구분보다 개별 기술을 중심으로 인물을 만드는 방식을 강조한다.\n\n인물은 다양한 기술을 배울 수 있고 경험을 사용해 직업적 능력을 획득한다. 어떤 직업을 처음 선택했는가보다 능력을 어떻게 조합하는가가 인물의 차이를 만드는 구조다.\n\n같은 이름과 비슷한 표기의 일본 비디오게임 《Dragon Quest》와는 별개의 작품이다. 판본에 따라 규칙이 달라지므로 최초 SPI판과 이후 TSR판의 내용을 구분할 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《DragonQuest》는 SPI가 1980년 처음 출판한 판타지 탁상 역할 수행 게임이다. 고정된 직업 구분보다 개별 기술을 중심으로 인물을 만드는 방식을 강조한다.\n\n인물은 다양한 기술을 배울 수 있고 경험을 사용해 직업적 능력을 획득한다. 어떤 직업을 처음 선택했는가보다 능력을 어떻게 조합하는가가 인물의 차이를 만드는 구조다.\n\n같은 이름과 비슷한 표기의 일본 비디오게임 《Dragon Quest》와는 별개의 작품이다. 판본에 따라 규칙이 달라지므로 최초 SPI판과 이후 TSR판의 내용을 구분할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

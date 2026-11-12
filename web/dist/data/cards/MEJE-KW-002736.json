@@ -4,8 +4,8 @@
   "title": "바로크 음악",
   "original": "Baroque Music",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00139",
+  "primary_tag_id": "ML-T00139",
   "description": {
     "definition": "장식적인 선율과 대비, 반복되는 리듬이 두드러지는 유럽 음악의 한 흐름. 작품에서 시대의 분위기를 만들거나 정교한 질서와 감정의 움직임을 동시에 들려주는 재료로 쓰인다. 오래된 양식의 요소가 대중음악에 들어오면 [[바로크 팝]]와 연결된다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유럽 음악사의 넓은 시기를 묶는 명칭으로 선율의 장식과 반복, 여러 성부와 음색의 대비를 살펴볼 수 있다. 대체로 17세기와 18세기 전반을 중심에 두지만 이전과 이후 양식과의 경계가 단번에 갈라지는 것은 아니다.\n\n작품에 사용되면 특정 시대의 분위기나 정교하게 조직된 움직임을 전달할 수 있다. 성악과 기악, 춤의 리듬 등 서로 다른 요소가 발전했으므로 하나의 대표적인 소리만으로 전체 흐름을 설명하기는 어렵다.\n\n[[바로크 팝]]은 그 양식의 요소를 대중음악에 결합한 별도의 범위다. 오래된 악기가 들린다는 사실만으로 같은 시기라고 단정하지 말고, 실제 곡의 제작 배경과 후대의 재현을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유럽 음악사의 넓은 시기를 묶는 명칭으로 선율의 장식과 반복, 여러 성부와 음색의 대비를 살펴볼 수 있다. 대체로 17세기와 18세기 전반을 중심에 두지만 이전과 이후 양식과의 경계가 단번에 갈라지는 것은 아니다.\n\n작품에 사용되면 특정 시대의 분위기나 정교하게 조직된 움직임을 전달할 수 있다. 성악과 기악, 춤의 리듬 등 서로 다른 요소가 발전했으므로 하나의 대표적인 소리만으로 전체 흐름을 설명하기는 어렵다.\n\n[[바로크 팝]]은 그 양식의 요소를 대중음악에 결합한 별도의 범위다. 오래된 악기가 들린다는 사실만으로 같은 시기라고 단정하지 말고, 실제 곡의 제작 배경과 후대의 재현을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

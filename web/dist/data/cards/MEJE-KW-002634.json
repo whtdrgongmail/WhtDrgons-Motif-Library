@@ -4,8 +4,8 @@
   "title": "여러 연애 후보의 비중을 고르게 두기",
   "original": "Balanced Harem",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MEJE-KW-026949",
+  "primary_tag_id": "MEJE-KW-026949",
   "description": {
     "definition": "한 인물을 둘러싼 여러 관계에 비슷한 시간과 사건을 배분한다. 특정 결말을 늦추는 구조가 관계의 성장 방식에도 영향을 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.002.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람에게 호감을 가진 여러 후보가 비슷한 분량과 중요한 사건을 배정받는 이야기 구성이다. 어느 관계가 최종 선택이 될지 쉽게 확정되지 않아 각 관계를 비교하게 된다. 비중을 맞춘다는 말이 후보들의 감정과 선택까지 같은 내용으로 반복한다는 뜻은 아니다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 연애 후보에게 비슷한 출연 시간과 감정적 접근의 기회를 배분하는 연애 희극의 구조다. 특정 상대의 우위를 빠르게 확정하지 않아 다양한 지지와 기대를 유지한다.\n\n후보마다 관계가 순서대로 진전되거나 한 회차의 변화가 다시 원래 상태로 돌아오는 방식이 쓰인다. 주요 후보끼리 균형을 이루면서 그보다 비중이 낮은 후보 집단을 따로 둘 수도 있다.\n\n모든 인물이 완전히 같은 분량을 가져야 하는 것은 아니다. 후보들의 가능성이 지속적으로 비교 가능한 상태인지가 중요하며, 최종 연인의 확정 여부와는 별개로 중간 전개를 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 연애 후보에게 비슷한 출연 시간과 감정적 접근의 기회를 배분하는 연애 희극의 구조다. 특정 상대의 우위를 빠르게 확정하지 않아 다양한 지지와 기대를 유지한다.\n\n후보마다 관계가 순서대로 진전되거나 한 회차의 변화가 다시 원래 상태로 돌아오는 방식이 쓰인다. 주요 후보끼리 균형을 이루면서 그보다 비중이 낮은 후보 집단을 따로 둘 수도 있다.\n\n모든 인물이 완전히 같은 분량을 가져야 하는 것은 아니다. 후보들의 가능성이 지속적으로 비교 가능한 상태인지가 중요하며, 최종 연인의 확정 여부와는 별개로 중간 전개를 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

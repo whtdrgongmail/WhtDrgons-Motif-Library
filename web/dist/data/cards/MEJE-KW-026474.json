@@ -4,8 +4,8 @@
   "title": "충격적인 경험 뒤 사라지는 기억",
   "original": "Trauma-Induced Amnesia",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00952",
+  "primary_tag_id": "ML-T00952",
   "description": {
     "definition": "큰 정신적 충격을 받은 인물이 사건이나 삶의 일부에 대한 기억을 잃거나 억누르는 것으로 그려진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "작품의 기억 장치이며 실제 기억상실의 원인과 치료를 설명하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "09.008.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "충격적인 사건 이후 관련된 기억에 접근하지 못하는 상태가 제시된다. 인물은 현재의 반응과 과거의 공백 사이에서 원인을 찾아야 한다.\n\n일부 단서가 기억을 자극하면 사건의 공개와 감정의 재경험이 함께 일어날 수 있다. 누가 과거를 설명하는지에 따라 정보의 신뢰성이 달라진다.\n\n원문은 신체적 두부 손상도 포함하지만 정본은 정신적인 충격에 한정한다. 기억이 항상 같은 방식으로 억압되고 되살아난다는 의학적 주장으로 받아들이지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "충격적인 사건 이후 관련된 기억에 접근하지 못하는 상태가 제시된다. 인물은 현재의 반응과 과거의 공백 사이에서 원인을 찾아야 한다.\n\n일부 단서가 기억을 자극하면 사건의 공개와 감정의 재경험이 함께 일어날 수 있다. 누가 과거를 설명하는지에 따라 정보의 신뢰성이 달라진다.\n\n원문은 신체적 두부 손상도 포함하지만 정본은 정신적인 충격에 한정한다. 기억이 항상 같은 방식으로 억압되고 되살아난다는 의학적 주장으로 받아들이지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

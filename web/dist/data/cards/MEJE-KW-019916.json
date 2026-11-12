@@ -5,8 +5,8 @@
   "original": "A Tutorial That Makes an Expert Learn the Basics",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02152",
+  "primary_tag_id": "ML-T02152",
   "description": {
     "definition": "설정상 숙련된 인물이 플레이어에게 조작법을 가르치기 위해 자기 전문 분야의 기초를 다시 안내받는 게임 구성이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "기억 상실이나 재훈련이 작중 이유로 제시된 경우에는 설명의 층위가 달라진다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.010.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "설정상 전문적인 인물이 자신의 분야의 기초를 다시 안내받는다. 작중 숙련도와 플레이어가 배워야 하는 조작의 수준이 어긋나는 튜토리얼이다.\n\n설명의 필요는 인물보다 게임을 처음 하는 플레이어에게 있다. 이야기 안의 능력과 게임 바깥의 학습 요구를 나누어 이해해야 하는 구성이다.\n\n기억 상실이나 재훈련이 작중 이유로 제시되면 설명의 층위가 달라진다. 학습의 필요가 인물에게도 있는 경우와 플레이어만의 필요를 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "설정상 전문적인 인물이 자신의 분야의 기초를 다시 안내받는다. 작중 숙련도와 플레이어가 배워야 하는 조작의 수준이 어긋나는 튜토리얼이다.\n\n설명의 필요는 인물보다 게임을 처음 하는 플레이어에게 있다. 이야기 안의 능력과 게임 바깥의 학습 요구를 나누어 이해해야 하는 구성이다.\n\n기억 상실이나 재훈련이 작중 이유로 제시되면 설명의 층위가 달라진다. 학습의 필요가 인물에게도 있는 경우와 플레이어만의 필요를 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

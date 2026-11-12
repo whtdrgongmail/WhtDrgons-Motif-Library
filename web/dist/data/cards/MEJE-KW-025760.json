@@ -6,8 +6,8 @@
   "aliases": [
     "여러 생물의 특징을 합친 혼종 디자인"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01137",
+  "primary_tag_id": "ML-T01137",
   "description": {
     "definition": "둘 이상의 동물 특징을 한 몸에 섞어 어느 한 종만으로 설명되지 않는 가상 생물을 만든다.",
     "detail": "동물의 부분을 물리적으로 결합하거나 기존 동물에 날개·뿔 같은 구조를 더해 낯선 생물을 설계한다. 단어의 뜻을 외형으로 옮기는 [[말장난]], 가상 진화의 수렴, 혼종 번식 등 서로 다른 제작 원리가 같은 혼합형 디자인으로 이어질 수 있다.\n\n작품 사례: 《[[신의 탑(웹툰)]]》의 망돌고래는 돌고래와 물개의 특징을 섞은 모습으로 제시되어, 친숙한 동물 두 종류를 결합한 가상 생물의 예가 된다.",
@@ -15,10 +15,10 @@
     "boundary": "여러 생물이 곁에 모여 있거나 의상만 바꾼 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "12",
+    "code": "12.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 다른 동물의 특징을 한 몸에 결합한다. 익숙한 부분들이 낯선 조합을 이루어 새로운 생물의 인상을 만든다.\n\n결합된 부분에 맞춰 능력과 생활을 정할 수 있다. 단순히 무늬가 닮은 동물보다 신체 구성의 혼합이 분명해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 다른 동물의 특징을 한 몸에 결합한다. 익숙한 부분들이 낯선 조합을 이루어 새로운 생물의 인상을 만든다.\n\n결합된 부분에 맞춰 능력과 생활을 정할 수 있다. 단순히 무늬가 닮은 동물보다 신체 구성의 혼합이 분명해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "기사 계급 밖까지 포함하는 중무장 전사",
   "original": "Man-at-arms",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01339",
+  "primary_tag_id": "ML-T01339",
   "description": {
     "definition": "기사와 비슷한 훈련·장비·전투 역할을 갖지만 반드시 기사라는 사회적 지위에 속하지는 않는 전문 전사다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "[[기사]]는 사회적 지위이고 여기서는 군사적 역할의 범위가 기준이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기사와 비슷한 훈련과 장비로 싸우지만 기사 신분은 아닐 수 있는 전문 전사다. 사회적 계급과 군사적인 역할을 분리하는 범주다.\n\n같은 전투 기능을 서로 다른 출신의 인물이 수행할 수 있다. 무엇을 입고 어떤 역할을 맡는지와 법적·사회적 지위를 나누면 조직의 구성이 명확해진다.\n\n기사는 신분을 설명하는 말이라는 점을 유지해야 한다. 중무장했다고 누구나 그 계급에 속하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기사와 비슷한 훈련과 장비로 싸우지만 기사 신분은 아닐 수 있는 전문 전사다. 사회적 계급과 군사적인 역할을 분리하는 범주다.\n\n같은 전투 기능을 서로 다른 출신의 인물이 수행할 수 있다. 무엇을 입고 어떤 역할을 맡는지와 법적·사회적 지위를 나누면 조직의 구성이 명확해진다.\n\n기사는 신분을 설명하는 말이라는 점을 유지해야 한다. 중무장했다고 누구나 그 계급에 속하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

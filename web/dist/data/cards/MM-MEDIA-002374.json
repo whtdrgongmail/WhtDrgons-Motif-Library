@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "역전재판 4",
   "original": "Apollo Justice: Ace Attorney",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Apollo Justice: Ace Attorney"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《역전재판 4》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《역전재판 4》의 마지막 사건에서 플레이어는 배심원으로서 유죄와 무죄 중 하나를 선택하며, 그 선택이 나쁜 결말과 좋은 결말을 가른다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014352",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-012075",
       "row_version": 1
     },
@@ -47,5 +53,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "캡콤의 법정 추리 게임 《[[역전재판]]》 네 번째 본편이다. 신인 변호사 오도로키 호스케가 새로운 주인공이 된다. 새 변호사의 현재 사건이 이전 주인공의 과거와 사법 판단을 다시 드러내는 게임이다.\n\n이전 주인공 나루호도는 변호사 자격을 잃은 상태로 등장한다. 현재의 사건을 조사하는 과정에서 과거의 증거와 법정 판단이 재검토된다. 작은 몸의 반응은 발언의 내용과 비교할 단서이며 그 자체만으로 사건 전체를 증명하지는 않는다.\n\n증언의 논리뿐 아니라 인물의 작은 신체 반응도 단서가 된다. 세대교체와 사법 제도의 변화가 개별 사건의 추리와 결합한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "캡콤의 법정 추리 게임 《[[역전재판]]》 네 번째 본편이다. 신인 변호사 오도로키 호스케가 새로운 주인공이 된다. 새 변호사의 현재 사건이 이전 주인공의 과거와 사법 판단을 다시 드러내는 게임이다.\n\n이전 주인공 나루호도는 변호사 자격을 잃은 상태로 등장한다. 현재의 사건을 조사하는 과정에서 과거의 증거와 법정 판단이 재검토된다. 작은 몸의 반응은 발언의 내용과 비교할 단서이며 그 자체만으로 사건 전체를 증명하지는 않는다.\n\n증언의 논리뿐 아니라 인물의 작은 신체 반응도 단서가 된다. 세대교체와 사법 제도의 변화가 개별 사건의 추리와 결합한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

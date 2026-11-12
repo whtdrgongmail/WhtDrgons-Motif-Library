@@ -5,21 +5,47 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F25",
   "description": {
-    "definition": "",
+    "definition": "게임 전투에서 아군의 능력을 높이거나 회복·보호 등을 제공하여 아군의 전투 수행을 돕는 행위 또는 기능이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "적을 직접 공격하는 대신 동료를 더 강하게 만들거나 다치지 않게 도와 전투에 기여하는 것이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "지원의 효과는 공격력 같은 능력 수치의 강화, 피해의 회복, 방어와 보호 등으로 나타날 수 있다. 직접 피해를 얼마나 주는지와는 다른 방식으로 전투 결과에 영향을 주며, 지원을 받는 아군과 효과를 주는 행동의 관계가 중요하다.\n\n[[비전투 기술로 진행을 돕는 동료]]는 탐색이나 전투 바깥의 진행 조건을 해결하는 역할이므로 전투 중의 강화만으로는 해당하지 않는다. 한 인물이 직접 공격과 지원을 모두 맡을 수도 있으며, 집단 전체의 전투자·지원자 배치를 뜻하는 [[전투와 지원의 역할 분담]]과도 개념의 단위가 다르다.\n\n아군이 공격하는 동안 다른 동료가 그 아군의 공격력을 높여 주는 경우, 강화 효과를 제공하는 행동이 전투 지원에 해당한다. 그 동료가 전투 밖의 장애물도 해결하는지는 별개의 문제다.",
+    "sections": [
+      [
+        "상세 설명",
+        "지원의 효과는 공격력 같은 능력 수치의 강화, 피해의 회복, 방어와 보호 등으로 나타날 수 있다. 직접 피해를 얼마나 주는지와는 다른 방식으로 전투 결과에 영향을 주며, 지원을 받는 아군과 효과를 주는 행동의 관계가 중요하다.\n\n[[비전투 기술로 진행을 돕는 동료]]는 탐색이나 전투 바깥의 진행 조건을 해결하는 역할이므로 전투 중의 강화만으로는 해당하지 않는다. 한 인물이 직접 공격과 지원을 모두 맡을 수도 있으며, 집단 전체의 전투자·지원자 배치를 뜻하는 [[전투와 지원의 역할 분담]]과도 개념의 단위가 다르다."
+      ],
+      [
+        "사례",
+        "아군이 공격하는 동안 다른 동료가 그 아군의 공격력을 높여 주는 경우, 강화 효과를 제공하는 행동이 전투 지원에 해당한다. 그 동료가 전투 밖의 장애물도 해결하는지는 별개의 문제다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

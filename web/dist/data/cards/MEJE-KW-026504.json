@@ -4,8 +4,8 @@
   "title": "기이한 약물로 위협을 만드는 과학자",
   "original": "Mad Chemists",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "강화 물질이나 위험한 허구의 약물을 만들어 거래와 협박에 이용하는 과학자 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 학문이나 연구자 전체를 위험하다고 분류하지 않으며 연구의 침해 행위가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "과학자는 특이한 강화 물질과 허구의 약물을 만들어 위협에 사용한다. 지식은 치료와 연구보다 거래와 협박의 자원이 된다.\n\n누가 물질을 통제하고 어떤 요구를 하는지에 따라 윤리적인 갈등이 생긴다. 만든 기능과 사용에서의 침해는 따로 확인할 수 있다.\n\n실제 연구 분야와 과학자 전체를 위험하게 분류하지 않는다. 특정한 위협과 권리 침해가 근거로 제시되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "과학자는 특이한 강화 물질과 허구의 약물을 만들어 위협에 사용한다. 지식은 치료와 연구보다 거래와 협박의 자원이 된다.\n\n누가 물질을 통제하고 어떤 요구를 하는지에 따라 윤리적인 갈등이 생긴다. 만든 기능과 사용에서의 침해는 따로 확인할 수 있다.\n\n실제 연구 분야와 과학자 전체를 위험하게 분류하지 않는다. 특정한 위협과 권리 침해가 근거로 제시되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

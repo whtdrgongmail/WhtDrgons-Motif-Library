@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "젤다의 전설 무쥬라의 가면",
   "original": "The Legend of Zelda: Majora's Mask",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "젤다의 전설: 무쥬라의 가면"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《젤다의 전설 무쥬라의 가면》은 비디오게임 작품이다.",
-    "detail": "작품 사례: 《젤다의 전설 무쥬라의 가면》에서 가면 안의 사악한 존재는 그것을 쓴 사람을 장악한다.",
+    "definition": "《젤다의 전설 무쥬라의 가면》은 링크가 세상에 떨어질 달을 막기 위해 세 날의 시간 반복을 거듭하는 액션 어드벤처 게임이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 7,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +32,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《젤다의 전설 무쥬라의 가면》에서 가면 안의 사악한 존재는 그것을 쓴 사람을 장악한다.",
+    "easy_ko": "링크는 사흘 뒤 달이 떨어질 타르미나에서 사람들을 돕고 재앙을 막아야 합니다. 시간을 되감아 같은 사흘을 다시 살며, 각 인물의 일정과 사건을 파악해 해결책을 찾습니다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -55,6 +57,10 @@
       "row_version": 2
     },
     {
+      "card_id": "MEJE-KW-024801",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-027737",
       "row_version": 1
     },
@@ -65,7 +71,43 @@
     {
       "card_id": "MEJE-KW-027915",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-020724",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-029436",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000286",
+      "card_id": "MM-MEDIA-001508",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.nintendo.com/jp/titles/20010000022747.html",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "이 작품은 하이랄을 떠난 링크가 낯선 땅 타르미나에 들어서면서 시작된다. 거대한 달이 사흘 뒤 충돌할 위기에 놓인 세계에서 링크는 주민들의 일상과 지역별 문제를 조사하고, 종말을 막을 방법을 찾아야 한다.\n\n시간은 세 날의 주기로 흐르며, 주기를 되돌려도 링크가 배운 정보와 일부 성취를 활용해 다음 시도를 더 깊게 만들 수 있다. [[가면]]과 노래의 능력, 주민들의 시간표를 살피는 일이 모험의 여러 과제를 잇고, 제한된 시간 안에서 무엇을 먼저 할지 선택하게 한다.\n\n닌텐도 공식 소개는 타르미나에 사흘 뒤 달이 떨어지고, 세계가 멸망할 때마다 링크가 사흘 전 아침으로 돌아온다고 설명한다. 링크는 가면의 능력과 노래를 이용해 이 반복에서 벗어나려 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 작품은 하이랄을 떠난 링크가 낯선 땅 타르미나에 들어서면서 시작된다. 거대한 달이 사흘 뒤 충돌할 위기에 놓인 세계에서 링크는 주민들의 일상과 지역별 문제를 조사하고, 종말을 막을 방법을 찾아야 한다.\n\n시간은 세 날의 주기로 흐르며, 주기를 되돌려도 링크가 배운 정보와 일부 성취를 활용해 다음 시도를 더 깊게 만들 수 있다. [[가면]]과 노래의 능력, 주민들의 시간표를 살피는 일이 모험의 여러 과제를 잇고, 제한된 시간 안에서 무엇을 먼저 할지 선택하게 한다."
+      ],
+      [
+        "사례",
+        "닌텐도 공식 소개는 타르미나에 사흘 뒤 달이 떨어지고, 세계가 멸망할 때마다 링크가 사흘 전 아침으로 돌아온다고 설명한다. 링크는 가면의 능력과 노래를 이용해 이 반복에서 벗어나려 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

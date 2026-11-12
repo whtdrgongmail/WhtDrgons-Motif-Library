@@ -4,8 +4,8 @@
   "title": "사망 신원 감정을 조작하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00790",
+  "primary_tag_id": "ML-T00790",
   "description": {
     "definition": "시신의 신원 자료나 확인 결과를 의도적으로 바꾸어, 살아 있는 사람이 죽었거나 다른 사람이 사망한 것으로 믿게 하는 기만이다.",
     "detail": "신체 단서를 바꾸거나 기록을 뒤바꾸는 방식, 확인 담당자가 거짓 결론에 협력하는 방식이 있다. 단순한 사망 소문보다 공식 확인의 신뢰를 이용한다.\n\n작품 사례: 《[[강철의 연금술사]]》의 검시관은 머스탱의 계획에 협력해 불탄 가짜 시체를 마리아 로스로 확인함으로써, 그녀가 살아 있다는 사실을 숨긴다.",
@@ -13,30 +13,47 @@
     "boundary": "감정자가 아무 조작 없이 잘못 판단한 사고나 시신을 아예 남기지 않는 실종과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "시신을 확인했다는 증거 자체를 속여서 누구의 죽음인지 잘못 결론 내리게 한다.\n\n작품 사례: 《[[강철의 연금술사]]》의 검시관은 머스탱의 계획에 협력해 불탄 가짜 시체를 마리아 로스로 확인함으로써, 그녀가 살아 있다는 사실을 숨긴다.",
+    "easy_ko": "시신을 확인했다는 증거 자체를 속여서 누구의 죽음인지 잘못 결론 내리게 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001331",
+      "work_card_id": "MM-MEDIA-002178",
       "description_ko": "《강철의 연금술사》의 검시관은 머스탱의 계획에 협력해 불탄 가짜 시체를 마리아 로스로 확인함으로써, 그녀가 살아 있다는 사실을 숨긴다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "신체 단서를 바꾸거나 기록을 뒤바꾸고 확인 담당자가 거짓 결론에 협력하는 방식으로 이루어진다. 단순한 사망 소문보다 공식 확인에 대한 신뢰를 이용한다.\n\n기만의 성립에 신원 자료나 절차의 조작이 개입한다는 점이 핵심이다. 담당자가 조작 없이 잘못 판단한 사고나 시신을 남기지 않는 실종과는 구별된다.\n\n《[[강철의 연금술사]]》의 검시관은 머스탱의 계획에 협력해 불탄 가짜 시체를 마리아 로스로 확인함으로써, 그녀가 살아 있다는 사실을 숨긴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "신체 단서를 바꾸거나 기록을 뒤바꾸고 확인 담당자가 거짓 결론에 협력하는 방식으로 이루어진다. 단순한 사망 소문보다 공식 확인에 대한 신뢰를 이용한다.\n\n기만의 성립에 신원 자료나 절차의 조작이 개입한다는 점이 핵심이다. 담당자가 조작 없이 잘못 판단한 사고나 시신을 남기지 않는 실종과는 구별된다."
+      ],
+      [
+        "관련 작품",
+        "《[[강철의 연금술사]]》의 검시관은 머스탱의 계획에 협력해 불탄 가짜 시체를 마리아 로스로 확인함으로써, 그녀가 살아 있다는 사실을 숨긴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

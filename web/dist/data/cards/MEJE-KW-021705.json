@@ -4,8 +4,8 @@
   "title": "한 번의 악행으로 확정되는 지옥행",
   "original": "Easy Road to Hell",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02507",
+  "primary_tag_id": "ML-T02507",
   "description": {
     "definition": "단 한 번 나쁜 행동을 하면 그 순간 지옥의 형벌 대상이 되는 엄격한 사후 판단 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "악행이 반드시 사소해야 한다는 조건은 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작은 악행 한 번만으로도 지옥행이 확정되는 엄격한 사후 판단 규칙이다. 잘못의 정도와 전체 삶의 맥락이 거의 반영되지 않는다.\n\n인물은 완벽하게 행동해야 한다는 압박을 받거나 이미 벌이 정해졌으니 더 나빠져도 상관없다고 생각할 수 있다. 같은 규칙이 순응과 체념이라는 다른 반응을 만든다.\n\n누군가가 그렇게 주장하는 것과 세계의 실제 법칙인 것은 다르다. 회개와 변화의 가능성이 있는지, 판단 체계가 부당하게 제시되는지도 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작은 악행 한 번만으로도 지옥행이 확정되는 엄격한 사후 판단 규칙이다. 잘못의 정도와 전체 삶의 맥락이 거의 반영되지 않는다.\n\n인물은 완벽하게 행동해야 한다는 압박을 받거나 이미 벌이 정해졌으니 더 나빠져도 상관없다고 생각할 수 있다. 같은 규칙이 순응과 체념이라는 다른 반응을 만든다.\n\n누군가가 그렇게 주장하는 것과 세계의 실제 법칙인 것은 다르다. 회개와 변화의 가능성이 있는지, 판단 체계가 부당하게 제시되는지도 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

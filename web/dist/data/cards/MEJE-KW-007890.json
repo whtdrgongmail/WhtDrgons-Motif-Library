@@ -4,8 +4,8 @@
   "title": "희극과 드라마가 섞인 장르",
   "original": "Dramedy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00317",
+  "primary_tag_id": "ML-T00317",
   "description": {
     "definition": "웃음과 진지한 갈등을 한 이야기 안에서 지속적으로 결합해 어느 한쪽으로만 묶기 어려운 장르다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.111",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "희극과 드라마가 섞인 장르는 한 이야기에서 웃긴 사건과 진지한 갈등을 계속 함께 다룹니다. 잠깐 농담을 하는 비극이나 한 장면만 슬픈 [[코미디]]보다 두 분위기의 지속적인 결합에 가깝습니다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "희극과 진지한 갈등이 작품 전체에서 지속적으로 비슷한 비중을 갖는 혼합 장르다. 웃음과 고통이 별개의 장식이 아니라 같은 관계와 사건을 구성한다.\n\n일상의 우스운 대화가 인물의 취약함을 드러내고 심각한 실패가 다시 웃음으로 이어질 수 있다. 두 어조의 전환을 얼마나 자연스럽게 연결하는지가 감상의 리듬에 중요하다.\n\n가끔 농담이 있는 드라마와 한 번 진지해지는 희극만으로는 충분하지 않다. 작품의 반복적인 구성과 관심을 함께 보아야 하며, 어느 한쪽의 관습만 기대한 관객에게는 급격한 분위기 변화로 느껴질 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "희극과 진지한 갈등이 작품 전체에서 지속적으로 비슷한 비중을 갖는 혼합 장르다. 웃음과 고통이 별개의 장식이 아니라 같은 관계와 사건을 구성한다.\n\n일상의 우스운 대화가 인물의 취약함을 드러내고 심각한 실패가 다시 웃음으로 이어질 수 있다. 두 어조의 전환을 얼마나 자연스럽게 연결하는지가 감상의 리듬에 중요하다.\n\n가끔 농담이 있는 드라마와 한 번 진지해지는 희극만으로는 충분하지 않다. 작품의 반복적인 구성과 관심을 함께 보아야 하며, 어느 한쪽의 관습만 기대한 관객에게는 급격한 분위기 변화로 느껴질 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

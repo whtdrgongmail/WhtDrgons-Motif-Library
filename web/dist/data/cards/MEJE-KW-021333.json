@@ -4,8 +4,8 @@
   "title": "심리적 고통과 신체 훼손을 결합한 공포",
   "original": "Torture Porn",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00248",
+  "primary_tag_id": "ML-T00248",
   "description": {
     "definition": "피해자가 겪는 정신적 압박과 노골적인 신체 훼손을 함께 전면에 두어 고통의 경험을 강하게 자극하는 공포 표현이다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": "성적 내용을 뜻하는 명칭으로 단정하지 않는다. 폭력이 등장하는 모든 공포보다 심리적 고통과 자극적인 훼손이 결합한 비중이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.105",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "무엇이 무서운지뿐 아니라 인물이 얼마나 괴롭게 고통받는지를 길게 보게 한다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "피해자의 정신적 압박과 노골적인 신체 훼손에 집중하여 고통의 경험을 강하게 자극하는 [[공포]] 표현이다. 위험의 암시보다 고통이 발생하고 지속되는 과정을 전면에 둔다.\n\n도망칠 수 없는 상황과 선택의 압박을 신체적인 위협에 결합할 수 있다. 관객은 인물의 두려움과 눈앞의 손상을 함께 접하며 혐오와 긴장, 자극을 경험한다.\n\n잔혹한 장면이 한 번 등장하는 모든 작품과 같은 것은 아니다. 고통에 얼마나 집중하는지와 어떤 감상을 유도하는지가 중요하며, 폭력의 부당함을 비판하는 맥락과 볼거리로 소비하는 방식도 구별해 볼 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "피해자의 정신적 압박과 노골적인 신체 훼손에 집중하여 고통의 경험을 강하게 자극하는 [[공포]] 표현이다. 위험의 암시보다 고통이 발생하고 지속되는 과정을 전면에 둔다.\n\n도망칠 수 없는 상황과 선택의 압박을 신체적인 위협에 결합할 수 있다. 관객은 인물의 두려움과 눈앞의 손상을 함께 접하며 혐오와 긴장, 자극을 경험한다.\n\n잔혹한 장면이 한 번 등장하는 모든 작품과 같은 것은 아니다. 고통에 얼마나 집중하는지와 어떤 감상을 유도하는지가 중요하며, 폭력의 부당함을 비판하는 맥락과 볼거리로 소비하는 방식도 구별해 볼 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

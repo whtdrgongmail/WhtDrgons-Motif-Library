@@ -4,8 +4,8 @@
   "title": "주연의 결말 뒤 조연 연애를 암시하기",
   "original": "Hooked Up Afterwards",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00616",
+  "primary_tag_id": "ML-T00616",
   "description": {
     "definition": "주연 커플의 관계가 성사된 마지막 장면에서 조연들 사이의 새로운 호감이나 연애 가능성을 덧붙여 행복한 결말을 확장하는 방식이다.",
     "detail": "작품 사례: [[High School Musical]]의 크레디트 뒤 장면에서 샤페이는 제크의 쿠키에 반해 달려가 안기며, 두 조연의 연애 가능성을 남긴다.",
@@ -13,10 +13,10 @@
     "boundary": "조연의 연애를 충분히 전개한 결말이나 두 사람이 확정적으로 결합하는 마지막 순간의 짝짓기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.001.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-000432",
+      "work_card_id": "MM-MEDIA-002857",
       "description_ko": "High School Musical의 크레디트 뒤 장면에서 샤페이는 제크의 쿠키에 반해 달려가 안기며, 두 조연의 연애 가능성을 남긴다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중심 이야기의 마무리 뒤에 조연들 사이의 새로운 연애 가능성을 짧게 덧붙이는 구성이다. 결말은 완성된 관계보다 이후에 이어질 여지를 남긴다.\n\n조연의 연애를 충분히 전개해 마무리한 경우와 다르다. 확정적인 결합보다 암시의 수준에 머문다는 점과 주연의 결말에 부수적으로 붙는 위치가 중요하다.\n\n[[High School Musical]]의 크레디트 뒤 장면에서 샤페이는 제크의 쿠키에 반한다. 달려가 안기는 반응이 두 조연 사이의 연애 가능성을 남기지만 관계의 긴 전개를 대신하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "중심 이야기의 마무리 뒤에 조연들 사이의 새로운 연애 가능성을 짧게 덧붙이는 구성이다. 결말은 완성된 관계보다 이후에 이어질 여지를 남긴다.\n\n조연의 연애를 충분히 전개해 마무리한 경우와 다르다. 확정적인 결합보다 암시의 수준에 머문다는 점과 주연의 결말에 부수적으로 붙는 위치가 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[High School Musical]]의 크레디트 뒤 장면에서 샤페이는 제크의 쿠키에 반한다. 달려가 안기는 반응이 두 조연 사이의 연애 가능성을 남기지만 관계의 긴 전개를 대신하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

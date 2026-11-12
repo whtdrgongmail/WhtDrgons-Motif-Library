@@ -4,8 +4,8 @@
   "title": "소리만으로 공연하는 극",
   "original": "Audio Play",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00149",
+  "primary_tag_id": "ML-T00149",
   "description": {
     "definition": "배우의 말과 효과음, 음악을 엮어 장면과 사건을 들려주는 극 형식. 눈에 보이지 않는 공간은 소리의 거리와 인물의 반응으로 구성된다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "02.011.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 목소리와 현장 소리로 사건이 실제 벌어지는 듯한 경험을 만드는 극 형식이다. 청자는 보이지 않는 공간을 소리의 배치와 반응으로 구성한다.\n\n각 인물이 구별되는 목소리를 갖고 동작에 대응하는 소리가 배치되면 청자는 보이지 않는 장면을 추론한다. 해설은 공간과 시간의 전환을 보충할 수 있지만 모든 행동을 말로 설명할 필요는 없다. 소리를 사건의 흔적으로 구성하는 방식이 단순 낭독과의 차이를 만든다.\n\n해설이 들어갈 수 있지만 단순한 책 낭독과는 연기와 음향의 역할이 다르다. 라디오에 한정되지 않으며 음반이나 디지털 배포에서도 같은 극적 형식을 유지할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 목소리와 현장 소리로 사건이 실제 벌어지는 듯한 경험을 만드는 극 형식이다. 청자는 보이지 않는 공간을 소리의 배치와 반응으로 구성한다.\n\n각 인물이 구별되는 목소리를 갖고 동작에 대응하는 소리가 배치되면 청자는 보이지 않는 장면을 추론한다. 해설은 공간과 시간의 전환을 보충할 수 있지만 모든 행동을 말로 설명할 필요는 없다. 소리를 사건의 흔적으로 구성하는 방식이 단순 낭독과의 차이를 만든다.\n\n해설이 들어갈 수 있지만 단순한 책 낭독과는 연기와 음향의 역할이 다르다. 라디오에 한정되지 않으며 음반이나 디지털 배포에서도 같은 극적 형식을 유지할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "인스트루멘털 힙합",
   "original": "Instrumental Hip Hop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-020485",
+  "primary_tag_id": "MEJE-KW-020485",
   "description": {
     "definition": "랩 보컬보다 힙합의 비트와 악기·샘플 구성 자체를 중심에 놓는 음악 양식이다. 재즈나 전자음악 등 다양한 소리를 힙합의 리듬 안에서 결합할 수 있다.",
     "detail": "작품 사례: 《[[Endtroducing.....]]》는 DJ 섀도의 인스트루멘털 힙합 음반 사례로 제시되며, 랩보다 비트와 소리 구성에 초점을 둔다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-03",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.303.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "랩의 전달보다 힙합의 비트와 악기, 샘플을 배열하는 방식에 중심을 둔다. 재즈나 전자음악 등 다른 소리를 받아들여도 리듬의 기반과 구성의 관점이 힙합에 연결된다. 목소리가 나오는 경우에도 샘플의 일부이거나 게스트의 참여처럼 전체 음향을 이루는 요소가 될 수 있다.\n\n이름과 달리 목소리가 전혀 없어야 한다는 절대 조건은 아니다. 무엇이 곡을 이끄는지와 비트·질감의 역할을 기준으로, 랩 보컬이 중심인 곡과 강조점을 구분해야 한다. 서로 다른 음원을 사용했다는 사실만으로 같은 양식이 되는 것도 아니므로 리듬과 구성의 결합을 함께 살펴야 한다.\n\nDJ 섀도의 1996년 음반 〈[[Endtroducing.....]]〉는 원문의 인스트루멘털 힙합 작품 목록에 포함된다. 랩보다 비트와 소리의 구성을 중심에 놓는 음반 사례로 제시되며, 다양한 소리의 결합이 힙합의 기반에서 이루어지는 양식과 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "랩의 전달보다 힙합의 비트와 악기, 샘플을 배열하는 방식에 중심을 둔다. 재즈나 전자음악 등 다른 소리를 받아들여도 리듬의 기반과 구성의 관점이 힙합에 연결된다. 목소리가 나오는 경우에도 샘플의 일부이거나 게스트의 참여처럼 전체 음향을 이루는 요소가 될 수 있다.\n\n이름과 달리 목소리가 전혀 없어야 한다는 절대 조건은 아니다. 무엇이 곡을 이끄는지와 비트·질감의 역할을 기준으로, 랩 보컬이 중심인 곡과 강조점을 구분해야 한다. 서로 다른 음원을 사용했다는 사실만으로 같은 양식이 되는 것도 아니므로 리듬과 구성의 결합을 함께 살펴야 한다."
+      ],
+      [
+        "관련 작품",
+        "DJ 섀도의 1996년 음반 〈[[Endtroducing.....]]〉는 원문의 인스트루멘털 힙합 작품 목록에 포함된다. 랩보다 비트와 소리의 구성을 중심에 놓는 음반 사례로 제시되며, 다양한 소리의 결합이 힙합의 기반에서 이루어지는 양식과 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "의리와 총격이 중심인 홍콩 범죄 액션",
   "original": "Heroic Bloodshed",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00201",
+  "primary_tag_id": "ML-T00201",
   "description": {
     "definition": "현대 경찰과 범죄자들의 복수·구원·충성·배신을 격렬하고 양식화된 총격전으로 풀어내는 액션 장르다.",
     "detail": "작품 사례: [[Triple Threat (2019)]]는 마을의 복수를 원하는 인물과 용병단에서 이탈한 전사들을 엮고, 이들의 생존과 복수를 양식화된 총격전으로 풀어낸다.",
@@ -13,17 +13,20 @@
     "boundary": "고대 무협이나 격투만 중심인 영화와 달리 현대 범죄 관계와 총격의 결합이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.101.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "충성이나 배신 같은 관계의 문제를 양식화된 총격전으로 결말짓는 액션의 양식이다. 현대 범죄 세계의 인물들이 복수와 의리를 두고 선택하며, 폭력의 연출과 관계 [[서사]]가 함께 중요해진다.\n\n홍콩 영화에서 발전한 양식을 가리키지만 유사한 구성이 다른 지역의 작품에도 사용될 수 있다. 격투나 총격의 존재만으로 분류하지 않고 명예·배신의 관계가 액션과 결합하는지 본다.\n\n《[[Triple Threat (2019)]]》는 마을의 복수를 원하는 인물과 용병단에서 이탈한 전사들을 연결한다. 이들의 생존과 복수가 양식화된 총격전으로 전개되어 관계와 총격이 결합된 사례가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "충성이나 배신 같은 관계의 문제를 양식화된 총격전으로 결말짓는 액션의 양식이다. 현대 범죄 세계의 인물들이 복수와 의리를 두고 선택하며, 폭력의 연출과 관계 [[서사]]가 함께 중요해진다.\n\n홍콩 영화에서 발전한 양식을 가리키지만 유사한 구성이 다른 지역의 작품에도 사용될 수 있다. 격투나 총격의 존재만으로 분류하지 않고 명예·배신의 관계가 액션과 결합하는지 본다."
+      ],
+      [
+        "관련 작품",
+        "《[[Triple Threat (2019)]]》는 마을의 복수를 원하는 인물과 용병단에서 이탈한 전사들을 연결한다. 이들의 생존과 복수가 양식화된 총격전으로 전개되어 관계와 총격이 결합된 사례가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

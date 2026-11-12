@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F15",
   "description": {
-    "definition": "",
+    "definition": "어머니가 가족의 일상생활과 관계망에서 중심적인 역할을 맡는 가족 조직 형태.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "15",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "가족의 생활과 돌봄이 어머니를 중심으로 조직되는 형태다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "모중심 가족은 가족 구성과 일상생활에서 어머니가 중심 역할을 하는 조직 방식이다. 양육과 돌봄, 가족 관계가 어머니를 중심으로 연결될 수 있다.\n\n가족생활의 중심 인물을 가리키는 개념이며, 친족 계보를 모계로 정하는 [[모계제]]나 부부가 아내 가족과 함께 사는 [[모처거주]]과 동일하지 않다. 이러한 가족 형태만으로 사회의 정치 권력 배치도 결정되지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "모중심 가족은 가족 구성과 일상생활에서 어머니가 중심 역할을 하는 조직 방식이다. 양육과 돌봄, 가족 관계가 어머니를 중심으로 연결될 수 있다.\n\n가족생활의 중심 인물을 가리키는 개념이며, 친족 계보를 모계로 정하는 [[모계제]]나 부부가 아내 가족과 함께 사는 [[모처거주]]과 동일하지 않다. 이러한 가족 형태만으로 사회의 정치 권력 배치도 결정되지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

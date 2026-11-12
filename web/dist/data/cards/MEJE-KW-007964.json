@@ -4,8 +4,8 @@
   "title": "술 마시기 승부",
   "original": "Drinking Contest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00767",
+  "primary_tag_id": "ML-T00767",
   "description": {
     "definition": "여러 인물이 누가 더 오래 술을 마실 수 있는지 겨룬다. 승부의 방식이 관계나 허세를 드러내는 장면이다. [[술 마시기 게임]]은 술 마시는 행동에 규칙을 더하지만 마시는 양의 승패를 겨루는 경쟁과는 목적이 다르다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "누가 술을 더 잘 견디는지 승패를 겨루는 장면이다. 함께 취하려는 목적보다 상대보다 먼저 무너지지 않으려는 경쟁이 중심이다.\n\n같은 양을 마시거나 중간에 동작과 판단을 시험하는 방식이 사용될 수 있다. 겉으로 약해 보이는 사람이 이기면 첫인상과 실제 반응의 차이가 웃음을 만든다.\n\n승리를 신체적인 안전과 동일하게 볼 수는 없다. 작품의 과장된 내성과 현실의 음주 위험은 구별해야 하며, 경쟁에 참여하라는 압박과 자발적인 선택도 같은 것이 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "누가 술을 더 잘 견디는지 승패를 겨루는 장면이다. 함께 취하려는 목적보다 상대보다 먼저 무너지지 않으려는 경쟁이 중심이다.\n\n같은 양을 마시거나 중간에 동작과 판단을 시험하는 방식이 사용될 수 있다. 겉으로 약해 보이는 사람이 이기면 첫인상과 실제 반응의 차이가 웃음을 만든다.\n\n승리를 신체적인 안전과 동일하게 볼 수는 없다. 작품의 과장된 내성과 현실의 음주 위험은 구별해야 하며, 경쟁에 참여하라는 압박과 자발적인 선택도 같은 것이 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

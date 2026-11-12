@@ -4,17 +4,17 @@
   "title": "Champions Online",
   "original": "Champions Online",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "이 카드는 비디오게임 《Champions Online》를 가리킨다. 이 라이브러리에서는 [[치유와 선의 힘을 공격 무기로 쓰기]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Champions Online의 천상 계열 능력은 적에게 피해를 주면서 아군에게는 치유를 제공해, 이로운 힘이 공격 수단으로도 작동한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《[[Champions]] Online》은 테이블톱 게임 《[[Champions]]》의 세계를 바탕으로 한 온라인 슈퍼히어로 게임이다. 플레이어가 능력과 의상을 폭넓게 조합해 자신의 영웅을 만드는 데 특징이 있다.\n\n밝고 유쾌한 영웅 모험의 외형 안에 다양한 유형의 주인공과 사건이 배치된다. 전투와 임무를 통해 힘이 성장하며 여러 만화적 관습을 직접적인 놀이로 경험하게 한다.\n\n원작의 포인트 기반 창작 정신을 이어 가면서도 컴퓨터 게임에 맞는 성장과 전투 규칙을 사용한다. 원작에서 결점으로 자원을 얻는 구조가 그대로 옮겨진 것은 아니므로 같은 설정과 다른 구현을 나누어 이해해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《[[Champions]] Online》은 테이블톱 게임 《[[Champions]]》의 세계를 바탕으로 한 온라인 슈퍼히어로 게임이다. 플레이어가 능력과 의상을 폭넓게 조합해 자신의 영웅을 만드는 데 특징이 있다.\n\n밝고 유쾌한 영웅 모험의 외형 안에 다양한 유형의 주인공과 사건이 배치된다. 전투와 임무를 통해 힘이 성장하며 여러 만화적 관습을 직접적인 놀이로 경험하게 한다.\n\n원작의 포인트 기반 창작 정신을 이어 가면서도 컴퓨터 게임에 맞는 성장과 전투 규칙을 사용한다. 원작에서 결점으로 자원을 얻는 구조가 그대로 옮겨진 것은 아니므로 같은 설정과 다른 구현을 나누어 이해해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "중요한 줄거리에서 샛길로 새기",
   "original": "Plot Detour",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02573",
+  "primary_tag_id": "ML-T02573",
   "description": {
     "definition": "바로 수행할 수 있는 중요한 목표를 두고 상대적으로 작은 일에 주의를 돌려 진행을 미루는 구성이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.005.013",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "급한 본 임무가 있는데 주인공이 작은 부탁과 다른 일에 붙잡혀 돌아간다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "줄거리 우회는 목표가 불가능해서 멈추는 상황과 다르다. 인물은 무엇을 해야 하는지 알고 기회도 있지만, 작은 사건이나 흥미에 반응하며 주된 과제를 늦춘다. 남을 그냥 지나치지 못하는 성격을 보여 주거나 무거운 전개 사이에 관계와 일상을 넣는 통로가 될 수 있다.\n\n본 임무의 시간 압박이 강할수록 우회의 이유도 설득력 있어야 한다. 아무 비용 없이 오래 돌아다니면 선언된 긴급함이 약해질 수 있다. 게임에서는 선택 과제가 이런 경험을 만들기도 하지만, 우회가 선택인지 필수인지 구별하면 통제권을 설명하기 쉽다. 큰 목표를 이루기 위해 반드시 해야 하는 선행 작업은 이 유형과 다르다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "줄거리 우회는 목표가 불가능해서 멈추는 상황과 다르다. 인물은 무엇을 해야 하는지 알고 기회도 있지만, 작은 사건이나 흥미에 반응하며 주된 과제를 늦춘다. 남을 그냥 지나치지 못하는 성격을 보여 주거나 무거운 전개 사이에 관계와 일상을 넣는 통로가 될 수 있다.\n\n본 임무의 시간 압박이 강할수록 우회의 이유도 설득력 있어야 한다. 아무 비용 없이 오래 돌아다니면 선언된 긴급함이 약해질 수 있다. 게임에서는 선택 과제가 이런 경험을 만들기도 하지만, 우회가 선택인지 필수인지 구별하면 통제권을 설명하기 쉽다. 큰 목표를 이루기 위해 반드시 해야 하는 선행 작업은 이 유형과 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

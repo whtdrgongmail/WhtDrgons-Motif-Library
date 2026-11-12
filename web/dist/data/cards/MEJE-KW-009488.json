@@ -4,8 +4,8 @@
   "title": "문자 보내는 척",
   "original": "Fake Texting",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "인물이 휴대전화를 만지며 메시지를 주고받는 척해 대화나 주변의 관심을 피한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "휴대전화를 만지며 메시지를 보내는 것처럼 행동하여 주변의 관심과 대화를 피하는 장면이다. 실제 소통보다 바쁜 사람처럼 보이는 것이 목적이다.\n\n당황한 표정을 숨기거나 불편한 자리에서 빠져나갈 이유를 만들 수 있다. 화면을 남이 보기 어렵다는 특성이 작은 위장의 조건이 된다.\n\n실제로 다른 작업을 하며 대화에 참여하지 않는 경우와는 의도가 다르다. 확인되지 않는 통신 상대를 핑계로 삼는다는 점이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "휴대전화를 만지며 메시지를 보내는 것처럼 행동하여 주변의 관심과 대화를 피하는 장면이다. 실제 소통보다 바쁜 사람처럼 보이는 것이 목적이다.\n\n당황한 표정을 숨기거나 불편한 자리에서 빠져나갈 이유를 만들 수 있다. 화면을 남이 보기 어렵다는 특성이 작은 위장의 조건이 된다.\n\n실제로 다른 작업을 하며 대화에 참여하지 않는 경우와는 의도가 다르다. 확인되지 않는 통신 상대를 핑계로 삼는다는 점이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

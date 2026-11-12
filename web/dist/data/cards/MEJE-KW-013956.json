@@ -4,8 +4,8 @@
   "title": "치유하는 물",
   "original": "Heal It with Water",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01525",
+  "primary_tag_id": "ML-T01525",
   "description": {
     "definition": "물이나 물을 다루는 힘에 체력 회복·상처 치료·해독 등의 초자연적 기능을 부여하는 설정이다.",
     "detail": "작품 사례: [[Honkai: Star Rail]]의 Bailu는 번개 속성 인물이지만 물을 통한 [[치유 능력]]을 지녀, 속성 분류와 별개로 물이 회복의 매개가 된다.",
@@ -13,10 +13,10 @@
     "boundary": "특정 [[치유의 샘]]보다 넓은 속성 설정이며 실제 물의 치료 효능을 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "17",
+    "code": "17.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000440",
+      "work_card_id": "MM-MEDIA-001305",
       "description_ko": "Honkai: Star Rail의 Bailu는 번개 속성 인물이지만 물을 통한 치유 능력을 지녀, 속성 분류와 별개로 물이 회복의 매개가 된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "물을 회복 능력의 매개나 속성으로 부여하는 설정이다. 기술의 시각 표현과 효과가 결합해 물을 통한 치유라는 [[능력 체계]]를 만든다.\n\n특정 장소의 [[치유의 샘]]보다 넓은 범주다. 실제 물의 치료 효능을 일반화하지 않으며 캐릭터의 다른 속성 분류와 회복의 매개는 별개일 수 있다.\n\n[[Honkai: Star Rail]]의 Bailu는 번개 속성으로 분류되면서도 물을 통한 [[치유 능력]]을 가진다. 물의 표현과 회복 효과가 공식적인 속성 분류와 별도로 결합한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "물을 회복 능력의 매개나 속성으로 부여하는 설정이다. 기술의 시각 표현과 효과가 결합해 물을 통한 치유라는 [[능력 체계]]를 만든다.\n\n특정 장소의 [[치유의 샘]]보다 넓은 범주다. 실제 물의 치료 효능을 일반화하지 않으며 캐릭터의 다른 속성 분류와 회복의 매개는 별개일 수 있다."
+      ],
+      [
+        "관련 작품",
+        "[[Honkai: Star Rail]]의 Bailu는 번개 속성으로 분류되면서도 물을 통한 [[치유 능력]]을 가진다. 물의 표현과 회복 효과가 공식적인 속성 분류와 별도로 결합한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

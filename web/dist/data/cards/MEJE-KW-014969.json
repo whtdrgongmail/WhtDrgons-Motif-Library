@@ -6,8 +6,8 @@
   "aliases": [
     "자녀를 더는 가족으로 인정하지 않기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00970",
+  "primary_tag_id": "ML-T00970",
   "description": {
     "definition": "가족 구성원의 행동이나 정체성을 받아들이지 못한 인물이 그 사람을 더는 가족으로 인정하지 않는다고 선언하는 장면이다.",
     "detail": "작품 사례: [[Glee]]에서 알마는 손녀 산타나가 동성애자임을 밝히자 가족으로 인정하지 않지만, 나중에는 가족을 우선해 손녀의 결혼식에 참석한다.",
@@ -15,10 +15,10 @@
     "boundary": "잠깐 화가 난 말인지 지속적인 절연인지 작품의 후속 행동으로 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,12 +40,29 @@
     },
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》에서 흰 수염은 선원들을 아들로 여기지만, 동료를 죽인 검은 수염만은 더 이상 아들로 인정하지 않는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "친족임을 인정하지 않겠다는 선언과 행동을 처벌과 관계 단절의 수단으로 사용하는 사건이다. 혈연의 사실과 가족으로 받아들이는 사회적 관계가 분리된다.\n\n분노 속 한마디인지 지속적인 절연인지는 이후 행동으로 확인해야 한다. 나중에 관계가 바뀌는 경우도 함께 기록해 단절을 영구적인 결과로 단정하지 않는다.\n\n[[Glee]]의 알마는 산타나가 동성애자임을 밝히자 가족으로 인정하지 않는다. 이후에는 가족을 우선해 결혼식에 참석하므로 배제와 뒤의 관계 변화가 모두 사례에 포함된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "친족임을 인정하지 않겠다는 선언과 행동을 처벌과 관계 단절의 수단으로 사용하는 사건이다. 혈연의 사실과 가족으로 받아들이는 사회적 관계가 분리된다.\n\n분노 속 한마디인지 지속적인 절연인지는 이후 행동으로 확인해야 한다. 나중에 관계가 바뀌는 경우도 함께 기록해 단절을 영구적인 결과로 단정하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[Glee]]의 알마는 산타나가 동성애자임을 밝히자 가족으로 인정하지 않는다. 이후에는 가족을 우선해 결혼식에 참석하므로 배제와 뒤의 관계 변화가 모두 사례에 포함된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

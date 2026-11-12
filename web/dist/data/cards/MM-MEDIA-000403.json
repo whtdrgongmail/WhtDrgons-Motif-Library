@@ -4,25 +4,25 @@
   "title": "Halloween Horror Nights",
   "original": "Halloween Horror Nights",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-T00152",
+  "tag_id": "ML-T00188",
+  "primary_tag_id": "ML-T00188",
   "description": {
-    "definition": "이 카드는 무대 공연 《Halloween Horror Nights》를 가리킨다. 이 라이브러리에서는 [[귀신 들린 집]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Halloween Horror Nights의 Legendary Truth: The Wyandot Estate는 살인자와 희생자들의 성난 유령을 불러내는 집을 무대로 삼아, 주거 공간을 괴이한 체험 장소로 바꾼다.",
+    "definition": "《Halloween Horror Nights》는 유령의 집·공포 구역·공연을 조합해 반복 개최하는 테마파크 공포 체험 행사다. 단일 무대 공연이 아니라 공간 체험형 콘텐츠다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "02.015",
+    "code": "02.018.011",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "medium_family",
-    "parent_relation": "facet_member",
+    "semantic_kind": "immersive_space",
+    "parent_relation": "collection_member",
     "allowed_roles": [
       "medium"
     ],
@@ -40,8 +40,21 @@
   "related_motifs": [
     {
       "card_id": "MEJE-KW-016189",
-      "row_version": 1
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Halloween Horror Nights》는 Universal 테마파크의 핼러윈 공포 행사다. 관객이 정해진 동선을 걷는 유령의 집과 공포 구역, 공연을 조합해 체험을 구성한다.\n\n분장한 배우들은 장식과 효과가 설치된 공간에서 방문자를 놀라게 한다. 무대 앞에 앉아 보는 공연뿐 아니라 관객이 직접 공간 안으로 들어가 배우와 근접하는 방식이 중심이다.\n\n여러 지역의 파크에서 열리며 연도와 장소에 따라 소재와 시설이 달라진다. 하나의 고정된 줄거리를 가진 영화나 단일 공연보다 반복 개최되는 테마파크 행사로 이해하는 것이 정확하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Halloween Horror Nights》는 Universal 테마파크의 핼러윈 공포 행사다. 관객이 정해진 동선을 걷는 유령의 집과 공포 구역, 공연을 조합해 체험을 구성한다.\n\n분장한 배우들은 장식과 효과가 설치된 공간에서 방문자를 놀라게 한다. 무대 앞에 앉아 보는 공연뿐 아니라 관객이 직접 공간 안으로 들어가 배우와 근접하는 방식이 중심이다.\n\n여러 지역의 파크에서 열리며 연도와 장소에 따라 소재와 시설이 달라진다. 하나의 고정된 줄거리를 가진 영화나 단일 공연보다 반복 개최되는 테마파크 행사로 이해하는 것이 정확하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

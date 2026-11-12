@@ -5,8 +5,8 @@
   "original": "The Wedding Ceremony",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01373",
+  "primary_tag_id": "ML-T01373",
   "description": {
     "definition": "혼인 관계의 시작이나 그 약속을 공동체 앞에서 확인하는 의식과 행사이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "혼인의 법적 효력과 의식의 형태가 항상 같다고 가정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "15",
+    "code": "15.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "혼인의 시작과 약속을 공동체 앞에서 확인하는 의식이다. 당사자의 관계가 다른 사람들에게 알려지고 인정되는 과정을 행사로 가시화한다.\n\n누가 참석하고 어떤 말을 주고받는지는 두 사람과 공동체의 관계를 드러낸다. 준비와 의례의 요구가 당사자의 바람과 다를 때 개인의 결합과 공적인 기대가 충돌할 수 있다.\n\n혼인 관계의 제도적 효력과 의식의 형태가 항상 같은 것은 아니다. 행사를 치렀다고 모든 세계에서 같은 권리가 생기는 것은 아니며 사적 약속과 공인 절차를 나누어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "혼인의 시작과 약속을 공동체 앞에서 확인하는 의식이다. 당사자의 관계가 다른 사람들에게 알려지고 인정되는 과정을 행사로 가시화한다.\n\n누가 참석하고 어떤 말을 주고받는지는 두 사람과 공동체의 관계를 드러낸다. 준비와 의례의 요구가 당사자의 바람과 다를 때 개인의 결합과 공적인 기대가 충돌할 수 있다.\n\n혼인 관계의 제도적 효력과 의식의 형태가 항상 같은 것은 아니다. 행사를 치렀다고 모든 세계에서 같은 권리가 생기는 것은 아니며 사적 약속과 공인 절차를 나누어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

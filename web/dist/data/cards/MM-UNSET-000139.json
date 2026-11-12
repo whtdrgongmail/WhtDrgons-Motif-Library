@@ -1,25 +1,59 @@
 {
   "id": "MM-UNSET-000139",
-  "kind": "keyword",
+  "kind": "organization",
   "title": "맥도날드",
-  "original": "",
+  "original": "McDonald's",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
   "primary_tag_id": null,
   "description": {
-    "definition": "",
+    "definition": "맥도날드는 미국에서 시작해 여러 나라에서 음식점을 운영하는 패스트푸드 기업 및 그 외식 브랜드다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": null,
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "햄버거와 음료 등을 파는 세계적인 음식점 브랜드다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000247",
+      "card_id": "MM-UNSET-000139",
+      "label_ko": "맥도날드 공식 기업사",
+      "icon_key": "company",
+      "url": "https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-history.html",
+      "description_ko": "맥도날드 기업의 역사와 브랜드 소개",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "실재 기업·브랜드를 가리킨다. 광고에서는 로널드 맥도날드를 비롯한 여러 캐릭터가 가상의 ‘맥도날드랜드’에 등장해 브랜드 이미지를 표현했다. 특정 캐릭터의 설정과 기업의 실제 운영은 분리해서 다룬다.\n\n맥도날드의 공식 소개에는 로널드 맥도날드, 그리머스, 햄버글러 등 여러 맥도날드랜드 캐릭터가 나온다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실재 기업·브랜드를 가리킨다. 광고에서는 로널드 맥도날드를 비롯한 여러 캐릭터가 가상의 ‘맥도날드랜드’에 등장해 브랜드 이미지를 표현했다. 특정 캐릭터의 설정과 기업의 실제 운영은 분리해서 다룬다."
+      ],
+      [
+        "사례",
+        "맥도날드의 공식 소개에는 로널드 맥도날드, 그리머스, 햄버글러 등 여러 맥도날드랜드 캐릭터가 나온다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

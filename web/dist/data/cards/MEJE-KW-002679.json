@@ -4,8 +4,8 @@
   "title": "친구들이 밴드를 만드는 회차",
   "original": "Band Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00822",
+  "primary_tag_id": "ML-T00822",
   "description": {
     "definition": "평소 다른 일을 하던 인물들이 음악 그룹을 꾸려 연습하고 공연한다. 합주의 성공과 불화가 평소 관계를 다른 방식으로 드러낸다. 구성원이 친족이면 [[친척이 함께하는 음악 그룹]]의 관계가 공연에도 영향을 준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "07.010.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -27,8 +27,28 @@
     "updated_at": "2026-11-01",
     "row_version": 1
   },
-  "applied_tags": [],
+  "applied_tags": [
+    {
+      "tag_id": "ML-T00556",
+      "role": "subject",
+      "review_status": "reviewed",
+      "row_version": 1
+    }
+  ],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "친구나 가족이 밴드를 결성하고 공연과 성공을 경험하는 회차다. 평소와 다른 공동 목표가 기존 관계를 음악 그룹의 역할로 재배치한다.\n\n초기의 호흡과 성공이 개인의 욕심이나 유명세로 흔들리면 작은 집단 안에서 성장과 분열을 압축할 수 있다. 해산 후 일상으로 돌아오는 구성은 원래 관계의 가치를 다시 확인하게 한다.\n\n음악 활동이 작품 전체의 일상인 경우와는 다르다. 밴드 결성과 그로 인한 관계 변화가 회차를 조직해야 하며 단순한 노래 한 곡의 공연만으로는 충분하지 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "친구나 가족이 밴드를 결성하고 공연과 성공을 경험하는 회차다. 평소와 다른 공동 목표가 기존 관계를 음악 그룹의 역할로 재배치한다.\n\n초기의 호흡과 성공이 개인의 욕심이나 유명세로 흔들리면 작은 집단 안에서 성장과 분열을 압축할 수 있다. 해산 후 일상으로 돌아오는 구성은 원래 관계의 가치를 다시 확인하게 한다.\n\n음악 활동이 작품 전체의 일상인 경우와는 다르다. 밴드 결성과 그로 인한 관계 변화가 회차를 조직해야 하며 단순한 노래 한 곡의 공연만으로는 충분하지 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

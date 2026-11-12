@@ -4,8 +4,8 @@
   "title": "전투 전에 외치는 정형 선언",
   "original": "In the Name of the Moon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01963",
+  "primary_tag_id": "ML-T01963",
   "description": {
     "definition": "인물이 싸우기 직전에 자신의 정체·명분·응징 의지를 반복되는 말과 자세로 선언하는 연출이다.",
     "detail": "상황에 맞춘 짧은 변형을 더하거나 여러 인물이 순서대로 선언한다. 변신 뒤에 배치되는 경우가 많지만 능력을 발동시키는 주문 자체는 아니다.\n\n작품 사례: 《[[달의 요정 세일러문]]》에서 세일러 문은 적이 저지른 일을 꾸짖고 달의 이름으로 벌하겠다고 선언한 뒤 싸운다.",
@@ -13,19 +13,19 @@
     "boundary": "힘을 실제로 활성화하는 주문이나 전투 중 짧게 지르는 기합과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "공격하기 전에 이름과 정의의 이유를 멋진 자세로 외친다.\n\n작품 사례: 《[[달의 요정 세일러문]]》에서 세일러 문은 적이 저지른 일을 꾸짖고 달의 이름으로 벌하겠다고 선언한 뒤 싸운다.",
+    "easy_ko": "공격하기 전에 이름과 정의의 이유를 멋진 자세로 외친다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상황에 맞춘 짧은 변형을 더하거나 여러 인물이 순서대로 선언한다. 변신 뒤에 배치되는 경우가 많지만 능력을 발동시키는 주문 자체는 아니다.\n\n힘을 실제로 활성화하는 주문이나 전투 중 짧게 지르는 기합과 구별한다.\n\n1990년대 TV 애니메이션 《[[달의 요정 세일러문]]》에서 세일러 문은 적이 저지른 일을 꾸짖고 달의 이름으로 벌하겠다고 선언한 뒤 싸운다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상황에 맞춘 짧은 변형을 더하거나 여러 인물이 순서대로 선언한다. 변신 뒤에 배치되는 경우가 많지만 능력을 발동시키는 주문 자체는 아니다.\n\n힘을 실제로 활성화하는 주문이나 전투 중 짧게 지르는 기합과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "1990년대 TV 애니메이션 《[[달의 요정 세일러문]]》에서 세일러 문은 적이 저지른 일을 꾸짖고 달의 이름으로 벌하겠다고 선언한 뒤 싸운다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

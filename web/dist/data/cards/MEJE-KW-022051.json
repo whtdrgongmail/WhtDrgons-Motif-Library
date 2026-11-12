@@ -4,28 +4,28 @@
   "title": "동전 소리로 돈의 존재를 알리기",
   "original": "Jingle the Coins",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02009",
+  "primary_tag_id": "ML-T02009",
   "description": {
     "definition": "동전이 흔들리거나 떨어지는 소리를 들려주어 보이지 않는 돈의 존재나 소유를 관객에게 알리는 연출이다.",
     "detail": "돈주머니를 흔들어 부를 과시하거나 모금에 주의를 끌 수 있고, 몰래 움직이는 도둑의 위치를 드러낼 수도 있다.\n\n작품 사례: 《[[해리 포터와 불사조 기사단]]》에서 해리는 퍼지와 이야기하는 루시우스의 망토 아래에서 동전 소리를 듣는다. 보이지 않는 돈이 뇌물의 가능성을 암시하는 청각 단서가 된다.",
     "usage": "",
-    "boundary": "소리로 정확한 금액이나 진위를 알아맞히는 행동과 구별한다. 존재를 지각시키는 효과가 중심이다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "돈을 직접 보여 주지 않아도 짤랑거리는 소리로 있음을 알린다.\n\n작품 사례: 《[[해리 포터와 불사조 기사단]]》에서 해리는 퍼지와 이야기하는 루시우스의 망토 아래에서 동전 소리를 듣는다. 보이지 않는 돈이 뇌물의 가능성을 암시하는 청각 단서가 된다.",
+    "easy_ko": "돈을 직접 보여 주지 않아도 짤랑거리는 소리로 있음을 알린다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "돈주머니를 흔들어 부를 과시하거나 모금에 주의를 끌 수 있고, 몰래 움직이는 도둑의 위치를 드러낼 수도 있다.\n\n소리로 정확한 금액이나 진위를 알아맞히는 행동과 구별한다. 존재를 지각시키는 효과가 중심이다.\n\n소설 《[[해리 포터와 불사조 기사단]]》에서 해리는 퍼지와 이야기하는 루시우스의 망토 아래에서 동전 소리를 듣는다. 보이지 않는 돈이 뇌물의 가능성을 암시하는 청각 단서가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "돈주머니를 흔들어 부를 과시하거나 모금에 주의를 끌 수 있고, 몰래 움직이는 도둑의 위치를 드러낼 수도 있다.\n\n소리로 정확한 금액이나 진위를 알아맞히는 행동과 구별한다. 존재를 지각시키는 효과가 중심이다."
+      ],
+      [
+        "관련 작품",
+        "소설 《[[해리 포터와 불사조 기사단]]》에서 해리는 퍼지와 이야기하는 루시우스의 망토 아래에서 동전 소리를 듣는다. 보이지 않는 돈이 뇌물의 가능성을 암시하는 청각 단서가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

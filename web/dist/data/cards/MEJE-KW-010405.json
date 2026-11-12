@@ -4,8 +4,8 @@
   "title": "전승으로 살아남은 영웅",
   "original": "Folk Hero",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "실존 여부와 관계없이 이름과 행적이 노래와 이야기로 여러 세대에 전해져 [[공동체]]의 상징이 된 인물형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이름과 행적이 여러 세대의 노래와 이야기로 전해져 공동체의 [[상징]]이 된 영웅이다. 실존과 허구의 여부보다 집단 기억의 지속이 중요하다.\n\n반복해서 전하는 동안 업적이 커지거나 여러 사람의 이야기가 합쳐질 수 있다. 현대 매체도 전승을 이어 새로운 모습으로 영웅을 재구성한다.\n\n공식 기록에 중요한 인물이라는 사실만으로 같지는 않다. 사람들이 이야기하고 부르는 방식으로 살아남았다는 점이 중심이며, 전승과 역사적 사실은 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이름과 행적이 여러 세대의 노래와 이야기로 전해져 공동체의 [[상징]]이 된 영웅이다. 실존과 허구의 여부보다 집단 기억의 지속이 중요하다.\n\n반복해서 전하는 동안 업적이 커지거나 여러 사람의 이야기가 합쳐질 수 있다. 현대 매체도 전승을 이어 새로운 모습으로 영웅을 재구성한다.\n\n공식 기록에 중요한 인물이라는 사실만으로 같지는 않다. 사람들이 이야기하고 부르는 방식으로 살아남았다는 점이 중심이며, 전승과 역사적 사실은 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

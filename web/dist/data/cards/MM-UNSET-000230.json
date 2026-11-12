@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000230",
   "kind": "keyword",
   "title": "환영",
-  "original": "",
+  "original": "Illusion",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F17",
   "description": {
-    "definition": "",
+    "definition": "실제 대상과 다르거나 대응하는 대상이 없는데도 눈앞에 있는 것처럼 지각되는 형상이나 장면이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "17",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "눈에는 보이지만 보이는 그대로 실제 물체가 있는 것은 아닌 모습이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "창작물의 환영은 [[환술]]·정신 작용·광학 장치 등 서로 다른 방식으로 나타날 수 있다. 여기서는 형상의 제작 원리보다 보는 사람이 눈앞의 장면을 실제와 다르게 받아들이는 관계가 중요하다.\n\n보이는 모습과 실제 대상의 차이를 알아내면 인물의 판단이 바뀔 수 있다. 다만 환영임을 아는 것만으로 모든 위험이 없어지는지는 별개의 조건이다. [[조건부로 실체를 얻는 환영]]처럼 물체를 막거나 상처를 내는 효과를 추가한 설정에서는 그 효과의 범위도 확인해야 한다.\n\n[[홀로그램]]은 특정한 광학 원리를 가진 영상이고, [[환상]]은 장면 하나보다 넓은 비현실적 경험이나 관념에도 쓰인다. 또한 감각을 속이는 형상과 실제 사건이나 물질을 바꾸는 [[현실 조작]]은 구별된다. 환영이라는 이름만으로 물리적 효과나 영구적인 실체를 전제할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "창작물의 환영은 [[환술]]·정신 작용·광학 장치 등 서로 다른 방식으로 나타날 수 있다. 여기서는 형상의 제작 원리보다 보는 사람이 눈앞의 장면을 실제와 다르게 받아들이는 관계가 중요하다.\n\n보이는 모습과 실제 대상의 차이를 알아내면 인물의 판단이 바뀔 수 있다. 다만 환영임을 아는 것만으로 모든 위험이 없어지는지는 별개의 조건이다. [[조건부로 실체를 얻는 환영]]처럼 물체를 막거나 상처를 내는 효과를 추가한 설정에서는 그 효과의 범위도 확인해야 한다.\n\n[[홀로그램]]은 특정한 광학 원리를 가진 영상이고, [[환상]]은 장면 하나보다 넓은 비현실적 경험이나 관념에도 쓰인다. 또한 감각을 속이는 형상과 실제 사건이나 물질을 바꾸는 [[현실 조작]]은 구별된다. 환영이라는 이름만으로 물리적 효과나 영구적인 실체를 전제할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

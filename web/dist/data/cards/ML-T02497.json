@@ -2,7 +2,8 @@
   "id": "ML-T02497",
   "kind": "keyword",
   "title": "인쇄 도서",
-  "original": "",
+  "original": "Printed Book",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": "ML-T02497",
   "primary_tag_id": "ML-T02497",
@@ -13,8 +14,8 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
     "code": "02.010.001",
     "review_status": "provisional",
@@ -38,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인쇄 도서는 인쇄한 지면을 일정한 순서로 묶어 책 단위로 발행한 출판물이다. 소설, 학술서, 사진집, 만화 단행본 등 내용의 종류가 달라도 책이라는 물리적 발행 형식을 공유할 수 있다. 여러 권으로 나뉜 전집은 권별 판본과 전체 시리즈를 구분한다.\n\n정기적으로 호수를 발행하는 [[잡지]]나 [[신문]]은 책과 닮은 제본을 사용해도 발행 구조가 다르다. 전자책은 동일한 텍스트를 담아도 인쇄 판본이 아니다. 작품 카드와 판본 카드를 만들 때는 표제, 출판사, 발행일, 개정 여부의 단위를 명시한다.\n\n예를 들어 한 소설이 종이 단행본으로 나오고 이후 전자책으로 제공되면 인쇄 도서는 종이 판본의 매체 정보다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인쇄 도서는 인쇄한 지면을 일정한 순서로 묶어 책 단위로 발행한 출판물이다. 소설, 학술서, 사진집, 만화 단행본 등 내용의 종류가 달라도 책이라는 물리적 발행 형식을 공유할 수 있다. 여러 권으로 나뉜 전집은 권별 판본과 전체 시리즈를 구분한다.\n\n정기적으로 호수를 발행하는 [[잡지]]나 [[신문]]은 책과 닮은 제본을 사용해도 발행 구조가 다르다. 전자책은 동일한 텍스트를 담아도 인쇄 판본이 아니다. 작품 카드와 판본 카드를 만들 때는 표제, 출판사, 발행일, 개정 여부의 단위를 명시한다."
+      ],
+      [
+        "사례",
+        "예를 들어 한 소설이 종이 단행본으로 나오고 이후 전자책으로 제공되면 인쇄 도서는 종이 판본의 매체 정보다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

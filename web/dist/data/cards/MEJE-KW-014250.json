@@ -4,8 +4,8 @@
   "title": "위기에서 행동하는 평범한 목격자",
   "original": "Heroic Bystander",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "구조가 직업도 아니고 특별한 훈련도 없는 사람이 우연히 마주친 위기에서 자발적으로 다른 이를 돕는 인물 역할이다.",
     "detail": "작품 사례: [[Johnny Guitar]]의 Old Tom은 술집의 평범한 일꾼이지만 다른 직원들이 떠난 뒤에도 남아 Vienna를 지키려다 목숨을 잃는다.",
@@ -13,10 +13,10 @@
     "boundary": "직무상 구조해야 하는 전문가나 원래부터 비범한 전투력을 가진 행인과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "우연히 위기를 본 사람이 자발적으로 도움을 선택하면 관찰자에서 행동자로 역할이 바뀐다. 특별한 능력보다 책임을 받아들이는 결정이 영웅적 기능의 근거가 된다.\n\n직무상 구조해야 하는 [[전문가]]나 원래 비범한 전투력을 지닌 행인과는 출발 조건이 다르다. 일반인이 우연히 마주한 상황에서 자신의 의사로 개입해야 한다.\n\n[[Johnny Guitar]]의 Old Tom은 술집 일꾼이지만 다른 직원이 떠난 뒤에도 Vienna 곁에 남는다. 그녀를 지키려다 목숨을 잃어 평범한 위치와 책임 있는 선택을 대비한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "우연히 위기를 본 사람이 자발적으로 도움을 선택하면 관찰자에서 행동자로 역할이 바뀐다. 특별한 능력보다 책임을 받아들이는 결정이 영웅적 기능의 근거가 된다.\n\n직무상 구조해야 하는 [[전문가]]나 원래 비범한 전투력을 지닌 행인과는 출발 조건이 다르다. 일반인이 우연히 마주한 상황에서 자신의 의사로 개입해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Johnny Guitar]]의 Old Tom은 술집 일꾼이지만 다른 직원이 떠난 뒤에도 Vienna 곁에 남는다. 그녀를 지키려다 목숨을 잃어 평범한 위치와 책임 있는 선택을 대비한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

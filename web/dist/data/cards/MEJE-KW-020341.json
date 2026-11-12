@@ -5,8 +5,8 @@
   "original": "Romance in the Rain",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02534",
+  "primary_tag_id": "ML-T02534",
   "description": {
     "definition": "비를 함께 맞는 상황이 연인의 낭만적 감정과 키스를 강화하는 장면이다. 날씨가 친밀한 접촉의 계기나 배경이 된다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "단순히 비가 오는 연애 이야기와 달리 젖는 상황이 친밀함에 실제로 기여한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.011",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "비를 피하지 않고 함께 젖는 순간 두 사람이 더 가까워진다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "함께 비를 맞는 연인은 날씨의 불편보다 서로에게 몰입하는 모습으로 가까움을 드러낸다. 젖는 상황은 접촉과 입맞춤의 감정을 강화한다.\n\n주변 환경이 거칠어도 두 사람의 관심은 관계에 남는다. 외부의 불편과 내부의 친밀함 사이의 대비가 낭만적인 분위기를 만든다.\n\n비가 오는 연애 이야기만으로는 부족하다. 비를 맞는 경험이 실제로 친밀함에 기여해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "함께 비를 맞는 연인은 날씨의 불편보다 서로에게 몰입하는 모습으로 가까움을 드러낸다. 젖는 상황은 접촉과 입맞춤의 감정을 강화한다.\n\n주변 환경이 거칠어도 두 사람의 관심은 관계에 남는다. 외부의 불편과 내부의 친밀함 사이의 대비가 낭만적인 분위기를 만든다.\n\n비가 오는 연애 이야기만으로는 부족하다. 비를 맞는 경험이 실제로 친밀함에 기여해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

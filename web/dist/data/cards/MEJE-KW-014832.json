@@ -4,8 +4,8 @@
   "title": "추격전에서 사고만 내는 경찰",
   "original": "Hollywood Police Driving Academy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00740",
+  "primary_tag_id": "ML-T00740",
   "description": {
     "definition": "주인공을 뒤쫓는 경찰이 차량과 주변 환경을 다루지 못해 장애물에 부딪치고 서로 충돌하면서 추격을 실패하는 관습이다.",
     "detail": "작품 사례: [[The Blues Brothers]]의 쇼핑몰 추격에서 경찰차들은 상점에 처박히지만, 엘우드와 제이크는 무사히 빠져나간다.",
@@ -13,10 +13,10 @@
     "boundary": "동등하게 능숙한 추격전이나 설명된 위험 때문에 한 번 사고가 나는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-000936",
+      "work_card_id": "MM-MEDIA-001483",
       "description_ko": "The Blues Brothers의 쇼핑몰 추격에서 경찰차들은 상점에 처박히지만, 엘우드와 제이크는 무사히 빠져나간다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "경찰의 반복적인 운전 실수가 추격을 방해하고 도주자를 빠져나가게 하는 희극적 구성이다. 사고는 단발적인 위험보다 경찰의 무능과 큰 구경거리를 강조한다.\n\n양쪽이 능숙하게 경쟁하는 추격과 다르다. 설명된 장애물 때문에 한 번 사고를 낸 경우보다 실수의 누적이 결과를 만드는지가 중요하다.\n\n[[The Blues Brothers]]의 쇼핑몰 추격에서 경찰차들은 상점에 충돌한다. 엘우드와 제이크는 그 소동 속을 무사히 벗어나 반복적인 사고가 도주의 조건과 웃음의 재료가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "경찰의 반복적인 운전 실수가 추격을 방해하고 도주자를 빠져나가게 하는 희극적 구성이다. 사고는 단발적인 위험보다 경찰의 무능과 큰 구경거리를 강조한다.\n\n양쪽이 능숙하게 경쟁하는 추격과 다르다. 설명된 장애물 때문에 한 번 사고를 낸 경우보다 실수의 누적이 결과를 만드는지가 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[The Blues Brothers]]의 쇼핑몰 추격에서 경찰차들은 상점에 충돌한다. 엘우드와 제이크는 그 소동 속을 무사히 벗어나 반복적인 사고가 도주의 조건과 웃음의 재료가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "영웅적 캡틴 인물",
   "original": "The Good Captain",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "대장·함장 등 캡틴의 직위나 호칭을 가진 [[인물]]을 선한 지도자이자 [[영웅]]으로 묘사하는 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "캡틴 호칭을 가진 모든 인물이나 계급 일반을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "캡틴의 직위와 호칭을 가진 사람이 선한 지도자이자 영웅으로 제시된다. 지휘의 위치와 긍정적인 인물상이 연결된다.\n\n무엇을 이끌고 어떤 행동으로 선함을 보이는지가 역할을 구체화한다. 호칭은 지도자의 이미지를 알리는 표지가 된다.\n\n캡틴으로 불리는 모든 인물을 뜻하지 않는다. 계급의 존재뿐 아니라 영웅적인 묘사가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "캡틴의 직위와 호칭을 가진 사람이 선한 지도자이자 영웅으로 제시된다. 지휘의 위치와 긍정적인 인물상이 연결된다.\n\n무엇을 이끌고 어떤 행동으로 선함을 보이는지가 역할을 구체화한다. 호칭은 지도자의 이미지를 알리는 표지가 된다.\n\n캡틴으로 불리는 모든 인물을 뜻하지 않는다. 계급의 존재뿐 아니라 영웅적인 묘사가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

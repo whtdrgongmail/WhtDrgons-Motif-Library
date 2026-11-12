@@ -4,8 +4,8 @@
   "title": "전신을 기계로 바꾼 사이보그",
   "original": "Full-Conversion Cyborg",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01143",
+  "primary_tag_id": "ML-T01143",
   "description": {
     "definition": "원래는 생물학적 몸을 가졌지만 대부분의 신체가 기계로 대체된 존재다. 겉모습만으로는 로봇처럼 보일 수도 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원래 생물학적인 존재였으나 몸 대부분이 기계로 대체된 사이보그이다. 겉으로는 처음부터 만든 로봇과 구분하기 어려울 수 있다.\n\n남은 유기 부분과 기억은 과거의 사람과 현재 신체의 연속성을 설명한다. 식사와 감각, 유지 보수의 변화가 [[정체성]]의 갈등을 만들 수 있다.\n\n단순히 기계 팔다리 하나를 가진 경우보다 대체의 범위가 넓다. 인공 몸의 비율이 인간성을 결정한다는 뜻은 아니며, 제작된 로봇과의 기원 차이가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원래 생물학적인 존재였으나 몸 대부분이 기계로 대체된 사이보그이다. 겉으로는 처음부터 만든 로봇과 구분하기 어려울 수 있다.\n\n남은 유기 부분과 기억은 과거의 사람과 현재 신체의 연속성을 설명한다. 식사와 감각, 유지 보수의 변화가 [[정체성]]의 갈등을 만들 수 있다.\n\n단순히 기계 팔다리 하나를 가진 경우보다 대체의 범위가 넓다. 인공 몸의 비율이 인간성을 결정한다는 뜻은 아니며, 제작된 로봇과의 기원 차이가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

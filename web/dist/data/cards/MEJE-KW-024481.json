@@ -5,8 +5,8 @@
   "original": "An Animatic Previews Timing and Dialogue",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "간략한 그림과 배경에 움직임과 음성을 붙여 완성 애니메이션의 편집과 대사 시간을 미리 검토한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "이 자체를 완성 영상으로 공개할 수는 있으나 기본 목적은 제작의 설계다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "간략한 그림에 움직임과 음성을 더해 완성 영상의 편집 시간을 미리 확인한다. 그림의 정교함보다 장면의 길이와 대사, 전환이 어떤 리듬으로 이어지는지 검토하는 설계 자료다.\n\n정지 콘티로 읽을 때 알기 어려운 기다림과 겹침을 재생을 통해 확인할 수 있다. 문제가 발견되면 완성된 그림을 다시 만드는 대신 초기 단계에서 순서와 시간을 조정할 여지가 생긴다.\n\n미완성이라는 이유만으로 단순히 낮은 품질의 [[애니메이션]]과 같지는 않다. 자체 공개와 감상의 대상이 될 수도 있지만 기본 목적은 제작의 판단을 돕는 것이다. 어떤 정보를 검토하려 만든 자료인지에 따라 형식의 기준이 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "간략한 그림에 움직임과 음성을 더해 완성 영상의 편집 시간을 미리 확인한다. 그림의 정교함보다 장면의 길이와 대사, 전환이 어떤 리듬으로 이어지는지 검토하는 설계 자료다.\n\n정지 콘티로 읽을 때 알기 어려운 기다림과 겹침을 재생을 통해 확인할 수 있다. 문제가 발견되면 완성된 그림을 다시 만드는 대신 초기 단계에서 순서와 시간을 조정할 여지가 생긴다.\n\n미완성이라는 이유만으로 단순히 낮은 품질의 [[애니메이션]]과 같지는 않다. 자체 공개와 감상의 대상이 될 수도 있지만 기본 목적은 제작의 판단을 돕는 것이다. 어떤 정보를 검토하려 만든 자료인지에 따라 형식의 기준이 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

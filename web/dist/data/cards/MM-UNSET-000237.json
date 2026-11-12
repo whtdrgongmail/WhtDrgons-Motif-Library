@@ -4,22 +4,44 @@
   "title": "범용형",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
-    "definition": "",
+    "definition": "게임에서 범용형은 공격·방어·지원 등 여러 역할을 일정 수준 수행하도록 능력을 고르게 설계한 인물이나 유닛 유형이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25.005",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "한 가지 일을 압도적으로 잘하기보다 여러 일을 두루 맡을 수 있는 게임 캐릭터다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "범용형의 고른 능력은 모든 수치가 같다는 뜻보다 대응할 수 있는 역할의 폭을 가리킨다. 여러 기술을 갖추어도 각 상황에서 압도적인 성과를 내지 않을 수 있으며, 능력의 가치는 팀 안에서 필요한 역할과 함께 결정된다.\n\n팀원을 상황마다 쉽게 교체할 수 있으면 특정 과제에 강한 [[특화형]]을 선택하기 쉬워진다. 이때 범용형의 유연성은 팀 전체가 가진 교체 기능과 겹칠 수 있다. 반대로 교체가 어렵거나 다음 상황을 예측하기 힘들면 한 인물이 여러 역할을 맡는 장점이 커진다.\n\n특수 능력이 없거나 조작이 단순하다는 것과는 다른 분류다. 기본 공격만 하는 유닛도 특정 전투에 특화될 수 있고, 다양한 기술을 가진 인물도 여러 역할을 평균적으로 수행할 수 있다. 기능의 수와 대응 범위, 교체 조건을 나누어 비교해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "범용형의 고른 능력은 모든 수치가 같다는 뜻보다 대응할 수 있는 역할의 폭을 가리킨다. 여러 기술을 갖추어도 각 상황에서 압도적인 성과를 내지 않을 수 있으며, 능력의 가치는 팀 안에서 필요한 역할과 함께 결정된다.\n\n팀원을 상황마다 쉽게 교체할 수 있으면 특정 과제에 강한 [[특화형]]을 선택하기 쉬워진다. 이때 범용형의 유연성은 팀 전체가 가진 교체 기능과 겹칠 수 있다. 반대로 교체가 어렵거나 다음 상황을 예측하기 힘들면 한 인물이 여러 역할을 맡는 장점이 커진다.\n\n특수 능력이 없거나 조작이 단순하다는 것과는 다른 분류다. 기본 공격만 하는 유닛도 특정 전투에 특화될 수 있고, 다양한 기술을 가진 인물도 여러 역할을 평균적으로 수행할 수 있다. 기능의 수와 대응 범위, 교체 조건을 나누어 비교해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

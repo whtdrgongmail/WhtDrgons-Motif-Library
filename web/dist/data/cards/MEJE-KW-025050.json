@@ -5,8 +5,8 @@
   "original": "A Twist Fails without a Clear Before-State",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01947",
+  "primary_tag_id": "ML-T01947",
   "description": {
     "definition": "관객에게 기존 세계나 관계의 상태를 충분히 보여 주지 않은 채 큰 변화나 진실을 공개하여 무엇이 뒤집혔는지 전달되지 않는 정보 배치다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "[[반전]]이 작다는 평가와 다르다. 비교할 이전 상태가 제시되지 않은 것이 원인이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "23.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공개된 진실이 무엇을 바꾸는지 알려면 관객은 이전 상태를 알아야 한다. 그 기준이 없으면 큰 반전도 새로운 설정 소개처럼 들릴 수 있다.\n\n인물의 놀람만 강조해도 관객에게 빠진 비교 정보가 자동으로 채워지지는 않는다. 사전의 세계와 관계를 어느 정도 제시했는지가 반전 전달의 조건이 된다.\n\n반전의 규모가 작다는 평가와는 다르다. 이전 상태를 보여 주지 않은 정보 배치가 혼란의 원인이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공개된 진실이 무엇을 바꾸는지 알려면 관객은 이전 상태를 알아야 한다. 그 기준이 없으면 큰 반전도 새로운 설정 소개처럼 들릴 수 있다.\n\n인물의 놀람만 강조해도 관객에게 빠진 비교 정보가 자동으로 채워지지는 않는다. 사전의 세계와 관계를 어느 정도 제시했는지가 반전 전달의 조건이 된다.\n\n반전의 규모가 작다는 평가와는 다르다. 이전 상태를 보여 주지 않은 정보 배치가 혼란의 원인이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

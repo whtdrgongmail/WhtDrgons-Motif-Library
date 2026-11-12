@@ -4,8 +4,8 @@
   "title": "전쟁 포로 학대",
   "original": "P.O.W. Abuse",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00776",
+  "primary_tag_id": "ML-T00776",
   "description": {
     "definition": "붙잡혀 저항할 수 없는 전쟁 포로를 살해하거나 가혹하게 대우하는 가해 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "전투 중의 교전과 달리 이미 억류된 사람에 대한 대우가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이미 붙잡혀 저항할 수 없는 전쟁 포로를 살해하거나 가혹하게 대하는 행위다. 전투가 끝난 뒤의 구금 상태가 판단의 출발점이다.\n\n포로와 가해자 사이의 힘의 차이는 폭력의 성격을 분명하게 한다. 장면은 싸우는 상대에 대한 공격과 통제 아래 있는 사람에 대한 처우를 구별하게 한다.\n\n교전 중인 전투원을 공격하는 장면과는 상황이 다르다. 포획 이후의 지위와 저항 가능성을 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이미 붙잡혀 저항할 수 없는 전쟁 포로를 살해하거나 가혹하게 대하는 행위다. 전투가 끝난 뒤의 구금 상태가 판단의 출발점이다.\n\n포로와 가해자 사이의 힘의 차이는 폭력의 성격을 분명하게 한다. 장면은 싸우는 상대에 대한 공격과 통제 아래 있는 사람에 대한 처우를 구별하게 한다.\n\n교전 중인 전투원을 공격하는 장면과는 상황이 다르다. 포획 이후의 지위와 저항 가능성을 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

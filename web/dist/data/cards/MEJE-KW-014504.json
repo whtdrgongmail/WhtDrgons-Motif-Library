@@ -4,8 +4,8 @@
   "title": "웃음거리로 처리되는 학대 어린 시절",
   "original": "Hilariously Abusive Childhood",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F19",
+  "tag_id": "ML-T02538",
+  "primary_tag_id": "ML-T02538",
   "description": {
     "definition": "인물이 어린 시절 겪은 방임·폭력·극단적인 편애 등의 가해 경험을 과장이나 무심한 회상으로 희극화하는 표현이다.",
     "detail": "작품 사례: [[Great Expectations]]에서 핍은 누나와 주변 어른들이 자신을 짐처럼 대했던 어린 시절을 익살스럽게 회고해, 가혹한 경험을 희극적인 서술로 전달한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 아동학대가 가볍거나 재미있다는 의미가 아니며 단순한 엄한 양육 묘사와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "19",
+    "code": "19.007.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가혹한 어린 시절을 과장하거나 무심한 말투로 회상하면 내용의 고통과 서술의 희극성이 동시에 나타난다. 방임과 폭력, 극단적 편애가 어떤 거리에서 전달되는지에 따라 장면의 태도가 달라진다.\n\n이 표현을 실제 아동학대가 가볍거나 재미있다는 뜻으로 받아들이지 않는다. 단순히 엄격한 양육을 보여 주는 경우와 구별하며 가해 경험과 희극적 처리의 결합이 있어야 한다.\n\n[[Great Expectations]]의 핍은 누나와 어른들이 자신을 짐처럼 대했던 어린 시절을 익살스럽게 회고한다. 가혹한 경험을 희극적인 서술로 전달해 사건의 내용과 말하는 방식 사이의 차이를 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가혹한 어린 시절을 과장하거나 무심한 말투로 회상하면 내용의 고통과 서술의 희극성이 동시에 나타난다. 방임과 폭력, 극단적 편애가 어떤 거리에서 전달되는지에 따라 장면의 태도가 달라진다.\n\n이 표현을 실제 아동학대가 가볍거나 재미있다는 뜻으로 받아들이지 않는다. 단순히 엄격한 양육을 보여 주는 경우와 구별하며 가해 경험과 희극적 처리의 결합이 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Great Expectations]]의 핍은 누나와 어른들이 자신을 짐처럼 대했던 어린 시절을 익살스럽게 회고한다. 가혹한 경험을 희극적인 서술로 전달해 사건의 내용과 말하는 방식 사이의 차이를 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

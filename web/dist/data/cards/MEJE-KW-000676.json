@@ -4,8 +4,8 @@
   "title": "마법은 못 쓰지만 이론에 밝은 전문가",
   "original": "Muggle with a Degree in Magic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00935",
+  "primary_tag_id": "ML-T00935",
   "description": {
     "definition": "마법을 직접 발동하지 못하지만 원리와 역사, 생물과 도구를 깊이 이해하는 인물형. 능력자들이 놓친 정보의 해석이나 조사 방법을 제공한다. [[초자연 존재를 찾는 지식 저장소]]는 이런 지식이 보관된 사물이나 체계다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마법을 직접 쓰지는 못해도 원리와 역사, 생물과 도구를 깊이 이해한다. 실행 능력과 전문 지식이 다른 인물에게 배분된다.\n\n이 전문가는 능력자가 놓친 자료를 해석하고 조사 방법을 제공한다. 힘이 없다는 사실이 정보의 기여까지 없애지는 않는다.\n\n지식을 담은 사물과 체계인 저장소와 구별한다. 배운 내용을 판단하고 활용하는 인물의 역할이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마법을 직접 쓰지는 못해도 원리와 역사, 생물과 도구를 깊이 이해한다. 실행 능력과 전문 지식이 다른 인물에게 배분된다.\n\n이 전문가는 능력자가 놓친 자료를 해석하고 조사 방법을 제공한다. 힘이 없다는 사실이 정보의 기여까지 없애지는 않는다.\n\n지식을 담은 사물과 체계인 저장소와 구별한다. 배운 내용을 판단하고 활용하는 인물의 역할이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

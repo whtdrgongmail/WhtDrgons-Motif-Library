@@ -4,8 +4,8 @@
   "title": "인물 뒤에서 쏟아지는 신성한 빛",
   "original": "Holy Backlight",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01866",
+  "primary_tag_id": "ML-T01866",
   "description": {
     "definition": "인물의 뒤에 눈부신 빛을 배치하여 윤곽을 흐리거나 실루엣으로 만들고 압도적인 등장과 신성한 인상을 주는 역광 연출이다.",
     "detail": "작품 사례: [[Doctor Who]]에서 배드 울프가 된 로즈는 타디스에서 걸어나오며 황금빛 역광에 휩싸여 초월적인 존재처럼 보인다.",
@@ -13,10 +13,10 @@
     "boundary": "머리 위의 고리 모양 [[상징]]과 구별하며 인물이 실제로 선하거나 신성할 필요는 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.004.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000254",
+      "work_card_id": "MM-MEDIA-001308",
       "description_ko": "Doctor Who에서 배드 울프가 된 로즈는 타디스에서 걸어나오며 황금빛 역광에 휩싸여 초월적인 존재처럼 보인다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 뒤에서 강한 빛을 비추어 등장을 초월적이고 특별한 것으로 표현하는 구도다. 역광은 몸의 경계와 주변의 밝기를 변화시켜 신성한 인상을 부여할 수 있다.\n\n머리 위 고리 모양 [[상징]]과 다르다. 실제로 선하거나 신성한 존재여야 하는 것은 아니며 빛의 배치가 만드는 인상에 초점을 둔다.\n\n[[Doctor Who]]에서 배드 울프가 된 로즈는 타디스에서 황금빛 역광 속으로 나온다. 빛으로 감싼 등장이 초월적인 존재처럼 보이게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 뒤에서 강한 빛을 비추어 등장을 초월적이고 특별한 것으로 표현하는 구도다. 역광은 몸의 경계와 주변의 밝기를 변화시켜 신성한 인상을 부여할 수 있다.\n\n머리 위 고리 모양 [[상징]]과 다르다. 실제로 선하거나 신성한 존재여야 하는 것은 아니며 빛의 배치가 만드는 인상에 초점을 둔다."
+      ],
+      [
+        "관련 작품",
+        "[[Doctor Who]]에서 배드 울프가 된 로즈는 타디스에서 황금빛 역광 속으로 나온다. 빛으로 감싼 등장이 초월적인 존재처럼 보이게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "곤경에 빠진 옛 친구를 돕기",
   "original": "Beleaguered Childhood Friend",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00993",
+  "primary_tag_id": "ML-T00993",
   "description": {
     "definition": "어릴 적 알던 사람이 큰 문제를 안고 돌아오자 [[주인공]]이 지난 친분을 믿고 돕는다. 추억과 지금의 사실이 충돌할 수 있다. 오래된 친분을 다시 확인하는 일은 [[적과 이야기를 나눠 친구가 되기]]와 관계의 출발점이 다르다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "10",
+    "code": "10.003.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "어릴 적 친구가 곤경에 빠져 돌아오자 [[주인공]]이 예전의 신뢰를 이유로 도움을 주는 전개다. 함께한 기억은 믿음의 근거가 되지만 현재의 사실과 다를 수도 있다. 과거의 친밀함을 지키려는 마음과 지금 필요한 판단이 충돌하는 상황에 쓰인다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "옛 친구와의 재회는 현재의 혐의보다 공유한 기억을 먼저 신뢰하게 만든다. 주인공은 공식적인 관계로는 하지 않을 도움까지 제공하며 과거의 우정을 현재 판단의 근거로 삼는다.\n\n이 유형은 친구가 실제로 결백하지 않거나 이미 다른 사람이 되었다는 사실이 드러나는 방향으로 자주 전개된다. 재회가 따뜻했다는 사실과 현재의 행동이 선하다는 판단은 별개다. 사실을 알게 된 뒤에는 도운 선택에 대한 후회와 책임이 남을 수 있다.\n\n연애에서 오랫동안 기다리는 소꿉친구와는 기능이 다르다. 곤경 때문에 다시 접근한 옛 관계가 신뢰를 시험한다는 구조가 중심이다. 주인공이 추억을 지키려 증거를 무시하는지 사실에 따라 행동을 바꾸는지가 갈등의 결론을 결정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "옛 친구와의 재회는 현재의 혐의보다 공유한 기억을 먼저 신뢰하게 만든다. 주인공은 공식적인 관계로는 하지 않을 도움까지 제공하며 과거의 우정을 현재 판단의 근거로 삼는다.\n\n이 유형은 친구가 실제로 결백하지 않거나 이미 다른 사람이 되었다는 사실이 드러나는 방향으로 자주 전개된다. 재회가 따뜻했다는 사실과 현재의 행동이 선하다는 판단은 별개다. 사실을 알게 된 뒤에는 도운 선택에 대한 후회와 책임이 남을 수 있다.\n\n연애에서 오랫동안 기다리는 소꿉친구와는 기능이 다르다. 곤경 때문에 다시 접근한 옛 관계가 신뢰를 시험한다는 구조가 중심이다. 주인공이 추억을 지키려 증거를 무시하는지 사실에 따라 행동을 바꾸는지가 갈등의 결론을 결정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

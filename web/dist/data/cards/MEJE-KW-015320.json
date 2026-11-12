@@ -4,8 +4,8 @@
   "title": "악인들의 우정",
   "original": "Villainous Friendship",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00996",
+  "primary_tag_id": "ML-T00996",
   "description": {
     "definition": "악행을 저지르는 인물들 사이에 진실한 친밀감과 우정이 성립하는 관계이다.",
     "detail": "작품 사례: [[ReBoot]]의 헤어 닥터는 자발적으로 메가바이트에게 충성하고, 메가바이트도 그를 좋아해 호화 리무진에 태워 주어 악역과 부하 사이에 개인적인 호의를 드러낸다.",
@@ -13,10 +13,10 @@
     "boundary": "공동 이익만을 위한 동맹과 구별하며 우정이 곧 선역화를 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악행을 하는 인물 사이에 이익의 계산만으로 설명되지 않는 진실한 친밀함이 존재하는 관계다. 외부에 대한 해악과 내부의 호의가 동시에 성립한다.\n\n이익 때문에 맺은 동맹과 다르다. 우정의 존재가 곧 선역으로 바뀌었다는 뜻도 아니며 구체적인 상호 호의가 필요하다.\n\n[[ReBoot]]의 헤어 닥터는 스스로 메가바이트에게 충성한다. 메가바이트도 그를 좋아해 호화 리무진에 태워 주며 악역과 부하의 개인적인 호감을 드러낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악행을 하는 인물 사이에 이익의 계산만으로 설명되지 않는 진실한 친밀함이 존재하는 관계다. 외부에 대한 해악과 내부의 호의가 동시에 성립한다.\n\n이익 때문에 맺은 동맹과 다르다. 우정의 존재가 곧 선역으로 바뀌었다는 뜻도 아니며 구체적인 상호 호의가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[ReBoot]]의 헤어 닥터는 스스로 메가바이트에게 충성한다. 메가바이트도 그를 좋아해 호화 리무진에 태워 주며 악역과 부하의 개인적인 호감을 드러낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "강한 감정과 시련을 앞세우는 멜로드라마",
   "original": "Melodrama",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00329",
+  "primary_tag_id": "ML-T00329",
   "description": {
     "definition": "격렬한 감정 표현과 가족·연애의 큰 시련을 엮어 정서적 몰입을 이끄는 극 형식이다.",
     "detail": "작품 사례: 《[[겨울연가]]》는 원문이 강한 감정과 가족 [[갈등]]을 앞세우는 멜로드라마의 사례로 제시한다.",
@@ -13,17 +13,20 @@
     "boundary": "연애가 있다는 사실만으로 성립하지 않으며 감정과 갈등의 강도·배치가 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.111.012",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "멜로드라마는 큰 시련과 강렬한 감정 표현을 연속적으로 배치해 관객의 정서적 몰입을 이끈다. 가족과 연애의 갈등이 자주 쓰이지만 소재만으로 정해지는 것은 아니며, 사건과 대사가 감정을 얼마나 높이고 반복하는지가 형식의 특징이다. 연애가 등장하는 모든 작품이나 슬픈 장면 하나를 같은 극 형식으로 판단할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "멜로드라마는 큰 시련과 강렬한 감정 표현을 연속적으로 배치해 관객의 정서적 몰입을 이끈다. 가족과 연애의 갈등이 자주 쓰이지만 소재만으로 정해지는 것은 아니며, 사건과 대사가 감정을 얼마나 높이고 반복하는지가 형식의 특징이다. 연애가 등장하는 모든 작품이나 슬픈 장면 하나를 같은 극 형식으로 판단할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

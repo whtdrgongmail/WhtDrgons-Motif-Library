@@ -4,22 +4,44 @@
   "title": "건설 경영",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02119",
+  "primary_tag_id": "ML-T02119",
   "description": {
-    "definition": "",
+    "definition": "건축물이나 시설을 세우고 자원·공간·생산을 관리해 정착지나 사업체를 발전시키는 게임 활동이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 3,
+  "classification": {
+    "code": "25.006.004",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "건물을 짓고 공간과 자원을 운영해 규모나 생산력을 키우는 플레이 방식이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "건물이나 시설을 세우고 자원과 공간을 운영해 정착지 또는 생산 기반을 발전시키는 게임 활동이다. 합성 결과물이 건물 건설이나 [[자원 생산]]으로 이어지면 퍼즐 진행과 운영이 결합한다.\n\n합성 재료와 배치 공간을 관리하고, 당장의 공간 확보와 이후 성장을 함께 고려하는 선택이 중심이 된다. 합성 규칙만 있는 경우와 건설·생산 관리가 구현된 경우는 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "건물이나 시설을 세우고 자원과 공간을 운영해 정착지 또는 생산 기반을 발전시키는 게임 활동이다. 합성 결과물이 건물 건설이나 [[자원 생산]]으로 이어지면 퍼즐 진행과 운영이 결합한다.\n\n합성 재료와 배치 공간을 관리하고, 당장의 공간 확보와 이후 성장을 함께 고려하는 선택이 중심이 된다. 합성 규칙만 있는 경우와 건설·생산 관리가 구현된 경우는 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

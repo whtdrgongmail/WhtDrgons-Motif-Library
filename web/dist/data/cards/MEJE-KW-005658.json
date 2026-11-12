@@ -4,8 +4,8 @@
   "title": "무엇이든 묻는 호기심 많은 인물",
   "original": "Constantly Curious",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00938",
+  "primary_tag_id": "ML-T00938",
   "description": {
     "definition": "인물이 만나는 사람과 사물에 끊임없이 질문을 던진다. 순진한 물음이 다른 이들이 당연히 여긴 규칙의 빈틈을 드러낸다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "모르는 것을 끊임없이 질문하는 순진한 인물이다. 주로 어린 인물에게 배정하며 악의 없이 묻기 때문에 상대가 불편해할 내용도 자연스럽게 발화한다.\n\n설명하는 인물에게 정보를 말할 이유를 제공하여 관객도 함께 세계를 배운다. 어른이 숨기던 모순을 단순한 질문으로 드러내면 깊은 통찰을 의도하지 않아도 핵심을 찌를 수 있다.\n\n무례함으로 상대를 공격하는 아이와는 동기가 다르다. 질문의 수보다 진지한 호기심과 지식의 부족이 기준이며 모든 질문을 설명을 위한 도구로만 사용할 필요는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "모르는 것을 끊임없이 질문하는 순진한 인물이다. 주로 어린 인물에게 배정하며 악의 없이 묻기 때문에 상대가 불편해할 내용도 자연스럽게 발화한다.\n\n설명하는 인물에게 정보를 말할 이유를 제공하여 관객도 함께 세계를 배운다. 어른이 숨기던 모순을 단순한 질문으로 드러내면 깊은 통찰을 의도하지 않아도 핵심을 찌를 수 있다.\n\n무례함으로 상대를 공격하는 아이와는 동기가 다르다. 질문의 수보다 진지한 호기심과 지식의 부족이 기준이며 모든 질문을 설명을 위한 도구로만 사용할 필요는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

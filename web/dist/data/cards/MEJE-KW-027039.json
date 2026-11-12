@@ -4,8 +4,8 @@
   "title": "돌아오지 않는 연인을 더는 기다릴 수 없게 되기",
   "original": "You Have Waited Long Enough",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01078",
+  "primary_tag_id": "ML-T01078",
   "description": {
     "definition": "진정으로 사랑하던 상대가 돌아오지 않아 기다림을 끝내고 삶을 이어 가야 하는 상황에 놓인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "주변의 결혼 압박이 있어야 하는 이전 제안보다 기다림 종료의 이유가 넓다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "11.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "귀환을 믿고 유지하던 약속이 시간과 주변의 요구 때문에 지속되기 어려워진다. 기다린 기간이 길어질수록 현재의 삶을 어떻게 이어 갈지가 갈등이 된다.\n\n가족과 사회가 새 결혼을 압박할 수 있고 귀환 소식 자체가 불확실할 수도 있다. 기다림의 종료는 사랑이 거짓이었다는 사실보다 선택 가능한 조건의 변화를 드러낼 수 있다.\n\n원문은 강요되거나 압박받은 결혼을 특히 강조한다. 자발적으로 새 삶을 택한 모든 경우를 같은 상황으로 확정하지 않으며 단순한 변심과도 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "귀환을 믿고 유지하던 약속이 시간과 주변의 요구 때문에 지속되기 어려워진다. 기다린 기간이 길어질수록 현재의 삶을 어떻게 이어 갈지가 갈등이 된다.\n\n가족과 사회가 새 결혼을 압박할 수 있고 귀환 소식 자체가 불확실할 수도 있다. 기다림의 종료는 사랑이 거짓이었다는 사실보다 선택 가능한 조건의 변화를 드러낼 수 있다.\n\n원문은 강요되거나 압박받은 결혼을 특히 강조한다. 자발적으로 새 삶을 택한 모든 경우를 같은 상황으로 확정하지 않으며 단순한 변심과도 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

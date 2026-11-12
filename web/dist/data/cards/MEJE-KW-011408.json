@@ -4,8 +4,8 @@
   "title": "터무니없이 큰 음료 용기",
   "original": "Gigantic Gulp",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01463",
+  "primary_tag_id": "ML-T01463",
   "description": {
     "definition": "컵·통·양동이 등 음료 용기의 크기를 과도하게 확대해 갈증·피로·과욕을 희극적으로 표현하는 소품이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "같은 양을 여러 잔 마시는 [[장면]]과 달리 단일 용기의 [[과장]]이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 개의 음료 용기가 비정상적으로 크면 마시는 양과 소품의 규모가 시각적 [[과장]]이 된다. 갈증·피로·과욕을 대사 대신 용기의 크기로 전달하거나 취급 자체를 코미디로 만들 수 있다.\n\n단일 컵이나 통의 크기가 핵심이므로 여러 잔을 연속으로 마시는 [[장면]]과 구별한다. 거대한 용기가 세계의 일반 규격인지 특정 인물의 과장된 선택인지도 효과를 바꾼다.\n\n가상 사례: 지친 인물이 양동이만 한 음료 용기를 들고 마셔 피로와 과욕을 과장한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 개의 음료 용기가 비정상적으로 크면 마시는 양과 소품의 규모가 시각적 [[과장]]이 된다. 갈증·피로·과욕을 대사 대신 용기의 크기로 전달하거나 취급 자체를 코미디로 만들 수 있다.\n\n단일 컵이나 통의 크기가 핵심이므로 여러 잔을 연속으로 마시는 [[장면]]과 구별한다. 거대한 용기가 세계의 일반 규격인지 특정 인물의 과장된 선택인지도 효과를 바꾼다."
+      ],
+      [
+        "사례",
+        "가상 사례: 지친 인물이 양동이만 한 음료 용기를 들고 마셔 피로와 과욕을 과장한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "흡혈귀 군주",
   "original": "Vampire Monarch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01133",
+  "primary_tag_id": "ML-T01133",
   "description": {
     "definition": "다른 흡혈귀들이 복종하거나 따르는 지배자 역할의 [[흡혈귀]]이다.",
     "detail": "작품 사례: [[Darkest Dungeon]]의 Countess는 흡혈귀 군주이면서 부채로 얼굴을 가리는 귀족의 태도를 보이고, 전투가 격화되면 그 부채마저 떨어뜨린다.",
@@ -13,10 +13,10 @@
     "boundary": "흡혈귀 혈통의 최초 개체여야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "흡혈귀 집단에는 다른 개체가 따르는 지배자가 있다. 이 지위는 종족의 성질과 권력 관계를 한 인물에 결합한다.\n\n귀족적인 태도나 소품은 군주로서의 인상을 더할 수 있다. 전투에서 그런 외관이 무너지는 변화는 지위의 표현과 실제 위협을 대비시킨다.\n\n혈통의 맨 처음 개체여야만 군주가 되는 것은 아니다. 기원상의 위치와 다른 흡혈귀를 지배하는 권한을 분리해야 한다.\n\n[[Darkest Dungeon]]의 Countess는 부채로 얼굴을 가리는 귀족적인 태도를 보이며 전투가 격해지면 부채를 떨어뜨린다.\n\n[[Darkest Dungeon]]",
+    "sections": [
+      [
+        "상세 설명",
+        "흡혈귀 집단에는 다른 개체가 따르는 지배자가 있다. 이 지위는 종족의 성질과 권력 관계를 한 인물에 결합한다.\n\n귀족적인 태도나 소품은 군주로서의 인상을 더할 수 있다. 전투에서 그런 외관이 무너지는 변화는 지위의 표현과 실제 위협을 대비시킨다.\n\n혈통의 맨 처음 개체여야만 군주가 되는 것은 아니다. 기원상의 위치와 다른 흡혈귀를 지배하는 권한을 분리해야 한다."
+      ],
+      [
+        "사례",
+        "[[Darkest Dungeon]]의 Countess는 부채로 얼굴을 가리는 귀족적인 태도를 보이며 전투가 격해지면 부채를 떨어뜨린다."
+      ],
+      [
+        "관련 작품",
+        "[[Darkest Dungeon]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

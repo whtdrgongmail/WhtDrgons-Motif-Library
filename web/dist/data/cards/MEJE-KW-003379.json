@@ -4,8 +4,8 @@
   "title": "외도당한 사람에게 책임 돌리기",
   "original": "Blaming the Cuckold",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "관계의 약속을 어긴 사람이 상처받은 상대의 부족함을 이유로 자신의 행동을 정당화한다. [[책임 전가]]가 피해자의 자기 인식까지 흔들 수 있다. 외도의 책임을 다른 곳으로 보내는 방식은 [[외도 상대에게만 분노 돌리기]]에도 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "외도한 사람이 상대의 외모나 행동을 핑계로 자신이 약속을 어긴 책임을 넘기는 상황이다. 피해자는 자기 탓이라고 느끼며 관계를 판단하기 어려워질 수 있다. [[책임 전가]]의 한 형태이며 불만이 있었다는 사정과 기만을 선택한 행동의 책임은 구별한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "외도한 사람이 아니라 외도를 당한 사람에게 관계 파탄의 원인을 돌린다. 돈과 외모, 성적 역할과 관심의 부족을 내세워 가해자의 선택이 상대의 결함 때문에 불가피했다고 설명한다.\n\n비난의 구체적인 내용은 성 역할에 따라 달라질 수 있다. 더 많이 벌지 못했거나 더 매력적으로 보이지 못했다는 평가는 연애의 요구를 개인의 의무처럼 취급한다. 관계에 어려움이 있었다는 사실과 외도할 수밖에 없었다는 주장은 같지 않다.\n\n본인이 합리화하거나 주변 사람들이 같은 설명을 할 수 있다. 이때 피해자는 상처뿐 아니라 자신이 잘못했다는 압박까지 겪는다. 관계의 문제를 함께 논의하는 일과 약속을 어긴 행위의 책임을 다른 사람에게 이전하는 일을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "외도한 사람이 아니라 외도를 당한 사람에게 관계 파탄의 원인을 돌린다. 돈과 외모, 성적 역할과 관심의 부족을 내세워 가해자의 선택이 상대의 결함 때문에 불가피했다고 설명한다.\n\n비난의 구체적인 내용은 성 역할에 따라 달라질 수 있다. 더 많이 벌지 못했거나 더 매력적으로 보이지 못했다는 평가는 연애의 요구를 개인의 의무처럼 취급한다. 관계에 어려움이 있었다는 사실과 외도할 수밖에 없었다는 주장은 같지 않다.\n\n본인이 합리화하거나 주변 사람들이 같은 설명을 할 수 있다. 이때 피해자는 상처뿐 아니라 자신이 잘못했다는 압박까지 겪는다. 관계의 문제를 함께 논의하는 일과 약속을 어긴 행위의 책임을 다른 사람에게 이전하는 일을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

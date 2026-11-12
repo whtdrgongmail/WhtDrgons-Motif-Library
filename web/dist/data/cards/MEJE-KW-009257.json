@@ -4,8 +4,8 @@
   "title": "극한 스포츠를 중심에 둔 이야기",
   "original": "Extreme Sports Plot",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00362",
+  "primary_tag_id": "ML-T00362",
   "description": {
     "definition": "위험과 기술이 눈에 띄는 스포츠 경기나 대회를 주요 사건으로 삼아 경쟁과 성장을 전개하는 서사다.",
     "detail": "",
@@ -13,14 +13,23 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "03.116",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
   "easy_explanation": {
     "easy_ko": "극한 스포츠의 경기나 대회가 이야기의 중심 사건인 작품이다. 참가자는 높은 위험을 감수하면서 기술을 익히고 다른 선수와 경쟁한다. 스포츠 장면이 잠깐 배경으로 나오는 경우보다 훈련과 승부의 결과가 인물의 목표를 결정할 때 해당한다.",
     "review_status": "reviewed",
@@ -30,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위험과 고난도 동작이 두드러지는 스포츠를 주요 사건으로 삼는 이야기다. 기술의 숙련과 경쟁, 개인의 한계를 넘는 과정이 연결된다.\n\n대회와 거리의 명성은 인물의 목표가 되고 실패의 신체적 비용이 긴장을 만든다. 활동 장소와 장비는 집단의 문화와 세대적 갈등을 보여 주는 요소가 될 수 있다.\n\n극한 스포츠의 범위는 맥락에 따라 달라진다. 화면의 멋과 실제 준비와 안전 조건을 구분해야 하며 위험을 감수하는 태도만으로 실력이 증명되지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위험과 고난도 동작이 두드러지는 스포츠를 주요 사건으로 삼는 이야기다. 기술의 숙련과 경쟁, 개인의 한계를 넘는 과정이 연결된다.\n\n대회와 거리의 명성은 인물의 목표가 되고 실패의 신체적 비용이 긴장을 만든다. 활동 장소와 장비는 집단의 문화와 세대적 갈등을 보여 주는 요소가 될 수 있다.\n\n극한 스포츠의 범위는 맥락에 따라 달라진다. 화면의 멋과 실제 준비와 안전 조건을 구분해야 하며 위험을 감수하는 태도만으로 실력이 증명되지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

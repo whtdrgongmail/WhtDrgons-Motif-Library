@@ -4,8 +4,8 @@
   "title": "인질과 핵심 물건의 교환 요구",
   "original": "Hostage for MacGuffin",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00871",
+  "primary_tag_id": "ML-T00871",
   "description": {
     "definition": "악역이 인질을 잡고 영웅이 가진 핵심 물건을 넘기는 대가로 풀어 주겠다고 요구한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "현재 설명은 단순 현금 몸값을 원천적으로 제외하지 않으며 핵심 물건을 거래 대상으로 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인질의 석방을 조건으로 핵심 물건을 요구한다. 영웅은 사람을 구하는 목표와 물건이 넘어갔을 때의 위험 사이에서 선택해야 한다.\n\n교환 약속을 믿을 수 있는지에 따라 대응이 달라진다. 구조와 목표물 확보가 별개의 과제가 아니라 한 거래에 묶이는 구조다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인질의 석방을 조건으로 핵심 물건을 요구한다. 영웅은 사람을 구하는 목표와 물건이 넘어갔을 때의 위험 사이에서 선택해야 한다.\n\n교환 약속을 믿을 수 있는지에 따라 대응이 달라진다. 구조와 목표물 확보가 별개의 과제가 아니라 한 거래에 묶이는 구조다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "시기와 어긋나 공개된 명절 회차",
   "original": "Out-of-Holiday Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "특정 명절을 중심으로 만든 회차가 현실의 그 명절과 멀리 떨어진 시기에 공개되는 편성 현상이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "재방송이나 명절이 아닌 다른 계절 배경 자체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "내용은 특정 명절을 위해 구성되었지만 처음 공개되는 시점은 그 명절과 떨어져 있다. 이야기 안의 기념일과 현실의 편성 일정 사이에 어긋남이 생긴다.\n\n관객이 계절적인 분위기를 공유할 시기와 회차가 도착하는 시기가 다르다. 작품의 내용만 보면 알기 어려운 현상으로 실제 공개 일정과 함께 보아야 구별된다.\n\n예전에 공개한 명절 회차의 재방송과는 다르다. 단순한 계절 배경이나 명절이 아닌 휴가 이야기를 명절 회차로 확대해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "내용은 특정 명절을 위해 구성되었지만 처음 공개되는 시점은 그 명절과 떨어져 있다. 이야기 안의 기념일과 현실의 편성 일정 사이에 어긋남이 생긴다.\n\n관객이 계절적인 분위기를 공유할 시기와 회차가 도착하는 시기가 다르다. 작품의 내용만 보면 알기 어려운 현상으로 실제 공개 일정과 함께 보아야 구별된다.\n\n예전에 공개한 명절 회차의 재방송과는 다르다. 단순한 계절 배경이나 명절이 아닌 휴가 이야기를 명절 회차로 확대해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

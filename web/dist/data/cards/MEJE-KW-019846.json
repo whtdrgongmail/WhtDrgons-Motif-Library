@@ -4,8 +4,8 @@
   "title": "기혼 상대와 오래 이어지는 숨은 연인",
   "original": "The Mistress",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00983",
+  "primary_tag_id": "ML-T00983",
   "description": {
     "definition": "다른 사람과 혼인 중인 상대와 비교적 오래 비밀 연애 관계를 유지하는 인물의 관계상 위치다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "짧은 일회성 만남이나 합의된 비독점 관계의 모든 파트너와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "공식 배우자는 아니지만 오래 곁에 있는 연인이다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "혼인 중인 사람과 장기간 연애 관계를 유지하는 상대의 위치를 가리킨다. 일회적인 만남보다 지속적인 애정과 기대가 존재한다. 공식 배우자와는 다른 지위 때문에 공개성, 경제적 의존과 미래에 대한 요구가 갈등이 된다.\n\n현재의 위치에 만족할 수도 있고 상대가 혼인을 끝내고 자신과 결혼하기를 바랄 수도 있다. 관계가 주변에 알려져도 정식 혼인과 같은 권한을 갖는 것은 아닐 수 있다. 각 인물이 무엇을 알고 어떤 약속을 믿는지에 따라 같은 관계가 다른 의미를 갖는다.\n\n반드시 비밀이거나 여성인 경우로 한정되지는 않는다. 첩과 제도적으로 인정된 다중 관계, 모든 당사자가 동의한 관계와는 구체적인 조건을 구별해야 한다. 작품에서는 서로 다른 기대와 숨겨진 사실 때문에 배신과 질투의 동기를 만드는 역할을 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "혼인 중인 사람과 장기간 연애 관계를 유지하는 상대의 위치를 가리킨다. 일회적인 만남보다 지속적인 애정과 기대가 존재한다. 공식 배우자와는 다른 지위 때문에 공개성, 경제적 의존과 미래에 대한 요구가 갈등이 된다.\n\n현재의 위치에 만족할 수도 있고 상대가 혼인을 끝내고 자신과 결혼하기를 바랄 수도 있다. 관계가 주변에 알려져도 정식 혼인과 같은 권한을 갖는 것은 아닐 수 있다. 각 인물이 무엇을 알고 어떤 약속을 믿는지에 따라 같은 관계가 다른 의미를 갖는다.\n\n반드시 비밀이거나 여성인 경우로 한정되지는 않는다. 첩과 제도적으로 인정된 다중 관계, 모든 당사자가 동의한 관계와는 구체적인 조건을 구별해야 한다. 작품에서는 서로 다른 기대와 숨겨진 사실 때문에 배신과 질투의 동기를 만드는 역할을 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

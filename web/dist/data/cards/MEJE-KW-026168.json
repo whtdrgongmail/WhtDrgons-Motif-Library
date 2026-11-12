@@ -4,8 +4,8 @@
   "title": "주인공의 부모에게 품는 짝사랑",
   "original": "Pining After Protagonist's Parent",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00981",
+  "primary_tag_id": "ML-T00981",
   "description": {
     "definition": "어떤 인물이 주인공의 부모를 좋아하지만 그 사랑이 돌아오지 않는 관계를 이룬다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "주인공 본인이 자기 부모를 사랑하는 관계와 혼동하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "주인공이 아니라 그 부모를 혼자 좋아한다.",
     "review_status": "reviewed",
@@ -30,5 +36,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현재의 주인공은 자신이 태어나기 전의 감정 관계 안으로 들어간다. 부모에게 남긴 미련은 자녀를 보호하려는 이유가 될 수도 있고, 선택받지 못한 질투를 자녀에게 돌리는 이유가 될 수도 있다. 따라서 같은 과거가 상반된 현재 행동을 설명할 수 있다.\n\n뒤늦게 사랑의 사연을 알게 되면 모호했던 도움이나 적대의 이유가 다시 해석된다. 그러나 부모와 닮았다는 이유만으로 주인공을 부모의 대체물로 취급하는지는 별도의 문제다. 이 구도는 부모의 과거와 상대 인물의 인간적인 면을 함께 드러내며, 주인공이 물려받은 기대를 받아들이거나 거절하는 갈등으로도 이어진다.\n\n가령, 주인공은 아버지를 짝사랑한 옛 동료가 자신을 도운 이유를 뒤늦게 알게 된다. 그 도움은 아버지에 대한 미련과 주인공을 보호하려는 마음으로 다시 해석된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현재의 주인공은 자신이 태어나기 전의 감정 관계 안으로 들어간다. 부모에게 남긴 미련은 자녀를 보호하려는 이유가 될 수도 있고, 선택받지 못한 질투를 자녀에게 돌리는 이유가 될 수도 있다. 따라서 같은 과거가 상반된 현재 행동을 설명할 수 있다.\n\n뒤늦게 사랑의 사연을 알게 되면 모호했던 도움이나 적대의 이유가 다시 해석된다. 그러나 부모와 닮았다는 이유만으로 주인공을 부모의 대체물로 취급하는지는 별도의 문제다. 이 구도는 부모의 과거와 상대 인물의 인간적인 면을 함께 드러내며, 주인공이 물려받은 기대를 받아들이거나 거절하는 갈등으로도 이어진다."
+      ],
+      [
+        "사례",
+        "가령, 주인공은 아버지를 짝사랑한 옛 동료가 자신을 도운 이유를 뒤늦게 알게 된다. 그 도움은 아버지에 대한 미련과 주인공을 보호하려는 마음으로 다시 해석된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 5,
+    "replaces_short_fields": false
+  }
 }

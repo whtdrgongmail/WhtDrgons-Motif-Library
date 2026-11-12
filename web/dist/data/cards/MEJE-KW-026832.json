@@ -4,8 +4,8 @@
   "title": "작품 안에서 관계가 확정된 연인",
   "original": "Official Couple",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "중요하게 다루어지는 두 인물이 이야기 안에서 서로의 연애 상대임을 분명히 확정하는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "004:1182의 중심 커플에 한정하지 않고 비중 있는 다른 커플도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "추측이 아니라 작품에서 둘이 사귀는 것으로 확인된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "호감의 암시를 넘어 두 사람이 서로의 연애 상대라는 사실이 작품에서 확인된다. 이후의 사건은 성립 이전의 기대보다 현재 관계의 유지와 선택을 기준으로 전개된다.\n\n주요 관계라는 비중과 공식적인 성립은 각각 확인해야 한다. 팬의 선호와 주변의 추측만으로는 충분하지 않으며 같은 이름의 인접 유형과도 표현의 초점을 구별할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "호감의 암시를 넘어 두 사람이 서로의 연애 상대라는 사실이 작품에서 확인된다. 이후의 사건은 성립 이전의 기대보다 현재 관계의 유지와 선택을 기준으로 전개된다.\n\n주요 관계라는 비중과 공식적인 성립은 각각 확인해야 한다. 팬의 선호와 주변의 추측만으로는 충분하지 않으며 같은 이름의 인접 유형과도 표현의 초점을 구별할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

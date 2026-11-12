@@ -4,8 +4,8 @@
   "title": "이름뿐인 권위자",
   "original": "Authority in Name Only",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00936",
+  "primary_tag_id": "ML-T00936",
   "description": {
     "definition": "직함이나 칭호는 있지만 실제 명령을 실행할 힘은 부족한 인물. 명목상의 지위와 현장에서 움직이는 힘이 갈라져 갈등을 만든다. [[낮은 목소리로 권위를 표시하기]]을 갖추어도 실제 결정권까지 생기지는 않는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.006.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "직함은 있으나 실제 결정권이나 집행력이 없는 권위자다. 형식적인 지위만 남았거나 애초에 자칭한 직책일 수 있다.\n\n직함의 허구는 명령이 실행되지 않거나 중요한 결정을 다른 사람이 내릴 때 드러난다. 상징적 지위가 제도적으로 인정된 경우와 혼자만 주장하는 직함은 배경이 다르다. 두 경우 모두 권위의 외형과 실제로 행사할 수 있는 영향력 사이의 차이가 핵심이다.\n\n주변의 복종이 없다는 사실이 드러나면 위엄의 허구가 희극이나 정치 갈등으로 이어진다. 힘이 약해진 합법적 지도자와 완전히 가짜인 지위는 권위가 비는 원인을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "직함은 있으나 실제 결정권이나 집행력이 없는 권위자다. 형식적인 지위만 남았거나 애초에 자칭한 직책일 수 있다.\n\n직함의 허구는 명령이 실행되지 않거나 중요한 결정을 다른 사람이 내릴 때 드러난다. 상징적 지위가 제도적으로 인정된 경우와 혼자만 주장하는 직함은 배경이 다르다. 두 경우 모두 권위의 외형과 실제로 행사할 수 있는 영향력 사이의 차이가 핵심이다.\n\n주변의 복종이 없다는 사실이 드러나면 위엄의 허구가 희극이나 정치 갈등으로 이어진다. 힘이 약해진 합법적 지도자와 완전히 가짜인 지위는 권위가 비는 원인을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

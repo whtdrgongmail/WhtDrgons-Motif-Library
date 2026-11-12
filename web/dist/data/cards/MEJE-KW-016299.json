@@ -4,8 +4,8 @@
   "title": "기마 궁수",
   "original": "Horse Archer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00917",
+  "primary_tag_id": "ML-T00917",
   "description": {
     "definition": "말을 타고 이동하거나 진형을 유지하며 활로 공격하는 전투 인물·병종이다.",
     "detail": "작품 사례: 《[[반지의 제왕: 두 개의 탑]]》에서 로히림은 우루크하이를 기습할 때 말 위에서 활을 쏜다. 이동 수단과 사격 플랫폼이 결합된 장면이다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 말을 타고 전장까지 이동한 뒤 내려서 활을 쏘는 병종과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,33 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-001326",
+      "work_card_id": "MM-MEDIA-002461",
       "description_ko": "《반지의 제왕: 두 개의 탑》에서 로히림은 우루크하이를 기습할 때 말 위에서 활을 쏜다. 이동 수단과 사격 플랫폼이 결합된 장면이다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "말에 탄 채 이동하거나 진형을 유지하면서 활로 공격한다. 말은 이동 수단이면서 사격을 수행하는 발판이 된다.\n\n기동과 사격이 한 행동 체계에 결합해 전투 장면의 위치와 움직임을 구성한다. 어디까지 말을 타는지보다 화살을 쏠 때 어떤 상태인지가 중요하다.\n\n말을 타고 전장에 도착한 뒤 내려서 활을 쏘는 병종과 다르다. 탑승 상태에서 실제 사격한다는 조건이 필요하다.\n\n《[[반지의 제왕: 두 개의 탑]]》에서 로히림은 우루크하이를 기습할 때 말 위에서 활을 쏜다. 이동 수단과 사격 플랫폼이 결합된 장면이다.\n\n[[반지의 제왕: 두 개의 탑]]",
+    "sections": [
+      [
+        "상세 설명",
+        "말에 탄 채 이동하거나 진형을 유지하면서 활로 공격한다. 말은 이동 수단이면서 사격을 수행하는 발판이 된다.\n\n기동과 사격이 한 행동 체계에 결합해 전투 장면의 위치와 움직임을 구성한다. 어디까지 말을 타는지보다 화살을 쏠 때 어떤 상태인지가 중요하다.\n\n말을 타고 전장에 도착한 뒤 내려서 활을 쏘는 병종과 다르다. 탑승 상태에서 실제 사격한다는 조건이 필요하다."
+      ],
+      [
+        "사례",
+        "《[[반지의 제왕: 두 개의 탑]]》에서 로히림은 우루크하이를 기습할 때 말 위에서 활을 쏜다. 이동 수단과 사격 플랫폼이 결합된 장면이다."
+      ],
+      [
+        "관련 작품",
+        "[[반지의 제왕: 두 개의 탑]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "정상 탄약 대신 다른 것을 발사하기",
   "original": "Abnormal Ammo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "원래의 발사 장치를 유지하면서 통상적인 탄약 대신 일상 물건이나 다른 재료를 넣어 공격 수단으로 쓴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "장치 자체가 원래 다른 물건이거나 발사 뒤 탄이 분열하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "발사 장치는 그대로 두고 들어가는 물체를 다른 재료로 바꾼다. 통상적인 탄약이 아닌 물건의 성질이 공격의 결과에 관여한다.\n\n탄약 부족의 해결이나 뜻밖의 효과를 통해 기존 장비의 사용을 변주할 수 있다. 발사 장치와 발사체를 나누어 설명하면 변화 지점이 명확하다.\n\n장치 자체가 원래 다른 물건인 경우와는 다르다. 정상 탄환이 발사 뒤 갈라지는 효과도 탄약 대체와 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "발사 장치는 그대로 두고 들어가는 물체를 다른 재료로 바꾼다. 통상적인 탄약이 아닌 물건의 성질이 공격의 결과에 관여한다.\n\n탄약 부족의 해결이나 뜻밖의 효과를 통해 기존 장비의 사용을 변주할 수 있다. 발사 장치와 발사체를 나누어 설명하면 변화 지점이 명확하다.\n\n장치 자체가 원래 다른 물건인 경우와는 다르다. 정상 탄환이 발사 뒤 갈라지는 효과도 탄약 대체와 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

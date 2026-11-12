@@ -4,8 +4,8 @@
   "title": "히피식 자유교육 교사",
   "original": "Hippie Teacher",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "권위와 엄격한 규율보다 평화·자유·창의성을 앞세우고 반문화적 태도로 학생을 대하는 교사 유형이다. 영감을 주는 교육자일 수도 있고 수업 운영이나 사상 강요 문제를 드러낼 수도 있다.",
     "detail": "작품 사례: [[Dexter's Laboratory]]의 상담교사는 염색 무늬 치마와 색안경을 착용하고, 학생의 감정을 부드럽게 물으며 권위보다 개방적인 태도를 보인다.",
@@ -13,10 +13,10 @@
     "boundary": "교사가 친절하거나 예술 과목을 가르친다는 이유만으로 적용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "히피 문화의 느긋함과 반권위적 태도를 교육 방식에 결합하는 교사 전형이다. 복장과 말투, 학생의 감정을 다루는 방식이 같은 문화적 이미지를 구성한다.\n\n친절한 교사와 예술 교사 전체를 뜻하지 않는다. 권위와 규율보다 개방적인 관계를 선호한다는 특성이 문화적 표지와 함께 제시되어야 한다.\n\n[[Dexter's Laboratory]]의 상담교사는 염색 무늬 치마와 색안경을 착용한다. 학생의 감정을 부드럽게 질문하는 행동이 복장과 결합해 개방적인 교육자의 인상을 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "히피 문화의 느긋함과 반권위적 태도를 교육 방식에 결합하는 교사 전형이다. 복장과 말투, 학생의 감정을 다루는 방식이 같은 문화적 이미지를 구성한다.\n\n친절한 교사와 예술 교사 전체를 뜻하지 않는다. 권위와 규율보다 개방적인 관계를 선호한다는 특성이 문화적 표지와 함께 제시되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Dexter's Laboratory]]의 상담교사는 염색 무늬 치마와 색안경을 착용한다. 학생의 감정을 부드럽게 질문하는 행동이 복장과 결합해 개방적인 교육자의 인상을 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

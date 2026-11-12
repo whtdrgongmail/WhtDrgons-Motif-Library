@@ -4,8 +4,8 @@
   "title": "반드시 범인을 잡는 수사관",
   "original": "Always Gets His Man",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00918",
+  "primary_tag_id": "ML-T00918",
   "description": {
     "definition": "한번 추적을 시작하면 끝내 범인을 찾아내는 능력과 집념으로 그려지는 수사관형 인물. 정직한 법 집행자로도, [[주인공]]을 압박하는 추적자로도 쓰인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "추적을 포기하지 않는 수사관은 도주자의 선택지를 지속적으로 줄이는 압력이 된다. 청렴함과 능력이 함께 강조되면 영웅의 조력자뿐 아니라 주인공과 맞서는 존중받는 적수도 될 수 있다.\n\n끝까지 추적하는 수사관은 무조건 잔혹한 집행자와 다르다. 법과 정의를 어떻게 이해하는지에 따라 역할이 달라진다. 체제의 오류 때문에 선한 인물을 쫓는 경우에는 추적의 성실함과 판단의 정당성이 충돌한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "추적을 포기하지 않는 수사관은 도주자의 선택지를 지속적으로 줄이는 압력이 된다. 청렴함과 능력이 함께 강조되면 영웅의 조력자뿐 아니라 주인공과 맞서는 존중받는 적수도 될 수 있다.\n\n끝까지 추적하는 수사관은 무조건 잔혹한 집행자와 다르다. 법과 정의를 어떻게 이해하는지에 따라 역할이 달라진다. 체제의 오류 때문에 선한 인물을 쫓는 경우에는 추적의 성실함과 판단의 정당성이 충돌한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

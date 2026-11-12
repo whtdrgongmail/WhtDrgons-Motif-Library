@@ -4,8 +4,8 @@
   "title": "한 회만 벌이는 하이스트",
   "original": "Heist Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00556",
+  "primary_tag_id": "ML-T00556",
   "description": {
     "definition": "평소에는 절도극이 아닌 작품이 한 편에서 팀을 짜고 침입·절도 계획을 실행하는 하이스트 형식을 채택하는 구성이다.",
     "detail": "작품 사례: [[Rugrats (2021)]]의 The Heist에서는 경매에 내놓은 Dil의 모빌을 되찾기 위해 Tommy와 아기들이 Angelica의 도움을 받아 작전을 벌인다.",
@@ -13,10 +13,10 @@
     "boundary": "시리즈 자체가 늘 절도를 다루거나 우연히 강도를 당하는 회차와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.001.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평소에는 절도 작전을 중심으로 하지 않는 시리즈가 한 회차에서 [[하이스트]]의 계획과 실행을 채택하는 구성이다. 익숙한 인물들이 다른 형식의 역할을 맡으므로, 일상적인 목표도 치밀한 작전처럼 표현될 수 있다.\n\n[[시리즈 전체]]가 반복해서 절도를 다루는 경우와는 다르다. 주인공이 우연히 강도를 당하는 회차도 능동적인 작전 구조가 없으면 해당하지 않는다. 평소의 형식과 비교하여 해당 회차가 어떻게 계획과 협력, 회수 행동을 조직하는지 중요하다.\n\n[[Rugrats (2021)]]의 The Heist에서 Tommy와 아기들은 경매에 나온 Dil의 모빌을 되찾으려 한다. Angelica의 도움까지 받아 작전을 수행하면서 한 회차를 하이스트의 방식으로 구성한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평소에는 절도 작전을 중심으로 하지 않는 시리즈가 한 회차에서 [[하이스트]]의 계획과 실행을 채택하는 구성이다. 익숙한 인물들이 다른 형식의 역할을 맡으므로, 일상적인 목표도 치밀한 작전처럼 표현될 수 있다.\n\n[[시리즈 전체]]가 반복해서 절도를 다루는 경우와는 다르다. 주인공이 우연히 강도를 당하는 회차도 능동적인 작전 구조가 없으면 해당하지 않는다. 평소의 형식과 비교하여 해당 회차가 어떻게 계획과 협력, 회수 행동을 조직하는지 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Rugrats (2021)]]의 The Heist에서 Tommy와 아기들은 경매에 나온 Dil의 모빌을 되찾으려 한다. Angelica의 도움까지 받아 작전을 수행하면서 한 회차를 하이스트의 방식으로 구성한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

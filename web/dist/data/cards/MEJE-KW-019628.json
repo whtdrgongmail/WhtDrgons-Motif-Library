@@ -5,8 +5,8 @@
   "original": "Escape along a Collapsing Path",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00754",
+  "primary_tag_id": "ML-T00754",
   "description": {
     "definition": "인물이 지나가는 경로가 뒤에서부터 붕괴하여 멈추거나 돌아가지 못하고 남은 길을 따라 계속 달리게 한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "굴러오는 물체가 없어도 바닥의 소실이 추격과 같은 압박을 만든다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.003.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 지나온 길이 뒤에서부터 무너져 멈추거나 되돌아갈 수 없게 된다. 추격자가 없어도 바닥이 사라지는 속도와 인물의 속도 사이에 생존의 경쟁이 생긴다.\n\n다음 발판을 고르는 시간이 곧 위험이 되므로 익숙한 경로도 급박하게 느껴진다. 뒤를 확인하는 시선은 위협과의 거리를 보여 주고 앞의 장애물은 남은 선택지를 좁힌다. 공간의 소멸이 이동의 압력을 지속시킨다.\n\n높은 곳에서 한 번 떨어지는 사건과는 시간에 따른 경로의 소실이 다르다. 뒤에서 물체가 굴러오는 장면과도 위협의 근원이 다르다. 어디까지 되돌릴 수 있고 어떤 구간이 남는지의 정보가 탈출의 조건을 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 지나온 길이 뒤에서부터 무너져 멈추거나 되돌아갈 수 없게 된다. 추격자가 없어도 바닥이 사라지는 속도와 인물의 속도 사이에 생존의 경쟁이 생긴다.\n\n다음 발판을 고르는 시간이 곧 위험이 되므로 익숙한 경로도 급박하게 느껴진다. 뒤를 확인하는 시선은 위협과의 거리를 보여 주고 앞의 장애물은 남은 선택지를 좁힌다. 공간의 소멸이 이동의 압력을 지속시킨다.\n\n높은 곳에서 한 번 떨어지는 사건과는 시간에 따른 경로의 소실이 다르다. 뒤에서 물체가 굴러오는 장면과도 위협의 근원이 다르다. 어디까지 되돌릴 수 있고 어떤 구간이 남는지의 정보가 탈출의 조건을 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "퇴진할 수 없는 종신 대통령",
   "original": "President for Life",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01330",
+  "primary_tag_id": "ML-T01330",
   "description": {
     "definition": "대통령이라는 공화국의 직책을 유지하면서 임기나 선거로 교체되지 않고 사실상 평생 집권하는 통치자 설정이다.",
     "detail": "작품 사례: [[Death Stranding]]에서는 재앙으로 선거 기반이 무너진 뒤 브리짓 스트랜드가 죽을 때까지 대통령직을 유지해, 임기와 선거에 의한 교체가 사라진 통치 구조를 보여 준다.",
@@ -13,10 +13,10 @@
     "boundary": "정해진 임기의 반복 재선이나 공식 군주와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대통령이라는 직함은 유지되지만 정해진 시기에 권력을 넘기는 절차가 작동하지 않는다. 선거와 임기의 유무를 구분하면 통치자의 명칭과 실제 교체 가능성 사이의 차이가 드러난다.\n\n임기마다 선거를 거쳐 여러 차례 재선된 경우와 죽을 때까지 직을 유지하는 제도는 다르다. 단순히 재임 기간이 길다는 사실만으로 종신직이라 단정하지 않는다.\n\n《[[Death Stranding]]》에서 브리짓 스트랜드는 재앙으로 선거의 기반이 무너진 상황에서 사망할 때까지 대통령직을 유지한다. 사례는 직함보다 교체 절차가 사라진 통치 상태에 초점이 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대통령이라는 직함은 유지되지만 정해진 시기에 권력을 넘기는 절차가 작동하지 않는다. 선거와 임기의 유무를 구분하면 통치자의 명칭과 실제 교체 가능성 사이의 차이가 드러난다.\n\n임기마다 선거를 거쳐 여러 차례 재선된 경우와 죽을 때까지 직을 유지하는 제도는 다르다. 단순히 재임 기간이 길다는 사실만으로 종신직이라 단정하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[Death Stranding]]》에서 브리짓 스트랜드는 재앙으로 선거의 기반이 무너진 상황에서 사망할 때까지 대통령직을 유지한다. 사례는 직함보다 교체 절차가 사라진 통치 상태에 초점이 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

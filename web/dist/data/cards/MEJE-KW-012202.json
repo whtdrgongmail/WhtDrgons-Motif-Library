@@ -7,8 +7,8 @@
     "선행을 숨기는 냉정한 인물",
     "다정한 마음을 일부러 감추는 인물"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00940",
+  "primary_tag_id": "ML-T00940",
   "description": {
     "definition": "남을 돕는 좋은 마음과 [[행동]]을 지녔지만 그것이 알려지는 것을 원하지 않아 감추는 인물형이다.",
     "detail": "",
@@ -16,10 +16,10 @@
     "boundary": "겉으로 무뚝뚝하다는 성격만으로는 부족하며 선행을 숨기려는 태도가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 4,
+  "updated_at": "2026-11-12",
+  "row_version": 5,
   "classification": {
-    "code": "09",
+    "code": "09.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -41,5 +41,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물은 좋은 행동을 하면서도 자신의 호의가 알려지는 일을 피한다. 선행과 그것을 감추려는 태도가 함께 존재한다.\n\n말로는 부인하고 행동으로는 돕는 차이를 통해 숨은 마음을 표현할 수 있다. 왜 호의를 드러내기 어려운지는 관계의 추가 정보가 된다.\n\n무뚝뚝한 말투만으로는 같은 유형이 아니다. 실제로 돕고 있으며 그 사실을 숨기려는 행동이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물은 좋은 행동을 하면서도 자신의 호의가 알려지는 일을 피한다. 선행과 그것을 감추려는 태도가 함께 존재한다.\n\n말로는 부인하고 행동으로는 돕는 차이를 통해 숨은 마음을 표현할 수 있다. 왜 호의를 드러내기 어려운지는 관계의 추가 정보가 된다.\n\n무뚝뚝한 말투만으로는 같은 유형이 아니다. 실제로 돕고 있으며 그 사실을 숨기려는 행동이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

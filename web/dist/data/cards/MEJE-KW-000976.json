@@ -4,8 +4,8 @@
   "title": "인신공격 논증",
   "original": "Ad Hominem",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "상대의 주장에 답하는 대신 상대의 성격이나 처지를 공격하는 논쟁 방식. 대화 장면에서 쟁점이 어떻게 흐려지는지 보여 줄 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "발언자의 성격과 처지 등을 근거로 주장 자체를 반박했다고 여기는 논증이다. 내용의 타당성을 검토할 자리에 사람에 대한 평가가 대신 들어간다.\n\n모욕적인 말이 없어도 이해관계가 있으니 틀렸다고 결론 내리면 같은 오류가 될 수 있다. 반대로 별도의 타당한 반론과 함께 무례한 말을 했다는 사실만으로 이 오류가 되지는 않는다.\n\n동기를 고려해 정보를 신중히 듣는 태도와 동기만으로 결론을 부정하는 추론은 다르다. 공격의 거친 정도보다 인물 평가가 반박의 논리로 사용되는지가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "발언자의 성격과 처지 등을 근거로 주장 자체를 반박했다고 여기는 논증이다. 내용의 타당성을 검토할 자리에 사람에 대한 평가가 대신 들어간다.\n\n모욕적인 말이 없어도 이해관계가 있으니 틀렸다고 결론 내리면 같은 오류가 될 수 있다. 반대로 별도의 타당한 반론과 함께 무례한 말을 했다는 사실만으로 이 오류가 되지는 않는다.\n\n동기를 고려해 정보를 신중히 듣는 태도와 동기만으로 결론을 부정하는 추론은 다르다. 공격의 거친 정도보다 인물 평가가 반박의 논리로 사용되는지가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

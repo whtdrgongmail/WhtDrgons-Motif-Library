@@ -4,8 +4,8 @@
   "title": "적을 미래로 추방하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00756",
+  "primary_tag_id": "ML-T00756",
   "description": {
     "definition": "방해자를 미래로 보내 그가 부재한 [[시간]] 동안 계획을 완수하거나 권력을 굳히는 시간여행 전략이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "도망가기 위한 미래 [[여행]]과 달리 타인의 시간적 부재를 이용하는 목적이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.003.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "방해하는 인물을 미래의 시점으로 보내 현재에서 제거한다. 상대가 돌아오지 않는 기간을 이용한다는 점에서 시간 이동이 권력 전략의 일부가 된다.\n\n계획의 완수나 권력의 공고화는 추방된 사람이 부재한 동안 진행된다. 상대를 죽이거나 설득하는 대신 같은 시대에서 행동하지 못하게 만드는 구조다.\n\n자신이 위험을 피해 미래로 도망치는 경우와 다르다. 타인의 시간적 부재를 만들어 그 시간을 활용하려는 목적이 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "방해하는 인물을 미래의 시점으로 보내 현재에서 제거한다. 상대가 돌아오지 않는 기간을 이용한다는 점에서 시간 이동이 권력 전략의 일부가 된다.\n\n계획의 완수나 권력의 공고화는 추방된 사람이 부재한 동안 진행된다. 상대를 죽이거나 설득하는 대신 같은 시대에서 행동하지 못하게 만드는 구조다.\n\n자신이 위험을 피해 미래로 도망치는 경우와 다르다. 타인의 시간적 부재를 만들어 그 시간을 활용하려는 목적이 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

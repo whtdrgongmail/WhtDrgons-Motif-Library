@@ -4,8 +4,8 @@
   "title": "먼 시장을 찾아 모험하는 상인",
   "original": "Intrepid Merchant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00923",
+  "primary_tag_id": "ML-T00923",
   "description": {
     "definition": "물건을 사고팔아 이익을 얻기 위해 위험하고 먼 지역까지 찾아가는 모험가이자 상인 유형이다.",
     "detail": "합법 무역뿐 아니라 밀무역·약탈과 겹칠 수 있고, 쌓은 부로 정착하여 거상이 되기도 한다.\n\n작품 사례: 《[[늑대와 향신료]]》는 호로가 수레에 동행한 뒤에도 행상인인 주인공이 여러 곳을 다니며 겪는 거래와 위험을 이야기의 중심에 둔다.",
@@ -13,19 +13,19 @@
     "boundary": "안전한 상점에만 머물거나 발견한 보물을 단순히 파는 모험가와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "보물 대신 먼 시장의 거래 기회를 찾아 산과 바다를 넘는다.\n\n작품 사례: 《[[늑대와 향신료]]》는 호로가 수레에 동행한 뒤에도 행상인인 주인공이 여러 곳을 다니며 겪는 거래와 위험을 이야기의 중심에 둔다.",
+    "easy_ko": "보물 대신 먼 시장의 거래 기회를 찾아 산과 바다를 넘는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "합법 무역뿐 아니라 밀무역·약탈과 겹칠 수 있고, 쌓은 부로 정착하여 거상이 되기도 한다.\n\n안전한 상점에만 머물거나 발견한 보물을 단순히 파는 모험가와 구별한다.\n\n소설 《[[늑대와 향신료]]》는 호로가 수레에 동행한 뒤에도 행상인인 주인공이 여러 곳을 다니며 겪는 거래와 위험을 이야기의 중심에 둔다.",
+    "sections": [
+      [
+        "상세 설명",
+        "합법 무역뿐 아니라 밀무역·약탈과 겹칠 수 있고, 쌓은 부로 정착하여 거상이 되기도 한다.\n\n안전한 상점에만 머물거나 발견한 보물을 단순히 파는 모험가와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "소설 《[[늑대와 향신료]]》는 호로가 수레에 동행한 뒤에도 행상인인 주인공이 여러 곳을 다니며 겪는 거래와 위험을 이야기의 중심에 둔다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

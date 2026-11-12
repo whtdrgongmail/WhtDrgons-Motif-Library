@@ -4,8 +4,8 @@
   "title": "학대받던 부하의 반격",
   "original": "The Dog Bites Back",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00682",
+  "primary_tag_id": "ML-T00682",
   "description": {
     "definition": "오랫동안 부당하게 대우받은 약자나 부하가 억압자에게 돌아서 저항하거나 보복하는 전개다.",
     "detail": "작품 사례: [[Kamen Rider Zero-One]]에서 유아는 상관의 고문을 피할 수 없다고 체념하다가, 어차피 고통받을 것이라면 저항하겠다며 맞서기로 한다.",
@@ -13,10 +13,10 @@
     "boundary": "학대의 누적 없이 이익만을 위해 배신하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "학대가 반복되던 종속 관계에서 부하가 더는 복종하지 않고 상관에게 맞서는 전환이다. 저항하지 않아도 고통을 피할 수 없다는 인식이 반격의 이유가 될 수 있다.\n\n이익만을 위해 다른 편으로 옮기는 배신과는 다르다. 누적된 학대와 저항의 선택이 인과적으로 연결되어야 하며 종속 관계가 행동을 얼마나 제한했는지도 중요하다.\n\n[[Kamen Rider Zero-One]]의 유아는 상관의 고문을 피할 수 없다고 체념한다. 이후 어차피 고통받는다면 맞서겠다고 선택해 체념을 복종의 이유가 아닌 저항의 이유로 바꾼다.",
+    "sections": [
+      [
+        "상세 설명",
+        "학대가 반복되던 종속 관계에서 부하가 더는 복종하지 않고 상관에게 맞서는 전환이다. 저항하지 않아도 고통을 피할 수 없다는 인식이 반격의 이유가 될 수 있다.\n\n이익만을 위해 다른 편으로 옮기는 배신과는 다르다. 누적된 학대와 저항의 선택이 인과적으로 연결되어야 하며 종속 관계가 행동을 얼마나 제한했는지도 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Kamen Rider Zero-One]]의 유아는 상관의 고문을 피할 수 없다고 체념한다. 이후 어차피 고통받는다면 맞서겠다고 선택해 체념을 복종의 이유가 아닌 저항의 이유로 바꾼다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

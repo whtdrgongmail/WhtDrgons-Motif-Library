@@ -4,8 +4,8 @@
   "title": "첫 주사위 능력치를 그대로 쓰는 캐릭터",
   "original": "Honest Rolls Character",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02088",
+  "primary_tag_id": "ML-T02088",
   "description": {
     "definition": "주사위로 정하는 능력치의 첫 결과를 유불리와 관계없이 받아들여 캐릭터를 만드는 플레이 방식이다.",
     "detail": "작품 사례: [[Maid RPG]]의 기본 캐릭터 생성은 능력치와 성격, 기술, 외모를 모두 무작위로 정해 주변 상황과 어울리지 않는 인물도 나오게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "좋은 값이 나올 때까지 재굴림하거나 정해진 점수를 배분하는 생성 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "처음 굴린 무작위 생성 결과를 선별과 재굴림 없이 캐릭터의 조건으로 받아들이는 방식이다. 유리하지 않거나 상황에 어울리지 않는 특성도 그대로 구성에 남는다.\n\n좋은 값이 나올 때까지 반복하는 방식과 다르다. 점수 배분처럼 원하는 구성을 직접 정하는 방식도 아니며 최초 결과의 수용이 중요하다.\n\n[[Maid RPG]]의 기본 생성은 능력치와 성격, 기술, 외모를 무작위로 정한다. 주변 상황과 맞지 않는 인물도 생길 수 있어 생성의 우연을 그대로 사용하게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "처음 굴린 무작위 생성 결과를 선별과 재굴림 없이 캐릭터의 조건으로 받아들이는 방식이다. 유리하지 않거나 상황에 어울리지 않는 특성도 그대로 구성에 남는다.\n\n좋은 값이 나올 때까지 반복하는 방식과 다르다. 점수 배분처럼 원하는 구성을 직접 정하는 방식도 아니며 최초 결과의 수용이 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Maid RPG]]의 기본 생성은 능력치와 성격, 기술, 외모를 무작위로 정한다. 주변 상황과 맞지 않는 인물도 생길 수 있어 생성의 우연을 그대로 사용하게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

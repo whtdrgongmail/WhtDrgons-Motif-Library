@@ -4,8 +4,8 @@
   "title": "승리해야 나갈 수 있는 게임",
   "original": "Win to Exit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "게임이나 경쟁 공간에 들어간 인물이 정해진 승리 조건을 만족해야 밖으로 나갈 수 있도록 설정한 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "보상 때문에 자발적으로 끝까지 하는 경우와 달리 퇴장이 승리에 묶여 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임 공간에 갇힌 인물이 정해진 승리 조건을 달성해야 탈출할 수 있는 설정이다. 플레이의 목표와 현실로 돌아가려는 목표가 하나로 결합된다.\n\n중단이나 포기가 허용되지 않아 평범한 경쟁 규칙도 생존의 제약이 된다. 인물은 게임의 규칙을 이해하는 동시에 그 규칙이 자신에게 미치는 결과를 감당해야 한다.\n\n몰입감이 높다는 이유만으로 성립하지는 않는다. 실제로 나갈 수 없는 조건과 승리의 필요성이 있어야 하며, 탈출 뒤에도 효과가 남는지는 작품마다 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임 공간에 갇힌 인물이 정해진 승리 조건을 달성해야 탈출할 수 있는 설정이다. 플레이의 목표와 현실로 돌아가려는 목표가 하나로 결합된다.\n\n중단이나 포기가 허용되지 않아 평범한 경쟁 규칙도 생존의 제약이 된다. 인물은 게임의 규칙을 이해하는 동시에 그 규칙이 자신에게 미치는 결과를 감당해야 한다.\n\n몰입감이 높다는 이유만으로 성립하지는 않는다. 실제로 나갈 수 없는 조건과 승리의 필요성이 있어야 하며, 탈출 뒤에도 효과가 남는지는 작품마다 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "병 속 사탕 개수 맞히기",
   "original": "\"Jar of Jellybeans\" Contest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00772",
+  "primary_tag_id": "ML-T00772",
   "description": {
     "definition": "투명한 용기에 가득 든 작은 물건의 개수를 추정하게 하고 정답에 가장 가까운 참가자에게 상을 주는 경연이다.",
     "detail": "물건의 종류와 상품은 달라질 수 있다. 용기와 낱개 크기를 이용한 추정, 무작위 추측, 동일한 용기로 실험하기는 해답을 얻는 방식의 변형이다.\n\n작품 사례: 만화 《[[심슨 가족(만화)]]》에서 리사는 사탕 수를 계산하지만 하나가 유난히 큰 탓에 틀리고, 호머는 곁에서 우연히 정답 숫자를 말해 우승한다.",
@@ -13,19 +13,19 @@
     "boundary": "직접 모두 세도록 하는 과제나 용기의 무게만 맞히는 경연과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "눈앞에 보이는 사탕을 꺼내 세지 않고 몇 개인지 맞힌다.\n\n작품 사례: 만화 《[[심슨 가족(만화)]]》에서 리사는 사탕 수를 계산하지만 하나가 유난히 큰 탓에 틀리고, 호머는 곁에서 우연히 정답 숫자를 말해 우승한다.",
+    "easy_ko": "눈앞에 보이는 사탕을 꺼내 세지 않고 몇 개인지 맞힌다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "물건의 종류와 상품은 달라질 수 있다. 용기와 낱개 크기를 이용한 추정, 무작위 추측, 동일한 용기로 실험하기는 해답을 얻는 방식의 변형이다.\n\n직접 모두 세도록 하는 과제나 용기의 무게만 맞히는 경연과 구별한다.\n\n만화 《[[심슨 가족(만화)]]》에서 리사는 사탕 수를 계산하지만 하나가 유난히 큰 탓에 틀리고, 호머는 곁에서 우연히 정답 숫자를 말해 우승한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "물건의 종류와 상품은 달라질 수 있다. 용기와 낱개 크기를 이용한 추정, 무작위 추측, 동일한 용기로 실험하기는 해답을 얻는 방식의 변형이다.\n\n직접 모두 세도록 하는 과제나 용기의 무게만 맞히는 경연과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "만화 《[[심슨 가족(만화)]]》에서 리사는 사탕 수를 계산하지만 하나가 유난히 큰 탓에 틀리고, 호머는 곁에서 우연히 정답 숫자를 말해 우승한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

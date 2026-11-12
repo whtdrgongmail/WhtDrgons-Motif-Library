@@ -4,8 +4,8 @@
   "title": "끝이 처음으로 돌아가는 가사",
   "original": "Circular Lyrics",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02026",
+  "primary_tag_id": "ML-T02026",
   "description": {
     "definition": "마지막 구절이 첫 상황이나 다음 같은 행동으로 이어져 가사를 다시 시작할 수 있도록 짠 노래 구조다.",
     "detail": "작품 사례: 〈[[The Bear Went Over the Mountain]]〉은 산 너머에서 다시 산을 발견하는 내용이 다음 반복의 출발점으로 되돌아가도록 이어진다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 구절 반복과 달리 내용상의 연결이 순환을 만들어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마지막에 도달한 상황이 첫 구절의 출발 조건과 연결된다. 노래를 끝냈는데도 같은 행동을 다시 시작할 이유가 내용 안에 남는다.\n\n가사의 인과가 반복을 뒷받침하므로 단순히 같은 소리를 되풀이하는 것과 다른 지속성이 생긴다. 끝없는 이동이나 장난스러운 되돌림을 구조 자체로 전달할 수 있다.\n\n후렴이 여러 번 나온다는 사실만으로 해당하지 않는다. 마지막 내용이 처음으로 복귀하는 연결을 실제로 제공해야 한다.\n\n[[The Bear Went Over the Mountain]]은 산 너머의 또 다른 산을 통해 다음 반복으로 이어진다.\n\n[[The Bear Went Over the Mountain]]",
+    "sections": [
+      [
+        "상세 설명",
+        "마지막에 도달한 상황이 첫 구절의 출발 조건과 연결된다. 노래를 끝냈는데도 같은 행동을 다시 시작할 이유가 내용 안에 남는다.\n\n가사의 인과가 반복을 뒷받침하므로 단순히 같은 소리를 되풀이하는 것과 다른 지속성이 생긴다. 끝없는 이동이나 장난스러운 되돌림을 구조 자체로 전달할 수 있다.\n\n후렴이 여러 번 나온다는 사실만으로 해당하지 않는다. 마지막 내용이 처음으로 복귀하는 연결을 실제로 제공해야 한다."
+      ],
+      [
+        "사례",
+        "[[The Bear Went Over the Mountain]]은 산 너머의 또 다른 산을 통해 다음 반복으로 이어진다."
+      ],
+      [
+        "관련 작품",
+        "[[The Bear Went Over the Mountain]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "The Wrong Person Is Hit in the Dark",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "시야가 차단된 동안 공격이 일어나 의도했던 사람과 실제 피해자가 달랐음이 뒤늦게 드러난다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "살해 방법의 현실적 실행법 대신 표적 오인이 추리의 반전이 되는 구조를 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "어둠 때문에 누가 어디에 있는지 확인할 수 없는 동안 공격이 일어나고, 실제 피해자가 예상과 달랐음이 뒤에 드러난다. 공격 의도와 신체의 위치를 구분하지 못한 것이 추리의 반전이 된다.\n\n관객과 수사자는 누가 노려졌는지를 범행 동기의 근거로 삼을 수 있다. 그 전제가 틀리면 같은 행동에 연결한 인물 관계도 다시 검토해야 한다. 시야의 공백은 단순한 분위기보다 잘못된 인과를 만드는 조건이다.\n\n정확히 식별한 대상을 의도적으로 바꾸어 공격한 경우와는 원인이 다르다. 누가 무엇을 보았는지에 따라 고의와 착오의 판단이 달라진다. 실제 실행 방법 대신 정보가 없던 시간이 추론을 어떻게 바꾸는지 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "어둠 때문에 누가 어디에 있는지 확인할 수 없는 동안 공격이 일어나고, 실제 피해자가 예상과 달랐음이 뒤에 드러난다. 공격 의도와 신체의 위치를 구분하지 못한 것이 추리의 반전이 된다.\n\n관객과 수사자는 누가 노려졌는지를 범행 동기의 근거로 삼을 수 있다. 그 전제가 틀리면 같은 행동에 연결한 인물 관계도 다시 검토해야 한다. 시야의 공백은 단순한 분위기보다 잘못된 인과를 만드는 조건이다.\n\n정확히 식별한 대상을 의도적으로 바꾸어 공격한 경우와는 원인이 다르다. 누가 무엇을 보았는지에 따라 고의와 착오의 판단이 달라진다. 실제 실행 방법 대신 정보가 없던 시간이 추론을 어떻게 바꾸는지 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

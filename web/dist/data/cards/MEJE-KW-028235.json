@@ -4,8 +4,8 @@
   "title": "크로스오버 스래시",
   "original": "crossover thrash",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00506",
+  "primary_tag_id": "ML-T00506",
   "description": {
     "definition": "스래시 메탈과 하드코어 펑크의 요소를 결합한 [[음악 양식]]이다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": "현재의 모든 [[메탈코어]]와 같은 명칭으로 취급하지 않는다. 개별 밴드의 전 활동을 한 [[장르]]로 고정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.302.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "스래시 메탈과 하드코어 펑크의 요소를 결합한다. 서로 다른 계열의 특징이 만나는 혼합 원리를 중심으로 이해하는 음악 양식이다.\n\n역사적으로 겹쳐 쓰인 이름과 실제 소리의 구성을 나누어 설명할 수 있다. 개별 곡과 활동 시기에 어떤 결합이 나타나는지 확인해야 한다.\n\n오늘날의 모든 메탈코어와 같은 명칭으로 취급하지 않는다. 한 밴드가 했던 작업 전체를 언제나 같은 장르에 고정하는 것도 피해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "스래시 메탈과 하드코어 펑크의 요소를 결합한다. 서로 다른 계열의 특징이 만나는 혼합 원리를 중심으로 이해하는 음악 양식이다.\n\n역사적으로 겹쳐 쓰인 이름과 실제 소리의 구성을 나누어 설명할 수 있다. 개별 곡과 활동 시기에 어떤 결합이 나타나는지 확인해야 한다.\n\n오늘날의 모든 메탈코어와 같은 명칭으로 취급하지 않는다. 한 밴드가 했던 작업 전체를 언제나 같은 장르에 고정하는 것도 피해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

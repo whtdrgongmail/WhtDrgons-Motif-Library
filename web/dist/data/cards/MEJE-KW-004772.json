@@ -4,19 +4,19 @@
   "title": "추격하며 멀어지는 결말",
   "original": "Chased Off into the Sunset",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00616",
+  "primary_tag_id": "ML-T00616",
   "description": {
-    "definition": "사건이 해결된 뒤 한 인물이 다른 인물을 쫓아 화면 밖으로 사라진다. [[갈등]]을 다시 큰 사건으로 만들지 않고 짧은 소동으로 이야기를 닫는다.",
+    "definition": "사건이 해결된 뒤 한 인물이 다른 인물을 쫓아 화면 밖으로 사라진다. [[갈등]]을 다시 큰 사건으로 만들지 않고 짧은 소동으로 이야기가 끝난다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "05.001.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이야기 마지막에 인물이 다른 인물을 화가 나서 쫓아가며 끝나는 장면이다. 큰 갈등이 해결된 뒤 작은 다툼을 남겨 익숙한 관계와 희극적 분위기를 회복한다.\n\n모욕이나 장난, 앞서 저지른 잘못이 추격의 계기가 된다. 주변 인물이 웃거나 무심히 지켜보면 심각한 위험이 아니라 일상적인 소동이라는 뜻이 강화된다.\n\n추격 자체가 결말의 주된 위기인 경우와는 다르다. 끝부분의 마무리 동작으로 사용되어야 하며 이야기 중간의 짧은 쫓고 쫓김은 같은 위치를 갖지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이야기 마지막에 인물이 다른 인물을 화가 나서 쫓아가며 끝나는 장면이다. 큰 갈등이 해결된 뒤 작은 다툼을 남겨 익숙한 관계와 희극적 분위기를 회복한다.\n\n모욕이나 장난, 앞서 저지른 잘못이 추격의 계기가 된다. 주변 인물이 웃거나 무심히 지켜보면 심각한 위험이 아니라 일상적인 소동이라는 뜻이 강화된다.\n\n추격 자체가 결말의 주된 위기인 경우와는 다르다. 끝부분의 마무리 동작으로 사용되어야 하며 이야기 중간의 짧은 쫓고 쫓김은 같은 위치를 갖지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

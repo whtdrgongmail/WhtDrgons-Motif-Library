@@ -4,8 +4,8 @@
   "title": "일행의 전리품을 먼저 독점하는 참가자",
   "original": "The Ninja Looter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02518",
+  "primary_tag_id": "ML-T02518",
   "description": {
     "definition": "공동 모험에서 얻은 보상을 함께 나누기보다 자신이 가장 많은 양이나 가장 좋은 물건을 먼저 확보하려는 참가자다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "역할과 필요를 고려해 합의한 분배와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.014.001",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "동료에게 필요한 물건이라도 자기 몫부터 챙긴다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "함께 얻은 전리품에서 가장 좋은 물건이나 많은 몫을 먼저 차지하려는 참가자가 있다. 공동의 성취를 개인의 소유로 바꾸는 과정에서 분배의 갈등이 생긴다.\n\n선점 행동은 다른 참가자가 정당한 몫을 받을 수 있다는 기대를 흔든다. 보상을 얻는 데 함께 기여했다는 사실과 보상을 차지하는 방식의 차이가 팀의 신뢰에 영향을 준다.\n\n역할이나 필요를 고려해 합의한 분배와 구별한다. 한 사람이 많이 받았다는 결과보다 합의를 앞질러 자신에게 유리하게 확보하려는 태도가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "함께 얻은 전리품에서 가장 좋은 물건이나 많은 몫을 먼저 차지하려는 참가자가 있다. 공동의 성취를 개인의 소유로 바꾸는 과정에서 분배의 갈등이 생긴다.\n\n선점 행동은 다른 참가자가 정당한 몫을 받을 수 있다는 기대를 흔든다. 보상을 얻는 데 함께 기여했다는 사실과 보상을 차지하는 방식의 차이가 팀의 신뢰에 영향을 준다.\n\n역할이나 필요를 고려해 합의한 분배와 구별한다. 한 사람이 많이 받았다는 결과보다 합의를 앞질러 자신에게 유리하게 확보하려는 태도가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

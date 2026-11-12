@@ -4,8 +4,8 @@
   "title": "만능 해결 수단의 사용 제한",
   "original": "Holding Back the Phlebotinum",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02315",
+  "primary_tag_id": "ML-T02315",
   "description": {
     "definition": "[[갈등]]을 손쉽게 끝낼 강력한 힘이나 도구가 있는데도 이야기의 긴장을 유지하기 위해 반복 사용을 제한하는 구성 방식이다.",
     "detail": "작품 사례: [[The Incredible Hulk]]에서 토르는 전력을 쓰면 통제력을 잃을까 걱정해 이전의 대결들에서 힘을 아꼈다고 밝히며, 강력한 능력의 사용에 스스로 제한을 둔다.",
@@ -13,10 +13,10 @@
     "boundary": "강력한 수단을 아무 설명 없이 잊는 경우나 아직 설정되지 않은 능력과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "28.001.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이미 강력한 해결 능력을 가진 인물에게 부작용과 위험, 조건을 부여해 사용을 제한하는 장치다. 능력의 존재와 매번 사용할 수 없다는 이유가 함께 제시된다.\n\n확립된 수단을 아무 설명 없이 잊는 경우와 다르다. 아직 등장하지 않은 힘도 아니며 제한의 근거가 현재 사건에서 실제 선택에 영향을 주어야 한다.\n\n[[The Incredible Hulk]]의 토르는 전력을 사용하면 통제를 잃을까 우려해 이전 대결에서 힘을 아꼈다고 설명한다. 강력함 자체가 무제한 사용을 보장하지 않는 이유가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이미 강력한 해결 능력을 가진 인물에게 부작용과 위험, 조건을 부여해 사용을 제한하는 장치다. 능력의 존재와 매번 사용할 수 없다는 이유가 함께 제시된다.\n\n확립된 수단을 아무 설명 없이 잊는 경우와 다르다. 아직 등장하지 않은 힘도 아니며 제한의 근거가 현재 사건에서 실제 선택에 영향을 주어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Incredible Hulk]]의 토르는 전력을 사용하면 통제를 잃을까 우려해 이전 대결에서 힘을 아꼈다고 설명한다. 강력함 자체가 무제한 사용을 보장하지 않는 이유가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

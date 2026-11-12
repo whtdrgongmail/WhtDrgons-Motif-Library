@@ -4,17 +4,17 @@
   "title": "Pac-Man",
   "original": "Pac-Man",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "이 카드는 비디오게임 《Pac-Man》를 가리킨다. 이 라이브러리에서는 [[상용구처럼 재사용되는 효과음]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Godzilla의 포효와 Pac-Man의 효과음은 여러 작품에 반복 사용되어, 최초의 작품만이 아니라 관습적인 상황의 소리로도 인식되는 예로 제시된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "노란 인물을 조종해 미로의 점들을 먹으며 네 유령을 피하는 비디오게임이다. 특수한 먹이를 먹으면 짧은 시간 동안 추격 관계가 뒤집혀 유령을 공격할 수 있다.\n\n위험한 상대와 접촉하면 죽지만 제한된 강화 시간에는 같은 경로가 기회가 된다. 고정된 미로에서 이동의 판단과 시간 관리가 결합하는 원래 게임이며, 후대의 [[애니메이션]]과 별개의 매체로 다룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "노란 인물을 조종해 미로의 점들을 먹으며 네 유령을 피하는 비디오게임이다. 특수한 먹이를 먹으면 짧은 시간 동안 추격 관계가 뒤집혀 유령을 공격할 수 있다.\n\n위험한 상대와 접촉하면 죽지만 제한된 강화 시간에는 같은 경로가 기회가 된다. 고정된 미로에서 이동의 판단과 시간 관리가 결합하는 원래 게임이며, 후대의 [[애니메이션]]과 별개의 매체로 다룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

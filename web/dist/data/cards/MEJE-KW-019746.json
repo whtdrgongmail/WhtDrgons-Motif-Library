@@ -5,8 +5,8 @@
   "original": "Listener Reveals Narrator Detailed Recall",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01926",
+  "primary_tag_id": "ML-T01926",
   "description": {
     "definition": "과거 이야기를 듣는 현재 시점의 인물이 화면 속 작은 세부를 언급하여 회고자가 관객에게 보인 장면 전부를 말로 전달했음을 암시한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "단순한 액자식 구성보다 서술 정보의 범위가 드러나는 순간에 초점을 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "과거 이야기를 듣는 현재 인물이 회고 화면의 작은 세부를 언급한다. 관객이 본 장면까지 회고자가 모두 말로 전달했음을 드러내는 장치다.\n\n영상으로 보여 준 정보와 실제로 들었다는 정보의 범위가 연결된다. 질문과 응답을 통해 회고의 전달이 예상보다 자세했음을 알 수 있다.\n\n과거와 현재가 나뉜 액자 구성만으로는 부족하다. 서술의 세밀한 범위가 드러나는 순간이 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "과거 이야기를 듣는 현재 인물이 회고 화면의 작은 세부를 언급한다. 관객이 본 장면까지 회고자가 모두 말로 전달했음을 드러내는 장치다.\n\n영상으로 보여 준 정보와 실제로 들었다는 정보의 범위가 연결된다. 질문과 응답을 통해 회고의 전달이 예상보다 자세했음을 알 수 있다.\n\n과거와 현재가 나뉜 액자 구성만으로는 부족하다. 서술의 세밀한 범위가 드러나는 순간이 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

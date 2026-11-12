@@ -6,8 +6,8 @@
   "aliases": [
     "불멸자를 향한 거리낌 없는 폭력"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "주변 [[인물]]이 대상이 다시 살아난다는 사실을 이유로 그를 죽이거나 희생시키는 일을 가볍게 취급하는 [[관계]] 모티프다.",
     "detail": "작품 사례: 《[[진격의 거인]]》의 리바이는 에렌이 재생한다는 점을 이용해 법정에서 거칠게 폭행하고, 폭주 시 팔다리를 잘라 거인에게서 꺼내는 대응까지 생각한다.",
@@ -15,14 +15,20 @@
     "boundary": "[[회복]] 능력자가 우연히 자주 다치는 경우와 달리 타인이 불사를 알고 생명을 함부로 다루어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "되살아난다는 이유로 같은 사람에게 계속 치명적인 일을 맡긴다.",
     "review_status": "reviewed",
@@ -33,12 +39,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001312",
+      "work_card_id": "MM-MEDIA-002207",
       "description_ko": "《진격의 거인》의 리바이는 에렌이 재생한다는 점을 이용해 법정에서 거칠게 폭행하고, 폭주 시 팔다리를 잘라 거인에게서 꺼내는 대응까지 생각한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "재생이나 불사는 타인의 행동을 바꾸는 조건으로 작동한다. 주변 인물이 대상의 생명이 되돌아온다는 사실을 알고 죽음을 가볍게 다루면, 반복되는 폭력은 능력의 편리함을 드러내는 동시에 그 인물을 사람보다 소모 가능한 자원처럼 취급하는 관계를 보여 준다.\n\n우연히 자주 다치거나 스스로 위험을 감수하는 상황과는 구별해야 한다. 타인이 불사성을 알고 있다는 점, 그 지식 때문에 살해나 희생의 문턱이 낮아졌다는 점이 함께 확인되어야 한다. 회복 능력만으로 관계 모티프를 추정하지 않는다.\n\n《[[진격의 거인]]》의 리바이는 에렌이 재생한다는 점을 이용해 법정에서 거칠게 폭행하고, 폭주 시 팔다리를 잘라 거인에게서 꺼내는 대응까지 생각한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "재생이나 불사는 타인의 행동을 바꾸는 조건으로 작동한다. 주변 인물이 대상의 생명이 되돌아온다는 사실을 알고 죽음을 가볍게 다루면, 반복되는 폭력은 능력의 편리함을 드러내는 동시에 그 인물을 사람보다 소모 가능한 자원처럼 취급하는 관계를 보여 준다.\n\n우연히 자주 다치거나 스스로 위험을 감수하는 상황과는 구별해야 한다. 타인이 불사성을 알고 있다는 점, 그 지식 때문에 살해나 희생의 문턱이 낮아졌다는 점이 함께 확인되어야 한다. 회복 능력만으로 관계 모티프를 추정하지 않는다."
+      ],
+      [
+        "사례",
+        "《[[진격의 거인]]》의 리바이는 에렌이 재생한다는 점을 이용해 법정에서 거칠게 폭행하고, 폭주 시 팔다리를 잘라 거인에게서 꺼내는 대응까지 생각한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

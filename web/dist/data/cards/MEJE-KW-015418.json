@@ -4,8 +4,8 @@
   "title": "주인공이 악당으로 향하는 이야기",
   "original": "Protagonist Journey to Villain",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00693",
+  "primary_tag_id": "ML-T00693",
   "description": {
     "definition": "처음에는 순진하거나 선하게 보였던 중심 인물의 여정을 따라가다 그가 악당이 되는 과정을 목격하게 하는 구조다.",
     "detail": "작품 사례: [[Breaking Bad]]는 가족의 뜻에 순응하던 Walter가 범죄 사업을 시작한 뒤 불안정하고 위협적인 인물로 변해, 아내마저 그를 두려워하게 되는 과정을 따른다.",
@@ -13,10 +13,10 @@
     "boundary": "이미 악한 주인공의 일상이나 조연의 타락과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000135",
+      "work_card_id": "MM-MEDIA-001811",
       "description_ko": "Breaking Bad는 가족의 뜻에 순응하던 Walter가 범죄 사업을 시작한 뒤 불안정하고 위협적인 인물로 변해, 아내마저 그를 두려워하게 되는 과정을 따른다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관객이 중심 인물의 목표와 선택을 따라가는 동안 행동의 윤리적 성격이 달라진다. 초기의 사정을 이해하게 만드는 시점은 유지되더라도, 권력이나 성과를 얻는 과정에서 타인에게 주는 위협이 커지면 그 여정은 악역화의 과정이 된다.\n\n이미 악한 인물의 생활을 보여 주는 이야기와는 출발점과 변화의 비중이 다르다. 조연의 타락이 잠깐 제시되는 경우보다 주인공의 선택들이 누적되어 관계와 결말을 바꾸는 구조가 중요하다.\n\n[[Breaking Bad]]는 가족의 뜻에 순응하던 Walter가 범죄 사업을 시작한 뒤 불안정하고 위협적인 인물로 변해, 아내마저 그를 두려워하게 되는 과정을 따른다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관객이 중심 인물의 목표와 선택을 따라가는 동안 행동의 윤리적 성격이 달라진다. 초기의 사정을 이해하게 만드는 시점은 유지되더라도, 권력이나 성과를 얻는 과정에서 타인에게 주는 위협이 커지면 그 여정은 악역화의 과정이 된다.\n\n이미 악한 인물의 생활을 보여 주는 이야기와는 출발점과 변화의 비중이 다르다. 조연의 타락이 잠깐 제시되는 경우보다 주인공의 선택들이 누적되어 관계와 결말을 바꾸는 구조가 중요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Breaking Bad]]는 가족의 뜻에 순응하던 Walter가 범죄 사업을 시작한 뒤 불안정하고 위협적인 인물로 변해, 아내마저 그를 두려워하게 되는 과정을 따른다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

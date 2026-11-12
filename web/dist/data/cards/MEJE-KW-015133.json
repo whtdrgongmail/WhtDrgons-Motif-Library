@@ -4,8 +4,8 @@
   "title": "아이들의 몰래 음주",
   "original": "Kids Raiding the Wine Cabinet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00814",
+  "primary_tag_id": "ML-T00814",
   "description": {
     "definition": "아이들이 어른의 술 보관 장소에서 몰래 술을 가져와 마시며 금지된 어른의 행동을 시험하는 장면이다.",
     "detail": "작품 사례: 《[[Dæmorphing]]》에서 애니모프 일행은 크레프 마그로 물러날 때 노라의 리몬첼로 병을 몰래 가져가고 이후 돌려 마신다. 어른의 술을 무단으로 가져와 나누는 행동이 드러난다.",
@@ -13,10 +13,10 @@
     "boundary": "아이에게 술이 실수로 제공되는 경우와 달리 은밀한 시도가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.010.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "아이들이 어른의 술을 몰래 가져와 나누거나 음주를 시도하는 사건이다. 금지의 위반과 어른의 행동을 흉내 내려는 욕구가 후속 결과를 만들 수 있다.\n\n실수로 술을 제공받은 상황과 다르다. 아이들의 은밀한 시도가 있어야 하며 현실에서의 권장 행동과 구분해 서사의 동기와 여파를 설명한다.\n\n《[[Dæmorphing]]》의 애니모프 일행은 크레프 마그로 물러날 때 노라의 리몬첼로를 몰래 가져간다. 이후 병을 돌려 마시는 행동이 무단 취득과 집단 음주를 연결한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "아이들이 어른의 술을 몰래 가져와 나누거나 음주를 시도하는 사건이다. 금지의 위반과 어른의 행동을 흉내 내려는 욕구가 후속 결과를 만들 수 있다.\n\n실수로 술을 제공받은 상황과 다르다. 아이들의 은밀한 시도가 있어야 하며 현실에서의 권장 행동과 구분해 서사의 동기와 여파를 설명한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Dæmorphing]]》의 애니모프 일행은 크레프 마그로 물러날 때 노라의 리몬첼로를 몰래 가져간다. 이후 병을 돌려 마시는 행동이 무단 취득과 집단 음주를 연결한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

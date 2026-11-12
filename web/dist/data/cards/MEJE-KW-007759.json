@@ -4,8 +4,8 @@
   "title": "같은 말을 두 번 쓴 제목",
   "original": "\"Double, Double\" Title",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "한 단어를 반복해 제목을 만들고 리듬이나 이중의 암시를 준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 단어를 두 번 반복해 구성한 제목이다. 짧은 어휘의 재현이 리듬과 강조, 묘한 낯섦을 만든다.\n\n이야기 안에 같은 대상이 둘 있다는 암시나 익숙한 구절의 연상이 가능하다. 주문과 노래처럼 들리는 반복은 환상적인 분위기를 더하고 지나치게 단순한 작명 자체가 농담이 되기도 한다.\n\n반복만으로 창작 의도를 확정할 수는 없다. 강조와 수량, 언어적 리듬의 효과를 구분해야 하며 비슷한 두 단어를 나란히 쓴 제목과도 형식이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 단어를 두 번 반복해 구성한 제목이다. 짧은 어휘의 재현이 리듬과 강조, 묘한 낯섦을 만든다.\n\n이야기 안에 같은 대상이 둘 있다는 암시나 익숙한 구절의 연상이 가능하다. 주문과 노래처럼 들리는 반복은 환상적인 분위기를 더하고 지나치게 단순한 작명 자체가 농담이 되기도 한다.\n\n반복만으로 창작 의도를 확정할 수는 없다. 강조와 수량, 언어적 리듬의 효과를 구분해야 하며 비슷한 두 단어를 나란히 쓴 제목과도 형식이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

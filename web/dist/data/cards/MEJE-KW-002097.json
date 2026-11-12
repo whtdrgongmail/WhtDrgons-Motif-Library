@@ -4,8 +4,8 @@
   "title": "어리석게 반응하는 게임 인물",
   "original": "Artificial Stupidity",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02530",
+  "primary_tag_id": "ML-T02530",
   "description": {
     "definition": "[[컴퓨터]]가 조종하는 적이나 동료가 눈앞의 상황을 잘못 판단해 비효율적인 행동을 한다. [[세계관]] 속 인물의 성격과 게임 판단 규칙의 허점을 구분한다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "[[컴퓨터]]가 조종하는 동료가 불길 속에 계속 서 있거나 적이 문 앞 장애물에 막힌 채 달리기만 하는 모습이다. 이야기에서 일부러 어리석게 설정한 인물과 달리 행동 판단의 허점 때문에 발생하며 전투의 위협이나 동료에 대한 신뢰를 떨어뜨릴 수 있다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "컴퓨터가 조종하는 인물이 상황을 제대로 읽지 못해 어리석게 행동한다. 주변을 감지하더라도 벽으로 돌진하거나 명백한 위험에 같은 대응을 반복한다.\n\n플레이어에게 유리한 허점이 되거나 몰입을 깨는 원인이 된다. [[게임 인공지능]]의 실패를 다루는 개념으로, 일부러 단순한 패턴을 가진 적과 예상치 못한 판단 오류는 구별해서 볼 필요가 있다.\n\n정해진 행동을 그대로 반복하는 적과 무작위로 행동을 고르는 적은 처음부터 판단 기능이 적다. 상황에 맞춰 선택하도록 만든 인공지능이 부적절한 선택을 할 때 어리석음이 더 두드러진다.\n\n개발자의 실수뿐 아니라 난도를 낮추려고 선택 능력을 제한한 결과일 수도 있다. 한 번의 이상 행동과 일관되게 잘못된 결정을 반복하는 경향도 구별된다. 무엇을 할 수 있도록 설계했는지 알아야 기대와 실제 행동의 차이를 설명할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "컴퓨터가 조종하는 인물이 상황을 제대로 읽지 못해 어리석게 행동한다. 주변을 감지하더라도 벽으로 돌진하거나 명백한 위험에 같은 대응을 반복한다.\n\n플레이어에게 유리한 허점이 되거나 몰입을 깨는 원인이 된다. [[게임 인공지능]]의 실패를 다루는 개념으로, 일부러 단순한 패턴을 가진 적과 예상치 못한 판단 오류는 구별해서 볼 필요가 있다.\n\n정해진 행동을 그대로 반복하는 적과 무작위로 행동을 고르는 적은 처음부터 판단 기능이 적다. 상황에 맞춰 선택하도록 만든 인공지능이 부적절한 선택을 할 때 어리석음이 더 두드러진다.\n\n개발자의 실수뿐 아니라 난도를 낮추려고 선택 능력을 제한한 결과일 수도 있다. 한 번의 이상 행동과 일관되게 잘못된 결정을 반복하는 경향도 구별된다. 무엇을 할 수 있도록 설계했는지 알아야 기대와 실제 행동의 차이를 설명할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

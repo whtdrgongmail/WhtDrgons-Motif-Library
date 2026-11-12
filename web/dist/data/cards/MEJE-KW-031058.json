@@ -4,8 +4,8 @@
   "title": "인물이 잠시 장애를 경험하는 이야기",
   "original": "Temporary Blindness",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00936",
+  "primary_tag_id": "ML-T00936",
   "description": {
     "definition": "인물이 일정 기간 어떤 기능의 상실이나 장애를 경험하고 그 상태를 이야기의 중심 상황으로 겪는 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "원어는 실명을 가리키지만 현재 항목의 설명은 일시적인 장애 전반을 포함한다. 장애를 벌이나 도덕적 결함으로 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "09.006.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기능을 일시적으로 잃은 상태가 한동안 인물의 생활을 규정한다. 기간이 제한된 장애 경험을 중심에 놓은 이야기다.\n\n원래와 다른 신체적 조건이 인물의 활동과 주변 환경의 관계를 바꾼다. 적응의 과정과 타인의 반응이 이야기의 중심이 되어 환경의 장벽을 드러낼 수 있다.\n\n원어의 실명보다 넓은 장애를 다루는 카드 범위를 따르며 기능 상실을 벌과 도덕적 결함의 증거로 보지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기능을 일시적으로 잃은 상태가 한동안 인물의 생활을 규정한다. 기간이 제한된 장애 경험을 중심에 놓은 이야기다.\n\n원래와 다른 신체적 조건이 인물의 활동과 주변 환경의 관계를 바꾼다. 적응의 과정과 타인의 반응이 이야기의 중심이 되어 환경의 장벽을 드러낼 수 있다.\n\n원어의 실명보다 넓은 장애를 다루는 카드 범위를 따르며 기능 상실을 벌과 도덕적 결함의 증거로 보지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

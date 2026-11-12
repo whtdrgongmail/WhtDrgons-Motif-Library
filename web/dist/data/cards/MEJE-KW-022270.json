@@ -4,8 +4,8 @@
   "title": "문명이 끝나기 직전의 세계",
   "original": "Just Before the End",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01219",
+  "primary_tag_id": "ML-T01219",
   "description": {
     "definition": "사회 기능은 일부 남아 있지만 파국이 가까워지고 회복보다 붕괴가 예상되는 시기를 세계의 현재로 삼는다.",
     "detail": "작품 사례: 《[[칠드런 오브 맨]]》은 오랫동안 아이가 태어나지 않으면서 인구와 사회가 쇠퇴하는 시대를 보여준다. 아직 남아 있는 일상이 인류의 미래가 끝나 간다는 감각과 함께 제시된다.",
@@ -13,10 +13,10 @@
     "boundary": "재난이 이미 시작되었어도 최종적 붕괴까지 효과가 진행 중이면 포함한다. 완전히 붕괴한 뒤의 생존 세계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "문명의 마지막 시기에는 교통과 거래 같은 사회 기능이 아직 남아 있어도 그것이 오래 지속되지 못하리라는 전망이 현재를 지배한다. 다가오는 재난이나 진행 중인 붕괴 때문에 평범한 생활과 종말 대비가 한 공간에 공존한다. 이미 사회가 완전히 사라진 뒤의 생존담과는 출발점이 다르며, 재난이 시작되었다고 해서 반드시 붕괴 이후의 세계가 되는 것도 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "문명의 마지막 시기에는 교통과 거래 같은 사회 기능이 아직 남아 있어도 그것이 오래 지속되지 못하리라는 전망이 현재를 지배한다. 다가오는 재난이나 진행 중인 붕괴 때문에 평범한 생활과 종말 대비가 한 공간에 공존한다. 이미 사회가 완전히 사라진 뒤의 생존담과는 출발점이 다르며, 재난이 시작되었다고 해서 반드시 붕괴 이후의 세계가 되는 것도 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

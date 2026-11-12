@@ -5,8 +5,8 @@
   "original": "Stealing a Life for the Same Amount of Time",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02560",
+  "primary_tag_id": "ML-T02560",
   "description": {
     "definition": "피해자에게 남은 수명의 양이 같은 양으로 흡수자의 수명에 추가된다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "생명 소비의 효율에 관한 허구의 규칙이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.011",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "피해자의 잔여 수명을 빼앗은 만큼 흡수자의 수명에 더한다. 생존 시간의 이동이 동일한 양으로 이루어지는 허구적 교환이다.\n\n오래 살 가능성이 있는 대상을 노릴 유인이 생겨 수명은 보호해야 할 개인의 조건이면서 약탈의 자원이 된다. 한 사람의 연장이 다른 사람의 미래를 정확히 줄인다는 대칭이 비용을 명확하게 만든다.\n\n많이 빼앗아도 조금만 얻는 비효율적 흡수와는 다르다. 수명이 정해진 양으로 존재한다는 전제는 작품의 규칙이며 현실의 생명과 시간을 계산하는 방법이 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "피해자의 잔여 수명을 빼앗은 만큼 흡수자의 수명에 더한다. 생존 시간의 이동이 동일한 양으로 이루어지는 허구적 교환이다.\n\n오래 살 가능성이 있는 대상을 노릴 유인이 생겨 수명은 보호해야 할 개인의 조건이면서 약탈의 자원이 된다. 한 사람의 연장이 다른 사람의 미래를 정확히 줄인다는 대칭이 비용을 명확하게 만든다.\n\n많이 빼앗아도 조금만 얻는 비효율적 흡수와는 다르다. 수명이 정해진 양으로 존재한다는 전제는 작품의 규칙이며 현실의 생명과 시간을 계산하는 방법이 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

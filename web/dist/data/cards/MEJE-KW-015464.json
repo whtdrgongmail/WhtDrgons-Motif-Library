@@ -4,8 +4,8 @@
   "title": "배신을 후회하고 되갚으려는 인물",
   "original": "Regretful Traitor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01032",
+  "primary_tag_id": "ML-T01032",
   "description": {
     "definition": "동료나 소속을 배신한 뒤 자신의 선택을 후회하여 피해를 보상하고 관계를 바로잡으려는 인물이다.",
     "detail": "작품 사례: [[Monarch: Legacy of Monsters]]의 May는 Cate에게 점차 다정하게 대하다가, 다음 회차에서 자신이 배신했음을 후회하며 Cate와 Kentaro에게 고백한다.",
@@ -13,10 +13,10 @@
     "boundary": "배신이 불리해져 다시 편을 바꾸는 기회주의와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.008.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "배신 뒤의 후회가 고백이나 보상 행동으로 이어지면서 관계를 바로잡으려는 방향이 나타난다. 단순히 원래 진영으로 돌아오는 결과보다 자신이 준 피해를 인정하고 책임지려는 동기가 중요하다.\n\n배신이 불리해졌기 때문에 다시 편을 바꾸는 기회주의와 구별해야 한다. 진심으로 후회해도 신뢰가 곧 회복되거나 피해자가 복귀를 받아들여야 하는 것은 아니며, 후회와 실제 보상의 정도도 별개다.\n\n[[Monarch: Legacy of Monsters]]의 May는 Cate에게 점차 다정하게 대하다가, 다음 회차에서 자신이 배신했음을 후회하며 Cate와 Kentaro에게 고백한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "배신 뒤의 후회가 고백이나 보상 행동으로 이어지면서 관계를 바로잡으려는 방향이 나타난다. 단순히 원래 진영으로 돌아오는 결과보다 자신이 준 피해를 인정하고 책임지려는 동기가 중요하다.\n\n배신이 불리해졌기 때문에 다시 편을 바꾸는 기회주의와 구별해야 한다. 진심으로 후회해도 신뢰가 곧 회복되거나 피해자가 복귀를 받아들여야 하는 것은 아니며, 후회와 실제 보상의 정도도 별개다."
+      ],
+      [
+        "관련 작품",
+        "[[Monarch: Legacy of Monsters]]의 May는 Cate에게 점차 다정하게 대하다가, 다음 회차에서 자신이 배신했음을 후회하며 Cate와 Kentaro에게 고백한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

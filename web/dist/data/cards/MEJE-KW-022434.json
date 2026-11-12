@@ -5,8 +5,8 @@
   "original": "Killing Everyone Who Knows the Secret",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "비밀의 누설 가능성을 없애기 위해 그 내용을 아는 사람들을 살해하는 행동이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "불명확한 위험 인물의 제거와 달리 특정 정보의 유출 방지가 목적이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 비밀을 아는 사람을 죽여 누설을 막는다. 정보 통제를 위해 생명을 제거하는 극단적인 입막음이다.\n\n대상이 무엇을 알고 있다는 사실이 공격의 직접적인 이유가 된다. 누가 그 정보를 잃거나 감추려 하는지에 따라 악역의 권력 관계가 드러난다.\n\n막연히 위험한 사람을 없애는 경우와 다르다. 구체적인 정보의 유출 방지가 목적이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 비밀을 아는 사람을 죽여 누설을 막는다. 정보 통제를 위해 생명을 제거하는 극단적인 입막음이다.\n\n대상이 무엇을 알고 있다는 사실이 공격의 직접적인 이유가 된다. 누가 그 정보를 잃거나 감추려 하는지에 따라 악역의 권력 관계가 드러난다.\n\n막연히 위험한 사람을 없애는 경우와 다르다. 구체적인 정보의 유출 방지가 목적이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

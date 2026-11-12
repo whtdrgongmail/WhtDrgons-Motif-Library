@@ -5,8 +5,8 @@
   "original": "Telling the Scene to Save on Production",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "행동이나 사건을 직접 그리거나 촬영하는 대신 대사로 설명하여 장면 제작량을 줄이는 방식이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "원문 링크명 Show, Don’t Tell의 정방향 원칙과 반대인 생략 용례를 설명하므로 별도 개념으로 기록한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "행동이나 사건을 직접 보여 주는 장면 대신 대사의 설명으로 전달하여 제작량을 줄인다. 관객에게 주는 사건 정보와 실제로 제작하는 화면의 분량이 분리된다.\n\n보이지 않는 사건은 말하는 인물의 설명에 의존하게 된다. 작화나 촬영 자원을 절약하는 선택이 관객의 시각적 경험과 정보의 전달 방식도 바꾼다.\n\n모든 설명 대사가 자원 절약을 위한 것은 아니다. 직접 제시할 장면을 말로 대신한다는 제작상의 기능이 확인될 때 해당하며 일반적인 시각적 서사 원칙과 반대 방향의 용례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "행동이나 사건을 직접 보여 주는 장면 대신 대사의 설명으로 전달하여 제작량을 줄인다. 관객에게 주는 사건 정보와 실제로 제작하는 화면의 분량이 분리된다.\n\n보이지 않는 사건은 말하는 인물의 설명에 의존하게 된다. 작화나 촬영 자원을 절약하는 선택이 관객의 시각적 경험과 정보의 전달 방식도 바꾼다.\n\n모든 설명 대사가 자원 절약을 위한 것은 아니다. 직접 제시할 장면을 말로 대신한다는 제작상의 기능이 확인될 때 해당하며 일반적인 시각적 서사 원칙과 반대 방향의 용례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

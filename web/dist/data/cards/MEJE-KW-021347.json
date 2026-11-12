@@ -4,8 +4,8 @@
   "title": "지나친 고요함에서 위험을 감지하기",
   "original": "It's Quiet… Too Quiet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00692",
+  "primary_tag_id": "ML-T00692",
   "description": {
     "definition": "위험이나 소란이 예상되는 상황이 뜻밖에 조용하자, 인물이 그 부재 자체를 이상 징후로 받아들이는 장면이다.",
     "detail": "작품 사례: 《[[원피스]]》에서 왕의 퇴위 소식과 달리 드레스로사가 지나치게 평온하자, 인물들은 발표가 거짓임을 알아차린다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 조용한 풍경과 다르다. 예상했던 활동이나 소리가 없다는 불일치가 필요하며 실제 위협의 유무는 달라질 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "06",
+    "code": "06.003.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》에서 왕의 퇴위 소식과 달리 드레스로사가 지나치게 평온하자, 인물들은 발표가 거짓임을 알아차린다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위험과 소란이 예상되는 장소가 지나치게 조용하자 그 부재를 이상 징후로 받아들이는 장면이다. 아무 일도 없다는 사실이 안심보다 경계의 이유가 된다.\n\n대사로 고요함을 지적하면 관객도 다음 소리와 움직임에 집중하게 된다. 곧 습격이 일어나면 예감이 확인되고, 아무 일도 없거나 사소한 소리가 나면 긴장을 이용한 농담으로 전환할 수 있다.\n\n단순히 조용한 풍경을 보여 주는 것과는 다르다. 원래 있어야 할 신호가 없다는 기대의 불일치가 중요하며, 익숙한 문구를 과장하거나 구체적인 이유를 덧붙여 관습 자체를 변형할 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위험과 소란이 예상되는 장소가 지나치게 조용하자 그 부재를 이상 징후로 받아들이는 장면이다. 아무 일도 없다는 사실이 안심보다 경계의 이유가 된다.\n\n대사로 고요함을 지적하면 관객도 다음 소리와 움직임에 집중하게 된다. 곧 습격이 일어나면 예감이 확인되고, 아무 일도 없거나 사소한 소리가 나면 긴장을 이용한 농담으로 전환할 수 있다.\n\n단순히 조용한 풍경을 보여 주는 것과는 다르다. 원래 있어야 할 신호가 없다는 기대의 불일치가 중요하며, 익숙한 문구를 과장하거나 구체적인 이유를 덧붙여 관습 자체를 변형할 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

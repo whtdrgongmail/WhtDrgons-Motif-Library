@@ -4,8 +4,8 @@
   "title": "창피해서 나가지 못하는 은신",
   "original": "Hiding from Embarrassment",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02601",
+  "primary_tag_id": "ML-T02601",
   "description": {
     "definition": "물리적으로는 나갈 수 있지만 밖에 있는 사람에게 모습을 보이면 난처해질 상황 때문에 방이나 은신처에 계속 머무는 전개다. 지체할수록 오래 숨어 있던 이유까지 설명해야 해 탈출이 더 어려워진다.",
     "detail": "작품 사례: [[In the Mood for Love]]에서 차우와 찬 부인은 방에서 나오면 밤새 마작을 하는 집주인들에게 불륜으로 오해받을까 봐, 신체적 방해가 없어도 함께 밤을 보낸다.",
@@ -13,10 +13,10 @@
     "boundary": "문이 잠겨 실제로 갇힌 상황이나 신체적 위험 때문에 숨는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "출구가 열려 있어도 밖의 시선을 마주하기 어렵다면 인물은 스스로 은신을 연장한다. 오래 머물수록 지금 나가는 이유뿐 아니라 앞서 숨어 있던 이유도 설명해야 해 부담이 커진다.\n\n잠금장치에 갇히거나 신체의 위험 때문에 숨는 상황과는 장애의 성질이 다르다. 밖에 나갔을 때 생길 오해와 사회적인 당혹감이 이동을 막는 원인이어야 한다.\n\n[[In the Mood for Love]]의 차우와 찬 부인은 집주인들이 밤새 마작하는 동안 방을 나오지 못한다. 함께 있다가 불륜으로 오해받을까 염려하여 물리적 장벽 없이도 밤을 보내게 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "출구가 열려 있어도 밖의 시선을 마주하기 어렵다면 인물은 스스로 은신을 연장한다. 오래 머물수록 지금 나가는 이유뿐 아니라 앞서 숨어 있던 이유도 설명해야 해 부담이 커진다.\n\n잠금장치에 갇히거나 신체의 위험 때문에 숨는 상황과는 장애의 성질이 다르다. 밖에 나갔을 때 생길 오해와 사회적인 당혹감이 이동을 막는 원인이어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[In the Mood for Love]]의 차우와 찬 부인은 집주인들이 밤새 마작하는 동안 방을 나오지 못한다. 함께 있다가 불륜으로 오해받을까 염려하여 물리적 장벽 없이도 밤을 보내게 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

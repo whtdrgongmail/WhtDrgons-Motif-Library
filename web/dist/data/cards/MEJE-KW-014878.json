@@ -4,8 +4,8 @@
   "title": "치유의 힘이 언데드에게 피해 주기",
   "original": "Revive Kills Zombie",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01212",
+  "primary_tag_id": "ML-T01212",
   "description": {
     "definition": "살아 있는 존재에게 생명과 회복을 주는 힘이 언데드나 불경한 존재에게는 손상과 소멸을 일으키는 규칙이다.",
     "detail": "작품 사례: [[Minecraft]]의 투척용 [[회복 물약]]은 범위 안의 살아 있는 대상을 회복시키지만, 같은 범위의 언데드에게는 피해를 준다.",
@@ -13,10 +13,10 @@
     "boundary": "누구에게나 위험한 신성한 힘이나 단순한 빛 공격과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000605",
+      "work_card_id": "MM-MEDIA-001349",
       "description_ko": "Minecraft의 투척용 회복 물약은 범위 안의 살아 있는 대상을 회복시키지만, 같은 범위의 언데드에게는 피해를 준다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "살아 있는 존재에게 회복을 주는 효과가 언데드에게는 손상으로 작용하는 규칙이다. 힘 자체보다 대상의 생명과 존재 방식이 효과의 방향을 결정한다.\n\n누구에게나 위험한 신성의 힘과 다르다. 단순한 빛 공격도 아니며 같은 회복 효과가 대상에 따라 반대로 처리되어야 한다.\n\n[[Minecraft]]의 투척용 [[회복 물약]]은 범위 안의 살아 있는 대상을 회복한다. 동시에 범위의 언데드에게는 피해를 주어 한 효과의 양면성을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "살아 있는 존재에게 회복을 주는 효과가 언데드에게는 손상으로 작용하는 규칙이다. 힘 자체보다 대상의 생명과 존재 방식이 효과의 방향을 결정한다.\n\n누구에게나 위험한 신성의 힘과 다르다. 단순한 빛 공격도 아니며 같은 회복 효과가 대상에 따라 반대로 처리되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Minecraft]]의 투척용 [[회복 물약]]은 범위 안의 살아 있는 대상을 회복한다. 동시에 범위의 언데드에게는 피해를 주어 한 효과의 양면성을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "이름 없는 도시",
   "original": "City with No Name",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01952",
+  "primary_tag_id": "ML-T01952",
   "description": {
     "definition": "작품의 주요 배경인 도시가 끝내 고유 이름으로 불리지 않는다. 장소의 익명성이 여러 현실 도시를 겹쳐 읽게 하거나 보편적인 무대로 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주요 배경이 되는 도시를 고유 이름으로 부르지 않는 설정이다. 사람들은 그곳을 일반적인 도시나 별칭으로 지칭하며 장소의 공식 명칭은 이야기 안에서 비어 있다.\n\n실제 어느 도시인지보다 사건과 분위기에 관심을 모으거나 여러 현실 장소의 특징을 겹칠 여지를 준다. 이름이 없더라도 거리와 주민의 반복 등장으로 충분히 구체적인 생활 공간이 될 수 있다.\n\n[[세계관]]에서 이름은 있지만 지리적 위치가 불명확한 경우와 구분한다. 실제 장소를 쉽게 알아볼 수 있도록 가명만 붙인 설정과도 다르며, 한 장면에 이름이 안 나왔다는 사실만으로 확정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주요 배경이 되는 도시를 고유 이름으로 부르지 않는 설정이다. 사람들은 그곳을 일반적인 도시나 별칭으로 지칭하며 장소의 공식 명칭은 이야기 안에서 비어 있다.\n\n실제 어느 도시인지보다 사건과 분위기에 관심을 모으거나 여러 현실 장소의 특징을 겹칠 여지를 준다. 이름이 없더라도 거리와 주민의 반복 등장으로 충분히 구체적인 생활 공간이 될 수 있다.\n\n[[세계관]]에서 이름은 있지만 지리적 위치가 불명확한 경우와 구분한다. 실제 장소를 쉽게 알아볼 수 있도록 가명만 붙인 설정과도 다르며, 한 장면에 이름이 안 나왔다는 사실만으로 확정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

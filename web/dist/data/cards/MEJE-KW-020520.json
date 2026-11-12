@@ -4,39 +4,56 @@
   "title": "그와 비교하면 비교 대상에게 모욕이라는 말",
   "original": "Insult to Rocks",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02597",
+  "primary_tag_id": "ML-T02597",
   "description": {
     "definition": "누군가를 낮은 가치의 대상에 빗대려다가 그 대상에게도 실례가 될 만큼 상대가 더 못하다고 강조하는 모욕 방식이다.",
     "detail": "비유를 취소하거나 대상에게 사과하기, 실제 대상이 항의하기, 비교 대상의 장점을 제시하기, 자기 결점보다도 상대가 더 심하다고 말하기 등으로 변형한다.\n\n작품 사례: 《[[파워 디지몬]]》에서 정우가 키메라몬을 풀어놓자, 재하와 추추몬은 그가 자신이 만든 괴물보다 더 괴물 같다고 지적한다.",
     "usage": "비교의 방향을 한 번 더 뒤집어 경멸의 강도와 대사의 희극성을 높인다.",
-    "boundary": "단순히 다른 대상과 같다고 욕하는 경우와 구별한다. 비교 대상이 오히려 존중받을 만하다는 반전이 필요하다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "상대를 돌에 빗댄 뒤 돌에게 미안하다며 비유보다 더 나쁜 평가를 덧붙인다.\n\n작품 사례: 《[[파워 디지몬]]》에서 정우가 키메라몬을 풀어놓자, 재하와 추추몬은 그가 자신이 만든 괴물보다 더 괴물 같다고 지적한다.",
+    "easy_ko": "상대를 돌에 빗댄 뒤 돌에게 미안하다며 비유보다 더 나쁜 평가를 덧붙인다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001362",
+      "work_card_id": "MM-MEDIA-002522",
       "description_ko": "《파워 디지몬》에서 정우가 키메라몬을 풀어놓자, 재하와 추추몬은 그가 자신이 만든 괴물보다 더 괴물 같다고 지적한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비유를 취소하거나 대상에게 사과하기, 실제 대상이 항의하기, 비교 대상의 장점을 제시하기, 자기 결점보다도 상대가 더 심하다고 말하기 등으로 변형한다.\n\n단순히 다른 대상과 같다고 욕하는 경우와 구별한다. 비교 대상이 오히려 존중받을 만하다는 반전이 필요하다.\n\n《[[파워 디지몬]]》에서 정우가 키메라몬을 풀어놓자, 재하와 추추몬은 그가 자신이 만든 괴물보다 더 괴물 같다고 지적한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "비유를 취소하거나 대상에게 사과하기, 실제 대상이 항의하기, 비교 대상의 장점을 제시하기, 자기 결점보다도 상대가 더 심하다고 말하기 등으로 변형한다.\n\n단순히 다른 대상과 같다고 욕하는 경우와 구별한다. 비교 대상이 오히려 존중받을 만하다는 반전이 필요하다."
+      ],
+      [
+        "관련 작품",
+        "《[[파워 디지몬]]》에서 정우가 키메라몬을 풀어놓자, 재하와 추추몬은 그가 자신이 만든 괴물보다 더 괴물 같다고 지적한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

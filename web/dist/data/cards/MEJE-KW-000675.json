@@ -4,8 +4,8 @@
   "title": "평범한 연인과 초자연적 연인 사이의 선택",
   "original": "Muggle and Magical Love Triangle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00985",
+  "primary_tag_id": "ML-T00985",
   "description": {
     "definition": "한 인물이 평범한 삶을 함께할 상대와 초자연 세계에 속한 상대 사이에서 관계를 선택하는 삼각 구도. 사랑의 선택이 어떤 세계에 살 것인가의 선택으로 커질 수 있다. [[평범한 인물에게 찾아온 신비한 연인]]은 둘 중 한 관계에 초점을 둔 설정이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람이 일상의 삶을 함께할 연인 후보와 낯선 초자연 세계에 속한 후보 사이에서 고민하는 구도다. 누구를 사랑하는지뿐 아니라 익숙한 생활을 지킬지 다른 삶을 감당할지가 함께 문제 되며, 두 후보에게 독립적인 선택과 거절의 여지도 있어야 한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평범한 세계의 연인과 초자연적 세계의 연인 사이에서 관계를 선택하는 구도다. 한 사람의 선택이 어느 생활과 위험을 받아들일지의 문제로 확대될 수 있다.\n\n특별한 힘의 매력과 일상의 안정은 작품이 어떻게 묘사하는지에 따라 가치가 달라진다. [[평범한 인물에게 찾아온 신비한 연인]]은 한 관계의 진입에 중심이 있으므로 다르며, 평범한 상대가 덜 중요한 사람이라고 자동으로 평가하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평범한 세계의 연인과 초자연적 세계의 연인 사이에서 관계를 선택하는 구도다. 한 사람의 선택이 어느 생활과 위험을 받아들일지의 문제로 확대될 수 있다.\n\n특별한 힘의 매력과 일상의 안정은 작품이 어떻게 묘사하는지에 따라 가치가 달라진다. [[평범한 인물에게 찾아온 신비한 연인]]은 한 관계의 진입에 중심이 있으므로 다르며, 평범한 상대가 덜 중요한 사람이라고 자동으로 평가하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

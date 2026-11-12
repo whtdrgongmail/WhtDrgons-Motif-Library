@@ -4,8 +4,8 @@
   "title": "호위가 중심인 게임",
   "original": "Escort Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008782",
+  "primary_tag_id": "MEJE-KW-008782",
   "description": {
     "definition": "누군가를 보호하고 안전하게 이끄는 행동이 게임 전반의 핵심 목표와 규칙인 갈래다. [[대상을 보호하며 이동하는 임무]]은 호위가 게임 전체가 아니라 특정 구간의 목표로 나타나는 경우다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.210.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "game_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "호위가 중심인 게임에서는 보호 대상의 생존과 이동이 지속적인 플레이 목표가 된다. 플레이어는 적의 위치와 경로, 대상의 속도나 취약성을 고려해 위험을 줄여야 하며, 보호 대상이 움직이는 방식은 전투·이동·자원 관리의 선택을 바꾼다. 성공 여부가 단순한 처치 수보다 안전한 도착과 보호 상태에 달리는 구조다.\n\n한 임무에서 잠시 호위를 맡는 것과 게임 전체의 설계 원리가 호위에 놓인 경우를 구별해야 한다. 대상이 한 구간에만 등장한다면 [[대상을 보호하며 이동하는 임무]]가 더 정확한 범주일 수 있다. 반대로 여러 단계에서 보호 책임과 동행 경로가 반복되어 게임의 난도와 전략을 좌우하면 호위 중심 게임으로 설명할 근거가 생긴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "호위가 중심인 게임에서는 보호 대상의 생존과 이동이 지속적인 플레이 목표가 된다. 플레이어는 적의 위치와 경로, 대상의 속도나 취약성을 고려해 위험을 줄여야 하며, 보호 대상이 움직이는 방식은 전투·이동·자원 관리의 선택을 바꾼다. 성공 여부가 단순한 처치 수보다 안전한 도착과 보호 상태에 달리는 구조다.\n\n한 임무에서 잠시 호위를 맡는 것과 게임 전체의 설계 원리가 호위에 놓인 경우를 구별해야 한다. 대상이 한 구간에만 등장한다면 [[대상을 보호하며 이동하는 임무]]가 더 정확한 범주일 수 있다. 반대로 여러 단계에서 보호 책임과 동행 경로가 반복되어 게임의 난도와 전략을 좌우하면 호위 중심 게임으로 설명할 근거가 생긴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

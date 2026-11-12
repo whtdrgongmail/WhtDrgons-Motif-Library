@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "오버워치",
   "original": "Overwatch",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Overwatch"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《오버워치》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《오버워치》의 자리야는 시베리아 출신의 역도 선수이자 군인으로, 거대한 입자포를 들고 아군을 보호하는 방어 역할을 맡는다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -38,6 +40,10 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-013140",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-011776",
       "row_version": 1
@@ -71,5 +77,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《오버워치》는 서로 다른 능력을 가진 영웅들이 팀으로 겨루는 슈팅 게임이다. 세계관에서는 자동화 로봇의 전쟁을 끝내기 위해 국제 조직 오버워치가 만들어졌고 여러 출신의 인물이 그 유산과 연관된다.\n\n경기에서는 역할과 기술이 다른 영웅의 조합으로 목표를 달성한다. 배경 이야기의 동맹과 적대가 모든 대전의 팀 구성을 그대로 제한하지는 않으므로, 세계관의 조직과 실제 경기 규칙을 나누어 이해해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《오버워치》는 서로 다른 능력을 가진 영웅들이 팀으로 겨루는 슈팅 게임이다. 세계관에서는 자동화 로봇의 전쟁을 끝내기 위해 국제 조직 오버워치가 만들어졌고 여러 출신의 인물이 그 유산과 연관된다.\n\n경기에서는 역할과 기술이 다른 영웅의 조합으로 목표를 달성한다. 배경 이야기의 동맹과 적대가 모든 대전의 팀 구성을 그대로 제한하지는 않으므로, 세계관의 조직과 실제 경기 규칙을 나누어 이해해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

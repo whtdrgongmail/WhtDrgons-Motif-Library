@@ -4,8 +4,8 @@
   "title": "게임 속 몸짓 애니메이션",
   "original": "Emote Animation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "[[플레이어]]가 인사나 웃음 같은 감정 표현을 고르면 [[캐릭터]]가 그에 맞는 몸짓 애니메이션을 재생한다. [[게임 속 몸짓 명령어]]를 입력하거나 고르면 캐릭터의 몸짓 애니메이션이 실행될 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "플레이어의 감정 표현 선택에 따라 캐릭터가 인사와 웃음, 춤 같은 동작을 재생하는 기능이다. 언어 이외의 몸짓이 사회적 상호작용의 수단이 된다.\n\n멀리 있는 상대에게 의도를 전달하거나 함께 동작을 맞추며 놀이를 만들 수 있다. 같은 애니메이션이 대기 동작과 영상 장면에 재사용되기도 해 표현의 의미는 상황에 따라 달라진다.\n\n채팅에 행동 문구만 표시하는 기능과는 시각적 구현이 다르다. 몸짓의 존재가 실제 게임 상태와 능력 변화를 뜻하는지는 별도로 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플레이어의 감정 표현 선택에 따라 캐릭터가 인사와 웃음, 춤 같은 동작을 재생하는 기능이다. 언어 이외의 몸짓이 사회적 상호작용의 수단이 된다.\n\n멀리 있는 상대에게 의도를 전달하거나 함께 동작을 맞추며 놀이를 만들 수 있다. 같은 애니메이션이 대기 동작과 영상 장면에 재사용되기도 해 표현의 의미는 상황에 따라 달라진다.\n\n채팅에 행동 문구만 표시하는 기능과는 시각적 구현이 다르다. 몸짓의 존재가 실제 게임 상태와 능력 변화를 뜻하는지는 별도로 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

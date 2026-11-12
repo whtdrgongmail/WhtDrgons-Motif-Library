@@ -4,8 +4,8 @@
   "title": "자녀가 가족의 전철을 밟지 않게 막기",
   "original": "Save You From Becoming Your Parent",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00971",
+  "primary_tag_id": "ML-T00971",
   "description": {
     "definition": "부모가 자녀에게 자신이나 다른 가족 구성원과 같은 삶을 되풀이하지 않도록 요구하거나 행동으로 개입하는 관계 구도다. 부모의 경험과 우려가 자녀의 진로에 영향을 준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "자녀가 먼저 부모의 길을 거부하는 경우와 다르며, 부모의 개입이 늘 옳거나 환영받는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "부모는 자신의 경험이나 다른 가족의 삶을 자녀가 피해야 할 경로로 제시한다. 과거의 결과가 현재 자녀의 진로에 개입하는 이유가 된다.\n\n보호하려는 뜻과 자녀의 자율성은 같은 방향으로 움직이지 않을 수 있다. 부모가 왜 우려하는지와 자녀가 무엇을 원하는지를 나누면 세대 갈등이 구체화된다.\n\n자녀가 먼저 가족의 길을 거부한 상황과는 행동의 주체가 다르다. 부모의 개입이 항상 옳거나 환영받는다고 가정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "부모는 자신의 경험이나 다른 가족의 삶을 자녀가 피해야 할 경로로 제시한다. 과거의 결과가 현재 자녀의 진로에 개입하는 이유가 된다.\n\n보호하려는 뜻과 자녀의 자율성은 같은 방향으로 움직이지 않을 수 있다. 부모가 왜 우려하는지와 자녀가 무엇을 원하는지를 나누면 세대 갈등이 구체화된다.\n\n자녀가 먼저 가족의 길을 거부한 상황과는 행동의 주체가 다르다. 부모의 개입이 항상 옳거나 환영받는다고 가정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

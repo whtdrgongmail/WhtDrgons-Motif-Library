@@ -4,8 +4,8 @@
   "title": "옷 손상으로 노출을 만드는 연출",
   "original": "Clothing Damage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01847",
+  "primary_tag_id": "ML-T01847",
   "description": {
     "definition": "싸움이나 사고로 의상이 찢어지는 [[장면]]을 인물의 신체 노출과 시선 끌기에 사용하는 표현 관습.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "싸움이나 사고로 옷이 손상되면서 신체 노출을 늘리는 연출이다. 피해의 흔적을 보여 주는 동시에 보는 사람의 시선을 몸에 집중시키도록 손상의 위치와 정도를 선택한다.\n\n몸은 크게 다치지 않았는데 옷만 특정 부분에서 찢어지면 우연처럼 보이는 사건과 감상을 위한 배치가 겹친다. 인물의 수치심을 전투의 방해로 삼거나 손상된 복장을 강인함의 이미지로 사용할 수 있다.\n\n[[장면]]에서 옷이 낡거나 망가지는 모든 경우가 해당하지는 않는다. 노출과 시선 끌기가 기능의 중심인지 살피며, 외형적 손상만으로 실제 부상의 정도나 당사자의 동의를 판단하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "싸움이나 사고로 옷이 손상되면서 신체 노출을 늘리는 연출이다. 피해의 흔적을 보여 주는 동시에 보는 사람의 시선을 몸에 집중시키도록 손상의 위치와 정도를 선택한다.\n\n몸은 크게 다치지 않았는데 옷만 특정 부분에서 찢어지면 우연처럼 보이는 사건과 감상을 위한 배치가 겹친다. 인물의 수치심을 전투의 방해로 삼거나 손상된 복장을 강인함의 이미지로 사용할 수 있다.\n\n[[장면]]에서 옷이 낡거나 망가지는 모든 경우가 해당하지는 않는다. 노출과 시선 끌기가 기능의 중심인지 살피며, 외형적 손상만으로 실제 부상의 정도나 당사자의 동의를 판단하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

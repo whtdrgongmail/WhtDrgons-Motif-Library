@@ -4,8 +4,8 @@
   "title": "직접 확인 가능한 존재를 섬기는 종교",
   "original": "Physical Religion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01373",
+  "primary_tag_id": "ML-T01373",
   "description": {
     "definition": "신이나 초월적 힘의 존재를 감각적으로 확인할 수 있는 세계에서 그 대상을 섬기며 형성된 종교다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "신이 마을에 직접 나타나는 세계에서 사람들은 그 존재 여부보다 무엇을 요구하고 어떻게 섬길지를 논한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "숭배 대상의 존재가 공통의 경험으로 확인되면 갈등의 질문이 바뀐다. 신이 있는지를 믿는 문제보다 그 힘에 복종할 것인지, 요구가 정당한지, 어떤 관계를 맺을지가 중요해진다. 대상은 [[육체를 지닌 신적 존재]]일 수도 있고 직접 작용이 드러나는 초월적 힘일 수도 있다.\n\n실제로 존재한다는 것과 숭배받을 가치가 있다는 것은 같은 판단이 아니다. 같은 대상을 보고도 헌신, 거래, 저항 같은 서로 다른 태도가 생길 수 있다. 강한 존재가 단순히 통치하는 설정과 구별하려면 신앙의 의례와 조직 또는 종교적 의미 부여가 함께 나타나야 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "숭배 대상의 존재가 공통의 경험으로 확인되면 갈등의 질문이 바뀐다. 신이 있는지를 믿는 문제보다 그 힘에 복종할 것인지, 요구가 정당한지, 어떤 관계를 맺을지가 중요해진다. 대상은 [[육체를 지닌 신적 존재]]일 수도 있고 직접 작용이 드러나는 초월적 힘일 수도 있다.\n\n실제로 존재한다는 것과 숭배받을 가치가 있다는 것은 같은 판단이 아니다. 같은 대상을 보고도 헌신, 거래, 저항 같은 서로 다른 태도가 생길 수 있다. 강한 존재가 단순히 통치하는 설정과 구별하려면 신앙의 의례와 조직 또는 종교적 의미 부여가 함께 나타나야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

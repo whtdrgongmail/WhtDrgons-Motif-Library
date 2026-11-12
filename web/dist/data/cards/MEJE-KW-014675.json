@@ -4,8 +4,8 @@
   "title": "거인의 다리를 무력화하기",
   "original": "Hobbling the Giant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "정면으로 제압하기 어려운 거대한 적의 다리를 묶거나 손상시켜 균형과 이동 능력을 잃게 만드는 전투 방식이다.",
     "detail": "작품 사례: [[Kong: Skull Island]]에서 사람들은 대나무처럼 높은 다리를 지닌 거대 거미의 다리를 공격한다. 거미가 균형을 잃자 정면에서 상대하기 쉬운 표적이 된다.",
@@ -13,10 +13,10 @@
     "boundary": "작은 상대를 일반적으로 넘어뜨리거나 몸 전체를 묶는 구속과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거대한 상대의 지지 기능을 약점으로 삼아 다리를 손상시키고 균형과 이동을 제한하는 전술이다. 크기의 우위를 몸을 지탱해야 하는 부담으로 바꾼다.\n\n작은 적을 일반적으로 넘어뜨리는 것과 다르다. 몸 전체를 묶는 구속보다 큰 체구와 다리의 기능 사이의 관계가 [[무력화]]의 근거여야 한다.\n\n[[Kong: Skull Island]]의 사람들은 대나무처럼 긴 다리를 가진 거대 거미를 공격한다. 다리 때문에 균형을 잃은 거미는 정면에서 상대하기 쉬운 표적이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "거대한 상대의 지지 기능을 약점으로 삼아 다리를 손상시키고 균형과 이동을 제한하는 전술이다. 크기의 우위를 몸을 지탱해야 하는 부담으로 바꾼다.\n\n작은 적을 일반적으로 넘어뜨리는 것과 다르다. 몸 전체를 묶는 구속보다 큰 체구와 다리의 기능 사이의 관계가 [[무력화]]의 근거여야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Kong: Skull Island]]의 사람들은 대나무처럼 긴 다리를 가진 거대 거미를 공격한다. 다리 때문에 균형을 잃은 거미는 정면에서 상대하기 쉬운 표적이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

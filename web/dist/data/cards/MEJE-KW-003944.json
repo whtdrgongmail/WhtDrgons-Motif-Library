@@ -4,8 +4,8 @@
   "title": "남성 우정의 성장을 그린 코미디",
   "original": "Bromantic Comedy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00306",
+  "primary_tag_id": "ML-T00306",
   "description": {
     "definition": "두 남성이 친구 관계를 만들고 깊게 하는 과정을 [[코미디]]의 중심에 둔다. 우정을 연애와 비교하는 관습보다 관계 자체의 선택을 본다. 남성 친구의 관계를 중심에 놓을 때 [[남성 주인공을 비추는 가까운 친구]]의 역할도 더 커진다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "03",
+    "code": "03.110",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "남성 우정의 성장을 그린 코미디는 두 남성이 친구가 되고 관계를 깊게 하는 과정을 웃음과 함께 그립니다. 연애의 부수적 관계가 아니라 두 사람의 선택과 변화가 이야기의 중심입니다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "두 남성의 우정이 형성되고 시험받는 과정을 연애 코미디의 관계 중심 구조처럼 다루는 작품이다. 추구하는 관계는 친밀한 우정이며 연애 성립이 필수 목표는 아니다.\n\n만남과 갈등, 질투와 화해가 중심 사건이 된다. 외부 임무가 있더라도 관계의 변화가 이야기의 핵심 동력이면 단순한 동료 모험과 차별화된다.\n\n남성 둘이 등장하는 모든 코미디가 해당하지는 않는다. 어려운 사건을 함께 해결한다는 조건보다 둘 사이의 관계를 어떻게 만들고 유지하는지가 주된 질문인지 보아야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "두 남성의 우정이 형성되고 시험받는 과정을 연애 코미디의 관계 중심 구조처럼 다루는 작품이다. 추구하는 관계는 친밀한 우정이며 연애 성립이 필수 목표는 아니다.\n\n만남과 갈등, 질투와 화해가 중심 사건이 된다. 외부 임무가 있더라도 관계의 변화가 이야기의 핵심 동력이면 단순한 동료 모험과 차별화된다.\n\n남성 둘이 등장하는 모든 코미디가 해당하지는 않는다. 어려운 사건을 함께 해결한다는 조건보다 둘 사이의 관계를 어떻게 만들고 유지하는지가 주된 질문인지 보아야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

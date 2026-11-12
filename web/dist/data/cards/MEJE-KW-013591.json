@@ -4,8 +4,8 @@
   "title": "장면과 배경음악의 정서 불일치",
   "original": "Soundtrack Dissonance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02025",
+  "primary_tag_id": "ML-T02025",
   "description": {
     "definition": "장면이 보여 주는 사건의 정서와 어긋나는 분위기의 음악을 결합하는 연출이다.",
     "detail": "작품 사례: [[Final Fantasy VI]]의 [[Dancing Mad]] 일부는 영웅들이 적이 소환한 존재와 싸우는 장면에 성스러운 오르간 분위기를 배치해, 전투의 정서와 음악 사이에 어긋남을 만든다.",
@@ -13,10 +13,10 @@
     "boundary": "가사와 곡조만 어긋나는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.003.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,10 +31,10 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000337",
+      "work_card_id": "MM-MEDIA-001557",
       "description_ko": "Final Fantasy VI의 Dancing Mad 일부는 영웅들이 적이 소환한 존재와 싸우는 장면에 성스러운 오르간 분위기를 배치해, 전투의 정서와 음악 사이에 어긋남을 만든다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     },
     {
       "media_tag_id": "ML-F02",
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "장면의 정서와 배경음악이 어긋나면 관객은 사건과 음악 중 어느 쪽에도 완전히 기대기 어렵다. 성스러운 음악이 격렬한 전투에 흐르는 경우처럼, 불협은 상황을 낯설게 만들고 역설이나 불안을 키우며 장면의 해석에 거리를 만든다.\n\n가사와 곡조의 정서가 불일치하는 노래와 구별한다. 이 유형은 화면의 사건과 별도로 흐르는 음악의 분위기 사이에 관계가 있어야 하며, 두 요소가 다른 정서를 전달할 때 성립한다.\n\n[[Final Fantasy VI]]의 [[Dancing Mad]] 일부는 영웅들이 적이 소환한 존재와 싸우는 장면에 성스러운 오르간 분위기를 배치해, 전투의 정서와 음악 사이에 어긋남을 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "장면의 정서와 배경음악이 어긋나면 관객은 사건과 음악 중 어느 쪽에도 완전히 기대기 어렵다. 성스러운 음악이 격렬한 전투에 흐르는 경우처럼, 불협은 상황을 낯설게 만들고 역설이나 불안을 키우며 장면의 해석에 거리를 만든다.\n\n가사와 곡조의 정서가 불일치하는 노래와 구별한다. 이 유형은 화면의 사건과 별도로 흐르는 음악의 분위기 사이에 관계가 있어야 하며, 두 요소가 다른 정서를 전달할 때 성립한다."
+      ],
+      [
+        "사례",
+        "[[Final Fantasy VI]]의 [[Dancing Mad]] 일부는 영웅들이 적이 소환한 존재와 싸우는 장면에 성스러운 오르간 분위기를 배치해, 전투의 정서와 음악 사이에 어긋남을 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

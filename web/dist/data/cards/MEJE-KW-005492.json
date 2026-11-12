@@ -4,8 +4,8 @@
   "title": "동료 개인사가 걸린 부가 임무",
   "original": "Companion-Specific Sidequest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02125",
+  "primary_tag_id": "ML-T02125",
   "description": {
     "definition": "게임의 동행자가 자신의 문제를 해결해 달라고 요청하며 인물의 과거와 관계를 탐색하게 하는 [[선택]] 임무.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "동료의 과거와 개인적인 문제를 다루는 부가 임무다. 동료가 의뢰자가 되며 때로는 그 인물을 영입하기 위한 선행 조건으로 제공된다.\n\n하나의 큰 사건을 해결하거나 여러 대화와 작은 임무를 단계적으로 해금하는 방식이 있다. 동료가 실제로 참여해야 하는지 여부는 임무의 내용과 게임 규칙에 따라 달라진다.\n\n주요 세계의 위협과 별개로 인물의 변화와 관계를 상호작용 가능한 과정으로 만든다. 단순한 보상 임무와 달리 특정 동료를 이해하는 정보가 중심이며, 완료 여부가 신뢰와 이후 선택에 영향을 줄 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "동료의 과거와 개인적인 문제를 다루는 부가 임무다. 동료가 의뢰자가 되며 때로는 그 인물을 영입하기 위한 선행 조건으로 제공된다.\n\n하나의 큰 사건을 해결하거나 여러 대화와 작은 임무를 단계적으로 해금하는 방식이 있다. 동료가 실제로 참여해야 하는지 여부는 임무의 내용과 게임 규칙에 따라 달라진다.\n\n주요 세계의 위협과 별개로 인물의 변화와 관계를 상호작용 가능한 과정으로 만든다. 단순한 보상 임무와 달리 특정 동료를 이해하는 정보가 중심이며, 완료 여부가 신뢰와 이후 선택에 영향을 줄 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

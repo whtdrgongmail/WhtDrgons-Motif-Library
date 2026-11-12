@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F10",
   "description": {
-    "definition": "",
+    "definition": "게임을 매개로 플레이어들이 지속적으로 관계를 맺고 활동하는 집단이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "10",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "게임을 함께 하며 오래 관계를 이어 가는 사람들의 모임이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 게임을 즐기는 넓은 이용자 집단과 공동 목표를 가진 조직은 서로 다른 형태의 공동체가 될 수 있다. 반복되는 활동과 서로에 대한 기대가 쌓이면 단순히 같은 게임을 한다는 공통점 이상으로 관계가 유지된다.\n\n[[길드]]는 같은 소속과 이름을 유지하면서 다음 활동을 계획하는 구체적인 조직 형태다. 가입 기준, 권한 배분, 공동 보상 규칙에 따라 친목을 중시하는 집단과 공략을 중시하는 집단의 운영은 달라질 수 있다.\n\n우연히 한 경기에서 만난 팀은 지속적인 관계가 없다면 이 문맥의 공동체와 구별된다. 반대로 게임 시스템이 별도의 조직 기능을 제공하지 않더라도 구성원들이 관계와 활동을 이어 갈 수 있다. 기능상의 명단과 실제 사람 사이의 관계는 같은 것이 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 게임을 즐기는 넓은 이용자 집단과 공동 목표를 가진 조직은 서로 다른 형태의 공동체가 될 수 있다. 반복되는 활동과 서로에 대한 기대가 쌓이면 단순히 같은 게임을 한다는 공통점 이상으로 관계가 유지된다.\n\n[[길드]]는 같은 소속과 이름을 유지하면서 다음 활동을 계획하는 구체적인 조직 형태다. 가입 기준, 권한 배분, 공동 보상 규칙에 따라 친목을 중시하는 집단과 공략을 중시하는 집단의 운영은 달라질 수 있다.\n\n우연히 한 경기에서 만난 팀은 지속적인 관계가 없다면 이 문맥의 공동체와 구별된다. 반대로 게임 시스템이 별도의 조직 기능을 제공하지 않더라도 구성원들이 관계와 활동을 이어 갈 수 있다. 기능상의 명단과 실제 사람 사이의 관계는 같은 것이 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

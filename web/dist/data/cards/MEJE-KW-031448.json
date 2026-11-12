@@ -4,8 +4,8 @@
   "title": "연애하지 않는 소년과 소녀 주인공",
   "original": "Platonic Boy/Girl Heroes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01001",
+  "primary_tag_id": "ML-T01001",
   "description": {
     "definition": "혈연이나 연애 관계가 아닌 소년 한 명과 소녀 한 명을 이야기의 중심 동료로 짝지은 구성이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "남자아이와 여자아이가 둘이서 모험의 중심을 맡되, 둘의 관계는 친구나 협력자로 그려진다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "두 주인공은 처음부터 친구일 수도 있고 사건을 겪으며 협력하게 될 수도 있다. 성별이 다른 상대를 낯설어하는 반응과 서로 다른 관점을 통해 대화를 만들면서도, 관계의 목표를 연애의 성립에 두지 않는다. 어린 관객이 서로 다른 주인공에게 자신을 투영할 수 있는 구성으로도 쓰인다.\n\n여럿이 섞인 친구 집단과 달리 두 사람에게 중심 역할이 집중되어야 한다. 남매는 동행의 근거가 혈연이고 연인은 관계의 성격이 달라 이 정의에서 제외한다. 친밀한 장면이 독자의 연애 해석을 불러오더라도, 작품이 실제로 어떤 관계를 서술하는지와 독자의 기대는 구별해서 판단한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "두 주인공은 처음부터 친구일 수도 있고 사건을 겪으며 협력하게 될 수도 있다. 성별이 다른 상대를 낯설어하는 반응과 서로 다른 관점을 통해 대화를 만들면서도, 관계의 목표를 연애의 성립에 두지 않는다. 어린 관객이 서로 다른 주인공에게 자신을 투영할 수 있는 구성으로도 쓰인다.\n\n여럿이 섞인 친구 집단과 달리 두 사람에게 중심 역할이 집중되어야 한다. 남매는 동행의 근거가 혈연이고 연인은 관계의 성격이 달라 이 정의에서 제외한다. 친밀한 장면이 독자의 연애 해석을 불러오더라도, 작품이 실제로 어떤 관계를 서술하는지와 독자의 기대는 구별해서 판단한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

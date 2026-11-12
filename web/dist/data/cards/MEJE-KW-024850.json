@@ -5,8 +5,8 @@
   "original": "Timing-Based Lockpicking",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02077",
+  "primary_tag_id": "ML-T02077",
   "description": {
     "definition": "움직이는 표시나 핀이 알맞은 순간에 왔을 때 입력하여 잠금을 푸는 게임 방식이다.",
     "detail": "작품 사례: 《[[바이오쇼크 인피니트]]》의 수중 무덤 2부에서는 이동하는 표시가 원하는 핀 아래에 올 때 입력하여 결과를 결정한다.",
@@ -14,10 +14,10 @@
     "boundary": "정확한 위치를 천천히 탐색하는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.001.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "움직이는 표시와 핀이 적절한 위치에 오는 순간 입력해 잠금을 푼다. 공간의 위치를 아는 것과 알맞은 때 반응하는 일이 함께 필요한 미니게임이다.\n\n입력 시점에 따라 결과가 정해져 관찰과 타이밍이 실제 수행의 기준이 된다. 같은 장치도 어느 순간 조작했는지가 성공 조건을 바꾼다.\n\n위치를 천천히 탐색해 맞추는 방식과 다르다. 움직임 속의 특정 순간을 선택한다는 시간적 조건이 중요하다.\n\n《[[바이오쇼크 인피니트]]》의 [[Burial at Sea]] 2부에서는 이동하는 표시가 원하는 핀 아래에 올 때 입력하여 결과를 결정한다.\n\n[[바이오쇼크 인피니트]]; [[Burial at Sea]]",
+    "sections": [
+      [
+        "상세 설명",
+        "움직이는 표시와 핀이 적절한 위치에 오는 순간 입력해 잠금을 푼다. 공간의 위치를 아는 것과 알맞은 때 반응하는 일이 함께 필요한 미니게임이다.\n\n입력 시점에 따라 결과가 정해져 관찰과 타이밍이 실제 수행의 기준이 된다. 같은 장치도 어느 순간 조작했는지가 성공 조건을 바꾼다.\n\n위치를 천천히 탐색해 맞추는 방식과 다르다. 움직임 속의 특정 순간을 선택한다는 시간적 조건이 중요하다."
+      ],
+      [
+        "사례",
+        "《[[바이오쇼크 인피니트]]》의 [[Burial at Sea]] 2부에서는 이동하는 표시가 원하는 핀 아래에 올 때 입력하여 결과를 결정한다."
+      ],
+      [
+        "관련 작품",
+        "[[바이오쇼크 인피니트]]; [[Burial at Sea]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

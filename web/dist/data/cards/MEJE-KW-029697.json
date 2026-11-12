@@ -4,8 +4,8 @@
   "title": "연고 없이 떠돌며 죽이고 빼앗는 모험가",
   "original": "The Murderhobo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02521",
+  "primary_tag_id": "ML-T02521",
   "description": {
     "definition": "가족·친구·거처 같은 관계 기반을 거의 두지 않고 떠돌며 공격과 약탈을 주요 행동으로 삼는 역할극 캐릭터 유형이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "떠돌이이거나 가난하다는 이유만으로 해당하지 않는다. 인연을 피하는 선택과 폭력·보상 중심 행동의 결합을 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.014.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "지킬 사람도 돌아갈 곳도 없이 다음 싸움과 보상을 찾아다닌다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가족과 친구, 거처 같은 기반을 거의 두지 않고 떠돌며 공격과 약탈을 주요 행동으로 삼는다. 인연을 피하는 태도와 폭력·보상 중심의 활동이 결합한다.\n\n관계에 얽매이지 않아 행동이 자유로운 한편 이야기와 연결되는 동기도 줄어들 수 있다. 역할극에서 선택의 자유와 서사적 연결의 부재가 함께 드러나는 유형이다.\n\n가난하거나 떠돌아다닌다는 이유만으로 해당하지 않는다. 관계를 거의 만들지 않는 선택과 약탈 중심의 행동이 모두 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가족과 친구, 거처 같은 기반을 거의 두지 않고 떠돌며 공격과 약탈을 주요 행동으로 삼는다. 인연을 피하는 태도와 폭력·보상 중심의 활동이 결합한다.\n\n관계에 얽매이지 않아 행동이 자유로운 한편 이야기와 연결되는 동기도 줄어들 수 있다. 역할극에서 선택의 자유와 서사적 연결의 부재가 함께 드러나는 유형이다.\n\n가난하거나 떠돌아다닌다는 이유만으로 해당하지 않는다. 관계를 거의 만들지 않는 선택과 약탈 중심의 행동이 모두 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

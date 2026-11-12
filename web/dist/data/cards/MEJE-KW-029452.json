@@ -4,8 +4,8 @@
   "title": "오토바이로 벌이는 마상창시합",
   "original": "Motorcycle Jousting",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00771",
+  "primary_tag_id": "ML-T00771",
   "description": {
     "definition": "말 대신 오토바이를 타고 달리며 무기를 겨누어 상대와 마상창시합 같은 대결을 벌인다.",
     "detail": "작품 사례: 《[[닥터 후]]》에서 닥터는 배너맨 부대의 적을 상대로 오토바이를 탄 창시합 방식의 대결을 벌인다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 바이크 추격전이나 총격전과 구별하며 현실 주행 방법을 안내하는 개념이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.005.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "오토바이를 말처럼 활용해 두 사람이 무기를 겨누고 달려들면 현대적인 탈것 위에 마상창시합의 구도가 재현된다. 엔진과 도로의 이미지가 기사들의 대결 의식과 결합해 일반 추격전과 다른 장면을 만든다.\n\n총으로 서로 쏘거나 뒤를 쫓는 것만으로는 창시합의 대응 관계가 생기지 않는다. 서로 접근하며 겨루는 형태가 중요하며, 이 관습은 실제 주행이나 무기 사용의 방법을 설명하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "오토바이를 말처럼 활용해 두 사람이 무기를 겨누고 달려들면 현대적인 탈것 위에 마상창시합의 구도가 재현된다. 엔진과 도로의 이미지가 기사들의 대결 의식과 결합해 일반 추격전과 다른 장면을 만든다.\n\n총으로 서로 쏘거나 뒤를 쫓는 것만으로는 창시합의 대응 관계가 생기지 않는다. 서로 접근하며 겨루는 형태가 중요하며, 이 관습은 실제 주행이나 무기 사용의 방법을 설명하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

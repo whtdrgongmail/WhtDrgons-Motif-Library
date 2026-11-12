@@ -4,8 +4,8 @@
   "title": "이미 죽은 대상을 공격해 책임을 피하는 반전",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "죽일 의도로 공격한 대상이 그 전에 이미 사망했음이 밝혀져 인물이 거의 처벌받지 않는 것으로 끝나는 법정 반전이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "현실의 미수·시체 관련 범죄 성립을 설명하는 법률 규칙은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽이려 공격한 대상이 이미 사망한 상태였다는 사실 때문에 처벌이 거의 없어지는 반전이다. 행위의 의도와 실제 죽음의 원인이 분리된다.\n\n인물은 살인을 원했어도 공격이 사망을 일으킨 것은 아니라고 처리된다. 선행한 죽음의 정보가 뒤늦게 공개되면서 책임의 서사적 평가가 달라진다.\n\n현실의 미수와 시체 관련 범죄에 관한 법률 규칙은 아니다. 작품이 책임을 지우는 과장된 해결을 다룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽이려 공격한 대상이 이미 사망한 상태였다는 사실 때문에 처벌이 거의 없어지는 반전이다. 행위의 의도와 실제 죽음의 원인이 분리된다.\n\n인물은 살인을 원했어도 공격이 사망을 일으킨 것은 아니라고 처리된다. 선행한 죽음의 정보가 뒤늦게 공개되면서 책임의 서사적 평가가 달라진다.\n\n현실의 미수와 시체 관련 범죄에 관한 법률 규칙은 아니다. 작품이 책임을 지우는 과장된 해결을 다룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

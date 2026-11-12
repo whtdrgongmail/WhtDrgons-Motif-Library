@@ -5,7 +5,7 @@
   "original": "Animated Musical",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "primary_tag_id": "ML-F04",
   "description": {
     "definition": "인물의 목표와 갈등이 대사뿐 아니라 노래와 춤 장면을 통해 전개되는 애니메이션 [[뮤지컬]]. 배경음악이 많은 작품과 달리 노래 장면이 [[서사]]의 기능을 맡는다.",
     "detail": "",
@@ -13,20 +13,14 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "04",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "노래가 서사를 이끄는 애니메이션에서는 인물이 노래하고 춤추는 장면이 목표나 갈등을 드러냅니다. 배경에 음악이 많이 흐르는 작품과 달리 노래가 이야기의 중요한 행동이 됩니다.",
     "review_status": "reviewed",
@@ -36,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이 유형에서는 노래가 이미 일어난 일을 장식하는 배경음악에 머물지 않고, 인물의 행동과 관계를 바꾸는 [[서사]] 장면으로 기능한다. 노래를 통해 인물이 결심을 선언하거나 감정을 감추지 못하고 드러내며, 춤과 무대화된 동작은 둘 이상의 인물이 힘을 겨루거나 협력하는 모습을 시각화할 수 있다. 애니메이션은 현실적 제약을 넘어선 움직임과 배경 변형을 사용해 이러한 내면의 변화를 장면의 리듬으로 구현한다.\n\n장르 판별의 핵심은 음악이 많다는 사실이 아니라 노래 장면을 제거했을 때 목표, 갈등, 인물 관계의 변화가 손상되는가에 있다. 삽입곡이 분위기만 높이고 사건에는 영향을 주지 않는다면 뮤지컬 애니메이션의 서사 구조와는 거리가 있다. 반대로 노래가 이야기 진행을 맡더라도 작품이 애니메이션이 아니면 이 카드의 매체 범위에는 들지 않는다. 즉 애니메이션 형식과 극중 노래의 서사적 역할이 함께 요구된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 유형에서는 노래가 이미 일어난 일을 장식하는 배경음악에 머물지 않고, 인물의 행동과 관계를 바꾸는 [[서사]] 장면으로 기능한다. 노래를 통해 인물이 결심을 선언하거나 감정을 감추지 못하고 드러내며, 춤과 무대화된 동작은 둘 이상의 인물이 힘을 겨루거나 협력하는 모습을 시각화할 수 있다. 애니메이션은 현실적 제약을 넘어선 움직임과 배경 변형을 사용해 이러한 내면의 변화를 장면의 리듬으로 구현한다.\n\n장르 판별의 핵심은 음악이 많다는 사실이 아니라 노래 장면을 제거했을 때 목표, 갈등, 인물 관계의 변화가 손상되는가에 있다. 삽입곡이 분위기만 높이고 사건에는 영향을 주지 않는다면 뮤지컬 애니메이션의 서사 구조와는 거리가 있다. 반대로 노래가 이야기 진행을 맡더라도 작품이 애니메이션이 아니면 이 카드의 매체 범위에는 들지 않는다. 즉 애니메이션 형식과 극중 노래의 서사적 역할이 함께 요구된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "턱을 파괴하는 결투 장면",
   "original": "Jawbreaker",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "괴물이나 상대의 턱을 강제로 벌리거나 손상시켜 물어뜯는 위협을 끝내는 폭력적 결투 연출이다.",
     "detail": "작품 사례: 《[[킹콩(1933)]]》에서 콩은 공룡의 턱을 파괴하는 방식으로 대결을 끝내며, 포식자의 입을 힘으로 제압하는 결착을 보여 준다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 턱에 주먹이 닿는 장면과 달리 턱의 파괴가 결착의 핵심이다. 실제로 항상 즉사한다는 의학적 설명은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-002082",
+      "work_card_id": "MM-MEDIA-002277",
       "description_ko": "《킹콩(1933)》에서 콩은 공룡의 턱을 파괴하는 방식으로 대결을 끝내며, 포식자의 입을 힘으로 제압하는 결착을 보여 준다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "입을 벌린 괴물의 턱을 강제로 손상시켜 공격을 멈춘다. 이빨로 물려는 위협이 오히려 상대를 제압하는 접점이 된다.\n\n괴물의 힘과 주인공의 힘을 직접 대비하는 결투 방식이다. 턱의 파괴가 죽음으로 이어지는지는 허구의 규칙이며 현실의 신체 결과와 같지 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "입을 벌린 괴물의 턱을 강제로 손상시켜 공격을 멈춘다. 이빨로 물려는 위협이 오히려 상대를 제압하는 접점이 된다.\n\n괴물의 힘과 주인공의 힘을 직접 대비하는 결투 방식이다. 턱의 파괴가 죽음으로 이어지는지는 허구의 규칙이며 현실의 신체 결과와 같지 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

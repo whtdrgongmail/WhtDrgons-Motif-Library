@@ -4,8 +4,8 @@
   "title": "추수감사절 회차",
   "original": "Thanksgiving Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00556",
+  "primary_tag_id": "ML-T00556",
   "description": {
     "definition": "추수감사절의 식사·감사·가족 모임을 중심으로 인물 관계와 사건을 다루는 에피소드다.",
     "detail": "작품 사례: [[Dr. Quinn, Medicine Woman]]의 추수감사절 회차에서는 가뭄으로 떠나려던 주민들이 함께 명절을 지내는 순간 비가 내려 모두 춤추며 기뻐한다.",
@@ -13,10 +13,10 @@
     "boundary": "모든 수확 축제나 일반 가족 식사와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.001.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "추수감사절의 모임과 감사, 공동체의 관계를 주요 사건으로 다루는 회차다. 특정 기념일의 관습이 갈등의 계기와 해결의 맥락을 제공한다.\n\n모든 수확 축제와 일반적인 가족 식사를 포함하지 않는다. 추수감사절이라는 날이 인물의 행동과 회차의 의미에 직접 관여해야 한다.\n\n[[Dr. Quinn, Medicine Woman]]의 해당 회차에서는 가뭄 때문에 떠나려던 주민들이 함께 명절을 지낸다. 그 순간 내리는 비에 모두 춤추며 기뻐해 감사의 모임과 공동체의 희망이 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "추수감사절의 모임과 감사, 공동체의 관계를 주요 사건으로 다루는 회차다. 특정 기념일의 관습이 갈등의 계기와 해결의 맥락을 제공한다.\n\n모든 수확 축제와 일반적인 가족 식사를 포함하지 않는다. 추수감사절이라는 날이 인물의 행동과 회차의 의미에 직접 관여해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Dr. Quinn, Medicine Woman]]의 해당 회차에서는 가뭄 때문에 떠나려던 주민들이 함께 명절을 지낸다. 그 순간 내리는 비에 모두 춤추며 기뻐해 감사의 모임과 공동체의 희망이 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

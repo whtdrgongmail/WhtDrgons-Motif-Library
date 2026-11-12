@@ -4,8 +4,8 @@
   "title": "흰머리 색을 보정하려다 파란 머리가 되기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02528",
+  "primary_tag_id": "ML-T02528",
   "description": {
     "definition": "노란빛을 누르고 회색 머리를 만들려던 노년 인물이 염색을 잘못해 머리가 파랗게 되는 외모 희극이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "파란 머리 노인의 시각적 인물형 전체와 달리 색 보정 실패라는 원인이 명시된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.010.011",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "노년 인물이 흰머리의 노란빛을 줄이려다 머리를 파랗게 만드는 외모 희극이다. 원하는 회색과 실제 결과 사이의 색 차이가 중심이다.\n\n외모를 정돈하려는 의도가 오히려 더 눈에 띄는 결과를 낳는다. 관객이 원래의 목적을 알고 있을 때 결과는 단순한 파란 머리보다 실패의 반전으로 읽힌다.\n\n파란 머리를 의도적으로 선택한 인물과 다르다. 노년의 파란 머리라는 도상 전체를 염색 실패의 결과로 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "노년 인물이 흰머리의 노란빛을 줄이려다 머리를 파랗게 만드는 외모 희극이다. 원하는 회색과 실제 결과 사이의 색 차이가 중심이다.\n\n외모를 정돈하려는 의도가 오히려 더 눈에 띄는 결과를 낳는다. 관객이 원래의 목적을 알고 있을 때 결과는 단순한 파란 머리보다 실패의 반전으로 읽힌다.\n\n파란 머리를 의도적으로 선택한 인물과 다르다. 노년의 파란 머리라는 도상 전체를 염색 실패의 결과로 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

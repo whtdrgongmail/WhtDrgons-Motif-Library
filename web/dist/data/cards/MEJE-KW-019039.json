@@ -4,8 +4,8 @@
   "title": "관객에게 방금 나온 정보를 반복하기",
   "original": "Viewers Are Goldfish",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01953",
+  "primary_tag_id": "ML-T01953",
   "description": {
     "definition": "관객이 조금 전에 제시된 내용도 기억하지 못할 것처럼 가까운 간격으로 같은 정보를 다시 설명하는 서술 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "긴 공백 뒤의 요약이나 새 관점에서 의미를 바꾸는 반복과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.004.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "얼마 전에 제시한 사건과 정보를 가까운 간격으로 다시 설명하는 구성이다. 회상과 대사, 화면의 반복으로 관객의 기억을 계속 갱신한다.\n\n중간에 시청을 시작한 사람과 긴 간격으로 게임을 이어 하는 사람에게는 도움이 될 수 있다. 그러나 같은 장면 안에서 이미 명확한 내용을 되풀이하면 진행이 느려지고 관객을 과소평가하는 인상을 준다.\n\n새 관점이나 추가 의미를 주는 재현과는 기능이 다르다. 반복 사이의 실제 시간과 서사적 필요를 함께 보아야 하며, 모든 요약과 회상을 불필요한 반복으로 묶을 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "얼마 전에 제시한 사건과 정보를 가까운 간격으로 다시 설명하는 구성이다. 회상과 대사, 화면의 반복으로 관객의 기억을 계속 갱신한다.\n\n중간에 시청을 시작한 사람과 긴 간격으로 게임을 이어 하는 사람에게는 도움이 될 수 있다. 그러나 같은 장면 안에서 이미 명확한 내용을 되풀이하면 진행이 느려지고 관객을 과소평가하는 인상을 준다.\n\n새 관점이나 추가 의미를 주는 재현과는 기능이 다르다. 반복 사이의 실제 시간과 서사적 필요를 함께 보아야 하며, 모든 요약과 회상을 불필요한 반복으로 묶을 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

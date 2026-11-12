@@ -4,8 +4,8 @@
   "title": "관계가 명시적인 연인 사이로 발전하기",
   "original": "Relationship Upgrade",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01026",
+  "primary_tag_id": "ML-T01026",
   "description": {
     "definition": "서로 가까웠거나 사랑이 암시되던 두 인물이 작품 안에서 분명한 연인 관계를 맺는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "이미 있었던 연애를 관객에게만 밝히는 공개와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "10.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "호감의 암시와 가까운 행동이 실제 교제의 합의로 이어진다. 이전에는 가능성이었던 관계가 두 사람의 명확한 선택이 된다.\n\n고백과 응답, 다른 사람에게 소개하는 행동은 전환을 확인하는 수단이 될 수 있다. 관계가 성립한 이후에는 숨은 감정보다 유지와 갈등의 문제가 중심으로 바뀐다.\n\n[[암시되던 연애 관계를 확정해 밝히기]]는 이미 있던 교제의 공개다. 여기서는 새로 연인이 되는 사건이 핵심이며 관객의 확신만으로 성립하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "호감의 암시와 가까운 행동이 실제 교제의 합의로 이어진다. 이전에는 가능성이었던 관계가 두 사람의 명확한 선택이 된다.\n\n고백과 응답, 다른 사람에게 소개하는 행동은 전환을 확인하는 수단이 될 수 있다. 관계가 성립한 이후에는 숨은 감정보다 유지와 갈등의 문제가 중심으로 바뀐다.\n\n[[암시되던 연애 관계를 확정해 밝히기]]는 이미 있던 교제의 공개다. 여기서는 새로 연인이 되는 사건이 핵심이며 관객의 확신만으로 성립하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

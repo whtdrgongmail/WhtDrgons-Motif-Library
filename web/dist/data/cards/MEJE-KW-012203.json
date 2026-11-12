@@ -6,8 +6,8 @@
   "aliases": [
     "유능하고 도덕적인 이상적 지도자"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "정치적 권한을 국민을 위해 정직하게 행사하며 사생활에서도 같은 도덕성을 유지하는 지도자 유형이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "유능하거나 인기 있는 지도자와 달리 공적·사적 정직성의 일치가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정치가가 국민을 위해 정직하게 권한을 행사하고 사생활에서도 같은 윤리를 유지한다. 공적 역할과 개인의 행동이 일관된 지도자 유형이다.\n\n권력을 쓰는 방식과 사적인 선택을 함께 보여 주어 겉으로 내세운 가치가 실제 태도와 맞음을 드러낸다. 모범성의 근거는 한 영역의 성과에만 있지 않다.\n\n유능하거나 인기가 많다는 사실과 구별된다. 능력과 평판보다 공적·사적 정직성이 일치하는지가 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정치가가 국민을 위해 정직하게 권한을 행사하고 사생활에서도 같은 윤리를 유지한다. 공적 역할과 개인의 행동이 일관된 지도자 유형이다.\n\n권력을 쓰는 방식과 사적인 선택을 함께 보여 주어 겉으로 내세운 가치가 실제 태도와 맞음을 드러낸다. 모범성의 근거는 한 영역의 성과에만 있지 않다.\n\n유능하거나 인기가 많다는 사실과 구별된다. 능력과 평판보다 공적·사적 정직성이 일치하는지가 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

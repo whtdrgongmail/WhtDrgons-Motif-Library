@@ -4,8 +4,8 @@
   "title": "친구와 연인이 나를 두고 다투다",
   "original": "Friend Versus Lover",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000480",
+  "primary_tag_id": "MM-UNSET-000480",
   "description": {
     "definition": "한 인물의 시간과 애정을 놓고 오랜 친구와 연인이 서로 견제하며 관계의 우선순위를 다투는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.007.007",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람을 사이에 두고 오랜 친구와 연인이 시간과 관심의 우선순위를 다투는 관계다. 둘이 같은 종류의 사랑을 원하는 것은 아니어도 자기 자리가 줄었다고 느낄 수 있으며, 가운데 있는 인물이 각자의 요구와 경계를 조정해야 한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 사람의 오랜 친구와 연인이 시간과 애정의 우선순위를 놓고 경쟁하는 구도이다. 서로 다른 관계가 상대를 침입자로 여긴다.\n\n만나는 일정과 공동 활동을 정하면서 양보와 질투가 드러난다. 가운데 인물의 의사를 무시하면 관계의 소유욕이 희극과 위협으로 바뀐다.\n\n친구 둘이 같은 연인을 원하는 삼각관계와는 다르다. 연애와 우정이라는 서로 다른 유대의 공존이 중심이며, 어느 하나를 없애는 것만이 해결은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 사람의 오랜 친구와 연인이 시간과 애정의 우선순위를 놓고 경쟁하는 구도이다. 서로 다른 관계가 상대를 침입자로 여긴다.\n\n만나는 일정과 공동 활동을 정하면서 양보와 질투가 드러난다. 가운데 인물의 의사를 무시하면 관계의 소유욕이 희극과 위협으로 바뀐다.\n\n친구 둘이 같은 연인을 원하는 삼각관계와는 다르다. 연애와 우정이라는 서로 다른 유대의 공존이 중심이며, 어느 하나를 없애는 것만이 해결은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032709",
+  "kind": "keyword",
+  "title": "최고 점수만 남기는 진행 기록",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "각 판은 처음부터 다시 시작하고 종료 뒤의 최고 점수만 유지하여 과거의 상세 플레이 상태를 복구할 필요가 없는 게임 기록 구조다.",
+    "detail": "",
+    "usage": "[[점수 경쟁 중심 게임]]에서 무엇을 장기 성취로 남길지 정한다.",
+    "boundary": "해금한 스테이지와 인물의 성장까지 이어지는 누적 진행과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "게임의 중간 모습은 남기지 않고 가장 높은 점수만 기억한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "각 판은 처음부터 시작하고 끝난 뒤에는 최고 점수만 남긴다. 상세한 플레이 상태보다 기록 경쟁의 성과를 장기적으로 보존하는 구조다.\n\n이전 판을 이어 할 필요 없이 새로 도전하면서 가장 좋은 결과와 비교한다. 무엇이 사라지고 무엇이 남는지가 게임에서 성취를 이해하는 기준을 정한다.\n\n해금한 구간이나 인물의 성장까지 다음 플레이에 이어지는 누적 진행과 다르다. 현재 유형은 점수 중심의 기록 보존에 초점을 둔다.",
+    "sections": [
+      [
+        "상세 설명",
+        "각 판은 처음부터 시작하고 끝난 뒤에는 최고 점수만 남긴다. 상세한 플레이 상태보다 기록 경쟁의 성과를 장기적으로 보존하는 구조다.\n\n이전 판을 이어 할 필요 없이 새로 도전하면서 가장 좋은 결과와 비교한다. 무엇이 사라지고 무엇이 남는지가 게임에서 성취를 이해하는 기준을 정한다.\n\n해금한 구간이나 인물의 성장까지 다음 플레이에 이어지는 누적 진행과 다르다. 현재 유형은 점수 중심의 기록 보존에 초점을 둔다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

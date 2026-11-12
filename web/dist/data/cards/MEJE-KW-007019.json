@@ -4,8 +4,8 @@
   "title": "말을 잘한다고 착각하는 장황한 화법",
   "original": "Delusions of Eloquence",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01977",
+  "primary_tag_id": "ML-T01977",
   "description": {
     "definition": "세련되게 말하려는 인물이 어려운 단어와 격식을 지나치게 쓰다가 어색하거나 틀린 표현을 만든다. 스스로 생각하는 언변과 듣는 이가 느끼는 말투가 다르다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유식하게 들리려 어려운 단어와 표현을 과도하게 쓰지만 의미와 발음, 문법을 틀리는 말투다. 자신이 의도한 품위와 실제로 전달되는 인상 사이에 차이가 생긴다.\n\n주변이 실수를 알아차리면 화자의 허세가 드러나고, 본인은 계속 자신 있게 말하면 그 차이가 커진다. 반복되는 오류는 인물의 지식 수준뿐 아니라 인정받고 싶은 욕구와 자기 평가를 보여 줄 수 있다.\n\n낯선 전문용어를 정확히 쓰는 행동과는 다르다. 실제 오용의 근거를 확인해야 하며, 외국어 억양과 지역 방언을 무지의 표시로 함께 취급해서는 안 된다. [[말장난]]의 효과도 언어별 문맥에 따라 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유식하게 들리려 어려운 단어와 표현을 과도하게 쓰지만 의미와 발음, 문법을 틀리는 말투다. 자신이 의도한 품위와 실제로 전달되는 인상 사이에 차이가 생긴다.\n\n주변이 실수를 알아차리면 화자의 허세가 드러나고, 본인은 계속 자신 있게 말하면 그 차이가 커진다. 반복되는 오류는 인물의 지식 수준뿐 아니라 인정받고 싶은 욕구와 자기 평가를 보여 줄 수 있다.\n\n낯선 전문용어를 정확히 쓰는 행동과는 다르다. 실제 오용의 근거를 확인해야 하며, 외국어 억양과 지역 방언을 무지의 표시로 함께 취급해서는 안 된다. [[말장난]]의 효과도 언어별 문맥에 따라 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

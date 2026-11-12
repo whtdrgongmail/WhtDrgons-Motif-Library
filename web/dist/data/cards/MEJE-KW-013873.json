@@ -4,8 +4,8 @@
   "title": "방호복",
   "original": "Hazmat Suit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01436",
+  "primary_tag_id": "ML-T01436",
   "description": {
     "definition": "위험 물질이나 오염 환경에서 착용자의 몸을 격리해 보호하는 전신 장비로, 작품에서는 주변의 보이지 않는 위험을 알리는 표지이기도 하다.",
     "detail": "작품 사례: [[Immortal Legacy: The Jade Cipher]]의 연구진은 지하 동굴에서 방호복을 입지만 몸을 흡수하는 물질이 보호복까지 뚫어, 장비의 존재와 보호 한계를 함께 보여 준다.",
@@ -13,10 +13,10 @@
     "boundary": "착용자 자신의 능력이 밖으로 새지 않게 막는 옷과 구별하며 실제 보호 성능을 일률적으로 보장하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "환경과 신체 사이에 장벽을 두어 위험한 곳에 접근하게 하는 보호 장비다. 착용 여부는 주변 환경이 일상적이지 않다는 시각적 정보도 제공한다.\n\n착용자의 힘이 밖으로 새는 것을 막는 억제복과는 방향이 다르다. 보호 성능은 작품마다 제한되며 복장의 존재가 안전을 보장하지는 않는다.\n\n[[Immortal Legacy: The Jade Cipher]]의 연구진은 지하 동굴에서 방호복을 착용한다. 그러나 몸을 흡수하는 물질이 복장을 뚫고 들어와 장비와 그 한계를 함께 드러낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "환경과 신체 사이에 장벽을 두어 위험한 곳에 접근하게 하는 보호 장비다. 착용 여부는 주변 환경이 일상적이지 않다는 시각적 정보도 제공한다.\n\n착용자의 힘이 밖으로 새는 것을 막는 억제복과는 방향이 다르다. 보호 성능은 작품마다 제한되며 복장의 존재가 안전을 보장하지는 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[Immortal Legacy: The Jade Cipher]]의 연구진은 지하 동굴에서 방호복을 착용한다. 그러나 몸을 흡수하는 물질이 복장을 뚫고 들어와 장비와 그 한계를 함께 드러낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

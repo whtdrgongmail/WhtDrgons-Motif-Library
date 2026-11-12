@@ -4,8 +4,8 @@
   "title": "도시 전체가 이동하는 공동체",
   "original": "Mobile Cities",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01303",
+  "primary_tag_id": "ML-T01303",
   "description": {
     "definition": "주민과 생활 시설을 실은 도시 규모의 구조물이 이동하며 하나의 자치 생활권을 이루는 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단순한 교통수단이나 일시적인 이동 캠프와 다르다. 지속적인 도시 기능과 공동체가 이동 구조물에 담겨 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "도시 전체가 움직이면 집과 시설을 가진 공동체가 고정된 영토 없이 이동한다. 주민은 여행객이 아니라 이동 구조물 안에서 일상과 자치를 유지한다.\n\n자원 확보와 교역은 정착지 주변의 문제가 아니라 이동 경로의 문제가 된다. 다른 영역을 지나갈 때는 도시의 생활권과 외부의 영토가 충돌할 수 있다.\n\n큰 교통수단이나 임시 캠프와는 다르다. 지속적인 도시 기능이 이동하는 구조 안에 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "도시 전체가 움직이면 집과 시설을 가진 공동체가 고정된 영토 없이 이동한다. 주민은 여행객이 아니라 이동 구조물 안에서 일상과 자치를 유지한다.\n\n자원 확보와 교역은 정착지 주변의 문제가 아니라 이동 경로의 문제가 된다. 다른 영역을 지나갈 때는 도시의 생활권과 외부의 영토가 충돌할 수 있다.\n\n큰 교통수단이나 임시 캠프와는 다르다. 지속적인 도시 기능이 이동하는 구조 안에 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "유포릭 하드스타일",
   "original": "Euphoric hardstyle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008393",
+  "primary_tag_id": "MEJE-KW-008393",
   "description": {
     "definition": "[[하드스타일]]의 타격감을 유지하면서 흐르는 선율과 감정적인 상승감을 강조하는 양식이다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": "거친 소리를 극대화하는 로 스타일과 강조점이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.304.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "유포릭 [[하드스타일]]은 하드스타일의 강한 타격 위에 흐르는 선율과 감정적인 상승을 강조한다. 리듬의 힘과 선율의 전개를 함께 사용하는 양식으로, 밝은 제목이나 보컬만으로 구분되는 범주는 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "유포릭 [[하드스타일]]은 하드스타일의 강한 타격 위에 흐르는 선율과 감정적인 상승을 강조한다. 리듬의 힘과 선율의 전개를 함께 사용하는 양식으로, 밝은 제목이나 보컬만으로 구분되는 범주는 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

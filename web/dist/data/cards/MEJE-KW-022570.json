@@ -4,8 +4,8 @@
   "title": "관절을 꺾는 소리로 싸울 태세 알리기",
   "original": "Knuckle Cracking",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02009",
+  "primary_tag_id": "ML-T02009",
   "description": {
     "definition": "손가락 등 관절을 꺾는 소리를 강조하여 인물이 긴장하거나 싸울 준비를 마쳤음을 드러내는 연출이다.",
     "detail": "한 손·두 손·목·어깨의 변형을 쓰거나 물건을 손으로 찌그러뜨리는 동작으로 같은 긴장을 대체하기도 한다.\n\n작품 사례: 《[[신의 탑]]》의 황소는 목을 꺾는 소리를 통해 신체적 위압감을 드러낸다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 관절 건강이나 습관에 대한 설명이 아니라 몸을 준비된 무기처럼 보이게 하는 음향 기능이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00090",
-      "work_card_id": "MM-MEDIA-001296",
+      "work_card_id": "MM-MEDIA-002484",
       "description_ko": "《신의 탑》의 황소는 목을 꺾는 소리를 통해 신체적 위압감을 드러낸다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "손가락과 다른 관절을 꺾는 소리를 강조해 싸움이나 힘든 일의 준비를 알리는 연출이다. 작은 동작이 행동 직전의 긴장을 만든다.\n\n말없이 손을 움직이면 평소 침착한 인물도 이제 진지해졌다는 신호가 된다. 상대는 소리를 듣고 위협을 느끼거나 같은 동작으로 맞설 수 있다.\n\n일상적인 습관을 그대로 보여 주는 경우와는 장면의 기능이 다르다. 싸울 준비라는 의미는 편집과 반응에서 생기며, 실제 능력의 크기를 증명하는 동작은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "손가락과 다른 관절을 꺾는 소리를 강조해 싸움이나 힘든 일의 준비를 알리는 연출이다. 작은 동작이 행동 직전의 긴장을 만든다.\n\n말없이 손을 움직이면 평소 침착한 인물도 이제 진지해졌다는 신호가 된다. 상대는 소리를 듣고 위협을 느끼거나 같은 동작으로 맞설 수 있다.\n\n일상적인 습관을 그대로 보여 주는 경우와는 장면의 기능이 다르다. 싸울 준비라는 의미는 편집과 반응에서 생기며, 실제 능력의 크기를 증명하는 동작은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "영웅이 된 이유를 말하는 연설",
   "original": "Heroism Motive Speech",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01962",
+  "primary_tag_id": "ML-T01962",
   "description": {
     "definition": "인물이 자신이 영웅으로 행동하는 계기와 목적, 영웅이라는 역할의 의미를 말로 설명하는 장면이다.",
     "detail": "작품 사례: [[Bleach]]에서 이치고는 어머니를 잃은 뒤 가족이 겪은 고통 때문에 가능한 많은 사람을 지키고 싶다고 이시다에게 말한다. 이 설명을 들은 이시다는 함께 호로와 싸우자는 제안을 받아들인다.",
@@ -13,10 +13,10 @@
     "boundary": "목표가 반드시 이타적일 필요는 없으며 단순한 승리 자랑과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00050",
-      "work_card_id": "MM-MEDIA-000117",
+      "work_card_id": "MM-MEDIA-002137",
       "description_ko": "Bleach에서 이치고는 어머니를 잃은 뒤 가족이 겪은 고통 때문에 가능한 많은 사람을 지키고 싶다고 이시다에게 말한다. 이 설명을 들은 이시다는 함께 호로와 싸우자는 제안을 받아들인다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현재의 영웅 활동을 선택한 이유와 행동 원칙을 스스로 설명하는 발화다. 과거의 상실과 욕망이 지금의 보호와 싸움에 연결될 수 있다.\n\n목표가 반드시 순수한 이타심이어야 하는 것은 아니다. 승리와 능력을 자랑하는 말보다 왜 그 역할을 맡는지 이해하게 하는 설명이 중심이다.\n\n[[Bleach]]의 이치고는 어머니를 잃은 가족의 고통 때문에 가능한 많은 이를 지키고 싶다고 이시다에게 말한다. 그 설명은 함께 호로와 싸우자는 제안을 받아들이게 하는 계기가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현재의 영웅 활동을 선택한 이유와 행동 원칙을 스스로 설명하는 발화다. 과거의 상실과 욕망이 지금의 보호와 싸움에 연결될 수 있다.\n\n목표가 반드시 순수한 이타심이어야 하는 것은 아니다. 승리와 능력을 자랑하는 말보다 왜 그 역할을 맡는지 이해하게 하는 설명이 중심이다."
+      ],
+      [
+        "관련 작품",
+        "[[Bleach]]의 이치고는 어머니를 잃은 가족의 고통 때문에 가능한 많은 이를 지키고 싶다고 이시다에게 말한다. 그 설명은 함께 호로와 싸우자는 제안을 받아들이게 하는 계기가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

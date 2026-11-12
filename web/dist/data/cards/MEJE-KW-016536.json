@@ -4,8 +4,8 @@
   "title": "인류의 강인함을 찬양하는 SF",
   "original": "HFY",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00231",
+  "primary_tag_id": "ML-T00231",
   "description": {
     "definition": "인간이 외계 종족의 예상을 넘어 강하고 질긴 존재임을 드러내며 인류에 대한 자긍심을 중심 정서로 삼는 공상과학 이야기 계열이다. 익숙한 인간의 능력이 낯선 관찰자에게 경이로워지는 방식도 쓰인다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": "인간이 주인공이거나 승리한다는 사실만으로는 부족하며 인간의 종적 장점을 강조하는 구도가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.104",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "외계인들이 인간을 얕봤다가 인간의 강인함에 놀라는 SF 이야기다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인간에게 익숙한 능력이 외계인의 예상과 비교되어 놀라운 강점으로 제시된다. 낯선 관찰자의 반응이 인류를 새롭게 바라보는 창구가 된다.\n\n이야기의 중심 정서는 인간의 강인함과 끈질김에 대한 자긍심이다. 무엇을 강점으로 택했는지와 상대가 무엇을 예상했는지가 대비를 만든다.\n\n인간 주인공이 승리하는 모든 SF를 뜻하지 않는다. 개인의 성공을 넘어 인간이라는 종의 특징을 찬양하는 구도가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인간에게 익숙한 능력이 외계인의 예상과 비교되어 놀라운 강점으로 제시된다. 낯선 관찰자의 반응이 인류를 새롭게 바라보는 창구가 된다.\n\n이야기의 중심 정서는 인간의 강인함과 끈질김에 대한 자긍심이다. 무엇을 강점으로 택했는지와 상대가 무엇을 예상했는지가 대비를 만든다.\n\n인간 주인공이 승리하는 모든 SF를 뜻하지 않는다. 개인의 성공을 넘어 인간이라는 종의 특징을 찬양하는 구도가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "그림책",
   "original": "Picture Books",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00594",
+  "primary_tag_id": "ML-T00594",
   "description": {
     "definition": "그림과 글이 서로 중요한 정보를 맡아 함께 작품을 이루는 책 형식이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "글만 읽거나 그림만 보면 빠지는 부분이 있어, 두 요소를 함께 따라가며 이야기를 이해하는 책이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "그림은 글에 이미 있는 내용을 장식하는 데 그치지 않고 인물의 표정, 공간, 말하지 않은 사건을 전달할 수 있다. 글과 그림이 같은 정보를 강화하기도 하고 서로 다른 정보를 주어 독자가 그 사이를 연결하게 만들기도 한다. 페이지를 넘기는 순서와 화면의 구성도 읽기의 흐름에 참여한다.\n\n글쓴이와 그림 작가가 같을 필요는 없으며 독자 역시 어린이로만 한정되지 않는다. 핵심은 두 요소가 작품의 표현을 함께 담당한다는 것이다. 설명을 돕기 위한 삽화가 드물게 들어간 책과는 그림의 지속적인 비중과 서사적 역할을 살펴 구별할 수 있다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "그림은 글에 이미 있는 내용을 장식하는 데 그치지 않고 인물의 표정, 공간, 말하지 않은 사건을 전달할 수 있다. 글과 그림이 같은 정보를 강화하기도 하고 서로 다른 정보를 주어 독자가 그 사이를 연결하게 만들기도 한다. 페이지를 넘기는 순서와 화면의 구성도 읽기의 흐름에 참여한다.\n\n글쓴이와 그림 작가가 같을 필요는 없으며 독자 역시 어린이로만 한정되지 않는다. 핵심은 두 요소가 작품의 표현을 함께 담당한다는 것이다. 설명을 돕기 위한 삽화가 드물게 들어간 책과는 그림의 지속적인 비중과 서사적 역할을 살펴 구별할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

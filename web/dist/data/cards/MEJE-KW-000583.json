@@ -4,8 +4,8 @@
   "title": "마력이 전자기기를 고장 내기",
   "original": "Magic Harms Technology",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01214",
+  "primary_tag_id": "ML-T01214",
   "description": {
     "definition": "마력이 강한 사람이나 장소 가까이에서 전기·전자 장치가 작동을 멈추거나 불안정해지는 세계 [[규칙]]. 어떤 기술까지 영향을 받는지 정해야 마법과 일상 기반 시설의 공존 조건이 보인다. [[세계에 퍼진 배경 마력장]]은 그런 간섭이 퍼지는 환경의 한 가능한 원인이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "강한 마력 근처에서 기기가 멈추면 마법의 존재는 일상의 기술 기반에도 영향을 준다. 능력자와 전자 장치가 같은 공간에 있는 것이 제약이 된다.\n\n어떤 기술까지 간섭하는지 정하면 생활과 시설의 설계도 달라진다. 단순한 전투 약점보다 마법과 기술이 함께 존재하는 조건을 설명하는 규칙이다.\n\n마법사 주변의 고장을 모두 같은 원인으로 추정할 수는 없다. 작품 안에 실제 간섭 관계가 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "강한 마력 근처에서 기기가 멈추면 마법의 존재는 일상의 기술 기반에도 영향을 준다. 능력자와 전자 장치가 같은 공간에 있는 것이 제약이 된다.\n\n어떤 기술까지 간섭하는지 정하면 생활과 시설의 설계도 달라진다. 단순한 전투 약점보다 마법과 기술이 함께 존재하는 조건을 설명하는 규칙이다.\n\n마법사 주변의 고장을 모두 같은 원인으로 추정할 수는 없다. 작품 안에 실제 간섭 관계가 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

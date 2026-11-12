@@ -4,8 +4,8 @@
   "title": "쇠약함을 부정하고 싸움에 나서는 노병",
   "original": "Perilous Old Fool",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02587",
+  "primary_tag_id": "ML-T02587",
   "description": {
     "definition": "과거의 전투 능력을 현재에도 유지한다고 믿어 자신의 쇠약함을 인정하지 않고 위험한 싸움에 나서는 인물이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.014",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "한때 강했던 노병이 지금도 똑같이 해낼 수 있다고 고집하지만 몸은 따라주지 않는 경우다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "과거의 명성과 자기 인식이 현재의 수행 능력에서 멀어지면서 위험이 생긴다. 주변이 만류해도 인물은 자존심이나 오래된 역할에 매달리며, 실제 대결은 인정하지 않던 변화를 드러낼 수 있다. [[한때 강했던 인물의 위상이 약해지기]]가 인물 스스로 받아들이지 못하는 갈등으로 이어진다.\n\n나이가 많다는 이유만으로 이 유형이 되는 것은 아니다. 여전히 능력이 충분한 인물이나 한계를 알면서 다른 사람을 위해 희생하는 인물과는 다르다. [[다쳤는데도 계속 싸우겠다고 고집하기]]와 겹치더라도 자신의 현재 상태를 잘못 판단한다는 조건이 핵심이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "과거의 명성과 자기 인식이 현재의 수행 능력에서 멀어지면서 위험이 생긴다. 주변이 만류해도 인물은 자존심이나 오래된 역할에 매달리며, 실제 대결은 인정하지 않던 변화를 드러낼 수 있다. [[한때 강했던 인물의 위상이 약해지기]]가 인물 스스로 받아들이지 못하는 갈등으로 이어진다.\n\n나이가 많다는 이유만으로 이 유형이 되는 것은 아니다. 여전히 능력이 충분한 인물이나 한계를 알면서 다른 사람을 위해 희생하는 인물과는 다르다. [[다쳤는데도 계속 싸우겠다고 고집하기]]와 겹치더라도 자신의 현재 상태를 잘못 판단한다는 조건이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

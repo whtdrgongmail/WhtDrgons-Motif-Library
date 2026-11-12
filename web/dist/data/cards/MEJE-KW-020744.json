@@ -4,28 +4,28 @@
   "title": "여러 문에 쓸 수 있지만 한 번 쓰면 없어지는 열쇠",
   "original": "Interchangeable Antimatter Keys",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02105",
+  "primary_tag_id": "ML-T02105",
   "description": {
     "definition": "서로 다른 잠금장치에 공통으로 쓸 수 있으면서도 한 번 문을 열 때마다 소모되는 열쇠를 자원처럼 다루는 게임 규칙이다.",
     "detail": "색상·지역·던전이 같은 잠금장치 안에서만 호환될 수 있다. 소모는 열쇠의 소멸·파손·장치에 고정되는 방식 등으로 표현된다.\n\n작품 사례: 《[[엘든 링]]》의 석검 열쇠는 여러 석상 장치에 사용할 수 있지만, 결계를 열 때 장치에 고정되어 다시 쓸 수 없게 된다.",
     "usage": "문 열기를 자원 배분 문제로 바꾸어 탐색 순서와 선택의 대가를 만든다.",
-    "boundary": "특정 문에만 맞는 열쇠가 사용 후 정리되는 경우나 여러 번 쓰는 만능열쇠와 구별한다. 호환성과 일회성 소모가 함께 필요하다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.004.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "열쇠가 어느 문에 맞는지보다 몇 개 남았는지가 다음 이동을 결정한다.\n\n작품 사례: 《[[엘든 링]]》의 석검 열쇠는 여러 석상 장치에 사용할 수 있지만, 결계를 열 때 장치에 고정되어 다시 쓸 수 없게 된다.",
+    "easy_ko": "열쇠가 어느 문에 맞는지보다 몇 개 남았는지가 다음 이동을 결정한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "색상·지역·던전이 같은 잠금장치 안에서만 호환될 수 있다. 소모는 열쇠의 소멸·파손·장치에 고정되는 방식 등으로 표현된다.\n\n문 열기를 자원 배분 문제로 바꾸어 탐색 순서와 선택의 대가를 만든다.\n\n특정 문에만 맞는 열쇠가 사용 후 정리되는 경우나 여러 번 쓰는 만능열쇠와 구별한다. 호환성과 일회성 소모가 함께 필요하다.\n\n《[[엘든 링]]》의 석검 열쇠는 여러 석상 장치에 사용할 수 있지만, 결계를 열 때 장치에 고정되어 다시 쓸 수 없게 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "색상·지역·던전이 같은 잠금장치 안에서만 호환될 수 있다. 소모는 열쇠의 소멸·파손·장치에 고정되는 방식 등으로 표현된다.\n\n문 열기를 자원 배분 문제로 바꾸어 탐색 순서와 선택의 대가를 만든다.\n\n특정 문에만 맞는 열쇠가 사용 후 정리되는 경우나 여러 번 쓰는 만능열쇠와 구별한다. 호환성과 일회성 소모가 함께 필요하다."
+      ],
+      [
+        "관련 작품",
+        "《[[엘든 링]]》의 석검 열쇠는 여러 석상 장치에 사용할 수 있지만, 결계를 열 때 장치에 고정되어 다시 쓸 수 없게 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

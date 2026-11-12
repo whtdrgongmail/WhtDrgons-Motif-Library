@@ -4,8 +4,8 @@
   "title": "전염될까 두려워 물러나게 하는 꾀병",
   "original": "You Don't Want to Catch This",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00787",
+  "primary_tag_id": "ML-T00787",
   "description": {
     "definition": "아픈 척하면서 상대가 감염을 두려워하도록 만들어 접근이나 간섭을 피한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 꾀병 중 전염에 대한 두려움을 이용하는 유형이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "감염될지 모른다는 상대의 두려움을 이용해 접근과 검문을 피하려는 거짓 연기다. 본인의 약함을 드러내는 듯한 행동이 오히려 방어 수단이 된다.\n\n상대가 가까이 확인하는 일을 위험하다고 생각하면 숨긴 정체와 물건을 조사하지 못할 수 있다. 구체적인 병이 사실인지보다 겁을 줄 만큼 그럴듯하게 받아들여지는지가 장면의 조건이다.\n\n진짜 병으로 타인에게 위험을 주는 상황과는 다르다. 허구에서는 허술한 경계와 즉흥적인 기만을 보여 주는 장치이며 실제 의료 정보와 무관한 소문을 이용하는 인물의 행동으로 이해해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "감염될지 모른다는 상대의 두려움을 이용해 접근과 검문을 피하려는 거짓 연기다. 본인의 약함을 드러내는 듯한 행동이 오히려 방어 수단이 된다.\n\n상대가 가까이 확인하는 일을 위험하다고 생각하면 숨긴 정체와 물건을 조사하지 못할 수 있다. 구체적인 병이 사실인지보다 겁을 줄 만큼 그럴듯하게 받아들여지는지가 장면의 조건이다.\n\n진짜 병으로 타인에게 위험을 주는 상황과는 다르다. 허구에서는 허술한 경계와 즉흥적인 기만을 보여 주는 장치이며 실제 의료 정보와 무관한 소문을 이용하는 인물의 행동으로 이해해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

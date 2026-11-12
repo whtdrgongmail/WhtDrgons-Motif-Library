@@ -1,11 +1,11 @@
 {
   "id": "MEJE-KW-010407",
   "kind": "keyword",
-  "title": "민속 음악을 섞은 메탈",
+  "title": "포크 메탈",
   "original": "Folk Metal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-010407",
+  "primary_tag_id": "MEJE-KW-010407",
   "description": {
     "definition": "[[헤비메탈]]의 강한 리듬과 악기에 지역 전통 선율·악기·노랫말을 결합한 음악 장르다. [[포크]]의 전통 선율과 연주 방식이 메탈 편곡의 바탕이 된다.",
     "detail": "",
@@ -13,28 +13,48 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "민속 음악을 섞은 메탈은 메탈의 강한 연주에 지역 전통의 선율이나 악기, 노랫말을 결합한 음악이다. 민속 요소가 장식으로 잠깐 들리는 경우와 달리 두 음악의 어울림이 곡의 인상을 만드는지 살펴야 한다.",
+    "easy_ko": "포크 메탈은 메탈의 강한 연주에 지역 전통의 선율이나 악기, 노랫말을 결합한 음악이다. 민속 요소가 장식으로 잠깐 들리는 경우와 달리 두 음악의 어울림이 곡의 인상을 만드는지 확인해야 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-01",
-    "row_version": 1
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[포크 메탈]]은 헤비메탈의 기타·드럼 중심 편곡에 민속 음악의 선율, 노랫말, 악기 또는 연주 관습을 지속적으로 결합하는 장르다. 지역 전통에서 재료를 가져오는 경우가 많지만, 연주자의 출신 지역과 음악의 소재가 일치해야 하는 것은 아니다. 금속성 음향 위에 민속 악기를 잠깐 얹는 것과 민속적 요소가 곡의 구조를 이루는 것은 구별한다.\n\n메탈 쪽에서는 블랙 메탈, 데스 메탈, 파워 메탈 등 서로 다른 양식이 바탕이 될 수 있다. 민속 악기의 소리를 실제 악기로 연주하거나 전자 건반으로 재현할 수도 있다. 따라서 특정 악기 하나를 필수 조건으로 두기보다 메탈 편곡과 민속적 음악 재료가 어떤 관계로 조직되는지 확인한다.\n\n가상 예시: 메탈 밴드가 전통 춤곡의 선율과 박자 구조를 기타 리프·드럼 패턴에 맞게 재구성한다면 포크 메탈의 결합 방식을 설명할 수 있다. 전통 의상만 입고 일반적인 메탈 곡을 연주하는 경우에는 시각적 표지만으로 장르를 확정할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[포크 메탈]]은 헤비메탈의 기타·드럼 중심 편곡에 민속 음악의 선율, 노랫말, 악기 또는 연주 관습을 지속적으로 결합하는 장르다. 지역 전통에서 재료를 가져오는 경우가 많지만, 연주자의 출신 지역과 음악의 소재가 일치해야 하는 것은 아니다. 금속성 음향 위에 민속 악기를 잠깐 얹는 것과 민속적 요소가 곡의 구조를 이루는 것은 구별한다.\n\n메탈 쪽에서는 블랙 메탈, 데스 메탈, 파워 메탈 등 서로 다른 양식이 바탕이 될 수 있다. 민속 악기의 소리를 실제 악기로 연주하거나 전자 건반으로 재현할 수도 있다. 따라서 특정 악기 하나를 필수 조건으로 두기보다 메탈 편곡과 민속적 음악 재료가 어떤 관계로 조직되는지 확인한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 메탈 밴드가 전통 춤곡의 선율과 박자 구조를 기타 리프·드럼 패턴에 맞게 재구성한다면 포크 메탈의 결합 방식을 설명할 수 있다. 전통 의상만 입고 일반적인 메탈 곡을 연주하는 경우에는 시각적 표지만으로 장르를 확정할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

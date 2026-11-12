@@ -4,8 +4,8 @@
   "title": "비현실적으로 높은 지능지수로 천재 표시하기",
   "original": "Improbably High I.Q.",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01989",
+  "primary_tag_id": "ML-T01989",
   "description": {
     "definition": "인물의 비범한 지능을 구체적인 사고 과정 대신 측정 범위를 극단적으로 넘어 보이는 높은 지능지수 수치로 강조한다.",
     "detail": "작품 사례: 《[[나루토]]》에서 시카마루는 지능지수가 200을 넘는다고 소개되어 뛰어난 전략적 지능을 숫자로도 강조받는다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 검사 결과의 타당성을 수치만으로 판단하지 않는다. 허구에서 수치가 인물화의 표지로 쓰이는 방식이 대상이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001303",
+      "work_card_id": "MM-MEDIA-002184",
       "description_ko": "《나루토》에서 시카마루는 지능지수가 200을 넘는다고 소개되어 뛰어난 전략적 지능을 숫자로도 강조받는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "높은 지능지수의 숫자를 제시하여 천재성을 짧게 전달한다. 실제 사고 과정과 별개로 수치가 권위와 비교의 표지가 되어 인물의 전략적 능력을 강조한다.\n\n허구의 숫자로 실제 검사의 타당성을 판단하지 않는다. 높은 값이 제시된 사실과 작품에서 관찰되는 판단력을 구분해야 한다.\n\n《[[나루토]]》는 시카마루의 지능지수가 200을 넘는다고 소개한다. 전략가라는 인물상이 숫자 설명으로도 뒷받침된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "높은 지능지수의 숫자를 제시하여 천재성을 짧게 전달한다. 실제 사고 과정과 별개로 수치가 권위와 비교의 표지가 되어 인물의 전략적 능력을 강조한다.\n\n허구의 숫자로 실제 검사의 타당성을 판단하지 않는다. 높은 값이 제시된 사실과 작품에서 관찰되는 판단력을 구분해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[나루토]]》는 시카마루의 지능지수가 200을 넘는다고 소개한다. 전략가라는 인물상이 숫자 설명으로도 뒷받침된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

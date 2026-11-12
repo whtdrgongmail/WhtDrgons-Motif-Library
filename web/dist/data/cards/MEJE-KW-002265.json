@@ -4,8 +4,8 @@
   "title": "운동만 하면 서투른 인물",
   "original": "Athletically Challenged",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00929",
+  "primary_tag_id": "ML-T00929",
   "description": {
     "definition": "평소에는 능숙해 보여도 공을 다루거나 몸을 맞춰 움직이는 활동에는 유난히 서툰 [[캐릭터]]. 한 가지 운동 실력과 인물 전체의 가치 판단을 구분한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 일에는 문제가 없어도 운동 경기에서 유독 동작과 판단이 어긋나는 인물이다. 팀 활동에서 실패가 공개되므로 실력 부족이 사회적 곤란으로 이어지기 쉽다.\n\n실패는 공을 놓치는 작은 행동부터 팀 전체를 곤란하게 하는 오판까지 이어질 수 있다. 다른 분야의 유능함과 대비하면 운동상의 약점이 인물의 균형을 만든다. 주변의 조롱과 배려 가운데 무엇을 강조하는지에 따라 같은 장면이 잔인한 웃음이나 성장의 계기가 된다.\n\n훈련과 협력을 통한 성장에 쓰이거나 짧은 신체 희극으로 소비될 수 있다. 한 번의 실수보다 종목이 바뀌어도 반복되는 운동상의 서투름이 인물 유형을 형성한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 일에는 문제가 없어도 운동 경기에서 유독 동작과 판단이 어긋나는 인물이다. 팀 활동에서 실패가 공개되므로 실력 부족이 사회적 곤란으로 이어지기 쉽다.\n\n실패는 공을 놓치는 작은 행동부터 팀 전체를 곤란하게 하는 오판까지 이어질 수 있다. 다른 분야의 유능함과 대비하면 운동상의 약점이 인물의 균형을 만든다. 주변의 조롱과 배려 가운데 무엇을 강조하는지에 따라 같은 장면이 잔인한 웃음이나 성장의 계기가 된다.\n\n훈련과 협력을 통한 성장에 쓰이거나 짧은 신체 희극으로 소비될 수 있다. 한 번의 실수보다 종목이 바뀌어도 반복되는 운동상의 서투름이 인물 유형을 형성한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

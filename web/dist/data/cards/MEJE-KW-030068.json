@@ -4,8 +4,8 @@
   "title": "번역판에서 만든 이름을 원어 후속편이 채택하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02282",
+  "primary_tag_id": "ML-T02282",
   "description": {
     "definition": "번역이나 더빙에서 새로 부여한 인물 이름을 원어로 제작된 후속편이 다시 사용하는 변화다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "[[자기 작품의 번역판을 다시 언급하기]] 일반은 번역판 대사·표현의 참조도 포함하지만 이 개념은 새 이름의 원어판 유입에 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "번역이나 더빙에서 새로 만든 인물 이름이 원어 후속편에 다시 등장한다. 현지화에서 생긴 정보가 원래 제작 언어의 설정으로 유입되는 변화다.\n\n번역판은 수용을 위한 변형에 그치지 않고 이후 창작의 선택에 영향을 준다. 이름이 처음 만들어진 판본과 나중에 채택한 판본을 구분하면 영향의 방향이 드러난다.\n\n번역판의 대사나 표현을 단순히 언급하는 모든 경우를 뜻하지 않는다. 새 이름을 원어로 만든 후속편이 실제 사용한다는 조건에 한정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "번역이나 더빙에서 새로 만든 인물 이름이 원어 후속편에 다시 등장한다. 현지화에서 생긴 정보가 원래 제작 언어의 설정으로 유입되는 변화다.\n\n번역판은 수용을 위한 변형에 그치지 않고 이후 창작의 선택에 영향을 준다. 이름이 처음 만들어진 판본과 나중에 채택한 판본을 구분하면 영향의 방향이 드러난다.\n\n번역판의 대사나 표현을 단순히 언급하는 모든 경우를 뜻하지 않는다. 새 이름을 원어로 만든 후속편이 실제 사용한다는 조건에 한정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

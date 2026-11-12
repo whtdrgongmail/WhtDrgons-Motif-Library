@@ -4,17 +4,17 @@
   "title": "울티마(게임 연작)",
   "original": "Ultima",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《울티마(게임 연작)》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《울티마(게임 연작)》에서는 플레이어가 비플레이어 인물과 이야기할 주제를 직접 입력한다. 알고 있는 단어가 대화의 선택지가 된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비플레이어 인물에게 말할 주제를 플레이어가 직접 입력하는 대화 방식을 사용한다. 알고 있는 단어가 선택지의 목록을 대신하는 구조다.\n\n새 정보를 얻으면 다음 대화에서 시도할 수 있는 표현도 늘어난다. 연작의 모든 판본이 완전히 동일하다고 단정하지 않고 정본이 기록한 입력 방식의 특징만 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "비플레이어 인물에게 말할 주제를 플레이어가 직접 입력하는 대화 방식을 사용한다. 알고 있는 단어가 선택지의 목록을 대신하는 구조다.\n\n새 정보를 얻으면 다음 대화에서 시도할 수 있는 표현도 늘어난다. 연작의 모든 판본이 완전히 동일하다고 단정하지 않고 정본이 기록한 입력 방식의 특징만 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

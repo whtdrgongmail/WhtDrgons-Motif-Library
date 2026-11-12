@@ -4,8 +4,8 @@
   "title": "살아 있는 동료가 봉제인형인 척하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00787",
+  "primary_tag_id": "ML-T00787",
   "description": {
     "definition": "말하고 움직이는 존재가 비밀을 지키기 위해 평범한 봉제인형처럼 행동하여 주변 사람의 의심을 피하는 위장이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제 인형인 경우나 일반 동물인 척하는 위장과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "말하고 움직이는 동료가 비밀을 지키기 위해 봉제인형처럼 행동한다. 살아 있는 존재가 움직이지 않는 물건으로 받아들여지도록 위장한다.\n\n평소의 능력을 드러내지 않아야 일상에 섞일 수 있으므로 정체를 숨기는 행동 자체가 긴장과 희극을 만든다. 누가 보고 있는지에 따라 행동의 허용 범위가 달라진다.\n\n실제 인형인 경우와는 다르다. 일반 동물인 척하는 위장보다 물건처럼 보여야 한다는 조건이 좁다.",
+    "sections": [
+      [
+        "상세 설명",
+        "말하고 움직이는 동료가 비밀을 지키기 위해 봉제인형처럼 행동한다. 살아 있는 존재가 움직이지 않는 물건으로 받아들여지도록 위장한다.\n\n평소의 능력을 드러내지 않아야 일상에 섞일 수 있으므로 정체를 숨기는 행동 자체가 긴장과 희극을 만든다. 누가 보고 있는지에 따라 행동의 허용 범위가 달라진다.\n\n실제 인형인 경우와는 다르다. 일반 동물인 척하는 위장보다 물건처럼 보여야 한다는 조건이 좁다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

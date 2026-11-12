@@ -4,8 +4,8 @@
   "title": "혼인을 건 시험",
   "original": "Engagement Challenge",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00767",
+  "primary_tag_id": "ML-T00767",
   "description": {
     "definition": "누군가와 혼인하려는 인물에게 보호자나 상대가 과제를 내어 자격을 증명하게 한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "혼인하려는 사람에게 과제를 주어 자격을 증명하게 하는 구성이다. 연애의 성취가 능력과 충성, 재산을 시험하는 경쟁으로 바뀐다.\n\n보호자가 후보를 고르거나 당사자가 자신의 기준을 제시할 수 있다. 과제가 불가능하게 설계되었다면 허락을 미루려는 의도와 사랑을 통제하는 권력이 드러난다.\n\n과제에 성공했다고 상대의 동의가 자동으로 생기지는 않는다. 혼인을 보상처럼 취급하는 관습과 인물의 자율성을 구분해야 하며 실제 관계를 알아가는 과정과도 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "혼인하려는 사람에게 과제를 주어 자격을 증명하게 하는 구성이다. 연애의 성취가 능력과 충성, 재산을 시험하는 경쟁으로 바뀐다.\n\n보호자가 후보를 고르거나 당사자가 자신의 기준을 제시할 수 있다. 과제가 불가능하게 설계되었다면 허락을 미루려는 의도와 사랑을 통제하는 권력이 드러난다.\n\n과제에 성공했다고 상대의 동의가 자동으로 생기지는 않는다. 혼인을 보상처럼 취급하는 관습과 인물의 자율성을 구분해야 하며 실제 관계를 알아가는 과정과도 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

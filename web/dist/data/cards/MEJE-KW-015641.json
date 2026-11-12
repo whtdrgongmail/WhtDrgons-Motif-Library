@@ -4,8 +4,8 @@
   "title": "악당을 조롱하는 노래",
   "original": "\"The Villain Sucks\" Song",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "영웅이나 주변 인물들이 악당의 성격과 행동을 비난·조롱하는 내용을 노래로 표현하는 장면이다.",
     "detail": "작품 사례: [[The Return of Captain Invincible]]의 대결 노래에서 미스터 미드나이트가 악당의 뜻을 노래할 때, 캡틴 인빈시블은 상대를 비난하는 노래로 맞선다.",
@@ -13,10 +13,10 @@
     "boundary": "악당의 힘을 경고하거나 그를 찬양하는 곡과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가사의 주된 기능이 악당을 비난하거나 우스운 존재로 만드는 데 있다. 노래를 통한 반격은 [[적대자]]의 위세에 맞서는 행동이 될 수 있으며, 악당의 자기 주장과 나란히 배치되어 대립을 형성하기도 한다.\n\n악당의 위력을 경고하거나 그를 찬양하는 곡과는 평가의 방향이 다르다. 누가 부르느냐만으로 분류하기보다 가사가 무엇을 공격하고 어떤 반응을 만드는지 확인한다.\n\n《[[The Return of Captain Invincible]]》의 대결 노래에서 캡틴 인빈시블은 미스터 미드나이트의 악한 의지를 비난하는 노래로 맞선다. 두 화자의 주장이 음악 안에서 충돌한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가사의 주된 기능이 악당을 비난하거나 우스운 존재로 만드는 데 있다. 노래를 통한 반격은 [[적대자]]의 위세에 맞서는 행동이 될 수 있으며, 악당의 자기 주장과 나란히 배치되어 대립을 형성하기도 한다.\n\n악당의 위력을 경고하거나 그를 찬양하는 곡과는 평가의 방향이 다르다. 누가 부르느냐만으로 분류하기보다 가사가 무엇을 공격하고 어떤 반응을 만드는지 확인한다."
+      ],
+      [
+        "관련 작품",
+        "《[[The Return of Captain Invincible]]》의 대결 노래에서 캡틴 인빈시블은 미스터 미드나이트의 악한 의지를 비난하는 노래로 맞선다. 두 화자의 주장이 음악 안에서 충돌한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

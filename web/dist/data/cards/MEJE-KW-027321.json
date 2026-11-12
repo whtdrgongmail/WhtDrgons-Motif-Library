@@ -4,8 +4,8 @@
   "title": "기이한 사건이 계속 모이는 고정 이유",
   "original": "Magnetic Plot Device",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00727",
+  "primary_tag_id": "ML-T00727",
   "description": {
     "definition": "인물의 소유물·거주지·전문성·지위 같은 지속적인 조건이 새로운 사건을 반복해서 불러들이도록 하는 [[서사]] 장치이다.",
     "detail": "작품 사례: 《[[베르세르크(만화)]]》에서 가츠와 캐스커가 지닌 제물의 낙인은 악령들을 지속적으로 끌어들이며 반복되는 위협의 이유가 된다.",
@@ -13,10 +13,10 @@
     "boundary": "이전 제안의 인물 곁의 물건보다 장소·사회적 역할도 포함한다. 동료를 모으는 개인적 매력과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "06",
+    "code": "06.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소유물과 직업, 거주지 같은 고정 조건이 새 사건을 불러들인다. 같은 인물이 반복적으로 모험을 겪는 이유를 세계 안에 마련한다.\n\n조건이 사라지면 사건의 지속 방식도 달라질 수 있다. 우연이 거듭된다는 설명보다 반복을 연결하는 원인이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소유물과 직업, 거주지 같은 고정 조건이 새 사건을 불러들인다. 같은 인물이 반복적으로 모험을 겪는 이유를 세계 안에 마련한다.\n\n조건이 사라지면 사건의 지속 방식도 달라질 수 있다. 우연이 거듭된다는 설명보다 반복을 연결하는 원인이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

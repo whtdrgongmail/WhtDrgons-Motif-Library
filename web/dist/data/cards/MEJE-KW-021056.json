@@ -4,8 +4,8 @@
   "title": "존재하지만 거의 등장하지 않는 부모",
   "original": "Invisible Parents",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00971",
+  "primary_tag_id": "ML-T00971",
   "description": {
     "definition": "부모가 있다는 설정은 유지되지만 이야기의 초점 밖에 있어 관객에게 모습이 드물게 또는 전혀 제시되지 않는 가족 구성이다.",
     "detail": "화면에 없다는 사실이 방임이나 무능을 뜻하지는 않는다. 자녀와 주요 인물의 사건에 집중하면서 부모의 일상을 생략할 수 있다.\n\n작품 사례: 《[[나루토]]》에서 사쿠라의 부모는 존재가 전제되지만 오랫동안 직접 등장하지 않아, 자녀의 이야기와 별개인 화면 밖 인물로 남는다.",
@@ -13,30 +13,47 @@
     "boundary": "부모가 왜 사라졌는지 불명확한 설정이나 실제 고아·방임 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "주인공에게 부모는 있지만 이야기는 그들을 거의 보여 주지 않는다.\n\n작품 사례: 《[[나루토]]》에서 사쿠라의 부모는 존재가 전제되지만 오랫동안 직접 등장하지 않아, 자녀의 이야기와 별개인 화면 밖 인물로 남는다.",
+    "easy_ko": "주인공에게 부모는 있지만 이야기는 그들을 거의 보여 주지 않는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001303",
+      "work_card_id": "MM-MEDIA-002184",
       "description_ko": "《나루토》에서 사쿠라의 부모는 존재가 전제되지만 오랫동안 직접 등장하지 않아, 자녀의 이야기와 별개인 화면 밖 인물로 남는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화면에 없다는 사실이 방임이나 무능을 뜻하지는 않는다. 자녀와 주요 인물의 사건에 집중하면서 부모의 일상을 생략할 수 있다.\n\n가족의 존재와 작품이 보여 주는 범위를 구분하는 표현 관습이다.\n\n부모가 왜 사라졌는지 불명확한 설정이나 실제 고아·방임 관계와 구별한다.\n\n《[[나루토]]》의 애니메이션 연작에서 사쿠라의 부모는 오랫동안 직접 등장하지 않는다. 이후 질풍전의 여섯 번째 영화와 연동 애니메이션 회차에서 모습과 이름이 공개된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화면에 없다는 사실이 방임이나 무능을 뜻하지는 않는다. 자녀와 주요 인물의 사건에 집중하면서 부모의 일상을 생략할 수 있다.\n\n가족의 존재와 작품이 보여 주는 범위를 구분하는 표현 관습이다.\n\n부모가 왜 사라졌는지 불명확한 설정이나 실제 고아·방임 관계와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[나루토]]》의 애니메이션 연작에서 사쿠라의 부모는 오랫동안 직접 등장하지 않는다. 이후 질풍전의 여섯 번째 영화와 연동 애니메이션 회차에서 모습과 이름이 공개된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

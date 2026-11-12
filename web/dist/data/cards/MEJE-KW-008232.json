@@ -4,8 +4,8 @@
   "title": "쉽게 한눈파는 심판",
   "original": "Easily Distracted Referee",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "중요한 반칙이 일어날 때마다 심판이 사소한 일에 주의를 빼앗겨 결정적인 장면을 놓치는 인물 관습이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "경기 심판이 사소한 자극에 주의를 빼앗겨 중요한 반칙과 승부 장면을 놓치는 구성이다. 특히 프로레슬링의 악역은 심판의 시선을 다른 곳으로 돌려 규칙을 어길 시간을 확보한다.\n\n항의하는 매니저나 링 주변의 소동은 눈앞의 공격을 가리는 수단이 된다. 선역의 유효한 공격이나 승리 조건을 놓치게 하면 [[관객]]은 사실을 알지만 공식 판정에는 반영되지 않는 부당함을 경험한다.\n\n심판이 아예 의식을 잃어 경기를 볼 수 없는 경우와는 원인이 다르다. 주의가 다른 대상으로 이동하는 과정과 그 틈의 악용이 중요하며, 실제 경기의 모든 오심을 이런 고의적 구성으로 해석하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "경기 심판이 사소한 자극에 주의를 빼앗겨 중요한 반칙과 승부 장면을 놓치는 구성이다. 특히 프로레슬링의 악역은 심판의 시선을 다른 곳으로 돌려 규칙을 어길 시간을 확보한다.\n\n항의하는 매니저나 링 주변의 소동은 눈앞의 공격을 가리는 수단이 된다. 선역의 유효한 공격이나 승리 조건을 놓치게 하면 [[관객]]은 사실을 알지만 공식 판정에는 반영되지 않는 부당함을 경험한다.\n\n심판이 아예 의식을 잃어 경기를 볼 수 없는 경우와는 원인이 다르다. 주의가 다른 대상으로 이동하는 과정과 그 틈의 악용이 중요하며, 실제 경기의 모든 오심을 이런 고의적 구성으로 해석하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

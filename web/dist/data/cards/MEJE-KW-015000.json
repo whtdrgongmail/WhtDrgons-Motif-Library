@@ -4,8 +4,8 @@
   "title": "여러 사람의 희망을 꺾으려는 인물",
   "original": "Hope Crusher",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "주변 사람이나 큰 집단이 절망하는 것을 즐기거나 그 자체를 목표로 삼아 희망과 행복을 무너뜨리려는 인물 유형이다.",
     "detail": "작품 사례: [[The NeverEnding Story (1984)]]의 그모르크는 인간의 희망을 꺾으면 지배하기 쉬워진다고 믿고, 판타지아를 없애는 무를 돕는다.",
@@ -13,10 +13,10 @@
     "boundary": "우연히 실망을 주거나 한 사람만 괴롭히는 복수자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 사람의 기대와 희망을 없애는 일을 폭넓은 목표로 삼는 인물이다. 절망이 타인을 통제하는 수단으로 계산될 수 있다.\n\n특정 개인에게 복수하거나 우연히 실망을 주는 행동과 다르다. 희망의 파괴 자체를 추구하고 여러 대상에게 적용하는 목적이 필요하다.\n\n[[The NeverEnding Story (1984)]]의 그모르크는 인간의 희망을 꺾으면 지배하기 쉬워진다고 믿는다. 판타지아를 없애는 무를 돕는 행동이 그 통제의 논리와 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 사람의 기대와 희망을 없애는 일을 폭넓은 목표로 삼는 인물이다. 절망이 타인을 통제하는 수단으로 계산될 수 있다.\n\n특정 개인에게 복수하거나 우연히 실망을 주는 행동과 다르다. 희망의 파괴 자체를 추구하고 여러 대상에게 적용하는 목적이 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[The NeverEnding Story (1984)]]의 그모르크는 인간의 희망을 꺾으면 지배하기 쉬워진다고 믿는다. 판타지아를 없애는 무를 돕는 행동이 그 통제의 논리와 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

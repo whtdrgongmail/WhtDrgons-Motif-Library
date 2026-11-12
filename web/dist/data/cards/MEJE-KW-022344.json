@@ -5,8 +5,8 @@
   "original": "Taking Down a Bounty Notice to Keep It to Yourself",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00767",
+  "primary_tag_id": "ML-T00767",
   "description": {
     "definition": "현상금 등 경쟁이 붙는 정보를 혼자 차지하려고 공개 게시물을 떼어 다른 사람의 접근을 줄인다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "개인적으로 정보를 휴대하려는 목적과 달리 다른 사람에게 숨기는 기능이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공개된 수배나 보상 정보를 먼저 본 인물이 게시물을 떼어 경쟁자의 접근을 막는다. 정보를 휴대하려는 편의가 아니라 다른 사람이 같은 기회를 알지 못하게 하는 독점의 기능이 필요하다.\n\n목표를 찾는 경쟁에 앞서 누가 목표의 존재를 아는지부터 격차가 생긴다. 공개 게시판은 모두를 위한 창구처럼 보이지만 물리적인 게시물 하나에 의존한다면 먼저 온 사람이 그 공공성을 바꿀 수 있다.\n\n다른 경로로도 정보가 널리 퍼졌다면 게시물을 없애는 효과는 제한된다. 그 한계가 탐욕이나 어설픈 계획을 드러낼 수도 있다. 증거를 없애는 행동과도 목적이 다르므로 무엇을 숨겼고 누구에게 이익이 되는지 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공개된 수배나 보상 정보를 먼저 본 인물이 게시물을 떼어 경쟁자의 접근을 막는다. 정보를 휴대하려는 편의가 아니라 다른 사람이 같은 기회를 알지 못하게 하는 독점의 기능이 필요하다.\n\n목표를 찾는 경쟁에 앞서 누가 목표의 존재를 아는지부터 격차가 생긴다. 공개 게시판은 모두를 위한 창구처럼 보이지만 물리적인 게시물 하나에 의존한다면 먼저 온 사람이 그 공공성을 바꿀 수 있다.\n\n다른 경로로도 정보가 널리 퍼졌다면 게시물을 없애는 효과는 제한된다. 그 한계가 탐욕이나 어설픈 계획을 드러낼 수도 있다. 증거를 없애는 행동과도 목적이 다르므로 무엇을 숨겼고 누구에게 이익이 되는지 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -6,17 +6,17 @@
   "aliases": [
     "Madagascar 3: Europe's Most Wanted"
   ],
-  "tag_id": null,
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
-    "definition": "《마다가스카 3: 이번엔 서커스다!》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《마다가스카 3: 이번엔 서커스다!》에서 주인공들은 서커스 동물이라고 속여 이동해 왔지만 뒤부아가 나타나 그들이 동물원 출신임을 드러낸다. 함께하던 동료가 믿었던 전제가 무너지는 전환이다.",
+    "definition": "《마다가스카 3: 이번엔 서커스다!》는 동물원 출신 동물들이 유럽을 거쳐 뉴욕으로 돌아가려는 애니메이션 코미디 영화다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -32,14 +32,18 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《마다가스카 3: 이번엔 서커스다!》에서 주인공들은 서커스 동물이라고 속여 이동해 왔지만 뒤부아가 나타나 그들이 동물원 출신임을 드러낸다. 함께하던 동료가 믿었던 전제가 무너지는 전환이다.",
+    "easy_ko": "알렉스와 친구들이 뉴욕으로 돌아가려 유럽을 여행하는 이야기입니다. 동물 단속관에게 쫓기던 이들은 서커스단에 합류해 새로운 무대를 만들고 탈출구를 찾습니다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-016002",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-020429",
       "row_version": 1
@@ -57,5 +61,33 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000284",
+      "card_id": "MM-MEDIA-002482",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.dreamworks.com/movies/madagascar-europes-most-wanted",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "이 영화는 뉴욕 동물원으로 돌아가려는 알렉스, 마티, 멜먼, 글로리아의 여정을 유럽의 도시와 [[서커스]] 무대에 걸쳐 그린다. 전작의 동물 친구들과 펭귄 일행도 합류하며, 추격극과 앙상블 코미디가 이야기의 중심을 이룬다.\n\n[[서커스]]는 주인공들이 쫓기는 처지를 벗어날 방법인 동시에 자신들의 재능을 새롭게 드러내는 공동의 무대다. 영화는 귀향이라는 목표와 단원들의 공연 준비를 나란히 진행해, 익숙한 친구들의 모험을 활기찬 공연 장면과 결합한다.\n\n드림웍스 공식 소개에 따르면 알렉스 일행은 유럽에서 동물 단속관에게 쫓기다가 서커스에 합류한다. 킹 줄리언과 펭귄들도 함께하며, 이들은 추격을 피하려고 서커스를 활용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 영화는 뉴욕 동물원으로 돌아가려는 알렉스, 마티, 멜먼, 글로리아의 여정을 유럽의 도시와 [[서커스]] 무대에 걸쳐 그린다. 전작의 동물 친구들과 펭귄 일행도 합류하며, 추격극과 앙상블 코미디가 이야기의 중심을 이룬다.\n\n[[서커스]]는 주인공들이 쫓기는 처지를 벗어날 방법인 동시에 자신들의 재능을 새롭게 드러내는 공동의 무대다. 영화는 귀향이라는 목표와 단원들의 공연 준비를 나란히 진행해, 익숙한 친구들의 모험을 활기찬 공연 장면과 결합한다."
+      ],
+      [
+        "사례",
+        "드림웍스 공식 소개에 따르면 알렉스 일행은 유럽에서 동물 단속관에게 쫓기다가 서커스에 합류한다. 킹 줄리언과 펭귄들도 함께하며, 이들은 추격을 피하려고 서커스를 활용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

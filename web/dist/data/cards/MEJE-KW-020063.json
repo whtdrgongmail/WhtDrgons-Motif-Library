@@ -4,8 +4,8 @@
   "title": "뼈 손상을 알리는 섬뜩한 소리",
   "original": "Sickening \"Crunch!\"",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02063",
+  "primary_tag_id": "ML-T02063",
   "description": {
     "definition": "뼈가 부러지는 순간 날카로운 갈라짐이나 으스러짐 소리를 강조해 신체 피해를 청각적으로 전하는 연출이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "현실의 모든 부상이 같은 소리를 낸다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "뼈가 손상되는 순간의 소리를 크게 강조해 부상의 충격을 전달하는 연출이다. 상처를 자세히 보여 주지 않아도 청각으로 피해를 인식하게 한다.\n\n영상에서는 효과음을 앞세우고 글에서는 소리의 질감을 묘사할 수 있다. 주변 인물이 소리에 반응하면 관객이 느끼는 불편함과 사건의 심각성이 함께 강화된다.\n\n이 소리는 현실을 그대로 재현하기보다 장면의 목적에 맞게 과장될 수 있다. 부상자의 말로 상태를 설명하는 방식과 달리 손상 순간을 즉각적으로 체감하게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "뼈가 손상되는 순간의 소리를 크게 강조해 부상의 충격을 전달하는 연출이다. 상처를 자세히 보여 주지 않아도 청각으로 피해를 인식하게 한다.\n\n영상에서는 효과음을 앞세우고 글에서는 소리의 질감을 묘사할 수 있다. 주변 인물이 소리에 반응하면 관객이 느끼는 불편함과 사건의 심각성이 함께 강화된다.\n\n이 소리는 현실을 그대로 재현하기보다 장면의 목적에 맞게 과장될 수 있다. 부상자의 말로 상태를 설명하는 방식과 달리 손상 순간을 즉각적으로 체감하게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

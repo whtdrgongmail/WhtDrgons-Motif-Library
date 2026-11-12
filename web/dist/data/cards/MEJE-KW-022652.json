@@ -4,8 +4,8 @@
   "title": "생포를 위해 갑자기 의식을 빼앗는 매복",
   "original": "Knockout Ambush",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00777",
+  "primary_tag_id": "ML-T00777",
   "description": {
     "definition": "기습자가 대상을 죽이지 않고 데려가기 위해 갑작스러운 공격으로 의식을 잃게 하는 포획 장면이다.",
     "detail": "게임에서는 평소 전투 규칙과 달리 짧은 영상만으로 패배시켜 조작 능력과 불일치가 생기기도 한다.\n\n작품 사례: 《[[스타워즈: 새로운 희망]]》에서 자와들은 드로이드를 무력화하는 무기로 R2-D2와 C-3PO를 매복해 붙잡는다.",
@@ -13,19 +13,19 @@
     "boundary": "일반적인 살상 매복과 구별하며 빠르고 안전한 기절은 허구의 편의일 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "누가 공격했는지 파악하기도 전에 일행이 쓰러지고 붙잡힌다.\n\n작품 사례: 《[[스타워즈: 새로운 희망]]》에서 자와들은 드로이드를 무력화하는 무기로 R2-D2와 C-3PO를 매복해 붙잡는다.",
+    "easy_ko": "누가 공격했는지 파악하기도 전에 일행이 쓰러지고 붙잡힌다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "살해보다 생포와 이동이 목적이므로 이후에는 포로 상태나 장비 상실이 뒤따를 수 있다. 게임에서는 짧은 영상 장면으로 기습과 패배를 확정하여 평소의 전투 규칙과 차이를 만들기도 한다.\n\n일반적인 살상 매복과 구별된다. 짧은 공격으로 안전하게 의식만 잃게 한다는 결과는 허구의 편의적 처리일 수 있으며 실제 신체 반응에 대한 보장이 아니다.\n\n《[[스타워즈: 새로운 희망]]》에서 자와들은 매복하여 드로이드를 무력화하는 무기로 R2-D2를 붙잡는다. 이후 다른 드로이드들과 함께 판매할 대상으로 운반한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "살해보다 생포와 이동이 목적이므로 이후에는 포로 상태나 장비 상실이 뒤따를 수 있다. 게임에서는 짧은 영상 장면으로 기습과 패배를 확정하여 평소의 전투 규칙과 차이를 만들기도 한다.\n\n일반적인 살상 매복과 구별된다. 짧은 공격으로 안전하게 의식만 잃게 한다는 결과는 허구의 편의적 처리일 수 있으며 실제 신체 반응에 대한 보장이 아니다."
+      ],
+      [
+        "관련 작품",
+        "《[[스타워즈: 새로운 희망]]》에서 자와들은 매복하여 드로이드를 무력화하는 무기로 R2-D2를 붙잡는다. 이후 다른 드로이드들과 함께 판매할 대상으로 운반한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

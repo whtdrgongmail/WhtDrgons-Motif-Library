@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-033907",
+  "kind": "keyword",
+  "title": "추가 콘텐츠를 원래 달성률 위에 더하기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "원래 게임의 전체를 100퍼센트로 계산한 기준을 그대로 두고 추가된 콘텐츠의 완료분을 그 위에 누적하는 방식이다.",
+    "detail": "",
+    "usage": "콘텐츠 증가에 따라 달성률 기준이 어떻게 유지되는지 설계한다.",
+    "boundary": "전체 분모를 새로 계산하여 언제나 최대 100퍼센트가 되는 방식과 다르다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "원래 것은 100퍼센트이고 새로 생긴 내용은 그 위로 더해진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "원래 콘텐츠 전체를 100퍼센트로 둔 채 추가 완료분을 그 위에 더한다. 확장 이후에도 기존 달성률의 기준을 유지하는 방식이다.\n\n새 콘텐츠가 늘면 표시 수치가 원래의 최대를 넘을 수 있다. 원래 완료량과 추가 성취를 같은 척도에 누적해 이전 기록의 의미를 보존한다.\n\n분모를 다시 계산해 항상 최대 100퍼센트가 되게 하는 방식과 다르다. 무엇을 기준량으로 유지했는지가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원래 콘텐츠 전체를 100퍼센트로 둔 채 추가 완료분을 그 위에 더한다. 확장 이후에도 기존 달성률의 기준을 유지하는 방식이다.\n\n새 콘텐츠가 늘면 표시 수치가 원래의 최대를 넘을 수 있다. 원래 완료량과 추가 성취를 같은 척도에 누적해 이전 기록의 의미를 보존한다.\n\n분모를 다시 계산해 항상 최대 100퍼센트가 되게 하는 방식과 다르다. 무엇을 기준량으로 유지했는지가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

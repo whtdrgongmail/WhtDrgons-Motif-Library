@@ -4,8 +4,8 @@
   "title": "주연 연인을 둘러싼 보조 구애자들",
   "original": "Supporting Harem",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MEJE-KW-026949",
+  "primary_tag_id": "MEJE-KW-026949",
   "description": {
     "definition": "중심인물의 공식 연인이 따로 확립되어 있으면서 다른 구애자들이 보조적인 관계 집단으로 남는 구성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "후보들의 가능성을 비슷하게 유지하는 균형 하렘과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.002.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누가 연인인지는 정해져 있지만 주변에 계속 다른 연애 후보가 있다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 사람이 중심인물을 좋아하더라도 주된 연애의 축은 한 연인에게 집중된다. 주변 구애자들은 각자의 매력과 에피소드를 제공하지만, 공식적인 관계의 진전에서 같은 우선순위를 갖지는 않는다.\n\n보조 구애자는 주연 커플에게 질투나 오해를 일으키거나 잠시 다른 선택이 가능한 것처럼 보이게 할 수 있다. 연애 게임의 여러 경로 가운데 하나만 각색할 때에도 다른 경로의 인물들이 주변에 남아 이런 구조가 생길 수 있다. 후보들의 가능성을 계속 고르게 유지하는 구성과는 전개의 중심이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 사람이 중심인물을 좋아하더라도 주된 연애의 축은 한 연인에게 집중된다. 주변 구애자들은 각자의 매력과 에피소드를 제공하지만, 공식적인 관계의 진전에서 같은 우선순위를 갖지는 않는다.\n\n보조 구애자는 주연 커플에게 질투나 오해를 일으키거나 잠시 다른 선택이 가능한 것처럼 보이게 할 수 있다. 연애 게임의 여러 경로 가운데 하나만 각색할 때에도 다른 경로의 인물들이 주변에 남아 이런 구조가 생길 수 있다. 후보들의 가능성을 계속 고르게 유지하는 구성과는 전개의 중심이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

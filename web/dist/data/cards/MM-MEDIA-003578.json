@@ -2,24 +2,67 @@
   "id": "MM-MEDIA-003578",
   "kind": "work",
   "title": "파이어 엠블렘 if",
-  "original": "",
+  "original": "ファイアーエムブレムif",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00078",
+  "primary_tag_id": "ML-T00078",
   "description": {
-    "definition": "",
+    "definition": "《파이어 엠블렘 if》는 닌텐도 3DS용으로 2015년 출시된 전략 역할수행 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.016.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "platform",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "서로 다른 나라와 인물들 사이에서 편을 고르고 전투와 이야기를 진행하는 게임이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000174",
+      "card_id": "MM-MEDIA-003578",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.nintendo.co.jp/3ds/bfwj/index.html",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "백야왕국과 암야왕국의 이야기가 갈라지고, 인물 간 대화와 관계를 발전시키는 지원 시스템이 있다. 두 본편 경로와 추가 경로를 포괄하는 작품 표제다.\n\n연결 문맥은 히나타와 오보로의 지원 대화에서 관계가 달라지는 경우를 든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "백야왕국과 암야왕국의 이야기가 갈라지고, 인물 간 대화와 관계를 발전시키는 지원 시스템이 있다. 두 본편 경로와 추가 경로를 포괄하는 작품 표제다."
+      ],
+      [
+        "사례",
+        "연결 문맥은 히나타와 오보로의 지원 대화에서 관계가 달라지는 경우를 든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

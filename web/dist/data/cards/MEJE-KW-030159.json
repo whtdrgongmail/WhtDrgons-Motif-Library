@@ -4,8 +4,8 @@
   "title": "파괴 직전에 탈출하고 돌아갈 길을 잃기",
   "original": "Narrow Annihilation Escape",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00754",
+  "primary_tag_id": "ML-T00754",
   "description": {
     "definition": "장소가 파괴되거나 치명적인 위험에 휩싸이기 직전 간신히 빠져나오지만 그곳으로 돌아가는 연결은 영구히 사라지는 전개다.",
     "detail": "작품 사례: 《[[슈퍼맨(코믹스)]]》에서 조엘은 크립톤이 파괴되기 직전 칼엘을 탈출 캡슐로 지구에 보내지만, 살아남은 아이는 사라진 고향으로 돌아갈 수 없다.",
@@ -13,10 +13,10 @@
     "boundary": "위기 뒤 자유롭게 재방문하는 탈출과 달리 귀환 불가능성이 필수다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.003.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마지막 순간의 탈출은 생존을 얻는 동시에 장소를 잃는 사건이 될 수 있다. 돌아갈 수 없다는 결과가 안도 뒤의 상실감을 남긴다.\n\n원래 장소의 파괴와 위험한 연결의 단절은 다른 원인이다. 멀리서 붕괴를 바라보게 하면 인물이 무엇을 잃었는지 화면으로 확인하게 한다.\n\n다시 방문할 길이 남은 일시적인 탈출과는 다르다. 안전해진 뒤에도 귀환의 가능성이 영구적으로 사라지는 편도 구조가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마지막 순간의 탈출은 생존을 얻는 동시에 장소를 잃는 사건이 될 수 있다. 돌아갈 수 없다는 결과가 안도 뒤의 상실감을 남긴다.\n\n원래 장소의 파괴와 위험한 연결의 단절은 다른 원인이다. 멀리서 붕괴를 바라보게 하면 인물이 무엇을 잃었는지 화면으로 확인하게 한다.\n\n다시 방문할 길이 남은 일시적인 탈출과는 다르다. 안전해진 뒤에도 귀환의 가능성이 영구적으로 사라지는 편도 구조가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

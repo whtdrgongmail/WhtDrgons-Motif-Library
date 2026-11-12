@@ -4,8 +4,8 @@
   "title": "마음씨 좋은 어수룩한 인물",
   "original": "Kindhearted Simpleton",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00940",
+  "primary_tag_id": "ML-T00940",
   "description": {
     "definition": "지식과 판단은 부족하지만 친절과 도덕적 선의로 호감을 얻는 인물형이다.",
     "detail": "작품 사례: [[Good Burger]]의 에드는 어수룩하고 마음씨 좋은 직원으로, 일을 즐기는 태도가 빚 때문에 마지못해 일하는 덱스터와 대비된다.",
@@ -13,10 +13,10 @@
     "boundary": "지적 어려움이 곧 선함을 뜻하지 않으며 작품 안의 [[성격]] 조합을 설명한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "판단과 상황 이해에 서투른 면이 타인을 향한 친절과 함께 나타나는 성격 조합이다. 서투름이 소동을 일으켜도 선의는 주변 관계에 다른 영향을 준다.\n\n지적 어려움이 선함의 원인이라는 뜻은 아니다. 작품 안에서 확인되는 판단의 부족함과 친절의 조합을 설명하며 한쪽 특성만으로 적용하지 않는다.\n\n[[Good Burger]]의 에드는 어수룩하지만 마음씨가 좋고 일을 즐긴다. 그 태도는 빚 때문에 마지못해 일하는 덱스터와 대비되어 두 직원의 동기 차이를 드러낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "판단과 상황 이해에 서투른 면이 타인을 향한 친절과 함께 나타나는 성격 조합이다. 서투름이 소동을 일으켜도 선의는 주변 관계에 다른 영향을 준다.\n\n지적 어려움이 선함의 원인이라는 뜻은 아니다. 작품 안에서 확인되는 판단의 부족함과 친절의 조합을 설명하며 한쪽 특성만으로 적용하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[Good Burger]]의 에드는 어수룩하지만 마음씨가 좋고 일을 즐긴다. 그 태도는 빚 때문에 마지못해 일하는 덱스터와 대비되어 두 직원의 동기 차이를 드러낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

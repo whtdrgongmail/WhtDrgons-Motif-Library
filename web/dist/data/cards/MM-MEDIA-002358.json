@@ -4,42 +4,74 @@
   "title": "Tales of the Crystals",
   "original": "Tales of the Crystals",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02492",
+  "primary_tag_id": "ML-T02492",
   "description": {
-    "definition": "《Tales of the Crystals》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《Tales of the Crystals》는 네 역할과 장소 표시 소품, 모험을 안내하는 카세트테이프와 기록장을 제공한 가정용 역할극 놀이였다. 녹음 안내와 참가자의 행동이 한 체험으로 묶인다.",
+    "definition": "《Tales of the Crystals》는 Milton Bradley가 1993년에 출시한 가정용 판타지 역할놀이 게임이다. 오디오 카세트의 안내에 따라 참가자가 모험을 진행한다.",
+    "detail": "실물 소품과 기록 자료를 제공하고 참가자가 몸을 움직여 맡은 역할을 수행한다. 비디오게임이나 TV 애니메이션이 아니라 녹음 안내를 활용한 가정용 참여 놀이로 분류한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.006.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "participation_mode",
+    "parent_relation": "contextual",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Tales of the Crystals》는 네 역할과 장소 표시 소품, 모험을 안내하는 카세트테이프와 기록장을 제공한 가정용 역할극 놀이였다. 녹음 안내와 참가자의 행동이 한 체험으로 묶인다.",
+    "easy_ko": "카세트테이프의 안내를 들으며 참가자들이 인물을 맡아 모험하는 1993년의 가정용 게임이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
     {
       "card_id": "MEJE-KW-022825",
+      "row_version": 2
+    }
+  ],
+  "references": [
+    {
+      "id": "REF-000255",
+      "card_id": "MM-MEDIA-002358",
+      "label_ko": "The Strong 박물관 소장품",
+      "icon_key": "link",
+      "url": "https://artsandculture.google.com/asset/game-tales-of-the-crystals-0100/WAEckY7s8a6Vzg",
+      "description_ko": "출시 연도, 제작사, 오디오 카세트 형식에 관한 박물관 기록",
+      "sort_order": 1,
       "row_version": 1
     }
   ],
-  "references": []
+  "longform_article": {
+    "text": "《Tales of the Crystals》는 참가자가 정해진 인물의 역할을 맡고 녹음된 안내를 따라 행동하는 [[역할놀이]] 작품이다. The Strong National Museum of Play는 1993년에 Milton Bradley가 출시한 게임이며 오디오 카세트가 진행을 안내한다고 기록한다.\n\n녹음된 지시는 모험의 진행 순서를 제공하고 참가자의 행동은 실제 놀이 공간에서 이뤄진다. 영상 화면에서 캐릭터를 조작하는 비디오게임과 참여 방식이 다르다. 여러 명이 맡은 역할로 상호작용한다는 점에서 [[게임]]과 공연의 경계를 함께 검토할 수 있다.\n\n카세트의 음성 지시와 기록장·소품을 함께 활용해 모험을 진행하는 방식은 음향 매체가 역할놀이의 진행 도구가 되는 사례다.\n\n작품의 출시 정보와 매체 형태는 The Strong National Museum of Play 소장 기록을 기준으로 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Tales of the Crystals》는 참가자가 정해진 인물의 역할을 맡고 녹음된 안내를 따라 행동하는 [[역할놀이]] 작품이다. The Strong National Museum of Play는 1993년에 Milton Bradley가 출시한 게임이며 오디오 카세트가 진행을 안내한다고 기록한다.\n\n녹음된 지시는 모험의 진행 순서를 제공하고 참가자의 행동은 실제 놀이 공간에서 이뤄진다. 영상 화면에서 캐릭터를 조작하는 비디오게임과 참여 방식이 다르다. 여러 명이 맡은 역할로 상호작용한다는 점에서 [[게임]]과 공연의 경계를 함께 검토할 수 있다."
+      ],
+      [
+        "사례",
+        "카세트의 음성 지시와 기록장·소품을 함께 활용해 모험을 진행하는 방식은 음향 매체가 역할놀이의 진행 도구가 되는 사례다."
+      ],
+      [
+        "관련 작품",
+        "작품의 출시 정보와 매체 형태는 The Strong National Museum of Play 소장 기록을 기준으로 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

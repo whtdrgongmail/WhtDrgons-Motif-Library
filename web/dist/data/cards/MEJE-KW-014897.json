@@ -4,8 +4,8 @@
   "title": "정착할 집 없이 사람을 돕는 영웅",
   "original": "Homeless Hero",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "한 지역에서 영웅적인 일을 하면서도 빈곤이나 불운 때문에 안정된 거처 없이 생활하는 인물 유형이다.",
     "detail": "작품 사례: [[The Authority (WildStorm)]]의 아폴로와 미드나이터는 탈출 뒤 수년간 버려진 창고에서 지내면서도 범죄와 싸우는 일을 계속한다.",
@@ -13,10 +13,10 @@
     "boundary": "스스로 떠도는 여행자 영웅이나 일시적으로 집을 비운 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "안정적인 주거와 생계를 얻지 못한 상태에서도 지역의 사람들을 돕는 영웅 유형이다. 선행의 지속과 개인 생활의 불안정이 함께 제시된다.\n\n스스로 떠돌기를 선택한 여행자와는 다르다. 잠깐 집을 비운 상태도 아니며 정착할 공간의 부족이 생활 조건으로 유지되어야 한다.\n\n[[The Authority (WildStorm)]]의 아폴로와 미드나이터는 탈출 후 수년을 버려진 창고에서 지낸다. 그 상태에서도 범죄와 싸워 영웅 활동과 안정된 주거가 분리된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "안정적인 주거와 생계를 얻지 못한 상태에서도 지역의 사람들을 돕는 영웅 유형이다. 선행의 지속과 개인 생활의 불안정이 함께 제시된다.\n\n스스로 떠돌기를 선택한 여행자와는 다르다. 잠깐 집을 비운 상태도 아니며 정착할 공간의 부족이 생활 조건으로 유지되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Authority (WildStorm)]]의 아폴로와 미드나이터는 탈출 후 수년을 버려진 창고에서 지낸다. 그 상태에서도 범죄와 싸워 영웅 활동과 안정된 주거가 분리된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

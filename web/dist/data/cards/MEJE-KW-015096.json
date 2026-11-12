@@ -4,8 +4,8 @@
   "title": "하드코어 테크노",
   "original": "Hardcore Techno",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00522",
+  "primary_tag_id": "ML-T00522",
   "description": {
     "definition": "테크노 계열에서 빠른 템포와 강한 저음, 거친 비트·샘플을 강조하는 여러 전자음악 양식을 포괄하는 범주이다.",
     "detail": "작품 사례: [[Machine Girl]]은 [[하드코어 펑크]]에 하드코어 테크노와 드럼 앤 베이스를 결합하여, 강한 전자 리듬이 다른 공격적인 음악 양식과 만나는 사례가 된다.",
@@ -13,17 +13,20 @@
     "boundary": "하드코어 펑크와 구별하며 모든 하위 양식이 같은 속도나 정서를 갖지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.304.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -34,15 +37,28 @@
     "row_version": 3
   },
   "applied_tags": [],
-  "related_media": [
-    {
-      "media_tag_id": "ML-T00139",
-      "work_card_id": "MM-MEDIA-000564",
-      "description_ko": "Machine Girl은 하드코어 펑크에 하드코어 테크노와 드럼 앤 베이스를 결합하여, 강한 전자 리듬이 다른 공격적인 음악 양식과 만나는 사례가 된다.",
-      "spoiler_level": "unreviewed",
-      "row_version": 1
-    }
-  ],
+  "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "강한 저음과 거친 비트, 빠른 템포를 강조하는 전자음악의 여러 양식을 묶는다. 하나의 고정된 소리보다 관련 양식들이 공유하는 리듬의 경향을 다룬다.\n\n다른 공격적인 음악과 결합할 때 전자 리듬의 성질이 새로운 조합을 만든다. 혼합 사례는 개별 장르의 경계를 없애기보다 어떤 요소가 만났는지 설명하는 자료가 된다.\n\n하드코어 펑크와 이름이 비슷해도 같은 범주는 아니다. 모든 하위 양식이 동일한 속도와 정서를 지닌다고 일반화하지 않는다.\n\n[[Machine Girl]]은 하드코어 펑크에 하드코어 테크노와 드럼 앤 베이스를 결합하는 사례이다.\n\n[[Machine Girl]]",
+    "sections": [
+      [
+        "상세 설명",
+        "강한 저음과 거친 비트, 빠른 템포를 강조하는 전자음악의 여러 양식을 묶는다. 하나의 고정된 소리보다 관련 양식들이 공유하는 리듬의 경향을 다룬다.\n\n다른 공격적인 음악과 결합할 때 전자 리듬의 성질이 새로운 조합을 만든다. 혼합 사례는 개별 장르의 경계를 없애기보다 어떤 요소가 만났는지 설명하는 자료가 된다.\n\n하드코어 펑크와 이름이 비슷해도 같은 범주는 아니다. 모든 하위 양식이 동일한 속도와 정서를 지닌다고 일반화하지 않는다."
+      ],
+      [
+        "사례",
+        "[[Machine Girl]]은 하드코어 펑크에 하드코어 테크노와 드럼 앤 베이스를 결합하는 사례이다."
+      ],
+      [
+        "관련 작품",
+        "[[Machine Girl]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

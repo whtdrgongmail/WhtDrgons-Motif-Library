@@ -4,19 +4,19 @@
   "title": "경전 구절로 말의 무게를 더하기",
   "original": "As the Good Book Says...",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
-    "definition": "인물이 상황에 맞는 성서 구절을 인용해 행동을 정당화하거나 장면에 엄숙함을 준다. 인용의 적절성과 화자의 의도는 별도로 살핀다.",
+    "definition": "인물이 상황에 맞는 성서 구절을 인용해 행동을 정당화하거나 장면에 엄숙함을 준다. 인용 내용의 적절성과 화자의 의도는 별개의 문제다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성서의 표현은 화자의 지식과 신앙, 상황에 대한 판단을 압축할 수 있다. 익숙한 구절을 아는 관객에게는 현재 사건에 원래의 맥락이 겹친다.\n\n인용이 행동과 맞으면 엄숙함이 생기고 어긋나면 위선과 오용이 드러날 수 있다. [[기독교 서사 참조]]와 연결되더라도 단순 인용과 사건 구조의 차용은 나누어 볼 수 있다.\n\n권위 있는 문장을 말했다고 주장이 옳아지는 것은 아니다. 누가 어떤 부분을 어떤 목적으로 골랐는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성서의 표현은 화자의 지식과 신앙, 상황에 대한 판단을 압축할 수 있다. 익숙한 구절을 아는 관객에게는 현재 사건에 원래의 맥락이 겹친다.\n\n인용이 행동과 맞으면 엄숙함이 생기고 어긋나면 위선과 오용이 드러날 수 있다. [[기독교 서사 참조]]와 연결되더라도 단순 인용과 사건 구조의 차용은 나누어 볼 수 있다.\n\n권위 있는 문장을 말했다고 주장이 옳아지는 것은 아니다. 누가 어떤 부분을 어떤 목적으로 골랐는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

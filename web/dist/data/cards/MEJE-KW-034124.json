@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-034124",
+  "kind": "keyword",
+  "title": "가벼운 중간 화면으로 다음 구역의 로딩을 감추기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "다음 게임 구역을 불러오는 동안 처리 부담이 작은 장면을 보여 주어 별도의 로딩 화면 대신 세계 안의 연속된 경험처럼 느끼게 하는 설계다.",
+    "detail": "",
+    "usage": "기술적인 대기 시간과 플레이어가 경험하는 연출 시간을 연결한다.",
+    "boundary": "모든 느린 구간이 로딩을 위한 것이라고 추정하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "다음 장소를 준비하는 시간을 간단한 장면으로 감춘다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "게임은 다음 구역의 준비 동안 처리 부담이 작은 화면을 보여 준다. 별도 대기 화면 대신 같은 세계의 연속적인 시간처럼 연결한다.\n\n기술적인 준비와 플레이어가 체험하는 장면의 길이가 맞물린다. 중간 구간이 어떤 데이터를 기다리는지 확인하면 기능을 설명할 수 있다.\n\n느린 장면이라고 모두 로딩을 숨기는 것은 아니다. 실제 데이터 대기와의 연결이 근거로 확인되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임은 다음 구역의 준비 동안 처리 부담이 작은 화면을 보여 준다. 별도 대기 화면 대신 같은 세계의 연속적인 시간처럼 연결한다.\n\n기술적인 준비와 플레이어가 체험하는 장면의 길이가 맞물린다. 중간 구간이 어떤 데이터를 기다리는지 확인하면 기능을 설명할 수 있다.\n\n느린 장면이라고 모두 로딩을 숨기는 것은 아니다. 실제 데이터 대기와의 연결이 근거로 확인되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

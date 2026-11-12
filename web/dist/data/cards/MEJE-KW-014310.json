@@ -4,8 +4,8 @@
   "title": "절망을 떨치고 본래 모습으로 돌아오기",
   "original": "He's Back!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00802",
+  "primary_tag_id": "ML-T00802",
   "description": {
     "definition": "실패나 충격으로 자신감과 행동 의지를 잃었던 인물이 회복 과정을 거쳐 예전의 힘과 태도를 되찾는 전환점이다. 복귀는 감정적인 침체를 끝내는 인물 변화의 결실로 제시된다.",
     "detail": "작품 사례: [[Madagascar 3: Europe's Most Wanted]]의 비탈리는 공연 중 화상을 입은 뒤 침체에 빠지지만, 알렉스의 격려와 불에 타지 않는 컨디셔너의 도움으로 다시 공연에 성공한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 재등장이나 몸의 부상·은퇴만을 끝내는 복귀와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.008.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "심리적인 침체 때문에 발휘하지 못하던 기존 능력과 역할을 다시 회복하는 재기다. 격려와 환경의 변화가 잃었던 자신감을 되찾는 조건이 될 수 있다.\n\n단순한 재등장과 신체 부상만의 회복과는 다르다. 앞서 제시된 절망과 위축이 해소되어 이전의 역량이 돌아오는 변화가 필요하다.\n\n[[Madagascar 3: Europe's Most Wanted]]의 비탈리는 공연 중 화상 뒤 침체에 빠진다. 알렉스의 격려와 불에 타지 않는 컨디셔너의 도움을 받아 다시 공연에 성공한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "심리적인 침체 때문에 발휘하지 못하던 기존 능력과 역할을 다시 회복하는 재기다. 격려와 환경의 변화가 잃었던 자신감을 되찾는 조건이 될 수 있다.\n\n단순한 재등장과 신체 부상만의 회복과는 다르다. 앞서 제시된 절망과 위축이 해소되어 이전의 역량이 돌아오는 변화가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[Madagascar 3: Europe's Most Wanted]]의 비탈리는 공연 중 화상 뒤 침체에 빠진다. 알렉스의 격려와 불에 타지 않는 컨디셔너의 도움을 받아 다시 공연에 성공한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

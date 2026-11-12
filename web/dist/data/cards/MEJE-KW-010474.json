@@ -4,8 +4,8 @@
   "title": "상대의 무기로 동료를 공격하게 만들다",
   "original": "Forced Friendly Fire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "전투에서 인물이 상대의 무기 사용을 억지로 돌려 그 편의 인물들이 피해를 보게 만든다. 동료를 해쳤다는 충격도 갈등에 더해진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상대의 무기 사용을 물리적으로 통제해 그 편의 인물들에게 피해가 가도록 만드는 액션 구성이다. 무장한 사람이 자기 행동의 주도권을 잃는다.\n\n숫자의 열세를 역전하면서 동료를 해쳤다는 충격까지 더할 수 있다. 짧은 대치에서 공격 방향이 바뀌면 무기의 소유와 실제 통제가 다르다는 점이 강조된다.\n\n자발적으로 편을 바꾸어 공격하는 것과는 의지가 다르다. 강요된 행위의 책임과 통제자의 책임을 구분해야 하며 극적인 동작을 실제 대응의 안전한 기술로 보지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상대의 무기 사용을 물리적으로 통제해 그 편의 인물들에게 피해가 가도록 만드는 액션 구성이다. 무장한 사람이 자기 행동의 주도권을 잃는다.\n\n숫자의 열세를 역전하면서 동료를 해쳤다는 충격까지 더할 수 있다. 짧은 대치에서 공격 방향이 바뀌면 무기의 소유와 실제 통제가 다르다는 점이 강조된다.\n\n자발적으로 편을 바꾸어 공격하는 것과는 의지가 다르다. 강요된 행위의 책임과 통제자의 책임을 구분해야 하며 극적인 동작을 실제 대응의 안전한 기술로 보지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

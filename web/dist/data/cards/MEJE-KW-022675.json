@@ -4,8 +4,8 @@
   "title": "코나미 커맨드를 재사용하는 숨은 입력",
   "original": "Konami Code",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "위·아래·좌·우의 반복과 버튼 조합으로 알려진 [[코나미 커맨드]]를 게임의 숨은 기능이나 작품 속 알아보기 요소로 사용하는 관습이다.",
     "detail": "대표 배열은 위 위 아래 아래 왼쪽 오른쪽 왼쪽 오른쪽 B A이며, 시작·선택 버튼과 플랫폼별 버튼은 맥락에 따라 달라진다.\n\n작품 사례: 《[[Yu-Gi-Oh! The Falsebound Kingdom]]》은 해당 입력을 보너스 자금을 얻는 코드로 사용한다.",
@@ -13,19 +13,19 @@
     "boundary": "모든 버튼 입력 비밀을 뜻하지 않으며 기본 배열을 알아볼 수 있는 인용과 변형이 기준이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "익숙한 방향키 순서를 입력하면 비밀 효과가 나타난다.\n\n작품 사례: 《[[Yu-Gi-Oh! The Falsebound Kingdom]]》은 해당 입력을 보너스 자금을 얻는 코드로 사용한다.",
+    "easy_ko": "익숙한 방향키 순서를 입력하면 비밀 효과가 나타난다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대표 배열은 위·위·아래·아래·왼쪽·오른쪽·왼쪽·오른쪽·B·A다. 시작·선택 버튼의 추가 여부와 플랫폼별 버튼 치환에는 여러 변형이 있다.\n\n모든 비밀 버튼 입력을 뜻하지 않는다. 기본 배열을 알아볼 수 있는 인용이나 변형이 숨은 기능, 보너스 또는 다른 작품의 참조로 재사용되는 경우에 해당한다.\n\n《[[Yu-Gi-Oh! The Falsebound Kingdom]]》은 해당 입력을 보너스 자금을 얻는 코드로 사용한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대표 배열은 위·위·아래·아래·왼쪽·오른쪽·왼쪽·오른쪽·B·A다. 시작·선택 버튼의 추가 여부와 플랫폼별 버튼 치환에는 여러 변형이 있다.\n\n모든 비밀 버튼 입력을 뜻하지 않는다. 기본 배열을 알아볼 수 있는 인용이나 변형이 숨은 기능, 보너스 또는 다른 작품의 참조로 재사용되는 경우에 해당한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Yu-Gi-Oh! The Falsebound Kingdom]]》은 해당 입력을 보너스 자금을 얻는 코드로 사용한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

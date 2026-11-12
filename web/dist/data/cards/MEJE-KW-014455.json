@@ -4,8 +4,8 @@
   "title": "경기 사이에 바꾸는 예비 카드 묶음",
   "original": "sideboard",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02514",
+  "primary_tag_id": "ML-T02514",
   "description": {
     "definition": "여러 판으로 이루어진 카드 경기에서 본 덱 밖에 준비해 두고 판 사이에 일부 카드를 교체하는 데 사용하는 카드 묶음이다. 상대를 확인한 뒤 좁은 대응책을 넣을 수 있게 한다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "게임 도중 자유롭게 꺼내 쓰는 손패나 단순한 보유 카드 전체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "첫 판에서 상대의 전략을 본 뒤 예비 카드 몇 장을 덱에 교체해 넣는다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "예비 카드는 판 사이에 덱을 바꿀 수 있게 해 상대를 본 뒤 대응을 조정하도록 한다. 본 경기에서 드러난 정보가 다음 구성의 선택에 쓰인다.\n\n상대를 본 뒤 준비한 좁은 대응책은 기본 덱에 늘 넣기 어려운 카드에도 쓰임을 준다. 판 사이의 교체는 이전 판에서 얻은 정보가 다음 판의 구성으로 넘어가는 연결이다.\n\n게임 중 자유롭게 꺼내는 손패와는 다르다. 교체의 시점과 본 덱 밖에 준비한 묶음이라는 조건이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "예비 카드는 판 사이에 덱을 바꿀 수 있게 해 상대를 본 뒤 대응을 조정하도록 한다. 본 경기에서 드러난 정보가 다음 구성의 선택에 쓰인다.\n\n상대를 본 뒤 준비한 좁은 대응책은 기본 덱에 늘 넣기 어려운 카드에도 쓰임을 준다. 판 사이의 교체는 이전 판에서 얻은 정보가 다음 판의 구성으로 넘어가는 연결이다.\n\n게임 중 자유롭게 꺼내는 손패와는 다르다. 교체의 시점과 본 덱 밖에 준비한 묶음이라는 조건이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

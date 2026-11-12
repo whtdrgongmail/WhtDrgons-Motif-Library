@@ -5,8 +5,8 @@
   "original": "Loading Recast as an In-World Process",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02159",
+  "primary_tag_id": "ML-T02159",
   "description": {
     "definition": "게임의 데이터 대기를 통신 접속이나 준비 절차처럼 세계 안의 행위로 설명하는 연출이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "대기와 무관한 배경 그림을 보여 주는 것보다 작중 이유를 부여한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.010.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "데이터를 불러오는 대기를 통신 접속이나 준비 절차 같은 세계 내부의 행동으로 설명한다. 플레이 중단의 시간을 인물이 수행하는 과정과 대응시키는 연출이다.\n\n기다림에 이유가 있으면 플레이어는 시스템의 정지보다 사건의 진행을 경험할 수 있다. 진행 표시가 작중 절차와 맞물리면 대기의 길이도 준비가 끝나는 기대와 연결되어 몰입의 연속성을 유지하는 데 쓰인다.\n\n대기 화면에 관계없는 그림을 보여 주는 것과는 연결 방식이 다르다. 세계 안의 이유를 붙였다고 실제 대기 시간이 줄어드는 것은 아니며 연출의 기능과 기술 성능은 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "데이터를 불러오는 대기를 통신 접속이나 준비 절차 같은 세계 내부의 행동으로 설명한다. 플레이 중단의 시간을 인물이 수행하는 과정과 대응시키는 연출이다.\n\n기다림에 이유가 있으면 플레이어는 시스템의 정지보다 사건의 진행을 경험할 수 있다. 진행 표시가 작중 절차와 맞물리면 대기의 길이도 준비가 끝나는 기대와 연결되어 몰입의 연속성을 유지하는 데 쓰인다.\n\n대기 화면에 관계없는 그림을 보여 주는 것과는 연결 방식이 다르다. 세계 안의 이유를 붙였다고 실제 대기 시간이 줄어드는 것은 아니며 연출의 기능과 기술 성능은 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "예상과 다른 유명 인물의 외모",
   "original": "Expecting Someone Taller",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00956",
+  "primary_tag_id": "ML-T00956",
   "description": {
     "definition": "명성만 듣고 만난 사람이 유명 인물의 나이·키·외모가 상상과 다르다며 놀라는 상황. 영웅에 한정되지 않는다. [[처음부터 숙련된 주인공]]은 이미 실력을 쌓은 [[주인공]]을 보고도 첫인상 때문에 명성을 믿지 못하는 장면과 어울린다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "명성으로 상상한 인물의 외모가 실제 나이와 키, 인상과 달라 놀라는 상황이다. 업적에서 추론한 이미지와 직접 본 사람이 대비된다.\n\n작고 어린 인물이 큰 위업을 이뤘다면 편견이 드러난다. 상대가 능력을 의심하거나 즉시 태도를 바꾸는 반응은 외형과 권위가 어떻게 연결되는지 보여 준다.\n\n모든 오인과 변장이 해당하는 것은 아니다. 유명한 사람이라는 인식은 맞지만 외형의 기대가 틀렸다는 점이 핵심이며 반응 자체가 능력의 실제 크기를 증명하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "명성으로 상상한 인물의 외모가 실제 나이와 키, 인상과 달라 놀라는 상황이다. 업적에서 추론한 이미지와 직접 본 사람이 대비된다.\n\n작고 어린 인물이 큰 위업을 이뤘다면 편견이 드러난다. 상대가 능력을 의심하거나 즉시 태도를 바꾸는 반응은 외형과 권위가 어떻게 연결되는지 보여 준다.\n\n모든 오인과 변장이 해당하는 것은 아니다. 유명한 사람이라는 인식은 맞지만 외형의 기대가 틀렸다는 점이 핵심이며 반응 자체가 능력의 실제 크기를 증명하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

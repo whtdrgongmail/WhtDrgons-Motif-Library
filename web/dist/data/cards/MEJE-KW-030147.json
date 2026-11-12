@@ -4,8 +4,8 @@
   "title": "동물의 삶을 인물과 갈등의 이야기로 전하는 다큐멘터리",
   "original": "Narrative-Driven Nature Documentary",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00588",
+  "primary_tag_id": "ML-T00588",
   "description": {
     "definition": "실제 동물의 행동과 생태를 이름 있는 주인공과 가족·생존 [[갈등]]의 흐름으로 구성하여 전달하는 자연 다큐멘터리 형식이다.",
     "detail": "작품 사례: 《[[Savage Kingdom]]》은 보츠와나의 사자와 들개·하이에나·표범 집단을 경쟁하는 왕국처럼 묘사하고 암사자 마츠미를 중심 인물로 구성한다.",
@@ -13,10 +13,10 @@
     "boundary": "의인화된 서술을 실제 동물의 생각이나 도덕적 의도의 증거로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실제 동물에게 이름과 관계를 부여하면 생태의 관찰이 주인공의 삶처럼 전달된다. 사냥과 양육은 살아남아야 할 과제와 가족의 갈등으로 배열될 수 있다.\n\n서술과 편집은 관찰한 행동에 감정적 흐름을 만든다. 기록된 사실과 인간적인 동기 해석은 같은 수준의 증거가 아니므로 서로 구분되는 정보다.\n\n허구의 동물 이야기를 촬영한 것과는 자료의 출발점이 다르다. 실제 생태를 사용하면서 인물과 [[갈등]]의 형태로 경험을 전달하는 다큐멘터리 형식이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실제 동물에게 이름과 관계를 부여하면 생태의 관찰이 주인공의 삶처럼 전달된다. 사냥과 양육은 살아남아야 할 과제와 가족의 갈등으로 배열될 수 있다.\n\n서술과 편집은 관찰한 행동에 감정적 흐름을 만든다. 기록된 사실과 인간적인 동기 해석은 같은 수준의 증거가 아니므로 서로 구분되는 정보다.\n\n허구의 동물 이야기를 촬영한 것과는 자료의 출발점이 다르다. 실제 생태를 사용하면서 인물과 [[갈등]]의 형태로 경험을 전달하는 다큐멘터리 형식이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

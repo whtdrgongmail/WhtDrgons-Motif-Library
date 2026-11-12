@@ -7,14 +7,14 @@
   "tag_id": "ML-T02202",
   "primary_tag_id": "ML-T02202",
   "description": {
-    "definition": "소개 멘트는 출연자나 곡, 다음 순서를 말로 안내하는 무대 발화다. 노래 가사나 극중 대사와 구분해 공연 진행을 위해 [[관객]]에게 정보를 전달하는 말인지 살핀다.",
+    "definition": "소개 멘트는 출연자나 곡, 다음 순서를 말로 안내하는 무대 발화다. 노래 가사나 극중 대사와 달리 공연 진행에 필요한 정보를 [[관객]]에게 전달한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
     "code": "26.004.003",
     "review_status": "provisional",
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현재 출연자와 곡, 다음 순서를 관객에게 말로 알려 주는 진행 발화다. 관객이 무엇을 보고 기다릴지 이해하도록 정보를 정리한다.\n\n순서 사이의 준비 시간을 메우거나 새로운 조합의 의미를 설명하는 데 쓰일 수 있다. [[인사 의식]]과 함께 나타나도 정보 안내가 중심이며, 극중 인물이 서로에게 하는 대사와 객석을 향한 진행의 말은 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현재 출연자와 곡, 다음 순서를 관객에게 말로 알려 주는 진행 발화다. 관객이 무엇을 보고 기다릴지 이해하도록 정보를 정리한다.\n\n순서 사이의 준비 시간을 메우거나 새로운 조합의 의미를 설명하는 데 쓰일 수 있다. [[인사 의식]]과 함께 나타나도 정보 안내가 중심이며, 극중 인물이 서로에게 하는 대사와 객석을 향한 진행의 말은 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

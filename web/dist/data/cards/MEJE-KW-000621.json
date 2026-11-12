@@ -4,8 +4,8 @@
   "title": "보이지 않는 것을 찍는 마법 카메라",
   "original": "Magical Camera",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01450",
+  "primary_tag_id": "ML-T01450",
   "description": {
     "definition": "일반 [[카메라]]로 남길 수 없는 영혼·기억·미래 같은 대상을 이미지로 보존하거나 드러내는 장치. 사진을 찍는 행위 자체가 힘을 쓸 수도 있다. [[비밀을 비추는 마법 거울]]은 이미지를 저장하기보다 비추거나 통로가 되는 경우가 많다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영혼과 기억, 미래처럼 일반 카메라로 기록하기 어려운 대상을 이미지로 남기는 장치다. 보이지 않던 정보가 촬영을 통해 확인 가능한 형태가 된다.\n\n기록하는 기능 외에 사진을 찍는 행위가 힘의 발동일 수도 있다. 무엇을 보존하고 무엇을 변화시키는지는 장치의 규칙을 따로 정해야 한다.\n\n이미지를 비추거나 통로가 되는 마법 거울과 구별한다. 카메라의 저장 기능과 거울의 제시 기능은 겹칠 수 있어도 동일하지 않다.",
+    "sections": [
+      [
+        "상세 설명",
+        "영혼과 기억, 미래처럼 일반 카메라로 기록하기 어려운 대상을 이미지로 남기는 장치다. 보이지 않던 정보가 촬영을 통해 확인 가능한 형태가 된다.\n\n기록하는 기능 외에 사진을 찍는 행위가 힘의 발동일 수도 있다. 무엇을 보존하고 무엇을 변화시키는지는 장치의 규칙을 따로 정해야 한다.\n\n이미지를 비추거나 통로가 되는 마법 거울과 구별한다. 카메라의 저장 기능과 거울의 제시 기능은 겹칠 수 있어도 동일하지 않다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

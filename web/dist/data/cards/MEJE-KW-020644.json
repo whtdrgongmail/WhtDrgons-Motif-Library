@@ -4,8 +4,8 @@
   "title": "기승자와 대등한 지성을 지닌 탈것",
   "original": "Sapient Steed",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02539",
+  "primary_tag_id": "ML-T02539",
   "description": {
     "definition": "타고 이동하는 존재가 기승자와 같거나 더 높은 지적 능력을 지녀 스스로 판단하는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "단순히 잘 훈련된 탈것과 구별한다. 기승자와 대화하거나 대등한 판단을 할 수 있는 지성이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.003.008",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이동 수단을 명령하는 사람만 생각하는 것이 아니라 탈것도 길과 위험을 판단한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이동 수단으로 타는 존재가 기승자와 대등하거나 더 높은 지성을 지닌 관계다. 명령을 받는 탈것이면서 조언하고 반박할 수 있는 동료이기도 하다.\n\n말이나 용 같은 생물뿐 아니라 지적인 차량과 기계에도 적용된다. 서로 계획을 이해하면 복잡한 기동을 협력해 수행할 수 있고, 기승자가 평범한 도구처럼 취급하면 모욕과 갈등이 생긴다.\n\n말을 한다는 사실만으로 대등한 판단력이 보장되지는 않는다. 이 구성은 탈것의 의견과 선택이 실제 행동에 영향을 주며, 탑승자가 그 지성을 상대해야 한다는 데 초점이 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이동 수단으로 타는 존재가 기승자와 대등하거나 더 높은 지성을 지닌 관계다. 명령을 받는 탈것이면서 조언하고 반박할 수 있는 동료이기도 하다.\n\n말이나 용 같은 생물뿐 아니라 지적인 차량과 기계에도 적용된다. 서로 계획을 이해하면 복잡한 기동을 협력해 수행할 수 있고, 기승자가 평범한 도구처럼 취급하면 모욕과 갈등이 생긴다.\n\n말을 한다는 사실만으로 대등한 판단력이 보장되지는 않는다. 이 구성은 탈것의 의견과 선택이 실제 행동에 영향을 주며, 탑승자가 그 지성을 상대해야 한다는 데 초점이 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,27 +4,27 @@
   "title": "마다가스카",
   "original": "Madagascar",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《마다가스카》는 미디어 작품이다.",
-    "detail": "작품 사례: 《마다가스카》 시리즈의 글로리아는 동료들을 보살피고 보호하는 하마로 등장해 큰 몸집과 다정한 성격을 결합한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "뉴욕 동물원에서 살던 동물들이 야생에 떨어진 뒤 집으로 돌아가려는 드림웍스 [[애니메이션]] 작품군이다. 인간처럼 생활하던 습관과 자연 속에서 요구되는 행동의 차이가 모험의 기본 갈등이다.\n\n주인공들은 마다가스카르와 아프리카, 유럽 등 다른 환경을 거치며 자신들과 같은 종과 새로운 집단을 만난다. 고향이라고 생각한 장소와 종의 기원이 같은 것은 아니므로, 소속은 단순한 출신보다 관계의 문제로 바뀐다.\n\n펭귄과 다른 조연을 중심으로 한 파생작은 같은 외형을 사용해도 별도의 사건과 강조점을 가진다. 이 카드는 작품군의 전체 전제를 다루며, 특정 영화의 결말을 모든 인물의 영구적인 상태로 일반화해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "뉴욕 동물원에서 살던 동물들이 야생에 떨어진 뒤 집으로 돌아가려는 드림웍스 [[애니메이션]] 작품군이다. 인간처럼 생활하던 습관과 자연 속에서 요구되는 행동의 차이가 모험의 기본 갈등이다.\n\n주인공들은 마다가스카르와 아프리카, 유럽 등 다른 환경을 거치며 자신들과 같은 종과 새로운 집단을 만난다. 고향이라고 생각한 장소와 종의 기원이 같은 것은 아니므로, 소속은 단순한 출신보다 관계의 문제로 바뀐다.\n\n펭귄과 다른 조연을 중심으로 한 파생작은 같은 외형을 사용해도 별도의 사건과 강조점을 가진다. 이 카드는 작품군의 전체 전제를 다루며, 특정 영화의 결말을 모든 인물의 영구적인 상태로 일반화해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

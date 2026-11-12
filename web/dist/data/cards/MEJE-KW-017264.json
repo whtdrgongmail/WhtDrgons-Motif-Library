@@ -4,8 +4,8 @@
   "title": "목을 뚫거나 찢는 공격",
   "original": "Impromptu Tracheotomy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "인물의 목에 관통이나 절단 손상을 가해 치명상을 주거나 발성을 방해하는 폭력 장면이다.",
     "detail": "작품 사례: 《[[블리치]]》에서 켄파치는 베레니케가 계속 말을 하자 목을 공격해 말과 공격 능력을 끊어 버렸다고 설명한다.",
@@ -13,10 +13,10 @@
     "boundary": "치료를 위한 기관절개술과 구별한다. 손상의 묘사는 필요한 [[서사]] 효과에 맞추고 처치 안내로 제시하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001295",
+      "work_card_id": "MM-MEDIA-002137",
       "description_ko": "《블리치》에서 켄파치는 베레니케가 계속 말을 하자 목을 공격해 말과 공격 능력을 끊어 버렸다고 설명한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "목의 손상을 치명적 공격이나 발성 방해로 제시한다. 말하기가 능력의 조건인 인물에게는 부위의 선택이 공격 중단과 직접 연결될 수 있다.\n\n치료 목적의 기관절개술과 같은 행위로 설명해서는 안 된다. 필요한 [[서사]] 기능과 결과에 한정하며 실제 처치나 공격의 방법을 안내하지 않는다.\n\n《[[블리치]]》의 켄파치는 베레니케의 목을 공격하여 말과 능력을 끊었다고 설명한다. 발성의 조건을 공격 대상으로 삼은 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "목의 손상을 치명적 공격이나 발성 방해로 제시한다. 말하기가 능력의 조건인 인물에게는 부위의 선택이 공격 중단과 직접 연결될 수 있다.\n\n치료 목적의 기관절개술과 같은 행위로 설명해서는 안 된다. 필요한 [[서사]] 기능과 결과에 한정하며 실제 처치나 공격의 방법을 안내하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[블리치]]》의 켄파치는 베레니케의 목을 공격하여 말과 능력을 끊었다고 설명한다. 발성의 조건을 공격 대상으로 삼은 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "초능력으로 경찰 수사를 돕기",
   "original": "Police Psychic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "초자연적 감각이나 능력을 가진 인물이 경찰 등 수사기관에 일반 범죄의 단서를 제공하는 인물 역할이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "물건에 남은 기억을 읽는 사람이 수사관에게 사건 당시의 단서를 알려 주지만, 그 뜻을 해석하고 확인하는 과정은 별도로 남는다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "어떤 능력을 쓰는지에 따라 얻는 정보의 종류가 달라진다. 생각을 읽거나 죽은 사람과 대화하거나 물건의 과거를 감지하는 능력은 서로 다른 단서를 제공한다. 능력자는 정식 자문역일 수도 있고 개인적으로 수사관과 협력하는 외부 인물일 수도 있다.\n\n정보를 얻는 것과 수사기관이 이를 믿고 활용하는 것은 다른 갈등이다. 불완전한 환상을 해석해야 하거나 의심 많은 수사관의 신뢰를 얻어야 한다면 능력이 있어도 사건이 곧바로 해결되지는 않는다. [[초자연적 사건 탐정]]은 다루는 사건 자체가 초자연적이라는 점에서 구별된다. 초능력인 척하는 관찰과 추리도 작품이 진위를 어떻게 제시하는지 나누어 판단해야 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "어떤 능력을 쓰는지에 따라 얻는 정보의 종류가 달라진다. 생각을 읽거나 죽은 사람과 대화하거나 물건의 과거를 감지하는 능력은 서로 다른 단서를 제공한다. 능력자는 정식 자문역일 수도 있고 개인적으로 수사관과 협력하는 외부 인물일 수도 있다.\n\n정보를 얻는 것과 수사기관이 이를 믿고 활용하는 것은 다른 갈등이다. 불완전한 환상을 해석해야 하거나 의심 많은 수사관의 신뢰를 얻어야 한다면 능력이 있어도 사건이 곧바로 해결되지는 않는다. [[초자연적 사건 탐정]]은 다루는 사건 자체가 초자연적이라는 점에서 구별된다. 초능력인 척하는 관찰과 추리도 작품이 진위를 어떻게 제시하는지 나누어 판단해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

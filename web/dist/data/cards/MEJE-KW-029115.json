@@ -4,8 +4,8 @@
   "title": "새끼를 보호하던 괴물이라는 발견",
   "original": "Monster Is a Mommy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "공격적으로 보이던 괴물의 행동이 새끼를 지키거나 돌보려는 행동이었다고 밝혀져 적대 관계를 다시 해석하게 되는 전개다.",
     "detail": "작품 사례: 《[[명탐정 코난]]》에서 소년 탐정단을 위협한 거대한 곰은 사냥꾼에게 새끼를 잃은 어미였다는 사정이 드러난다. 괴물처럼 보이던 공격에 보호와 상실의 맥락이 붙는다.",
@@ -13,10 +13,10 @@
     "boundary": "단지 암컷이거나 새끼가 있다는 사실보다 보호 행동을 오해했다는 발견이 중심이다. 실제 야생동물의 판단을 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위협하던 괴물이 새끼를 지키고 있었다고 밝혀진다. 공격의 이유를 알게 되면서 적대의 관계가 재해석된다.\n\n이미 가한 피해는 남아도 공감과 대응 방식은 달라질 수 있다. 모든 괴물에게 같은 동기가 있다고 추정하는 규칙은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위협하던 괴물이 새끼를 지키고 있었다고 밝혀진다. 공격의 이유를 알게 되면서 적대의 관계가 재해석된다.\n\n이미 가한 피해는 남아도 공감과 대응 방식은 달라질 수 있다. 모든 괴물에게 같은 동기가 있다고 추정하는 규칙은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

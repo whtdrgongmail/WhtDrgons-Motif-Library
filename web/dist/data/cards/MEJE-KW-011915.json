@@ -4,8 +4,8 @@
   "title": "제작 관계자의 보충 발언",
   "original": "Word of Saint Paul",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "원창작자는 아니지만 그와 가까운 제작 관계자가 작품의 빈 [[설정]]에 관해 제공하는 설명이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "원작자 자신의 공식 발언과 동일한 권위를 자동으로 부여하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원창작자와 가까이 작업한 제작 관계자가 본문에 없는 [[설정]]을 설명한다. 작품의 제작 과정에 접근한 사람이라는 점에서 일반적인 팬 추측과는 출처가 다르다.\n\n그러나 제작에 참여했다는 사실과 원창작자의 견해를 대변할 권한은 같은 조건이 아니다. 발언자가 직접 관여한 내용인지, 창작자에게 들은 정보인지, 개인적인 해석인지는 구분되어야 한다.\n\n원작자 본인의 공식 보충 발언과 동일한 권위를 자동으로 부여할 수 없다. 작품 내부의 정보와 외부 발언을 연결할 때에는 누가 말했는지뿐 아니라 어떤 위치에서 설명했는지도 보존해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원창작자와 가까이 작업한 제작 관계자가 본문에 없는 [[설정]]을 설명한다. 작품의 제작 과정에 접근한 사람이라는 점에서 일반적인 팬 추측과는 출처가 다르다.\n\n그러나 제작에 참여했다는 사실과 원창작자의 견해를 대변할 권한은 같은 조건이 아니다. 발언자가 직접 관여한 내용인지, 창작자에게 들은 정보인지, 개인적인 해석인지는 구분되어야 한다.\n\n원작자 본인의 공식 보충 발언과 동일한 권위를 자동으로 부여할 수 없다. 작품 내부의 정보와 외부 발언을 연결할 때에는 누가 말했는지뿐 아니라 어떤 위치에서 설명했는지도 보존해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "폭발하는 시가",
   "original": "Explosive Cigar",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01413",
+  "primary_tag_id": "ML-T01413",
   "description": {
     "definition": "시가처럼 보이는 물건이 폭발하는 허구적 함정. 장난스러운 소품으로도, 심각한 위협으로도 등장할 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "시가처럼 보이는 물건이 사용 순간 폭발하는 함정이다. 선물과 기호품의 익숙함이 위험을 감춘다.\n\n만화에서는 그을린 얼굴과 망가진 시가로 결과를 짧게 표시한다. 진지한 작품에서는 같은 설정이 배신과 암살의 위협으로 바뀌어 장르에 따른 피해의 차이가 크다.\n\n장난이라는 명칭이 실제 위해를 없애지는 않는다. 허구적 결과와 현실의 위험을 구분해야 하며 시가의 외형만으로 특정 장치의 구조를 추정할 필요는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "시가처럼 보이는 물건이 사용 순간 폭발하는 함정이다. 선물과 기호품의 익숙함이 위험을 감춘다.\n\n만화에서는 그을린 얼굴과 망가진 시가로 결과를 짧게 표시한다. 진지한 작품에서는 같은 설정이 배신과 암살의 위협으로 바뀌어 장르에 따른 피해의 차이가 크다.\n\n장난이라는 명칭이 실제 위해를 없애지는 않는다. 허구적 결과와 현실의 위험을 구분해야 하며 시가의 외형만으로 특정 장치의 구조를 추정할 필요는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

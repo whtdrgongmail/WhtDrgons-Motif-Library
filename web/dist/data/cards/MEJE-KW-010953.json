@@ -4,8 +4,8 @@
   "title": "퓨처 펑크",
   "original": "Future Funk",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-010953",
+  "primary_tag_id": "MEJE-KW-010953",
   "description": {
     "definition": "베이퍼웨이브의 샘플 [[재구성]]에 [[디스코]]와 펑크의 춤추기 좋은 박자, 밝은 분위기를 더한 전자음악 장르다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.304.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[퓨처 펑크]]는 기존 대중음악의 녹음을 잘라 반복·변형하는 [[베이퍼웨이브]] 계열의 제작 방식에 춤을 위한 리듬을 결합한 전자음악 장르다. [[시티팝]]과 디스코 계열의 밝은 선율과 박자를 재료로 사용하는 경우가 많다. 원곡을 그대로 재생하는 행위와 구별하려면 샘플의 속도·반복·배열이 새 곡에서 어떻게 달라졌는지 확인해야 한다.\n\n베이퍼웨이브와 제작 재료를 공유하더라도 청취 경험을 조직하는 방식은 다를 수 있다. 퓨처 펑크는 박의 연속성과 빠른 움직임을 중시하며, 영상에는 과거 대중문화의 시각 자료가 결합되기도 한다. 1980년대풍 이미지 자체가 장르의 음악적 조건은 아니다. 화면 없이 소리만 분석할 때에도 샘플 편집과 춤곡의 리듬을 확인할 수 있어야 한다.\n\n가상 예시: 오래된 팝 녹음의 후렴을 짧게 잘라 반복하고 박자를 일정하게 재배열해 새로운 춤곡을 만든다면 퓨처 펑크의 제작 원리를 설명할 수 있다. 같은 녹음을 변형 없이 재생하고 복고풍 영상을 덧붙이는 경우에는 영상의 분위기만으로 장르를 판정할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[퓨처 펑크]]는 기존 대중음악의 녹음을 잘라 반복·변형하는 [[베이퍼웨이브]] 계열의 제작 방식에 춤을 위한 리듬을 결합한 전자음악 장르다. [[시티팝]]과 디스코 계열의 밝은 선율과 박자를 재료로 사용하는 경우가 많다. 원곡을 그대로 재생하는 행위와 구별하려면 샘플의 속도·반복·배열이 새 곡에서 어떻게 달라졌는지 확인해야 한다.\n\n베이퍼웨이브와 제작 재료를 공유하더라도 청취 경험을 조직하는 방식은 다를 수 있다. 퓨처 펑크는 박의 연속성과 빠른 움직임을 중시하며, 영상에는 과거 대중문화의 시각 자료가 결합되기도 한다. 1980년대풍 이미지 자체가 장르의 음악적 조건은 아니다. 화면 없이 소리만 분석할 때에도 샘플 편집과 춤곡의 리듬을 확인할 수 있어야 한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 오래된 팝 녹음의 후렴을 짧게 잘라 반복하고 박자를 일정하게 재배열해 새로운 춤곡을 만든다면 퓨처 펑크의 제작 원리를 설명할 수 있다. 같은 녹음을 변형 없이 재생하고 복고풍 영상을 덧붙이는 경우에는 영상의 분위기만으로 장르를 판정할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

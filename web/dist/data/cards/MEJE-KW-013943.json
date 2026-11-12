@@ -4,8 +4,8 @@
   "title": "치유의 샘",
   "original": "Healing Spring",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01313",
+  "primary_tag_id": "ML-T01313",
   "description": {
     "definition": "그 물에 닿거나 몸을 담그거나 마시는 것으로 상처와 체력이 회복되는 마법적 수원이나 물 공간이다.",
     "detail": "작품 사례: [[Breath of Fire I]]의 첫 던전 중간에는 치유의 샘이 있어, 회복 [[마법]] 없이 홀로 싸우는 Ryu가 부족한 회복 물품을 보완할 수 있다.",
@@ -13,10 +13,10 @@
     "boundary": "물의 일반적인 치유 [[상징]]보다 특정 장소에 회복 기능이 모인 설정이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "14",
+    "code": "14.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "회복 능력이 특정한 수원에 집중되어 그 장소를 방문할 이유가 되는 설정이다. 탐험 중의 자원 소모를 완화하거나 귀환 지점을 제공할 수 있다.\n\n물의 일반적인 치유 [[상징]]과는 다르다. 구체적인 장소에서 회복이 가능해야 하며 다른 회복 수단의 부족이 샘의 중요성을 높일 수 있다.\n\n[[Breath of Fire I]]의 첫 던전 중간에는 치유의 샘이 있다. 회복 [[마법]] 없이 혼자 싸우는 Ryu에게 부족한 회복 물품을 보완하는 장소가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "회복 능력이 특정한 수원에 집중되어 그 장소를 방문할 이유가 되는 설정이다. 탐험 중의 자원 소모를 완화하거나 귀환 지점을 제공할 수 있다.\n\n물의 일반적인 치유 [[상징]]과는 다르다. 구체적인 장소에서 회복이 가능해야 하며 다른 회복 수단의 부족이 샘의 중요성을 높일 수 있다."
+      ],
+      [
+        "관련 작품",
+        "[[Breath of Fire I]]의 첫 던전 중간에는 치유의 샘이 있다. 회복 [[마법]] 없이 혼자 싸우는 Ryu에게 부족한 회복 물품을 보완하는 장소가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

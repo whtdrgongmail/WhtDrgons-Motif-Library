@@ -4,8 +4,8 @@
   "title": "작은 총으로 조종하는 큰 무기",
   "original": "Puppet Gun",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "사용자가 손에 든 총 모양 장비를 겨누는 움직임으로 별도의 더 큰 무기를 조준하는 제어 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "그 총 자체의 탄환이 주된 공격인 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "손의 총 모양 장비를 겨누면 떨어진 큰 무기가 같은 방향을 향한다. 작은 조작과 원격의 화력을 연결하는 제어 방식이다.\n\n사용자의 익숙한 조준 동작이 더 큰 장치의 움직임을 대신한다. 무엇을 들고 있는지와 실제로 공격하는 장비가 무엇인지 나누어야 한다.\n\n손에 든 총의 탄환이 주 공격인 경우와 다르다. 별도 무기의 방향을 정한다는 기능이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "손의 총 모양 장비를 겨누면 떨어진 큰 무기가 같은 방향을 향한다. 작은 조작과 원격의 화력을 연결하는 제어 방식이다.\n\n사용자의 익숙한 조준 동작이 더 큰 장치의 움직임을 대신한다. 무엇을 들고 있는지와 실제로 공격하는 장비가 무엇인지 나누어야 한다.\n\n손에 든 총의 탄환이 주 공격인 경우와 다르다. 별도 무기의 방향을 정한다는 기능이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

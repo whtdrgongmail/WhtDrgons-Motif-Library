@@ -4,8 +4,8 @@
   "title": "피보호자의 재산을 노리는 보호자",
   "original": "Illegal Guardian",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "부모를 잃은 아이 등의 보호자 지위를 이용해 그 사람의 재산을 차지하려는 악역 유형이다.",
     "detail": "친척뿐 아니라 외부인도 가능하며 횡령과 생명 위협 같은 행위로 목적을 이루려 한다.\n\n작품 사례: 《[[둠 패트롤]]》에서 비스트 보이의 법정 보호자 니콜라스 갈트리는 유산을 횡령하고 발각을 막으려 그를 죽이려 한다.",
@@ -13,19 +13,19 @@
     "boundary": "단순히 양육이 버겁거나 정기적 지원금만 노리는 방임과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "돌봐 주는 척하며 맡은 아이의 유산을 빼앗으려 한다.\n\n작품 사례: 《[[둠 패트롤]]》에서 비스트 보이의 법정 보호자 니콜라스 갈트리는 유산을 횡령하고 발각을 막으려 그를 죽이려 한다.",
+    "easy_ko": "돌봐 주는 척하며 맡은 아이의 유산을 빼앗으려 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보호 권한을 가진 사람이 피보호자의 재산을 사적 이익으로 전환한다. 횡령을 숨기기 위한 추가 위협은 보호 의무가 위험의 통로로 바뀌었음을 드러낸다.\n\n친척이라는 조건은 필수가 아니다. 단순한 양육 부담이나 방임과 구분하려면 피보호자의 재산을 노리는 계획과 권한의 악용이 확인되어야 한다.\n\n《[[둠 패트롤]]》의 니콜라스 갈트리는 비스트 보이의 유산을 횡령하고 발각을 막기 위해 살해를 꾀한다. 법정 보호자의 권한과 의무가 정면으로 충돌한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보호 권한을 가진 사람이 피보호자의 재산을 사적 이익으로 전환한다. 횡령을 숨기기 위한 추가 위협은 보호 의무가 위험의 통로로 바뀌었음을 드러낸다.\n\n친척이라는 조건은 필수가 아니다. 단순한 양육 부담이나 방임과 구분하려면 피보호자의 재산을 노리는 계획과 권한의 악용이 확인되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[둠 패트롤]]》의 니콜라스 갈트리는 비스트 보이의 유산을 횡령하고 발각을 막기 위해 살해를 꾀한다. 법정 보호자의 권한과 의무가 정면으로 충돌한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

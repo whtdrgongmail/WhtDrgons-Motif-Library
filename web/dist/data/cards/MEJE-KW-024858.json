@@ -4,8 +4,8 @@
   "title": "몸에 박힌 무기로 되받아치기",
   "original": "Lodged-Blade Recycling",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "공격당한 인물이 몸에 박힌 날붙이를 꺼내 그 무기로 반격하는 액션 장치이다.",
     "detail": "작품 사례: 《[[배트맨: 어썰트 온 아캄]]》의 데드샷은 조커가 자신에게 사용한 칼을 다시 이용해 조커를 헬리콥터에 고정하며 반격한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 물체를 제거하는 장면과 달리 같은 무기의 재사용이 필요하며 허구 속 강인함·재생력의 표현이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "몸에 박힌 날붙이를 꺼내 그 공격자에게 반격한다. 피해의 증거였던 물건이 대응 수단으로 바뀐다.\n\n치명상을 견디는 능력과 의지를 과시하는 허구적 행동이다. 현실에서 같은 행동이 가능하거나 안전하다는 설명은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "몸에 박힌 날붙이를 꺼내 그 공격자에게 반격한다. 피해의 증거였던 물건이 대응 수단으로 바뀐다.\n\n치명상을 견디는 능력과 의지를 과시하는 허구적 행동이다. 현실에서 같은 행동이 가능하거나 안전하다는 설명은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

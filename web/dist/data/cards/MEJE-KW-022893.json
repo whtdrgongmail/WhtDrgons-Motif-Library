@@ -4,19 +4,19 @@
   "title": "해피 엔딩 끝에 남기는 사소한 새 문제",
   "original": "Last-Second Joke Problem",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00660",
+  "primary_tag_id": "ML-T00660",
   "description": {
     "definition": "주요 [[갈등]]이 해결된 마지막 순간에 작거나 우스운 문제를 새로 던지고, 해결 과정은 보여 주지 않은 채 이야기를 끝내는 방식이다.",
     "detail": "작품 사례: 《[[토이 스토리]]》는 갈등이 풀린 뒤 앤디가 크리스마스 선물로 강아지를 받았다고 알리는 장면으로 끝난다. 우디와 버즈가 긴장한 미소를 주고받아 해피 엔딩 뒤에 작은 새 걱정을 남긴다.",
-    "usage": "완벽하게 닫힌 결말에 생활감과 희극적 여운을 더하거나 앞선 소동을 짧게 되풀이할 때 쓴다.",
-    "boundary": "새 문제는 행복한 결말을 무너뜨릴 정도가 아니어야 한다. 진지한 후속 모험이나 악역의 생존을 암시하는 결말과 구별한다."
+    "usage": "",
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001462",
+      "work_card_id": "MM-MEDIA-002573",
       "description_ko": "《토이 스토리》는 갈등이 풀린 뒤 앤디가 크리스마스 선물로 강아지를 받았다고 알리는 장면으로 끝난다. 우디와 버즈가 긴장한 미소를 주고받아 해피 엔딩 뒤에 작은 새 걱정을 남긴다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "완벽하게 닫힌 결말에 생활감과 희극적 여운을 더하거나 앞선 소동을 짧게 되풀이할 때 쓴다.\n\n새 문제는 행복한 결말을 무너뜨릴 정도가 아니어야 한다. 진지한 후속 모험이나 악역의 생존을 암시하는 결말과 구별한다.\n\n《[[토이 스토리]]》는 갈등이 풀린 뒤 앤디가 크리스마스 선물로 강아지를 받았다고 알리는 장면으로 끝난다. 우디와 버즈가 긴장한 미소를 주고받아 해피 엔딩 뒤에 작은 새 걱정을 남긴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "완벽하게 닫힌 결말에 생활감과 희극적 여운을 더하거나 앞선 소동을 짧게 되풀이할 때 쓴다.\n\n새 문제는 행복한 결말을 무너뜨릴 정도가 아니어야 한다. 진지한 후속 모험이나 악역의 생존을 암시하는 결말과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[토이 스토리]]》는 갈등이 풀린 뒤 앤디가 크리스마스 선물로 강아지를 받았다고 알리는 장면으로 끝난다. 우디와 버즈가 긴장한 미소를 주고받아 해피 엔딩 뒤에 작은 새 걱정을 남긴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

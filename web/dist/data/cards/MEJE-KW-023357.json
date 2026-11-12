@@ -4,8 +4,8 @@
   "title": "범죄로 얻은 보험금이 회수되기",
   "original": "Justice by Insurance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00724",
+  "primary_tag_id": "ML-T00724",
   "description": {
     "definition": "범죄와 관련해 지급된 보험금이 부당한 청구로 판단되어 회수되면서 형사 처벌과 별개로 이익을 잃는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "허구의 사건 해결 구조이며 실제 절차의 성립 조건과 허용 범위는 관할과 제도마다 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.008.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "범죄와 관련된 보험금 지급이 사건 뒤 부당한 청구로 판단되어 취소된다. 인물은 처벌 여부와 별도로 이미 확보했다고 여긴 금전적 이익을 잃는다.\n\n사건의 해결을 범인 검거에만 한정하지 않고 범죄의 수익에도 연결한다. 지급된 돈이 최종적인 보상으로 남지 않도록 앞선 거래의 결과를 되돌리는 역할을 한다.\n\n보험금이 지급되지 않는 모든 상황과는 다르다. 실제 법적 절차의 일반적인 요건을 설명하는 것이 아니며 회수의 권한과 범위는 작중 제도에 따라 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "범죄와 관련된 보험금 지급이 사건 뒤 부당한 청구로 판단되어 취소된다. 인물은 처벌 여부와 별도로 이미 확보했다고 여긴 금전적 이익을 잃는다.\n\n사건의 해결을 범인 검거에만 한정하지 않고 범죄의 수익에도 연결한다. 지급된 돈이 최종적인 보상으로 남지 않도록 앞선 거래의 결과를 되돌리는 역할을 한다.\n\n보험금이 지급되지 않는 모든 상황과는 다르다. 실제 법적 절차의 일반적인 요건을 설명하는 것이 아니며 회수의 권한과 범위는 작중 제도에 따라 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

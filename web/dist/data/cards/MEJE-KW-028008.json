@@ -4,8 +4,8 @@
   "title": "여러 곡을 리믹스한 메가믹스",
   "original": "Megamix",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02026",
+  "primary_tag_id": "ML-T02026",
   "description": {
     "definition": "여러 기존 곡을 연속된 리믹스 구성으로 재편집해 하나의 메들리로 만드는 형식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단순한 플레이리스트와 구별하며 한 곡만을 다시 편곡한 리믹스와도 범위가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 기존 곡을 연속된 리믹스로 재편집해 하나의 메들리를 만든다. 곡들이 차례로 놓이는 데 그치지 않고 새로운 연속 구성을 이룬다.\n\n한 음악가나 시대, 장르의 곡들을 흐름 안에 묶을 수 있다. 원래 곡의 정체성과 재편집한 연결 방식이 함께 전체의 인상을 만든다.\n\n단순한 플레이리스트나 한 곡의 리믹스와 구별한다. 여러 곡을 사용하면서도 하나의 연속된 재구성이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 기존 곡을 연속된 리믹스로 재편집해 하나의 메들리를 만든다. 곡들이 차례로 놓이는 데 그치지 않고 새로운 연속 구성을 이룬다.\n\n한 음악가나 시대, 장르의 곡들을 흐름 안에 묶을 수 있다. 원래 곡의 정체성과 재편집한 연결 방식이 함께 전체의 인상을 만든다.\n\n단순한 플레이리스트나 한 곡의 리믹스와 구별한다. 여러 곡을 사용하면서도 하나의 연속된 재구성이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

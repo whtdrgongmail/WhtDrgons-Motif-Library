@@ -4,8 +4,8 @@
   "title": "속으로 빈정대는 1인칭 화자",
   "original": "First-Person Smartass",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01927",
+  "primary_tag_id": "ML-T01927",
   "description": {
     "definition": "이야기를 직접 전하는 인물이 사건 설명에 건조한 농담과 비꼬는 속생각을 계속 섞는 서술 목소리다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화자가 자신이 겪는 일을 말하면서 상황에 대한 빈정거림과 건조한 농담을 끊임없이 덧붙인다. 관객은 사건의 정보와 함께 그 인물이 세상을 평가하는 습관을 직접 접하게 된다.\n\n겉으로는 말하지 못하는 생각을 내적 서술로 제시하면 대화의 태도와 속마음이 어긋나는 효과가 생긴다. 도시의 환상적 사건이나 탐정의 관찰을 다룰 때 진지한 위협과 냉소적인 목소리가 대비될 수 있다.\n\n재치 있는 대사를 하는 인물 전체보다 서술자의 역할이 중요하다. 일인칭이라는 이유만으로 사실을 정확히 안다고 볼 수 없으며, 비꼬는 표현은 사건의 객관적 성질보다 화자의 관점과 방어적인 태도를 드러낼 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화자가 자신이 겪는 일을 말하면서 상황에 대한 빈정거림과 건조한 농담을 끊임없이 덧붙인다. 관객은 사건의 정보와 함께 그 인물이 세상을 평가하는 습관을 직접 접하게 된다.\n\n겉으로는 말하지 못하는 생각을 내적 서술로 제시하면 대화의 태도와 속마음이 어긋나는 효과가 생긴다. 도시의 환상적 사건이나 탐정의 관찰을 다룰 때 진지한 위협과 냉소적인 목소리가 대비될 수 있다.\n\n재치 있는 대사를 하는 인물 전체보다 서술자의 역할이 중요하다. 일인칭이라는 이유만으로 사실을 정확히 안다고 볼 수 없으며, 비꼬는 표현은 사건의 객관적 성질보다 화자의 관점과 방어적인 태도를 드러낼 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

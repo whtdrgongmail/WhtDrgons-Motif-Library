@@ -4,8 +4,8 @@
   "title": "하르피형 새 인간",
   "original": "Harping on About Harpies",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01137",
+  "primary_tag_id": "ML-T01137",
   "description": {
     "definition": "여성의 형상과 새의 날개·깃털·발톱 등이 결합된 신화적 존재 유형이다.",
     "detail": "작품 사례: [[His Dark Materials]]의 하르피들은 지하 세계의 죽은 이들을 괴롭히는 수호자로 등장하지만, 한 하르피가 탈출을 도우며 종족의 고정된 역할을 벗어난다.",
@@ -13,10 +13,10 @@
     "boundary": "노래로 유혹하는 세이렌이나 복수 여신과 자동으로 동일시하지 않으며 비율과 아름다움은 변형될 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "12",
+    "code": "12.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "새의 몸과 여성의 형상을 결합하는 신화적 존재를 바탕으로 한 유형이다. 두 형상의 비율과 외모, 행동 역할은 각 작품에서 다르게 구성될 수 있다.\n\n노래로 유혹하는 세이렌이나 복수 여신과 자동으로 같은 존재로 취급하지 않는다. 외형과 함께 해당 세계에서 맡는 역할을 별도로 기술해야 한다.\n\n[[His Dark Materials]]의 하르피들은 지하 세계에서 죽은 이들을 괴롭히는 수호자로 나타난다. 그중 한 존재는 탈출을 도와 종족 전체에 주어진 역할이 절대적이지 않음을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "새의 몸과 여성의 형상을 결합하는 신화적 존재를 바탕으로 한 유형이다. 두 형상의 비율과 외모, 행동 역할은 각 작품에서 다르게 구성될 수 있다.\n\n노래로 유혹하는 세이렌이나 복수 여신과 자동으로 같은 존재로 취급하지 않는다. 외형과 함께 해당 세계에서 맡는 역할을 별도로 기술해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[His Dark Materials]]의 하르피들은 지하 세계에서 죽은 이들을 괴롭히는 수호자로 나타난다. 그중 한 존재는 탈출을 도와 종족 전체에 주어진 역할이 절대적이지 않음을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

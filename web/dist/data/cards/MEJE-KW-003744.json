@@ -4,8 +4,8 @@
   "title": "살아 있는 사람과 언데드의 연애",
   "original": "Boy Meets Ghoul",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "살아 있는 인물이 죽음 이후에도 활동하는 존재와 사랑의 관계를 맺는다. 두 사람의 욕망과 위험, 함께 지낼 규칙이 사랑 이야기의 일부다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "살아 있는 사람과 죽은 뒤에도 활동하는 존재가 연인으로 지내는 설정이다. 몸의 상태와 수명, 함께 생활하는 방식이 달라 구체적인 약속이 필요할 수 있다. 위험을 감당할지와 관계를 지속할지는 양쪽이 선택해야 하며 사랑이 모든 차이를 없애지는 않는다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "살아 있는 사람과 언데드 사이에 연애 관계가 형성되는 이야기다. 흡혈귀나 유령처럼 죽음 이후에도 인격과 행동 능력을 지닌 상대가 사랑의 대상이 된다.\n\n먹이와 생존 방식의 차이, 수명의 불균형, 생사의 경계가 관계의 장애물이 된다. 공포의 대상으로 여겨지던 존재를 매력적이거나 친밀한 대상으로 바꾸는 효과도 있다.\n\n이미 연인이던 사람이 죽은 뒤 되살아나는 구성과는 시작 조건이 다르다. 단순한 시신에 대한 애착과도 구분되며, 상대가 언데드로서 지속적으로 관계에 참여한다는 점이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "살아 있는 사람과 언데드 사이에 연애 관계가 형성되는 이야기다. 흡혈귀나 유령처럼 죽음 이후에도 인격과 행동 능력을 지닌 상대가 사랑의 대상이 된다.\n\n먹이와 생존 방식의 차이, 수명의 불균형, 생사의 경계가 관계의 장애물이 된다. 공포의 대상으로 여겨지던 존재를 매력적이거나 친밀한 대상으로 바꾸는 효과도 있다.\n\n이미 연인이던 사람이 죽은 뒤 되살아나는 구성과는 시작 조건이 다르다. 단순한 시신에 대한 애착과도 구분되며, 상대가 언데드로서 지속적으로 관계에 참여한다는 점이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

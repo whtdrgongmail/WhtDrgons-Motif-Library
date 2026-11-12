@@ -6,8 +6,8 @@
   "aliases": [
     "단조에서 관계장조로 향하는 네 화음"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02036",
+  "primary_tag_id": "ML-T02036",
   "description": {
     "definition": "단조에서 i–VI–VII–III를 중심으로 이어지는 반복적인 화음 진행이다.",
     "detail": "작품 사례: [[Mike Oldfield]]의 [[Moonlight Shadow]]는 단조의 i–VI–VII–III를 중심으로 이어지는 유모레스크형 진행의 사례로 제시된다.",
@@ -15,10 +15,10 @@
     "boundary": "동명 작품이나 유머 있는 곡 일반과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,13 +31,6 @@
   },
   "applied_tags": [],
   "related_media": [
-    {
-      "media_tag_id": "ML-T00139",
-      "work_card_id": "MM-MEDIA-000604",
-      "description_ko": "Mike Oldfield의 Moonlight Shadow는 단조의 i–VI–VII–III를 중심으로 이어지는 유모레스크형 진행의 사례로 제시된다.",
-      "spoiler_level": "unreviewed",
-      "row_version": 1
-    },
     {
       "media_tag_id": "ML-F02",
       "work_card_id": "MM-MEDIA-000629",
@@ -54,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "단조의 i–VI–VII–III를 중심으로 반복되는 화음 연결을 가리키는 명칭이다. 같은 화음 재료도 선율과 앞뒤 진행에 따라 중심 조성이 다르게 들릴 수 있다.\n\n화음의 순서만 적기보다 어느 음을 중심으로 해석하는지 밝혀야 한다. 같은 이름의 작품이나 유머러스한 곡이라는 뜻과는 구분되며 보편적인 공식 명칭으로 단정하지 않는다.\n\n[[Mike Oldfield]]의 [[Moonlight Shadow]]는 제공 자료에서 이 진행의 사례로 분류된다. 해당 분류는 단조 중심의 i–VI–VII–III라는 해석에 근거하며 곡 제목이나 익살의 의미와는 관계없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "단조의 i–VI–VII–III를 중심으로 반복되는 화음 연결을 가리키는 명칭이다. 같은 화음 재료도 선율과 앞뒤 진행에 따라 중심 조성이 다르게 들릴 수 있다.\n\n화음의 순서만 적기보다 어느 음을 중심으로 해석하는지 밝혀야 한다. 같은 이름의 작품이나 유머러스한 곡이라는 뜻과는 구분되며 보편적인 공식 명칭으로 단정하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[Mike Oldfield]]의 [[Moonlight Shadow]]는 제공 자료에서 이 진행의 사례로 분류된다. 해당 분류는 단조 중심의 i–VI–VII–III라는 해석에 근거하며 곡 제목이나 익살의 의미와는 관계없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

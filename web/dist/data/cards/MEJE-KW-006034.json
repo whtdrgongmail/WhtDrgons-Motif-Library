@@ -4,8 +4,8 @@
   "title": "머릿속 금속판의 뜻밖의 기능",
   "original": "Cranial Plate Ability",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01482",
+  "primary_tag_id": "ML-T01482",
   "description": {
     "definition": "인물의 머리에 있는 의료용 금속판이 기이한 능력이나 위기 탈출의 이유로 쓰인다. 현실 의료기기와는 다른 허구적 기능이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "의료 목적으로 삽입된 머릿속 금속판이 신호 수신이나 위기 대응 등 현실과 다른 기능을 갖는 허구 설정이다. 치료 흔적이 사건의 기계적 단서가 된다.\n\n기능의 작동 조건과 부작용을 설정해야 한다. 현실의 의료기기나 수술 경험에 같은 효과가 있다고 일반화해서는 안 된다.\n\n금속판이 있다는 사실만으로 초능력의 원인이 되지는 않는다. 창작에서는 의료 경험을 낙인이나 기이함의 표지로 쓰지 않도록 한다.\n\n가상 예시: 공상과학물의 금속판은 실험 장치의 일부라 특정 신호에 반응한다. 의사는 현실의 임플란트와 무관한 허구 기술임을 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "의료 목적으로 삽입된 머릿속 금속판이 신호 수신이나 위기 대응 등 현실과 다른 기능을 갖는 허구 설정이다. 치료 흔적이 사건의 기계적 단서가 된다.\n\n기능의 작동 조건과 부작용을 설정해야 한다. 현실의 의료기기나 수술 경험에 같은 효과가 있다고 일반화해서는 안 된다.\n\n금속판이 있다는 사실만으로 초능력의 원인이 되지는 않는다. 창작에서는 의료 경험을 낙인이나 기이함의 표지로 쓰지 않도록 한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 공상과학물의 금속판은 실험 장치의 일부라 특정 신호에 반응한다. 의사는 현실의 임플란트와 무관한 허구 기술임을 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

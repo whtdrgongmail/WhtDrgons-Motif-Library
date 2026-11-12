@@ -4,8 +4,8 @@
   "title": "좋은 물건을 팔지 않는 상점",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02097",
+  "primary_tag_id": "ML-T02097",
   "description": {
     "definition": "쓸 만한 장비는 진행·탐색·전리품으로만 얻고 상점에는 매력적인 구매 대상이 남지 않는 구조다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상점의 구매물보다 탐색과 진행에서 얻는 장비가 더 유용하다. 돈을 갖고 있어도 원하는 성장을 상거래만으로 해결하기 어렵다.\n\n장비 획득의 중심을 구매에서 활동의 성과로 옮긴다. 상점이 존재하더라도 플레이어가 돈을 쓸 유인이 약해질 수 있다.\n\n가격이 비싸서 못 사는 경우와 다르다. 구매 가능한 물건 자체에 매력이 없다는 구조가 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상점의 구매물보다 탐색과 진행에서 얻는 장비가 더 유용하다. 돈을 갖고 있어도 원하는 성장을 상거래만으로 해결하기 어렵다.\n\n장비 획득의 중심을 구매에서 활동의 성과로 옮긴다. 상점이 존재하더라도 플레이어가 돈을 쓸 유인이 약해질 수 있다.\n\n가격이 비싸서 못 사는 경우와 다르다. 구매 가능한 물건 자체에 매력이 없다는 구조가 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

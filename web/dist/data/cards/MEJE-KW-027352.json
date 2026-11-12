@@ -4,8 +4,8 @@
   "title": "어릴 때부터 실험실에서 자라 탈출한 인물",
   "original": "Escaped from the Lab",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02594",
+  "primary_tag_id": "ML-T02594",
   "description": {
     "definition": "어린 시절부터 실험 대상으로 연구 시설에서 양육되다가 그곳을 탈출한 인물이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "기존 탈출자 일반보다 초기 생애의 양육과 실험 대상이라는 조건이 추가된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.004.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 성장 경험이 연구 시설의 규칙과 실험 목적에 의해 조직된다. 탈출은 장소를 벗어나는 사건이면서 처음으로 자기 삶의 선택권을 얻는 전환이 된다.\n\n시설 밖의 일상은 익숙하지 않아 관계와 생활 기술을 새로 배워야 할 수 있다. 추적과 능력의 부작용은 탈출 뒤에도 과거가 현재에 남는 방식이다.\n\n원문은 성인이 된 뒤 갇힌 경우도 포함한다. 정본은 어린 시절부터 시설에서 양육되었다는 조건이 중요하며 모든 실험실 탈출자가 같은 성장사를 갖는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 성장 경험이 연구 시설의 규칙과 실험 목적에 의해 조직된다. 탈출은 장소를 벗어나는 사건이면서 처음으로 자기 삶의 선택권을 얻는 전환이 된다.\n\n시설 밖의 일상은 익숙하지 않아 관계와 생활 기술을 새로 배워야 할 수 있다. 추적과 능력의 부작용은 탈출 뒤에도 과거가 현재에 남는 방식이다.\n\n원문은 성인이 된 뒤 갇힌 경우도 포함한다. 정본은 어린 시절부터 시설에서 양육되었다는 조건이 중요하며 모든 실험실 탈출자가 같은 성장사를 갖는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

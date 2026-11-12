@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000072",
   "kind": "keyword",
   "title": "성별 정체성",
-  "original": "",
+  "original": "Gender identity",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F09",
   "description": {
-    "definition": "",
+    "definition": "자신이 어떤 성별에 속하는지, 또는 특정 성별 범주로 자신을 규정하지 않는지를 내적으로 경험하고 인식하는 방식이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "09",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "남들이 겉모습을 보고 정한 성별과 별개로, 자기 자신은 어떤 성별의 사람이라고 느끼고 이해하는지를 뜻한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성별 정체성은 자신에 대한 성별의 경험과 인식이다. 출생 시 지정된 성별과 일치할 수도 있고 다를 수도 있으며, 남성이나 여성이라는 범주 밖에서 자신을 이해하는 사람도 있다.\n\n옷차림·머리 모양·말투 같은 [[성별 표현]]과는 구별된다. 비슷한 표현을 하는 사람들의 성별 정체성이 모두 같은 것은 아니며, 누구에게 정서적·성적으로 끌리는지를 뜻하는 [[성적 지향]]과도 다른 개념이다.\n\n작품 속 인물도 여성적이거나 남성적인 외형, [[크로스드레싱]], 신체 변화만으로 정체성을 확정할 수 없다. 인물이 자신을 어떻게 이해하고 설명하는지와 다른 인물이 어떻게 인식하는지는 구별되며, 서로 어긋날 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성별 정체성은 자신에 대한 성별의 경험과 인식이다. 출생 시 지정된 성별과 일치할 수도 있고 다를 수도 있으며, 남성이나 여성이라는 범주 밖에서 자신을 이해하는 사람도 있다.\n\n옷차림·머리 모양·말투 같은 [[성별 표현]]과는 구별된다. 비슷한 표현을 하는 사람들의 성별 정체성이 모두 같은 것은 아니며, 누구에게 정서적·성적으로 끌리는지를 뜻하는 [[성적 지향]]과도 다른 개념이다.\n\n작품 속 인물도 여성적이거나 남성적인 외형, [[크로스드레싱]], 신체 변화만으로 정체성을 확정할 수 없다. 인물이 자신을 어떻게 이해하고 설명하는지와 다른 인물이 어떻게 인식하는지는 구별되며, 서로 어긋날 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

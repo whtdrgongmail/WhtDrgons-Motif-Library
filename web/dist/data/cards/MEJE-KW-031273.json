@@ -4,8 +4,8 @@
   "title": "개인 공간의 아케이드 게임기",
   "original": "Personal Arcade",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01845",
+  "primary_tag_id": "ML-T01845",
   "description": {
     "definition": "집이나 사무실에 설치된 오락실용 게임기로 인물의 취향·재력·미성숙함 등을 드러내는 소품 연출이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.001.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "책상 옆에 대형 게임기가 켜져 있어 주인의 생활 우선순위를 짐작하게 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "업소용 게임기를 개인 공간으로 옮기면 비용과 면적을 취미에 할애한다는 정보가 생긴다. 직접 플레이하지 않아도 배경의 불빛과 소리만으로 여가 중심의 생활을 암시할 수 있다.\n\n수집품을 직접 복원한 인물이라면 기술적 숙련을 보여 주는 소품도 된다. 같은 기계를 두고 사치, 애착, 창작 능력 중 무엇을 읽게 할지는 주변 환경과 인물의 행동이 결정한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "업소용 게임기를 개인 공간으로 옮기면 비용과 면적을 취미에 할애한다는 정보가 생긴다. 직접 플레이하지 않아도 배경의 불빛과 소리만으로 여가 중심의 생활을 암시할 수 있다.\n\n수집품을 직접 복원한 인물이라면 기술적 숙련을 보여 주는 소품도 된다. 같은 기계를 두고 사치, 애착, 창작 능력 중 무엇을 읽게 할지는 주변 환경과 인물의 행동이 결정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

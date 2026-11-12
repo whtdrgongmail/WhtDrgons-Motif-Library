@@ -4,8 +4,8 @@
   "title": "텅 빈 병원에서 깨어남",
   "original": "Abandoned Hospital Awakening",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00648",
+  "primary_tag_id": "ML-T00648",
   "description": {
     "definition": "병원에서 의식을 되찾은 환자가 다른 사람들은 모두 사라졌음을 발견하는 도입 상황이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "퇴원해 혼자 남은 정상적인 상황보다 부재를 설명할 수 없는 고립이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "환자가 병원에서 깨어나 의료진과 다른 사람이 모두 사라졌음을 발견하는 도입이다. 의식이 없는 동안 큰 사건이 벌어졌다는 설정으로 주인공과 관객의 정보 부족을 일치시킨다.\n\n텅 빈 병동과 남겨진 흔적은 재난의 규모와 원인을 조금씩 알려 준다. 치료를 기대한 인물에게 돌봄이 없으므로 부상이나 쇠약함도 첫 탐색의 장애가 된다.\n\n기억까지 잃었다면 입원 이유와 자기 정체에 관한 수수께끼가 겹친다. 단순한 [[폐병원]] 탐험과 달리 원래 그곳에 보호받고 있던 사람이 변화한 세계를 뒤늦게 접한다는 시점이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "환자가 병원에서 깨어나 의료진과 다른 사람이 모두 사라졌음을 발견하는 도입이다. 의식이 없는 동안 큰 사건이 벌어졌다는 설정으로 주인공과 관객의 정보 부족을 일치시킨다.\n\n텅 빈 병동과 남겨진 흔적은 재난의 규모와 원인을 조금씩 알려 준다. 치료를 기대한 인물에게 돌봄이 없으므로 부상이나 쇠약함도 첫 탐색의 장애가 된다.\n\n기억까지 잃었다면 입원 이유와 자기 정체에 관한 수수께끼가 겹친다. 단순한 [[폐병원]] 탐험과 달리 원래 그곳에 보호받고 있던 사람이 변화한 세계를 뒤늦게 접한다는 시점이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

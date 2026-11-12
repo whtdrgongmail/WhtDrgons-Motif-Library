@@ -4,8 +4,8 @@
   "title": "전화 너머에서 생긴 오해",
   "original": "Funny Phone Misunderstanding",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00710",
+  "primary_tag_id": "ML-T00710",
   "description": {
     "definition": "통화 중 한쪽의 말을 다른 뜻으로 듣거나 곁 사람에게 한 말을 자기에게 한 말로 받아들여 어긋난 대화가 이어진다. 말의 의미가 서로 다르게 전달되는 상황은 [[다른 언어가 만든 우스운 오해]]에서도 핵심이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "06",
+    "code": "06.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전화 상대가 누구에게 한 말인지와 표현의 뜻을 잘못 이해하여 대화가 어긋나는 장면이다. 보이지 않는 주변 상황이 오해의 조건이 된다.\n\n곁 사람에게 한 말을 통화 상대가 자신에게 한 것으로 받아들일 수 있다. 소리가 비슷한 단어를 다르게 듣는 변형도 가능하다.\n\n단순한 통신 불량과는 해석의 과정이 다르다. 관객이 양쪽 사정을 알면 오해를 따라가며 웃고, 한쪽만 들으면 뒤늦게 반전의 뜻을 이해할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전화 상대가 누구에게 한 말인지와 표현의 뜻을 잘못 이해하여 대화가 어긋나는 장면이다. 보이지 않는 주변 상황이 오해의 조건이 된다.\n\n곁 사람에게 한 말을 통화 상대가 자신에게 한 것으로 받아들일 수 있다. 소리가 비슷한 단어를 다르게 듣는 변형도 가능하다.\n\n단순한 통신 불량과는 해석의 과정이 다르다. 관객이 양쪽 사정을 알면 오해를 따라가며 웃고, 한쪽만 들으면 뒤늦게 반전의 뜻을 이해할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

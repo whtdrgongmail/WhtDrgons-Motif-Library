@@ -5,8 +5,8 @@
   "original": "Taking \"Don't Tell Anyone\" as a Clever Yes",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01945",
+  "primary_tag_id": "ML-T01945",
   "description": {
     "definition": "비밀로 해 달라는 말을 들은 사람이 실제로 무슨 일인지 몰라 되묻는데, 요청자는 이를 비밀을 지키겠다는 재치 있는 동의로 받아들인다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "정보가 없는 질문자와 정보를 숨긴다고 믿는 요청자의 인식 차이가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.003.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상황을 모르는 사람이 되묻는데 요청자는 비밀을 지켜 주는 대답으로 이해하면 두 사람은 다른 대화를 하고 있다. 요청자의 안도는 실제 정보 공유와 반대가 된다.\n\n모른다는 말이 재치 있는 은폐로 읽히기 때문에 설명할 필요도 사라진다. 오해를 풀 단서가 오히려 비밀 유지의 증거처럼 받아들여지는 구조다.\n\n둘 다 사정을 알면서 시치미를 떼는 경우와는 다르다. 한쪽에는 정보가 정말 없다는 차이가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상황을 모르는 사람이 되묻는데 요청자는 비밀을 지켜 주는 대답으로 이해하면 두 사람은 다른 대화를 하고 있다. 요청자의 안도는 실제 정보 공유와 반대가 된다.\n\n모른다는 말이 재치 있는 은폐로 읽히기 때문에 설명할 필요도 사라진다. 오해를 풀 단서가 오히려 비밀 유지의 증거처럼 받아들여지는 구조다.\n\n둘 다 사정을 알면서 시치미를 떼는 경우와는 다르다. 한쪽에는 정보가 정말 없다는 차이가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

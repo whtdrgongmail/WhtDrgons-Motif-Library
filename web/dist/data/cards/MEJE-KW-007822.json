@@ -4,8 +4,8 @@
   "title": "용의 특징을 지닌 인간형 종족",
   "original": "Draconic Humanoid",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01137",
+  "primary_tag_id": "ML-T01137",
   "description": {
     "definition": "사람의 몸 형태에 비늘·날개·뿔 같은 드래곤의 특징을 결합한 [[판타지]] 존재 유형. 용의 외형을 가진 인간형 종족은 [[드래곤 혈통]] 설정에서 태어나기도 한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "12",
+    "code": "12.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사람과 비슷한 몸의 구조에 용의 비늘과 뿔, 날개와 호흡 능력을 결합한 존재다. 인간형의 생활과 드래곤의 시각적 특징을 함께 유지한다.\n\n독립적인 종족일 수도 있고 인간과 용의 후손일 수도 있다. 어느 특징이 실제 능력과 연결되는지에 따라 같은 외형에서도 신체적인 강점과 생활의 제약이 달라진다.\n\n평범한 도마뱀형 인간과 구별하려면 용을 연상시키는 요소가 중요하다. 이름과 외모만으로 기원과 도덕성을 확정할 수 없으며, 공동체와 개인의 차이도 별도로 설정할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사람과 비슷한 몸의 구조에 용의 비늘과 뿔, 날개와 호흡 능력을 결합한 존재다. 인간형의 생활과 드래곤의 시각적 특징을 함께 유지한다.\n\n독립적인 종족일 수도 있고 인간과 용의 후손일 수도 있다. 어느 특징이 실제 능력과 연결되는지에 따라 같은 외형에서도 신체적인 강점과 생활의 제약이 달라진다.\n\n평범한 도마뱀형 인간과 구별하려면 용을 연상시키는 요소가 중요하다. 이름과 외모만으로 기원과 도덕성을 확정할 수 없으며, 공동체와 개인의 차이도 별도로 설정할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

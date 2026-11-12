@@ -4,8 +4,8 @@
   "title": "공연 모습이 중심인 뮤직비디오",
   "original": "Performance Video",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00143",
+  "primary_tag_id": "ML-T00143",
   "description": {
     "definition": "가수나 밴드가 해당 곡을 노래하고 연주하는 모습을 영상의 중심으로 삼은 뮤직비디오 형식이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "별도의 이야기가 중심인 영상과 구별하지만 실제 관객이나 라이브 현장 촬영이 필수는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "02.008.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "contextual",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "음악가의 공연을 보는 일이 영상의 핵심이다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공연 장면은 음악을 만드는 사람의 존재와 몸짓을 시각적으로 전달한다. 실제 관객 앞일 수도 있고 [[관객 없는 무대의 공연 영상]]일 수도 있으며, 여러 번의 촬영이나 다른 공연을 하나로 편집할 수도 있다. 화면의 연주 동작과 최종 음원이 같은 순간에 녹음되었다는 보장은 없다.\n\n실황 기록은 현장의 공연을 담는 방식이고, 연출된 촬영은 별도의 음원에 맞춘 동작을 포함할 수 있다. 중간에 배우의 장면이나 곡의 이야기를 넣어도 중심 비중이 공연이라면 같은 형식으로 볼 수 있다. [[이야기를 담은 뮤직비디오]]와 구별할 때는 공연의 존재 여부보다 영상 전체를 조직하는 축이 무엇인지 살펴야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공연 장면은 음악을 만드는 사람의 존재와 몸짓을 시각적으로 전달한다. 실제 관객 앞일 수도 있고 [[관객 없는 무대의 공연 영상]]일 수도 있으며, 여러 번의 촬영이나 다른 공연을 하나로 편집할 수도 있다. 화면의 연주 동작과 최종 음원이 같은 순간에 녹음되었다는 보장은 없다.\n\n실황 기록은 현장의 공연을 담는 방식이고, 연출된 촬영은 별도의 음원에 맞춘 동작을 포함할 수 있다. 중간에 배우의 장면이나 곡의 이야기를 넣어도 중심 비중이 공연이라면 같은 형식으로 볼 수 있다. [[이야기를 담은 뮤직비디오]]와 구별할 때는 공연의 존재 여부보다 영상 전체를 조직하는 축이 무엇인지 살펴야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 6,
+    "replaces_short_fields": true
+  }
 }

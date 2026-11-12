@@ -4,8 +4,8 @@
   "title": "고향의 지명을 다른 행성에 그대로 옮기기",
   "original": "Named the Same",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "기존 고향이나 지구상의 지명을 새 행성에 변형 없이 재사용하는 명명 방식이다.",
     "detail": "작품 사례: 《[[The Demon Princes]]》에는 마다가스카르처럼 지구 지명을 그대로 사용한 행성이 등장한다.",
@@ -13,10 +13,10 @@
     "boundary": "New 같은 새로움을 표시하는 말이 덧붙는 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "고향이나 지구에 있던 지명을 다른 행성의 이름으로 그대로 쓴다. 새로운 장소를 익숙한 이름과 연결하는 명명 방식이다.\n\n이주 사회의 기억이 지명에 남으면 낯선 행성에서도 이전 세계와의 연속성이 표현된다. 이름의 재사용은 공간의 새로움과 기억의 지속을 함께 드러낸다.\n\n기존 이름 앞에 새롭다는 뜻의 말을 붙이는 경우와 다르다. 명칭을 변형하지 않고 그대로 옮겼다는 조건이 기준이다.\n\n《[[The Demon Princes]]》에는 마다가스카르처럼 지구 지명을 그대로 사용한 행성이 등장한다.\n\n[[The Demon Princes]]",
+    "sections": [
+      [
+        "상세 설명",
+        "고향이나 지구에 있던 지명을 다른 행성의 이름으로 그대로 쓴다. 새로운 장소를 익숙한 이름과 연결하는 명명 방식이다.\n\n이주 사회의 기억이 지명에 남으면 낯선 행성에서도 이전 세계와의 연속성이 표현된다. 이름의 재사용은 공간의 새로움과 기억의 지속을 함께 드러낸다.\n\n기존 이름 앞에 새롭다는 뜻의 말을 붙이는 경우와 다르다. 명칭을 변형하지 않고 그대로 옮겼다는 조건이 기준이다."
+      ],
+      [
+        "사례",
+        "《[[The Demon Princes]]》에는 마다가스카르처럼 지구 지명을 그대로 사용한 행성이 등장한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Demon Princes]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

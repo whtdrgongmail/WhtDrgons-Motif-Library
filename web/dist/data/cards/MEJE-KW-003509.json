@@ -4,8 +4,8 @@
   "title": "먼저 온 정찰대를 속여 침공 막기",
   "original": "Bluffing the Advance Scout",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "큰 적군보다 앞서 온 정찰대에 자신들의 힘이나 가치를 다르게 보이게 한다. 적이 불완전한 보고를 믿는지가 작전의 성패를 가른다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "침공에 앞서 도착한 정찰자에게 거짓된 인상을 주어 본대의 공격을 취소하게 한다. 적이 지구와 주민을 잘 모른다는 정보 부족을 강한 군사력의 대안으로 이용하는 구조다.\n\n상대하기 너무 위험한 세계처럼 보이게 하거나 정복할 가치가 없다고 믿게 할 수 있다. 두 방식은 전달하는 정보가 반대지만 정찰 보고가 공격 결정을 바꾼다는 조건을 공유한다.\n\n실제 전투에서 적을 격파하는 것과는 승리의 원인이 다르다. 엉뚱한 종과 기계를 지배 생명체로 오인하게 하면 행성 전체에 대한 잘못된 추론이 생긴다. 정찰자와 대화하거나 보여 줄 장면을 통제할 수 있다는 기회가 성립의 중요한 전제다.",
+    "sections": [
+      [
+        "상세 설명",
+        "침공에 앞서 도착한 정찰자에게 거짓된 인상을 주어 본대의 공격을 취소하게 한다. 적이 지구와 주민을 잘 모른다는 정보 부족을 강한 군사력의 대안으로 이용하는 구조다.\n\n상대하기 너무 위험한 세계처럼 보이게 하거나 정복할 가치가 없다고 믿게 할 수 있다. 두 방식은 전달하는 정보가 반대지만 정찰 보고가 공격 결정을 바꾼다는 조건을 공유한다.\n\n실제 전투에서 적을 격파하는 것과는 승리의 원인이 다르다. 엉뚱한 종과 기계를 지배 생명체로 오인하게 하면 행성 전체에 대한 잘못된 추론이 생긴다. 정찰자와 대화하거나 보여 줄 장면을 통제할 수 있다는 기회가 성립의 중요한 전제다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

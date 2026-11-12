@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000151",
   "kind": "keyword",
   "title": "액션 커맨드",
-  "original": "",
+  "original": "Action Command",
+  "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02077",
+  "primary_tag_id": "ML-T02077",
   "description": {
-    "definition": "",
+    "definition": "명령을 선택해 진행하는 게임 전투에서 공격이나 방어의 실행 순간에 추가 입력을 받아 그 효과를 바꾸는 조작 규칙이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 3,
+  "classification": {
+    "code": "25.001.007",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "전투 명령을 고른 뒤 알맞은 순간에 버튼을 누르는 등의 조작을 하면 공격이나 방어의 결과가 달라지는 규칙이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "액션 커맨드는 명령 선택과 실행 중의 조작을 결합한다. 공격을 선택한 뒤 정해진 순간에 버튼을 누르거나, 공격을 받을 때 입력하여 피해를 줄이는 식으로 작동할 수 있다. 입력에 성공했는지에 따라 같은 명령의 결과가 달라진다.\n\n조작의 종류는 한 번 누르기에 한정되지 않는다. 일정 시간 누르거나 반복해서 누르는 방식도 있으며, 어느 입력이 필요한지는 게임마다 다르다. 전투가 전부 실시간으로 진행되어야 한다는 뜻은 아니다.\n\n공격력 수치가 저절로 높아지는 효과와는 다르게, 실행 순간에 플레이어의 입력이 결과에 반영된다. 연결 문맥의 [[슈퍼 마리오 RPG]]에서는 선택한 전투 행동에 맞춰 입력하는 규칙으로 사용된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "액션 커맨드는 명령 선택과 실행 중의 조작을 결합한다. 공격을 선택한 뒤 정해진 순간에 버튼을 누르거나, 공격을 받을 때 입력하여 피해를 줄이는 식으로 작동할 수 있다. 입력에 성공했는지에 따라 같은 명령의 결과가 달라진다.\n\n조작의 종류는 한 번 누르기에 한정되지 않는다. 일정 시간 누르거나 반복해서 누르는 방식도 있으며, 어느 입력이 필요한지는 게임마다 다르다. 전투가 전부 실시간으로 진행되어야 한다는 뜻은 아니다.\n\n공격력 수치가 저절로 높아지는 효과와는 다르게, 실행 순간에 플레이어의 입력이 결과에 반영된다. 연결 문맥의 [[슈퍼 마리오 RPG]]에서는 선택한 전투 행동에 맞춰 입력하는 규칙으로 사용된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

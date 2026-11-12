@@ -4,8 +4,8 @@
   "title": "자녀가 부모를 배신하기",
   "original": "Betrayal by Offspring",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "부모가 믿던 자녀가 가족의 비밀이나 권력을 다른 쪽에 넘긴다. 가까운 관계에서 생긴 기대만큼 배신의 결과가 커진다. 배신이 공격이 아니라 [[도와주기로 한 순간 손 놓아 배신하기]]일 수도 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "부모가 신뢰했던 자녀가 비밀을 적에게 알리거나 약속한 지원을 거두어 부모를 곤경에 빠뜨리는 전개다. 가족이라 믿고 허용했던 접근이 피해를 키운다. 배신의 이유와 부모의 행동도 따로 볼 수 있지만, 가까운 관계의 기대가 깨졌다는 점이 중요하다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[부모와 자녀]]의 관계에서는 충성과 보호에 대한 기대가 깊어 배신의 감정도 크게 표현된다. 권력과 재산을 빼앗는 노골적인 행동뿐 아니라 가족이 숨긴 일을 외부에 알리는 선택도 갈등의 원인이 될 수 있다.\n\n부모가 배신이라고 부르는 행위가 실제로 부당한지는 별도로 판단해야 한다. 자녀가 해로운 관습이나 정치적 신념을 거부하는 선택도 부모에게는 같은 언어로 표현될 수 있기 때문이다. 발화자의 상처와 사건의 윤리적 평가를 구별한다.\n\n이전 관계가 나빴어야 하는 것은 아니다. 신뢰가 있었던 관계의 단절은 원인을 새로 추적하게 한다. 부모가 보복하는지 대화하려 하는지, 자녀가 기대했던 결과는 무엇인지 함께 보여 주면 혈연 자체보다 서로 다른 의무와 선택이 드러난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[부모와 자녀]]의 관계에서는 충성과 보호에 대한 기대가 깊어 배신의 감정도 크게 표현된다. 권력과 재산을 빼앗는 노골적인 행동뿐 아니라 가족이 숨긴 일을 외부에 알리는 선택도 갈등의 원인이 될 수 있다.\n\n부모가 배신이라고 부르는 행위가 실제로 부당한지는 별도로 판단해야 한다. 자녀가 해로운 관습이나 정치적 신념을 거부하는 선택도 부모에게는 같은 언어로 표현될 수 있기 때문이다. 발화자의 상처와 사건의 윤리적 평가를 구별한다.\n\n이전 관계가 나빴어야 하는 것은 아니다. 신뢰가 있었던 관계의 단절은 원인을 새로 추적하게 한다. 부모가 보복하는지 대화하려 하는지, 자녀가 기대했던 결과는 무엇인지 함께 보여 주면 혈연 자체보다 서로 다른 의무와 선택이 드러난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

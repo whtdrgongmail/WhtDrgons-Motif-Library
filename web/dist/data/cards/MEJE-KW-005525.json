@@ -4,8 +4,8 @@
   "title": "필요 없었던 통역자",
   "original": "Completely Unnecessary Translator",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02532",
+  "primary_tag_id": "ML-T02532",
   "description": {
     "definition": "통역을 거쳐 말하던 상대가 사실은 두 사람의 언어를 직접 이해하고 있었음을 드러내어 관계의 주도권을 바꾸는 장면. 모두가 통하는 언어를 이미 알고 있다면 [[서로 통하는 공용어]]가 존재하는 세계에서는 통역이 필요하지 않을 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.004.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "통역을 거쳐 대화하던 인물이 사실 상대의 언어를 유창하게 알고 있었음이 드러나는 장면이다. 언어 장벽이라고 생각했던 조건이 선택적으로 유지된 것이 된다.\n\n외국인이라는 인상과 권위를 강조하거나 상대를 관찰하기 위해 통역을 남겨 둘 수 있다. 직접 답하는 순간 이전의 말을 모두 이해했다는 사실이 대화의 긴장을 바꾼다.\n\n통역자의 잘못된 번역도 이미 알려졌을 수 있다. 언어를 조금 배운 정도와 달리 충분한 이해 능력이 있어야 반전이 성립하며, 통역의 존재가 반드시 의사소통의 필요만을 뜻하지 않음을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "통역을 거쳐 대화하던 인물이 사실 상대의 언어를 유창하게 알고 있었음이 드러나는 장면이다. 언어 장벽이라고 생각했던 조건이 선택적으로 유지된 것이 된다.\n\n외국인이라는 인상과 권위를 강조하거나 상대를 관찰하기 위해 통역을 남겨 둘 수 있다. 직접 답하는 순간 이전의 말을 모두 이해했다는 사실이 대화의 긴장을 바꾼다.\n\n통역자의 잘못된 번역도 이미 알려졌을 수 있다. 언어를 조금 배운 정도와 달리 충분한 이해 능력이 있어야 반전이 성립하며, 통역의 존재가 반드시 의사소통의 필요만을 뜻하지 않음을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

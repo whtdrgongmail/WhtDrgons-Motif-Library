@@ -4,8 +4,8 @@
   "title": "라이트 노벨",
   "original": "Light Novels",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00067",
+  "primary_tag_id": "ML-T00067",
   "description": {
     "definition": "짧고 읽기 쉬운 문장과 대화 중심의 산문에 만화풍 삽화를 결합하는 대중 소설 형식이다.",
     "detail": "작품 사례: 《[[스즈미야 하루히 시리즈(소설)]]》는 원문에서 라이트 노벨의 대표 사례로 제시되며 애니메이션 각색과의 관계도 설명된다. 소설 원작과 영상판을 별도 매체로 구분할 수 있는 사례다.",
@@ -13,17 +13,19 @@
     "boundary": "애니메이션이나 만화 자체가 아니며 일본 소설 전체, 청소년 소설 전체와 동일하지 않다. 목록의 모든 중국어 웹소설을 같은 형식으로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "02.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +46,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "읽기 쉬운 산문과 대화, 만화풍 삽화가 결합하는 대중 소설 형식이다. 시각적 인물상과 빠른 읽기의 리듬이 함께 독서 경험을 구성한다.\n\n[[라이트 노벨]]은 하나의 이야기 장르보다 출판과 표현의 형식에 가깝다. 판타지와 연애, 일상물 등 서로 다른 주제를 같은 형식으로 다룰 수 있다. 문체와 삽화, 독자층과 출판 형식이 함께 만드는 범주이므로, 문장이 짧다는 한 가지 특징만으로 모든 소설을 이 형식에 포함할 수는 없다.\n\n일본 소설 전체나 청소년 대상 소설 전체를 같은 범주로 보지는 않는다. 다른 언어권의 웹소설도 개별적인 형식과 출판 맥락을 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "읽기 쉬운 산문과 대화, 만화풍 삽화가 결합하는 대중 소설 형식이다. 시각적 인물상과 빠른 읽기의 리듬이 함께 독서 경험을 구성한다.\n\n[[라이트 노벨]]은 하나의 이야기 장르보다 출판과 표현의 형식에 가깝다. 판타지와 연애, 일상물 등 서로 다른 주제를 같은 형식으로 다룰 수 있다. 문체와 삽화, 독자층과 출판 형식이 함께 만드는 범주이므로, 문장이 짧다는 한 가지 특징만으로 모든 소설을 이 형식에 포함할 수는 없다.\n\n일본 소설 전체나 청소년 대상 소설 전체를 같은 범주로 보지는 않는다. 다른 언어권의 웹소설도 개별적인 형식과 출판 맥락을 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

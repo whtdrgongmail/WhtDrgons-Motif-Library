@@ -4,8 +4,8 @@
   "title": "회차마다 반복되는 끝맺음",
   "original": "Every Episode Ending",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00558",
+  "primary_tag_id": "ML-T00558",
   "description": {
     "definition": "매 회차나 장의 마지막에 같은 대사나 문구를 넣어 끝났음을 알리는 반복 형식.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.001.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "회차나 장의 끝에 같은 요소를 반복하여 마무리를 알리는 형식이다. 대사와 내레이션, 화면 밖 문구 등이 해당할 수 있다.\n\n관객은 익숙한 표현을 듣고 이번 사건이 끝났음을 알아차린다. 반복은 작품의 고유한 리듬과 [[정체성]]을 형성하며 마지막 농담이나 노래와 결합하기도 한다.\n\n일반적인 종료 자막과는 개별 작품의 특징이라는 점에서 다르다. 표현을 변형하거나 생략하면 평소와 다른 결말이라는 신호로 활용할 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "회차나 장의 끝에 같은 요소를 반복하여 마무리를 알리는 형식이다. 대사와 내레이션, 화면 밖 문구 등이 해당할 수 있다.\n\n관객은 익숙한 표현을 듣고 이번 사건이 끝났음을 알아차린다. 반복은 작품의 고유한 리듬과 [[정체성]]을 형성하며 마지막 농담이나 노래와 결합하기도 한다.\n\n일반적인 종료 자막과는 개별 작품의 특징이라는 점에서 다르다. 표현을 변형하거나 생략하면 평소와 다른 결말이라는 신호로 활용할 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

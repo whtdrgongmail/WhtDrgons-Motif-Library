@@ -4,8 +4,8 @@
   "title": "팬덤이 다시 만든 인물의 성격",
   "original": "Memetic Personality Change",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02301",
+  "primary_tag_id": "ML-T02301",
   "description": {
     "definition": "팬들이 원작의 특징을 확대하거나 새 성격을 반복해서 부여하여 원작과 크게 다른 인물상을 공유하는 현상이다.",
     "detail": "디자인 참조: 《[[아바타: 아앙의 전설]]》의 오자이는 팬 소설에서 커피 애호가로 자주 재해석된다.",
@@ -13,10 +13,10 @@
     "boundary": "공식적으로 비어 있는 설정을 채우는 것과 달리 원래 성격과의 차이가 중심이다. 가벼운 습관 하나를 추가하는 경우도 포함할 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "팬들이 특정 성격을 확대하거나 새 성질을 붙여 공유한다. 원작과 다른 인물상이 반복 창작을 통해 익숙해진다.\n\n일부 특징이 대표 이미지가 되면 다른 행동은 덜 기억될 수 있다. 원작을 본 사람도 팬 해석과 정사의 정보를 혼동할 가능성이 생긴다.\n\n비어 있는 설정을 채우는 것과는 다르다. 원래의 성격과 차이가 있다는 점이 중심이며 작은 습관의 추가도 포함될 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "팬들이 특정 성격을 확대하거나 새 성질을 붙여 공유한다. 원작과 다른 인물상이 반복 창작을 통해 익숙해진다.\n\n일부 특징이 대표 이미지가 되면 다른 행동은 덜 기억될 수 있다. 원작을 본 사람도 팬 해석과 정사의 정보를 혼동할 가능성이 생긴다.\n\n비어 있는 설정을 채우는 것과는 다르다. 원래의 성격과 차이가 있다는 점이 중심이며 작은 습관의 추가도 포함될 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

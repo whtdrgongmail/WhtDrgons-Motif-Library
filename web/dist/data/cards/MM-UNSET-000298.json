@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F15",
   "description": {
-    "definition": "",
+    "definition": "혼인한 부부가 아내의 친족 집단이나 가족과 함께 거주하는 거주 규칙.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "15",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "결혼한 뒤 부부가 아내 쪽 가족과 함께 사는 방식이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "모처거주는 혼인 후 부부가 어느 가족이나 친족 집단과 함께 살지를 정하는 거주 관행이다. 이 경우 거주 기준은 아내 쪽 가족이다.\n\n거주 위치와 가족생활의 중심, 혈통 계보, 정치 권력의 배치는 서로 구별되는 차원이다. 모처거주만으로 [[모계제]]나 [[모중심 가족]], [[여성 통치]]가 함께 존재한다고 단정할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "모처거주는 혼인 후 부부가 어느 가족이나 친족 집단과 함께 살지를 정하는 거주 관행이다. 이 경우 거주 기준은 아내 쪽 가족이다.\n\n거주 위치와 가족생활의 중심, 혈통 계보, 정치 권력의 배치는 서로 구별되는 차원이다. 모처거주만으로 [[모계제]]나 [[모중심 가족]], [[여성 통치]]가 함께 존재한다고 단정할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

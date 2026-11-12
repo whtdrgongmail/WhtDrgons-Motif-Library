@@ -4,8 +4,8 @@
   "title": "취기를 표시하는 붉은 얼굴",
   "original": "Drunken Glow",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01863",
+  "primary_tag_id": "ML-T01863",
   "description": {
     "definition": "붉어진 코와 얼굴을 인물의 취한 상태를 즉시 알리는 시각적 약호로 쓴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "코와 볼을 붉게 그려 인물이 취했음을 즉시 알리는 시각적인 약속이다. 말과 걸음이 나오기 전에도 상태를 전달할 수 있다.\n\n일시적인 홍조를 크게 과장하거나 반짝이는 볼과 표시선을 사용할 수 있다. 평소 모습과 대비되면 음주 전후의 변화가 짧은 화면에서도 분명해진다.\n\n얼굴과 코가 붉다는 사실만으로 실제 음주와 중독을 판단해서는 안 된다. 피부와 건강의 원인은 다양하며, 작품의 단순한 기호와 현실의 신체적인 증상을 구별하는 것이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "코와 볼을 붉게 그려 인물이 취했음을 즉시 알리는 시각적인 약속이다. 말과 걸음이 나오기 전에도 상태를 전달할 수 있다.\n\n일시적인 홍조를 크게 과장하거나 반짝이는 볼과 표시선을 사용할 수 있다. 평소 모습과 대비되면 음주 전후의 변화가 짧은 화면에서도 분명해진다.\n\n얼굴과 코가 붉다는 사실만으로 실제 음주와 중독을 판단해서는 안 된다. 피부와 건강의 원인은 다양하며, 작품의 단순한 기호와 현실의 신체적인 증상을 구별하는 것이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "나이에 비해 뛰어난 무술 실력의 아이",
   "original": "Kung-Fu Kid",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00917",
+  "primary_tag_id": "ML-T00917",
   "description": {
     "definition": "어린이 또는 청소년의 뛰어난 무술이 이야기에서 눈에 띄는 능력과 역할로 강조되는 인물형이다.",
     "detail": "작품 사례: 《[[드래곤볼]]》의 어린 손오공과 크리링은 무술 수련과 대결이 이야기의 중심이 되는 뛰어난 소년 전사들이다.",
@@ -13,10 +13,10 @@
     "boundary": "무술 학원을 다녔다는 언급이나 한 번의 우연한 승리보다 지속적으로 중요한 실력이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001375",
+      "work_card_id": "MM-MEDIA-002561",
       "description_ko": "《드래곤볼》의 어린 손오공과 크리링은 무술 수련과 대결이 이야기의 중심이 되는 뛰어난 소년 전사들이다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "어린이와 청소년이 나이에 비해 두드러진 무술 실력을 가진 인물형이다. 어린 외관과 숙련된 행동의 대비가 역할을 만든다.\n\n훈련을 통해 실력을 얻는 성장 이야기일 수도 있고 처음부터 완성된 재능을 보여 줄 수도 있다. 대회에서는 목표 달성의 수단이 되고 모험에서는 성인과 위협에 맞서는 능력이 된다.\n\n무술을 배우는 아이가 모두 해당하는 것은 아니다. 이야기의 다른 인물과 비교해 실력이 특별하게 강조되어야 하며, 나이와 책임의 문제도 능력과 별도로 다뤄질 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "어린이와 청소년이 나이에 비해 두드러진 무술 실력을 가진 인물형이다. 어린 외관과 숙련된 행동의 대비가 역할을 만든다.\n\n훈련을 통해 실력을 얻는 성장 이야기일 수도 있고 처음부터 완성된 재능을 보여 줄 수도 있다. 대회에서는 목표 달성의 수단이 되고 모험에서는 성인과 위협에 맞서는 능력이 된다.\n\n무술을 배우는 아이가 모두 해당하는 것은 아니다. 이야기의 다른 인물과 비교해 실력이 특별하게 강조되어야 하며, 나이와 책임의 문제도 능력과 별도로 다뤄질 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

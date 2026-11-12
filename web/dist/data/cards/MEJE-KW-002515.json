@@ -4,8 +4,8 @@
   "title": "밴조 소리로 외진 마을을 알리기",
   "original": "Backwater Banjo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02056",
+  "primary_tag_id": "ML-T02056",
   "description": {
     "definition": "밴조의 음색을 시골이나 외딴 지역의 배경 신호로 사용한다. 소리만으로 장소를 짐작하게 하지만 지역 문화를 단순한 기호로 줄일 위험도 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "밴조 특유의 소리로 시골이나 외딴 지역의 분위기를 빠르게 전달한다. 장소에 대한 시각 정보가 적어도 음악이 생활 양식을 암시한다.\n\n밴조의 음색은 특정한 음악 장르와 지역 문화의 연상을 통해 장소를 소개한다. 같은 소리도 밝은 장면에서는 소박함을, 불안한 장면에서는 문명에서 멀리 떨어졌다는 느낌을 줄 수 있다. 악기 자체보다 화면과 함께 형성되는 지역 이미지가 중요한 분석 대상이다.\n\n목가적인 친근함과 고립된 마을의 낯섦 모두에 사용할 수 있다. 실제 지역 주민의 성격을 설명하는 소리가 아니라 장르가 축적한 연상의 관습으로 이해해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "밴조 특유의 소리로 시골이나 외딴 지역의 분위기를 빠르게 전달한다. 장소에 대한 시각 정보가 적어도 음악이 생활 양식을 암시한다.\n\n밴조의 음색은 특정한 음악 장르와 지역 문화의 연상을 통해 장소를 소개한다. 같은 소리도 밝은 장면에서는 소박함을, 불안한 장면에서는 문명에서 멀리 떨어졌다는 느낌을 줄 수 있다. 악기 자체보다 화면과 함께 형성되는 지역 이미지가 중요한 분석 대상이다.\n\n목가적인 친근함과 고립된 마을의 낯섦 모두에 사용할 수 있다. 실제 지역 주민의 성격을 설명하는 소리가 아니라 장르가 축적한 연상의 관습으로 이해해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

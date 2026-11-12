@@ -4,8 +4,8 @@
   "title": "싸워 온 적이 전체의 작은 일부였다는 공개",
   "original": "Those Were Only Their Scouts",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "지금까지 상대하던 세력이 더 큰 위협의 일부에 지나지 않았음이 밝혀져 위험의 규모가 확대되는 반전이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "동등한 적이 새로 합류하는 것보다 기존 상대의 전체적 위치가 달리 해석되는 점이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "어렵게 이긴 상대가 적 전체의 대표가 아니라 작은 일부였다는 공개다. 한 번의 승리에서 추정한 전쟁의 규모가 새 정보로 무너진다.\n\n같은 병기나 괴물이 대량으로 나타나면 이전 전투에 쏟은 희생을 반복할 수 없다는 판단이 생긴다. 주인공은 같은 방법으로 계속 싸우기보다 퇴각하거나 전략을 바꿔야 한다.\n\n기존 상대의 강함을 취소하지 않고 위협을 확대할 수 있다. 새로운 적이 더 강하다는 설명과 달리 이미 확인한 강적의 수와 배치가 문제로 바뀐다.",
+    "sections": [
+      [
+        "상세 설명",
+        "어렵게 이긴 상대가 적 전체의 대표가 아니라 작은 일부였다는 공개다. 한 번의 승리에서 추정한 전쟁의 규모가 새 정보로 무너진다.\n\n같은 병기나 괴물이 대량으로 나타나면 이전 전투에 쏟은 희생을 반복할 수 없다는 판단이 생긴다. 주인공은 같은 방법으로 계속 싸우기보다 퇴각하거나 전략을 바꿔야 한다.\n\n기존 상대의 강함을 취소하지 않고 위협을 확대할 수 있다. 새로운 적이 더 강하다는 설명과 달리 이미 확인한 강적의 수와 배치가 문제로 바뀐다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

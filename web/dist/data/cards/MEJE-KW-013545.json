@@ -4,8 +4,8 @@
   "title": "한국 애니메이션",
   "original": "Hanguk Manhwa Aenimeisyeon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02512",
+  "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "한국의 제작 기반과 창작 맥락에서 만들어진 [[애니메이션]]을 지칭하는 매체·지역 범주이다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": "인쇄 만화인 [[만화]]와 구분하며 단순 해외 작품의 하청 참여만으로 모든 작품의 창작 국적을 동일시하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.019",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한국의 제작 기반과 창작 맥락에서 만든 [[애니메이션]]을 가리킨다. 표현 매체와 지역적인 제작의 조건을 함께 분류하는 범주다.\n\n무엇이 움직이는 영상인지와 어떤 창작 과정에서 나왔는지 나누어 확인할 수 있다. 제작 참여의 여러 형태를 같은 국적 판단으로 합치지 않는 것이 중요하다.\n\n인쇄된 만화와 다르다. 해외 작품의 일부 하청 참여만으로 모든 결과물의 창작 국적이 같아지는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한국의 제작 기반과 창작 맥락에서 만든 [[애니메이션]]을 가리킨다. 표현 매체와 지역적인 제작의 조건을 함께 분류하는 범주다.\n\n무엇이 움직이는 영상인지와 어떤 창작 과정에서 나왔는지 나누어 확인할 수 있다. 제작 참여의 여러 형태를 같은 국적 판단으로 합치지 않는 것이 중요하다.\n\n인쇄된 만화와 다르다. 해외 작품의 일부 하청 참여만으로 모든 결과물의 창작 국적이 같아지는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

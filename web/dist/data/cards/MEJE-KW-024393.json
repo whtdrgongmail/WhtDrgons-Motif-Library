@@ -4,8 +4,8 @@
   "title": "밝은 인물과 어두운 수호자",
   "original": "Light Liege, Dark Defender",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01012",
+  "primary_tag_id": "ML-T01012",
   "description": {
     "definition": "밝고 다정하지만 스스로를 지키는 데 약한 인물과 어둡고 상처 입었으나 유능하고 헌신적으로 그를 보호하는 인물을 짝짓는다.",
     "detail": "작품 사례: 《[[배트맨(만화)]]》에서 브루스 웨인과 여러 로빈의 관계는 침울한 보호자와 밝은 동료를 대비한다. 원문은 딕이 배트맨이 되고 데미안이 로빈이 된 시기에는 밝고 어두운 역할의 배치가 바뀐다고 설명한다.",
@@ -13,14 +13,20 @@
     "boundary": "공식적인 주종 관계나 연애를 필수로 하지 않으며 둘의 도덕성이 외형의 밝기와 일치할 필요도 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "밝은 사람이 마음을 지탱하고 어두운 사람이 몸을 지킨다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "밝고 개방적인 인물과 침울하거나 어두운 보호자를 대비시키는 관계다.\n\n신체적 보호는 어두운 쪽이 담당하면서 정서적 지지는 밝은 쪽이 제공할 수 있다. 서로 다른 필요가 결합하므로 일방적인 보호만으로 설명되지 않는다.\n\n주종 관계와 연애는 필수 조건이 아니다. 겉으로 밝거나 어둡다는 사실이 각자의 도덕성과 일치해야 하는 것도 아니다.\n\n《[[배트맨(만화)]]》의 브루스 웨인과 여러 로빈은 침울한 보호자와 밝은 동료의 대비를 보여 준다. 제공 자료는 딕의 배트맨과 데미안의 로빈에서는 밝고 어두운 역할 배치가 바뀐다고 덧붙인다.",
+    "sections": [
+      [
+        "상세 설명",
+        "밝고 개방적인 인물과 침울하거나 어두운 보호자를 대비시키는 관계다.\n\n신체적 보호는 어두운 쪽이 담당하면서 정서적 지지는 밝은 쪽이 제공할 수 있다. 서로 다른 필요가 결합하므로 일방적인 보호만으로 설명되지 않는다.\n\n주종 관계와 연애는 필수 조건이 아니다. 겉으로 밝거나 어둡다는 사실이 각자의 도덕성과 일치해야 하는 것도 아니다."
+      ],
+      [
+        "관련 작품",
+        "《[[배트맨(만화)]]》의 브루스 웨인과 여러 로빈은 침울한 보호자와 밝은 동료의 대비를 보여 준다. 제공 자료는 딕의 배트맨과 데미안의 로빈에서는 밝고 어두운 역할 배치가 바뀐다고 덧붙인다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

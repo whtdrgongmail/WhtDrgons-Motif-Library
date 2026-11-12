@@ -4,8 +4,8 @@
   "title": "파괴 시도가 모두 통하지 않는 몽타주",
   "original": "Indestructibility Montage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01914",
+  "primary_tag_id": "ML-T01914",
   "description": {
     "definition": "하나의 대상에게 서로 다른 파괴나 공격을 연속으로 가하지만 거의 손상되지 않는 장면들을 이어 내구성을 보여 주는 구성이다.",
     "detail": "강함을 입증하는 진지한 장면이나, 공격하는 쪽의 점점 과도해지는 수단을 웃음거리로 만드는 장면에 쓴다.\n\n작품 사례: 《[[인크레더블]]》에서 에드나는 새 슈트를 화염과 기관총 등 여러 시험에 노출시켜 손상되지 않는 내구성을 헬렌에게 보여 준다.",
@@ -13,19 +13,19 @@
     "boundary": "한 번의 공격을 견디는 장면이나 끝내 죽기까지 반복되는 치명상과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.009.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "여러 방법으로 부수려 해도 멀쩡한 모습을 차례로 보여 준다.\n\n작품 사례: 《[[인크레더블]]》에서 에드나는 새 슈트를 화염과 기관총 등 여러 시험에 노출시켜 손상되지 않는 내구성을 헬렌에게 보여 준다.",
+    "easy_ko": "여러 방법으로 부수려 해도 멀쩡한 모습을 차례로 보여 준다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 대상에게 점점 강한 공격을 가하고도 실패하는 짧은 장면들을 연속해서 제시한다. 서로 다른 방법의 실패를 누적해 대상의 내구성을 설명한다.\n\n총격과 추락, 충돌 등이 반복될수록 관객은 통상적인 해결법이 통하지 않는다고 이해한다. 공격자의 노력이 지나치게 커지면 위협의 증명보다 허탈한 희극이 강조된다.\n\n하나의 큰 공격을 견디는 장면과 달리 비교 가능한 시험이 여러 번 필요하다. 성장한 영웅의 강함과 멈출 수 없는 적, 의외로 튼튼한 물건을 보여 주는 데 모두 사용할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 대상에게 점점 강한 공격을 가하고도 실패하는 짧은 장면들을 연속해서 제시한다. 서로 다른 방법의 실패를 누적해 대상의 내구성을 설명한다.\n\n총격과 추락, 충돌 등이 반복될수록 관객은 통상적인 해결법이 통하지 않는다고 이해한다. 공격자의 노력이 지나치게 커지면 위협의 증명보다 허탈한 희극이 강조된다.\n\n하나의 큰 공격을 견디는 장면과 달리 비교 가능한 시험이 여러 번 필요하다. 성장한 영웅의 강함과 멈출 수 없는 적, 의외로 튼튼한 물건을 보여 주는 데 모두 사용할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

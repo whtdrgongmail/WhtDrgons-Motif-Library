@@ -5,8 +5,8 @@
   "original": "Inheriting a Parent's Level",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01215",
+  "primary_tag_id": "ML-T01215",
   "description": {
     "definition": "자녀의 선천적인 능력 수준이 부모가 그 자녀를 갖기 전까지 도달한 성장 단계에 따라 달라지는 설정이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "혈통 자체가 강한 설정이나 아이가 더 많이 훈련한 결과와 다르다. 부모의 후천적 성장 시점과 후손의 초기 능력이 연결되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "부모가 자녀를 갖기 전에 도달한 성장 수준이 자녀의 선천적 능력을 정한다. 혈통뿐 아니라 부모가 언제 얼마나 성장했는지가 출생의 조건이 된다.\n\n같은 부모의 자녀라도 성장 시점의 차이로 초기 능력이 달라질 수 있다. 세대를 거치며 후손이 더 강해지는 구조도 이 연결을 통해 설명할 수 있다.\n\n처음부터 강한 혈통이라는 설정이나 아이 자신의 훈련 성과와 다르다. 부모의 후천적 성장과 후손의 초기 상태가 직접 연결되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "부모가 자녀를 갖기 전에 도달한 성장 수준이 자녀의 선천적 능력을 정한다. 혈통뿐 아니라 부모가 언제 얼마나 성장했는지가 출생의 조건이 된다.\n\n같은 부모의 자녀라도 성장 시점의 차이로 초기 능력이 달라질 수 있다. 세대를 거치며 후손이 더 강해지는 구조도 이 연결을 통해 설명할 수 있다.\n\n처음부터 강한 혈통이라는 설정이나 아이 자신의 훈련 성과와 다르다. 부모의 후천적 성장과 후손의 초기 상태가 직접 연결되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

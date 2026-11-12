@@ -4,8 +4,8 @@
   "title": "성적 신체 부위의 직접 명칭을 피하기",
   "original": "The Body Parts That Must Not Be Named",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "MM-UNSET-000518",
+  "primary_tag_id": "MM-UNSET-000518",
   "description": {
     "definition": "성기나 가슴 등 민감하게 취급되는 신체 부위를 말하면서 정식 명칭을 피하고 돌려 말하거나 대체 표현을 쓰는 언어 관습이다. 말하기의 [[금기]]가 대사를 구성한다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "개별 부위에 고유 이름을 붙이는 의인화와 달리 직접 호명을 피하는 목적이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.008.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "민감하게 여겨지는 신체 부위를 언급하면서 직접적인 명칭을 피한다. 대체어나 돌려 말하기가 대사의 내용뿐 아니라 말하기 어려운 분위기를 전달한다.\n\n회피의 방식은 인물의 수줍음이나 검열의 압력, 희극적 당황을 표현할 수 있다. 무엇을 말했는지와 어떤 말을 끝내 쓰지 않았는지가 함께 의미를 만든다.\n\n부위에 인격적인 이름을 붙이는 표현과는 목적이 다르다. 직접 호명하기를 피하려는 언어적 금기가 중심이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "민감하게 여겨지는 신체 부위를 언급하면서 직접적인 명칭을 피한다. 대체어나 돌려 말하기가 대사의 내용뿐 아니라 말하기 어려운 분위기를 전달한다.\n\n회피의 방식은 인물의 수줍음이나 검열의 압력, 희극적 당황을 표현할 수 있다. 무엇을 말했는지와 어떤 말을 끝내 쓰지 않았는지가 함께 의미를 만든다.\n\n부위에 인격적인 이름을 붙이는 표현과는 목적이 다르다. 직접 호명하기를 피하려는 언어적 금기가 중심이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

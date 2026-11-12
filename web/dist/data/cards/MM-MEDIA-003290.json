@@ -4,17 +4,17 @@
   "title": "Batman(Sunsoft 게임)",
   "original": "Batman (Sunsoft)",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《Batman(Sunsoft 게임)》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《Batman(Sunsoft 게임)》은 배경 그림의 층을 서로 다른 속도로 스크롤하여 화면 이동에 깊이감을 준다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Batman(Sunsoft 게임)》은 선소프트가 제작한 배트맨 게임 계열을 가리킨다. 배트맨과 조커의 대립을 게임으로 옮겼다. 기종마다 별개의 구현을 가진 선소프트의 배트맨 게임들을 묶는 계열이다.\n\n배경 그림의 층을 서로 다른 속도로 스크롤하는 표현이 사용된다. 화면의 모든 요소가 함께 같은 거리만큼 이동하지 않는다. 배경의 층별 이동 속도가 다르면 평면 화면에서도 앞뒤의 깊이 차이를 느끼게 할 수 있다.\n\n이 속도 차이는 멀고 가까운 공간의 차이를 암시한다. 평면의 그림을 겹쳐 화면 이동에 깊이감을 주는 방식이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Batman(Sunsoft 게임)》은 선소프트가 제작한 배트맨 게임 계열을 가리킨다. 배트맨과 조커의 대립을 게임으로 옮겼다. 기종마다 별개의 구현을 가진 선소프트의 배트맨 게임들을 묶는 계열이다.\n\n배경 그림의 층을 서로 다른 속도로 스크롤하는 표현이 사용된다. 화면의 모든 요소가 함께 같은 거리만큼 이동하지 않는다. 배경의 층별 이동 속도가 다르면 평면 화면에서도 앞뒤의 깊이 차이를 느끼게 할 수 있다.\n\n이 속도 차이는 멀고 가까운 공간의 차이를 암시한다. 평면의 그림을 겹쳐 화면 이동에 깊이감을 주는 방식이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

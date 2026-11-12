@@ -4,8 +4,8 @@
   "title": "괴물 종족을 멸절시킨 사냥꾼",
   "original": "The Great Exterminator",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-017419",
+  "primary_tag_id": "MEJE-KW-017419",
   "description": {
     "definition": "특정 괴물 종족을 사냥한 끝에 그 종족 전체를 사라지게 만든 인물이다. 한 번의 퇴치 성공을 넘어 종족의 소멸이 그 인물의 업적이나 죄가 된다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "대량으로 죽였어도 종족이 남아 있다면 완전한 멸절과는 다르다. 그 행위가 옳았는지는 별도의 평가다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.005.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위험한 생물 종족을 없애거나 지역에서 완전히 몰아낸 업적으로 유명해진 사냥꾼이다. 개별 괴물을 쓰러뜨리는 사건이 공동체의 환경을 바꾼 역사로 확대된다.\n\n오랜 사냥과 마법, 번식을 막는 수단 등 방법은 다양하다. 여행과 농사, 가축을 위협하던 존재가 사라지면 인물은 지역의 영웅이나 전설로 기억될 수 있다.\n\n지역 퇴치와 종족 전체의 멸종은 범위가 다르므로 작품이 실제로 무엇을 말하는지 구분해야 한다. 다른 곳에서 같은 위협이 나타나 다시 부름받는 경우에는 명성이 현재의 임무로 이어진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위험한 생물 종족을 없애거나 지역에서 완전히 몰아낸 업적으로 유명해진 사냥꾼이다. 개별 괴물을 쓰러뜨리는 사건이 공동체의 환경을 바꾼 역사로 확대된다.\n\n오랜 사냥과 마법, 번식을 막는 수단 등 방법은 다양하다. 여행과 농사, 가축을 위협하던 존재가 사라지면 인물은 지역의 영웅이나 전설로 기억될 수 있다.\n\n지역 퇴치와 종족 전체의 멸종은 범위가 다르므로 작품이 실제로 무엇을 말하는지 구분해야 한다. 다른 곳에서 같은 위협이 나타나 다시 부름받는 경우에는 명성이 현재의 임무로 이어진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

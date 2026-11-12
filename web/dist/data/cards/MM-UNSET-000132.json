@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F07",
   "description": {
-    "definition": "",
+    "definition": "전투나 당면 과제를 이루기 위해 병력·도구·위치를 구체적으로 운용하는 계획과 방법이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "07",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "눈앞의 싸움이나 임무를 풀기 위해 사람과 도구를 어떻게 쓸지 정하는 방법이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전술은 주어진 상황에서 어떤 순서와 배치로 행동할지를 구체화한다. 같은 목표라도 얻은 정보와 사용할 수 있는 자원, 현장의 조건이 다르면 선택할 수 있는 방법도 달라진다.\n\n계획과 실제 진행 사이에 차이가 생겼을 때 수정하거나 비용을 감수하는 과정도 판단의 일부다. 성공 여부만이 아니라 어떤 정보를 근거로 무엇을 포기했는지 제시되면 인물의 능력과 한계를 함께 설명할 수 있다.\n\n더 큰 목표와 자원 배분을 정하는 [[전략]]과 연결되지만 다루는 범위는 다르다. 뛰어난 전술가라는 설정과 정보나 손실의 한계를 무시한 채 항상 승리하도록 특별 대우하는 구성도 같지 않으며, 승리의 횟수만으로 둘을 판별할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전술은 주어진 상황에서 어떤 순서와 배치로 행동할지를 구체화한다. 같은 목표라도 얻은 정보와 사용할 수 있는 자원, 현장의 조건이 다르면 선택할 수 있는 방법도 달라진다.\n\n계획과 실제 진행 사이에 차이가 생겼을 때 수정하거나 비용을 감수하는 과정도 판단의 일부다. 성공 여부만이 아니라 어떤 정보를 근거로 무엇을 포기했는지 제시되면 인물의 능력과 한계를 함께 설명할 수 있다.\n\n더 큰 목표와 자원 배분을 정하는 [[전략]]과 연결되지만 다루는 범위는 다르다. 뛰어난 전술가라는 설정과 정보나 손실의 한계를 무시한 채 항상 승리하도록 특별 대우하는 구성도 같지 않으며, 승리의 횟수만으로 둘을 판별할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

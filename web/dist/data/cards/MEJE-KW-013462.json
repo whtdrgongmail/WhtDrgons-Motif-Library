@@ -4,8 +4,8 @@
   "title": "임신하지 않았는데 임신으로 오인",
   "original": "Mistaken for Pregnant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00710",
+  "primary_tag_id": "ML-T00710",
   "description": {
     "definition": "속이 불편하거나 배가 불러 보이는 등의 상황을 다른 [[인물]]이 임신의 징후로 잘못 해석하여 오해가 생기는 [[사건]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "당사자가 의도적으로 임신을 가장하거나 실제 임신을 감춘 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "06.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "임신하지 않은 인물의 몸 상태를 다른 사람이 임신의 징후로 오해한다. 관찰한 모습과 실제 원인 사이의 차이가 사건을 만든다.\n\n속이 불편하거나 배가 불러 보인다는 정보가 잘못된 결론으로 이어진다. 오해의 주체는 당사자보다 그 모습을 해석하는 다른 인물이다.\n\n일부러 임신한 척하거나 실제 임신을 숨기는 경우와 구별한다. 의도적인 가장이 아닌 타인의 오인이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "임신하지 않은 인물의 몸 상태를 다른 사람이 임신의 징후로 오해한다. 관찰한 모습과 실제 원인 사이의 차이가 사건을 만든다.\n\n속이 불편하거나 배가 불러 보인다는 정보가 잘못된 결론으로 이어진다. 오해의 주체는 당사자보다 그 모습을 해석하는 다른 인물이다.\n\n일부러 임신한 척하거나 실제 임신을 숨기는 경우와 구별한다. 의도적인 가장이 아닌 타인의 오인이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

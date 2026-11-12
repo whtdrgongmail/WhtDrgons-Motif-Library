@@ -4,8 +4,8 @@
   "title": "동시에 지닐 수 있는 무기 제한",
   "original": "Limited Loadout",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02101",
+  "primary_tag_id": "ML-T02101",
   "description": {
     "definition": "게임에 존재하는 무기를 전부 휴대하지 못하고 정해진 수나 종류만 가져갈 수 있어 새 무기를 얻으면 기존 선택을 바꿔야 하는 규칙이다.",
     "detail": "작품 사례: 《[[디지몬 월드 4]]》에서는 한 인물이 동시에 설정할 수 있는 장비가 세 무기로 제한되어 새 무기를 쓰려면 기지의 디지 랩에서 바꿔야 한다. 소유와 현재 장비 선택을 나누는 사례다.",
@@ -13,10 +13,10 @@
     "boundary": "기술을 잊거나 장착하는 규칙과 휴대 장비의 제한을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 번에 가져갈 수 있는 무기의 수와 종류를 제한한다. 새 장비를 얻으면 현재 조합의 일부를 포기해야 할 수 있다.\n\n이동 중의 선택과 보급 지점의 가치가 커진다. 무기가 다양하다는 사실과 동시에 모두 쓸 수 있다는 규칙은 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 번에 가져갈 수 있는 무기의 수와 종류를 제한한다. 새 장비를 얻으면 현재 조합의 일부를 포기해야 할 수 있다.\n\n이동 중의 선택과 보급 지점의 가치가 커진다. 무기가 다양하다는 사실과 동시에 모두 쓸 수 있다는 규칙은 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

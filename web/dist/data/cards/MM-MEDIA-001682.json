@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "기동전사 Z건담",
   "original": "Mobile Suit Zeta Gundam",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "기동전사 Z 건담"
+  ],
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
-    "definition": "《기동전사 Z건담》은 애니메이션 작품이다.",
-    "detail": "작품 사례: 《기동전사 Z건담》 극장판에서 카미유는 회전시킨 빔 사벨에 빔을 쏴 사방으로 흩어지게 하며 미사일과 공격 무인기를 막는다.",
+    "definition": "《기동전사 Z건담》은 지구연방 내부의 티탄즈와 반대 세력 에우고의 대립을 중심으로 전개되는 [[일본 TV 애니메이션]]이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -30,10 +32,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《기동전사 Z건담》 극장판에서 카미유는 회전시킨 빔 사벨에 빔을 쏴 사방으로 흩어지게 하며 미사일과 공격 무인기를 막는다.",
+    "easy_ko": "티탄즈와 에우고의 대립 속에서 카미유 비단이 전쟁에 참여하는 건담 TV 애니메이션이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,7 +43,36 @@
     {
       "card_id": "MEJE-KW-017298",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-028617",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-029242",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-020255",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《기동전사 Z건담》은 지구연방 내부의 티탄즈와 이에 맞서는 에우고의 대립을 중심으로 한 [[일본 TV 애니메이션]]이다. 카미유 비단은 그 갈등 속에서 모빌슈트를 조종하며 전쟁의 결과를 경험한다.\n\n이 작품은 하나의 거대 로봇이 적을 쓰러뜨리는 장면만으로 설명되지 않는다. 두 조직의 정치적 목표와 군사 행동, 개인이 감당하는 손실이 이야기의 중심을 이룬다. 후속 극장판과 혼동하지 않도록 이 카드는 TV 시리즈를 가리킨다.\n\n티탄즈는 지온 잔당을 토벌한다는 명분을 내세우지만 스페이스노이드를 탄압한다. 조직의 공식 목표와 실제 통치 방식 사이의 차이가 갈등을 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《기동전사 Z건담》은 지구연방 내부의 티탄즈와 이에 맞서는 에우고의 대립을 중심으로 한 [[일본 TV 애니메이션]]이다. 카미유 비단은 그 갈등 속에서 모빌슈트를 조종하며 전쟁의 결과를 경험한다.\n\n이 작품은 하나의 거대 로봇이 적을 쓰러뜨리는 장면만으로 설명되지 않는다. 두 조직의 정치적 목표와 군사 행동, 개인이 감당하는 손실이 이야기의 중심을 이룬다. 후속 극장판과 혼동하지 않도록 이 카드는 TV 시리즈를 가리킨다."
+      ],
+      [
+        "사례",
+        "티탄즈는 지온 잔당을 토벌한다는 명분을 내세우지만 스페이스노이드를 탄압한다. 조직의 공식 목표와 실제 통치 방식 사이의 차이가 갈등을 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

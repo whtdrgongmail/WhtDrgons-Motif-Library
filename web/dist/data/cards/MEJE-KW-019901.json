@@ -4,8 +4,8 @@
   "title": "플레이어의 죽음에 반응하는 주변 인물",
   "original": "Informal Eulogy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02530",
+  "primary_tag_id": "ML-T02530",
   "description": {
     "definition": "플레이어 캐릭터가 실패하거나 죽은 뒤 주변의 동료·적이 이를 보고 짧은 말과 반응을 남기는 게임 연출이다.",
     "detail": "작품 사례: 《[[하프라이프 2]]》에서는 고든이 동료 근처에서 죽었을 때 주변 인물들이 장비를 탐내는 등 짧은 말을 하여 실패 뒤에도 세계의 반응을 이어 간다.",
@@ -13,14 +13,22 @@
     "boundary": "정식 장례나 긴 추도보다 실패 직후 이어지는 세계 안의 반응이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "게임오버 순간에도 옆의 인물들이 한마디를 한다.",
     "review_status": "reviewed",
@@ -38,5 +46,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[플레이어 캐릭터]]가 쓰러지거나 임무에 실패한 뒤 동료와 적이 반응을 남기는 연출이다. 실패를 숫자와 화면 전환으로만 처리하지 않고 세계 안의 사건처럼 보이게 한다. 마지막으로 누구의 목소리가 들리는지에 따라 죽음의 감정적 의미가 달라진다.\n\n동료의 외침은 애착과 상실을, 적의 조롱은 패배의 굴욕을 강조한다. 특정 상대에게 패배했을 때만 다른 대사를 제공하면 관계와 숨겨진 감정을 드러낼 수도 있다. 반복되는 반응은 플레이어에게 익숙한 실패의 표지가 된다.\n\n일반적인 적의 전투 대사와 달리 실패와 죽음이 직접적인 계기여야 한다. 실패 화면의 문구와 겹칠 수 있지만 주변 인물이 사건을 인식한다는 점이 중요하다. 이후 재시도가 이전 죽음을 실제 과거로 인정하는지는 별도의 게임 규칙이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[플레이어 캐릭터]]가 쓰러지거나 임무에 실패한 뒤 동료와 적이 반응을 남기는 연출이다. 실패를 숫자와 화면 전환으로만 처리하지 않고 세계 안의 사건처럼 보이게 한다. 마지막으로 누구의 목소리가 들리는지에 따라 죽음의 감정적 의미가 달라진다.\n\n동료의 외침은 애착과 상실을, 적의 조롱은 패배의 굴욕을 강조한다. 특정 상대에게 패배했을 때만 다른 대사를 제공하면 관계와 숨겨진 감정을 드러낼 수도 있다. 반복되는 반응은 플레이어에게 익숙한 실패의 표지가 된다.\n\n일반적인 적의 전투 대사와 달리 실패와 죽음이 직접적인 계기여야 한다. 실패 화면의 문구와 겹칠 수 있지만 주변 인물이 사건을 인식한다는 점이 중요하다. 이후 재시도가 이전 죽음을 실제 과거로 인정하는지는 별도의 게임 규칙이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "야오이",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00410",
+  "primary_tag_id": "ML-T00410",
   "description": {
     "definition": "일본의 동인문화에서 남성 인물 사이의 연애·성적 관계를 다루는 창작물을 가리켜 온 용어이다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": "모든 남성 간 관계 서사와 동일한 분류로 취급하지 않으며 사용 시기와 문화적 맥락을 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.401.019",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "platform_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "market_genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -38,10 +41,16 @@
   "related_motifs": [],
   "references": [],
   "longform_article": {
-    "text": "야오이는 일본 동인문화에서 남성 인물 사이의 연애나 성적 관계를 다루는 창작물을 가리켜 온 말이다. 작품의 관계 구도와 감정선을 중심에 두는 분류이며, 인물 사이에 우정이나 갈등이 있다는 이유만으로 이 범주에 넣지는 않는다.\n\n이 용어는 사용 시기와 문화적 맥락에 따라 가리키는 범위가 달라질 수 있다. 남성 동성애를 다룬 모든 서사와 야오이를 같은 말로 처리하면 창작 관습과 분류상의 차이가 사라진다. 작품을 설명할 때는 실제 관계 묘사와 용어가 쓰인 맥락을 함께 살펴야 한다.",
+    "text": "야오이는 일본 동인문화에서 남성 인물 사이의 연애나 성적 관계를 다루는 창작물을 가리켜 온 말이다. 작품의 관계 구도와 감정선을 중심에 두는 분류이며, 인물 사이에 우정이나 갈등이 있다는 이유만으로 이 범주에 넣지는 않는다.\n\n이 용어는 사용 시기와 문화적 맥락에 따라 가리키는 범위가 달라질 수 있다. 남성 동성애를 다룬 모든 서사와 야오이를 같은 말로 처리하면 창작 관습과 분류상의 차이가 사라진다. 작품을 설명할 때는 실제 관계 묘사와 용어가 쓰인 맥락을 함께 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "야오이는 일본 동인문화에서 남성 인물 사이의 연애나 성적 관계를 다루는 창작물을 가리켜 온 말이다. 작품의 관계 구도와 감정선을 중심에 두는 분류이며, 인물 사이에 우정이나 갈등이 있다는 이유만으로 이 범주에 넣지는 않는다.\n\n이 용어는 사용 시기와 문화적 맥락에 따라 가리키는 범위가 달라질 수 있다. 남성 동성애를 다룬 모든 서사와 야오이를 같은 말로 처리하면 창작 관습과 분류상의 차이가 사라진다. 작품을 설명할 때는 실제 관계 묘사와 용어가 쓰인 맥락을 함께 확인해야 한다."
+      ]
+    ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 1,
-    "replaces_short_fields": false
+    "updated_at": "2026-11-09",
+    "row_version": 5,
+    "replaces_short_fields": true
   }
 }

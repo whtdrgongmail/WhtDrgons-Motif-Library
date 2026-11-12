@@ -4,8 +4,8 @@
   "title": "선한 기업 이미지로 해악 감추기",
   "original": "Peace & Love Incorporated",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01355",
+  "primary_tag_id": "ML-T01355",
   "description": {
     "definition": "공익과 배려를 내세운 기업의 밝은 이미지 뒤에 착취나 위해 또는 무책임한 운영이 가려져 있는 설정이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "모두의 행복을 약속하는 회사가 실제로는 사람들에게 해를 끼친다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "친근한 상호, 환경 보호 광고, 편리한 복지 시설은 기업을 믿을 만한 보호자로 보이게 한다. 이 약속과 실제 운영의 차이가 드러나면서 평범했던 홍보물도 불길한 의미를 얻는다. 일부 혜택이 실제로 존재할 수 있다는 점이 효과를 더 복잡하게 만든다. 도움을 받은 사람들이 문제 제기를 믿지 않거나, 생활 기반을 잃을까 두려워 침묵할 이유가 생기기 때문이다.\n\n경영진이 해악을 계획적으로 숨기는 경우와 좋은 의도를 말하면서 결과를 관리하지 못하는 경우는 책임의 모습이 다르다. 어느 쪽이든 친절한 말과 조직이 실제로 감수시키는 비용의 간극을 보여 주어야 한다. 회사 이름이 낙관적이거나 광고가 과장되어 있다는 이유만으로 성립하지는 않는다. 약속한 자유와 안전이 통제나 희생으로 바뀌는 지점을 구체적인 서비스와 결정에서 드러낼 수 있다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "친근한 상호, 환경 보호 광고, 편리한 복지 시설은 기업을 믿을 만한 보호자로 보이게 한다. 이 약속과 실제 운영의 차이가 드러나면서 평범했던 홍보물도 불길한 의미를 얻는다. 일부 혜택이 실제로 존재할 수 있다는 점이 효과를 더 복잡하게 만든다. 도움을 받은 사람들이 문제 제기를 믿지 않거나, 생활 기반을 잃을까 두려워 침묵할 이유가 생기기 때문이다.\n\n경영진이 해악을 계획적으로 숨기는 경우와 좋은 의도를 말하면서 결과를 관리하지 못하는 경우는 책임의 모습이 다르다. 어느 쪽이든 친절한 말과 조직이 실제로 감수시키는 비용의 간극을 보여 주어야 한다. 회사 이름이 낙관적이거나 광고가 과장되어 있다는 이유만으로 성립하지는 않는다. 약속한 자유와 안전이 통제나 희생으로 바뀌는 지점을 구체적인 서비스와 결정에서 드러낼 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": false
   }
 }

@@ -4,8 +4,8 @@
   "title": "엄하지만 속으로 제자를 아끼는 스승",
   "original": "Mentor in Sour Armor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01005",
+  "primary_tag_id": "ML-T01005",
   "description": {
     "definition": "학생이나 제자에게 엄격하고 거칠게 대하면서도 실제로는 그들을 깊이 아끼는 교사·스승 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "세상에 대한 냉소나 비관적인 과거가 필수는 아니다. 엄격함과 배려의 공존을 분류한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "제자에게 엄격하고 거친 말을 하지만 실제로는 깊이 아끼는 스승이다. 겉으로 보이는 냉소와 행동에서 드러나는 보호 및 기대가 대비된다.\n\n자신의 경험과 기술을 보여 주면서 제자가 최선을 다하지 않을 때 날카롭게 지적한다. 드물게 보이는 웃음과 칭찬은 평소의 태도 때문에 강한 의미를 가지며 관계의 변화를 전달한다.\n\n제자를 아낀다는 설정이 모든 모욕과 폭력을 정당화하지는 않는다. 가르침의 내용과 실제 배려를 확인해야 하며, 숨은 선의를 주장하기만 하는 인물과 행동으로 책임지는 스승은 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "제자에게 엄격하고 거친 말을 하지만 실제로는 깊이 아끼는 스승이다. 겉으로 보이는 냉소와 행동에서 드러나는 보호 및 기대가 대비된다.\n\n자신의 경험과 기술을 보여 주면서 제자가 최선을 다하지 않을 때 날카롭게 지적한다. 드물게 보이는 웃음과 칭찬은 평소의 태도 때문에 강한 의미를 가지며 관계의 변화를 전달한다.\n\n제자를 아낀다는 설정이 모든 모욕과 폭력을 정당화하지는 않는다. 가르침의 내용과 실제 배려를 확인해야 하며, 숨은 선의를 주장하기만 하는 인물과 행동으로 책임지는 스승은 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

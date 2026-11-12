@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "Mage: The Awakening",
   "original": "Mage: The Awakening",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "메이지: 디 어웨이크닝"
+  ],
+  "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
     "definition": "이 카드는 테이블톱 게임 《Mage: The Awakening》를 가리킨다. 이 라이브러리에서는 [[양성 생식이 가능한 허구적 존재]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Mage: The Awakening의 Daksha 구성원은 입문 뒤 남성형·여성형·두 성의 특징을 함께 지닌 모습으로 변신하며, 마지막 형태를 참모습으로 여긴다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -45,5 +47,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "숨겨진 세계를 인식하고 마법을 얻은 각성자들을 다루는 테이블톱 역할수행 게임이다. 마법의 근원에 닿으려던 옛 전쟁이 세계 사이의 연결을 끊고 심연을 만들었다는 신화를 배경으로 한다.\n\n마법사들은 잃어버린 비밀과 연결을 되찾으려 하지만 심연의 존재와 경쟁 집단이 이를 방해한다. 각성 때 연결된 영역과 선택한 조직이 서로 다른 분류로 작동하여 능력의 성향과 사회적 신념을 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "숨겨진 세계를 인식하고 마법을 얻은 각성자들을 다루는 테이블톱 역할수행 게임이다. 마법의 근원에 닿으려던 옛 전쟁이 세계 사이의 연결을 끊고 심연을 만들었다는 신화를 배경으로 한다.\n\n마법사들은 잃어버린 비밀과 연결을 되찾으려 하지만 심연의 존재와 경쟁 집단이 이를 방해한다. 각성 때 연결된 영역과 선택한 조직이 서로 다른 분류로 작동하여 능력의 성향과 사회적 신념을 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

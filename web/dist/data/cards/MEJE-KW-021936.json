@@ -6,8 +6,8 @@
   "aliases": [
     "사전 단서 없이 제시되는 반전"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00613",
+  "primary_tag_id": "ML-T00613",
   "description": {
     "definition": "이야기의 중요한 반전이나 사건이 앞서 제시된 정보로 충분히 뒷받침되지 않아 갑작스럽고 준비되지 않은 전개로 받아들여지는 구성이다.",
     "detail": "[[복선 없이 갑자기 튀어나온 해결책]]은 이 문제 가운데 위기 해결 장치가 불쑥 나타나는 경우다.",
@@ -15,10 +15,10 @@
     "boundary": "적절한 단서가 숨겨져 있던 반전과 다르다. 위기를 갑자기 해결하는 물건이나 능력에 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.001.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,5 +32,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중요한 전개를 뒷받침할 정보가 앞서 충분히 제시되지 않는다. 놀라움 뒤에 근거를 되짚기 어려워 갑작스러운 변화로 받아들여진다.\n\n관객이 단서를 놓친 경우와 실제 준비가 부족한 경우는 구분해야 한다. 낯선 반전이라는 사실만으로 개연성이 없는 전개가 되는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "중요한 전개를 뒷받침할 정보가 앞서 충분히 제시되지 않는다. 놀라움 뒤에 근거를 되짚기 어려워 갑작스러운 변화로 받아들여진다.\n\n관객이 단서를 놓친 경우와 실제 준비가 부족한 경우는 구분해야 한다. 낯선 반전이라는 사실만으로 개연성이 없는 전개가 되는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

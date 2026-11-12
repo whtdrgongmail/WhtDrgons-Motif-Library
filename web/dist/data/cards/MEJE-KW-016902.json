@@ -4,8 +4,8 @@
   "title": "돌아오지 못할 때를 위한 지시",
   "original": "If I Do Not Return",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01970",
+  "primary_tag_id": "ML-T01970",
   "description": {
     "definition": "혼자 위험한 일을 하러 가는 인물이 정해진 때까지 돌아오지 못할 경우 남은 사람들이 해야 할 일을 미리 알려 주는 장면이다.",
     "detail": "구조 요청·진행 지속·마음 전달 등이 될 수 있고, 사소한 물건 부탁으로 희극화하기도 한다.\n\n작품 사례: 《[[강철의 연금술사]]》에서 지하 통로 조사대는 정해진 시각까지 돌아오지 않으면 자신들이 안에 있어도 입구를 봉쇄하도록 정한다.",
@@ -13,30 +13,47 @@
     "boundary": "살아 돌아온 뒤의 미래 약속이나 위험과 관계없는 평범한 외출 지시와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "내가 못 돌아오면 너희는 이렇게 하라고 남긴다.\n\n작품 사례: 《[[강철의 연금술사]]》에서 지하 통로 조사대는 정해진 시각까지 돌아오지 않으면 자신들이 안에 있어도 입구를 봉쇄하도록 정한다.",
+    "easy_ko": "내가 못 돌아오면 너희는 이렇게 하라고 남긴다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001331",
+      "work_card_id": "MM-MEDIA-002178",
       "description_ko": "《강철의 연금술사》에서 지하 통로 조사대는 정해진 시각까지 돌아오지 않으면 자신들이 안에 있어도 입구를 봉쇄하도록 정한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위험한 임무에 나서기 전 부재나 실패에 대비한 행동을 남은 사람들에게 맡긴다. 도움을 구하거나 자신 없이 진행하라는 지시, 누군가에게 마음을 전해 달라는 부탁 등이 있다.\n\n사소한 물건을 부탁하거나 계속 기다리라는 말로 희극화하기도 한다. 살아 돌아온 뒤의 미래 약속과 달리 돌아오지 못하는 경우를 조건으로 한다.\n\n《[[강철의 연금술사]]》에서 지하 통로 조사대는 정해진 시각까지 돌아오지 않으면 자신들이 안에 있어도 입구를 봉쇄하도록 정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위험한 임무에 나서기 전 부재나 실패에 대비한 행동을 남은 사람들에게 맡긴다. 도움을 구하거나 자신 없이 진행하라는 지시, 누군가에게 마음을 전해 달라는 부탁 등이 있다.\n\n사소한 물건을 부탁하거나 계속 기다리라는 말로 희극화하기도 한다. 살아 돌아온 뒤의 미래 약속과 달리 돌아오지 못하는 경우를 조건으로 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[강철의 연금술사]]》에서 지하 통로 조사대는 정해진 시각까지 돌아오지 않으면 자신들이 안에 있어도 입구를 봉쇄하도록 정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "접근하면 곧 죽는 공격 반경",
   "original": "\"Instant Death\" Radius",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02109",
+  "primary_tag_id": "ML-T02109",
   "description": {
     "definition": "적의 근거리 공격 범위에 들어가면 플레이어가 공격 기회를 얻기도 전에 빠르게 패배할 만큼 위험이 집중된 전투 설계이다. 안전거리와 접근 시점이 핵심 과제가 된다.",
     "detail": "원거리 대응, 공격 공백 기다리기, 별도 기믹 해결 등으로 대응을 유도한다. 근접형 빌드의 선택을 과도하게 제한하는 설계가 될 수도 있다.\n\n작품 사례: 《[[다크 소울 II]]》의 나샹드라는 가까운 범위를 강한 광역 공격으로 위협하여, 느린 움직임을 이용해 멀리서 대응하는 편이 유리하게 만든다.",
@@ -13,19 +13,19 @@
     "boundary": "모든 거리에서 똑같이 강한 적과 달리 특히 치명적인 근접 범위가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "적 가까이 가는 것 자체가 위험해서 무작정 붙어 싸울 수 없다.\n\n작품 사례: 《[[다크 소울 II]]》의 나샹드라는 가까운 범위를 강한 광역 공격으로 위협하여, 느린 움직임을 이용해 멀리서 대응하는 편이 유리하게 만든다.",
+    "easy_ko": "적 가까이 가는 것 자체가 위험해서 무작정 붙어 싸울 수 없다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원거리 대응, 공격 공백 기다리기, 별도 기믹 해결 등으로 대응을 유도한다. 근접형 빌드의 선택을 과도하게 제한하는 설계가 될 수도 있다.\n\n모든 거리에서 똑같이 강한 적과 달리 특히 치명적인 근접 범위가 있어야 한다.\n\n《[[다크 소울 II]]》의 나샹드라는 가까운 범위를 강한 광역 공격으로 위협하여, 느린 움직임을 이용해 멀리서 대응하는 편이 유리하게 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원거리 대응, 공격 공백 기다리기, 별도 기믹 해결 등으로 대응을 유도한다. 근접형 빌드의 선택을 과도하게 제한하는 설계가 될 수도 있다.\n\n모든 거리에서 똑같이 강한 적과 달리 특히 치명적인 근접 범위가 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[다크 소울 II]]》의 나샹드라는 가까운 범위를 강한 광역 공격으로 위협하여, 느린 움직임을 이용해 멀리서 대응하는 편이 유리하게 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

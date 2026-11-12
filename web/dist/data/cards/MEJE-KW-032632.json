@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032632",
+  "kind": "keyword",
+  "title": "네트워크 접속이 필요한 온라인 게임",
+  "original": "Online Games",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "인터넷 같은 광역 네트워크에 접속한 상태를 플레이의 전제로 삼아 서버와 이용자 단말의 연결 속에서 진행되는 게임 형식이다.",
+    "detail": "",
+    "usage": "[[접속 기반 놀이]]의 이용 조건과 참여 규모를 구분한다.",
+    "boundary": "온라인 기능이 선택 사항인 오프라인 게임과 구별하며 대규모 동시 이용이나 특정 [[장르]]가 반드시 필요한 것은 아니다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "연결되어 있어야 게임의 세계와 규칙에 참여할 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "네트워크 연결을 진행의 조건으로 두면 서버와 단말의 통신이 게임 경험의 일부가 된다. 연결이 끊겼을 때 무엇을 할 수 있는지가 오프라인 이용과의 경계를 정한다.\n\n여러 이용자의 상태를 공유하거나 서버가 진행 정보를 관리하는 방식이 가능하다. [[공동체 활동]]이 형성될 수 있지만 모든 온라인 게임이 협력과 다인 플레이를 필수로 하지는 않는다.\n\n인터넷에서 내려받았다는 사실만으로 온라인 전용 게임은 아니다. 실제 플레이 중 연결이 필요한지와 선택적인 기능만 접속하는지를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "네트워크 연결을 진행의 조건으로 두면 서버와 단말의 통신이 게임 경험의 일부가 된다. 연결이 끊겼을 때 무엇을 할 수 있는지가 오프라인 이용과의 경계를 정한다.\n\n여러 이용자의 상태를 공유하거나 서버가 진행 정보를 관리하는 방식이 가능하다. [[공동체 활동]]이 형성될 수 있지만 모든 온라인 게임이 협력과 다인 플레이를 필수로 하지는 않는다.\n\n인터넷에서 내려받았다는 사실만으로 온라인 전용 게임은 아니다. 실제 플레이 중 연결이 필요한지와 선택적인 기능만 접속하는지를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
+}

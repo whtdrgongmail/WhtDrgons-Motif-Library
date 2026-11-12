@@ -4,8 +4,8 @@
   "title": "기술형과 표현형의 협업",
   "original": "Technician/Performer Team-Up",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01000",
+  "primary_tag_id": "ML-T01000",
   "description": {
     "definition": "정확한 기술에 강한 인물과 창의적 표현에 강한 인물이 협력하여 서로의 부족한 부분을 보완하는 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "두 성향의 대립만 보여 주는 경우와 달리 실제 협력이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.004.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정확한 기술에 강한 사람과 표현력이 뛰어난 사람이 공동 목표를 위해 협력한다. 한쪽의 약점을 다른 쪽의 장점이 보완하는 구성이다.\n\n기술형이 아이디어나 제품을 만들고 표현형이 사람들을 설득해 지지를 얻는 역할 분담이 가능하다. 각자 상대의 일을 맡으면 익숙하지 않은 면이 드러나기도 한다.\n\n두 가치가 대립한다는 설명만으로는 부족하다. 실제로 힘을 합쳐 성과를 낸다는 조건이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정확한 기술에 강한 사람과 표현력이 뛰어난 사람이 공동 목표를 위해 협력한다. 한쪽의 약점을 다른 쪽의 장점이 보완하는 구성이다.\n\n기술형이 아이디어나 제품을 만들고 표현형이 사람들을 설득해 지지를 얻는 역할 분담이 가능하다. 각자 상대의 일을 맡으면 익숙하지 않은 면이 드러나기도 한다.\n\n두 가치가 대립한다는 설명만으로는 부족하다. 실제로 힘을 합쳐 성과를 낸다는 조건이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Decoy Tail Concealing a Shadow Tail",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00740",
+  "primary_tag_id": "ML-T00740",
   "description": {
     "definition": "눈에 띄는 추적자를 떼어 낸 대상이 감시가 끝났다고 믿는 사이 다른 추적자가 은밀하게 따라가는 방식이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "두 추적자의 단순한 협업과 달리 노출과 안도감이 기만의 역할을 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "눈에 띄는 추적자를 대상이 알아채고 떼어 냈다고 믿게 한 뒤 다른 추적자가 계속 따라간다. 첫 노출은 실패가 아니라 감시가 끝났다는 잘못된 확신을 만들기 위한 수단이다.\n\n대상은 자신의 성공을 근거로 다음 위험을 낮게 평가할 수 있다. 관객이 두 번째 추적자를 알고 있으면 대상이 방심하는 시간을 지켜보는 긴장이 되고, 나중에 알게 되면 앞의 안도 장면이 속임수로 다시 읽힌다.\n\n여러 사람이 역할을 나누어 미행한다는 사실만으로는 같은 구조가 아니다. 노출과 회피, 안도감이 남은 감시를 숨기는 데 연결되어야 한다. 첫 추적자가 우연히 들킨 뒤 즉석에서 대신했다면 결과는 비슷해도 계획의 성격이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "눈에 띄는 추적자를 대상이 알아채고 떼어 냈다고 믿게 한 뒤 다른 추적자가 계속 따라간다. 첫 노출은 실패가 아니라 감시가 끝났다는 잘못된 확신을 만들기 위한 수단이다.\n\n대상은 자신의 성공을 근거로 다음 위험을 낮게 평가할 수 있다. 관객이 두 번째 추적자를 알고 있으면 대상이 방심하는 시간을 지켜보는 긴장이 되고, 나중에 알게 되면 앞의 안도 장면이 속임수로 다시 읽힌다.\n\n여러 사람이 역할을 나누어 미행한다는 사실만으로는 같은 구조가 아니다. 노출과 회피, 안도감이 남은 감시를 숨기는 데 연결되어야 한다. 첫 추적자가 우연히 들킨 뒤 즉석에서 대신했다면 결과는 비슷해도 계획의 성격이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Fabricated Flashback Reveal",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "과거 사건을 보여 주는 듯 제시한 회상 장면이 실제로 일어난 일이 아니라 진술자가 꾸민 내용이었다고 뒤늦게 밝혀지는 구성이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "처음부터 상상이라고 알려 준 장면이나 말과 영상의 불일치를 즉시 드러내는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관객은 회상을 실제 과거라고 받아들이지만 나중에 꾸며 낸 진술이라는 사실을 알게 된다. 화면의 신뢰에 대한 기대가 반전의 근거가 된다.\n\n새 정보는 이미 본 사건을 사실의 기록에서 거짓말의 표현으로 바꾼다. 누가 회상의 내용을 제공했는지가 뒤늦게 중요해진다.\n\n처음부터 상상으로 명시한 장면과는 다르다. 말과 영상의 차이를 즉시 보여 주는 방식도 거짓 공개의 시점이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관객은 회상을 실제 과거라고 받아들이지만 나중에 꾸며 낸 진술이라는 사실을 알게 된다. 화면의 신뢰에 대한 기대가 반전의 근거가 된다.\n\n새 정보는 이미 본 사건을 사실의 기록에서 거짓말의 표현으로 바꾼다. 누가 회상의 내용을 제공했는지가 뒤늦게 중요해진다.\n\n처음부터 상상으로 명시한 장면과는 다르다. 말과 영상의 차이를 즉시 보여 주는 방식도 거짓 공개의 시점이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

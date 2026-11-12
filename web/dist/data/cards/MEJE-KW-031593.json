@@ -4,8 +4,8 @@
   "title": "상성이 불리해도 같은 속성을 고집하기",
   "original": "Poor, Predictable Rock",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02110",
+  "primary_tag_id": "ML-T02110",
   "description": {
     "definition": "서로 강약이 정해진 능력 체계에서 한 속성에 지나치게 집중하여 대응을 예측당하거나 뚜렷한 약점을 드러내는 전술적 구도다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "불을 쓰는 기술만 고집하는 상대에게 불에 강한 수단을 준비하면 유리해지는 식이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "[[원소마다 이어지는 상성 규칙]]이 분명할수록 선택의 반복은 상대에게 정보가 된다. 한 속성의 숙련도가 높다는 강점과 불리한 상성을 바꾸기 어렵다는 약점이 동시에 생기며, 여러 속성을 다루는 인물은 상황에 맞는 대응을 선택할 수 있다.\n\n특화 자체가 언제나 나쁜 선택은 아니다. [[강점에 자원을 몰아주는 최적화 육성]]처럼 강점을 극단적으로 키우거나 약점을 보완하는 기술을 익혀 불리함을 넘길 수도 있다. 따라서 이 개념은 전문성의 존재보다 한 가지 선택을 반복하는 성향이 상성 체계에서 어떤 결과를 내는지에 초점을 둔다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "[[원소마다 이어지는 상성 규칙]]이 분명할수록 선택의 반복은 상대에게 정보가 된다. 한 속성의 숙련도가 높다는 강점과 불리한 상성을 바꾸기 어렵다는 약점이 동시에 생기며, 여러 속성을 다루는 인물은 상황에 맞는 대응을 선택할 수 있다.\n\n특화 자체가 언제나 나쁜 선택은 아니다. [[강점에 자원을 몰아주는 최적화 육성]]처럼 강점을 극단적으로 키우거나 약점을 보완하는 기술을 익혀 불리함을 넘길 수도 있다. 따라서 이 개념은 전문성의 존재보다 한 가지 선택을 반복하는 성향이 상성 체계에서 어떤 결과를 내는지에 초점을 둔다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

@@ -4,8 +4,8 @@
   "title": "보이지 않는 사이에 끝난 연애",
   "original": "Offscreen Breakup",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01952",
+  "primary_tag_id": "ML-T01952",
   "description": {
     "definition": "이전에 연인으로 제시되었던 두 사람이 이별 장면 없이 이후 이미 헤어진 상태임이 알려진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "이별의 원인까지 반드시 숨겨야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "23.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관객이 마지막으로 본 관계와 현재의 상태 사이에 이별이 생략되어 있다. 새 발언과 행동이 과거에 변화가 있었다는 정보를 뒤늦게 전달한다.\n\n짧은 설명은 새로운 연애를 시작할 공간을 만들지만 이전 관계의 감정은 충분히 정리되지 않을 수 있다. 공개 시점에 따라 놀람과 허탈함이 생긴다.\n\n헤어지는 과정을 본 뒤 시간이 흐른 경우와는 전달 방식이 다르다. 단지 상대가 화면에 없다는 이유만으로 이별을 확정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관객이 마지막으로 본 관계와 현재의 상태 사이에 이별이 생략되어 있다. 새 발언과 행동이 과거에 변화가 있었다는 정보를 뒤늦게 전달한다.\n\n짧은 설명은 새로운 연애를 시작할 공간을 만들지만 이전 관계의 감정은 충분히 정리되지 않을 수 있다. 공개 시점에 따라 놀람과 허탈함이 생긴다.\n\n헤어지는 과정을 본 뒤 시간이 흐른 경우와는 전달 방식이 다르다. 단지 상대가 화면에 없다는 이유만으로 이별을 확정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

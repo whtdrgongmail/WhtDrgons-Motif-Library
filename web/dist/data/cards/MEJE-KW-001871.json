@@ -4,8 +4,8 @@
   "title": "온라인 방해 행위를 줄이는 운영 기능",
   "original": "Anti-Trolling Features",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02531",
+  "primary_tag_id": "ML-T02531",
   "description": {
     "definition": "공동 공간에서 일부 참가자의 고의적 방해를 예방하거나 반복을 제한하는 서비스·게임 기능. 참가자의 행동을 감지하고 다른 이용자가 계속 활동할 수 있게 만든다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "동료에게 고의로 피해를 주는 행동을 제한하거나 반복 괴롭힘을 신고하고 차단할 수 있도록 만든 기능이다. 단순히 예의를 권하는 문구와 달리 다른 이용자의 활동을 방해하기 어렵게 시스템을 조정하며 피해자가 계속 참여할 수 있도록 돕는다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "고의적인 방해가 다른 이용자의 활동을 멈추게 하지 않도록 접근과 발언, 상호작용의 범위를 조절한다. 제재 이전에 피해가 확산되는 조건을 줄이는 설계도 같은 목적을 가진다.\n\n온라인 방해 행위 대응은 하나의 기능보다 운영 체계와 이용자 경험의 관계로 봐야 한다. 새로운 이용자의 정상적인 행동까지 제한할 수 있으므로 효과와 비용이 함께 존재한다. 특정 기능의 존재만으로 방해가 사라졌다고 평가하지 않고 실제 적용 조건을 확인해야 한다.\n\n접근 제한은 방해자의 유입을 줄일 수 있지만 정상적인 신규 이용자에게도 문턱이 된다. 발언과 상호작용의 제한은 이미 들어온 사람의 피해 범위를 조절한다. 예방과 사후 제재가 어떤 문제를 각각 담당하는지 구분하면 기능의 이익과 비용을 더 정확히 설명할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "고의적인 방해가 다른 이용자의 활동을 멈추게 하지 않도록 접근과 발언, 상호작용의 범위를 조절한다. 제재 이전에 피해가 확산되는 조건을 줄이는 설계도 같은 목적을 가진다.\n\n온라인 방해 행위 대응은 하나의 기능보다 운영 체계와 이용자 경험의 관계로 봐야 한다. 새로운 이용자의 정상적인 행동까지 제한할 수 있으므로 효과와 비용이 함께 존재한다. 특정 기능의 존재만으로 방해가 사라졌다고 평가하지 않고 실제 적용 조건을 확인해야 한다.\n\n접근 제한은 방해자의 유입을 줄일 수 있지만 정상적인 신규 이용자에게도 문턱이 된다. 발언과 상호작용의 제한은 이미 들어온 사람의 피해 범위를 조절한다. 예방과 사후 제재가 어떤 문제를 각각 담당하는지 구분하면 기능의 이익과 비용을 더 정확히 설명할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

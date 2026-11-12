@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032487",
+  "kind": "keyword",
+  "title": "착용 센서로 여러 악기 소리를 연주하기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F16",
+  "description": {
+    "definition": "옷이나 신발의 전자 입력 장치를 신체 동작으로 작동시켜 합성 악기음이나 녹음된 소리를 재생하며 일인 합주를 만드는 구성이다.",
+    "detail": "",
+    "usage": "[[전자 악기]]와 몸의 동작을 연결한 공연을 설계한다.",
+    "boundary": "녹음된 반주를 한 번 틀어 놓는 것과 달리 연주자의 동작이 소리의 발생을 조절해야 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "16",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "몸의 움직임이 실제 악기 대신 전자 소리를 불러낸다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "옷과 신발 등에 부착한 MIDI 입력 장치는 신체의 움직임을 소리가 발생하는 신호로 바꾼다. 스피커에서 합성음이나 샘플을 재생하므로 각각의 실제 악기를 몸에 매달지 않고도 다양한 악기음을 다룰 수 있다.\n\n이 구성에서 [[전자 악기]]의 소리는 연주자의 동작에 대응한다. 미리 녹음한 반주 전체를 한 번 재생하는 방식과 달리 연주 중의 개별 입력이 발생 시점을 제어한다. 몸의 움직임을 입력으로 분배한다는 점은 기계식 일인 합주와 같지만 소리를 만드는 장치의 종류가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "옷과 신발 등에 부착한 MIDI 입력 장치는 신체의 움직임을 소리가 발생하는 신호로 바꾼다. 스피커에서 합성음이나 샘플을 재생하므로 각각의 실제 악기를 몸에 매달지 않고도 다양한 악기음을 다룰 수 있다.\n\n이 구성에서 [[전자 악기]]의 소리는 연주자의 동작에 대응한다. 미리 녹음한 반주 전체를 한 번 재생하는 방식과 달리 연주 중의 개별 입력이 발생 시점을 제어한다. 몸의 움직임을 입력으로 분배한다는 점은 기계식 일인 합주와 같지만 소리를 만드는 장치의 종류가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
+}

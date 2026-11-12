@@ -4,8 +4,8 @@
   "title": "한 인물에게만 게임 규칙이 생기는 서사",
   "original": "The Gamer LitRPG",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00397",
+  "primary_tag_id": "ML-T00397",
   "description": {
     "definition": "대부분의 세계는 종전처럼 움직이지만 특정 인물이 역할수행 게임의 능력치와 성장 규칙을 얻는 이야기 하위형이다.",
     "detail": "작품 사례: 《[[더 게이머]]》에서 게임 인물처럼 성장하는 한지한의 능력은 다른 초능력자들과 작동 방식이 달라 상대가 예상하기 어려운 힘이 된다.",
@@ -13,17 +13,20 @@
     "boundary": "세계 전체가 동일한 게임 규칙을 따르는 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.401.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "world_pattern",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "story_pattern",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "세계 전체가 아니라 특정 인물에게 역할수행 게임과 같은 능력치와 성장 규칙이 적용된다. 주변 인물은 종전의 방식대로 존재하므로 작동 체계의 차이가 생긴다.\n\n주인공의 성장과 능력 사용을 다른 초능력자가 쉽게 예상하지 못할 수 있다. 같은 세계 안에서 서로 다른 규칙을 가진 인물이 만나는 점이 전개의 자원이 된다.\n\n모두가 동일한 게임 규칙을 따르는 세계와 다르다. 예외적으로 게임의 체계를 얻은 인물이 있다는 비대칭이 필요하다.\n\n《[[더 게이머]]》에서 게임 인물처럼 성장하는 한지한의 능력은 다른 초능력자들과 작동 방식이 달라 상대가 예상하기 어려운 힘이 된다.\n\n[[더 게이머]]",
+    "sections": [
+      [
+        "상세 설명",
+        "세계 전체가 아니라 특정 인물에게 역할수행 게임과 같은 능력치와 성장 규칙이 적용된다. 주변 인물은 종전의 방식대로 존재하므로 작동 체계의 차이가 생긴다.\n\n주인공의 성장과 능력 사용을 다른 초능력자가 쉽게 예상하지 못할 수 있다. 같은 세계 안에서 서로 다른 규칙을 가진 인물이 만나는 점이 전개의 자원이 된다.\n\n모두가 동일한 게임 규칙을 따르는 세계와 다르다. 예외적으로 게임의 체계를 얻은 인물이 있다는 비대칭이 필요하다."
+      ],
+      [
+        "사례",
+        "《[[더 게이머]]》에서 게임 인물처럼 성장하는 한지한의 능력은 다른 초능력자들과 작동 방식이 달라 상대가 예상하기 어려운 힘이 된다."
+      ],
+      [
+        "관련 작품",
+        "[[더 게이머]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

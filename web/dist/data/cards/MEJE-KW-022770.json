@@ -5,8 +5,8 @@
   "original": "Party Line",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01445",
+  "primary_tag_id": "ML-T01445",
   "description": {
     "definition": "서로 다른 집이나 거주자가 하나의 전화 회선을 함께 사용하도록 구성된 통신 환경이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "한 집 안의 여러 수화기나 현대적인 그룹 통화와 구별한다. 공유 구조가 통화의 프라이버시와 이웃 관계에 영향을 준다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 다른 가구와 거주자가 하나의 전화 회선을 공유한다. 각 집의 통신이 완전히 독립적이지 않은 생활 기술 환경이다.\n\n통화의 방해와 우연한 청취가 가능해지면 이웃의 정보가 다른 집으로 퍼질 수 있다. 회선의 공유 구조가 프라이버시와 공동체의 관계에 영향을 준다.\n\n한 집 안에서 여러 수화기를 쓰는 경우와 다르다. 여러 사람을 동시에 연결하는 현대적인 그룹 통화와도 구조와 생활 맥락을 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 다른 가구와 거주자가 하나의 전화 회선을 공유한다. 각 집의 통신이 완전히 독립적이지 않은 생활 기술 환경이다.\n\n통화의 방해와 우연한 청취가 가능해지면 이웃의 정보가 다른 집으로 퍼질 수 있다. 회선의 공유 구조가 프라이버시와 공동체의 관계에 영향을 준다.\n\n한 집 안에서 여러 수화기를 쓰는 경우와 다르다. 여러 사람을 동시에 연결하는 현대적인 그룹 통화와도 구조와 생활 맥락을 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "멜로딕 메탈코어",
   "original": "Melodic metalcore",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-028229",
+  "primary_tag_id": "MEJE-KW-028229",
   "description": {
     "definition": "[[메탈릭 하드코어]]와 멜로딕 데스메탈의 요소를 결합하여 [[선율]]적인 기타 리프·빠른 진행·솔로를 강조하는 [[메탈코어]] 양식이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "멜로딕 메탈코어는 [[메탈코어]]의 무거운 리듬과 거친 발성을 유지하면서 선율이 분명한 기타 리프·솔로를 전면에 두는 갈래다. 멜로딕 데스 메탈 계열의 기타 진행이 영향 관계로 제시될 수 있다. 단순히 따라 부르기 쉬운 후렴이 있다는 이유만으로 이 하위 갈래가 되는 것은 아니다.\n\n이 갈래를 분석할 때에는 기타 선율이 곡의 주요 동기를 형성하는지, 거친 리듬 구간과 어떻게 교차하는지 확인한다. [[모던 메탈코어]]와 후렴·발성 등 일부 요소가 겹쳐도 두 이름의 초점은 다르다. 하나의 곡에 두 흐름의 요소가 동시에 있을 수도 있으므로 구체적 편곡을 기준으로 설명한다.\n\n가상 예시: 무거운 브레이크다운 앞뒤로 반복되는 선율적 기타 리프가 곡의 핵심 주제를 이루고 솔로에서도 변형된다면 멜로딕 메탈코어의 특징을 보여 준다. 후렴이 귀에 남는다는 이유만으로 기타 중심의 선율 구성이 성립하지는 않는다.\n\n작품 사례: Killswitch Engage의 〈[[My Curse]]〉는 멜로딕 메탈코어 곡으로 분류되며, 선율적인 기타 리프와 메탈코어의 강한 리듬을 결합한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "멜로딕 메탈코어는 [[메탈코어]]의 무거운 리듬과 거친 발성을 유지하면서 선율이 분명한 기타 리프·솔로를 전면에 두는 갈래다. 멜로딕 데스 메탈 계열의 기타 진행이 영향 관계로 제시될 수 있다. 단순히 따라 부르기 쉬운 후렴이 있다는 이유만으로 이 하위 갈래가 되는 것은 아니다.\n\n이 갈래를 분석할 때에는 기타 선율이 곡의 주요 동기를 형성하는지, 거친 리듬 구간과 어떻게 교차하는지 확인한다. [[모던 메탈코어]]와 후렴·발성 등 일부 요소가 겹쳐도 두 이름의 초점은 다르다. 하나의 곡에 두 흐름의 요소가 동시에 있을 수도 있으므로 구체적 편곡을 기준으로 설명한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 무거운 브레이크다운 앞뒤로 반복되는 선율적 기타 리프가 곡의 핵심 주제를 이루고 솔로에서도 변형된다면 멜로딕 메탈코어의 특징을 보여 준다. 후렴이 귀에 남는다는 이유만으로 기타 중심의 선율 구성이 성립하지는 않는다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: Killswitch Engage의 〈[[My Curse]]〉는 멜로딕 메탈코어 곡으로 분류되며, 선율적인 기타 리프와 메탈코어의 강한 리듬을 결합한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "더빙에 새로 넣은 대중문화 언급",
   "original": "Dub-Induced Pop Culture Reference",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02283",
+  "primary_tag_id": "ML-T02283",
   "description": {
     "definition": "현지화 대사에 새 관객이 알아볼 만한 유행어나 작품 언급을 넣어 원작과 다른 문화적 맥락을 만드는 방식. 현지화 과정에서 대중문화 언급을 넣는 선택은 인물의 말투와 [[더빙으로 달라진 인물 성격]]에도 영향을 줄 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현지화 과정에서 대상 지역의 관객이 알아볼 만한 대중문화 언급을 대사에 새로 넣는 방식이다. 원래 있던 낯선 문화적 언급을 친숙한 대상으로 교체하는 경우도 포함한다.\n\n뜻의 전달뿐 아니라 말의 흐름과 농담의 효과를 조정하는 데 사용된다. 관객에게 자연스럽게 들릴 수 있지만 인물의 관심사나 말투가 원래 설정과 다르게 느껴질 수도 있다.\n\n기존 언급을 그대로 옮기는 번역과는 구별된다. 새로 추가된 언급이 시대나 배경에 어울리는지, 원래 대사의 기능을 유지하는지가 현지화의 효과를 판단하는 기준이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현지화 과정에서 대상 지역의 관객이 알아볼 만한 대중문화 언급을 대사에 새로 넣는 방식이다. 원래 있던 낯선 문화적 언급을 친숙한 대상으로 교체하는 경우도 포함한다.\n\n뜻의 전달뿐 아니라 말의 흐름과 농담의 효과를 조정하는 데 사용된다. 관객에게 자연스럽게 들릴 수 있지만 인물의 관심사나 말투가 원래 설정과 다르게 느껴질 수도 있다.\n\n기존 언급을 그대로 옮기는 번역과는 구별된다. 새로 추가된 언급이 시대나 배경에 어울리는지, 원래 대사의 기능을 유지하는지가 현지화의 효과를 판단하는 기준이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

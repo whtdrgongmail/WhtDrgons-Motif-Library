@@ -4,8 +4,8 @@
   "title": "공연을 보러 가는 회차",
   "original": "Concert Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00556",
+  "primary_tag_id": "ML-T00556",
   "description": {
     "definition": "평소 공연과 관계없는 인물들이 한 회차 동안 티켓과 이동, 무대 뒤 만남을 겪는다. 공연 관람이 일상에서 벗어난 공동 경험이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "04",
+    "code": "04.001.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주역들이 공연을 보러 가는 일을 중심으로 진행되는 회차다. 음악의 감상뿐 아니라 표를 구하고 현장에 도착하는 과정이 사건의 주요 부분이 된다.\n\n열성 팬인 인물과 관심이 적은 동료의 기대 차이가 갈등을 만들 수 있다. 무대에 불려 올라가거나 출연자를 만나는 경험은 평소와 다른 상황에서 인물의 반응을 보여 준다.\n\n등장인물들이 노래를 부르는 뮤지컬 회차와는 형식이 다르다. 이야기의 중심이 특정 공연이라는 점이 중요하며, 실제 음악가의 특별 출연이 있어도 공연 관람이라는 기본 구조는 유지된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주역들이 공연을 보러 가는 일을 중심으로 진행되는 회차다. 음악의 감상뿐 아니라 표를 구하고 현장에 도착하는 과정이 사건의 주요 부분이 된다.\n\n열성 팬인 인물과 관심이 적은 동료의 기대 차이가 갈등을 만들 수 있다. 무대에 불려 올라가거나 출연자를 만나는 경험은 평소와 다른 상황에서 인물의 반응을 보여 준다.\n\n등장인물들이 노래를 부르는 뮤지컬 회차와는 형식이 다르다. 이야기의 중심이 특정 공연이라는 점이 중요하며, 실제 음악가의 특별 출연이 있어도 공연 관람이라는 기본 구조는 유지된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

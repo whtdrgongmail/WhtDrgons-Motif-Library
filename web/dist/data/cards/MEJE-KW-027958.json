@@ -4,8 +4,8 @@
   "title": "초인적 영웅으로 다루는 로봇",
   "original": "Super Robot",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00204",
+  "primary_tag_id": "ML-T00204",
   "description": {
     "definition": "메카를 고유한 초인적 힘과 영웅적 존재감을 지닌 슈퍼히어로처럼 다루는 작품의 접근이다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": "크기가 크거나 강하다는 사실만으로는 부족하며 서사적 취급 방식이 기준이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.101.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "메카를 단순한 장비보다 고유한 초인적 힘과 영웅적 존재감을 가진 존재로 다룬다. 기계의 전투 성능을 넘어 서사에서 차지하는 위상이 중요하다.\n\n로봇의 행동과 등장이 슈퍼히어로를 다루는 것 같은 무게를 지닌다. 세계 안에서 맡는 기능과 영웅으로서의 존재감이 함께 제시되어야 한다.\n\n크기가 크거나 강하기만 한 로봇과 구별한다. 수치상의 성능보다 작품이 그 존재를 어떤 방식으로 대하는지가 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "메카를 단순한 장비보다 고유한 초인적 힘과 영웅적 존재감을 가진 존재로 다룬다. 기계의 전투 성능을 넘어 서사에서 차지하는 위상이 중요하다.\n\n로봇의 행동과 등장이 슈퍼히어로를 다루는 것 같은 무게를 지닌다. 세계 안에서 맡는 기능과 영웅으로서의 존재감이 함께 제시되어야 한다.\n\n크기가 크거나 강하기만 한 로봇과 구별한다. 수치상의 성능보다 작품이 그 존재를 어떤 방식으로 대하는지가 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

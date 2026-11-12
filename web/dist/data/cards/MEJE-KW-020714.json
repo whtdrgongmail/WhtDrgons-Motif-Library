@@ -6,19 +6,19 @@
   "aliases": [
     "무시한 부가 임무가 남기는 결과"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02129",
+  "primary_tag_id": "ML-T02129",
   "description": {
     "definition": "선택 임무를 완료하지 않거나 늦게 수행하거나 부실하게 마친 결과가 뒤의 주요 사건에 뜻밖의 큰 영향을 미치는 구조다.",
     "detail": "작품 사례: 《[[킹덤 컴: 딜리버런스]]》의 「In God’s Hands」에서는 치료를 늦추면 환자들이 죽기 시작한다. 선택 임무를 나중으로 미루는 행동이 인물의 생존에 결과를 남긴다.",
     "usage": "세계의 일이 주인공의 관심 밖에서도 이어진다는 감각과 선택의 책임을 만든다.",
-    "boundary": "즉시 알 수 있는 보상 상실만 있는 경우와 구별한다. 중요성이 감춰져 있던 선택 임무의 후속 파급이 핵심이다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "25",
+    "code": "25.007.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "세계의 일이 주인공의 관심 밖에서도 이어진다는 감각과 선택의 책임을 만든다.\n\n즉시 알 수 있는 보상 상실만 있는 경우와 구별한다. 중요성이 감춰져 있던 선택 임무의 후속 파급이 핵심이다.\n\n《[[킹덤 컴: 딜리버런스]]》의 「In God’s Hands」에서는 치료를 늦추면 환자들이 죽기 시작한다. 선택 임무를 나중으로 미루는 행동이 인물의 생존에 결과를 남긴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "세계의 일이 주인공의 관심 밖에서도 이어진다는 감각과 선택의 책임을 만든다.\n\n즉시 알 수 있는 보상 상실만 있는 경우와 구별한다. 중요성이 감춰져 있던 선택 임무의 후속 파급이 핵심이다."
+      ],
+      [
+        "관련 작품",
+        "《[[킹덤 컴: 딜리버런스]]》의 「In God’s Hands」에서는 치료를 늦추면 환자들이 죽기 시작한다. 선택 임무를 나중으로 미루는 행동이 인물의 생존에 결과를 남긴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

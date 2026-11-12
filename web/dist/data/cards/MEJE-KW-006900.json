@@ -4,8 +4,8 @@
   "title": "대역을 이용한 탈출",
   "original": "Decoy Getaway",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00754",
+  "primary_tag_id": "ML-T00754",
   "description": {
     "definition": "추격자에게 붙잡히거나 발견된 사람이 본인인 듯 보이지만, 실제 대상은 대역을 남기고 이미 벗어났다. [[미끼 수송대]]가 이동 경로를 감춘다면 대역을 둔 탈출은 인물의 현재 위치를 감춘다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.003.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "본인처럼 보이는 대역과 가짜 몸을 남겨 추적자가 목표를 잡았다고 믿게 하는 탈출 방식이다. 실제 인물은 이미 다른 곳으로 이동해 있다.\n\n방 안에서 죽거나 탈것이 파괴되는 장면을 먼저 보여 준 뒤 대역이었음을 밝힐 수 있다. 적이 확인을 끝냈다고 생각하는 시간이 실제 대상의 도주를 돕는다.\n\n주변을 혼란스럽게만 하는 일반적인 도주와는 다르다. 목표 인물의 존재에 대한 잘못된 확인이 핵심이며, 대역의 재질과 행동이 얼마나 관찰을 견디는지가 반전의 설득력을 결정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "본인처럼 보이는 대역과 가짜 몸을 남겨 추적자가 목표를 잡았다고 믿게 하는 탈출 방식이다. 실제 인물은 이미 다른 곳으로 이동해 있다.\n\n방 안에서 죽거나 탈것이 파괴되는 장면을 먼저 보여 준 뒤 대역이었음을 밝힐 수 있다. 적이 확인을 끝냈다고 생각하는 시간이 실제 대상의 도주를 돕는다.\n\n주변을 혼란스럽게만 하는 일반적인 도주와는 다르다. 목표 인물의 존재에 대한 잘못된 확인이 핵심이며, 대역의 재질과 행동이 얼마나 관찰을 견디는지가 반전의 설득력을 결정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

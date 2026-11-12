@@ -4,8 +4,8 @@
   "title": "군사 훈련소를 겪는 한 편",
   "original": "Boot Camp Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00339",
+  "primary_tag_id": "ML-T00339",
   "description": {
     "definition": "익숙한 인물들이 훈련소에 들어가 새로운 규율과 생활을 겪는다. 평소 관계가 계급과 반복 훈련 안에서 바뀐다.",
     "detail": "",
@@ -13,14 +13,23 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "03.113",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
   "easy_explanation": {
     "easy_ko": "평소의 생활을 벗어난 인물들이 한 회차에서 군사 훈련소의 규율과 반복 훈련을 겪는 구성이다. 기존에 대등하던 사람들이 다른 계급이나 역할을 맡게 될 수 있다. 훈련소가 단순 배경이 아니라 회차의 행동 규칙이 된다.",
     "review_status": "reviewed",
@@ -30,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평소의 등장인물이 군사 훈련소에 들어가 새 규율과 반복 훈련을 겪는 회차다. 익숙한 사회적 지위보다 명령과 집단생활의 규칙이 우선하는 환경이 된다.\n\n시간표와 복장, 함께하는 과제는 인물들이 서로 다른 적응 방식을 보이게 한다. 혼자 잘하던 사람이 팀워크에 막히거나 소극적인 인물이 견딤과 협력으로 인정받으면 일상과 다른 강점이 드러난다.\n\n훈련 장면이 잠깐 있는 모든 회차와는 중심 비중이 다르다. [[서사]]가 훈련소 생활을 어떻게 조직하는지 확인하며, 과장된 처벌과 교관의 모습이 실제 모든 교육의 표준이라고 설명하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평소의 등장인물이 군사 훈련소에 들어가 새 규율과 반복 훈련을 겪는 회차다. 익숙한 사회적 지위보다 명령과 집단생활의 규칙이 우선하는 환경이 된다.\n\n시간표와 복장, 함께하는 과제는 인물들이 서로 다른 적응 방식을 보이게 한다. 혼자 잘하던 사람이 팀워크에 막히거나 소극적인 인물이 견딤과 협력으로 인정받으면 일상과 다른 강점이 드러난다.\n\n훈련 장면이 잠깐 있는 모든 회차와는 중심 비중이 다르다. [[서사]]가 훈련소 생활을 어떻게 조직하는지 확인하며, 과장된 처벌과 교관의 모습이 실제 모든 교육의 표준이라고 설명하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

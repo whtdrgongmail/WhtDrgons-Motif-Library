@@ -4,22 +4,44 @@
   "title": "격리된 연구 행성",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01320",
+  "primary_tag_id": "ML-T01320",
   "description": {
-    "definition": "",
+    "definition": "연구 활동을 중심으로 이용되며 외부와의 이동이나 접촉이 제한된 행성 또는 그곳의 연구 거점이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "14.009.007",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "바깥과 쉽게 오갈 수 없고 주로 연구 시설로 쓰이는 행성이나 행성의 한 장소다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "격리된 연구 행성은 연구 목적으로 쓰이는 행성이나 행성 내 거점에 외부와의 분리 조건을 더한 배경이다. 격리는 거리 때문일 수도, 접근 규칙 때문일 수도 있지만 연결 문맥만으로 어느 이유인지는 정할 수 없다.\n\n한 행성 전체가 연구 시설이거나 모든 주민이 연구원이라고 가정하지 않는다. 어떤 지역이 연구에 사용되고 누가 출입할 수 있는지는 작품의 구체적인 배경 설정을 확인해야 한다.\n\n연결 문맥에서는 다른 장소에 비해 관심과 기회가 적은 행성의 한 형태로 언급된다. 연구 거점이 외부와 분리되어 있다는 사실과 그 행성의 사회적 위상은 다른 조건이므로 따로 기록한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "격리된 연구 행성은 연구 목적으로 쓰이는 행성이나 행성 내 거점에 외부와의 분리 조건을 더한 배경이다. 격리는 거리 때문일 수도, 접근 규칙 때문일 수도 있지만 연결 문맥만으로 어느 이유인지는 정할 수 없다.\n\n한 행성 전체가 연구 시설이거나 모든 주민이 연구원이라고 가정하지 않는다. 어떤 지역이 연구에 사용되고 누가 출입할 수 있는지는 작품의 구체적인 배경 설정을 확인해야 한다.\n\n연결 문맥에서는 다른 장소에 비해 관심과 기회가 적은 행성의 한 형태로 언급된다. 연구 거점이 외부와 분리되어 있다는 사실과 그 행성의 사회적 위상은 다른 조건이므로 따로 기록한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

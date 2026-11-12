@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F10",
   "description": {
-    "definition": "",
+    "definition": "서로 다른 사회·경제적 계층에 속한 인물들의 연애에서 지위나 자원의 차이가 관계의 중요한 조건으로 작용하는 구성이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "10",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "사는 형편이나 사회적 지위가 다른 두 사람이 사랑하면서 그 차이가 관계에 영향을 주는 이야기다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "계층 차이 로맨스는 연애 관계를 맺는 인물들의 [[사회적 위치]]가 다르고 그 차이가 선택이나 갈등에 영향을 줄 때 적용한다. 한 사람이 부유하고 다른 사람이 가난하다는 정보만으로는 부족하며, 관계에서 그 차이가 실제로 작동해야 한다.\n\n연결 문맥에서는 사랑과 신분의 갈등을 다룰 수 있는 이야기로 언급된다. 반면 작위와 재산을 맞바꾸는 혼인은 서로가 얻으려는 지위와 자원이 관계의 직접적인 거래 조건이다. 두 구성이 함께 나타날 수도 있지만 어느 조건이 중심인지 구별해야 한다.\n\n계층의 차이가 있는 모든 연애가 실패하거나 혼인으로 이어지는 것은 아니다. 가족의 반응, 경제적 제약, 당사자의 선택 가운데 무엇이 갈등을 만드는지는 작품의 장면과 설정으로 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "계층 차이 로맨스는 연애 관계를 맺는 인물들의 [[사회적 위치]]가 다르고 그 차이가 선택이나 갈등에 영향을 줄 때 적용한다. 한 사람이 부유하고 다른 사람이 가난하다는 정보만으로는 부족하며, 관계에서 그 차이가 실제로 작동해야 한다.\n\n연결 문맥에서는 사랑과 신분의 갈등을 다룰 수 있는 이야기로 언급된다. 반면 작위와 재산을 맞바꾸는 혼인은 서로가 얻으려는 지위와 자원이 관계의 직접적인 거래 조건이다. 두 구성이 함께 나타날 수도 있지만 어느 조건이 중심인지 구별해야 한다.\n\n계층의 차이가 있는 모든 연애가 실패하거나 혼인으로 이어지는 것은 아니다. 가족의 반응, 경제적 제약, 당사자의 선택 가운데 무엇이 갈등을 만드는지는 작품의 장면과 설정으로 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

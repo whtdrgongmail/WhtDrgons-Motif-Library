@@ -4,27 +4,27 @@
   "title": "데빌 메이 크라이",
   "original": "Devil May Cry",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《데빌 메이 크라이》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《데빌 메이 크라이》에서 단테는 적을 띄운 뒤 연속 사격으로 공중에 머물게 한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -45,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《데빌 메이 크라이》는 악마 사냥꾼 단테를 중심으로 한 액션 게임 작품군이다. 인간을 지킨 악마 스파다의 아들인 단테는 어머니를 잃은 뒤 악마를 상대로 싸우는 일을 하며, 힘을 추구하는 형제 버질과 다른 길을 택한다.\n\n검과 총을 활용한 전투를 화려하게 이어 가는 스타일이 중심이며, 현대의 인간 세계와 악마의 세계가 충돌한다. 각 게임과 파생 매체를 묶는 범위이므로 첫 게임 한 편의 사건으로 한정되지 않고, 같은 인물을 다룬 영상판과도 개별 연속성을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《데빌 메이 크라이》는 악마 사냥꾼 단테를 중심으로 한 액션 게임 작품군이다. 인간을 지킨 악마 스파다의 아들인 단테는 어머니를 잃은 뒤 악마를 상대로 싸우는 일을 하며, 힘을 추구하는 형제 버질과 다른 길을 택한다.\n\n검과 총을 활용한 전투를 화려하게 이어 가는 스타일이 중심이며, 현대의 인간 세계와 악마의 세계가 충돌한다. 각 게임과 파생 매체를 묶는 범위이므로 첫 게임 한 편의 사건으로 한정되지 않고, 같은 인물을 다룬 영상판과도 개별 연속성을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

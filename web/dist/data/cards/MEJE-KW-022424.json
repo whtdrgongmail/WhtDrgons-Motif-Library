@@ -5,8 +5,8 @@
   "original": "Lost Masters Mean Inferior Reissues",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "제작 당시의 마스터가 사라져 후대 복사본에 의존하게 되고, 복원을 하거나 새로운 매체로 옮길 때 원래의 품질을 확보하기 어려워지는 상태다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "원본이 남아 있는데 잘못 가공해 품질을 훼손하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "원래 마스터를 잃으면 복원과 재출시는 남은 후대 자료의 품질에 의존한다. 새로운 매체로 옮겨도 원본에 있던 정보를 모두 되찾을 수는 없을 수 있다.\n\n보존 문제는 작품이 존재하느냐뿐 아니라 어떤 상태로 접근할 수 있느냐의 차이를 만든다. 복사본이 남았다는 사실과 원래 품질을 확보했다는 사실은 별개다.\n\n원본이 있는데 잘못 가공한 경우와는 원인이 다르다. 소실 때문에 선택 가능한 자료가 제한되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "원래 마스터를 잃으면 복원과 재출시는 남은 후대 자료의 품질에 의존한다. 새로운 매체로 옮겨도 원본에 있던 정보를 모두 되찾을 수는 없을 수 있다.\n\n보존 문제는 작품이 존재하느냐뿐 아니라 어떤 상태로 접근할 수 있느냐의 차이를 만든다. 복사본이 남았다는 사실과 원래 품질을 확보했다는 사실은 별개다.\n\n원본이 있는데 잘못 가공한 경우와는 원인이 다르다. 소실 때문에 선택 가능한 자료가 제한되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

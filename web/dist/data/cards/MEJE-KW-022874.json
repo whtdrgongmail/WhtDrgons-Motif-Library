@@ -4,8 +4,8 @@
   "title": "단조 곡을 장화음으로 끝내기",
   "original": "PicardyThird",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02036",
+  "primary_tag_id": "ML-T02036",
   "description": {
     "definition": "[[단조]]로 진행한 곡이 마지막 화음에서 [[장화음]]으로 전환되어 예상보다 밝은 종결감을 내는 음악 기법이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "곡 중간의 일반적인 조바꿈이나 끝의 소음을 뜻하지 않는다. 마지막 화음의 장·단 성질 변화가 기준이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "단조의 흐름을 유지하던 곡이 마지막 화음을 장화음으로 바꾼다. 종결 직전까지 쌓인 기대와 마지막 소리의 성질이 대비된다.\n\n끝의 변화는 해소와 밝음 또는 뜻밖의 전환을 줄 수 있다. 곡 전체의 분위기와 종결의 인상을 구분해 설명하는 기법이다.\n\n중간에서 조가 바뀌는 일반적인 진행과 다르다. 마지막 화음의 장·단 성질이 바뀌어야 하며 단순한 끝 소음과도 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "단조의 흐름을 유지하던 곡이 마지막 화음을 장화음으로 바꾼다. 종결 직전까지 쌓인 기대와 마지막 소리의 성질이 대비된다.\n\n끝의 변화는 해소와 밝음 또는 뜻밖의 전환을 줄 수 있다. 곡 전체의 분위기와 종결의 인상을 구분해 설명하는 기법이다.\n\n중간에서 조가 바뀌는 일반적인 진행과 다르다. 마지막 화음의 장·단 성질이 바뀌어야 하며 단순한 끝 소음과도 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

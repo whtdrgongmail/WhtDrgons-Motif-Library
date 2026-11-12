@@ -1,34 +1,22 @@
 {
   "id": "MM-MEDIA-000650",
-  "kind": "work",
+  "kind": "organization",
   "title": "Napalm Death",
   "original": "Napalm Death",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-T00139",
+  "primary_tag_id": null,
   "description": {
-    "definition": "이 카드는 음악 작품 《Napalm Death》를 가리킨다. 이 라이브러리에서는 [[일본 하드코어 펑크]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: 일본 하드코어의 초기 밴드인 GISM의 음악은 Napalm Death에도 영향을 주어, 거친 펑크 양식이 후대의 극단적인 음악으로 이어지는 사례가 된다.",
+    "definition": "네이팜 데스는 영국에서 결성된 그라인드코어 밴드다. 이 카드는 음악 그룹을 가리키며 동명의 음반이나 곡을 뜻하지 않는다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
-  "classification": {
-    "code": "02.008",
-    "review_status": "provisional",
-    "row_version": 1
-  },
-  "classification_semantics": {
-    "semantic_kind": "medium_family",
-    "parent_relation": "facet_member",
-    "allowed_roles": [
-      "medium"
-    ],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "updated_at": "2026-11-12",
+  "row_version": 4,
+  "classification": null,
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "일본 하드코어의 초기 밴드인 GISM의 음악은 Napalm Death에도 영향을 주어, 거친 펑크 양식이 후대의 극단적인 음악으로 이어지는 사례가 된다.",
     "review_status": "reviewed",
@@ -37,11 +25,19 @@
   },
   "applied_tags": [],
   "related_media": [],
-  "related_motifs": [
-    {
-      "card_id": "MEJE-KW-015089",
-      "row_version": 1
-    }
-  ],
-  "references": []
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "나팜 데스는 그라인드코어와 데스 메탈의 결합으로 알려진 밴드다. 빠르고 강한 연주를 사용하며 극단적인 음량과 짧은 곡 형식도 음악적 특징에 포함된다.\n\n가사는 잔혹한 신체 묘사보다는 정치적 문제를 다루는 비중이 높다. 극단적 음악이라는 형식과 가사의 주제를 구별해야 밴드의 성격을 정확하게 이해할 수 있다.\n\n초기부터 구성원의 교체가 잦았고 여러 멤버가 다른 밴드에서도 활동했다. 특히 매우 짧은 곡 〈You Suffer〉는 일반 대중에게도 밴드를 알린 대표적인 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "나팜 데스는 그라인드코어와 데스 메탈의 결합으로 알려진 밴드다. 빠르고 강한 연주를 사용하며 극단적인 음량과 짧은 곡 형식도 음악적 특징에 포함된다.\n\n가사는 잔혹한 신체 묘사보다는 정치적 문제를 다루는 비중이 높다. 극단적 음악이라는 형식과 가사의 주제를 구별해야 밴드의 성격을 정확하게 이해할 수 있다.\n\n초기부터 구성원의 교체가 잦았고 여러 멤버가 다른 밴드에서도 활동했다. 특히 매우 짧은 곡 〈You Suffer〉는 일반 대중에게도 밴드를 알린 대표적인 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

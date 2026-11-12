@@ -4,8 +4,8 @@
   "title": "형태가 크게 다른 종족 간 번식",
   "original": "Hot Skitty-on-Wailord Action",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02560",
+  "primary_tag_id": "ML-T02560",
   "description": {
     "definition": "몸집과 구조가 현저히 다른 종족 사이에서도 자손을 얻을 수 있도록 허용하는 허구의 생식 설정.",
     "detail": "작품 사례: 《[[포켓몬스터]]》 게임의 알 그룹 규칙에서는 작은 고양이형 에나비와 거대한 고래형 고래왕도 짝을 이룰 수 있다. 외형보다 게임 내부의 호환 규칙이 자손을 얻는 조건을 정하는 사례다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 종족 간 연애와 달리 번식 가능성이 핵심이다. 현실 생물의 종 구분이나 생식 원리를 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.011",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "몸집과 신체 구조가 현저히 다른 종족 사이에서도 자손이 생길 수 있게 설정한다. 외형적 차이와 생식 가능성이 현실의 기대와 다르게 연결된다.\n\n게임에서는 종족 조합이 새로운 개체를 얻는 규칙으로 작동할 수 있다. 연애 관계가 있다는 사실만으로 번식이 가능한 것은 아니며 자손의 존재나 규칙이 제시되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "몸집과 신체 구조가 현저히 다른 종족 사이에서도 자손이 생길 수 있게 설정한다. 외형적 차이와 생식 가능성이 현실의 기대와 다르게 연결된다.\n\n게임에서는 종족 조합이 새로운 개체를 얻는 규칙으로 작동할 수 있다. 연애 관계가 있다는 사실만으로 번식이 가능한 것은 아니며 자손의 존재나 규칙이 제시되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,27 +4,27 @@
   "title": "나 혼자만 레벨업",
   "original": "나 혼자만 레벨업",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "이 카드는 웹소설에서 시작해 웹툰·애니메이션 등으로 확장된 작품군 《나 혼자만 레벨업》를 가리킨다. 이 라이브러리에서는 [[이전보다 크게 향상된 행동 능력]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: 나 혼자만 레벨업의 성진우는 최약체 헌터로 던전에서 죽을 위기를 겪은 뒤, 자신만 레벨을 올릴 수 있는 시스템을 얻어 점점 강한 적들과 싸우는 인물로 성장한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《나 혼자만 레벨업》라는 표제는 웹소설에서 시작해 웹툰·애니메이션 등으로 확장된 작품군을 가리킨다.\n\n모티프 라이브러리에서는 [[이전보다 크게 향상된 행동 능력]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《나 혼자만 레벨업》라는 표제는 웹소설에서 시작해 웹툰·애니메이션 등으로 확장된 작품군을 가리킨다.\n\n모티프 라이브러리에서는 [[이전보다 크게 향상된 행동 능력]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

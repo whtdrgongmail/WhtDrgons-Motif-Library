@@ -5,8 +5,8 @@
   "original": "Falsely Accused Then Fighting Back",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01022",
+  "primary_tag_id": "ML-T01022",
   "description": {
     "definition": "하지 않은 잘못으로 비난받은 인물이 분노하여 그 비난과 같은 행동을 실제로 가해자에게 저지르는 전개다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "처음부터 범인이었던 인물의 자백과 다르다. 부당한 비난이 뒤따르는 행동의 원인이 된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "10.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "도둑이라고 몰아붙였더니 그 사람이 화가 나서 정말 물건을 가져간다.",
     "review_status": "reviewed",
@@ -31,5 +37,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "하지 않은 행동으로 비난받은 사람이 분노해 나중에 그와 같은 행동을 실제로 한다. 부당한 의심이 비난자에게 돌아갈 결과를 만들어 내는 전개다.\n\n처음의 주장은 거짓이지만 이후 행동의 원인이 된다. 비난 전후를 구분하면 잘못된 평가가 스스로 맞는 듯한 상황을 낳는 인과가 드러난다.\n\n처음부터 범인이었던 사람이 자백하는 경우와 다르다. 원래 없던 행동이 억울한 비난 때문에 생겼다는 순서가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "하지 않은 행동으로 비난받은 사람이 분노해 나중에 그와 같은 행동을 실제로 한다. 부당한 의심이 비난자에게 돌아갈 결과를 만들어 내는 전개다.\n\n처음의 주장은 거짓이지만 이후 행동의 원인이 된다. 비난 전후를 구분하면 잘못된 평가가 스스로 맞는 듯한 상황을 낳는 인과가 드러난다.\n\n처음부터 범인이었던 사람이 자백하는 경우와 다르다. 원래 없던 행동이 억울한 비난 때문에 생겼다는 순서가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

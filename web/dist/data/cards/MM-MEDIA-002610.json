@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "디거",
   "original": "Digger",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Digger"
+  ],
+  "tag_id": "ML-T00090",
   "primary_tag_id": "ML-T00090",
   "description": {
     "definition": "《디거》는 웹코믹 작품이다.",
-    "detail": "작품 사례: 웹코믹 《디거》의 하이에나들은 간을 감정과 힘의 자리로 여기며 가까운 이가 죽으면 그 힘을 공동체로 돌려보내는 의례와 연결한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.017",
     "review_status": "provisional",
@@ -39,9 +41,30 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-015724",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014748",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-024671",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "웹코믹 《디거》의 하이에나들은 간을 감정과 힘이 자리하는 곳으로 여긴다. 신체 기관에 부여하는 문화적 의미가 인간 독자의 익숙한 표현과 다르다. 집으로 돌아가려는 실용적인 웜뱃의 시각으로 신과 낯선 공동체를 경험하는 흑백 웹코믹이다.\n\n가까운 이가 죽으면 그 힘을 공동체로 돌려보내는 의례와 간이 연결된다. 몸의 일부에 대한 믿음이 죽음을 다루는 관습으로 확장된다. 다른 종족의 신체 믿음은 그 세계의 의례를 구성하지만 현실의 해부학적 사실을 뜻하지 않는다.\n\n이 설정은 신체의 생물학적 기능과 사회가 부여한 상징을 구별하게 한다. 하이에나 사회의 감정과 공동체관을 독자적인 문화로 제시한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "웹코믹 《디거》의 하이에나들은 간을 감정과 힘이 자리하는 곳으로 여긴다. 신체 기관에 부여하는 문화적 의미가 인간 독자의 익숙한 표현과 다르다. 집으로 돌아가려는 실용적인 웜뱃의 시각으로 신과 낯선 공동체를 경험하는 흑백 웹코믹이다.\n\n가까운 이가 죽으면 그 힘을 공동체로 돌려보내는 의례와 간이 연결된다. 몸의 일부에 대한 믿음이 죽음을 다루는 관습으로 확장된다. 다른 종족의 신체 믿음은 그 세계의 의례를 구성하지만 현실의 해부학적 사실을 뜻하지 않는다.\n\n이 설정은 신체의 생물학적 기능과 사회가 부여한 상징을 구별하게 한다. 하이에나 사회의 감정과 공동체관을 독자적인 문화로 제시한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

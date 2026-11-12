@@ -4,8 +4,8 @@
   "title": "되돌아오는 부메랑으로 싸우기",
   "original": "Battle Boomerang",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "던진 부메랑이 표적에 닿은 뒤에도 인물에게 돌아오는 것으로 그린다. 현실 도구의 움직임과 다른 세계 규칙을 명확히 두면 반복 공격의 리듬이 생긴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "부메랑을 주된 공격 수단으로 삼아 던지고 돌아오는 움직임을 전투 규칙으로 사용하는 방식이다. 발사한 무기를 회수한다는 독특한 [[궤적]]이 중심이다.\n\n돌아오는 동안에도 적을 맞히거나 멀리 있는 물건을 가져오는 기능을 더할 수 있다. 플레이어에게는 출발 방향뿐 아니라 귀환 경로와 회수까지 고려할 이유가 생긴다.\n\n허구의 부메랑은 명중한 뒤에도 정해진 경로로 돌아오는 식으로 자주 과장된다. 실제 도구의 모든 형태와 기능을 같은 규칙으로 일반화하지 않고 작품의 동작을 설명해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "부메랑을 주된 공격 수단으로 삼아 던지고 돌아오는 움직임을 전투 규칙으로 사용하는 방식이다. 발사한 무기를 회수한다는 독특한 [[궤적]]이 중심이다.\n\n돌아오는 동안에도 적을 맞히거나 멀리 있는 물건을 가져오는 기능을 더할 수 있다. 플레이어에게는 출발 방향뿐 아니라 귀환 경로와 회수까지 고려할 이유가 생긴다.\n\n허구의 부메랑은 명중한 뒤에도 정해진 경로로 돌아오는 식으로 자주 과장된다. 실제 도구의 모든 형태와 기능을 같은 규칙으로 일반화하지 않고 작품의 동작을 설명해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

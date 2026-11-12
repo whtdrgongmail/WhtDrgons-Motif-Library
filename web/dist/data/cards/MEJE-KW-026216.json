@@ -4,8 +4,8 @@
   "title": "선행을 목격하고 사랑에 빠지기",
   "original": "Samaritan Relationship Starter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01026",
+  "primary_tag_id": "ML-T01026",
   "description": {
     "definition": "어떤 사람이 타인을 친절하게 돕는 모습을 본 일이 그 사람에게 연애 감정을 느끼는 계기가 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "자신이 직접 구조된 뒤 생긴 감정과는 계기가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "10.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관심이 없거나 싫어하던 인물이 다른 사람을 돕는 모습을 보고 평가를 바꾼다. 친절이 설명이 아니라 눈앞의 행동으로 확인되면서 호감의 계기가 된다.\n\n이전의 외형과 평판보다 실제 선택을 더 중요하게 받아들이는 전환이다. 도움받은 사람이 아닌 목격자의 반응을 통해 인물의 성품을 보여 줄 수 있다.\n\n원문은 직접 도움받은 경우도 포함한다. 정본은 목격이 조건이며 좋은 행동을 한 사람에게 애정으로 보답할 의무가 생긴다는 뜻은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관심이 없거나 싫어하던 인물이 다른 사람을 돕는 모습을 보고 평가를 바꾼다. 친절이 설명이 아니라 눈앞의 행동으로 확인되면서 호감의 계기가 된다.\n\n이전의 외형과 평판보다 실제 선택을 더 중요하게 받아들이는 전환이다. 도움받은 사람이 아닌 목격자의 반응을 통해 인물의 성품을 보여 줄 수 있다.\n\n원문은 직접 도움받은 경우도 포함한다. 정본은 목격이 조건이며 좋은 행동을 한 사람에게 애정으로 보답할 의무가 생긴다는 뜻은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

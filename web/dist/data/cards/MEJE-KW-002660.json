@@ -4,8 +4,8 @@
   "title": "건네받은 상품으로 점원을 위협하기",
   "original": "Ballistic Discount",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00766",
+  "primary_tag_id": "ML-T00766",
   "description": {
     "definition": "거래하는 척 물건을 받아 든 인물이 그것으로 점원을 겁준다. 판매 절차에 기대한 신뢰가 돌연 위험으로 바뀌는 사건이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.004.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무기를 사려는 듯 상품을 건네받은 사람이 그 무기로 판매자를 위협하고 대금 없이 가져가는 범행이다. 거래의 편의를 위한 시연이 상점의 위험으로 뒤집힌다.\n\n상품을 차례로 고르는 과정은 범인의 준비이면서 점원이 자기 위협 수단을 제공하는 과정이 된다. 뒤늦게 의도를 깨닫는 반응이 냉혹함과 일방적인 힘의 차이를 강조한다.\n\n이미 가진 무기로 상점을 터는 장면과 달리 훔칠 물건 자체가 범행 도구가 된다. 현실의 판매 절차를 재현한다는 의미보다 물건의 용도와 거래 관계가 순간적으로 전환되는 구조가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "무기를 사려는 듯 상품을 건네받은 사람이 그 무기로 판매자를 위협하고 대금 없이 가져가는 범행이다. 거래의 편의를 위한 시연이 상점의 위험으로 뒤집힌다.\n\n상품을 차례로 고르는 과정은 범인의 준비이면서 점원이 자기 위협 수단을 제공하는 과정이 된다. 뒤늦게 의도를 깨닫는 반응이 냉혹함과 일방적인 힘의 차이를 강조한다.\n\n이미 가진 무기로 상점을 터는 장면과 달리 훔칠 물건 자체가 범행 도구가 된다. 현실의 판매 절차를 재현한다는 의미보다 물건의 용도와 거래 관계가 순간적으로 전환되는 구조가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

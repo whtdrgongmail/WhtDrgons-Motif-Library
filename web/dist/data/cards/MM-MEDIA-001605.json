@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "괴짜가족 괴담일기",
   "original": "Gravity Falls",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "그래비티 폴즈"
+  ],
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "《괴짜가족 괴담일기》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《괴짜가족 괴담일기》에서 그렘로블린의 눈을 본 사람은 자신의 최악의 공포를 보게 되고, 디퍼는 거울로 그 시선을 되돌린다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -47,6 +49,18 @@
       "row_version": 1
     },
     {
+      "card_id": "MEJE-KW-022603",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-017562",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-012246",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-028212",
       "row_version": 1
     },
@@ -55,5 +69,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "쌍둥이 디퍼와 메이블이 친척의 관광 시설에서 여름을 보내며 마을의 괴이한 비밀을 알아 가는 애니메이션이다. 처음에는 지루해 보였던 장소가 숲에서 찾은 수수께끼의 일기 때문에 달라진다.\n\n일기는 괴물과 과거 사건, 은폐된 활동을 기록해 일상의 이상한 단서를 연결한다. 관광객에게 보여 주는 가짜 기이함과 실제로 숨어 있는 초자연적 현상이 같은 공간에 존재하는 구성이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "쌍둥이 디퍼와 메이블이 친척의 관광 시설에서 여름을 보내며 마을의 괴이한 비밀을 알아 가는 애니메이션이다. 처음에는 지루해 보였던 장소가 숲에서 찾은 수수께끼의 일기 때문에 달라진다.\n\n일기는 괴물과 과거 사건, 은폐된 활동을 기록해 일상의 이상한 단서를 연결한다. 관광객에게 보여 주는 가짜 기이함과 실제로 숨어 있는 초자연적 현상이 같은 공간에 존재하는 구성이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

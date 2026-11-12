@@ -4,8 +4,8 @@
   "title": "마지막 행복을 지키는 진실의 유보",
   "original": "Let Them Die Happy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02599",
+  "primary_tag_id": "ML-T02599",
   "description": {
     "definition": "죽음을 앞둔 인물의 마지막 안도와 기쁨을 지키기 위해 괴로운 진실을 숨기거나 위로의 거짓말을 하는 선택이다.",
     "detail": "작품 사례: 《[[호스트(2008년 소설)]]》에서 죽음을 앞둔 월터는 완다를 이미 세상을 떠난 아내로 착각한다. 완다는 그 믿음을 바로잡지 않아 그가 마지막 순간에 안도할 수 있게 한다.",
@@ -13,14 +13,20 @@
     "boundary": "치료나 중요한 결정을 가능하게 할 정보를 숨기는 일반적인 기만과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_pattern",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "지금 사실을 말해도 달라질 것이 없다고 여겨 마지막에는 편히 떠나도록 한다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정보를 바로잡는 행위와 마지막 정서적 안정을 지키는 행위가 충돌한다. 임종을 지켜보는 인물은 진실을 말해 바꿀 수 있는 일이 무엇인지 판단하고, 말하지 않는 선택이 상대에게 주는 안도에 무게를 둔다.\n\n이 선택의 맥락은 진실이 더 이상 실질적인 대응에 도움이 되지 않는다는 데 있다. 치료나 중요한 결정을 가능하게 할 정보를 감추는 일반적인 기만과 구별되며, 거짓말이 언제나 선하다는 보편 원칙을 뜻하지 않는다.\n\n《[[호스트(2008년 소설)]]》에서 죽음을 앞둔 월터는 완다를 이미 세상을 떠난 아내로 착각한다. 완다는 그 믿음을 바로잡지 않아 그가 마지막 순간에 안도할 수 있게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정보를 바로잡는 행위와 마지막 정서적 안정을 지키는 행위가 충돌한다. 임종을 지켜보는 인물은 진실을 말해 바꿀 수 있는 일이 무엇인지 판단하고, 말하지 않는 선택이 상대에게 주는 안도에 무게를 둔다.\n\n이 선택의 맥락은 진실이 더 이상 실질적인 대응에 도움이 되지 않는다는 데 있다. 치료나 중요한 결정을 가능하게 할 정보를 감추는 일반적인 기만과 구별되며, 거짓말이 언제나 선하다는 보편 원칙을 뜻하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[호스트(2008년 소설)]]》에서 죽음을 앞둔 월터는 완다를 이미 세상을 떠난 아내로 착각한다. 완다는 그 믿음을 바로잡지 않아 그가 마지막 순간에 안도할 수 있게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

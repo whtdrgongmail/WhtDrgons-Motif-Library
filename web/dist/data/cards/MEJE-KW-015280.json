@@ -4,8 +4,8 @@
   "title": "바람에 실린 혼령",
   "original": "Winds Are Ghosts",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01203",
+  "primary_tag_id": "ML-T01203",
   "description": {
     "definition": "바람 자체를 죽은 이들의 영혼이 지나가거나 머무는 매개로 제시하는 설정이다.",
     "detail": "작품 사례: [[City of Bones (1995)]]의 사회는 선한 사람이 죽으면 땅 아래에서 쉬지만 악한 영혼은 평안을 얻지 못하고 바람을 떠돈다고 믿어, 바람을 사후 방랑의 매개로 삼는다.",
@@ -13,10 +13,10 @@
     "boundary": "바람 소리가 무섭다는 연출만으로는 부족하며 영혼과의 존재적 연결이 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "바람은 단순한 날씨가 아니라 죽은 이가 이동하거나 머무는 매개로 설정된다. 자연 현상과 사후 존재의 상태가 직접 연결된다.\n\n어떤 영혼이 바람을 떠도는지 정하면 사회의 사후관과 도덕적 믿음이 드러난다. 다만 인물들이 믿는 내용과 세계의 확정된 사실은 구별해야 한다.\n\n바람 소리가 무섭다는 분위기 연출만으로는 충분하지 않다. 영혼과 바람 사이의 존재적인 관계가 제시되어야 한다.\n\n[[City of Bones (1995)]]의 사회는 평안을 얻지 못한 악한 영혼이 바람을 떠돈다고 믿는다.\n\n[[City of Bones (1995)]]",
+    "sections": [
+      [
+        "상세 설명",
+        "바람은 단순한 날씨가 아니라 죽은 이가 이동하거나 머무는 매개로 설정된다. 자연 현상과 사후 존재의 상태가 직접 연결된다.\n\n어떤 영혼이 바람을 떠도는지 정하면 사회의 사후관과 도덕적 믿음이 드러난다. 다만 인물들이 믿는 내용과 세계의 확정된 사실은 구별해야 한다.\n\n바람 소리가 무섭다는 분위기 연출만으로는 충분하지 않다. 영혼과 바람 사이의 존재적인 관계가 제시되어야 한다."
+      ],
+      [
+        "사례",
+        "[[City of Bones (1995)]]의 사회는 평안을 얻지 못한 악한 영혼이 바람을 떠돈다고 믿는다."
+      ],
+      [
+        "관련 작품",
+        "[[City of Bones (1995)]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

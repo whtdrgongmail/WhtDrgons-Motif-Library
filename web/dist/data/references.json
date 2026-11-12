@@ -699,6 +699,3596 @@
       "description_ko": "사탕 네 개를 일렬로 맞춰 특수 사탕을 만들고 가로나 세로 한 줄을 지우는 규칙을 설명한다.",
       "sort_order": 1,
       "row_version": 1
+    },
+    {
+      "id": "REF-000071",
+      "card_id": "MM-UNSET-000049",
+      "label_ko": "한국영상자료원 작품 정보",
+      "icon_key": "website",
+      "url": "https://www.koreafilm.or.kr/library/search/video/58989",
+      "description_ko": "한국어 제목, 원제, 감독과 제작 연도를 확인하는 소장 자료의 영화 정보.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000072",
+      "card_id": "MM-UNSET-000049",
+      "label_ko": "씨네큐브 영화 소개",
+      "icon_key": "website",
+      "url": "https://www.cinecube.co.kr/cinema/view/3934",
+      "description_ko": "두 육상 선수의 올림픽 도전과 각자의 신념을 소개하는 영화관 자료.",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000073",
+      "card_id": "MM-MEDIA-003765",
+      "label_ko": "20th Century Studios 공식 영화 소개",
+      "icon_key": "link",
+      "url": "https://family.20thcenturystudios.com/movies/anastasia",
+      "description_ko": "작품의 매체와 범위를 확인할 수 있는 소개 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000074",
+      "card_id": "MM-MEDIA-003766",
+      "label_ko": "Crunchyroll 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.crunchyroll.com/series/G6VN39P0R/black-bullet",
+      "description_ko": "작품의 매체와 범위를 확인할 수 있는 소개 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000075",
+      "card_id": "MM-MEDIA-003767",
+      "label_ko": "Aniplex 공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.aniplex.co.jp/lineup/bocchi",
+      "description_ko": "작품의 매체와 범위를 확인할 수 있는 소개 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000076",
+      "card_id": "MM-MEDIA-003768",
+      "label_ko": "애니메이션 공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://bofuri.jp/season1/story/",
+      "description_ko": "작품의 매체와 범위를 확인할 수 있는 소개 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000077",
+      "card_id": "MM-MEDIA-003769",
+      "label_ko": "마크로스 공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://macross.jp/pages/series?title=macross",
+      "description_ko": "작품의 매체와 범위를 확인할 수 있는 소개 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000078",
+      "card_id": "MM-MEDIA-003770",
+      "label_ko": "SUNRISE 공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=256",
+      "description_ko": "작품의 매체와 범위를 확인할 수 있는 소개 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000079",
+      "card_id": "MM-MEDIA-003771",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://www.illumination.com/movie/sing/",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000080",
+      "card_id": "MM-MEDIA-003772",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://sesameworkshop.org/our-work/shows/sesame-street/",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000081",
+      "card_id": "MM-MEDIA-003773",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://www.thrilljockey.com/products/94-diskont",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000082",
+      "card_id": "MM-MEDIA-003774",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://movies.disney.com/inspector-gadget-2",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000083",
+      "card_id": "MM-MEDIA-003775",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://www.bones.co.jp/work/wolfs-rain/",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000084",
+      "card_id": "MM-MEDIA-003776",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://faans.com/index.html",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000085",
+      "card_id": "MM-MEDIA-003777",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://music.apple.com/us/album/watch-the-throne/1440848092",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000086",
+      "card_id": "MM-MEDIA-003778",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://www.thelonelyisland.com/videos/im-on-a-boat-ft-t-pain/",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000087",
+      "card_id": "MM-MEDIA-003779",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://www.rhino.com/product/electric-warrior",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000088",
+      "card_id": "MM-MEDIA-003780",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://www.davidbowie.com/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000089",
+      "card_id": "MM-MEDIA-003781",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://www.davidbowie.com/2002/2002/10/28/transformer-reissued-with-bonus-tracks",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000090",
+      "card_id": "MM-MEDIA-003782",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://tv.apple.com/ca/movie/thirteen-days/umc.cmc.43qlbw45xmaceti56ik8xlv2f",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000091",
+      "card_id": "MM-MEDIA-003783",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://www.dc.com/graphic-novels/identity-crisis-2004/identity-crisis",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000092",
+      "card_id": "MM-MEDIA-003784",
+      "label_ko": "공식 게임 소개",
+      "icon_key": "link",
+      "url": "https://genshin.hoyoverse.com/m/en/game",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000093",
+      "card_id": "MM-MEDIA-003785",
+      "label_ko": "공식 영화 소개",
+      "icon_key": "link",
+      "url": "https://www.dreamworks.com/movies/trolls",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000094",
+      "card_id": "MM-MEDIA-003786",
+      "label_ko": "각본가 연재 해설",
+      "icon_key": "link",
+      "url": "https://simonfurman.wordpress.com/2013/10/21/script-wrap-tf-regeneration-one-95/",
+      "description_ko": "작품의 원제와 매체를 확인한 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000095",
+      "card_id": "MM-MEDIA-003787",
+      "label_ko": "공식 행사·방송 소개",
+      "icon_key": "link",
+      "url": "https://www.wwe.com/shows/smackdown/great-moments-smackdown",
+      "description_ko": "방송 또는 행사의 명칭과 범위를 확인한 공식 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000096",
+      "card_id": "MM-MEDIA-003788",
+      "label_ko": "공식 행사·방송 소개",
+      "icon_key": "link",
+      "url": "https://www.allelitewrestling.com/post/aew-revolution-2021-preview",
+      "description_ko": "방송 또는 행사의 명칭과 범위를 확인한 공식 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000097",
+      "card_id": "MM-MEDIA-003789",
+      "label_ko": "공식 행사·방송 소개",
+      "icon_key": "link",
+      "url": "https://www.wwe.com/classics/classic-lists/history-scaffold-matches",
+      "description_ko": "방송 또는 행사의 명칭과 범위를 확인한 공식 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000098",
+      "card_id": "MM-MEDIA-003790",
+      "label_ko": "공식 행사·방송 소개",
+      "icon_key": "link",
+      "url": "https://www.wwe.com/shows/wrestlemania/22",
+      "description_ko": "방송 또는 행사의 명칭과 범위를 확인한 공식 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000099",
+      "card_id": "MM-MEDIA-003791",
+      "label_ko": "공식 행사·방송 소개",
+      "icon_key": "link",
+      "url": "https://www.wwe.com/inside/listthis/greatrawmoments/rawmoments15",
+      "description_ko": "방송 또는 행사의 명칭과 범위를 확인한 공식 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000100",
+      "card_id": "MM-MEDIA-003792",
+      "label_ko": "공식 행사·방송 소개",
+      "icon_key": "link",
+      "url": "https://www.wwe.com/inside/news/archive/starsandstripes",
+      "description_ko": "방송 또는 행사의 명칭과 범위를 확인한 공식 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000101",
+      "card_id": "MM-MEDIA-002564",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.dc.com/graphic-novels/batman-arkham-asylum-living-hell-deluxe-edition",
+      "description_ko": "작품의 제작·출판 및 매체를 확인한 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000102",
+      "card_id": "MM-MEDIA-002614",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.marvel.com/movies/doctor-strange?wptouch_preview_theme=enabled",
+      "description_ko": "작품의 제작·출판 및 매체를 확인한 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000103",
+      "card_id": "MM-MEDIA-003793",
+      "label_ko": "작품 공식 홈페이지",
+      "icon_key": "link",
+      "url": "https://tunicgame.com/",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000104",
+      "card_id": "MM-MEDIA-003793",
+      "label_ko": "공식 소개 자료",
+      "icon_key": "link",
+      "url": "https://blog.playstation.com/2022/06/02/tunic-is-coming-to-ps5-and-ps4-on-september-27/",
+      "description_ko": "",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000105",
+      "card_id": "MM-MEDIA-003794",
+      "label_ko": "작품 공식 홈페이지",
+      "icon_key": "link",
+      "url": "https://www.dreamworks.com/movies/sinbad-legend-of-the-seven-seas",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000106",
+      "card_id": "MM-MEDIA-003794",
+      "label_ko": "공식 소개 자료",
+      "icon_key": "link",
+      "url": "https://www.intel.com/pressroom/archive/releases/2003/20030512corp.htm",
+      "description_ko": "",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000107",
+      "card_id": "MM-MEDIA-003795",
+      "label_ko": "배급사 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.sonypictures.com/movies/americanhustle",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000108",
+      "card_id": "MM-MEDIA-003795",
+      "label_ko": "제작사 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.annapurna.com/film/american-hustle",
+      "description_ko": "",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000109",
+      "card_id": "MM-UNSET-000049",
+      "label_ko": "BFI 작품 정보",
+      "icon_key": "website",
+      "url": "https://www.bfi.org.uk/film/602dd8c2-792b-5470-9735-ed7083c9bfa1/chariots-of-fire",
+      "description_ko": "1981년 작품 정보, 휴 허드슨의 연출, 1924년 올림픽과 선수들의 신념, 반젤리스 음악을 확인하는 영국영화협회 자료.",
+      "sort_order": 3,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000110",
+      "card_id": "MEJE-KW-027532",
+      "label_ko": "Merriam-Webster 표제·어원",
+      "icon_key": "book",
+      "url": "https://www.merriam-webster.com/dictionary/parody",
+      "description_ko": "영어 parody의 뜻과 라틴어·그리스어 어원을 확인하는 사전 자료.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000111",
+      "card_id": "MM-MEDIA-002464",
+      "label_ko": "코나미 공식 작품 정보",
+      "icon_key": "book",
+      "url": "https://www.konami.com/games/castlevania/jp/ja/page/history_1986_fcd_japan",
+      "description_ko": "1986년 일본 발매 게임의 원제, 발매일, 기종, 줄거리와 게임 방식을 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000112",
+      "card_id": "MM-MEDIA-001751",
+      "label_ko": "스타워즈 공식 영화·시리즈 안내",
+      "icon_key": "video",
+      "url": "https://www.starwars.com/news/star-wars-movies-and-series-guide",
+      "description_ko": "영화와 드라마의 공개 순서 및 이야기 속 순서를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000113",
+      "card_id": "MM-MEDIA-001751",
+      "label_ko": "스타워즈 공식 시대 구분",
+      "icon_key": "website",
+      "url": "https://www.starwars.com/eras",
+      "description_ko": "가상 은하의 주요 시대와 역사적 맥락을 확인할 수 있다.",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000114",
+      "card_id": "MM-MEDIA-002394",
+      "label_ko": "파이널 판타지 공식 시리즈 목록",
+      "icon_key": "game",
+      "url": "https://na.finalfantasy.com/en/titles/",
+      "description_ko": "번호가 붙은 본편의 목록과 개별 작품 소개를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000115",
+      "card_id": "MM-MEDIA-002394",
+      "label_ko": "파이널 판타지 공식 포털",
+      "icon_key": "website",
+      "url": "https://na.finalfantasy.com/en/",
+      "description_ko": "시리즈의 개요와 여러 관련 작품을 확인할 수 있다.",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000116",
+      "card_id": "MM-MEDIA-001487",
+      "label_ko": "소니 픽처스 공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.sonypictures.com/movies/ghostbusters",
+      "description_ko": "1984년 영화 정보와 공식 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000117",
+      "card_id": "MM-MEDIA-003796",
+      "label_ko": "마일스 데이비스 공식 음반 소개",
+      "icon_key": "music",
+      "url": "https://www.milesdavis.com/albums/bitches-brew/",
+      "description_ko": "발매 정보와 녹음·편성 설명",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000118",
+      "card_id": "MM-MEDIA-003797",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://a24films.com/films/eighth-grade",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000119",
+      "card_id": "MM-MEDIA-003798",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.dcuniverseinfinite.com/comics/series/wonder-woman-1987-2006/a62c9ccf-2669-438c-aa62-87ae2ca44353/volume",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000120",
+      "card_id": "MM-MEDIA-003800",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.primevideo.com/detail/0L8V88NU7CFYRKM857QDN2O5B4",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000121",
+      "card_id": "MM-MEDIA-003801",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.dc.com/tv/the-flash-2014-2023",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000122",
+      "card_id": "MM-MEDIA-003802",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://ko-opmode.com/games/",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000123",
+      "card_id": "MM-MEDIA-003803",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://herobunko.com/book/126/",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000124",
+      "card_id": "MM-MEDIA-003804",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.shueisha.co.jp/books/items/contents.html?jdcn=08872815872815315501",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000125",
+      "card_id": "MM-MEDIA-003805",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.shochiku.co.jp/cinema/database/04433/",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000126",
+      "card_id": "MM-MEDIA-003806",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://movies.disney.com/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000127",
+      "card_id": "MM-MEDIA-003807",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.cwtvpr.com/the-cw/shows/dynasty/about",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000128",
+      "card_id": "MM-MEDIA-003808",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.sonypictures.com/movies/thegreenhornet",
+      "description_ko": "작품의 제작 및 공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000129",
+      "card_id": "MM-MEDIA-003809",
+      "label_ko": "VIZ 블리치 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.viz.com/bleach",
+      "description_ko": "만화 원작과 2004년 시작한 TV 애니메이션 구분",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000130",
+      "card_id": "MM-MEDIA-002173",
+      "label_ko": "디즈니 《알라딘》 공식 작품 정보",
+      "icon_key": "link",
+      "url": "https://movies.disney.com/aladdin",
+      "description_ko": "1992년 애니메이션 영화의 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000131",
+      "card_id": "MM-MEDIA-002137",
+      "label_ko": "VIZ 《블리치》 공식 작품 정보",
+      "icon_key": "link",
+      "url": "https://www.viz.com/bleach",
+      "description_ko": "원작 만화 및 영상화 작품의 공식 소개",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000132",
+      "card_id": "MM-MEDIA-003517",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.screenaustralia.gov.au/screen-guide/adventures-of-figaro-pho-the-30220/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000133",
+      "card_id": "MM-MEDIA-003518",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://brianaldiss.co.uk/writing/novels/novels-h-l/hothouse/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000134",
+      "card_id": "MM-MEDIA-003519",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.oldmasterq.com/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000135",
+      "card_id": "MM-MEDIA-003520",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.komacon.kr/b_sys/index.asp?b_code=18&b_mode=view&b_sq=18578",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000136",
+      "card_id": "MM-MEDIA-003521",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.komacon.kr/b_sys/index.asp?b_code=18&b_mode=view&b_sq=18578",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000137",
+      "card_id": "MM-MEDIA-003522",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.komacon.kr/b_sys/index.asp?b_code=18&b_mode=view&b_sq=18578",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000138",
+      "card_id": "MM-MEDIA-003523",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://yearim.kr/goods/view?no=2780",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000139",
+      "card_id": "MM-MEDIA-003524",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://yearim.kr/goods/view?no=2145",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000140",
+      "card_id": "MM-MEDIA-003525",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.swtor.com/fallen-empire",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000141",
+      "card_id": "MM-MEDIA-003527",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://cf-vanguard.com/wordpress/wp-content/uploads/weekly_vg_20200414.pdf",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000142",
+      "card_id": "MM-MEDIA-003528",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.dc.com/graphic-novels/superman-and-batman-generations-1999/superman-and-batman-generations",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000143",
+      "card_id": "MM-MEDIA-003532",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.kadokawa.co.jp/product/201006000208/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000144",
+      "card_id": "MM-MEDIA-003533",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.sonypictures.com/movies/click",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000145",
+      "card_id": "MM-MEDIA-003537",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://thqnordic.com/news/red-faction-is-back-and-literally-still-breaking-ground-on-playstation-4",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000146",
+      "card_id": "MM-MEDIA-003539",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.ironmaiden.com/studio-album/powerslave/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000147",
+      "card_id": "MM-MEDIA-003540",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.ironmaiden.com/studio-album/somewhere-in-time/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000148",
+      "card_id": "MM-MEDIA-003542",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://ca.nexon.com/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000149",
+      "card_id": "MM-MEDIA-003543",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.nintendo.com/jp/character/mario/en/history/index.html",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000150",
+      "card_id": "MM-MEDIA-003544",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://mariokart8.nintendo.com/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000151",
+      "card_id": "MM-MEDIA-003545",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://blog.playstation.com/2010/08/08/the-drop-week-of-august-9-2010-new-releases/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000152",
+      "card_id": "MM-MEDIA-003548",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.hbo.com/series/a-z",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000153",
+      "card_id": "MM-MEDIA-003549",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.dynamite.com/htmlfiles/catalog/DynamiteDispatches-Jan4Mar26.pdf",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000154",
+      "card_id": "MM-MEDIA-003550",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://theonyxpath.com/category/worlds/classicworldofdarkness/magetheascension/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000155",
+      "card_id": "MM-MEDIA-003552",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/series/AU5/dresden-files/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000156",
+      "card_id": "MM-MEDIA-003553",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.funcom.com/about-us/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000157",
+      "card_id": "MM-MEDIA-003554",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguin.co.uk/series/NWATCH/night-watch",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000158",
+      "card_id": "MM-MEDIA-003555",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguin.co.uk/series/NWATCH/night-watch",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000159",
+      "card_id": "MM-MEDIA-003557",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://newsroom.smilegate.com/en/eng/GrandWinterEvent",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000160",
+      "card_id": "MM-MEDIA-003558",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://support.eveonline.com/hc/en-us/articles/5885219196828-System-Requirements",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000161",
+      "card_id": "MM-MEDIA-003560",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://us-tour.lesmis.com/about-the-show/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000162",
+      "card_id": "MM-MEDIA-003561",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.paramountplus.com/shows/i_love_lucy/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000163",
+      "card_id": "MM-MEDIA-003562",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.obsidian.net/games/pillars-of-eternity",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000164",
+      "card_id": "MM-MEDIA-003563",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.viz.com/deadman-wonderland",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000165",
+      "card_id": "MM-MEDIA-003564",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/books/330542/island-in-the-sea-of-time-by-s-m-stirling/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000166",
+      "card_id": "MM-MEDIA-003565",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.marvel.com/movies/thor",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000167",
+      "card_id": "MM-MEDIA-003566",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://afternoon.kodansha.co.jp/c/ahmegamisama.html",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000168",
+      "card_id": "MM-MEDIA-003570",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://akitashoten.co.jp/comics/4253221882",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000169",
+      "card_id": "MM-MEDIA-003572",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.lucasfilm.com/news/lucasfilm-games-rewind-loom/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000170",
+      "card_id": "MM-MEDIA-003573",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://captown.capcom.com/assets/super_elections/v1/result/pdf/%E3%82%AB%E3%83%95%E3%82%9A%E3%82%B3%E3%83%B3%E8%B6%85%E9%81%B8%E6%8C%99%E7%B5%90%E6%9E%9C_Q1_ja.pdf",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000171",
+      "card_id": "MM-MEDIA-003574",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://game.capcom.com/residentevil/ja/re-history.html",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000172",
+      "card_id": "MM-MEDIA-003575",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.universalpicturesathome.com/movies/army-of-darkness",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000173",
+      "card_id": "MM-MEDIA-003577",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://collection.nfb.ca/film/the-cat-came-back",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000174",
+      "card_id": "MM-MEDIA-003578",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.nintendo.co.jp/3ds/bfwj/index.html",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000175",
+      "card_id": "MM-MEDIA-003579",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://warnerbrosgames.com/game/mortal-kombat-xl",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000176",
+      "card_id": "MM-MEDIA-003580",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://support.spryfox.com/hc/en-us/articles/219104828-How-to-play-Triple-Town",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000177",
+      "card_id": "MM-MEDIA-003581",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://github.com/gabrielecirulli/2048",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000178",
+      "card_id": "MM-MEDIA-003582",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.sega.jp/game/detail/puyopuyochronicle/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000179",
+      "card_id": "MM-MEDIA-003585",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.pokemon.co.jp/game/ds/toroze/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000180",
+      "card_id": "MM-MEDIA-003587",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.arcade-museum.com/manuals-videogames/K/Klax-Atari.pdf",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000181",
+      "card_id": "MM-MEDIA-003588",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://obradinn.com/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000182",
+      "card_id": "MM-MEDIA-003589",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://touchandgorecords.com/products/rodan-rusty-30th-anniversary-lp",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000183",
+      "card_id": "MM-MEDIA-003590",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.barbie-themovie.com/synopsis/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000184",
+      "card_id": "MM-MEDIA-003591",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/books/291559/blackveil-by-kristen-britain/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000185",
+      "card_id": "MM-MEDIA-003592",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.sonypictures.com/movies/johncarpentersghostsofmars",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000186",
+      "card_id": "MM-MEDIA-003594",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/series/AL8/black-jewels/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000187",
+      "card_id": "MM-MEDIA-003595",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/books/6280/the-plains-of-passage-by-jean-m-auel/paperback/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000188",
+      "card_id": "MM-MEDIA-003810",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://astrapublishinghouse.com/tax-series/green-rider-ay1/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000189",
+      "card_id": "MM-MEDIA-003811",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/series/EAC/earths-children/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000190",
+      "card_id": "MM-MEDIA-003597",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://ski.ihoc.net/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000191",
+      "card_id": "MM-MEDIA-003598",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.obsidian.net/games/fallout-new-vegas",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000192",
+      "card_id": "MM-MEDIA-003599",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.biz/sales/specialty/pdfs/childrens/rh_bestsellers/IDW_TopJuvenileTitles.pdf",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000193",
+      "card_id": "MM-MEDIA-003600",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.sunrise-inc.co.jp/international/work/detail.php?cid=52",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000194",
+      "card_id": "MM-MEDIA-003601",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://madhouse.co.jp/works/tv_kazemakase/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000195",
+      "card_id": "MM-MEDIA-003604",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://catalog.afi.com/Film/57032-BREAKIN%27-2-ELECTRIC-BOOGALOO",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000196",
+      "card_id": "MM-MEDIA-003606",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.shonengahosha.co.jp/book_Info.php?id=7396",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000197",
+      "card_id": "MM-MEDIA-003607",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.starwars.com/news/inside-star-wars-adventures-idw-charming-new-comic",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000198",
+      "card_id": "MM-MEDIA-003608",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.museikino.ru/exposition/films/bronenosets-potemkin/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000199",
+      "card_id": "MM-MEDIA-003609",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.minecraft-movie.com/home/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000200",
+      "card_id": "MM-MEDIA-003610",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.paramountplus.com/shows/drake-josh/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000201",
+      "card_id": "MM-MEDIA-003612",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.dc.com/movies/batman-returns-1992",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000202",
+      "card_id": "MM-MEDIA-003613",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.nextmove-games.com/en/azul/azul-game/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000203",
+      "card_id": "MM-MEDIA-003614",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://instructions.hasbro.com/en-gb/instruction/monopoly-game",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000204",
+      "card_id": "MM-MEDIA-003615",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.universalpicturesathome.com/movies/abbott-and-costello-meet-frankenstein",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000205",
+      "card_id": "MM-MEDIA-003617",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.disneyplus.com/browse/entity-e00985cb-656a-4e5f-9df6-63eb5a46b271",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000206",
+      "card_id": "MM-MEDIA-003621",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.rockstargames.com/jp/games/gta2",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000207",
+      "card_id": "MM-MEDIA-003624",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://catalog.afi.com/Film/60087-SE7EN",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000208",
+      "card_id": "MM-MEDIA-003625",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://new.pokemonkorea.co.kr/animation/category/2",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000209",
+      "card_id": "MM-MEDIA-003628",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://jumpsq.shueisha.co.jp/rensai/moriarty/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000210",
+      "card_id": "MM-MEDIA-003629",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.hakusensha.co.jp/comicslist/45579/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000211",
+      "card_id": "MM-MEDIA-003630",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://kennyrogers.com/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000212",
+      "card_id": "MM-MEDIA-003631",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=9AxQCdBT7mY",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000213",
+      "card_id": "MM-MEDIA-003632",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.dc.com/comics/batgirl-2016/batgirl-2016-1",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000214",
+      "card_id": "MM-MEDIA-003633",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.kiwi-verlag.de/buch/heinrich-boell-die-verlorene-ehre-der-katharina-blum-9783462031454",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000215",
+      "card_id": "MM-MEDIA-003634",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://store.captown.capcom.com/en/products/68418-jp",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000216",
+      "card_id": "MM-MEDIA-003618",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.disneyplus.com/en-pa/browse/entity-4e9179c9-2084-443f-b545-c917ff2ca10e",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000217",
+      "card_id": "MM-MEDIA-003619",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.tv-asahi.co.jp/doraemon/movie_collection/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000218",
+      "card_id": "MM-MEDIA-003622",
+      "label_ko": "DC 공식 소개",
+      "icon_key": "website",
+      "url": "https://www.dc.com/blog/2017/02/23/powerless-who-the-heck-are-crimson-fox-and-jack-o-lantern",
+      "description_ko": "팀과 구성원 잭 오랜턴에 관한 DC 공식 설명",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000219",
+      "card_id": "MM-MEDIA-003637",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.pixar.com/monsters-university",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000220",
+      "card_id": "MM-MEDIA-003641",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://manga.bilibili.com/detail/mc30857",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000221",
+      "card_id": "MM-MEDIA-003642",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.20thcenturystudios.com/movies/alien-3",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000222",
+      "card_id": "MM-MEDIA-003644",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://catalog.afi.com/Film/2201-DOUBLE-INDEMNITY",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000223",
+      "card_id": "MM-MEDIA-003645",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://harlequin.com/products/all-rights-reserved",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000224",
+      "card_id": "MM-MEDIA-003646",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://catalog.afi.com/Film/57892-THE-ABYSS",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000225",
+      "card_id": "MM-MEDIA-003647",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.20thcenturystudios.com/movies/logan",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000226",
+      "card_id": "MM-MEDIA-003649",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.dc.com/movies/batman-and-mr-freeze-sub-zero-1998",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000227",
+      "card_id": "MM-MEDIA-003652",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://slayersclub.bethesda.net/en-ZA/news/id-software-35th-anniversary",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000228",
+      "card_id": "MM-MEDIA-003653",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.dc.com/comics/batman-and-robin-eternal-2015/batman-and-robin-eternal-1",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000229",
+      "card_id": "MM-MEDIA-003654",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.paramountpressexpress.com/cbs-entertainment/releases/?view=10810",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000230",
+      "card_id": "MM-MEDIA-003655",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.20thcenturystudios.com/movies/12-years-a-slave",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000231",
+      "card_id": "MM-MEDIA-003638",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.lezhin.com/ko/comic/line_of_soulmate",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000232",
+      "card_id": "MM-MEDIA-003636",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.disneyplus.com/ko-kr/browse/entity-8ca2ad29-d8e8-4d44-8652-11b4fa11df7f",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000233",
+      "card_id": "MM-MEDIA-003656",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.20thcenturystudios.com/movies/die-hard",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000234",
+      "card_id": "MM-MEDIA-003658",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.marvel.com/comics/issue/10561/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000235",
+      "card_id": "MM-MEDIA-003659",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.suhrkamp.de/buch/franz-kafka-das-schloss-t-9783518458259",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000236",
+      "card_id": "MM-MEDIA-003660",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.paramountplus.com/movies/video/dIV3Megz6HcabSKkdmmdXpNy4l7dOpwk/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000237",
+      "card_id": "MM-MEDIA-003661",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://blog.twitch.tv/en/2014/02/17/twitch-community-catches-the-twitch-plays-pokemon-fever-b5befe898666/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000238",
+      "card_id": "MM-MEDIA-003662",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.ladygaga.com/us-en/music/alejandro",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000239",
+      "card_id": "MM-MEDIA-003664",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.konami.com/games/eu/en/products/shsm/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000240",
+      "card_id": "MM-MEDIA-003665",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.sonypictures.com/movies/theamazingspiderman2",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000241",
+      "card_id": "MM-MEDIA-003666",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.fimfiction.net/story/266604/floral-embrace",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000242",
+      "card_id": "MM-MEDIA-003667",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.fanfiction.net/s/10979729/1/Between-The-Lines",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000243",
+      "card_id": "MM-MEDIA-003668",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.shueisha.co.jp/books/items/contents.html?jdcn=08879348879348315501",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000244",
+      "card_id": "MM-MEDIA-003673",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=UsCU-S5s_VI",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000245",
+      "card_id": "MM-MEDIA-003674",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.mondotv.it/download/ipo/prospetto-ipo-1999.pdf",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000246",
+      "card_id": "MM-MEDIA-003675",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.sunrise-inc.co.jp/work/detail.php?cid=403",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000247",
+      "card_id": "MM-UNSET-000139",
+      "label_ko": "맥도날드 공식 기업사",
+      "icon_key": "company",
+      "url": "https://corporate.mcdonalds.com/corpmcd/our-company/who-we-are/our-history.html",
+      "description_ko": "맥도날드 기업의 역사와 브랜드 소개",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000248",
+      "card_id": "MM-UNSET-000135",
+      "label_ko": "쿠키 크리스프 공식 브랜드",
+      "icon_key": "website",
+      "url": "https://www.generalmills.com/our-food/brands/cookie-crisp",
+      "description_ko": "제너럴 밀스의 쿠키 크리스프 브랜드 소개",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000249",
+      "card_id": "MM-UNSET-000931",
+      "label_ko": "세계보건기구 정신건강 개요",
+      "icon_key": "link",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response",
+      "description_ko": "정신건강의 정의와 영향을 주는 요인에 관한 세계보건기구 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000250",
+      "card_id": "MM-MEDIA-002500",
+      "label_ko": "기동전사 건담 공식 작품 목록",
+      "icon_key": "link",
+      "url": "https://en.gundam-official.com/series?view=list",
+      "description_ko": "건담 공식 사이트의 작품 정보",
+      "sort_order": 1,
+      "row_version": 2
+    },
+    {
+      "id": "REF-000251",
+      "card_id": "MM-MEDIA-002956",
+      "label_ko": "건담 공식 시리즈 안내",
+      "icon_key": "link",
+      "url": "https://en.gundam-official.com/what-is-gundam",
+      "description_ko": "건담 공식 사이트의 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000252",
+      "card_id": "MM-MEDIA-003439",
+      "label_ko": "스타워즈 레전드 공식 설명",
+      "icon_key": "link",
+      "url": "https://www.starwars.com/news/the-legendary-star-wars-expanded-universe-turns-a-new-page",
+      "description_ko": "확장 세계를 레전드로 구분한 Lucasfilm의 공식 발표",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000253",
+      "card_id": "MM-MEDIA-000664",
+      "label_ko": "Paramount+ 작품 안내",
+      "icon_key": "link",
+      "url": "https://www.paramountplus.com/sneak-peak/frisco-king-taylor-sheridan-samuel-l-jackson/",
+      "description_ko": "현재 표제와 이전 NOLA King 명칭, Tulsa King 연관관계에 관한 공식 안내",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000254",
+      "card_id": "MM-MEDIA-001802",
+      "label_ko": "아바타 공식 영화 목록",
+      "icon_key": "link",
+      "url": "https://www.avatar.com/movies",
+      "description_ko": "영화별 공식 목록과 후속편 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000255",
+      "card_id": "MM-MEDIA-002358",
+      "label_ko": "The Strong 박물관 소장품",
+      "icon_key": "link",
+      "url": "https://artsandculture.google.com/asset/game-tales-of-the-crystals-0100/WAEckY7s8a6Vzg",
+      "description_ko": "출시 연도, 제작사, 오디오 카세트 형식에 관한 박물관 기록",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000256",
+      "card_id": "MM-MEDIA-002359",
+      "label_ko": "Dystopia Rising Live 공식 안내",
+      "icon_key": "link",
+      "url": "https://www.dystopiarisinglive.com/",
+      "description_ko": "현장 역할놀이의 배경과 운영 형식에 관한 공식 안내",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000257",
+      "card_id": "MM-MEDIA-002360",
+      "label_ko": "Empire 공식 위키",
+      "icon_key": "link",
+      "url": "https://www.profounddecisions.co.uk/empire-wiki/Main_Page",
+      "description_ko": "운영사 공식 위키의 작품·행사·세계관 안내",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000258",
+      "card_id": "MM-MEDIA-003706",
+      "label_ko": "스튜디오 지브리 공식 작품 정보",
+      "icon_key": "link",
+      "url": "https://www.ghibli.jp/works/nausicaa/",
+      "description_ko": "개봉일, 감독, 당시 제작사에 관한 공식 기록",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000259",
+      "card_id": "MM-MEDIA-003516",
+      "label_ko": "작품 서지 정보",
+      "icon_key": "website",
+      "url": "https://www.larryniven.net/?q=universes-of-larry-niven",
+      "description_ko": "래리 니븐 작품 목록의 판본 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000260",
+      "card_id": "MM-MEDIA-003526",
+      "label_ko": "AFI 영화 기록",
+      "icon_key": "website",
+      "url": "https://catalog.afi.com/Catalog/moviedetails/61329",
+      "description_ko": "영화의 개별 판본과 제작 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000261",
+      "card_id": "MM-MEDIA-003534",
+      "label_ko": "DC 작품 정보",
+      "icon_key": "website",
+      "url": "https://www.dc.com/graphic-novels/showcase-presents-shazam-2006/showcase-presents-shazam-vol-1",
+      "description_ko": "1973년 시작한 만화 연재의 수록 범위를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000262",
+      "card_id": "MM-MEDIA-003538",
+      "label_ko": "DOOM 공식 사이트",
+      "icon_key": "website",
+      "url": "https://doom.bethesda.net/en",
+      "description_ko": "시리즈의 개별 게임과 공식 소개를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000263",
+      "card_id": "MM-MEDIA-003559",
+      "label_ko": "닌텐도 시리즈 안내",
+      "icon_key": "website",
+      "url": "https://www.nintendo.com/en-gb/Misc-/Super-Smash-Bros-936351.html",
+      "description_ko": "시리즈의 개별 게임과 플랫폼을 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000264",
+      "card_id": "MM-UNSET-000165",
+      "label_ko": "공식 규칙 안내",
+      "icon_key": "game",
+      "url": "https://theonyxpath.com/mage-the-ascension-20th-anniversary-edition-faq-part-1/",
+      "description_ko": "메이지 디 어센션의 우연적·명백한 마법과 패러독스에 관한 제작사 설명",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000265",
+      "card_id": "MM-UNSET-000180",
+      "label_ko": "WHO 게임이용장애 설명",
+      "icon_key": "article",
+      "url": "https://www.who.int/standards/classifications/frequently-asked-questions/gaming-disorder/",
+      "description_ko": "ICD-11의 게임이용장애 정의와 생활 기능 손상 조건",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000266",
+      "card_id": "ML-T00415",
+      "label_ko": "닌텐도 슈퍼 마리오브라더스",
+      "icon_key": "game",
+      "url": "https://www.nintendo.com/en-gb/Games/NES/Super-Mario-Bros-803853.html",
+      "description_ko": "달리기와 점프로 발판을 통과하는 게임 설명",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000267",
+      "card_id": "ML-T00488",
+      "label_ko": "닌텐도 메트로이드 탐색 설명",
+      "icon_key": "game",
+      "url": "https://metroid.nintendo.com/dread/news/metroid-dread-report-vol-3/",
+      "description_ko": "새 능력으로 기존 장소의 탐색 범위가 넓어지는 시리즈 설계 설명",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000268",
+      "card_id": "MEJE-KW-011331",
+      "label_ko": "BFI 지알로 해설",
+      "icon_key": "article",
+      "url": "https://www.bfi.org.uk/features/where-begin-giallo",
+      "description_ko": "이탈리아 지알로 영화의 범죄·추리·공포 경계를 설명",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000269",
+      "card_id": "MEJE-KW-015677",
+      "label_ko": "Epic 영웅 슈팅 정의",
+      "icon_key": "game",
+      "url": "https://dev.epicgames.com/documentation/fortnite/hero-shooter",
+      "description_ko": "고유 능력과 무기를 가진 인물 선택형 슈팅 게임의 정의",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000270",
+      "card_id": "MEJE-KW-022042",
+      "label_ko": "BFI 7인의 사무라이 작품",
+      "icon_key": "article",
+      "url": "https://www.bfi.org.uk/film/01391b07-5940-5d02-aa47-1158142f2b64/seven-samurai",
+      "description_ko": "일본 시대극의 실제 영화 사례와 시대적 배경",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000271",
+      "card_id": "MEJE-KW-022614",
+      "label_ko": "BFI 생활극 해설",
+      "icon_key": "article",
+      "url": "https://www.bfi.org.uk/features/where-begin-with-kitchen-sink-drama",
+      "description_ko": "영국 노동 계층의 일상을 그리는 생활극의 맥락",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000272",
+      "card_id": "MM-UNSET-000221",
+      "label_ko": "NIST 홀로그램 설명",
+      "icon_key": "article",
+      "url": "https://www.nist.gov/news-events/news/2016/10/move-over-lasers-scientists-can-now-create-holograms-neutrons-too",
+      "description_ko": "간섭 무늬와 광학 홀로그램의 작동 원리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000273",
+      "card_id": "MM-UNSET-000137",
+      "label_ko": "어나니머스 연구",
+      "icon_key": "article",
+      "url": "https://academic.oup.com/edited-volume/55360/chapter-abstract/444340297",
+      "description_ko": "느슨한 참여자 네트워크와 공통 상징의 관계",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000274",
+      "card_id": "MM-UNSET-000138",
+      "label_ko": "오큐파이 운동 웹 아카이브",
+      "icon_key": "website",
+      "url": "https://www.loc.gov/item/lcwaN0006224/",
+      "description_ko": "오큐파이 운동의 역사와 확산에 관한 기록",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000275",
+      "card_id": "MM-MEDIA-003543",
+      "label_ko": "슈퍼 마리오 카트 공식 소개",
+      "icon_key": "game",
+      "url": "https://www.nintendo.com/jp/titles/50010000040217.html",
+      "description_ko": "1992년 원작과 캐릭터·아이템·배틀 소개",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000276",
+      "card_id": "MM-MEDIA-003544",
+      "label_ko": "마리오 카트 8 디럭스 공식 소개",
+      "icon_key": "game",
+      "url": "https://www.nintendo.com/us/store/products/mario-kart-8-deluxe-105275/",
+      "description_ko": "닌텐도 스위치판의 출시 정보와 배틀 방식",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000277",
+      "card_id": "MM-MEDIA-003545",
+      "label_ko": "크래시 팀 레이싱 어드벤처 모드",
+      "icon_key": "article",
+      "url": "https://blog.playstation.com/2019/05/23/your-first-deep-look-at-crash-team-racing-nitro-fueleds-adventure-mode/",
+      "description_ko": "1999년 원작의 어드벤처 모드와 2019년 리마스터 구별",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000278",
+      "card_id": "MM-MEDIA-001294",
+      "label_ko": "닌텐도 공식 게임 소개",
+      "icon_key": "game",
+      "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html",
+      "description_ko": "하이랄의 하늘·지상·지저와 링크의 능력 안내",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000279",
+      "card_id": "MM-MEDIA-001684",
+      "label_ko": "닌텐도 공식 게임 소개",
+      "icon_key": "game",
+      "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/The-Legend-of-Zelda-Echoes-of-Wisdom-2590490.html",
+      "description_ko": "젤다의 탐험과 투영 능력 안내",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000280",
+      "card_id": "MM-MEDIA-001857",
+      "label_ko": "닌텐도 공식 게임 소개",
+      "icon_key": "game",
+      "url": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Super-Mario-Odyssey-1173332.html",
+      "description_ko": "왕국·파워문·캐피의 캡처 기능 안내",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000281",
+      "card_id": "MM-UNSET-000339",
+      "label_ko": "오리건주립대 문학 용어 안내",
+      "icon_key": "article",
+      "url": "https://liberalarts.oregonstate.edu/wlf/what-unreliable-narrator",
+      "description_ko": "신뢰할 수 없는 화자의 정보 전달과 독자의 판단",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000282",
+      "card_id": "ML-T02517",
+      "label_ko": "D&D 기본 규칙: 공동 역할극",
+      "icon_key": "link",
+      "url": "https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game",
+      "description_ko": "공동 서사와 참가자 역할을 설명하는 공식 기본 규칙",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000283",
+      "card_id": "MM-MEDIA-002351",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.jp.square-enix.com/kingdom/timeline/bbs.html",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000284",
+      "card_id": "MM-MEDIA-002482",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.dreamworks.com/movies/madagascar-europes-most-wanted",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000285",
+      "card_id": "MM-MEDIA-001485",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.nintendo.com/au/news-and-articles/relive-the-story-of-the-legend-of-zelda-breath-of-the-wild/",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000286",
+      "card_id": "MM-MEDIA-001508",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.nintendo.com/jp/titles/20010000022747.html",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000287",
+      "card_id": "MM-MEDIA-001971",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://movies.disney.com/the-emperors-new-groove",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000288",
+      "card_id": "MM-MEDIA-002388",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.pokemon.com/uk/pokemon-news/pokemon-the-series-xy-is-coming-soon-to-pokemon-tv",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000289",
+      "card_id": "MM-MEDIA-002269",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.dc.com/characters/batman",
+      "description_ko": "권리자 공식 작품 소개와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000290",
+      "card_id": "MM-MEDIA-000001",
+      "label_ko": "AFI 영화 카탈로그",
+      "icon_key": "video",
+      "url": "https://catalog.afi.com/Catalog/moviedetails/61230",
+      "description_ko": "1999년 영화의 제작 정보와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000291",
+      "card_id": "MM-MEDIA-001507",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://irrationalgames.ghoststorygames.com/studio/projects/bioshock/",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000292",
+      "card_id": "MM-MEDIA-001783",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.bandainamcoent.com/games/dark-souls-remastered",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000293",
+      "card_id": "MM-MEDIA-002028",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://zelda.nintendo.com/about/",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000294",
+      "card_id": "MM-MEDIA-001688",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.universalpicturesathome.com/movies/jaws",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000295",
+      "card_id": "MM-MEDIA-002189",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://d23.com/a-to-z/avengers-marvels-the-film/",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000296",
+      "card_id": "MM-MEDIA-002342",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.harrypotter.com/discover/films",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000297",
+      "card_id": "MM-MEDIA-003816",
+      "label_ko": "소니 픽처스 작품 소개",
+      "icon_key": "link",
+      "url": "https://www.sonypictures.com/movies/alpha",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000298",
+      "card_id": "MM-MEDIA-003817",
+      "label_ko": "SF 백과사전 작품 항목",
+      "icon_key": "link",
+      "url": "https://sf-encyclopedia.com/entry/transarctica",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000299",
+      "card_id": "MM-MEDIA-003818",
+      "label_ko": "EA 공식 게임 소개",
+      "icon_key": "link",
+      "url": "https://www.ea.com/games/dragon-age/dragon-age-origins",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000300",
+      "card_id": "MM-MEDIA-003819",
+      "label_ko": "둘리뮤지엄",
+      "icon_key": "link",
+      "url": "https://www.doolymuseum.or.kr/",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000301",
+      "card_id": "MM-MEDIA-003820",
+      "label_ko": "한국민족문화대백과사전 심청전",
+      "icon_key": "link",
+      "url": "https://encykorea.aks.ac.kr/Article/E0033945",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000302",
+      "card_id": "MM-MEDIA-003546",
+      "label_ko": "플레이스테이션 공식 연혁",
+      "icon_key": "game",
+      "url": "https://www.playstation.com/en-us/playstation-history/1994-ps-one/",
+      "description_ko": "1996년 첫 게임과 조작 소개",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000303",
+      "card_id": "MM-MEDIA-003583",
+      "label_ko": "세가 공식 매뉴얼",
+      "icon_key": "game",
+      "url": "https://manuals.sega.com/genesismini/manuals/columns/index.html",
+      "description_ko": "컬럼스의 보석 퍼즐 게임 안내",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000304",
+      "card_id": "MM-MEDIA-003584",
+      "label_ko": "세가 공식 시리즈 안내",
+      "icon_key": "game",
+      "url": "https://puyo.sega.jp/portal/series/Puyopuyo.html",
+      "description_ko": "첫 뿌요뿌요와 아케이드판 설명",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000305",
+      "card_id": "MM-MEDIA-003586",
+      "label_ko": "타이토 공식 작품 안내",
+      "icon_key": "game",
+      "url": "https://www.taito.co.jp/bub",
+      "description_ko": "퍼즐 버블의 기원과 기본 규칙",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000306",
+      "card_id": "MM-MEDIA-001388",
+      "label_ko": "스퀘어 에닉스 공식 작품 자료",
+      "icon_key": "game",
+      "url": "https://www.jp.square-enix.com/company/en/news/2005/download/0302-200502010000-01.pdf",
+      "description_ko": "2002년 첫 게임과 원제 확인",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000307",
+      "card_id": "MM-MEDIA-003821",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.konami.com/crossmedia/us/en/products/yugioh/",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000308",
+      "card_id": "MM-MEDIA-003557",
+      "label_ko": "로스트아크 공식 게임 소개",
+      "icon_key": "game",
+      "url": "https://www.playlostark.com/en-us/game/about",
+      "description_ko": "세계와 직업 및 활동 소개",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000309",
+      "card_id": "MM-MEDIA-003557",
+      "label_ko": "로스트아크 공식 스토리",
+      "icon_key": "book",
+      "url": "https://www.playlostark.com/en-gb/game/story",
+      "description_ko": "아르케시아와 아크의 역사",
+      "sort_order": 3,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000310",
+      "card_id": "MM-MEDIA-003558",
+      "label_ko": "이브 온라인 공식 게임 소개",
+      "icon_key": "game",
+      "url": "https://www.eveonline.com/p/mmorpg",
+      "description_ko": "탐사와 전투 및 사용자 경제 소개",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000311",
+      "card_id": "MM-MEDIA-003558",
+      "label_ko": "ISK와 PLEX 공식 안내",
+      "icon_key": "article",
+      "url": "https://support.eveonline.com/hc/en-us/articles/14141550499612-ISK-and-PLEX",
+      "description_ko": "게임 화폐의 역할과 사용",
+      "sort_order": 3,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000312",
+      "card_id": "MM-MEDIA-003707",
+      "label_ko": "애거사 크리스티 공식 작품 소개",
+      "icon_key": "book",
+      "url": "https://www.agathachristie.com/stories/murder-on-the-orient-express",
+      "description_ko": "1934년 소설의 표제와 줄거리",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000313",
+      "card_id": "MM-MEDIA-003715",
+      "label_ko": "애니플렉스 공식 작품 소개",
+      "icon_key": "video",
+      "url": "https://www.aniplex.co.jp/lineup/painoko",
+      "description_ko": "2024년 TV 애니메이션의 표제와 인물 설정",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000314",
+      "card_id": "MM-MEDIA-003717",
+      "label_ko": "블리자드 공식 성역 설정",
+      "icon_key": "game",
+      "url": "https://news.blizzard.com/en-us/article/23725427/diablo-ii-the-story-so-far",
+      "description_ko": "네팔렘과 세계석의 관계를 설명하는 공식 설정 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000315",
+      "card_id": "MM-MEDIA-003721",
+      "label_ko": "소니픽처스 고스트버스터즈 연작 소개",
+      "icon_key": "video",
+      "url": "https://www.sonypictures.com/corp/press_releases/2019/0607/sonypictureslaunchesghostbusterstm35thanniversarycelebration",
+      "description_ko": "1984년 영화에서 확장된 작품군 소개",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000316",
+      "card_id": "MM-MEDIA-003751",
+      "label_ko": "캡콤 바이오하자드 공식 연혁",
+      "icon_key": "game",
+      "url": "https://game.capcom.com/residentevil/ja/re-history.html",
+      "description_ko": "2005년 원작 게임의 일본어 표제와 출시 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000317",
+      "card_id": "MM-MEDIA-003529",
+      "label_ko": "세가 공식 소프트웨어 목록",
+      "icon_key": "game",
+      "url": "https://www.sega.jp/history/hard/mastersystem/software.html",
+      "description_ko": "원제와 1988년 발매 정보를 확인할 수 있는 세가의 마스터 시스템 목록",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000318",
+      "card_id": "MM-MEDIA-003547",
+      "label_ko": "아르고노트 게임스 작품 소개",
+      "icon_key": "game",
+      "url": "https://www.argonautgames.com/croc-remaster",
+      "description_ko": "원작 게임과 리마스터를 구분해 소개하는 개발사 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000319",
+      "card_id": "MM-MEDIA-003730",
+      "label_ko": "TV 도쿄 공식 에피소드 목록",
+      "icon_key": "video",
+      "url": "https://www.tv-tokyo.co.jp/anime/ddhokuto/sp/episodes/index.html",
+      "description_ko": "2013년 TV 애니메이션의 편의점 채용 경쟁 장면을 확인할 수 있는 방송사 페이지",
+      "sort_order": 1,
+      "row_version": 2
+    },
+    {
+      "id": "REF-000320",
+      "card_id": "MM-MEDIA-003760",
+      "label_ko": "파라마운트 치어스 시리즈",
+      "icon_key": "video",
+      "url": "https://www.paramountplus.com/shows/cheers/",
+      "description_ko": "TV 시리즈의 배경과 시즌을 확인할 수 있는 공식 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000321",
+      "card_id": "MM-MEDIA-003762",
+      "label_ko": "파라마운트 에피소드 소개",
+      "icon_key": "video",
+      "url": "https://www.paramountplus.com/shows/video/1179116205/",
+      "description_ko": "스타트렉 오리지널 시리즈의 해당 에피소드와 랜드루 설정을 소개",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000322",
+      "card_id": "MM-MEDIA-003763",
+      "label_ko": "슬린트 공식 곡 페이지",
+      "icon_key": "music",
+      "url": "https://slint.bandcamp.com/track/washer",
+      "description_ko": "슬린트의 음반 Spiderland에 실린 Washer의 곡 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000323",
+      "card_id": "MM-MEDIA-003764",
+      "label_ko": "슬린트 공식 곡 페이지",
+      "icon_key": "music",
+      "url": "https://slint.bandcamp.com/track/good-morning-captain",
+      "description_ko": "슬린트의 음반 Spiderland에 실린 Good Morning Captain의 곡 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000324",
+      "card_id": "MM-MEDIA-003813",
+      "label_ko": "워너브라더스 게임즈 소개",
+      "icon_key": "game",
+      "url": "https://warnerbrosgames.com/game/mortal-kombat-xl",
+      "description_ko": "XL 판본에 포함된 본편과 추가 콘텐츠를 설명하는 공식 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000325",
+      "card_id": "MM-MEDIA-001952",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.dc.com/blog/2020/05/22/in-brightest-day-twelve-iconic-moments-in-the-green-lantern-saga",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000326",
+      "card_id": "MM-MEDIA-003170",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.syfy.com/syfy-wire/11-essential-battlestar-galactica-episodes",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000327",
+      "card_id": "MM-MEDIA-003438",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.syfy.com/syfy-wire/11-essential-battlestar-galactica-episodes",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000328",
+      "card_id": "MM-MEDIA-002624",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.dc.com/blog/2020/05/22/in-brightest-day-twelve-iconic-moments-in-the-green-lantern-saga",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000329",
+      "card_id": "MM-UNSET-000011",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.gutenberg.org/ebooks/928",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000330",
+      "card_id": "MM-MEDIA-000005",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://andjulietbroadway.com/guides-faqs/",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000331",
+      "card_id": "MM-MEDIA-003823",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://www.gutenberg.org/ebooks/12",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000332",
+      "card_id": "MM-UNSET-000938",
+      "label_ko": "스퀘어 에닉스 공식 소개",
+      "icon_key": "link",
+      "url": "https://na.store.square-enix-games.com/kingdom-hearts-iii",
+      "description_ko": "권리자의 공식 정보 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000333",
+      "card_id": "MM-UNSET-000941",
+      "label_ko": "포켓몬 공식 도감",
+      "icon_key": "link",
+      "url": "https://www.pokemon.com/pokedex/",
+      "description_ko": "권리자의 공식 정보 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000334",
+      "card_id": "MM-UNSET-000943",
+      "label_ko": "포켓몬 공식 배틀 안내",
+      "icon_key": "link",
+      "url": "https://diamondpearl.pokemon.com/en-us/trainersguide/fundamentals/battling/",
+      "description_ko": "권리자의 공식 정보 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000335",
+      "card_id": "MM-UNSET-000944",
+      "label_ko": "DC 공식 배트맨 소개",
+      "icon_key": "link",
+      "url": "https://www.dc.com/characters/batman",
+      "description_ko": "권리자의 공식 정보 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000336",
+      "card_id": "MM-UNSET-000924",
+      "label_ko": "DC 공식 잭 오랜턴 소개",
+      "icon_key": "link",
+      "url": "https://www.dc.com/blog/2017/02/23/powerless-who-the-heck-are-crimson-fox-and-jack-o-lantern",
+      "description_ko": "권리자의 공식 정보 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000337",
+      "card_id": "MM-MEDIA-003639",
+      "label_ko": "작가의 원문",
+      "icon_key": "link",
+      "url": "https://archiveofourown.org/works/43884237/chapters/110339538",
+      "description_ko": "권리자의 공식 정보 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000338",
+      "card_id": "MM-MEDIA-003726",
+      "label_ko": "제작자의 첫 영상",
+      "icon_key": "link",
+      "url": "https://www.youtube.com/watch?v=yUDfoZGhLjE",
+      "description_ko": "권리자의 공식 정보 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000339",
+      "card_id": "MM-MEDIA-003747",
+      "label_ko": "작가의 원문",
+      "icon_key": "link",
+      "url": "https://www.fanfiction.net/s/2903858/1/Those-Lacking-Spines",
+      "description_ko": "권리자의 공식 정보 페이지",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000340",
+      "card_id": "MEJE-KW-004924",
+      "label_ko": "기사도 로망스의 문학적 범위",
+      "icon_key": "book",
+      "url": "https://www.cambridge.org/core/books/abs/byron-in-context/romance/8CDB4A608A00121DBD931996326FA8A5",
+      "description_ko": "Cambridge University Press의 중세 로망스 설명",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000341",
+      "card_id": "MEJE-KW-017993",
+      "label_ko": "리얼 로봇 장르 연구",
+      "icon_key": "article",
+      "url": "https://nagoya.repo.nii.ac.jp/record/2002449/files/k13904_thesis.pdf",
+      "description_ko": "나고야대학교 학위논문의 슈퍼 로봇·리얼 로봇 구분",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000342",
+      "card_id": "MEJE-KW-018000",
+      "label_ko": "연속극 명칭과 역사",
+      "icon_key": "article",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405165518.wbeosp208",
+      "description_ko": "Wiley 백과사전의 soap opera 기원과 형식 설명",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000343",
+      "card_id": "MEJE-KW-014541",
+      "label_ko": "국제천문연맹 천문단위 결의",
+      "icon_key": "article",
+      "url": "https://www.iau.org/static/resolutions/IAU2012_English.pdf",
+      "description_ko": "천문 거리 단위의 정의를 확인하는 공식 결의문",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000344",
+      "card_id": "MEJE-KW-014542",
+      "label_ko": "국제천문연맹 파섹 정의",
+      "icon_key": "article",
+      "url": "https://www.iau.org/static/resolutions/IAU2015_English.pdf",
+      "description_ko": "천문 거리 단위의 정의를 확인하는 공식 결의문",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000345",
+      "card_id": "MM-MEDIA-000627",
+      "label_ko": "마블 코믹스 1980년 1호",
+      "icon_key": "article",
+      "url": "https://www.marvel.com/comics/issue/51006/moon_knight_1980_1",
+      "description_ko": "마블 공식 만화 발행 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000346",
+      "card_id": "MM-MEDIA-003746",
+      "label_ko": "마블 코믹스 2010년 연재",
+      "icon_key": "article",
+      "url": "https://www.marvel.com/comics/series/9706/black_widow_%282010_-_2011%29",
+      "description_ko": "마블 공식 만화 연재 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000347",
+      "card_id": "ML-T02547",
+      "label_ko": "멤피스대 남부 고딕 강의",
+      "icon_key": "article",
+      "url": "https://www.memphis.edu/english/pdfs/course-descriptions-pdfs/spring_2023/4323-scraba-sp23.pdf",
+      "description_ko": "고딕 문학의 지역적 변형과 사회적 주제",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000348",
+      "card_id": "MEJE-KW-012472",
+      "label_ko": "멤피스대 서던 고딕 강의",
+      "icon_key": "article",
+      "url": "https://www.memphis.edu/english/pdfs/course-descriptions-pdfs/spring_2023/4323-scraba-sp23.pdf",
+      "description_ko": "미국 남부의 역사와 고딕 서사",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000349",
+      "card_id": "MEJE-KW-012473",
+      "label_ko": "온타리오 고딕 연구 논문",
+      "icon_key": "article",
+      "url": "https://ojs.unica.it/index.php/between/article/view/6256",
+      "description_ko": "앨리스 먼로 작품의 온타리오 고딕 분석",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000350",
+      "card_id": "MM-MEDIA-003745",
+      "label_ko": "마블 공식 시리즈",
+      "icon_key": "article",
+      "url": "https://www.marvel.com/comics/series/753/new_avengers_%282004_-_2010%29",
+      "description_ko": "2004~2010년 뉴 어벤져스 연재 코믹북 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000351",
+      "card_id": "ML-T02548",
+      "label_ko": "상태 감정과 성향 연구",
+      "icon_key": "article",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11906532/",
+      "description_ko": "상황에서 경험하는 감정 상태와 지속적 성향의 구분",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000352",
+      "card_id": "ML-T02548",
+      "label_ko": "사건 평가와 감정 연구",
+      "icon_key": "article",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2844958/",
+      "description_ko": "사건의 의미 평가와 정서 발생의 관계",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000353",
+      "card_id": "MM-MEDIA-003749",
+      "label_ko": "호주 국립영상음향아카이브",
+      "icon_key": "article",
+      "url": "https://aso.gov.au/titles/tv/fast-forward-series-4-ep-3/notes/",
+      "description_ko": "Fast Forward 방영과 스케치 형식 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000354",
+      "card_id": "MM-MEDIA-003709",
+      "label_ko": "참가자 웹코믹",
+      "icon_key": "article",
+      "url": "https://www.webtoons.com/en/canvas/law-of-talos-eagles-reach-issue00/law-of-talos-side-a-thomberry-gange/viewer?episode_no=2&serviceZone=GLOBAL&title_no=903031",
+      "description_ko": "참가자 Rikyo가 공개한 대회 참가 웹코믹과 설명",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000355",
+      "card_id": "MM-MEDIA-003709",
+      "label_ko": "참가자 애니메이션",
+      "icon_key": "article",
+      "url": "https://www.newgrounds.com/portal/rip/496017",
+      "description_ko": "참가자 Unknown-Person의 2009년 대회 출품 설명",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000356",
+      "card_id": "MM-MEDIA-003640",
+      "label_ko": "작품 연작 페이지",
+      "icon_key": "article",
+      "url": "https://archiveofourown.org/series/907233",
+      "description_ko": "보관된 작품 소개에 연결된 Saevam의 팬픽 연작",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000357",
+      "card_id": "MM-UNSET-000969",
+      "label_ko": "문학 장치 설명",
+      "icon_key": "article",
+      "url": "https://www.uvu.edu/writingcenter/handouts/literary-devices.html",
+      "description_ko": "극적 아이러니의 정의와 독자와 인물의 정보 차이를 설명한 대학 글쓰기 센터 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000358",
+      "card_id": "MM-UNSET-000211",
+      "label_ko": "스탠퍼드 철학백과: 거짓말쟁이 역설",
+      "icon_key": "link",
+      "url": "https://plato.stanford.edu/entries/liar-paradox/",
+      "description_ko": "자기 지시와 참·거짓 판정 문제를 설명하는 학술 참고 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000359",
+      "card_id": "MM-UNSET-000980",
+      "label_ko": "세계체조연맹 파쿠르 소개",
+      "icon_key": "link",
+      "url": "https://www.gymnastics.sport/site/pages/disciplines/pk-presentation.php",
+      "description_ko": "이동 효율과 흐름을 설명하는 종목 소개",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000360",
+      "card_id": "MM-UNSET-000985",
+      "label_ko": "잭 커비 박물관",
+      "icon_key": "link",
+      "url": "https://kirbymuseum.org/biography/",
+      "description_ko": "잭 커비의 생애와 만화 작업 소개",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000361",
+      "card_id": "MM-MEDIA-003826",
+      "label_ko": "어스웜 짐 2 공식 판매 페이지",
+      "icon_key": "link",
+      "url": "https://store.steampowered.com/app/38490/Earthworm_Jim_2/",
+      "description_ko": "원어 제목, 개발사와 게임 소개",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000362",
+      "card_id": "MM-MEDIA-003827",
+      "label_ko": "미국영화연구소 작품 목록",
+      "icon_key": "link",
+      "url": "https://catalog.afi.com/Catalog/moviedetails/67059",
+      "description_ko": "제작연도와 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000363",
+      "card_id": "MM-MEDIA-003828",
+      "label_ko": "작품 소개",
+      "icon_key": "link",
+      "url": "https://tv.apple.com/us/movie/a-cinderella-story/umc.cmc.4rfi12zf0s8v7biepbw8zl2nf",
+      "description_ko": "작품 제목과 배급 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000364",
+      "card_id": "MM-MEDIA-003829",
+      "label_ko": "슈에이샤 작품 소개",
+      "icon_key": "link",
+      "url": "https://jumpsq-sp.shueisha.co.jp/rensai/kekkaisensen/",
+      "description_ko": "작품 세계와 원작자 소개",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000365",
+      "card_id": "MM-MEDIA-003830",
+      "label_ko": "가도카와 원작 목록",
+      "icon_key": "link",
+      "url": "https://store.kadokawa.co.jp/shop/series/series00141301?sort=sp-d",
+      "description_ko": "원어 제목과 원작자 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000366",
+      "card_id": "MM-MEDIA-003831",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.viz.com/shonenjump/chapters/black-clover",
+      "description_ko": "블랙 클로버의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000367",
+      "card_id": "MM-MEDIA-003832",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.aniplex.co.jp/lineup/charlotte/",
+      "description_ko": "샬롯의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000368",
+      "card_id": "MM-MEDIA-003833",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://movies.disney.com/cinderella-3-a-twist-in-time",
+      "description_ko": "신데렐라 3의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000369",
+      "card_id": "MM-MEDIA-003834",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.paramount.com/movies/transformers",
+      "description_ko": "트랜스포머(2007년 영화)의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000370",
+      "card_id": "MM-MEDIA-003835",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/books/5630/the-caves-of-steel-by-isaac-asimov/",
+      "description_ko": "강철 도시의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000371",
+      "card_id": "MM-MEDIA-003836",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.bbfc.co.uk/release/hellraiser-q29sbgvjdglvbjpwwc0yodczndq",
+      "description_ko": "헬레이저의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000372",
+      "card_id": "MM-MEDIA-003837",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.miramax.com/movie/bad-santa/",
+      "description_ko": "배드 산타의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000373",
+      "card_id": "MM-MEDIA-003838",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.miramax.com/movie/pulp-fiction/",
+      "description_ko": "펄프 픽션의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000374",
+      "card_id": "MM-MEDIA-003839",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/books/103810/waking-up-screaming-by-h-p-lovecraft/9780345458292/",
+      "description_ko": "찰스 덱스터 워드의 사례의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000375",
+      "card_id": "MM-MEDIA-003840",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.poetryfoundation.org/poems/42891/stopping-by-woods-on-a-snowy-evening",
+      "description_ko": "Stopping by Woods on a Snowy Evening의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000376",
+      "card_id": "MM-MEDIA-003841",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://arc.akitashoten.co.jp/comics/sugushinu/1",
+      "description_ko": "흡혈귀는 툭하면 죽는다의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000377",
+      "card_id": "MM-MEDIA-003842",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.haveanicedeath.com/en/",
+      "description_ko": "Have a Nice Death의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000378",
+      "card_id": "MM-MEDIA-003843",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://angelsegg-anime.com/",
+      "description_ko": "천사의 알의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000379",
+      "card_id": "MM-MEDIA-003844",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.ponos.jp/games/thebattlecats/",
+      "description_ko": "냥코 대전쟁의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000380",
+      "card_id": "MM-MEDIA-003845",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://shogakukan-comic.jp/book-series?cd=12404",
+      "description_ko": "20세기 소년의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000381",
+      "card_id": "MM-MEDIA-003846",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://blackrockshooter.jp/history/",
+      "description_ko": "블랙 록 슈터의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000382",
+      "card_id": "MM-MEDIA-003847",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.marvel.com/comics/issue/1826/x",
+      "description_ko": "Exiles의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000383",
+      "card_id": "MM-MEDIA-003848",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.hbo.com/series/a-z",
+      "description_ko": "Rome의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000384",
+      "card_id": "MM-MEDIA-003849",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://kingfeatures.com/2003/05/alzheimer%E2%80%99s-returns-to-the-comics-pages/",
+      "description_ko": "Crankshaft의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000385",
+      "card_id": "MM-MEDIA-003850",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://shop.beck.com/products/odelay-lp",
+      "description_ko": "Odelay의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000386",
+      "card_id": "MM-MEDIA-003851",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://yenpress.com/titles/9780759531222-bunny-drop-vol-1",
+      "description_ko": "토끼 드롭스의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000387",
+      "card_id": "MM-MEDIA-003852",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://media.netflix.com/en/only-on-netflix/80218455",
+      "description_ko": "기예르모 델토로의 피노키오의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000388",
+      "card_id": "MM-MEDIA-003853",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.lassociation.fr/en/catalogue/persepolis-2/",
+      "description_ko": "페르세폴리스의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000389",
+      "card_id": "MM-MEDIA-003854",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/Castlevania-Lords-of-Shadow-Mirror-of-Fate-703705.html",
+      "description_ko": "캐슬바니아 로드 오브 섀도우 미러 오브 페이트의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000390",
+      "card_id": "MM-MEDIA-003855",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://sevenseasentertainment.com/series/citrus/",
+      "description_ko": "citrus의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000391",
+      "card_id": "MM-MEDIA-003856",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://kodansha.us/book/akira/",
+      "description_ko": "아키라의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000392",
+      "card_id": "MM-MEDIA-003857",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.hakusensha.co.jp/comicslist/42923/",
+      "description_ko": "아소비 아소바세의 공식 작품 정보",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000393",
+      "card_id": "MM-MEDIA-003878",
+      "label_ko": "저자 기념관 작품 연표",
+      "icon_key": "website",
+      "url": "https://stevensonmuseum.org/robert-louis-stevenson/the-works/publications-timeline/",
+      "description_ko": "원제와 연재·단행본 출판 시기",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000394",
+      "card_id": "MM-MEDIA-003937",
+      "label_ko": "한국만화박물관 전시",
+      "icon_key": "website",
+      "url": "https://www.komacon.kr/comicsmuseum_m/show/per_comic.asp",
+      "description_ko": "잡지 창간 연도와 수록 캐릭터",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000395",
+      "card_id": "MM-MEDIA-003938",
+      "label_ko": "미국 의회도서관: 찬송의 가사·출판 이력",
+      "icon_key": "website",
+      "url": "https://www.loc.gov/item/prn-07-097/history-of-amazing-grace-now-online/2007-05-02/",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000396",
+      "card_id": "MM-MEDIA-003938",
+      "label_ko": "Cowper & Newton Museum: 뉴턴의 가사와 찬송가집",
+      "icon_key": "website",
+      "url": "https://cowperandnewtonmuseum.org.uk/amazing-grace-/",
+      "description_ko": "",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000397",
+      "card_id": "MM-MEDIA-003939",
+      "label_ko": "Sony Pictures: 원작 TV 시리즈 공식 소개",
+      "icon_key": "website",
+      "url": "https://www.sonypictures.com/tv/charliesangels",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000398",
+      "card_id": "MM-MEDIA-003940",
+      "label_ko": "Paramount: 1972년 영화 공식 소개·원작·제작진",
+      "icon_key": "website",
+      "url": "https://www.paramount.com/movies/the-godfather",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000399",
+      "card_id": "MM-MEDIA-003941",
+      "label_ko": "Lynyrd Skynyrd 공식 연혁: 1974년 음반과 수록곡",
+      "icon_key": "website",
+      "url": "https://lynyrdskynyrd.com/history",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000400",
+      "card_id": "MM-MEDIA-003941",
+      "label_ko": "Lynyrd Skynyrd 공식 아티스트 채널: 가사와 닐 영 언급",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=FQL-tJfge60",
+      "description_ko": "",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000401",
+      "card_id": "MM-MEDIA-003941",
+      "label_ko": "Universal Music 계열 uDiscover: 응답곡 관계 해설",
+      "icon_key": "website",
+      "url": "https://www.udiscovermusic.com/stories/lynyrd-skynyrd-sweet-home-alabama-song/",
+      "description_ko": "",
+      "sort_order": 3,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000402",
+      "card_id": "MM-MEDIA-003942",
+      "label_ko": "Neil Young·Warner 공식 판매처: 원작 음반 발매와 수록곡",
+      "icon_key": "website",
+      "url": "https://neilyoung.warnerrecords.com/products/after-the-gold-rush-50th-anniversary-edition-vinyl-box-with-7-and-12x12-lithograph",
+      "description_ko": "",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000403",
+      "card_id": "MM-MEDIA-003942",
+      "label_ko": "Neil Young 공식 채널·Reprise 제공 음원: 곡·앨범·작가 크레디트",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=m5FCcDEA6mY",
+      "description_ko": "",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000404",
+      "card_id": "MM-MEDIA-003942",
+      "label_ko": "Universal Music 계열 uDiscover: 응답곡 관계 해설",
+      "icon_key": "website",
+      "url": "https://www.udiscovermusic.com/stories/lynyrd-skynyrd-sweet-home-alabama-song/",
+      "description_ko": "",
+      "sort_order": 3,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000405",
+      "card_id": "MM-MEDIA-003943",
+      "label_ko": "AFI 작품 정보",
+      "icon_key": "website",
+      "url": "https://catalog.afi.com/Film/59185-BASIC-INSTINCT",
+      "description_ko": "미국영화연구소의 작품 기록",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000406",
+      "card_id": "MM-MEDIA-001558",
+      "label_ko": "AFI 작품 정보",
+      "icon_key": "website",
+      "url": "https://catalog.afi.com/Film/62431-INSOMNIA",
+      "description_ko": "미국영화연구소의 2002년 작품 기록",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000407",
+      "card_id": "MM-MEDIA-003944",
+      "label_ko": "AFI 작품 정보",
+      "icon_key": "website",
+      "url": "https://catalog.afi.com/Catalog/MovieDetails/50652",
+      "description_ko": "미국영화연구소의 1952년 영화 기록",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000408",
+      "card_id": "MM-MEDIA-003945",
+      "label_ko": "Nintendo 공식 작품 소개",
+      "icon_key": "website",
+      "url": "https://www.nintendo.com/en-gb/Games/NES/Super-Mario-Bros-The-Lost-Levels-696744.html",
+      "description_ko": "일본판 원작 게임; 해외명 The Lost Levels",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000409",
+      "card_id": "MM-MEDIA-003946",
+      "label_ko": "R.E.M. 공식 음반 소개",
+      "icon_key": "website",
+      "url": "https://remhq.com/music/chronic-town/",
+      "description_ko": "R.E.M.의 EP 작품",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000410",
+      "card_id": "MM-MEDIA-003947",
+      "label_ko": "R.E.M. 공식 Murmur 수록곡 목록",
+      "icon_key": "website",
+      "url": "https://remhq.com/music/murmur/",
+      "description_ko": "R.E.M.의 노래; Murmur 첫 번째 트랙",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000411",
+      "card_id": "MM-MEDIA-003948",
+      "label_ko": "R.E.M. 공식 Murmur 수록곡 목록",
+      "icon_key": "website",
+      "url": "https://remhq.com/music/murmur/",
+      "description_ko": "R.E.M.의 노래; Murmur 네 번째 트랙",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000412",
+      "card_id": "MM-MEDIA-003949",
+      "label_ko": "Warner Music Japan 공식 BDZ 목록",
+      "icon_key": "website",
+      "url": "https://wmg.jp/twice/discography/19601",
+      "description_ko": "TWICE의 노래; BDZ 세 번째 트랙",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000413",
+      "card_id": "MM-MEDIA-003950",
+      "label_ko": "Warner Music Japan 공식 BDZ 목록",
+      "icon_key": "website",
+      "url": "https://wmg.jp/twice/discography/19601",
+      "description_ko": "TWICE의 노래; BDZ 두 번째 트랙",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000414",
+      "card_id": "MM-MEDIA-003951",
+      "label_ko": "Warner Music Japan 공식 BDZ 목록",
+      "icon_key": "website",
+      "url": "https://wmg.jp/twice/discography/19601",
+      "description_ko": "TWICE의 노래; BDZ 일곱 번째 트랙",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000415",
+      "card_id": "MM-MEDIA-003952",
+      "label_ko": "Warner Music Japan 공식 BDZ 목록",
+      "icon_key": "website",
+      "url": "https://wmg.jp/twice/discography/19601",
+      "description_ko": "TWICE의 녹음; BDZ 열 번째 트랙",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000416",
+      "card_id": "MM-MEDIA-003953",
+      "label_ko": "도에이 애니메이션 공식 TV 작품",
+      "icon_key": "website",
+      "url": "https://lineup.toei-anim.co.jp/ja/tv/mazingerz/",
+      "description_ko": "1972년 시작 TV 애니메이션; 만화·후속작과 구별",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000417",
+      "card_id": "MM-MEDIA-003954",
+      "label_ko": "도에이 애니메이션 공식 TV 작품",
+      "icon_key": "website",
+      "url": "https://lineup.toei-anim.co.jp/en/tv/getter/",
+      "description_ko": "1974년 TV 애니메이션; 만화·후속작과 구별",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000418",
+      "card_id": "MM-MEDIA-003955",
+      "label_ko": "세가 공식 용과 같이 작품 목록",
+      "icon_key": "website",
+      "url": "https://ryu-ga-gotoku.com/lineup/",
+      "description_ko": "세가 RGG 스튜디오의 게임 시리즈; 2005년 시작",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000419",
+      "card_id": "MM-MEDIA-003956",
+      "label_ko": "AFI Catalog 공식 영화 기록",
+      "icon_key": "website",
+      "url": "https://catalog.afi.com/Film/58427-WIZARDS-OF-THE-LOST-KINGDOM",
+      "description_ko": "1985년 헥터 올리베라 감독 영화; 후속작과 구별",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000420",
+      "card_id": "MM-MEDIA-003957",
+      "label_ko": "이야기 시리즈 공식 포털",
+      "icon_key": "website",
+      "url": "https://www.monogatari-series.com/series/?code=monogatari-series",
+      "description_ko": "니시오 이신 소설에서 시작한 작품군; 소설·애니메이션 구별",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000421",
+      "card_id": "MM-MEDIA-003958",
+      "label_ko": "Monsta 공식 뉴스: 오리지널 BoBoiBoy 시리즈와 Mechamato의 관계",
+      "icon_key": "website",
+      "url": "https://news.monsta.com/monsta-youtube-network-blasts-past-10-million-subscribers/",
+      "description_ko": "말레이시아 제작사 Monsta의 원작 TV 애니메이션 BoBoiBoy. 후속 Galaxy·2016/2019 장편영화 및 전체 IP와 구별. 보충 공식 개요: https://monsta.com/animations/boboiboy/",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000422",
+      "card_id": "MM-MEDIA-003959",
+      "label_ko": "STING 공식 제품 페이지: 수록된 1994년 원작 소개",
+      "icon_key": "website",
+      "url": "https://www.sting.co.jp/dokapon321_super_collection/",
+      "description_ko": "1994년 SFC 원작 ドカポン３・２・１ ～嵐を呼ぶ友情～. 2026년 합본의 제목이나 《도카폰 킹덤》 자체와 구별. 공식 보충: https://www.sting.co.jp/2026/01/dokapon321_20260129/",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000423",
+      "card_id": "MM-MEDIA-003960",
+      "label_ko": "DC 공식 디지털판: Adventure Comics (1938–) #424",
+      "icon_key": "website",
+      "url": "https://www.dcuniverseinfinite.com/comics/series/adventure-comics-1935-1983/33350f98-4eb7-4f17-a534-d3fa63b70404",
+      "description_ko": "Crypt of the Frozen Graves를 수록한 초기 DC 연재물. 2009년 재출범 시리즈나 개별 424호만의 제목과 구별. 시리즈 공식 목록: https://www.dcuniverseinfinite.com/comics/series/adventure-comics-1935-1983/33350f98-4eb7-4f17-a534-d3fa63b70404",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000424",
+      "card_id": "MM-MEDIA-003961",
+      "label_ko": "제작자 린유즈의 공식 완전판 배포·수정 공지",
+      "icon_key": "website",
+      "url": "https://linuj.tistory.com/entry/%EB%8B%A8%EA%B0%84%EB%A1%A0%ED%8C%8C-%EC%96%B4%EB%82%98%EB%8D%94-%EB%98%90%ED%95%98%EB%82%98%EC%9D%98-%EC%A0%88%EB%A7%9D%ED%95%99%EC%9B%90-%EC%99%84%EC%A0%84%ED%8C%90",
+      "description_ko": "린유즈의 첫 Another 팬게임. 제작자 한국어 표제의 부제를 원제로 기록. 공식 게임 《절대절망소녀 단간론파 Another Episode》 및 팬 후속작 SDRA2와 구별.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000425",
+      "card_id": "MM-MEDIA-003962",
+      "label_ko": "DC 공식 단행본 소개: 원작 시리즈와 창작진",
+      "icon_key": "website",
+      "url": "https://www.dc.com/graphic-novels/crisis-on-infinite-earths-1985/crisis-on-infinite-earths",
+      "description_ko": "1985–1986년 원작 12호 미니시리즈. 2003년 단행본·TV 크로스오버·애니메이션판을 구분. 핵심 12호 공식 목록: https://www.dcuniverseinfinite.com/collections/edt-crisis-on-infinite-earths",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000426",
+      "card_id": "MM-MEDIA-003963",
+      "label_ko": "JABberwocky 공식 전자책 소개: Blue Moon Rising (#1)",
+      "icon_key": "website",
+      "url": "https://awfulagent.com/ebooks/blue-moon-rising-forest-kingdom-1/",
+      "description_ko": "Simon R. Green의 Forest Kingdom 첫 소설. 공식 한국어 출판 제목은 이번 자료에서 확인하지 못해 영어 표제를 유지. JABberwocky 전자책 출판 목록과 작가 목록으로 확인.",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000427",
+      "card_id": "MM-MEDIA-000374",
+      "label_ko": "GISM 공식 음원",
+      "icon_key": "music",
+      "url": "https://gismband.bandcamp.com/music",
+      "description_ko": "공식 아티스트 소개와 음원 재발매 목록",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000428",
+      "card_id": "MM-MEDIA-000688",
+      "label_ko": "Paintbox 재발매사 소개",
+      "icon_key": "music",
+      "url": "https://breaktherecords.main.jp/",
+      "description_ko": "BREAK THE RECORDS의 밴드 음반 소개와 재발매 기록",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000429",
+      "card_id": "MM-MEDIA-000835",
+      "label_ko": "Spazz 공식 음원",
+      "icon_key": "music",
+      "url": "https://spazzbandcamp.bandcamp.com/",
+      "description_ko": "밴드 공식 소개와 음원 목록",
+      "sort_order": 1,
+      "row_version": 1
     }
   ]
 }

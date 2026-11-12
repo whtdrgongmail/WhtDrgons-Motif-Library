@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-034253",
+  "kind": "keyword",
+  "title": "좁은 화면의 위아래를 잘라 와이드 판본으로 만들기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F27",
+  "description": {
+    "definition": "기존의 세로 비중이 큰 영상을 넓은 화면에 맞추려고 위아래를 잘라 표시하면서 원래의 정보를 잃을 수 있는 변환이다.",
+    "detail": "",
+    "usage": "[[화면비 변경]]에 따른 시각 정보 손실을 분석한다.",
+    "boundary": "좌우를 잘라 좁은 화면을 만드는 방향과 반대이며 잘린 정보가 중요했는지 따로 확인해야 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "27",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "넓은 화면을 채우려고 위아래가 사라진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "세로 비중이 큰 기존 영상의 위아래를 잘라 넓은 화면비로 바꾼다. 새 형식에 맞추는 과정에서 원래의 시각 정보가 빠질 수 있다.\n\n같은 장면도 무엇이 남았는지에 따라 구도와 내용의 전달이 달라진다. 화면비가 넓어졌다는 사실과 실제로 볼 수 있는 정보가 늘었다는 판단은 같지 않다.\n\n좌우를 잘라 좁은 화면으로 만드는 변환과 반대 방향이다. 잘린 부분이 중요한지는 각 장면에서 별도로 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "세로 비중이 큰 기존 영상의 위아래를 잘라 넓은 화면비로 바꾼다. 새 형식에 맞추는 과정에서 원래의 시각 정보가 빠질 수 있다.\n\n같은 장면도 무엇이 남았는지에 따라 구도와 내용의 전달이 달라진다. 화면비가 넓어졌다는 사실과 실제로 볼 수 있는 정보가 늘었다는 판단은 같지 않다.\n\n좌우를 잘라 좁은 화면으로 만드는 변환과 반대 방향이다. 잘린 부분이 중요한지는 각 장면에서 별도로 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

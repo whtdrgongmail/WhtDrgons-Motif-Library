@@ -4,8 +4,8 @@
   "title": "입만 화면에 가득 잡는 구도",
   "original": "Mouthscreen",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01878",
+  "primary_tag_id": "ML-T01878",
   "description": {
     "definition": "인물의 얼굴 중 입과 입술 주변만을 극단적으로 확대하여 화면을 채운다.",
     "detail": "작품 사례: 《[[몬스터 vs 에이리언]]》에서 몽거 장군이 괴물의 필요성을 역설할 때 화면이 입만 크게 잡아 마지막 핵심 단어를 강조한다.",
@@ -13,10 +13,10 @@
     "boundary": "입 안에서 밖을 보는 시점과 다르며 얼굴의 나머지를 감추거나 입에 주의를 모으는 프레이밍이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "입과 입술만 확대해 보여 주면 얼굴 전체의 표정 대신 발화와 접촉에 시선이 집중된다. 말하는 사람의 정체를 감추면서 대사만 전달하거나 입술의 움직임과 장식을 강조할 수 있다.\n\n입 안에서 바깥을 보는 시점과는 다르며 카메라는 얼굴 바깥에 있다. 단순히 얼굴 가까이 촬영한 장면보다 나머지 부분이 거의 배제되는 구도가 필요하고 그 배제가 만드는 정보의 차이가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "입과 입술만 확대해 보여 주면 얼굴 전체의 표정 대신 발화와 접촉에 시선이 집중된다. 말하는 사람의 정체를 감추면서 대사만 전달하거나 입술의 움직임과 장식을 강조할 수 있다.\n\n입 안에서 바깥을 보는 시점과는 다르며 카메라는 얼굴 바깥에 있다. 단순히 얼굴 가까이 촬영한 장면보다 나머지 부분이 거의 배제되는 구도가 필요하고 그 배제가 만드는 정보의 차이가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

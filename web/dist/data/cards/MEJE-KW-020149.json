@@ -4,20 +4,20 @@
   "title": "악의 없이 아픈 곳을 건드리는 인물",
   "original": "Innocently Insensitive",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-020952",
+  "primary_tag_id": "MEJE-KW-020952",
   "description": {
     "definition": "상대가 민감하게 여기는 문제를 알아차리지 못해 농담이나 솔직한 평가로 상처를 주지만, 해악을 알게 되면 사과하고 바꾸려는 인물 유형이다.",
     "detail": "작품 사례: 《[[뉴 단간론파 V3: 모두의 살인 신학기]]》에서 미우는 카에데와 친해지고 싶어 하면서도 생각나는 모욕적인 말을 걸러 내지 못해 상대를 불편하게 한다.",
     "usage": "서로 다른 감수성과 사회적 이해가 관계에 미치는 영향을 드러내는 대화 장면에 쓴다.",
-    "boundary": "의도적인 조롱이나 상대의 고통을 알고도 계속하는 행동과 구별한다. 집단 편견이 원인인 경우는 그중 한 변형이다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.007.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 다른 감수성과 사회적 이해가 관계에 미치는 영향을 드러내는 대화 장면에 쓰인다.\n\n의도적인 조롱이나 상대의 고통을 알고도 계속하는 행동과 구별한다. 집단 편견이 원인인 경우는 그중 한 변형이다.\n\n《[[뉴 단간론파 V3: 모두의 살인 신학기]]》에서 미우는 카에데와 친해지고 싶어 하면서도 생각나는 모욕적인 말을 걸러 내지 못해 상대를 불편하게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 다른 감수성과 사회적 이해가 관계에 미치는 영향을 드러내는 대화 장면에 쓰인다.\n\n의도적인 조롱이나 상대의 고통을 알고도 계속하는 행동과 구별한다. 집단 편견이 원인인 경우는 그중 한 변형이다."
+      ],
+      [
+        "관련 작품",
+        "《[[뉴 단간론파 V3: 모두의 살인 신학기]]》에서 미우는 카에데와 친해지고 싶어 하면서도 생각나는 모욕적인 말을 걸러 내지 못해 상대를 불편하게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

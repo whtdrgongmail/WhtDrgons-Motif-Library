@@ -5,8 +5,8 @@
   "original": "Falling in Love Because You Think They Love You",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01026",
+  "primary_tag_id": "ML-T01026",
   "description": {
     "definition": "상대가 자신을 좋아한다는 잘못된 정보를 믿은 인물이 그에 반응하여 실제로 사랑하게 되는 전개다.",
     "detail": "작품 사례: 《[[마기]]》의 알리바바는 모르지아나가 자신을 사랑한다는 말을 듣고 마음을 고백하지만 처음의 정보는 오해였다. 그럼에도 이 사건은 모르지아나가 자기 감정을 알아차리는 계기가 된다.",
@@ -14,10 +14,10 @@
     "boundary": "감정 정보가 사실인 유형과 달리 원인의 오해와 결과의 진실이 어긋난다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "10.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상대의 호감에 관한 잘못된 정보를 믿고 실제로 사랑하게 된다. 원인은 거짓이지만 그에 반응해 생긴 감정은 진짜일 수 있다.\n\n오해가 밝혀지면 감정의 존재와 관계의 출발을 따로 판단하게 된다. 정보가 행동과 내면을 바꾸는 구조다.\n\n호감 정보가 처음부터 사실인 유형과 다르다. 원인의 오인과 결과의 진실이 함께 필요하다.\n\n《[[마기]]》의 알리바바는 모르지아나가 자신을 사랑한다는 말을 듣고 마음을 고백하지만 처음의 정보는 오해였다. 그럼에도 이 사건은 모르지아나가 자기 감정을 알아차리는 계기가 된다.\n\n[[마기]]",
+    "sections": [
+      [
+        "상세 설명",
+        "상대의 호감에 관한 잘못된 정보를 믿고 실제로 사랑하게 된다. 원인은 거짓이지만 그에 반응해 생긴 감정은 진짜일 수 있다.\n\n오해가 밝혀지면 감정의 존재와 관계의 출발을 따로 판단하게 된다. 정보가 행동과 내면을 바꾸는 구조다.\n\n호감 정보가 처음부터 사실인 유형과 다르다. 원인의 오인과 결과의 진실이 함께 필요하다."
+      ],
+      [
+        "사례",
+        "《[[마기]]》의 알리바바는 모르지아나가 자신을 사랑한다는 말을 듣고 마음을 고백하지만 처음의 정보는 오해였다. 그럼에도 이 사건은 모르지아나가 자기 감정을 알아차리는 계기가 된다."
+      ],
+      [
+        "관련 작품",
+        "[[마기]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

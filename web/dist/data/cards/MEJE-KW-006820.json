@@ -4,8 +4,8 @@
   "title": "죽음을 부르는 강제 행군",
   "original": "Death March",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "붙잡힌 사람들이 가혹한 강제 이동 과정에서 목숨을 잃는 사건. 권력의 폭력과 생존의 위기를 드러내는 [[서사]] 소재이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "붙잡힌 사람들을 가혹한 조건에서 강제로 이동시켜 다수가 사망하는 사건이다. 전쟁 포로와 노예처럼 이동을 거부하기 어려운 사람에게 권력이 행사된다.\n\n험한 지형과 극단적인 날씨, 식량과 휴식의 부족이 생존을 위협한다. 뒤처진 사람에게 가해지는 폭력은 단순한 이동의 어려움을 조직적인 가혹 행위로 바꾼다.\n\n목적지까지 수송하려는 과정과 사실상 죽게 하려는 행위가 겹칠 수 있다. 자발적인 위험한 행군과 달리 강제성과 보호의 부재가 핵심이며, 피해자의 경험과 가해 주체의 책임을 함께 다루어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "붙잡힌 사람들을 가혹한 조건에서 강제로 이동시켜 다수가 사망하는 사건이다. 전쟁 포로와 노예처럼 이동을 거부하기 어려운 사람에게 권력이 행사된다.\n\n험한 지형과 극단적인 날씨, 식량과 휴식의 부족이 생존을 위협한다. 뒤처진 사람에게 가해지는 폭력은 단순한 이동의 어려움을 조직적인 가혹 행위로 바꾼다.\n\n목적지까지 수송하려는 과정과 사실상 죽게 하려는 행위가 겹칠 수 있다. 자발적인 위험한 행군과 달리 강제성과 보호의 부재가 핵심이며, 피해자의 경험과 가해 주체의 책임을 함께 다루어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,17 +4,17 @@
   "title": "Screamer",
   "original": "Screamer",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "이 카드는 비디오게임 《Screamer》를 가리킨다. 이 라이브러리에서는 [[화면과 충돌 판정이 어긋나기]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Screamer에서는 조금 앞선 차량의 뒤쪽이 상대 차를 통과하기도 한다. 화면상 차체가 겹치는데도 앞선 차는 지나가고 뒤따르던 차가 사고를 당한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Screamer》는 주로 마일스톤이 개발한 레이싱 게임 시리즈다. 1995년 첫 작품은 MS-DOS용으로 제작되었으며 아케이드 지향의 빠른 주행을 강조했다.\n\n다각형 자동차와 코스에 텍스처를 사용하고 차체가 크게 기우는 동작으로 속도와 방향 변화를 표현했다. 사실적인 차량 거동보다 과장된 반응이 두드러지는 방식이다.\n\n후속 《Screamer 2》와 《Screamer Rally》는 랠리 성격을 강화했다. 《Screamer 4x4》는 별도 개발사가 제작한 사륜구동 오프로드 게임으로 시리즈 내부에서도 주행 대상과 형식이 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Screamer》는 주로 마일스톤이 개발한 레이싱 게임 시리즈다. 1995년 첫 작품은 MS-DOS용으로 제작되었으며 아케이드 지향의 빠른 주행을 강조했다.\n\n다각형 자동차와 코스에 텍스처를 사용하고 차체가 크게 기우는 동작으로 속도와 방향 변화를 표현했다. 사실적인 차량 거동보다 과장된 반응이 두드러지는 방식이다.\n\n후속 《Screamer 2》와 《Screamer Rally》는 랠리 성격을 강화했다. 《Screamer 4x4》는 별도 개발사가 제작한 사륜구동 오프로드 게임으로 시리즈 내부에서도 주행 대상과 형식이 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

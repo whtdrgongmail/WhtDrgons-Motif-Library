@@ -5,8 +5,8 @@
   "original": "A Yokai Challenges You to Sumo",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00758",
+  "primary_tag_id": "ML-T00758",
   "description": {
     "definition": "힘겨루기를 좋아하는 초자연적 존재가 인간에게 씨름 승부를 청한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "실제 스모 경기의 기술과 규칙을 설명하는 카드는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "초자연적 존재가 인간에게 씨름 승부를 청한다. 만남의 갈등이 곧바로 공격보다 정해진 힘겨루기의 제안을 통해 시작된다.\n\n승부를 받아들일지 거절할지 선택하면서 인간은 상대의 힘과 규칙을 판단해야 한다. 요괴가 승패를 어떻게 받아들이는지에 따라 대결은 위협과 교류, 시험의 성격을 달리할 수 있다.\n\n인간을 일방적으로 공격하는 괴물과는 접촉 방식이 다르다. 실제 스모의 기술과 경기 규칙을 설명하는 것은 아니며 요괴 전체의 공통 성향으로 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "초자연적 존재가 인간에게 씨름 승부를 청한다. 만남의 갈등이 곧바로 공격보다 정해진 힘겨루기의 제안을 통해 시작된다.\n\n승부를 받아들일지 거절할지 선택하면서 인간은 상대의 힘과 규칙을 판단해야 한다. 요괴가 승패를 어떻게 받아들이는지에 따라 대결은 위협과 교류, 시험의 성격을 달리할 수 있다.\n\n인간을 일방적으로 공격하는 괴물과는 접촉 방식이 다르다. 실제 스모의 기술과 경기 규칙을 설명하는 것은 아니며 요괴 전체의 공통 성향으로 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

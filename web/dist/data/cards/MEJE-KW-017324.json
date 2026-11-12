@@ -4,8 +4,8 @@
   "title": "쌍둥이가 잠시 서로 행세하기",
   "original": "Twin Switch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00788",
+  "primary_tag_id": "ML-T00788",
   "description": {
     "definition": "닮은 쌍둥이가 서로의 이름과 역할을 잠시 바꿔 주변 사람을 속이거나 상황을 해결한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "우연히 잘못 알아보는 것과 달리 당사자가 역할 교환을 실행한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -27,8 +27,28 @@
     "updated_at": "2026-11-02",
     "row_version": 2
   },
-  "applied_tags": [],
+  "applied_tags": [
+    {
+      "tag_id": "ML-T02549",
+      "role": "subject",
+      "review_status": "reviewed",
+      "row_version": 1
+    }
+  ],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "닮은 쌍둥이가 의도적으로 이름과 역할을 잠시 바꾼다. 같은 외모가 다른 사람의 자리를 대신하는 수단이 된다.\n\n주변은 얼굴로 정체를 판단하지만 실제 성격과 경험은 다를 수 있다. 그 차이가 위장을 들킬 긴장을 만든다.\n\n우연히 잘못 알아보는 오인과 구별한다. 당사자가 직접 역할의 교환을 실행해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "닮은 쌍둥이가 의도적으로 이름과 역할을 잠시 바꾼다. 같은 외모가 다른 사람의 자리를 대신하는 수단이 된다.\n\n주변은 얼굴로 정체를 판단하지만 실제 성격과 경험은 다를 수 있다. 그 차이가 위장을 들킬 긴장을 만든다.\n\n우연히 잘못 알아보는 오인과 구별한다. 당사자가 직접 역할의 교환을 실행해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

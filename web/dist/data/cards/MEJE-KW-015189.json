@@ -4,8 +4,8 @@
   "title": "파괴적 하렘 경쟁",
   "original": "Shuraba",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000608",
+  "primary_tag_id": "MM-UNSET-000608",
   "description": {
     "definition": "하나의 연애 대상을 독점하려는 후보들이 서로를 해치거나 방해하며 경쟁을 격화하는 전개이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "가벼운 질투와 경쟁보다 상대 후보를 배제하려는 파괴적인 방해가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.002.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "양보 없이 상대 후보를 밀어내려 하면서 관계가 전쟁처럼 변한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 사람과의 관계를 독점하려는 후보들이 다른 후보를 배제하려고 해를 끼친다. 감정을 두고 경쟁한다는 형식이 파괴적인 방해로 넘어가 연애의 주변 관계가 위협이 된다.\n\n중심인물의 선택을 기다리기보다 경쟁자를 없애는 행동이 앞서면 당사자의 의사도 뒤로 밀릴 수 있다. 관객은 애정의 강도와 타인을 해치는 소유욕을 분리해서 보게 된다.\n\n가벼운 질투와 말다툼만으로 같은 전개는 아니다. 경쟁이 치열하다는 말보다 실제 피해와 방해의 방향이 중요하다. 누가 무엇을 알고 동의했는지 구분해야 여러 후보를 동일한 가해자로 묶지 않을 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 사람과의 관계를 독점하려는 후보들이 다른 후보를 배제하려고 해를 끼친다. 감정을 두고 경쟁한다는 형식이 파괴적인 방해로 넘어가 연애의 주변 관계가 위협이 된다.\n\n중심인물의 선택을 기다리기보다 경쟁자를 없애는 행동이 앞서면 당사자의 의사도 뒤로 밀릴 수 있다. 관객은 애정의 강도와 타인을 해치는 소유욕을 분리해서 보게 된다.\n\n가벼운 질투와 말다툼만으로 같은 전개는 아니다. 경쟁이 치열하다는 말보다 실제 피해와 방해의 방향이 중요하다. 누가 무엇을 알고 동의했는지 구분해야 여러 후보를 동일한 가해자로 묶지 않을 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

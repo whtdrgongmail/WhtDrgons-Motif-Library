@@ -4,8 +4,8 @@
   "title": "타이밍 입력으로 보상받는 재장전",
   "original": "Perfect Reload Command",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02077",
+  "primary_tag_id": "ML-T02077",
   "description": {
     "definition": "게임에서 재장전 중 특정 순간에 입력하면 동작이 빨라지거나 추가 효과를 얻고 실패하면 불이익이 생기는 조작 장치다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.001.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "그냥 기다려도 장전되지만 표시된 순간에 맞춰 누르면 더 빨라지고, 빗나가면 오히려 늦어지는 방식이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "재장전을 기다리는 시간을 선택과 숙련의 기회로 바꾼다. 플레이어는 안전한 기본 동작을 택하거나 더 좋은 결과를 위해 실패 위험을 감수한다. 화면의 진행 표시와 성공 구간은 언제 행동해야 하는지 알려 주며, 적의 압박은 그 판단을 어렵게 할 수 있다.\n\n성공 보상은 시간 단축에 머물 수도 있고 다음 공격의 성능으로 이어질 수도 있다. [[정확한 타이밍에 추가 성능 주기]]의 한 형태이며, [[후딜레이 캔슬]]처럼 다른 행동을 끼워 넣어 지연을 줄이는 방식과는 입력의 역할이 다르다. 게임 안의 조작 규칙이며 실제 무기의 조작 방법을 뜻하지 않는다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "재장전을 기다리는 시간을 선택과 숙련의 기회로 바꾼다. 플레이어는 안전한 기본 동작을 택하거나 더 좋은 결과를 위해 실패 위험을 감수한다. 화면의 진행 표시와 성공 구간은 언제 행동해야 하는지 알려 주며, 적의 압박은 그 판단을 어렵게 할 수 있다.\n\n성공 보상은 시간 단축에 머물 수도 있고 다음 공격의 성능으로 이어질 수도 있다. [[정확한 타이밍에 추가 성능 주기]]의 한 형태이며, [[후딜레이 캔슬]]처럼 다른 행동을 끼워 넣어 지연을 줄이는 방식과는 입력의 역할이 다르다. 게임 안의 조작 규칙이며 실제 무기의 조작 방법을 뜻하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

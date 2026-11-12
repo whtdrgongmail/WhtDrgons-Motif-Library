@@ -4,8 +4,8 @@
   "title": "임신한 몸을 겨냥한 잔혹 행위",
   "original": "Traumatic C-Section",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "가해자가 임신한 사람과 태아를 함께 해치려 신체에 극단적인 폭력을 가하는 장면이다. 생명을 돌보는 상황을 뒤집어 무력한 민간인에 대한 잔혹함을 드러낸다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "생명을 구하기 위한 의료 행위와 구분하며 구체적 훼손의 볼거리보다 피해의 맥락을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "임신한 사람의 몸을 침해해 태아를 강제로 꺼내는 극단적인 폭력 장면이다. 출산의 통제권을 외부 가해자가 빼앗고 생명을 보호할 기대를 파괴한다.\n\n태아를 소유하려는 목적이나 고문, 잔혹함의 과시가 동기가 될 수 있다. 보호가 필요한 순간에 가해가 집중되어 공격자의 무자비함과 주변의 무력함을 강조한다.\n\n출산 과정에서 자연스럽게 발생하는 위기와, 몸 안의 괴물이 스스로 빠져나오는 설정과는 원인이 다르다. 정상적인 의료 수술과도 구분되며, 비동의적 강제와 손상이 공포의 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "임신한 사람의 몸을 침해해 태아를 강제로 꺼내는 극단적인 폭력 장면이다. 출산의 통제권을 외부 가해자가 빼앗고 생명을 보호할 기대를 파괴한다.\n\n태아를 소유하려는 목적이나 고문, 잔혹함의 과시가 동기가 될 수 있다. 보호가 필요한 순간에 가해가 집중되어 공격자의 무자비함과 주변의 무력함을 강조한다.\n\n출산 과정에서 자연스럽게 발생하는 위기와, 몸 안의 괴물이 스스로 빠져나오는 설정과는 원인이 다르다. 정상적인 의료 수술과도 구분되며, 비동의적 강제와 손상이 공포의 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "건드리지 말아야 할 중립 세력을 깨우기",
   "original": "Awakening the Sleeping Giant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00727",
+  "primary_tag_id": "ML-T00727",
   "description": {
     "definition": "충돌에서 비켜 있던 강력한 세력을 공격하거나 모욕해 결국 전쟁에 끌어들인다. 작은 승리를 노린 선택이 판세 전체를 바꾸는 결과를 낳는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "갈등에 개입하지 않던 압도적인 세력을 자극하여 전쟁의 균형을 뒤집는다. 기존 적대 세력이 감당할 수 없던 힘이 새롭게 행동하기 시작한다.\n\n강대한 중립 세력은 기존 갈등보다 큰 힘을 가졌지만 개입할 이유가 없었던 존재다. 공격자가 그 세력을 해치거나 보호 대상을 침범하면 스스로 더 강한 적을 만드는 셈이 된다. 패배의 원인이 단순한 힘 부족보다 자만과 오판에 연결되는 구조다.\n\n위협의 대상이 중립을 포기할 이유가 있어야 개입이 설득된다. 단순한 지원군 도착과 달리 가해자의 행동이 더 큰 상대를 움직이게 했다는 역풍이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "갈등에 개입하지 않던 압도적인 세력을 자극하여 전쟁의 균형을 뒤집는다. 기존 적대 세력이 감당할 수 없던 힘이 새롭게 행동하기 시작한다.\n\n강대한 중립 세력은 기존 갈등보다 큰 힘을 가졌지만 개입할 이유가 없었던 존재다. 공격자가 그 세력을 해치거나 보호 대상을 침범하면 스스로 더 강한 적을 만드는 셈이 된다. 패배의 원인이 단순한 힘 부족보다 자만과 오판에 연결되는 구조다.\n\n위협의 대상이 중립을 포기할 이유가 있어야 개입이 설득된다. 단순한 지원군 도착과 달리 가해자의 행동이 더 큰 상대를 움직이게 했다는 역풍이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

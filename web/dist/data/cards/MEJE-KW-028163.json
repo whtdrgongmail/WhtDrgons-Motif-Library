@@ -4,8 +4,8 @@
   "title": "돈을 건네 검문과 단속을 통과하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00765",
+  "primary_tag_id": "ML-T00765",
   "description": {
     "definition": "관리나 경비에게 금품을 주어 서류 검사와 규칙 집행을 피하고 물품을 통과시키는 부패 행위다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "정식 세금이나 통행료 납부와 다르며, 특정 관리의 매수가 가능하다는 것이 모두가 매수된다는 세계 규칙을 뜻하지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.004.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관리나 경비에게 금품을 주어 검사와 규칙 집행을 피한다. 공식적인 통과 절차가 비공식적인 거래로 대체되는 부패 행위다.\n\n검사가 있어도 집행자의 매수 여부에 따라 물품의 이동이 달라진다. 제도상의 통제와 현장에서 실제 적용되는 기준 사이의 차이가 물류의 긴장을 만든다.\n\n정식 세금이나 통행료를 낸 경우와 다르다. 한 관리가 매수되었다는 사실을 모든 관리가 똑같다는 세계 규칙으로 확대하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관리나 경비에게 금품을 주어 검사와 규칙 집행을 피한다. 공식적인 통과 절차가 비공식적인 거래로 대체되는 부패 행위다.\n\n검사가 있어도 집행자의 매수 여부에 따라 물품의 이동이 달라진다. 제도상의 통제와 현장에서 실제 적용되는 기준 사이의 차이가 물류의 긴장을 만든다.\n\n정식 세금이나 통행료를 낸 경우와 다르다. 한 관리가 매수되었다는 사실을 모든 관리가 똑같다는 세계 규칙으로 확대하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "좁은 곳에 끼어 벗어나지 못하기",
   "original": "Help, I'm Stuck!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00861",
+  "primary_tag_id": "ML-T00861",
   "description": {
     "definition": "몸이 좁은 틈이나 물체에 끼어 스스로 빠져나오지 못하고 다른 사람의 도움이 필요한 상황이다.",
     "detail": "작품 사례: [[101 Dalmatians]]에서 강아지들이 벽의 작은 구멍으로 달아날 때 통통한 Rolly만 끼어 버려, Tibbs가 몸을 밀어 빼내 준다.",
@@ -13,10 +13,10 @@
     "boundary": "잠깐 걸렸다가 바로 빠져나오는 작은 동작과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "몸과 통로의 크기가 맞지 않아 이동이 중단되면 탈출하던 행동이 구조가 필요한 정지 상태로 바뀐다. 스스로 움직여도 벗어나지 못하는 시간이 있어야 다른 인물의 개입이 과제가 된다.\n\n잠깐 걸렸다가 바로 빠지는 동작과는 제약의 지속성이 다르다. 도움을 받는 과정과 통로의 구조를 함께 보여 주면 왜 혼자 빠져나올 수 없는지 이해할 수 있다.\n\n[[101 Dalmatians]]에서 강아지들은 벽의 작은 구멍으로 탈출하지만 Rolly는 몸이 끼어 남는다. Tibbs가 밀어서 빼내 주어 집단의 탈출이 한 인물의 구조 문제로 잠시 바뀐다.",
+    "sections": [
+      [
+        "상세 설명",
+        "몸과 통로의 크기가 맞지 않아 이동이 중단되면 탈출하던 행동이 구조가 필요한 정지 상태로 바뀐다. 스스로 움직여도 벗어나지 못하는 시간이 있어야 다른 인물의 개입이 과제가 된다.\n\n잠깐 걸렸다가 바로 빠지는 동작과는 제약의 지속성이 다르다. 도움을 받는 과정과 통로의 구조를 함께 보여 주면 왜 혼자 빠져나올 수 없는지 이해할 수 있다."
+      ],
+      [
+        "관련 작품",
+        "[[101 Dalmatians]]에서 강아지들은 벽의 작은 구멍으로 탈출하지만 Rolly는 몸이 끼어 남는다. Tibbs가 밀어서 빼내 주어 집단의 탈출이 한 인물의 구조 문제로 잠시 바뀐다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

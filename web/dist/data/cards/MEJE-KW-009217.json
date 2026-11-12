@@ -4,8 +4,8 @@
   "title": "지나치게 긴 인사말",
   "original": "Extended Greetings",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01977",
+  "primary_tag_id": "ML-T01977",
   "description": {
     "definition": "단순한 인사 대신 의례적인 칭호와 문장을 길게 늘어놓아 문화의 격식이나 인물의 성향을 드러내는 말하기 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "간단한 인사 대신 긴 칭호와 의례적 문장을 사용하는 말하기 방식이다. 대화의 효율보다 예우와 문화적 규범이 강조된다.\n\n낯선 손님은 인사를 기다리다 지치고 익숙한 사람은 자연스럽게 응답할 수 있다. 긴급한 순간에도 절차를 지키면 격식과 실제 필요의 차이가 농담이 된다.\n\n장황함이 반드시 개인의 허영심에서 오는 것은 아니다. 공동체의 관습과 자기 과시를 구분해야 하며 다른 문화의 인사를 객관적으로 열등한 말로 취급하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "간단한 인사 대신 긴 칭호와 의례적 문장을 사용하는 말하기 방식이다. 대화의 효율보다 예우와 문화적 규범이 강조된다.\n\n낯선 손님은 인사를 기다리다 지치고 익숙한 사람은 자연스럽게 응답할 수 있다. 긴급한 순간에도 절차를 지키면 격식과 실제 필요의 차이가 농담이 된다.\n\n장황함이 반드시 개인의 허영심에서 오는 것은 아니다. 공동체의 관습과 자기 과시를 구분해야 하며 다른 문화의 인사를 객관적으로 열등한 말로 취급하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

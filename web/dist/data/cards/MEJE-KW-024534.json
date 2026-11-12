@@ -5,8 +5,8 @@
   "original": "A Fake Name Accidentally Sounds Real",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F19",
+  "tag_id": "ML-T01990",
+  "primary_tag_id": "ML-T01990",
   "description": {
     "definition": "정체를 감추려고 주변 단어를 조합했는데 결과가 자기 실제 이름처럼 들려 급히 다시 바꾸려 한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "우연한 발각이 아니라 작명 방식 자체가 함정이 되는 농담이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "19",
+    "code": "23.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정체를 숨기기 위해 주변 단어를 조합한 가명이 우연히 자신의 실제 이름처럼 들린다. 이름을 피하려 선택한 방법이 바로 그 이름을 다시 만드는 함정이 된다.\n\n관객이 진짜 이름을 알고 있으면 조합의 결과를 먼저 알아차리고 인물의 수정을 기다릴 수 있다. 급하게 다른 말을 보태는 반응은 정체를 감추려는 노력 자체를 눈에 띄게 만들어 긴장과 웃음을 함께 높인다.\n\n상대가 우연히 본명을 알아낸 장면과는 원인이 다르다. 주변 사물로 가명을 만드는 모든 장면도 포함하지 않으며 결과가 본명과 겹쳐야 작명의 역설이 성립한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정체를 숨기기 위해 주변 단어를 조합한 가명이 우연히 자신의 실제 이름처럼 들린다. 이름을 피하려 선택한 방법이 바로 그 이름을 다시 만드는 함정이 된다.\n\n관객이 진짜 이름을 알고 있으면 조합의 결과를 먼저 알아차리고 인물의 수정을 기다릴 수 있다. 급하게 다른 말을 보태는 반응은 정체를 감추려는 노력 자체를 눈에 띄게 만들어 긴장과 웃음을 함께 높인다.\n\n상대가 우연히 본명을 알아낸 장면과는 원인이 다르다. 주변 사물로 가명을 만드는 모든 장면도 포함하지 않으며 결과가 본명과 겹쳐야 작명의 역설이 성립한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

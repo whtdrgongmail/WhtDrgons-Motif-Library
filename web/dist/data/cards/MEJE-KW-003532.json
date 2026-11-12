@@ -4,8 +4,8 @@
   "title": "반복되는 당김음의 록 리듬",
   "original": "Bo Diddley Beat",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02040",
+  "primary_tag_id": "ML-T02040",
   "description": {
     "definition": "짧은 리듬의 패턴을 되풀이해 곡의 추진력을 만든다. 악기와 편곡이 달라도 박자의 구조가 곡을 알아보게 한다.",
     "detail": "",
@@ -13,20 +13,14 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "02",
+    "code": "24.005.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "음악가 보 디들리의 연주로 널리 알려진 반복 리듬이다. 두 묶음의 강세가 세 번과 두 번으로 나뉘어 이어지며, 박자 사이에도 강세가 들어가 특유의 움직임을 만든다. 특정 노래의 제목이 아니라 여러 곡에서 되풀이해 쓸 수 있는 리듬형이다.",
     "review_status": "reviewed",
@@ -36,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보 디들리의 이름과 연결된 반복적인 당김음 리듬으로 블루스와 로큰롤에서 사용된다. 고정된 강세의 배치가 곡의 움직임을 이끌어 단순한 화성 안에서도 긴장을 유지한다.\n\n더 이른 리듬 전통의 영향을 받아 발전했으며 다양한 악기로 강조할 수 있다. 곡마다 같은 소리와 편성일 필요는 없고 기본적인 강세를 변형하여 다른 인상을 만들기도 한다.\n\n이름이 붙었다고 그 음악가의 모든 곡에 같은 비트가 사용되는 것은 아니다. 원곡과 커버가 서로 다른 리듬을 택하면 유명한 곡의 인상과 최초 녹음이 어긋날 수 있다. 일정한 음표와 강세의 패턴을 뜻하므로 그 음악가의 양식 전체와 동일하게 취급하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보 디들리의 이름과 연결된 반복적인 당김음 리듬으로 블루스와 로큰롤에서 사용된다. 고정된 강세의 배치가 곡의 움직임을 이끌어 단순한 화성 안에서도 긴장을 유지한다.\n\n더 이른 리듬 전통의 영향을 받아 발전했으며 다양한 악기로 강조할 수 있다. 곡마다 같은 소리와 편성일 필요는 없고 기본적인 강세를 변형하여 다른 인상을 만들기도 한다.\n\n이름이 붙었다고 그 음악가의 모든 곡에 같은 비트가 사용되는 것은 아니다. 원곡과 커버가 서로 다른 리듬을 택하면 유명한 곡의 인상과 최초 녹음이 어긋날 수 있다. 일정한 음표와 강세의 패턴을 뜻하므로 그 음악가의 양식 전체와 동일하게 취급하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

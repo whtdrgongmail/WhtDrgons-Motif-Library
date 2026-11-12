@@ -4,8 +4,8 @@
   "title": "혼돈 중립 성향",
   "original": "Chaotic Neutral",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00938",
+  "primary_tag_id": "ML-T00938",
   "description": {
     "definition": "선악 어느 편에도 일관되게 서지 않으며 자유와 자율을 우선하는 성향 유형. 선악과 질서에 대한 태도를 조합하는 [[인물 성향 체계]]에서 혼돈 쪽에 놓인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "질서보다 자율성과 비구속성을 중시하지만 선악 어느 한쪽으로 일관되게 분류되지 않는 성향이다. 독립적인 원칙을 지킬 수도 있고 상황에 따라 관심과 판단이 바뀔 수도 있다.\n\n집단의 규범보다 자신의 선택을 우선한다는 공통점 안에도 다양한 동기가 존재한다. 무관심한 방관자와 자유를 적극 추구하는 사람을 같은 행동 양식으로 환원할 수는 없다.\n\n아무 이유 없이 모든 것을 망치는 성향과 동일하지 않다. 중립은 행동의 결과가 없다는 뜻도 아니므로 자유를 추구하는 방식과 타인에게 주는 피해를 별도로 평가해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "질서보다 자율성과 비구속성을 중시하지만 선악 어느 한쪽으로 일관되게 분류되지 않는 성향이다. 독립적인 원칙을 지킬 수도 있고 상황에 따라 관심과 판단이 바뀔 수도 있다.\n\n집단의 규범보다 자신의 선택을 우선한다는 공통점 안에도 다양한 동기가 존재한다. 무관심한 방관자와 자유를 적극 추구하는 사람을 같은 행동 양식으로 환원할 수는 없다.\n\n아무 이유 없이 모든 것을 망치는 성향과 동일하지 않다. 중립은 행동의 결과가 없다는 뜻도 아니므로 자유를 추구하는 방식과 타인에게 주는 피해를 별도로 평가해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

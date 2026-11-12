@@ -4,17 +4,17 @@
   "title": "& Juliet",
   "original": "& Juliet",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00152",
   "primary_tag_id": "ML-T00152",
   "description": {
     "definition": "이 카드는 무대 공연 《& Juliet》를 가리킨다. 이 라이브러리에서는 [[종교 시설에 가두어 사회에서 지우기]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: & Juliet에서 부모는 줄리엣이 로미오를 잊도록 수녀원에 보내려 하지만, 줄리엣은 그 강요를 피해 파리로 달아난다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.015",
     "review_status": "provisional",
@@ -43,5 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000330",
+      "card_id": "MM-MEDIA-000005",
+      "label_ko": "작품 공식 소개",
+      "icon_key": "link",
+      "url": "https://andjulietbroadway.com/guides-faqs/",
+      "description_ko": "제작·배급 또는 권리자의 작품 소개와 식별 정보",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "《& Juliet》은 [[로미오와 줄리엣]]의 비극적 결말을 바꾸어 줄리엣이 살아남은 뒤의 선택을 그리는 [[뮤지컬]]이다. 원작의 결말을 확정된 운명으로 두지 않고, 이후의 삶과 관계를 새 이야기의 출발점으로 삼는다.\n\n공식 작품 소개는 줄리엣이 로미오의 죽음 이후 자신의 방식으로 삶과 사랑을 다시 선택한다는 설정과 대중가요를 활용한 무대 구성을 제시한다. 익숙한 인물과 노래를 재배치해 비극에서 벗어난 로맨틱 코미디의 방향을 만든다.\n\n이 작품의 줄리엣은 셰익스피어 원작의 줄리엣과 같은 이름을 쓰지만 동일한 사건을 그대로 반복하지 않는다. 수녀원행 강요 등 개별 장면을 모티프 사례로 연결할 때도 무대판의 설정인지, 원작 희곡의 설정인지 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《& Juliet》은 [[로미오와 줄리엣]]의 비극적 결말을 바꾸어 줄리엣이 살아남은 뒤의 선택을 그리는 [[뮤지컬]]이다. 원작의 결말을 확정된 운명으로 두지 않고, 이후의 삶과 관계를 새 이야기의 출발점으로 삼는다.\n\n공식 작품 소개는 줄리엣이 로미오의 죽음 이후 자신의 방식으로 삶과 사랑을 다시 선택한다는 설정과 대중가요를 활용한 무대 구성을 제시한다. 익숙한 인물과 노래를 재배치해 비극에서 벗어난 로맨틱 코미디의 방향을 만든다.\n\n이 작품의 줄리엣은 셰익스피어 원작의 줄리엣과 같은 이름을 쓰지만 동일한 사건을 그대로 반복하지 않는다. 수녀원행 강요 등 개별 장면을 모티프 사례로 연결할 때도 무대판의 설정인지, 원작 희곡의 설정인지 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

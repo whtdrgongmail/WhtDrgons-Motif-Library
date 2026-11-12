@@ -4,34 +4,34 @@
   "title": "스타워즈 레전드",
   "original": "Star Wars Legends",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
-    "definition": "《스타워즈 레전드》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《스타워즈 레전드》의 뉴 앨더란은 파괴된 원래 고향의 이름을 새 정착지에 남긴다.",
+    "definition": "《스타워즈 레전드》는 스타워즈의 과거 확장 세계 작품을 별도로 묶어 표시하는 작품군이다. 소설·만화·게임 등 여러 매체의 이야기가 포함되며 현재의 공식 연속성과 구분한다.",
+    "detail": "Lucasfilm은 2014년에 이전 확장 세계의 이야기들을 레전드 이름으로 계속 제공한다고 발표했다. 이 분류는 단일 작품이나 별도의 매체 장르가 아니라 작품의 연속성을 식별하는 범위다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《스타워즈 레전드》의 뉴 앨더란은 파괴된 원래 고향의 이름을 새 정착지에 남긴다.",
+    "easy_ko": "예전에 나온 스타워즈 확장 세계의 이야기를 따로 묶은 이름이다. 소설과 만화, 게임 등이 포함되며 현재의 공식 이야기와 구분해 본다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -45,5 +45,37 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000252",
+      "card_id": "MM-MEDIA-003439",
+      "label_ko": "스타워즈 레전드 공식 설명",
+      "icon_key": "link",
+      "url": "https://www.starwars.com/news/the-legendary-star-wars-expanded-universe-turns-a-new-page",
+      "description_ko": "확장 세계를 레전드로 구분한 Lucasfilm의 공식 발표",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "《스타워즈 레전드》는 스타워즈에서 과거에 출판·제작된 확장 세계의 이야기를 구분하는 이름이다. 소설, 만화, 비디오게임 등 서로 다른 매체의 작품이 포함된다. 따라서 한 편의 영화나 단일 게임을 뜻하는 표제가 아니다.\n\nLucasfilm은 2014년 새로운 작품의 연속성을 정리하면서 이전 확장 세계를 레전드 이름으로 계속 제공한다고 발표했다. 레전드의 설정과 사건을 이후 공개된 작품의 공식 연속성에 자동으로 적용해서는 안 된다. 개별 이야기가 어떤 연속성에 속하는지 확인할 때 이 카드의 구분을 사용한다.\n\n기존 관련작품 표에는 뉴 앨더란이라는 정착지 이름이 레전드 작품에서 파괴된 옛 고향의 기억을 잇는 사례로 연결되어 있다. 해당 지명이 현재 공식 연속성에도 같은 방식으로 등장한다고 단정하지 않는다.\n\n[[스타워즈]] 전체 작품군과 범위가 다르다. 레전드는 과거 확장 세계의 작품을 구분하는 하위 묶음이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《스타워즈 레전드》는 스타워즈에서 과거에 출판·제작된 확장 세계의 이야기를 구분하는 이름이다. 소설, 만화, 비디오게임 등 서로 다른 매체의 작품이 포함된다. 따라서 한 편의 영화나 단일 게임을 뜻하는 표제가 아니다.\n\nLucasfilm은 2014년 새로운 작품의 연속성을 정리하면서 이전 확장 세계를 레전드 이름으로 계속 제공한다고 발표했다. 레전드의 설정과 사건을 이후 공개된 작품의 공식 연속성에 자동으로 적용해서는 안 된다. 개별 이야기가 어떤 연속성에 속하는지 확인할 때 이 카드의 구분을 사용한다."
+      ],
+      [
+        "사례",
+        "기존 관련작품 표에는 뉴 앨더란이라는 정착지 이름이 레전드 작품에서 파괴된 옛 고향의 기억을 잇는 사례로 연결되어 있다. 해당 지명이 현재 공식 연속성에도 같은 방식으로 등장한다고 단정하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[스타워즈]] 전체 작품군과 범위가 다르다. 레전드는 과거 확장 세계의 작품을 구분하는 하위 묶음이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "감정이 깊어져 되돌아오는 대사",
   "original": "Meaningful Echo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01953",
+  "primary_tag_id": "ML-T01953",
   "description": {
     "definition": "처음에는 일상적으로 들렸던 말이 감정적으로 중요한 순간에 반복되면서 앞선 장면의 의미를 더 깊게 만드는 장치다.",
     "detail": "작품 사례: 《[[드래곤볼 Z 어브리지드]]》에서 베지터를 말리는 반복 농담의 대답이 자폭을 결심하는 장면에 다시 나와, 가벼운 말이 비장한 결의로 들린다.",
@@ -13,10 +13,10 @@
     "boundary": "처음 뜻을 뒤집는 반어적 반복과 달리 의미를 확대하거나 정서를 깊게 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.004.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "앞서 나온 말을 감정적으로 중요한 순간에 다시 사용한다. 표현은 같아도 관계와 경험이 쌓여 의미의 깊이가 달라진다.\n\n관객이 처음의 장면을 기억하면 변화가 더 선명해진다. 단순한 말버릇의 반복보다 두 장면의 정서적 대응이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "앞서 나온 말을 감정적으로 중요한 순간에 다시 사용한다. 표현은 같아도 관계와 경험이 쌓여 의미의 깊이가 달라진다.\n\n관객이 처음의 장면을 기억하면 변화가 더 선명해진다. 단순한 말버릇의 반복보다 두 장면의 정서적 대응이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

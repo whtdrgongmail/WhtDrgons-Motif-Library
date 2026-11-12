@@ -1,34 +1,22 @@
 {
   "id": "MM-MEDIA-000564",
-  "kind": "work",
+  "kind": "organization",
   "title": "Machine Girl",
   "original": "Machine Girl",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-T00139",
+  "primary_tag_id": null,
   "description": {
-    "definition": "이 카드는 음악 작품 《Machine Girl》를 가리킨다. 이 라이브러리에서는 [[하드코어 테크노]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Machine Girl은 하드코어 펑크에 하드코어 테크노와 드럼 앤 베이스를 결합하여, 강한 전자 리듬이 다른 공격적인 음악 양식과 만나는 사례가 된다.",
+    "definition": "머신 걸은 전자 음악과 펑크를 결합하는 음악 프로젝트다. 이 카드는 동명 영화가 아닌 음악 그룹을 가리킨다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
-  "classification": {
-    "code": "02.008",
-    "review_status": "provisional",
-    "row_version": 1
-  },
-  "classification_semantics": {
-    "semantic_kind": "medium_family",
-    "parent_relation": "facet_member",
-    "allowed_roles": [
-      "medium"
-    ],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "updated_at": "2026-11-12",
+  "row_version": 4,
+  "classification": null,
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "Machine Girl은 하드코어 펑크에 하드코어 테크노와 드럼 앤 베이스를 결합하여, 강한 전자 리듬이 다른 공격적인 음악 양식과 만나는 사례가 된다.",
     "review_status": "reviewed",
@@ -37,15 +25,19 @@
   },
   "applied_tags": [],
   "related_media": [],
-  "related_motifs": [
-    {
-      "card_id": "MEJE-KW-015096",
-      "row_version": 1
-    },
-    {
-      "card_id": "MEJE-KW-015107",
-      "row_version": 1
-    }
-  ],
-  "references": []
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "Machine Girl은 2013년 결성된 미국의 디지털 하드코어 듀오다. 맷 스티븐슨의 전면적인 표현과 숀 켈리의 드럼 연주가 결합한다.\n\n하드코어 테크노와 정글, 브레이크코어 등의 리듬에 영화와 밈의 샘플을 사용한다. 이후 작품에서는 공격적인 보컬과 라이브 드럼을 통해 펑크와 메탈의 질감이 더해진다.\n\n《WLFGRL》 등으로 형성된 팬층과 에너지 강한 공연이 작품의 수용에 중요한 부분이다. 같은 이름을 연상시키는 영화는 샘플과 명칭의 참고 대상이며 밴드 자체와 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "Machine Girl은 2013년 결성된 미국의 디지털 하드코어 듀오다. 맷 스티븐슨의 전면적인 표현과 숀 켈리의 드럼 연주가 결합한다.\n\n하드코어 테크노와 정글, 브레이크코어 등의 리듬에 영화와 밈의 샘플을 사용한다. 이후 작품에서는 공격적인 보컬과 라이브 드럼을 통해 펑크와 메탈의 질감이 더해진다.\n\n《WLFGRL》 등으로 형성된 팬층과 에너지 강한 공연이 작품의 수용에 중요한 부분이다. 같은 이름을 연상시키는 영화는 샘플과 명칭의 참고 대상이며 밴드 자체와 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "직업 규범을 철저히 지키는 인물",
   "original": "Consummate Professional",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00938",
+  "primary_tag_id": "ML-T00938",
   "description": {
     "definition": "인물이 맡은 일을 감정과 관계보다 앞세우며 전문성을 유지한다. 신뢰를 얻는 능력이면서 때로는 냉담함의 원인이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자신의 직무와 행동 규범을 매우 엄격하게 지키는 인물이다. 사적인 감정과 임무를 분리하고 다른 사람의 무책임과 부정확함을 용납하지 않는다.\n\n암살자와 첩보원처럼 위험한 직업에서는 냉정한 숙련을 보여 주고 일반 직업에서는 철저한 준비와 신뢰의 근거가 된다. 명령과 계약을 지키는 태도가 동료와의 갈등을 만들 수도 있다.\n\n전문성이 곧 도덕적 선함을 뜻하지는 않는다. 어떤 규범에 충실한지와 그 직무가 일으키는 피해는 별도로 평가해야 하며 진지한 말투만으로 실제 능력을 판단할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자신의 직무와 행동 규범을 매우 엄격하게 지키는 인물이다. 사적인 감정과 임무를 분리하고 다른 사람의 무책임과 부정확함을 용납하지 않는다.\n\n암살자와 첩보원처럼 위험한 직업에서는 냉정한 숙련을 보여 주고 일반 직업에서는 철저한 준비와 신뢰의 근거가 된다. 명령과 계약을 지키는 태도가 동료와의 갈등을 만들 수도 있다.\n\n전문성이 곧 도덕적 선함을 뜻하지는 않는다. 어떤 규범에 충실한지와 그 직무가 일으키는 피해는 별도로 평가해야 하며 진지한 말투만으로 실제 능력을 판단할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

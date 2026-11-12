@@ -4,8 +4,8 @@
   "title": "글자를 숫자와 기호로 바꾼 인터넷 말투",
   "original": "Leet Lingo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01972",
+  "primary_tag_id": "ML-T01972",
   "description": {
     "definition": "알파벳과 비슷한 모양의 숫자·기호·문자 조합을 대신 사용하여 인터넷 집단의 말투를 드러내는 표기 방식이다.",
     "detail": "작품 사례: 《[[미스터 로봇]]》은 일부 회차 제목을 파일명처럼 만들고 그 안의 영문자를 숫자로 치환하여 컴퓨터 문화의 말투를 제목 디자인에 반영한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 약어·발음 표기·암호화 전체와 구분한다. 표기가 일관되지 않을 수 있지만 그것이 필수 규칙은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "알파벳과 닮은 숫자나 기호로 글자를 바꾸면 문장의 소리는 유지하면서 겉모양은 알아보기 어렵게 만들 수 있다. 독자는 기호를 원래 글자로 되돌려 읽는 과정에 참여하며, 이런 표기는 온라인 집단의 말투와 이미지를 나타내기도 한다. 단어를 짧게 줄이는 약어와 달리 글자의 시각적 대체가 기본 원리다.",
+    "sections": [
+      [
+        "상세 설명",
+        "알파벳과 닮은 숫자나 기호로 글자를 바꾸면 문장의 소리는 유지하면서 겉모양은 알아보기 어렵게 만들 수 있다. 독자는 기호를 원래 글자로 되돌려 읽는 과정에 참여하며, 이런 표기는 온라인 집단의 말투와 이미지를 나타내기도 한다. 단어를 짧게 줄이는 약어와 달리 글자의 시각적 대체가 기본 원리다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

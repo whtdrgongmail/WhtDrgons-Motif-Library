@@ -4,8 +4,8 @@
   "title": "몸과 복장에 숨긴 무기",
   "original": "Hidden Weapons",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "상대가 쉽게 알아채지 못하도록 몸이나 복장의 뜻밖의 위치에 감춘 무기다. 겉으로는 비무장처럼 보이게 하거나 예기치 않은 순간에 꺼내는 데 쓰인다.",
     "detail": "작품 사례: [[The Tale of Food]]의 도터스 레드는 섬세한 인상 뒤에 소매와 양산 등에 감춘 무기를 지녀, 상대가 예상하지 못한 순간에 공격한다.",
@@ -13,10 +13,10 @@
     "boundary": "무기 자체가 옷의 일부로 설계된 경우나 물리적 수납이 불가능한 무기 공간과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소매와 복장, 소지품 안에 무기를 눈에 띄지 않게 휴대하는 설정이다. 외형에서 예상한 무장 수준과 실제 공격 수단의 차이가 기습의 조건이 된다.\n\n의복 자체가 무기로 설계된 경우와 다르다. 실제 수납이 불가능한 별도 공간에서 무기를 꺼내는 방식과도 구분되며 신체 가까운 물리적 은닉이 중심이다.\n\n[[The Tale of Food]]의 도터스 레드는 섬세한 외모와 달리 소매와 양산 등에 무기를 숨긴다. 상대의 예상과 다른 무장을 뜻밖의 순간에 드러내 공격한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소매와 복장, 소지품 안에 무기를 눈에 띄지 않게 휴대하는 설정이다. 외형에서 예상한 무장 수준과 실제 공격 수단의 차이가 기습의 조건이 된다.\n\n의복 자체가 무기로 설계된 경우와 다르다. 실제 수납이 불가능한 별도 공간에서 무기를 꺼내는 방식과도 구분되며 신체 가까운 물리적 은닉이 중심이다."
+      ],
+      [
+        "관련 작품",
+        "[[The Tale of Food]]의 도터스 레드는 섬세한 외모와 달리 소매와 양산 등에 무기를 숨긴다. 상대의 예상과 다른 무장을 뜻밖의 순간에 드러내 공격한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

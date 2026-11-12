@@ -4,8 +4,8 @@
   "title": "매장지 위에 세워진 장소의 저주",
   "original": "Indian Burial Ground",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01203",
+  "primary_tag_id": "ML-T01203",
   "description": {
     "definition": "어떤 장소 아래의 원주민 매장지와 그곳에 잠든 영들의 불안을 초자연적 사건의 원인으로 설정하는 관습이다.",
     "detail": "작품 사례: [[The Amityville Horror (1979)]]와 초기 후속편들은 집 아래의 원주민 매장지를 악한 기운의 원인으로 설정하여, 건물보다 오래된 죽음의 장소가 현재의 주거 공간을 위협하게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 원주민 신앙을 일반화하지 않으며 매장지를 공포 장치로 소비하는 표현의 맥락을 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "장소 아래의 매장지와 영들의 불안을 초자연적 사건의 원인으로 삼는다. 건설된 공간과 이전의 죽음이 갈등으로 연결된다.\n\n현재 사람들은 모른 채 그 위에서 살다가 과거와 마주할 수 있다. 장소의 역사가 위협의 인과가 된다.\n\n실제 원주민 신앙 전체의 설명이 아니다. 문화적 매장지를 공포의 재료로 소비한 표현의 맥락을 구분해야 한다.\n\n[[The Amityville Horror (1979)]]와 초기 후속편들은 집 아래의 원주민 매장지를 악한 기운의 원인으로 설정하여, 건물보다 오래된 죽음의 장소가 현재의 주거 공간을 위협하게 한다.\n\n[[The Amityville Horror (1979)]]",
+    "sections": [
+      [
+        "상세 설명",
+        "장소 아래의 매장지와 영들의 불안을 초자연적 사건의 원인으로 삼는다. 건설된 공간과 이전의 죽음이 갈등으로 연결된다.\n\n현재 사람들은 모른 채 그 위에서 살다가 과거와 마주할 수 있다. 장소의 역사가 위협의 인과가 된다.\n\n실제 원주민 신앙 전체의 설명이 아니다. 문화적 매장지를 공포의 재료로 소비한 표현의 맥락을 구분해야 한다."
+      ],
+      [
+        "사례",
+        "[[The Amityville Horror (1979)]]와 초기 후속편들은 집 아래의 원주민 매장지를 악한 기운의 원인으로 설정하여, 건물보다 오래된 죽음의 장소가 현재의 주거 공간을 위협하게 한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Amityville Horror (1979)]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "치유 행동에는 주지 않는 경험치",
   "original": "No Experience Points for Medic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02088",
+  "primary_tag_id": "ML-T02088",
   "description": {
     "definition": "전투 행동에만 경험치를 주고 동료를 회복하는 행동에는 성장 보상을 주지 않는 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공격에는 경험치를 주지만 회복에는 주지 않는 게임 규칙이다. 파티 생존에 기여한 행동과 성장 보상의 기준이 어긋난다. 치료로 전투에 기여해도 보상이 지급되지 않으면 지원 역할의 성장 속도가 다르게 될 수 있다.\n\n회복 담당자는 같은 전투에 참여해도 공격 담당자보다 성장이 느려질 수 있다. 플레이어에게 불필요한 공격을 하게 만드는 유인도 생긴다. 회복의 효과가 없다는 뜻이 아니라 효과에 대응하는 경험치의 분배가 없다는 차이다.\n\n전투가 끝난 뒤 모두가 같은 경험치를 받는 방식과 구분된다. 회복 자체에 보상이 없는지, 회복 담당자 전체가 보상에서 빠지는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공격에는 경험치를 주지만 회복에는 주지 않는 게임 규칙이다. 파티 생존에 기여한 행동과 성장 보상의 기준이 어긋난다. 치료로 전투에 기여해도 보상이 지급되지 않으면 지원 역할의 성장 속도가 다르게 될 수 있다.\n\n회복 담당자는 같은 전투에 참여해도 공격 담당자보다 성장이 느려질 수 있다. 플레이어에게 불필요한 공격을 하게 만드는 유인도 생긴다. 회복의 효과가 없다는 뜻이 아니라 효과에 대응하는 경험치의 분배가 없다는 차이다.\n\n전투가 끝난 뒤 모두가 같은 경험치를 받는 방식과 구분된다. 회복 자체에 보상이 없는지, 회복 담당자 전체가 보상에서 빠지는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

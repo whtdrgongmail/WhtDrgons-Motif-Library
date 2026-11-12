@@ -4,8 +4,8 @@
   "title": "선악을 판단하기 어려운 전향",
   "original": "Hazy–Feel Turn",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00736",
+  "primary_tag_id": "ML-T00736",
   "description": {
     "definition": "인물이 소속 진영을 실제로 바꾸지만 두 진영의 도덕적 우열이 불분명하여 그 전향이 선해짐인지 타락인지 판단하기 어려운 전개이다.",
     "detail": "작품 사례: [[The Chathrand Voyages]]의 주인공들은 가장 시급한 음모를 막는 데 도움을 줄 상대에 따라 동맹을 바꾸어, 진영 이동만으로 도덕적 개선이나 타락을 판정하기 어렵게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "소속 자체가 비밀인 인물이나 선악이 분명한 진영 사이의 반복 이동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.001.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "진영 이동은 행동의 변화이지만 그 자체로 도덕적 변화의 방향을 결정하지 않는다. 두 세력이 각각 문제와 정당성을 지니면 누구와 협력하는지보다 무엇을 위해 협력하는지가 중요해진다.\n\n급한 위협을 막기 위한 동맹은 과거의 적과 손잡게 할 수 있다. 이때 인물의 목표는 유지되면서 소속만 달라지므로 전향을 배신이나 구원이라는 단일 평가에 넣기 어렵다.\n\n실제 소속 변경이 확인되어야 하며 처음부터 정체를 숨긴 잠입자와는 다르다. 명백히 선한 세력과 악한 세력 사이를 오가는 경우도 도덕적 우열이 불분명한 이 조건과 구별된다.\n\n[[The Chathrand Voyages]]의 주인공들은 당장 막아야 할 음모에 대응하기 위해 협력 상대를 바꾼다.\n\n[[The Chathrand Voyages]]",
+    "sections": [
+      [
+        "상세 설명",
+        "진영 이동은 행동의 변화이지만 그 자체로 도덕적 변화의 방향을 결정하지 않는다. 두 세력이 각각 문제와 정당성을 지니면 누구와 협력하는지보다 무엇을 위해 협력하는지가 중요해진다.\n\n급한 위협을 막기 위한 동맹은 과거의 적과 손잡게 할 수 있다. 이때 인물의 목표는 유지되면서 소속만 달라지므로 전향을 배신이나 구원이라는 단일 평가에 넣기 어렵다.\n\n실제 소속 변경이 확인되어야 하며 처음부터 정체를 숨긴 잠입자와는 다르다. 명백히 선한 세력과 악한 세력 사이를 오가는 경우도 도덕적 우열이 불분명한 이 조건과 구별된다."
+      ],
+      [
+        "사례",
+        "[[The Chathrand Voyages]]의 주인공들은 당장 막아야 할 음모에 대응하기 위해 협력 상대를 바꾼다."
+      ],
+      [
+        "관련 작품",
+        "[[The Chathrand Voyages]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

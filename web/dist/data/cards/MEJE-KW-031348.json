@@ -4,8 +4,8 @@
   "title": "사진 몽타주",
   "original": "Photo Montage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01914",
+  "primary_tag_id": "ML-T01914",
   "description": {
     "definition": "여러 장의 사진을 이어 보여 주어 인물의 과거·관계·사건 이후의 삶을 압축해 전달하는 구성이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.009.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "앨범의 사진들이 차례로 넘어가며 두 사람이 어떻게 친해졌는지 짧게 보여 준다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "사진은 사건 전체가 아니라 남겨진 순간을 보여 준다. 그 사이의 빈 시간은 관객이 연결하므로 짧은 분량으로 긴 관계의 역사나 이후의 변화를 전달할 수 있다. 도입에서는 인물들의 공통 과거를, 결말에서는 이야기가 끝난 뒤의 생활을 암시하는 방식으로 사용된다.\n\n정지 이미지가 이어진다고 모두 사진 몽타주는 아니다. 이미지가 작품 안팎에서 사진으로 제시된다는 성격이 필요하다. 앨범, 벽에 붙은 사진, 화면을 채운 인화물 등 제시 방식에 따라 누가 그 기억을 간직했는지도 달라진다. 사진을 확대하거나 훑는 움직임과 음악은 기억의 정서를 덧붙인다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "사진은 사건 전체가 아니라 남겨진 순간을 보여 준다. 그 사이의 빈 시간은 관객이 연결하므로 짧은 분량으로 긴 관계의 역사나 이후의 변화를 전달할 수 있다. 도입에서는 인물들의 공통 과거를, 결말에서는 이야기가 끝난 뒤의 생활을 암시하는 방식으로 사용된다.\n\n정지 이미지가 이어진다고 모두 사진 몽타주는 아니다. 이미지가 작품 안팎에서 사진으로 제시된다는 성격이 필요하다. 앨범, 벽에 붙은 사진, 화면을 채운 인화물 등 제시 방식에 따라 누가 그 기억을 간직했는지도 달라진다. 사진을 확대하거나 훑는 움직임과 음악은 기억의 정서를 덧붙인다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

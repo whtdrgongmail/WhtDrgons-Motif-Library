@@ -4,8 +4,8 @@
   "title": "흡혈귀가 이끄는 추리 시리즈",
   "original": "Vampire Detective Series",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-007176",
+  "primary_tag_id": "MEJE-KW-007176",
   "description": {
     "definition": "[[흡혈귀]]의 존재를 도시 판타지나 공포의 조건으로 두고 범죄와 수수께끼를 조사하는 추리 [[서사]]를 지속적으로 전개하는 갈래다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": "흡혈귀를 사냥하기만 하는 작품이나 추리와 무관한 흡혈귀 연애물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.106.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "흡혈귀가 중심 인물로서 사건과 범죄의 수수께끼를 반복해서 조사한다. 긴 수명과 밤의 생활이 추리 활동의 조건과 인물의 관계에 영향을 줄 수 있다.\n\n초자연적 정체와 회차별 조사 구조가 함께 지속되어야 한다. 흡혈귀를 적으로 사냥하기만 하는 이야기나 추리 없이 연애만 전개하는 작품과는 중심 과제가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "흡혈귀가 중심 인물로서 사건과 범죄의 수수께끼를 반복해서 조사한다. 긴 수명과 밤의 생활이 추리 활동의 조건과 인물의 관계에 영향을 줄 수 있다.\n\n초자연적 정체와 회차별 조사 구조가 함께 지속되어야 한다. 흡혈귀를 적으로 사냥하기만 하는 이야기나 추리 없이 연애만 전개하는 작품과는 중심 과제가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

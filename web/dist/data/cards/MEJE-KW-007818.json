@@ -4,8 +4,8 @@
   "title": "백 단어 소설",
   "original": "Drabble",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00561",
+  "primary_tag_id": "ML-T00561",
   "description": {
     "definition": "정확히 백 단어로 한 편의 이야기를 완성하는 [[초단편]] 형식. 제한된 분량이 한 장면이나 순간의 의미를 압축한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "04",
+    "code": "04.002.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정확히 백 단어라는 제한 안에서 이야기를 완성하는 짧은 문학 형식이다. 단어 수의 조건이 표현의 선택과 생략을 결정한다.\n\n짧은 순간과 장면, 인물의 인식 변화에 집중하기 쉽다. 독자는 명시되지 않은 전후 관계를 추론하여 적은 문장보다 큰 이야기의 범위를 상상한다.\n\n단순히 분량이 짧은 모든 글과는 다르다. 백 단어라는 형식적 제약이 기준이며, 반드시 농담과 반전을 요구하지는 않는다. 다른 언어로 옮길 때는 단어를 세는 기준도 별도로 고려해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정확히 백 단어라는 제한 안에서 이야기를 완성하는 짧은 문학 형식이다. 단어 수의 조건이 표현의 선택과 생략을 결정한다.\n\n짧은 순간과 장면, 인물의 인식 변화에 집중하기 쉽다. 독자는 명시되지 않은 전후 관계를 추론하여 적은 문장보다 큰 이야기의 범위를 상상한다.\n\n단순히 분량이 짧은 모든 글과는 다르다. 백 단어라는 형식적 제약이 기준이며, 반드시 농담과 반전을 요구하지는 않는다. 다른 언어로 옮길 때는 단어를 세는 기준도 별도로 고려해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

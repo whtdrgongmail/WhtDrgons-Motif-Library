@@ -4,8 +4,8 @@
   "title": "출장을 핑계로 숨기는 외도",
   "original": "Business Trip Adultery",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "인물이 일 때문에 떠난다는 말을 이용해 다른 관계를 숨긴다. 업무상 이동에 대한 신뢰가 거짓말의 틈이 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인물이 출장을 간다는 설명을 이용해 배우자나 연인에게 다른 만남을 숨기는 상황이다. 업무 때문에 연락하기 어렵다는 사정이 거짓말을 유지하는 수단이 된다. 일하러 떠나는 행동 자체가 외도의 증거라는 뜻은 아니며 실제 기만과 약속 위반이 핵심이다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "출장을 부재의 명분으로 삼아 연인이나 배우자에게 외도를 감추는 구도다. 실제 출장을 이용할 수도 있고 존재하지 않는 업무를 꾸밀 수도 있으며, 평소 신뢰하던 직업상의 일정이 거짓말을 믿게 하는 배경이 된다.\n\n남아 있는 사람의 관점에서는 연락과 귀가 시점 같은 익숙한 정보가 의심의 단서로 바뀐다. 업무에 대한 질문이 사적 관계의 검증이 되고, 우연한 목격이나 일정의 모순이 드러날 때 직장과 가정의 분리가 무너진다.\n\n출장 자체를 외도의 징후로 일반화하는 것은 이 장치의 의미가 아니다. 핵심은 신뢰를 바탕으로 한 설명이 비밀을 유지하는 데 이용된다는 점이다. 진실을 발견하는 과정뿐 아니라 이후에 일상의 일정과 말을 다시 믿을 수 있는지가 관계의 지속적인 갈등이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "출장을 부재의 명분으로 삼아 연인이나 배우자에게 외도를 감추는 구도다. 실제 출장을 이용할 수도 있고 존재하지 않는 업무를 꾸밀 수도 있으며, 평소 신뢰하던 직업상의 일정이 거짓말을 믿게 하는 배경이 된다.\n\n남아 있는 사람의 관점에서는 연락과 귀가 시점 같은 익숙한 정보가 의심의 단서로 바뀐다. 업무에 대한 질문이 사적 관계의 검증이 되고, 우연한 목격이나 일정의 모순이 드러날 때 직장과 가정의 분리가 무너진다.\n\n출장 자체를 외도의 징후로 일반화하는 것은 이 장치의 의미가 아니다. 핵심은 신뢰를 바탕으로 한 설명이 비밀을 유지하는 데 이용된다는 점이다. 진실을 발견하는 과정뿐 아니라 이후에 일상의 일정과 말을 다시 믿을 수 있는지가 관계의 지속적인 갈등이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

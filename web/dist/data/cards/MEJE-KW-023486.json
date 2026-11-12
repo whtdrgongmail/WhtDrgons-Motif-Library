@@ -4,8 +4,8 @@
   "title": "기존 인기작을 꺾을 작품이라는 기대",
   "original": "[Insert Game Here] Killer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02301",
+  "primary_tag_id": "ML-T02301",
   "description": {
     "definition": "발매를 앞둔 작품이 같은 [[장르]]의 지배적인 인기작을 대체하거나 능가할 경쟁자로 불리며 높은 기대를 받는 현상이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "실제로 경쟁작을 몰아냈는지와 별개인 기대·홍보의 표현이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "신작이 기존 인기작을 꺾고 그 자리를 대신할 것이라는 기대나 선전이 형성된다. 새 작품의 위치를 설명할 때 이미 지배적인 작품을 비교 기준으로 삼는다.\n\n대체를 예고하는 말은 주목을 모으는 동시에 평가의 기준을 높인다. 신작은 자신의 성과뿐 아니라 기존 인기작을 넘어섰는지에 따라서도 판단받게 된다.\n\n그런 기대가 실제 성공을 증명하지는 않는다. 발표 전후의 전망과 이후에 확인되는 결과를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "신작이 기존 인기작을 꺾고 그 자리를 대신할 것이라는 기대나 선전이 형성된다. 새 작품의 위치를 설명할 때 이미 지배적인 작품을 비교 기준으로 삼는다.\n\n대체를 예고하는 말은 주목을 모으는 동시에 평가의 기준을 높인다. 신작은 자신의 성과뿐 아니라 기존 인기작을 넘어섰는지에 따라서도 판단받게 된다.\n\n그런 기대가 실제 성공을 증명하지는 않는다. 발표 전후의 전망과 이후에 확인되는 결과를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

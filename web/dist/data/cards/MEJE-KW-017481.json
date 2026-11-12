@@ -4,8 +4,8 @@
   "title": "사용하면 재앙을 일으키는 저주 유물",
   "original": "Artifact of Doom",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01484",
+  "primary_tag_id": "ML-T01484",
   "description": {
     "definition": "저주나 초자연적 성질 때문에 지니거나 사용할 때 끔찍한 사건을 일으킬 수 있는 물건이다. 물건의 힘을 쓰는 선택과 주변에 돌아오는 재앙이 연결된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "사용자의 가치관을 서서히 타락시키는 유혹만을 가리키지 않으며, 보통 물건의 사고나 결함과도 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소유하거나 힘을 사용한 대가로 파괴와 타락을 일으키는 물건이다. 당장 얻을 수 있는 이익이 있어도 주변에 생기는 피해가 그 선택을 위험하게 만든다.\n\n물건이 직접 명령하지 않더라도 사용자의 욕망을 강화하거나 반복적인 사용을 유도할 수 있다. 외형이 불길하다는 인상만으로는 부족하며 저주와 사건 사이의 작동 관계가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소유하거나 힘을 사용한 대가로 파괴와 타락을 일으키는 물건이다. 당장 얻을 수 있는 이익이 있어도 주변에 생기는 피해가 그 선택을 위험하게 만든다.\n\n물건이 직접 명령하지 않더라도 사용자의 욕망을 강화하거나 반복적인 사용을 유도할 수 있다. 외형이 불길하다는 인상만으로는 부족하며 저주와 사건 사이의 작동 관계가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

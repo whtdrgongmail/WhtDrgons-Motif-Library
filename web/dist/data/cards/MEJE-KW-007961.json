@@ -4,8 +4,8 @@
   "title": "드릴로 파고드는 전차",
   "original": "Drill Tank",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01454",
+  "primary_tag_id": "ML-T01454",
   "description": {
     "definition": "앞에 달린 거대한 드릴로 땅이나 암석을 뚫고 이동하는 허구의 차량이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "앞부분의 거대한 드릴로 지면과 장벽을 뚫는 가상의 차량이다. 지하 공간을 일반적인 도로처럼 이동할 수 있게 한다.\n\n채굴과 터널 공사, 비밀 기지로의 진입과 전투가 용도가 될 수 있다. 차량 자체가 장애물을 만드는 지형에 대응하므로 기존 길이 막힌 상황에서 새로운 경로를 제공한다.\n\n실제 굴착 장비와 이름과 외형이 닮아도 빠른 자유 이동은 과장될 수 있다. 파낸 재료와 동력, 내부 공간을 어떻게 처리하는지가 세계의 기술 수준을 설명하며, 무기로 쓰는 드릴과 이동 수단의 기능도 구별할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "앞부분의 거대한 드릴로 지면과 장벽을 뚫는 가상의 차량이다. 지하 공간을 일반적인 도로처럼 이동할 수 있게 한다.\n\n채굴과 터널 공사, 비밀 기지로의 진입과 전투가 용도가 될 수 있다. 차량 자체가 장애물을 만드는 지형에 대응하므로 기존 길이 막힌 상황에서 새로운 경로를 제공한다.\n\n실제 굴착 장비와 이름과 외형이 닮아도 빠른 자유 이동은 과장될 수 있다. 파낸 재료와 동력, 내부 공간을 어떻게 처리하는지가 세계의 기술 수준을 설명하며, 무기로 쓰는 드릴과 이동 수단의 기능도 구별할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

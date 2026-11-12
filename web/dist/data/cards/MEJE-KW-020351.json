@@ -4,8 +4,8 @@
   "title": "폭포 아래의 명상",
   "original": "Meditating Under a Waterfall",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00770",
+  "primary_tag_id": "ML-T00770",
   "description": {
     "definition": "폭포의 물줄기를 맞는 위치에 머물며 정신을 집중하고 명상하는 수련 장면이다.",
     "detail": "작품 사례: 애니메이션 《[[역전재판]]》의 두 번째 오프닝에서는 마요이가 폭포 아래에서 명상하고 하루미가 이를 지켜본다.",
@@ -13,10 +13,10 @@
     "boundary": "단순한 물놀이·목욕과 구분하며 실제 수행의 안전성이나 효과를 보증하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-002968",
+      "work_card_id": "MM-MEDIA-002639",
       "description_ko": "애니메이션 《역전재판》의 두 번째 오프닝에서는 마요이가 폭포 아래에서 명상하고 하루미가 이를 지켜본다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "폭포의 물줄기를 맞으며 자세를 유지하고 정신을 집중하는 수련 장면이다. 외부 자극 속에서 흔들리지 않는 태도가 강조된다.\n\n인물이 결심을 다지거나 중요한 행동을 준비하는 과정으로 배치할 수 있다. 주변의 강한 움직임과 고요한 인물의 자세를 대비해 집중력을 시각적으로 전달한다.\n\n폭포에서 단순히 씻거나 노는 장면과는 목적이 다르다. 구체적인 종교적 의미가 있는지는 작품의 맥락으로 확인해야 하며, 장면만으로 실제 수련의 효과를 단정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "폭포의 물줄기를 맞으며 자세를 유지하고 정신을 집중하는 수련 장면이다. 외부 자극 속에서 흔들리지 않는 태도가 강조된다.\n\n인물이 결심을 다지거나 중요한 행동을 준비하는 과정으로 배치할 수 있다. 주변의 강한 움직임과 고요한 인물의 자세를 대비해 집중력을 시각적으로 전달한다.\n\n폭포에서 단순히 씻거나 노는 장면과는 목적이 다르다. 구체적인 종교적 의미가 있는지는 작품의 맥락으로 확인해야 하며, 장면만으로 실제 수련의 효과를 단정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

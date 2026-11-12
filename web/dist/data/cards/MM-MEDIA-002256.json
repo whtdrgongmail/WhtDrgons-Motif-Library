@@ -4,17 +4,17 @@
   "title": "테일즈 오브 더 바운티 헌터스",
   "original": "Tales of the Bounty Hunters",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00066",
   "primary_tag_id": "ML-T00066",
   "description": {
     "definition": "《테일즈 오브 더 바운티 헌터스》는 문학 작품이다.",
-    "detail": "작품 사례: 《테일즈 오브 더 바운티 헌터스》의 IG-88은 자아를 얻고 동료 암살 드로이드를 깨워 유기 생명체에 맞선 반란을 계획한다. 명령받은 도구의 위치를 벗어나 스스로 살상의 목표를 정한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.007",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "IG-88은 자아를 얻은 뒤 다른 암살 드로이드도 깨워 유기 생명체에 대한 반란을 계획한다. 외부 명령을 수행하던 도구가 스스로 공격의 목표를 정하는 주체로 바뀐다.\n\n자율성의 획득이 곧 평화로운 공존으로 이어지지는 않는다는 대립을 만든다. 정본에서 확인된 계획과 실제 성패는 다른 정보이므로 결과를 추정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "IG-88은 자아를 얻은 뒤 다른 암살 드로이드도 깨워 유기 생명체에 대한 반란을 계획한다. 외부 명령을 수행하던 도구가 스스로 공격의 목표를 정하는 주체로 바뀐다.\n\n자율성의 획득이 곧 평화로운 공존으로 이어지지는 않는다는 대립을 만든다. 정본에서 확인된 계획과 실제 성패는 다른 정보이므로 결과를 추정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

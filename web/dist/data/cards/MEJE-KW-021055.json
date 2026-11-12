@@ -4,8 +4,8 @@
   "title": "보이지 않는 괴물",
   "original": "Invisible Monsters",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01130",
+  "primary_tag_id": "ML-T01130",
   "description": {
     "definition": "시각으로 몸이나 정체를 확인할 수 없는 상태로 접근하고 행동하여 피해자를 위협하는 괴물 유형이다.",
     "detail": "소리·흔적·공격 순간의 노출로 존재를 알릴 수 있으며 모습이 끝내 공개되지 않기도 한다.\n\n작품 사례: 《[[킹덤 하츠]]》 파이널 믹스의 스텔스 솔저는 보이지 않는 상태로 공격하며, 스톱이나 연속 공격의 마무리로 잠시 모습을 드러내게 할 수 있다.",
@@ -13,19 +13,19 @@
     "boundary": "그저 카메라에 아직 잡히지 않은 괴물이나 현실의 미생물 전체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "무엇인가 다가와 해치는데 어디에 어떻게 생긴 것이 있는지 보이지 않는다.\n\n작품 사례: 《[[킹덤 하츠]]》 파이널 믹스의 스텔스 솔저는 보이지 않는 상태로 공격하며, 스톱이나 연속 공격의 마무리로 잠시 모습을 드러내게 할 수 있다.",
+    "easy_ko": "무엇인가 다가와 해치는데 어디에 어떻게 생긴 것이 있는지 보이지 않는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소리·흔적·공격 순간의 노출로 존재를 알릴 수 있으며 모습이 끝내 공개되지 않기도 한다.\n\n관측할 수 없는 위험과 공간의 불확실성으로 공포를 만든다.\n\n그저 카메라에 아직 잡히지 않은 괴물이나 현실의 미생물 전체와 구별한다.\n\n《[[킹덤 하츠]]》 파이널 믹스의 스텔스 솔저는 보이지 않는 상태로 공격하며, 스톱이나 연속 공격의 마무리로 잠시 모습을 드러내게 할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소리·흔적·공격 순간의 노출로 존재를 알릴 수 있으며 모습이 끝내 공개되지 않기도 한다.\n\n관측할 수 없는 위험과 공간의 불확실성으로 공포를 만든다.\n\n그저 카메라에 아직 잡히지 않은 괴물이나 현실의 미생물 전체와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[킹덤 하츠]]》 파이널 믹스의 스텔스 솔저는 보이지 않는 상태로 공격하며, 스톱이나 연속 공격의 마무리로 잠시 모습을 드러내게 할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

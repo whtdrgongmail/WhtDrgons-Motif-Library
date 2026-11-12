@@ -4,28 +4,28 @@
   "title": "극중 음원이 맡는 사운드트랙",
   "original": "In-Universe Soundtrack",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02003",
+  "primary_tag_id": "ML-T02003",
   "description": {
     "definition": "작품의 배경음악 대부분이 인물이 사용하는 기기나 장소의 음원에서 나와, 극중 소리이면서 장면의 분위기를 받치는 구성이다.",
     "detail": "기기의 주인과 선곡이 인물 성격을 드러내고 음악이 사건의 리듬을 만든다.\n\n작품 사례: 《[[베이비 드라이버]]》에서 베이비가 거의 늘 아이팟으로 듣는 음악이 영화의 움직임과 장면 분위기를 함께 이끈다.",
     "usage": "음악의 출처를 세계 안에 두면서 장면의 정서와 동작을 조직한다.",
-    "boundary": "실제 노래를 쓴다는 사실이나 한두 장면에서만 음악을 트는 것으로는 부족하며 사운드트랙의 큰 비중이 극중 음원이어야 한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "관객에게 흐르는 음악이 인물의 이어폰이나 라디오에서도 실제로 재생된다.\n\n작품 사례: 《[[베이비 드라이버]]》에서 베이비가 거의 늘 아이팟으로 듣는 음악이 영화의 움직임과 장면 분위기를 함께 이끈다.",
+    "easy_ko": "관객에게 흐르는 음악이 인물의 이어폰이나 라디오에서도 실제로 재생된다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기기의 주인과 선곡이 인물 성격을 드러내고 음악이 사건의 리듬을 만든다.\n\n실제 노래를 쓴다는 사실이나 한두 장면에서만 음악을 트는 것으로는 부족하며 사운드트랙의 큰 비중이 극중 음원이어야 한다.\n\n《[[베이비 드라이버]]》에서 베이비가 거의 늘 아이팟으로 듣는 음악이 영화의 움직임과 장면 분위기를 함께 이끈다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기기의 주인과 선곡이 인물 성격을 드러내고 음악이 사건의 리듬을 만든다.\n\n실제 노래를 쓴다는 사실이나 한두 장면에서만 음악을 트는 것으로는 부족하며 사운드트랙의 큰 비중이 극중 음원이어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[베이비 드라이버]]》에서 베이비가 거의 늘 아이팟으로 듣는 음악이 영화의 움직임과 장면 분위기를 함께 이끈다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

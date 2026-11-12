@@ -4,8 +4,8 @@
   "title": "해부할 동물을 놓아주다",
   "original": "Free the Frogs",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00850",
+  "primary_tag_id": "ML-T00850",
   "description": {
     "definition": "학교의 동물 해부 수업을 앞둔 학생이 생명을 해치는 일에 반대하며 동물을 풀어 주거나 수업 참여를 거부한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "해부 수업에서 동물의 생명을 해치는 데 반대해 참여를 거부하거나 동물을 놓아주는 장면이다. 교육의 목적과 윤리적 기준이 충돌한다.\n\n다른 학생과 교사는 학습의 가치와 대체 방법을 놓고 서로 다른 반응을 보인다. 행동의 결과가 새로운 소동과 책임으로 이어지면 선의만으로 문제를 끝낼 수 없다는 점도 드러난다.\n\n모든 수업이 살아 있는 동물을 같은 방식으로 다루는 것은 아니다. 작품의 설정과 실제 교육의 다양성을 구분해야 하며 반대자의 감정과 구체적인 선택의 효과를 함께 본다.",
+    "sections": [
+      [
+        "상세 설명",
+        "해부 수업에서 동물의 생명을 해치는 데 반대해 참여를 거부하거나 동물을 놓아주는 장면이다. 교육의 목적과 윤리적 기준이 충돌한다.\n\n다른 학생과 교사는 학습의 가치와 대체 방법을 놓고 서로 다른 반응을 보인다. 행동의 결과가 새로운 소동과 책임으로 이어지면 선의만으로 문제를 끝낼 수 없다는 점도 드러난다.\n\n모든 수업이 살아 있는 동물을 같은 방식으로 다루는 것은 아니다. 작품의 설정과 실제 교육의 다양성을 구분해야 하며 반대자의 감정과 구체적인 선택의 효과를 함께 본다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "일본 텔레비전 드라마",
   "original": "Dorama",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00062",
+  "primary_tag_id": "ML-T00062",
   "description": {
     "definition": "일본 방송의 [[연속극]]을 가리키는 말로, 연애·수사·희극 등 다양한 장르를 포함한다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.014.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일본의 [[텔레비전]] 드라마를 가리키는 범주다. 명칭에 드라마가 들어가지만 연애와 수사, 희극과 공포 등 다양한 내용과 분위기를 포함한다.\n\n정해진 방송 시기와 회차 구성은 이야기의 분량과 전개 방식에 영향을 준다. 주간 방송과 일일 방송 등 편성의 차이에 따라 인물 관계를 발전시키는 속도도 달라질 수 있다.\n\n하나의 장르와 동일한 말은 아니다. 제작 국가와 방송 형식의 범주를 주제와 구분해야 하며 특정 시기의 전형을 모든 일본 드라마에 적용하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일본의 [[텔레비전]] 드라마를 가리키는 범주다. 명칭에 드라마가 들어가지만 연애와 수사, 희극과 공포 등 다양한 내용과 분위기를 포함한다.\n\n정해진 방송 시기와 회차 구성은 이야기의 분량과 전개 방식에 영향을 준다. 주간 방송과 일일 방송 등 편성의 차이에 따라 인물 관계를 발전시키는 속도도 달라질 수 있다.\n\n하나의 장르와 동일한 말은 아니다. 제작 국가와 방송 형식의 범주를 주제와 구분해야 하며 특정 시기의 전형을 모든 일본 드라마에 적용하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

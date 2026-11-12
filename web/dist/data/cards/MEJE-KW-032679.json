@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032679",
+  "kind": "keyword",
+  "title": "다른 곳을 보기 전에는 풀 수 없는 퍼즐",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "독립적으로 풀 수 있을 듯한 퍼즐을 제시하면서 실제 성공 판정은 다른 장소의 확인 이벤트가 먼저 발동해야 허용하는 설계다.",
+    "detail": "",
+    "usage": "[[보이지 않는 선행 조건]]이 탐색과 시행착오를 유도하는 방식을 설명한다.",
+    "boundary": "힌트가 부족한 어려운 퍼즐과 달리 필요한 답을 알아도 외부 상태값 때문에 해결이 막힌다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "암호를 아무리 맞혀 봐도 다른 곳에 다녀오기 전에는 열리지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "퍼즐의 답을 알아도 다른 장소의 이벤트가 먼저 처리되지 않으면 성공하지 못한다. 지식의 확보와 시스템의 허용 조건이 분리된다.\n\n겉으로 독립적인 문제처럼 보여 시행착오가 늘어날 수 있다. 막힌 이유를 분석하려면 입력한 정답과 선행 상태값을 따로 확인해야 한다.\n\n단지 힌트가 부족한 어려운 퍼즐과는 다르다. 외부 상태 때문에 올바른 해법조차 적용할 수 없는 규칙이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "퍼즐의 답을 알아도 다른 장소의 이벤트가 먼저 처리되지 않으면 성공하지 못한다. 지식의 확보와 시스템의 허용 조건이 분리된다.\n\n겉으로 독립적인 문제처럼 보여 시행착오가 늘어날 수 있다. 막힌 이유를 분석하려면 입력한 정답과 선행 상태값을 따로 확인해야 한다.\n\n단지 힌트가 부족한 어려운 퍼즐과는 다르다. 외부 상태 때문에 올바른 해법조차 적용할 수 없는 규칙이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

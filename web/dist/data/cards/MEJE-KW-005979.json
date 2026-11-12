@@ -4,8 +4,8 @@
   "title": "커버곡만 모은 음반",
   "original": "Cover Album",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00142",
+  "primary_tag_id": "ML-T00142",
   "description": {
     "definition": "다른 음악가의 기존 곡을 다시 부른 녹음을 한 음반에 모은다. 곡의 선택과 새 해석이 음반 전체의 주제가 된다. 한 음반에 실린 커버곡 가운데 원곡보다 더 널리 알려지는 녹음도 있다: [[원곡보다 더 유명해진 커버곡]].",
     "detail": "",
@@ -13,16 +13,16 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.008.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "publication_form",
+    "parent_relation": "contextual",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
@@ -36,5 +36,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "커버곡만 모은 음반은 여러 음악가의 기존 곡을 다시 연주하거나 노래한 녹음으로 구성된 앨범이다. 선곡과 배열, 통일된 해석이 음반의 주제를 형성한다.\n\n커버는 원곡의 선율이나 가사를 유지하면서 편곡, 템포, 보컬 해석을 바꿀 수 있다. 앨범의 개념은 특정 시대나 장르에 대한 재해석일 수도 있으며, 한 곡만 다시 부른 싱글과는 규모가 다르다.\n\n수록곡이 기존 곡을 포함한다고 전체가 커버 앨범은 아니다. 원곡보다 더 널리 알려진 사례는 [[원곡보다 더 유명해진 커버곡]]과 연결되며, 발표 순서와 권리 정보를 확인해야 한다.\n\n가상 예시: 재즈 밴드는 한 작곡가의 발라드 열 곡을 서로 다른 편성으로 녹음한다. 곡 순서는 밤의 시간 흐름을 따라 구성된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "커버곡만 모은 음반은 여러 음악가의 기존 곡을 다시 연주하거나 노래한 녹음으로 구성된 앨범이다. 선곡과 배열, 통일된 해석이 음반의 주제를 형성한다.\n\n커버는 원곡의 선율이나 가사를 유지하면서 편곡, 템포, 보컬 해석을 바꿀 수 있다. 앨범의 개념은 특정 시대나 장르에 대한 재해석일 수도 있으며, 한 곡만 다시 부른 싱글과는 규모가 다르다.\n\n수록곡이 기존 곡을 포함한다고 전체가 커버 앨범은 아니다. 원곡보다 더 널리 알려진 사례는 [[원곡보다 더 유명해진 커버곡]]과 연결되며, 발표 순서와 권리 정보를 확인해야 한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 재즈 밴드는 한 작곡가의 발라드 열 곡을 서로 다른 편성으로 녹음한다. 곡 순서는 밤의 시간 흐름을 따라 구성된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

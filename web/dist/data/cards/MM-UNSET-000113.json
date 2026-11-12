@@ -4,22 +4,44 @@
   "title": "불살주의",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01583",
+  "primary_tag_id": "ML-T01583",
   "description": {
-    "definition": "",
+    "definition": "인물이 다른 존재를 죽이지 않겠다고 정하고 그 한계를 행동의 원칙으로 삼는 태도다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "18.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "상대와 맞서더라도 죽이지는 않겠다는 원칙이다. 모든 싸움을 피한다는 뜻은 아니다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불살주의는 죽이는 행동을 하지 않겠다는 원칙에 초점을 둔다. 따라서 방어하거나 상대를 제압하는 모든 행동까지 거부한다는 뜻은 아니다. 연결 문맥에서는 무술가가 맹세를 지키며 방어할 수도 있고, 목적을 위해 원칙을 버릴 수도 있다.\n\n어떤 존재를 보호 대상으로 삼는지와 의도하지 않은 죽음까지 어떻게 판단하는지는 작품이 정하는 범위다. 불살주의라는 표제만으로 그 적용 대상을 자동으로 넓히지 않는다.\n\n[[맹세]]는 원칙을 지키겠다고 한 약속이고, 불살주의는 죽이지 않겠다는 내용의 원칙이다. 원칙을 공개적으로 맹세한 인물도 있고 별도의 선언 없이 지키는 인물도 있을 수 있다. 약속의 형식과 실제 행동은 각각 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불살주의는 죽이는 행동을 하지 않겠다는 원칙에 초점을 둔다. 따라서 방어하거나 상대를 제압하는 모든 행동까지 거부한다는 뜻은 아니다. 연결 문맥에서는 무술가가 맹세를 지키며 방어할 수도 있고, 목적을 위해 원칙을 버릴 수도 있다.\n\n어떤 존재를 보호 대상으로 삼는지와 의도하지 않은 죽음까지 어떻게 판단하는지는 작품이 정하는 범위다. 불살주의라는 표제만으로 그 적용 대상을 자동으로 넓히지 않는다.\n\n[[맹세]]는 원칙을 지키겠다고 한 약속이고, 불살주의는 죽이지 않겠다는 내용의 원칙이다. 원칙을 공개적으로 맹세한 인물도 있고 별도의 선언 없이 지키는 인물도 있을 수 있다. 약속의 형식과 실제 행동은 각각 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

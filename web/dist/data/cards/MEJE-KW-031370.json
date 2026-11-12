@@ -4,8 +4,8 @@
   "title": "외형과 내면의 인간성이 엇갈리는 로봇",
   "original": "Pick Your Human Half",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00960",
+  "primary_tag_id": "ML-T00960",
   "description": {
     "definition": "사람처럼 생긴 로봇은 기계적으로 행동하고 기계처럼 생긴 로봇은 인간적인 감정을 보여 주는 대비 관습이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.009.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "사람과 꼭 닮은 안드로이드는 무표정한데, 투박한 금속 로봇은 농담하고 질투한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "외형과 행동 가운데 한쪽을 인간과 다르게 남겨 인물의 비인간적 정체성을 알아보게 한다. 인간 같은 몸에 딱딱한 말투를 주면 닮았지만 다르다는 거리감이 생기고, 노골적인 기계 몸에 풍부한 감정을 주면 겉모습을 넘어선 친밀감이 생긴다. 두 방식을 한 작품에 나란히 배치할 수도 있다.\n\n모든 로봇이 따라야 하는 세계 규칙은 아니다. 외형과 행동 모두 인간적인 존재나 양쪽 모두 기계적인 존재도 가능하다. 이 관습의 의미는 어느 쪽을 인간성의 증거로 느끼게 하는지에 있다. 무표정한 인물에게도 감정이 있을 수 있으므로 감정의 존재와 표현 방식을 구별하면 더 복합적인 묘사가 된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "외형과 행동 가운데 한쪽을 인간과 다르게 남겨 인물의 비인간적 정체성을 알아보게 한다. 인간 같은 몸에 딱딱한 말투를 주면 닮았지만 다르다는 거리감이 생기고, 노골적인 기계 몸에 풍부한 감정을 주면 겉모습을 넘어선 친밀감이 생긴다. 두 방식을 한 작품에 나란히 배치할 수도 있다.\n\n모든 로봇이 따라야 하는 세계 규칙은 아니다. 외형과 행동 모두 인간적인 존재나 양쪽 모두 기계적인 존재도 가능하다. 이 관습의 의미는 어느 쪽을 인간성의 증거로 느끼게 하는지에 있다. 무표정한 인물에게도 감정이 있을 수 있으므로 감정의 존재와 표현 방식을 구별하면 더 복합적인 묘사가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

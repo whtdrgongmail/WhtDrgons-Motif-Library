@@ -4,8 +4,8 @@
   "title": "친밀한 접촉으로 가리는 소매치기",
   "original": "Affectionate Pickpocket",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00797",
+  "primary_tag_id": "ML-T00797",
   "description": {
     "definition": "포옹이나 친근한 접촉이 일어나는 순간 물건이 사라지는 [[사건]] 구성. 신뢰가 느껴지는 몸짓과 실제 행동의 차이로 배신감을 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.008.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소매치기가 접촉을 숨기기보다 포옹이나 입맞춤의 의미로 위장한다. 상대는 몸이 닿았다는 사실을 알지만 그것을 친밀함으로 받아들인다.\n\n호의적인 말과 몸짓이 물건을 잃은 사실의 발견을 늦춘다. 장면은 가까워졌다고 생각한 순간 실제로는 이용당했다는 차이로 웃음이나 배신감을 만든다.\n\n접촉 자체를 전혀 느끼지 못하게 하는 소매치기와는 다르다. 포옹 중 우연히 물건을 떨어뜨린 경우도 의도적인 절도와 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소매치기가 접촉을 숨기기보다 포옹이나 입맞춤의 의미로 위장한다. 상대는 몸이 닿았다는 사실을 알지만 그것을 친밀함으로 받아들인다.\n\n호의적인 말과 몸짓이 물건을 잃은 사실의 발견을 늦춘다. 장면은 가까워졌다고 생각한 순간 실제로는 이용당했다는 차이로 웃음이나 배신감을 만든다.\n\n접촉 자체를 전혀 느끼지 못하게 하는 소매치기와는 다르다. 포옹 중 우연히 물건을 떨어뜨린 경우도 의도적인 절도와 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

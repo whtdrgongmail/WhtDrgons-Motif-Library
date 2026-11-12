@@ -4,8 +4,8 @@
   "title": "특수 기능을 가진 안경",
   "original": "Goggles Do Something Unusual",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01482",
+  "primary_tag_id": "ML-T01482",
   "description": {
     "definition": "시력 보정이나 눈 보호 이외의 정보 표시·탐지·공격 등 비범한 기능을 가진 안경이나 고글이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "장식 효과나 일반적인 보안경 기능만으로는 해당하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "안경이나 고글에 시력 보정과 눈 보호 외의 특별한 기능을 부여한다. 착용자는 그 장비를 통해 평소 얻을 수 없는 정보를 보거나 전달받고 다른 효과를 사용할 수 있다.\n\n정보 표시와 탐지, 공격처럼 기능의 종류는 다양하다. 일반적인 안경 기능과 함께 작동할 수도 있으므로 시력을 보정한다는 이유만으로 특수 장비가 아니라고 할 수는 없다.\n\n멋있는 외형이나 위협적인 인상만으로는 해당하지 않는다. 일반적인 보호 기능을 넘어 실제로 유용하고 비범한 작용이 있어야 하며, 장식으로만 착용하는 고글과 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "안경이나 고글에 시력 보정과 눈 보호 외의 특별한 기능을 부여한다. 착용자는 그 장비를 통해 평소 얻을 수 없는 정보를 보거나 전달받고 다른 효과를 사용할 수 있다.\n\n정보 표시와 탐지, 공격처럼 기능의 종류는 다양하다. 일반적인 안경 기능과 함께 작동할 수도 있으므로 시력을 보정한다는 이유만으로 특수 장비가 아니라고 할 수는 없다.\n\n멋있는 외형이나 위협적인 인상만으로는 해당하지 않는다. 일반적인 보호 기능을 넘어 실제로 유용하고 비범한 작용이 있어야 하며, 장식으로만 착용하는 고글과 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

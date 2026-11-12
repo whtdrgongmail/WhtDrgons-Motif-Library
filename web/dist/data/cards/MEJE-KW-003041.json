@@ -4,8 +4,8 @@
   "title": "도와주기로 한 순간 손 놓아 배신하기",
   "original": "Betrayal by Inaction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "위험에 빠진 동료가 지원을 기대할 때 약속한 사람이 아무 행동도 하지 않는다. 적극적으로 공격하지 않아도 방치가 관계를 깨뜨린다. 가족 안에서도 약속한 도움을 거두면 [[자녀가 부모를 배신하기]]가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "동료가 위험해지면 도와주기로 했던 사람이 바로 그 순간 지원을 중단해 상대를 곤경에 빠뜨리는 배신이다. 직접 공격하지 않아도 약속된 도움이 사라져 피해가 발생한다. 가족 관계에서는 [[자녀가 부모를 배신하기]]의 한 방식이 될 수 있다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "필요한 순간에 도움을 제공하지 않아 상대를 위험에 남겨 두는 배신이다. 적극적인 공격이 없어도 이전의 약속과 협력 관계가 상대의 행동을 결정했다면 지원의 철회는 결정적인 원인이 된다.\n\n일부러 위험을 만든 뒤 구조를 거부하는 경우와 상황이 나빠지자 기회를 잡아 떠나는 경우는 계획성이 다르다. 도와줄 능력이 없었던 실패와 의도적인 방치를 구별해야 한다. 겉으로 같은 무행동도 동기와 선택 가능성에 따라 의미가 달라진다.\n\n배신자는 자신이 직접 해치지 않았다고 주장할 수 있지만 상대가 왜 도움을 믿었는지가 책임의 근거가 된다. 지원을 전제로 한 계획을 되돌릴 수 없는 시점에 철회하면 기만의 효과가 특히 크다. 피해자의 이후 불신도 한 번의 부재가 아니라 이 관계의 파괴에서 나온다.",
+    "sections": [
+      [
+        "상세 설명",
+        "필요한 순간에 도움을 제공하지 않아 상대를 위험에 남겨 두는 배신이다. 적극적인 공격이 없어도 이전의 약속과 협력 관계가 상대의 행동을 결정했다면 지원의 철회는 결정적인 원인이 된다.\n\n일부러 위험을 만든 뒤 구조를 거부하는 경우와 상황이 나빠지자 기회를 잡아 떠나는 경우는 계획성이 다르다. 도와줄 능력이 없었던 실패와 의도적인 방치를 구별해야 한다. 겉으로 같은 무행동도 동기와 선택 가능성에 따라 의미가 달라진다.\n\n배신자는 자신이 직접 해치지 않았다고 주장할 수 있지만 상대가 왜 도움을 믿었는지가 책임의 근거가 된다. 지원을 전제로 한 계획을 되돌릴 수 없는 시점에 철회하면 기만의 효과가 특히 크다. 피해자의 이후 불신도 한 번의 부재가 아니라 이 관계의 파괴에서 나온다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

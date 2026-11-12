@@ -4,27 +4,30 @@
   "title": "어쿠스틱 소리의 포크 펑크",
   "original": "Folk Punk",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-010409",
+  "primary_tag_id": "MEJE-KW-010409",
   "description": {
-    "definition": "포크의 음향 악기와 펑크의 빠른 박자, 직접 만든 듯한 거친 표현을 결합한 음악 장르다. [[민속 음악을 섞은 메탈]]도 민속 음악과 다른 장르를 섞지만, 펑크의 리듬과 직접 제작 문화가 중심이다.",
+    "definition": "포크의 음향 악기와 펑크의 빠른 박자, 직접 만든 듯한 거친 표현을 결합한 음악 장르다. [[포크 메탈]]도 민속 음악과 다른 장르를 섞지만, 펑크의 리듬과 직접 제작 문화가 중심이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "포크의 음향 악기와 펑크의 리듬 및 직접 제작 문화를 결합한 음악 갈래이다. 정교한 기교보다 가사의 솔직함과 거친 표현이 강조될 수 있다.\n\n전통적인 악기로 빠른 박자와 강한 발성을 구현하면서 두 장르의 성격을 함께 드러낸다. 단순한 곡 구조는 함께 부르고 전달하기 쉬운 효과를 만든다.\n\n포크 요소가 조금 있는 모든 펑크 곡과 동일하지는 않다. 악기뿐 아니라 표현과 제작의 맥락이 중요하며, 민속 요소를 쓰는 다른 혼합 장르와도 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "포크의 음향 악기와 펑크의 리듬 및 직접 제작 문화를 결합한 음악 갈래이다. 정교한 기교보다 가사의 솔직함과 거친 표현이 강조될 수 있다.\n\n전통적인 악기로 빠른 박자와 강한 발성을 구현하면서 두 장르의 성격을 함께 드러낸다. 단순한 곡 구조는 함께 부르고 전달하기 쉬운 효과를 만든다.\n\n포크 요소가 조금 있는 모든 펑크 곡과 동일하지는 않다. 악기뿐 아니라 표현과 제작의 맥락이 중요하며, 민속 요소를 쓰는 다른 혼합 장르와도 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

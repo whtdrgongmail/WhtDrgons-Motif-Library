@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000133",
   "kind": "keyword",
   "title": "마스코트",
-  "original": "",
+  "original": "Mascot",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F27",
   "description": {
-    "definition": "",
+    "definition": "조직·상품·행사·작품 등을 상징적으로 대표하며 친숙함과 식별성을 만드는 인물·동물 또는 캐릭터다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "27",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "이 캐릭터를 보면 어느 회사나 행사가 떠오르도록, 이름과 모습을 정해 앞에 내세우는 대표 얼굴이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마스코트는 이름·외형·표정·말투를 반복하여 추상적인 조직이나 행사를 기억하기 쉬운 대상으로 만든다. 안내와 홍보 메시지를 캐릭터의 행동과 목소리로 전달하면서 친숙한 관계를 형성할 수 있다.\n\n대표하는 대상과 같은 외형일 필요는 없다. 동물이나 의인화된 사물 등에도 성격과 역할을 부여할 수 있으며 홍보물·상품·현장 안내에서 같은 디자인을 사용하면 대상의 식별성이 유지된다.\n\n공식적으로 채택된 마스코트와 팬이나 사회운동이 자발적으로 상징 삼은 이미지는 지위가 다르다. 또한 광고에서 부각한 성격이 작품 본편의 인물상과 반드시 같지는 않으므로 대표 기능과 개별 작품의 성격 묘사는 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마스코트는 이름·외형·표정·말투를 반복하여 추상적인 조직이나 행사를 기억하기 쉬운 대상으로 만든다. 안내와 홍보 메시지를 캐릭터의 행동과 목소리로 전달하면서 친숙한 관계를 형성할 수 있다.\n\n대표하는 대상과 같은 외형일 필요는 없다. 동물이나 의인화된 사물 등에도 성격과 역할을 부여할 수 있으며 홍보물·상품·현장 안내에서 같은 디자인을 사용하면 대상의 식별성이 유지된다.\n\n공식적으로 채택된 마스코트와 팬이나 사회운동이 자발적으로 상징 삼은 이미지는 지위가 다르다. 또한 광고에서 부각한 성격이 작품 본편의 인물상과 반드시 같지는 않으므로 대표 기능과 개별 작품의 성격 묘사는 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

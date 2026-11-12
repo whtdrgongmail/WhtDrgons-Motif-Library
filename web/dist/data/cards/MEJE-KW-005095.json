@@ -4,8 +4,8 @@
   "title": "입력 순서를 외우는 고전 치트 코드",
   "original": "Classic Cheat Code",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "게임 화면에서 정해진 버튼 순서를 입력해 숨겨진 기능을 켠다. 비밀을 찾아 공유하는 문화가 조작법 자체를 놀이로 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정해진 순서의 조작을 입력해 보통의 진행과 다른 기능을 켜는 게임의 숨은 명령이다. 추가 생명이나 강화처럼 진행을 쉽게 하는 효과가 대표적으로 연결된다.\n\n발견한 입력을 외우고 다른 사람과 공유하는 일이 게임 주변의 놀이가 될 수 있다. 개발 중 확인을 돕는 기능에서 비롯된 경우도 있지만 모든 코드가 같은 경위로 만들어졌다고 단정할 수는 없다.\n\n[[플레이어]]가 파일을 바꾸거나 외부 프로그램을 쓰는 방식과 구분한다. 게임이 인식하도록 준비한 명령이라는 점이 중요하며, 특정 버튼을 길게 누르는 평범한 조작을 모두 비밀 코드로 보지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정해진 순서의 조작을 입력해 보통의 진행과 다른 기능을 켜는 게임의 숨은 명령이다. 추가 생명이나 강화처럼 진행을 쉽게 하는 효과가 대표적으로 연결된다.\n\n발견한 입력을 외우고 다른 사람과 공유하는 일이 게임 주변의 놀이가 될 수 있다. 개발 중 확인을 돕는 기능에서 비롯된 경우도 있지만 모든 코드가 같은 경위로 만들어졌다고 단정할 수는 없다.\n\n[[플레이어]]가 파일을 바꾸거나 외부 프로그램을 쓰는 방식과 구분한다. 게임이 인식하도록 준비한 명령이라는 점이 중요하며, 특정 버튼을 길게 누르는 평범한 조작을 모두 비밀 코드로 보지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "녹음한 말 조각을 조립해 만드는 대사",
   "original": "Mad Libs Dialogue",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "공통 문장과 달라지는 이름·숫자 등의 음성을 따로 녹음한 뒤 상황에 맞게 결합해 대사를 출력하는 제작 방식이다.",
     "detail": "작품 사례: 《[[파워 디지몬(TV 애니메이션)]]》 영어 더빙의 한 장면에서는 공격을 외칠 때 다른 음성 조각이 들어가 인물 이름이 출력된다. 원문은 녹음 조각을 조합하는 방식이 잘못 드러난 사례로 든다.",
@@ -13,10 +13,10 @@
     "boundary": "대표 대사의 [[말장난]]이 아니라 음성 자료를 조합하는 제작·출력 기술이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "문장의 공통 부분과 이름 및 숫자의 음성을 따로 녹음해 조립한다. 많은 상황에 맞는 대사를 적은 재료로 만들 수 있다.\n\n이어 붙인 억양과 길이가 맞지 않으면 기계적인 인상이 난다. 같은 배우가 전체 문장을 새로 녹음한 방식과는 제작 단위가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "문장의 공통 부분과 이름 및 숫자의 음성을 따로 녹음해 조립한다. 많은 상황에 맞는 대사를 적은 재료로 만들 수 있다.\n\n이어 붙인 억양과 길이가 맞지 않으면 기계적인 인상이 난다. 같은 배우가 전체 문장을 새로 녹음한 방식과는 제작 단위가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

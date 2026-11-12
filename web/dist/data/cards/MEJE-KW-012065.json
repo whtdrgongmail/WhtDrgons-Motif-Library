@@ -4,8 +4,8 @@
   "title": "금색으로 표시되는 우월한 등급",
   "original": "Gold-Colored Superiority",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F20",
+  "tag_id": "ML-T01746",
+  "primary_tag_id": "ML-T01746",
   "description": {
     "definition": "금색을 같은 종류의 다른 대상보다 더 강하거나 높은 등급이라는 신호로 사용하는 표현이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "금으로 꾸몄다는 사실이나 부의 표현만으로는 부족하며 [[능력]]·등급의 우위가 연결되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "20",
+    "code": "20.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 종류의 장비나 존재를 여러 등급으로 나누는 작품에서는 금색이 상위 등급을 즉시 알아보게 하는 시각 신호가 된다. 관객이나 이용자는 설명문을 읽기 전에도 색의 반복을 통해 더 높은 성능이나 지위를 예상할 수 있다.\n\n이 분류에는 금색과 실제 [[능력]] 또는 등급의 우위가 연결되어야 한다. 값비싼 재료를 사용했거나 부유함을 드러내기 위해 금으로 장식한 대상은 같은 색을 써도 우월한 등급이라는 규칙이 없으면 포함하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 종류의 장비나 존재를 여러 등급으로 나누는 작품에서는 금색이 상위 등급을 즉시 알아보게 하는 시각 신호가 된다. 관객이나 이용자는 설명문을 읽기 전에도 색의 반복을 통해 더 높은 성능이나 지위를 예상할 수 있다.\n\n이 분류에는 금색과 실제 [[능력]] 또는 등급의 우위가 연결되어야 한다. 값비싼 재료를 사용했거나 부유함을 드러내기 위해 금으로 장식한 대상은 같은 색을 써도 우월한 등급이라는 규칙이 없으면 포함하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

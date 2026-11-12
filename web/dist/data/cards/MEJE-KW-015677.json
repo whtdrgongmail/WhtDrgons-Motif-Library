@@ -4,8 +4,8 @@
   "title": "인물별 능력 조합이 중심인 슈팅 게임",
   "original": "Hero Shooter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015677",
+  "primary_tag_id": "MEJE-KW-015677",
   "description": {
     "definition": "각기 고정된 무기와 능력을 가진 인물 중 하나를 선택해 전투와 팀 목표를 수행하는 캐릭터 중심 슈팅 게임 유형이다.",
     "detail": "캐릭터별 능력·역할·장비 조합과 팀 목표를 강조하는 설계에 초점을 둔다. 다른 슈팅 [[장르]]와 비교할 때 사실성, 장비 수집과 수치 변화, 참가 규모, 부활 지점 같은 축을 따로 검토한다. 특정 인원수나 모든 게임의 공통 규칙을 필수 조건으로 고정하지 않는다.\n\n작품 사례: [[Team Fortress 2]]에서는 각 인물이 맡은 역할에 맞는 무기와 개성을 지닌다. 이중 점프나 은폐처럼 인물마다 다른 능력을 바탕으로 팀의 전투 구성을 정하게 된다.",
@@ -14,35 +14,66 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.202.007",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "총만 골라 바꾸는 대신 서로 다른 역할의 영웅을 골라 팀을 구성한다.\n\n작품 사례: [[Team Fortress 2]]에서는 각 인물이 맡은 역할에 맞는 무기와 개성을 지닌다. 이중 점프나 은폐처럼 인물마다 다른 능력을 바탕으로 팀의 전투 구성을 정하게 된다.",
+    "easy_ko": "총만 골라 바꾸는 대신 서로 다른 역할의 영웅을 골라 팀을 구성한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000902",
+      "work_card_id": "MM-MEDIA-002641",
       "description_ko": "Team Fortress 2에서는 각 인물이 맡은 역할에 맞는 무기와 개성을 지닌다. 이중 점프나 은폐처럼 인물마다 다른 능력을 바탕으로 팀의 전투 구성을 정하게 된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000269",
+      "card_id": "MEJE-KW-015677",
+      "label_ko": "Epic 영웅 슈팅 정의",
+      "icon_key": "game",
+      "url": "https://dev.epicgames.com/documentation/fortnite/hero-shooter",
+      "description_ko": "고유 능력과 무기를 가진 인물 선택형 슈팅 게임의 정의",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "다른 슈팅 [[장르]]와는 사실성, 장비 수집과 수치 변화, 참가 규모, 부활 지점 등의 규칙을 함께 비교할 수 있다. 특정 인원수나 모든 게임의 공통 규칙을 필수 조건으로 고정하지 않는다.\n\n인물 선택에 따라 무장·능력·협력 역할이 함께 결정되는지가 적용 기준이다.\n\n외형만 다른 인물이나 인물 선택과 무관하게 모든 장비와 능력을 조합하는 슈팅과 구별한다.\n\n작품 사례: 《[[팀 포트리스 2]]》에서는 각 인물이 맡은 역할에 맞는 무기와 개성을 지닌다. 이중 점프나 은폐처럼 인물마다 다른 능력을 바탕으로 팀의 전투 구성을 정하게 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 슈팅 [[장르]]와는 사실성, 장비 수집과 수치 변화, 참가 규모, 부활 지점 등의 규칙을 함께 비교할 수 있다. 특정 인원수나 모든 게임의 공통 규칙을 필수 조건으로 고정하지 않는다.\n\n인물 선택에 따라 무장·능력·협력 역할이 함께 결정되는지가 적용 기준이다.\n\n외형만 다른 인물이나 인물 선택과 무관하게 모든 장비와 능력을 조합하는 슈팅과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[팀 포트리스 2]]》에서는 각 인물이 맡은 역할에 맞는 무기와 개성을 지닌다. 이중 점프나 은폐처럼 인물마다 다른 능력을 바탕으로 팀의 전투 구성을 정하게 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

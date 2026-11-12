@@ -5,8 +5,8 @@
   "original": "Warm Colors for Men, Cool Colors for Women",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01848",
+  "primary_tag_id": "ML-T01848",
   "description": {
     "definition": "짝지은 남성 인물의 색채는 따뜻하게, 여성 인물의 색채는 차갑게 정하여 서로를 시각적으로 대비하는 배치이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "남녀의 실제 체온이나 성격에 관한 설명이 아니며 모든 예시 색 쌍이 엄밀한 난색·한색 분류를 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.002.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "짝지은 남성에게는 따뜻한 색을, 여성에게는 차가운 색을 주어 대비한다. 성별로 배분한 색채가 두 인물을 구분하는 시각적 관계를 만든다.\n\n천체나 원소의 상징이 함께 있으면 색의 대비와 서로 맞거나 어긋날 수 있다. 각각의 색 자체보다 두 인물을 나란히 배치했을 때의 효과가 중요하다.\n\n실제 체온과 성격에 대한 설명이 아니다. 모든 색 쌍이 엄밀한 난색과 한색의 분류에 완전히 맞아야 하는 것도 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "짝지은 남성에게는 따뜻한 색을, 여성에게는 차가운 색을 주어 대비한다. 성별로 배분한 색채가 두 인물을 구분하는 시각적 관계를 만든다.\n\n천체나 원소의 상징이 함께 있으면 색의 대비와 서로 맞거나 어긋날 수 있다. 각각의 색 자체보다 두 인물을 나란히 배치했을 때의 효과가 중요하다.\n\n실제 체온과 성격에 대한 설명이 아니다. 모든 색 쌍이 엄밀한 난색과 한색의 분류에 완전히 맞아야 하는 것도 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

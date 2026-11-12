@@ -4,8 +4,8 @@
   "title": "브레이크비트 하드코어",
   "original": "Breakbeat Hardcore",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008393",
+  "primary_tag_id": "MEJE-KW-008393",
   "description": {
     "definition": "잘라 사용한 드럼 브레이크와 거친 베이스·샘플을 중심으로 춤추기 쉬운 리듬을 구성하는 하드코어 양식이다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": "후대 [[브레이크코어]]의 급격하고 복잡한 리듬 분절과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.304.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "잘라 사용한 드럼 브레이크와 거친 베이스·샘플을 중심으로 춤추기 쉬운 리듬을 만든다. 기존 타격 구절의 재배치가 곡의 운동감을 조직한다.\n\n드럼의 조각과 다른 샘플이 결합되지만 중심은 춤을 이어 갈 수 있는 리듬이다. 어떤 소재를 썼는지와 그것을 얼마나 급격하게 분절했는지는 다른 비교 항목이다.\n\n후대 [[브레이크코어]]의 복잡하고 급격한 리듬 분절과 구분한다. 브레이크를 사용한다는 사실만으로 두 양식을 같은 범위에 넣지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "잘라 사용한 드럼 브레이크와 거친 베이스·샘플을 중심으로 춤추기 쉬운 리듬을 만든다. 기존 타격 구절의 재배치가 곡의 운동감을 조직한다.\n\n드럼의 조각과 다른 샘플이 결합되지만 중심은 춤을 이어 갈 수 있는 리듬이다. 어떤 소재를 썼는지와 그것을 얼마나 급격하게 분절했는지는 다른 비교 항목이다.\n\n후대 [[브레이크코어]]의 복잡하고 급격한 리듬 분절과 구분한다. 브레이크를 사용한다는 사실만으로 두 양식을 같은 범위에 넣지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

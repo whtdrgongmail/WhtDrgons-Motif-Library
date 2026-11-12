@@ -4,8 +4,8 @@
   "title": "탈옥을 중심으로 한 이야기",
   "original": "Great Escape",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00292",
+  "primary_tag_id": "ML-T00292",
   "description": {
     "definition": "수감 인물들이 계획·협력·은폐와 예상 밖의 장애를 거쳐 [[감옥]]에서 벗어나려는 과정을 중심으로 전개하는 [[사건]] 구조다.",
     "detail": "",
@@ -13,14 +13,23 @@
     "boundary": "외부인이 시설에 침입하는 작전이나 손상된 [[이동 수단]]을 고쳐 탈출하는 이야기는 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "03.108.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "[[탈출]] 동료를 모으고 밀고자를 경계하며 실행 단계의 돌발 상황을 해결한다.",
     "review_status": "reviewed",
@@ -30,5 +39,26 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영어 표제 Great Escape는 ‘대탈출’ 또는 ‘대규모 탈출’을 뜻하는 표현이다. 여기서는 시설에서 빠져나오는 사건 자체보다 탈출을 목표로 전개되는 이야기 유형을 가리킨다.\n\n이 유형에서 서사의 중심 과제는 갇힌 인물이나 집단이 감시, 구조, 자원 부족 같은 제약을 뚫고 구금 장소 밖으로 나가는 것이다. 탈출 계획의 수립과 수정, 동료 간 역할 분담, 경비 체계의 빈틈을 찾는 과정이 사건의 인과를 만든다.\n\n탈출에 성공하더라도 추적과 생존 문제가 이어질 수 있으며, 실패나 희생이 계획의 대가를 드러낼 수도 있다. 핵심은 외부인이 안으로 들어가는 침투 작전이나 고장 난 [[이동 수단]]의 수리가 아니라, 갇힌 쪽이 구금 상태를 끝내려는 목표에 있다.\n\n가상 예시: 광산 수용소의 포로들이 교대 시간과 환기 통로를 조사해 탈출 경로를 만들고, 계획이 드러난 뒤 각자의 역할을 바꾸며 경계선을 넘는다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "영어 표제 Great Escape는 ‘대탈출’ 또는 ‘대규모 탈출’을 뜻하는 표현이다. 여기서는 시설에서 빠져나오는 사건 자체보다 탈출을 목표로 전개되는 이야기 유형을 가리킨다."
+      ],
+      [
+        "상세 설명",
+        "이 유형에서 서사의 중심 과제는 갇힌 인물이나 집단이 감시, 구조, 자원 부족 같은 제약을 뚫고 구금 장소 밖으로 나가는 것이다. 탈출 계획의 수립과 수정, 동료 간 역할 분담, 경비 체계의 빈틈을 찾는 과정이 사건의 인과를 만든다.\n\n탈출에 성공하더라도 추적과 생존 문제가 이어질 수 있으며, 실패나 희생이 계획의 대가를 드러낼 수도 있다. 핵심은 외부인이 안으로 들어가는 침투 작전이나 고장 난 [[이동 수단]]의 수리가 아니라, 갇힌 쪽이 구금 상태를 끝내려는 목표에 있다."
+      ],
+      [
+        "사례",
+        "가상 예시: 광산 수용소의 포로들이 교대 시간과 환기 통로를 조사해 탈출 경로를 만들고, 계획이 드러난 뒤 각자의 역할을 바꾸며 경계선을 넘는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

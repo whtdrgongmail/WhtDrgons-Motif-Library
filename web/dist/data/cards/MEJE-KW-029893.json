@@ -4,8 +4,8 @@
   "title": "사람이 이길 수 있게 컴퓨터의 완벽한 입력 제한하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "컴퓨터가 낼 수 있는 정확한 타이밍과 즉각적인 조작을 일부러 제한해 사람이 대응할 수 있는 난도를 만드는 설계다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "컴퓨터가 가능한 완벽한 타이밍과 즉각 반응을 일부러 제한한다. 기계의 최대 성능보다 사람이 읽고 대응할 수 있는 경험을 목표로 삼는 설계다.\n\n반응 지연과 입력의 변화를 주면 상대가 실수할 가능성을 플레이어가 활용할 수 있다. 어려움은 유지하면서도 행동의 신호와 대응 시간을 맞추어 학습 가능한 경쟁을 만들 수 있다.\n\n규칙을 구현하지 못해 예외를 주는 방식과는 이유가 다르다. 컴퓨터가 느리게 반응했다고 모든 경우가 의도적 배려는 아니며 실제 설계 근거와 보이는 행동을 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "컴퓨터가 가능한 완벽한 타이밍과 즉각 반응을 일부러 제한한다. 기계의 최대 성능보다 사람이 읽고 대응할 수 있는 경험을 목표로 삼는 설계다.\n\n반응 지연과 입력의 변화를 주면 상대가 실수할 가능성을 플레이어가 활용할 수 있다. 어려움은 유지하면서도 행동의 신호와 대응 시간을 맞추어 학습 가능한 경쟁을 만들 수 있다.\n\n규칙을 구현하지 못해 예외를 주는 방식과는 이유가 다르다. 컴퓨터가 느리게 반응했다고 모든 경우가 의도적 배려는 아니며 실제 설계 근거와 보이는 행동을 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

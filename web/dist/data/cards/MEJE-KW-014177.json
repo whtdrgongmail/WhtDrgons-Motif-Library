@@ -4,8 +4,8 @@
   "title": "노인의 길 건너기를 돕는 선행",
   "original": "Helping Granny Cross the Street",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00820",
+  "primary_tag_id": "ML-T00820",
   "description": {
     "definition": "좋은 사람임을 보이려는 인물이 노인의 길 건너기를 돕는 행동을 대표적인 선행으로 수행하는 장면이다.",
     "detail": "작품 사례: [[The Odd Couple]]의 도입부에서 스카우트가 노인의 길 건너기를 돕자, Felix가 선행을 대신하겠다고 끼어들다가 오히려 두 사람에게 맞는다.",
@@ -13,10 +13,10 @@
     "boundary": "상대가 원하지 않은 도움은 선의의 엇갈림으로 별도 변주되며 항상 유익하다고 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.010.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "노인의 길 건너기를 돕는 장면은 짧은 행동으로 선량함을 알아보게 하는 관습적 표지가 될 수 있다. 그러나 선행을 하려는 사람의 의도와 도움을 받는 사람의 필요가 같은지는 별개의 문제다.\n\n상대가 도움을 원하지 않는데 행동을 밀어붙이면 선의의 엇갈림으로 변형된다. 대표적인 선행이라는 이미지가 있다고 해서 개입이 항상 유익한 결과를 준다고 전제하지 않는다.\n\n[[The Odd Couple]]의 도입부에서 Felix는 노인의 길 건너기를 돕는 스카우트에게 선행을 대신하겠다고 끼어든다. 오히려 두 사람에게 맞으면서 관습적인 선행과 당사자의 의사가 어긋난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "노인의 길 건너기를 돕는 장면은 짧은 행동으로 선량함을 알아보게 하는 관습적 표지가 될 수 있다. 그러나 선행을 하려는 사람의 의도와 도움을 받는 사람의 필요가 같은지는 별개의 문제다.\n\n상대가 도움을 원하지 않는데 행동을 밀어붙이면 선의의 엇갈림으로 변형된다. 대표적인 선행이라는 이미지가 있다고 해서 개입이 항상 유익한 결과를 준다고 전제하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[The Odd Couple]]의 도입부에서 Felix는 노인의 길 건너기를 돕는 스카우트에게 선행을 대신하겠다고 끼어든다. 오히려 두 사람에게 맞으면서 관습적인 선행과 당사자의 의사가 어긋난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

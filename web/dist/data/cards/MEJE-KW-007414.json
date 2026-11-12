@@ -4,8 +4,8 @@
   "title": "디스코 랩",
   "original": "Disco Rap",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-007414",
+  "primary_tag_id": "MEJE-KW-007414",
   "description": {
     "definition": "초기 힙합이 [[디스코]]의 춤 음악과 파티 문화에 기대어 발전한 음악 양식이다. 리듬 위의 구호와 랩이 [[공동체]]의 현장성을 담는다.",
     "detail": "작품 사례: [[\"Rapper's Delight\"]]는 Chic의 [[Good Times]] 연주를 바탕으로 선율 중심 노래 대신 리듬적인 랩을 얹어, 초기 힙합과 디스코의 연결을 보여 준다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 4,
+  "row_version": 5,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.303.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -51,5 +54,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "디스코 랩은 [[디스코]]의 반복적이고 춤에 적합한 리듬 위에 [[랩]]이나 구호를 결합한 초기 [[힙합]] 양식이다. 리듬 중심 반주와 말 중심 보컬의 결합은 파티와 공동 참여의 음악적 맥락을 형성한다.\n\n장르 판단은 발매 연도만으로 하지 않는다. 디스코에 가까운 리듬 기반과 랩 중심 보컬이 결합했는지, 곡이 초기 힙합의 파티 지향적 맥락과 맞닿는지 확인한다. 오래된 힙합 전반을 이 범주로 묶지 않고, 구체적인 사운드와 구성에서 근거를 찾는다.\n\n사례: [[Rapper's Delight]]는 Chic의 [[Good Times]] 연주를 바탕으로 리듬 중심 랩을 구성해 초기 힙합과 디스코의 연결을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "디스코 랩은 [[디스코]]의 반복적이고 춤에 적합한 리듬 위에 [[랩]]이나 구호를 결합한 초기 [[힙합]] 양식이다. 리듬 중심 반주와 말 중심 보컬의 결합은 파티와 공동 참여의 음악적 맥락을 형성한다.\n\n장르 판단은 발매 연도만으로 하지 않는다. 디스코에 가까운 리듬 기반과 랩 중심 보컬이 결합했는지, 곡이 초기 힙합의 파티 지향적 맥락과 맞닿는지 확인한다. 오래된 힙합 전반을 이 범주로 묶지 않고, 구체적인 사운드와 구성에서 근거를 찾는다."
+      ],
+      [
+        "사례",
+        "사례: [[Rapper's Delight]]는 Chic의 [[Good Times]] 연주를 바탕으로 리듬 중심 랩을 구성해 초기 힙합과 디스코의 연결을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

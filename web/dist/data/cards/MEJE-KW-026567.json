@@ -4,8 +4,8 @@
   "title": "작성자의 목소리로 들리는 편지",
   "original": "Voiceover Letter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "인물이 편지를 읽을 때 화면 밖에서 편지 작성자의 목소리로 내용을 들려주는 연출이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "읽는 사람 자신의 낭독이나 일반 해설과 화자가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "읽는 사람의 화면 위로 작성자의 목소리가 겹쳐 문장을 들려준다.\n\n실제로 같은 장소에 없어도 감정과 인격이 함께 도착한 듯한 효과를 만든다. 시작은 독자의 목소리이고 중간에 발신자의 음성으로 바뀔 수도 있다.\n\n작성자의 목소리는 관객에게 내용을 전달하는 연출일 수 있다. 편지를 읽는 인물이 실제 공간에서 그 목소리를 듣거나 작성자가 곁에 있다는 뜻은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "읽는 사람의 화면 위로 작성자의 목소리가 겹쳐 문장을 들려준다.\n\n실제로 같은 장소에 없어도 감정과 인격이 함께 도착한 듯한 효과를 만든다. 시작은 독자의 목소리이고 중간에 발신자의 음성으로 바뀔 수도 있다.\n\n작성자의 목소리는 관객에게 내용을 전달하는 연출일 수 있다. 편지를 읽는 인물이 실제 공간에서 그 목소리를 듣거나 작성자가 곁에 있다는 뜻은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

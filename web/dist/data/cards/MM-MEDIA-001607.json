@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "매직: 더 개더링",
   "original": "Magic: The Gathering",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Magic: The Gathering"
+  ],
+  "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
     "definition": "《매직: 더 개더링》은 테이블톱 게임 작품이다.",
-    "detail": "작품 사례: 《매직: 더 개더링》에서 에므라쿨 봉인 주문이 실패하려 하자 에므라쿨 자신이 타미요를 조종해 주문을 완성해, 봉인이 일방적 승리가 아님을 드러낸다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -37,6 +39,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-015663",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-017007",
       "row_version": 1
     },
@@ -49,5 +55,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《매직: 더 개더링》은 플레이어가 강력한 마법사로 겨루는 수집형 카드 게임이다. 주문과 생물, 마법물체와 부여마법을 카드로 사용하여 상대의 생명점을 줄이고 승리 조건을 달성한다.\n\n대결 전에 어떤 카드를 덱에 넣을지 선택하는 일과 경기 중 자원을 운용하는 일이 함께 중요하다. 다양한 세계와 인물을 배경으로 새 카드가 추가되지만, 개별 이야기만을 읽는 작품보다 그 재료를 조합해 반복해서 대전하는 규칙 체계가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《매직: 더 개더링》은 플레이어가 강력한 마법사로 겨루는 수집형 카드 게임이다. 주문과 생물, 마법물체와 부여마법을 카드로 사용하여 상대의 생명점을 줄이고 승리 조건을 달성한다.\n\n대결 전에 어떤 카드를 덱에 넣을지 선택하는 일과 경기 중 자원을 운용하는 일이 함께 중요하다. 다양한 세계와 인물을 배경으로 새 카드가 추가되지만, 개별 이야기만을 읽는 작품보다 그 재료를 조합해 반복해서 대전하는 규칙 체계가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

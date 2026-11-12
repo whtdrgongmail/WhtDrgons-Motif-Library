@@ -5,8 +5,8 @@
   "original": "Devotion to the First Person Who Accepted You",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01015",
+  "primary_tag_id": "ML-T01015",
   "description": {
     "definition": "오랫동안 배척당한 인물이 처음 자신을 받아 준 상대에게 과도할 만큼 충성하며 자신의 가치를 그 사람에게 유용한가에 의존하는 관계이다.",
     "detail": "작품 사례: 《[[나루토(만화)]]》의 하쿠는 자신을 받아 준 자부자에게 쓸모 있는 도구가 되는 것을 자기 가치의 근거로 삼으며 충성을 바친다.",
@@ -14,14 +14,20 @@
     "boundary": "일반적인 감사나 상호 신뢰와 달리 관계 상실의 두려움과 자기 가치의 의존이 크다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.006.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "처음 내 편이 되어 준 사람이어서 도구처럼 취급해도 떠나지 못한다.",
     "review_status": "reviewed",
@@ -39,5 +45,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "배척의 경험이 긴 인물에게 최초의 수용은 특별한 관계의 근거가 된다. 상대에게 유용한 사람이 되는 일을 자신의 가치와 직접 연결한다.\n\n관계를 잃는 두려움이 크면 충성은 자신의 필요를 포기하는 방향으로 확대될 수 있다. 감사의 크기뿐 아니라 자존감이 누구에게 의존하는지가 중요하다.\n\n상호 신뢰에 바탕을 둔 일반적인 헌신과는 불균형의 정도가 다르다. 수용 경험과 자기 가치의 의존이 함께 나타나야 한다.\n\n[[나루토(만화)]]의 하쿠는 자부자에게 쓸모 있는 도구가 되는 것을 자기 가치의 근거로 삼는다.\n\n[[나루토(만화)]]",
+    "sections": [
+      [
+        "상세 설명",
+        "배척의 경험이 긴 인물에게 최초의 수용은 특별한 관계의 근거가 된다. 상대에게 유용한 사람이 되는 일을 자신의 가치와 직접 연결한다.\n\n관계를 잃는 두려움이 크면 충성은 자신의 필요를 포기하는 방향으로 확대될 수 있다. 감사의 크기뿐 아니라 자존감이 누구에게 의존하는지가 중요하다.\n\n상호 신뢰에 바탕을 둔 일반적인 헌신과는 불균형의 정도가 다르다. 수용 경험과 자기 가치의 의존이 함께 나타나야 한다."
+      ],
+      [
+        "사례",
+        "[[나루토(만화)]]의 하쿠는 자부자에게 쓸모 있는 도구가 되는 것을 자기 가치의 근거로 삼는다."
+      ],
+      [
+        "관련 작품",
+        "[[나루토(만화)]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

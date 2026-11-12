@@ -4,8 +4,8 @@
   "title": "동료가 떠난 직후 의식을 되찾기",
   "original": "Mistimed Revival",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01941",
+  "primary_tag_id": "ML-T01941",
   "description": {
     "definition": "의식 없는 인물 곁을 지키던 사람이 위험하거나 중요한 일을 하겠다고 말하고 떠난 직후 그 인물이 깨어나, 회복 사실을 알았더라면 달라질 수 있었던 행동이 계속되는 전개이다.",
     "detail": "작품 사례: 《[[크라이시스 코어]]》에서 잭스가 의식 없는 클라우드를 두고 매복한 적과 싸우러 떠난 직후 클라우드가 움직일 수 있게 되면서, 함께 대응할 기회를 놓친다.",
@@ -13,10 +13,10 @@
     "boundary": "아무도 없는 곳에서 깨어나는 모든 장면을 뜻하지 않는다. 떠남과 회복의 어긋난 타이밍이 정보나 행동에 영향을 주어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "23.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-003204",
+      "work_card_id": "MM-MEDIA-001876",
       "description_ko": "《크라이시스 코어》에서 잭스가 의식 없는 클라우드를 두고 매복한 적과 싸우러 떠난 직후 클라우드가 움직일 수 있게 되면서, 함께 대응할 기회를 놓친다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "의식 없는 인물은 떠나는 사람의 계획을 바꿀 수 없는 상태로 보인다. 곁을 지키던 사람이 위험한 결심을 말하고 나간 바로 뒤 회복 징후가 나타나면서 정보가 엇갈린다.\n\n관객은 회복을 알고 떠난 인물은 모르는 상태가 되어 불필요할 수도 있는 희생과 위험이 계속된다. 시간 차이가 짧을수록 두 사람이 소통하지 못한 데서 생기는 안타까움이 커진다.\n\n아무도 없는 곳에서 깨어나는 장면 전체와는 다르다. 이별 직전의 선언과 직후의 회복 사이에 인과적으로 중요한 정보 차이가 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "의식 없는 인물은 떠나는 사람의 계획을 바꿀 수 없는 상태로 보인다. 곁을 지키던 사람이 위험한 결심을 말하고 나간 바로 뒤 회복 징후가 나타나면서 정보가 엇갈린다.\n\n관객은 회복을 알고 떠난 인물은 모르는 상태가 되어 불필요할 수도 있는 희생과 위험이 계속된다. 시간 차이가 짧을수록 두 사람이 소통하지 못한 데서 생기는 안타까움이 커진다.\n\n아무도 없는 곳에서 깨어나는 장면 전체와는 다르다. 이별 직전의 선언과 직후의 회복 사이에 인과적으로 중요한 정보 차이가 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

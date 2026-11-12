@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "스타게이트 SG-1",
   "original": "Stargate SG-1",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Stargate SG-1"
+  ],
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《스타게이트 SG-1》는 텔레비전 작품이다.",
-    "detail": "작품 사례: 《스타게이트 SG-1》의 아스가르드는 고급 기술을 흡수하는 리플리케이터를 상대하려 인간의 단순한 탄환 무기와 전투 방식을 필요로 한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -39,6 +41,14 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-014191",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-015673",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-016534",
       "row_version": 1
     },
@@ -55,5 +65,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미 공군의 탐사 팀이 고대 문명의 관문을 통해 외계 행성으로 이동하는 공상과학 텔레비전 시리즈다. 행성의 부호를 입력하면 은하 다른 곳의 관문과 연결되는 네트워크가 모험의 기반이다.\n\n처음의 이집트 신화 중심에서 여러 전승과 외계 세력으로 범위가 넓어진다. 영화의 기본 사건을 느슨하게 이어받으면서 매번 새로운 접촉을 통해 위협과 동맹을 늘리는 구성을 취한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미 공군의 탐사 팀이 고대 문명의 관문을 통해 외계 행성으로 이동하는 공상과학 텔레비전 시리즈다. 행성의 부호를 입력하면 은하 다른 곳의 관문과 연결되는 네트워크가 모험의 기반이다.\n\n처음의 이집트 신화 중심에서 여러 전승과 외계 세력으로 범위가 넓어진다. 영화의 기본 사건을 느슨하게 이어받으면서 매번 새로운 접촉을 통해 위협과 동맹을 늘리는 구성을 취한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,8 +5,8 @@
   "original": "Someone Still Lives in the Ruins",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "겉으로는 폐허나 빈 건물처럼 보이던 장소가 실제로는 누군가 살며 관리하는 공간임이 드러난다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "정말 버려진 장소에 [[유령]]만 나타나는 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "폐허나 빈 건물처럼 보이던 공간에 누군가 살며 관리하고 있다는 사실이 드러난다. 버려졌다고 생각한 근거와 실제 생활의 흔적이 어긋나는 장소의 반전이다.\n\n탐색자는 자유롭게 써도 된다고 여긴 물건이 누군가의 생활 도구였음을 알게 될 수 있다. 공간의 소유와 관계를 다시 판단하게 하여 단순한 탐험을 낯선 주민과의 만남으로 바꾼다.\n\n진짜 폐허에 유령만 남은 경우와는 생활의 지속성이 다르다. 관리의 흔적이 있다는 사실만으로 안전한 장소는 아니며 첫인상과 주민의 실제 의도를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "폐허나 빈 건물처럼 보이던 공간에 누군가 살며 관리하고 있다는 사실이 드러난다. 버려졌다고 생각한 근거와 실제 생활의 흔적이 어긋나는 장소의 반전이다.\n\n탐색자는 자유롭게 써도 된다고 여긴 물건이 누군가의 생활 도구였음을 알게 될 수 있다. 공간의 소유와 관계를 다시 판단하게 하여 단순한 탐험을 낯선 주민과의 만남으로 바꾼다.\n\n진짜 폐허에 유령만 남은 경우와는 생활의 지속성이 다르다. 관리의 흔적이 있다는 사실만으로 안전한 장소는 아니며 첫인상과 주민의 실제 의도를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

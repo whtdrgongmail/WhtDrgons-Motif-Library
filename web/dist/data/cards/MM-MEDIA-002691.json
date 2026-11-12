@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "니노쿠니 II: 레버넌트 킹덤",
   "original": "Ni no Kuni II: Revenant Kingdom",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "니노쿠니 2: 레버넌트 킹덤"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《니노쿠니 II: 레버넌트 킹덤》은 비디오게임 작품이다.",
-    "detail": "작품 사례: 《니노쿠니 II: 레버넌트 킹덤》의 하이드로폴리스는 높은 곳에 서기, 병들기, 사랑에 빠지기까지 금지한다. 주민 수를 고정해야 유지되는 시간 역행 마법 때문에 출생과 죽음을 막으려 만든 법이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-024119",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-025932",
       "row_version": 1
     },
@@ -47,5 +53,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《니노쿠니 II》의 하이드로폴리스에는 기이한 금지법들이 있다. 높은 곳에 서기뿐 아니라 병들기와 사랑에 빠지기도 금지된다. 왕위에서 쫓겨난 소년이 새 나라를 세우며 여러 지역의 질서를 접하는 역할극이다.\n\n이 법은 인구수를 고정해야 유지되는 시간 역행 마법과 연결된다. 출생과 죽음을 막으려는 목적이 일상적인 활동까지 통제한다. 시간을 유지하는 마법의 조건이 인구의 고정과 연결되면 출생과 죽음까지 통치가 제한하게 된다.\n\n처음에는 무관해 보이는 금지 사항들이 하나의 유지 조건에서 나온다. 사회의 법과 생활 규칙이 초자연적인 체계의 비용으로 조직되는 설정이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《니노쿠니 II》의 하이드로폴리스에는 기이한 금지법들이 있다. 높은 곳에 서기뿐 아니라 병들기와 사랑에 빠지기도 금지된다. 왕위에서 쫓겨난 소년이 새 나라를 세우며 여러 지역의 질서를 접하는 역할극이다.\n\n이 법은 인구수를 고정해야 유지되는 시간 역행 마법과 연결된다. 출생과 죽음을 막으려는 목적이 일상적인 활동까지 통제한다. 시간을 유지하는 마법의 조건이 인구의 고정과 연결되면 출생과 죽음까지 통치가 제한하게 된다.\n\n처음에는 무관해 보이는 금지 사항들이 하나의 유지 조건에서 나온다. 사회의 법과 생활 규칙이 초자연적인 체계의 비용으로 조직되는 설정이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

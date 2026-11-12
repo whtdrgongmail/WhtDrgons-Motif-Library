@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F14",
   "description": {
-    "definition": "",
+    "definition": "해당 세계의 다른 행성에 비해 기반 시설이나 생활 여건의 발전이 뒤처진 행성이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "14",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "다른 행성보다 살거나 일하기에 필요한 시설이 부족한 행성이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "낙후 여부는 작품 속 다른 생활권과의 비교로 정해진다. 교통이나 통신, 주거 같은 기반 시설 중 어떤 부분이 부족한지에 따라 인물이 겪는 어려움도 달라지므로, 막연한 변방 이미지와 구체적인 생활 조건을 구분해야 한다.\n\n접근성이 낮고 지원을 받기 어려운 곳에 위험한 연구 시설이 놓이면 사고의 부담이 현장 인물에게 집중될 수 있다. 연구 시설이 존재한다는 사실과 주민의 일반적인 생활 여건이 충분하다는 판단은 같은 것이 아니다.\n\n중심부에서 멀다는 이유만으로 발전이 뒤처졌다고 단정할 수는 없다. 위험한 연구를 외곽에 배치하는 설정과 겹칠 수 있지만, 그 배치의 이유와 행성의 시설 수준은 각각 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "낙후 여부는 작품 속 다른 생활권과의 비교로 정해진다. 교통이나 통신, 주거 같은 기반 시설 중 어떤 부분이 부족한지에 따라 인물이 겪는 어려움도 달라지므로, 막연한 변방 이미지와 구체적인 생활 조건을 구분해야 한다.\n\n접근성이 낮고 지원을 받기 어려운 곳에 위험한 연구 시설이 놓이면 사고의 부담이 현장 인물에게 집중될 수 있다. 연구 시설이 존재한다는 사실과 주민의 일반적인 생활 여건이 충분하다는 판단은 같은 것이 아니다.\n\n중심부에서 멀다는 이유만으로 발전이 뒤처졌다고 단정할 수는 없다. 위험한 연구를 외곽에 배치하는 설정과 겹칠 수 있지만, 그 배치의 이유와 행성의 시설 수준은 각각 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

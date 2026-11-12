@@ -4,8 +4,8 @@
   "title": "돌진·추락으로 고정물에 꿰이기",
   "original": "Inertial Impalement",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00800",
+  "primary_tag_id": "ML-T00800",
   "description": {
     "definition": "인물이 움직이거나 추락한 힘 때문에 가만히 있는 뾰족한 물체에 몸이 관통되는 사건.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "상대가 무기를 몸에 밀어 넣는 일반적인 찌르기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 돌진과 추락이 멈춰 있는 뾰족한 물체와 충돌한다. 움직이는 몸의 힘이 관통의 원인이 되는 사건이다.\n\n지형은 수동적인 배경이 아니라 이동의 결과를 바꾸는 위험이 된다. 누가 무엇을 밀었는지보다 어떤 운동이 고정물에 닿았는지 구분해야 한다.\n\n상대가 칼을 직접 찔러 넣는 공격과 다르다. 물체보다 인물의 이동이 직접적인 원인이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 돌진과 추락이 멈춰 있는 뾰족한 물체와 충돌한다. 움직이는 몸의 힘이 관통의 원인이 되는 사건이다.\n\n지형은 수동적인 배경이 아니라 이동의 결과를 바꾸는 위험이 된다. 누가 무엇을 밀었는지보다 어떤 운동이 고정물에 닿았는지 구분해야 한다.\n\n상대가 칼을 직접 찔러 넣는 공격과 다르다. 물체보다 인물의 이동이 직접적인 원인이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

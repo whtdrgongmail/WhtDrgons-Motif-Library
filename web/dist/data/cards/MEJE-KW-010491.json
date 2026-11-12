@@ -4,8 +4,8 @@
   "title": "본의 아닌 변신",
   "original": "Forced Transformation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01490",
+  "primary_tag_id": "ML-T01490",
   "description": {
     "definition": "저주나 마법, 기술 때문에 인물이 동의 없이 다른 생물이나 사물의 모습으로 바뀐다. 원래 모습을 되찾는 일이 새 목표가 되기도 한다. 몸이 영구히 다른 존재로 바뀌는 변신과 달리 만화적 압력에 잠시 찌그러지는 모습은 [[힘에 눌려 모양이 바뀌는 몸]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "17",
+    "code": "17.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "저주와 기술 등 외부 힘 때문에 원치 않는 몸으로 변하는 설정이다. 신체의 형태와 자기 의사 사이에 통제의 단절이 생긴다.\n\n이동과 말, 사회적 지위가 달라지면서 원래 모습의 회복이 목표가 될 수 있다. 변화가 우연히 유리한 능력을 주더라도 당사자가 겪는 상실과 혼란은 남는다.\n\n자발적인 변신과는 동의가 다르다. 잠깐의 만화적 찌그러짐과 지속적인 다른 존재로의 변화도 구분해야 하며 외형의 변화가 곧 도덕적 타락은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "저주와 기술 등 외부 힘 때문에 원치 않는 몸으로 변하는 설정이다. 신체의 형태와 자기 의사 사이에 통제의 단절이 생긴다.\n\n이동과 말, 사회적 지위가 달라지면서 원래 모습의 회복이 목표가 될 수 있다. 변화가 우연히 유리한 능력을 주더라도 당사자가 겪는 상실과 혼란은 남는다.\n\n자발적인 변신과는 동의가 다르다. 잠깐의 만화적 찌그러짐과 지속적인 다른 존재로의 변화도 구분해야 하며 외형의 변화가 곧 도덕적 타락은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

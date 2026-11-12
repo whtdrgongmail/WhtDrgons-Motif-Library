@@ -1,0 +1,51 @@
+{
+  "id": "MM-UNSET-000787",
+  "kind": "keyword",
+  "title": "공간 제약",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T00861",
+  "primary_tag_id": "ML-T00861",
+  "description": {
+    "definition": "인물이 움직이거나 피할 수 있는 범위가 좁아져 목표 수행을 방해하는 물리적 조건이다. 장소의 크기뿐 아니라 탈출 경로와 행동 가능한 방향이 제약의 정도를 결정한다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 3,
+  "classification": {
+    "code": "08.006.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "움직일 공간이 부족해 원하는 행동을 하기 어려운 상황이다. 좁은 통로나 닫히는 출구가 예가 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "공간 제약은 인물의 선택지를 지형과 위치 관계로 제한한다. 넓은 장소라도 출구가 하나뿐이거나 특정 방향으로만 이동할 수 있다면 실제 행동 범위는 좁을 수 있다.\n\n연결 카드의 괴물 입 장면에서는 입이 닫히기 전에 동료를 빼내야 하므로 위치와 남은 시간이 함께 장애가 된다. 단순히 좁은 배경을 보여 주는 경우와 달리 이동·회피·구조 행동에 실제 영향을 주어야 한다.\n\n가상 예시: 좁은 통로 끝에서 문이 닫히기 시작해 인물이 동료를 먼저 통과시킬지 장애물을 제거할지 결정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공간 제약은 인물의 선택지를 지형과 위치 관계로 제한한다. 넓은 장소라도 출구가 하나뿐이거나 특정 방향으로만 이동할 수 있다면 실제 행동 범위는 좁을 수 있다.\n\n연결 카드의 괴물 입 장면에서는 입이 닫히기 전에 동료를 빼내야 하므로 위치와 남은 시간이 함께 장애가 된다. 단순히 좁은 배경을 보여 주는 경우와 달리 이동·회피·구조 행동에 실제 영향을 주어야 한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 좁은 통로 끝에서 문이 닫히기 시작해 인물이 동료를 먼저 통과시킬지 장애물을 제거할지 결정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

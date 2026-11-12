@@ -4,8 +4,8 @@
   "title": "현장 수사를 지휘하는 선임 형사",
   "original": "Lead Police Detective",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00918",
+  "primary_tag_id": "ML-T00918",
   "description": {
     "definition": "경찰 조직에 속해 상관에게 보고하면서도 자기 부하나 후배를 이끌고 직접 현장 조사와 증인 면담에 나서는 중심 수사관이다.",
     "detail": "작품 사례: 《[[도망자]]》의 새뮤얼 제라드는 여러 부하를 거느리면서 자신도 추적 현장에 나서는 수사 책임자로 제시된다.",
@@ -13,10 +13,10 @@
     "boundary": "지휘부 전체를 운영하는 상관이나 공권력 밖의 사립탐정과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-002401",
+      "work_card_id": "MM-MEDIA-001698",
       "description_ko": "《도망자》의 새뮤얼 제라드는 여러 부하를 거느리면서 자신도 추적 현장에 나서는 수사 책임자로 제시된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "경찰 조직에서 상관에게 보고하면서도 부하와 후배를 이끌고 직접 수사하는 선임 형사다. 지휘 권한과 현장 참여를 함께 맡을 수 있는 위치에 있다.\n\n범죄 현장을 살피고 증인에게 묻는 동안 후배에게 판단의 과정을 설명할 수 있다. 조직의 요구와 자신의 수사 방향이 충돌하면 법 집행의 책임과 개인적인 확신 사이의 긴장이 생긴다.\n\n수사하는 모든 주인공과 같지는 않다. 사설 탐정과 아마추어는 경찰 조직의 권한과 보고 체계 밖에 있으며, 부서를 통괄하는 상급 책임자와도 일상적으로 맡는 행동의 범위가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "경찰 조직에서 상관에게 보고하면서도 부하와 후배를 이끌고 직접 수사하는 선임 형사다. 지휘 권한과 현장 참여를 함께 맡을 수 있는 위치에 있다.\n\n범죄 현장을 살피고 증인에게 묻는 동안 후배에게 판단의 과정을 설명할 수 있다. 조직의 요구와 자신의 수사 방향이 충돌하면 법 집행의 책임과 개인적인 확신 사이의 긴장이 생긴다.\n\n수사하는 모든 주인공과 같지는 않다. 사설 탐정과 아마추어는 경찰 조직의 권한과 보고 체계 밖에 있으며, 부서를 통괄하는 상급 책임자와도 일상적으로 맡는 행동의 범위가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

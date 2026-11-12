@@ -4,8 +4,8 @@
   "title": "악해진 옛 제자를 둔 스승",
   "original": "A Pupil of Mine Until He Turned to Evil",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01005",
+  "primary_tag_id": "ML-T01005",
   "description": {
     "definition": "스승에게 배웠던 선한 제자가 악한 길로 떠나 이전 교육 관계가 후회와 대립의 배경이 되는 구도다.",
     "detail": "작품 사례: [[3 Ninjas]]의 Mori는 범죄 두목이 된 옛 제자 Snyder의 훈련 제안을 거절하고, 제자가 손자들을 납치하자 직접 맞서러 나선다.",
@@ -13,10 +13,10 @@
     "boundary": "처음부터 악당이었던 학생이나 혈연상의 전임자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "과거에 지식과 기술을 전수한 관계가 현재의 대립을 개인적인 문제로 만든다. 스승은 제자의 능력뿐 아니라 자신이 맡았던 교육과 이후의 선택을 함께 마주하므로, 후회나 책임감이 적에게 대응하는 방식에 영향을 줄 수 있다.\n\n배웠다는 사실만으로 스승이 제자의 모든 악행에 책임을 진다고 단정할 수는 없다. 과거의 사제 관계와 이후 악한 길을 택한 변화가 함께 제시되어야 하며, 처음부터 악한 학생을 가르쳤던 경우와 구분한다.\n\n[[3 Ninjas]]의 Mori는 범죄 두목이 된 옛 제자 Snyder의 훈련 제안을 거절하고, 제자가 손자들을 납치하자 직접 맞서러 나선다.",
+    "sections": [
+      [
+        "상세 설명",
+        "과거에 지식과 기술을 전수한 관계가 현재의 대립을 개인적인 문제로 만든다. 스승은 제자의 능력뿐 아니라 자신이 맡았던 교육과 이후의 선택을 함께 마주하므로, 후회나 책임감이 적에게 대응하는 방식에 영향을 줄 수 있다.\n\n배웠다는 사실만으로 스승이 제자의 모든 악행에 책임을 진다고 단정할 수는 없다. 과거의 사제 관계와 이후 악한 길을 택한 변화가 함께 제시되어야 하며, 처음부터 악한 학생을 가르쳤던 경우와 구분한다."
+      ],
+      [
+        "관련 작품",
+        "[[3 Ninjas]]의 Mori는 범죄 두목이 된 옛 제자 Snyder의 훈련 제안을 거절하고, 제자가 손자들을 납치하자 직접 맞서러 나선다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

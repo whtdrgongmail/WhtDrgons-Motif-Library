@@ -2,24 +2,69 @@
   "id": "MM-MEDIA-003579",
   "kind": "work",
   "title": "모탈 컴뱃 X",
-  "original": "",
+  "original": "Mortal Kombat X",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00076",
+  "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "",
+    "definition": "《모탈 컴뱃 X》는 2015년 출시된 대전 격투 비디오게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.016",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "서로 다른 기술을 지닌 캐릭터를 골라 상대와 일대일로 싸우는 게임이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000175",
+      "card_id": "MM-MEDIA-003579",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://warnerbrosgames.com/game/mortal-kombat-xl",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "《[[모탈 컴뱃]]》 시리즈의 한 작품으로, 이후 확장판 《[[Mortal Kombat XL]]》이 나왔다. 이 카드는 X 본편을 가리킨다.\n\n연결 문맥은 쿵 진의 무기를 근접전과 원거리 공격을 결합한 사례로 제시한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《[[모탈 컴뱃]]》 시리즈의 한 작품으로, 이후 확장판 《[[Mortal Kombat XL]]》이 나왔다. 이 카드는 X 본편을 가리킨다."
+      ],
+      [
+        "사례",
+        "연결 문맥은 쿵 진의 무기를 근접전과 원거리 공격을 결합한 사례로 제시한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

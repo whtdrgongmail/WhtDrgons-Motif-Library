@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "그랜드 테프트 오토 IV",
   "original": "Grand Theft Auto IV",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "그랜드 테프트 오토 4"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《그랜드 테프트 오토 IV》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《그랜드 테프트 오토 IV》에서 로만의 도박과 돈 낭비가 니코가 해결해야 하는 여러 사건의 원인이 된다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-016267",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-029034",
       "row_version": 1
     },
@@ -47,5 +53,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《그랜드 테프트 오토 IV》의 니코는 미국에서 새 삶을 시작하려는 인물이다. 사촌 로만과의 관계가 여러 사건을 연결한다. 이민자가 기대한 새 생활과 도시의 범죄 관계가 충돌하며 돈과 신뢰의 문제가 반복된다.\n\n로만은 도박과 낭비로 돈 문제를 만든다. 경제적 곤란이 개인의 습관에서 반복해서 발생한다. 주변 인물이 만든 빚과 위험이 주인공의 다음 행동을 제약할 수 있다.\n\n그 결과 니코가 해결해야 하는 일들이 늘어난다. 한 인물의 소비 행동이 다른 인물에게 임무와 위험을 떠넘기는 원인이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《그랜드 테프트 오토 IV》의 니코는 미국에서 새 삶을 시작하려는 인물이다. 사촌 로만과의 관계가 여러 사건을 연결한다. 이민자가 기대한 새 생활과 도시의 범죄 관계가 충돌하며 돈과 신뢰의 문제가 반복된다.\n\n로만은 도박과 낭비로 돈 문제를 만든다. 경제적 곤란이 개인의 습관에서 반복해서 발생한다. 주변 인물이 만든 빚과 위험이 주인공의 다음 행동을 제약할 수 있다.\n\n그 결과 니코가 해결해야 하는 일들이 늘어난다. 한 인물의 소비 행동이 다른 인물에게 임무와 위험을 떠넘기는 원인이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -2,24 +2,67 @@
   "id": "MM-MEDIA-003589",
   "kind": "work",
   "title": "Rusty",
-  "original": "",
+  "original": "Rusty",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00142",
+  "primary_tag_id": "ML-T00142",
   "description": {
-    "definition": "",
+    "definition": "《Rusty》는 미국 밴드 로댄이 1994년 발표한 정규 음반이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.008.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "publication_form",
+    "parent_relation": "contextual",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "로댄이 낸 정규 앨범으로, 여러 곡을 한 음반에 묶은 작품이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000182",
+      "card_id": "MM-MEDIA-003589",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://touchandgorecords.com/products/rodan-rusty-30th-anniversary-lp",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "쿼터스틱 레코드가 발매한 로댄의 첫 정규 음반이자 유일한 정규 음반이다. 2024년의 30주년 재발매반과 원래 음반을 구분한다.\n\n연결 문맥은 이 음반의 보컬을 말하듯 노래하는 표현과 관련지어 언급한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "쿼터스틱 레코드가 발매한 로댄의 첫 정규 음반이자 유일한 정규 음반이다. 2024년의 30주년 재발매반과 원래 음반을 구분한다."
+      ],
+      [
+        "사례",
+        "연결 문맥은 이 음반의 보컬을 말하듯 노래하는 표현과 관련지어 언급한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -2,24 +2,69 @@
   "id": "MM-MEDIA-003588",
   "kind": "work",
   "title": "리턴 오브 디 오브라 딘",
-  "original": "",
+  "original": "Return of the Obra Dinn",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00076",
+  "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "",
+    "definition": "《리턴 오브 디 오브라 딘》은 루커스 포프가 만든 선박 사건 조사 비디오게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.016",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "사라졌던 배에 올라 승무원들에게 무슨 일이 있었는지 알아내는 추리 게임이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000181",
+      "card_id": "MM-MEDIA-003588",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://obradinn.com/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "플레이어는 보험 조사관으로서 빈 배의 손상과 승무원의 행방을 조사한다. 단색에 가까운 화면과 단서를 맞춰 사건을 재구성하는 방식이 특징이다.\n\n배 안에서 얻은 단서를 바탕으로 각 인물의 신원과 운명을 추론한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플레이어는 보험 조사관으로서 빈 배의 손상과 승무원의 행방을 조사한다. 단색에 가까운 화면과 단서를 맞춰 사건을 재구성하는 방식이 특징이다."
+      ],
+      [
+        "사례",
+        "배 안에서 얻은 단서를 바탕으로 각 인물의 신원과 운명을 추론한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

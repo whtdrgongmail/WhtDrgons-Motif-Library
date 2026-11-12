@@ -4,8 +4,8 @@
   "title": "다른 작품에서 다시 들리는 고유 효과음",
   "original": "Hey, It's That Sound!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02009",
+  "primary_tag_id": "ML-T02009",
   "description": {
     "definition": "특정 작품과 밀접하게 연결된 소리가 다른 작품에서 다시 사용되어 원래 작품을 연상시키는 현상이다. 제작 인력이나 자산의 재사용 때문에 생길 수 있다.",
     "detail": "작품 사례: [[Super Mario Land]]의 일시정지 효과음이 게임보이판 [[Tetris]]에서도 들려, 한 게임에 익숙한 플레이어가 다른 게임에서 같은 소리를 알아본다.",
@@ -13,10 +13,10 @@
     "boundary": "출처가 희미해질 만큼 보편화된 효과음이나 의도적인 패러디 인용과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 작품을 떠올리게 하는 소리가 다른 작품에 다시 쓰이는 현상이다. 익숙한 청자는 소리를 통해 두 작품 사이의 제작과 표현 관계를 인식할 수 있다.\n\n출처와의 연결이 약해진 보편적인 [[효과음]]과는 다르다. 의도적인 [[패러디]]의 인용과도 맥락을 구분하며 원래 작품에 대한 연상이 유지되어야 한다.\n\n[[Super Mario Land]]의 일시정지 효과음은 게임보이판 [[Tetris]]에서도 들린다. 한 게임에 익숙한 플레이어가 다른 작품에서 같은 소리를 알아볼 수 있는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 작품을 떠올리게 하는 소리가 다른 작품에 다시 쓰이는 현상이다. 익숙한 청자는 소리를 통해 두 작품 사이의 제작과 표현 관계를 인식할 수 있다.\n\n출처와의 연결이 약해진 보편적인 [[효과음]]과는 다르다. 의도적인 [[패러디]]의 인용과도 맥락을 구분하며 원래 작품에 대한 연상이 유지되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Super Mario Land]]의 일시정지 효과음은 게임보이판 [[Tetris]]에서도 들린다. 한 게임에 익숙한 플레이어가 다른 작품에서 같은 소리를 알아볼 수 있는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

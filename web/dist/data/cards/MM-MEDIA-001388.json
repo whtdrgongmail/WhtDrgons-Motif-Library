@@ -2,19 +2,21 @@
   "id": "MM-MEDIA-001388",
   "kind": "work",
   "title": "킹덤 하츠",
-  "original": "Kingdom Hearts I",
-  "aliases": [],
-  "tag_id": null,
+  "original": "Kingdom Hearts",
+  "aliases": [
+    "킹덤 하츠 I"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《킹덤 하츠》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《킹덤 하츠》에서 도널드는 친구들을 걱정하는 소라에게 밝은 얼굴로 함께 가야 한다고 말한다. 소라는 과장된 억지 미소를 짓고 일행의 웃음을 끌어낸다.",
+    "definition": "《킹덤 하츠》는 2002년 플레이스테이션 2로 나온 연작의 첫 비디오게임이다. 소라가 도널드와 구피와 함께 여러 세계를 여행한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 7,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +32,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《킹덤 하츠》에서 도널드는 친구들을 걱정하는 소라에게 밝은 얼굴로 함께 가야 한다고 말한다. 소라는 과장된 억지 미소를 짓고 일행의 웃음을 끌어낸다.",
+    "easy_ko": "소년 소라가 도널드·구피와 함께 여러 세계를 돌아다니는 게임이다. 같은 이름의 시리즈 전체가 아니라 2002년 첫 작품을 뜻한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -103,5 +105,33 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000306",
+      "card_id": "MM-MEDIA-001388",
+      "label_ko": "스퀘어 에닉스 공식 작품 자료",
+      "icon_key": "game",
+      "url": "https://www.jp.square-enix.com/company/en/news/2005/download/0302-200502010000-01.pdf",
+      "description_ko": "2002년 첫 게임과 원제 확인",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "소라의 모험은 도널드와 구피의 동행을 중심으로 전개된다. 여러 세계를 이동하는 구성은 서로 다른 등장인물과 장소를 하나의 여정에 연결한다.\n\n이 카드는 2002년 처음 나온 게임을 다룬다. 이후의 후속 게임과 같은 이름의 작품군은 별도 범위이며 첫 작품의 줄거리나 규칙으로 합치지 않는다.\n\n게임에서 도널드는 친구들을 걱정하는 소라에게 밝은 얼굴로 함께 가야 한다고 말한다. 소라는 과장된 억지 미소를 짓고 일행의 웃음을 끌어낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소라의 모험은 도널드와 구피의 동행을 중심으로 전개된다. 여러 세계를 이동하는 구성은 서로 다른 등장인물과 장소를 하나의 여정에 연결한다.\n\n이 카드는 2002년 처음 나온 게임을 다룬다. 이후의 후속 게임과 같은 이름의 작품군은 별도 범위이며 첫 작품의 줄거리나 규칙으로 합치지 않는다."
+      ],
+      [
+        "사례",
+        "게임에서 도널드는 친구들을 걱정하는 소라에게 밝은 얼굴로 함께 가야 한다고 말한다. 소라는 과장된 억지 미소를 짓고 일행의 웃음을 끌어낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "자신의 죽음이 구원의 조건인 희생",
   "original": "Heroic Suicide",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02574",
+  "primary_tag_id": "ML-T02574",
   "description": {
     "definition": "허구의 위기에서 인물의 죽음 자체가 타인을 구하거나 위협을 없애는 필수 조건으로 설정되어 스스로 그 대가를 선택하는 전개다.",
     "detail": "허구 안에서 죽음을 빼면 목적 달성이 불가능한지, 죽는 과정의 특정 행위가 아니라 죽음 자체가 목적을 이루는지 구분한다. 이는 작품이 설정한 [[인과]]를 분석하는 기준이며 실제 상황의 해결책이나 가치 판단으로 일반화하지 않는다.\n\n작품 사례: [[The Maze Runner]]의 보충 소설에서는 감염된 케이티 맥보이가 다른 사람을 공격하는 존재로 변하기 전에 스스로 죽음을 선택했다고 밝혀진다.",
@@ -13,19 +13,19 @@
     "boundary": "위험한 구조 중 사망하는 일반 희생과 구별하며 현실의 자살을 영웅적 해결책으로 해석하는 기준이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.005.014",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "주인공과 위험이 결합되어 있어 그 연결을 끝내려는 비극적 선택이 요구된다.\n\n작품 사례: [[The Maze Runner]]의 보충 소설에서는 감염된 케이티 맥보이가 다른 사람을 공격하는 존재로 변하기 전에 스스로 죽음을 선택했다고 밝혀진다.",
+    "easy_ko": "주인공과 위험이 결합되어 있어 그 연결을 끝내려는 비극적 선택이 요구된다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽음에 수반되는 특정 행위가 목적을 이루는 경우와 죽음 자체가 목적 달성의 조건인 경우를 구별한다. 위험한 구조 활동 중 사망하는 일반적인 희생은 죽음이 필수 조건인 경우와 다르다. 적용 범위는 작품이 정한 [[인과]]에 한정되며, 현실의 자살을 해결책으로 해석하는 기준이 아니다.\n\n작품 사례: 《[[The Maze Runner]]》의 보충 소설에서는 감염된 케이티 맥보이가 다른 사람을 공격하는 존재로 변하기 전에 스스로 죽음을 선택했다고 밝혀진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽음에 수반되는 특정 행위가 목적을 이루는 경우와 죽음 자체가 목적 달성의 조건인 경우를 구별한다. 위험한 구조 활동 중 사망하는 일반적인 희생은 죽음이 필수 조건인 경우와 다르다. 적용 범위는 작품이 정한 [[인과]]에 한정되며, 현실의 자살을 해결책으로 해석하는 기준이 아니다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[The Maze Runner]]》의 보충 소설에서는 감염된 케이티 맥보이가 다른 사람을 공격하는 존재로 변하기 전에 스스로 죽음을 선택했다고 밝혀진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

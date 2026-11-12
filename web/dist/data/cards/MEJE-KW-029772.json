@@ -4,8 +4,8 @@
   "title": "경기의 응원과 열기를 만드는 음악",
   "original": "Music at Sporting Events",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "스포츠 경기에서 음악을 사용하여 관중의 감정적 참여를 높이고 자기 팀을 응원하거나 상대를 도발하는 연출이다.",
     "detail": "관중이 함께 부르거나 서로 받아 부르는 노래로 발전할 수 있다. 음악이 특정 경기의 익숙한 응원 관습이 되기도 한다.\n\n작품 사례: 《[[기사 윌리엄]]》의 마상 창 시합에서는 관중이 익숙한 대중음악에 맞춰 호응한다. 경기의 박력과 공동 응원이 음악을 통해 하나의 공연처럼 강조된다.",
@@ -13,19 +13,19 @@
     "boundary": "운동 장면에 관객만 듣는 배경음악이 붙는 경우와 달리 경기장 안의 응원과 참여에 음악이 작용한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "경기장에 음악이 울리면 관중의 응원과 열기가 함께 커진다.\n\n작품 사례: 《[[기사 윌리엄]]》의 마상 창 시합에서는 관중이 익숙한 대중음악에 맞춰 호응한다. 경기의 박력과 공동 응원이 음악을 통해 하나의 공연처럼 강조된다.",
+    "easy_ko": "경기장에 음악이 울리면 관중의 응원과 열기가 함께 커진다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "경기장에 반복되는 선율과 박자는 여러 관중의 반응을 같은 시점에 모을 수 있다. 음악은 개인적인 감상을 넘어 응원과 도발의 공동 신호가 된다.\n\n익숙한 곡이 특정 경기와 연결되면 짧은 도입만으로 구호와 합창을 유도할 수 있다. 소리의 크기는 넓은 공간에서 흩어진 관중의 행동을 맞추는 수단이 된다.\n\n스포츠 장면에 배경음악이 있다는 사실만으로 같은 기능은 아니다. 경기 안의 관중 참여와 팀에 대한 태도를 적극적으로 형성하는 음악 연출이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "경기장에 반복되는 선율과 박자는 여러 관중의 반응을 같은 시점에 모을 수 있다. 음악은 개인적인 감상을 넘어 응원과 도발의 공동 신호가 된다.\n\n익숙한 곡이 특정 경기와 연결되면 짧은 도입만으로 구호와 합창을 유도할 수 있다. 소리의 크기는 넓은 공간에서 흩어진 관중의 행동을 맞추는 수단이 된다.\n\n스포츠 장면에 배경음악이 있다는 사실만으로 같은 기능은 아니다. 경기 안의 관중 참여와 팀에 대한 태도를 적극적으로 형성하는 음악 연출이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "먼저 녹음한 대사에 맞춘 애니메이션",
   "original": "pre-lay",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "배우의 목소리와 연기를 먼저 녹음하고 그 발화의 길이와 감정에 맞춰 애니메이션을 제작하는 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "완성된 영상에 맞춰 대사를 재녹음하는 [[후시 녹음]]과 작업의 선후가 반대다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "목소리와 연기를 먼저 녹음한 뒤 발화의 길이와 감정에 맞추어 [[애니메이션]]을 만든다. 음성의 타이밍이 화면 동작을 설계하는 기준이 된다.\n\n배우가 만든 말의 흐름을 캐릭터의 움직임에 반영할 수 있다. 어느 요소가 먼저 완성되어 다른 요소의 제약이 되는지에 따라 제작 방식이 달라진다.\n\n완성된 영상에 맞추어 대사를 다시 녹음하는 후시 녹음과 순서가 반대다. 음성과 화면을 맞춘다는 공통점만으로 동일하게 볼 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "목소리와 연기를 먼저 녹음한 뒤 발화의 길이와 감정에 맞추어 [[애니메이션]]을 만든다. 음성의 타이밍이 화면 동작을 설계하는 기준이 된다.\n\n배우가 만든 말의 흐름을 캐릭터의 움직임에 반영할 수 있다. 어느 요소가 먼저 완성되어 다른 요소의 제약이 되는지에 따라 제작 방식이 달라진다.\n\n완성된 영상에 맞추어 대사를 다시 녹음하는 후시 녹음과 순서가 반대다. 음성과 화면을 맞춘다는 공통점만으로 동일하게 볼 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

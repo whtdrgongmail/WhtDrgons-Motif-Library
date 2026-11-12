@@ -4,8 +4,8 @@
   "title": "패배한 적을 자기편으로 영입하기",
   "original": "Recruit the Loser",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01027",
+  "primary_tag_id": "ML-T01027",
   "description": {
     "definition": "대결의 승자가 패배한 상대를 제거하는 대신 자신의 편에 받아들여 인력과 관계를 바꾸는 전개다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "패배 뒤 존중만 생기거나 강제로 포로가 되는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대결의 승자가 패배한 적을 없애는 대신 자기편으로 받아들인다. 승부의 결과가 인력과 관계의 재편으로 이어진다.\n\n상대의 능력은 더는 적의 전력이 아니라 같은 편의 자원이 된다. 받아들이는 선택과 새 소속에서의 협력이 연결되어야 한다.\n\n패배 뒤 존중만 생기거나 강제로 포로가 되는 경우와 구별한다. 자기편의 구성원으로 영입하는 변화가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대결의 승자가 패배한 적을 없애는 대신 자기편으로 받아들인다. 승부의 결과가 인력과 관계의 재편으로 이어진다.\n\n상대의 능력은 더는 적의 전력이 아니라 같은 편의 자원이 된다. 받아들이는 선택과 새 소속에서의 협력이 연결되어야 한다.\n\n패배 뒤 존중만 생기거나 강제로 포로가 되는 경우와 구별한다. 자기편의 구성원으로 영입하는 변화가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

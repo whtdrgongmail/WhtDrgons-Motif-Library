@@ -4,8 +4,8 @@
   "title": "혈연 없이 가족처럼 지내는 삼촌·이모",
   "original": "Honorary Uncle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00978",
+  "primary_tag_id": "ML-T00978",
   "description": {
     "definition": "부모의 가까운 친구 등 혈연·혼인 관계가 없는 어른이 아이와 특별한 유대를 맺고 삼촌이나 이모 같은 가족 역할을 하는 관계다.",
     "detail": "작품 사례: [[The Last Dogs]]에서 맥스는 가족처럼 여기던 두 친구가 새끼를 낳자, 혈연이 없어도 새끼들에게 맥스 삼촌으로 불린다.",
@@ -13,10 +13,10 @@
     "boundary": "문화적으로 모든 어른에게 쓰는 일반 호칭이나 실제 먼 친척을 쉽게 부르는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.001.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "혈연이 없어도 특별한 돌봄과 친밀함 때문에 삼촌과 이모 같은 친족 호칭을 사용하는 관계다. 친구의 가족에 대한 지속적인 역할이 언어로 확인된다.\n\n모든 어른에게 관습적으로 붙이는 호칭과 다르다. 실제 먼 친척을 편하게 부르는 경우도 아니며 비혈연의 친밀한 가족 기능이 필요하다.\n\n[[The Last Dogs]]의 맥스는 가족처럼 지내던 두 친구가 새끼를 낳자 맥스 삼촌이 된다. 혈연 없이 형성된 관계가 다음 세대에 대한 가족 호칭으로 이어진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "혈연이 없어도 특별한 돌봄과 친밀함 때문에 삼촌과 이모 같은 친족 호칭을 사용하는 관계다. 친구의 가족에 대한 지속적인 역할이 언어로 확인된다.\n\n모든 어른에게 관습적으로 붙이는 호칭과 다르다. 실제 먼 친척을 편하게 부르는 경우도 아니며 비혈연의 친밀한 가족 기능이 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[The Last Dogs]]의 맥스는 가족처럼 지내던 두 친구가 새끼를 낳자 맥스 삼촌이 된다. 혈연 없이 형성된 관계가 다음 세대에 대한 가족 호칭으로 이어진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

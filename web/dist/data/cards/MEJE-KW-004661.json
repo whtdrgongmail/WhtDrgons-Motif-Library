@@ -4,8 +4,8 @@
   "title": "사슬을 무기처럼 휘두르는 인물",
   "original": "Chain Pain",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "인물이 줄에 매인 사슬을 들고 싸움 장면의 위협을 만든다. 무게와 소리가 상대에게 닿기 전부터 긴장을 준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사슬 자체를 공격과 위협의 주요 도구로 사용하는 인물 표현이다. 끝에 별도의 무게추나 날이 달린 무기보다 연결된 금속 줄의 길이와 움직임이 화면에서 부각된다.\n\n늘어지는 소리와 휘는 궤적은 뻣뻣한 무기와 다른 리듬을 만든다. 현실성이 낮은 작품에서는 사슬이 즉시 묶이거나 길이가 달라지는 등 사용자의 통제력을 과장하는 연출로 이어질 수 있다.\n\n[[캐릭터]]의 전투 스타일을 설명하는 관습이며 실제 사용법을 제시하는 항목은 아니다. 사슬에 매인 장식이 보인다는 사실보다 사슬 그 자체가 장면의 공격 수단으로 쓰이는지가 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사슬 자체를 공격과 위협의 주요 도구로 사용하는 인물 표현이다. 끝에 별도의 무게추나 날이 달린 무기보다 연결된 금속 줄의 길이와 움직임이 화면에서 부각된다.\n\n늘어지는 소리와 휘는 궤적은 뻣뻣한 무기와 다른 리듬을 만든다. 현실성이 낮은 작품에서는 사슬이 즉시 묶이거나 길이가 달라지는 등 사용자의 통제력을 과장하는 연출로 이어질 수 있다.\n\n[[캐릭터]]의 전투 스타일을 설명하는 관습이며 실제 사용법을 제시하는 항목은 아니다. 사슬에 매인 장식이 보인다는 사실보다 사슬 그 자체가 장면의 공격 수단으로 쓰이는지가 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

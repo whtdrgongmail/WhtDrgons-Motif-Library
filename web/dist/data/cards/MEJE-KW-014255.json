@@ -4,8 +4,8 @@
   "title": "인간을 돕는 영웅적 돌고래",
   "original": "Heroic Dolphin",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00884",
+  "primary_tag_id": "ML-T00884",
   "description": {
     "definition": "돌고래를 위험에 처한 사람을 안내·보호·구조하는 선하고 유능한 도움의 주체로 그리는 관습이다.",
     "detail": "작품 사례: [[Pokémon Scarlet and Violet]]의 Palafin은 전투 중 영웅 같은 모습으로 바뀌는 돌고래 포켓몬이며, 물에 빠진 사람과 포켓몬을 구한다고 소개된다.",
@@ -13,10 +13,10 @@
     "boundary": "귀엽거나 똑똑하게만 묘사되는 돌고래와 달리 구체적 도움이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000716",
+      "work_card_id": "MM-MEDIA-003016",
       "description_ko": "Pokémon Scarlet and Violet의 Palafin은 전투 중 영웅 같은 모습으로 바뀌는 돌고래 포켓몬이며, 물에 빠진 사람과 포켓몬을 구한다고 소개된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "돌고래가 사람을 안내하고 보호하면 해양 동물이 구체적인 구조자의 위치를 차지한다. 지능이나 친근함의 이미지가 실제 도움의 행동과 연결되어야 영웅적 역할이 드러난다.\n\n귀엽거나 똑똑하다는 평가만으로는 부족하다. 위기에 처한 사람을 어떤 방식으로 돕는지가 설정되어야 하며 생물의 호의적인 이미지와 구조 기능을 나누어 이해한다.\n\n[[Pokémon Scarlet and Violet]]의 Palafin은 전투 중 영웅 같은 모습으로 변하는 돌고래 포켓몬이다. 물에 빠진 사람과 포켓몬을 구한다고 소개되어 외형의 영웅 이미지와 구조 기능이 함께 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "돌고래가 사람을 안내하고 보호하면 해양 동물이 구체적인 구조자의 위치를 차지한다. 지능이나 친근함의 이미지가 실제 도움의 행동과 연결되어야 영웅적 역할이 드러난다.\n\n귀엽거나 똑똑하다는 평가만으로는 부족하다. 위기에 처한 사람을 어떤 방식으로 돕는지가 설정되어야 하며 생물의 호의적인 이미지와 구조 기능을 나누어 이해한다."
+      ],
+      [
+        "관련 작품",
+        "[[Pokémon Scarlet and Violet]]의 Palafin은 전투 중 영웅 같은 모습으로 변하는 돌고래 포켓몬이다. 물에 빠진 사람과 포켓몬을 구한다고 소개되어 외형의 영웅 이미지와 구조 기능이 함께 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

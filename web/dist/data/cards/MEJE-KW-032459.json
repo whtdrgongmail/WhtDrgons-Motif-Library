@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032459",
+  "kind": "keyword",
+  "title": "동률일 때만 결정을 내리는 심사자",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F15",
+  "description": {
+    "definition": "심사 결과가 동수로 갈렸을 때에만 특정 심사자의 표나 판단을 우선하여 교착을 해소하는 절차다.",
+    "detail": "",
+    "usage": "[[합의 절차]]가 교착될 때 작동하는 제한된 권한을 설계한다.",
+    "boundary": "다른 심사자 전원의 결정을 언제나 무효로 만들 수 있는 절대 결정권과 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "15",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "다른 표를 무조건 뒤집지 않고 동점이 났을 때만 마지막 선택을 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "표가 동수로 갈려 결론이 나지 않을 때에만 한 사람의 판단을 우선한다. 그 권한은 일반적인 다수 결정을 뒤집는 수단이 아니라 교착 상태를 끝내는 제한적인 규칙이다.\n\n심사자가 언제나 더 큰 표를 가진 경우와는 작동 조건이 다르다. 누가 동률을 해소하는지와 어떤 상황을 동률로 판단하는지 미리 정해져 있어야 한다. 결과가 특정인을 도왔다는 사실만으로 절대 결정권이 있었다고 추정할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "표가 동수로 갈려 결론이 나지 않을 때에만 한 사람의 판단을 우선한다. 그 권한은 일반적인 다수 결정을 뒤집는 수단이 아니라 교착 상태를 끝내는 제한적인 규칙이다.\n\n심사자가 언제나 더 큰 표를 가진 경우와는 작동 조건이 다르다. 누가 동률을 해소하는지와 어떤 상황을 동률로 판단하는지 미리 정해져 있어야 한다. 결과가 특정인을 도왔다는 사실만으로 절대 결정권이 있었다고 추정할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
+}

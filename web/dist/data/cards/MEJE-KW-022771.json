@@ -4,8 +4,8 @@
   "title": "실제 명소에 숨은 비밀 기지",
   "original": "Landmarking the Hidden Base",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01316",
+  "primary_tag_id": "ML-T01316",
   "description": {
     "definition": "관객이 알아볼 만한 실제 기념물이나 명소의 안·아래·주변에 영웅 또는 악당의 비밀 기지를 배치하는 설정이다.",
     "detail": "작품 사례: 《[[심슨 가족]]》의 Treehouse of Horror VIII 중 The Homega Man에서는 에펠탑 아래에 미사일 발사 시설이 숨겨져 있다. 관객에게 익숙한 명소와 군사적 기능을 겹치는 패러디다.",
@@ -13,10 +13,10 @@
     "boundary": "완전히 허구인 명소나 실재 건물을 공개 본부로 쓰는 경우와 다르다. 널리 알려진 장소와 감춰진 기능의 결합이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관객이 알고 있는 실제 명소에 공개되지 않은 시설과 조직을 배치하는 설정이다.\n\n익숙한 외관과 숨겨진 기능의 대비가 장소의 의미를 바꾼다. 기지의 노출이나 공격은 비밀의 위기와 상징적인 건축물의 위기를 함께 만들 수 있다.\n\n완전히 창작된 명소와는 다르다. 실재 건물을 공개된 본부로 사용하는 경우가 아니라 널리 알려진 장소 아래나 내부의 비밀 기능이 핵심이다.\n\n《[[심슨 가족]]》의 Treehouse of Horror VIII에 포함된 The Homega Man에서는 에펠탑 아래에 미사일 발사 시설을 둔다. 관광 명소와 군사 시설의 뜻밖의 결합이 패러디를 이룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관객이 알고 있는 실제 명소에 공개되지 않은 시설과 조직을 배치하는 설정이다.\n\n익숙한 외관과 숨겨진 기능의 대비가 장소의 의미를 바꾼다. 기지의 노출이나 공격은 비밀의 위기와 상징적인 건축물의 위기를 함께 만들 수 있다.\n\n완전히 창작된 명소와는 다르다. 실재 건물을 공개된 본부로 사용하는 경우가 아니라 널리 알려진 장소 아래나 내부의 비밀 기능이 핵심이다."
+      ],
+      [
+        "관련 작품",
+        "《[[심슨 가족]]》의 Treehouse of Horror VIII에 포함된 The Homega Man에서는 에펠탑 아래에 미사일 발사 시설을 둔다. 관광 명소와 군사 시설의 뜻밖의 결합이 패러디를 이룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

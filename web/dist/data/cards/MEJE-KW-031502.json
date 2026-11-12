@@ -7,14 +7,14 @@
   "tag_id": null,
   "primary_tag_id": "ML-F21",
   "description": {
-    "definition": "다양한 머리색이 예상되는 배경인데도 주요 인물의 머리색이 금발에 크게 치우쳐 제시되는 구성이다.",
+    "definition": "금발이 드문 배경인데도 백인 여성 인물의 절반 이상이 금발로 나오는 등, 집단의 금발 비중이 유난히 높은 구성이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 2,
   "classification": {
     "code": "21",
     "review_status": "provisional",
@@ -22,10 +22,10 @@
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "여러 성격의 인물이 모였는데 화면에는 금발 머리가 유난히 반복된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "easy_ko": "다양한 인물이 사는 배경인데도 주요 백인 여성 인물 중 절반 이상이 금발로 그려진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "이 구성은 개별 인물의 금발보다 집단 전체의 색 배치에서 드러난다. 주요 여성 인물의 절반 이상이 금발인 식으로 특정한 모습이 집중되면, 머리색이 인물을 구별하는 단서보다 작품의 통일된 미감이 된다. 선량함·교활함·명랑함 등 서로 다른 성격이 같은 색 안에 들어갈 수도 있다.\n\n가족 구성, 염색 유행, 능력의 공통 효과처럼 이야기 안의 이유를 붙일 수 있지만 언제나 그런 설명이 있는 것은 아니다. 분석할 때는 해당 작품이 설정한 인구와 인물 구성에 비해 무엇이 강조되는지 살펴야 한다. 금발 한 명의 상징성이나 여러 머리색을 대비시키는 앙상블과는 관찰 단위가 다르다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "이 구성은 개별 인물의 금발보다 집단 전체의 색 배치에서 드러난다. 주요 여성 인물의 절반 이상이 금발인 식으로 특정한 모습이 집중되면, 머리색이 인물을 구별하는 단서보다 작품의 통일된 미감이 된다. 선량함·교활함·명랑함 등 서로 다른 성격이 같은 색 안에 들어갈 수도 있다.\n\n가족 구성, 염색 유행, 능력의 공통 효과처럼 이야기 안의 이유를 붙일 수 있지만 언제나 그런 설명이 있는 것은 아니다. 분석할 때는 해당 작품이 설정한 인구와 인물 구성에 비해 무엇이 강조되는지 살펴야 한다. 금발 한 명의 상징성이나 여러 머리색을 대비시키는 앙상블과는 관찰 단위가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

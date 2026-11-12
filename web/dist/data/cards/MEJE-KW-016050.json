@@ -6,8 +6,8 @@
   "aliases": [
     "아이들의 즐거운 나무 위 아지트"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01285",
+  "primary_tag_id": "ML-T01285",
   "description": {
     "definition": "아이들이 나무 위에 만든 집을 자신들만의 놀이와 모임 공간으로 사용하는 설정이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "성인의 실제 주거용 수목 주택이나 생존 시설과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "14",
+    "code": "14.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,5 +32,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "아이들이 나무 위 집을 자기들만의 놀이와 모임 장소로 쓴다. 어른의 일상과 구별되는 공동 공간을 마련한 설정이다.\n\n어디에서 만나고 어떤 활동을 공유하는지가 친구 집단의 관계를 구체화한다. 나무집은 배경뿐 아니라 아이들이 가진 자율적인 자리의 의미를 갖는다.\n\n성인의 주거와 생존용 수목 시설과 다르다. 어린이의 놀이와 모임이라는 용도가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "아이들이 나무 위 집을 자기들만의 놀이와 모임 장소로 쓴다. 어른의 일상과 구별되는 공동 공간을 마련한 설정이다.\n\n어디에서 만나고 어떤 활동을 공유하는지가 친구 집단의 관계를 구체화한다. 나무집은 배경뿐 아니라 아이들이 가진 자율적인 자리의 의미를 갖는다.\n\n성인의 주거와 생존용 수목 시설과 다르다. 어린이의 놀이와 모임이라는 용도가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

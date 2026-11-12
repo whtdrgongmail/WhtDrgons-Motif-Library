@@ -4,8 +4,8 @@
   "title": "마법을 끓이는 가마솥",
   "original": "Magic Cauldron",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01469",
+  "primary_tag_id": "ML-T01469",
   "description": {
     "definition": "약재나 신비한 재료를 넣어 주문의 결과물을 만드는 솥, 또는 솥 자체에 초자연 능력이 깃든 물건. 도구가 마법을 쓰는지 단순히 조리 용기인지 설정마다 다르다. [[연금술을 마법처럼 운용하기]]는 솥을 포함할 수 있는 제조 체계다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가마솥은 [[마법]]의 결과물을 만드는 작업 공간이 된다. 재료를 담는 도구인지 그 자체로 힘을 가진 물건인지에 따라 역할이 달라진다.\n\n무엇을 넣고 어떤 결과를 얻는지의 관계가 제조 체계를 구성한다. 같은 형태의 솥도 마법의 주체와 매개를 나누어 설명할 수 있다.\n\n연금술은 이 물건을 포함할 수 있는 더 넓은 체계이다. 솥이 등장했다는 사실만으로 모든 제조 규칙을 추정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가마솥은 [[마법]]의 결과물을 만드는 작업 공간이 된다. 재료를 담는 도구인지 그 자체로 힘을 가진 물건인지에 따라 역할이 달라진다.\n\n무엇을 넣고 어떤 결과를 얻는지의 관계가 제조 체계를 구성한다. 같은 형태의 솥도 마법의 주체와 매개를 나누어 설명할 수 있다.\n\n연금술은 이 물건을 포함할 수 있는 더 넓은 체계이다. 솥이 등장했다는 사실만으로 모든 제조 규칙을 추정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -5,21 +5,47 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F23",
   "description": {
-    "definition": "",
+    "definition": "정보를 주고받는 과정에서 전달·이해·확인 중 하나가 어긋나 필요한 의미가 상대에게 도달하지 않는 상황이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 2,
+  "classification": {
+    "code": "23",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "말이나 메시지를 주고받았지만 중요한 뜻이 제대로 전해지지 않아 서로 다르게 이해하는 일이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "의사소통의 실패는 말을 하지 않았다는 사실만을 뜻하지 않는다. 핵심 정보를 빠뜨리거나, 같은 표현을 서로 다른 의미로 이해하거나, 확인 질문을 하지 않아 판단이 엇갈리는 경우도 포함한다.\n\n서사에서는 각 인물이 무엇을 알고 무엇을 오해하는지에 따라 갈등의 성격이 달라진다. 독자에게 양쪽의 정보를 모두 보여 주면 오해의 구조가 드러나고, 한쪽 정보만 보여 주면 나중에 판단이 수정될 수 있다.\n\n고의로 거짓말해 상대를 속이는 사건과는 원인을 구별해야 한다. 문화·권력·성격의 차이가 실패의 배경이 될 수 있지만, 특정 성별이나 집단이 본래 서로를 이해하지 못한다는 사실 주장으로 일반화하지 않는다.\n\n가상 예: 약속 장소가 바뀌었다는 메시지는 전달됐지만 날짜를 적지 않아 두 사람이 서로 다른 날에 기다린다.",
+    "sections": [
+      [
+        "상세 설명",
+        "의사소통의 실패는 말을 하지 않았다는 사실만을 뜻하지 않는다. 핵심 정보를 빠뜨리거나, 같은 표현을 서로 다른 의미로 이해하거나, 확인 질문을 하지 않아 판단이 엇갈리는 경우도 포함한다.\n\n서사에서는 각 인물이 무엇을 알고 무엇을 오해하는지에 따라 갈등의 성격이 달라진다. 독자에게 양쪽의 정보를 모두 보여 주면 오해의 구조가 드러나고, 한쪽 정보만 보여 주면 나중에 판단이 수정될 수 있다.\n\n고의로 거짓말해 상대를 속이는 사건과는 원인을 구별해야 한다. 문화·권력·성격의 차이가 실패의 배경이 될 수 있지만, 특정 성별이나 집단이 본래 서로를 이해하지 못한다는 사실 주장으로 일반화하지 않는다."
+      ],
+      [
+        "사례",
+        "가상 예: 약속 장소가 바뀌었다는 메시지는 전달됐지만 날짜를 적지 않아 두 사람이 서로 다른 날에 기다린다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

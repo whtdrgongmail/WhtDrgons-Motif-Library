@@ -5,8 +5,8 @@
   "original": "A Deathbed Marriage for Inheritance",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000988",
+  "primary_tag_id": "MM-UNSET-000988",
   "description": {
     "definition": "죽음이 임박한 사람과의 혼인이 남은 배우자에게 재산·지위·급부 등을 넘기는 수단으로 사용되는 이야기 속 관계 장치다.",
     "detail": "작품 사례: 《[[역전재판 4]]》에서 알리타는 연인의 심장이 언제 멈출지 모른다는 것을 알고 그의 재산을 얻으려 결혼하려 한다. 임박한 죽음과 혼인의 사후 이익을 계산하는 악의적 변형이다.",
@@ -14,14 +14,20 @@
     "boundary": "사후 권리의 실제 법적 요건을 설명하는 카드가 아니다. 작품이 혼인과 승계를 연결한 설정을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "죽기 전에 부부가 되어 남은 사람이 받을 권리나 지위를 마련하려 한다.",
     "review_status": "reviewed",
@@ -39,5 +45,30 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "A Deathbed Marriage for Inheritance는 상속을 위한 임종 직전 혼인을 뜻한다. [[임종 직전 혼인]] 가운데 사후 급부와 승계에 초점을 맞춘 하위 변형이다.\n\n죽음이 임박한 사람과 혼인하여 생존 배우자에게 재산·지위·연금·보험금 등을 넘기는 관계 장치다. 혼인이라는 지위가 사후의 권리를 발생시키는 설정이므로, 오래 함께할 미래보다 사망 직후의 생활 조건이 선택의 중심이 된다. 임종의 소원으로 결혼하는 이야기 가운데 승계의 효과가 사건을 움직이는 경우에 해당한다.\n\n같은 구조가 상반된 윤리적 의미를 가질 수 있다. 죽어 가는 사람이 동반자의 삶을 보장하려는 배려일 수도 있고, 쇠약한 상대를 이용해 재산을 얻으려는 조작일 수도 있다. 당사자의 의사와 정보 차이, 주변 가족의 이해관계에 따라 갈등이 달라진다. 이 카드는 작품 속 혼인과 승계의 관계를 다루며 실제 법적 요건을 설명하지 않는다.\n\n병든 통치자가 동반자의 생계를 보장하려고 혼인을 서두르는 경우와, 재산을 노린 사람이 죽음의 위험을 숨기고 혼인을 추진하는 경우를 대비할 수 있다.\n\n《[[역전재판 4]]》의 두 번째 사건에서 알리타는 연인 워키의 심장이 언제 멈출지 모른다는 사실을 알고, 그의 재산을 얻기 위해 결혼하려 한다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "A Deathbed Marriage for Inheritance는 상속을 위한 임종 직전 혼인을 뜻한다. [[임종 직전 혼인]] 가운데 사후 급부와 승계에 초점을 맞춘 하위 변형이다."
+      ],
+      [
+        "상세 설명",
+        "죽음이 임박한 사람과 혼인하여 생존 배우자에게 재산·지위·연금·보험금 등을 넘기는 관계 장치다. 혼인이라는 지위가 사후의 권리를 발생시키는 설정이므로, 오래 함께할 미래보다 사망 직후의 생활 조건이 선택의 중심이 된다. 임종의 소원으로 결혼하는 이야기 가운데 승계의 효과가 사건을 움직이는 경우에 해당한다.\n\n같은 구조가 상반된 윤리적 의미를 가질 수 있다. 죽어 가는 사람이 동반자의 삶을 보장하려는 배려일 수도 있고, 쇠약한 상대를 이용해 재산을 얻으려는 조작일 수도 있다. 당사자의 의사와 정보 차이, 주변 가족의 이해관계에 따라 갈등이 달라진다. 이 카드는 작품 속 혼인과 승계의 관계를 다루며 실제 법적 요건을 설명하지 않는다."
+      ],
+      [
+        "사례",
+        "병든 통치자가 동반자의 생계를 보장하려고 혼인을 서두르는 경우와, 재산을 노린 사람이 죽음의 위험을 숨기고 혼인을 추진하는 경우를 대비할 수 있다."
+      ],
+      [
+        "관련 작품",
+        "《[[역전재판 4]]》의 두 번째 사건에서 알리타는 연인 워키의 심장이 언제 멈출지 모른다는 사실을 알고, 그의 재산을 얻기 위해 결혼하려 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

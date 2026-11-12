@@ -4,17 +4,17 @@
   "title": "Dwarf Fortress",
   "original": "Dwarf Fortress",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "이 카드는 비디오게임 《Dwarf Fortress》를 가리킨다. 이 라이브러리에서는 [[공포스러운 지옥의 말]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Dwarf Fortress에서는 사악한 지역에 정착한 탐험대가 살아 있는 말보다 죽이기 어려운 해골 말과 좀비 말의 공격을 받을 수 있다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Dwarf Fortress》는 탄과 잭 애덤스 형제가 제작한 복잡한 판타지 시뮬레이션 게임이다. 절차적으로 생성한 세계에 국가와 인물의 역사를 부여하고 그 안에서 생활과 사건이 전개되게 한다.\n\n요새 모드에서는 드워프들의 거점을 건설하고 노동과 자원, 생존을 관리한다. 모험 모드는 같은 계열의 세계를 한 인물의 활동으로 경험하게 하여 관리와 개인 탐험의 시점을 나눈다.\n\n명확한 최종 승리보다 여러 시스템이 맞물려 만들어 내는 사건과 실패가 중심이다. 보관 자료가 설명하는 개발 단계와 문자 중심 표현은 특정 시점의 판본에 관한 것이므로 모든 후속판의 상태로 일반화해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Dwarf Fortress》는 탄과 잭 애덤스 형제가 제작한 복잡한 판타지 시뮬레이션 게임이다. 절차적으로 생성한 세계에 국가와 인물의 역사를 부여하고 그 안에서 생활과 사건이 전개되게 한다.\n\n요새 모드에서는 드워프들의 거점을 건설하고 노동과 자원, 생존을 관리한다. 모험 모드는 같은 계열의 세계를 한 인물의 활동으로 경험하게 하여 관리와 개인 탐험의 시점을 나눈다.\n\n명확한 최종 승리보다 여러 시스템이 맞물려 만들어 내는 사건과 실패가 중심이다. 보관 자료가 설명하는 개발 단계와 문자 중심 표현은 특정 시점의 판본에 관한 것이므로 모든 후속판의 상태로 일반화해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

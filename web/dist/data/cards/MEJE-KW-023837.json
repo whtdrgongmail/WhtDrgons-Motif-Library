@@ -4,8 +4,8 @@
   "title": "질서를 위해 잔혹한 수단을 택하는 악인",
   "original": "Lawful over Evil",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00905",
+  "primary_tag_id": "ML-T00905",
   "description": {
     "definition": "질서 있는 사회를 좋은 목표로 여기지만 이를 유지·강제하려고 잔혹한 수단을 받아들이는 [[질서 악]]의 변형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "질서는 핑계일 뿐 악행 자체가 목적이라는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악인은 질서 있는 사회를 진정으로 좋은 목표라고 믿는다. 문제는 그 질서를 만들고 유지하는 수단으로 잔혹함을 허용한다는 점이다.\n\n목적의 선의와 실제 피해가 같은 인물 안에서 충돌한다. 누가 어떤 기준으로 복종해야 하는지에 따라 강제의 구조가 드러난다.\n\n질서를 단지 구실로 삼고 악행 자체를 즐기는 경우와 다르다. 목표에 대한 진심과 수단의 선택을 각각 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악인은 질서 있는 사회를 진정으로 좋은 목표라고 믿는다. 문제는 그 질서를 만들고 유지하는 수단으로 잔혹함을 허용한다는 점이다.\n\n목적의 선의와 실제 피해가 같은 인물 안에서 충돌한다. 누가 어떤 기준으로 복종해야 하는지에 따라 강제의 구조가 드러난다.\n\n질서를 단지 구실로 삼고 악행 자체를 즐기는 경우와 다르다. 목표에 대한 진심과 수단의 선택을 각각 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

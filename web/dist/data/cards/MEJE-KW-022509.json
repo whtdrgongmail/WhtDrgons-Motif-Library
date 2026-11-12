@@ -4,34 +4,37 @@
   "title": "아이들의 야생 생존 모험",
   "original": "Kids' Wilderness Epic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00213",
+  "primary_tag_id": "ML-T00213",
   "description": {
     "definition": "현대의 아이들이 외딴 자연 속에 놓여 생존·구조·귀환을 시도하면서 동료와 유대를 쌓는 모험 서사다.",
     "detail": "부모 구조, 밀렵꾼과 야생동물, 지역 안내자, 생존 기술과 아슬아슬한 탈출 등이 결합될 수 있다.\n\n작품 사례: 《[[러그래츠 무비]]》는 어린 주인공들이 숲에서 길을 잃고 집으로 돌아가려는 모험으로 이 형식을 적용한다. 아주 어린 나이가 자연 속 생존의 대비를 더 크게 만든다.",
     "usage": "자연의 위험과 어린 인물의 자립·우정·책임을 함께 다루는 모험 구조를 설계한다.",
-    "boundary": "야외에 잠깐 놀러 가는 장면과 달리 문명의 도움에서 떨어진 자연이 지속적인 과제와 위험을 제공한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.102.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "아이들끼리 낯선 숲이나 섬에서 버티고 길을 찾으며 성장한다.\n\n작품 사례: 《[[러그래츠 무비]]》는 어린 주인공들이 숲에서 길을 잃고 집으로 돌아가려는 모험으로 이 형식을 적용한다. 아주 어린 나이가 자연 속 생존의 대비를 더 크게 만든다.",
+    "easy_ko": "아이들끼리 낯선 숲이나 섬에서 버티고 길을 찾으며 성장한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "부모 구조, 밀렵꾼과 야생동물, 지역 안내자, 생존 기술과 아슬아슬한 탈출 등이 결합될 수 있다.\n\n자연의 위험과 어린 인물의 자립·우정·책임을 함께 다루는 모험 구조다.\n\n야외에 잠깐 놀러 가는 장면과 달리 문명의 도움에서 떨어진 자연이 지속적인 과제와 위험을 제공한다.\n\n《[[러그래츠 무비]]》는 어린 주인공들이 숲에서 길을 잃고 집으로 돌아가려는 모험으로 이 형식을 적용한다. 아주 어린 나이가 자연 속 생존의 대비를 더 크게 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "부모 구조, 밀렵꾼과 야생동물, 지역 안내자, 생존 기술과 아슬아슬한 탈출 등이 결합될 수 있다.\n\n자연의 위험과 어린 인물의 자립·우정·책임을 함께 다루는 모험 구조다.\n\n야외에 잠깐 놀러 가는 장면과 달리 문명의 도움에서 떨어진 자연이 지속적인 과제와 위험을 제공한다."
+      ],
+      [
+        "관련 작품",
+        "《[[러그래츠 무비]]》는 어린 주인공들이 숲에서 길을 잃고 집으로 돌아가려는 모험으로 이 형식을 적용한다. 아주 어린 나이가 자연 속 생존의 대비를 더 크게 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

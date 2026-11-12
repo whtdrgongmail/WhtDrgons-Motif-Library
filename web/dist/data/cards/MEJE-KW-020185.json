@@ -5,8 +5,8 @@
   "original": "Sale While the Boss Is Away",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02540",
+  "primary_tag_id": "ML-T02540",
   "description": {
     "definition": "책임자가 자리를 비운 동안 직원들이 허락 없이 싸게 판다는 설정을 내세워 책임자가 돌아오기 전에 구매하라고 재촉하는 광고 방식이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "실제 무단 판매가 있었음을 뜻하지 않는다. 광고가 권한의 부재와 제한된 기회를 구매 유인으로 사용하는 점이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "광고는 책임자가 없는 동안 직원이 특별한 이익을 나누는 듯한 상황을 연출한다. 소비자는 공식적인 가격 질서 바깥의 기회를 잡는다고 느끼게 된다.\n\n책임자가 돌아오기 전이라는 시간 제한은 구매를 서두르게 한다. 비밀을 공유하는 느낌과 기회의 짧음이 함께 작동한다.\n\n실제로 허가 없는 판매가 있었다는 증거는 아니다. 광고가 권한 부재라는 설정을 어떻게 구매 동기로 쓰는지에 관한 유형이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "광고는 책임자가 없는 동안 직원이 특별한 이익을 나누는 듯한 상황을 연출한다. 소비자는 공식적인 가격 질서 바깥의 기회를 잡는다고 느끼게 된다.\n\n책임자가 돌아오기 전이라는 시간 제한은 구매를 서두르게 한다. 비밀을 공유하는 느낌과 기회의 짧음이 함께 작동한다.\n\n실제로 허가 없는 판매가 있었다는 증거는 아니다. 광고가 권한 부재라는 설정을 어떻게 구매 동기로 쓰는지에 관한 유형이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

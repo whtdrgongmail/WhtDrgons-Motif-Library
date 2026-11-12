@@ -4,8 +4,8 @@
   "title": "성장을 미루면 얻는 이득",
   "original": "Delayed Level Benefits",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02092",
+  "primary_tag_id": "ML-T02092",
   "description": {
     "definition": "게임에서 즉시 레벨을 올리기보다 특정 기술이나 조건을 먼저 갖추어 나중의 성장을 유리하게 만든다. 빠른 보상과 장기적 이득 사이에 [[선택]]이 생긴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.003.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임에서 성장과 진화를 즉시 진행하지 않는 편이 장기적인 성능에 유리한 규칙이다. 먼저 조건을 갖추지 않으면 나중에 되돌릴 수 없는 차이가 생긴다.\n\n특정 기술을 배우고 장비를 얻은 뒤 성장해야 효과가 커질 수 있다. 진행이 너무 빨라져 놓치는 콘텐츠가 생기는 경우에도 당장의 강함을 제한할 이유가 된다.\n\n언제든 돌아가 손실 없이 보충할 수 있다면 같은 의미의 불이익은 약하다. 정보가 미리 제공되는지가 공정성에 중요하며, 보상을 바로 받는 직관과 최적화를 위한 대기가 충돌한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임에서 성장과 진화를 즉시 진행하지 않는 편이 장기적인 성능에 유리한 규칙이다. 먼저 조건을 갖추지 않으면 나중에 되돌릴 수 없는 차이가 생긴다.\n\n특정 기술을 배우고 장비를 얻은 뒤 성장해야 효과가 커질 수 있다. 진행이 너무 빨라져 놓치는 콘텐츠가 생기는 경우에도 당장의 강함을 제한할 이유가 된다.\n\n언제든 돌아가 손실 없이 보충할 수 있다면 같은 의미의 불이익은 약하다. 정보가 미리 제공되는지가 공정성에 중요하며, 보상을 바로 받는 직관과 최적화를 위한 대기가 충돌한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

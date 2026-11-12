@@ -4,8 +4,8 @@
   "title": "감전으로 죽는 장면",
   "original": "High-Voltage Death",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "전류에 노출된 인물이 사망하는 사건을 전기 불꽃·몸의 반응·전원 장치 등으로 표현하는 모티프다. 사고·공격·처형 등 여러 맥락에 쓰일 수 있다.",
     "detail": "작품 사례: [[Titan A.E.]]에서 코르소는 타이탄 함선을 가동시키기 위해 전류를 잇는 희생을 택하고, 거대한 전류를 맞으며 죽는다.",
@@ -13,10 +13,10 @@
     "boundary": "희극적으로 충격을 받고 곧 멀쩡해지는 장면이나 죽이지 않는 전기 고문과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전기 충격이 인물의 사망 원인으로 제시되는 장면이다. 사고와 공격, 자발적인 희생 등 죽음에 이르는 사건의 맥락은 서로 다를 수 있다.\n\n충격 뒤 금방 회복되는 희극과 죽이지 않는 전기 고문은 별개다. 실제 감전의 조건을 안내하기보다 작중 사망과 전기의 인과를 기술한다.\n\n[[Titan A.E.]]의 코르소는 타이탄 함선에 전류를 이어 가동하려는 희생을 택한다. 거대한 전류를 받으며 죽어 전기가 목표 달성과 사망을 동시에 일으킨다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전기 충격이 인물의 사망 원인으로 제시되는 장면이다. 사고와 공격, 자발적인 희생 등 죽음에 이르는 사건의 맥락은 서로 다를 수 있다.\n\n충격 뒤 금방 회복되는 희극과 죽이지 않는 전기 고문은 별개다. 실제 감전의 조건을 안내하기보다 작중 사망과 전기의 인과를 기술한다."
+      ],
+      [
+        "관련 작품",
+        "[[Titan A.E.]]의 코르소는 타이탄 함선에 전류를 이어 가동하려는 희생을 택한다. 거대한 전류를 받으며 죽어 전기가 목표 달성과 사망을 동시에 일으킨다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

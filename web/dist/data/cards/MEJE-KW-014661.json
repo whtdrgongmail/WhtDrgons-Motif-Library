@@ -4,8 +4,8 @@
   "title": "같은 말을 잇는 광고 증언",
   "original": "Hive-Mind Testimonial",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02540",
+  "primary_tag_id": "ML-T02540",
   "description": {
     "definition": "여러 출연자가 같은 취지의 말을 반복하거나 서로 문장을 이어 말하도록 편집해 다수의 일치된 경험과 신뢰를 강조하는 광고 기법이다.",
     "detail": "작품 사례: [[Supernatural]]의 가짜 약 광고에서는 요가하는 여성과 노인, 샘이 같은 질환을 말한 뒤 책임 있는 복약에 관한 말을 이어 간다.",
@@ -13,10 +13,10 @@
     "boundary": "인물들이 실제 공동 의식을 지녔다는 설정이나 서로 다른 평가를 모은 인터뷰와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000887",
+      "work_card_id": "MM-MEDIA-003055",
       "description_ko": "Supernatural의 가짜 약 광고에서는 요가하는 여성과 노인, 샘이 같은 질환을 말한 뒤 책임 있는 복약에 관한 말을 이어 간다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 출연자의 증언을 같은 말과 구절로 연결해 하나의 광고 메시지를 강화하는 방식이다. 인물과 상황이 바뀌어도 발화의 반복과 연속이 공통 경험을 강조한다.\n\n실제로 공동 의식을 가진 집단이라는 뜻은 아니다. 서로 다른 평가를 단순히 모은 인터뷰보다 반복과 연결을 통한 하나의 메시지가 중심이다.\n\n[[Supernatural]]의 가짜 약 광고는 요가하는 여성과 노인, 샘의 발언을 이어 붙인다. 같은 질환과 책임 있는 복약의 말이 반복되어 여러 증언이 같은 주장으로 모인다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 출연자의 증언을 같은 말과 구절로 연결해 하나의 광고 메시지를 강화하는 방식이다. 인물과 상황이 바뀌어도 발화의 반복과 연속이 공통 경험을 강조한다.\n\n실제로 공동 의식을 가진 집단이라는 뜻은 아니다. 서로 다른 평가를 단순히 모은 인터뷰보다 반복과 연결을 통한 하나의 메시지가 중심이다."
+      ],
+      [
+        "관련 작품",
+        "[[Supernatural]]의 가짜 약 광고는 요가하는 여성과 노인, 샘의 발언을 이어 붙인다. 같은 질환과 책임 있는 복약의 말이 반복되어 여러 증언이 같은 주장으로 모인다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

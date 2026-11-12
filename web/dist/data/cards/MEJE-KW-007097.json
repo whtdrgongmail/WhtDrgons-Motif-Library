@@ -4,8 +4,8 @@
   "title": "위험한 택시 운전사",
   "original": "Deranged Taxi Driver",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "승객을 목적지로 데려가야 할 운전사가 엉뚱하거나 위협적인 행동으로 이동 자체를 위험하게 만드는 인물형. 밀폐된 차 안의 권력 차이가 긴장을 높인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "승객의 안전한 이동을 책임지는 택시 운전사가 불안정하고 위협적인 행동을 보이는 유형이다. 좁은 차량과 경로에 대한 통제권이 긴장을 만든다.\n\n과격한 운전과 일방적인 주장, 범죄적인 목적이 서로 다른 형태로 나타날 수 있다. 목적지에 빨리 도착하는 능력과 안전하게 데려다주는 능력이 분리되면 희극적인 부조화도 생긴다.\n\n낯선 말투와 출신이 위험의 증거인 것은 아니다. 실제 운전자의 집단을 낙인찍는 방식과 작품의 구체적인 위협 행동을 구분해야 하며, 직업적 신뢰를 악용한다는 관계가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "승객의 안전한 이동을 책임지는 택시 운전사가 불안정하고 위협적인 행동을 보이는 유형이다. 좁은 차량과 경로에 대한 통제권이 긴장을 만든다.\n\n과격한 운전과 일방적인 주장, 범죄적인 목적이 서로 다른 형태로 나타날 수 있다. 목적지에 빨리 도착하는 능력과 안전하게 데려다주는 능력이 분리되면 희극적인 부조화도 생긴다.\n\n낯선 말투와 출신이 위험의 증거인 것은 아니다. 실제 운전자의 집단을 낙인찍는 방식과 작품의 구체적인 위협 행동을 구분해야 하며, 직업적 신뢰를 악용한다는 관계가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

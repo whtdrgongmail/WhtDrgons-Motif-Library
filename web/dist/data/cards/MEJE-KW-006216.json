@@ -4,8 +4,8 @@
   "title": "확률로 터지는 강한 일격",
   "original": "Critical Hit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
     "definition": "게임의 공격이 정해진 확률에 걸리면 평소보다 큰 피해나 추가 효과를 낸다. 우연한 한 번의 타격이 전투의 흐름을 바꾼다. 특정 직업이 우연한 강한 일격을 중심 능력으로 삼으면 [[치명타에 특화된 직업]]가 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "고정 피해에 변동성을 더해 같은 행동의 결과를 달라지게 한다. 확률과 추가 피해량이 안정 공격과 위험 감수 사이의 선택을 만든다.\n\n치명타를 키우는 장비가 무작위 중심 전략을 만들 수 있지만, 발동을 막는 적 앞의 대안과 확률 누적의 우월성도 확인해야 한다. [[확률로 일어나는 치명적 실패]]와 운의 양면성을 이룬다.\n\n가상 예시: 급소 판정이 일정 확률로 적의 다음 행동을 늦춰 확률 장비와 안정 피해 장비 중 선택하게 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "고정 피해에 변동성을 더해 같은 행동의 결과를 달라지게 한다. 확률과 추가 피해량이 안정 공격과 위험 감수 사이의 선택을 만든다.\n\n치명타를 키우는 장비가 무작위 중심 전략을 만들 수 있지만, 발동을 막는 적 앞의 대안과 확률 누적의 우월성도 확인해야 한다. [[확률로 일어나는 치명적 실패]]와 운의 양면성을 이룬다."
+      ],
+      [
+        "사례",
+        "가상 예시: 급소 판정이 일정 확률로 적의 다음 행동을 늦춰 확률 장비와 안정 피해 장비 중 선택하게 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

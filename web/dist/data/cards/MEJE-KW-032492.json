@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032492",
+  "kind": "keyword",
+  "title": "약한 적에게서 얻는 경험치를 줄이기",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T02088",
+  "primary_tag_id": "ML-T02088",
+  "description": {
+    "definition": "캐릭터가 적보다 지나치게 강하면 그 적을 처치해도 성장 보상을 적게 주거나 없애 더 강한 구간으로 이동하도록 유도하는 규칙이다.",
+    "detail": "",
+    "usage": "[[반복 성장]]의 한계를 만들고 새로운 지역의 도전과 성장을 연결한다.",
+    "boundary": "어려운 적을 잡아도 무조건 보상이 없는 경우와 다르며 상대적인 수준 차이가 경험치 감소의 기준이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 2,
+  "classification": {
+    "code": "25.003",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "쉬운 적은 계속 잡아도 더 이상 잘 성장하지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "캐릭터와 적의 상대적인 수준을 보상 계산에 반영하면 쉽게 이기는 전투에서 얻는 경험치가 줄어든다. 이미 압도할 수 있는 적을 계속 처치하더라도 성장이 정체되어, 새 구간의 더 강한 적을 만날 필요가 생긴다.\n\n이는 [[반복 성장]]의 속도를 제한하는 규칙이지 이미 얻은 전투력을 낮추는 규칙은 아니다. 따라서 강한 인물이 약한 적을 계속 즉시 쓰러뜨릴 수 있어도 보상만 멈추는 구간이 생길 수 있다. 모든 전투의 보상이 적은 경우와 상대적 강함을 기준으로 감소시키는 경우를 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "캐릭터와 적의 상대적인 수준을 보상 계산에 반영하면 쉽게 이기는 전투에서 얻는 경험치가 줄어든다. 이미 압도할 수 있는 적을 계속 처치하더라도 성장이 정체되어, 새 구간의 더 강한 적을 만날 필요가 생긴다.\n\n이는 [[반복 성장]]의 속도를 제한하는 규칙이지 이미 얻은 전투력을 낮추는 규칙은 아니다. 따라서 강한 인물이 약한 적을 계속 즉시 쓰러뜨릴 수 있어도 보상만 멈추는 구간이 생길 수 있다. 모든 전투의 보상이 적은 경우와 상대적 강함을 기준으로 감소시키는 경우를 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
+}

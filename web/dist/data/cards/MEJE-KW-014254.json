@@ -4,8 +4,8 @@
   "title": "사람을 구하는 영웅견",
   "original": "Heroic Dog",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "대체로 실제 개와 같은 신체와 생활 방식을 유지하면서 사람을 보호하고 위기를 해결하는 영웅적 역할의 개다.",
     "detail": "작품 사례: [[Mission Odyssey]]에서 Argos는 납치된 Telemachus를 추적하고, 지키던 병사를 쫓아내 Ulysses의 구조를 돕는다.",
@@ -13,10 +13,10 @@
     "boundary": "개를 좋아하는 인간 영웅이나 사람처럼 사회생활을 하는 동물 캐릭터와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "개가 현실적인 몸과 생활 방식을 유지하면서도 구조의 성패를 바꾸면 단순한 동행보다 적극적인 주체가 된다. 추적하고 보호하는 행동을 통해 사람의 위기를 해결하는 역할을 맡는다.\n\n개를 좋아하는 인간 영웅과는 행동의 주체가 다르다. 사람처럼 사회생활을 하는 동물 인물보다 보통 개에 가까운 조건을 유지하는지가 중요하며 동행만으로 영웅견이 되는 것은 아니다.\n\n[[Mission Odyssey]]의 Argos는 납치된 Telemachus를 찾아가 지키던 병사를 쫓아낸다. Ulysses의 구조에 직접 기여해 개의 행동이 구출 과정의 일부를 맡는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "개가 현실적인 몸과 생활 방식을 유지하면서도 구조의 성패를 바꾸면 단순한 동행보다 적극적인 주체가 된다. 추적하고 보호하는 행동을 통해 사람의 위기를 해결하는 역할을 맡는다.\n\n개를 좋아하는 인간 영웅과는 행동의 주체가 다르다. 사람처럼 사회생활을 하는 동물 인물보다 보통 개에 가까운 조건을 유지하는지가 중요하며 동행만으로 영웅견이 되는 것은 아니다."
+      ],
+      [
+        "관련 작품",
+        "[[Mission Odyssey]]의 Argos는 납치된 Telemachus를 찾아가 지키던 병사를 쫓아낸다. Ulysses의 구조에 직접 기여해 개의 행동이 구출 과정의 일부를 맡는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "새 언어에 맞게 대사를 고치는 번역",
   "original": "Woolseyism",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02282",
+  "primary_tag_id": "ML-T02282",
   "description": {
     "definition": "원문의 대사를 그대로 옮기기보다 대상 언어에서 효과가 잘 살아나도록 내용을 조정한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "원작과 무관한 이념을 주입하거나 의미를 몰라 틀리게 옮기는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대상 언어에서 대사가 더 자연스럽거나 효과적으로 작동하도록 표현을 조정한다. 원문의 단어 대응보다 장면이 전달하는 기능을 재구성하는 번역이다.\n\n언어별 유머와 대화 방식이 다르면 직역이 같은 효과를 내지 못할 수 있다. 바뀐 대사가 새 언어에서 어떤 반응과 관계를 만드는지가 조정의 평가 기준이 된다.\n\n뜻을 몰라 틀리게 옮기는 오역과 다르다. 원작과 무관한 주장을 임의로 넣는 것까지 모두 효과적인 현지화로 정당화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대상 언어에서 대사가 더 자연스럽거나 효과적으로 작동하도록 표현을 조정한다. 원문의 단어 대응보다 장면이 전달하는 기능을 재구성하는 번역이다.\n\n언어별 유머와 대화 방식이 다르면 직역이 같은 효과를 내지 못할 수 있다. 바뀐 대사가 새 언어에서 어떤 반응과 관계를 만드는지가 조정의 평가 기준이 된다.\n\n뜻을 몰라 틀리게 옮기는 오역과 다르다. 원작과 무관한 주장을 임의로 넣는 것까지 모두 효과적인 현지화로 정당화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

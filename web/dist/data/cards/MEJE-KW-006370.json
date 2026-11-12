@@ -4,8 +4,8 @@
   "title": "문화적 맥락에 맞춰 바꾼 각색",
   "original": "Culturally Sensitive Adaptation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02262",
+  "primary_tag_id": "ML-T02262",
   "description": {
     "definition": "작품을 다른 시대나 문화권에 맞게 다시 만들면서 원작의 요소를 현지의 가치와 관습에 맞춰 조정한다. 같은 이야기가 새로운 관객에게 다르게 전달된다. 새 작품을 다시 만드는 각색과 달리 기존 작품의 말과 참조를 옮기는 작업은 [[문화 참조를 바꾸는 번역]]에서 다룬다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "각색이 만들어지는 시대와 문화의 가치에 맞추어 원작의 요소를 바꾸는 방식이다. 원래의 관계와 농담, 표현이 새 관객에게 같은 효과를 주지 못한다는 조건에서 출발한다.\n\n인물의 구성과 복장, 사회적 태도를 조정하여 낯섦과 반발을 줄일 수 있다. 변화는 접근성을 높이지만 원작의 갈등과 시대성을 다른 의미로 바꾸기도 한다.\n\n기존 판본의 불쾌한 부분을 직접 삭제하는 편집과는 제작 단계가 다르다. 필수적인 매체 전환과 가치관을 바꾼 선택도 구별하여 무엇을 왜 달리했는지 설명해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "각색이 만들어지는 시대와 문화의 가치에 맞추어 원작의 요소를 바꾸는 방식이다. 원래의 관계와 농담, 표현이 새 관객에게 같은 효과를 주지 못한다는 조건에서 출발한다.\n\n인물의 구성과 복장, 사회적 태도를 조정하여 낯섦과 반발을 줄일 수 있다. 변화는 접근성을 높이지만 원작의 갈등과 시대성을 다른 의미로 바꾸기도 한다.\n\n기존 판본의 불쾌한 부분을 직접 삭제하는 편집과는 제작 단계가 다르다. 필수적인 매체 전환과 가치관을 바꾼 선택도 구별하여 무엇을 왜 달리했는지 설명해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

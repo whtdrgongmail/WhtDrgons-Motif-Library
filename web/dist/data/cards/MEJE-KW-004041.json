@@ -4,8 +4,8 @@
   "title": "도움을 주려다 일을 망치는 동료",
   "original": "Bumbling Sidekick",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00884",
+  "primary_tag_id": "ML-T00884",
   "description": {
     "definition": "[[주인공]] 곁의 [[조력자]]가 선의를 갖고도 반복해서 실수한다. 관계가 유지되는 이유가 실력 말고 무엇인지 살필 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.001.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주인공 곁에서 돕지만 서투른 행동과 판단으로 문제를 키우는 동료 유형이다. 능숙한 중심 인물과 대비되는 실수가 대화와 사건의 희극적 리듬을 만든다.\n\n같은 실수가 이어져도 관계가 유지되면 애착과 의존, 고용의 필요 같은 다른 이유를 보여 줄 수 있다. 조력자가 가끔 뜻밖의 기여를 하면 평소의 낮은 평가와 실제 관계의 복잡함이 드러난다.\n\n[[주인공]]이 화낸다는 사실만으로 [[조력자]]의 모든 행동이 무능한 것은 아니다. 실제 기여와 피해를 확인하며, 함께 있다는 이유로 반복적인 학대가 정당해지는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주인공 곁에서 돕지만 서투른 행동과 판단으로 문제를 키우는 동료 유형이다. 능숙한 중심 인물과 대비되는 실수가 대화와 사건의 희극적 리듬을 만든다.\n\n같은 실수가 이어져도 관계가 유지되면 애착과 의존, 고용의 필요 같은 다른 이유를 보여 줄 수 있다. 조력자가 가끔 뜻밖의 기여를 하면 평소의 낮은 평가와 실제 관계의 복잡함이 드러난다.\n\n[[주인공]]이 화낸다는 사실만으로 [[조력자]]의 모든 행동이 무능한 것은 아니다. 실제 기여와 피해를 확인하며, 함께 있다는 이유로 반복적인 학대가 정당해지는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

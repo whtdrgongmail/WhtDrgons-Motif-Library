@@ -4,17 +4,17 @@
   "title": "넘버스",
   "original": "NUMB3RS",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
     "definition": "《넘버스》는 텔레비전 작품이다.",
-    "detail": "작품 사례: 《넘버스》에서 찰리 엡스는 수학을 범죄 분석에 활용해, 수사관이 다른 방식으로 접근할 단서를 찾아낸다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《넘버스》는 FBI 수사관 돈 엡스가 수학자인 동생 찰리의 도움으로 사건을 푸는 TV 시리즈다. 형의 현장 경험과 동생의 이론적 분석이 서로 다른 문제 해결 방식으로 만난다.\n\n찰리는 패턴과 계산을 적용하지만 사람의 동기를 이해하는 일에는 어려움을 겪기도 한다. 범죄별 수사를 형제 관계와 연결하여, 수학적 모델을 세우는 과정과 그것을 실제 행동으로 검증하는 과정을 함께 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《넘버스》는 FBI 수사관 돈 엡스가 수학자인 동생 찰리의 도움으로 사건을 푸는 TV 시리즈다. 형의 현장 경험과 동생의 이론적 분석이 서로 다른 문제 해결 방식으로 만난다.\n\n찰리는 패턴과 계산을 적용하지만 사람의 동기를 이해하는 일에는 어려움을 겪기도 한다. 범죄별 수사를 형제 관계와 연결하여, 수학적 모델을 세우는 과정과 그것을 실제 행동으로 검증하는 과정을 함께 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

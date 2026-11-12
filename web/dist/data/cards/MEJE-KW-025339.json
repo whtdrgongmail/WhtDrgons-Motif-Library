@@ -4,8 +4,8 @@
   "title": "타이포그래피로 연출하는 가사 영상",
   "original": "Typographic Music Videos",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01919",
+  "primary_tag_id": "ML-T01919",
   "description": {
     "definition": "가사를 단순 자막으로만 두지 않고 글자의 배치와 시각적 움직임을 영상의 볼거리로 구성한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "고정된 가사 표시만 있는 형식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.010.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가사를 화면 아래의 고정 자막이 아니라 배치와 움직임이 있는 영상 요소로 사용한다. 글자의 크기와 위치, 나타나고 사라지는 순서가 노래를 듣는 시간과 연결된다.\n\n강조된 단어는 음악의 박자와 뜻을 함께 부각할 수 있다. 화면에서 글자가 충돌하거나 흩어지는 변화는 말의 내용을 시각적으로 해석하며, 목소리만으로는 덜 두드러진 관계를 보여 줄 수 있다.\n\n가사를 읽을 수 있다는 사실만으로 같은 형식은 아니다. 고정된 표시와 달리 타이포그래피가 볼거리와 의미에 관여해야 한다. 읽기 쉬움과 시각적 과장은 때로 충돌하므로 어느 기능을 우선했는지도 작품별로 구분할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가사를 화면 아래의 고정 자막이 아니라 배치와 움직임이 있는 영상 요소로 사용한다. 글자의 크기와 위치, 나타나고 사라지는 순서가 노래를 듣는 시간과 연결된다.\n\n강조된 단어는 음악의 박자와 뜻을 함께 부각할 수 있다. 화면에서 글자가 충돌하거나 흩어지는 변화는 말의 내용을 시각적으로 해석하며, 목소리만으로는 덜 두드러진 관계를 보여 줄 수 있다.\n\n가사를 읽을 수 있다는 사실만으로 같은 형식은 아니다. 고정된 표시와 달리 타이포그래피가 볼거리와 의미에 관여해야 한다. 읽기 쉬움과 시각적 과장은 때로 충돌하므로 어느 기능을 우선했는지도 작품별로 구분할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

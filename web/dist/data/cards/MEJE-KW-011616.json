@@ -4,8 +4,8 @@
   "title": "풍족하게 자랐어도 다정한 인물",
   "original": "Spoiled Sweet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00940",
+  "primary_tag_id": "ML-T00940",
   "description": {
     "definition": "부유하고 대접받는 성장 배경에도 타인을 친절하게 대하는 [[인물]] 유형이다.",
     "detail": "낙관적인 태도를 유지하며 가진 재산을 다른 사람을 돕는 데 사용하는 모습도 포함된다.",
@@ -13,10 +13,10 @@
     "boundary": "재산이나 보호받은 성장만으로 이기심을 단정하는 인물상과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "넉넉한 재산과 대접받는 환경을 지녔어도 타인을 친절하게 대하는 모습을 보여 준다. 특권적인 성장 배경이 곧 이기적인 성격이라는 예상을 완화하는 인물형이다.\n\n낙관적인 태도나 자원을 나누는 행동으로 다정함을 구체화할 수 있다. 재산을 남을 돕는 데 사용하는 경우에는 배경의 풍족함이 친절을 실행하는 수단이 된다.\n\n부유함이나 보호받은 성장만으로 성품을 확정할 수는 없다. [[인물]]의 배경과 실제 대우를 함께 보되 재산 자체를 도덕성의 증거로 삼지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "넉넉한 재산과 대접받는 환경을 지녔어도 타인을 친절하게 대하는 모습을 보여 준다. 특권적인 성장 배경이 곧 이기적인 성격이라는 예상을 완화하는 인물형이다.\n\n낙관적인 태도나 자원을 나누는 행동으로 다정함을 구체화할 수 있다. 재산을 남을 돕는 데 사용하는 경우에는 배경의 풍족함이 친절을 실행하는 수단이 된다.\n\n부유함이나 보호받은 성장만으로 성품을 확정할 수는 없다. [[인물]]의 배경과 실제 대우를 함께 보되 재산 자체를 도덕성의 증거로 삼지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

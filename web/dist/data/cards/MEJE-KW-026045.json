@@ -4,8 +4,8 @@
   "title": "위험한 활약을 말리는 연인",
   "original": "Wet Blanket Wife",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "주인공이 흥미롭거나 위험한 일을 하려 할 때 안전이나 생활상의 이유로 하지 말라고 간청하거나 잔소리하는 연애 상대 역할이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "이유가 타당할 수도 있으며 작품의 활약을 막는다고 해서 상대가 틀렸다고 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "주인공은 모험하려 하지만 연인은 그만두라고 한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위험한 활약을 말리며 안전과 생활을 걱정하는 연애 상대역이다. 모험을 원하는 주인공과 일상을 지키려는 요구가 충돌한다. 위험한 활동을 계속하려는 주인공에게 안전과 생활을 지키라는 요구가 다른 목표로 작동한다.\n\n관객이 활약을 기대하는 시점에서는 합리적인 우려도 방해처럼 느껴질 수 있다. 시점의 편중이 인물에 대한 평가를 좌우한다. 관객의 볼거리를 방해하는 역할과 인물의 현실적인 우려가 타당한지는 같은 판단이 아니다.\n\n걱정이 있다는 사실만으로 통제적이거나 잘못된 인물이 되는 것은 아니다. 실제 위험과 공동 책임을 작품이 얼마나 보여 주는지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위험한 활약을 말리며 안전과 생활을 걱정하는 연애 상대역이다. 모험을 원하는 주인공과 일상을 지키려는 요구가 충돌한다. 위험한 활동을 계속하려는 주인공에게 안전과 생활을 지키라는 요구가 다른 목표로 작동한다.\n\n관객이 활약을 기대하는 시점에서는 합리적인 우려도 방해처럼 느껴질 수 있다. 시점의 편중이 인물에 대한 평가를 좌우한다. 관객의 볼거리를 방해하는 역할과 인물의 현실적인 우려가 타당한지는 같은 판단이 아니다.\n\n걱정이 있다는 사실만으로 통제적이거나 잘못된 인물이 되는 것은 아니다. 실제 위험과 공동 책임을 작품이 얼마나 보여 주는지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

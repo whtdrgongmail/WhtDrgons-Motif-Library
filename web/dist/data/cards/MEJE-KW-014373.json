@@ -4,8 +4,8 @@
   "title": "작은 위반으로 큰 증거를 가리기",
   "original": "Infraction Distraction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "눈에 띄는 사소한 위반이나 증거에 주의를 집중시켜 더 중대한 잘못의 증거가 발견되지 않게 하는 기만 방식이다.",
     "detail": "작품 사례: 《[[데스노트]]》에서 라이토는 방을 감시하는 이들에게 숨겨 둔 성인용 잡지를 보게 하여, 사생활을 감추려던 행동에 작은 비밀이라는 설명을 붙인다.",
@@ -13,10 +13,10 @@
     "boundary": "증거를 물리적으로 없애는 행동이나 아무 관련 없는 소란만 일으키는 주의 분산과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001526",
+      "work_card_id": "MM-MEDIA-002463",
       "description_ko": "《데스노트》에서 라이토는 방을 감시하는 이들에게 숨겨 둔 성인용 잡지를 보게 하여, 사생활을 감추려던 행동에 작은 비밀이라는 설명을 붙인다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작은 잘못을 노출해 의심스러운 행동의 이유를 설명하고 더 큰 비밀을 감추는 기만이다. 수사와 감시가 사소한 문제를 발견한 뒤 멈추도록 유도한다.\n\n증거를 직접 없애는 행동과 다르다. 무관한 소동을 일으키는 주의 분산보다 작은 위반의 발견이 큰 문제를 놓치게 하는 [[인과]]가 필요하다.\n\n《[[데스노트]]》의 라이토는 감시자들이 숨겨 둔 성인용 잡지를 보게 한다. 사생활을 감추려던 행동이 그 작은 비밀 때문인 것처럼 보이도록 다른 설명을 제공한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작은 잘못을 노출해 의심스러운 행동의 이유를 설명하고 더 큰 비밀을 감추는 기만이다. 수사와 감시가 사소한 문제를 발견한 뒤 멈추도록 유도한다.\n\n증거를 직접 없애는 행동과 다르다. 무관한 소동을 일으키는 주의 분산보다 작은 위반의 발견이 큰 문제를 놓치게 하는 [[인과]]가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "《[[데스노트]]》의 라이토는 감시자들이 숨겨 둔 성인용 잡지를 보게 한다. 사생활을 감추려던 행동이 그 작은 비밀 때문인 것처럼 보이도록 다른 설명을 제공한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

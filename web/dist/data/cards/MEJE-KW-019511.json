@@ -5,8 +5,8 @@
   "original": "One-Person Game Development",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "기획과 구현 등 게임 제작의 핵심 작업을 한 개발자가 주도해 완성하는 제작 방식이다.",
     "detail": "작품 사례: 《[[동굴 이야기]]》는 한 개발자가 제작을 이끈 실제 게임 사례다.",
@@ -14,10 +14,10 @@
     "boundary": "독립 게임 모두가 일인 개발인 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임 제작의 주요 결정을 한 개발자가 주도하고 핵심 작업도 그 개발자를 중심으로 이루어진다. 기획과 구현이 하나의 중심에 묶이는 제작 방식이다.\n\n제작 규모를 가리키는 독립 게임이라는 분류와 작업 주체의 수를 가리키는 분류는 다르다. 어떤 작업을 누가 주도했는지가 이 카드의 판단 기준이다.\n\n독립적으로 제작되었다는 사실만으로 한 사람이 핵심 제작을 맡았다고 결론 내릴 수는 없다. 정본이 명시한 개별 작품 사례와 일반적인 제작 방식은 구분한다.\n\n[[동굴 이야기]]는 한 개발자가 제작을 이끈 게임으로 정본에 명시되어 있다.\n\n[[동굴 이야기]]",
+    "sections": [
+      [
+        "상세 설명",
+        "게임 제작의 주요 결정을 한 개발자가 주도하고 핵심 작업도 그 개발자를 중심으로 이루어진다. 기획과 구현이 하나의 중심에 묶이는 제작 방식이다.\n\n제작 규모를 가리키는 독립 게임이라는 분류와 작업 주체의 수를 가리키는 분류는 다르다. 어떤 작업을 누가 주도했는지가 이 카드의 판단 기준이다.\n\n독립적으로 제작되었다는 사실만으로 한 사람이 핵심 제작을 맡았다고 결론 내릴 수는 없다. 정본이 명시한 개별 작품 사례와 일반적인 제작 방식은 구분한다."
+      ],
+      [
+        "사례",
+        "[[동굴 이야기]]는 한 개발자가 제작을 이끈 게임으로 정본에 명시되어 있다."
+      ],
+      [
+        "관련 작품",
+        "[[동굴 이야기]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "즐거운 서커스 음악",
   "original": "Happy Circus Music",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "서커스나 유원지를 연상시키는 활기찬 곡을 위협 없는 즐거운 상황에 사용하여 놀이의 분위기를 만드는 연출이다.",
     "detail": "작품 사례: [[The Twelve Tasks of Asterix]]에서 마을 사람들이 재현한 서커스의 마지막 행렬에 활기찬 행진곡이 흐르며, 공연을 즐겁게 마무리한다.",
@@ -13,10 +13,10 @@
     "boundary": "같은 밝은 음악이라도 공포 상황에서 불길함을 만들면 해당하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "활기찬 선율이 서커스와 놀이공원의 친숙한 이미지를 불러온다. 장면의 안전하고 즐거운 상황과 음악의 밝음이 같은 방향으로 작동한다.\n\n공연의 행렬이나 마무리에 사용하면 축제의 리듬과 공동의 즐거움을 강화한다. 어떤 사건에 맞추었는지가 음악의 기능을 결정한다.\n\n같은 밝은 곡을 공포 장면에 붙여 불길함을 만드는 경우와는 다르다. 위협 없는 상황의 놀이 정서를 전달해야 한다.\n\n[[The Twelve Tasks of Asterix]]는 마을이 재현한 서커스의 마지막 행렬에 활기찬 행진곡을 사용한다.\n\n[[The Twelve Tasks of Asterix]]",
+    "sections": [
+      [
+        "상세 설명",
+        "활기찬 선율이 서커스와 놀이공원의 친숙한 이미지를 불러온다. 장면의 안전하고 즐거운 상황과 음악의 밝음이 같은 방향으로 작동한다.\n\n공연의 행렬이나 마무리에 사용하면 축제의 리듬과 공동의 즐거움을 강화한다. 어떤 사건에 맞추었는지가 음악의 기능을 결정한다.\n\n같은 밝은 곡을 공포 장면에 붙여 불길함을 만드는 경우와는 다르다. 위협 없는 상황의 놀이 정서를 전달해야 한다."
+      ],
+      [
+        "사례",
+        "[[The Twelve Tasks of Asterix]]는 마을이 재현한 서커스의 마지막 행렬에 활기찬 행진곡을 사용한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Twelve Tasks of Asterix]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

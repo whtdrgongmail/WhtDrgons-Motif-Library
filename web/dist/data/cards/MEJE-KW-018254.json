@@ -4,8 +4,8 @@
   "title": "감시를 게을리하는 담당자",
   "original": "Surveillance Station Slacker",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02591",
+  "primary_tag_id": "ML-T02591",
   "description": {
     "definition": "장소나 상황을 지켜봐야 하는 인물이 감시 대신 딴짓을 하며 맡은 역할을 소홀히 하는 유형이다.",
     "detail": "감시 의무의 공백이 다른 인물의 행동 기회를 만든다.",
@@ -13,10 +13,10 @@
     "boundary": "인력 부족이나 설비 고장으로 감시하지 못하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007.013",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "Surveillance station slacker는 감시 초소(surveillance station)에서 태만한 사람(slacker)을 결합한 표현이다.\n\n감시를 게을리하는 담당자는 주변 상황이나 대상을 관찰해야 할 임무가 있는데도 감시 대신 딴짓을 한다. 관찰 의무의 공백이 다른 인물에게 움직이거나 침입할 기회를 제공한다.\n\n감시자가 자리를 비우거나 주의를 딴 데 돌리는 동안 경계해야 할 위험이 가까워질 수 있다. 임무 실패는 개인의 태만뿐 아니라 조직이 감시를 얼마나 신뢰하는지 드러낸다.\n\n이 유형은 침입자나 도망자가 경비를 피하는 이유를 단순하게 만들고, 담당자의 무책임함을 희극적으로 표현하기도 한다. 감시 대상과 담당자의 딴짓이 분명히 연결될수록 역할의 공백이 효과적으로 드러난다.\n\n인력이 부족하거나 감시 장비가 고장 나서 지켜보지 못하는 상황과는 다르다. 담당자가 감시를 해야 하지만 자발적으로 주의를 돌리는 행동이 원인이다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "Surveillance station slacker는 감시 초소(surveillance station)에서 태만한 사람(slacker)을 결합한 표현이다."
+      ],
+      [
+        "상세 설명",
+        "감시를 게을리하는 담당자는 주변 상황이나 대상을 관찰해야 할 임무가 있는데도 감시 대신 딴짓을 한다. 관찰 의무의 공백이 다른 인물에게 움직이거나 침입할 기회를 제공한다.\n\n감시자가 자리를 비우거나 주의를 딴 데 돌리는 동안 경계해야 할 위험이 가까워질 수 있다. 임무 실패는 개인의 태만뿐 아니라 조직이 감시를 얼마나 신뢰하는지 드러낸다.\n\n이 유형은 침입자나 도망자가 경비를 피하는 이유를 단순하게 만들고, 담당자의 무책임함을 희극적으로 표현하기도 한다. 감시 대상과 담당자의 딴짓이 분명히 연결될수록 역할의 공백이 효과적으로 드러난다.\n\n인력이 부족하거나 감시 장비가 고장 나서 지켜보지 못하는 상황과는 다르다. 담당자가 감시를 해야 하지만 자발적으로 주의를 돌리는 행동이 원인이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

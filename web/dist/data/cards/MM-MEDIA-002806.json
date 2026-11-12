@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "파이널 판타지 VII: 어드벤트 칠드런",
   "original": "Final Fantasy VII: Advent Children",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "파이널 판타지 VII 어드벤트 칠드런"
+  ],
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "《파이널 판타지 VII: 어드벤트 칠드런》은 애니메이션 작품이다.",
-    "detail": "작품 사례: 《파이널 판타지 VII: 어드벤트 칠드런》에서 루퍼스는 제노바의 머리가 든 상자를 자기 무릎 위에 둔 채 심문받으며 카다쥬가 눈앞의 목표를 알아보지 못하게 한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -39,13 +41,34 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-016422",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-018270",
       "row_version": 1
     },
     {
       "card_id": "MEJE-KW-025348",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-028015",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《파이널 판타지 VII: 어드벤트 칠드런》은 원작 게임의 사건으로부터 2년 뒤를 다룬 [[애니메이션]] 영화다. 재건 중인 세계에는 지오스티그마라는 병이 퍼지고, 클라우드도 감염되어 티파와 아이들과의 조용한 생활이 위협받는다.\n\n세피로스를 닮은 세 청년이 클라우드와 신라의 잔존 세력에게 접근하면서 과거의 위기가 다시 현재로 이어진다. 게임 본편의 사건을 처음부터 영화로 재현하는 각색이 아니라, 결말 뒤에도 남은 상처와 적의 영향을 다루는 후속 이야기다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《파이널 판타지 VII: 어드벤트 칠드런》은 원작 게임의 사건으로부터 2년 뒤를 다룬 [[애니메이션]] 영화다. 재건 중인 세계에는 지오스티그마라는 병이 퍼지고, 클라우드도 감염되어 티파와 아이들과의 조용한 생활이 위협받는다.\n\n세피로스를 닮은 세 청년이 클라우드와 신라의 잔존 세력에게 접근하면서 과거의 위기가 다시 현재로 이어진다. 게임 본편의 사건을 처음부터 영화로 재현하는 각색이 아니라, 결말 뒤에도 남은 상처와 적의 영향을 다루는 후속 이야기다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

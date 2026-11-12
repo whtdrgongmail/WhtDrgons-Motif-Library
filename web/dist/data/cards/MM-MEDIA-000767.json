@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "RuneQuest",
   "original": "RuneQuest",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "룬퀘스트"
+  ],
+  "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
     "definition": "이 카드는 테이블톱 게임 《RuneQuest》를 가리킨다. 이 라이브러리에서는 [[치유 효과를 가진 자연물]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: RuneQuest의 jang 꽃잎은 상처의 회복을 빠르게 하지만 채취 계절에 따라 마력이 달라져, 특정 계절에 얻은 꽃은 효력이 없다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -45,5 +47,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "레벨 대신 성공적으로 사용한 기술이 향상되는 성장 구조를 택한 테이블톱 역할수행 게임이다. 직업별 장비 제한보다 인물의 기술과 신체 부위별 피해를 통해 행동을 구체화한다.\n\n원래 무대인 글로란타는 여러 신과 씨족이 활동하는 청동기적 판타지 세계다. 일상 세계에 겹치는 신들의 시간으로 들어가는 신화적 모험이 종교와 마법의 실천에 중요한 역할을 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "레벨 대신 성공적으로 사용한 기술이 향상되는 성장 구조를 택한 테이블톱 역할수행 게임이다. 직업별 장비 제한보다 인물의 기술과 신체 부위별 피해를 통해 행동을 구체화한다.\n\n원래 무대인 글로란타는 여러 신과 씨족이 활동하는 청동기적 판타지 세계다. 일상 세계에 겹치는 신들의 시간으로 들어가는 신화적 모험이 종교와 마법의 실천에 중요한 역할을 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

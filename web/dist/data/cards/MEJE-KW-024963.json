@@ -5,8 +5,8 @@
   "original": "A Fake Trip to the Bathroom",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "실제 필요가 없는데도 화장실에 가야 한다고 하여 불편한 자리나 대화에서 잠시 벗어나는 행동이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "정말 필요한 용무나 완전히 엉뚱한 핑계와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실제 용무가 없는데도 화장실에 간다고 말해 불편한 대화와 자리를 잠시 피한다. 반박하기 어려운 일상적 필요를 사회적 이탈의 구실로 사용한다.\n\n상대는 이유를 자세히 확인하기 어렵고 당사자는 대화를 끝냈다는 선언 없이 시간을 얻을 수 있다. 돌아와야 하는 기대가 남아 있으므로 잠깐의 회피가 문제를 해결하는지 더 미루는지도 후속 장면의 쟁점이 된다.\n\n실제로 필요한 용무나 처음부터 믿기 어려운 핑계와는 다르다. 자리를 비웠다는 결과만으로 회피를 단정하지 않으며 말한 이유와 실제 목적의 차이가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실제 용무가 없는데도 화장실에 간다고 말해 불편한 대화와 자리를 잠시 피한다. 반박하기 어려운 일상적 필요를 사회적 이탈의 구실로 사용한다.\n\n상대는 이유를 자세히 확인하기 어렵고 당사자는 대화를 끝냈다는 선언 없이 시간을 얻을 수 있다. 돌아와야 하는 기대가 남아 있으므로 잠깐의 회피가 문제를 해결하는지 더 미루는지도 후속 장면의 쟁점이 된다.\n\n실제로 필요한 용무나 처음부터 믿기 어려운 핑계와는 다르다. 자리를 비웠다는 결과만으로 회피를 단정하지 않으며 말한 이유와 실제 목적의 차이가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

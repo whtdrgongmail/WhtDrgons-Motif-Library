@@ -1,11 +1,11 @@
 {
   "id": "MM-MEDIA-000688",
-  "kind": "work",
+  "kind": "organization",
   "title": "Paintbox",
   "original": "Paintbox",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "primary_tag_id": null,
   "description": {
     "definition": "이 카드는 일본 하드코어 밴드 Paintbox를 가리킨다. 이 라이브러리에서는 [[버닝 스피리츠]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: Paintbox가 정립에 참여한 버닝 스피리츠는 상승감 있는 기타 선율과 선율적인 리프를 강조해, 일본 하드코어 안에서도 다른 청취 인상을 만든다.",
@@ -13,20 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
-  "classification": {
-    "code": "02",
-    "review_status": "provisional",
-    "row_version": 1
-  },
-  "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
-    "row_version": 1
-  },
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": null,
+  "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "일본 하드코어 밴드 Paintbox의 음악은 선명한 기타 선율과 팝·하드록 요소를 전통적인 버닝 스피리츠 사운드와 결합한다.",
     "review_status": "reviewed",
@@ -35,11 +25,30 @@
   },
   "applied_tags": [],
   "related_media": [],
-  "related_motifs": [
+  "related_motifs": [],
+  "references": [
     {
-      "card_id": "MEJE-KW-015090",
+      "id": "REF-000428",
+      "card_id": "MM-MEDIA-000688",
+      "label_ko": "Paintbox 재발매사 소개",
+      "icon_key": "music",
+      "url": "https://breaktherecords.main.jp/",
+      "description_ko": "BREAK THE RECORDS의 밴드 음반 소개와 재발매 기록",
+      "sort_order": 1,
       "row_version": 1
     }
   ],
-  "references": []
+  "longform_article": {
+    "text": "Paintbox는 일본 하드코어 음악 그룹이다. 재발매사 BREAK THE RECORDS는 밴드가 풍경이 연상되는 하드코어 사운드를 지향했으며 1999년 첫 정규 음반을 발표했다고 설명한다. 이 카드는 장르명과 구별되는 실제 밴드를 가리킨다.\n\n재발매사 자료에는 무네의 선율적인 보컬, 첼시의 작곡, 스구루의 드럼이 밴드 음악의 구성 요소로 제시된다. 발매 기록은 2000년 두 번째 음반과 2009년 세 번째 음반으로 이어져, 같은 그룹 안에서도 표현 방식이 달라졌음을 확인할 수 있다.\n\n[[버닝 스피리츠]]와의 연결은 Paintbox의 음악이 일본 하드코어의 해당 흐름을 설명하는 사례라는 뜻이다. 선율과 하드록 요소를 더한 밴드 고유의 방식은 계열 전체의 필수 조건과 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "Paintbox는 일본 하드코어 음악 그룹이다. 재발매사 BREAK THE RECORDS는 밴드가 풍경이 연상되는 하드코어 사운드를 지향했으며 1999년 첫 정규 음반을 발표했다고 설명한다. 이 카드는 장르명과 구별되는 실제 밴드를 가리킨다.\n\n재발매사 자료에는 무네의 선율적인 보컬, 첼시의 작곡, 스구루의 드럼이 밴드 음악의 구성 요소로 제시된다. 발매 기록은 2000년 두 번째 음반과 2009년 세 번째 음반으로 이어져, 같은 그룹 안에서도 표현 방식이 달라졌음을 확인할 수 있다.\n\n[[버닝 스피리츠]]와의 연결은 Paintbox의 음악이 일본 하드코어의 해당 흐름을 설명하는 사례라는 뜻이다. 선율과 하드록 요소를 더한 밴드 고유의 방식은 계열 전체의 필수 조건과 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

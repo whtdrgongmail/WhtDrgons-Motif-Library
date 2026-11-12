@@ -4,8 +4,8 @@
   "title": "고용주와 고용인 사이의 연애",
   "original": "Sleeping with the Boss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000727",
+  "primary_tag_id": "MM-UNSET-000727",
   "description": {
     "definition": "한 사람이 다른 사람의 고용주인 상태에서 두 사람이 연애 관계를 맺는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "권한 차이와 동의·불이익의 문제를 별도로 확인하며 모든 관계를 같은 동기로 판단하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "일의 상하 관계와 사랑이 겹친다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "교제하는 두 사람 사이에 고용과 평가의 권한도 함께 존재한다. 사적인 감정이 일의 조건과 분리되기 어려운 관계다.\n\n보상과 업무 배분은 다른 직원에게 편애로 보일 수 있다. 거절과 이별이 생계에 영향을 주는지 여부는 권력의 비대칭을 판단하는 중요한 조건이다.\n\n같은 직장에서 일하는 동료 연애와는 직위 관계가 다르다. 애정의 존재만으로 강압의 가능성이 사라지는 것은 아니며 실제 정책과 법은 별도 문제다.",
+    "sections": [
+      [
+        "상세 설명",
+        "교제하는 두 사람 사이에 고용과 평가의 권한도 함께 존재한다. 사적인 감정이 일의 조건과 분리되기 어려운 관계다.\n\n보상과 업무 배분은 다른 직원에게 편애로 보일 수 있다. 거절과 이별이 생계에 영향을 주는지 여부는 권력의 비대칭을 판단하는 중요한 조건이다.\n\n같은 직장에서 일하는 동료 연애와는 직위 관계가 다르다. 애정의 존재만으로 강압의 가능성이 사라지는 것은 아니며 실제 정책과 법은 별도 문제다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

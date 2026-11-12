@@ -4,8 +4,8 @@
   "title": "기묘한 현실을 중심에 둔 소설",
   "original": "Bizarro Fiction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-003298",
+  "primary_tag_id": "MEJE-KW-003298",
   "description": {
     "definition": "꿈같은 현실과 뜻밖의 사물·사건을 자연스럽게 엮는 소설 유형. 낯섦 자체가 웃음이나 불안, 사고의 실마리가 된다. 기묘한 현실이 다른 세계와 맞물리면 [[익숙한 관계가 뒤집힌 평행 세계]]의 구도가 된다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.406.005",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기묘한 소설은 현실의 규칙을 완전히 버린 별도 세계보다, 익숙한 일상에 설명하기 어려운 사건과 사물을 끼워 넣는 방식으로 낯섦을 만든다. 인물과 서술이 그 이상함을 과도하게 해명하지 않을수록 독자는 정상과 비정상의 기준이 어디서 비롯되는지 의식하게 된다. 우스움, 혐오감, 불안이 같은 장면에서 겹칠 수 있다.\n\n초자연적 존재가 나온다는 이유만으로 판타지와 동일시할 수는 없다. 중요한 것은 기묘함이 독립된 세계의 규칙으로 정리되는지, 아니면 일상 현실의 논리와 부딪쳐 그 자체가 감각과 사고의 중심이 되는지다. 반복되는 낯선 사건이 현실과 다른 관계 체계를 구성하면 [[익숙한 관계가 뒤집힌 평행 세계]]와 접점을 가질 수 있지만, 개별 작품의 구조를 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기묘한 소설은 현실의 규칙을 완전히 버린 별도 세계보다, 익숙한 일상에 설명하기 어려운 사건과 사물을 끼워 넣는 방식으로 낯섦을 만든다. 인물과 서술이 그 이상함을 과도하게 해명하지 않을수록 독자는 정상과 비정상의 기준이 어디서 비롯되는지 의식하게 된다. 우스움, 혐오감, 불안이 같은 장면에서 겹칠 수 있다.\n\n초자연적 존재가 나온다는 이유만으로 판타지와 동일시할 수는 없다. 중요한 것은 기묘함이 독립된 세계의 규칙으로 정리되는지, 아니면 일상 현실의 논리와 부딪쳐 그 자체가 감각과 사고의 중심이 되는지다. 반복되는 낯선 사건이 현실과 다른 관계 체계를 구성하면 [[익숙한 관계가 뒤집힌 평행 세계]]와 접점을 가질 수 있지만, 개별 작품의 구조를 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

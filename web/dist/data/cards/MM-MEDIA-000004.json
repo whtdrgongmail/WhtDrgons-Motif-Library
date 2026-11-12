@@ -1,28 +1,30 @@
 {
   "id": "MM-MEDIA-000004",
   "kind": "work",
-  "title": "\"Rapper's Delight\"",
-  "original": "\"Rapper's Delight\"",
-  "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-T00139",
+  "title": "Rapper's Delight",
+  "original": "Rapper's Delight",
+  "aliases": [
+    "\"Rapper's Delight\""
+  ],
+  "tag_id": "ML-T00140",
+  "primary_tag_id": "ML-T00140",
   "description": {
-    "definition": "이 카드는 음악 작품 《\"Rapper's Delight\"》를 가리킨다. 이 라이브러리에서는 [[디스코 랩]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: \"Rapper's Delight\"는 Chic의 Good Times 연주를 바탕으로 선율 중심 노래 대신 리듬적인 랩을 얹어, 초기 힙합과 디스코의 연결을 보여 준다.",
+    "definition": "《Rapper's Delight》는 Sugarhill Gang이 발표한 초기 힙합 노래다. Chic의 《[[Good Times]]》 연주를 음악적 바탕으로 삼았다.",
+    "detail": "디스코의 반복적인 반주 위에 리듬적인 랩을 얹어 디스코와 초기 힙합의 연결을 보여 준다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02.008",
+    "code": "02.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "medium_family",
-    "parent_relation": "facet_member",
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
     "allowed_roles": [
       "medium"
     ],
@@ -30,10 +32,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "\"Rapper's Delight\"는 Chic의 Good Times 연주를 바탕으로 선율 중심 노래 대신 리듬적인 랩을 얹어, 초기 힙합과 디스코의 연결을 보여 준다.",
+    "easy_ko": "Sugarhill Gang의 초기 힙합 노래다. Chic의 《Good Times》 연주 위에 랩을 얹었다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,5 +45,22 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "반복되는 베이스와 드럼 리듬은 긴 랩 구절이 이어질 수 있는 일정한 박자 틀을 제공한다. 이 작품의 분석 초점은 디스코 반주가 랩의 중심 구조로 재배치된 방식이다. 같은 음악적 재료를 사용해도 원곡의 노래 구성과 후속 곡의 음성 전달은 다르다.\n\n이 작품은 초기 힙합이 디스코의 춤 음악과 파티 문화를 활용한 사례로 다룰 수 있다. 음악의 관계를 설명할 때 노래 제목과 공연 주체를 구별해야 한다. 《[[Good Times]]》를 이 곡의 다른 제목으로 기록하지 않는다.\n\n[[디스코 랩]] 카드에서는 《[[Good Times]]》의 연주와 《Rapper's Delight》의 랩이 결합하는 방식을 사례로 제시한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "반복되는 베이스와 드럼 리듬은 긴 랩 구절이 이어질 수 있는 일정한 박자 틀을 제공한다. 이 작품의 분석 초점은 디스코 반주가 랩의 중심 구조로 재배치된 방식이다. 같은 음악적 재료를 사용해도 원곡의 노래 구성과 후속 곡의 음성 전달은 다르다.\n\n이 작품은 초기 힙합이 디스코의 춤 음악과 파티 문화를 활용한 사례로 다룰 수 있다. 음악의 관계를 설명할 때 노래 제목과 공연 주체를 구별해야 한다. 《[[Good Times]]》를 이 곡의 다른 제목으로 기록하지 않는다."
+      ],
+      [
+        "사례",
+        "[[디스코 랩]] 카드에서는 《[[Good Times]]》의 연주와 《Rapper's Delight》의 랩이 결합하는 방식을 사례로 제시한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": false
+  }
 }

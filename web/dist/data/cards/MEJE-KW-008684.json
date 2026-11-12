@@ -4,8 +4,8 @@
   "title": "모두에게 하나씩 있는 유일품",
   "original": "Enough to Go Around",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02173",
+  "primary_tag_id": "ML-T02173",
   "description": {
     "definition": "게임 [[세계관]]에서는 단 하나여야 할 물건이 여러 [[플레이어]]의 과제를 위해 각자에게 제공되는 규칙이다. 공동 세계의 설명과 개인별 진행이 어긋난다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "25",
+    "code": "25.012.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "세계 안에서는 하나뿐이어야 할 임무 물건이 여러 플레이어에게 각각 주어지는 규칙이다. 공동 세계의 설정과 개인별 진행의 편의가 어긋난다.\n\n여러 사람이 같은 과제를 수행할 수 있게 하면서 이전 플레이어의 획득이 다른 사람의 기회를 없애지 않는다. 고유한 인물의 유품처럼 복제되기 어려운 대상일수록 모순이 눈에 띈다.\n\n처음부터 대량 생산되는 물건과는 다르다. 설정상의 유일성이 필요하며 개인별 공간과 시간대라는 별도 설명이 있는 경우는 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "세계 안에서는 하나뿐이어야 할 임무 물건이 여러 플레이어에게 각각 주어지는 규칙이다. 공동 세계의 설정과 개인별 진행의 편의가 어긋난다.\n\n여러 사람이 같은 과제를 수행할 수 있게 하면서 이전 플레이어의 획득이 다른 사람의 기회를 없애지 않는다. 고유한 인물의 유품처럼 복제되기 어려운 대상일수록 모순이 눈에 띈다.\n\n처음부터 대량 생산되는 물건과는 다르다. 설정상의 유일성이 필요하며 개인별 공간과 시간대라는 별도 설명이 있는 경우는 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

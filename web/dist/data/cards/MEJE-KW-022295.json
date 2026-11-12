@@ -4,8 +4,8 @@
   "title": "지시만 했다며 실행자에게 책임 미루기",
   "original": "Just Giving Orders",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F18",
+  "tag_id": "ML-T01583",
+  "primary_tag_id": "ML-T01583",
   "description": {
     "definition": "행동을 지시한 권력자가 자신이 직접 실행하지 않았다는 이유로 모든 책임을 실행자에게 넘기려 한다.",
     "detail": "작품 사례: 《[[라이온 킹(1994년 영화)]]》에서 스카는 궁지에 몰리자 하이에나들에게 잘못을 떠넘긴다. 그 말을 들은 부하들의 반감이 뒤의 몰락과 연결된다.",
@@ -13,10 +13,10 @@
     "boundary": "부하가 지시 범위를 넘어선 경우와 구별해 실제 명령의 내용과 결과를 본다. 법적 책임의 보편 규칙을 제시하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "18",
+    "code": "18.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-002113",
+      "work_card_id": "MM-MEDIA-002499",
       "description_ko": "《라이온 킹(1994년 영화)》에서 스카는 궁지에 몰리자 하이에나들에게 잘못을 떠넘긴다. 그 말을 들은 부하들의 반감이 뒤의 몰락과 연결된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "행동을 지시한 사람이 직접 실행하지 않았다는 이유로 책임을 부하에게 넘기는 태도다. 권한을 행사한 사실과 결과에 대한 부담을 분리하려 한다.\n\n명시적인 지시를 부정하거나 부하가 지나치게 해석했다고 주장할 수 있다. 부하의 불복종을 기대했다는 설명은 해로운 명령을 내린 선택 자체를 회피하는 방식이 된다.\n\n실행자가 상급자의 책임만 주장하는 경우와 방향이 반대다. 결정과 실행에 각자 어떤 선택이 있었는지 검토해야 하며, 실제 법적 판단을 대신하는 개념은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "행동을 지시한 사람이 직접 실행하지 않았다는 이유로 책임을 부하에게 넘기는 태도다. 권한을 행사한 사실과 결과에 대한 부담을 분리하려 한다.\n\n명시적인 지시를 부정하거나 부하가 지나치게 해석했다고 주장할 수 있다. 부하의 불복종을 기대했다는 설명은 해로운 명령을 내린 선택 자체를 회피하는 방식이 된다.\n\n실행자가 상급자의 책임만 주장하는 경우와 방향이 반대다. 결정과 실행에 각자 어떤 선택이 있었는지 검토해야 하며, 실제 법적 판단을 대신하는 개념은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

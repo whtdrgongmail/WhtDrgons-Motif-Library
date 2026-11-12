@@ -4,8 +4,8 @@
   "title": "대상과 의미를 알리는 반복 음악 동기",
   "original": "Leitmotif",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02022",
+  "primary_tag_id": "ML-T02022",
   "description": {
     "definition": "특정 인물·집단·행동·감정에 연결되는 음악 구절을 되풀이하여 그 대상과 의미를 청각적으로 환기하는 구성 방식이다.",
     "detail": "작품 사례: 《[[킹덤 하츠 III]]》의 〈[[Hearts As One]]〉은 록서스의 〈[[The Other Promise]]〉와 시온의 〈[[Vector to the Heavens]]〉를 섞는다. 각 인물과 연결되던 음악이 한 곡으로 합쳐져 두 인물의 재결합을 들려준다.",
@@ -13,10 +13,10 @@
     "boundary": "같은 배경음악의 단순 재사용이나 제목에 인물 이름이 붙은 곡만으로는 부족하다. 반복과 대상의 식별 가능한 연결이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.003.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -59,5 +59,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 선율이 반복해서 같은 인물이나 대상, 감정과 연결되면 음악만으로도 그 존재를 식별할 수 있다. 화면 밖 대상을 암시하거나 관계의 변화를 전달할 수 있는 까닭은 선율이 나올 때마다 축적된 연결을 관객이 기억하기 때문이다.\n\n곡 제목에 인물 이름이 있거나 배경음악을 여러 번 사용했다는 사실만으로는 충분하지 않다. 대상과 선율 사이의 알아볼 수 있는 관계가 필요하다. 서로 다른 인물의 선율을 합치면 개별 정체성을 유지하면서 두 사람의 결합을 음악적으로 표현할 수 있다.\n\n《[[킹덤 하츠 III]]》의 〈[[Hearts As One]]〉은 록서스와 연결된 〈[[The Other Promise]]〉, 시온과 연결된 〈[[Vector to the Heavens]]〉를 결합한다. 각자의 음악을 함께 들려주어 두 인물의 재결합을 표현한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 선율이 반복해서 같은 인물이나 대상, 감정과 연결되면 음악만으로도 그 존재를 식별할 수 있다. 화면 밖 대상을 암시하거나 관계의 변화를 전달할 수 있는 까닭은 선율이 나올 때마다 축적된 연결을 관객이 기억하기 때문이다.\n\n곡 제목에 인물 이름이 있거나 배경음악을 여러 번 사용했다는 사실만으로는 충분하지 않다. 대상과 선율 사이의 알아볼 수 있는 관계가 필요하다. 서로 다른 인물의 선율을 합치면 개별 정체성을 유지하면서 두 사람의 결합을 음악적으로 표현할 수 있다."
+      ],
+      [
+        "관련 작품",
+        "《[[킹덤 하츠 III]]》의 〈[[Hearts As One]]〉은 록서스와 연결된 〈[[The Other Promise]]〉, 시온과 연결된 〈[[Vector to the Heavens]]〉를 결합한다. 각자의 음악을 함께 들려주어 두 인물의 재결합을 표현한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

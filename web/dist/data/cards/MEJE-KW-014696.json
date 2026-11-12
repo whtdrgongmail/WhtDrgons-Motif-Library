@@ -4,8 +4,8 @@
   "title": "힘을 아끼다가 패배하기",
   "original": "Holding-Back Backfire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00724",
+  "primary_tag_id": "ML-T00724",
   "description": {
     "definition": "승부에서 능력을 일부러 제한하거나 상대에게 여유를 주다가 그 때문에 회복할 수 없는 불리함이나 패배를 겪는 전개다.",
     "detail": "작품 사례: [[Cobra Kai]]에서 호크는 케니에게 너무 강하게 맞서지 말라는 부탁을 받아 힘을 조절하지만, 케니의 비열한 공격을 예상하지 못해 다친다.",
@@ -13,10 +13,10 @@
     "boundary": "처음부터 전력이 부족하거나 의도한 패배를 얻는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.008.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "충분한 힘을 갖고도 일부러 조절한 선택 때문에 불리한 결과를 맞는 전개다. 절제의 이유와 상대에 대한 예상이 실제 위험과 어긋난다.\n\n본래 능력이 부족한 패배나 일부러 져 주는 결과와는 다르다. 전력을 사용하지 않은 판단이 손상과 패배의 원인으로 작용해야 한다.\n\n[[Cobra Kai]]의 호크는 부탁을 받아 케니에게 힘을 조절한다. 예상하지 못한 비열한 공격으로 다치면서 절제의 선택과 상대에 대한 오판이 결합된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "충분한 힘을 갖고도 일부러 조절한 선택 때문에 불리한 결과를 맞는 전개다. 절제의 이유와 상대에 대한 예상이 실제 위험과 어긋난다.\n\n본래 능력이 부족한 패배나 일부러 져 주는 결과와는 다르다. 전력을 사용하지 않은 판단이 손상과 패배의 원인으로 작용해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Cobra Kai]]의 호크는 부탁을 받아 케니에게 힘을 조절한다. 예상하지 못한 비열한 공격으로 다치면서 절제의 선택과 상대에 대한 오판이 결합된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

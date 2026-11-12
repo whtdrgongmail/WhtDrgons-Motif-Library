@@ -4,8 +4,8 @@
   "title": "장교가 될 자격의 사병",
   "original": "Gentlemen Rankers",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00913",
+  "primary_tag_id": "ML-T00913",
   "description": {
     "definition": "교육이나 신분상 장교가 될 수 있지만 여러 사정으로 일반 병사로 입대해 두 계층 어디에도 쉽게 속하지 못하는 인물형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.004.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "출신과 교육 등 당대에 장교로 기대되는 조건을 갖추었으나 일반 사병으로 복무하는 인물이다. 군대 내부의 계급과 사회적 계층이 어긋나는 위치가 인물의 갈등을 만든다.\n\n과거의 실패와 속죄, 생활의 몰락이나 개인적 사정이 낮은 계급을 선택한 이유로 제시될 수 있다. 세련된 취향과 몸에 밴 태도 때문에 동료 병사들과 쉽게 섞이지 못하고, 장교들 역시 그 존재를 불편해할 수 있다.\n\n장교가 아닌 모든 교육받은 병사를 뜻하지는 않는다. 해당 사회에서 그 인물이 왜 장교로 여겨질 자격이 있는지, 그리고 실제 복무 위치와의 간극이 서사에서 얼마나 강조되는지를 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "출신과 교육 등 당대에 장교로 기대되는 조건을 갖추었으나 일반 사병으로 복무하는 인물이다. 군대 내부의 계급과 사회적 계층이 어긋나는 위치가 인물의 갈등을 만든다.\n\n과거의 실패와 속죄, 생활의 몰락이나 개인적 사정이 낮은 계급을 선택한 이유로 제시될 수 있다. 세련된 취향과 몸에 밴 태도 때문에 동료 병사들과 쉽게 섞이지 못하고, 장교들 역시 그 존재를 불편해할 수 있다.\n\n장교가 아닌 모든 교육받은 병사를 뜻하지는 않는다. 해당 사회에서 그 인물이 왜 장교로 여겨질 자격이 있는지, 그리고 실제 복무 위치와의 간극이 서사에서 얼마나 강조되는지를 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "세 사람의 호감이 충돌하는 삼각관계",
   "original": "Love Triangle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00985",
+  "primary_tag_id": "ML-T00985",
   "description": {
     "definition": "세 인물 사이의 엇갈리거나 경쟁적인 연애 감정이 [[관계 갈등]]을 만드는 구도다.",
     "detail": "두 사람이 한 사람을 좋아할 수도 있고 호감이 세 사람을 따라 엇갈릴 수도 있다. 한 쌍의 성립, 모두의 실패, 새 상대의 등장, 합의된 복수 관계 등 결말은 별개의 선택이다.\n\n작품 사례: 《[[피너츠]]》의 페퍼민트 패티와 마시는 모두 찰리 브라운을 좋아한다. 두 친구가 같은 사람에게 호감을 품어 세 사람 사이에 경쟁적인 연애 구도가 생기지만, 찰리 브라운의 마음은 다른 곳을 향한다.",
@@ -13,14 +13,20 @@
     "boundary": "세 인물이 함께 등장하기만 하거나 우정만 경쟁하는 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람을 둘러싼 마음이 부딪혀 선택과 질투가 생긴다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "두 사람이 한 사람을 좋아할 수도 있고 호감이 세 사람을 따라 엇갈릴 수도 있다. 한 쌍의 성립, 모두의 실패, 새 상대의 등장, 합의된 복수 관계 등 결말은 별개의 선택이다.\n\n엇갈린 호감이 질투나 선택의 갈등을 낳지만 특정 매체나 문화의 모든 연애물에 필수인 것은 아니다.\n\n세 인물이 함께 등장하기만 하거나 우정만 경쟁하는 관계와 구별한다.\n\n작품 사례: 《[[피너츠]]》의 페퍼민트 패티와 마시는 모두 찰리 브라운을 좋아한다. 두 친구가 같은 사람에게 호감을 품어 세 사람 사이에 경쟁적인 연애 구도가 생기지만, 찰리 브라운의 마음은 다른 곳을 향한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "두 사람이 한 사람을 좋아할 수도 있고 호감이 세 사람을 따라 엇갈릴 수도 있다. 한 쌍의 성립, 모두의 실패, 새 상대의 등장, 합의된 복수 관계 등 결말은 별개의 선택이다.\n\n엇갈린 호감이 질투나 선택의 갈등을 낳지만 특정 매체나 문화의 모든 연애물에 필수인 것은 아니다.\n\n세 인물이 함께 등장하기만 하거나 우정만 경쟁하는 관계와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[피너츠]]》의 페퍼민트 패티와 마시는 모두 찰리 브라운을 좋아한다. 두 친구가 같은 사람에게 호감을 품어 세 사람 사이에 경쟁적인 연애 구도가 생기지만, 찰리 브라운의 마음은 다른 곳을 향한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

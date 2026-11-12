@@ -4,8 +4,8 @@
   "title": "작품 제작을 도운 쪽을 작품 안에서 풍자하기",
   "original": "Biting-the-Hand Humor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "작품을 만들거나 제작에 도움을 준 사람과 조직을 그 작품의 농담으로 겨냥하는 방식이다.",
     "detail": "현재 비교 문단은 작품을 유통하는 주체를 그 작품의 농담으로 겨냥하는 변형에 초점을 둔다.",
@@ -13,10 +13,10 @@
     "boundary": "무관한 외부 인물을 풍자하는 것과 구별한다. 제작 기여자와 표현 주체 사이의 관계가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작품의 제작과 지원에 관여한 사람과 조직을 작품 안에서 풍자한다. 협력 관계의 내부자가 자신을 둘러싼 권력과 요구를 농담으로 드러낸다.\n\n관객이 대상을 알아볼 수 있을 때 비판의 추가 의미가 생긴다. 일반적인 악덕 상사 묘사와 실제 제작 관계를 겨냥한 참조는 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작품의 제작과 지원에 관여한 사람과 조직을 작품 안에서 풍자한다. 협력 관계의 내부자가 자신을 둘러싼 권력과 요구를 농담으로 드러낸다.\n\n관객이 대상을 알아볼 수 있을 때 비판의 추가 의미가 생긴다. 일반적인 악덕 상사 묘사와 실제 제작 관계를 겨냥한 참조는 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

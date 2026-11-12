@@ -4,8 +4,8 @@
   "title": "작품을 심각하게 만드는 악역",
   "original": "Knight of Cerebus",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "위험한 악역의 등장이 이전의 가벼운 분위기를 더 어둡고 진지한 이야기로 바꾸는 역할이다.",
     "detail": "작품 사례: 《[[SMG4]]》의 제로와 나일스는 우주를 파괴하는 실제 위협을 가하며 등장 장면에서 희극적 분위기를 급격히 줄인다.",
@@ -13,10 +13,10 @@
     "boundary": "강한 적의 존재만 아니라 작품 전체의 분위기 변화가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역의 등장으로 유머가 줄고 사건의 결과와 위협이 더 심각해지는 분위기 전환이다. 강함 자체보다 작품의 정조가 달라지는 것이 핵심이다.\n\n힘센 적이 있다는 사실만으로는 충분하지 않다. 등장 전후의 농담과 피해, 긴장의 비중이 어떻게 바뀌는지 비교해야 한다.\n\n《[[SMG4]]》의 제로와 나일스는 우주 파괴의 실제 위협을 가한다. 그들이 등장하는 장면에서 희극적인 분위기가 급격히 줄어 위협과 정조 변화가 함께 나타난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악역의 등장으로 유머가 줄고 사건의 결과와 위협이 더 심각해지는 분위기 전환이다. 강함 자체보다 작품의 정조가 달라지는 것이 핵심이다.\n\n힘센 적이 있다는 사실만으로는 충분하지 않다. 등장 전후의 농담과 피해, 긴장의 비중이 어떻게 바뀌는지 비교해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[SMG4]]》의 제로와 나일스는 우주 파괴의 실제 위협을 가한다. 그들이 등장하는 장면에서 희극적인 분위기가 급격히 줄어 위협과 정조 변화가 함께 나타난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

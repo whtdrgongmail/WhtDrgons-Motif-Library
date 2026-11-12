@@ -4,8 +4,8 @@
   "title": "창가의 파이를 훔치는 소동",
   "original": "Pie on the Windowsill",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00797",
+  "primary_tag_id": "ML-T00797",
   "description": {
     "definition": "창문턱에서 식히는 파이의 냄새에 이끌린 인물이나 동물이 그것을 훔치려 하면서 벌어지는 희극적 상황이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.008.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "방금 구운 파이가 열린 창가에 놓이자 지나가던 동물이 냄새를 따라 접근한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "집 안의 음식이 바깥에서도 손댈 수 있는 자리에 놓이면서 유혹과 경계가 함께 생긴다. 냄새를 따라가는 움직임, 높은 창문턱에 닿으려는 시도, 만든 사람이 돌아오기 전의 긴장으로 작은 사건을 구성할 수 있다. 훔친 뒤에는 분노한 주인과의 추격으로 이어지기 쉽다.\n\n생존을 위한 절박한 절도보다 즉흥적인 식욕을 가볍게 다루는 경우가 많다. 열린 창문과 갓 구운 음식은 편안한 생활 공간을 먼저 만들어 주므로, 작은 소동이 그 평온함을 깨는 대비가 생긴다. 파이를 먹고 싶다는 욕망보다 창가에 방치된 음식에 접근하는 구도가 이 장면의 특징이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "집 안의 음식이 바깥에서도 손댈 수 있는 자리에 놓이면서 유혹과 경계가 함께 생긴다. 냄새를 따라가는 움직임, 높은 창문턱에 닿으려는 시도, 만든 사람이 돌아오기 전의 긴장으로 작은 사건을 구성할 수 있다. 훔친 뒤에는 분노한 주인과의 추격으로 이어지기 쉽다.\n\n생존을 위한 절박한 절도보다 즉흥적인 식욕을 가볍게 다루는 경우가 많다. 열린 창문과 갓 구운 음식은 편안한 생활 공간을 먼저 만들어 주므로, 작은 소동이 그 평온함을 깨는 대비가 생긴다. 파이를 먹고 싶다는 욕망보다 창가에 방치된 음식에 접근하는 구도가 이 장면의 특징이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

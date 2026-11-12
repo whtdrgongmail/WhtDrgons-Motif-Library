@@ -4,8 +4,8 @@
   "title": "탐정극",
   "original": "Detective Drama",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-007176",
+  "primary_tag_id": "MEJE-KW-007176",
   "description": {
     "definition": "한 탐정의 사건 수사와 추리를 중심에 두고 범죄의 발생부터 해결까지 따라가는 장르다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.106.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중심 탐정이 사건을 조사하며 단서와 진술을 연결하는 과정을 따라가는 극 형식이다. 직업 경찰과 사설 탐정뿐 아니라 추리 역할을 하는 비전문가도 중심 인물이 될 수 있다.\n\n범인을 숨기면 인물과 [[관객]]이 답을 찾는 과정이 중심이 되고, 범행을 먼저 보여 주면 탐정이 어떻게 입증할지가 긴장을 만든다. 반복되는 사건과 탐정의 생활을 결합하면 개별 수사와 장기적인 인물 관계가 함께 이어진다.\n\n범죄가 등장하는 모든 드라마와 같지는 않다. 조사와 추론이 전체 이야기를 조직하는 것이 탐정극의 기준이다. 액션과 추격의 비중이 높아도 탐정의 조사와 정보 공개가 사건 해결의 구조를 이룰 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "중심 탐정이 사건을 조사하며 단서와 진술을 연결하는 과정을 따라가는 극 형식이다. 직업 경찰과 사설 탐정뿐 아니라 추리 역할을 하는 비전문가도 중심 인물이 될 수 있다.\n\n범인을 숨기면 인물과 [[관객]]이 답을 찾는 과정이 중심이 되고, 범행을 먼저 보여 주면 탐정이 어떻게 입증할지가 긴장을 만든다. 반복되는 사건과 탐정의 생활을 결합하면 개별 수사와 장기적인 인물 관계가 함께 이어진다.\n\n범죄가 등장하는 모든 드라마와 같지는 않다. 조사와 추론이 전체 이야기를 조직하는 것이 탐정극의 기준이다. 액션과 추격의 비중이 높아도 탐정의 조사와 정보 공개가 사건 해결의 구조를 이룰 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

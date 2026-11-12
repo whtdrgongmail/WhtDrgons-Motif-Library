@@ -4,8 +4,8 @@
   "title": "병원에서 벌어지는 코미디",
   "original": "Putting the \"Medic\" in Comedic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00306",
+  "primary_tag_id": "ML-T00306",
   "description": {
     "definition": "병원과 치료 상황을 주요 무대로 삼아 의료인·환자·업무 사이의 엇갈림을 웃음의 중심으로 구성하는 코미디이다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": "의료 작품에 가끔 농담이 나오는 것만으로는 부족하며 희극적 구성이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.110",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "치료 공간에서 사람과 일이 꼬이는 상황이 반복적인 웃음을 만든다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "병원과 치료 상황을 주요 무대로 의료인과 환자, 업무의 엇갈림을 희극의 중심에 둔다. 공간의 일상적인 역할이 반복적인 웃음의 조건이 된다.\n\n치료하는 사람과 받는 사람의 관계 및 업무가 어떻게 충돌하는지가 구성을 만든다. 병원은 잠깐 방문하는 장소보다 사건을 계속 낳는 무대다.\n\n의료 작품에 가끔 농담이 있다는 사실만으로는 부족하다. 희극적인 진행이 작품의 중심이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "병원과 치료 상황을 주요 무대로 의료인과 환자, 업무의 엇갈림을 희극의 중심에 둔다. 공간의 일상적인 역할이 반복적인 웃음의 조건이 된다.\n\n치료하는 사람과 받는 사람의 관계 및 업무가 어떻게 충돌하는지가 구성을 만든다. 병원은 잠깐 방문하는 장소보다 사건을 계속 낳는 무대다.\n\n의료 작품에 가끔 농담이 있다는 사실만으로는 부족하다. 희극적인 진행이 작품의 중심이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

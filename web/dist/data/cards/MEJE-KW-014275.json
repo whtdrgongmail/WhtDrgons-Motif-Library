@@ -4,8 +4,8 @@
   "title": "악당의 승리를 거부하는 선언",
   "original": "Heroic Vow of Defiance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01963",
+  "primary_tag_id": "ML-T01963",
   "description": {
     "definition": "압도적인 불리함 속에서도 악당의 목적을 끝까지 막겠다고 주인공이 말로 분명히 선언하는 장면이다.",
     "detail": "작품 사례: [[The Lord of the Rings]]에서 상처로 쇠약해진 프로도는 브루이넨 여울 너머의 아홉 검은 기수를 홀로 마주한다. 그는 검을 들고 반지도 자신도 넘겨주지 않겠다고 선언한다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 용기 표현이나 단순한 도발과 달리 적의 성공을 막겠다는 의지가 명시된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "열세에서도 적에게 목표를 내주지 않겠다는 의사를 명시하는 선언이다. 승리의 확신보다 저항을 계속하겠다는 선택이 말의 중심이 될 수 있다.\n\n일반적인 용기와 도발의 대사와는 다르다. 무엇을 넘기지 않고 어떤 성공을 막을 것인지가 이후 행동의 방향과 연결되어야 한다.\n\n[[The Lord of the Rings]]의 프로도는 상처로 쇠약해진 채 브루이넨 여울에서 아홉 검은 기수를 마주한다. 검을 들고 반지도 자신도 넘겨주지 않겠다고 말해 불리한 상태의 저항을 명확히 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "열세에서도 적에게 목표를 내주지 않겠다는 의사를 명시하는 선언이다. 승리의 확신보다 저항을 계속하겠다는 선택이 말의 중심이 될 수 있다.\n\n일반적인 용기와 도발의 대사와는 다르다. 무엇을 넘기지 않고 어떤 성공을 막을 것인지가 이후 행동의 방향과 연결되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Lord of the Rings]]의 프로도는 상처로 쇠약해진 채 브루이넨 여울에서 아홉 검은 기수를 마주한다. 검을 들고 반지도 자신도 넘겨주지 않겠다고 말해 불리한 상태의 저항을 명확히 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

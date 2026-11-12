@@ -4,8 +4,8 @@
   "title": "실패를 거듭하는 연민 어린 악역",
   "original": "Ineffectual Sympathetic Villain",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "실제로 해로운 목적을 품지만 무능이나 상대의 압도적인 능력 때문에 악행을 실현하지 못해 연민이나 웃음을 주는 악역이다.",
     "detail": "작품 사례: [[Sofia the First]]의 세드릭은 성에 수면 [[마법]]을 걸었다가 자신도 잠들고, 까마귀의 자랑마저 소피아에게 해제 주문의 위치를 알려 주어 계획이 우스운 실패로 이어진다.",
@@ -13,10 +13,10 @@
     "boundary": "목표 자체가 무해한 악역과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악역은 실제로 해로운 목표를 세우지만 실행에서 계속 실패한다. 무능이나 상대와의 능력 차이가 계획을 막아 위협보다 연민과 웃음이 앞설 수 있다.\n\n실패의 원인이 악역 자신의 행동으로 돌아오면 희극적인 인과가 강해진다. 계획의 잔혹함과 결과의 우스움은 동시에 존재할 수 있다.\n\n목표부터 온건하고 무해한 악역과는 의도가 다르다. 불쌍해 보인다는 이유만으로 가해 의지가 없다고 판단할 수는 없다.\n\n[[Sofia the First]]의 세드릭은 수면 마법에 자신도 잠들고 까마귀의 자랑이 소피아에게 해제 주문의 단서를 준다.\n\n[[Sofia the First]]",
+    "sections": [
+      [
+        "상세 설명",
+        "악역은 실제로 해로운 목표를 세우지만 실행에서 계속 실패한다. 무능이나 상대와의 능력 차이가 계획을 막아 위협보다 연민과 웃음이 앞설 수 있다.\n\n실패의 원인이 악역 자신의 행동으로 돌아오면 희극적인 인과가 강해진다. 계획의 잔혹함과 결과의 우스움은 동시에 존재할 수 있다.\n\n목표부터 온건하고 무해한 악역과는 의도가 다르다. 불쌍해 보인다는 이유만으로 가해 의지가 없다고 판단할 수는 없다."
+      ],
+      [
+        "사례",
+        "[[Sofia the First]]의 세드릭은 수면 마법에 자신도 잠들고 까마귀의 자랑이 소피아에게 해제 주문의 단서를 준다."
+      ],
+      [
+        "관련 작품",
+        "[[Sofia the First]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "인간 보호 때문에 복종을 제한하는 로봇",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "인간의 명령에 따르도록 만들어진 [[로봇]]이 그 명령으로 인간이 다치게 되는 경우에는 복종보다 보호를 우선한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "로봇의 모든 윤리 규칙을 완결해 설명하는 개념이 아니라 명령과 인간 위해 사이의 우선관계에 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[로봇]]은 명령 수행을 의무로 갖지만 인간에게 피해가 생기면 그 의무를 제한한다. 보호와 복종이 충돌할 때 우선순위가 정해져 있다.\n\n같은 지시도 예상되는 위해에 따라 거부될 수 있다. 명령의 문구보다 결과를 해석하는 능력이 갈등의 조건이 된다.\n\n로봇 윤리 전체를 완결하는 규칙은 아니다. 인간 보호와 명령 사이의 특정한 우선관계를 설명하며 다른 의무까지 자동으로 추가하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[로봇]]은 명령 수행을 의무로 갖지만 인간에게 피해가 생기면 그 의무를 제한한다. 보호와 복종이 충돌할 때 우선순위가 정해져 있다.\n\n같은 지시도 예상되는 위해에 따라 거부될 수 있다. 명령의 문구보다 결과를 해석하는 능력이 갈등의 조건이 된다.\n\n로봇 윤리 전체를 완결하는 규칙은 아니다. 인간 보호와 명령 사이의 특정한 우선관계를 설명하며 다른 의무까지 자동으로 추가하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

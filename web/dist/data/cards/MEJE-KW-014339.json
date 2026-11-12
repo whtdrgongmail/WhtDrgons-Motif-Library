@@ -4,8 +4,8 @@
   "title": "다 함께 공연을 올리자는 해결책",
   "original": "Hey, Let's Put on a Show",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00822",
+  "primary_tag_id": "ML-T00822",
   "description": {
     "definition": "등장인물들이 돈을 모으거나 공동의 문제를 해결하려고 직접 공연을 준비하고 올리는 이야기 구조다. 준비와 무대가 사건을 이끌며 평소 드러나지 않던 재능을 보여 주기도 한다.",
     "detail": "작품 사례: [[The Blues Brothers]]에서 두 사람은 가톨릭 고아원을 구할 돈을 마련하려고 옛 밴드를 다시 모아 공연을 준비한다.",
@@ -13,10 +13,10 @@
     "boundary": "원래 공연을 직업으로 삼는 사람들의 일상이나 단순한 공연 관람과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.010.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-000936",
+      "work_card_id": "MM-MEDIA-001483",
       "description_ko": "The Blues Brothers에서 두 사람은 가톨릭 고아원을 구할 돈을 마련하려고 옛 밴드를 다시 모아 공연을 준비한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[공동체]]의 금전 문제와 위기에 대해 함께 공연을 마련하는 계획을 세우는 구성이다. 인원을 모으고 준비하는 과정이 문제 해결의 주요 행동이 된다.\n\n직업 공연자의 평범한 업무와 단순한 관람과는 다르다. 특정 문제를 해결하려는 공동 계획으로 공연의 제작이 선택되어야 한다.\n\n[[The Blues Brothers]]의 두 사람은 가톨릭 고아원을 구할 돈을 마련하려 옛 밴드를 모은다. 공연은 목표를 위한 수입 수단이자 동료들을 다시 결집하는 계획이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[공동체]]의 금전 문제와 위기에 대해 함께 공연을 마련하는 계획을 세우는 구성이다. 인원을 모으고 준비하는 과정이 문제 해결의 주요 행동이 된다.\n\n직업 공연자의 평범한 업무와 단순한 관람과는 다르다. 특정 문제를 해결하려는 공동 계획으로 공연의 제작이 선택되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Blues Brothers]]의 두 사람은 가톨릭 고아원을 구할 돈을 마련하려 옛 밴드를 모은다. 공연은 목표를 위한 수입 수단이자 동료들을 다시 결집하는 계획이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

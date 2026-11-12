@@ -4,8 +4,8 @@
   "title": "개인적 모험을 다루는 영웅 판타지",
   "original": "Heroic Fantasy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00219",
+  "primary_tag_id": "ML-T00219",
   "description": {
     "definition": "[[마법]]과 미지의 땅이 있는 세계에서 비교적 선한 영웅들이 자신의 모험·보물·괴물 퇴치 같은 목표를 추구하는 판타지 유형이다.",
     "detail": "작품 사례: [[Hillbilly]]의 주인공은 애팔래치아 민담을 닮은 황야를 떠돌며 마녀와 괴물을 상대해, 세계 전체의 전쟁보다 개인의 모험을 이어 간다.",
@@ -13,17 +13,20 @@
     "boundary": "세계적 선악 대결 중심의 대서사나 주역의 비도덕성이 중심인 어두운 모험과 범위·정조에서 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.103.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[마법]]과 낯선 땅을 배경으로 주역의 탐험이나 괴물과의 대결이 이어진다. 세계 전체의 운명보다 인물이나 일행이 당면한 모험에 초점을 두면 사건의 규모와 영웅의 행동이 장르의 정조를 형성한다.\n\n판타지의 하위 장르는 서로 겹칠 수 있으므로 전쟁이나 어두운 인물이 등장한다는 이유만으로 배제할 수는 없다. 이 분류에서는 개인적 모험의 비중과 영웅을 다루는 태도가 무엇인지 구분하는 편이 정확하다.\n\n《[[Hillbilly]]》의 주인공은 애팔래치아 민담을 닮은 황야에서 마녀와 괴물을 상대한다. 세계 전체의 전쟁보다 떠돌며 이어 가는 개인의 모험이 중심이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[마법]]과 낯선 땅을 배경으로 주역의 탐험이나 괴물과의 대결이 이어진다. 세계 전체의 운명보다 인물이나 일행이 당면한 모험에 초점을 두면 사건의 규모와 영웅의 행동이 장르의 정조를 형성한다.\n\n판타지의 하위 장르는 서로 겹칠 수 있으므로 전쟁이나 어두운 인물이 등장한다는 이유만으로 배제할 수는 없다. 이 분류에서는 개인적 모험의 비중과 영웅을 다루는 태도가 무엇인지 구분하는 편이 정확하다."
+      ],
+      [
+        "관련 작품",
+        "《[[Hillbilly]]》의 주인공은 애팔래치아 민담을 닮은 황야에서 마녀와 괴물을 상대한다. 세계 전체의 전쟁보다 떠돌며 이어 가는 개인의 모험이 중심이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

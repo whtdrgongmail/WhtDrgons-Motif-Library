@@ -4,8 +4,8 @@
   "title": "위험이 기다리는 문",
   "original": "Door of Doom",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01465",
+  "primary_tag_id": "ML-T01465",
   "description": {
     "definition": "겉모습이나 놓인 위치만으로도 뒤에 큰 위험이 있음을 암시하는 문이다. 통과할지 결정하는 순간이 [[서사]]의 문턱이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "외형과 위치만으로 그 너머에 큰 위험과 특별한 사건이 있음을 암시하는 문이다. 통과가 단순한 이동이 아니라 중요한 선택으로 제시된다.\n\n거대한 크기와 경고, 주변과 어울리지 않는 배치는 인물과 관객의 기대를 높인다. 게임에서는 이전 구역으로 돌아가기 어려운 단계와 연결되어 준비를 마칠 시점을 알릴 수 있다.\n\n실제로 적이 숨어 있는 모든 문과는 다르다. 문 자체가 위험을 인식하게 하는 표현이어야 하며 건축물 없이 홀로 서 있어도 같은 서사적 기능을 수행할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "외형과 위치만으로 그 너머에 큰 위험과 특별한 사건이 있음을 암시하는 문이다. 통과가 단순한 이동이 아니라 중요한 선택으로 제시된다.\n\n거대한 크기와 경고, 주변과 어울리지 않는 배치는 인물과 관객의 기대를 높인다. 게임에서는 이전 구역으로 돌아가기 어려운 단계와 연결되어 준비를 마칠 시점을 알릴 수 있다.\n\n실제로 적이 숨어 있는 모든 문과는 다르다. 문 자체가 위험을 인식하게 하는 표현이어야 하며 건축물 없이 홀로 서 있어도 같은 서사적 기능을 수행할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

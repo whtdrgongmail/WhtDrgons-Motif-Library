@@ -4,8 +4,8 @@
   "title": "자신의 무기와 합쳐져 변신하기",
   "original": "Become Your Weapon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01496",
+  "primary_tag_id": "ML-T01496",
   "description": {
     "definition": "인물이 쓰던 무기와 몸을 하나로 합쳐 새로운 전투 형태를 얻는다. 무기의 능력뿐 아니라 손과 몸의 쓰임이 어떻게 달라지는지가 중요하다. 겉모습이 바뀌는 [[입은 복장 그대로 변신하기]]와 달리 무기가 변화의 중심이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "17",
+    "code": "17.001.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사용자가 자신의 무기와 합쳐져 새로운 전투 형태로 바뀌는 변신이다. 소유한 도구와 몸의 경계가 사라지면서 무기의 힘을 직접 구현한다.\n\n무기가 신체에 붙거나 인물 전체가 그 성질을 갖는 식으로 변화의 범위를 조절할 수 있다. 기존 무기의 인지도가 높으면 새 형태의 능력도 외형만으로 이해하기 쉬워진다.\n\n원래부터 몸에 있는 발톱 같은 [[자연 무기]]나 단순한 무기 소환과는 다르다. 별도로 존재하던 사용자와 무기가 결합해 상태를 바꾼다는 사건이 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사용자가 자신의 무기와 합쳐져 새로운 전투 형태로 바뀌는 변신이다. 소유한 도구와 몸의 경계가 사라지면서 무기의 힘을 직접 구현한다.\n\n무기가 신체에 붙거나 인물 전체가 그 성질을 갖는 식으로 변화의 범위를 조절할 수 있다. 기존 무기의 인지도가 높으면 새 형태의 능력도 외형만으로 이해하기 쉬워진다.\n\n원래부터 몸에 있는 발톱 같은 [[자연 무기]]나 단순한 무기 소환과는 다르다. 별도로 존재하던 사용자와 무기가 결합해 상태를 바꾼다는 사건이 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "고향을 떠나면 죽는 존재",
   "original": "Departure Means Death",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "어떤 존재가 자신이 속한 세계나 장소를 벗어나면 생존할 수 없다는 규칙. 여행과 이별을 생명의 문제로 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "어떤 존재가 자신이 속한 장소와 세계를 벗어나면 생존할 수 없는 설정이다. 이동과 이별의 선택에 생명의 대가가 연결된다.\n\n환경의 마법과 특정 자원, 장소와의 결속이 이유가 될 수 있다. 처음에는 약해지거나 아픈 증상으로 경계를 알리고 시간이 지나면서 위험이 커지는 형태도 가능하다.\n\n평범한 낯선 기후에 적응하기 어려운 정도와는 규칙의 강도가 다르다. 보호 도구와 예외가 있으면 제한적으로 교류할 수 있으며, 고향을 지키는 일과 바깥을 보고 싶은 욕망이 동시에 갈등이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "어떤 존재가 자신이 속한 장소와 세계를 벗어나면 생존할 수 없는 설정이다. 이동과 이별의 선택에 생명의 대가가 연결된다.\n\n환경의 마법과 특정 자원, 장소와의 결속이 이유가 될 수 있다. 처음에는 약해지거나 아픈 증상으로 경계를 알리고 시간이 지나면서 위험이 커지는 형태도 가능하다.\n\n평범한 낯선 기후에 적응하기 어려운 정도와는 규칙의 강도가 다르다. 보호 도구와 예외가 있으면 제한적으로 교류할 수 있으며, 고향을 지키는 일과 바깥을 보고 싶은 욕망이 동시에 갈등이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,19 +4,19 @@
   "title": "그때그때 기록하는 일상 만화",
   "original": "Journal Comic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00578",
+  "primary_tag_id": "ML-T00578",
   "description": {
     "definition": "창작자가 자신의 일상을 시간이 흐르는 순서에 맞춰 짧은 간격으로 그려 올리는 일기형 만화다.",
     "detail": "완성된 장기 줄거리보다 그 시점의 사건과 감상이 중심이 되며 빠른 제작 리듬에 맞춘 간결한 그림체를 쓸 수 있다.\n\n작품 사례: 《[[Alienby Comics]]》는 제공 문서의 일기형 만화 사례에 포함된다. 이 카드에서는 매체 형식의 사례로 연결하며 원문에 없는 일상 사건은 보태지 않았다.",
     "usage": "",
-    "boundary": "한참 지난 삶을 회고하며 완성한 자서전과 구별한다. 제한적인 과장과 단순화는 가능하지만 일상 기록의 범위를 유지한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "04",
+    "code": "04.004.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "완성된 장기 줄거리보다 그 시점의 사건과 감상이 중심이 되며 빠른 제작 리듬에 맞춘 간결한 그림체를 쓸 수 있다.\n\n한참 지난 삶을 회고하며 완성한 자서전과 구별한다. 제한적인 과장과 단순화는 가능하지만 일상 기록의 범위를 유지한다.\n\n웹툰 《[[Alienby Comics]]》는 창작자의 일상을 기록하는 일기형 만화의 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "완성된 장기 줄거리보다 그 시점의 사건과 감상이 중심이 되며 빠른 제작 리듬에 맞춘 간결한 그림체를 쓸 수 있다.\n\n한참 지난 삶을 회고하며 완성한 자서전과 구별한다. 제한적인 과장과 단순화는 가능하지만 일상 기록의 범위를 유지한다."
+      ],
+      [
+        "관련 작품",
+        "웹툰 《[[Alienby Comics]]》는 창작자의 일상을 기록하는 일기형 만화의 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

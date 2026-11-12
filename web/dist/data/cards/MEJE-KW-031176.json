@@ -4,8 +4,8 @@
   "title": "일행이 갑자기 흩어지기",
   "original": "Party Scattering",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00732",
+  "primary_tag_id": "ML-T00732",
   "description": {
     "definition": "함께 이동하던 일행이 외부 사건으로 갑자기 멀리 분리되어 서로를 찾아야 하는 전개이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "이동 장치가 폭주해 동료들이 서로 다른 지역에 떨어지고 다시 만나는 것이 당장의 목표가 된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "분리는 동료에게 기대던 능력과 정보를 끊어 각 인물이 홀로 무엇을 할 수 있는지 드러낸다. 새로운 장소나 인물과 만나게 하면서 여러 갈래의 이야기를 동시에 진행할 수도 있다. 관객에게 각자의 위치를 보여 주는지 감추는지에 따라 재회의 기대와 불안이 달라진다.\n\n자발적으로 역할을 나누거나 내부 불화로 헤어진 상황과 달리 외부 사건이 원인이며 일행은 보통 다시 모이려 한다. 분리가 거의 동시에 일어나 공동의 행동이 즉시 불가능해진다는 점이 핵심이다. 재회 뒤에는 흩어진 동안 얻은 정보와 변화가 원래 모험에 영향을 주어야 분리 구간의 의미가 남는다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "분리는 동료에게 기대던 능력과 정보를 끊어 각 인물이 홀로 무엇을 할 수 있는지 드러낸다. 새로운 장소나 인물과 만나게 하면서 여러 갈래의 이야기를 동시에 진행할 수도 있다. 관객에게 각자의 위치를 보여 주는지 감추는지에 따라 재회의 기대와 불안이 달라진다.\n\n자발적으로 역할을 나누거나 내부 불화로 헤어진 상황과 달리 외부 사건이 원인이며 일행은 보통 다시 모이려 한다. 분리가 거의 동시에 일어나 공동의 행동이 즉시 불가능해진다는 점이 핵심이다. 재회 뒤에는 흩어진 동안 얻은 정보와 변화가 원래 모험에 영향을 주어야 분리 구간의 의미가 남는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": false
   }
 }

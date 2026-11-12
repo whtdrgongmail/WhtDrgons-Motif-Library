@@ -4,8 +4,8 @@
   "title": "현지화에서 노랫말을 바꾸거나 지우기",
   "original": "What Song Was This Again?",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02282",
+  "primary_tag_id": "ML-T02282",
   "description": {
     "definition": "노래의 현지화에서 원래 가사를 전혀 다른 내용으로 교체하거나 가사 자체를 없애는 변경이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "005차 2024행은 다른 내용의 가사로 교체하는 유형이며 현재는 삭제도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "노래를 현지 언어로 바꾸면서 원래 가사와 다른 내용으로 교체하거나 노랫말을 없애는 변경이다. 선율을 유지해도 인물의 감정과 줄거리 정보는 달라질 수 있다.\n\n노래는 의미뿐 아니라 박자와 발음, 운율을 맞춰야 하므로 일반 대사 번역보다 조건이 많다. 원문에 맞춘 표현과 자연스럽게 부를 수 있는 표현 사이의 선택이 결과를 바꾼다.\n\n의미를 유지하는 정상적인 의역과 완전히 다른 노랫말은 구분해야 한다. 현지화에서 노랫말을 바꾸거나 지우기는 변경의 결과를 설명하는 범주이며 새 가사가 있다는 사실만으로 현지화의 품질을 확정하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "노래를 현지 언어로 바꾸면서 원래 가사와 다른 내용으로 교체하거나 노랫말을 없애는 변경이다. 선율을 유지해도 인물의 감정과 줄거리 정보는 달라질 수 있다.\n\n노래는 의미뿐 아니라 박자와 발음, 운율을 맞춰야 하므로 일반 대사 번역보다 조건이 많다. 원문에 맞춘 표현과 자연스럽게 부를 수 있는 표현 사이의 선택이 결과를 바꾼다.\n\n의미를 유지하는 정상적인 의역과 완전히 다른 노랫말은 구분해야 한다. 현지화에서 노랫말을 바꾸거나 지우기는 변경의 결과를 설명하는 범주이며 새 가사가 있다는 사실만으로 현지화의 품질을 확정하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

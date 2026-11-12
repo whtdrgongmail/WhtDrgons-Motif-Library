@@ -4,8 +4,8 @@
   "title": "작품에서 확정된 연인 관계",
   "original": "Official Couple",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "작품의 정식 이야기 안에서 두 인물이 서로 사귀는 관계라고 분명히 제시된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "주연이거나 비중 있는 인물이어야 한다는 이전 제안의 조건을 요구하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "암시나 팬의 상상이 아니라 작품에서 실제로 사귄다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "고백, 상호 합의, 명시적인 서술 등 작품 내부의 근거로 두 사람의 교제가 확인된다. 관계를 추측할 만한 장면이 있다는 수준을 넘어 이야기에서 연인이라는 지위가 성립한다.\n\n공식 관계가 된 뒤에도 갈등이나 이별이 가능하며 작품의 마지막까지 유지되어야만 해당하는 것은 아니다. 제작진의 의도 추정이나 팬의 선호만으로 성립한 조합과는 근거의 종류가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "고백, 상호 합의, 명시적인 서술 등 작품 내부의 근거로 두 사람의 교제가 확인된다. 관계를 추측할 만한 장면이 있다는 수준을 넘어 이야기에서 연인이라는 지위가 성립한다.\n\n공식 관계가 된 뒤에도 갈등이나 이별이 가능하며 작품의 마지막까지 유지되어야만 해당하는 것은 아니다. 제작진의 의도 추정이나 팬의 선호만으로 성립한 조합과는 근거의 종류가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

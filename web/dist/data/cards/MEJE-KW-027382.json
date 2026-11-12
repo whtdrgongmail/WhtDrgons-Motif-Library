@@ -4,8 +4,8 @@
   "title": "자기 후손으로 새 종을 시작한 괴물",
   "original": "Monster Progenitor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01130",
+  "primary_tag_id": "ML-T01130",
   "description": {
     "definition": "후손들을 통해 자기와 같은 하나의 새로운 종을 발생시키는 원조 개체이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "여러 종류의 괴물을 계속 만드는 제작자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "12",
+    "code": "12.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 개체가 후손 집단의 출발점으로 설정된다. 현재의 여러 괴물이 공유하는 성질은 원조와의 혈통 관계로 설명된다.\n\n오래 살고 강한 존재라면 계보와 지배의 중심을 겸할 수 있다. 원조의 죽음이 후손에게 영향을 주는 규칙은 위협을 해결할 명확한 목표를 제공하기도 한다.\n\n후손 전체가 함께 사라지는 효과는 가능한 변형이지 필수 조건은 아니다. [[수많은 하급 괴물을 낳는 어미]]와 달리 현재도 계속 출산해야 하는 것은 아니며 계보의 시작이라는 위치가 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 개체가 후손 집단의 출발점으로 설정된다. 현재의 여러 괴물이 공유하는 성질은 원조와의 혈통 관계로 설명된다.\n\n오래 살고 강한 존재라면 계보와 지배의 중심을 겸할 수 있다. 원조의 죽음이 후손에게 영향을 주는 규칙은 위협을 해결할 명확한 목표를 제공하기도 한다.\n\n후손 전체가 함께 사라지는 효과는 가능한 변형이지 필수 조건은 아니다. [[수많은 하급 괴물을 낳는 어미]]와 달리 현재도 계속 출산해야 하는 것은 아니며 계보의 시작이라는 위치가 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

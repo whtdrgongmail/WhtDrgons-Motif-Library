@@ -4,8 +4,8 @@
   "title": "Legend of Everfree",
   "original": "Legend of Everfree",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00058",
+  "primary_tag_id": "ML-T00058",
   "description": {
     "definition": "이 카드는 애니메이션 영화 《My Little Pony: Equestria Girls – Legend of Everfree》를 가리킨다. 이 라이브러리에서는 [[악행 없는 적대자]] 사례와 연결된다.",
     "detail": "연결 사례: Legend of Everfree의 필시 리치는 주인공 측과 토지 문제로 대립하고 거만하게 보이지만, 소유권을 주장하고 추가 상환 기한도 지켜 노골적인 악행과는 구별된다.",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -41,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Legend of Everfree》라는 표제는 애니메이션 영화를 가리킨다.\n\n모티프 라이브러리에서는 [[악행 없는 적대자]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Legend of Everfree》라는 표제는 애니메이션 영화를 가리킨다.\n\n모티프 라이브러리에서는 [[악행 없는 적대자]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
 }

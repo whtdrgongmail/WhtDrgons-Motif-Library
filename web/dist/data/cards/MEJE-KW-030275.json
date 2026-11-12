@@ -4,8 +4,8 @@
   "title": "귀족적 특권 의식과 나치 이념을 결합한 악역",
   "original": "Nazi Nobleman",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "세습적 지위의 [[우월감]]을 나치 이념과 결합하여 강자가 약자를 지배해야 한다고 여기는 귀족 악역 유형이다.",
     "detail": "작품 사례: 《[[기동전사 건담(TV 애니메이션)]]》의 기렌 자비는 지온의 지배 귀족이면서 강자의 지배를 내세우며, 아버지가 히틀러에 빗댄 비판마저 긍정적으로 받아들인다.",
@@ -13,10 +13,10 @@
     "boundary": "귀족이나 독일인 전체에 대한 일반화가 아니다. 나치 체제와의 결탁 또는 이를 명확히 본뜬 허구 세력이라는 조건을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,13 +30,26 @@
   "applied_tags": [],
   "related_media": [
     {
-      "media_tag_id": "ML-T02512",
+      "media_tag_id": "ML-T02480",
       "work_card_id": "MM-MEDIA-002500",
       "description_ko": "《기동전사 건담(TV 애니메이션)》의 기렌 자비는 지온의 지배 귀족이면서 강자의 지배를 내세우며, 아버지가 히틀러에 빗댄 비판마저 긍정적으로 받아들인다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "세습적인 우월감과 나치 이념이 만나면 집단의 지배를 정당화하는 두 논리가 겹친다. 개인의 가문을 지키려는 계산과 이념에 대한 진심은 서로 다른 동기가 될 수 있다.\n\n세련된 말과 문화적 취향은 실제 잔혹한 행동과 대비되어 외형의 품위를 흔든다. 사회적 권위는 폭력을 더 쉽게 행사하게 하는 자원으로 쓰일 수 있다.\n\n귀족이라는 신분만으로 같은 이념을 갖는 것은 아니다. [[우월감]]과 강자의 지배를 특정한 나치적 세계관에 결합한 악역의 구성이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "세습적인 우월감과 나치 이념이 만나면 집단의 지배를 정당화하는 두 논리가 겹친다. 개인의 가문을 지키려는 계산과 이념에 대한 진심은 서로 다른 동기가 될 수 있다.\n\n세련된 말과 문화적 취향은 실제 잔혹한 행동과 대비되어 외형의 품위를 흔든다. 사회적 권위는 폭력을 더 쉽게 행사하게 하는 자원으로 쓰일 수 있다.\n\n귀족이라는 신분만으로 같은 이념을 갖는 것은 아니다. [[우월감]]과 강자의 지배를 특정한 나치적 세계관에 결합한 악역의 구성이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

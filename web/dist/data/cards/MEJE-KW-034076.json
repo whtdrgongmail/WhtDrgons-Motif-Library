@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-034076",
+  "kind": "keyword",
+  "title": "호흡 고갈과 동시에 실패하기",
+  "original": "",
+  "aliases": [],
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
+  "description": {
+    "definition": "남은 산소 수치가 바닥나는 순간 별도의 체력 소모 과정 없이 캐릭터가 사망하거나 실패 상태가 되는 잠수 규칙이다.",
+    "detail": "",
+    "usage": "잠수의 시간 한계를 분명한 실패 조건으로 만든다.",
+    "boundary": "산소 고갈 뒤에도 체력으로 조금 더 버티는 규칙과 구분한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-12",
+  "row_version": 2,
+  "classification": {
+    "code": "25.008",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "숨 수치가 다 떨어지면 바로 실패한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "잠수 중 산소 수치가 바닥나면 즉시 사망하거나 실패 상태가 된다. 산소가 남아 있는 시간이 곧 행동할 수 있는 한계다.\n\n별도의 체력 소모 단계가 없으므로 제한 시간이 명확하다. 플레이어는 산소 고갈 뒤의 여유를 기대하지 않고 그전에 행동을 마쳐야 한다.\n\n산소가 없어진 뒤 체력이 줄어드는 규칙과 구별한다. 고갈과 실패 사이에 추가로 버티는 과정이 없다는 점이 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "잠수 중 산소 수치가 바닥나면 즉시 사망하거나 실패 상태가 된다. 산소가 남아 있는 시간이 곧 행동할 수 있는 한계다.\n\n별도의 체력 소모 단계가 없으므로 제한 시간이 명확하다. 플레이어는 산소 고갈 뒤의 여유를 기대하지 않고 그전에 행동을 마쳐야 한다.\n\n산소가 없어진 뒤 체력이 줄어드는 규칙과 구별한다. 고갈과 실패 사이에 추가로 버티는 과정이 없다는 점이 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
+}

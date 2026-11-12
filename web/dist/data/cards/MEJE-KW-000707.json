@@ -4,8 +4,8 @@
   "title": "타고난 재능도 수련해야 쓰는 마법",
   "original": "Training the Gift of Magic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01209",
+  "primary_tag_id": "ML-T01209",
   "description": {
     "definition": "선천적으로 마법을 쓸 자질이 있어야 하지만 숙련된 사용자가 되려면 공부와 반복 훈련도 필요한 세계 [[규칙]]. 타고난 힘과 배울 기회 사이의 차이가 인물의 위치를 만든다. [[마법은 못 쓰지만 이론에 밝은 전문가]]는 지식과 발동 능력이 분리된 경우다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "태어날 때의 자질이 필요하지만 훈련을 거쳐야 능숙하게 쓸 수 있는 마법 규칙이다. 재능의 유무와 교육을 받을 기회가 서로 다른 격차를 만든다.\n\n재능이 있어도 배우지 못한 인물과 충분히 수련한 인물의 차이가 성장의 목표가 된다. [[누구나 배울 수 있는 마법]]과 대비되며, 본능적으로 쓰는 초능력과 달리 지식과 숙련이 실제 성과에 영향을 주는지 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "태어날 때의 자질이 필요하지만 훈련을 거쳐야 능숙하게 쓸 수 있는 마법 규칙이다. 재능의 유무와 교육을 받을 기회가 서로 다른 격차를 만든다.\n\n재능이 있어도 배우지 못한 인물과 충분히 수련한 인물의 차이가 성장의 목표가 된다. [[누구나 배울 수 있는 마법]]과 대비되며, 본능적으로 쓰는 초능력과 달리 지식과 숙련이 실제 성과에 영향을 주는지 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

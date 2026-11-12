@@ -4,8 +4,8 @@
   "title": "집 안에 숨겨 감금한 가족",
   "original": "Madwoman in the Attic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01007",
+  "primary_tag_id": "ML-T01007",
   "description": {
     "definition": "가족이나 집주인이 질병·장애·정신적 어려움 등을 수치나 위험으로 여겨 인물을 다락방·지하실 같은 집 안 공간에 숨겨 가두는 설정이다.",
     "detail": "작품 사례: 《[[제인 에어]]》의 로체스터 부인은 집 안에 감춰진 아내라는 원형으로 제시된다. 외부에서 온 인물이 집안의 비밀을 마주하는 구조와 연결된다.",
@@ -13,10 +13,10 @@
     "boundary": "성별은 제한되지 않으며 자발적으로 가족 집에 거주하는 경우와 다르다. 실제 질병이나 장애가 위험성의 증거인 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가족은 차이와 질병을 수치와 위험으로 여겨 집 안의 외진 곳에 인물을 가둔다. 사적인 공간이 돌봄의 장소와 자유를 제한하는 감옥의 기능을 겸한다.\n\n발견의 장면은 집의 평범한 외관과 감춰진 통제를 대비시킨다. 보호의 의도가 있다는 주장과 실제로 적절한 지원을 제공했는지는 다르며 질병과 장애가 감금의 당연한 이유라는 뜻은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가족은 차이와 질병을 수치와 위험으로 여겨 집 안의 외진 곳에 인물을 가둔다. 사적인 공간이 돌봄의 장소와 자유를 제한하는 감옥의 기능을 겸한다.\n\n발견의 장면은 집의 평범한 외관과 감춰진 통제를 대비시킨다. 보호의 의도가 있다는 주장과 실제로 적절한 지원을 제공했는지는 다르며 질병과 장애가 감금의 당연한 이유라는 뜻은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

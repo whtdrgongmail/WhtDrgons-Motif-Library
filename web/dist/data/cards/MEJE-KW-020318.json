@@ -5,8 +5,8 @@
   "original": "Recognizing an Outfit Meaning Only After Putting It On",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01847",
+  "primary_tag_id": "ML-T01847",
   "description": {
     "definition": "인물이 건네받은 옷을 무심코 끝까지 입은 다음에야 그 모양과 의미를 깨닫고 반응하는 지연된 인지의 연출이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "타인이 강제로 옷을 바꿔 입히는 방식과 달리 착용 동작은 본인이 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "건네받은 옷을 스스로 다 입은 뒤에야 모양과 의미를 알아차린다. 착용의 행동과 그것에 대한 인식 사이에 지연이 생긴다.\n\n예상하지 못한 복장을 공개하는 순간과 인물의 반응을 묶을 수 있다. 입는 동안에는 없던 판단이 완성된 모습을 확인한 뒤 나타나는 구조다.\n\n다른 사람이 강제로 갈아입힌 경우와 구별한다. 착용 동작은 본인이 했지만 무엇을 입는지 뒤늦게 인식해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "건네받은 옷을 스스로 다 입은 뒤에야 모양과 의미를 알아차린다. 착용의 행동과 그것에 대한 인식 사이에 지연이 생긴다.\n\n예상하지 못한 복장을 공개하는 순간과 인물의 반응을 묶을 수 있다. 입는 동안에는 없던 판단이 완성된 모습을 확인한 뒤 나타나는 구조다.\n\n다른 사람이 강제로 갈아입힌 경우와 구별한다. 착용 동작은 본인이 했지만 무엇을 입는지 뒤늦게 인식해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

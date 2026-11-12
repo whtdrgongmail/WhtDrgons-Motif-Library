@@ -4,8 +4,8 @@
   "title": "치료를 강요하려고 납치한 의사",
   "original": "Kidnapped Doctor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00780",
+  "primary_tag_id": "ML-T00780",
   "description": {
     "definition": "병원에 갈 수 없거나 정식 진료를 받으려 하지 않는 사람이 의사를 강제로 데려와 자신이나 동료를 치료하게 하는 사건이다.",
     "detail": "환자를 살리려는 책임과 강제한 사람에 대한 저항, 부족한 장비, 치료 뒤의 신변 위험이 [[갈등]]을 만든다.\n\n작품 사례: 《[[배트맨(만화)]]》의 토머스 웨인은 가면무도회 도중 납치되어 갱스터 루 모슨의 상처를 치료하도록 강요받는다.",
@@ -13,19 +13,19 @@
     "boundary": "스스로 비공식 진료를 제공하는 의사와 달리 납치·강요가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.004",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "병원에 가면 위험하다고 생각해 의사를 붙잡아 현장으로 데려온다.\n\n작품 사례: 《[[배트맨(만화)]]》의 토머스 웨인은 가면무도회 도중 납치되어 갱스터 루 모슨의 상처를 치료하도록 강요받는다.",
+    "easy_ko": "병원에 가면 위험하다고 생각해 의사를 붙잡아 현장으로 데려온다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "환자를 살리려는 책임과 강제한 사람에 대한 저항, 부족한 장비, 치료 뒤의 신변 위험이 [[갈등]]을 만든다.\n\n돌봄의 의무와 폭력적 강요를 충돌시키며 제한된 장소의 긴장을 만든다.\n\n스스로 비공식 진료를 제공하는 의사와 달리 납치·강요가 있어야 한다.\n\n《[[배트맨(만화)]]》의 토머스 웨인은 가면무도회 도중 납치되어 갱스터 루 모슨의 상처를 치료하도록 강요받는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "환자를 살리려는 책임과 강제한 사람에 대한 저항, 부족한 장비, 치료 뒤의 신변 위험이 [[갈등]]을 만든다.\n\n돌봄의 의무와 폭력적 강요를 충돌시키며 제한된 장소의 긴장을 만든다.\n\n스스로 비공식 진료를 제공하는 의사와 달리 납치·강요가 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[배트맨(만화)]]》의 토머스 웨인은 가면무도회 도중 납치되어 갱스터 루 모슨의 상처를 치료하도록 강요받는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

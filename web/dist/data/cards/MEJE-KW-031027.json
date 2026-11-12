@@ -4,8 +4,8 @@
   "title": "집단 안의 살인범을 모두 죽기 전에 찾기",
   "original": "Ten Little Murder Victims",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "MEJE-KW-030549",
+  "primary_tag_id": "MEJE-KW-030549",
   "description": {
     "definition": "한 장소에 모인 집단 내부에 살인범이 있다는 상황에서 추가 희생이 생기기 전에 정체를 가려야 하는 구성이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "외부에서 알려진 공격자가 습격하는 이야기와 달리 내부인의 신원 판별이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
-    "review_status": "provisional",
+    "code": "05.005.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "집단 안에 살인자가 숨어 있고 추가 희생이 예상되면 신원 확인에는 시간적 압박이 붙는다. 서로를 조사해야 하지만 범인도 같은 공간에 있어 조사 과정 자체가 위험해질 수 있다.\n\n단순히 여러 용의자가 있다는 것만으로는 부족하다. 내부인의 정체를 찾는 일과 다음 피해를 막는 일이 연결되어야 하며 바깥의 알려진 적을 물리치는 생존극과는 목표가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "집단 안에 살인자가 숨어 있고 추가 희생이 예상되면 신원 확인에는 시간적 압박이 붙는다. 서로를 조사해야 하지만 범인도 같은 공간에 있어 조사 과정 자체가 위험해질 수 있다.\n\n단순히 여러 용의자가 있다는 것만으로는 부족하다. 내부인의 정체를 찾는 일과 다음 피해를 막는 일이 연결되어야 하며 바깥의 알려진 적을 물리치는 생존극과는 목표가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

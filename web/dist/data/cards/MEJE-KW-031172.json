@@ -4,8 +4,8 @@
   "title": "부분 변신",
   "original": "Partial Transformation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01496",
+  "primary_tag_id": "ML-T01496",
   "description": {
     "definition": "몸 전체를 바꾸지 않고 필요한 부위만 바꾸거나 두 형태 사이의 중간 상태를 취하는 변신 능력이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.001.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "인간의 손은 그대로 두고 물속에서 숨 쉬는 기관만 바꾸어 섬세한 작업을 계속한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "부분 변신은 형태를 단순히 교체하는 능력에 조합의 가능성을 더한다. 감각 기관이나 팔다리 하나만 바꾸는 방식과 전신을 중간 형태로 만드는 방식은 작동이 다르다. 전자는 특정 기능을 빌리고, 후자는 서로 다른 몸의 장점과 제약을 함께 갖는다.\n\n능숙한 통제의 증거로 사용할 수도 있고 실패한 변신의 결과로 만들 수도 있다. 원하는 부위와 유지해야 할 부위가 정확히 나뉘면 숙련도가 드러나며, 원치 않는 변화가 새어 나오면 정체 노출이나 행동 불능의 위기가 생긴다. 여러 형태의 특성을 한꺼번에 쓰게 할 때에는 기능끼리 충돌하는지와 변신을 되돌릴 조건을 정하면 무제한 해결 능력이 되는 것을 피할 수 있다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "부분 변신은 형태를 단순히 교체하는 능력에 조합의 가능성을 더한다. 감각 기관이나 팔다리 하나만 바꾸는 방식과 전신을 중간 형태로 만드는 방식은 작동이 다르다. 전자는 특정 기능을 빌리고, 후자는 서로 다른 몸의 장점과 제약을 함께 갖는다.\n\n능숙한 통제의 증거로 사용할 수도 있고 실패한 변신의 결과로 만들 수도 있다. 원하는 부위와 유지해야 할 부위가 정확히 나뉘면 숙련도가 드러나며, 원치 않는 변화가 새어 나오면 정체 노출이나 행동 불능의 위기가 생긴다. 여러 형태의 특성을 한꺼번에 쓰게 할 때에는 기능끼리 충돌하는지와 변신을 되돌릴 조건을 정하면 무제한 해결 능력이 되는 것을 피할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": false
   }
 }

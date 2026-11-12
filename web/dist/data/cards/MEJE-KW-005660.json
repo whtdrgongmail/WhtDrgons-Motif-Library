@@ -4,8 +4,8 @@
   "title": "만날 때마다 이름 철자를 알려 주기",
   "original": "Constantly Spells Their Name",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01996",
+  "primary_tag_id": "ML-T01996",
   "description": {
     "definition": "인물이 자기소개할 때마다 이름의 글자를 하나씩 말한다. 처음에는 설명이지만 반복되면 그 사람만의 [[말버릇]]이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자기 이름의 철자와 표기를 소개할 때마다 되풀이하는 인물의 말버릇이다. 상대가 묻지 않았어도 정확한 표기를 알려 주며 특유의 리듬과 구절을 만든다.\n\n긴 이름을 천천히 읽거나 독특한 철자 설명을 붙이면 소개의 시간이 과장되어 희극이 된다. 이름을 중요하게 여기는 자부심과 남에게 기억되고 싶은 욕구를 표현할 수 있다.\n\n발음을 한 번 바로잡는 상황과는 다르다. 문자로 어떻게 적는지를 반복해서 강조한다는 기능이 중요하며 알파벳을 쓰는 언어에만 한정되는 유형도 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자기 이름의 철자와 표기를 소개할 때마다 되풀이하는 인물의 말버릇이다. 상대가 묻지 않았어도 정확한 표기를 알려 주며 특유의 리듬과 구절을 만든다.\n\n긴 이름을 천천히 읽거나 독특한 철자 설명을 붙이면 소개의 시간이 과장되어 희극이 된다. 이름을 중요하게 여기는 자부심과 남에게 기억되고 싶은 욕구를 표현할 수 있다.\n\n발음을 한 번 바로잡는 상황과는 다르다. 문자로 어떻게 적는지를 반복해서 강조한다는 기능이 중요하며 알파벳을 쓰는 언어에만 한정되는 유형도 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

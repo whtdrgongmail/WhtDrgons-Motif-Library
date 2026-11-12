@@ -4,8 +4,8 @@
   "title": "욕설을 자동으로 바꾸는 마법",
   "original": "Magical Profanity Filter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01997",
+  "primary_tag_id": "ML-T01997",
   "description": {
     "definition": "인물이 욕설을 하려 하면 세계의 규칙이 그 말을 순한 표현·효과음·침묵으로 바꾸는 언어 제한. 대화의 의도와 실제로 들리는 말의 차이가 웃음이나 통제의 느낌을 만든다. [[마법 사용 금지령]]은 표현이 아닌 능력 사용을 제도로 막는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "욕설을 하려 하면 세계의 규칙이 순한 말이나 효과음, 침묵으로 바꾼다. 말하려는 의도와 실제 들리는 표현이 달라진다.\n\n변환이 자동으로 일어나므로 인물은 발화를 시도해도 그대로 전달하지 못한다. 그 어긋남은 웃음과 표현 통제의 느낌을 함께 만들 수 있다.\n\n마법 사용을 제도적으로 금지하는 규칙과 다르다. 능력의 사용 허가보다 발화가 초자연적으로 변경된다는 조건이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "욕설을 하려 하면 세계의 규칙이 순한 말이나 효과음, 침묵으로 바꾼다. 말하려는 의도와 실제 들리는 표현이 달라진다.\n\n변환이 자동으로 일어나므로 인물은 발화를 시도해도 그대로 전달하지 못한다. 그 어긋남은 웃음과 표현 통제의 느낌을 함께 만들 수 있다.\n\n마법 사용을 제도적으로 금지하는 규칙과 다르다. 능력의 사용 허가보다 발화가 초자연적으로 변경된다는 조건이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "말과 반대 결과로 바로 넘어가는 컷",
   "original": "Gilligan Cut",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01916",
+  "primary_tag_id": "ML-T01916",
   "description": {
     "definition": "인물이 한 말과 모순되는 결과를 다음 컷에 보여 주되 그 사이에 일어난 과정을 생략하여 반증이 즉시 나타난 듯 보이게 하는 편집이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "같은 시간과 장소에서 바로 반증되는 장면과 달리 중간 시간이 편집으로 빠져 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.009.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 하지 않겠다고 한 행동을 다음 장면에서 하고 있는 등 발언과 반대의 결과로 바로 넘어가는 편집이다. 마음이 바뀐 과정이 생략된다.\n\n관객은 두 장면의 간격에 있었을 설득과 실패를 스스로 짐작한다. 강한 거부 뒤의 빠른 전환일수록 확신과 실제 행동의 차이가 농담으로 강조된다.\n\n같은 장소에서 말이 즉시 반박되는 장면과는 다르다. 장면을 건너뛰는 컷이 있어야 하며, 이야기 속에서는 상당한 시간이 흘렀을 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 하지 않겠다고 한 행동을 다음 장면에서 하고 있는 등 발언과 반대의 결과로 바로 넘어가는 편집이다. 마음이 바뀐 과정이 생략된다.\n\n관객은 두 장면의 간격에 있었을 설득과 실패를 스스로 짐작한다. 강한 거부 뒤의 빠른 전환일수록 확신과 실제 행동의 차이가 농담으로 강조된다.\n\n같은 장소에서 말이 즉시 반박되는 장면과는 다르다. 장면을 건너뛰는 컷이 있어야 하며, 이야기 속에서는 상당한 시간이 흘렀을 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

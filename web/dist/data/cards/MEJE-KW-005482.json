@@ -4,8 +4,8 @@
   "title": "4분의 4박자",
   "original": "Common Time",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02036",
+  "primary_tag_id": "ML-T02036",
   "description": {
     "definition": "한 마디에 4분음표를 기준으로 네 박이 들어가는 음악 박자. 대중음악에서 익숙한 리듬의 바탕이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "Common Time은 널리 쓰이는 박자라는 뜻으로, 4/4박자를 가리킨다.\n\n음악 한 마디에 네 박이 있고 각 박의 기준 음표가 4분음표인 박자표다. 악보에서는 보통 4/4로 표시하며 영어권에서 common time이라고 부른다.\n\n네 박은 각각 둘로 나뉠 수 있으며 강세와 빠르기를 달리해 다양한 리듬을 만든다. 록과 대중음악에서 흔하지만 다른 박자표도 널리 쓰이는 음악 분야가 있다.\n\n익숙한 박의 기준으로 음악을 세고 연주하기 쉽게 한다. 4/4 박자를 가리키는 용어이며, 시의 운율을 뜻하는 common meter와 혼동하지 않는다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "Common Time은 널리 쓰이는 박자라는 뜻으로, 4/4박자를 가리킨다."
+      ],
+      [
+        "상세 설명",
+        "음악 한 마디에 네 박이 있고 각 박의 기준 음표가 4분음표인 박자표다. 악보에서는 보통 4/4로 표시하며 영어권에서 common time이라고 부른다.\n\n네 박은 각각 둘로 나뉠 수 있으며 강세와 빠르기를 달리해 다양한 리듬을 만든다. 록과 대중음악에서 흔하지만 다른 박자표도 널리 쓰이는 음악 분야가 있다.\n\n익숙한 박의 기준으로 음악을 세고 연주하기 쉽게 한다. 4/4 박자를 가리키는 용어이며, 시의 운율을 뜻하는 common meter와 혼동하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

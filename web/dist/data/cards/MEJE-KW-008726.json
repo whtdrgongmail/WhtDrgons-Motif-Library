@@ -4,8 +4,8 @@
   "title": "점멸광 완화 필터",
   "original": "Epileptic-Friendly Filter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01863",
+  "primary_tag_id": "ML-T01863",
   "description": {
     "definition": "강하게 깜박이는 장면의 밝기나 변화 폭을 줄이도록 화면을 어둡게 하거나 효과를 조정하는 접근성·방송 처리다. 이 처리는 [[강한 점멸광 연출]]의 밝기와 변화 폭을 줄이기 위해 쓰인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "점멸이 강한 장면의 밝기와 변화 폭을 줄이는 영상 처리다. 원래 연출을 조정해 시청의 부담과 위험을 낮추려 한다.\n\n방송판 전체를 어둡게 하거나 게임에서 효과를 줄이는 선택 항목으로 구현할 수 있다. 같은 작품도 배포 경로에 따라 처리 여부가 달라져 판본의 외형 차이가 생긴다.\n\n단순한 미적 보정과는 목적이 다르다. 밝기 조절이 모든 자극을 완전히 제거한다는 보장은 없으며 경고 문구와 실제 효과 감소도 다른 조치다.",
+    "sections": [
+      [
+        "상세 설명",
+        "점멸이 강한 장면의 밝기와 변화 폭을 줄이는 영상 처리다. 원래 연출을 조정해 시청의 부담과 위험을 낮추려 한다.\n\n방송판 전체를 어둡게 하거나 게임에서 효과를 줄이는 선택 항목으로 구현할 수 있다. 같은 작품도 배포 경로에 따라 처리 여부가 달라져 판본의 외형 차이가 생긴다.\n\n단순한 미적 보정과는 목적이 다르다. 밝기 조절이 모든 자극을 완전히 제거한다는 보장은 없으며 경고 문구와 실제 효과 감소도 다른 조치다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

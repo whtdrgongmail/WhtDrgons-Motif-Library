@@ -4,8 +4,8 @@
   "title": "서비스 종료 온라인 게임",
   "original": "Defunct Online Video Games",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "서버 운영에 의존하던 온라인 게임이 서비스 종료 뒤 정상적인 플레이가 어려워지는 상태다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중앙 서버의 운영이 끝나 정상적인 접속과 진행이 어려워진 온라인 게임이다. 이용자의 기기에 프로그램이 남아 있어도 필요한 통신이 끊기면 작동하지 않을 수 있다.\n\n수익과 이용자 감소, 제작사의 폐업과 후속작의 등장이 운영 종료의 배경이 될 수 있다. 지속적인 유지 비용이 게임의 수명에 직접 영향을 준다.\n\n판매 종료와 서비스 종료는 같은 사건이 아니다. 기록과 화면을 보존하는 일도 실제 상호작용을 복구하는 일과 다르며, 온라인 세계에서 쌓은 관계와 자산이 운영 주체에 의존한다는 문제가 드러난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "중앙 서버의 운영이 끝나 정상적인 접속과 진행이 어려워진 온라인 게임이다. 이용자의 기기에 프로그램이 남아 있어도 필요한 통신이 끊기면 작동하지 않을 수 있다.\n\n수익과 이용자 감소, 제작사의 폐업과 후속작의 등장이 운영 종료의 배경이 될 수 있다. 지속적인 유지 비용이 게임의 수명에 직접 영향을 준다.\n\n판매 종료와 서비스 종료는 같은 사건이 아니다. 기록과 화면을 보존하는 일도 실제 상호작용을 복구하는 일과 다르며, 온라인 세계에서 쌓은 관계와 자산이 운영 주체에 의존한다는 문제가 드러난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000156",
   "kind": "keyword",
   "title": "음모론",
-  "original": "",
+  "original": "conspiracy theory",
+  "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01605",
+  "primary_tag_id": "ML-T01605",
   "description": {
-    "definition": "",
+    "definition": "음모론은 어떤 사건이나 사회 현상의 주요 원인을 여러 사람이 비밀리에 꾸민 계획으로 설명하는 주장이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "18.006",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "겉으로 알려진 이유 뒤에 비밀 집단의 계획이 있다고 보는 설명이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이야기에서 음모론은 사건의 원인을 설명하는 여러 주장 중 하나로 제시될 수 있다. 비밀 계획의 존재를 의심하는 것과 특정 인물이나 집단이 실제로 그 계획을 실행했다는 증거를 확보하는 것은 다르다.\n\n서로 양립하기 어려운 설명을 동시에 퍼뜨리는 은폐 방식에서는 사실인 단서도 수많은 주장 가운데 하나로 취급될 수 있다. 조사하는 인물은 새 정보를 얻는 것뿐 아니라 어떤 설명이 그 정보와 맞는지 검증해야 한다.\n\n음모론이라는 이름만으로 작품 속 주장의 참과 거짓이 결정되지는 않는다. 또한 여러 소문이 존재한다고 해서 모두 같은 조직이 퍼뜨렸다고 단정할 수도 없다. 누가 주장을 만들었는지, 어떤 근거가 있는지, 실제 비밀과 어떻게 연결되는지는 각각 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이야기에서 음모론은 사건의 원인을 설명하는 여러 주장 중 하나로 제시될 수 있다. 비밀 계획의 존재를 의심하는 것과 특정 인물이나 집단이 실제로 그 계획을 실행했다는 증거를 확보하는 것은 다르다.\n\n서로 양립하기 어려운 설명을 동시에 퍼뜨리는 은폐 방식에서는 사실인 단서도 수많은 주장 가운데 하나로 취급될 수 있다. 조사하는 인물은 새 정보를 얻는 것뿐 아니라 어떤 설명이 그 정보와 맞는지 검증해야 한다.\n\n음모론이라는 이름만으로 작품 속 주장의 참과 거짓이 결정되지는 않는다. 또한 여러 소문이 존재한다고 해서 모두 같은 조직이 퍼뜨렸다고 단정할 수도 없다. 누가 주장을 만들었는지, 어떤 근거가 있는지, 실제 비밀과 어떻게 연결되는지는 각각 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

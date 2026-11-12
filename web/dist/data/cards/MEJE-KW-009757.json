@@ -4,8 +4,8 @@
   "title": "패션 잡지",
   "original": "Fashion Magazine",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02499",
+  "primary_tag_id": "ML-T02499",
   "description": {
     "definition": "옷과 스타일을 중심 주제로 삼아 화보·기사·광고 등을 묶어 발행하는 [[잡지]]의 한 종류. 옷 자체나 일회성 패션 행사와 구별하며, 종이·디지털의 한 매체로만 한정하지 않는다.",
     "detail": "",
@@ -13,17 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.010.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "publication_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "옷과 스타일을 중심으로 화보와 기사, 광고를 구성하는 잡지이다. 생활과 인물에 관한 내용도 독자의 관심에 맞춰 함께 다룬다.\n\n광고와 시각 이미지의 비중이 크며 유행과 브랜드의 평가에 영향을 준다. 편집실은 모델과 디자이너, 광고주가 만나는 직장 이야기의 배경이 될 수 있다.\n\n옷 자체와 일회성 행사는 매체와 구별된다. 종이와 디지털 모두 가능하며, 기사와 광고가 어떤 관계로 배치되는지가 잡지의 성격을 이해하는 데 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "옷과 스타일을 중심으로 화보와 기사, 광고를 구성하는 잡지이다. 생활과 인물에 관한 내용도 독자의 관심에 맞춰 함께 다룬다.\n\n광고와 시각 이미지의 비중이 크며 유행과 브랜드의 평가에 영향을 준다. 편집실은 모델과 디자이너, 광고주가 만나는 직장 이야기의 배경이 될 수 있다.\n\n옷 자체와 일회성 행사는 매체와 구별된다. 종이와 디지털 모두 가능하며, 기사와 광고가 어떤 관계로 배치되는지가 잡지의 성격을 이해하는 데 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

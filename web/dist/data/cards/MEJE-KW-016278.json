@@ -4,8 +4,8 @@
   "title": "스플래터 호러",
   "original": "Splatter horror",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00255",
+  "primary_tag_id": "ML-T00255",
   "description": {
     "definition": "신체의 파괴와 노골적인 손상을 강하게 제시하여 충격과 육체적 공포를 만드는 표현·[[장르]]이다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": "피가 잠깐 나오거나 심리적 불안만 이어지는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.105.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "신체가 노골적으로 파괴되고 손상되는 모습을 공포의 중심에 둔다. 위협을 상상하게 하기보다 그 결과를 구체적으로 제시하여 몸의 취약함을 직접 체감하게 한다.\n\n상처의 표현에 주의를 집중시키면 인물의 안전이 무너지는 순간을 피하기 어렵게 만들 수 있다. 반복과 과장의 정도에 따라 충격이 누적되거나 비현실적인 희극으로 바뀔 수도 있어 묘사의 양만큼 배치가 중요하다.\n\n피가 잠깐 등장하는 장면이나 심리적 불안 중심의 공포와는 강조점이 다르다. 노골적인 손상이 있다고 작품 전체가 이 장르가 되는 것은 아니며 공포를 만드는 주된 수단인지 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "신체가 노골적으로 파괴되고 손상되는 모습을 공포의 중심에 둔다. 위협을 상상하게 하기보다 그 결과를 구체적으로 제시하여 몸의 취약함을 직접 체감하게 한다.\n\n상처의 표현에 주의를 집중시키면 인물의 안전이 무너지는 순간을 피하기 어렵게 만들 수 있다. 반복과 과장의 정도에 따라 충격이 누적되거나 비현실적인 희극으로 바뀔 수도 있어 묘사의 양만큼 배치가 중요하다.\n\n피가 잠깐 등장하는 장면이나 심리적 불안 중심의 공포와는 강조점이 다르다. 노골적인 손상이 있다고 작품 전체가 이 장르가 되는 것은 아니며 공포를 만드는 주된 수단인지 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

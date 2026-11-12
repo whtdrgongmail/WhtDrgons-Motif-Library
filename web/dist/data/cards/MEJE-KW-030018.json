@@ -4,8 +4,8 @@
   "title": "신화와 설화를 시적이고 비선형적으로 재구성하기",
   "original": "Mythpunk",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-030018",
+  "primary_tag_id": "MEJE-KW-030018",
   "description": {
     "definition": "익숙한 신화·설화를 화려한 언어, [[상징]], 비선형 구성과 급진적 재해석으로 다시 만드는 환상 문학의 경향이다.",
     "detail": "여러 문화의 복식과 세계관을 혼합하며 괴물과 인간의 도덕적 위치를 다시 읽을 수 있다.\n\n작품 사례: 《[[Faction Paradox]]》는 부두교적 죽음 숭배 집단과 사이버펑크 요소를 결합하고 다른 이야기들을 적극적으로 참조한다.",
@@ -14,24 +14,27 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.103.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "잘 아는 옛이야기가 낯선 문체와 상징, 새로운 관점으로 변한다.\n\n작품 사례: 《[[Faction Paradox]]》는 부두교적 죽음 숭배 집단과 사이버펑크 요소를 결합하고 다른 이야기들을 적극적으로 참조한다.",
+    "easy_ko": "잘 아는 옛이야기가 낯선 문체와 상징, 새로운 관점으로 변한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 3
+    "updated_at": "2026-11-09",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "익숙한 신화와 설화의 줄거리나 존재를 가져오되 언어와 구성 및 도덕적 위치를 적극적으로 바꾼다. 화려하고 시적인 표현, [[상징]], 비선형적인 시간 배열이 원전의 친숙함과 새로운 해석의 낯섦을 함께 만든다.\n\n여러 문화의 복식과 세계관을 섞거나 괴물과 인간의 선악을 다시 판단할 수 있다. 그 과정에서 문화·성별·변화에 관한 질문이 내용과 형식에 결합된다. 도시 배경의 판타지 전체나 원전을 그대로 재현하는 작품과 달리 의미와 표현의 재구성이 중심에 있어야 한다.\n\n《[[Faction Paradox]]》는 부두교적 죽음 숭배 집단과 사이버펑크적 요소를 결합하고 다른 이야기들을 적극 참조한다. 서로 다른 문화적·장르적 어휘를 다시 조합하는 사례로 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "익숙한 신화와 설화의 줄거리나 존재를 가져오되 언어와 구성 및 도덕적 위치를 적극적으로 바꾼다. 화려하고 시적인 표현, [[상징]], 비선형적인 시간 배열이 원전의 친숙함과 새로운 해석의 낯섦을 함께 만든다.\n\n여러 문화의 복식과 세계관을 섞거나 괴물과 인간의 선악을 다시 판단할 수 있다. 그 과정에서 문화·성별·변화에 관한 질문이 내용과 형식에 결합된다. 도시 배경의 판타지 전체나 원전을 그대로 재현하는 작품과 달리 의미와 표현의 재구성이 중심에 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Faction Paradox]]》는 부두교적 죽음 숭배 집단과 사이버펑크적 요소를 결합하고 다른 이야기들을 적극 참조한다. 서로 다른 문화적·장르적 어휘를 다시 조합하는 사례로 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

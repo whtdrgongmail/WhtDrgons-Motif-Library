@@ -4,8 +4,8 @@
   "title": "유명인을 닮았다고 묘사하는 문장",
   "original": "Textual Celebrity Resemblance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01983",
+  "primary_tag_id": "ML-T01983",
   "description": {
     "definition": "작품 안에서 등장인물의 외모나 인상을 설명할 때 실제 유명인과 닮았다고 직접 언급하는 서술 방식이다. 독자가 아는 얼굴을 인물 이미지의 참조점으로 쓴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "작가가 작품 밖 인터뷰에서 배우를 떠올렸다고 말하는 가상 캐스팅과 다르다. 작품 안의 비교 언급이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "작품의 문장이 실제 유명인의 얼굴과 분위기를 등장인물의 참조점으로 사용한다. 독자는 이미 아는 이미지를 통해 외형을 빠르게 구성한다.\n\n짧은 비교는 설명을 줄일 수 있지만 이해는 독자의 문화적 배경에 의존한다. 참조 대상을 모르면 같은 문장이 충분한 시각 정보를 주지 못할 수 있다.\n\n작가가 인터뷰에서 특정 배우를 떠올렸다는 말과는 다르다. 작품 안에서 닮았다는 비교가 실제로 제시되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "작품의 문장이 실제 유명인의 얼굴과 분위기를 등장인물의 참조점으로 사용한다. 독자는 이미 아는 이미지를 통해 외형을 빠르게 구성한다.\n\n짧은 비교는 설명을 줄일 수 있지만 이해는 독자의 문화적 배경에 의존한다. 참조 대상을 모르면 같은 문장이 충분한 시각 정보를 주지 못할 수 있다.\n\n작가가 인터뷰에서 특정 배우를 떠올렸다는 말과는 다르다. 작품 안에서 닮았다는 비교가 실제로 제시되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

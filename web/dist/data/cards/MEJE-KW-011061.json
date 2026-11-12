@@ -4,8 +4,8 @@
   "title": "차고 록",
   "original": "Garage Rock",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-011061",
+  "primary_tag_id": "MEJE-KW-011061",
   "description": {
     "definition": "거칠고 단순한 연주와 직접적인 에너지를 앞세운 록 음악의 한 흐름이다. 실제로 차고에서 연주했는지는 장르의 필수 조건이 아니다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[차고 록]]은 1960년대 중반의 록 밴드 문화에서 형성된 거칠고 직접적인 연주 양식을 가리킨다. 짧은 곡, 단순한 화성, 강한 리듬과 날것에 가까운 보컬이 흔한 특징이지만 모든 곡이 같은 구성을 따르지는 않는다. 명칭은 아마추어 밴드가 차고에서 연습한다는 이미지와 관련되며, 실제 녹음 장소나 연주자의 숙련도를 뜻하는 판정 기준은 아니다.\n\n이 장르를 설명할 때에는 소리의 질감과 편곡 방식, 당시 록앤롤 및 영국 밴드 음악과의 관계를 함께 본다. 거친 녹음이 있다고 해서 모두 차고 록은 아니며, 전문 장비로 녹음했어도 차고 록의 연주 관습을 사용할 수 있다. [[펑크록]]과 연속성을 논할 수 있지만 두 장르가 형성된 시기와 문화적 맥락은 구별한다.\n\n가상 예시: 밴드가 반복적인 기타 진행과 직선적인 드럼 비트 위에 짧고 강한 노래를 연주한다면 차고 록의 음악적 특징을 설명할 수 있다. 연습실이 차고라는 사실만으로는 음악 장르를 확정할 수 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[차고 록]]은 1960년대 중반의 록 밴드 문화에서 형성된 거칠고 직접적인 연주 양식을 가리킨다. 짧은 곡, 단순한 화성, 강한 리듬과 날것에 가까운 보컬이 흔한 특징이지만 모든 곡이 같은 구성을 따르지는 않는다. 명칭은 아마추어 밴드가 차고에서 연습한다는 이미지와 관련되며, 실제 녹음 장소나 연주자의 숙련도를 뜻하는 판정 기준은 아니다.\n\n이 장르를 설명할 때에는 소리의 질감과 편곡 방식, 당시 록앤롤 및 영국 밴드 음악과의 관계를 함께 본다. 거친 녹음이 있다고 해서 모두 차고 록은 아니며, 전문 장비로 녹음했어도 차고 록의 연주 관습을 사용할 수 있다. [[펑크록]]과 연속성을 논할 수 있지만 두 장르가 형성된 시기와 문화적 맥락은 구별한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 밴드가 반복적인 기타 진행과 직선적인 드럼 비트 위에 짧고 강한 노래를 연주한다면 차고 록의 음악적 특징을 설명할 수 있다. 연습실이 차고라는 사실만으로는 음악 장르를 확정할 수 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

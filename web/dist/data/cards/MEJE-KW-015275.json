@@ -4,8 +4,8 @@
   "title": "악인들의 혼령 배심원",
   "original": "Jury of the Damned",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01203",
+  "primary_tag_id": "ML-T01203",
   "description": {
     "definition": "특히 악한 이들의 영혼으로 배심원을 구성하여 재판의 위협과 비정상적인 권위를 드러내는 설정이다.",
     "detail": "작품 사례: [[The Simpsons]]의 할로윈 편에서 악마가 호머를 재판할 때 베네딕트 아널드와 블랙비어드 등을 지옥의 배심원으로 내세워, 역사적 악명과 기괴한 재판 권위를 결합한다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 사후 재판이나 모든 망자가 참여하는 재판과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "배심원의 권위가 공정함보다 악명 높은 영혼의 집합에서 나온다. 재판의 형식은 유지되지만 구성원 때문에 위협적이고 비정상적인 인상을 준다.\n\n역사적으로 알려진 이름을 쓰면 관객의 사전 지식이 기괴함을 강화한다. 누가 판단하는지 자체가 재판받는 인물에게 불안의 원인이 된다.\n\n죽은 이가 심판받는 모든 사후 재판과 같지는 않다. 특히 악한 이들의 혼령을 배심원으로 선별한다는 조건이 중요하다.\n\n[[The Simpsons]]의 악마는 호머 재판에 베네딕트 아널드와 블랙비어드 등을 지옥 배심원으로 내세운다.\n\n[[The Simpsons]]",
+    "sections": [
+      [
+        "상세 설명",
+        "배심원의 권위가 공정함보다 악명 높은 영혼의 집합에서 나온다. 재판의 형식은 유지되지만 구성원 때문에 위협적이고 비정상적인 인상을 준다.\n\n역사적으로 알려진 이름을 쓰면 관객의 사전 지식이 기괴함을 강화한다. 누가 판단하는지 자체가 재판받는 인물에게 불안의 원인이 된다.\n\n죽은 이가 심판받는 모든 사후 재판과 같지는 않다. 특히 악한 이들의 혼령을 배심원으로 선별한다는 조건이 중요하다."
+      ],
+      [
+        "사례",
+        "[[The Simpsons]]의 악마는 호머 재판에 베네딕트 아널드와 블랙비어드 등을 지옥 배심원으로 내세운다."
+      ],
+      [
+        "관련 작품",
+        "[[The Simpsons]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

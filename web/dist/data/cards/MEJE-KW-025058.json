@@ -5,8 +5,8 @@
   "original": "A Parallel Text Unlocks the Unknown Language",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01417",
+  "primary_tag_id": "ML-T01417",
   "description": {
     "definition": "이미 아는 언어와 잊힌 언어로 동일한 내용을 적어 두어 미지의 글을 해독할 단서를 주는 기록 장치다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "단순한 사전 발견과 달리 대응하는 문장의 병기가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 내용을 아는 언어와 잊힌 언어로 나란히 남긴다. 이미 이해한 문장을 기준으로 미지의 기록을 비교할 수 있다.\n\n해독은 직감보다 대응하는 증거를 찾는 과정이 된다. 두 기록이 같은 내용을 담았다는 조건이 비교를 가능하게 한다.\n\n사전 한 권을 발견하는 일과 다르다. 문장들의 병기와 대응 관계가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 내용을 아는 언어와 잊힌 언어로 나란히 남긴다. 이미 이해한 문장을 기준으로 미지의 기록을 비교할 수 있다.\n\n해독은 직감보다 대응하는 증거를 찾는 과정이 된다. 두 기록이 같은 내용을 담았다는 조건이 비교를 가능하게 한다.\n\n사전 한 권을 발견하는 일과 다르다. 문장들의 병기와 대응 관계가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

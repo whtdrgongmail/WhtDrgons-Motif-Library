@@ -4,8 +4,8 @@
   "title": "반려동물의 죽음을 감춘 농장 이야기",
   "original": "Dog Got Sent to a Farm",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02599",
+  "primary_tag_id": "ML-T02599",
   "description": {
     "definition": "어른이 아이에게 죽은 반려동물이 먼 농장에서 잘 지낸다고 말해 상실을 숨기는 이야기. 아이를 보호하려는 거짓말과 뒤늦은 진실의 충격이 겹친다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_pattern",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "반려동물이 죽었는데 어른이 아이에게 먼 농장으로 갔다고 설명하는 이야기다. 슬픔에서 보호하려는 의도가 있어도 아이는 재회를 기다릴 수 있으며, 나중에 진실을 알면 상실의 고통과 가까운 어른에게 속았다는 감정이 함께 생긴다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽은 반려동물이 멀리 있는 농장에서 행복하게 산다고 아이에게 설명하는 이야기다. 상실의 사실을 감추려는 보호자의 의도가 거짓된 이별 서사를 만든다.\n\n아이는 재회를 기대하거나 농장의 구체적인 모습을 상상할 수 있다. 성장한 뒤 같은 말을 듣고 진실을 깨닫는 장면은 오래 지연된 슬픔과 보호자에 대한 신뢰의 변화를 동시에 표현한다.\n\n실제로 다른 집으로 보낸 상황과는 다르다. 말의 내용보다 사망 사실을 숨긴다는 기능이 핵심이며 선의와 거짓말의 결과를 별도로 평가할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽은 반려동물이 멀리 있는 농장에서 행복하게 산다고 아이에게 설명하는 이야기다. 상실의 사실을 감추려는 보호자의 의도가 거짓된 이별 서사를 만든다.\n\n아이는 재회를 기대하거나 농장의 구체적인 모습을 상상할 수 있다. 성장한 뒤 같은 말을 듣고 진실을 깨닫는 장면은 오래 지연된 슬픔과 보호자에 대한 신뢰의 변화를 동시에 표현한다.\n\n실제로 다른 집으로 보낸 상황과는 다르다. 말의 내용보다 사망 사실을 숨긴다는 기능이 핵심이며 선의와 거짓말의 결과를 별도로 평가할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

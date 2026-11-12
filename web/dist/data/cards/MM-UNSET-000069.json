@@ -4,22 +4,48 @@
   "title": "희극적 과장",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02318",
+  "primary_tag_id": "ML-T02318",
   "description": {
-    "definition": "",
+    "definition": "웃음을 만들기 위해 행동·표정·상황의 특징을 현실적인 정도보다 크게 드러내는 표현이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 4,
+  "classification": {
+    "code": "28.002.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "작은 감정이나 실수를 크게 보이게 만들어 웃음을 주는 방식이다. 놀라서 눈이 비정상적으로 커지거나 사소한 실수에 과도하게 반응하는 장면이 해당할 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "희극적 과장은 독자가 실제 사실로 받아들이기보다 표현의 확대를 알아차릴 때 작동한다. 표정, 몸짓, 반응의 크기뿐 아니라 같은 상황이 반복되는 횟수도 과장의 수단이 될 수 있다.\n\n과장된 표정은 인물의 능력이나 건강 상태를 객관적으로 나타내지 않는다. 웃음을 위해 설정된 기호와 인물의 실제 성질을 구분해야 한다. 특정 집단을 낮춰 보는 관습을 반복한다면 무엇을 웃음의 대상으로 삼는지도 설명에 포함해야 한다.\n\n가벼운 발걸음 소리에 인물이 마치 지진이 난 듯 방 안을 뛰어다닌다면, 자극과 반응 사이의 크기 차이가 웃음을 만드는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "희극적 과장은 독자가 실제 사실로 받아들이기보다 표현의 확대를 알아차릴 때 작동한다. 표정, 몸짓, 반응의 크기뿐 아니라 같은 상황이 반복되는 횟수도 과장의 수단이 될 수 있다.\n\n과장된 표정은 인물의 능력이나 건강 상태를 객관적으로 나타내지 않는다. 웃음을 위해 설정된 기호와 인물의 실제 성질을 구분해야 한다. 특정 집단을 낮춰 보는 관습을 반복한다면 무엇을 웃음의 대상으로 삼는지도 설명에 포함해야 한다."
+      ],
+      [
+        "사례",
+        "가벼운 발걸음 소리에 인물이 마치 지진이 난 듯 방 안을 뛰어다닌다면, 자극과 반응 사이의 크기 차이가 웃음을 만드는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "매스코어",
   "original": "Mathcore",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-015091",
+  "primary_tag_id": "MEJE-KW-015091",
   "description": {
     "definition": "불규칙한 [[박자]]와 [[불협화음]], 기술적인 연주와 여러 [[장르]]의 혼합을 강조하는 [[메탈코어]] 계열이다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": "복잡한 연주가 있다는 이유만으로 모든 메탈이나 매스 록과 같은 것으로 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "불규칙한 박자와 불협화음, 기술적인 연주와 여러 장르의 결합을 강조한다. 메탈코어 계열에서 불안정한 리듬과 예상 밖 진행을 개성으로 삼는 양식이다.\n\n곡의 움직임을 쉽게 예측하기 어렵게 만드는 구성이 표현의 일부가 된다. 연주의 복잡함뿐 아니라 박자와 소리의 결합을 함께 이해해야 한다.\n\n복잡하게 연주한다는 이유로 모든 메탈을 같은 양식으로 묶지 않는다. 이름이 비슷한 매스 록과도 자동으로 동일시하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불규칙한 박자와 불협화음, 기술적인 연주와 여러 장르의 결합을 강조한다. 메탈코어 계열에서 불안정한 리듬과 예상 밖 진행을 개성으로 삼는 양식이다.\n\n곡의 움직임을 쉽게 예측하기 어렵게 만드는 구성이 표현의 일부가 된다. 연주의 복잡함뿐 아니라 박자와 소리의 결합을 함께 이해해야 한다.\n\n복잡하게 연주한다는 이유로 모든 메탈을 같은 양식으로 묶지 않는다. 이름이 비슷한 매스 록과도 자동으로 동일시하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

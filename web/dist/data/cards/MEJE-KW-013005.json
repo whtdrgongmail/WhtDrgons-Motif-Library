@@ -4,8 +4,8 @@
   "title": "유명인을 쫓는 팬 무리",
   "original": "Groupie Brigade",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00740",
+  "primary_tag_id": "ML-T00740",
   "description": {
     "definition": "공개된 장소의 유명인에게 팬들이 한꺼번에 몰려들어 사인·접촉을 요구하고 추격까지 벌이는 [[장면]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "조용한 팬 모임이나 취재 목적의 사진기자 [[집단]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "07",
+    "code": "07.002.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공개된 장소의 유명인에게 팬이 한꺼번에 몰려 사인과 접촉을 요구하고 쫓아간다. 집단적인 접근이 개인의 이동과 사생활을 압박하는 장면이다.\n\n각각의 호감이 다수의 행동으로 합쳐지면 유명인이 원하는 거리를 유지하기 어렵다. 명성의 크기가 실제 공간에서 겪는 부담으로 표현된다.\n\n조용히 모인 팬들의 모임과 다르다. 취재를 목적으로 하는 사진기자 집단과도 참여자의 동기와 요구를 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공개된 장소의 유명인에게 팬이 한꺼번에 몰려 사인과 접촉을 요구하고 쫓아간다. 집단적인 접근이 개인의 이동과 사생활을 압박하는 장면이다.\n\n각각의 호감이 다수의 행동으로 합쳐지면 유명인이 원하는 거리를 유지하기 어렵다. 명성의 크기가 실제 공간에서 겪는 부담으로 표현된다.\n\n조용히 모인 팬들의 모임과 다르다. 취재를 목적으로 하는 사진기자 집단과도 참여자의 동기와 요구를 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

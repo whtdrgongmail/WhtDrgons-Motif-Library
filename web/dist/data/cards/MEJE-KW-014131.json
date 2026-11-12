@@ -4,8 +4,8 @@
   "title": "위험한 이계가 침입하는 문",
   "original": "Hellgate",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02508",
+  "primary_tag_id": "ML-T02508",
   "description": {
     "definition": "현실과 악의적·위험한 다른 세계를 이어 괴물이나 재앙이 유입되게 하는 통로다.",
     "detail": "작품 사례: [[Shin Megami Tensei II]]의 Harada는 악마 부하를 끝없이 불러오려고 통로를 만들다가, 의식에 잘못된 물건을 써서 목숨을 잃는다.",
@@ -13,10 +13,10 @@
     "boundary": "모든 차원문이 아니라 침입과 위협을 발생시키는 기능이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.002.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "안전한 일상 공간과 위험한 이계 사이에 통로가 생겨 외부 존재의 침입을 가능하게 하는 설정이다. 두 세계가 연결되었다는 사실보다 그 연결을 통해 무엇이 넘어오고 기존 질서가 어떻게 위협받는지가 중요하다.\n\n모든 차원문을 같은 유형으로 다룰 수는 없다. 이동의 편의만 제공하는 문과 달리 침입과 위협을 발생시키는 기능이 필요하다. 통로를 만들려는 인물의 목적과 실제로 발생한 결과가 다르면, 개방 행위 자체도 위험의 원인이 된다.\n\n[[Shin Megami Tensei II]]의 Harada는 악마 부하를 계속 불러오려 통로를 만든다. 하지만 의식에 잘못된 물건을 사용해 목숨을 잃으면서, 이계 연결을 통제하려던 시도가 위험으로 돌아온다.",
+    "sections": [
+      [
+        "상세 설명",
+        "안전한 일상 공간과 위험한 이계 사이에 통로가 생겨 외부 존재의 침입을 가능하게 하는 설정이다. 두 세계가 연결되었다는 사실보다 그 연결을 통해 무엇이 넘어오고 기존 질서가 어떻게 위협받는지가 중요하다.\n\n모든 차원문을 같은 유형으로 다룰 수는 없다. 이동의 편의만 제공하는 문과 달리 침입과 위협을 발생시키는 기능이 필요하다. 통로를 만들려는 인물의 목적과 실제로 발생한 결과가 다르면, 개방 행위 자체도 위험의 원인이 된다."
+      ],
+      [
+        "관련 작품",
+        "[[Shin Megami Tensei II]]의 Harada는 악마 부하를 계속 불러오려 통로를 만든다. 하지만 의식에 잘못된 물건을 사용해 목숨을 잃으면서, 이계 연결을 통제하려던 시도가 위험으로 돌아온다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "울음소리로 지은 동물 이름",
   "original": "A Dog Named \"Woof\"",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "동물이 내는 울음소리를 그 동물의 이름으로 삼는 명명 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "외형·먹이·종명에서 따온 이름과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "동물의 울음소리를 이름으로 바꾸어 종의 특징과 호칭을 연결한다. 처음 울음에 반응해 이름을 정하면 명명의 이유를 짧은 장면으로 제시할 수 있다.\n\n사람 이름의 일부와 결합한 말장난으로 변형하면 자연스러운 호칭과 동물의 특성이 함께 남는다. 이름만 들어도 종을 예상하기 쉬워 많은 동물이 등장할 때 식별을 돕는다.\n\n[[단골 먹이에서 딴 동물 이름]]은 먹이를 이용하지만 여기서는 소리가 근거다. 종명 자체를 이름으로 쓰는 경우나 단지 우연히 비슷하게 들리는 이름과는 다르며, 현실 동물의 울음이 모든 언어에서 같은 글자로 표기되는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "동물의 울음소리를 이름으로 바꾸어 종의 특징과 호칭을 연결한다. 처음 울음에 반응해 이름을 정하면 명명의 이유를 짧은 장면으로 제시할 수 있다.\n\n사람 이름의 일부와 결합한 말장난으로 변형하면 자연스러운 호칭과 동물의 특성이 함께 남는다. 이름만 들어도 종을 예상하기 쉬워 많은 동물이 등장할 때 식별을 돕는다.\n\n[[단골 먹이에서 딴 동물 이름]]은 먹이를 이용하지만 여기서는 소리가 근거다. 종명 자체를 이름으로 쓰는 경우나 단지 우연히 비슷하게 들리는 이름과는 다르며, 현실 동물의 울음이 모든 언어에서 같은 글자로 표기되는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

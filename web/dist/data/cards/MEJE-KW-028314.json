@@ -4,8 +4,8 @@
   "title": "공중에서 붙잡은 적과 함께 추락하기",
   "original": "Flying Takedown",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02526",
+  "primary_tag_id": "ML-T02526",
   "description": {
     "definition": "공중의 상대를 붙잡고 자신의 몸도 함께 아래로 돌진시켜 지면에 충돌하게 하는 공격이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "떨어지기 전 손을 놓아 상대만 날아가게 하는 경우는 [[변형]]이며 끝까지 함께 추락하는 기본형과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "공격자는 공중의 상대를 붙잡고 자신도 함께 지면으로 내려간다. 충돌의 위험을 공유하면서 상대에게 타격을 가하는 방식이다.\n\n함께 떨어지는 선택은 내구력과 난폭한 결의를 보여 줄 수 있다. 공격자의 몸이 낙하 과정에서 어떤 역할을 하는지 확인해야 한다.\n\n중간에 손을 놓고 상대만 떨어뜨리는 방식과는 다르다. 끝까지 함께 추락하는 기본형과 그 변형을 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공격자는 공중의 상대를 붙잡고 자신도 함께 지면으로 내려간다. 충돌의 위험을 공유하면서 상대에게 타격을 가하는 방식이다.\n\n함께 떨어지는 선택은 내구력과 난폭한 결의를 보여 줄 수 있다. 공격자의 몸이 낙하 과정에서 어떤 역할을 하는지 확인해야 한다.\n\n중간에 손을 놓고 상대만 떨어뜨리는 방식과는 다르다. 끝까지 함께 추락하는 기본형과 그 변형을 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

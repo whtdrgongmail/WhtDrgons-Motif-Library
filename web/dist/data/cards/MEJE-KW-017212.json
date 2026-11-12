@@ -4,8 +4,8 @@
   "title": "상상을 넘는 맛의 음식",
   "original": "Impossibly Delicious Food",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01473",
+  "primary_tag_id": "ML-T01473",
   "description": {
     "definition": "한입만으로 압도적인 쾌감과 집착을 일으킬 만큼 맛있다고 과장되는 음식.",
     "detail": "재료를 호화롭게 조합하거나 정체를 설명하지 않은 채 반응으로만 맛을 전할 수 있다. 지나친 매혹이 위험한 의존으로 바뀌기도 한다.\n\n작품 사례: 《[[드래곤볼 슈퍼]]》에서 우이스와 비루스는 지구 음식에 강하게 매료되고, 비루스는 그 맛 때문에 지구 파괴를 계속 미룬다.",
@@ -13,30 +13,47 @@
     "boundary": "단순히 보기 좋게 찍은 음식이나 실제 맛의 객관적 우열과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "맛있다는 평가를 넘어 사람의 행동과 판단을 바꿀 정도로 묘사된다.\n\n작품 사례: 《[[드래곤볼 슈퍼]]》에서 우이스와 비루스는 지구 음식에 강하게 매료되고, 비루스는 그 맛 때문에 지구 파괴를 계속 미룬다.",
+    "easy_ko": "맛있다는 평가를 넘어 사람의 행동과 판단을 바꿀 정도로 묘사된다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001447",
+      "work_card_id": "MM-MEDIA-001943",
       "description_ko": "《드래곤볼 슈퍼》에서 우이스와 비루스는 지구 음식에 강하게 매료되고, 비루스는 그 맛 때문에 지구 파괴를 계속 미룬다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "재료를 호화롭게 조합하거나 정체를 설명하지 않은 채 반응으로만 맛을 전할 수 있다. 지나친 매혹이 위험한 의존으로 바뀌기도 한다.\n\n단순히 보기 좋게 찍은 음식이나 실제 맛의 객관적 우열과 구별한다.\n\n애니메이션 《[[드래곤볼 슈퍼]]》에서 우이스와 비루스는 지구 음식에 강하게 매료된다. 비루스는 그 맛 때문에 지구의 파괴를 계속 미룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "재료를 호화롭게 조합하거나 정체를 설명하지 않은 채 반응으로만 맛을 전할 수 있다. 지나친 매혹이 위험한 의존으로 바뀌기도 한다.\n\n단순히 보기 좋게 찍은 음식이나 실제 맛의 객관적 우열과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "애니메이션 《[[드래곤볼 슈퍼]]》에서 우이스와 비루스는 지구 음식에 강하게 매료된다. 비루스는 그 맛 때문에 지구의 파괴를 계속 미룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "마인크래프트",
   "original": "Minecraft",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Minecraft"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《마인크래프트》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《마인크래프트》는 자주 사용할 물건을 하단 슬롯에 배치하여 탐색과 건설 중 빠르게 바꾸어 들 수 있게 한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -38,6 +40,10 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-014878",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-016347",
       "row_version": 1
@@ -79,5 +85,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "생성되는 넓은 세계를 블록 단위로 부수고 다시 배치하는 생존 샌드박스 게임이다. 땅과 바위, 나무 같은 재료가 비슷한 크기의 입방체로 구성되어 환경 자체를 건축 자원으로 바꿀 수 있다.\n\n탐험을 계속하면 새로운 지형이 나타나고 플레이어는 이동과 수영, 동굴 조사를 선택한다. 하나의 정해진 줄거리를 따르는 것보다 같은 물질 규칙으로 생활 공간과 목표를 스스로 구성하는 활동에 무게를 둔다.",
+    "sections": [
+      [
+        "상세 설명",
+        "생성되는 넓은 세계를 블록 단위로 부수고 다시 배치하는 생존 샌드박스 게임이다. 땅과 바위, 나무 같은 재료가 비슷한 크기의 입방체로 구성되어 환경 자체를 건축 자원으로 바꿀 수 있다.\n\n탐험을 계속하면 새로운 지형이 나타나고 플레이어는 이동과 수영, 동굴 조사를 선택한다. 하나의 정해진 줄거리를 따르는 것보다 같은 물질 규칙으로 생활 공간과 목표를 스스로 구성하는 활동에 무게를 둔다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

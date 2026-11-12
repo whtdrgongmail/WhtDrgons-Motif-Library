@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "슈퍼 마리오 갤럭시",
   "original": "Super Mario Galaxy",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Super Mario Galaxy"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《슈퍼 마리오 갤럭시》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《슈퍼 마리오 갤럭시》의 마지막에 우주의 붕괴와 재탄생을 겪은 뒤 마리오와 일행은 버섯 왕국에 돌아와 있다. 개별 인물들이 그곳으로 이동하는 과정은 따로 제시되지 않는다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-016190",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-017830",
       "row_version": 1
     },
@@ -51,5 +57,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "닌텐도의 2007년 삼차원 [[플랫폼 게임]]으로, 마리오가 여러 작은 천체를 이동하며 빼앗긴 별과 피치를 되찾는다. 로젤리나의 천문대는 흩어진 우주 공간을 연결하는 이동의 중심이다.\n\n각 천체의 중력과 구면 구조는 평평한 지형과 다른 방향 감각을 요구한다. 점프와 회전 동작, 별 사이의 이동은 길을 찾는 탐색과 정밀한 행동을 결합하면서 공간을 읽는 방식을 계속 바꾼다.\n\n파워스타를 모아 천문대의 힘을 회복하는 목표는 개별 구간의 성취를 전체 여정과 연결한다. 앞선 삼차원 마리오보다 정해진 경로의 비중이 높고 음악의 관현악적 표현이 우주의 규모를 보완하며, 동명 영화와는 다른 게임 작품이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "닌텐도의 2007년 삼차원 [[플랫폼 게임]]으로, 마리오가 여러 작은 천체를 이동하며 빼앗긴 별과 피치를 되찾는다. 로젤리나의 천문대는 흩어진 우주 공간을 연결하는 이동의 중심이다.\n\n각 천체의 중력과 구면 구조는 평평한 지형과 다른 방향 감각을 요구한다. 점프와 회전 동작, 별 사이의 이동은 길을 찾는 탐색과 정밀한 행동을 결합하면서 공간을 읽는 방식을 계속 바꾼다.\n\n파워스타를 모아 천문대의 힘을 회복하는 목표는 개별 구간의 성취를 전체 여정과 연결한다. 앞선 삼차원 마리오보다 정해진 경로의 비중이 높고 음악의 관현악적 표현이 우주의 규모를 보완하며, 동명 영화와는 다른 게임 작품이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

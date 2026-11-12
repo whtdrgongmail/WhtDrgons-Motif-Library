@@ -4,8 +4,8 @@
   "title": "대도시에서 작은 마을로",
   "original": "From New York to Nowhere",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00750",
+  "primary_tag_id": "ML-T00750",
   "description": {
     "definition": "도시 생활에 익숙한 인물이 작은 마을로 옮겨와 낯선 관습과 이웃에 적응하면서 생활관의 차이를 겪는 전개다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대도시의 인물이 작은 마을로 옮겨 낯선 생활과 이웃에 적응하는 구성이다. 익숙한 편의와 익명성이 다른 사회 규칙과 충돌한다.\n\n이사한 이유와 관계없이 주변은 도시를 떠난 선택을 의아하게 여길 수 있다. 가까운 공동체는 간섭과 지원이라는 양면의 경험을 제공한다.\n\n작은 마을이 본래 더 순수하거나 열등하다는 뜻은 아니다. 주인공의 기대와 실제 경험의 차이를 통해 집과 소속의 의미를 바꾸는 이야기이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대도시의 인물이 작은 마을로 옮겨 낯선 생활과 이웃에 적응하는 구성이다. 익숙한 편의와 익명성이 다른 사회 규칙과 충돌한다.\n\n이사한 이유와 관계없이 주변은 도시를 떠난 선택을 의아하게 여길 수 있다. 가까운 공동체는 간섭과 지원이라는 양면의 경험을 제공한다.\n\n작은 마을이 본래 더 순수하거나 열등하다는 뜻은 아니다. 주인공의 기대와 실제 경험의 차이를 통해 집과 소속의 의미를 바꾸는 이야기이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

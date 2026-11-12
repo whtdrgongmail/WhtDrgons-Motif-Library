@@ -4,8 +4,8 @@
   "title": "낯선 환경에 떨어진 인물",
   "original": "Fish Out of Water",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-010203",
+  "primary_tag_id": "MEJE-KW-010203",
   "description": {
     "definition": "익숙하지 않은 문화나 장소, 규칙 속으로 들어간 인물이 당황과 적응을 거치며 갈등과 웃음을 만드는 인물형이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.002.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물에게 낯선 규칙을 관객과 함께 소개하면 질문과 실수가 자연스러운 설명의 계기가 된다. 이미 환경에 익숙한 주변 사람들과 반응이 달라 웃음이나 긴장이 생긴다.\n\n적응에 성공하면 이전에는 불가능했던 관계와 행동을 얻을 수 있다. 반대로 고향의 방식을 고집해 새 환경을 바꾸려 할 수도 있어, 낯섦은 수동적인 혼란뿐 아니라 변화를 일으키는 동력이 된다.\n\n오래 진행되는 이야기에서는 계속 아무것도 모르는 상태를 유지하기 어렵다. [[다른 시대에 놓인 낯선 사람]]은 시대 격차가 원인인 변형이며, 적응 이후에는 무엇이 인물의 새 갈등이 되는지 별도로 설명할 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물에게 낯선 규칙을 관객과 함께 소개하면 질문과 실수가 자연스러운 설명의 계기가 된다. 이미 환경에 익숙한 주변 사람들과 반응이 달라 웃음이나 긴장이 생긴다.\n\n적응에 성공하면 이전에는 불가능했던 관계와 행동을 얻을 수 있다. 반대로 고향의 방식을 고집해 새 환경을 바꾸려 할 수도 있어, 낯섦은 수동적인 혼란뿐 아니라 변화를 일으키는 동력이 된다.\n\n오래 진행되는 이야기에서는 계속 아무것도 모르는 상태를 유지하기 어렵다. [[다른 시대에 놓인 낯선 사람]]은 시대 격차가 원인인 변형이며, 적응 이후에는 무엇이 인물의 새 갈등이 되는지 별도로 설명할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

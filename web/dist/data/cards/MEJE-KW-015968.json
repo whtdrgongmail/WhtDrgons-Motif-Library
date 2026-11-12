@@ -4,8 +4,8 @@
   "title": "헤비메탈 열성 팬",
   "original": "Metalhead",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-009587",
+  "primary_tag_id": "MEJE-KW-009587",
   "description": {
     "definition": "헤비메탈 음악에 깊은 애정을 갖고 그 [[장르]]를 중심으로 취향과 생활을 드러내는 인물 유형이다.",
     "detail": "작품 사례: [[Kaiju Girl Caramelise]]의 쿠로에는 삼촌처럼 편하게 지내는 히비노의 영향을 받아 헤비메탈을 즐기는 팬이 된다.",
@@ -13,11 +13,11 @@
     "boundary": "폭력성이나 특정 성격을 음악 취향의 필수 결과로 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.007.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "음악에 대한 지속적인 관심과 취향이 인물상의 중요한 부분을 이룬다. 입문 계기나 다른 사람과의 관계는 취향이 형성되는 배경이 될 수 있지만 음악을 좋아한다는 점과 성격은 별도로 보아야 한다.\n\n헤비메탈 팬이라는 사실만으로 폭력적이거나 특정한 생활을 한다고 판단할 수 없다. 장르 취향과 개별 행동을 자동으로 연결하지 않는다.\n\n《[[Kaiju Girl Caramelise]]》의 쿠로에는 삼촌처럼 편하게 지내는 히비노의 영향을 받아 헤비메탈을 즐긴다. 가까운 인물과의 관계가 음악 취향의 형성에 연결된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "음악에 대한 지속적인 관심과 취향이 인물상의 중요한 부분을 이룬다. 입문 계기나 다른 사람과의 관계는 취향이 형성되는 배경이 될 수 있지만 음악을 좋아한다는 점과 성격은 별도로 보아야 한다.\n\n헤비메탈 팬이라는 사실만으로 폭력적이거나 특정한 생활을 한다고 판단할 수 없다. 장르 취향과 개별 행동을 자동으로 연결하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[Kaiju Girl Caramelise]]》의 쿠로에는 삼촌처럼 편하게 지내는 히비노의 영향을 받아 헤비메탈을 즐긴다. 가까운 인물과의 관계가 음악 취향의 형성에 연결된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,27 +4,27 @@
   "title": "스타크래프트",
   "original": "StarCraft",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《스타크래프트》는 미디어 작품이다.",
-    "detail": "작품 사례: 《스타크래프트》의 테란은 프로토스와 저그의 강대한 전력에 맞서 발명 능력과 생존을 위한 전술로 자기 자리를 지킨다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -45,5 +45,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《스타크래프트》 작품군은 코프룰루 구역의 테란과 저그, 프로토스가 벌이는 우주전쟁을 다룬다. 인간 내부의 정치적 갈등에 생물 군체 저그의 침입과 고도로 발달한 프로토스의 대응이 겹친다.\n\n서로 다른 세력의 구조와 능력이 전략 게임의 조작 및 서사의 관점을 함께 나눈다. 첫 게임과 후속편 외에도 소설과 만화 등이 같은 세계를 확장하므로, 1998년 게임의 개별 캠페인보다 넓은 상위 범위에 해당한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《스타크래프트》 작품군은 코프룰루 구역의 테란과 저그, 프로토스가 벌이는 우주전쟁을 다룬다. 인간 내부의 정치적 갈등에 생물 군체 저그의 침입과 고도로 발달한 프로토스의 대응이 겹친다.\n\n서로 다른 세력의 구조와 능력이 전략 게임의 조작 및 서사의 관점을 함께 나눈다. 첫 게임과 후속편 외에도 소설과 만화 등이 같은 세계를 확장하므로, 1998년 게임의 개별 캠페인보다 넓은 상위 범위에 해당한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

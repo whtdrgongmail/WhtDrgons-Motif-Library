@@ -4,8 +4,8 @@
   "title": "마법사들의 도시",
   "original": "City of Wizards",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01175",
+  "primary_tag_id": "ML-T01175",
   "description": {
     "definition": "마법을 쓰는 존재들이 모여 별도의 거주지와 생활 규칙을 만든다. 마법이 드문 재능이 아니라 도시의 일상적 자원이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마법사와 마법적 존재가 한곳에 모여 지속적인 도시 생활을 이루는 설정이다. 흩어진 개인의 특수 능력이 거주지의 제도와 일상 자원으로 바뀐다.\n\n연구와 교육, 노동의 분담이 마법을 중심으로 조직될 수 있다. 일상 업무를 누가 맡는지와 외부인이 어떤 대우를 받는지에 따라 마법사의 편의와 사회적 불균형을 함께 드러낼 수 있다.\n\n[[세계관]]에 마법사가 몇 명 거주하는 도시와는 밀집도와 사회적 중심성이 다르다. 모든 주민이 같은 수준의 능력을 갖거나 높은 탑과 거대한 도서관이 반드시 있어야 하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마법사와 마법적 존재가 한곳에 모여 지속적인 도시 생활을 이루는 설정이다. 흩어진 개인의 특수 능력이 거주지의 제도와 일상 자원으로 바뀐다.\n\n연구와 교육, 노동의 분담이 마법을 중심으로 조직될 수 있다. 일상 업무를 누가 맡는지와 외부인이 어떤 대우를 받는지에 따라 마법사의 편의와 사회적 불균형을 함께 드러낼 수 있다.\n\n[[세계관]]에 마법사가 몇 명 거주하는 도시와는 밀집도와 사회적 중심성이 다르다. 모든 주민이 같은 수준의 능력을 갖거나 높은 탑과 거대한 도서관이 반드시 있어야 하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

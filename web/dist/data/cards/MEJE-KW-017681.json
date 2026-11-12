@@ -4,8 +4,8 @@
   "title": "마을의 죄를 파멸로 돌리는 낯선 자",
   "original": "Southern Gothic Satan",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "낯선 인물이 공동체에 와서 숨은 죄와 [[갈등]]을 드러내고 그 결함이 마을을 무너뜨리게 하는 악역 원형.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "모든 이방인이나 고발자가 악역이라는 의미는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "낯선 인물이 공동체에 들어와 숨겨진 탐욕과 잔혹함을 부추기고 주민들이 스스로 파멸하게 만드는 악역 원형이다. 겉으로 평온한 마을과 내부의 부패 사이의 차이가 출발점이다.\n\n낯선 자는 직접 처벌하기보다 거래와 유혹, 비밀의 폭로로 주민의 나쁜 충동을 행동으로 바꾼다. 사건이 커져도 실제 손을 더럽힌 것은 주민들이라는 점이 책임을 불편하게 만든다.\n\n무고한 사람을 처음부터 타락시키는 유혹자와 달리 이미 존재한 죄를 드러내는 기능이 강하다. 사탄 같은 상징이 붙을 수 있으나 반드시 종교적 존재로 확정되어야 하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "낯선 인물이 공동체에 들어와 숨겨진 탐욕과 잔혹함을 부추기고 주민들이 스스로 파멸하게 만드는 악역 원형이다. 겉으로 평온한 마을과 내부의 부패 사이의 차이가 출발점이다.\n\n낯선 자는 직접 처벌하기보다 거래와 유혹, 비밀의 폭로로 주민의 나쁜 충동을 행동으로 바꾼다. 사건이 커져도 실제 손을 더럽힌 것은 주민들이라는 점이 책임을 불편하게 만든다.\n\n무고한 사람을 처음부터 타락시키는 유혹자와 달리 이미 존재한 죄를 드러내는 기능이 강하다. 사탄 같은 상징이 붙을 수 있으나 반드시 종교적 존재로 확정되어야 하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

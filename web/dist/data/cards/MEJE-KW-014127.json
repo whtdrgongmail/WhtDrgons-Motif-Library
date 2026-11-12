@@ -4,8 +4,8 @@
   "title": "선악과 무관한 저승",
   "original": "The Underworld",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02507",
+  "primary_tag_id": "ML-T02507",
   "description": {
     "definition": "죄의 정도와 관계없이 죽은 자가 머무는 어둡거나 지하의 사후 영역이다.",
     "detail": "작품 사례: [[The Bible]]의 Sheol은 특정한 죄인만 벌받는 곳이 아니라 모든 죽은 이를 기다리는 저승으로 제시된다.",
@@ -13,10 +13,10 @@
     "boundary": "죄인을 고문하는 지옥이나 선행의 보상인 천국과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "13",
+    "code": "13.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽은 이의 도덕적 평가와 관계없이 도달하는 저승의 설정이다. 사후 거처의 배정이 현세의 선행과 악행에 대한 보상 체계와 분리된다.\n\n죄인만 벌주는 지옥과 선한 삶의 보상인 천국과는 다르다. 특정 전승의 설명을 다른 종교와 문헌 전체의 공통된 사후관으로 일반화하지 않는다.\n\n[[The Bible]]의 Sheol은 제공 자료에서 모든 죽은 이를 기다리는 저승으로 설명된다. 이 항목은 그 설명에 따른 용례이며 성경 안의 모든 사후세계 표현이 동일하다는 주장은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽은 이의 도덕적 평가와 관계없이 도달하는 저승의 설정이다. 사후 거처의 배정이 현세의 선행과 악행에 대한 보상 체계와 분리된다.\n\n죄인만 벌주는 지옥과 선한 삶의 보상인 천국과는 다르다. 특정 전승의 설명을 다른 종교와 문헌 전체의 공통된 사후관으로 일반화하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[The Bible]]의 Sheol은 제공 자료에서 모든 죽은 이를 기다리는 저승으로 설명된다. 이 항목은 그 설명에 따른 용례이며 성경 안의 모든 사후세계 표현이 동일하다는 주장은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

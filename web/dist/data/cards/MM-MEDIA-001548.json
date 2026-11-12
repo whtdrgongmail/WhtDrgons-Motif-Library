@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "젤다의 전설 시간의 오카리나",
   "original": "The Legend of Zelda: Ocarina of Time",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "The Legend of Zelda: Ocarina of Time"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《젤다의 전설 시간의 오카리나》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《젤다의 전설 시간의 오카리나》의 얼음 동굴은 절제된 배경음 속 맑은 차임 소리로 차갑고 얼음 많은 공간을 강조한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -38,6 +40,10 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-015284",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-016803",
       "row_version": 1
@@ -83,5 +89,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《젤다의 전설 시간의 오카리나》는 숲에서 살던 링크가 가논돌프의 계획을 막으러 하이랄로 나아가는 게임이다. 마을에서 혼자 요정이 없던 링크는 데크나무에게 나비를 받고 저주를 풀어 달라는 부탁을 받으며 첫 임무를 시작한다.\n\n안전한 마을에서 성과 여러 지역으로 여정이 확대되며, 시리즈의 세계를 처음 3D 공간으로 탐색하게 한다. 닌텐도 64용 원작은 이후 작품들에 이어지는 조작과 연출의 기반을 마련한 판본이며, 같은 모험을 다시 구성한 휴대용 리메이크와는 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《젤다의 전설 시간의 오카리나》는 숲에서 살던 링크가 가논돌프의 계획을 막으러 하이랄로 나아가는 게임이다. 마을에서 혼자 요정이 없던 링크는 데크나무에게 나비를 받고 저주를 풀어 달라는 부탁을 받으며 첫 임무를 시작한다.\n\n안전한 마을에서 성과 여러 지역으로 여정이 확대되며, 시리즈의 세계를 처음 3D 공간으로 탐색하게 한다. 닌텐도 64용 원작은 이후 작품들에 이어지는 조작과 연출의 기반을 마련한 판본이며, 같은 모험을 다시 구성한 휴대용 리메이크와는 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

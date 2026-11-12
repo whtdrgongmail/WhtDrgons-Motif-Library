@@ -4,8 +4,8 @@
   "title": "악이 남긴 오염된 장소",
   "original": "Evil Tainted the Place",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01322",
+  "primary_tag_id": "ML-T01322",
   "description": {
     "definition": "악한 존재나 사건이 사라진 뒤에도 장소에 불길한 흔적이 남아 접근하는 이들에게 위협이나 불안을 주는 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악한 존재와 사건이 사라진 뒤에도 장소에 위험과 불길함이 남는 설정이다. 과거의 악이 현재 공간의 성질로 지속된다.\n\n버려진 성과 처형장, 저주받은 물체 주변 등이 접근을 꺼리는 장소가 될 수 있다. 오염은 눈에 보이는 황폐함이나 설명하기 어려운 불안으로 나타난다.\n\n단순한 폐허와는 다르다. 이전 사건의 영향이 여전히 작용한다는 연결이 필요하며, 악당의 패배가 세계의 완전한 회복과 같지 않음을 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악한 존재와 사건이 사라진 뒤에도 장소에 위험과 불길함이 남는 설정이다. 과거의 악이 현재 공간의 성질로 지속된다.\n\n버려진 성과 처형장, 저주받은 물체 주변 등이 접근을 꺼리는 장소가 될 수 있다. 오염은 눈에 보이는 황폐함이나 설명하기 어려운 불안으로 나타난다.\n\n단순한 폐허와는 다르다. 이전 사건의 영향이 여전히 작용한다는 연결이 필요하며, 악당의 패배가 세계의 완전한 회복과 같지 않음을 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

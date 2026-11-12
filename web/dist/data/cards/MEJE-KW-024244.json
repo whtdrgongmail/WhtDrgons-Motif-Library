@@ -5,8 +5,8 @@
   "original": "Level-Up Fully Restores Your Resources",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02089",
+  "primary_tag_id": "ML-T02089",
   "description": {
     "definition": "레벨을 올리면 현재 체력이나 마력을 새 최대치까지 채운다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "레벨 상승이 현재 체력이나 마력을 새 최대치까지 채운다. 능력 성장과 즉시 사용할 자원의 회복이 동시에 일어난다.\n\n성장 직전의 소모가 남지 않아 다음 위기에 대응할 여유가 생긴다. 레벨을 올리는 시점이 회복 자원의 대안으로 중요해질 수 있다.\n\n최대치만 늘리거나 남은 비율을 유지하는 방식과 다르다. 상승 후 상태가 가득 찬다는 결과가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "레벨 상승이 현재 체력이나 마력을 새 최대치까지 채운다. 능력 성장과 즉시 사용할 자원의 회복이 동시에 일어난다.\n\n성장 직전의 소모가 남지 않아 다음 위기에 대응할 여유가 생긴다. 레벨을 올리는 시점이 회복 자원의 대안으로 중요해질 수 있다.\n\n최대치만 늘리거나 남은 비율을 유지하는 방식과 다르다. 상승 후 상태가 가득 찬다는 결과가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 1,
+    "replaces_short_fields": true
+  }
 }

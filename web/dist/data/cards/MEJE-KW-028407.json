@@ -4,8 +4,8 @@
   "title": "신사와 신탁의 역할을 맡는 무녀",
   "original": "Miko",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00925",
+  "primary_tag_id": "ML-T00925",
   "description": {
     "definition": "일본 신사와 연결되어 의례와 신탁의 역할을 맡으며 작품에 따라 [[부적]]·예지·퇴마 능력을 지닌 인물형이다.",
     "detail": "작품 사례: 《[[카드캡터 사쿠라]]》의 미즈키 카호는 학교에서 가르치는 일 외에 신사에서 무녀의 일을 맡는다. 종교적 역할과 일상의 직업을 함께 가진 인물이다.",
@@ -13,10 +13,10 @@
     "boundary": "종교적 직무와 허구의 초능력을 구별한다. 붉고 흰 복장은 흔한 시각적 단서지만 모든 여성 종교인을 같은 직분으로 볼 수는 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "신사와 연결된 의례의 역할을 맡는 무녀다. 작품에 따라 예지와 퇴마 같은 초자연적 능력이 덧붙는다.\n\n실제 종교의 직무와 창작에서 추가한 능력은 다르다. 복장만 같은 인물과 의례적 위치를 가진 인물도 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "신사와 연결된 의례의 역할을 맡는 무녀다. 작품에 따라 예지와 퇴마 같은 초자연적 능력이 덧붙는다.\n\n실제 종교의 직무와 창작에서 추가한 능력은 다르다. 복장만 같은 인물과 의례적 위치를 가진 인물도 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

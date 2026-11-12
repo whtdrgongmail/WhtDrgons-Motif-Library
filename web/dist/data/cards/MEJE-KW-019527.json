@@ -5,8 +5,8 @@
   "original": "Abusing Someone into Suicide",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "상대를 지속적으로 몰아붙여 스스로 생을 끝내도록 의도하는 가해자 유형이다.",
     "detail": "작품 사례: 《[[셜록]]》의 「A Study in Pink」에서 범인은 피해자를 강압적인 선택 상황에 몰아넣어 죽음에 이르게 한다.",
@@ -14,10 +14,10 @@
     "boundary": "실제 자살의 복합적 원인을 하나의 관계로 단정하지 않고 가해 의도가 명시된 허구만 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가해자가 상대를 지속적으로 압박해 스스로 생을 끝내도록 의도한다. 상대에게 가하는 심리적 피해가 명시된 해악의 목적과 연결되는 허구의 인물형이다.\n\n통제와 강압이 상대의 선택 가능성을 좁히는 관계를 드러낸다. 사건을 설명할 때에는 가해자의 의도와 실제로 묘사된 행동에 초점을 두어야 한다.\n\n현실의 자살이 한 관계나 원인만으로 결정된다는 설명은 아니다. 가해 의도가 작품 안에서 명시된 경우에 한정한다.\n\n《[[셜록]]》의 「A Study in Pink」에서 범인은 피해자를 강압적인 선택 상황에 몰아넣어 죽음에 이르게 한다.\n\n[[셜록]]",
+    "sections": [
+      [
+        "상세 설명",
+        "가해자가 상대를 지속적으로 압박해 스스로 생을 끝내도록 의도한다. 상대에게 가하는 심리적 피해가 명시된 해악의 목적과 연결되는 허구의 인물형이다.\n\n통제와 강압이 상대의 선택 가능성을 좁히는 관계를 드러낸다. 사건을 설명할 때에는 가해자의 의도와 실제로 묘사된 행동에 초점을 두어야 한다.\n\n현실의 자살이 한 관계나 원인만으로 결정된다는 설명은 아니다. 가해 의도가 작품 안에서 명시된 경우에 한정한다."
+      ],
+      [
+        "사례",
+        "《[[셜록]]》의 「A Study in Pink」에서 범인은 피해자를 강압적인 선택 상황에 몰아넣어 죽음에 이르게 한다."
+      ],
+      [
+        "관련 작품",
+        "[[셜록]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

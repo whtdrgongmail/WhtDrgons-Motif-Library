@@ -4,8 +4,8 @@
   "title": "플레이어의 물건을 훔치는 잡몹",
   "original": "Bandit Mook",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
     "definition": "평범한 적처럼 나타났다가 전투 중 소지품을 빼앗고 도망친다. 피해를 되찾으려는 추격이 전투의 우선순위를 바꾼다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[플레이어]]를 공격하는 데서 그치지 않고 돈과 물건을 훔쳐 달아나는 일반 적이다. 피해가 체력 감소보다 소유물의 상실로 나타나므로 대응의 우선순위가 달라진다.\n\n도망치기 전에 쓰러뜨리면 물건을 되찾는 규칙은 공격과 추격을 결합한다. 도난이 영구적이거나 귀중품을 노린다면 약한 적도 즉시 처리해야 하는 위협이 된다.\n\n도적이라는 이름과 복장을 가진 것만으로는 해당하지 않는다. 전투나 조우에서 플레이어의 실제 자원을 빼앗는 기능이 있어야 일반 적과 다른 선택을 요구한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[플레이어]]를 공격하는 데서 그치지 않고 돈과 물건을 훔쳐 달아나는 일반 적이다. 피해가 체력 감소보다 소유물의 상실로 나타나므로 대응의 우선순위가 달라진다.\n\n도망치기 전에 쓰러뜨리면 물건을 되찾는 규칙은 공격과 추격을 결합한다. 도난이 영구적이거나 귀중품을 노린다면 약한 적도 즉시 처리해야 하는 위협이 된다.\n\n도적이라는 이름과 복장을 가진 것만으로는 해당하지 않는다. 전투나 조우에서 플레이어의 실제 자원을 빼앗는 기능이 있어야 일반 적과 다른 선택을 요구한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

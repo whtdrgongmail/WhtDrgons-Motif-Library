@@ -4,8 +4,8 @@
   "title": "자살을 돕는 척하며 막기",
   "original": "Fake Assisted Suicide",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00782",
+  "primary_tag_id": "ML-T00782",
   "description": {
     "definition": "인물의 자살 의사를 알게 된 [[조력자]]가 겉으로는 동의하는 듯 행동하지만 실제로는 죽음을 막고 시간을 번다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽으려는 인물에게 조력자가 겉으로 동의하는 듯 행동하면서 실제로는 생명을 지키고 시간을 확보하는 전개다. 표면의 협력과 숨은 목적이 반대다.\n\n이야기에서는 예기치 않은 생존을 경험하게 하거나 결심을 다시 생각할 계기를 만드는 장치로 쓰인다. 이후 진실이 드러나면 보호와 기만이 관계에 남긴 영향을 다룰 수 있다.\n\n허구의 극적인 성공을 현실의 대응 방식으로 일반화하지 않는다. 구체적인 방법보다 조력자의 의도와 당사자의 경험을 중심으로 이해해야 하며 비밀을 지킨다는 명분과 안전의 책임도 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽으려는 인물에게 조력자가 겉으로 동의하는 듯 행동하면서 실제로는 생명을 지키고 시간을 확보하는 전개다. 표면의 협력과 숨은 목적이 반대다.\n\n이야기에서는 예기치 않은 생존을 경험하게 하거나 결심을 다시 생각할 계기를 만드는 장치로 쓰인다. 이후 진실이 드러나면 보호와 기만이 관계에 남긴 영향을 다룰 수 있다.\n\n허구의 극적인 성공을 현실의 대응 방식으로 일반화하지 않는다. 구체적인 방법보다 조력자의 의도와 당사자의 경험을 중심으로 이해해야 하며 비밀을 지킨다는 명분과 안전의 책임도 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

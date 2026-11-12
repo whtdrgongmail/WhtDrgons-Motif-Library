@@ -4,8 +4,8 @@
   "title": "수술실 밖에서 하는 수술",
   "original": "Roadside Surgery",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00801",
+  "primary_tag_id": "ML-T00801",
   "description": {
     "definition": "정규 수술 공간을 이용할 수 없는 장소에서 수술을 진행해야 하는 상황을 설정하여 환경과 자원의 제약을 드러내는 장면이다.",
     "detail": "작품 사례: [[Yellowjackets]]에서 Van이 늑대에게 얼굴을 크게 다치자, 전문 치료진 대신 팀 동료들이 힘을 모아 상처를 봉합하며 위기를 넘기려 한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 수술 절차를 안내하는 카드가 아니라 장소와 조건이 만드는 긴장을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.008.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정규 수술실이 아닌 곳에서 수술에 준하는 처치를 시도하는 상황이다. 준비되지 않은 장소와 인력, 물자의 부족이 치료와 생존의 긴장을 만든다.\n\n실제 절차를 가르치는 카드가 아니다. 단순한 공간의 차이보다 그 조건이 선택과 수행의 위험을 어떻게 바꾸는지 설명한다.\n\n[[Yellowjackets]]의 Van은 늑대에게 얼굴을 크게 다친다. 전문 치료진 대신 팀 동료들이 봉합을 시도해 제한된 인력과 장소에서 위기에 대응한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정규 수술실이 아닌 곳에서 수술에 준하는 처치를 시도하는 상황이다. 준비되지 않은 장소와 인력, 물자의 부족이 치료와 생존의 긴장을 만든다.\n\n실제 절차를 가르치는 카드가 아니다. 단순한 공간의 차이보다 그 조건이 선택과 수행의 위험을 어떻게 바꾸는지 설명한다."
+      ],
+      [
+        "관련 작품",
+        "[[Yellowjackets]]의 Van은 늑대에게 얼굴을 크게 다친다. 전문 치료진 대신 팀 동료들이 봉합을 시도해 제한된 인력과 장소에서 위기에 대응한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

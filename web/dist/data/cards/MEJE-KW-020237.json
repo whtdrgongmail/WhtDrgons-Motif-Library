@@ -4,28 +4,28 @@
   "title": "사용할 때마다 대가를 요구하는 힘",
   "original": "Insert Payment to Use",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T01229",
+  "primary_tag_id": "ML-T01229",
   "description": {
     "definition": "무기·도구·주문·능력·소환 대상을 사용할 때 일정한 자원이나 대상을 지불해야 작동하는 규칙이다. 대가의 소비가 강한 효과를 반복해서 쓰는 데 제한을 건다.",
     "detail": "돈·생명력·수명·정신적 자원 등 무엇을 잃는지에 따라 부담이 달라진다. 대가가 희귀하면 사용 기회 자체가 드물어진다.\n\n작품 사례: 《[[파이널 판타지 X]]》의 요짐보는 고용할 때뿐 아니라 공격을 부탁할 때에도 길을 요구하여 소환수의 행동에 비용을 붙인다.",
     "usage": "강한 능력의 선택에 자원 관리와 윤리적 부담을 부여한다.",
-    "boundary": "누가 사용할 수 있는지를 정하는 자격 조건과 달리 실제 사용 때마다 대가를 요구한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "13",
+    "code": "13.009",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "강력한 기능을 누를 때마다 무엇인가를 내놓아야 해서 아무 때나 쓸 수 없다.\n\n작품 사례: 《[[파이널 판타지 X]]》의 요짐보는 고용할 때뿐 아니라 공격을 부탁할 때에도 길을 요구하여 소환수의 행동에 비용을 붙인다.",
+    "easy_ko": "강력한 기능을 누를 때마다 무엇인가를 내놓아야 해서 아무 때나 쓸 수 없다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "돈·생명력·수명·정신적 자원 등 무엇을 잃는지에 따라 부담이 달라진다. 대가가 희귀하면 사용 기회 자체가 드물어진다.\n\n강한 능력의 선택에 자원 관리와 윤리적 부담을 부여한다.\n\n누가 사용할 수 있는지를 정하는 자격 조건과 달리 실제 사용 때마다 대가를 요구한다.\n\n《[[파이널 판타지 X]]》의 요짐보는 고용할 때 길을 요구하며 전투 중 행동에도 비용이 든다. 다만 호감도와 행동 결정 규칙에 따라 돈을 지불하지 않아도 공격하는 경우가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "돈·생명력·수명·정신적 자원 등 무엇을 잃는지에 따라 부담이 달라진다. 대가가 희귀하면 사용 기회 자체가 드물어진다.\n\n강한 능력의 선택에 자원 관리와 윤리적 부담을 부여한다.\n\n누가 사용할 수 있는지를 정하는 자격 조건과 달리 실제 사용 때마다 대가를 요구한다."
+      ],
+      [
+        "관련 작품",
+        "《[[파이널 판타지 X]]》의 요짐보는 고용할 때 길을 요구하며 전투 중 행동에도 비용이 든다. 다만 호감도와 행동 결정 규칙에 따라 돈을 지불하지 않아도 공격하는 경우가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

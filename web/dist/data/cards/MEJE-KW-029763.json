@@ -4,8 +4,8 @@
   "title": "나중의 진실을 미리 담아 둔 노래",
   "original": "Theme Song Reveal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01948",
+  "primary_tag_id": "ML-T01948",
   "description": {
     "definition": "노래나 주제곡에 뒤의 사건이나 정체를 이해할 단서를 넣어 두고 시간이 지난 뒤 그 의미가 드러나게 하는 음악적 [[복선]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "현재 장면 직전에 적의 등장 등을 알려 주는 짧은 음향 신호보다 회수까지의 간격과 숨은 의미가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "처음에는 분위기처럼 들린 음악이 나중에 구체적인 정보로 읽힐 수 있다. 인물과 연결된 선율과 노랫말은 정체와 사건의 단서가 된다.\n\n진상을 안 뒤 다시 들으면 앞서 주어진 정보의 의미가 달라진다. 반복되는 곡은 같은 단서를 여러 차례 제공하면서도 즉시 설명하지 않는 효과를 낸다.\n\n장면의 현재 감정을 강조하는 음악과는 시간의 방향이 다르다. 아직 명시되지 않은 뒤의 진실을 미리 담아 둔 [[복선]]이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "처음에는 분위기처럼 들린 음악이 나중에 구체적인 정보로 읽힐 수 있다. 인물과 연결된 선율과 노랫말은 정체와 사건의 단서가 된다.\n\n진상을 안 뒤 다시 들으면 앞서 주어진 정보의 의미가 달라진다. 반복되는 곡은 같은 단서를 여러 차례 제공하면서도 즉시 설명하지 않는 효과를 낸다.\n\n장면의 현재 감정을 강조하는 음악과는 시간의 방향이 다르다. 아직 명시되지 않은 뒤의 진실을 미리 담아 둔 [[복선]]이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

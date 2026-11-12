@@ -4,8 +4,8 @@
   "title": "작품의 주 언어와 다른 언어의 주제가",
   "original": "Foreign Language Theme",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "작품의 주요 대사나 대상 시청자의 일상 언어와 다른 언어로 오프닝 또는 엔딩 노래를 부르는 음악 연출이다. 해외판에서 주제가까지 바뀌면 [[해외판에서 다시 붙인 음악]]와 함께 원래의 음악 인상이 달라진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주요 대사와 다른 언어로 오프닝과 엔딩 노래를 부르는 구성이다. 언어의 소리와 문화적 연상이 작품의 첫인상과 여운을 만든다.\n\n가사의 뜻을 즉시 이해하지 못해도 리듬과 음색이 정서 정보를 전달한다. 번역을 알게 된 관객에게는 본편의 주제와 연결되는 추가 해석이 생길 수 있다.\n\n몇 개의 외국어 단어만 넣는 경우와는 비중이 다르다. 원래 제작 단계의 언어 선택과 해외 더빙에서 노래를 그대로 둔 경우도 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주요 대사와 다른 언어로 오프닝과 엔딩 노래를 부르는 구성이다. 언어의 소리와 문화적 연상이 작품의 첫인상과 여운을 만든다.\n\n가사의 뜻을 즉시 이해하지 못해도 리듬과 음색이 정서 정보를 전달한다. 번역을 알게 된 관객에게는 본편의 주제와 연결되는 추가 해석이 생길 수 있다.\n\n몇 개의 외국어 단어만 넣는 경우와는 비중이 다르다. 원래 제작 단계의 언어 선택과 해외 더빙에서 노래를 그대로 둔 경우도 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

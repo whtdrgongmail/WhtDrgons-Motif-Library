@@ -4,8 +4,8 @@
   "title": "선택적으로 진행하는 연애 부가 이야기",
   "original": "Romance Sidequest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02125",
+  "primary_tag_id": "ML-T02125",
   "description": {
     "definition": "본편의 필수 목표와 별개로 플레이어가 다른 인물과 연애하는 경로를 선택해 진행할 수 있는 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "모든 플레이에서 정해진 연인 관계나 단발성 만남과 구별한다. 관계를 발전시키는 선택 경로가 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "필수 임무와 별도로 연애 관계를 발전시키는 선택적 경로다. 대화와 별도 과제를 통해 상대와의 친밀도가 주요 사건으로 바뀐다.\n\n진행하지 않아도 본편을 끝낼 수 있어야 부가 이야기의 성격이 분명하다. 강제로 성립하는 중심 연애와는 플레이어의 참여 선택이 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "필수 임무와 별도로 연애 관계를 발전시키는 선택적 경로다. 대화와 별도 과제를 통해 상대와의 친밀도가 주요 사건으로 바뀐다.\n\n진행하지 않아도 본편을 끝낼 수 있어야 부가 이야기의 성격이 분명하다. 강제로 성립하는 중심 연애와는 플레이어의 참여 선택이 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

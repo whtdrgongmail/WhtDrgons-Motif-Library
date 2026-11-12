@@ -4,8 +4,8 @@
   "title": "싸움 앞에서 긴 외투를 벗음",
   "original": "The Coats Are Off",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00776",
+  "primary_tag_id": "ML-T00776",
   "description": {
     "definition": "인물이 긴 외투를 벗는 동작으로 이제 본격적으로 싸움에 임할 것을 알리는 장치이다.",
     "detail": "작품 사례: [[Look Outside]]의 재스퍼는 평소 가운으로 변이를 숨기다가 공격받으면 이를 벗어 실제 모습을 드러내, 옷을 벗는 동작이 본격적인 대결의 전환점이 된다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 탈의보다 전투 전환의 신호라는 기능이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "긴 외투를 벗는 동작이 싸움의 시작과 연결되면 복장의 변화가 본격적인 대결을 예고한다. 숨기던 몸과 능력을 드러내는 전환점이 될 수도 있다.\n\n평소 외투가 힘과 변이를 가리고 있었다면 벗는 동작은 숨은 정보의 공개까지 맡는다. 전투 준비와 실제 모습의 노출이 한 순간에 이루어져 대결의 단계가 바뀐다.\n\n평범한 탈의나 날씨에 맞춘 행동과는 다르다. 전투 태도의 변화라는 기능이 있어야 한다.\n\n[[Look Outside]]의 재스퍼는 평소 가운으로 변이를 숨기다가 공격받으면 이를 벗어 실제 모습을 드러내, 옷을 벗는 동작이 본격적인 대결의 전환점이 된다.\n\n[[Look Outside]]",
+    "sections": [
+      [
+        "상세 설명",
+        "긴 외투를 벗는 동작이 싸움의 시작과 연결되면 복장의 변화가 본격적인 대결을 예고한다. 숨기던 몸과 능력을 드러내는 전환점이 될 수도 있다.\n\n평소 외투가 힘과 변이를 가리고 있었다면 벗는 동작은 숨은 정보의 공개까지 맡는다. 전투 준비와 실제 모습의 노출이 한 순간에 이루어져 대결의 단계가 바뀐다.\n\n평범한 탈의나 날씨에 맞춘 행동과는 다르다. 전투 태도의 변화라는 기능이 있어야 한다."
+      ],
+      [
+        "사례",
+        "[[Look Outside]]의 재스퍼는 평소 가운으로 변이를 숨기다가 공격받으면 이를 벗어 실제 모습을 드러내, 옷을 벗는 동작이 본격적인 대결의 전환점이 된다."
+      ],
+      [
+        "관련 작품",
+        "[[Look Outside]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

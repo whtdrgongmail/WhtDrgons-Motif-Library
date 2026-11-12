@@ -4,27 +4,30 @@
   "title": "바로크 팝",
   "original": "Baroque Pop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-002737",
+  "primary_tag_id": "MEJE-KW-002737",
   "description": {
-    "definition": "팝 노래에 현악기·건반악기 등 서양 고전음악을 연상시키는 편곡을 결합하는 음악 갈래. [[바로크 음악]] 자체를 재현하는 뜻은 아니며, 시대 양식과의 연상이나 영향이 팝의 소리로 어떻게 쓰였는지 살핀다.",
+    "definition": "팝 노래에 현악기·건반악기 등 서양 고전음악을 연상시키는 편곡을 결합하는 음악 갈래. [[바로크 음악]] 자체의 재현이 아니라 시대 양식과의 연상이나 영향을 팝의 소리로 활용한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 5,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "팝과 록의 형식에 관현악적인 편성, 고전음악을 연상시키는 장식과 복잡한 구성을 결합하는 [[음악 양식]]이다. 대중가요의 접근성과 화려한 음향을 함께 추구한다.\n\n특정 악기의 음색은 시대감과 섬세함을 더하며 보통의 밴드 편성보다 다양한 층을 만들 수 있다. 짧은 노래 안에서도 구성과 편곡의 변화가 감상의 중심이 된다.\n\n바로크 시대의 음악 그 자체나 고전음악을 단순히 연주한 곡과는 다르다. 장르의 범위는 단일 악기 유무보다 팝 형식과 장식적인 작법이 어떻게 결합하는지에 달려 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "팝과 록의 형식에 관현악적인 편성, 고전음악을 연상시키는 장식과 복잡한 구성을 결합하는 [[음악 양식]]이다. 대중가요의 접근성과 화려한 음향을 함께 추구한다.\n\n특정 악기의 음색은 시대감과 섬세함을 더하며 보통의 밴드 편성보다 다양한 층을 만들 수 있다. 짧은 노래 안에서도 구성과 편곡의 변화가 감상의 중심이 된다.\n\n바로크 시대의 음악 그 자체나 고전음악을 단순히 연주한 곡과는 다르다. 장르의 범위는 단일 악기 유무보다 팝 형식과 장식적인 작법이 어떻게 결합하는지에 달려 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "화면 겹침 전환",
   "original": "Dissolve",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01908",
+  "primary_tag_id": "ML-T01908",
   "description": {
     "definition": "앞 [[장면]]이 천천히 사라지는 동안 다음 장면이 겹쳐 나타나 시간과 장소의 변화를 잇는 영상 전환이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "앞선 화면이 점차 투명해지는 동안 다음 화면이 나타나 두 영상이 잠시 겹치는 장면 전환이다. 전환의 속도와 겹치는 형상이 시간과 의미의 관계를 만든다.\n\n긴 시간의 경과나 회상, 유사한 이미지 사이의 연결을 부드럽게 표현할 수 있다. 소리도 함께 교차시키면 두 장면의 정서가 이어지고 소리의 시점을 달리하면 연결을 의도적으로 어긋나게 할 수 있다.\n\n검은 화면으로 사라졌다 다시 나타나는 전환과는 다르다. 중간 상태를 지속하면 중첩 화면이 되며 두 장면을 완전히 교체하는 과정 자체가 이 기법의 특징이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "앞선 화면이 점차 투명해지는 동안 다음 화면이 나타나 두 영상이 잠시 겹치는 장면 전환이다. 전환의 속도와 겹치는 형상이 시간과 의미의 관계를 만든다.\n\n긴 시간의 경과나 회상, 유사한 이미지 사이의 연결을 부드럽게 표현할 수 있다. 소리도 함께 교차시키면 두 장면의 정서가 이어지고 소리의 시점을 달리하면 연결을 의도적으로 어긋나게 할 수 있다.\n\n검은 화면으로 사라졌다 다시 나타나는 전환과는 다르다. 중간 상태를 지속하면 중첩 화면이 되며 두 장면을 완전히 교체하는 과정 자체가 이 기법의 특징이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,22 +4,56 @@
   "title": "손패",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02514",
+  "primary_tag_id": "ML-T02514",
   "description": {
-    "definition": "",
+    "definition": "카드 [[게임]]에서 한 참가자가 현재 가지고 있으며 규칙에 따라 사용할 수 있는 카드의 묶음이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 3,
+  "classification": {
+    "code": "25.013",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "내 차례에 무엇을 낼 수 있는지 결정하는, 지금 손에 든 카드들이다. 아직 뽑지 않은 [[덱]]의 카드와 구별한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "손패는 참가자가 당장 선택할 수 있는 행동의 범위를 나타낸다. 다른 사람에게 보이는지, 몇 장까지 들 수 있는지, 언제 새 카드를 뽑는지는 게임마다 다르다. 손패를 줄이는 효과는 지금의 선택을 제한하고, 덱을 바꾸는 효과는 이후의 선택에 영향을 준다.\n\n물리적인 카드를 손에 들지 않는 디지털 게임에서도 같은 기능의 보유 카드 영역을 손패라고 부를 수 있다. 단순히 소유한 모든 카드와 현재 사용할 수 있는 손패는 같지 않다.\n\n이번 차례에 공격 카드 두 장과 방어 카드 한 장을 가지고 있다면 그 세 장이 손패다. 덱 안에 남은 카드는 아직 손패에 포함되지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "손패는 참가자가 당장 선택할 수 있는 행동의 범위를 나타낸다. 다른 사람에게 보이는지, 몇 장까지 들 수 있는지, 언제 새 카드를 뽑는지는 게임마다 다르다. 손패를 줄이는 효과는 지금의 선택을 제한하고, 덱을 바꾸는 효과는 이후의 선택에 영향을 준다.\n\n물리적인 카드를 손에 들지 않는 디지털 게임에서도 같은 기능의 보유 카드 영역을 손패라고 부를 수 있다. 단순히 소유한 모든 카드와 현재 사용할 수 있는 손패는 같지 않다."
+      ],
+      [
+        "사례",
+        "이번 차례에 공격 카드 두 장과 방어 카드 한 장을 가지고 있다면 그 세 장이 손패다. 덱 안에 남은 카드는 아직 손패에 포함되지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

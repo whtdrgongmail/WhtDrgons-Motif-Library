@@ -4,8 +4,8 @@
   "title": "더 불행한 사람 자리를 겨루기",
   "original": "Misery Poker",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000480",
+  "primary_tag_id": "MM-UNSET-000480",
   "description": {
     "definition": "상대의 힘든 경험에 더 심한 자신의 불행을 내세워 관심이나 고통의 우위를 놓고 경쟁하는 대화 양식이다.",
     "detail": "상대를 위로하기보다 자신의 문제가 뒤로 밀리지 않게 하려는 목적이 중심이다.",
@@ -13,14 +13,20 @@
     "boundary": "서로의 경험을 이해하려 나누는 대화와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.007.007",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "네가 힘들다는 말에 나는 더 힘들었다고 맞선다.",
     "review_status": "reviewed",
@@ -38,5 +44,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "Misery Poker는 ‘불행 포커’라는 비유로, 더 심한 고통을 내세워 대화의 관심과 우위를 겨루는 양식을 뜻한다.\n\n한 사람이 힘든 경험을 말하면 상대가 더 심한 자신의 불행을 꺼내며 고통의 우위를 겨룬다. 서로의 경험을 이해하기보다 누가 더 큰 어려움을 겪었는지 경쟁하는 대화가 중심이다.\n\n이 응답은 위로보다 관심을 놓치지 않으려는 목적을 가질 수 있다. 상대의 고통을 인정하고 곁에 서기보다 자기 문제가 더 중요하다는 점을 보이려 하면서, 대화의 초점이 공감에서 비교로 이동한다.\n\n어려운 경험을 서로 나누는 대화와는 다르다. 두 사람이 각자 겪은 일을 말하더라도 상대를 이해하고 연결되려는 과정이라면 경쟁이라 보기 어렵다. 더 심한 이야기를 꺼내는 기능이 관심 선점인지가 구별의 핵심이다.\n\n작품 사례: 《[[프렌즈]]》에서 레이철이 조개껍데기 램프가 깨졌다고 말하자 챈들러는 자신은 혼자 죽을 것이라고 답하고, 레이철은 그가 이겼다고 한다. 서로의 불행이 승패를 가르는 대화가 된다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "Misery Poker는 ‘불행 포커’라는 비유로, 더 심한 고통을 내세워 대화의 관심과 우위를 겨루는 양식을 뜻한다."
+      ],
+      [
+        "상세 설명",
+        "한 사람이 힘든 경험을 말하면 상대가 더 심한 자신의 불행을 꺼내며 고통의 우위를 겨룬다. 서로의 경험을 이해하기보다 누가 더 큰 어려움을 겪었는지 경쟁하는 대화가 중심이다.\n\n이 응답은 위로보다 관심을 놓치지 않으려는 목적을 가질 수 있다. 상대의 고통을 인정하고 곁에 서기보다 자기 문제가 더 중요하다는 점을 보이려 하면서, 대화의 초점이 공감에서 비교로 이동한다.\n\n어려운 경험을 서로 나누는 대화와는 다르다. 두 사람이 각자 겪은 일을 말하더라도 상대를 이해하고 연결되려는 과정이라면 경쟁이라 보기 어렵다. 더 심한 이야기를 꺼내는 기능이 관심 선점인지가 구별의 핵심이다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[프렌즈]]》에서 레이철이 조개껍데기 램프가 깨졌다고 말하자 챈들러는 자신은 혼자 죽을 것이라고 답하고, 레이철은 그가 이겼다고 한다. 서로의 불행이 승패를 가르는 대화가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

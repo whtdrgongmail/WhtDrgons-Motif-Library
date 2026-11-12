@@ -4,8 +4,8 @@
   "title": "가족 구성원 사이의 살인",
   "original": "Murder in the Family",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "서로 가족 관계인 인물 중 한 사람이 다른 구성원을 살해하는 사건 구도다.",
     "detail": "작품 사례: 《[[베르세르크]]》에서 가니슈카가 자기 아들을 제물로 삼는 사건은 부자 관계 안에서 발생한 살해이기도 하다. 악함의 평가와 별도로 가족 관계를 사건 구조에 기록한다.",
@@ -13,10 +13,10 @@
     "boundary": "이 행위를 특별히 악하다고 평가하는 [[서사]] 기능과 살인 사건 자체를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001301",
+      "work_card_id": "MM-MEDIA-002477",
       "description_ko": "《베르세르크》에서 가니슈카가 자기 아들을 제물로 삼는 사건은 부자 관계 안에서 발생한 살해이기도 하다. 악함의 평가와 별도로 가족 관계를 사건 구조에 기록한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가족 중 한 사람이 다른 가족 구성원을 살해하면 관계 내부의 배신과 폭력이 살인 사건의 구도가 된다. 피해자가 부모인지 자녀인지 배우자인지에 따라 동기와 후속 관계는 달라질 수 있다. 행위를 특별한 악함의 증거로 강조하는 방식과 달리, 여기서는 우선 가족 관계에 있는 가해자와 피해자의 사건을 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가족 중 한 사람이 다른 가족 구성원을 살해하면 관계 내부의 배신과 폭력이 살인 사건의 구도가 된다. 피해자가 부모인지 자녀인지 배우자인지에 따라 동기와 후속 관계는 달라질 수 있다. 행위를 특별한 악함의 증거로 강조하는 방식과 달리, 여기서는 우선 가족 관계에 있는 가해자와 피해자의 사건을 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

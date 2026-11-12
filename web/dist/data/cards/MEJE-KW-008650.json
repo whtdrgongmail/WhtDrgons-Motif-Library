@@ -4,8 +4,8 @@
   "title": "에너지 활",
   "original": "Energy Bow",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "물리적 화살 대신 빛이나 마법의 투사체를 만들어 쏘는 활 또는 쇠뇌다. [[에너지 투사 무기]]이라는 넓은 무기 유형 안에 빛이나 마법의 화살을 쏘는 활이 포함될 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실물 화살 대신 에너지 투사체를 만들어 쏘는 활과 쇠뇌다. 전통적인 궁술의 몸짓과 초자연적 무기의 효과가 결합한다.\n\n탄약을 따로 휴대하지 않아도 되는 편리함을 주면서 당기고 겨누는 시각적 특징은 유지한다. 줄과 화살이 빛으로 나타나는 과정은 힘의 생성과 사용자의 집중을 보여 준다.\n\n에너지라는 이유만으로 무한 발사가 보장되지는 않는다. 자원과 충전의 제한이 있을 수 있으며 실제 활의 역학과 작품의 외형적 관습은 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실물 화살 대신 에너지 투사체를 만들어 쏘는 활과 쇠뇌다. 전통적인 궁술의 몸짓과 초자연적 무기의 효과가 결합한다.\n\n탄약을 따로 휴대하지 않아도 되는 편리함을 주면서 당기고 겨누는 시각적 특징은 유지한다. 줄과 화살이 빛으로 나타나는 과정은 힘의 생성과 사용자의 집중을 보여 준다.\n\n에너지라는 이유만으로 무한 발사가 보장되지는 않는다. 자원과 충전의 제한이 있을 수 있으며 실제 활의 역학과 작품의 외형적 관습은 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

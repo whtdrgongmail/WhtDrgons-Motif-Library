@@ -4,8 +4,8 @@
   "title": "악행의 대가를 피하는 인물",
   "original": "Karma Houdini",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02314",
+  "primary_tag_id": "ML-T02314",
   "description": {
     "definition": "다른 사람에게 해를 끼친 인물이 이야기의 끝이나 이후 전개에서도 그에 상응하는 처벌과 불이익을 받지 않는 구성이다.",
     "detail": "작품 사례: [[Team Fortress 2]]의 보충 이야기에서 Administrator는 로켓 연료를 훔쳤지만, 감춰진 용도를 들은 상원의원들이 놀라 그녀와 동료들을 처벌하지 않는다.",
@@ -13,10 +13,10 @@
     "boundary": "죄가 없어서 풀려난 인물이나 나중의 처벌이 아직 남은 상태와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "28.001.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,10 +31,10 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000902",
+      "work_card_id": "MM-MEDIA-002641",
       "description_ko": "Team Fortress 2의 보충 이야기에서 Administrator는 로켓 연료를 훔쳤지만, 감춰진 용도를 들은 상원의원들이 놀라 그녀와 동료들을 처벌하지 않는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     },
     {
       "media_tag_id": "ML-F02",
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이야기가 보여 준 해악과 그 인물에게 실제로 돌아온 결과 사이에 불균형이 남는다. 법적 처벌이 없다는 사실뿐 아니라 손실이나 다른 대가가 부여되는지까지 살펴야 [[서사]]에서 책임을 피했는지 판단할 수 있다.\n\n죄가 없다고 밝혀져 풀려난 경우는 악행의 대가를 피한 경우와 다르다. 아직 진행 중인 이야기에서 처벌이 늦어지고 있는 상태도 확정적인 면책과 구별해야 한다.\n\n[[Team Fortress 2]]의 보충 이야기에서 Administrator는 로켓 연료를 훔쳤지만, 감춰진 용도를 들은 상원의원들이 놀라 그녀와 동료들을 처벌하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이야기가 보여 준 해악과 그 인물에게 실제로 돌아온 결과 사이에 불균형이 남는다. 법적 처벌이 없다는 사실뿐 아니라 손실이나 다른 대가가 부여되는지까지 살펴야 [[서사]]에서 책임을 피했는지 판단할 수 있다.\n\n죄가 없다고 밝혀져 풀려난 경우는 악행의 대가를 피한 경우와 다르다. 아직 진행 중인 이야기에서 처벌이 늦어지고 있는 상태도 확정적인 면책과 구별해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Team Fortress 2]]의 보충 이야기에서 Administrator는 로켓 연료를 훔쳤지만, 감춰진 용도를 들은 상원의원들이 놀라 그녀와 동료들을 처벌하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "정신이 무너지는 과정을 남긴 기록",
   "original": "Apocalyptic Log",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00579",
+  "primary_tag_id": "ML-T00579",
   "description": {
     "definition": "일지나 기록이 사건의 순서와 함께 작성자의 정신적 붕괴를 보여 준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "재난이나 작성자의 죽음이 필수인 기존 대장과 달리 내면 변화에 초점을 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.004.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기록의 내용과 표현이 시간에 따라 변하면서 작성자의 상태를 드러낸다. 정상적인 보고가 반복과 혼란으로 바뀌면 사건의 악화와 인지의 변화가 함께 전달된다.\n\n나중에 기록을 발견한 인물은 현장에 없었던 과정을 간접적으로 이해한다. 마지막 부분의 공백과 불완전한 문장은 작성 이후의 운명을 상상하게 하는 수단이 된다.\n\n낡은 일지라는 사실만으로 같은 효과가 생기지는 않는다. 원문은 재난의 배경 기록 전반을 다루지만 정본은 작성자의 붕괴 과정이 실제 문서에 나타나는 경우다.",
+    "sections": [
+      [
+        "상세 설명",
+        "기록의 내용과 표현이 시간에 따라 변하면서 작성자의 상태를 드러낸다. 정상적인 보고가 반복과 혼란으로 바뀌면 사건의 악화와 인지의 변화가 함께 전달된다.\n\n나중에 기록을 발견한 인물은 현장에 없었던 과정을 간접적으로 이해한다. 마지막 부분의 공백과 불완전한 문장은 작성 이후의 운명을 상상하게 하는 수단이 된다.\n\n낡은 일지라는 사실만으로 같은 효과가 생기지는 않는다. 원문은 재난의 배경 기록 전반을 다루지만 정본은 작성자의 붕괴 과정이 실제 문서에 나타나는 경우다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

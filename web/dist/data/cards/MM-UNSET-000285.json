@@ -1,25 +1,43 @@
 {
   "id": "MM-UNSET-000285",
-  "kind": "keyword",
+  "kind": "organization",
   "title": "폴스",
   "original": "",
   "aliases": [],
   "tag_id": null,
   "primary_tag_id": null,
   "description": {
-    "definition": "",
+    "definition": "선율과 리듬의 비중을 매스 팝 문맥에서 비교하는 음악 밴드다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": null,
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "다른 밴드들과 함께 리듬의 복잡함과 선율의 친숙함을 비교할 때 나오는 이름이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "폴스는 음반과 공연 활동의 주체인 밴드다. [[뮤(Mew)]]와 [[TTNG]] 등과 함께 소개되어도 이 집단들의 별칭이나 같은 조직의 다른 이름을 뜻하지 않는다.\n\n관련 문맥에서는 매스 팝과 연결되지만 밴드의 모든 곡을 장르 정의 하나로 대신하지 않는다. 실제 곡에서 선율과 리듬, 보컬이 어떻게 결합되는지를 구분해야 다른 밴드와의 공통점과 차이도 설명할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "폴스는 음반과 공연 활동의 주체인 밴드다. [[뮤(Mew)]]와 [[TTNG]] 등과 함께 소개되어도 이 집단들의 별칭이나 같은 조직의 다른 이름을 뜻하지 않는다.\n\n관련 문맥에서는 매스 팝과 연결되지만 밴드의 모든 곡을 장르 정의 하나로 대신하지 않는다. 실제 곡에서 선율과 리듬, 보컬이 어떻게 결합되는지를 구분해야 다른 밴드와의 공통점과 차이도 설명할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

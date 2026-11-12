@@ -4,39 +4,52 @@
   "title": "인물의 사연에 초점을 맞춘 보도",
   "original": "Human-Interest Story",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00587",
+  "primary_tag_id": "ML-T00587",
   "description": {
-    "definition": "사건의 규모나 제도보다 그 안에 있는 개인·집단의 경험과 감정에 초점을 맞추어 독자의 공감과 관심을 이끄는 보도 방식.",
-    "detail": "큰 사건의 주변 인물을 조명하는 방식, 평범하지만 독특한 인생을 소개하는 방식, 개인의 사연으로 사회 문제에 대한 행동을 촉구하는 방식이 있다.\n\n작품 사례: 《[[타이타닉]]》은 침몰 사건의 개요를 제시한 뒤 로즈와 잭의 경험으로 초점을 옮긴다. 보도 자체의 사례라기보다는 거대한 사건을 개인의 사연으로 이해시키는 서사적 활용이다.",
+    "definition": "사건의 규모나 제도보다 그 안에 있는 개인·집단의 경험과 감정에 초점을 두어 독자의 공감이나 관심을 이끄는 보도 방식이다.",
+    "detail": "",
     "usage": "",
-    "boundary": "감정을 다룬다는 이유만으로 부정확하거나 조작된 기사라는 뜻은 아니다. 자극적인 피해 묘사 자체가 중심인 선정 보도와 구분한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "04",
+    "code": "04.005.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "사건을 겪은 사람의 삶과 마음을 따라가며 그 사건을 이해하게 한다.\n\n작품 사례: 《[[타이타닉]]》은 침몰 사건의 개요를 제시한 뒤 로즈와 잭의 경험으로 초점을 옮긴다. 보도 자체의 사례라기보다는 거대한 사건을 개인의 사연으로 이해시키는 서사적 활용이다.",
+    "easy_ko": "사건을 겪은 사람의 삶과 마음을 따라가며 그 사건을 이해하게 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-001423",
+      "work_card_id": "MM-MEDIA-003320",
       "description_ko": "《타이타닉》은 침몰 사건의 개요를 제시한 뒤 로즈와 잭의 경험으로 초점을 옮긴다. 보도 자체의 사례라기보다는 거대한 사건을 개인의 사연으로 이해시키는 서사적 활용이다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대형 사건의 주변 인물 한 명을 따라가거나, 평범하지만 특별한 경험을 지닌 사람을 소개할 수 있다. 사회 문제를 겪는 가족의 사연을 조명해 문제에 대한 관심을 요청하는 방식도 있다. 예를 들어 9·11 당시 세계무역센터에 있던 사람의 배우자 경험을 다루는 기사는 사건을 개인의 관점에서 전한다.\n\n감정을 다룬다는 이유만으로 부정확하거나 조작된 기사라는 뜻은 아니다. 자극적인 피해 묘사 자체가 중심인 선정 보도와 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대형 사건의 주변 인물 한 명을 따라가거나, 평범하지만 특별한 경험을 지닌 사람을 소개할 수 있다. 사회 문제를 겪는 가족의 사연을 조명해 문제에 대한 관심을 요청하는 방식도 있다. 예를 들어 9·11 당시 세계무역센터에 있던 사람의 배우자 경험을 다루는 기사는 사건을 개인의 관점에서 전한다.\n\n감정을 다룬다는 이유만으로 부정확하거나 조작된 기사라는 뜻은 아니다. 자극적인 피해 묘사 자체가 중심인 선정 보도와 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

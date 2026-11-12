@@ -4,8 +4,8 @@
   "title": "악당이 동기와 욕망을 드러내는 노래",
   "original": "Villain Song",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "악당이 자신의 목표와 욕망을 노래로 제시하여 앞으로의 적대 행동을 이해하게 하는 장면이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "악당이 등장하는 배경음만을 뜻하지 않는다. 노래가 악당의 동기를 설명하는 기능을 해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악당이 노래로 욕망과 계획을 밝히면 적대 행동의 이유가 공연의 즐거움과 함께 전달된다. 과장된 가사와 동작은 권력욕과 복수심 같은 동기를 짧은 장면 안에서 선명하게 만들 수 있다.\n\n악당이 화면에 등장할 때 흐르는 주제음만으로는 충분하지 않다. 노래의 말과 공연이 그 인물의 목표나 세계관을 드러내야 하며, 반드시 자기를 악하다고 인정하는 가사여야 하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악당이 노래로 욕망과 계획을 밝히면 적대 행동의 이유가 공연의 즐거움과 함께 전달된다. 과장된 가사와 동작은 권력욕과 복수심 같은 동기를 짧은 장면 안에서 선명하게 만들 수 있다.\n\n악당이 화면에 등장할 때 흐르는 주제음만으로는 충분하지 않다. 노래의 말과 공연이 그 인물의 목표나 세계관을 드러내야 하며, 반드시 자기를 악하다고 인정하는 가사여야 하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

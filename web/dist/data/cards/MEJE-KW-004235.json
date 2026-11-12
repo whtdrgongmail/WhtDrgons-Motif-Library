@@ -4,28 +4,31 @@
   "title": "캐나다를 배경으로 바꾼 서부극",
   "original": "Canadian Western",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00347",
+  "primary_tag_id": "ML-T00347",
   "description": {
-    "definition": "[[서부극]]의 개척과 추격을 캐나다의 겨울 풍경과 지역 역사 속에 놓는다. 장소가 달라지며 이야기의 법과 이동 조건도 달라진다.",
+    "definition": "[[서부극]]의 개척과 추격이 캐나다의 겨울 풍경과 지역 역사를 배경으로 전개된다. 장소가 달라지며 이야기의 법과 이동 조건도 달라진다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "03",
+    "code": "03.114",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "캐나다를 배경으로 바꾼 서부극은 개척과 추격이라는 서부극의 사건을 캐나다의 지역 조건 속에 놓습니다. 눈과 추위, 다른 법과 이동 거리 때문에 익숙한 이야기의 선택도 달라집니다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "캐나다나 북부 변경의 환경과 기마경찰 이미지를 중심에 둔 서부극 계열이다. 사막과 먼지 대신 눈 덮인 숲과 산을 강조하며, 고립된 지역의 질서와 이동을 다른 풍경 속에서 다룬다.\n\n기마경찰은 현장에서 홀로 판단해야 하면서도 더 큰 조직에 속한 인물이라는 이중성을 갖는다. 독립적인 변경의 보안관과 달리 명령 체계와 중앙의 권위가 함께 존재하여, 개인의 정의와 조직의 규칙 사이의 갈등을 만들 수 있다.\n\n단지 캐나다에서 촬영한 서부극과는 다르다. 이야기의 지역과 법 집행의 도상이 장르의 정체성을 이룬다. 실제 역사와 자연환경을 얼마나 반영하는지는 작품마다 다르며, 영웅적인 경찰 이미지가 원주민과 주민의 다양한 관점을 가리지 않는지도 함께 검토할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "캐나다나 북부 변경의 환경과 기마경찰 이미지를 중심에 둔 서부극 계열이다. 사막과 먼지 대신 눈 덮인 숲과 산을 강조하며, 고립된 지역의 질서와 이동을 다른 풍경 속에서 다룬다.\n\n기마경찰은 현장에서 홀로 판단해야 하면서도 더 큰 조직에 속한 인물이라는 이중성을 갖는다. 독립적인 변경의 보안관과 달리 명령 체계와 중앙의 권위가 함께 존재하여, 개인의 정의와 조직의 규칙 사이의 갈등을 만들 수 있다.\n\n단지 캐나다에서 촬영한 서부극과는 다르다. 이야기의 지역과 법 집행의 도상이 장르의 정체성을 이룬다. 실제 역사와 자연환경을 얼마나 반영하는지는 작품마다 다르며, 영웅적인 경찰 이미지가 원주민과 주민의 다양한 관점을 가리지 않는지도 함께 검토할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

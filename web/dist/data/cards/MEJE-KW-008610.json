@@ -4,8 +4,8 @@
   "title": "끝나지 않는 낮",
   "original": "Endless Daytime",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01256",
+  "primary_tag_id": "ML-T01256",
   "description": {
     "definition": "밤이 오지 않는 세계나 지역에서 지속되는 햇빛이 생활 규칙과 분위기를 바꾼다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.003.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "해가 지지 않아 낮이 계속되는 환경이나 사건이다. 밤의 도래가 일상의 순서를 나누지 못하므로 시간 감각과 생활의 리듬이 평소와 달라진다.\n\n여러 태양과 특이한 행성의 조건처럼 환경의 규칙으로 설명할 수도 있고, 강한 존재가 낮을 붙잡아 둔 결과로 제시할 수도 있다. 빛이 계속된다는 설정은 안전한 밝음과 쉴 틈 없는 노출이라는 서로 다른 분위기를 만들 수 있다.\n\n이야기가 우연히 낮 장면만 보여 주는 것과는 다르다. 밤이 오지 않는다는 조건이 확인되어야 하며, 지속 시간과 원인을 [[세계관]]에서 구분하지 않고 모두 영구적인 현상으로 설명하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "해가 지지 않아 낮이 계속되는 환경이나 사건이다. 밤의 도래가 일상의 순서를 나누지 못하므로 시간 감각과 생활의 리듬이 평소와 달라진다.\n\n여러 태양과 특이한 행성의 조건처럼 환경의 규칙으로 설명할 수도 있고, 강한 존재가 낮을 붙잡아 둔 결과로 제시할 수도 있다. 빛이 계속된다는 설정은 안전한 밝음과 쉴 틈 없는 노출이라는 서로 다른 분위기를 만들 수 있다.\n\n이야기가 우연히 낮 장면만 보여 주는 것과는 다르다. 밤이 오지 않는다는 조건이 확인되어야 하며, 지속 시간과 원인을 [[세계관]]에서 구분하지 않고 모두 영구적인 현상으로 설명하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

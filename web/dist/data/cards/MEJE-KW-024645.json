@@ -4,8 +4,8 @@
   "title": "작은 친구를 지키는 큰 친구",
   "original": "Little Guy, Big Buddy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01012",
+  "primary_tag_id": "ML-T01012",
   "description": {
     "definition": "체격이나 힘의 차이가 큰 두 인물이 짝을 이루고 큰 쪽이 작은 쪽의 순진함이나 취약함을 보호하는 관계다.",
     "detail": "작품 사례: 《[[오란고교 호스트부]]》의 작고 귀여운 허니와 키 크고 말수 적은 보호자 모리의 짝은 체격 대비와 돌봄 관계를 함께 드러낸다.",
@@ -13,14 +13,20 @@
     "boundary": "크기가 다른 두 인물이 함께 있기만 한 경우보다 보호 관계가 필요하다. 작은 쪽이 언제나 무능한 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "작고 약한 친구가 위험에 가까이 가면 크고 강한 친구가 곁에서 지켜 준다.",
     "review_status": "reviewed",
@@ -38,5 +44,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "체격과 힘의 차이가 큰 두 인물을 보호 관계로 묶는 구성이다. 큰 쪽의 위압적인 외형이 작은 동료에게는 안전의 근거가 된다.\n\n동반자 관계에서는 신체적 보호와 판단력, 교섭 능력 등을 서로 다르게 분담할 수 있다. 겉으로 보이는 힘의 차이가 관계 전체의 우열을 의미하지는 않는다. 큰 쪽의 보호와 작은 쪽의 친밀감이 반복되는 상호작용으로 제시되면, 체격 차이가 단순한 외모 대비를 넘어 관계의 역할을 정한다.\n\n크기가 다른 두 사람이 함께 등장하는 것만으로는 부족하다. 작은 쪽의 취약함을 큰 쪽이 돌본다는 관계가 드러나야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "체격과 힘의 차이가 큰 두 인물을 보호 관계로 묶는 구성이다. 큰 쪽의 위압적인 외형이 작은 동료에게는 안전의 근거가 된다.\n\n동반자 관계에서는 신체적 보호와 판단력, 교섭 능력 등을 서로 다르게 분담할 수 있다. 겉으로 보이는 힘의 차이가 관계 전체의 우열을 의미하지는 않는다. 큰 쪽의 보호와 작은 쪽의 친밀감이 반복되는 상호작용으로 제시되면, 체격 차이가 단순한 외모 대비를 넘어 관계의 역할을 정한다.\n\n크기가 다른 두 사람이 함께 등장하는 것만으로는 부족하다. 작은 쪽의 취약함을 큰 쪽이 돌본다는 관계가 드러나야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "다수의 연애 상대가 모이는 게임 서사",
   "original": "The Harem LitRPG",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00397",
+  "primary_tag_id": "ML-T00397",
   "description": {
     "definition": "역할수행 게임식 능력과 성장의 [[서사]]에 한 주인공을 중심으로 여러 연애 상대가 모이는 구도를 결합하는 하위형이다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": "등장인물의 성별과 수가 많다는 사실만으로는 부족하며 중심 인물 주위의 연애 구도가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.401.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "world_pattern",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "story_pattern",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임식 능력과 성장의 진행에 한 인물을 중심으로 한 복수의 연애 관계를 결합한다. 성장 서사와 연애 구도가 동시에 구성의 축이 된다.\n\n여러 연애 상대가 주인공 주변에 모이는 관계 배치가 특징이다. 등장인물의 수가 많다는 양적 조건만으로 관계의 성격을 대신할 수는 없다.\n\n서로 다른 성별의 인물이 여럿 등장하는 것과 구별한다. 중심 인물을 향한 연애의 방향이 제시되어야 이 하위형의 관계 구조가 성립한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임식 능력과 성장의 진행에 한 인물을 중심으로 한 복수의 연애 관계를 결합한다. 성장 서사와 연애 구도가 동시에 구성의 축이 된다.\n\n여러 연애 상대가 주인공 주변에 모이는 관계 배치가 특징이다. 등장인물의 수가 많다는 양적 조건만으로 관계의 성격을 대신할 수는 없다.\n\n서로 다른 성별의 인물이 여럿 등장하는 것과 구별한다. 중심 인물을 향한 연애의 방향이 제시되어야 이 하위형의 관계 구조가 성립한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

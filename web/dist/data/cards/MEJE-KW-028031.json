@@ -4,8 +4,8 @@
   "title": "고용주보다 집안을 지배하는 메이드",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02589",
+  "primary_tag_id": "ML-T02589",
   "description": {
     "definition": "가사 사용인이 무능하거나 보호가 필요한 고용주 대신 집안의 실질적 결정권을 쥐고 관리하는 관계다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "일을 잘하는 사용인 일반과 달리 실제 권한이 명목상 고용 관계를 뒤집는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.015",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "메이드가 실질적 결정을 맡으면 [[고용 관계]]의 위계와 집안의 운영 권한이 어긋난다. 명목상 윗사람이 실제로는 관리와 보호를 받는 쪽이 된다.\n\n일을 대신하는 수준을 넘어 무엇을 할지 정한다면 책임도 사용인에게 모인다. 무능한 고용주와 유능한 관리자의 대비가 가족 같은 갈등을 만들 수 있다.\n\n솜씨 좋은 사용인만으로는 부족하다. 실제 권한이 원래의 고용 위계를 뒤집어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "메이드가 실질적 결정을 맡으면 [[고용 관계]]의 위계와 집안의 운영 권한이 어긋난다. 명목상 윗사람이 실제로는 관리와 보호를 받는 쪽이 된다.\n\n일을 대신하는 수준을 넘어 무엇을 할지 정한다면 책임도 사용인에게 모인다. 무능한 고용주와 유능한 관리자의 대비가 가족 같은 갈등을 만들 수 있다.\n\n솜씨 좋은 사용인만으로는 부족하다. 실제 권한이 원래의 고용 위계를 뒤집어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

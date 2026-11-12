@@ -2,24 +2,69 @@
   "id": "MM-MEDIA-003561",
   "kind": "work",
   "title": "왈가닥 루시",
-  "original": "",
+  "original": "I Love Lucy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00062",
+  "primary_tag_id": "ML-T00062",
   "description": {
-    "definition": "",
+    "definition": "《왈가닥 루시》는 루시 리카도와 주변 인물들의 일상을 그린 미국 TV 상황 코미디 시리즈다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.014.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "루시와 남편 리키의 생활에서 생기는 소동을 다룬 오래된 TV 코미디다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000162",
+      "card_id": "MM-MEDIA-003561",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.paramountplus.com/shows/i_love_lucy/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "CBS의 《[[I Love Lucy]]》는 1951년에 시작한 여섯 시즌의 상황 코미디다. 뉴욕에서 밴드 리더로 일하는 리키와 무대에 서고 싶어 하는 루시를 중심으로, 이웃이자 집주인인 프레드와 에설이 일상의 소동에 참여한다. 루시의 계획에 에설이 동참하고 리키가 수습하는 관계가 여러 회차의 웃음을 만든다.\n\n시즌 2의 ‘Lucy Goes to the Hospital’에서는 출산을 앞둔 루시를 침착하게 병원에 데려가려고 리키, 프레드, 에설이 미리 동선을 연습한다. 막상 진통이 시작되자 연습한 질서는 무너지고 세 사람의 허둥거림이 장면의 핵심이 된다. 준비된 대응과 실제 반응의 차이를 인물들의 몸짓과 호흡으로 보여 주는 사례다.\n\n시즌 2 제16화에서 리키, 프레드, 에설은 루시의 병원행을 연습하지만 실제 순간에는 혼란에 빠진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "CBS의 《[[I Love Lucy]]》는 1951년에 시작한 여섯 시즌의 상황 코미디다. 뉴욕에서 밴드 리더로 일하는 리키와 무대에 서고 싶어 하는 루시를 중심으로, 이웃이자 집주인인 프레드와 에설이 일상의 소동에 참여한다. 루시의 계획에 에설이 동참하고 리키가 수습하는 관계가 여러 회차의 웃음을 만든다.\n\n시즌 2의 ‘Lucy Goes to the Hospital’에서는 출산을 앞둔 루시를 침착하게 병원에 데려가려고 리키, 프레드, 에설이 미리 동선을 연습한다. 막상 진통이 시작되자 연습한 질서는 무너지고 세 사람의 허둥거림이 장면의 핵심이 된다. 준비된 대응과 실제 반응의 차이를 인물들의 몸짓과 호흡으로 보여 주는 사례다."
+      ],
+      [
+        "사례",
+        "시즌 2 제16화에서 리키, 프레드, 에설은 루시의 병원행을 연습하지만 실제 순간에는 혼란에 빠진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

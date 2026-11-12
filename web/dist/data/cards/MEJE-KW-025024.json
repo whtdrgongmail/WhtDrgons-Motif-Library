@@ -5,19 +5,19 @@
   "original": "The Person Who Cannot Keep a Job",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "일자리를 계속 바꾸거나 유지하지 못하여 안정적인 경력과 생활 기반을 만들기 어려운 인물 설정이다.",
     "detail": "",
     "usage": "생계의 불안정과 자기 적성을 찾는 문제를 지속적인 [[갈등]]으로 만든다.",
-    "boundary": "여러 전문 분야를 의도적으로 병행하는 경력과 구별한다. 적성 탐색과 고용 환경의 원인은 따로 살핀다."
+    "boundary": "여러 전문 분야를 의도적으로 병행하는 경력과 구별한다. 적성 탐색과 고용 환경의 원인은 따로 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일자리를 유지하지 못하는 인물은 경력의 단절과 생계의 불안정을 함께 겪는다. 직업의 변화는 새 배경을 주지만 안정된 기반을 만들기 어렵게 한다.\n\n적성을 찾는 중인지 고용 조건 때문에 밀려나는지에 따라 책임과 감정은 달라진다. 일을 자주 바꾼다는 결과만으로 게으름이나 무능을 원인으로 정할 수는 없다.\n\n여러 전문직을 의도적으로 병행하는 경력과는 다르다. 한 직업에 정착하지 못한다는 제약이 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일자리를 유지하지 못하는 인물은 경력의 단절과 생계의 불안정을 함께 겪는다. 직업의 변화는 새 배경을 주지만 안정된 기반을 만들기 어렵게 한다.\n\n적성을 찾는 중인지 고용 조건 때문에 밀려나는지에 따라 책임과 감정은 달라진다. 일을 자주 바꾼다는 결과만으로 게으름이나 무능을 원인으로 정할 수는 없다.\n\n여러 전문직을 의도적으로 병행하는 경력과는 다르다. 한 직업에 정착하지 못한다는 제약이 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

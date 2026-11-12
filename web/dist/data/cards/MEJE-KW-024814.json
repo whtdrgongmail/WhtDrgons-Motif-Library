@@ -4,8 +4,8 @@
   "title": "거점 확보를 돕는 게임 보정",
   "original": "Location Capture Boost",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T00480",
+  "primary_tag_id": "ML-T00480",
   "description": {
     "definition": "거점을 두고 경쟁하는 게임에서 점령 속도·거리·복귀 경로·전용 방어를 유리하게 만드는 보조 규칙이다.",
     "detail": "작품 사례: 《[[젤다무쌍]]》에서 특정 보조 배지를 가진 인물은 적의 거점을 더 빠르게 점령할 수 있다.",
@@ -13,14 +13,22 @@
     "boundary": "점령한 뒤 얻는 일반 보상과 달리 거점을 확보하거나 방어하는 과정의 이점이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
-    "row_version": 1
+    "code": "25.013.003",
+    "review_status": "reviewed",
+    "row_version": 2
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 2
+  },
   "easy_explanation": {
     "easy_ko": "같은 거점을 차지하려 해도 특정 능력이나 조건이 점령을 더 쉽게 만든다.",
     "review_status": "reviewed",
@@ -38,5 +46,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거점의 점령과 방어를 더 수월하게 하는 보조 규칙이다. 점령 속도와 접근 범위, 복귀 동선 등의 차이가 경쟁의 흐름에 영향을 준다.\n\n거점 점령에서는 같은 전투력이라도 목표에 관여할 수 있는 시간이 중요하다. 보조 효과는 협력과 배치의 가치를 바꾸어 전선의 유지 방식을 조정한다. 점령에 걸리는 시간이나 거점까지의 접근 조건을 조절하는 규칙이므로, 확보 뒤에 주어지는 보상과는 작동 시점이 다르다.\n\n점령을 끝낸 뒤 제공되는 일반적인 강화 보상과는 다르다. 목표를 확보하거나 지키는 과정 자체에 이점이 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "거점의 점령과 방어를 더 수월하게 하는 보조 규칙이다. 점령 속도와 접근 범위, 복귀 동선 등의 차이가 경쟁의 흐름에 영향을 준다.\n\n거점 점령에서는 같은 전투력이라도 목표에 관여할 수 있는 시간이 중요하다. 보조 효과는 협력과 배치의 가치를 바꾸어 전선의 유지 방식을 조정한다. 점령에 걸리는 시간이나 거점까지의 접근 조건을 조절하는 규칙이므로, 확보 뒤에 주어지는 보상과는 작동 시점이 다르다.\n\n점령을 끝낸 뒤 제공되는 일반적인 강화 보상과는 다르다. 목표를 확보하거나 지키는 과정 자체에 이점이 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

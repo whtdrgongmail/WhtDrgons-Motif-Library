@@ -4,8 +4,8 @@
   "title": "주변이 조용해진 순간 튀어나온 큰소리",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02009",
+  "primary_tag_id": "ML-T02009",
   "description": {
     "definition": "주변 소음을 이기려고 목소리를 높인 순간 소음이 멎어, 부적절하거나 감추고 싶었던 말이 모두에게 크게 들리는 연출.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "단순히 큰소리를 내거나 모두가 조용해지는 장면과 다르다. 소음에 맞춘 발화와 소음의 중단이 맞물려야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물은 주변 소음을 이기려 목소리를 높이지만 발화 순간 소음이 사라진다. 원래라면 묻혔을 말이 다른 사람 모두에게 노출된다.\n\n사적인 불평과 민망한 내용이 공개되는 시점의 우연이 웃음과 곤란을 만든다. 큰 목소리와 갑작스러운 정적이 함께 있어야 효과가 생긴다.\n\n단지 조용한 곳에서 소리친 장면과는 다르다. 소음에 맞춰 조절한 발화가 소음의 중단과 맞물려야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물은 주변 소음을 이기려 목소리를 높이지만 발화 순간 소음이 사라진다. 원래라면 묻혔을 말이 다른 사람 모두에게 노출된다.\n\n사적인 불평과 민망한 내용이 공개되는 시점의 우연이 웃음과 곤란을 만든다. 큰 목소리와 갑작스러운 정적이 함께 있어야 효과가 생긴다.\n\n단지 조용한 곳에서 소리친 장면과는 다르다. 소음에 맞춰 조절한 발화가 소음의 중단과 맞물려야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

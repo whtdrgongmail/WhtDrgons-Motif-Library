@@ -4,8 +4,8 @@
   "title": "촬영용 가짜 음식",
   "original": "Fake Food",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "광고나 공연 화면에서 먹음직해 보이도록 실제 음식의 외관을 가공하거나 다른 소품으로 대신한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "촬영과 공연에서 실제 음식의 외형을 다듬거나 다른 재료와 소품으로 대신하는 제작 방식이다. 먹는 기능보다 화면에 보이는 형태와 지속성이 중요하다.\n\n조명과 반복 촬영에서 모양을 유지하고 배우의 수행에 맞추기 위해 선택될 수 있다. 광고에서는 맛과 신선함의 이미지를 강하게 전달하도록 배치와 색을 조정한다.\n\n모든 촬영 음식이 먹을 수 없는 것은 아니다. 실제 섭취가 필요한 장면과 장식용 소품을 구분해야 하며 특정 제작 방법을 확인 없이 모든 광고의 관행으로 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "촬영과 공연에서 실제 음식의 외형을 다듬거나 다른 재료와 소품으로 대신하는 제작 방식이다. 먹는 기능보다 화면에 보이는 형태와 지속성이 중요하다.\n\n조명과 반복 촬영에서 모양을 유지하고 배우의 수행에 맞추기 위해 선택될 수 있다. 광고에서는 맛과 신선함의 이미지를 강하게 전달하도록 배치와 색을 조정한다.\n\n모든 촬영 음식이 먹을 수 없는 것은 아니다. 실제 섭취가 필요한 장면과 장식용 소품을 구분해야 하며 특정 제작 방법을 확인 없이 모든 광고의 관행으로 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -6,8 +6,8 @@
   "aliases": [
     "행복한 부부"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00973",
+  "primary_tag_id": "ML-T00973",
   "description": {
     "definition": "서로 애정과 신뢰를 유지하며 혼인 [[관계]] 안에서 안정된 [[친밀감]]을 나누는 [[부부]] 유형이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "[[갈등]]이 전혀 없다는 뜻은 아니며 혼인 상태 자체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "10",
+    "code": "10.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "혼인한 두 사람이 애정과 신뢰를 유지하며 안정적인 친밀감을 나눈다. 부부라는 지위뿐 아니라 지속되는 관계의 질이 유형을 만든다.\n\n결혼 뒤에도 상대를 대하는 행동과 감정이 이어진다. 다른 부부의 갈등과 대비하거나 혼인 이후의 일상을 긍정적으로 표현하는 기준이 될 수 있다.\n\n의견 차이와 갈등이 전혀 없어야 하는 것은 아니다. 법적으로 결혼한 상태만으로 화목함을 확정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "혼인한 두 사람이 애정과 신뢰를 유지하며 안정적인 친밀감을 나눈다. 부부라는 지위뿐 아니라 지속되는 관계의 질이 유형을 만든다.\n\n결혼 뒤에도 상대를 대하는 행동과 감정이 이어진다. 다른 부부의 갈등과 대비하거나 혼인 이후의 일상을 긍정적으로 표현하는 기준이 될 수 있다.\n\n의견 차이와 갈등이 전혀 없어야 하는 것은 아니다. 법적으로 결혼한 상태만으로 화목함을 확정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

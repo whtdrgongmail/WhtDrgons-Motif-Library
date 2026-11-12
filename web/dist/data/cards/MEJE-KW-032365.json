@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032365",
+  "kind": "keyword",
+  "title": "동시에 존재할 수 있는 오브젝트 수 제한",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "게임의 같은 종류의 물체나 개체가 일정 수를 넘지 못하게 하여 추가 생성을 막거나 기존 개체를 제거하는 규칙이다.",
+    "detail": "",
+    "usage": "[[자원 관리]]와 화면 복잡도를 조절하고 제한된 개체의 배치에 의미를 준다.",
+    "boundary": "탄환에 한정되지 않으며 시간 경과만으로 사라지는 물체와 달리 동시 개수의 상한이 기준이다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "새 물체를 만들 자리 수가 정해져 있어 꽉 차면 하나를 비워야 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "동시에 유지할 수 있는 개체의 자리가 정해져 있으면 추가 생성은 남은 자리와 연결된다. 상한에 도달했을 때 생성을 거부하거나 오래된 개체를 제거하는 등 서로 다른 처리 방식을 택할 수 있다.\n\n물체의 수명이 끝나 사라지는 규칙과 동시 개수의 상한은 별개다. 두 규칙이 함께 작동할 수도 있으므로 무엇이 새 생성을 막는지 확인해야 한다. 탄환뿐 아니라 효과 흔적이나 적 등에도 적용할 수 있는 원리다.",
+    "sections": [
+      [
+        "상세 설명",
+        "동시에 유지할 수 있는 개체의 자리가 정해져 있으면 추가 생성은 남은 자리와 연결된다. 상한에 도달했을 때 생성을 거부하거나 오래된 개체를 제거하는 등 서로 다른 처리 방식을 택할 수 있다.\n\n물체의 수명이 끝나 사라지는 규칙과 동시 개수의 상한은 별개다. 두 규칙이 함께 작동할 수도 있으므로 무엇이 새 생성을 막는지 확인해야 한다. 탄환뿐 아니라 효과 흔적이나 적 등에도 적용할 수 있는 원리다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
+}

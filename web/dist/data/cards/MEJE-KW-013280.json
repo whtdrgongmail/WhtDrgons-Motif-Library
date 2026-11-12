@@ -4,8 +4,8 @@
   "title": "헤어 메탈",
   "original": "Hair Metal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-013280",
+  "primary_tag_id": "MEJE-KW-013280",
   "description": {
     "definition": "하드 록·헤비 메탈에 대중적인 [[후렴]]과 발라드 감각을 [[결합]]하고 화려한 머리 모양·복식·무대 이미지를 강조한 음악 흐름이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.302.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "헤어 메탈은 하드 록·헤비 메탈의 강한 기타 편성에 따라 부르기 쉬운 [[후렴]], 발라드 성향, 화려한 무대 이미지를 결합한 대중음악 흐름이다. 이름의 '헤어'는 특정 머리 모양만을 필수 조건으로 정하는 규칙이 아니다. 노래의 편곡과 록 스타 이미지가 함께 소비되는 방식을 가리키는 장르 명칭이다.\n\n같은 무대 이미지를 사용해도 곡이 훨씬 거칠거나 실험적인 방향으로 구성될 수 있다. 헤어 메탈을 분류할 때에는 기타의 강도뿐 아니라 후렴의 대중성, 감정 표현, 공연 시각물이 함께 작동하는지 확인한다. [[글램 록]]과 외형이 겹칠 수 있지만 두 이름을 모든 시기와 음악에 동일하게 적용하지 않는다.\n\n가상 예시: 강한 기타 리프와 넓게 합창할 수 있는 후렴을 한 곡에 배치하고 뮤직비디오에서 화려한 무대 이미지를 반복한다면 헤어 메탈의 결합 방식을 설명할 수 있다. 큰 머리 모양만 보이는 연주자를 이 장르로 분류할 근거는 부족하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "헤어 메탈은 하드 록·헤비 메탈의 강한 기타 편성에 따라 부르기 쉬운 [[후렴]], 발라드 성향, 화려한 무대 이미지를 결합한 대중음악 흐름이다. 이름의 '헤어'는 특정 머리 모양만을 필수 조건으로 정하는 규칙이 아니다. 노래의 편곡과 록 스타 이미지가 함께 소비되는 방식을 가리키는 장르 명칭이다.\n\n같은 무대 이미지를 사용해도 곡이 훨씬 거칠거나 실험적인 방향으로 구성될 수 있다. 헤어 메탈을 분류할 때에는 기타의 강도뿐 아니라 후렴의 대중성, 감정 표현, 공연 시각물이 함께 작동하는지 확인한다. [[글램 록]]과 외형이 겹칠 수 있지만 두 이름을 모든 시기와 음악에 동일하게 적용하지 않는다."
+      ],
+      [
+        "사례",
+        "가상 예시: 강한 기타 리프와 넓게 합창할 수 있는 후렴을 한 곡에 배치하고 뮤직비디오에서 화려한 무대 이미지를 반복한다면 헤어 메탈의 결합 방식을 설명할 수 있다. 큰 머리 모양만 보이는 연주자를 이 장르로 분류할 근거는 부족하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

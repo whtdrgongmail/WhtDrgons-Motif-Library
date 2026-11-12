@@ -4,8 +4,8 @@
   "title": "영웅의 도덕적 설교를 거부하는 악당",
   "original": "Shut Up, Kirk!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01971",
+  "primary_tag_id": "ML-T01971",
   "description": {
     "definition": "[[영웅]]이 악의 필연적 패배나 옳은 [[선택]]을 말하자 [[악당]]이 이를 받아들이지 않고 우위와 의지를 선언하는 반응이다.",
     "detail": "작품 사례: [[Persona 4 Arena Ultimax]]의 마지막 대결 음악은 유가 상대 안의 사랑을 믿는 관점과 쇼가 이를 거부하는 관점을 서로 다른 보컬로 맞세운다.",
@@ -13,10 +13,10 @@
     "boundary": "영웅에게 설득되어 개심하는 [[장면]]과 달리 설교의 효력을 꺾는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "23",
+    "code": "23.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "영웅은 도덕이나 관계의 힘으로 악당의 선택을 바꾸려 하지만 상대는 그 논리를 거부한다. 말의 교환은 합의보다 양쪽 가치의 대립을 명확하게 만든다.\n\n악당이 우위와 의지를 선언하면 설교가 가진 설득력이 장면 안에서 중단된다. 대사 대신 서로 다른 노랫소리로 관점을 맞세우는 변형도 가능하다.\n\n교훈을 받아들여 개심하는 장면과는 반응의 방향이 다르다. 영웅의 주장이 제시된 뒤 상대가 이를 거부하는 구조를 확인해야 한다.\n\n[[Persona 4 Arena Ultimax]]의 마지막 대결 음악은 사랑을 믿는 유와 이를 거부하는 쇼의 관점을 다른 보컬로 표현한다.\n\n[[Persona 4 Arena Ultimax]]",
+    "sections": [
+      [
+        "상세 설명",
+        "영웅은 도덕이나 관계의 힘으로 악당의 선택을 바꾸려 하지만 상대는 그 논리를 거부한다. 말의 교환은 합의보다 양쪽 가치의 대립을 명확하게 만든다.\n\n악당이 우위와 의지를 선언하면 설교가 가진 설득력이 장면 안에서 중단된다. 대사 대신 서로 다른 노랫소리로 관점을 맞세우는 변형도 가능하다.\n\n교훈을 받아들여 개심하는 장면과는 반응의 방향이 다르다. 영웅의 주장이 제시된 뒤 상대가 이를 거부하는 구조를 확인해야 한다."
+      ],
+      [
+        "사례",
+        "[[Persona 4 Arena Ultimax]]의 마지막 대결 음악은 사랑을 믿는 유와 이를 거부하는 쇼의 관점을 다른 보컬로 표현한다."
+      ],
+      [
+        "관련 작품",
+        "[[Persona 4 Arena Ultimax]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

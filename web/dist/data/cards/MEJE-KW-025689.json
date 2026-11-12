@@ -5,8 +5,8 @@
   "original": "A Floating Timeline Without Exact Dates",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01952",
+  "primary_tag_id": "ML-T01952",
   "description": {
     "definition": "시간이 흐르는 듯한 사건을 보여 주되 특정 날짜와 연대를 밝히지 않아 작품을 어느 시기에도 적용할 수 있게 한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "장기 연재 만화의 인물 나이 정지라는 제공 정본과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "23.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "사건이 진행되고 사회의 모습도 변하는 듯 보이지만 정확한 연도와 날짜는 고정하지 않는다. 특정 시대의 순간에 작품을 묶지 않아 다른 시기의 관객도 현재와 가깝게 느낄 여지를 남긴다.\n\n기술과 유행을 바꾸면서 과거 사건을 정확한 연표로 환산하지 않으면 오래 이어지는 이야기를 조정하기 쉽다. 대신 사건 사이의 상대적인 순서와 기간이 더 중요한 기준이 된다.\n\n인물의 나이가 전혀 늘지 않는 연재 관습과는 같은 조건이 아니다. 나이를 먹어도 절대 연대를 피할 수 있기 때문이다. 날짜를 한 번 말하지 않았다는 사실보다 여러 사건을 이어도 시대를 고정하지 않는 구성인지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "사건이 진행되고 사회의 모습도 변하는 듯 보이지만 정확한 연도와 날짜는 고정하지 않는다. 특정 시대의 순간에 작품을 묶지 않아 다른 시기의 관객도 현재와 가깝게 느낄 여지를 남긴다.\n\n기술과 유행을 바꾸면서 과거 사건을 정확한 연표로 환산하지 않으면 오래 이어지는 이야기를 조정하기 쉽다. 대신 사건 사이의 상대적인 순서와 기간이 더 중요한 기준이 된다.\n\n인물의 나이가 전혀 늘지 않는 연재 관습과는 같은 조건이 아니다. 나이를 먹어도 절대 연대를 피할 수 있기 때문이다. 날짜를 한 번 말하지 않았다는 사실보다 여러 사건을 이어도 시대를 고정하지 않는 구성인지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

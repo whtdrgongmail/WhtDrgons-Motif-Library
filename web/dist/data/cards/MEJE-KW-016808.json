@@ -4,8 +4,8 @@
   "title": "얼음 음판 악기",
   "original": "pagophone",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02055",
+  "primary_tag_id": "ML-T02055",
   "description": {
     "definition": "얼음으로 만든 음판을 두드려 선율을 내는 악기로, 실로폰과 비슷한 소리를 통해 얼음 자체를 음악의 재료로 삼는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "얼음 같은 음색을 내는 일반 악기와 달리 얼음이 발음체인 점이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "얼음으로 만든 음판을 두드려 선율을 낸다. 얼음 자체가 소리를 내는 재료이며 실로폰과 비슷한 발음 구조를 가진 악기다.\n\n특별한 재료가 실제 음악의 구성에 참여한다는 점을 보여 줄 수 있다. 어떤 재료처럼 들리는지와 무엇이 진동해 소리를 만드는지는 나누어 설명해야 한다.\n\n일반 악기로 얼음을 연상하는 음색을 낸 경우와 다르다. 장식만 얼음인 것이 아니라 얼음이 발음체여야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "얼음으로 만든 음판을 두드려 선율을 낸다. 얼음 자체가 소리를 내는 재료이며 실로폰과 비슷한 발음 구조를 가진 악기다.\n\n특별한 재료가 실제 음악의 구성에 참여한다는 점을 보여 줄 수 있다. 어떤 재료처럼 들리는지와 무엇이 진동해 소리를 만드는지는 나누어 설명해야 한다.\n\n일반 악기로 얼음을 연상하는 음색을 낸 경우와 다르다. 장식만 얼음인 것이 아니라 얼음이 발음체여야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

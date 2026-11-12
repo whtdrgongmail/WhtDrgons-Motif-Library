@@ -4,8 +4,8 @@
   "title": "내 대사를 먼저 말한 사람",
   "original": "Hey, That's My Line!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01996",
+  "primary_tag_id": "ML-T01996",
   "description": {
     "definition": "특정 인물의 입버릇이나 그 인물이 해야 할 말로 인식되는 대사를 다른 인물이 먼저 말하고, 원래 말할 인물이 이를 자신의 몫이라고 지적하는 장면이다.",
     "detail": "작품 사례: [[Scooby-Doo 2: Monsters Unleashed]]에서 섀기가 각자 흩어져 단서를 찾자고 지시하자, 프레드는 자신이 늘 하던 말을 빼앗겼다며 당황한다.",
@@ -13,10 +13,10 @@
     "boundary": "다른 인물이 입버릇을 빌려 쓰되 원래 인물이 알아채거나 항의하지 않는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 인물이 자신의 몫으로 여기는 대사를 다른 사람이 먼저 말해 주도권이 뒤바뀌는 장면이다. 원래 화자의 당황과 항의가 대사의 소유감을 드러낸다.\n\n입버릇을 빌려 써도 원래 인물이 이를 인식하지 않으면 같은 반응 구조는 성립하지 않는다. 단어의 중복보다 발화 자격과 역할의 변화가 중심이다.\n\n[[Scooby-Doo 2: Monsters Unleashed]]에서 섀기는 흩어져 단서를 찾자고 제안한다. 프레드는 자신이 하던 말이라며 당황해 익숙한 지시 역할이 바뀌었음을 드러낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 인물이 자신의 몫으로 여기는 대사를 다른 사람이 먼저 말해 주도권이 뒤바뀌는 장면이다. 원래 화자의 당황과 항의가 대사의 소유감을 드러낸다.\n\n입버릇을 빌려 써도 원래 인물이 이를 인식하지 않으면 같은 반응 구조는 성립하지 않는다. 단어의 중복보다 발화 자격과 역할의 변화가 중심이다."
+      ],
+      [
+        "관련 작품",
+        "[[Scooby-Doo 2: Monsters Unleashed]]에서 섀기는 흩어져 단서를 찾자고 제안한다. 프레드는 자신이 하던 말이라며 당황해 익숙한 지시 역할이 바뀌었음을 드러낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

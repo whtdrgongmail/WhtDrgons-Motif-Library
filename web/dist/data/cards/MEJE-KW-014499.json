@@ -4,8 +4,8 @@
   "title": "현재를 알기에 웃기는 과거 회상",
   "original": "Hilarious in Flashback",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00720",
+  "primary_tag_id": "ML-T00720",
   "description": {
     "definition": "회상 속 인물의 말이나 기대가 관객이 아는 현재의 성격·상황과 어긋나 웃음을 만드는 장면이다. 이미 알려진 결과가 과거의 낙관이나 자기평가를 우습게 보이게 한다.",
     "detail": "작품 사례: [[Seinfeld]]의 회상에서 제리는 폐를 끼칠까 망설이는 크레이머에게 자기 것을 편히 쓰라고 권해, 관객이 이미 아는 오랜 무단 방문 습관의 시작을 우습게 만든다.",
@@ -13,10 +13,10 @@
     "boundary": "현실의 나중 사건 때문에 옛 작품이 새롭게 웃겨지는 수용 현상과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-000789",
+      "work_card_id": "MM-MEDIA-002552",
       "description_ko": "Seinfeld의 회상에서 제리는 폐를 끼칠까 망설이는 크레이머에게 자기 것을 편히 쓰라고 권해, 관객이 이미 아는 오랜 무단 방문 습관의 시작을 우습게 만든다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "관객이 현재의 결과를 알면 회상 속 낙관과 약속은 인물 자신도 모르는 농담이 된다. 과거에 자연스러웠던 말이 이미 확립된 성격과 습관의 시작으로 다시 읽힌다.\n\n새 회상이 현재와 대비되도록 구성한 장면이며 현실의 나중 사건 때문에 옛 작품이 우연히 웃겨진 현상과는 다르다. 웃음의 근거가 이야기 안에서 알려진 현재에 있어야 한다.\n\n[[Seinfeld]]의 회상에서 제리는 폐를 끼칠까 망설이는 크레이머에게 자기 물건을 편하게 쓰라고 말한다. 현재의 오랜 무단 방문을 아는 관객에게는 그 습관의 시작을 허락한 말로 들린다.",
+    "sections": [
+      [
+        "상세 설명",
+        "관객이 현재의 결과를 알면 회상 속 낙관과 약속은 인물 자신도 모르는 농담이 된다. 과거에 자연스러웠던 말이 이미 확립된 성격과 습관의 시작으로 다시 읽힌다.\n\n새 회상이 현재와 대비되도록 구성한 장면이며 현실의 나중 사건 때문에 옛 작품이 우연히 웃겨진 현상과는 다르다. 웃음의 근거가 이야기 안에서 알려진 현재에 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Seinfeld]]의 회상에서 제리는 폐를 끼칠까 망설이는 크레이머에게 자기 물건을 편하게 쓰라고 말한다. 현재의 오랜 무단 방문을 아는 관객에게는 그 습관의 시작을 허락한 말로 들린다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

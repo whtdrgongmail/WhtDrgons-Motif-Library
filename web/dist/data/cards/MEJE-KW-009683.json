@@ -4,8 +4,8 @@
   "title": "환상 세계의 누아르 추리",
   "original": "Fantastic Noir",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00272",
+  "primary_tag_id": "ML-T00272",
   "description": {
     "definition": "냉소적인 탐정과 음모가 이끄는 누아르식 수사 이야기에 마법, 초자연적 존재, 미래 기술을 섞은 장르 갈래다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.106.008",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "누아르의 탐정과 음모, 냉소적인 분위기에 마법과 초과학을 결합한 추리 장르이다. 도시의 어두운 관계가 비현실적인 조건 속에서 펼쳐진다.\n\n탐정은 범죄자의 동기뿐 아니라 저주와 낯선 기술의 규칙도 파악해야 한다. 초자연적 가능성은 단서를 늘리는 동시에 진실 확인을 더 어렵게 만든다.\n\n판타지 배경의 모든 수사물이 해당하지는 않는다. 누아르의 인물 유형과 도덕적 긴장, 사건 구조가 환상 요소와 함께 중심을 이루어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "누아르의 탐정과 음모, 냉소적인 분위기에 마법과 초과학을 결합한 추리 장르이다. 도시의 어두운 관계가 비현실적인 조건 속에서 펼쳐진다.\n\n탐정은 범죄자의 동기뿐 아니라 저주와 낯선 기술의 규칙도 파악해야 한다. 초자연적 가능성은 단서를 늘리는 동시에 진실 확인을 더 어렵게 만든다.\n\n판타지 배경의 모든 수사물이 해당하지는 않는다. 누아르의 인물 유형과 도덕적 긴장, 사건 구조가 환상 요소와 함께 중심을 이루어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

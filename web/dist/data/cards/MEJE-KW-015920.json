@@ -4,8 +4,8 @@
   "title": "라틴계 마약 조직 악역",
   "original": "The Cartel",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00919",
+  "primary_tag_id": "ML-T00919",
   "description": {
     "definition": "라틴아메리카계 마약 밀수 조직을 전형적인 적대 세력으로 배치하는 범죄물의 관습이다. 출신 지역과 마약 거래가 악역의 빠른 식별 표지로 결합된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "현실 라틴계 사람 전체를 범죄와 연결하지 않으며 일반 경제 용어인 기업 간 카르텔과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "범죄물에서 라틴아메리카계 마약 밀수 조직이 익숙한 적대 세력으로 제시된다. 지역적 이미지와 마약 거래가 결합해 악역을 빠르게 식별하게 한다.\n\n자세한 조직의 설명보다 이미 알려진 표지가 위협의 인상을 대신할 수 있다. 출신 지역이 범죄적 역할의 전형으로 반복 사용되는 재현 방식을 다룬다.\n\n현실의 라틴계 사람 전체가 이러한 조직과 관련 있다는 뜻이 아니다. 기업 간 결합을 가리키는 일반 경제 용어의 카르텔과도 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "범죄물에서 라틴아메리카계 마약 밀수 조직이 익숙한 적대 세력으로 제시된다. 지역적 이미지와 마약 거래가 결합해 악역을 빠르게 식별하게 한다.\n\n자세한 조직의 설명보다 이미 알려진 표지가 위협의 인상을 대신할 수 있다. 출신 지역이 범죄적 역할의 전형으로 반복 사용되는 재현 방식을 다룬다.\n\n현실의 라틴계 사람 전체가 이러한 조직과 관련 있다는 뜻이 아니다. 기업 간 결합을 가리키는 일반 경제 용어의 카르텔과도 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

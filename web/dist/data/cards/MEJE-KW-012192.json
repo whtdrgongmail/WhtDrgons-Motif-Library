@@ -6,8 +6,8 @@
   "aliases": [
     "선한 목적을 가진 대립자"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00903",
+  "primary_tag_id": "ML-T00903",
   "description": {
     "definition": "[[주인공]]을 막는 역할을 맡으면서도 선한 목적과 [[행동]]의 정당성을 지닌 [[인물]]이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "[[악당]]의 호감 가는 면만 보여 주는 것과 달리 대립자의 영웅적 [[성격]]이 유지된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "09",
+    "code": "09.003.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주인공을 방해하는 위치에 있으면서도 선한 목적과 정당한 행동을 유지한다. 대립의 역할과 도덕적 평가가 분리되는 인물이다.\n\n주인공의 목표가 모든 선한 인물의 목표와 같지 않음을 보여 준다. 누구의 진행을 막는지와 무엇을 위해 행동하는지를 나누면 대립자의 정당성이 드러난다.\n\n악당의 호감 가는 면만 제시하는 경우와 다르다. 방해자여도 선하고 영웅적인 성격이 유지되어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주인공을 방해하는 위치에 있으면서도 선한 목적과 정당한 행동을 유지한다. 대립의 역할과 도덕적 평가가 분리되는 인물이다.\n\n주인공의 목표가 모든 선한 인물의 목표와 같지 않음을 보여 준다. 누구의 진행을 막는지와 무엇을 위해 행동하는지를 나누면 대립자의 정당성이 드러난다.\n\n악당의 호감 가는 면만 제시하는 경우와 다르다. 방해자여도 선하고 영웅적인 성격이 유지되어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

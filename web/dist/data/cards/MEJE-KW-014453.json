@@ -4,8 +4,8 @@
   "title": "방어 시설이 갇힌 자의 죽음터가 되기",
   "original": "Highly Defensible Death Trap",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00861",
+  "primary_tag_id": "ML-T00861",
   "description": {
     "definition": "외부 침입을 막도록 설계한 요새가 적에게 뚫리거나 역이용되면서 방어자에게는 탈출할 수 없는 치명적인 함정으로 바뀌는 전개다. 강력한 폐쇄성이 안쪽 사람에게 불리해진다.",
     "detail": "작품 사례: [[Empire of the Ants]]의 깡통 속 개미집은 한쪽만 열린 강한 방어 구조를 가졌지만, 적이 입구를 막고 침입하자 안의 개미들에게는 굶주림과 탈출 불가의 함정이 된다.",
@@ -13,10 +13,10 @@
     "boundary": "침입 전부터 방어 규칙 자체가 주민을 가두는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "08.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "침입을 막던 폐쇄 구조가 적의 공격 뒤 탈출을 막으면 요새의 장점이 방어자의 약점으로 바뀐다. 적은 입구를 장악하거나 시설을 역이용하여 안쪽 사람을 고립시킬 수 있다.\n\n침입 전부터 주민을 가두는 운영 규칙과는 전환의 계기가 다르다. 공격과 [[파괴 공작]] 때문에 방어 구조가 치명적인 함정으로 바뀌는 [[인과]]가 제시되어야 한다.\n\n[[Empire of the Ants]]의 깡통 개미집은 한쪽 입구로 방어하기 좋은 구조다. 적이 그 입구를 막고 침입하자 내부 개미들에게는 굶주림과 탈출 불가를 만드는 감옥으로 바뀐다.",
+    "sections": [
+      [
+        "상세 설명",
+        "침입을 막던 폐쇄 구조가 적의 공격 뒤 탈출을 막으면 요새의 장점이 방어자의 약점으로 바뀐다. 적은 입구를 장악하거나 시설을 역이용하여 안쪽 사람을 고립시킬 수 있다.\n\n침입 전부터 주민을 가두는 운영 규칙과는 전환의 계기가 다르다. 공격과 [[파괴 공작]] 때문에 방어 구조가 치명적인 함정으로 바뀌는 [[인과]]가 제시되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Empire of the Ants]]의 깡통 개미집은 한쪽 입구로 방어하기 좋은 구조다. 적이 그 입구를 막고 침입하자 내부 개미들에게는 굶주림과 탈출 불가를 만드는 감옥으로 바뀐다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

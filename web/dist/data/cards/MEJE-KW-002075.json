@@ -4,8 +4,8 @@
   "title": "소유자에게 죽음을 가져오는 유물",
   "original": "Artifact of Death",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01484",
+  "primary_tag_id": "ML-T01484",
   "description": {
     "definition": "물건을 지니거나 사용한 인물에게 치명적인 결과가 되풀이된다. 당장의 이익보다 소유의 대가가 이야기의 긴장을 이끈다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소유와 죽음의 반복적인 연결은 물건을 얻는 행동 자체를 위험으로 만든다. 당장의 힘과 이익을 바라던 인물은 소유의 장기적인 비용을 뒤늦게 알 수 있다.\n\n다음 소유자에게 넘기려는 시도는 위험의 이동과 도덕적 선택을 만든다. 죽음까지 걸리는 시간과 조건이 드러나면 물건의 사용을 둘러싼 판단이 구체화된다.\n\n[[주변을 타락시키는 불길한 유물]]은 사용자의 선택을 바꾸는 힘이 중심이다. 이 유형은 정신적 오염이 없어도 소유자에게 치명적인 결과가 이어지면 성립할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "소유와 죽음의 반복적인 연결은 물건을 얻는 행동 자체를 위험으로 만든다. 당장의 힘과 이익을 바라던 인물은 소유의 장기적인 비용을 뒤늦게 알 수 있다.\n\n다음 소유자에게 넘기려는 시도는 위험의 이동과 도덕적 선택을 만든다. 죽음까지 걸리는 시간과 조건이 드러나면 물건의 사용을 둘러싼 판단이 구체화된다.\n\n[[주변을 타락시키는 불길한 유물]]은 사용자의 선택을 바꾸는 힘이 중심이다. 이 유형은 정신적 오염이 없어도 소유자에게 치명적인 결과가 이어지면 성립할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

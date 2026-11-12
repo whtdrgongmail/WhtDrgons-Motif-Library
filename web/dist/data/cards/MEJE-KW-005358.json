@@ -4,8 +4,8 @@
   "title": "행동 뒤 대기 시간이 생기는 전투 규칙",
   "original": "Combatant Cooldown System",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02160",
+  "primary_tag_id": "ML-T02160",
   "description": {
     "definition": "전투에서 각 행동을 마친 인물은 일정 시간이 지난 뒤에야 다시 움직일 수 있다. 순서가 고정된 턴이 아니라 대기 시간의 차이로 행동 기회가 엇갈린다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.011",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "각 전투원이 행동한 뒤 일정 시간을 기다려야 다시 행동할 수 있는 게임 체계다. 개별 기술만 잠기는 방식과 달리 인물의 모든 행동 기회가 함께 제한된다.\n\n대기 시간은 속도 능력치와 선택한 행동에 따라 달라질 수 있다. 빠른 인물이 짧은 공격을 여러 번 하는 동안 느린 인물은 강한 한 번을 준비하는 차이가 생긴다.\n\n모든 인물이 한 차례씩 움직이는 고정된 턴과는 순서가 다르다. 다음 행동 시점을 표시하는 정보가 중요하며, 선택할 때 시간이 멈추는지에 따라 신중한 전략과 실시간 판단의 비중이 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "각 전투원이 행동한 뒤 일정 시간을 기다려야 다시 행동할 수 있는 게임 체계다. 개별 기술만 잠기는 방식과 달리 인물의 모든 행동 기회가 함께 제한된다.\n\n대기 시간은 속도 능력치와 선택한 행동에 따라 달라질 수 있다. 빠른 인물이 짧은 공격을 여러 번 하는 동안 느린 인물은 강한 한 번을 준비하는 차이가 생긴다.\n\n모든 인물이 한 차례씩 움직이는 고정된 턴과는 순서가 다르다. 다음 행동 시점을 표시하는 정보가 중요하며, 선택할 때 시간이 멈추는지에 따라 신중한 전략과 실시간 판단의 비중이 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

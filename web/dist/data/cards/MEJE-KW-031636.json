@@ -1,0 +1,51 @@
+{
+  "id": "MEJE-KW-031636",
+  "kind": "keyword",
+  "title": "보이지 않는 불규칙한 적과 싸우게 하기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F25",
+  "description": {
+    "definition": "불투명한 화면 요소 뒤에 움직임을 예측할 수 없는 적을 두어, 조작에 필요한 정보 없이 공격을 반복하게 만드는 난도 구성이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": ""
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "적이 어디에 있는지 판단할 수 없어 버튼을 누르며 맞기를 기다리게 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "불투명한 전경 뒤에 적이 가려지고 움직임도 예측하기 어려워, 플레이어가 위치 정보 없이 공격하거나 피격을 감수하게 되는 난도 구성이다. [[정보 부족]]이 조작 선택을 제한한다.\n\n관측이 끊긴 상태에서 공격을 반복하게 되면 성공은 전략보다 운에 좌우될 수 있다. 이 구조는 좌절, 불공정성, 위험한 전투의 감각을 만들 수 있다.\n\n가림 전의 움직임을 기억해 대응하는 과제와 구별한다. 플레이어가 활용할 단서가 부족할수록 추론형 도전보다 무작위 시도가 된다.\n\n가상 예: 화면 앞의 벽이 적을 계속 가리고 적의 방향도 무작위라 플레이어가 위치 단서 없이 공격을 반복해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "불투명한 전경 뒤에 적이 가려지고 움직임도 예측하기 어려워, 플레이어가 위치 정보 없이 공격하거나 피격을 감수하게 되는 난도 구성이다. [[정보 부족]]이 조작 선택을 제한한다.\n\n관측이 끊긴 상태에서 공격을 반복하게 되면 성공은 전략보다 운에 좌우될 수 있다. 이 구조는 좌절, 불공정성, 위험한 전투의 감각을 만들 수 있다.\n\n가림 전의 움직임을 기억해 대응하는 과제와 구별한다. 플레이어가 활용할 단서가 부족할수록 추론형 도전보다 무작위 시도가 된다."
+      ],
+      [
+        "사례",
+        "가상 예: 화면 앞의 벽이 적을 계속 가리고 적의 방향도 무작위라 플레이어가 위치 단서 없이 공격을 반복해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
+}

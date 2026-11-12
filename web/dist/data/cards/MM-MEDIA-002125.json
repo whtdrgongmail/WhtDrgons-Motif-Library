@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "언더테일",
   "original": "Undertale",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Undertale"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《언더테일》은 비디오게임 작품이다.",
-    "detail": "작품 사례: 《언더테일》의 한 중립 결말에서는 작은 흰 개가 지하세계를 맡고 잠만 자는데도 모두의 생활이 좋아졌다는 소식이 전해진다. 다른 비극적 분기들과 대비되는 황당한 통치 결말이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -38,6 +40,10 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [
+    {
+      "card_id": "MEJE-KW-013935",
+      "row_version": 2
+    },
     {
       "card_id": "MEJE-KW-022115",
       "row_version": 1
@@ -63,5 +69,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《언더테일》은 인간 아이가 지하의 괴물 세계로 떨어진 뒤 집으로 돌아갈 길을 찾는 롤플레잉 게임이다. 인간과 괴물의 옛 전쟁이 두 세계를 나누었고, 주인공은 그 역사 뒤에 살아가는 개별 존재들을 만난다.\n\n전투에서 상대를 쓰러뜨리는 것 외의 대응이 가능해 적을 어떻게 대하는지가 관계와 결과에 영향을 준다. 플레이어가 관습적으로 하는 행동을 이야기의 판단으로 끌어들이며, 별도 세계의 델타룬과는 직접적인 사건의 연속으로 취급하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《언더테일》은 인간 아이가 지하의 괴물 세계로 떨어진 뒤 집으로 돌아갈 길을 찾는 롤플레잉 게임이다. 인간과 괴물의 옛 전쟁이 두 세계를 나누었고, 주인공은 그 역사 뒤에 살아가는 개별 존재들을 만난다.\n\n전투에서 상대를 쓰러뜨리는 것 외의 대응이 가능해 적을 어떻게 대하는지가 관계와 결과에 영향을 준다. 플레이어가 관습적으로 하는 행동을 이야기의 판단으로 끌어들이며, 별도 세계의 델타룬과는 직접적인 사건의 연속으로 취급하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

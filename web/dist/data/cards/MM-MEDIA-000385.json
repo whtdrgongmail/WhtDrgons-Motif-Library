@@ -4,34 +4,36 @@
   "title": "Good Times",
   "original": "Good Times",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00140",
+  "primary_tag_id": "ML-T00140",
   "description": {
-    "definition": "이 카드는 음악 작품 《Good Times》를 가리킨다. 이 라이브러리에서는 [[디스코 랩]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: \"Rapper's Delight\"는 Chic의 Good Times 연주를 바탕으로 선율 중심 노래 대신 리듬적인 랩을 얹어, 초기 힙합과 디스코의 연결을 보여 준다.",
+    "definition": "《Good Times》는 Chic가 발표한 디스코 노래다. 이 곡의 연주는 초기 힙합 노래 《Rapper's Delight》의 음악적 바탕으로 쓰였다.",
+    "detail": "디스코의 반복적인 리듬과 베이스 연주가 랩을 얹는 반주로 활용되며 두 음악 양식의 연결을 보여 준다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "02",
+    "code": "02.008.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "\"Rapper's Delight\"는 Chic의 Good Times 연주를 바탕으로 선율 중심 노래 대신 리듬적인 랩을 얹어, 초기 힙합과 디스코의 연결을 보여 준다.",
+    "easy_ko": "Chic의 디스코 노래다. 초기 힙합의 유명한 곡이 이 노래의 연주를 바탕으로 만들어졌다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-10",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,5 +43,22 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Good Times》는 Chic의 디스코 노래다. 반복되는 리듬과 베이스 연주는 춤 음악의 흐름을 유지하며, 이후 랩을 위한 반주로도 활용되었다. 노래 자체와 이 음악을 가져다 쓴 후속 작품은 구별해야 한다.\n\n《[[Rapper's Delight]]》는 《Good Times》의 연주를 음악적 바탕으로 삼은 초기 힙합 사례다. 이 관계는 디스코가 초기 힙합의 리듬 구성에 영향을 준 방식을 설명하지만, 두 작품을 같은 곡으로 합치는 근거는 아니다.\n\n[[디스코 랩]] 카드에서 《Good Times》와 《[[Rapper's Delight]]》의 관계를 음악 양식의 연결 사례로 다룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Good Times》는 Chic의 디스코 노래다. 반복되는 리듬과 베이스 연주는 춤 음악의 흐름을 유지하며, 이후 랩을 위한 반주로도 활용되었다. 노래 자체와 이 음악을 가져다 쓴 후속 작품은 구별해야 한다.\n\n《[[Rapper's Delight]]》는 《Good Times》의 연주를 음악적 바탕으로 삼은 초기 힙합 사례다. 이 관계는 디스코가 초기 힙합의 리듬 구성에 영향을 준 방식을 설명하지만, 두 작품을 같은 곡으로 합치는 근거는 아니다."
+      ],
+      [
+        "사례",
+        "[[디스코 랩]] 카드에서 《Good Times》와 《[[Rapper's Delight]]》의 관계를 음악 양식의 연결 사례로 다룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": false
+  }
 }

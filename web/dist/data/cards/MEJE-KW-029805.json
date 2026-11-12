@@ -4,8 +4,8 @@
   "title": "치명상을 거듭 견디다가 끝내 죽기",
   "original": "Rasputinian Death",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00655",
+  "primary_tag_id": "ML-T00655",
   "description": {
     "definition": "각각 살아남기 어려워 보이는 부상을 여러 차례 입고도 버티던 인물이 마지막에는 실제로 죽는 누적형 결말이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "상처가 누적되지만 끝내 살아남는 주개념보다 좁다. 한 번의 치명상이나 매번 완전히 회복하는 전개와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "치명적으로 보이는 피해를 여러 번 버티면 마지막 죽음은 생존의 예상을 끝내는 결과가 된다. 앞선 손상은 사라지지 않고 최후까지 버틴 과정으로 축적된다.\n\n영웅에게는 의지의 강도를, 적에게는 멈추기 어려운 위협을 전달할 수 있다. 같은 연속 피해도 마지막 반응과 주변의 태도에 따라 비극과 공포의 무게가 달라진다.\n\n[[여러 치명적 원인이 겹쳐 이루어지는 죽음]]과 밀접하지만 이 카드는 버티는 인물의 지속적인 상태에 초점을 둔다. 사소한 부상의 합이 아니라 각각 치명적인 피해를 견딘 뒤의 최후다.",
+    "sections": [
+      [
+        "상세 설명",
+        "치명적으로 보이는 피해를 여러 번 버티면 마지막 죽음은 생존의 예상을 끝내는 결과가 된다. 앞선 손상은 사라지지 않고 최후까지 버틴 과정으로 축적된다.\n\n영웅에게는 의지의 강도를, 적에게는 멈추기 어려운 위협을 전달할 수 있다. 같은 연속 피해도 마지막 반응과 주변의 태도에 따라 비극과 공포의 무게가 달라진다.\n\n[[여러 치명적 원인이 겹쳐 이루어지는 죽음]]과 밀접하지만 이 카드는 버티는 인물의 지속적인 상태에 초점을 둔다. 사소한 부상의 합이 아니라 각각 치명적인 피해를 견딘 뒤의 최후다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

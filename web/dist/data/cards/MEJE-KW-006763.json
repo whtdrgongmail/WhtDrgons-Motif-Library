@@ -4,8 +4,8 @@
   "title": "게임 규칙이 된 플레이어의 죽음",
   "original": "Death as Game Mechanic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02170",
+  "primary_tag_id": "ML-T02170",
   "description": {
     "definition": "[[플레이어]] [[캐릭터]]의 죽음이 진행 중단을 넘어 새로운 선택지나 변화의 조건이 된다. 실패 경험을 게임 세계의 지속적인 규칙으로 편입한다. 죽음 뒤의 변화가 능력의 발동으로 나타난다면 [[죽음으로 발동하는 초능력]]과 만난다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "25",
+    "code": "25.012.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "플레이어 인물의 피할 수 있었던 죽음이 게임의 다음 상태와 규칙을 실제로 바꾸는 시스템이다. 단순한 중단과 재시작을 넘어 죽음 이후에도 진행의 결과가 남는다.\n\n다른 상태와 경로가 열리거나 세계와 자원의 조건이 달라질 수 있다. 플레이어는 실패를 피하는 동시에 죽음이 제공하는 선택을 계산하게 된다.\n\n줄거리상 무조건 죽게 되는 장면과는 행위의 자유가 다르다. 죽은 척하기와 다른 인물의 사망에 따른 변화도 구분하며 생존과 사망 사이의 실제 규칙 전환이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플레이어 인물의 피할 수 있었던 죽음이 게임의 다음 상태와 규칙을 실제로 바꾸는 시스템이다. 단순한 중단과 재시작을 넘어 죽음 이후에도 진행의 결과가 남는다.\n\n다른 상태와 경로가 열리거나 세계와 자원의 조건이 달라질 수 있다. 플레이어는 실패를 피하는 동시에 죽음이 제공하는 선택을 계산하게 된다.\n\n줄거리상 무조건 죽게 되는 장면과는 행위의 자유가 다르다. 죽은 척하기와 다른 인물의 사망에 따른 변화도 구분하며 생존과 사망 사이의 실제 규칙 전환이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

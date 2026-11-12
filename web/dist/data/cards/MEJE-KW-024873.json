@@ -5,8 +5,8 @@
   "original": "Adding the Region to Distinguish Place Names",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "서로 같은 이름을 가진 장소들을 구별하기 위해 강·지역·행정 구역 등의 이름을 지명 자체의 일부로 결합하는 명명 방식이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "상황마다 도시 뒤에 나라를 덧붙이는 설명과 달리 고유 지명의 구조가 바뀐다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "같은 이름을 가진 장소는 주변의 강과 지역, 행정 단위 이름을 고유 지명 안에 넣어 구분한다. 설명용 정보가 이름의 고정된 구조가 된다.\n\n명명은 정착지의 위치와 다른 장소와의 관계를 함께 전달한다. 같은 이름을 물려받은 역사도 지명 체계에 남길 수 있다.\n\n필요할 때 도시 뒤에 나라를 덧붙이는 일반적인 설명과는 다르다. 추가 요소가 실제 이름의 일부로 정착해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "같은 이름을 가진 장소는 주변의 강과 지역, 행정 단위 이름을 고유 지명 안에 넣어 구분한다. 설명용 정보가 이름의 고정된 구조가 된다.\n\n명명은 정착지의 위치와 다른 장소와의 관계를 함께 전달한다. 같은 이름을 물려받은 역사도 지명 체계에 남길 수 있다.\n\n필요할 때 도시 뒤에 나라를 덧붙이는 일반적인 설명과는 다르다. 추가 요소가 실제 이름의 일부로 정착해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

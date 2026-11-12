@@ -4,8 +4,8 @@
   "title": "폭력을 피하려다 더 큰 해를 부르기",
   "original": "Pacifism Backfire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00724",
+  "primary_tag_id": "ML-T00724",
   "description": {
     "definition": "싸움이나 살해를 거부한 선택이 결과적으로 더 큰 문제나 피해를 낳는 전개다.",
     "detail": "작품 사례: [[The Simpsons]]의 할로윈 이야기에서 리사의 뜻대로 도시의 총을 없앤 뒤, 스프링필드는 [[좀비]]로 되살아난 빌리 더 키드 일당의 위협을 받는다.",
@@ -13,10 +13,10 @@
     "boundary": "평화적 태도 자체의 일반적인 옳고 그름을 판정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.008.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "폭력을 줄이려는 선택이 작품 안에서 더 큰 위협에 대응하지 못하는 결과로 이어지는 구성이다. 의도한 평화와 실제 사건의 피해 사이에 역효과가 생긴다.\n\n현실에서 평화적 태도가 옳거나 그르다는 일반 법칙은 아니다. 특정 [[서사]]가 비폭력의 선택과 이후의 위험을 어떻게 연결했는지에 한정한다.\n\n[[The Simpsons]]의 할로윈 이야기는 리사의 뜻대로 도시에서 총을 없앤 뒤의 위협을 배치한다. [[좀비]]가 된 빌리 더 키드 일당이 나타나 무장 해제와 대응의 곤란을 연결한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "폭력을 줄이려는 선택이 작품 안에서 더 큰 위협에 대응하지 못하는 결과로 이어지는 구성이다. 의도한 평화와 실제 사건의 피해 사이에 역효과가 생긴다.\n\n현실에서 평화적 태도가 옳거나 그르다는 일반 법칙은 아니다. 특정 [[서사]]가 비폭력의 선택과 이후의 위험을 어떻게 연결했는지에 한정한다."
+      ],
+      [
+        "관련 작품",
+        "[[The Simpsons]]의 할로윈 이야기는 리사의 뜻대로 도시에서 총을 없앤 뒤의 위협을 배치한다. [[좀비]]가 된 빌리 더 키드 일당이 나타나 무장 해제와 대응의 곤란을 연결한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

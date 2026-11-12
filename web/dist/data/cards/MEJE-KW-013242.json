@@ -4,8 +4,8 @@
   "title": "거꾸로 읽어 뜻을 찾는 이름",
   "original": "Sdrawkcab Name",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01994",
+  "primary_tag_id": "ML-T01994",
   "description": {
     "definition": "이름을 역순으로 읽었을 때 다른 단어나 의미가 드러나도록 만든 명명 장치이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "이름이 우연히 회문이거나 본명을 뒤집은 가명인 경우와 구체적 기능을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이름을 뒤에서부터 읽으면 다른 말과 의미가 드러난다. 표면의 이름과 해독한 뜻이 두 겹의 정보를 가진다.\n\n철자의 순서를 바꾸어야만 나타나는 대응이 명명의 장치다. 어떤 의미가 숨어 있는지에 따라 정체와 표현의 단서가 될 수 있다.\n\n회문처럼 어느 방향도 같은 이름과 다르다. 본명을 뒤집어 위장하는 가명과도 실제 기능을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이름을 뒤에서부터 읽으면 다른 말과 의미가 드러난다. 표면의 이름과 해독한 뜻이 두 겹의 정보를 가진다.\n\n철자의 순서를 바꾸어야만 나타나는 대응이 명명의 장치다. 어떤 의미가 숨어 있는지에 따라 정체와 표현의 단서가 될 수 있다.\n\n회문처럼 어느 방향도 같은 이름과 다르다. 본명을 뒤집어 위장하는 가명과도 실제 기능을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

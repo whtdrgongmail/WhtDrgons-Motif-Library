@@ -4,8 +4,8 @@
   "title": "살아 있는 사람을 위한 추도",
   "original": "Premature Eulogy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00710",
+  "primary_tag_id": "ML-T00710",
   "description": {
     "definition": "죽었다고 잘못 믿은 사람에게 추모와 작별을 전하지만 실제로는 살아 있는 상황이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "미리 준비하는 [[유언]]이나 사전 [[장례]]와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "06.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽었다고 믿는 사람에게 진심 어린 추도를 했는데 그가 살아 있다. 다른 인물의 감정을 먼저 보여 준 뒤 죽음의 전제를 뒤집는 구조다.\n\n공식 장례뿐 아니라 친구들의 대화와 혼잣말에서도 가능하다. 의식이 없던 사람을 잘못 확인했다면 실제 인물을 잃지 않고도 남은 이들의 속마음을 드러낼 수 있다.\n\n미리 준비하는 장례와는 인식이 다르다. 원문에는 실제 부활도 있지만 이 카드에서는 생존자를 죽었다고 여긴 범위에 맞춰 이해한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽었다고 믿는 사람에게 진심 어린 추도를 했는데 그가 살아 있다. 다른 인물의 감정을 먼저 보여 준 뒤 죽음의 전제를 뒤집는 구조다.\n\n공식 장례뿐 아니라 친구들의 대화와 혼잣말에서도 가능하다. 의식이 없던 사람을 잘못 확인했다면 실제 인물을 잃지 않고도 남은 이들의 속마음을 드러낼 수 있다.\n\n미리 준비하는 장례와는 인식이 다르다. 원문에는 실제 부활도 있지만 이 카드에서는 생존자를 죽었다고 여긴 범위에 맞춰 이해한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

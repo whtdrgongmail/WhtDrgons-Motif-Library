@@ -4,8 +4,8 @@
   "title": "평범한 일상을 기준으로 삼는 주인공",
   "original": "The Everyman",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00881",
+  "primary_tag_id": "ML-T00881",
   "description": {
     "definition": "특별한 지위나 능력보다 보통 사람의 생활과 판단을 중심에 두고 일상의 문제 또는 낯선 위기를 겪는 주인공 유형이다.",
     "detail": "작품 사례: [[Batman: The Animated Series]]의 찰리는 난폭 운전자에게 소리쳤다가 그가 조커임을 알고 도망 다니는 평범한 시민으로, 영웅의 힘 없이 비범한 위기에 휘말린다.",
@@ -13,10 +13,10 @@
     "boundary": "흔한 외모라는 이유만으로 적용하지 않으며 삶의 기준과 대응 방식의 평범함이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비범한 사건을 보통 사람의 역량과 생활 감각으로 받아들이는 인물이 관객의 기준점이 된다. 특별한 힘이 없는 대응 방식은 영웅이나 악당의 규모를 상대적으로 드러낼 수 있다.\n\n외모가 평범하다는 정보만으로는 충분하지 않다. 기본적인 생활 조건과 문제에 대처하는 역량이 보통 사람으로 제시되어야 하며, 작품에서 맡는 비중과도 별도로 판단한다.\n\n《[[Batman: The Animated Series]]》의 찰리는 난폭 운전자에게 항의한 뒤 상대가 조커임을 알고 도망 다닌다. 평범한 시민의 대응과 비범한 위협이 대비된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "비범한 사건을 보통 사람의 역량과 생활 감각으로 받아들이는 인물이 관객의 기준점이 된다. 특별한 힘이 없는 대응 방식은 영웅이나 악당의 규모를 상대적으로 드러낼 수 있다.\n\n외모가 평범하다는 정보만으로는 충분하지 않다. 기본적인 생활 조건과 문제에 대처하는 역량이 보통 사람으로 제시되어야 하며, 작품에서 맡는 비중과도 별도로 판단한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Batman: The Animated Series]]》의 찰리는 난폭 운전자에게 항의한 뒤 상대가 조커임을 알고 도망 다닌다. 평범한 시민의 대응과 비범한 위협이 대비된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

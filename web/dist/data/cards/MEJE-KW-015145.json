@@ -4,8 +4,8 @@
   "title": "술인 줄 모르고 마심",
   "original": "Unsuspectingly Soused",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00814",
+  "primary_tag_id": "ML-T00814",
   "description": {
     "definition": "내용물이 술이라는 사실을 모르는 인물이 음료를 마신 뒤 예상치 못한 취기를 겪는 전개이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "술임을 알면서 양이나 강도를 잘못 예상한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.010.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "술이 아닌 줄 알고 마신 뒤 예상하지 못한 취기가 나타난다. 음료의 인상과 실제 성분을 다르게 받아들인 사건이다.\n\n무해해 보이는 이름과 단맛이 음료의 성격을 숨기는 장치가 될 수 있다. 주변은 내용물을 알아도 당사자는 모르는 정보 차이가 이후 행동을 우습거나 위험하게 만든다.\n\n술임을 알면서 도수만 낮게 예상한 경우와 구별한다. 실제로 술을 모르는 상태와 평범한 음료에 취한 듯 행동하는 다른 설정도 나누어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "술이 아닌 줄 알고 마신 뒤 예상하지 못한 취기가 나타난다. 음료의 인상과 실제 성분을 다르게 받아들인 사건이다.\n\n무해해 보이는 이름과 단맛이 음료의 성격을 숨기는 장치가 될 수 있다. 주변은 내용물을 알아도 당사자는 모르는 정보 차이가 이후 행동을 우습거나 위험하게 만든다.\n\n술임을 알면서 도수만 낮게 예상한 경우와 구별한다. 실제로 술을 모르는 상태와 평범한 음료에 취한 듯 행동하는 다른 설정도 나누어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

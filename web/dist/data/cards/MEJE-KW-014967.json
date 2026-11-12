@@ -4,8 +4,8 @@
   "title": "성폭력의 가해자에게 향하는 복수",
   "original": "Rape and Revenge",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01079",
+  "primary_tag_id": "ML-T01079",
   "description": {
     "definition": "성폭력 피해자나 그 가족이 가해자에게 보복하는 사건을 중심에 둔 복수 서사다.",
     "detail": "작품 사례: [[Book of Genesis]]에서 디나가 성폭력을 당하자 형제들은 가해자 측과의 혼인 협상 조건을 이용해, 그 마을의 남성들을 살해하며 보복한다.",
@@ -13,10 +13,10 @@
     "boundary": "피해자에게 보복이나 용서를 요구하는 규범으로 사용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "11.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성폭력의 피해와 가해에 대한 보복이 중심 동기로 연결되는 이야기다. 피해자나 주변 인물의 선택에 따라 복수의 주체와 범위는 달라질 수 있다.\n\n피해자가 반드시 복수하거나 용서해야 한다는 요구가 아니다. 보복의 대상과 실제 책임의 관계, 피해자의 의사를 각각 구분해야 한다.\n\n[[Book of Genesis]]에서 디나의 피해 뒤 형제들은 혼인 협상의 조건을 이용한다. 가해자 측 마을의 남성들을 살해하는 보복으로 확대되어 성폭력과 집단적 복수의 관계가 제시된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성폭력의 피해와 가해에 대한 보복이 중심 동기로 연결되는 이야기다. 피해자나 주변 인물의 선택에 따라 복수의 주체와 범위는 달라질 수 있다.\n\n피해자가 반드시 복수하거나 용서해야 한다는 요구가 아니다. 보복의 대상과 실제 책임의 관계, 피해자의 의사를 각각 구분해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Book of Genesis]]에서 디나의 피해 뒤 형제들은 혼인 협상의 조건을 이용한다. 가해자 측 마을의 남성들을 살해하는 보복으로 확대되어 성폭력과 집단적 복수의 관계가 제시된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,19 +4,19 @@
   "title": "거품과 진흙이 가득한 게임 늪",
   "original": "Bubblegloop Swamp",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
-    "definition": "게임의 늪 구역에 끈적한 바닥과 깊은 물, 보이지 않는 길을 놓는다. 느린 이동이 탐험의 리듬과 위험을 바꾼다.",
+    "definition": "게임의 늪 구역에 끈적한 바닥과 깊은 물, 보이지 않는 길이 배치된다. 느린 이동이 탐험의 리듬과 위험을 바꾼다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "늪의 물과 진흙, 빽빽한 식생을 이동의 장애로 사용하는 게임 구역이다. 단단한 길이 이어지지 않아 안전한 발판과 물의 깊이를 읽는 일이 탐색의 중심이 된다.\n\n느리게 움직이는 바닥과 잠기는 물체는 평소의 점프와 회피 타이밍을 바꾼다. 보이지 않는 길을 찾거나 물을 건너는 순서를 정해야 하므로 장소의 습한 외형이 실제 플레이의 리듬과 연결된다.\n\n늪이 배경에 있다는 사실만으로 이동 규칙이 같지는 않다. [[플레이어]]가 받는 실제 제약을 확인하며, 특정 게임의 독과 피해를 현실의 모든 습지에 대한 설명으로 옮기지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "늪의 물과 진흙, 빽빽한 식생을 이동의 장애로 사용하는 게임 구역이다. 단단한 길이 이어지지 않아 안전한 발판과 물의 깊이를 읽는 일이 탐색의 중심이 된다.\n\n느리게 움직이는 바닥과 잠기는 물체는 평소의 점프와 회피 타이밍을 바꾼다. 보이지 않는 길을 찾거나 물을 건너는 순서를 정해야 하므로 장소의 습한 외형이 실제 플레이의 리듬과 연결된다.\n\n늪이 배경에 있다는 사실만으로 이동 규칙이 같지는 않다. [[플레이어]]가 받는 실제 제약을 확인하며, 특정 게임의 독과 피해를 현실의 모든 습지에 대한 설명으로 옮기지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

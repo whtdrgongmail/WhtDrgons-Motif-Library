@@ -4,8 +4,8 @@
   "title": "브릿팝 음악",
   "original": "Britpop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-003913",
+  "primary_tag_id": "MEJE-KW-003913",
   "description": {
     "definition": "영국 대중음악의 한 흐름으로 묶인 기타 중심의 팝과 록. 이름 아래 여러 스타일이 모여 있으므로 하나의 소리로 단정하지 않는다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주로 영국의 기타 중심 대중음악을 묶어 부르는 한 흐름이다. 서로 다른 영향과 지역적 정체성이 만나므로 하나의 고정된 연주법보다 장면과 수용의 연관이 중요하다.\n\n익숙한 팝 선율과 록의 편성을 결합하는 방식은 밴드마다 다르게 나타난다. 가사와 억양에서 일상적인 지역 경험을 드러내면 소리뿐 아니라 어떤 영국을 대표하는지에 관한 이미지도 형성된다.\n\n모든 영국 팝과 록이 이 범주에 속하는 것은 아니다. [[영국 록스타의 과장된 이미지]] 같은 배역 관습과 음악 장르를 분리하며, 실제 작품의 형식과 발표 맥락을 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주로 영국의 기타 중심 대중음악을 묶어 부르는 한 흐름이다. 서로 다른 영향과 지역적 정체성이 만나므로 하나의 고정된 연주법보다 장면과 수용의 연관이 중요하다.\n\n익숙한 팝 선율과 록의 편성을 결합하는 방식은 밴드마다 다르게 나타난다. 가사와 억양에서 일상적인 지역 경험을 드러내면 소리뿐 아니라 어떤 영국을 대표하는지에 관한 이미지도 형성된다.\n\n모든 영국 팝과 록이 이 범주에 속하는 것은 아니다. [[영국 록스타의 과장된 이미지]] 같은 배역 관습과 음악 장르를 분리하며, 실제 작품의 형식과 발표 맥락을 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

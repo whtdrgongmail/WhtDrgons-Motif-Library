@@ -4,19 +4,19 @@
   "title": "남다른 지성 때문에 고립되는 인물",
   "original": "Intelligence Equals Isolation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00913",
+  "primary_tag_id": "ML-T00913",
   "description": {
     "definition": "뛰어난 지적 능력과 관심이 주변 사람들과의 공통 경험을 줄여 외로움과 소외로 이어지는 인물 구도다.",
     "detail": "작품 사례: 《[[데스노트]]》의 L은 뛰어난 탐정이지만 모습을 쉽게 드러내지 않는 은둔적 인물로 제시되어 지성과 사회적 거리감이 함께 나타난다.",
     "usage": "재능의 이점과 사회적 비용을 함께 보여 주고 이해받고 싶은 욕구를 인물의 동기로 만든다.",
-    "boundary": "지성이 실제로 특정 장애나 성격을 일으킨다는 주장이 아니다. 인기가 없다는 사실과 내적으로 연결감을 느끼지 못한다는 상태도 구별한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.004.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001526",
+      "work_card_id": "MM-MEDIA-002463",
       "description_ko": "《데스노트》의 L은 뛰어난 탐정이지만 모습을 쉽게 드러내지 않는 은둔적 인물로 제시되어 지성과 사회적 거리감이 함께 나타난다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 뛰어난 사고 능력과 관심사가 주변의 일상적인 대화나 기대와 맞지 않아 거리감이 생긴다. 지적 능력의 이점과 대인 관계의 어려움이 함께 묘사되는 구도다.\n\n지성이 실제로 특정 장애나 성격을 일으킨다는 주장이 아니다. 인기가 없다는 사실과 내적으로 연결감을 느끼지 못한다는 상태도 구별한다.\n\n《[[데스노트(만화)]]》의 L은 뛰어난 탐정이지만 모습을 쉽게 드러내지 않는 은둔적 인물로 제시되어 지성과 사회적 거리감이 함께 나타난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 뛰어난 사고 능력과 관심사가 주변의 일상적인 대화나 기대와 맞지 않아 거리감이 생긴다. 지적 능력의 이점과 대인 관계의 어려움이 함께 묘사되는 구도다.\n\n지성이 실제로 특정 장애나 성격을 일으킨다는 주장이 아니다. 인기가 없다는 사실과 내적으로 연결감을 느끼지 못한다는 상태도 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[데스노트(만화)]]》의 L은 뛰어난 탐정이지만 모습을 쉽게 드러내지 않는 은둔적 인물로 제시되어 지성과 사회적 거리감이 함께 나타난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

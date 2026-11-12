@@ -4,28 +4,28 @@
   "title": "체포부터 판결과 처벌까지 맡는 권력",
   "original": "Judge, Jury, and Executioner",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01347",
+  "primary_tag_id": "ML-T01347",
   "description": {
     "definition": "공식 권한을 가진 인물이나 기관이 용의자의 체포·유무죄 판단·형벌 집행을 사실상 한 손에 쥐고 즉시 처분한다.",
     "detail": "견제와 절차가 약하면 개인적 원한이나 부패가 그대로 형벌로 이어질 수 있어 디스토피아의 장치가 된다.\n\n작품 사례: 《[[아바타: 아앙의 전설]]》의 「Avatar Day」에서는 한 사람이 검사·판사·배심 역할을 겸하는 마을의 재판이 나온다. 피고가 방어할 수 있는 수단도 제한돼 권력 집중의 불공정함을 보여준다.",
     "usage": "",
-    "boundary": "비공식 개인의 사적 응징과 구별한다. 실제 법제 일반에 대한 설명이 아니라 작품 속 권력 구조를 다룬다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "15",
+    "code": "15.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "한 사람이 잡고 재판하고 벌까지 내린다.\n\n작품 사례: 《[[아바타: 아앙의 전설]]》의 「Avatar Day」에서는 한 사람이 검사·판사·배심 역할을 겸하는 마을의 재판이 나온다. 피고가 방어할 수 있는 수단도 제한돼 권력 집중의 불공정함을 보여준다.",
+    "easy_ko": "한 사람이 잡고 재판하고 벌까지 내린다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "견제와 절차가 약하면 개인적 원한이나 부패가 그대로 형벌로 이어질 수 있어 디스토피아의 장치가 된다.\n\n비공식 개인의 사적 응징과 구별한다. 실제 법제 일반에 대한 설명이 아니라 작품 속 권력 구조를 다룬다.\n\n《[[아바타: 아앙의 전설]]》의 「Avatar Day」에서는 한 사람이 검사·판사·배심 역할을 겸하는 마을의 재판이 나온다. 피고가 방어할 수 있는 수단도 제한돼 권력 집중의 불공정함을 보여준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "견제와 절차가 약하면 개인적 원한이나 부패가 그대로 형벌로 이어질 수 있어 디스토피아의 장치가 된다.\n\n비공식 개인의 사적 응징과 구별한다. 실제 법제 일반에 대한 설명이 아니라 작품 속 권력 구조를 다룬다."
+      ],
+      [
+        "관련 작품",
+        "《[[아바타: 아앙의 전설]]》의 「Avatar Day」에서는 한 사람이 검사·판사·배심 역할을 겸하는 마을의 재판이 나온다. 피고가 방어할 수 있는 수단도 제한돼 권력 집중의 불공정함을 보여준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "신사와 사찰의 이야기 공간",
   "original": "Shrines and Temples",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01298",
+  "primary_tag_id": "ML-T01298",
   "description": {
     "definition": "신사나 불교 사찰을 일상적 참배와 초자연적 만남이 교차하는 장소로 사용하는 공간 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "신사와 사찰의 종교적 역할을 서로 동일한 것으로 취급하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.007.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "신사와 불교 사찰을 참배와 축제, 초자연적인 만남이 교차하는 장소로 쓰는 공간 유형이다. 일상의 공동체와 보이지 않는 세계를 연결하는 경계가 된다.\n\n새해 방문과 여행에서는 인물들이 소원을 말하고 관계를 확인하는 무대가 된다. 초자연적인 이야기에서는 거주자와 의례, 오래된 시설이 비밀을 알거나 사건을 해결하는 단서로 기능할 수 있다.\n\n신사와 사찰은 서로 같은 종교 시설이 아니다. 작품이 두 공간의 요소를 섞거나 변형할 수 있으므로 건물과 담당자, 의례는 실제로 제시된 내용에 맞춰 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "신사와 불교 사찰을 참배와 축제, 초자연적인 만남이 교차하는 장소로 쓰는 공간 유형이다. 일상의 공동체와 보이지 않는 세계를 연결하는 경계가 된다.\n\n새해 방문과 여행에서는 인물들이 소원을 말하고 관계를 확인하는 무대가 된다. 초자연적인 이야기에서는 거주자와 의례, 오래된 시설이 비밀을 알거나 사건을 해결하는 단서로 기능할 수 있다.\n\n신사와 사찰은 서로 같은 종교 시설이 아니다. 작품이 두 공간의 요소를 섞거나 변형할 수 있으므로 건물과 담당자, 의례는 실제로 제시된 내용에 맞춰 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

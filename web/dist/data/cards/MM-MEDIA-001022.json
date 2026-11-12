@@ -4,8 +4,8 @@
   "title": "The Next Day",
   "original": "The Next Day",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T00142",
+  "primary_tag_id": "ML-T00142",
   "description": {
     "definition": "이 카드는 데이비드 보위의 정규 음반 《The Next Day》를 가리킨다. 이 라이브러리에서는 [[은둔하는 예술가]]의 작품 사례와 연결된다.",
     "detail": "연결 사례: 데이비드 보위는 활동을 줄여 은퇴한 듯 보이던 동안 새 음반을 준비하고, 2013년 The Next Day를 예고해 팬들을 놀라게 한다.",
@@ -13,16 +13,16 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.008.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "publication_form",
+    "parent_relation": "contextual",
     "allowed_roles": [],
     "review_status": "provisional",
     "row_version": 1
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "데이비드 보위가 오랜 음반 공백 뒤인 2013년에 발표한 스튜디오 앨범이다. 제작 과정은 비밀리에 진행되어 작업의 존재 자체가 공개 당시의 놀라움과 연결되었다.\n\n이전 앨범의 [[얼터너티브 록]] 성향에 연극적인 아트 록 표현을 결합한다. 역사에 관한 독서와 나이에 대한 자각은 어두운 이미지와 회고적인 질문의 재료가 되어, 과거와 현재의 관계를 음악 안에서 검토한다.\n\n가사를 창작자의 내면을 그대로 고백한 기록으로 단정할 수는 없다. 인물과 역사적 이미지가 구성한 표현을 통해 정체성과 시간의 문제를 다루며, 긴 공백 이후의 복귀라는 맥락과 개별 곡의 서술을 구분할 필요가 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "데이비드 보위가 오랜 음반 공백 뒤인 2013년에 발표한 스튜디오 앨범이다. 제작 과정은 비밀리에 진행되어 작업의 존재 자체가 공개 당시의 놀라움과 연결되었다.\n\n이전 앨범의 [[얼터너티브 록]] 성향에 연극적인 아트 록 표현을 결합한다. 역사에 관한 독서와 나이에 대한 자각은 어두운 이미지와 회고적인 질문의 재료가 되어, 과거와 현재의 관계를 음악 안에서 검토한다.\n\n가사를 창작자의 내면을 그대로 고백한 기록으로 단정할 수는 없다. 인물과 역사적 이미지가 구성한 표현을 통해 정체성과 시간의 문제를 다루며, 긴 공백 이후의 복귀라는 맥락과 개별 곡의 서술을 구분할 필요가 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

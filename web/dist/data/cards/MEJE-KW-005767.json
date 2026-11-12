@@ -4,8 +4,8 @@
   "title": "장면에 편리한 교실 자리",
   "original": "Conveniently Seated",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01855",
+  "primary_tag_id": "ML-T01855",
   "description": {
     "definition": "학생의 좌석이 시선이나 대화에 유리한 곳으로 배치되어 교실 [[장면]]의 연출을 돕는 관습.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주요 학생의 자리를 장면의 대화와 시선에 가장 편한 위치로 배치하는 관습이다. 창가와 통로, 뒤쪽 자리는 각각 외부 응시와 교사와의 접촉, 동급생과의 상호작용을 쉽게 한다.\n\n교사가 중요하면 교실 앞을 보이는 구도를, 학생이 중심이면 뒤에 그려야 할 인물을 줄이는 구도를 선택할 수 있다. 좌석은 이야기 정보와 화면 구성을 동시에 조절한다.\n\n실제 좌석표의 불가능함을 반드시 뜻하지는 않는다. 같은 인물의 위치가 장면마다 바뀌는 연속성 오류와 기능에 맞게 일관되게 정한 자리도 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주요 학생의 자리를 장면의 대화와 시선에 가장 편한 위치로 배치하는 관습이다. 창가와 통로, 뒤쪽 자리는 각각 외부 응시와 교사와의 접촉, 동급생과의 상호작용을 쉽게 한다.\n\n교사가 중요하면 교실 앞을 보이는 구도를, 학생이 중심이면 뒤에 그려야 할 인물을 줄이는 구도를 선택할 수 있다. 좌석은 이야기 정보와 화면 구성을 동시에 조절한다.\n\n실제 좌석표의 불가능함을 반드시 뜻하지는 않는다. 같은 인물의 위치가 장면마다 바뀌는 연속성 오류와 기능에 맞게 일관되게 정한 자리도 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

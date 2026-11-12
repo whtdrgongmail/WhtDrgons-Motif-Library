@@ -4,8 +4,8 @@
   "title": "외부 전문가 자문",
   "original": "Expert Consultant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00935",
+  "primary_tag_id": "ML-T00935",
   "description": {
     "definition": "조직에 속하지 않은 [[전문가]]가 특정 문제의 해결을 위해 잠시 초빙되어 의견이나 기술을 제공한다. [[도움이 필요한 순간 연락 안 되는 전문가]]은 불러야 할 자문 인력이 제때 오지 못해 생기는 갈등이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "조직 밖의 전문가를 일정한 문제와 기간에 맞추어 초빙하는 관계다. 내부에 없는 지식과 다른 시각을 일시적으로 확보한다.\n\n자문자는 기존 관행을 당연하게 보지 않아 문제의 원인을 지적할 수 있다. 내부 인력은 현장의 사정을 모른다는 이유로 반발하면서 전문성과 조직 문화의 갈등이 생긴다.\n\n상시 구성원과는 책임과 권한의 범위가 다르다. 조언을 제공하는 역할과 직접 결정을 내리는 역할을 구분해야 하며 외부 출신이라는 사실만으로 중립성이 보장되지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조직 밖의 전문가를 일정한 문제와 기간에 맞추어 초빙하는 관계다. 내부에 없는 지식과 다른 시각을 일시적으로 확보한다.\n\n자문자는 기존 관행을 당연하게 보지 않아 문제의 원인을 지적할 수 있다. 내부 인력은 현장의 사정을 모른다는 이유로 반발하면서 전문성과 조직 문화의 갈등이 생긴다.\n\n상시 구성원과는 책임과 권한의 범위가 다르다. 조언을 제공하는 역할과 직접 결정을 내리는 역할을 구분해야 하며 외부 출신이라는 사실만으로 중립성이 보장되지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

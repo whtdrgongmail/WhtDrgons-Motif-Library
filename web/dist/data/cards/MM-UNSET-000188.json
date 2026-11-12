@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F15",
   "description": {
-    "definition": "",
+    "definition": "사회나 집단의 사람 수를 의도적으로 줄이려는 정책·계획·행동이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "15",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "어떤 집단의 인원이나 인구를 줄이려는 일이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "창작물에서는 출생 감소를 유도하는 계획과 사람을 강제로 제거하려는 계획처럼 서로 다른 수단이 같은 인구 감소 목표 아래 제시될 수 있다. 계획의 명칭만으로 수단이나 피해의 성격을 판단하지 않고, 누가 어떤 방식으로 인원을 줄이려 하는지 구분해야 한다.\n\n남은 사람에게 돌아갈 자원을 늘리려는 명분과 죽는 당사자를 고통에서 해방한다는 명분은 목적이 다르다. 사람 수가 줄어든다는 결과가 같아 보여도, 계획자가 누구의 이익을 내세우는지에 따라 인물의 논리와 대립 구도가 달라진다.\n\n목표가 제시되었다고 해서 특정 수단의 정당성이나 당사자의 동의가 성립하지는 않는다. 수적 변화와 이를 추진하는 행위의 책임을 구분해야 하며, 작중의 자원 부족 주장을 현실의 정책 효과나 필연적 해결책으로 확대해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "창작물에서는 출생 감소를 유도하는 계획과 사람을 강제로 제거하려는 계획처럼 서로 다른 수단이 같은 인구 감소 목표 아래 제시될 수 있다. 계획의 명칭만으로 수단이나 피해의 성격을 판단하지 않고, 누가 어떤 방식으로 인원을 줄이려 하는지 구분해야 한다.\n\n남은 사람에게 돌아갈 자원을 늘리려는 명분과 죽는 당사자를 고통에서 해방한다는 명분은 목적이 다르다. 사람 수가 줄어든다는 결과가 같아 보여도, 계획자가 누구의 이익을 내세우는지에 따라 인물의 논리와 대립 구도가 달라진다.\n\n목표가 제시되었다고 해서 특정 수단의 정당성이나 당사자의 동의가 성립하지는 않는다. 수적 변화와 이를 추진하는 행위의 책임을 구분해야 하며, 작중의 자원 부족 주장을 현실의 정책 효과나 필연적 해결책으로 확대해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

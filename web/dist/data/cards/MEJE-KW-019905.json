@@ -4,8 +4,8 @@
   "title": "이어폰 너머의 정보 지원자",
   "original": "Voice with an Internet Connection",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00884",
+  "primary_tag_id": "ML-T00884",
   "description": {
     "definition": "현장에서 움직이는 주인공에게 통신으로 정보를 전달하고 당장의 행동을 조언하는 원격 지원 역할이다.",
     "detail": "작품 사례: 《[[메탈 기어 솔리드 3: 스네이크 이터]]》의 원격 지원자는 스네이크가 사람을 만나기 전에 라이코프 가면을 벗으라고 알려 주어 현장 행동을 돕는다.",
@@ -13,10 +13,10 @@
     "boundary": "옆에 동행하는 조력자나 정보를 주지 않고 명령만 하는 상관과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "현장의 인물은 원격 지원자에게서 상황 정보와 조언을 받는다. 이동과 직접 행동의 역할을 자료 수집과 판단의 역할로 나누는 구조다.\n\n통신의 끊김과 정보의 지연은 두 사람이 같은 현실을 즉시 공유하지 못함을 드러낸다. 지원자의 화면과 현장을 번갈아 보여 주면 위기 인식의 차이가 생긴다.\n\n명령만 내리는 상관과 모든 무전 통화가 같은 역할은 아니다. 현재 행동에 도움이 되는 지속적인 정보 지원이 중심이며 조언이 항상 정확한 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "현장의 인물은 원격 지원자에게서 상황 정보와 조언을 받는다. 이동과 직접 행동의 역할을 자료 수집과 판단의 역할로 나누는 구조다.\n\n통신의 끊김과 정보의 지연은 두 사람이 같은 현실을 즉시 공유하지 못함을 드러낸다. 지원자의 화면과 현장을 번갈아 보여 주면 위기 인식의 차이가 생긴다.\n\n명령만 내리는 상관과 모든 무전 통화가 같은 역할은 아니다. 현재 행동에 도움이 되는 지속적인 정보 지원이 중심이며 조언이 항상 정확한 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "앰비언트 인더스트리얼",
   "original": "Ambient-Industrial",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00526",
+  "primary_tag_id": "ML-T00526",
   "description": {
     "definition": "리듬과 선율보다 불안한 공간감과 분위기를 앞세워 신시사이저·반복 음향·샘플을 배치하는 인더스트리얼 계열이다.",
     "detail": "작품 사례: Lustmord의 〈[[고에티아]]〉는 이 음악 양식의 실제 곡 사례다.",
@@ -13,17 +13,20 @@
     "boundary": "인접 양식과 혼합될 수 있으므로 특정 악기 하나나 창작자의 소속만으로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.304.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "music_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "리듬과 선율보다 불안한 공간감과 분위기를 우선하는 인더스트리얼 계열이다. 신시사이저와 반복 음향, 샘플을 배치해 청각적인 환경을 만든다.\n\n개별 음의 멜로디보다 소리가 쌓이고 이어지는 방식이 인상을 형성한다. 실제 곡에서는 어떤 요소가 공간과 불안을 만드는지 연결해 설명할 수 있다.\n\n특정 악기 하나가 들린다는 이유만으로 양식을 확정하지 않는다. 창작자의 소속보다 실제 음악을 기준으로 인접 양식과의 혼합도 구분해야 한다.\n\nLustmord의 〈[[고에티아]]〉는 이 음악 양식의 실제 곡 사례다.\n\n[[고에티아]]",
+    "sections": [
+      [
+        "상세 설명",
+        "리듬과 선율보다 불안한 공간감과 분위기를 우선하는 인더스트리얼 계열이다. 신시사이저와 반복 음향, 샘플을 배치해 청각적인 환경을 만든다.\n\n개별 음의 멜로디보다 소리가 쌓이고 이어지는 방식이 인상을 형성한다. 실제 곡에서는 어떤 요소가 공간과 불안을 만드는지 연결해 설명할 수 있다.\n\n특정 악기 하나가 들린다는 이유만으로 양식을 확정하지 않는다. 창작자의 소속보다 실제 음악을 기준으로 인접 양식과의 혼합도 구분해야 한다."
+      ],
+      [
+        "사례",
+        "Lustmord의 〈[[고에티아]]〉는 이 음악 양식의 실제 곡 사례다."
+      ],
+      [
+        "관련 작품",
+        "[[고에티아]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "제자를 자기 이익에 맞춰 지배하는 스승",
   "original": "The Svengali",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01018",
+  "primary_tag_id": "ML-T01018",
   "description": {
     "definition": "스승의 권위와 관계를 이용하여 제자의 판단과 행동을 통제하고 자신의 이익에 종속시키는 인물 구도이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "엄격한 훈련이나 제자의 자발적인 존경만으로 적용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.006.007",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가르침의 관계가 제자를 마음대로 움직이는 수단이 된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "스승이 가진 지식과 인정의 권한이 제자를 통제하는 자원이 된다. 가르침을 받으려는 의존이 깊을수록 제자는 자신의 이익과 스승의 요구를 구별하기 어려워질 수 있다.\n\n통제는 심리적인 설득과 관계의 압박에서 노골적인 [[정신 지배]]까지 다양한 방식으로 나타난다. 성취의 공로는 스승에게 돌아가고 부담은 제자에게 남으면 착취 구조가 선명해진다.\n\n엄격한 훈련이나 의견 충돌만으로 같은 관계라고 볼 수는 없다. 제자의 성장보다 스승의 이익을 우선하며 판단과 행동을 종속시키는 반복적인 권한 사용이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "스승이 가진 지식과 인정의 권한이 제자를 통제하는 자원이 된다. 가르침을 받으려는 의존이 깊을수록 제자는 자신의 이익과 스승의 요구를 구별하기 어려워질 수 있다.\n\n통제는 심리적인 설득과 관계의 압박에서 노골적인 [[정신 지배]]까지 다양한 방식으로 나타난다. 성취의 공로는 스승에게 돌아가고 부담은 제자에게 남으면 착취 구조가 선명해진다.\n\n엄격한 훈련이나 의견 충돌만으로 같은 관계라고 볼 수는 없다. 제자의 성장보다 스승의 이익을 우선하며 판단과 행동을 종속시키는 반복적인 권한 사용이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

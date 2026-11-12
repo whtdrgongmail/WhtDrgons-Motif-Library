@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000225",
   "kind": "keyword",
   "title": "환상",
-  "original": "",
+  "original": "Illusion",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F13",
   "description": {
-    "definition": "",
+    "definition": "실제로 존재하거나 일어나지 않은 형상과 상황을 마음속에서 체험하거나 실제처럼 지각하는 것으로 제시하는 허구적 경험이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "13",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "눈앞의 사람이나 세상이 진짜처럼 느껴져도 실제 상황과는 다른 체험을 뜻해요. 스스로 바라는 장면을 떠올릴 수도 있고, 다른 존재가 감각을 속여 만든 세계에 갇힐 수도 있어요.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상상이나 소망에서 만든 상황과 외부의 조작으로 지각하는 가짜 환경이 모두 이야기의 환상으로 제시될 수 있다. 같은 다정한 장면이라도 인물이 스스로 떠올린 것인지, 상대가 원하는 반응을 얻으려고 만든 것인지에 따라 의미가 달라진다. 가짜라는 사실을 인물이 아는지, 관객만 아는지도 구별해야 한다.\n\n[[환술]]은 그런 체험을 만들어 내거나 감각을 속이는 능력·기술이고, 환상은 그 결과로 체험하는 모습이나 상황이다. [[가상현실 기술]]은 디지털 환경을 체험하게 하는 특정한 구현 수단이므로 모든 환상의 원인이 되는 것은 아니다. [[현실 조작]]처럼 실제 물질이나 사건의 조건을 바꾸는 능력과도 구별된다.\n\n여기서는 [[판타지]]라는 장르 전체가 아니라 세 연결 문맥에 공통된 가짜 체험을 다룬다. 장면이 현실과 다르다는 이유만으로 등장인물의 질환을 진단할 수는 없다. 또한 [[조건부로 실체를 얻는 환영]]처럼 물리적 효과를 추가하는 설정에서는 감각상의 거짓과 실제로 발생하는 결과를 나누어 설명해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상상이나 소망에서 만든 상황과 외부의 조작으로 지각하는 가짜 환경이 모두 이야기의 환상으로 제시될 수 있다. 같은 다정한 장면이라도 인물이 스스로 떠올린 것인지, 상대가 원하는 반응을 얻으려고 만든 것인지에 따라 의미가 달라진다. 가짜라는 사실을 인물이 아는지, 관객만 아는지도 구별해야 한다.\n\n[[환술]]은 그런 체험을 만들어 내거나 감각을 속이는 능력·기술이고, 환상은 그 결과로 체험하는 모습이나 상황이다. [[가상현실 기술]]은 디지털 환경을 체험하게 하는 특정한 구현 수단이므로 모든 환상의 원인이 되는 것은 아니다. [[현실 조작]]처럼 실제 물질이나 사건의 조건을 바꾸는 능력과도 구별된다.\n\n여기서는 [[판타지]]라는 장르 전체가 아니라 세 연결 문맥에 공통된 가짜 체험을 다룬다. 장면이 현실과 다르다는 이유만으로 등장인물의 질환을 진단할 수는 없다. 또한 [[조건부로 실체를 얻는 환영]]처럼 물리적 효과를 추가하는 설정에서는 감각상의 거짓과 실제로 발생하는 결과를 나누어 설명해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

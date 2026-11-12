@@ -4,8 +4,8 @@
   "title": "특정 행동에 갑자기 나타나는 처벌자",
   "original": "Drop-In Nemesis",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
     "definition": "게임에서 잘못된 행동을 하면 강한 적이나 장애물이 즉시 나타나 [[플레이어]]에게 결과를 알린다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 행동을 하면 강력한 적과 장애물이 갑자기 나타나 이용자를 처벌하는 장치다. 행동과 치명적인 결과의 연결을 실패로 학습하게 한다.\n\n다가오는 신호가 뚜렷하지 않고 사실상 대응할 기회가 없다는 점이 특징이다. 위험한 구역에서 오래 머물거나 금지된 일을 했다는 결과로 설명될 수 있다.\n\n충분한 경고를 받고 피할 수 있는 추격자와는 다르다. 규칙을 모르고 처음 당할 때는 불공정하게 느껴질 수 있으며, 반복하면 놀라움보다 특정 행동을 막는 강제적인 경계로 기능한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 행동을 하면 강력한 적과 장애물이 갑자기 나타나 이용자를 처벌하는 장치다. 행동과 치명적인 결과의 연결을 실패로 학습하게 한다.\n\n다가오는 신호가 뚜렷하지 않고 사실상 대응할 기회가 없다는 점이 특징이다. 위험한 구역에서 오래 머물거나 금지된 일을 했다는 결과로 설명될 수 있다.\n\n충분한 경고를 받고 피할 수 있는 추격자와는 다르다. 규칙을 모르고 처음 당할 때는 불공정하게 느껴질 수 있으며, 반복하면 놀라움보다 특정 행동을 막는 강제적인 경계로 기능한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

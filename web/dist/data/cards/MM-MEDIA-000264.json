@@ -4,17 +4,17 @@
   "title": "Dr. Mario",
   "original": "Dr. Mario",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "이 카드는 비디오게임 《Dr. Mario》를 가리킨다. 이 라이브러리에서는 [[어려움 이상의 최고 난도]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: Dr. Mario의 64판에서는 특정 버튼 조합으로 Super Hard를 선택할 수 있으며, 통상적인 어려움보다 강한 도전을 별도 단계로 제공한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Dr. Mario》는 마리오를 의사로 등장시키는 퍼즐 게임이다. 병 안의 바이러스를 없애기 위해 두 색으로 이루어진 캡슐을 배치한다.\n\n같은 색의 캡슐 조각과 바이러스를 네 개 일렬로 맞추면 제거된다. 떨어지는 물체를 쌓는 퍼즐의 익숙한 조작에 이미 놓인 목표물을 지운다는 조건이 결합한다.\n\n여러 기종의 후속작과 합본으로 이어졌으며 음악 《Fever》와 《Chill》도 작품을 대표한다. 의학적 처치를 재현하는 게임이 아니라 색과 배치의 규칙을 의사와 약의 이미지로 표현한 작품이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Dr. Mario》는 마리오를 의사로 등장시키는 퍼즐 게임이다. 병 안의 바이러스를 없애기 위해 두 색으로 이루어진 캡슐을 배치한다.\n\n같은 색의 캡슐 조각과 바이러스를 네 개 일렬로 맞추면 제거된다. 떨어지는 물체를 쌓는 퍼즐의 익숙한 조작에 이미 놓인 목표물을 지운다는 조건이 결합한다.\n\n여러 기종의 후속작과 합본으로 이어졌으며 음악 《Fever》와 《Chill》도 작품을 대표한다. 의학적 처치를 재현하는 게임이 아니라 색과 배치의 규칙을 의사와 약의 이미지로 표현한 작품이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

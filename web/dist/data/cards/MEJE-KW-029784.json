@@ -4,8 +4,8 @@
   "title": "서로 다른 곡을 겹쳐 만드는 매시업",
   "original": "Music Mashup",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02016",
+  "primary_tag_id": "ML-T02016",
   "description": {
     "definition": "둘 이상의 기존 곡에서 가져온 선율·반주·보컬 등을 결합하여 새로운 한 곡처럼 구성하는 음악 방식이다.",
     "detail": "한 곡의 반주와 다른 곡의 보컬을 결합하거나 여러 곡의 반주와 보컬을 함께 섞을 수 있다.\n\n작품 사례: 《[[킹덤 하츠 III]]》의 〈[[Hearts As One]]〉은 록서스의 〈[[The Other Promise]]〉와 시온의 〈[[Vector to the Heavens]]〉를 섞는다. 각 인물과 연결되던 음악이 한 곡으로 합쳐져 두 인물의 재결합을 들려준다.",
@@ -13,19 +13,19 @@
     "boundary": "곡들을 차례로 이어 부르는 [[메들리]]와 구별한다. 음악 [[장르]]를 섞는 것만으로는 기존 곡을 결합한 매시업이 되지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.002.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "다른 노래의 소리들을 겹쳐 하나의 곡으로 만든다.\n\n작품 사례: 《[[킹덤 하츠 III]]》의 〈[[Hearts As One]]〉은 록서스의 〈[[The Other Promise]]〉와 시온의 〈[[Vector to the Heavens]]〉를 섞는다. 각 인물과 연결되던 음악이 한 곡으로 합쳐져 두 인물의 재결합을 들려준다.",
+    "easy_ko": "다른 노래의 소리들을 겹쳐 하나의 곡으로 만든다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -59,5 +59,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "매시업은 기존의 둘 이상 곡에서 가져온 보컬, 선율, 반주, 리듬 등을 겹치거나 교차시켜 하나의 새로운 곡으로 구성한다. 서로 다른 곡의 요소가 동시에 들리면서 원래 곡에 연결된 분위기와 의미도 새로운 관계를 맺는다.\n\n여러 곡을 차례로 연주하는 [[메들리]]는 시간상 순서가 중심이고, 매시업은 서로 다른 곡의 요소가 한 음악 구성 안에서 결합되는 점이 중심이다. 단순히 두 음악 [[장르]]의 특징을 섞어 새 곡을 만든 경우에는 특정 기존 곡을 직접 결합한 매시업과 구분한다.\n\n작품 사례: 《[[킹덤 하츠 III]]》의 〈[[Hearts As One]]〉은 록서스의 〈[[The Other Promise]]〉와 시온의 〈[[Vector to the Heavens]]〉를 섞는다. 각 인물과 연결되던 음악이 한 곡으로 합쳐져 두 인물의 재결합을 들려준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "매시업은 기존의 둘 이상 곡에서 가져온 보컬, 선율, 반주, 리듬 등을 겹치거나 교차시켜 하나의 새로운 곡으로 구성한다. 서로 다른 곡의 요소가 동시에 들리면서 원래 곡에 연결된 분위기와 의미도 새로운 관계를 맺는다.\n\n여러 곡을 차례로 연주하는 [[메들리]]는 시간상 순서가 중심이고, 매시업은 서로 다른 곡의 요소가 한 음악 구성 안에서 결합되는 점이 중심이다. 단순히 두 음악 [[장르]]의 특징을 섞어 새 곡을 만든 경우에는 특정 기존 곡을 직접 결합한 매시업과 구분한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[킹덤 하츠 III]]》의 〈[[Hearts As One]]〉은 록서스의 〈[[The Other Promise]]〉와 시온의 〈[[Vector to the Heavens]]〉를 섞는다. 각 인물과 연결되던 음악이 한 곡으로 합쳐져 두 인물의 재결합을 들려준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

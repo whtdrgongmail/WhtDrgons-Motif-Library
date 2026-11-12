@@ -4,8 +4,8 @@
   "title": "소동 희극",
   "original": "Farce",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00306",
+  "primary_tag_id": "ML-T00306",
   "description": {
     "definition": "오해와 [[속임수]], 우연이 빠르게 겹치며 상황이 점점 복잡해지는 희극 장르다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.110",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "소동 희극은 작은 거짓말이나 오해가 다른 우연과 부딪히며 감당하기 어려운 상황으로 커지는 웃음의 형식이다. 인물이 문제를 풀기도 전에 새 문제가 터지는 빠른 연결이 중요하며, 농담이 많다는 이유만으로 분류하지 않는다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "오해와 속임수, 과장된 우연이 빠르게 겹쳐 상황을 복잡하게 만드는 희극 형식이다. 개연성보다 웃음과 사건의 속도가 강조된다.\n\n인물이 곤란한 모습을 들키거나 서로를 피하면서 출입과 만남이 정교하게 엇갈린다. 하나의 거짓말을 덮는 행동이 더 큰 문제를 만드는 누적 구조가 흔하다.\n\n느긋한 일상 농담과는 진행의 압력이 다르다. 인물들이 믿는 사실의 차이를 관객이 따라갈 수 있어야 복잡한 사건이 혼란보다 웃음으로 작동한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "오해와 속임수, 과장된 우연이 빠르게 겹쳐 상황을 복잡하게 만드는 희극 형식이다. 개연성보다 웃음과 사건의 속도가 강조된다.\n\n인물이 곤란한 모습을 들키거나 서로를 피하면서 출입과 만남이 정교하게 엇갈린다. 하나의 거짓말을 덮는 행동이 더 큰 문제를 만드는 누적 구조가 흔하다.\n\n느긋한 일상 농담과는 진행의 압력이 다르다. 인물들이 믿는 사실의 차이를 관객이 따라갈 수 있어야 복잡한 사건이 혼란보다 웃음으로 작동한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

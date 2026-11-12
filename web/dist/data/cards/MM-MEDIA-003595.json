@@ -2,24 +2,69 @@
   "id": "MM-MEDIA-003595",
   "kind": "work",
   "title": "The Plains of Passage",
-  "original": "",
+  "original": "The Plains of Passage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00067",
+  "primary_tag_id": "ML-T00067",
   "description": {
-    "definition": "",
+    "definition": "《The Plains of Passage》는 진 M. 아우엘이 쓴 《[[대지의 아이들]]》 연작의 장편소설이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.007.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "아일라와 존달라가 새로운 고향을 향해 긴 여행을 하는 이야기다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000187",
+      "card_id": "MM-MEDIA-003595",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/books/6280/the-plains-of-passage-by-jean-m-auel/paperback/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "《The Plains of Passage》는 진 M. 아우엘의 《[[대지의 아이들]]》 연작에 속하는 장편소설이다. 출판사 소개의 주요 내용은 아일라와 존달라가 매머드 사냥꾼들의 정착지를 떠나 빙하기 유럽의 초원을 횡단하는 여정이다. 연작의 세계를 공유하지만 카드가 가리키는 대상은 이 한 권이다.\n\n두 사람은 길에서 낯선 공동체를 만나고, 말과 늑대를 길들이는 등 자신들의 능력 때문에 호기심과 경계, 위협을 함께 받는다. 아일라는 자신의 사람들에 대한 기억이 없고 존달라는 고향으로 돌아가고 싶어 한다. 따라서 여행은 단순한 장소 이동을 넘어 둘이 함께 돌아갈 곳을 찾는 이야기로 전개된다.\n\n연결 문맥은 아타로아가 지배하는 공동체의 강압을 권력 질서의 사례로 든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《The Plains of Passage》는 진 M. 아우엘의 《[[대지의 아이들]]》 연작에 속하는 장편소설이다. 출판사 소개의 주요 내용은 아일라와 존달라가 매머드 사냥꾼들의 정착지를 떠나 빙하기 유럽의 초원을 횡단하는 여정이다. 연작의 세계를 공유하지만 카드가 가리키는 대상은 이 한 권이다.\n\n두 사람은 길에서 낯선 공동체를 만나고, 말과 늑대를 길들이는 등 자신들의 능력 때문에 호기심과 경계, 위협을 함께 받는다. 아일라는 자신의 사람들에 대한 기억이 없고 존달라는 고향으로 돌아가고 싶어 한다. 따라서 여행은 단순한 장소 이동을 넘어 둘이 함께 돌아갈 곳을 찾는 이야기로 전개된다."
+      ],
+      [
+        "사례",
+        "연결 문맥은 아타로아가 지배하는 공동체의 강압을 권력 질서의 사례로 든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

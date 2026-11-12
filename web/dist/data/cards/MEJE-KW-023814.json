@@ -5,8 +5,8 @@
   "original": "The Last Collectible Takes Forever",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02135",
+  "primary_tag_id": "ML-T02135",
   "description": {
     "definition": "독립적인 무작위 획득을 반복하는 수집에서 미보유 종류가 줄수록 중복 획득이 많아져 마지막 빈칸을 채우기 어려워지는 구조다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "마지막 물건의 개별 확률을 별도로 낮춘 설계가 필수는 아니다. 전체 수집 상태 때문에 유효한 결과가 줄어드는 현상이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.008.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무작위 수집에서 남은 종류가 줄면 같은 확률표에서도 유효한 결과가 적어진다. 마지막 빈칸을 위해 이미 가진 물건을 반복해서 얻는 병목이 생긴다.\n\n개별 물건의 확률이 일정해도 완전 수집에 유효한 종류의 수는 계속 줄어든다. 교환과 중복 보상은 이 반복의 가치를 바꾸므로 단순히 획득 횟수만 늘리는 것과 다른 해결이 된다.\n\n마지막 물건의 확률을 따로 낮출 필요는 없다. 수집 상태의 변화가 원인이며 교환과 확정 보상은 이 부담에 영향을 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "무작위 수집에서 남은 종류가 줄면 같은 확률표에서도 유효한 결과가 적어진다. 마지막 빈칸을 위해 이미 가진 물건을 반복해서 얻는 병목이 생긴다.\n\n개별 물건의 확률이 일정해도 완전 수집에 유효한 종류의 수는 계속 줄어든다. 교환과 중복 보상은 이 반복의 가치를 바꾸므로 단순히 획득 횟수만 늘리는 것과 다른 해결이 된다.\n\n마지막 물건의 확률을 따로 낮출 필요는 없다. 수집 상태의 변화가 원인이며 교환과 확정 보상은 이 부담에 영향을 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

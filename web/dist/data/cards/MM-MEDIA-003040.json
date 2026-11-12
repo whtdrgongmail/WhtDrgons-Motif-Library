@@ -4,17 +4,17 @@
   "title": "Hack 'N' Slash",
   "original": "Hack 'N' Slash",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《Hack 'N' Slash》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《Hack 'N' Slash》에서는 해킹 기능을 쓰다가 그 해킹 체계 자체의 일부를 다시 해킹해야 한다. 작동 방식이 자신에게 적용되는 자기 참조의 사례다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-09",
+  "row_version": 3,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -43,5 +43,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《Hack 'N' Slash》는 사물의 변수를 해킹하는 퍼즐 게임이다. 검의 기능이 전통적인 공격보다 규칙의 수정에 가깝다. 사물의 변수를 바꾸는 행위가 공격을 대신해 환경의 상태와 진행 조건을 조정한다.\n\n진행 중에는 해킹 체계의 일부를 다시 해킹해야 한다. 조작 도구 자체가 조작 대상에 포함된다. 제목이 연상시키는 전투 장르와 달리 규칙을 해석하고 수정하는 퍼즐이 핵심이다.\n\n처음에는 외부 사물에 적용하던 방법을 자기 작동 기반에 사용한다. 규칙을 바꾸는 기능이 스스로에게 되돌아오는 자기 참조 구조다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《Hack 'N' Slash》는 사물의 변수를 해킹하는 퍼즐 게임이다. 검의 기능이 전통적인 공격보다 규칙의 수정에 가깝다. 사물의 변수를 바꾸는 행위가 공격을 대신해 환경의 상태와 진행 조건을 조정한다.\n\n진행 중에는 해킹 체계의 일부를 다시 해킹해야 한다. 조작 도구 자체가 조작 대상에 포함된다. 제목이 연상시키는 전투 장르와 달리 규칙을 해석하고 수정하는 퍼즐이 핵심이다.\n\n처음에는 외부 사물에 적용하던 방법을 자기 작동 기반에 사용한다. 규칙을 바꾸는 기능이 스스로에게 되돌아오는 자기 참조 구조다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

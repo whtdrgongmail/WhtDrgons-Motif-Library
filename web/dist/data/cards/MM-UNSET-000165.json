@@ -2,24 +2,66 @@
   "id": "MM-UNSET-000165",
   "kind": "keyword",
   "title": "패러독스",
-  "original": "",
+  "original": "Paradox",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F25",
   "description": {
-    "definition": "",
+    "definition": "《[[메이지: 디 어센션]]》에서 합의된 현실에 어긋나는 마법이 불러오는 반작용과 그 위험을 나타내는 규칙이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "이 게임에서 너무 노골적인 마법을 쓰면 현실의 반작용을 겪게 하는 규칙이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000264",
+      "card_id": "MM-UNSET-000165",
+      "label_ko": "공식 규칙 안내",
+      "icon_key": "game",
+      "url": "https://theonyxpath.com/mage-the-ascension-20th-anniversary-edition-faq-part-1/",
+      "description_ko": "메이지 디 어센션의 우연적·명백한 마법과 패러독스에 관한 제작사 설명",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "《[[메이지: 디 어센션]]》에서 패러독스는 마법사가 현실에 대한 통상적인 기대와 어긋나는 마법을 사용할 때 발생할 수 있는 반작용을 다루는 규칙이다. 논리학의 역설과 이름이 같아도 개념의 영역은 다르다. 작품에서는 무엇이 자연스러운 사건으로 받아들여질 수 있는지가 마법 사용의 위험을 바꾼다.\n\n마법이 우연이나 익숙한 기술처럼 보이는지, 명백히 불가능한 현상으로 보이는지의 차이는 게임의 판정과 선택에 영향을 준다. 패러독스는 마법이 강하다는 이유만으로 모든 상황에 동일하게 주어지는 도덕적 벌칙이 아니다. 구체적인 수치와 판정은 판본 및 진행 상황의 규칙을 확인해야 한다.\n\n가상 예시: 마법사가 문이 우연히 열리도록 보이게 하는 효과와 문을 눈앞에서 사라지게 하는 효과를 비교한다면, 같은 목표를 다른 방식으로 달성할 때의 패러독스 위험을 설명할 수 있다. 실제 판정 결과는 게임 규칙과 장면의 조건에 따른다.\n\n《[[메이지: 디 어센션]]》은 이 카드의 용어가 사용되는 게임이다. 다른 판타지 작품의 현실 변형이나 일반적인 [[역설]]을 자동으로 이 규칙과 동일시하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《[[메이지: 디 어센션]]》에서 패러독스는 마법사가 현실에 대한 통상적인 기대와 어긋나는 마법을 사용할 때 발생할 수 있는 반작용을 다루는 규칙이다. 논리학의 역설과 이름이 같아도 개념의 영역은 다르다. 작품에서는 무엇이 자연스러운 사건으로 받아들여질 수 있는지가 마법 사용의 위험을 바꾼다.\n\n마법이 우연이나 익숙한 기술처럼 보이는지, 명백히 불가능한 현상으로 보이는지의 차이는 게임의 판정과 선택에 영향을 준다. 패러독스는 마법이 강하다는 이유만으로 모든 상황에 동일하게 주어지는 도덕적 벌칙이 아니다. 구체적인 수치와 판정은 판본 및 진행 상황의 규칙을 확인해야 한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 마법사가 문이 우연히 열리도록 보이게 하는 효과와 문을 눈앞에서 사라지게 하는 효과를 비교한다면, 같은 목표를 다른 방식으로 달성할 때의 패러독스 위험을 설명할 수 있다. 실제 판정 결과는 게임 규칙과 장면의 조건에 따른다."
+      ],
+      [
+        "관련 작품",
+        "《[[메이지: 디 어센션]]》은 이 카드의 용어가 사용되는 게임이다. 다른 판타지 작품의 현실 변형이나 일반적인 [[역설]]을 자동으로 이 규칙과 동일시하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

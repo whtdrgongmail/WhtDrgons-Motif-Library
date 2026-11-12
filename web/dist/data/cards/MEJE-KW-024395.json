@@ -5,8 +5,8 @@
   "original": "High Stats at a High Cost",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02105",
+  "primary_tag_id": "ML-T02105",
   "description": {
     "definition": "공격력·속도·내구력의 우수함을 높은 자원 비용이나 긴 생산 시간으로 제한한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "능력치의 우수함과 다른 종류의 제약을 분리하는 설계다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.004.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전투 능력은 우수하지만 높은 생산 비용과 자원 소모, 긴 준비 시간으로 사용을 제한한다. 한 번 등장했을 때의 강함과 계속 확보할 수 있는 양이 분리된다.\n\n플레이어는 강한 한 기를 빨리 마련할지 다른 전력을 충분히 확보할지 선택한다. 잃었을 때 복구 부담이 크면 전투의 승리뿐 아니라 살아 돌아오는 일도 운영의 목표가 된다.\n\n능력치 자체를 낮추는 균형 조정과는 다르다. 비싸다는 이유만으로 항상 적은 수를 써야 하는 것은 아니며 자원 수입과 생산 시간의 관계를 함께 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전투 능력은 우수하지만 높은 생산 비용과 자원 소모, 긴 준비 시간으로 사용을 제한한다. 한 번 등장했을 때의 강함과 계속 확보할 수 있는 양이 분리된다.\n\n플레이어는 강한 한 기를 빨리 마련할지 다른 전력을 충분히 확보할지 선택한다. 잃었을 때 복구 부담이 크면 전투의 승리뿐 아니라 살아 돌아오는 일도 운영의 목표가 된다.\n\n능력치 자체를 낮추는 균형 조정과는 다르다. 비싸다는 이유만으로 항상 적은 수를 써야 하는 것은 아니며 자원 수입과 생산 시간의 관계를 함께 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

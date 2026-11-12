@@ -6,8 +6,8 @@
   "aliases": [
     "결점이 있어도 선한 사람"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "지속적인 나쁜 버릇이나 도덕적 약점을 지녔지만 영웅적 목적과 선행은 유지하는 인물형이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "악습 자체를 미화하거나 목적을 위해 타인을 희생시키는 악역과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "나쁜 버릇과 도덕적 약점이 반복되지만 영웅적인 목적과 선행을 유지한다. 선한 면과 지속적인 결점이 공존하는 인물형이다.\n\n실수를 했다는 일회적인 사건보다 어떤 약점이 계속 행동에 나타나는지가 중요하다. 그럼에도 누구를 돕고 무엇을 지키는지 확인해야 영웅성이 드러난다.\n\n악습 자체를 좋은 것으로 미화하는 뜻은 아니다. 목적을 위해 타인을 소모하는 악역과도 실제 행위가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "나쁜 버릇과 도덕적 약점이 반복되지만 영웅적인 목적과 선행을 유지한다. 선한 면과 지속적인 결점이 공존하는 인물형이다.\n\n실수를 했다는 일회적인 사건보다 어떤 약점이 계속 행동에 나타나는지가 중요하다. 그럼에도 누구를 돕고 무엇을 지키는지 확인해야 영웅성이 드러난다.\n\n악습 자체를 좋은 것으로 미화하는 뜻은 아니다. 목적을 위해 타인을 소모하는 악역과도 실제 행위가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

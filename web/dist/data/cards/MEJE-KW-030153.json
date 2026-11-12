@@ -4,8 +4,8 @@
   "title": "순화된 대사를 적고 실제 말은 달랐다고 알리기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01952",
+  "primary_tag_id": "ML-T01952",
   "description": {
     "definition": "직접 대사에는 약한 표현을 쓰면서 서술자가 실제 인물의 발화는 더 거친 말이었다고 덧붙이는 방식이다.",
     "detail": "작품 사례: 《[[The Kingdom Keepers]]》는 메이벡이 쓴 말로 순한 단어를 제시하고 실제 단어는 달랐다고 바로 덧붙인다.",
@@ -13,10 +13,10 @@
     "boundary": "인물이 실제로 순한 말만 사용한 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "기록된 대사는 순한 표현이지만 서술은 실제 발언이 더 거칠었다고 알린다. 독자는 직접 읽은 단어와 인물이 쓴 말의 수위가 다름을 이해한다.\n\n이 방식은 인물의 거친 태도를 유지하면서 작품에 노출되는 어휘를 조절한다. 서술자의 덧붙임이 두 수준 사이의 차이를 전달한다.\n\n인물이 실제로 순한 말을 사용한 경우와는 다르다. 더 강한 발언이 있었다는 설명이 작품 안에서 확인되어야 한다.\n\n[[The Kingdom Keepers]]는 메이벡의 말로 순한 단어를 제시한 뒤 실제 단어는 달랐다고 덧붙인다.\n\n[[The Kingdom Keepers]]",
+    "sections": [
+      [
+        "상세 설명",
+        "기록된 대사는 순한 표현이지만 서술은 실제 발언이 더 거칠었다고 알린다. 독자는 직접 읽은 단어와 인물이 쓴 말의 수위가 다름을 이해한다.\n\n이 방식은 인물의 거친 태도를 유지하면서 작품에 노출되는 어휘를 조절한다. 서술자의 덧붙임이 두 수준 사이의 차이를 전달한다.\n\n인물이 실제로 순한 말을 사용한 경우와는 다르다. 더 강한 발언이 있었다는 설명이 작품 안에서 확인되어야 한다."
+      ],
+      [
+        "사례",
+        "[[The Kingdom Keepers]]는 메이벡의 말로 순한 단어를 제시한 뒤 실제 단어는 달랐다고 덧붙인다."
+      ],
+      [
+        "관련 작품",
+        "[[The Kingdom Keepers]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

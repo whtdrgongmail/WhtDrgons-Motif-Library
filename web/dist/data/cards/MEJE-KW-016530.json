@@ -4,8 +4,8 @@
   "title": "인간의 가해에 보복하는 괴물",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "인간을 먼저 습격한 것으로 보이던 괴물이 사실 과거 인간에게 입은 피해나 공포 때문에 공격했음이 드러나는 구성이다. 위협의 원인을 알게 되며 가해와 방어의 위치가 바뀐다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "이유 없는 공격에 관객이 임의로 사연을 붙이는 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "괴물의 습격 뒤에 인간의 선행 가해가 드러나면 공격의 원인이 다시 해석된다. 단순한 퇴치보다 과거 피해와 현재 보복을 어떻게 끝낼지가 중요해질 수 있다.\n\n처음의 습격은 관객을 인간 피해자 쪽에 붙들어 둘 수 있다. 뒤늦은 원인 공개는 격퇴의 정당성을 다시 검토하게 하며 사건을 멈추는 방법도 과거 관계의 해결로 바꾼다.\n\n관객이 사연을 상상하는 것만으로는 부족하다. 작품이 과거의 피해와 현재 공격의 인과관계를 제시해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "괴물의 습격 뒤에 인간의 선행 가해가 드러나면 공격의 원인이 다시 해석된다. 단순한 퇴치보다 과거 피해와 현재 보복을 어떻게 끝낼지가 중요해질 수 있다.\n\n처음의 습격은 관객을 인간 피해자 쪽에 붙들어 둘 수 있다. 뒤늦은 원인 공개는 격퇴의 정당성을 다시 검토하게 하며 사건을 멈추는 방법도 과거 관계의 해결로 바꾼다.\n\n관객이 사연을 상상하는 것만으로는 부족하다. 작품이 과거의 피해와 현재 공격의 인과관계를 제시해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "집착적인 수집가",
   "original": "The Collector",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "MEJE-KW-009587",
+  "primary_tag_id": "MEJE-KW-009587",
   "description": {
     "definition": "특정 물건을 모으는 행위가 강한 욕망과 정체성의 중심을 이루는 인물 유형이다.",
     "detail": "작품 사례: [[The Powerpuff Girls (1998)]]의 집착적인 팬은 굿즈 수집을 넘어 실제 파워퍼프걸까지 납치해 자기 소장품에 넣으려 한다.",
@@ -13,11 +13,11 @@
     "boundary": "범죄나 악역 성격은 가능한 변형이며 모든 수집가의 필수 조건은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
-    "review_status": "provisional",
+    "code": "09.007.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 대상을 소유하고 늘려 가려는 욕망이 인물의 선택을 반복적으로 지배한다. 수집 범위를 확장하는 과정에서 소유물과 살아 있는 존재의 경계를 넘으면 집착이 갈등의 원인이 될 수 있다.\n\n수집 취미가 있다고 모두 집착적이거나 범죄자인 것은 아니다. 인물의 우선순위와 타인의 권리를 침해하는 행동이 제시되는지 확인하고 가능한 악역 변형을 전체의 필수 조건으로 삼지 않는다.\n\n《[[The Powerpuff Girls (1998)]]》의 집착적인 팬은 관련 상품을 넘어 실제 파워퍼프걸까지 소장하려 납치한다. 상품 수집의 논리를 인물에게 적용한 극단적인 변형이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 대상을 소유하고 늘려 가려는 욕망이 인물의 선택을 반복적으로 지배한다. 수집 범위를 확장하는 과정에서 소유물과 살아 있는 존재의 경계를 넘으면 집착이 갈등의 원인이 될 수 있다.\n\n수집 취미가 있다고 모두 집착적이거나 범죄자인 것은 아니다. 인물의 우선순위와 타인의 권리를 침해하는 행동이 제시되는지 확인하고 가능한 악역 변형을 전체의 필수 조건으로 삼지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[The Powerpuff Girls (1998)]]》의 집착적인 팬은 관련 상품을 넘어 실제 파워퍼프걸까지 소장하려 납치한다. 상품 수집의 논리를 인물에게 적용한 극단적인 변형이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

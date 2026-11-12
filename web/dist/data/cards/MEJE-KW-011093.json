@@ -4,8 +4,8 @@
   "title": "큰 병인 줄 알았던 복부 불편",
   "original": "Gassy Scare",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00710",
+  "primary_tag_id": "ML-T00710",
   "description": {
     "definition": "인물이 복부의 불편함을 심각한 병으로 오인했다가 작품 속에서는 가스로 설명되며 안도나 민망함을 느끼는 반전이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "06",
+    "code": "06.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "복부의 불편을 심각한 병으로 생각했다가 작품 안에서는 가스가 원인으로 밝혀지는 반전이다. 공포가 안도와 민망함으로 바뀐다.\n\n주변의 과도한 준비와 진지한 걱정이 결과와 대비되어 희극을 만든다. 평소 신체 농담과 거리가 먼 인물에게 적용하면 의외성이 커진다.\n\n실제 복통을 사소하다고 판단하는 기준은 아니다. 작품이 확인한 특정 원인과 현실에서 증상을 평가하는 문제를 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "복부의 불편을 심각한 병으로 생각했다가 작품 안에서는 가스가 원인으로 밝혀지는 반전이다. 공포가 안도와 민망함으로 바뀐다.\n\n주변의 과도한 준비와 진지한 걱정이 결과와 대비되어 희극을 만든다. 평소 신체 농담과 거리가 먼 인물에게 적용하면 의외성이 커진다.\n\n실제 복통을 사소하다고 판단하는 기준은 아니다. 작품이 확인한 특정 원인과 현실에서 증상을 평가하는 문제를 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

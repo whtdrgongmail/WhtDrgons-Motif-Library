@@ -4,8 +4,8 @@
   "title": "더 심한 경험을 들려주며 위로하기",
   "original": "If You Thought That Was Bad...",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01968",
+  "primary_tag_id": "ML-T01968",
   "description": {
     "definition": "속상한 일을 말하는 상대에게 더 힘들었던 경험을 들려주어 지금의 상황이 그나마 낫다고 느끼게 하려는 대화 방식이다.",
     "detail": "위로가 통할 수도 있고 오히려 화를 돋우거나 자신의 고통을 다시 떠올리게 할 수도 있다.\n\n작품 사례: 《[[요절복통 70쇼]]》에서 도나는 부모의 사적인 장면을 보고 당황한 에릭을 달래려고 더 민망했던 자신의 경험을 말하지만, 이번에는 자신이 괴로워진다.",
@@ -13,19 +13,19 @@
     "boundary": "누가 더 불행한지 경쟁해 상대를 눌러 버리는 대화와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "그보다 더한 일도 있었다며 상대를 달랜다.\n\n작품 사례: 《[[요절복통 70쇼]]》에서 도나는 부모의 사적인 장면을 보고 당황한 에릭을 달래려고 더 민망했던 자신의 경험을 말하지만, 이번에는 자신이 괴로워진다.",
+    "easy_ko": "그보다 더한 일도 있었다며 상대를 달랜다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위로가 통할 수도 있고 오히려 화를 돋우거나 자신의 고통을 다시 떠올리게 할 수도 있다.\n\n누가 더 불행한지 경쟁해 상대를 눌러 버리는 대화와 구별한다.\n\n《[[요절복통 70쇼]]》에서 도나는 부모의 사적인 장면을 보고 당황한 에릭을 달래려고 더 민망했던 자신의 경험을 말하지만, 이번에는 자신이 괴로워진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위로가 통할 수도 있고 오히려 화를 돋우거나 자신의 고통을 다시 떠올리게 할 수도 있다.\n\n누가 더 불행한지 경쟁해 상대를 눌러 버리는 대화와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[요절복통 70쇼]]》에서 도나는 부모의 사적인 장면을 보고 당황한 에릭을 달래려고 더 민망했던 자신의 경험을 말하지만, 이번에는 자신이 괴로워진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

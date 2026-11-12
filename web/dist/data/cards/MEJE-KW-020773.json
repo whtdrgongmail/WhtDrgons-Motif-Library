@@ -4,39 +4,62 @@
   "title": "세대가 다른 라이벌",
   "original": "Intergenerational Rivalry",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01021",
+  "primary_tag_id": "ML-T01021",
   "description": {
     "definition": "나이와 생애 단계가 크게 다른 두 인물이 지속적으로 서로를 경쟁 상대로 삼는 관계다.",
     "detail": "경험과 재능의 대비, 어린 상대를 이기려는 집착, 존중을 통해 사제로 발전하는 관계 등으로 나타난다.\n\n작품 사례: 《[[원피스]]》에서 조로는 노련한 세계 최강의 검사 미호크를 넘어서려 하며, 미호크는 그의 가능성을 인정하고 훗날 직접 가르치기도 한다.",
-    "usage": "축적된 경험과 새 가능성을 대비하고 경쟁이 세대 사이의 적대나 계승으로 바뀌는 과정을 만든다.",
-    "boundary": "나이 차이만 있는 일회성 싸움과 구별한다. 일정 기간 이어지는 경쟁 관계가 있어야 한다."
+    "usage": "",
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": {
-    "easy_ko": "젊은 도전자와 훨씬 나이 든 상대가 여러 번의 승부를 통해 맞서거나 성장한다.\n\n작품 사례: 《[[원피스]]》에서 조로는 노련한 세계 최강의 검사 미호크를 넘어서려 하며, 미호크는 그의 가능성을 인정하고 훗날 직접 가르치기도 한다.",
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "젊은 도전자와 훨씬 나이 든 상대가 여러 번의 승부를 통해 맞서거나 성장한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001346",
+      "work_card_id": "MM-MEDIA-002136",
       "description_ko": "《원피스》에서 조로는 노련한 세계 최강의 검사 미호크를 넘어서려 하며, 미호크는 그의 가능성을 인정하고 훗날 직접 가르치기도 한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "경험과 재능의 대비, 어린 상대를 이기려는 집착, 존중을 통해 사제로 발전하는 관계 등으로 나타난다.\n\n축적된 경험과 새 가능성을 대비하고 경쟁이 세대 사이의 적대나 계승으로 바뀌는 과정을 만든다.\n\n나이 차이만 있는 일회성 싸움과 구별한다. 일정 기간 이어지는 경쟁 관계가 있어야 한다.\n\n《[[원피스(만화)]]》에서 조로는 노련한 세계 최강의 검사 미호크를 넘어서려 하며, 미호크는 그의 가능성을 인정하고 훗날 직접 가르치기도 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "경험과 재능의 대비, 어린 상대를 이기려는 집착, 존중을 통해 사제로 발전하는 관계 등으로 나타난다.\n\n축적된 경험과 새 가능성을 대비하고 경쟁이 세대 사이의 적대나 계승으로 바뀌는 과정을 만든다.\n\n나이 차이만 있는 일회성 싸움과 구별한다. 일정 기간 이어지는 경쟁 관계가 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[원피스(만화)]]》에서 조로는 노련한 세계 최강의 검사 미호크를 넘어서려 하며, 미호크는 그의 가능성을 인정하고 훗날 직접 가르치기도 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "B급 영화를 거리낌 없이 즐기는 팬",
   "original": "Unabashed B-Movie Fan",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F26",
+  "tag_id": "ML-T02214",
+  "primary_tag_id": "ML-T02214",
   "description": {
     "definition": "저예산·통속적 영화의 특징을 비웃기만 하지 않고 진심으로 좋아하는 인물 유형이다.",
     "detail": "작품 사례: [[Monster Warriors]]의 크리거는 희귀한 저예산 SF·공포영화 가게를 운영하며, 좋아하는 옛 감독의 괴물 지식으로 주인공들에게 조언한다.",
@@ -13,10 +13,10 @@
     "boundary": "조롱할 목적으로만 보는 태도와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "26",
+    "code": "26.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "낮은 제작비나 낮은 평가를 이유로 취향을 숨기지 않고 해당 영화들을 즐긴다. 작품에 대한 지식은 다른 인물에게 실질적인 도움이 될 수도 있어, 팬의 애착이 단순 조롱의 대상에 머물지 않을 수 있다.\n\n비웃기 위해서만 보는 태도와는 즐기는 방식이 다르다. 저예산이라는 제작 조건과 실제 완성도, 팬이 느끼는 가치를 한 가지 평가로 묶지 않는다.\n\n《[[Monster Warriors]]》의 크리거는 희귀한 저예산 SF·공포영화 가게를 운영한다. 좋아하는 옛 감독의 괴물에 대한 지식으로 주인공들에게 조언하여 취향이 도움의 자원이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "낮은 제작비나 낮은 평가를 이유로 취향을 숨기지 않고 해당 영화들을 즐긴다. 작품에 대한 지식은 다른 인물에게 실질적인 도움이 될 수도 있어, 팬의 애착이 단순 조롱의 대상에 머물지 않을 수 있다.\n\n비웃기 위해서만 보는 태도와는 즐기는 방식이 다르다. 저예산이라는 제작 조건과 실제 완성도, 팬이 느끼는 가치를 한 가지 평가로 묶지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[Monster Warriors]]》의 크리거는 희귀한 저예산 SF·공포영화 가게를 운영한다. 좋아하는 옛 감독의 괴물에 대한 지식으로 주인공들에게 조언하여 취향이 도움의 자원이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

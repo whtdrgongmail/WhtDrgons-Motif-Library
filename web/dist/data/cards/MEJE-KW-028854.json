@@ -4,8 +4,8 @@
   "title": "산타처럼 보인 사람이 진짜인지 열어 두기",
   "original": "Santa Ambiguity",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01947",
+  "primary_tag_id": "ML-T01947",
   "description": {
     "definition": "산타로 보이는 방문자가 실제 산타인지 평범한 사람인지 작품이 확정하지 않아 두 해석이 함께 남는 구성이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "산타가 아니었다고 명확히 밝혀지는 오해와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "23.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "산타로 보이는 인물의 행동에 초자연적 해석과 일상적 해석이 함께 가능하다. 어느 쪽도 결정적으로 입증하지 않기 때문에 관객의 믿음에 따라 결말의 느낌이 달라진다.\n\n우연이라고 설명할 수 있는 선물이나 흔적이 반복되면 의심과 기대를 동시에 유지할 수 있다. 명확한 정체 공개를 생략하는 방식은 크리스마스의 신비를 작품의 현실성과 공존하게 한다.\n\n실제 산타가 분명히 등장하는 세계나 산타가 없다고 확정한 이야기와는 다르다. 변장한 사람이 잠시 산타로 오인되는 것만으로는 부족하며 해석의 불확정성이 남아야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "산타로 보이는 인물의 행동에 초자연적 해석과 일상적 해석이 함께 가능하다. 어느 쪽도 결정적으로 입증하지 않기 때문에 관객의 믿음에 따라 결말의 느낌이 달라진다.\n\n우연이라고 설명할 수 있는 선물이나 흔적이 반복되면 의심과 기대를 동시에 유지할 수 있다. 명확한 정체 공개를 생략하는 방식은 크리스마스의 신비를 작품의 현실성과 공존하게 한다.\n\n실제 산타가 분명히 등장하는 세계나 산타가 없다고 확정한 이야기와는 다르다. 변장한 사람이 잠시 산타로 오인되는 것만으로는 부족하며 해석의 불확정성이 남아야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

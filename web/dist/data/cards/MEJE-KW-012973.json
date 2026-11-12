@@ -6,8 +6,8 @@
   "aliases": [
     "거칠고 가공된 보컬 표현"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "깨끗한 선율 발성보다 으르렁거림·갈린 소리·거친 외침을 강조하는 보컬 표현이다.",
     "detail": "작품 사례: [[Ar tonelico II: Melody of Metafalica]]의 [[EXEC_over.METHOD_SUBLIMATION ~ ee wassa sos yehar]]는 강렬한 후렴의 발성을 통해 거친 보컬의 사례로 제시된다.",
@@ -15,10 +15,10 @@
     "boundary": "일상적인 쉰 말소리나 [[노래]]를 못한다는 평가, 녹음 품질이 나쁘다는 평가와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -54,5 +54,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "으르렁거림과 갈린 소리, 거친 외침을 보컬의 표현으로 쓴다. 선율의 깨끗함보다 소리의 질감이 감정과 강도를 전달한다.\n\n목소리의 거친 성질은 연주의 의도적인 요소일 수 있다. 음정과 발성의 평가를 같은 기준으로 묶을 필요는 없다.\n\n평소 말소리가 쉰 상태와 다르다. 노래를 못하거나 녹음 품질이 나쁘다는 판단도 별개다.\n\n[[Ar tonelico II: Melody of Metafalica]]의 [[EXEC_over.METHOD_SUBLIMATION ~ ee wassa sos yehar]]는 강렬한 후렴의 발성을 통해 거친 보컬의 사례로 제시된다.\n\n[[Ar tonelico II: Melody of Metafalica]]; [[EXEC_over.METHOD_SUBLIMATION ~ ee wassa sos yehar]]",
+    "sections": [
+      [
+        "상세 설명",
+        "으르렁거림과 갈린 소리, 거친 외침을 보컬의 표현으로 쓴다. 선율의 깨끗함보다 소리의 질감이 감정과 강도를 전달한다.\n\n목소리의 거친 성질은 연주의 의도적인 요소일 수 있다. 음정과 발성의 평가를 같은 기준으로 묶을 필요는 없다.\n\n평소 말소리가 쉰 상태와 다르다. 노래를 못하거나 녹음 품질이 나쁘다는 판단도 별개다."
+      ],
+      [
+        "사례",
+        "[[Ar tonelico II: Melody of Metafalica]]의 [[EXEC_over.METHOD_SUBLIMATION ~ ee wassa sos yehar]]는 강렬한 후렴의 발성을 통해 거친 보컬의 사례로 제시된다."
+      ],
+      [
+        "관련 작품",
+        "[[Ar tonelico II: Melody of Metafalica]]; [[EXEC_over.METHOD_SUBLIMATION ~ ee wassa sos yehar]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

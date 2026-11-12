@@ -4,8 +4,8 @@
   "title": "관객 언어의 억양으로 외국어를 대신하기",
   "original": "Just a Stupid Accent",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01972",
+  "primary_tag_id": "ML-T01972",
   "description": {
     "definition": "등장인물들이 극중에서는 다른 언어를 쓰는 상황을 관객의 언어로 들려주면서 외국 억양을 붙여 그 배경을 표시한다.",
     "detail": "작품 사례: 《[[멜 브룩스의 세계사]]》는 프랑스 인물이 실제 프랑스어 대신 억양이 붙은 영어로 말하는 관습을 대사로 직접 놀린다.",
@@ -13,10 +13,10 @@
     "boundary": "작중 실제로 제2언어를 말하는 외국인의 말투와 번역 관습을 구별한다. 억양을 지적 능력과 연결하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물들은 극중에서 외국어를 쓰고 있지만 관객에게는 기본 언어에 외국 억양을 붙인 대사로 들린다. 이해하기 쉬운 대사와 외국 배경의 표시를 함께 얻으려는 번역 관습이며, 간단한 원어 표현이 간혹 섞이기도 한다. 외국인이 실제로 제2언어를 구사하는 장면과 달리, 억양은 그 인물의 실제 발음 능력이 아니라 관객에게 들려주는 표현 방식이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물들은 극중에서 외국어를 쓰고 있지만 관객에게는 기본 언어에 외국 억양을 붙인 대사로 들린다. 이해하기 쉬운 대사와 외국 배경의 표시를 함께 얻으려는 번역 관습이며, 간단한 원어 표현이 간혹 섞이기도 한다. 외국인이 실제로 제2언어를 구사하는 장면과 달리, 억양은 그 인물의 실제 발음 능력이 아니라 관객에게 들려주는 표현 방식이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

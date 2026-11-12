@@ -9,12 +9,12 @@
   "description": {
     "definition": "배경으로 제시한 지역이나 생태 환경과 맞지 않는 동물이 그곳의 야생동물처럼 등장하는 묘사다.",
     "detail": "",
-    "usage": "동물의 대역 사용과 배경 상징화가 세계의 생태를 어떻게 바꾸는지 살핀다.",
+    "usage": "동물의 대역 사용과 배경 상징화가 세계의 생태를 어떻게 바꾸는지 확인한다.",
     "boundary": "사육·이주·이식이 설명되거나 자체 생태 규칙이 있는 가상세계는 따로 판단한다. 의인화 동물의 이동을 자연 서식 분포와 동일하게 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
     "code": "14",
     "review_status": "provisional",
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "배경의 지역과 맞지 않는 동물을 야생 생물처럼 배치한다. 장면이 원하는 이미지가 생태적인 조건보다 우선한다.\n\n촬영 가능한 동물의 사정이 영향을 줄 수 있다. 가상 세계의 다른 서식 분포인지 실제 지역의 오류인지는 설정과 함께 판단한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "배경의 지역과 맞지 않는 동물을 야생 생물처럼 배치한다. 장면이 원하는 이미지가 생태적인 조건보다 우선한다.\n\n촬영 가능한 동물의 사정이 영향을 줄 수 있다. 가상 세계의 다른 서식 분포인지 실제 지역의 오류인지는 설정과 함께 판단한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

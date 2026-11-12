@@ -4,17 +4,17 @@
   "title": "스타워즈: 클론 전쟁",
   "original": "Star Wars: The Clone Wars",
   "aliases": [],
-  "tag_id": null,
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "《스타워즈: 클론 전쟁》은 애니메이션 작품이다.",
-    "detail": "작품 사례: 《스타워즈: 클론 전쟁》에서는 클론 병사의 뇌에 심어진 억제 칩이 오더 66에 따른 제다이 암살을 실행하게 한다. 자유로운 충성 판단을 대신하는 직접 통제 장치다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -47,6 +47,14 @@
       "row_version": 1
     },
     {
+      "card_id": "MEJE-KW-020969",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-020970",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-022632",
       "row_version": 1
     },
@@ -55,5 +63,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《스타워즈: 클론 전쟁》은 공화국과 분리주의 세력의 전쟁을 다루는 CGI [[애니메이션]] 시리즈다. 제다이들은 클론 군대의 장군이 되어 싸우고, 아나킨과 오비완, 아소카를 중심으로 여러 전투와 정치 사건이 이어진다.\n\n본편 영화 사이의 기간을 확장하여 병사와 제다이, 정치가들이 같은 전쟁을 경험하는 여러 시점을 보여 준다. 단순한 전투의 연속보다 각 임무가 인물 관계와 전쟁의 결과에 쌓이는 구성이다. 앞선 2D 단편 시리즈와는 제작 형식과 사건 배열을 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《스타워즈: 클론 전쟁》은 공화국과 분리주의 세력의 전쟁을 다루는 CGI [[애니메이션]] 시리즈다. 제다이들은 클론 군대의 장군이 되어 싸우고, 아나킨과 오비완, 아소카를 중심으로 여러 전투와 정치 사건이 이어진다.\n\n본편 영화 사이의 기간을 확장하여 병사와 제다이, 정치가들이 같은 전쟁을 경험하는 여러 시점을 보여 준다. 단순한 전투의 연속보다 각 임무가 인물 관계와 전쟁의 결과에 쌓이는 구성이다. 앞선 2D 단편 시리즈와는 제작 형식과 사건 배열을 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

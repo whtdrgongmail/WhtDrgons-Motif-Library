@@ -4,26 +4,29 @@
   "title": "흑인 인물이 중심인 상황극",
   "original": "Black Sitcom",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00309",
+  "primary_tag_id": "ML-T00309",
   "description": {
-    "definition": "흑인 인물·가족·[[공동체]]의 일상과 유머를 중심에 두고 형성된 TV 상황극의 작품군. 주연 인물의 인종만이 아니라 창작·방송 맥락과 표현 관습을 함께 살핀다.",
+    "definition": "흑인 인물·가족·[[공동체]]의 일상과 유머를 중심에 두고 형성된 TV 상황극의 작품군. 주연 인물의 인종뿐 아니라 창작·방송 맥락과 표현 관습이 작품군을 구별하는 요소다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 5,
   "classification": {
-    "code": "03",
+    "code": "03.110.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주요 인물의 다수가 아프리카계인 상황희극을 가리킨다. 가족과 학교, 직장과 연애 등 반복해서 돌아오는 생활 공간에서 인물들의 관계와 소동을 다룬다.\n\n어두운 소재를 웃음으로 다루는 [[블랙코미디]]와는 분류의 기준이 다르다. 여기서 검다는 표현은 중심 인물의 구성에 관한 것이며 작품의 잔혹함과 풍자의 강도를 뜻하지 않는다. 두 성격이 함께 나타날 수는 있다.\n\n흑인 인물 한 명이 나오는 작품과 달리 주된 관계망과 일상의 관점이 해당 인물들을 중심으로 형성된다. 백인과 다른 집단의 인물이 조연과 소수자로 등장할 수도 있다. 모든 작품이 인종 문제만을 소재로 삼아야 하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주요 인물의 다수가 아프리카계인 상황희극을 가리킨다. 가족과 학교, 직장과 연애 등 반복해서 돌아오는 생활 공간에서 인물들의 관계와 소동을 다룬다.\n\n어두운 소재를 웃음으로 다루는 [[블랙코미디]]와는 분류의 기준이 다르다. 여기서 검다는 표현은 중심 인물의 구성에 관한 것이며 작품의 잔혹함과 풍자의 강도를 뜻하지 않는다. 두 성격이 함께 나타날 수는 있다.\n\n흑인 인물 한 명이 나오는 작품과 달리 주된 관계망과 일상의 관점이 해당 인물들을 중심으로 형성된다. 백인과 다른 집단의 인물이 조연과 소수자로 등장할 수도 있다. 모든 작품이 인종 문제만을 소재로 삼아야 하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

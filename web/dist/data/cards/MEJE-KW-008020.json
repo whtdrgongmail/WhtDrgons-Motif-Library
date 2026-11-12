@@ -4,8 +4,8 @@
   "title": "약물이 발린 립스틱",
   "original": "Drugged Lipstick",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01482",
+  "primary_tag_id": "ML-T01482",
   "description": {
     "definition": "입맞춤을 매개로 상대에게 약물의 영향이 나타나도록 설정한 허구적 립스틱. 친밀한 행동이 신뢰의 침해로 뒤바뀌는 갈등을 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "입맞춤한 상대에게 약물과 독의 영향이 나타나는 가상의 립스틱이다. 친밀한 접촉이 공격과 기만의 경로로 바뀐다.\n\n바르는 사람은 영향을 받지 않는다는 별도의 설정이 필요할 수 있다. 상대는 호감과 신뢰 때문에 경계를 낮추므로 결과가 나타난 뒤 관계와 정보의 의미가 반전된다.\n\n일반적인 화장품의 성질을 설명하는 개념은 아니다. 즉각적인 작용과 선택적인 영향은 허구적인 편의가 섞이며, 장치의 제작과 투여법보다 동의를 침해하는 속임수의 서사 기능이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "입맞춤한 상대에게 약물과 독의 영향이 나타나는 가상의 립스틱이다. 친밀한 접촉이 공격과 기만의 경로로 바뀐다.\n\n바르는 사람은 영향을 받지 않는다는 별도의 설정이 필요할 수 있다. 상대는 호감과 신뢰 때문에 경계를 낮추므로 결과가 나타난 뒤 관계와 정보의 의미가 반전된다.\n\n일반적인 화장품의 성질을 설명하는 개념은 아니다. 즉각적인 작용과 선택적인 영향은 허구적인 편의가 섞이며, 장치의 제작과 투여법보다 동의를 침해하는 속임수의 서사 기능이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

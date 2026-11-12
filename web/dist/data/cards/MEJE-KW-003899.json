@@ -4,8 +4,8 @@
   "title": "무거운 물건에 묶인 채 끌고 가기",
   "original": "Bring the Anchor Along",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00754",
+  "primary_tag_id": "ML-T00754",
   "description": {
     "definition": "붙잡힌 인물이 움직이지 못하도록 묶였지만 그 물건까지 끌고 이동한다. 구속의 무게가 의외의 탈출 장면을 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.003.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "움직이지 못하게 무거운 물건에 묶은 사람이 그 물건 자체를 끌고 나오는 전개다. 구속의 연결은 남아 있지만 고정물이라고 믿었던 전제가 깨져 힘과 집념이 드러난다.\n\n물건의 무게는 이동을 느리게 하고 소리를 만들어 완전한 해방과 다른 제약을 남긴다. 뒤늦게 도착한 인물에게는 포로가 사라진 자리와 끌린 흔적이 예상 밖의 탈출을 알리는 단서가 된다.\n\n매듭과 구속을 풀고 빠져나온 경우와는 방식이 다르다. [[세계관]]의 실제 힘과 이동을 확인하며, 옮길 수 있었다는 사실만으로 모든 위험과 피로가 없어졌다고 판단하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "움직이지 못하게 무거운 물건에 묶은 사람이 그 물건 자체를 끌고 나오는 전개다. 구속의 연결은 남아 있지만 고정물이라고 믿었던 전제가 깨져 힘과 집념이 드러난다.\n\n물건의 무게는 이동을 느리게 하고 소리를 만들어 완전한 해방과 다른 제약을 남긴다. 뒤늦게 도착한 인물에게는 포로가 사라진 자리와 끌린 흔적이 예상 밖의 탈출을 알리는 단서가 된다.\n\n매듭과 구속을 풀고 빠져나온 경우와는 방식이 다르다. [[세계관]]의 실제 힘과 이동을 확인하며, 옮길 수 있었다는 사실만으로 모든 위험과 피로가 없어졌다고 판단하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

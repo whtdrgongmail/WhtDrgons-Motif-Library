@@ -6,8 +6,8 @@
   "aliases": [
     "남성을 어린아이 같다고 지적하는 관계"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00973",
+  "primary_tag_id": "ML-T00973",
   "description": {
     "definition": "여성이 남성, 특히 배우자의 어린아이 같은 행동을 지적하는 관계 관습이다.",
     "detail": "아내나 연인이 남성의 절제 부족을 지적하는 경우가 흔하지만 부부 관계만을 요구하지 않는다.\n\n작품 사례: 《[[닥터 후]]》의 「The Time Warrior」에서 중세의 여성 감독자는 남성들을 시끄러운 소란을 좋아하는 아이들과 같다고 말한다.",
@@ -15,10 +15,10 @@
     "boundary": "남성 전체의 특성이라는 사실 진술과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -40,5 +40,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "아내나 연인이 남성의 절제 부족을 지적하는 경우가 흔하지만 부부 관계만을 요구하지 않는다.\n\n여성 인물이 책임감과 절제를 요구하고 남성의 행동을 아이의 행동에 빗대는 구도다. 이를 남성 일반의 성숙도에 관한 사실로 해석할 근거는 없다.\n\n남성 전체의 특성이라는 사실 진술과 구별한다.\n\n《[[닥터 후]]》의 「The Time Warrior」에서 중세의 여성 감독자는 남성들을 시끄러운 소란을 좋아하는 아이들과 같다고 말한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "아내나 연인이 남성의 절제 부족을 지적하는 경우가 흔하지만 부부 관계만을 요구하지 않는다.\n\n여성 인물이 책임감과 절제를 요구하고 남성의 행동을 아이의 행동에 빗대는 구도다. 이를 남성 일반의 성숙도에 관한 사실로 해석할 근거는 없다.\n\n남성 전체의 특성이라는 사실 진술과 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[닥터 후]]》의 「The Time Warrior」에서 중세의 여성 감독자는 남성들을 시끄러운 소란을 좋아하는 아이들과 같다고 말한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

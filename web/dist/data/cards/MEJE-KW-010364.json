@@ -4,8 +4,8 @@
   "title": "휙 날아가는 갈아입은 옷",
   "original": "Flung Clothing",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01908",
+  "primary_tag_id": "ML-T01908",
   "description": {
     "definition": "급히 옷을 갈아입는 장면을 직접 보여 주지 않고 벗은 옷이 공중으로 날아가는 모습과 새 차림을 이어 붙인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "갈아입는 신체를 직접 보여 주는 대신 벗은 옷이 날아가는 장면과 새 차림을 연결하는 연출이다. 노출 없이 빠른 변화를 전달한다.\n\n공중에 던져진 옷의 수와 속도는 급박함과 활기를 표현한다. 마지막에 완성된 모습을 보여 주면 짧은 준비 과정이 등장 효과로 바뀐다.\n\n마법으로 의상이 변하는 장면과는 수단이 다르다. 평범하게 갈아입는 행동을 화면의 생략과 연결로 압축한다는 점이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "갈아입는 신체를 직접 보여 주는 대신 벗은 옷이 날아가는 장면과 새 차림을 연결하는 연출이다. 노출 없이 빠른 변화를 전달한다.\n\n공중에 던져진 옷의 수와 속도는 급박함과 활기를 표현한다. 마지막에 완성된 모습을 보여 주면 짧은 준비 과정이 등장 효과로 바뀐다.\n\n마법으로 의상이 변하는 장면과는 수단이 다르다. 평범하게 갈아입는 행동을 화면의 생략과 연결로 압축한다는 점이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

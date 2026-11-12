@@ -4,8 +4,8 @@
   "title": "완성될 건물을 모형으로 제시하기",
   "original": "This Is What the Building Will Look Like",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01947",
+  "primary_tag_id": "ML-T01947",
   "description": {
     "definition": "앞으로 지을 건축물의 완성 모습을 모형으로 보여 주어 건설 계획과 그 규모를 설명하는 장면이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "기존 장소에서 벌일 작전을 설명하는 모형과 구별한다. 악역의 사업 계획에 쓰일 수 있지만 악의는 필수가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "아직 존재하지 않거나 화면에서 직접 보여 주기 어려운 건물을 축소 형태로 제시한다. 모형은 계획의 규모와 외관을 한 장면에서 전달하는 대체 이미지가 된다.\n\n사업을 추진하는 인물이 모형을 설명하면 자신의 야망과 공간에 대한 통제 의식을 드러낼 수 있다. 계획과 실제 결과의 차이가 커질수록 모형은 실현되지 않은 미래의 흔적으로 남는다.\n\n[[모형을 보며 세우는 작전]]이 행동 경로를 설명한다면 이 유형은 건설 결과의 모습을 제시한다. 모형이 나왔다는 이유만으로 실제 공사가 완성되었다고 볼 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "아직 존재하지 않거나 화면에서 직접 보여 주기 어려운 건물을 축소 형태로 제시한다. 모형은 계획의 규모와 외관을 한 장면에서 전달하는 대체 이미지가 된다.\n\n사업을 추진하는 인물이 모형을 설명하면 자신의 야망과 공간에 대한 통제 의식을 드러낼 수 있다. 계획과 실제 결과의 차이가 커질수록 모형은 실현되지 않은 미래의 흔적으로 남는다.\n\n[[모형을 보며 세우는 작전]]이 행동 경로를 설명한다면 이 유형은 건설 결과의 모습을 제시한다. 모형이 나왔다는 이유만으로 실제 공사가 완성되었다고 볼 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

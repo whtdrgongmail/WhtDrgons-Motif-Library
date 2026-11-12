@@ -4,8 +4,8 @@
   "title": "하렘 집단의 보호자",
   "original": "Harem Nanny",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00884",
+  "primary_tag_id": "ML-T00884",
   "description": {
     "definition": "여러 연애 관계가 얽힌 집단에서 일상적인 소동에는 거리를 두면서 큰 문제를 차분하게 관리하는 보호자 역할이다.",
     "detail": "작품 사례: [[Ouran High School Host Club]]의 쿄야는 회장은 아니지만 집단의 사정을 파악하고 운영을 챙겨, 주변의 연애 소동 속에서 관리와 돌봄의 역할을 맡는다.",
@@ -13,10 +13,10 @@
     "boundary": "보통 연애 경쟁 바깥에 있는 역할이며 집단의 대표 연인과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여러 사람의 연애 소동이 이어지는 집단에서 한 인물은 운영과 돌봄을 담당한다. 사소한 경쟁에 휘말리기보다 큰 문제가 생길 때 상황을 차분하게 정리한다.\n\n관리자는 구성원들의 사정을 파악해 집단의 일상을 지속시키는 역할을 한다. 공식적인 대표가 아니어도 실제 운영의 중심일 수 있다.\n\n집단에서 가장 많은 구애를 받는 대표 연인과는 기능이 다르다. 보통 경쟁 바깥에 있다는 위치와 보호자적인 행동을 함께 확인해야 한다.\n\n[[Ouran High School Host Club]]의 쿄야는 회장은 아니지만 집단 사정과 운영을 챙긴다.\n\n[[Ouran High School Host Club]]",
+    "sections": [
+      [
+        "상세 설명",
+        "여러 사람의 연애 소동이 이어지는 집단에서 한 인물은 운영과 돌봄을 담당한다. 사소한 경쟁에 휘말리기보다 큰 문제가 생길 때 상황을 차분하게 정리한다.\n\n관리자는 구성원들의 사정을 파악해 집단의 일상을 지속시키는 역할을 한다. 공식적인 대표가 아니어도 실제 운영의 중심일 수 있다.\n\n집단에서 가장 많은 구애를 받는 대표 연인과는 기능이 다르다. 보통 경쟁 바깥에 있다는 위치와 보호자적인 행동을 함께 확인해야 한다."
+      ],
+      [
+        "사례",
+        "[[Ouran High School Host Club]]의 쿄야는 회장은 아니지만 집단 사정과 운영을 챙긴다."
+      ],
+      [
+        "관련 작품",
+        "[[Ouran High School Host Club]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

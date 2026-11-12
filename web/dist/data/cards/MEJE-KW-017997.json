@@ -4,8 +4,8 @@
   "title": "우주를 개척지로 그리는 서부극",
   "original": "Space Western",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00347",
+  "primary_tag_id": "ML-T00347",
   "description": {
     "definition": "과학소설의 우주·미래 환경에 서부극의 개척지, 떠돌이, 법과 무법의 [[갈등]]을 결합한 장르다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": "미래 배경에서 총격전이 일어나는 모든 작품이 아니라 서부극의 인물과 질서가 함께 작동해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.114",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "우주 항로와 행성이 황야와 변경 마을처럼 기능하고 그곳의 인물들이 서부극식 갈등을 겪는다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "우주의 광대한 거리와 중앙 권력의 부재를 서부 개척지처럼 구성하는 장르다. 미래 기술이 존재해도 변경의 정착민은 즉각적인 보호를 기대하기 어렵다.\n\n약탈자와 자원 분쟁에 스스로 대응하고 현상금 사냥꾼과 떠돌이가 지역을 오간다. 중심에서 멀수록 낡은 기술을 쓰게 하면 우주선과 말, 로봇과 수작업이 같은 생활권에 공존할 수 있다.\n\n카우보이 복장만 입힌 우주 모험보다 변경의 법과 생존 문제가 중심이어야 한다. 실제 개척사를 그대로 반복하기보다 고립과 이동, 공동체의 자립을 우주 환경으로 옮기는 방식이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "우주의 광대한 거리와 중앙 권력의 부재를 서부 개척지처럼 구성하는 장르다. 미래 기술이 존재해도 변경의 정착민은 즉각적인 보호를 기대하기 어렵다.\n\n약탈자와 자원 분쟁에 스스로 대응하고 현상금 사냥꾼과 떠돌이가 지역을 오간다. 중심에서 멀수록 낡은 기술을 쓰게 하면 우주선과 말, 로봇과 수작업이 같은 생활권에 공존할 수 있다.\n\n카우보이 복장만 입힌 우주 모험보다 변경의 법과 생존 문제가 중심이어야 한다. 실제 개척사를 그대로 반복하기보다 고립과 이동, 공동체의 자립을 우주 환경으로 옮기는 방식이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

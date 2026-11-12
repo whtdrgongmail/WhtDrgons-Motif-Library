@@ -4,8 +4,8 @@
   "title": "반복 사냥으로 성장하는 길을 막기",
   "original": "Anti-Grinding",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02089",
+  "primary_tag_id": "ML-T02089",
   "description": {
     "definition": "같은 적을 계속 처치해 [[경험치]]를 쌓는 전략의 효과를 줄이거나 성장 상한을 두는 게임 [[규칙]]. 플레이가 다음 구역으로 이동하도록 보상 구조를 조정한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "25",
+    "code": "25.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "반복적인 처치의 보상을 낮추면 현재 구간에서 힘을 계속 쌓는 전략이 제한된다. 플레이어는 다른 자원과 전술을 사용하거나 다음 지역으로 이동해야 한다.\n\n성장 상한과 보상 감소는 같은 목표를 다른 방식으로 구현한다. 강제되는 진행이 선택의 폭을 어떻게 바꾸는지 보아야 제한의 효과를 평가할 수 있다.\n\n단순히 다음 레벨에 더 많은 [[경험치]]가 필요한 경우와는 정도와 목적이 다를 수 있다. 반복 성장의 효율을 특별히 억제하는 장치를 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "반복적인 처치의 보상을 낮추면 현재 구간에서 힘을 계속 쌓는 전략이 제한된다. 플레이어는 다른 자원과 전술을 사용하거나 다음 지역으로 이동해야 한다.\n\n성장 상한과 보상 감소는 같은 목표를 다른 방식으로 구현한다. 강제되는 진행이 선택의 폭을 어떻게 바꾸는지 보아야 제한의 효과를 평가할 수 있다.\n\n단순히 다음 레벨에 더 많은 [[경험치]]가 필요한 경우와는 정도와 목적이 다를 수 있다. 반복 성장의 효율을 특별히 억제하는 장치를 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

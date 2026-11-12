@@ -4,8 +4,8 @@
   "title": "위험을 비웃다 맞는 죽음",
   "original": "Death by Mocking",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00806",
+  "primary_tag_id": "ML-T00806",
   "description": {
     "definition": "인물이 상대나 위험을 조롱한 직후 그 대상에게 목숨을 잃는 전개. 자신만만한 말과 즉각적인 결과의 간극이 긴장이나 풍자를 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.009.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위험과 다른 사람을 비웃던 인물이 뒤이어 죽는 관습이다. 조롱과 무모한 확신이 취약함을 알아보지 못한 태도로 재해석된다.\n\n괴물에 대한 경고를 무시하거나 다른 사람을 겁주는 장난을 하다가 표적이 될 수 있다. 작품은 이를 응보처럼 배열하여 관객의 반감을 죽음의 기대와 연결한다.\n\n함께 즐기는 농담과 남을 낮추는 조롱은 다르다. 가벼운 결함에 과도한 처벌을 주는 결말인지도 구분해야 하며 실제 가해자의 살인 책임이 사라지는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위험과 다른 사람을 비웃던 인물이 뒤이어 죽는 관습이다. 조롱과 무모한 확신이 취약함을 알아보지 못한 태도로 재해석된다.\n\n괴물에 대한 경고를 무시하거나 다른 사람을 겁주는 장난을 하다가 표적이 될 수 있다. 작품은 이를 응보처럼 배열하여 관객의 반감을 죽음의 기대와 연결한다.\n\n함께 즐기는 농담과 남을 낮추는 조롱은 다르다. 가벼운 결함에 과도한 처벌을 주는 결말인지도 구분해야 하며 실제 가해자의 살인 책임이 사라지는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

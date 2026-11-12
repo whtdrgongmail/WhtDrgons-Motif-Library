@@ -4,20 +4,20 @@
   "title": "홍보물에서만 거인이 된 주인공",
   "original": "Larger-Than-Life Promo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "MM-UNSET-000804",
+  "primary_tag_id": "MM-UNSET-000804",
   "description": {
     "definition": "실제 이야기에서는 보통 크기인 인물을 표지·포스터·인트로에서 도시보다 큰 존재처럼 표현하여 중요도와 강한 자아를 강조하는 이미지다.",
     "detail": "작품 사례: 만화 《[[심슨 가족(만화)]]》의 Strike Back 표지는 거대해진 가족이 스프링필드를 휩쓰는 모습으로 구성된다. 실제 인물의 크기보다 홍보 이미지의 존재감을 과장한 사례다.",
     "usage": "주인공의 영향력·압박감·자기중심성을 한 장의 이미지로 압축한다.",
-    "boundary": "실제 거인 캐릭터나 단순히 얼굴 사진을 크게 배치한 포스터와 다르다. 같은 공간 안에서 다른 인물·도시와 비현실적인 크기 관계를 이루어야 한다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "22",
-    "review_status": "provisional",
+    "code": "22.005.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주인공의 영향력·압박감·자기중심성을 한 장의 이미지로 압축한다.\n\n실제 거인 캐릭터나 단순히 얼굴 사진을 크게 배치한 포스터와 다르다. 같은 공간 안에서 다른 인물·도시와 비현실적인 크기 관계를 이루어야 한다.\n\n만화 《[[심슨 가족(만화)]]》의 Strike Back 표지는 거대해진 가족이 스프링필드를 휩쓰는 모습으로 구성된다. 실제 인물의 크기보다 홍보 이미지의 존재감을 과장한 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주인공의 영향력·압박감·자기중심성을 한 장의 이미지로 압축한다.\n\n실제 거인 캐릭터나 단순히 얼굴 사진을 크게 배치한 포스터와 다르다. 같은 공간 안에서 다른 인물·도시와 비현실적인 크기 관계를 이루어야 한다."
+      ],
+      [
+        "관련 작품",
+        "만화 《[[심슨 가족(만화)]]》의 Strike Back 표지는 거대해진 가족이 스프링필드를 휩쓰는 모습으로 구성된다. 실제 인물의 크기보다 홍보 이미지의 존재감을 과장한 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

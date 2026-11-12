@@ -4,8 +4,8 @@
   "title": "남의 답을 베끼는 부정행위",
   "original": "Cheating by Copying",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "시험이나 과제에서 다른 사람의 답을 옮겨 적어 성과를 얻으려 한다. 엉뚱한 답까지 따라가거나 상대에게 들키면서 [[속임수]]가 드러날 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "시험과 숙제에서 다른 학생의 답을 그대로 가져오는 부정행위다. 상대가 알지 못한 채 훔쳐보거나 동의를 얻어 베낄 수 있지만 자신의 이해를 대신하지는 못한다.\n\n원본 답이 틀렸거나 일부러 오답을 주면 복사한 사람도 실패한다. 지나치게 같은 답이 의심을 부르거나 도움받을 사람이 없어졌을 때 학습 부족이 드러나는 식으로 결과를 만든다.\n\n시험 답을 사전에 훔치거나 메모를 숨기는 방식과는 수단이 다르다. 작품이 응보를 강조하더라도 실제로 모든 부정이 즉시 드러난다는 뜻은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "시험과 숙제에서 다른 학생의 답을 그대로 가져오는 부정행위다. 상대가 알지 못한 채 훔쳐보거나 동의를 얻어 베낄 수 있지만 자신의 이해를 대신하지는 못한다.\n\n원본 답이 틀렸거나 일부러 오답을 주면 복사한 사람도 실패한다. 지나치게 같은 답이 의심을 부르거나 도움받을 사람이 없어졌을 때 학습 부족이 드러나는 식으로 결과를 만든다.\n\n시험 답을 사전에 훔치거나 메모를 숨기는 방식과는 수단이 다르다. 작품이 응보를 강조하더라도 실제로 모든 부정이 즉시 드러난다는 뜻은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "유도 공격의 새 표적이 되어 동료를 구하기",
   "original": "Misguided Missile",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00782",
+  "primary_tag_id": "ML-T00782",
   "description": {
     "definition": "동료를 향하던 유도 공격이 자신을 추적하게 만든 뒤 다른 방향으로 유인해 원래 표적을 구하는 행동이다.",
     "detail": "작품 사례: 《[[배틀스타 갤럭티카]]》에서 아폴로는 콜로니얼 원을 향하는 미사일을 다른 방향으로 유인해 대통령을 구하고, 이후 스타벅도 아폴로를 위해 같은 행동을 한다.",
@@ -13,10 +13,10 @@
     "boundary": "단순히 공격을 격추하는 행위와 구별한다. 유인한 뒤 피하지 못하면 자기희생으로 이어질 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "동료를 향한 유도 공격이 자신을 쫓도록 만들어 경로를 바꾼다. 원래 표적을 구하는 대신 새 위험을 직접 떠안는다.\n\n이후에는 공격을 피하거나 다른 곳으로 유인해야 한다. 우연히 대신 맞은 행동과 추적 대상을 의도적으로 바꾼 선택은 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "동료를 향한 유도 공격이 자신을 쫓도록 만들어 경로를 바꾼다. 원래 표적을 구하는 대신 새 위험을 직접 떠안는다.\n\n이후에는 공격을 피하거나 다른 곳으로 유인해야 한다. 우연히 대신 맞은 행동과 추적 대상을 의도적으로 바꾼 선택은 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

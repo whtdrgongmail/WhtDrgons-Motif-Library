@@ -5,8 +5,8 @@
   "original": "Removing Limits by Making Costs Zero",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02097",
+  "primary_tag_id": "ML-T02097",
   "description": {
     "definition": "자원 소모량을 완전히 없애 사용 가능 횟수의 제약을 제거하는 규칙이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "사용 후 자원을 돌려주는 방식과 결과는 비슷하지만 중간 자원 조건이 다를 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "능력의 자원 비용을 영으로 만들어 자원량 때문에 사용 횟수가 줄어들지 않게 한다. 사용에 앞서 비용을 확보해야 하는 조건 자체가 사라지는 방식이다.\n\n플레이어는 자원을 아끼기보다 언제 어떤 효과를 쓸지에 집중할 수 있다. 다른 제약이 없다면 반복 사용의 비중이 커지므로 대기 시간과 행동 시간 같은 남은 조건이 선택의 차이를 만드는 기준이 된다.\n\n사용한 뒤 자원을 환급받는 방식과는 중간 상태가 다르다. 비용이 없어도 모든 제한이 사라진 것은 아니며 범위와 횟수 상한 등 별도 규칙의 존재를 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "능력의 자원 비용을 영으로 만들어 자원량 때문에 사용 횟수가 줄어들지 않게 한다. 사용에 앞서 비용을 확보해야 하는 조건 자체가 사라지는 방식이다.\n\n플레이어는 자원을 아끼기보다 언제 어떤 효과를 쓸지에 집중할 수 있다. 다른 제약이 없다면 반복 사용의 비중이 커지므로 대기 시간과 행동 시간 같은 남은 조건이 선택의 차이를 만드는 기준이 된다.\n\n사용한 뒤 자원을 환급받는 방식과는 중간 상태가 다르다. 비용이 없어도 모든 제한이 사라진 것은 아니며 범위와 횟수 상한 등 별도 규칙의 존재를 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

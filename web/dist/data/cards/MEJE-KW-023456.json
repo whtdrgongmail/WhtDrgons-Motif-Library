@@ -5,8 +5,8 @@
   "original": "Rewarding Moral Extremes",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
     "definition": "매우 선하거나 매우 악한 성향에 보너스를 주고 중간 성향에는 같은 혜택을 주지 않는다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "게임 시스템의 표현과 한계를 설명하며 현실의 도덕 책임을 계산하는 방법이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "매우 선하거나 매우 악한 수치에 혜택을 주고 가운데 상태에는 같은 보상을 주지 않는다. 도덕의 양방향 극단이 서로 다르면서도 뚜렷하게 선택해야 한다는 점에서는 같은 유인을 갖는다.\n\n플레이어는 상황에 따라 판단하기보다 한 방향의 행동을 일관되게 반복하는 편이 유리하다고 볼 수 있다. 중간의 복합적인 선택이 이야기에는 설득력 있어도 시스템에서는 보상이 적은 간극이 생긴다.\n\n중립적인 인물이 나쁘다고 직접 평가하는 주제와는 별개다. 수치별 장비와 기술의 혜택을 배치한 규칙의 문제다. 현실의 도덕적 책임이나 중용의 가치를 같은 점수 계산으로 설명하는 방법은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "매우 선하거나 매우 악한 수치에 혜택을 주고 가운데 상태에는 같은 보상을 주지 않는다. 도덕의 양방향 극단이 서로 다르면서도 뚜렷하게 선택해야 한다는 점에서는 같은 유인을 갖는다.\n\n플레이어는 상황에 따라 판단하기보다 한 방향의 행동을 일관되게 반복하는 편이 유리하다고 볼 수 있다. 중간의 복합적인 선택이 이야기에는 설득력 있어도 시스템에서는 보상이 적은 간극이 생긴다.\n\n중립적인 인물이 나쁘다고 직접 평가하는 주제와는 별개다. 수치별 장비와 기술의 혜택을 배치한 규칙의 문제다. 현실의 도덕적 책임이나 중용의 가치를 같은 점수 계산으로 설명하는 방법은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

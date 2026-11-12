@@ -4,8 +4,8 @@
   "title": "선사 생물이 남아 있는 고립 지역",
   "original": "Lost World",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01323",
+  "primary_tag_id": "ML-T01323",
   "description": {
     "definition": "주변 세계와 격리되어 선사시대의 생물이나 사회가 계속 존재하는 장소 설정이다.",
     "detail": "작품 사례: [[The Monster of Lake LaMetrie]]에서 맥레넌은 호수의 엘라스모사우루스가 선사 생물이 남아 있는 지구 내부에서 터널을 통해 왔다고 추측한다.",
@@ -13,10 +13,10 @@
     "boundary": "과거로 시간 이동해 도착한 장소와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.010.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "지리적 격리 때문에 과거 시대의 생물이 현재까지 보존되었다는 공간 설정이다. 외부에 알려지지 않은 생태계가 탐험과 발견의 대상이 된다.\n\n과거로 시간 이동해서 도착한 장소와 다르다. 지금도 같은 시간에 존재하지만 접촉이 제한되어 다른 시대의 생태가 남았다는 조건이 필요하다.\n\n[[The Monster of Lake LaMetrie]]의 맥레넌은 호수의 엘라스모사우루스가 지구 내부에서 왔다고 추측한다. 선사 생물이 남은 내부 세계와 터널이라는 설명은 인물의 가설이며 확인된 사실과 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "지리적 격리 때문에 과거 시대의 생물이 현재까지 보존되었다는 공간 설정이다. 외부에 알려지지 않은 생태계가 탐험과 발견의 대상이 된다.\n\n과거로 시간 이동해서 도착한 장소와 다르다. 지금도 같은 시간에 존재하지만 접촉이 제한되어 다른 시대의 생태가 남았다는 조건이 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[The Monster of Lake LaMetrie]]의 맥레넌은 호수의 엘라스모사우루스가 지구 내부에서 왔다고 추측한다. 선사 생물이 남은 내부 세계와 터널이라는 설명은 인물의 가설이며 확인된 사실과 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

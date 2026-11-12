@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "루비",
   "original": "RWBY",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "RWBY"
+  ],
+  "tag_id": "ML-T00100",
   "primary_tag_id": "ML-T00100",
   "description": {
     "definition": "《루비》는 웹애니메이션 작품이다.",
-    "detail": "작품 사례: 《루비》의 양 샤오롱은 강한 열정과 다혈질적인 반응을 보이지만 도발에 쉽게 휘말리기도 한다. 열혈 성향이 추진력과 취약점 양쪽으로 작동하는 사례이다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.009.002",
     "review_status": "provisional",
@@ -41,7 +43,24 @@
     {
       "card_id": "MEJE-KW-016350",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-011705",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《루비》는 괴물 그림이 인간을 위협하는 렘넌트 세계의 웹 애니메이션이다. 사람들은 오라와 더스트, 개인별 능력인 셈블런스를 이용하는 헌터를 길러 그림에 맞선다.\n\n각자의 무기와 능력을 지닌 소녀들이 팀으로 훈련하고 세계의 갈등에 들어간다. 부정적인 감정에 이끌리는 괴물이라는 설정은 인물의 내적 갈등과 바깥의 위험을 연결하며, 원래의 CGI 연재와 이를 다르게 재구성한 파생 애니메이션은 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《루비》는 괴물 그림이 인간을 위협하는 렘넌트 세계의 웹 애니메이션이다. 사람들은 오라와 더스트, 개인별 능력인 셈블런스를 이용하는 헌터를 길러 그림에 맞선다.\n\n각자의 무기와 능력을 지닌 소녀들이 팀으로 훈련하고 세계의 갈등에 들어간다. 부정적인 감정에 이끌리는 괴물이라는 설정은 인물의 내적 갈등과 바깥의 위험을 연결하며, 원래의 CGI 연재와 이를 다르게 재구성한 파생 애니메이션은 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

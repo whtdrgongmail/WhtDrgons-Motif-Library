@@ -4,8 +4,8 @@
   "title": "로봇들 사이의 연애",
   "original": "Robo Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "[[로봇]]인 존재들이 서로를 사랑의 대상으로 삼고 연애 관계를 맺는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "인간과 로봇 사이의 관계나 소유자의 애착과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "기계로 만들어진 두 존재도 서로 사랑한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인공적으로 만들어진 존재들이 서로를 독립적인 사랑의 대상으로 선택한다. 감정이 없는 기계라는 기대와 관계를 맺는 행동이 대비된다.\n\n서로를 돌보고 떨어짐을 아쉬워하는 모습은 인간과 다른 몸에도 친밀함이 존재함을 전달한다. 설계된 반응인지 자율적인 감정인지는 작품의 설정에 따라 달라진다.\n\n인간과 기계의 사랑과 달리 양쪽이 로봇인 관계다. 원문은 [[인공지능]]까지 넓게 포함하며 현실 기계의 의식이 입증되었다는 주장은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인공적으로 만들어진 존재들이 서로를 독립적인 사랑의 대상으로 선택한다. 감정이 없는 기계라는 기대와 관계를 맺는 행동이 대비된다.\n\n서로를 돌보고 떨어짐을 아쉬워하는 모습은 인간과 다른 몸에도 친밀함이 존재함을 전달한다. 설계된 반응인지 자율적인 감정인지는 작품의 설정에 따라 달라진다.\n\n인간과 기계의 사랑과 달리 양쪽이 로봇인 관계다. 원문은 [[인공지능]]까지 넓게 포함하며 현실 기계의 의식이 입증되었다는 주장은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

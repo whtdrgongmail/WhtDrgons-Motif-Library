@@ -4,8 +4,8 @@
   "title": "첫 입맞춤의 긴장",
   "original": "First Kiss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02534",
+  "primary_tag_id": "ML-T02534",
   "description": {
     "definition": "인물의 생애 처음 또는 두 연인이 함께 나누는 첫 입맞춤을 기대와 어색함이 큰 관계의 이정표로 그린다. 첫 입맞춤은 [[첫사랑]]을 기억하게 하는 인물의 중요한 경험이 되기도 한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.002.011",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "생애 처음이거나 두 연인 사이에서 처음 나눈 입맞춤을 관계의 중요한 순간으로 그리는 장면이다. 기대와 서투름이 함께 드러나며, [[첫사랑]]의 기억과 이어질 수도 있지만 그 순간이 이후 관계의 모든 약속을 대신하지는 않는다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "입맞춤을 앞둔 인물은 상대와 장소, 순간이 특별해야 한다는 기대 때문에 쉽게 행동하지 못한다. 작은 거리 변화와 망설임을 길게 보여 주면 이후의 짧은 접촉이 관계의 전환점으로 강조된다.\n\n개인의 생애 첫 경험일 수도 있고 두 사람이 서로 처음 나누는 경험일 수도 있다. 위기 속에서 감정을 드러내는 경우에는 평소 말하지 못했던 의사가 행동으로 확인되며, 오랫동안 이어진 망설임이 해소될 수 있다.\n\n[[첫사랑]]과 결부될 수 있지만 두 경험이 반드시 같은 상대와 일어나는 것은 아니다. 입맞춤 뒤에도 관계가 이전 상태로 돌아갈 수 있으므로, 장면이 약속하는 변화와 이후 실제 관계의 변화를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "입맞춤을 앞둔 인물은 상대와 장소, 순간이 특별해야 한다는 기대 때문에 쉽게 행동하지 못한다. 작은 거리 변화와 망설임을 길게 보여 주면 이후의 짧은 접촉이 관계의 전환점으로 강조된다.\n\n개인의 생애 첫 경험일 수도 있고 두 사람이 서로 처음 나누는 경험일 수도 있다. 위기 속에서 감정을 드러내는 경우에는 평소 말하지 못했던 의사가 행동으로 확인되며, 오랫동안 이어진 망설임이 해소될 수 있다.\n\n[[첫사랑]]과 결부될 수 있지만 두 경험이 반드시 같은 상대와 일어나는 것은 아니다. 입맞춤 뒤에도 관계가 이전 상태로 돌아갈 수 있으므로, 장면이 약속하는 변화와 이후 실제 관계의 변화를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

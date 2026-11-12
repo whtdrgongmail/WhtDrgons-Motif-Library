@@ -4,8 +4,8 @@
   "title": "군사 병기로 다루는 거대 로봇물",
   "original": "Real Robot Genre",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-017993",
+  "primary_tag_id": "MEJE-KW-017993",
   "description": {
     "definition": "거대 [[로봇]]을 군사 조직이 운용하는 병기와 전쟁의 일부로 다루며 군사물의 [[갈등]]을 결합한 로봇물이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.104.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,33 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000341",
+      "card_id": "MEJE-KW-017993",
+      "label_ko": "리얼 로봇 장르 연구",
+      "icon_key": "article",
+      "url": "https://nagoya.repo.nii.ac.jp/record/2002449/files/k13904_thesis.pdf",
+      "description_ko": "나고야대학교 학위논문의 슈퍼 로봇·리얼 로봇 구분",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "Real Robot Genre는 일본 애니메이션·만화 비평에서 쓰인 Real Robot 계열 명칭을 영어로 옮긴 것이다. 여기서 real은 실제 제작 가능성보다 로봇을 군사 장비와 조직의 일부로 묘사하는 경향을 가리킨다.\n\n군사 병기로 다루는 거대 로봇물은 로봇을 독립적인 영웅이나 만능 기계보다 군대가 배치하고 보급하며 작전에 투입하는 병기로 다룬다. 조종사의 숙련도뿐 아니라 지휘 체계, 병참, 전술, 전쟁의 정치적 결과가 로봇의 사용 방식과 함께 서사에 들어온다.\n\n이는 [[SF]]와 거대 [[로봇]] 서사에 군사물의 조직·작전 갈등을 결합한 갈래다. 로봇의 설계가 현실 기술로 구현 가능한지는 판정 기준이 아니다. 거대 로봇이 등장해도 군사 조직이나 전쟁이 중심이 아니면 이 범주와 구별된다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "Real Robot Genre는 일본 애니메이션·만화 비평에서 쓰인 Real Robot 계열 명칭을 영어로 옮긴 것이다. 여기서 real은 실제 제작 가능성보다 로봇을 군사 장비와 조직의 일부로 묘사하는 경향을 가리킨다."
+      ],
+      [
+        "상세 설명",
+        "군사 병기로 다루는 거대 로봇물은 로봇을 독립적인 영웅이나 만능 기계보다 군대가 배치하고 보급하며 작전에 투입하는 병기로 다룬다. 조종사의 숙련도뿐 아니라 지휘 체계, 병참, 전술, 전쟁의 정치적 결과가 로봇의 사용 방식과 함께 서사에 들어온다.\n\n이는 [[SF]]와 거대 [[로봇]] 서사에 군사물의 조직·작전 갈등을 결합한 갈래다. 로봇의 설계가 현실 기술로 구현 가능한지는 판정 기준이 아니다. 거대 로봇이 등장해도 군사 조직이나 전쟁이 중심이 아니면 이 범주와 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

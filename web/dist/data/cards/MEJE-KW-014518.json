@@ -4,8 +4,8 @@
   "title": "게임 자원을 지불하는 힌트",
   "original": "Hint for payment",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02151",
+  "primary_tag_id": "ML-T02151",
   "description": {
     "definition": "게임 안의 화폐나 자원을 소비해야 도움 정보를 얻을 수 있게 하는 방식이다. 해결의 편의와 자원 보존 사이에 선택을 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "외부 유료 공략 구매나 무료 요청형 힌트와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "힌트는 게임 안의 화폐와 자원을 지불한 뒤 얻는다. 정보를 통한 해결의 편리함이 다른 자원을 포기하는 선택과 연결된다.\n\n플레이어는 더 탐색할지 도움을 살지 판단해야 한다. 무엇을 얼마나 소비하는지에 따라 힌트 사용의 비용이 구체화된다.\n\n외부 공략을 실제 돈으로 사는 경우와 다르다. 무료 요청형 도움도 자원 지불의 조건을 갖지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "힌트는 게임 안의 화폐와 자원을 지불한 뒤 얻는다. 정보를 통한 해결의 편리함이 다른 자원을 포기하는 선택과 연결된다.\n\n플레이어는 더 탐색할지 도움을 살지 판단해야 한다. 무엇을 얼마나 소비하는지에 따라 힌트 사용의 비용이 구체화된다.\n\n외부 공략을 실제 돈으로 사는 경우와 다르다. 무료 요청형 도움도 자원 지불의 조건을 갖지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "민망한 영상의 확산으로 주는 망신",
   "original": "Instant Humiliation: Just Add YouTube!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "타인의 창피한 순간을 담은 영상을 온라인에 퍼뜨려 가까운 관계를 넘어 넓은 대중 앞의 조롱거리로 만드는 사건이다. 확산이 통제를 벗어나거나 게시자에게 역효과를 줄 수 있다.",
     "detail": "대상이 동정을 얻거나 게시자의 행동이 비판받으면 계획이 뒤집힐 수 있다. 유해 행동을 증명하는 공익적 폭로와 단순 조롱의 목적은 구분한다.\n\n작품 사례: 《[[빅뱅 이론]]》에서 셸던이 술에 취해 수상 소감을 말한 영상이 유튜브에 올라가 널리 퍼지며 공개적인 망신으로 확대된다.",
@@ -13,19 +13,25 @@
     "boundary": "온라인에 등장했다는 사실만으로 적용하지 않으며 민망한 내용의 공개와 확대가 관계에 영향을 주어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": {
-    "easy_ko": "몇 사람만 본 실수가 영상으로 돌아다니면서 모르는 사람들까지 아는 망신이 된다.\n\n작품 사례: 《[[빅뱅 이론]]》에서 셸던이 술에 취해 수상 소감을 말한 영상이 유튜브에 올라가 널리 퍼지며 공개적인 망신으로 확대된다.",
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "몇 사람만 본 실수가 영상으로 돌아다니면서 모르는 사람들까지 아는 망신이 된다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "민망한 순간을 담은 기록이 널리 유통되며 개인적 당혹감이 공개적인 망신으로 커지는 사건이다.\n\n공개의 범위가 넓어질수록 대상이 해명하거나 통제할 여지가 줄어든다. 반대로 시청자의 동정이 대상에게 쏠리면 게시자의 조롱이 비판받을 수도 있다.\n\n온라인 게시라는 사실만으로 충분하지 않다. 공익을 위해 해로운 행동을 증명하는 폭로와 민망함을 이용한 조롱은 목적과 맥락에서 다르다.\n\n《[[빅뱅 이론]]》에서 셸던이 술에 취해 수상 소감을 말한 영상은 유튜브를 통해 퍼진다. 현장에서의 당혹감이 기록의 반복 재생과 확산으로 확대된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "민망한 순간을 담은 기록이 널리 유통되며 개인적 당혹감이 공개적인 망신으로 커지는 사건이다.\n\n공개의 범위가 넓어질수록 대상이 해명하거나 통제할 여지가 줄어든다. 반대로 시청자의 동정이 대상에게 쏠리면 게시자의 조롱이 비판받을 수도 있다.\n\n온라인 게시라는 사실만으로 충분하지 않다. 공익을 위해 해로운 행동을 증명하는 폭로와 민망함을 이용한 조롱은 목적과 맥락에서 다르다."
+      ],
+      [
+        "관련 작품",
+        "《[[빅뱅 이론]]》에서 셸던이 술에 취해 수상 소감을 말한 영상은 유튜브를 통해 퍼진다. 현장에서의 당혹감이 기록의 반복 재생과 확산으로 확대된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

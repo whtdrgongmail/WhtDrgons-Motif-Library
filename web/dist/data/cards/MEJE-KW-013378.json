@@ -4,8 +4,8 @@
   "title": "집요하게 추적하는 정형 살인마",
   "original": "Stock Slasher",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "위협적인 무기와 가려지거나 변형된 얼굴을 지니고 강한 체력으로 피해자를 끈질기게 추적하는 공포물의 정형적 가해자이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "공포물에 나오는 모든 [[범죄자]]보다 반복되는 [[외형]]과 추격 방식의 조합을 가리킨다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무서운 무기와 가려지거나 변형된 얼굴, 강한 체력과 끈질긴 추격이 결합된 공포물의 가해자 유형이다. 하나의 외형 요소만으로 정해지는 분류는 아니다.\n\n반복되는 모습과 추적 방식이 함께 위협적인 인상을 만든다. 피해자를 계속 따라가는 행동은 정형적인 외형과 결합해 유형을 알아보게 한다.\n\n공포물 속 범죄자 전체의 이름으로 쓰지 않는다. 제시된 외형과 추격 방식의 조합이 없는 가해자는 별도로 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "무서운 무기와 가려지거나 변형된 얼굴, 강한 체력과 끈질긴 추격이 결합된 공포물의 가해자 유형이다. 하나의 외형 요소만으로 정해지는 분류는 아니다.\n\n반복되는 모습과 추적 방식이 함께 위협적인 인상을 만든다. 피해자를 계속 따라가는 행동은 정형적인 외형과 결합해 유형을 알아보게 한다.\n\n공포물 속 범죄자 전체의 이름으로 쓰지 않는다. 제시된 외형과 추격 방식의 조합이 없는 가해자는 별도로 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -6,8 +6,8 @@
   "aliases": [
     "고열 칼날"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "날을 높은 온도로 달구어 절단이나 공격에 열을 함께 사용하는 무기 설정이다.",
     "detail": "작품 사례: [[Infinite Dendrogram]]의 Hihi'irokane는 극심한 열을 견디는 재료여서, 칼날을 달구어 사용하는 무기를 만드는 데 유리하다고 설명된다.",
@@ -15,10 +15,10 @@
     "boundary": "붉은 장식이나 불빛만 있고 실제 고열이 없는 칼과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,13 +39,30 @@
       "row_version": 1
     },
     {
-      "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001350",
+      "media_tag_id": "ML-T02480",
+      "work_card_id": "MM-MEDIA-002500",
       "description_ko": "《기동전사 건담》의 자쿠가 사용하는 히트 호크는 실체가 있는 도끼날에 열을 더하는 무기이다. 에너지로 날을 만드는 빔 사벨과 구별된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 3
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "칼날의 열이 공격 기능에 포함되면 재료가 고온을 견디는 조건도 무기 설정의 일부가 된다. 예리함과 온도는 서로 다른 성능 요소이므로, 열을 가하는 장치나 재료에 대한 설명은 무기의 작동 규칙을 구체화한다.\n\n붉게 칠했거나 빛을 내는 칼은 실제 고열을 사용하는 칼과 같지 않다. 반대로 칼날이 달아올랐다는 이유만으로 모든 물체를 쉽게 자를 수 있다고 확장할 수 없으며, 절단과 열의 관계는 작품이 명시한 범위에 한정한다.\n\n[[Infinite Dendrogram]]의 Hihi'irokane는 극심한 열을 견디는 재료여서, 칼날을 달구어 사용하는 무기를 만드는 데 유리하다고 설명된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "칼날의 열이 공격 기능에 포함되면 재료가 고온을 견디는 조건도 무기 설정의 일부가 된다. 예리함과 온도는 서로 다른 성능 요소이므로, 열을 가하는 장치나 재료에 대한 설명은 무기의 작동 규칙을 구체화한다.\n\n붉게 칠했거나 빛을 내는 칼은 실제 고열을 사용하는 칼과 같지 않다. 반대로 칼날이 달아올랐다는 이유만으로 모든 물체를 쉽게 자를 수 있다고 확장할 수 없으며, 절단과 열의 관계는 작품이 명시한 범위에 한정한다."
+      ],
+      [
+        "관련 작품",
+        "[[Infinite Dendrogram]]의 Hihi'irokane는 극심한 열을 견디는 재료여서, 칼날을 달구어 사용하는 무기를 만드는 데 유리하다고 설명된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

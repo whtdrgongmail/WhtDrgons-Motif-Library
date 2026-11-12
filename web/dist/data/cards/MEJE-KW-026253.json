@@ -4,8 +4,8 @@
   "title": "서로 다른 시대의 사람들 사이의 사랑",
   "original": "Time-Travel Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "서로 다른 시간대에 속한 두 사람이 시간 이동이나 그에 준하는 만남을 통해 연애 관계를 맺는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "같은 시대 사람의 나이 차이만으로는 해당하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "살던 시대가 다른 두 사람이 사랑한다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "두 사람이 서로 다른 시대에 속해 만남의 시간 조건이 불안정하다. 시간 이동은 새로운 관계를 가능하게 하면서 같은 시대에 머물 수 있는지의 문제도 만든다.\n\n역사와 지식의 차이는 대화의 오해와 호기심이 된다. 귀환과 시간의 변화는 사랑의 선택을 세계의 규칙과 충돌시키는 장애가 된다.\n\n단순히 나이 차이가 큰 관계와는 다르다. 서로 다른 시간대의 출신과 이를 연결한 만남이 필요하며 반드시 비극으로 끝나야 하는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "두 사람이 서로 다른 시대에 속해 만남의 시간 조건이 불안정하다. 시간 이동은 새로운 관계를 가능하게 하면서 같은 시대에 머물 수 있는지의 문제도 만든다.\n\n역사와 지식의 차이는 대화의 오해와 호기심이 된다. 귀환과 시간의 변화는 사랑의 선택을 세계의 규칙과 충돌시키는 장애가 된다.\n\n단순히 나이 차이가 큰 관계와는 다르다. 서로 다른 시간대의 출신과 이를 연결한 만남이 필요하며 반드시 비극으로 끝나야 하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

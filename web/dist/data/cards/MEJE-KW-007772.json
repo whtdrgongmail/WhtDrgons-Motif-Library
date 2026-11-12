@@ -4,8 +4,8 @@
   "title": "양쪽 표지로 읽는 책",
   "original": "Double-Sided Book",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T02544",
+  "primary_tag_id": "ML-T02544",
   "description": {
     "definition": "책의 앞뒤에 서로 다른 이야기의 시작을 두어 한쪽을 읽고 뒤집으면 다른 쪽을 읽게 만든 형식이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "02.023",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "publication_form",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "책의 앞표지에서 한 이야기를 읽고 책을 뒤집어 반대 표지에서 다른 이야기를 시작한다. 한 권 안에서 읽는 방향 자체가 두 이야기를 구별하는 장치다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "책의 양쪽 표지를 각각 시작점으로 삼아 뒤집어 읽도록 구성한 형식이다. 두 이야기가 하나의 물리적 책에 반대 방향으로 배치된다.\n\n독자는 어느 쪽을 먼저 읽을지 선택하고 책을 돌리는 행위로 관점을 바꾼다. 두 부분의 대비와 주제적 연결이 형식 자체에 드러나므로 같은 사건의 다른 시각을 나누기에 적합하다.\n\n이야기 둘을 순서대로 합친 책과는 읽기의 방향이 다르다. 제본의 구체적인 방식과 서사의 관계를 구분해야 하며 모든 특이한 양면 제본을 같은 구조로 부르지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "책의 양쪽 표지를 각각 시작점으로 삼아 뒤집어 읽도록 구성한 형식이다. 두 이야기가 하나의 물리적 책에 반대 방향으로 배치된다.\n\n독자는 어느 쪽을 먼저 읽을지 선택하고 책을 돌리는 행위로 관점을 바꾼다. 두 부분의 대비와 주제적 연결이 형식 자체에 드러나므로 같은 사건의 다른 시각을 나누기에 적합하다.\n\n이야기 둘을 순서대로 합친 책과는 읽기의 방향이 다르다. 제본의 구체적인 방식과 서사의 관계를 구분해야 하며 모든 특이한 양면 제본을 같은 구조로 부르지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "초자연적 서부극",
   "original": "Weird West",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00347",
+  "primary_tag_id": "ML-T00347",
   "description": {
     "definition": "서부극의 변경과 총잡이 세계에 [[유령]]·괴물·[[마법]] 등 초자연적 요소를 결합하는 장르다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": "서부극의 기계 기술을 과장한 경우와는 초자연적 원인의 비중이 다르다. 낯선 풍경만으로 적용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.114",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "황야와 개척 마을의 [[갈등]]에 평범한 총만으로는 설명할 수 없는 존재가 개입한다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[서부극]]의 변경과 총잡이, 정착촌에 [[유령]]과 괴물, [[마법]]을 결합한 장르다. 문명과 미지의 영역이 만나는 장소라는 서부의 이미지를 초자연적 위험으로 확장한다.\n\n버려진 마을과 해결되지 않은 죽음은 원혼의 이야기로 이어지고, 평범한 무기로는 맞설 수 없는 적이 총잡이의 능력을 시험한다. 건조한 풍경과 고립은 어둠과 물의 의미를 일반적인 공포물과 다르게 만들기도 한다.\n\n원주민 전승을 사용하는 경우 실제 문화와 창작자가 섞은 이미지를 구분해야 한다. 서부 복장만 등장하는 판타지보다 법과 복수, 이동과 정착의 관습이 초자연적 사건에 계속 작용하는지가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[서부극]]의 변경과 총잡이, 정착촌에 [[유령]]과 괴물, [[마법]]을 결합한 장르다. 문명과 미지의 영역이 만나는 장소라는 서부의 이미지를 초자연적 위험으로 확장한다.\n\n버려진 마을과 해결되지 않은 죽음은 원혼의 이야기로 이어지고, 평범한 무기로는 맞설 수 없는 적이 총잡이의 능력을 시험한다. 건조한 풍경과 고립은 어둠과 물의 의미를 일반적인 공포물과 다르게 만들기도 한다.\n\n원주민 전승을 사용하는 경우 실제 문화와 창작자가 섞은 이미지를 구분해야 한다. 서부 복장만 등장하는 판타지보다 법과 복수, 이동과 정착의 관습이 초자연적 사건에 계속 작용하는지가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

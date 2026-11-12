@@ -4,8 +4,8 @@
   "title": "하드 컷",
   "original": "Hard Cut",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01908",
+  "primary_tag_id": "ML-T01908",
   "description": {
     "definition": "앞 장면의 마지막 프레임 바로 다음에 뒤 장면의 첫 프레임을 이어 붙여 중간 전환 효과 없이 화면을 바꾸는 편집이다.",
     "detail": "작품 사례: [[A Christmas Story]]에서 랠피가 욕설의 벌을 걱정하는 장면은 곧바로 입에 비누를 문 화면으로 전환되어, 벌이 집행되는 중간 과정을 생략한다.",
@@ -13,10 +13,10 @@
     "boundary": "급격한 전환이 항상 충격을 의도하는 것은 아니며 기본 연결 방식 자체를 뜻한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 장면의 마지막 화면에서 다음 장면의 첫 화면으로 바로 전환한다. 두 영상 사이에 별도의 시각적인 전환 효과를 두지 않는 연결 방식이다.\n\n중간 과정을 생략하고 결과를 즉시 제시하면 인과를 짧게 압축할 수 있다. 앞선 걱정과 뒤따른 실제 처벌을 바로 붙이는 경우처럼 장면의 관계가 효과를 결정한다.\n\n갑작스러운 연결이 반드시 충격을 목적으로 하지는 않는다. 기본적인 편집 방식과 그 방식을 특정 장면에서 사용한 의도를 구별해야 한다.\n\n[[A Christmas Story]]는 랠피가 벌을 걱정하는 장면에서 곧바로 입에 비누를 문 모습으로 넘어간다.\n\n[[A Christmas Story]]",
+    "sections": [
+      [
+        "상세 설명",
+        "한 장면의 마지막 화면에서 다음 장면의 첫 화면으로 바로 전환한다. 두 영상 사이에 별도의 시각적인 전환 효과를 두지 않는 연결 방식이다.\n\n중간 과정을 생략하고 결과를 즉시 제시하면 인과를 짧게 압축할 수 있다. 앞선 걱정과 뒤따른 실제 처벌을 바로 붙이는 경우처럼 장면의 관계가 효과를 결정한다.\n\n갑작스러운 연결이 반드시 충격을 목적으로 하지는 않는다. 기본적인 편집 방식과 그 방식을 특정 장면에서 사용한 의도를 구별해야 한다."
+      ],
+      [
+        "사례",
+        "[[A Christmas Story]]는 랠피가 벌을 걱정하는 장면에서 곧바로 입에 비누를 문 모습으로 넘어간다."
+      ],
+      [
+        "관련 작품",
+        "[[A Christmas Story]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "힘의 차이로 맺는 일방적 계약",
   "original": "Leonine Contract",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00869",
+  "primary_tag_id": "ML-T00869",
   "description": {
     "definition": "한쪽이 협상력을 독점하여 상대에게 극도로 불리한 조건을 받아들이게 하는 거래다.",
     "detail": "작품 사례: [[Aesop's Fables]]에서 함께 사냥한 사자는 왕의 권리와 공로를 차례로 내세워 전리품을 독차지하고, 마지막 몫에 손댈 동물이 있느냐고 위협한다.",
@@ -13,10 +13,10 @@
     "boundary": "결과가 우연히 한쪽에 유리해진 공정한 계약과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -45,5 +45,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이 [[서사]]의 계약은 협력의 형식을 갖추어도 힘이 센 쪽이 결과를 독점하는 구조다. 사후에 새로운 권리를 주장하고 거부를 위협하면 약자는 조건을 협상하거나 이행을 요구할 실질적인 수단을 잃는다.\n\n공정한 조건이 우연히 한쪽에 유리한 결과를 낸 경우와는 다르다. 불균형한 힘이 조건의 설정이나 집행을 어떻게 지배하는지 확인해야 한다.\n\n《[[Aesop's Fables]]》의 사자는 공동 사냥 뒤 왕의 권리와 공로를 내세워 전리품을 차지한다. 남은 몫에 손댈 자가 있는지 위협하는 행동이 합의의 형식을 무력화한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 [[서사]]의 계약은 협력의 형식을 갖추어도 힘이 센 쪽이 결과를 독점하는 구조다. 사후에 새로운 권리를 주장하고 거부를 위협하면 약자는 조건을 협상하거나 이행을 요구할 실질적인 수단을 잃는다.\n\n공정한 조건이 우연히 한쪽에 유리한 결과를 낸 경우와는 다르다. 불균형한 힘이 조건의 설정이나 집행을 어떻게 지배하는지 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Aesop's Fables]]》의 사자는 공동 사냥 뒤 왕의 권리와 공로를 내세워 전리품을 차지한다. 남은 몫에 손댈 자가 있는지 위협하는 행동이 합의의 형식을 무력화한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

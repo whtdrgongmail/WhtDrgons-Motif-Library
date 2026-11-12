@@ -4,28 +4,28 @@
   "title": "사고에도 멀쩡한 클래식 자동차",
   "original": "Invincible Classic Car",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01457",
+  "primary_tag_id": "ML-T01457",
   "description": {
     "definition": "제작 시점에서 오래된 클래식 자동차가 심한 충돌과 거친 운행을 겪고도 비현실적으로 잘 버티는 차량 묘사이다.",
     "detail": "절대 파괴되지 않을 필요는 없으며 연식과 외관에 비해 뛰어난 내구성이 대비의 중심이다.\n\n작품 사례: 《[[하프라이프 2]]》의 에피소드 투에서 개조한 1969년형 자동차는 연속 점프와 총격 추격, 헌터와의 충돌을 버티고 정해진 사건에서만 고장 난다.",
     "usage": "오래된 차의 개성과 질긴 생명력을 추격·모험 장면에서 부각한다.",
-    "boundary": "실제 충돌 안전성을 평가하는 개념이 아니며 차체가 덜 망가진다는 인상이 승객 보호를 뜻하지 않는다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "낡은 차인데 현대 차가 버티기 어려워 보이는 충격도 견뎌 낸다.\n\n작품 사례: 《[[하프라이프 2]]》의 에피소드 투에서 개조한 1969년형 자동차는 연속 점프와 총격 추격, 헌터와의 충돌을 버티고 정해진 사건에서만 고장 난다.",
+    "easy_ko": "낡은 차인데 현대 차가 버티기 어려워 보이는 충격도 견뎌 낸다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "절대 파괴되지 않을 필요는 없으며 연식과 외관에 비해 뛰어난 내구성이 대비의 중심이다.\n\n오래된 차의 개성과 질긴 생명력을 추격·모험 장면에서 부각한다.\n\n실제 충돌 안전성을 평가하는 개념이 아니며 차체가 덜 망가진다는 인상이 승객 보호를 뜻하지 않는다.\n\n《[[하프라이프 2]]》의 에피소드 투에서 개조한 1969년형 자동차는 연속 점프와 총격 추격, 헌터와의 충돌을 버티고 정해진 사건에서만 고장 난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "절대 파괴되지 않을 필요는 없으며 연식과 외관에 비해 뛰어난 내구성이 대비의 중심이다.\n\n오래된 차의 개성과 질긴 생명력을 추격·모험 장면에서 부각한다.\n\n실제 충돌 안전성을 평가하는 개념이 아니며 차체가 덜 망가진다는 인상이 승객 보호를 뜻하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[하프라이프 2]]》의 에피소드 투에서 개조한 1969년형 자동차는 연속 점프와 총격 추격, 헌터와의 충돌을 버티고 정해진 사건에서만 고장 난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "상대의 행복을 지키려 중요한 사실 숨기기",
   "original": "I Didn't Tell You Because You'd Be Unhappy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02599",
+  "primary_tag_id": "ML-T02599",
   "description": {
     "definition": "사실을 알면 상대가 괴로워하거나 의무감 때문에 현재의 삶을 바꿀 것이라 생각하여 중요한 정보를 알리지 않는 선택이다.",
     "detail": "숨긴 사람은 배려라고 여기지만 당사자는 자신의 판단 기회를 빼앗겼다고 느낄 수 있다.\n\n작품 사례: 《[[해리 포터와 불사조 기사단]]》에서 덤블도어는 해리에게 운명의 진실을 알려 부담을 주고 싶지 않아 오래 숨겼다고 인정한다.",
@@ -13,19 +13,25 @@
     "boundary": "단지 불편한 진실이 존재하는 상태나 자신이 벌받지 않으려고 숨기는 거짓말과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": {
-    "easy_ko": "네가 힘들어질까 봐 중요한 사실을 말하지 않았다.\n\n작품 사례: 《[[해리 포터와 불사조 기사단]]》에서 덤블도어는 해리에게 운명의 진실을 알려 부담을 주고 싶지 않아 오래 숨겼다고 인정한다.",
+  "classification_semantics": {
+    "semantic_kind": "relationship_pattern",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "네가 힘들어질까 봐 중요한 사실을 말하지 않았다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정보를 숨기는 사람은 사실을 알면 상대가 괴로워하거나 현재의 삶을 포기할 것이라고 예상한다. 특히 원하지 않아도 의무감 때문에 행동해야 하는 상황을 피하게 해 주려는 선택일 수 있다.\n\n숨긴 쪽은 배려라고 여기지만 당사자는 판단할 기회를 빼앗겼다고 느낄 수 있다. 자신의 처벌을 피하거나 이득을 얻기 위한 은폐와는 동기가 다르며, 상대를 위한 의도만으로 결과까지 정당화되는 것은 아니다.\n\n《[[해리 포터와 불사조 기사단]]》에서 덤블도어는 해리에게 운명의 진실을 알려 부담을 주고 싶지 않아 오래 숨겼다고 인정한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정보를 숨기는 사람은 사실을 알면 상대가 괴로워하거나 현재의 삶을 포기할 것이라고 예상한다. 특히 원하지 않아도 의무감 때문에 행동해야 하는 상황을 피하게 해 주려는 선택일 수 있다.\n\n숨긴 쪽은 배려라고 여기지만 당사자는 판단할 기회를 빼앗겼다고 느낄 수 있다. 자신의 처벌을 피하거나 이득을 얻기 위한 은폐와는 동기가 다르며, 상대를 위한 의도만으로 결과까지 정당화되는 것은 아니다."
+      ],
+      [
+        "관련 작품",
+        "《[[해리 포터와 불사조 기사단]]》에서 덤블도어는 해리에게 운명의 진실을 알려 부담을 주고 싶지 않아 오래 숨겼다고 인정한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

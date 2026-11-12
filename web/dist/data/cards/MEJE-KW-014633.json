@@ -4,8 +4,8 @@
   "title": "피해 뒤 서서히 차감되는 체력",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02098",
+  "primary_tag_id": "ML-T02098",
   "description": {
     "definition": "타격 시 결정된 피해량을 체력에 즉시 반영하지 않고 시간이 걸려 차감하여 수치가 바닥나기 전의 행동·회복 기회를 주는 규칙이다. 치명상을 받아도 빠르게 대응하면 생존할 수 있다.",
     "detail": "작품 사례: [[EarthBound Series]]에서는 치명적인 피해를 받아도 체력 표시가 서서히 내려간다. 숫자가 0이 되기 전에 회복하면 죽을 상황에서 살아남을 수 있다.",
@@ -13,10 +13,10 @@
     "boundary": "시각적 막대만 늦게 움직이고 패배는 이미 확정된 연출과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "피해량이 결정된 뒤 실제 체력의 소진은 일정 시간에 걸쳐 일어나는 규칙이다. 계산된 손상과 패배 확정 사이의 간격에 다른 행동이 개입할 수 있다.\n\n막대의 시각적 이동만 늦고 이미 패배가 확정된 표현과 다르다. 차감 도중의 회복이 실제 생존 결과를 바꾸어야 한다.\n\n[[EarthBound Series]]는 치명적인 피해를 받아도 체력 숫자가 서서히 내려가게 한다. 0에 도달하기 전에 회복하면 죽을 상황을 피할 수 있어 남은 시간이 실제 행동 자원이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "피해량이 결정된 뒤 실제 체력의 소진은 일정 시간에 걸쳐 일어나는 규칙이다. 계산된 손상과 패배 확정 사이의 간격에 다른 행동이 개입할 수 있다.\n\n막대의 시각적 이동만 늦고 이미 패배가 확정된 표현과 다르다. 차감 도중의 회복이 실제 생존 결과를 바꾸어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[EarthBound Series]]는 치명적인 피해를 받아도 체력 숫자가 서서히 내려가게 한다. 0에 도달하기 전에 회복하면 죽을 상황을 피할 수 있어 남은 시간이 실제 행동 자원이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

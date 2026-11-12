@@ -4,8 +4,8 @@
   "title": "특정 집단의 수호신",
   "original": "Ethnic God",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "ML-T01121",
+  "primary_tag_id": "ML-T01121",
   "description": {
     "definition": "자연 현상보다 한 민족이나 부족의 [[정체성]]과 운명에 특별히 연결되어 그 집단이 모시는 신적 존재다. [[땅이 아닌 집단을 다스리는 군주]]은 같은 집단을 다스리지만 권위가 신이 아닌 인물에게 놓인다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "12",
+    "code": "12.003.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 민족이나 부족을 보호하고 그 집단의 운명과 연결되는 신적 존재이다. 자연 현상이나 추상적인 활동보다 사람들의 소속이 권능의 중심이 된다.\n\n집단은 기도와 제물을 바치고 신은 위협으로부터 보호하거나 지도자를 선택하는 관계를 맺을 수 있다. 신앙이 집단의 역사와 정체성을 통합하는 역할을 한다.\n\n특정 장소에 깃든 신과는 범위가 다르다. 구성원이 이동해도 집단에 대한 관계가 유지될 수 있으며, 같은 신이 다른 기능을 겸하는 것도 가능하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 민족이나 부족을 보호하고 그 집단의 운명과 연결되는 신적 존재이다. 자연 현상이나 추상적인 활동보다 사람들의 소속이 권능의 중심이 된다.\n\n집단은 기도와 제물을 바치고 신은 위협으로부터 보호하거나 지도자를 선택하는 관계를 맺을 수 있다. 신앙이 집단의 역사와 정체성을 통합하는 역할을 한다.\n\n특정 장소에 깃든 신과는 범위가 다르다. 구성원이 이동해도 집단에 대한 관계가 유지될 수 있으며, 같은 신이 다른 기능을 겸하는 것도 가능하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

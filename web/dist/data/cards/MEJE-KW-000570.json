@@ -4,8 +4,8 @@
   "title": "원하는 대상을 가리키는 나침반",
   "original": "Magic Compass",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01463",
+  "primary_tag_id": "ML-T01463",
   "description": {
     "definition": "북쪽 대신 사람·물건·장소 같은 목표를 향하는 방향을 알려 주는 초자연적 도구. 어떤 질문을 받을 수 있고 목표가 움직일 때 어떻게 반응하는지가 탐색 규칙이 된다. [[질문에 답하는 점괘 도구]]는 방향보다 말이나 짧은 예언을 돌려준다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "북쪽 대신 원하는 사람이나 물건, 장소가 있는 방향을 가리키는 도구다. 방위의 기준이 고정된 방향에서 탐색의 목표로 바뀐다.\n\n어떤 목표를 지정할 수 있는지와 목표가 움직일 때 어떻게 반응하는지가 사용 범위를 정한다. 가리키는 기능이 있어도 질문과 추적의 제약은 따로 필요하다.\n\n말이나 예언으로 답하는 점괘 도구와 구별한다. 정보가 방향이라는 형태로 제공된다는 점이 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "북쪽 대신 원하는 사람이나 물건, 장소가 있는 방향을 가리키는 도구다. 방위의 기준이 고정된 방향에서 탐색의 목표로 바뀐다.\n\n어떤 목표를 지정할 수 있는지와 목표가 움직일 때 어떻게 반응하는지가 사용 범위를 정한다. 가리키는 기능이 있어도 질문과 추적의 제약은 따로 필요하다.\n\n말이나 예언으로 답하는 점괘 도구와 구별한다. 정보가 방향이라는 형태로 제공된다는 점이 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

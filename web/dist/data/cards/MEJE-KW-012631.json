@@ -4,8 +4,8 @@
   "title": "구조에서 시작되는 연애",
   "original": "Rescue Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01013",
+  "primary_tag_id": "ML-T01013",
   "description": {
     "definition": "위험에서 구해 주고 구해진 경험이 두 [[인물]]의 [[연애]] [[감정]]을 형성하는 계기가 되는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "[[구조]]가 곧 연애에 대한 권리나 의무를 만든다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 4,
+  "updated_at": "2026-11-11",
+  "row_version": 5,
   "classification": {
-    "code": "10",
+    "code": "10.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "[[위기]]의 도움 이후 두 사람이 서로를 특별하게 여긴다.",
     "review_status": "reviewed",
@@ -30,5 +36,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "구조에서 시작되는 연애는 위험에서 구해 주고 구해진 경험이 두 인물의 연애 감정이 생기는 계기가 되는 전개다. 위기에서의 만남이 관계의 출발점이 된다.\n\n구조 이후 대화와 공동 경험이 이어지면서 인물은 서로를 이전과 다르게 볼 수 있다. 감정의 변화가 설득력 있게 보이려면 구조 행위만이 아니라 이후의 상호작용과 선택이 관계를 뒷받침해야 한다.\n\n구조가 연애에 대한 권리나 의무를 만들지는 않는다. 구해 준 사람에게 반드시 사랑을 느껴야 한다는 뜻이 아니며, 감사와 자발적 호감의 차이를 구분한다.\n\n가상 예시: 폭풍 속에서 서로를 구조한 두 선원은 이후 항해를 함께하며 신뢰를 쌓고, 시간이 지나 서로에게 연애 감정을 느낀다.",
+    "sections": [
+      [
+        "상세 설명",
+        "구조에서 시작되는 연애는 위험에서 구해 주고 구해진 경험이 두 인물의 연애 감정이 생기는 계기가 되는 전개다. 위기에서의 만남이 관계의 출발점이 된다.\n\n구조 이후 대화와 공동 경험이 이어지면서 인물은 서로를 이전과 다르게 볼 수 있다. 감정의 변화가 설득력 있게 보이려면 구조 행위만이 아니라 이후의 상호작용과 선택이 관계를 뒷받침해야 한다.\n\n구조가 연애에 대한 권리나 의무를 만들지는 않는다. 구해 준 사람에게 반드시 사랑을 느껴야 한다는 뜻이 아니며, 감사와 자발적 호감의 차이를 구분한다."
+      ],
+      [
+        "사례",
+        "가상 예시: 폭풍 속에서 서로를 구조한 두 선원은 이후 항해를 함께하며 신뢰를 쌓고, 시간이 지나 서로에게 연애 감정을 느낀다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

@@ -4,8 +4,8 @@
   "title": "소수 전사가 마을을 지키는 이야기",
   "original": "The Magnificent Seven Samurai",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02550",
+  "primary_tag_id": "ML-T02550",
   "description": {
     "definition": "수적으로 불리한 전사들이 평화로운 마을을 보호하기 위해 모여 외부 위협에 맞서는 이야기 유형이다. 소수의 전문성과 지켜야 할 공동체가 [[갈등]]을 이룬다.",
     "detail": "작품 사례: [[Seven Samurai]]는 수적으로 불리한 전사들이 평화로운 마을을 보호하려는 이야기로, 적은 인원과 지켜야 할 공동체의 대비를 중심에 둔다.",
@@ -13,10 +13,10 @@
     "boundary": "그냥 수가 적은 영웅 팀이나 마을이 공격 기지로만 등장하는 이야기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "11.002.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-000793",
+      "work_card_id": "MM-MEDIA-001764",
       "description_ko": "Seven Samurai는 수적으로 불리한 전사들이 평화로운 마을을 보호하려는 이야기로, 적은 인원과 지켜야 할 공동체의 대비를 중심에 둔다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보호해야 할 마을과 외부의 큰 공격 세력이 있으면 소수 전사의 전문성이 [[공동체]]의 생존에 연결된다. 인원은 적어도 지켜야 할 대상의 범위는 커서 선택과 방어의 [[갈등]]이 생긴다.\n\n단지 영웅 팀이 소수라는 사실만으로는 같은 이야기 유형이 아니다. 마을이 공격 기지에 그치지 않고 보호 대상이어야 하며 전투 집단과 주민의 관계가 중심을 이룬다.\n\n[[Seven Samurai]]는 수적 열세의 전사들이 평화로운 마을을 방어하는 이야기다. 적은 전투 인원과 그들이 지켜야 하는 공동체의 대비가 기본 구조를 이룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보호해야 할 마을과 외부의 큰 공격 세력이 있으면 소수 전사의 전문성이 [[공동체]]의 생존에 연결된다. 인원은 적어도 지켜야 할 대상의 범위는 커서 선택과 방어의 [[갈등]]이 생긴다.\n\n단지 영웅 팀이 소수라는 사실만으로는 같은 이야기 유형이 아니다. 마을이 공격 기지에 그치지 않고 보호 대상이어야 하며 전투 집단과 주민의 관계가 중심을 이룬다."
+      ],
+      [
+        "관련 작품",
+        "[[Seven Samurai]]는 수적 열세의 전사들이 평화로운 마을을 방어하는 이야기다. 적은 전투 인원과 그들이 지켜야 하는 공동체의 대비가 기본 구조를 이룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

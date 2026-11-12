@@ -4,27 +4,27 @@
   "title": "파워레인저",
   "original": "Power Rangers",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《파워레인저》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《파워레인저》는 폭스 키즈에서 여러 회차를 연달아 편성한 사례로 소개되어 같은 프로그램을 장시간 이어 보여 주는 방식을 설명한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일본 전대물의 액션 장면에 다른 배우들의 새 이야기를 결합해 시작한 영웅 작품군이다. 특별한 힘을 얻은 집단이 지배를 꾀하는 적에 맞선다는 틀을 재구성한다.\n\n기존 전투 장면이 새 제작의 시각적인 기준이 되어 비용과 이야기 구성에 동시에 관여했다. 같은 전대 영상이 사용되어도 원래 일본 시리즈와 인물 및 사건의 연속성이 동일한 작품으로 취급하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일본 전대물의 액션 장면에 다른 배우들의 새 이야기를 결합해 시작한 영웅 작품군이다. 특별한 힘을 얻은 집단이 지배를 꾀하는 적에 맞선다는 틀을 재구성한다.\n\n기존 전투 장면이 새 제작의 시각적인 기준이 되어 비용과 이야기 구성에 동시에 관여했다. 같은 전대 영상이 사용되어도 원래 일본 시리즈와 인물 및 사건의 연속성이 동일한 작품으로 취급하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

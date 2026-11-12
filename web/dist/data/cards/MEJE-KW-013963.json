@@ -6,8 +6,8 @@
   "aliases": [
     "모두가 오래 버티는 소모전"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02097",
+  "primary_tag_id": "ML-T02097",
   "description": {
     "definition": "양측의 체력이나 방어력이 피해량에 비해 높아 조금씩 깎는 긴 전투가 반복되는 게임 양상이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "플레이어만 약하거나 적만 체력이 많은 비대칭과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,5 +32,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "양측의 체력이나 방어력이 피해량에 비해 높아 전투가 조금씩 깎는 과정으로 길어진다. 오래 버티는 성질이 양쪽에 있어 소모전이 반복된다.\n\n전투 속도는 한 번의 공격보다 누적되는 피해와 자원 소비에 의해 결정된다. 전체 규칙이 긴 싸움을 반복해서 만드는지 확인해야 한다.\n\n플레이어만 약하거나 적에게만 많은 체력이 있는 비대칭과 구별한다. 양쪽이 피해에 비해 오래 버틸 수 있다는 조건이 중심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "양측의 체력이나 방어력이 피해량에 비해 높아 전투가 조금씩 깎는 과정으로 길어진다. 오래 버티는 성질이 양쪽에 있어 소모전이 반복된다.\n\n전투 속도는 한 번의 공격보다 누적되는 피해와 자원 소비에 의해 결정된다. 전체 규칙이 긴 싸움을 반복해서 만드는지 확인해야 한다.\n\n플레이어만 약하거나 적에게만 많은 체력이 있는 비대칭과 구별한다. 양쪽이 피해에 비해 오래 버틸 수 있다는 조건이 중심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

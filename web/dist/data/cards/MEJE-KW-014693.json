@@ -4,8 +4,8 @@
   "title": "감추려다 더 널리 알려지기",
   "original": "The Streisand Effect",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00727",
+  "primary_tag_id": "ML-T00727",
   "description": {
     "definition": "정보를 억누르거나 지우려는 시도가 오히려 사람들의 관심을 끌어 더 넓은 확산을 부르는 역효과다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "원래 확산 중이던 정보의 자연스러운 인지도 상승과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "06.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "정보를 지우거나 억누르려던 행동이 오히려 관심을 끌어 확산을 키운다. 숨기려는 시도와 원치 않은 공개 확대 사이에 역효과가 생긴다.\n\n정보 자체에 더해 그것을 감추려 한다는 사실이 사람들의 주목을 받는 계기가 된다. 억제 행동이 없었을 때와 비교해 관심이 커지는 인과가 중요하다.\n\n이미 퍼지던 정보가 자연스럽게 더 유명해지는 경우와 구별한다. 확산의 원인에 은폐 시도가 직접 관여해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "정보를 지우거나 억누르려던 행동이 오히려 관심을 끌어 확산을 키운다. 숨기려는 시도와 원치 않은 공개 확대 사이에 역효과가 생긴다.\n\n정보 자체에 더해 그것을 감추려 한다는 사실이 사람들의 주목을 받는 계기가 된다. 억제 행동이 없었을 때와 비교해 관심이 커지는 인과가 중요하다.\n\n이미 퍼지던 정보가 자연스럽게 더 유명해지는 경우와 구별한다. 확산의 원인에 은폐 시도가 직접 관여해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

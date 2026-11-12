@@ -4,8 +4,8 @@
   "title": "서로 다른 시간대를 숨긴 교차 서술",
   "original": "Sequencing Deception",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00629",
+  "primary_tag_id": "ML-T00629",
   "description": {
     "definition": "번갈아 보여 주는 장면들이 서로 다른 시점에 있다는 사실을 감추어 사건 순서를 오인하게 만드는 장치다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "시간대를 분명히 밝힌 교차 구성과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "장면을 연달아 놓거나 번갈아 보여 주어 관객이 시간의 관계를 잘못 추정하게 한다. 실제로는 떨어진 시점이라는 정보를 나중까지 숨기는 구성이다.\n\n동시에 벌어지는 것처럼 보인 사건이 과거의 원인이었다고 밝혀지면 단서와 인물의 행동이 재해석된다. 편집의 연결에서 생긴 가정을 관객이 사실처럼 받아들였다는 점이 반전의 기반이다.\n\n[[다른 이야기로 돌아가는 전환 문구]]처럼 장면을 넘기는 기능만으로 성립하지 않는다. 다른 시간대라는 사실을 처음부터 명확히 알린 교차 서술과 구별되며, 사건 순서의 오인이 이해에 실제 영향을 주어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "장면을 연달아 놓거나 번갈아 보여 주어 관객이 시간의 관계를 잘못 추정하게 한다. 실제로는 떨어진 시점이라는 정보를 나중까지 숨기는 구성이다.\n\n동시에 벌어지는 것처럼 보인 사건이 과거의 원인이었다고 밝혀지면 단서와 인물의 행동이 재해석된다. 편집의 연결에서 생긴 가정을 관객이 사실처럼 받아들였다는 점이 반전의 기반이다.\n\n[[다른 이야기로 돌아가는 전환 문구]]처럼 장면을 넘기는 기능만으로 성립하지 않는다. 다른 시간대라는 사실을 처음부터 명확히 알린 교차 서술과 구별되며, 사건 순서의 오인이 이해에 실제 영향을 주어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

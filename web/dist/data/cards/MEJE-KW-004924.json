@@ -4,8 +4,8 @@
   "title": "기사도 로망스",
   "original": "Chivalric Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-004924",
+  "primary_tag_id": "MEJE-KW-004924",
   "description": {
     "definition": "기사가 모험과 명예를 좇으며 초자연적 존재와 궁정의 질서를 만나는 오래된 [[서사]] 장르다. 오늘날의 연애 중심 이야기보다 넓은 뜻의 모험 문학을 가리킨다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.102.008",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,33 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000340",
+      "card_id": "MEJE-KW-004924",
+      "label_ko": "기사도 로망스의 문학적 범위",
+      "icon_key": "book",
+      "url": "https://www.cambridge.org/core/books/abs/byron-in-context/romance/8CDB4A608A00121DBD931996326FA8A5",
+      "description_ko": "Cambridge University Press의 중세 로망스 설명",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "영어 chivalric은 중세 기사 계층과 기사도(chivalry)에 관련된다는 뜻이며, romance는 중세 유럽에서 모험과 사랑을 포함한 장편 허구 서사를 가리켰다.\n\n기사도 로망스는 기사의 여정과 시험을 이어 붙이는 [[모험]] [[서사]]다. 낯선 장소, 위험한 과제, 초자연적 존재와의 만남이 기사에게 용기와 충성, 명예를 입증할 기회를 제공하고, 궁정의 규범은 개인의 행동을 평가하는 기준이 된다.\n\n모험 장르의 이동과 발견을 기사도와 궁정 문화에 결합한 갈래다. 전투나 괴물이 나오더라도 기사라는 지위, 명예를 둘러싼 선택, 모험의 연속성이 중요하다. 현대적 의미의 연애물이나 기사만 등장하는 역사극과는 구별된다.",
+    "sections": [
+      [
+        "어원과 명칭",
+        "영어 chivalric은 중세 기사 계층과 기사도(chivalry)에 관련된다는 뜻이며, romance는 중세 유럽에서 모험과 사랑을 포함한 장편 허구 서사를 가리켰다."
+      ],
+      [
+        "상세 설명",
+        "기사도 로망스는 기사의 여정과 시험을 이어 붙이는 [[모험]] [[서사]]다. 낯선 장소, 위험한 과제, 초자연적 존재와의 만남이 기사에게 용기와 충성, 명예를 입증할 기회를 제공하고, 궁정의 규범은 개인의 행동을 평가하는 기준이 된다.\n\n모험 장르의 이동과 발견을 기사도와 궁정 문화에 결합한 갈래다. 전투나 괴물이 나오더라도 기사라는 지위, 명예를 둘러싼 선택, 모험의 연속성이 중요하다. 현대적 의미의 연애물이나 기사만 등장하는 역사극과는 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

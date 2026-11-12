@@ -1,0 +1,47 @@
+{
+  "id": "MEJE-KW-032529",
+  "kind": "keyword",
+  "title": "인증 실패가 침입자 공격 장치를 작동시키기",
+  "original": "",
+  "aliases": [],
+  "tag_id": null,
+  "primary_tag_id": "ML-F16",
+  "description": {
+    "definition": "보안 장치가 인증 실패를 침입으로 간주하고 접근한 사람을 해치는 함정을 작동시키는 설정이다.",
+    "detail": "",
+    "usage": "[[보안 장치]]를 즉각적인 신체적 위협으로 전환한다.",
+    "boundary": "자료의 삭제나 단순 경보와 달리 접근자에게 물리적 위해를 주는 반응이 있어야 한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-08",
+  "row_version": 1,
+  "classification": {
+    "code": "16",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "암호를 틀리면 문이 잠기는 데 그치지 않고 위험이 닥친다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "인증 실패를 곧바로 침입으로 간주하는 [[보안 장치]]는 접근자의 실수를 물리적인 위험으로 바꾼다. 경보나 일시적 잠금에 그치지 않고 사람을 공격하는 반응이 뒤따르므로 자료에 도달하기 전부터 신체의 안전이 쟁점이 된다.\n\n판별 기준은 자료 손실이 아니라 접근자에게 위해를 주는 기능이다. 단순한 인증 거부나 데이터 삭제와 구분하며, 정당한 사용자도 잘못 입력할 수 있다는 점이 장치의 위험을 키운다. 실제 보안 제도의 일반적 특성으로 확대하지 않고 해당 허구 설정의 작동 조건으로 설명한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인증 실패를 곧바로 침입으로 간주하는 [[보안 장치]]는 접근자의 실수를 물리적인 위험으로 바꾼다. 경보나 일시적 잠금에 그치지 않고 사람을 공격하는 반응이 뒤따르므로 자료에 도달하기 전부터 신체의 안전이 쟁점이 된다.\n\n판별 기준은 자료 손실이 아니라 접근자에게 위해를 주는 기능이다. 단순한 인증 거부나 데이터 삭제와 구분하며, 정당한 사용자도 잘못 입력할 수 있다는 점이 장치의 위험을 키운다. 실제 보안 제도의 일반적 특성으로 확대하지 않고 해당 허구 설정의 작동 조건으로 설명한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
+}

@@ -4,8 +4,8 @@
   "title": "평범하지만 잃을 수 없는 개인의 물건",
   "original": "#1 Dime",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01482",
+  "primary_tag_id": "ML-T01482",
   "description": {
     "definition": "값은 크지 않아도 인물에게 특별한 기억이나 관계를 붙잡아 주는 소지품. 빼앗기거나 망가지면 물건보다 그 의미를 잃는 일이 갈등이 된다. [[부적]]과 달리 초자연적 효력이 없어도 중요하다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "시장 가치보다 개인의 기억과 관계 때문에 중요해진 소지품이다. 똑같은 물건으로 바꾸어도 같은 의미가 생기지 않으므로 손실은 대체하기 어렵다.\n\n타인이 하찮게 여긴 물건을 지키는 선택이 인물이 무엇을 소중히 하는지 드러낸다. [[부적]]처럼 힘을 준다는 믿음이 있을 수 있지만 초자연적 효력은 필수가 아니며, 비싼 보물이라는 이유만으로 같은 의미를 부여하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "시장 가치보다 개인의 기억과 관계 때문에 중요해진 소지품이다. 똑같은 물건으로 바꾸어도 같은 의미가 생기지 않으므로 손실은 대체하기 어렵다.\n\n타인이 하찮게 여긴 물건을 지키는 선택이 인물이 무엇을 소중히 하는지 드러낸다. [[부적]]처럼 힘을 준다는 믿음이 있을 수 있지만 초자연적 효력은 필수가 아니며, 비싼 보물이라는 이유만으로 같은 의미를 부여하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

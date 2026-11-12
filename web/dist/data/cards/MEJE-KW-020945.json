@@ -10,11 +10,11 @@
     "definition": "다수의 등장인물을 한 장면이나 소개 구간에 모아 각자의 이름을 연달아 제시하는 정보 전달 방식이다.",
     "detail": "직접 자기소개하거나 대표 인물이 차례로 호명하며, 별도의 인물 소개 페이지로 분리할 수도 있다.\n\n작품 사례: 《[[포켓몬스터 DP]]》의 영어판 한 오프닝에서는 지우의 포켓몬들이 한 구간에 모여 각자 이름을 외친다.",
     "usage": "큰 집단의 구성을 짧은 구간에서 전달하거나 재등장 인물을 다시 익히게 한다.",
-    "boundary": "서로 떨어져 있던 인물들이 모이는 사건 자체가 아니라 집단의 이름 정보를 집중 제시하는 방식이다."
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
     "code": "23",
     "review_status": "provisional",
@@ -22,10 +22,10 @@
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "일행이 줄줄이 등장해 이름부터 한꺼번에 알려 준다.\n\n작품 사례: 《[[포켓몬스터 DP]]》의 영어판 한 오프닝에서는 지우의 포켓몬들이 한 구간에 모여 각자 이름을 외친다.",
+    "easy_ko": "일행이 줄줄이 등장해 이름부터 한꺼번에 알려 준다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "직접 자기소개하거나 대표 인물이 차례로 호명하며, 별도의 인물 소개 페이지로 분리할 수도 있다.\n\n서로 떨어져 있던 인물들이 모이는 사건 자체가 아니라 집단의 이름 정보를 집중 제시하는 방식이다.\n\n《[[포켓몬스터 DP]]》의 영어판 한 오프닝에서는 지우의 포켓몬들이 한 구간에 모여 각자 이름을 외친다.",
+    "sections": [
+      [
+        "상세 설명",
+        "직접 자기소개하거나 대표 인물이 차례로 호명하며, 별도의 인물 소개 페이지로 분리할 수도 있다.\n\n서로 떨어져 있던 인물들이 모이는 사건 자체가 아니라 집단의 이름 정보를 집중 제시하는 방식이다."
+      ],
+      [
+        "관련 작품",
+        "《[[포켓몬스터 DP]]》의 영어판 한 오프닝에서는 지우의 포켓몬들이 한 구간에 모여 각자 이름을 외친다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

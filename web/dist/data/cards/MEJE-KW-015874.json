@@ -4,34 +4,37 @@
   "title": "현실적 갈등 중심의 로우 판타지",
   "original": "Low Fantasy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00217",
+  "primary_tag_id": "ML-T00217",
   "description": {
-    "definition": "인간의 욕망·정치·제한된 범위의 [[갈등]]과 도덕적 모호함에 무게를 두는 판타지 경향이다. [[마법]]의 양보다 갈등의 성격과 해결의 불완전함이 강조된다.",
-    "detail": "작품 사례: [[Stranger at the Wedding]]에서는 위협의 범위가 한 상인 가족에 머물러, 세계 전체의 선악 결전보다 제한된 인간관계의 갈등이 중심이 된다.",
+    "definition": "저위 판타지는 대체 세계를 배경으로 하면서 고위 판타지·영웅 판타지보다 마법이나 초자연 요소가 드물거나 제한되는 경향을 가리킨다. 인간 사회의 이해관계와 도덕적 모호함을 다루기도 하지만, 작품 전반에 적용되는 단일 기준은 없다.",
+    "detail": "고위 판타지나 영웅 판타지에 비해 마법·초자연 요소의 비중이 낮고 인간 사회의 갈등과 도덕적 모호함을 강조하는 분류 용례이다. 현실 세계에 판타지가 제한적으로 개입하는 형식을 가리키는 다른 용례와는 범위가 다르다.",
     "usage": "해당 비평이 현실 세계 여부보다 사건 규모·도덕성·해결 수단으로 [[장르]]를 구분하는지 확인한다.",
     "boundary": "현실과 닮은 세계에 제한적으로 초자연이 개입한다는 다른 Low Fantasy 정의와 혼동하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.103.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "세계 구원보다 마법사 가족의 다툼이나 권력 싸움처럼 인간적인 문제를 중심에 둔다.",
+    "easy_ko": "마법보다 인간 사회의 권력과 생존 문제를 중심에 두는 판타지 경향이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-08",
-    "row_version": 3
+    "updated_at": "2026-11-10",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [
@@ -51,5 +54,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "역사적이거나 현실적인 배경, 인간이 다수인 사회, 드물고 위험하거나 규칙이 제한된 마법이 나타날 수 있다. 이 요소 하나만으로 분류되지는 않으며, 판타지 세계와 초자연 요소의 비중을 함께 고려한다.\n\n이 용례는 현실 세계 배경 여부보다 사건 규모·도덕성·해결 수단으로 [[장르]]를 구분한다.\n\n현실과 닮은 세계에 초자연이 제한적으로 개입한다는 정의는 별도의 용례에 해당한다.\n\n작품 사례: 《[[Stranger at the Wedding]]》에서는 위협의 범위가 한 상인 가족에 머물러, 세계 전체의 선악 결전보다 제한된 인간관계의 갈등이 중심이 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "역사적이거나 현실적인 배경, 인간이 다수인 사회, 드물고 위험하거나 규칙이 제한된 마법이 나타날 수 있다. 이 요소 하나만으로 분류되지는 않으며, 판타지 세계와 초자연 요소의 비중을 함께 고려한다.\n\n이 용례는 현실 세계 배경 여부보다 사건 규모·도덕성·해결 수단으로 [[장르]]를 구분한다.\n\n현실과 닮은 세계에 초자연이 제한적으로 개입한다는 정의는 별도의 용례에 해당한다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[Stranger at the Wedding]]》에서는 위협의 범위가 한 상인 가족에 머물러, 세계 전체의 선악 결전보다 제한된 인간관계의 갈등이 중심이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -6,8 +6,8 @@
   "aliases": [
     "위험한 상대를 만만하게 보고 범행하기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00776",
+  "primary_tag_id": "ML-T00776",
   "description": {
     "definition": "쉽게 해칠 수 있다고 고른 대상이 실제로는 가해자보다 훨씬 강하거나 위험하여 공격이 역전된다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "처음부터 강자를 알면서 도전하는 경우와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,5 +32,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "약한 대상으로 판단해 공격했지만 실제로는 훨씬 강한 상대였다는 사실이 드러난다. 가해자의 자신감과 곧바로 뒤집힌 힘의 관계가 대비된다.\n\n예상 밖의 반격은 상대의 숨은 능력을 짧게 공개하는 수단이 된다. 위험을 알고도 도발한 경우와는 공격 이전에 가진 정보가 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "약한 대상으로 판단해 공격했지만 실제로는 훨씬 강한 상대였다는 사실이 드러난다. 가해자의 자신감과 곧바로 뒤집힌 힘의 관계가 대비된다.\n\n예상 밖의 반격은 상대의 숨은 능력을 짧게 공개하는 수단이 된다. 위험을 알고도 도발한 경우와는 공격 이전에 가진 정보가 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

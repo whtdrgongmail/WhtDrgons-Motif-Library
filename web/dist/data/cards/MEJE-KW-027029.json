@@ -4,8 +4,8 @@
   "title": "중심 남녀와 그들을 좋아하는 조연들의 연애 구도",
   "original": "Supporting Harem",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MEJE-KW-026949",
+  "primary_tag_id": "MEJE-KW-026949",
   "description": {
     "definition": "남녀 주연이 중심을 이루면서 주변의 여러 조연도 주연 중 한 사람을 사랑하는 하렘형 구성을 만든다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "주연 둘이 이미 공식 연인이어야 한다는 이전 제안의 조건은 필요하지 않다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.002.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "중심 두 사람 곁에 다른 구애자들이 남아 있다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "중심 커플의 감정 발전을 주축으로 두면서 다른 조연들의 호감이 경쟁과 오해를 더한다. 관객은 여러 후보를 보지만 이야기의 무게는 특정 남녀의 관계에 더 많이 배분된다.\n\n조연은 중심 관계를 시험하거나 주인공의 선택을 드러내는 역할을 할 수 있다. 다른 인물의 감정이 독립적으로 다뤄지는지에 따라 관계망의 깊이가 달라진다.\n\n모든 후보가 동등한 가능성을 갖는 구성과는 초점이 다르다. 원문은 남성 주인공을 좋아하는 여성 조연들을 중심으로 하므로 다른 성별 배치까지 직접 입증하는 근거로 넓히지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "중심 커플의 감정 발전을 주축으로 두면서 다른 조연들의 호감이 경쟁과 오해를 더한다. 관객은 여러 후보를 보지만 이야기의 무게는 특정 남녀의 관계에 더 많이 배분된다.\n\n조연은 중심 관계를 시험하거나 주인공의 선택을 드러내는 역할을 할 수 있다. 다른 인물의 감정이 독립적으로 다뤄지는지에 따라 관계망의 깊이가 달라진다.\n\n모든 후보가 동등한 가능성을 갖는 구성과는 초점이 다르다. 원문은 남성 주인공을 좋아하는 여성 조연들을 중심으로 하므로 다른 성별 배치까지 직접 입증하는 근거로 넓히지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

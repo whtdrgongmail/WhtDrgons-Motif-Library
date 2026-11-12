@@ -4,8 +4,8 @@
   "title": "감옥에서 범죄자가 됨",
   "original": "Had to Come to Prison to Be a Crook",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00693",
+  "primary_tag_id": "ML-T00693",
   "description": {
     "definition": "수감 환경과 낙인 때문에 [[인물]]이 이전보다 범죄적 기술·습관·[[선택]]을 익히는 역설적 변화이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "모든 수감자의 [[현실]]을 단정하지 않으며 수감 이전의 성향과 변화의 [[인과]]를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "06.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수감 환경과 낙인이 인물에게 범죄 기술과 습관을 익히게 한다. 처벌을 받은 경험이 이전보다 범죄적인 선택을 늘리는 역설이다.\n\n수감 전후의 차이와 환경의 영향을 연결해야 변화의 원인을 알 수 있다. 감옥에 있었다는 사실보다 그 경험이 무엇을 학습하게 했는지가 중요하다.\n\n모든 수감자의 현실을 일반화하지 않는다. 원래의 성향과 수감 뒤에 생긴 변화를 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수감 환경과 낙인이 인물에게 범죄 기술과 습관을 익히게 한다. 처벌을 받은 경험이 이전보다 범죄적인 선택을 늘리는 역설이다.\n\n수감 전후의 차이와 환경의 영향을 연결해야 변화의 원인을 알 수 있다. 감옥에 있었다는 사실보다 그 경험이 무엇을 학습하게 했는지가 중요하다.\n\n모든 수감자의 현실을 일반화하지 않는다. 원래의 성향과 수감 뒤에 생긴 변화를 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

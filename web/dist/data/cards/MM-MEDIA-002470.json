@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "둠(1993년 게임)",
   "original": "Doom (1993)",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "둠(1993)"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《둠(1993년 게임)》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《둠(1993년 게임)》의 세 번째 에피소드 비밀 구간은 처음에는 앞선 구간과 같아 보이지만 마지막 방이 확장된 뒤 역방향으로 진행하게 한다. 돌아가는 방에도 새 적과 확장된 공간이 있어 이전 지식을 새 조건에 적용해야 한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -41,7 +43,24 @@
     {
       "card_id": "MEJE-KW-013227",
       "row_version": 1
+    },
+    {
+      "card_id": "MEJE-KW-028981",
+      "row_version": 2
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《둠》의 1993년 게임은 화성 주변 기지의 차원 이동 실험이 파국을 맞은 뒤를 다루는 일인칭 슈팅 게임이다. 이름 없는 해병은 기지에 배치되어 있다가 사람과 장소가 변하는 사태 속에서 위협에 맞선다.\n\nUAC의 실험이 다른 차원과의 통로를 불안정하게 만든다는 배경이 괴물과 군사 시설의 결합을 설명한다. 플레이어는 미로 같은 구역을 탐색하며 빠르게 싸우고 이동한다. 이후의 리부트와 작품군 전체가 아니라 최초로 발매된 게임을 가리킨다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《둠》의 1993년 게임은 화성 주변 기지의 차원 이동 실험이 파국을 맞은 뒤를 다루는 일인칭 슈팅 게임이다. 이름 없는 해병은 기지에 배치되어 있다가 사람과 장소가 변하는 사태 속에서 위협에 맞선다.\n\nUAC의 실험이 다른 차원과의 통로를 불안정하게 만든다는 배경이 괴물과 군사 시설의 결합을 설명한다. 플레이어는 미로 같은 구역을 탐색하며 빠르게 싸우고 이동한다. 이후의 리부트와 작품군 전체가 아니라 최초로 발매된 게임을 가리킨다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

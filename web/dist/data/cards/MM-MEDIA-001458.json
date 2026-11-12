@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "에이리언 2",
   "original": "Aliens",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Aliens"
+  ],
+  "tag_id": "ML-T02487",
   "primary_tag_id": "ML-T02487",
   "description": {
     "definition": "《에이리언 2》는 영화 작품이다.",
-    "detail": "작품 사례: 《에이리언 2》에서 리플리는 버크가 이익을 위해 사람들을 희생시키려 한 사실을 알고, 에이리언조차 수익을 위해 동족을 배신하지는 않는다고 비난한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
     "code": "02.005",
     "review_status": "provisional",
@@ -39,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-012108",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-016540",
       "row_version": 1
     },
@@ -59,5 +65,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《에이리언 2》는 노스트로모 사건 뒤 오랜 동면에서 깨어난 리플리가 다시 외계 생물의 위협에 가는 영화다. 처음에는 그녀의 말을 믿지 않던 회사가 그 행성의 식민지와 연락이 끊기자 해병대와 함께 조사를 요청한다.\n\n리플리의 경험은 무장한 군대도 이해하지 못하는 적을 상대하는 데 중요해진다. 전편의 제한된 생존 공포를 집단 전투와 더 큰 행동 규모로 확장하면서, 다시 돌아가야 하는 인물의 두려움을 유지한 후속편이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《에이리언 2》는 노스트로모 사건 뒤 오랜 동면에서 깨어난 리플리가 다시 외계 생물의 위협에 가는 영화다. 처음에는 그녀의 말을 믿지 않던 회사가 그 행성의 식민지와 연락이 끊기자 해병대와 함께 조사를 요청한다.\n\n리플리의 경험은 무장한 군대도 이해하지 못하는 적을 상대하는 데 중요해진다. 전편의 제한된 생존 공포를 집단 전투와 더 큰 행동 규모로 확장하면서, 다시 돌아가야 하는 인물의 두려움을 유지한 후속편이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

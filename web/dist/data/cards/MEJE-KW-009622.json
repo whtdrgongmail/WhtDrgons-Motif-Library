@@ -4,8 +4,8 @@
   "title": "송곳니 때문에 달라지는 발음",
   "original": "Fang Thpeak",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "뾰족한 이빨을 지닌 인물이 특정 소리를 어색하게 발음하도록 표현해 외형 특징을 목소리에 반영하는 연출이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "송곳니가 있는 인물의 발음을 어색하게 만들어 외형의 특징을 음성에 반영하는 연출이다. 특정 마찰음이 다른 소리로 들리는 식으로 표현된다.\n\n촬영용 가짜 이가 발성을 방해한 결과일 수도 있고 의도적인 연기일 수도 있다. 위협적인 모습과 서툰 발음이 대비되면 희극적인 인상이 생긴다.\n\n뾰족한 이를 가진 모든 존재가 같은 발음을 한다는 규칙은 아니다. 제작상의 실제 제약과 극중 신체 설정을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "송곳니가 있는 인물의 발음을 어색하게 만들어 외형의 특징을 음성에 반영하는 연출이다. 특정 마찰음이 다른 소리로 들리는 식으로 표현된다.\n\n촬영용 가짜 이가 발성을 방해한 결과일 수도 있고 의도적인 연기일 수도 있다. 위협적인 모습과 서툰 발음이 대비되면 희극적인 인상이 생긴다.\n\n뾰족한 이를 가진 모든 존재가 같은 발음을 한다는 규칙은 아니다. 제작상의 실제 제약과 극중 신체 설정을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

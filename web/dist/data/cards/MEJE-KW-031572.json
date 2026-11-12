@@ -4,8 +4,8 @@
   "title": "정치와 외교에 직접 참여하는 공주",
   "original": "Politically Active Princess",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00908",
+  "primary_tag_id": "ML-T00908",
   "description": {
     "definition": "왕족 여성이라는 지위를 수동적인 상징이나 협상의 대상으로만 쓰지 않고 스스로 정치적 판단과 외교 행동을 수행하는 공주 유형이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.004.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "다른 사람들이 정한 혼담이나 조약을 따르기만 하지 않고 직접 협상하고 세력을 움직이는 공주다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "신분이 부여한 접근권과 상징성은 정치적 행동의 자원이 될 수 있다. 인물은 궁정 안의 관계를 조정하거나 외부 세력과 대화하면서 자신이 원하는 결과를 추구한다. 주변에서 장식적인 존재로만 여긴다면 실제 영향력이 드러나는 순간이 능력과 주도권을 보여 준다.\n\n직접 전투에 참여하는지와는 별개의 분류다. 외교와 무력을 함께 사용할 수 있으며, 반드시 국가의 최고 통치자여야 하는 것도 아니다. [[왕실의 역할을 거부하는 공주]]가 부여된 역할에서 벗어나는 태도에 초점을 둔다면 이 인물은 그 지위를 활용해서라도 정치에 개입한다. 권력이 있다는 설정보다 실제로 무엇을 결정하고 책임지는지가 중요하다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "신분이 부여한 접근권과 상징성은 정치적 행동의 자원이 될 수 있다. 인물은 궁정 안의 관계를 조정하거나 외부 세력과 대화하면서 자신이 원하는 결과를 추구한다. 주변에서 장식적인 존재로만 여긴다면 실제 영향력이 드러나는 순간이 능력과 주도권을 보여 준다.\n\n직접 전투에 참여하는지와는 별개의 분류다. 외교와 무력을 함께 사용할 수 있으며, 반드시 국가의 최고 통치자여야 하는 것도 아니다. [[왕실의 역할을 거부하는 공주]]가 부여된 역할에서 벗어나는 태도에 초점을 둔다면 이 인물은 그 지위를 활용해서라도 정치에 개입한다. 권력이 있다는 설정보다 실제로 무엇을 결정하고 책임지는지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

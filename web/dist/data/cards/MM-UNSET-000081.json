@@ -2,24 +2,47 @@
   "id": "MM-UNSET-000081",
   "kind": "keyword",
   "title": "책략가",
-  "original": "",
+  "original": "Strategist",
+  "original_basis": "editorial_english_label",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F09",
   "description": {
-    "definition": "",
+    "definition": "목표를 이루기 위해 사건의 순서와 인물의 행동·자원의 사용을 계획하고 조정하는 데 능한 인물이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "09",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "일이 어떻게 흘러갈지 미리 따져 보고 사람과 자원을 배치하는 데 능한 인물이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "책략가는 목표를 위해 어떤 행동을 먼저 하고 누가 무엇을 맡을지 계획한다. 연결 문맥에서는 사건과 자원의 배치에 능한 인물로 언급된다. 실제로 계획이 성공하는지, 다른 인물이 그 계획에 따르는지는 작품에서 확인해야 한다.\n\n사람의 감정과 판단을 조작하는 인물도 책략을 쓸 수 있지만, 모든 책략가가 그런 방식으로 행동하는 것은 아니다. 정직한 협의나 공개된 전략을 사용할 수도 있다. 상대를 속이거나 압박하는지는 별도의 행동으로 기록한다.\n\n계획을 한 번 제안했다는 사실만으로 이 인물 유형에 넣지 않는다. 여러 사건에서 계획과 자원 배분이 중요한 역할을 하는지 살피고, 인물이 직접 수행하는 기술과 계획을 세우는 기능도 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "책략가는 목표를 위해 어떤 행동을 먼저 하고 누가 무엇을 맡을지 계획한다. 연결 문맥에서는 사건과 자원의 배치에 능한 인물로 언급된다. 실제로 계획이 성공하는지, 다른 인물이 그 계획에 따르는지는 작품에서 확인해야 한다.\n\n사람의 감정과 판단을 조작하는 인물도 책략을 쓸 수 있지만, 모든 책략가가 그런 방식으로 행동하는 것은 아니다. 정직한 협의나 공개된 전략을 사용할 수도 있다. 상대를 속이거나 압박하는지는 별도의 행동으로 기록한다.\n\n계획을 한 번 제안했다는 사실만으로 이 인물 유형에 넣지 않는다. 여러 사건에서 계획과 자원 배분이 중요한 역할을 하는지 살피고, 인물이 직접 수행하는 기술과 계획을 세우는 기능도 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

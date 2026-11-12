@@ -5,8 +5,8 @@
   "original": "Magic Keeps You from Recognizing the Goal",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00710",
+  "primary_tag_id": "ML-T00710",
   "description": {
     "definition": "대상을 찾고 있다는 기억은 유지하지만 마법적 세뇌·망각·인식 방해로 눈앞의 목표를 알아보지 못한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "탐색 임무 자체를 완전히 잊었거나 평범한 거짓말에 속은 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "06",
+    "code": "06.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "무엇을 찾는 중인지는 기억하지만 눈앞의 대상이 바로 그 목표라는 사실을 알아보지 못한다. 탐색의 의지와 대상 인식이 분리되는 마법적 방해다.\n\n세뇌나 망각, 인식 차단이 목표를 발견하지 못하게 하는 규칙으로 작동한다. 가까이에 있다는 물리적 조건만으로 탐색이 끝나지 않게 만든다.\n\n임무 자체를 완전히 잊은 상황과는 다르다. 평범한 거짓말에 속은 경우도 초자연적인 인식 방해라는 조건을 충족하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "무엇을 찾는 중인지는 기억하지만 눈앞의 대상이 바로 그 목표라는 사실을 알아보지 못한다. 탐색의 의지와 대상 인식이 분리되는 마법적 방해다.\n\n세뇌나 망각, 인식 차단이 목표를 발견하지 못하게 하는 규칙으로 작동한다. 가까이에 있다는 물리적 조건만으로 탐색이 끝나지 않게 만든다.\n\n임무 자체를 완전히 잊은 상황과는 다르다. 평범한 거짓말에 속은 경우도 초자연적인 인식 방해라는 조건을 충족하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

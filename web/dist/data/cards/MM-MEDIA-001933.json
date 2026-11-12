@@ -4,27 +4,27 @@
   "title": "루팡 3세",
   "original": "Lupin III",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F02",
+  "tag_id": "ML-T02516",
+  "primary_tag_id": "ML-T02516",
   "description": {
     "definition": "《루팡 3세》는 미디어 작품군 작품이다.",
-    "detail": "작품 사례: 《루팡 3세》의 제니가타는 인터폴 요원으로 여러 나라를 돌며 루팡을 추적하고, 현지 경찰의 협조를 받거나 직접 경찰들을 지휘한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "02",
+    "code": "02.021",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
+    "semantic_kind": "work_scope",
+    "parent_relation": "facet_member",
     "allowed_roles": [],
-    "review_status": "provisional",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -41,5 +41,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "프랑스 괴도의 후손을 주인공으로 일본 만화에서 출발한 장기 작품군이다. 루팡은 치밀한 도둑질과 여성에 대한 관심을 함께 지닌 인물로 여러 매체의 모험을 이끈다.\n\n성인 남성을 위한 만화로 시작한 계열이 다양한 영상과 게임으로 확장되면서 같은 인물의 인상도 판본별로 달라질 수 있다. 조상의 소설과 직접 같은 주인공을 다루는 것은 아니므로 계보와 작품의 정체를 구분한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "프랑스 괴도의 후손을 주인공으로 일본 만화에서 출발한 장기 작품군이다. 루팡은 치밀한 도둑질과 여성에 대한 관심을 함께 지닌 인물로 여러 매체의 모험을 이끈다.\n\n성인 남성을 위한 만화로 시작한 계열이 다양한 영상과 게임으로 확장되면서 같은 인물의 인상도 판본별로 달라질 수 있다. 조상의 소설과 직접 같은 주인공을 다루는 것은 아니므로 계보와 작품의 정체를 구분한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

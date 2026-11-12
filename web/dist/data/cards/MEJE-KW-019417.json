@@ -4,8 +4,8 @@
   "title": "지팡이 속에 감춘 검",
   "original": "Sword Cane",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01409",
+  "primary_tag_id": "ML-T01409",
   "description": {
     "definition": "겉보기에는 막대나 보행용 지팡이지만 내부에 칼날이 숨겨져 있어 꺼내 검으로 쓸 수 있는 장비다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "지팡이 자체를 둔기로 쓰는 것과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "겉으로는 지팡이지만 내부에 칼날을 숨겨 두어 필요할 때 검으로 꺼내는 장비다. 일상적인 외형과 은폐된 전투 능력의 차이가 특징이다.\n\n손잡이를 당기거나 장치를 풀어 칼날을 드러내는 순간이 위협이나 반전으로 사용된다. 우아한 외관을 가진 실력자나 자신의 전투 능력을 감추는 인물에게 배치될 수 있다.\n\n악역이 사용하면 은밀함과 기습의 성격이 강조될 수 있지만, 장비 자체가 인물의 선악을 결정하지는 않는다. 봉 끝에서 날이 나오는 구조나 다른 무기를 숨긴 지팡이는 유사한 은폐 기능을 가진 변형이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "겉으로는 지팡이지만 내부에 칼날을 숨겨 두어 필요할 때 검으로 꺼내는 장비다. 일상적인 외형과 은폐된 전투 능력의 차이가 특징이다.\n\n손잡이를 당기거나 장치를 풀어 칼날을 드러내는 순간이 위협이나 반전으로 사용된다. 우아한 외관을 가진 실력자나 자신의 전투 능력을 감추는 인물에게 배치될 수 있다.\n\n악역이 사용하면 은밀함과 기습의 성격이 강조될 수 있지만, 장비 자체가 인물의 선악을 결정하지는 않는다. 봉 끝에서 날이 나오는 구조나 다른 무기를 숨긴 지팡이는 유사한 은폐 기능을 가진 변형이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

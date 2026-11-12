@@ -4,22 +4,44 @@
   "title": "대전 게임",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
-    "definition": "",
+    "definition": "플레이어나 게임 속 인물이 서로 겨루는 대결을 핵심으로 삼는 게임 유형이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-11",
+  "row_version": 4,
+  "classification": {
+    "code": "25.005",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "상대와 직접 맞붙어 승부를 내는 게임이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "승부를 만드는 수단은 격투뿐 아니라 능력 사용이나 카드 등 서로 다른 규칙으로 구성될 수 있다. 중요한 것은 참여자가 같은 경기의 조건 안에서 상대와 직접 경쟁한다는 점이며, 특정 표현 양식 하나로 범위를 제한하지 않는다.\n\n기존 작품의 인물들을 모아 맞붙게 하는 경우에는 익숙한 능력과 관계를 경기의 조작과 승리 조건에 맞춰 재구성한다. 한 작품의 인물만 모을 수도 있고 여러 시리즈가 만나는 [[크로스오버]]일 수도 있지만, 이는 대전 게임의 가능한 구성 중 하나다.\n\n가까운 거리의 타격과 방어를 중심으로 하는 [[대전격투 게임]]은 더 좁은 범주다. 등장인물이 유명하다는 사실이나 조작이 쉽다는 사실로 대전 여부를 판단하지 않고, 실제 플레이의 중심이 상대와의 승부인지 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "승부를 만드는 수단은 격투뿐 아니라 능력 사용이나 카드 등 서로 다른 규칙으로 구성될 수 있다. 중요한 것은 참여자가 같은 경기의 조건 안에서 상대와 직접 경쟁한다는 점이며, 특정 표현 양식 하나로 범위를 제한하지 않는다.\n\n기존 작품의 인물들을 모아 맞붙게 하는 경우에는 익숙한 능력과 관계를 경기의 조작과 승리 조건에 맞춰 재구성한다. 한 작품의 인물만 모을 수도 있고 여러 시리즈가 만나는 [[크로스오버]]일 수도 있지만, 이는 대전 게임의 가능한 구성 중 하나다.\n\n가까운 거리의 타격과 방어를 중심으로 하는 [[대전격투 게임]]은 더 좁은 범주다. 등장인물이 유명하다는 사실이나 조작이 쉽다는 사실로 대전 여부를 판단하지 않고, 실제 플레이의 중심이 상대와의 승부인지 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

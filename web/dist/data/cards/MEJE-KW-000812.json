@@ -4,8 +4,8 @@
   "title": "한 배우가 여러 배역 맡기",
   "original": "Acting for Two",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "한 작품에서 같은 배우가 닮은 사람이나 전혀 다른 인물 등 둘 이상의 역할을 연기하는 제작 방식. 관객이 닮음을 알아차리게 할지 숨길지에 따라 장면의 뜻이 바뀐다. [[배우가 뒤의 전개를 모른 채 연기하기]]는 배역 수가 아니라 배우에게 제공된 정보의 문제다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "하나의 작품에서 같은 배우가 서로 다른 역할을 수행한다. 닮은 인물이라는 설정을 이용하거나 분장과 연기로 동일 배우라는 사실을 감출 수 있다.\n\n관객이 닮음을 알면 오해와 정체의 농담이 생기고 모르면 각 인물의 독립된 역할이 앞선다. [[캐릭터]]가 변장해 다른 신분을 연기하는 이야기와 배우가 복수 배역을 맡은 제작 방식을 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "하나의 작품에서 같은 배우가 서로 다른 역할을 수행한다. 닮은 인물이라는 설정을 이용하거나 분장과 연기로 동일 배우라는 사실을 감출 수 있다.\n\n관객이 닮음을 알면 오해와 정체의 농담이 생기고 모르면 각 인물의 독립된 역할이 앞선다. [[캐릭터]]가 변장해 다른 신분을 연기하는 이야기와 배우가 복수 배역을 맡은 제작 방식을 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

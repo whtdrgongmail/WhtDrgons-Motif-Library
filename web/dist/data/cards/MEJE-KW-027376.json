@@ -4,8 +4,8 @@
   "title": "위험한 연구를 숨기는 비밀 실험실",
   "original": "Enigmatic Institute",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01316",
+  "primary_tag_id": "ML-T01316",
   "description": {
     "definition": "외부에 드러나지 않는 연구 시설이 통상적 제약을 넘는 실험의 은신처로 쓰이는 장소이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "기존 카드의 목적을 감춘 기관 일반보다 연구 공간과 실험 기능에 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "외부의 관찰과 규제를 피하는 공간이 위험한 연구를 지속할 조건이 된다. 비밀은 연구 내용뿐 아니라 시설의 위치와 자금, 인력까지 감출 수 있다.\n\n큰 자원이 필요할수록 개인의 은신처보다 이를 후원하는 조직의 권력이 중요해진다. 주인공의 침입과 자료 발견은 감춰진 활동을 공개적인 사건으로 전환한다.\n\n원문은 비밀리에 일하는 연구 조직 전반을 포함한다. 정본은 위험한 실험의 은신처에 한정하므로 공개되지 않은 연구가 모두 비윤리적이라는 뜻은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "외부의 관찰과 규제를 피하는 공간이 위험한 연구를 지속할 조건이 된다. 비밀은 연구 내용뿐 아니라 시설의 위치와 자금, 인력까지 감출 수 있다.\n\n큰 자원이 필요할수록 개인의 은신처보다 이를 후원하는 조직의 권력이 중요해진다. 주인공의 침입과 자료 발견은 감춰진 활동을 공개적인 사건으로 전환한다.\n\n원문은 비밀리에 일하는 연구 조직 전반을 포함한다. 정본은 위험한 실험의 은신처에 한정하므로 공개되지 않은 연구가 모두 비윤리적이라는 뜻은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

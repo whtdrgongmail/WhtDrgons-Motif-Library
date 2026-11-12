@@ -5,8 +5,8 @@
   "original": "Lockpicking Skill Makes the Mini-Game Easier",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02088",
+  "primary_tag_id": "ML-T02088",
   "description": {
     "definition": "인물의 잠금 해제 기술과 특성이 미니게임의 난도나 자동 시도 성공률을 바꾸는 규칙이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "단순 수치 판정만으로 끝나는 방식과 달리 직접 조작 과제와 성장 규칙이 결합된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 성장 수치와 플레이어의 잠금 조작을 결합한다. 기술과 특성이 정답 범위를 넓히거나 실패의 부담과 자동 시도 성공률을 바꾸어, 같은 과제도 인물에 따라 다른 조건이 된다.\n\n플레이어가 조작을 잘하더라도 인물의 투자가 의미를 갖고, 반대로 높은 수치가 있어도 일부 판단은 직접 해야 할 수 있다. 어떤 층이 난도를 결정하는지에 따라 성장의 보상과 손의 숙련 사이의 비중이 달라진다.\n\n수치 판정 한 번으로 끝나는 해제와는 상호작용이 남는다는 차이가 있다. 게임 설정에서 전체 난도를 낮추는 선택도 인물의 기술과는 별개다. 어느 보정이 조작에 어떤 변화를 주는지 기준으로 설명해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 성장 수치와 플레이어의 잠금 조작을 결합한다. 기술과 특성이 정답 범위를 넓히거나 실패의 부담과 자동 시도 성공률을 바꾸어, 같은 과제도 인물에 따라 다른 조건이 된다.\n\n플레이어가 조작을 잘하더라도 인물의 투자가 의미를 갖고, 반대로 높은 수치가 있어도 일부 판단은 직접 해야 할 수 있다. 어떤 층이 난도를 결정하는지에 따라 성장의 보상과 손의 숙련 사이의 비중이 달라진다.\n\n수치 판정 한 번으로 끝나는 해제와는 상호작용이 남는다는 차이가 있다. 게임 설정에서 전체 난도를 낮추는 선택도 인물의 기술과는 별개다. 어느 보정이 조작에 어떤 변화를 주는지 기준으로 설명해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

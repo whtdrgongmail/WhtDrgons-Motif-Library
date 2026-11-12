@@ -4,8 +4,8 @@
   "title": "남녀 이란성 쌍둥이의 탄생",
   "original": "Unto Us a Son and Daughter Are Born",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00805",
+  "primary_tag_id": "ML-T00805",
   "description": {
     "definition": "남자아이와 여자아이인 이란성 쌍둥이가 태어나는 가족 구성과 출생 사건이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "행복한 결말이나 생물학적 설명을 필수로 하지 않으며 외양이 같은 남녀 쌍둥이 디자인과는 다른 출생 유형이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "07.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -27,8 +27,28 @@
     "updated_at": "2026-11-06",
     "row_version": 2
   },
-  "applied_tags": [],
+  "applied_tags": [
+    {
+      "tag_id": "ML-T02549",
+      "role": "subject",
+      "review_status": "reviewed",
+      "row_version": 1
+    }
+  ],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이야기 안에서 쌍둥이가 태어나는 사건에 남아와 여아가 한 명씩 배치된다.\n\n닮은 외형을 반복하기보다 서로 다른 역할을 가진 가족 구성을 만들 수 있다. 쌍둥이라는 공통점과 성별의 차이가 이름과 성장의 대비로 이어질 수 있다.\n\n쌍둥이가 존재한다는 사실과 탄생 장면을 이야기하는 방식은 구분해야 한다. 이 가족 구성을 실제 모든 쌍둥이의 성별 비율과 생물학적인 일반 법칙으로 확대하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이야기 안에서 쌍둥이가 태어나는 사건에 남아와 여아가 한 명씩 배치된다.\n\n닮은 외형을 반복하기보다 서로 다른 역할을 가진 가족 구성을 만들 수 있다. 쌍둥이라는 공통점과 성별의 차이가 이름과 성장의 대비로 이어질 수 있다.\n\n쌍둥이가 존재한다는 사실과 탄생 장면을 이야기하는 방식은 구분해야 한다. 이 가족 구성을 실제 모든 쌍둥이의 성별 비율과 생물학적인 일반 법칙으로 확대하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

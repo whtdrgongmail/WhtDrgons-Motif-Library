@@ -4,8 +4,8 @@
   "title": "상자와 받침대로 만든 간단한 덫",
   "original": "Box-and-Stick Trap",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01463",
+  "primary_tag_id": "ML-T01463",
   "description": {
     "definition": "작품이 상자를 받쳐 둔 덫으로 작은 동물을 잡으려는 장면을 만든다. 실제 효율보다 누구나 알아볼 수 있는 사냥의 그림 기호다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상자를 막대로 받치고 안에 먹이를 둔 뒤, 목표가 들어오면 줄로 막대를 당겨 상자를 떨어뜨리는 덫이다. 구조를 한눈에 이해할 수 있어 만화의 짧은 장면에 자주 활용된다.\n\n의도한 동물 대신 다른 인물이나 덫을 설치한 사람이 걸리면 계획의 역전이 농담이 된다. 눈에 띄는 장치에 쉽게 유인되는 인물의 부주의함을 표현하는 데도 쓰인다.\n\n무거운 물체를 떨어뜨려 대상을 죽이는 압사 덫과는 목적이 다르다. 이 장치의 전형적인 효과는 상자가 대상을 덮어 가둔다는 데 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상자를 막대로 받치고 안에 먹이를 둔 뒤, 목표가 들어오면 줄로 막대를 당겨 상자를 떨어뜨리는 덫이다. 구조를 한눈에 이해할 수 있어 만화의 짧은 장면에 자주 활용된다.\n\n의도한 동물 대신 다른 인물이나 덫을 설치한 사람이 걸리면 계획의 역전이 농담이 된다. 눈에 띄는 장치에 쉽게 유인되는 인물의 부주의함을 표현하는 데도 쓰인다.\n\n무거운 물체를 떨어뜨려 대상을 죽이는 압사 덫과는 목적이 다르다. 이 장치의 전형적인 효과는 상자가 대상을 덮어 가둔다는 데 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

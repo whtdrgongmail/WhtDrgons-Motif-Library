@@ -4,8 +4,8 @@
   "title": "나쁜 심문자와 더 나쁜 심문자",
   "original": "Bad Cop/Worse Cop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00766",
+  "primary_tag_id": "ML-T00766",
   "description": {
     "definition": "위협적인 심문자 뒤에 온 우호적인 [[인물]]이 사실 더 가혹하다는 사실을 드러내 압박을 높이는 심문 [[장면]]의 변형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "위협과 회유의 역할 분담과 달리 우호적 출구에 대한 기대를 무너뜨린다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.004.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위협적인 심문자 뒤에 우호적으로 보이는 사람이 오지만 실제로는 더 가혹하다. 나아질 출구라고 생각한 쪽이 압박을 더 높인다.\n\n대상은 두 번째 인물에게 기대했다가 그 기대를 잃는다. 인상의 변화와 실제 행동의 차이가 심문의 긴장을 강화한다.\n\n위협과 회유를 나눈 일반적인 역할 분담과 다르다. 우호적인 쪽에 협조하면 나아질 것이라는 예상 자체가 무너져야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위협적인 심문자 뒤에 우호적으로 보이는 사람이 오지만 실제로는 더 가혹하다. 나아질 출구라고 생각한 쪽이 압박을 더 높인다.\n\n대상은 두 번째 인물에게 기대했다가 그 기대를 잃는다. 인상의 변화와 실제 행동의 차이가 심문의 긴장을 강화한다.\n\n위협과 회유를 나눈 일반적인 역할 분담과 다르다. 우호적인 쪽에 협조하면 나아질 것이라는 예상 자체가 무너져야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "동물을 증인석에 세우기",
   "original": "Make the Dog Testify",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01348",
+  "primary_tag_id": "ML-T01348",
   "description": {
     "definition": "재판에서 동물을 증인처럼 불러 말이나 행동으로 사건의 중요한 사실을 입증하려는 전개이다.",
     "detail": "작품 사례: 《[[에어 버드]]》에서는 버디의 소유권을 다투는 재판에 개를 데려오고, 결국 버디가 어느 보호자를 원하는지 직접 고르게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 동물 수사나 현장 탐지보다 법정에서 증언을 맡기는 기능이 핵심이며 실제 증거법을 설명하는 카드가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "15.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "말을 하지 못하는 동물의 행동이 법정의 증거로 제시된다. 인물들은 특정 반응을 사건의 기억과 연결해 사실을 입증하려 한다.\n\n예상한 행동이 나오지 않으면 변론은 우스운 실패가 되고 뜻밖의 반응은 판세를 바꿀 수 있다. 동물을 해석하는 사람의 판단이 증언의 의미를 결정한다.\n\n허구의 재판 장치이며 실제 증거능력을 설명하지 않는다. 동물의 존재와 반응만으로 사건이 입증된다는 보편적인 규칙도 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "말을 하지 못하는 동물의 행동이 법정의 증거로 제시된다. 인물들은 특정 반응을 사건의 기억과 연결해 사실을 입증하려 한다.\n\n예상한 행동이 나오지 않으면 변론은 우스운 실패가 되고 뜻밖의 반응은 판세를 바꿀 수 있다. 동물을 해석하는 사람의 판단이 증언의 의미를 결정한다.\n\n허구의 재판 장치이며 실제 증거능력을 설명하지 않는다. 동물의 존재와 반응만으로 사건이 입증된다는 보편적인 규칙도 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

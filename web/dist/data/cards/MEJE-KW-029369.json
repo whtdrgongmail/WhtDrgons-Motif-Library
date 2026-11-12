@@ -4,8 +4,8 @@
   "title": "악역의 계획에 자금을 대는 금융가",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01010",
+  "primary_tag_id": "ML-T01010",
   "description": {
     "definition": "악한 목적으로 쓰일 것을 알면서도 무기나 파괴 장치의 개발에 돈을 빌려주는 금융 후원자다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "자금의 용도를 모른 일반적인 대출과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.005.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "악한 용도로 쓰일 것을 알면서 무기와 파괴 장치 개발에 자금을 제공한다. 직접 가해 뒤에 금융과 이익으로 연결된 후원자를 두는 구도다.\n\n실행자는 장치를 만들지만 자금의 공급이 이를 가능하게 한다. 누가 어떤 목적을 알았고 무엇을 제공했는지에 따라 협력의 책임이 달라진다.\n\n용도를 모른 채 이루어진 일반 대출과 다르다. 악한 목적에 대한 인지가 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "악한 용도로 쓰일 것을 알면서 무기와 파괴 장치 개발에 자금을 제공한다. 직접 가해 뒤에 금융과 이익으로 연결된 후원자를 두는 구도다.\n\n실행자는 장치를 만들지만 자금의 공급이 이를 가능하게 한다. 누가 어떤 목적을 알았고 무엇을 제공했는지에 따라 협력의 책임이 달라진다.\n\n용도를 모른 채 이루어진 일반 대출과 다르다. 악한 목적에 대한 인지가 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

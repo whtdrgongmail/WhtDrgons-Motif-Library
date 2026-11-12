@@ -4,8 +4,8 @@
   "title": "일렉트로 인더스트리얼",
   "original": "Electro-Industrial",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00520",
+  "primary_tag_id": "ML-T00520",
   "description": {
     "definition": "여러 층의 분위기 있는 신시사이저와 복잡한 드럼 패턴, 박동하는 베이스 및 가공된 보컬을 결합하는 전자음악 양식이다.",
     "detail": "작품 사례: Front Line Assembly의 〈[[마인드페이저]]〉는 이 음악 양식의 실제 곡 사례다.",
@@ -13,19 +13,22 @@
     "boundary": "인접 양식과 혼합될 수 있으므로 특정 악기 하나나 창작자의 소속만으로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "03",
+    "code": "03.304",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "단순한 비트보다 여러 층의 어둡고 복잡한 전자음을 쌓는다.",
@@ -44,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "분위기를 만드는 여러 층의 신시사이저에 복잡한 드럼 패턴과 박동하는 베이스, 가공된 보컬이 결합된다. 이 요소들이 함께 전자음악의 질감과 움직임을 만든다.\n\n개별 소리의 존재뿐 아니라 겹쳐지는 방식과 리듬의 구성이 음악을 이해하는 근거다. 실제 곡을 다룰 때도 이러한 소리의 결합을 기준으로 설명한다.\n\n인접한 양식과 혼합될 수 있다. 특정 악기 하나를 쓰거나 창작자가 같은 집단에 속한다는 이유만으로 장르를 확정하지 않는다.\n\nFront Line Assembly의 〈[[마인드페이저]]〉는 이 음악 양식의 실제 곡 사례다.\n\n[[마인드페이저]]",
+    "sections": [
+      [
+        "상세 설명",
+        "분위기를 만드는 여러 층의 신시사이저에 복잡한 드럼 패턴과 박동하는 베이스, 가공된 보컬이 결합된다. 이 요소들이 함께 전자음악의 질감과 움직임을 만든다.\n\n개별 소리의 존재뿐 아니라 겹쳐지는 방식과 리듬의 구성이 음악을 이해하는 근거다. 실제 곡을 다룰 때도 이러한 소리의 결합을 기준으로 설명한다.\n\n인접한 양식과 혼합될 수 있다. 특정 악기 하나를 쓰거나 창작자가 같은 집단에 속한다는 이유만으로 장르를 확정하지 않는다."
+      ],
+      [
+        "사례",
+        "Front Line Assembly의 〈[[마인드페이저]]〉는 이 음악 양식의 실제 곡 사례다."
+      ],
+      [
+        "관련 작품",
+        "[[마인드페이저]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

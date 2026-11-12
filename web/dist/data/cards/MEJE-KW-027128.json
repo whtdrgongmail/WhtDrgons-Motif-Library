@@ -4,8 +4,8 @@
   "title": "그 자체로 거부하기 힘든 유물",
   "original": "Artifact of Attraction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01482",
+  "primary_tag_id": "ML-T01482",
   "description": {
     "definition": "물건 자체가 강한 매력을 지녀 인물이 저항하기 어렵게 끌리는 대상이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "동료 사이의 경쟁과 다툼은 필수조건이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "대상의 소유와 접촉 자체가 비정상적으로 강한 욕망을 부른다. 원래 협력하던 사람들도 같은 물건을 차지하려다 불신과 경쟁에 빠질 수 있다.\n\n매력의 원인이 물건에 있으면 인물의 변화는 단순한 탐욕보다 외부 영향으로 제시된다. 보기만 해도 작용하는지 존재를 아는 것만으로 충분한지는 위협의 범위를 바꾼다.\n\n값비싼 보물이라서 원하는 경우와는 원인이 다르다. 물건 자체가 집착을 유발한다는 설정이 필요하며 매혹되었다는 사실이 행동의 책임 문제를 모두 지우지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대상의 소유와 접촉 자체가 비정상적으로 강한 욕망을 부른다. 원래 협력하던 사람들도 같은 물건을 차지하려다 불신과 경쟁에 빠질 수 있다.\n\n매력의 원인이 물건에 있으면 인물의 변화는 단순한 탐욕보다 외부 영향으로 제시된다. 보기만 해도 작용하는지 존재를 아는 것만으로 충분한지는 위협의 범위를 바꾼다.\n\n값비싼 보물이라서 원하는 경우와는 원인이 다르다. 물건 자체가 집착을 유발한다는 설정이 필요하며 매혹되었다는 사실이 행동의 책임 문제를 모두 지우지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "공수 교대로 비교하는 돌파전",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02145",
+  "primary_tag_id": "ML-T02145",
   "description": {
     "definition": "두 팀이 공격과 방어를 번갈아 맡고 제한 시간 안의 돌파 정도나 성공 시간을 비교해 승패를 정하는 게임 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "한쪽이 계속 수비만 하는 생존전과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "두 팀이 공격과 방어를 번갈아 맡고 돌파 성과를 비교한다. 같은 역할을 양쪽이 경험하도록 구성한 뒤 제한 시간의 진행 정도나 성공 시간을 판단한다.\n\n공격 기회가 교대로 주어지므로 수비만 잘하는 것과 공격에서 성과를 내는 것이 함께 중요하다. 동일한 조건에서 무엇을 이루었는지가 승패의 근거가 된다.\n\n한쪽이 계속 수비하는 생존전과 구별한다. 역할 교대와 공격 성과의 비교가 모두 있어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "두 팀이 공격과 방어를 번갈아 맡고 돌파 성과를 비교한다. 같은 역할을 양쪽이 경험하도록 구성한 뒤 제한 시간의 진행 정도나 성공 시간을 판단한다.\n\n공격 기회가 교대로 주어지므로 수비만 잘하는 것과 공격에서 성과를 내는 것이 함께 중요하다. 동일한 조건에서 무엇을 이루었는지가 승패의 근거가 된다.\n\n한쪽이 계속 수비하는 생존전과 구별한다. 역할 교대와 공격 성과의 비교가 모두 있어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

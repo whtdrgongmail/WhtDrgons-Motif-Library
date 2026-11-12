@@ -4,8 +4,8 @@
   "title": "타고난 성향과 성장 환경의 영향 묻기",
   "original": "Nature Versus Nurture",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F18",
+  "tag_id": "ML-T01568",
+  "primary_tag_id": "ML-T01568",
   "description": {
     "definition": "인물의 성격과 선택이 선천적 성향과 삶의 경험 중 무엇에서 비롯되는지 질문하고 그 관계를 이야기로 탐구하는 주제다.",
     "detail": "작품 사례: 《[[진격의 거인(만화)]]》의 지크와 에렌은 같은 아버지를 두었지만 서로 다른 방식으로 양육되었다. 지크가 에렌의 선택도 조종의 결과라고 의심하는 대목은 경험과 자율적 선택의 관계를 드러낸다.",
@@ -13,19 +13,19 @@
     "boundary": "양쪽의 영향 비율에 대한 과학적 결론을 제시하는 카드가 아니며 작품은 한쪽 또는 상호작용을 강조할 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "18",
+    "code": "18.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "사람이 타고나는지 자라면서 만들어지는지 묻는다.",
+    "easy_ko": "사람의 특성이 타고난 것인지 성장 환경에서 형성되는 것인지가 쟁점이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-08",
-    "row_version": 3
+    "updated_at": "2026-11-12",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물의 행동을 혈통과 경험의 관계로 설명하면 현재의 성격이 어떻게 형성되었는지가 주제가 된다. 비슷한 출신과 다른 환경은 비교할 조건을 제공한다.\n\n양육이 변화를 만드는 이야기와 타고난 성향이 반복되는 이야기는 다른 인과를 택한다. 둘의 상호작용을 강조하면 단일한 원인으로 환원하기 어려운 선택이 드러난다.\n\n작품의 결론을 현실 인간 전체의 본성으로 일반화할 수는 없다. 이야기 속에서 어떤 조건을 주고 어떤 행동을 보여 주었는지에 관한 주제적 구성이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물의 행동을 혈통과 경험의 관계로 설명하면 현재의 성격이 어떻게 형성되었는지가 주제가 된다. 비슷한 출신과 다른 환경은 비교할 조건을 제공한다.\n\n양육이 변화를 만드는 이야기와 타고난 성향이 반복되는 이야기는 다른 인과를 택한다. 둘의 상호작용을 강조하면 단일한 원인으로 환원하기 어려운 선택이 드러난다.\n\n작품의 결론을 현실 인간 전체의 본성으로 일반화할 수는 없다. 이야기 속에서 어떤 조건을 주고 어떤 행동을 보여 주었는지에 관한 주제적 구성이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

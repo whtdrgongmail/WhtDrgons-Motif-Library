@@ -5,8 +5,8 @@
   "original": "Sarcastically Claiming You Meant It Literally",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01987",
+  "primary_tag_id": "ML-T01987",
   "description": {
     "definition": "비유가 명백한 표현을 상대가 따져 묻자 화자가 문자 그대로를 뜻했다고 반어적으로 대답한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "실제로 문자적 사실이 밝혀지는 반전과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.008.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "명백한 비유를 상대가 따지자 화자는 문자 그대로를 뜻했다고 반어적으로 답한다. 실제 사실을 새로 밝히는 대신 질문의 불필요함을 과장해 비꼬는 응수다.\n\n상대가 이미 알아들었어야 한다는 전제가 답변의 공격성을 만든다. 관객이 비유의 뜻을 공유하면 불가능한 문자적 해석을 일부러 인정하는 말에서 짜증과 웃음을 함께 읽을 수 있다.\n\n문자적인 사실이 실제로 드러나는 반전과는 다르다. 말의 표면만 보면 반어를 놓칠 수 있으므로 상황과 억양을 함께 보아야 하며 모든 설명 거부가 같은 장치는 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "명백한 비유를 상대가 따지자 화자는 문자 그대로를 뜻했다고 반어적으로 답한다. 실제 사실을 새로 밝히는 대신 질문의 불필요함을 과장해 비꼬는 응수다.\n\n상대가 이미 알아들었어야 한다는 전제가 답변의 공격성을 만든다. 관객이 비유의 뜻을 공유하면 불가능한 문자적 해석을 일부러 인정하는 말에서 짜증과 웃음을 함께 읽을 수 있다.\n\n문자적인 사실이 실제로 드러나는 반전과는 다르다. 말의 표면만 보면 반어를 놓칠 수 있으므로 상황과 억양을 함께 보아야 하며 모든 설명 거부가 같은 장치는 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

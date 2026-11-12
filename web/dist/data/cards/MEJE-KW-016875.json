@@ -4,8 +4,8 @@
   "title": "생산자를 만드는 다단계 생산",
   "original": "Polynomial Growth",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02104",
+  "primary_tag_id": "ML-T02104",
   "description": {
     "definition": "첫 단계 생산자는 자원을 만들고 높은 단계의 생산자는 아래 단계의 생산자를 늘리는 연쇄 성장 구조다.",
     "detail": "여러 단계의 생성이 맞물려 누적 성장의 속도를 바꾼다.\n\n작품 사례: 《[[안티매터 디멘션]]》은 첫 단계에서 자원을 만들고 상위 단계가 하위 생산자를 만드는 계층적 생산 구조를 사용한다.",
@@ -13,19 +13,19 @@
     "boundary": "모든 시설이 같은 자원만 직접 생산하는 구조와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.004.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "돈을 버는 기계를 더 많이 만드는 기계를 산다.\n\n작품 사례: 《[[안티매터 디멘션]]》은 첫 단계에서 자원을 만들고 상위 단계가 하위 생산자를 만드는 계층적 생산 구조를 사용한다.",
+    "easy_ko": "돈을 버는 기계를 더 많이 만드는 기계를 산다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상위 생산자가 하위 생산자를 늘리고 마지막 단계가 자원을 만드는 계층 구조다. 생산 속도 자체가 아래 단계의 수량에 따라 변하므로 같은 자원을 직접 만드는 시설의 병렬 배치와 다르다.\n\n이 구조만으로 모든 구간의 실제 성장률을 단정할 수는 없다. 고정 생산률의 연쇄는 다항식적 누적을 만들 수 있지만 추가 구매와 배율 강화가 있으면 전체 성장 양상은 달라진다.\n\n《[[안티매터 디멘션]]》의 상위 단계는 하위 생산자를 만들고 첫 단계는 자원을 생산한다. 무엇을 생산하는지에 따라 역할이 나뉜 계층적 성장이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상위 생산자가 하위 생산자를 늘리고 마지막 단계가 자원을 만드는 계층 구조다. 생산 속도 자체가 아래 단계의 수량에 따라 변하므로 같은 자원을 직접 만드는 시설의 병렬 배치와 다르다.\n\n이 구조만으로 모든 구간의 실제 성장률을 단정할 수는 없다. 고정 생산률의 연쇄는 다항식적 누적을 만들 수 있지만 추가 구매와 배율 강화가 있으면 전체 성장 양상은 달라진다."
+      ],
+      [
+        "관련 작품",
+        "《[[안티매터 디멘션]]》의 상위 단계는 하위 생산자를 만들고 첫 단계는 자원을 생산한다. 무엇을 생산하는지에 따라 역할이 나뉜 계층적 성장이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "갑옷을 깨야 하는 보스전",
   "original": "Broken Armor Boss Battle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02113",
+  "primary_tag_id": "ML-T02113",
   "description": {
     "definition": "보스의 방어층을 먼저 무너뜨려야 본체에 영향을 줄 수 있다. 전투의 단계가 공격과 관찰의 순서를 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보스의 갑옷이나 보호막을 제거해야 본체에 피해를 줄 수 있는 전투다. 방어층과 체력을 차례로 소모시키거나 특정 무기로만 방어를 파괴하도록 설계한다.\n\n보호막의 동력 장치를 끄는 방식이면 직접 공격 외의 행동이 필요하다. 방어가 일정 시간 뒤 재생되면 제거와 본체 공격의 주기를 반복하며 기회를 활용해야 한다.\n\n시간이 지나면 저절로 풀리는 무적과는 공략의 역할이 다르다. 갑옷이 있다는 외형만보다 방어층의 해제가 피해 가능성을 바꾸는 규칙인지가 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보스의 갑옷이나 보호막을 제거해야 본체에 피해를 줄 수 있는 전투다. 방어층과 체력을 차례로 소모시키거나 특정 무기로만 방어를 파괴하도록 설계한다.\n\n보호막의 동력 장치를 끄는 방식이면 직접 공격 외의 행동이 필요하다. 방어가 일정 시간 뒤 재생되면 제거와 본체 공격의 주기를 반복하며 기회를 활용해야 한다.\n\n시간이 지나면 저절로 풀리는 무적과는 공략의 역할이 다르다. 갑옷이 있다는 외형만보다 방어층의 해제가 피해 가능성을 바꾸는 규칙인지가 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

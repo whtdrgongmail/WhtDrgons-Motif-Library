@@ -4,8 +4,8 @@
   "title": "건설·운영 게임",
   "original": "Construction and Management Games",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-005665",
+  "primary_tag_id": "MEJE-KW-005665",
   "description": {
     "definition": "자원과 시설을 관리하며 공간이나 조직을 키워 나가는 게임 장르다. 목표가 정해진 경우도 있고 스스로 운영 방식을 찾는 자유로운 놀이도 있다. 시설을 짓고 키우는 과정을 작품의 주된 성취로 보이는 이야기와 연결된다: [[짓는 일이 멋진 모험이 되기]].",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.206.008",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "자원을 모아 건물을 짓고 시설과 정착지를 확장·관리하는 일을 중심으로 삼는 게임이다. 생산과 연구, 탐색의 상호작용이 장기적인 성장 과정을 만든다.\n\n일정 규모와 자원량을 달성하거나 목표 없이 체계를 개선하는 방식으로 진행할 수 있다. 전투가 있어도 운영과 건설이 주된 관심이면 같은 범주와 겹칠 수 있다.\n\n화면 시점과 실시간 진행 여부만으로 정의되는 장르는 아니다. 전쟁 중의 병력 운용이 중심인 전략 게임과 구별하고 개별 작품이 어떤 관리 결정을 핵심으로 삼는지 보아야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자원을 모아 건물을 짓고 시설과 정착지를 확장·관리하는 일을 중심으로 삼는 게임이다. 생산과 연구, 탐색의 상호작용이 장기적인 성장 과정을 만든다.\n\n일정 규모와 자원량을 달성하거나 목표 없이 체계를 개선하는 방식으로 진행할 수 있다. 전투가 있어도 운영과 건설이 주된 관심이면 같은 범주와 겹칠 수 있다.\n\n화면 시점과 실시간 진행 여부만으로 정의되는 장르는 아니다. 전쟁 중의 병력 운용이 중심인 전략 게임과 구별하고 개별 작품이 어떤 관리 결정을 핵심으로 삼는지 보아야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

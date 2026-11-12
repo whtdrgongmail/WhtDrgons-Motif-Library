@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F07",
   "description": {
-    "definition": "",
+    "definition": "하나의 사건이나 현상으로 여러 인물이 함께 새로운 능력을 얻는 사건 또는 설정이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "07",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "같은 사건을 겪은 여러 사람이 함께 특별한 힘을 얻는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "집단 각성에서는 여러 인물이 같은 원인과 시기에 새로운 능력을 얻는다. 변화가 한 사람에게만 일어나거나 능력의 기원이 각각 다른 사건으로 분리되어 있다면 이 개념과 구별한다. 각 인물이 얻는 능력의 종류와 강도가 같아야 하는 것은 아니다.\n\n서로 달라 보이던 능력의 기원이 나중에 하나였다고 밝혀지는 구성은 집단 각성과 다른 문제다. 그 경우에는 능력을 얻은 때가 아니라 원인에 관한 설명이 바뀐다.\n\n몸의 형태나 존재 방식까지 함께 바뀌면 집단 변형과 겹칠 수 있다. 반면 힘만 생기고 외형이 그대로인 경우도 집단 각성에 포함된다. 본인의 동의가 있었는지와 변화가 강제되었는지는 해당 사건의 별도 조건으로 기록한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "집단 각성에서는 여러 인물이 같은 원인과 시기에 새로운 능력을 얻는다. 변화가 한 사람에게만 일어나거나 능력의 기원이 각각 다른 사건으로 분리되어 있다면 이 개념과 구별한다. 각 인물이 얻는 능력의 종류와 강도가 같아야 하는 것은 아니다.\n\n서로 달라 보이던 능력의 기원이 나중에 하나였다고 밝혀지는 구성은 집단 각성과 다른 문제다. 그 경우에는 능력을 얻은 때가 아니라 원인에 관한 설명이 바뀐다.\n\n몸의 형태나 존재 방식까지 함께 바뀌면 집단 변형과 겹칠 수 있다. 반면 힘만 생기고 외형이 그대로인 경우도 집단 각성에 포함된다. 본인의 동의가 있었는지와 변화가 강제되었는지는 해당 사건의 별도 조건으로 기록한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

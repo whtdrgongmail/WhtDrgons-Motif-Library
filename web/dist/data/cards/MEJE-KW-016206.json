@@ -4,8 +4,8 @@
   "title": "선행에 서툰 영웅 지망자",
   "original": "Hero with an F in Good",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00900",
+  "primary_tag_id": "ML-T00900",
   "description": {
     "definition": "남을 돕고 영웅으로 인정받으려는 뜻은 진실하지만 결점이나 옛 습관 때문에 선한 행동 규범을 반복해서 어기는 인물이다. 주변도 그 문제를 알아보며, 결점은 실제로 영웅 활동이나 소속 관계를 방해한다.",
     "detail": "작품 사례: [[The Bad Guys]]에서 울프와 동료들은 선한 편이 되기로 하지만, 악당 시절의 습관 때문에 남을 돕는 일에도 자꾸 문제가 생기며 새 역할에 서서히 익숙해진다.",
@@ -13,10 +13,10 @@
     "boundary": "작품이 잘못을 덮어 주며 영웅으로 칭송하는 인물이나 단지 부당하게 오해받는 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.003.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,13 +30,30 @@
   "applied_tags": [],
   "related_media": [
     {
-      "media_tag_id": "ML-T00066",
+      "media_tag_id": "ML-T00054",
       "work_card_id": "MM-MEDIA-000923",
       "description_ko": "The Bad Guys에서 울프와 동료들은 선한 편이 되기로 하지만, 악당 시절의 습관 때문에 남을 돕는 일에도 자꾸 문제가 생기며 새 역할에 서서히 익숙해진다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "선행을 하려는 의도와 이를 수행하는 습관·기술이 어긋나 문제가 반복된다. 새 역할에 적응하는 과정은 좋은 편이 되겠다는 선언과 실제 도움이 되는 행동이 다름을 보여 준다.\n\n부당하게 오해받기만 하는 영웅과 구별해야 한다. 악의가 없다는 사실이 행동의 피해를 없애지는 않으므로 발생한 문제와 이후의 수정을 함께 본다.\n\n《[[The Bad Guys]]》의 울프 일행은 선한 편이 되려 하지만 과거의 습관 때문에 남을 돕는 일에서도 소동을 일으킨다. 점차 새 역할에 익숙해지는 과정이 이어진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "선행을 하려는 의도와 이를 수행하는 습관·기술이 어긋나 문제가 반복된다. 새 역할에 적응하는 과정은 좋은 편이 되겠다는 선언과 실제 도움이 되는 행동이 다름을 보여 준다.\n\n부당하게 오해받기만 하는 영웅과 구별해야 한다. 악의가 없다는 사실이 행동의 피해를 없애지는 않으므로 발생한 문제와 이후의 수정을 함께 본다."
+      ],
+      [
+        "관련 작품",
+        "《[[The Bad Guys]]》의 울프 일행은 선한 편이 되려 하지만 과거의 습관 때문에 남을 돕는 일에서도 소동을 일으킨다. 점차 새 역할에 익숙해지는 과정이 이어진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

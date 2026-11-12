@@ -4,8 +4,8 @@
   "title": "서로 다른 민족의 관계를 비난하기",
   "original": "Maligned Mixed Marriage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00984",
+  "primary_tag_id": "ML-T00984",
   "description": {
     "definition": "민족적 배경이 다르다는 이유로 연애나 혼인을 수치·배신·문제라고 취급하는 [[관계 갈등]]이다.",
     "detail": "작품 사례: [[The West Wing]]에서 조이와 찰리는 서로 다른 인종의 연인이라는 이유로 받는 박해 등으로 헤어졌다가, 마지막 시즌에 다시 연인이 된다.",
@@ -13,14 +13,20 @@
     "boundary": "문화 차이를 함께 조정하는 갈등이나 모든 국제 관계를 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람의 행동보다 출신이 다르다는 사실 때문에 가족이 관계를 공격한다.",
     "review_status": "reviewed",
@@ -31,12 +37,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-001073",
+      "work_card_id": "MM-MEDIA-002055",
       "description_ko": "The West Wing에서 조이와 찰리는 서로 다른 인종의 연인이라는 이유로 받는 박해 등으로 헤어졌다가, 마지막 시즌에 다시 연인이 된다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "민족과 인종의 경계를 유지해야 한다는 편견이 연애 관계에 대한 비난과 박해로 나타나는 구도다. 당사자의 관계보다 집단의 구분을 우선하는 태도가 갈등을 만든다.\n\n문화적 차이를 함께 조정하는 과정과 다르다. 모든 국제 연애도 아니며 관계의 비난이 집단 경계에 대한 편견에서 나온다는 근거가 필요하다.\n\n[[The West Wing]]의 조이와 찰리는 서로 다른 인종의 연인이라는 이유로 박해받는다. 이별의 여러 원인 중 그 압력이 포함되지만 마지막 시즌에 다시 연인이 되어 관계의 후속 변화도 나타난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "민족과 인종의 경계를 유지해야 한다는 편견이 연애 관계에 대한 비난과 박해로 나타나는 구도다. 당사자의 관계보다 집단의 구분을 우선하는 태도가 갈등을 만든다.\n\n문화적 차이를 함께 조정하는 과정과 다르다. 모든 국제 연애도 아니며 관계의 비난이 집단 경계에 대한 편견에서 나온다는 근거가 필요하다."
+      ],
+      [
+        "관련 작품",
+        "[[The West Wing]]의 조이와 찰리는 서로 다른 인종의 연인이라는 이유로 박해받는다. 이별의 여러 원인 중 그 압력이 포함되지만 마지막 시즌에 다시 연인이 되어 관계의 후속 변화도 나타난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "뛰어난 두뇌를 지닌 두 사람의 연인 관계",
   "original": "Pair the Smart Ones",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00982",
+  "primary_tag_id": "ML-T00982",
   "description": {
     "definition": "서로 높은 지적 능력을 가진 두 인물을 연인으로 맺어 지성의 대등함을 관계의 특징으로 삼는 구성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "한쪽만 똑똑하거나 단순히 공부하는 장소에서 만나는 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람 모두 생각과 전문성에서 서로를 자극할 수 있는 짝으로 그려진다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "지적으로 뛰어난 두 인물을 연인으로 묶어 사고와 지식의 대등함을 관계의 특징으로 삼는 구성이다. 쉽게 만나기 어려운 이해자를 발견했다는 감각이 친밀함의 근거가 된다.\n\n공통 관심과 대화 방식은 오해를 줄이거나 다른 커플과 대조되는 안정성을 줄 수 있다. 서로의 전문성을 인정하면서 혼자 해결하지 못한 문제를 함께 다루는 행동으로 관계를 보여 줄 수도 있다.\n\n같이 똑똑하다는 이유만으로 성격과 가치관이 같거나 갈등이 없어야 하는 것은 아니다. 지적 유사성이 연애의 한 조건이라는 점과, 지능을 이유로 특정 결합을 강제하는 제도는 구분된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "지적으로 뛰어난 두 인물을 연인으로 묶어 사고와 지식의 대등함을 관계의 특징으로 삼는 구성이다. 쉽게 만나기 어려운 이해자를 발견했다는 감각이 친밀함의 근거가 된다.\n\n공통 관심과 대화 방식은 오해를 줄이거나 다른 커플과 대조되는 안정성을 줄 수 있다. 서로의 전문성을 인정하면서 혼자 해결하지 못한 문제를 함께 다루는 행동으로 관계를 보여 줄 수도 있다.\n\n같이 똑똑하다는 이유만으로 성격과 가치관이 같거나 갈등이 없어야 하는 것은 아니다. 지적 유사성이 연애의 한 조건이라는 점과, 지능을 이유로 특정 결합을 강제하는 제도는 구분된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

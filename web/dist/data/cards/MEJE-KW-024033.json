@@ -4,8 +4,8 @@
   "title": "짧은 구절로만 말하는 인물",
   "original": "Terse Talker",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01976",
+  "primary_tag_id": "ML-T01976",
   "description": {
     "definition": "긴 설명 대신 짧은 구절을 주로 사용하여 말수가 압축적으로 느껴지는 인물 말투이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "말을 전혀 못 하거나 반드시 무뚝뚝하다는 성격까지 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.007.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "긴 문장 대신 짧은 구절을 주로 사용하여 뜻을 압축하는 인물 말투다. 주어와 연결어를 생략해 핵심 정보만 남기기도 한다.\n\n단호함과 효율성, 감정적 거리감을 줄 수 있고 일기와 보고의 습관을 암시할 수도 있다. 주변이 빠진 뜻을 이해하는지에 따라 익숙한 관계와 의사소통의 어려움이 드러난다.\n\n말을 거의 하지 않는 것과는 다르다. 발언 횟수가 많아도 각각 짧을 수 있으며, 간결한 말투만으로 지능과 내면의 풍부함을 판단할 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "긴 문장 대신 짧은 구절을 주로 사용하여 뜻을 압축하는 인물 말투다. 주어와 연결어를 생략해 핵심 정보만 남기기도 한다.\n\n단호함과 효율성, 감정적 거리감을 줄 수 있고 일기와 보고의 습관을 암시할 수도 있다. 주변이 빠진 뜻을 이해하는지에 따라 익숙한 관계와 의사소통의 어려움이 드러난다.\n\n말을 거의 하지 않는 것과는 다르다. 발언 횟수가 많아도 각각 짧을 수 있으며, 간결한 말투만으로 지능과 내면의 풍부함을 판단할 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

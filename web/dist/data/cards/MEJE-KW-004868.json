@@ -4,8 +4,8 @@
   "title": "여성 독자를 겨냥한 현대 소설",
   "original": "Chick Lit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-004868",
+  "primary_tag_id": "MEJE-KW-004868",
   "description": {
     "definition": "직업과 관계, 자기 생활을 꾸려 가는 여성 [[주인공]]을 가볍거나 유머러스한 문체로 다루는 출판 장르다. 독자층을 가리키는 이름이므로 모든 여성 작가의 소설을 뜻하지는 않는다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-01",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.406.001",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "여성 독자를 겨냥한 현대 소설은 여성 [[주인공]]의 직장 생활, 우정과 연애, 소비와 주거, 자기 정체성 같은 당대의 일상 문제를 중심에 두는 출판 시장의 장르 범주다. 주인공은 완성된 이상형이라기보다 실수와 모순을 지닌 인물로 그려지며, 유머와 빠른 문체가 사적인 고민을 친근하게 전달하는 경우가 많다. 이야기의 만족감은 관계의 성취뿐 아니라 주인공이 자신의 욕구와 선택을 다시 정리하는 데서 나올 수 있다.\n\n이 이름은 작품의 독자층과 시장 맥락을 반영하므로 여성 작가가 쓴 소설 전부나 여성 주인공이 있는 모든 [[로맨스]]를 뜻하지 않는다. 연애가 중심일 수도 있지만 필수 공식은 아니며, 계급과 인종, 가족, 직업의 조건을 다루는 방식도 작품마다 다르다. 분류 시에는 표지나 작가의 성별보다 출판 맥락, 문체, 여성의 동시대 생활을 서사의 주된 관심으로 삼는지를 함께 판단한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "여성 독자를 겨냥한 현대 소설은 여성 [[주인공]]의 직장 생활, 우정과 연애, 소비와 주거, 자기 정체성 같은 당대의 일상 문제를 중심에 두는 출판 시장의 장르 범주다. 주인공은 완성된 이상형이라기보다 실수와 모순을 지닌 인물로 그려지며, 유머와 빠른 문체가 사적인 고민을 친근하게 전달하는 경우가 많다. 이야기의 만족감은 관계의 성취뿐 아니라 주인공이 자신의 욕구와 선택을 다시 정리하는 데서 나올 수 있다.\n\n이 이름은 작품의 독자층과 시장 맥락을 반영하므로 여성 작가가 쓴 소설 전부나 여성 주인공이 있는 모든 [[로맨스]]를 뜻하지 않는다. 연애가 중심일 수도 있지만 필수 공식은 아니며, 계급과 인종, 가족, 직업의 조건을 다루는 방식도 작품마다 다르다. 분류 시에는 표지나 작가의 성별보다 출판 맥락, 문체, 여성의 동시대 생활을 서사의 주된 관심으로 삼는지를 함께 판단한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": false
+  }
 }

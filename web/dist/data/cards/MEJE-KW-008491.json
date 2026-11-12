@@ -4,8 +4,8 @@
   "title": "숨기고 싶은 성씨",
   "original": "Embarrassing Last Name",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01994",
+  "primary_tag_id": "ML-T01994",
   "description": {
     "definition": "인물이 자기 성씨의 소리나 뜻을 민망해해 다른 이름으로 불리거나 성을 감추려 한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성씨의 소리와 뜻을 민망하게 여겨 숨기거나 다른 호칭을 선호하는 인물이다. 개인이 선택하지 않은 이름이 사회적 이미지에 영향을 준다.\n\n본인이 이름만 말하거나 별명을 쓰던 이유가 공식 서류와 가족의 등장으로 드러난다. 위엄 있는 인물의 평범하고 우스운 이름은 겉모습의 권위를 낮추는 반전이 된다.\n\n성씨 자체가 객관적으로 열등한 것은 아니다. 언어적 연상과 주변의 놀림이 [[수치심]]을 만들며 가족과 단절하려는 더 넓은 동기와도 구별할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성씨의 소리와 뜻을 민망하게 여겨 숨기거나 다른 호칭을 선호하는 인물이다. 개인이 선택하지 않은 이름이 사회적 이미지에 영향을 준다.\n\n본인이 이름만 말하거나 별명을 쓰던 이유가 공식 서류와 가족의 등장으로 드러난다. 위엄 있는 인물의 평범하고 우스운 이름은 겉모습의 권위를 낮추는 반전이 된다.\n\n성씨 자체가 객관적으로 열등한 것은 아니다. 언어적 연상과 주변의 놀림이 [[수치심]]을 만들며 가족과 단절하려는 더 넓은 동기와도 구별할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

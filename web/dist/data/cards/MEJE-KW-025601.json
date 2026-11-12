@@ -5,8 +5,8 @@
   "original": "A Mirror That Shows Lies and Corrupts Its Viewer",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01464",
+  "primary_tag_id": "ML-T01464",
   "description": {
     "definition": "진실한 반사라는 신뢰를 악용하여 거짓 장면을 보여 주고 사용자가 주변 사람과 세계를 적대하게 만드는 거울이다.",
     "detail": "작품 사례: 《[[환상특급]]》의 「The Mirror」에서 거울은 클레멘테에게 동료들이 자신을 해치려는 모습을 보여 그들을 제거하도록 오도한다.",
@@ -14,10 +14,10 @@
     "boundary": "단순한 굴절이나 모습 왜곡이 아니라 악의를 지닌 기만이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -32,12 +32,33 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00061",
-      "work_card_id": "MM-MEDIA-002871",
+      "work_card_id": "MM-MEDIA-001322",
       "description_ko": "《환상특급》의 「The Mirror」에서 거울은 클레멘테에게 동료들이 자신을 해치려는 모습을 보여 그들을 제거하도록 오도한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거울은 보이는 것을 사실로 받아들이게 하는 신뢰를 먼저 확보한다. 이후 거짓 장면을 제시하여 사용자가 타인을 의심하고 적대하도록 유도한다.\n\n확인하기 어려운 시각 정보와 이미 존재하는 불안이 결합한다. 사용자의 행동이 관계를 파괴하면 거울의 기만은 단순한 착시를 넘어 판단의 타락으로 이어진다.\n\n형태를 우습게 굴절시키거나 외모만 왜곡하는 거울과는 목적이 다르다. 사용자를 속여 해로운 선택을 하게 만드는 악의적인 기능이 필요하다.\n\n[[환상특급]]의 The Mirror에서 거울은 동료가 자신을 해치려는 모습을 클레멘테에게 보여 제거하도록 오도한다.\n\n[[환상특급]]",
+    "sections": [
+      [
+        "상세 설명",
+        "거울은 보이는 것을 사실로 받아들이게 하는 신뢰를 먼저 확보한다. 이후 거짓 장면을 제시하여 사용자가 타인을 의심하고 적대하도록 유도한다.\n\n확인하기 어려운 시각 정보와 이미 존재하는 불안이 결합한다. 사용자의 행동이 관계를 파괴하면 거울의 기만은 단순한 착시를 넘어 판단의 타락으로 이어진다.\n\n형태를 우습게 굴절시키거나 외모만 왜곡하는 거울과는 목적이 다르다. 사용자를 속여 해로운 선택을 하게 만드는 악의적인 기능이 필요하다."
+      ],
+      [
+        "사례",
+        "[[환상특급]]의 The Mirror에서 거울은 동료가 자신을 해치려는 모습을 클레멘테에게 보여 제거하도록 오도한다."
+      ],
+      [
+        "관련 작품",
+        "[[환상특급]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

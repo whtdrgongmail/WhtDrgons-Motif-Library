@@ -4,8 +4,8 @@
   "title": "뜻을 숨긴 이름의 머리글자",
   "original": "Significant Monogram",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01994",
+  "primary_tag_id": "ML-T01994",
   "description": {
     "definition": "이름의 첫 글자들을 모았을 때 관련된 뜻이나 참조가 생기도록 짓는 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "이름의 음절 전체를 이어 읽는 결합 이름과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이름의 첫 글자를 모았을 때 다른 의미나 참조가 드러나게 한다. 평범한 전체 이름이 물건의 각인이나 약식 서명에서 새로운 단서로 바뀔 수 있다.\n\n관객이 연관된 인물상이나 개념을 알면 작은 표기만으로 함축을 전달할 수 있다. 다만 같은 약자가 여러 뜻을 가질 수 있으므로 주변의 묘사가 어느 해석을 지지하는지 확인해야 한다.\n\n[[합쳐 읽으면 뜻이 생기는 이름]]은 음절을 이어 읽고 여기서는 첫 글자를 선택한다. [[재배열하면 단서가 되는 이름]]과도 조작 방식이 다르다. 실제 사람의 이니셜만으로 성격이나 역할을 예측하는 기준은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이름의 첫 글자를 모았을 때 다른 의미나 참조가 드러나게 한다. 평범한 전체 이름이 물건의 각인이나 약식 서명에서 새로운 단서로 바뀔 수 있다.\n\n관객이 연관된 인물상이나 개념을 알면 작은 표기만으로 함축을 전달할 수 있다. 다만 같은 약자가 여러 뜻을 가질 수 있으므로 주변의 묘사가 어느 해석을 지지하는지 확인해야 한다.\n\n[[합쳐 읽으면 뜻이 생기는 이름]]은 음절을 이어 읽고 여기서는 첫 글자를 선택한다. [[재배열하면 단서가 되는 이름]]과도 조작 방식이 다르다. 실제 사람의 이니셜만으로 성격이나 역할을 예측하는 기준은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

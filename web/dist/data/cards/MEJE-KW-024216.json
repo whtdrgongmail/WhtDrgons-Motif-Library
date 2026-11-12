@@ -5,8 +5,8 @@
   "original": "Level-Gated Abilities Open the Path",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02082",
+  "primary_tag_id": "ML-T02082",
   "description": {
     "definition": "진행에 필요한 능력을 특정 레벨에서만 획득하도록 하여 능력 사용과 레벨 도달이 함께 통과 조건이 된다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "레벨 숫자만 검사하는 경우와 달리 실제로 획득한 능력을 사용해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "필요한 능력은 특정 레벨에 도달해야만 얻는다. 길을 통과하려면 수치의 성장과 새 행동의 사용이 함께 필요하다.\n\n탐색의 다음 단계는 경험치 획득과 능력의 학습을 같은 목표로 묶는다. 어디서 무엇을 써야 하는지 구분하면 진행 조건이 분명해진다.\n\n레벨 숫자만 검사해 문을 통과시키는 방식과 다르다. 실제로 얻은 기능을 사용해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "필요한 능력은 특정 레벨에 도달해야만 얻는다. 길을 통과하려면 수치의 성장과 새 행동의 사용이 함께 필요하다.\n\n탐색의 다음 단계는 경험치 획득과 능력의 학습을 같은 목표로 묶는다. 어디서 무엇을 써야 하는지 구분하면 진행 조건이 분명해진다.\n\n레벨 숫자만 검사해 문을 통과시키는 방식과 다르다. 실제로 얻은 기능을 사용해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "처음부터 선했던 적대자",
   "original": "Good All Along",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02558",
+  "primary_tag_id": "ML-T02558",
   "description": {
     "definition": "악역으로 보이던 [[인물]]이 실제로는 처음부터 선한 의도나 소속을 지니고 있었음이 밝혀지는 [[반전]]이다.",
     "detail": "작품 사례: [[Aliens]]에서 리플리는 과거의 악한 안드로이드 경험 때문에 비숍을 불신하지만, 그가 처음부터 선한 존재였음을 알아가며 태도를 바꾼다.",
@@ -13,10 +13,10 @@
     "boundary": "나쁜 사람이 마음을 바꾸는 개심과 달리 인물의 도덕성이 아니라 [[관객]]의 정보가 바뀐다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-11",
+  "row_version": 4,
   "classification": {
-    "code": "05",
+    "code": "05.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02487",
-      "work_card_id": "MM-MEDIA-000043",
+      "work_card_id": "MM-MEDIA-001458",
       "description_ko": "Aliens에서 리플리는 과거의 악한 안드로이드 경험 때문에 비숍을 불신하지만, 그가 처음부터 선한 존재였음을 알아가며 태도를 바꾼다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "처음부터 선했던 적대자 유형은 인물의 도덕성이 바뀌는 대신 관객의 정보와 해석이 바뀌는 [[반전]]을 가리킨다. 새 정보는 앞서 적대적으로 보인 행동을 처음부터 유지된 선의에 비추어 다시 읽게 한다.\n\n개심 서사와 구분하려면 인물이 선해진 시점이 아니라 선의가 처음부터 유지되었는지 확인한다. 과거 행동이 새로운 정보에 의해 다른 의미로 보이고 관객의 판단이 수정되어야 한다. 뒤늦은 사과나 태도 변화만 있는 경우에는 이 유형의 정보 반전과 다르다.\n\n사례: [[Aliens]]에서 리플리는 비숍을 불신하지만, 그는 처음부터 선한 존재였음이 드러난다.",
+    "sections": [
+      [
+        "상세 설명",
+        "처음부터 선했던 적대자 유형은 인물의 도덕성이 바뀌는 대신 관객의 정보와 해석이 바뀌는 [[반전]]을 가리킨다. 새 정보는 앞서 적대적으로 보인 행동을 처음부터 유지된 선의에 비추어 다시 읽게 한다.\n\n개심 서사와 구분하려면 인물이 선해진 시점이 아니라 선의가 처음부터 유지되었는지 확인한다. 과거 행동이 새로운 정보에 의해 다른 의미로 보이고 관객의 판단이 수정되어야 한다. 뒤늦은 사과나 태도 변화만 있는 경우에는 이 유형의 정보 반전과 다르다."
+      ],
+      [
+        "사례",
+        "사례: [[Aliens]]에서 리플리는 비숍을 불신하지만, 그는 처음부터 선한 존재였음이 드러난다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

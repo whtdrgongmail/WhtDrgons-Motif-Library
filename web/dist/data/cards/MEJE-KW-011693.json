@@ -4,8 +4,8 @@
   "title": "글램 록",
   "original": "Glam Rock",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-011693",
+  "primary_tag_id": "MEJE-KW-011693",
   "description": {
     "definition": "[[로큰롤]]의 음악적 기반에 과장된 의상·화장·무대 인물상과 연극적인 공연을 결합하는 록 음악 계열이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-02",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.301.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "music_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -36,5 +39,22 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "글램 록은 노래의 소리뿐 아니라 무대 위 인물상과 시각적 연출을 중요하게 다룬다. 반짝이는 화장과 과장된 의상, 연극적인 동작은 공연의 일부이며, 일상적인 외양을 벗어난 스타의 모습을 구성한다.\n\n음악적 성격은 하나로 고정되지 않는다. 이 계열에는 실험적인 아트록 계열, 초기 로큰롤에 가까운 계열, 강한 기타와 드럼에 대중적인 선율을 결합한 계열이 있다. 이후 글램 메탈에 영향을 주었지만 그 영향 관계만으로 두 계열이 같은 음악이 되는 것은 아니다.\n\n화려한 의상 하나만으로 글램 록에 포함되는 것은 아니며, 노래와 무대 양식이 결합되어야 한다.\n\nT. Rex의 《[[Electric Warrior]]》와 데이비드 보위의 《[[The Rise and Fall of Ziggy Stardust and the Spiders from Mars]]》는 글램 시기의 음반이다. 보위의 지기 스타더스트는 음악과 무대 인물상이 결합하는 방식을 설명하는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "글램 록은 노래의 소리뿐 아니라 무대 위 인물상과 시각적 연출을 중요하게 다룬다. 반짝이는 화장과 과장된 의상, 연극적인 동작은 공연의 일부이며, 일상적인 외양을 벗어난 스타의 모습을 구성한다.\n\n음악적 성격은 하나로 고정되지 않는다. 이 계열에는 실험적인 아트록 계열, 초기 로큰롤에 가까운 계열, 강한 기타와 드럼에 대중적인 선율을 결합한 계열이 있다. 이후 글램 메탈에 영향을 주었지만 그 영향 관계만으로 두 계열이 같은 음악이 되는 것은 아니다.\n\n화려한 의상 하나만으로 글램 록에 포함되는 것은 아니며, 노래와 무대 양식이 결합되어야 한다."
+      ],
+      [
+        "관련 작품",
+        "T. Rex의 《[[Electric Warrior]]》와 데이비드 보위의 《[[The Rise and Fall of Ziggy Stardust and the Spiders from Mars]]》는 글램 시기의 음반이다. 보위의 지기 스타더스트는 음악과 무대 인물상이 결합하는 방식을 설명하는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "속편에서 위협과 보상을 키우기",
   "original": "Plot Leveling",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00647",
+  "primary_tag_id": "ML-T00647",
   "description": {
     "definition": "목표를 이룬 주인공을 다시 모험에 참여시키기 위해 다음 이야기의 위험과 얻을 것을 더 크게 만드는 구성이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "05.005.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "도시를 구한 영웅에게 다음에는 나라 전체의 위기와 더 큰 힘을 얻을 기회를 주는 식이다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "한 번 성공하여 안정된 삶을 얻은 인물에게는 같은 모험을 반복할 동기가 약해질 수 있다. 이때 적의 규모와 피해 범위를 키우고, 더 높은 지위·능력·유산처럼 새로운 성취를 제시하여 이야기를 다시 움직인다. 위험만 커지는 것과 달리 주인공이 향할 다음 단계도 함께 마련하는 구조다. 이미 얻은 승리를 무효로 하지 않으면서 속편의 추진력을 만드는 데 쓰인다.\n\n반복되면 개인의 문제가 세계나 우주의 문제로 확대되고 이전의 강한 적도 상대적으로 작아진다. 변화가 숫자와 파괴 규모에만 머물면 성공의 체감이 무뎌질 수 있다. 새로운 단계마다 책임과 관계의 부담도 달라지게 하면 단순 반복을 줄일 수 있다. 게임에서는 새 능력과 상대를 제공하는 즐거움이 동기가 되기도 하지만, 모든 후속 이야기가 반드시 더 큰 규모를 요구하는 것은 아니다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "한 번 성공하여 안정된 삶을 얻은 인물에게는 같은 모험을 반복할 동기가 약해질 수 있다. 이때 적의 규모와 피해 범위를 키우고, 더 높은 지위·능력·유산처럼 새로운 성취를 제시하여 이야기를 다시 움직인다. 위험만 커지는 것과 달리 주인공이 향할 다음 단계도 함께 마련하는 구조다. 이미 얻은 승리를 무효로 하지 않으면서 속편의 추진력을 만드는 데 쓰인다.\n\n반복되면 개인의 문제가 세계나 우주의 문제로 확대되고 이전의 강한 적도 상대적으로 작아진다. 변화가 숫자와 파괴 규모에만 머물면 성공의 체감이 무뎌질 수 있다. 새로운 단계마다 책임과 관계의 부담도 달라지게 하면 단순 반복을 줄일 수 있다. 게임에서는 새 능력과 상대를 제공하는 즐거움이 동기가 되기도 하지만, 모든 후속 이야기가 반드시 더 큰 규모를 요구하는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

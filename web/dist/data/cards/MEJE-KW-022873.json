@@ -4,19 +4,19 @@
   "title": "편안한 곡의 끝을 뒤집는 섬뜩한 소리",
   "original": "Last Note Nightmare",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02026",
+  "primary_tag_id": "ML-T02026",
   "description": {
     "definition": "기분 좋거나 평온하게 들리던 곡의 끝에 불협화음·강한 음·기괴한 목소리 등을 붙여 예상치 못한 공포나 불편함을 남기는 장치다.",
     "detail": "작품 사례: 《[[킹덤 하츠 II]]》의 해당 배경곡은 온화하게 시작했다가 빠른 전환을 거쳐 합창이 있는 전투 음악으로 치닫는다. 원문은 짧은 곡의 끝으로 갈수록 예상 밖의 불길함이 강해지는 사례로 설명한다.",
-    "usage": "마지막 소리로 앞선 인상을 흔들고 음악이 끝난 뒤에도 긴장이나 찜찜함을 남길 때 쓴다.",
-    "boundary": "처음부터 끝까지 불길한 음악과 달리 마지막의 정서적 전환이 중요하다. 의도가 장난스러웠어도 청자의 경험은 섬뜩할 수 있다."
+    "usage": "",
+    "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "24",
+    "code": "24.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마지막 소리로 앞선 인상을 흔들고 음악이 끝난 뒤에도 긴장이나 찜찜함을 남길 때 쓴다.\n\n처음부터 끝까지 불길한 음악과 달리 마지막의 정서적 전환이 중요하다. 의도가 장난스러웠어도 청자의 경험은 섬뜩할 수 있다.\n\n《[[킹덤 하츠 II]]》의 〈Showdown at Hollow Bastion〉은 온화하게 시작했다가 빠른 전환을 거쳐 합창이 있는 전투 음악으로 바뀐다. 짧은 곡의 끝으로 갈수록 예상 밖의 불길함이 강해지는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마지막 소리로 앞선 인상을 흔들고 음악이 끝난 뒤에도 긴장이나 찜찜함을 남길 때 쓴다.\n\n처음부터 끝까지 불길한 음악과 달리 마지막의 정서적 전환이 중요하다. 의도가 장난스러웠어도 청자의 경험은 섬뜩할 수 있다."
+      ],
+      [
+        "관련 작품",
+        "《[[킹덤 하츠 II]]》의 〈Showdown at Hollow Bastion〉은 온화하게 시작했다가 빠른 전환을 거쳐 합창이 있는 전투 음악으로 바뀐다. 짧은 곡의 끝으로 갈수록 예상 밖의 불길함이 강해지는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

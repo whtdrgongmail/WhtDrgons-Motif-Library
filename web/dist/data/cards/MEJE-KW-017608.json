@@ -4,8 +4,8 @@
   "title": "오컬트 법률 사무소",
   "original": "Occult Law Firm",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01347",
+  "primary_tag_id": "ML-T01347",
   "description": {
     "definition": "변호사나 법률 조직이 악마·초자연적 존재와 연결되어 계약과 법의 역할을 불길하게 바꾸는 설정.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "악한 인간 변호사와 초자연적 법률 조직을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "초자연적 존재와 사건을 법률 업무의 대상으로 삼는 조직이다. 계약과 소송, 권리의 언어가 악마와 괴물의 문제를 처리하는 체계로 바뀐다.\n\n일상적인 직업 절차와 불가능한 의뢰가 결합하면서 희극이나 위협을 만들 수 있다. 비인간을 의뢰인으로 받는다는 사실만으로 사무소가 반드시 악한 편은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "초자연적 존재와 사건을 법률 업무의 대상으로 삼는 조직이다. 계약과 소송, 권리의 언어가 악마와 괴물의 문제를 처리하는 체계로 바뀐다.\n\n일상적인 직업 절차와 불가능한 의뢰가 결합하면서 희극이나 위협을 만들 수 있다. 비인간을 의뢰인으로 받는다는 사실만으로 사무소가 반드시 악한 편은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

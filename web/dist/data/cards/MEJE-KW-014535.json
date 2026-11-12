@@ -4,8 +4,8 @@
   "title": "대대로 이어지는 봉사 관계",
   "original": "Legacy of Service",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000727",
+  "primary_tag_id": "MM-UNSET-000727",
   "description": {
     "definition": "한 집안을 섬기던 사람의 자녀도 그 가족과 유대를 맺고 일을 이어 받아 고용·봉사 관계가 다음 세대로 계속되는 설정이다.",
     "detail": "작품 사례: 《[[신의 탑]]》의 에드록 가문은 여러 자하드의 공주를 오랫동안 개인 시종으로 섬겨 온 집안으로 소개된다. 원문의 짧은 사례는 가문의 봉사 계승을 말하며 개개인의 선택 과정까지 상세히 설명하지는 않는다.",
@@ -13,14 +13,20 @@
     "boundary": "같은 직업을 물려받지만 고용 가문은 달라지는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "부모가 모시던 집안과 정이 든 자녀가 자라서 같은 집안의 일을 맡는다.",
     "review_status": "reviewed",
@@ -31,12 +37,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00090",
-      "work_card_id": "MM-MEDIA-001296",
+      "work_card_id": "MM-MEDIA-002484",
       "description_ko": "《신의 탑》의 에드록 가문은 여러 자하드의 공주를 오랫동안 개인 시종으로 섬겨 온 집안으로 소개된다. 원문의 짧은 사례는 가문의 봉사 계승을 말하며 개개인의 선택 과정까지 상세히 설명하지는 않는다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 집안에 봉사하는 관계가 고용인의 다음 세대로 이어지는 설정이다. 직업의 계승과 같은 고용 가문을 계속 섬긴다는 관계의 계승이 결합한다.\n\n같은 직종을 물려받아도 고용하는 집안이 달라지면 다른 경우다. 개인의 동의와 선택 과정이 제시되지 않았다면 세습의 자발성까지 단정하지 않는다.\n\n《[[신의 탑]]》의 에드록 가문은 여러 자하드의 공주를 오랫동안 개인 시종으로 섬긴 집안으로 소개된다. 제공 자료는 가문의 봉사 계승을 확인할 뿐 구성원마다 어떤 선택을 했는지는 설명하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 집안에 봉사하는 관계가 고용인의 다음 세대로 이어지는 설정이다. 직업의 계승과 같은 고용 가문을 계속 섬긴다는 관계의 계승이 결합한다.\n\n같은 직종을 물려받아도 고용하는 집안이 달라지면 다른 경우다. 개인의 동의와 선택 과정이 제시되지 않았다면 세습의 자발성까지 단정하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "《[[신의 탑]]》의 에드록 가문은 여러 자하드의 공주를 오랫동안 개인 시종으로 섬긴 집안으로 소개된다. 제공 자료는 가문의 봉사 계승을 확인할 뿐 구성원마다 어떤 선택을 했는지는 설명하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

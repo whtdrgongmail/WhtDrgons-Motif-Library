@@ -4,8 +4,8 @@
   "title": "일시적으로 슈퍼히어로가 되는 에피소드",
   "original": "Superhero Episode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00556",
+  "primary_tag_id": "ML-T00556",
   "description": {
     "definition": "평소에는 슈퍼히어로가 아닌 인물이 한 에피소드 동안 능력이나 영웅 복장을 갖추고 범죄에 맞서는 역할을 맡는 구성이다.",
     "detail": "작품 사례: [[Futurama]]의 「Less Than Hero」에서는 프라이와 벤더 등이 뉴 저스티스 팀을 이루어 동물들과 싸우며, 한 에피소드 동안 슈퍼히어로 역할을 맡는다.",
@@ -13,10 +13,10 @@
     "boundary": "원래 슈퍼히어로인 인물의 일상적인 활약이나 영구적인 정체성 전환과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.001.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평소에는 슈퍼히어로가 아닌 인물이 한 에피소드 동안 팀이나 복장을 갖추고 그 역할을 수행한다. 작품의 일상적 형식과 일시적으로 채택한 영웅 장르의 형식이 대비된다.\n\n원래 슈퍼히어로인 인물의 통상적인 활약이나 영구적인 정체성 전환과는 지속 기간이 다르다. 역할의 채택과 해당 회차의 보호·대응 활동이 함께 제시되는지 확인한다.\n\n《[[Futurama]]》의 〈Less Than Hero〉에서 프라이와 동료들은 뉴 저스티스 팀을 만들어 활동한다. 한 회차에 한정된 슈퍼히어로 역할이 기존 인물들의 일상을 바꾼다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평소에는 슈퍼히어로가 아닌 인물이 한 에피소드 동안 팀이나 복장을 갖추고 그 역할을 수행한다. 작품의 일상적 형식과 일시적으로 채택한 영웅 장르의 형식이 대비된다.\n\n원래 슈퍼히어로인 인물의 통상적인 활약이나 영구적인 정체성 전환과는 지속 기간이 다르다. 역할의 채택과 해당 회차의 보호·대응 활동이 함께 제시되는지 확인한다."
+      ],
+      [
+        "관련 작품",
+        "《[[Futurama]]》의 〈Less Than Hero〉에서 프라이와 동료들은 뉴 저스티스 팀을 만들어 활동한다. 한 회차에 한정된 슈퍼히어로 역할이 기존 인물들의 일상을 바꾼다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

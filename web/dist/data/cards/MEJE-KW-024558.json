@@ -5,8 +5,8 @@
   "original": "Offscreen Dialogue Reads the Visible Text",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02277",
+  "primary_tag_id": "ML-T02277",
   "description": {
     "definition": "화면의 글을 자막으로만 번역하는 대신 맥락상 가능한 인물이 화면 밖에서 읽도록 하여 입 모양의 제약을 피한다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "번역과 영상의 시간 관계를 다루는 제작 선택이며 모든 언어·작품의 제작법이 같다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화면의 글을 자막만으로 옮기는 대신 가능한 인물이 밖에서 읽어 준다. 입 모양을 맞출 부담 없이 내용을 전달하는 제작 방식이다.\n\n관객은 글의 의미를 음성으로 듣지만 현재 화면에는 발화자가 없을 수 있다. 영상의 시간과 번역 음성의 배치를 나누어 설명해야 한다.\n\n모든 언어판이 같은 제작 과정을 쓴다는 뜻은 아니다. 해당 장면에서 정보 전달을 어떤 목소리에 맡겼는지 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화면의 글을 자막만으로 옮기는 대신 가능한 인물이 밖에서 읽어 준다. 입 모양을 맞출 부담 없이 내용을 전달하는 제작 방식이다.\n\n관객은 글의 의미를 음성으로 듣지만 현재 화면에는 발화자가 없을 수 있다. 영상의 시간과 번역 음성의 배치를 나누어 설명해야 한다.\n\n모든 언어판이 같은 제작 과정을 쓴다는 뜻은 아니다. 해당 장면에서 정보 전달을 어떤 목소리에 맡겼는지 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

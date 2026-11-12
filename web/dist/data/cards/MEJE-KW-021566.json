@@ -5,8 +5,8 @@
   "original": "Indirect Refusal",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01971",
+  "primary_tag_id": "ML-T01971",
   "description": {
     "definition": "상대의 요청을 직접 부정하는 대신 사과와 망설임, 끝맺지 않은 말로 받아들이기 어렵다는 뜻을 전하는 대화 방식이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "대답할 의사가 없어 회피하는 경우나 단순히 문장을 잊은 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.006.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "요청을 직접 부정하지 않고 사과와 망설임, 미완성 문장으로 거절을 전한다. 말의 끝을 생략해도 상대가 뜻을 알아차리기를 기대하는 방식이다.\n\n공손함을 유지하려는 화자와 명확한 대답을 기다리는 청자 사이에 간격이 생길 수 있다. 무엇을 말하지 않았는지도 대화의 의미를 구성한다.\n\n대답할 생각이 없어 피하거나 단순히 문장을 잊은 경우와 다르다. 완곡한 형태로 받아들이기 어렵다는 뜻을 전달해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "요청을 직접 부정하지 않고 사과와 망설임, 미완성 문장으로 거절을 전한다. 말의 끝을 생략해도 상대가 뜻을 알아차리기를 기대하는 방식이다.\n\n공손함을 유지하려는 화자와 명확한 대답을 기다리는 청자 사이에 간격이 생길 수 있다. 무엇을 말하지 않았는지도 대화의 의미를 구성한다.\n\n대답할 생각이 없어 피하거나 단순히 문장을 잊은 경우와 다르다. 완곡한 형태로 받아들이기 어렵다는 뜻을 전달해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

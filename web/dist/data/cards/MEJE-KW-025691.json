@@ -5,8 +5,8 @@
   "original": "The Doctor Who Uses Patients' Trust to Stalk Them",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00902",
+  "primary_tag_id": "ML-T00902",
   "description": {
     "definition": "의료인의 사회적 신뢰와 접근 권한을 가진 인물이 집착과 가해 행동으로 환자나 다른 인물을 위협한다.",
     "detail": "작품 사례: 《[[Stalked by My Doctor]]》는 원문에서 집착하는 의사가 위협이 되는 작품으로 소개된다. 치료자에 대한 신뢰와 가해자의 정체가 충돌한다.",
@@ -14,10 +14,10 @@
     "boundary": "실력이 뛰어나지만 무례한 의사라는 제공 정본과 구별하며 실제 의료인 일반에 적용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "09",
+    "code": "09.003.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "의료인의 신뢰받는 지위와 접근 권한이 위협을 가능하게 하는 조건이 된다. 치료자에게 기대하는 안전과 실제 가해 행동이 충돌한다.\n\n환자는 도움을 받는 관계 안에서 상대를 의심하기 어려울 수 있다. 전문적인 역할이 집착이나 가해를 가리는 외관으로 작동하는지가 장면의 핵심이다.\n\n실력은 있지만 무례한 의사와는 위협의 성격이 다르다. 허구의 특정 인물 유형을 실제 의료인 전체의 특징으로 일반화하지 않는다.\n\n[[Stalked by My Doctor]]는 집착하는 의사가 위협적인 존재가 되는 작품으로 정본에 제시된다.\n\n[[Stalked by My Doctor]]",
+    "sections": [
+      [
+        "상세 설명",
+        "의료인의 신뢰받는 지위와 접근 권한이 위협을 가능하게 하는 조건이 된다. 치료자에게 기대하는 안전과 실제 가해 행동이 충돌한다.\n\n환자는 도움을 받는 관계 안에서 상대를 의심하기 어려울 수 있다. 전문적인 역할이 집착이나 가해를 가리는 외관으로 작동하는지가 장면의 핵심이다.\n\n실력은 있지만 무례한 의사와는 위협의 성격이 다르다. 허구의 특정 인물 유형을 실제 의료인 전체의 특징으로 일반화하지 않는다."
+      ],
+      [
+        "사례",
+        "[[Stalked by My Doctor]]는 집착하는 의사가 위협적인 존재가 되는 작품으로 정본에 제시된다."
+      ],
+      [
+        "관련 작품",
+        "[[Stalked by My Doctor]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

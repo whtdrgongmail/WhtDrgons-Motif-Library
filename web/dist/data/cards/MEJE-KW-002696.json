@@ -4,8 +4,8 @@
   "title": "은행을 털려는 사건",
   "original": "Bank Robbery",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00797",
+  "primary_tag_id": "ML-T00797",
   "description": {
     "definition": "돈을 보관하는 곳을 노린 범죄가 인물들을 같은 공간에 묶는다. 준비와 돌발 변수, 인질의 안전 등 선택의 결과가 중심이 된다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.008.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "은행의 현금과 금고를 목표로 삼는 강도 사건이다. 고객과 직원이 있는 공개 구역과 접근이 제한된 보관 구역의 차이가 범행의 규모를 나눈다.\n\n계산대의 돈을 급히 빼앗는 범행과 오랜 준비로 금고를 노리는 계획은 절차와 긴장이 다르다. 인질과 경보, 도주 경로가 결합하면 범행의 성공보다 통제가 무너지는 과정이 중심이 될 수 있다.\n\n은행이 등장하는 모든 범죄를 뜻하지는 않는다. 자금과 보관물을 직접 탈취하려는 행동이 있어야 하며 사기와 금융상의 조작은 다른 유형으로 구별한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "은행의 현금과 금고를 목표로 삼는 강도 사건이다. 고객과 직원이 있는 공개 구역과 접근이 제한된 보관 구역의 차이가 범행의 규모를 나눈다.\n\n계산대의 돈을 급히 빼앗는 범행과 오랜 준비로 금고를 노리는 계획은 절차와 긴장이 다르다. 인질과 경보, 도주 경로가 결합하면 범행의 성공보다 통제가 무너지는 과정이 중심이 될 수 있다.\n\n은행이 등장하는 모든 범죄를 뜻하지는 않는다. 자금과 보관물을 직접 탈취하려는 행동이 있어야 하며 사기와 금융상의 조작은 다른 유형으로 구별한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

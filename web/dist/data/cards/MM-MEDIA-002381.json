@@ -3,18 +3,20 @@
   "kind": "work",
   "title": "크로노 트리거",
   "original": "Chrono Trigger",
-  "aliases": [],
-  "tag_id": null,
+  "aliases": [
+    "Chrono Trigger"
+  ],
+  "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
     "definition": "《크로노 트리거》는 비디오게임 작품이다.",
-    "detail": "작품 사례: 《크로노 트리거》의 마왕은 후반에 합류하며, [[뉴 게임 플러스]]로 다시 시작해도 합류 시점까지 기다려야 한다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -39,9 +41,30 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-012147",
+      "row_version": 2
+    },
+    {
+      "card_id": "MEJE-KW-014715",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-019430",
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "스퀘어가 제작한 슈퍼패미컴용 [[역할극 게임]]이다. 크로노가 축제에서 만난 마를과 시간 이동 사건에 휘말리며 모험을 시작한다. 시대 사이에서 얻은 정보와 행동이 다른 시대의 장애물을 바꾸는 시간 여행 게임이다.\n\n서로 다른 시대의 인물들이 동료가 되고 과거의 행동이 후대의 상황에 영향을 준다. 세계의 멸망을 막으려는 목표가 여러 시대를 연결한다. 과거를 방문한다는 소재가 탐험의 경로와 동료 구성, 사건 해결에 실제로 관여한다.\n\n시간 여행이 배경 설명만이 아니라 탐색과 사건 해결의 구조다. 특정 시대에서 얻은 정보가 다른 시대의 장애물을 해결하는 단서가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "스퀘어가 제작한 슈퍼패미컴용 [[역할극 게임]]이다. 크로노가 축제에서 만난 마를과 시간 이동 사건에 휘말리며 모험을 시작한다. 시대 사이에서 얻은 정보와 행동이 다른 시대의 장애물을 바꾸는 시간 여행 게임이다.\n\n서로 다른 시대의 인물들이 동료가 되고 과거의 행동이 후대의 상황에 영향을 준다. 세계의 멸망을 막으려는 목표가 여러 시대를 연결한다. 과거를 방문한다는 소재가 탐험의 경로와 동료 구성, 사건 해결에 실제로 관여한다.\n\n시간 여행이 배경 설명만이 아니라 탐색과 사건 해결의 구조다. 특정 시대에서 얻은 정보가 다른 시대의 장애물을 해결하는 단서가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

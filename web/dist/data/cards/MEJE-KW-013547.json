@@ -4,8 +4,8 @@
   "title": "자녀 돌봄 관계에서 시작된 연애",
   "original": "Marry the Nanny",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01016",
+  "primary_tag_id": "ML-T01016",
   "description": {
     "definition": "자녀를 돌보는 사람과 부모가 지속적으로 가까이 지내다가 [[연애]]나 결혼 [[관계]]로 이어지는 [[모티프]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "가사 고용 전반의 연애보다 자녀 [[돌봄]]이 [[친밀감]]의 연결 고리이며 권력 차이와 동의는 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "아이를 함께 돌보는 일상의 접촉이 성인들의 관계를 변화시킨다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "[[부모와 자녀]]를 돌보는 사람이 지속적으로 가까이 지내며 연애나 결혼 관계로 발전한다. 자녀를 위한 돌봄이 반복적인 접촉과 친밀감의 연결 고리가 된다.\n\n두 사람이 만나는 이유가 돌봄 관계 안에 있으므로 기존의 역할과 새로 생긴 감정이 함께 작용한다. 단순한 우연의 만남보다 관계가 축적되는 생활의 맥락이 중요하다.\n\n가사 노동을 매개로 한 연애 전체와 동일하지 않다. 자녀 돌봄이라는 구체적인 연결이 필요하며, 가까워졌다는 사실과 권력 차이 및 동의 문제는 따로 판단해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "[[부모와 자녀]]를 돌보는 사람이 지속적으로 가까이 지내며 연애나 결혼 관계로 발전한다. 자녀를 위한 돌봄이 반복적인 접촉과 친밀감의 연결 고리가 된다.\n\n두 사람이 만나는 이유가 돌봄 관계 안에 있으므로 기존의 역할과 새로 생긴 감정이 함께 작용한다. 단순한 우연의 만남보다 관계가 축적되는 생활의 맥락이 중요하다.\n\n가사 노동을 매개로 한 연애 전체와 동일하지 않다. 자녀 돌봄이라는 구체적인 연결이 필요하며, 가까워졌다는 사실과 권력 차이 및 동의 문제는 따로 판단해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

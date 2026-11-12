@@ -4,8 +4,8 @@
   "title": "실제로 말하지 않은 명대사를 인용하기",
   "original": "Beam Me Up, Scotty!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "유명 인물이나 작품에 없는 말을 관객이 원래 대사처럼 반복한다. 기억하기 쉬운 표현이 기록된 대사를 대신하면서 새로운 인용 관습이 생긴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "널리 알려진 명대사로 인용되지만 실제 작품에서는 그 형태로 말하지 않은 문구다. 여러 발언이 합쳐지거나 맥락을 보충한 짧은 표현이 기억을 대체한다.\n\n인용하는 사람은 한 문장만으로 대상을 알아보게 하려고 이름과 상황을 덧붙일 수 있다. 패러디가 그 표현을 반복하면 실제 대사보다 인지도가 높아지는 순환이 생긴다.\n\n실제 대사를 다른 언어로 옮긴 결과와 단순한 기억 오류는 구분할 수 있다. 핵심은 대중적 인용과 확인 가능한 발화 사이의 차이이며 유명하다는 사실이 정확성을 보증하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "널리 알려진 명대사로 인용되지만 실제 작품에서는 그 형태로 말하지 않은 문구다. 여러 발언이 합쳐지거나 맥락을 보충한 짧은 표현이 기억을 대체한다.\n\n인용하는 사람은 한 문장만으로 대상을 알아보게 하려고 이름과 상황을 덧붙일 수 있다. 패러디가 그 표현을 반복하면 실제 대사보다 인지도가 높아지는 순환이 생긴다.\n\n실제 대사를 다른 언어로 옮긴 결과와 단순한 기억 오류는 구분할 수 있다. 핵심은 대중적 인용과 확인 가능한 발화 사이의 차이이며 유명하다는 사실이 정확성을 보증하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

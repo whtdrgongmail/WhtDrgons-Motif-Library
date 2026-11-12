@@ -4,8 +4,8 @@
   "title": "출산을 강요받는 노예",
   "original": "Breeding Slave",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01339",
+  "primary_tag_id": "ML-T01339",
   "description": {
     "definition": "집단이나 권력자가 사람을 후손 생산의 수단으로 삼고 선택권을 빼앗는다. 인물의 몸과 삶을 통제하는 제도의 폭력을 다루는 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.002",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "다른 사람의 출산 계획을 위해 생식과 임신을 강요받는 인물이다. 후계자 확보나 노동력 생산, 종족 유지 같은 목적이 제시되어도 당사자가 선택할 수 없다는 구조는 유지된다.\n\n인물을 혈통이나 자원의 공급원으로 취급하면서 감정과 의사를 배제한다. 겉으로 순응하더라도 거절과 이탈의 자유가 없다면 동의가 보장된 관계로 보기 어렵다.\n\n자발적인 출산과 구분되며, 강제 성행위를 수반하면 성폭력에 해당하는 사건이다. 목적의 정당화를 주장하는 지배자의 설명과 피해자의 처지를 구별하여 다루어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "다른 사람의 출산 계획을 위해 생식과 임신을 강요받는 인물이다. 후계자 확보나 노동력 생산, 종족 유지 같은 목적이 제시되어도 당사자가 선택할 수 없다는 구조는 유지된다.\n\n인물을 혈통이나 자원의 공급원으로 취급하면서 감정과 의사를 배제한다. 겉으로 순응하더라도 거절과 이탈의 자유가 없다면 동의가 보장된 관계로 보기 어렵다.\n\n자발적인 출산과 구분되며, 강제 성행위를 수반하면 성폭력에 해당하는 사건이다. 목적의 정당화를 주장하는 지배자의 설명과 피해자의 처지를 구별하여 다루어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

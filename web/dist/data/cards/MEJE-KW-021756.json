@@ -4,8 +4,8 @@
   "title": "새 도구에 맞추어 열리는 게임 진행",
   "original": "Equipment-Based Progression",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02082",
+  "primary_tag_id": "ML-T02082",
   "description": {
     "definition": "사용할 수 있는 능력을 도구 획득으로 단계적으로 늘리고 각 구간이 그때의 도구를 요구하도록 배치하는 진행 방식이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "장비 수치만 올려 더 강해지는 성장과 구별한다. 도구가 통과할 수 있는 과제와 구간을 바꾸어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.002.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "성장의 중심을 경험치보다 장비와 도구의 획득에 두는 게임 진행 방식이다. 새 물건이 캐릭터의 능력과 접근 가능한 공간을 바꾼다.\n\n탐색에서 얻은 도구가 다음 장애물을 해결하면 수집과 이동이 서로 보상이 된다. 수치만 높이는 반복 전투보다 새 기능의 발견과 활용에 플레이의 초점이 맞춰진다.\n\n도구마다 반드시 잠긴 통로가 있는 것은 아니다. 능력치 강화가 중심인지 이동과 행동의 확장이 중심인지에 따라 같은 장비 성장도 다른 경험을 만든다.",
+    "sections": [
+      [
+        "상세 설명",
+        "성장의 중심을 경험치보다 장비와 도구의 획득에 두는 게임 진행 방식이다. 새 물건이 캐릭터의 능력과 접근 가능한 공간을 바꾼다.\n\n탐색에서 얻은 도구가 다음 장애물을 해결하면 수집과 이동이 서로 보상이 된다. 수치만 높이는 반복 전투보다 새 기능의 발견과 활용에 플레이의 초점이 맞춰진다.\n\n도구마다 반드시 잠긴 통로가 있는 것은 아니다. 능력치 강화가 중심인지 이동과 행동의 확장이 중심인지에 따라 같은 장비 성장도 다른 경험을 만든다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

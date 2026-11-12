@@ -4,8 +4,8 @@
   "title": "외국어 가사가 다른 언어의 말로 들리기",
   "original": "Soramimi",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01990",
+  "primary_tag_id": "ML-T01990",
   "description": {
     "definition": "한 언어로 된 노랫말의 소리를 다른 언어의 실제 단어나 문장처럼 알아듣는 언어 간 청각 [[말장난]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "같은 언어 안에서 잘못 듣는 경우와 구별하며 정확한 번역을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "외국어 노랫말의 소리를 다른 언어의 단어와 문장처럼 알아듣는다. 서로 다른 언어의 소리 유사성이 새로운 뜻을 만든다.\n\n원래 가사의 의미와 듣는 사람이 떠올린 문장은 다르다. 어떤 소리를 어떤 말로 연결했는지가 말장난의 구조를 정한다.\n\n같은 언어 안의 오청과 구별한다. 소리가 닮았다는 현상이지 정확하게 번역했다는 뜻은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "외국어 노랫말의 소리를 다른 언어의 단어와 문장처럼 알아듣는다. 서로 다른 언어의 소리 유사성이 새로운 뜻을 만든다.\n\n원래 가사의 의미와 듣는 사람이 떠올린 문장은 다르다. 어떤 소리를 어떤 말로 연결했는지가 말장난의 구조를 정한다.\n\n같은 언어 안의 오청과 구별한다. 소리가 닮았다는 현상이지 정확하게 번역했다는 뜻은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

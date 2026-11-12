@@ -4,8 +4,8 @@
   "title": "셋 이상의 뜻을 겹친 말장난",
   "original": "Multiple Reference Pun",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01990",
+  "primary_tag_id": "ML-T01990",
   "description": {
     "definition": "한 표현의 세 가지 이상의 의미를 동시에 이용해 [[말장난]]을 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 두 겹 의미의 농담보다 많은 의미가 실제 문맥에서 작동해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 표현에 세 가지 이상의 의미와 참조를 겹치는 [[말장난]]이다. 소리와 철자, 이름과 개념이 여러 방향으로 연결된다.\n\n처음에는 한 뜻으로 읽히다가 다른 맥락을 알면 추가 의미가 드러날 수 있다. 제목과 인물 이름에 사용하면 짧은 표현이 작품의 소재와 주제를 동시에 암시한다.\n\n연상 가능한 뜻을 무제한으로 늘린다고 모두 의도된 농담은 아니다. 실제 문맥에서 작동하는 관계와 관객의 우연한 추측을 구별해야 하며, 여러 언어를 넘나들면 번역에서 일부 효과가 사라질 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 표현에 세 가지 이상의 의미와 참조를 겹치는 [[말장난]]이다. 소리와 철자, 이름과 개념이 여러 방향으로 연결된다.\n\n처음에는 한 뜻으로 읽히다가 다른 맥락을 알면 추가 의미가 드러날 수 있다. 제목과 인물 이름에 사용하면 짧은 표현이 작품의 소재와 주제를 동시에 암시한다.\n\n연상 가능한 뜻을 무제한으로 늘린다고 모두 의도된 농담은 아니다. 실제 문맥에서 작동하는 관계와 관객의 우연한 추측을 구별해야 하며, 여러 언어를 넘나들면 번역에서 일부 효과가 사라질 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

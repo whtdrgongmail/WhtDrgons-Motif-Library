@@ -4,8 +4,8 @@
   "title": "재산을 물려받은 반려동물",
   "original": "Pet Heir",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T01360",
+  "primary_tag_id": "ML-T01360",
   "description": {
     "definition": "부유한 사람이 반려동물에게 재산을 남기면서 인간 상속인과 돌봄 관계에 갈등이 생기는 구성이다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "05",
+    "code": "15.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "거액의 유산을 받은 동물을 지켜야 하는 사람과 그 동물이 없어지길 바라는 상속인이 맞선다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "유산은 의사를 직접 설명하기 어려운 동물에게 큰 경제적 권력을 부여한다. 돌봄을 맡은 사람의 책임과 다음 상속 순위에 있는 사람의 이해가 충돌하면서 보호와 음모가 연결된다.\n\n실제 제도에서 동물에게 재산을 남기는 방식은 관할권에 따라 다르다. 허구에서는 직접 상속이나 돌봄 조건부 유산을 사용할 수 있으므로, 누가 관리권을 갖는지 명확히 하면 갈등이 설득력을 얻는다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "유산은 의사를 직접 설명하기 어려운 동물에게 큰 경제적 권력을 부여한다. 돌봄을 맡은 사람의 책임과 다음 상속 순위에 있는 사람의 이해가 충돌하면서 보호와 음모가 연결된다.\n\n실제 제도에서 동물에게 재산을 남기는 방식은 관할권에 따라 다르다. 허구에서는 직접 상속이나 돌봄 조건부 유산을 사용할 수 있으므로, 누가 관리권을 갖는지 명확히 하면 갈등이 설득력을 얻는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

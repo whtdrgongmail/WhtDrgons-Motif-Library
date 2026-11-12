@@ -5,8 +5,8 @@
   "original": "The World Records Unwitnessed Good and Evil",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02125",
+  "primary_tag_id": "ML-T02125",
   "description": {
     "definition": "아무도 보지 않은 행동까지 도덕 수치에 기록되어 인물과 세계의 반응에 영향을 준다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "게임 시스템의 표현과 한계를 설명하며 현실의 도덕 책임을 계산하는 방법이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "목격자가 없는 행동도 도덕 수치에 기록하여 이후 세계의 반응에 적용한다. 사회가 그 사실을 아는 경로와 시스템이 평가하는 경로가 분리되어 숨긴 행동도 결과를 남긴다.\n\n플레이어는 들키지 않으면 이익이라는 계산만으로 움직일 수 없다. 세계의 반응이 인물의 실제 지식보다 전지적인 판정에 따르므로, 서사적 정보와 규칙의 정보 사이에 간극이 생길 수 있다.\n\n나중에 증거가 발견되어 평판이 바뀌는 경우와는 원인이 다르다. 수치가 비공개라고 목격과 무관한 것도 아니다. 어떤 행동이 어떤 경로 없이 기록되는지에 범위를 두며 현실의 책임을 계산하는 체계로 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "목격자가 없는 행동도 도덕 수치에 기록하여 이후 세계의 반응에 적용한다. 사회가 그 사실을 아는 경로와 시스템이 평가하는 경로가 분리되어 숨긴 행동도 결과를 남긴다.\n\n플레이어는 들키지 않으면 이익이라는 계산만으로 움직일 수 없다. 세계의 반응이 인물의 실제 지식보다 전지적인 판정에 따르므로, 서사적 정보와 규칙의 정보 사이에 간극이 생길 수 있다.\n\n나중에 증거가 발견되어 평판이 바뀌는 경우와는 원인이 다르다. 수치가 비공개라고 목격과 무관한 것도 아니다. 어떤 행동이 어떤 경로 없이 기록되는지에 범위를 두며 현실의 책임을 계산하는 체계로 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

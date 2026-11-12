@@ -4,8 +4,8 @@
   "title": "해명하려다가 들키지 않은 잘못까지 밝히기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00793",
+  "primary_tag_id": "ML-T00793",
   "description": {
     "definition": "상대가 자기 잘못을 알고 왔다고 지레짐작한 인물이 변명하거나 자백하여 상대가 모르던 사실까지 드러내는 전개다. [[죄책감]]이 정보의 노출을 앞당긴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "상대가 구체적 증거를 내밀어 인정한 경우와 다르다. 막연한 질문이나 무관한 방문을 죄의 추궁으로 오해한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상대가 이미 잘못을 안다고 믿으면 인물은 질문을 기다리지 못하고 변명한다. 감추려던 불안이 오히려 상대에게 새 정보를 주는 원인이 된다.\n\n상대는 질문하지 않은 정보까지 듣기 때문에 계획한 수사 없이도 단서를 얻을 수 있다. 발언자는 해명할수록 더 구체적인 사실을 추가해 스스로 비밀의 범위를 넓힌다.\n\n명확한 증거를 보고 인정한 경우와는 다르다. 무관한 방문이나 막연한 말을 추궁으로 오해하는 정보 격차가 필요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상대가 이미 잘못을 안다고 믿으면 인물은 질문을 기다리지 못하고 변명한다. 감추려던 불안이 오히려 상대에게 새 정보를 주는 원인이 된다.\n\n상대는 질문하지 않은 정보까지 듣기 때문에 계획한 수사 없이도 단서를 얻을 수 있다. 발언자는 해명할수록 더 구체적인 사실을 추가해 스스로 비밀의 범위를 넓힌다.\n\n명확한 증거를 보고 인정한 경우와는 다르다. 무관한 방문이나 막연한 말을 추궁으로 오해하는 정보 격차가 필요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

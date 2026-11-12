@@ -5,8 +5,8 @@
   "original": "A Localized Version Rewritten from Scratch",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02282",
+  "primary_tag_id": "ML-T02282",
   "description": {
     "definition": "수입한 작품의 영상을 쓰면서 원래 대본을 크게 따르지 않고 새로운 대사와 이야기를 작성하는 제작 방식이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "일부 말장난이나 문화 참조를 바꾸는 제한적 번역과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "27",
+    "code": "27.005.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "수입한 영상을 유지하면서 원대본 대신 새 대사와 이야기를 만든다. 시각 자료의 출처와 서사를 쓰는 주체가 갈라지는 현지화다.\n\n같은 화면도 다른 말과 맥락을 만나 다른 사건으로 이해될 수 있다. 무엇을 가져왔고 무엇을 새로 썼는지 구분해야 각색의 범위가 드러난다.\n\n일부 말장난과 문화적 참조만 바꾼 번역과 다르다. 원래 대본을 크게 따르지 않는 재작성이어야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "수입한 영상을 유지하면서 원대본 대신 새 대사와 이야기를 만든다. 시각 자료의 출처와 서사를 쓰는 주체가 갈라지는 현지화다.\n\n같은 화면도 다른 말과 맥락을 만나 다른 사건으로 이해될 수 있다. 무엇을 가져왔고 무엇을 새로 썼는지 구분해야 각색의 범위가 드러난다.\n\n일부 말장난과 문화적 참조만 바꾼 번역과 다르다. 원래 대본을 크게 따르지 않는 재작성이어야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

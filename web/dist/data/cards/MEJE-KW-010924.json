@@ -4,8 +4,8 @@
   "title": "거꾸로 읽어도 같은 글의 놀이",
   "original": "Fun with Palindromes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01990",
+  "primary_tag_id": "ML-T01990",
   "description": {
     "definition": "앞에서 읽든 뒤에서 읽든 같은 글자열이 되는 회문을 이름이나 대사에 넣어 언어적 재미를 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "앞뒤에서 읽어도 같은 글자열이 되는 회문을 이름과 대사에 사용하는 언어 놀이이다. 읽는 방향을 바꿔도 형태가 유지되는 특성이 재미가 된다.\n\n짧은 이름은 기억하기 쉬운 인상을 주고 긴 문장은 구성의 기교를 강조한다. 규칙이 이야기의 단서가 될 수도 있지만 표현 자체의 즐거움으로 남을 수 있다.\n\n단순히 글자를 거꾸로 적은 이름과는 다르다. 어떤 문자와 공백을 기준으로 대칭을 판단하는지는 언어와 표기 방식에 따라 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "앞뒤에서 읽어도 같은 글자열이 되는 회문을 이름과 대사에 사용하는 언어 놀이이다. 읽는 방향을 바꿔도 형태가 유지되는 특성이 재미가 된다.\n\n짧은 이름은 기억하기 쉬운 인상을 주고 긴 문장은 구성의 기교를 강조한다. 규칙이 이야기의 단서가 될 수도 있지만 표현 자체의 즐거움으로 남을 수 있다.\n\n단순히 글자를 거꾸로 적은 이름과는 다르다. 어떤 문자와 공백을 기준으로 대칭을 판단하는지는 언어와 표기 방식에 따라 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

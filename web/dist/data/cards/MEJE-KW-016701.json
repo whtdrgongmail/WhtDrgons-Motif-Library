@@ -4,8 +4,8 @@
   "title": "자신을 집단이나 개념 그 자체로 선언하기",
   "original": "I Am the Noun!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01963",
+  "primary_tag_id": "ML-T01963",
   "description": {
     "definition": "인물이 자신을 어떤 집단이나 추상적 가치의 유일한 대표 또는 구현이라고 선언하는 대사 장치다. 자기 의지와 전체의 뜻을 동일시하는 권위나 자신감을 드러낸다.",
     "detail": "작품 사례: 《[[데스노트]]》에서 라이토와 L은 서로 대립하면서 각자 자신이 정의라고 선언해 자기 판단을 정의 전체와 동일시한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제로 추상 개념이 인격화된 설정과 수사적 선언을 구별한다. 해당 집단의 일원이라고 소개하는 말만으로 성립하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001526",
+      "work_card_id": "MM-MEDIA-002463",
       "description_ko": "《데스노트》에서 라이토와 L은 서로 대립하면서 각자 자신이 정의라고 선언해 자기 판단을 정의 전체와 동일시한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "집단이나 추상 가치를 대표하는 수준을 넘어 자신과 그것을 동일시하는 선언이다. 짧은 말로 권위와 정당성을 독점하려는 태도나 강한 확신을 표현할 수 있다.\n\n단순히 집단의 일원이라고 소개하는 말과는 다르다. 개념이 실제 인격이 된 세계관과 수사적 선언도 구별해야 한다.\n\n《[[데스노트]]》의 라이토와 L은 대립하면서 각자 자신이 정의라고 말한다. 서로 다른 판단이 모두 정의 전체의 지위를 주장한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "집단이나 추상 가치를 대표하는 수준을 넘어 자신과 그것을 동일시하는 선언이다. 짧은 말로 권위와 정당성을 독점하려는 태도나 강한 확신을 표현할 수 있다.\n\n단순히 집단의 일원이라고 소개하는 말과는 다르다. 개념이 실제 인격이 된 세계관과 수사적 선언도 구별해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[데스노트]]》의 라이토와 L은 대립하면서 각자 자신이 정의라고 말한다. 서로 다른 판단이 모두 정의 전체의 지위를 주장한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

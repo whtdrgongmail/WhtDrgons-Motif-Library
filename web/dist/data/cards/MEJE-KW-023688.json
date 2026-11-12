@@ -4,8 +4,8 @@
   "title": "말 사이마다 끼어드는 군더더기 표현",
   "original": "Like Is, Like, a Comma",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01996",
+  "primary_tag_id": "ML-T01996",
   "description": {
     "definition": "인물이 거의 매 단어 사이에 like 같은 특정 말을 끼워 넣어 문장의 흐름을 채운다.",
     "detail": "작품 사례: 《[[원피스(만화)]]》의 파운드는 영어 현지화에서 like를 자주 끼워 넣는 말버릇을 갖는다. 원어판의 모든 대사에 같은 영어 습관이 있다는 뜻으로 확대하지 않는다.",
@@ -13,10 +13,10 @@
     "boundary": "뜻을 전달하는 데 필요한 해당 단어의 사용과 구별하며 반복적인 말버릇이어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.009.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "말 사이에 의미 전달에 꼭 필요하지 않은 특정 표현이 계속 끼어들면 문장이 독특한 리듬과 말투를 갖는다. 반복은 망설임이나 구어적인 인상을 만들 수 있지만 인물의 지능을 직접 설명하는 근거는 아니다. 같은 단어가 정상적인 의미로 여러 번 쓰인 경우와 달리 군더더기로서 반복되는 습관이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "말 사이에 의미 전달에 꼭 필요하지 않은 특정 표현이 계속 끼어들면 문장이 독특한 리듬과 말투를 갖는다. 반복은 망설임이나 구어적인 인상을 만들 수 있지만 인물의 지능을 직접 설명하는 근거는 아니다. 같은 단어가 정상적인 의미로 여러 번 쓰인 경우와 달리 군더더기로서 반복되는 습관이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "예정보다 일찍 돌아와 비밀을 들키기",
   "original": "Home-Early Surprise",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00794",
+  "primary_tag_id": "ML-T00794",
   "description": {
     "definition": "집에 없는 줄 알았던 배우자·부모 등이 예상보다 빨리 귀가하여 혼자라고 믿고 벌인 금지된 행동이 드러나는 전개다.",
     "detail": "작품 사례: [[Fried Green Tomatoes at the Whistle Stop Cafe]]에서 학교를 일찍 마치고 귀가한 프랭크는 어머니와 삼촌의 밀회를 목격한다.",
@@ -13,10 +13,10 @@
     "boundary": "처음부터 집에 있던 사람에게 우연히 들키거나 들키지 않고 긴장만 이어지는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "07",
+    "code": "07.007.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "늦게 돌아올 것으로 믿었던 사람이 예상보다 일찍 귀가해 감추던 행동을 목격하는 사건이다. 부재의 시간에 대한 오판이 비밀의 노출로 이어진다.\n\n처음부터 집에 있던 사람에게 들킨 경우와 다르다. 긴장만 있고 발각되지 않는 장면도 아니며 조기 귀가가 실제 발견의 원인이어야 한다.\n\n[[Fried Green Tomatoes at the Whistle Stop Cafe]]의 프랭크는 학교를 일찍 마치고 집에 온다. 어머니와 삼촌의 밀회를 목격하면서 예상 밖의 귀가가 비밀을 드러낸다.",
+    "sections": [
+      [
+        "상세 설명",
+        "늦게 돌아올 것으로 믿었던 사람이 예상보다 일찍 귀가해 감추던 행동을 목격하는 사건이다. 부재의 시간에 대한 오판이 비밀의 노출로 이어진다.\n\n처음부터 집에 있던 사람에게 들킨 경우와 다르다. 긴장만 있고 발각되지 않는 장면도 아니며 조기 귀가가 실제 발견의 원인이어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Fried Green Tomatoes at the Whistle Stop Cafe]]의 프랭크는 학교를 일찍 마치고 집에 온다. 어머니와 삼촌의 밀회를 목격하면서 예상 밖의 귀가가 비밀을 드러낸다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

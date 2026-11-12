@@ -4,8 +4,8 @@
   "title": "태어날 때부터 준비됐다는 자신감",
   "original": "I Was Born Ready",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01989",
+  "primary_tag_id": "ML-T01989",
   "description": {
     "definition": "위험한 일을 앞두고 준비됐느냐는 질문에 태어날 때부터 준비됐다는 식으로 과장된 자신감을 답하는 대사다.",
     "detail": "작품 사례: 《[[쿵푸팬더]]》에서 포는 바이퍼에게 태어날 때부터 준비됐다고 답하지만, 곧바로 뒤집혀 훈련 대결에서 진다.",
@@ -13,10 +13,10 @@
     "boundary": "실제로 오랫동안 준비했는지를 증명하는 말이 아니라 각오를 표현하는 상투적 과장이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.008.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-001656",
+      "work_card_id": "MM-MEDIA-002555",
       "description_ko": "《쿵푸팬더》에서 포는 바이퍼에게 태어날 때부터 준비됐다고 답하지만, 곧바로 뒤집혀 훈련 대결에서 진다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "위험한 일을 앞두고 준비되었는지 묻자 태어날 때부터 준비됐다는 식으로 답하는 대사다. 실제 준비 기간보다 흔들리지 않는 자신감을 강조한다.\n\n긴장된 동료를 안심시키거나 자신이 물러서지 않겠다는 태도를 보여 줄 수 있다. 과장이 명백할수록 호쾌한 농담이 되며, 만들어진 목적이 분명한 인공 존재라면 문구가 문자 그대로의 의미와 겹칠 수도 있다.\n\n그 말이 능력과 성공을 보증하지는 않는다. 뒤이은 행동이 자신감을 뒷받침할 수도 있고 무너뜨릴 수도 있으며, 준비를 확인하는 평범한 질문을 인물성의 표현으로 바꾸는 데 기능이 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "위험한 일을 앞두고 준비되었는지 묻자 태어날 때부터 준비됐다는 식으로 답하는 대사다. 실제 준비 기간보다 흔들리지 않는 자신감을 강조한다.\n\n긴장된 동료를 안심시키거나 자신이 물러서지 않겠다는 태도를 보여 줄 수 있다. 과장이 명백할수록 호쾌한 농담이 되며, 만들어진 목적이 분명한 인공 존재라면 문구가 문자 그대로의 의미와 겹칠 수도 있다.\n\n그 말이 능력과 성공을 보증하지는 않는다. 뒤이은 행동이 자신감을 뒷받침할 수도 있고 무너뜨릴 수도 있으며, 준비를 확인하는 평범한 질문을 인물성의 표현으로 바꾸는 데 기능이 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

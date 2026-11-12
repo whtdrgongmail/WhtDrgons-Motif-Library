@@ -4,8 +4,8 @@
   "title": "상사에게 유독 미움받는 직원",
   "original": "Boss's Unfavorite Employee",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00916",
+  "primary_tag_id": "ML-T00916",
   "description": {
     "definition": "상사가 한 직원의 사소한 행동까지 문제 삼으며 기회를 주지 않는다. 이유가 개인적 감정인지 조직의 규칙인지에 따라 갈등이 달라진다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상사가 다른 직원에게는 정상적으로 대하면서 특정 직원만 유독 싫어하는 관계다. 회의에서 질책하거나 해고를 위협하고, 꺼리는 업무를 몰아주는 식으로 차별이 드러난다. 업무 능력이 뛰어나도 표적이 될 수 있다.\n\n희극에서는 다른 사람에게 보이는 친절과 표적에게 보이는 적대의 차이가 반복 농담이 된다. 진지한 작품에서는 직장 내 괴롭힘과 권력 남용을 다루며, 동료들까지 가담하면 조직적 고립으로 확대된다.\n\n직원의 무능이나 문제 행동이 갈등의 이유로 제시되는 변형도 있다. 그러나 모든 직원에게 가혹한 상사와는 다르며, 특정 인물이 상대적으로 불리한 대우를 받는 관계가 핵심이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상사가 다른 직원에게는 정상적으로 대하면서 특정 직원만 유독 싫어하는 관계다. 회의에서 질책하거나 해고를 위협하고, 꺼리는 업무를 몰아주는 식으로 차별이 드러난다. 업무 능력이 뛰어나도 표적이 될 수 있다.\n\n희극에서는 다른 사람에게 보이는 친절과 표적에게 보이는 적대의 차이가 반복 농담이 된다. 진지한 작품에서는 직장 내 괴롭힘과 권력 남용을 다루며, 동료들까지 가담하면 조직적 고립으로 확대된다.\n\n직원의 무능이나 문제 행동이 갈등의 이유로 제시되는 변형도 있다. 그러나 모든 직원에게 가혹한 상사와는 다르며, 특정 인물이 상대적으로 불리한 대우를 받는 관계가 핵심이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

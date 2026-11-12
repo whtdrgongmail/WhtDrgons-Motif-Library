@@ -4,8 +4,8 @@
   "title": "타인의 손발이 되어 주는 조력",
   "original": "Handy Helper",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01016",
+  "primary_tag_id": "ML-T01016",
   "description": {
     "definition": "다른 [[인물]]이 하기 어려운 [[신체]] 동작을 대신 수행하여 일상생활과 [[의사]] 표현을 돕는 지속적 [[관계]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "막연한 보호자 역할보다 특정 기능을 실제 [[행동]]으로 보조하는 점이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "옷 입기나 쓰기를 대신하며 상대가 원하는 일을 할 수 있게 돕는다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 인물이 수행하기 어려운 구체적인 동작을 다른 인물이 반복해서 보완한다. 도움은 막연한 격려에 머무르지 않고 식사나 옷 입기, 쓰기처럼 생활을 이루는 행동에 직접 참여하는 형태다.\n\n관계가 오래되면 무엇이 필요한지 말하기 전에 반응할 만큼 서로의 습관을 알게 될 수 있다. 이 익숙함은 돌봄의 지속성과 애정을 보여 주며, 서로 다른 어려움을 가진 두 사람이 각자의 가능한 행동으로 상대를 돕는 변형도 있다.\n\n보호한다는 명목으로 의사를 대신 결정하는 역할과는 구분된다. 중요한 것은 필요한 기능을 보조하는 실제 행동이며, 인물 관계의 친밀함과 도움받는 사람의 의사 표현을 함께 고려해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 인물이 수행하기 어려운 구체적인 동작을 다른 인물이 반복해서 보완한다. 도움은 막연한 격려에 머무르지 않고 식사나 옷 입기, 쓰기처럼 생활을 이루는 행동에 직접 참여하는 형태다.\n\n관계가 오래되면 무엇이 필요한지 말하기 전에 반응할 만큼 서로의 습관을 알게 될 수 있다. 이 익숙함은 돌봄의 지속성과 애정을 보여 주며, 서로 다른 어려움을 가진 두 사람이 각자의 가능한 행동으로 상대를 돕는 변형도 있다.\n\n보호한다는 명목으로 의사를 대신 결정하는 역할과는 구분된다. 중요한 것은 필요한 기능을 보조하는 실제 행동이며, 인물 관계의 친밀함과 도움받는 사람의 의사 표현을 함께 고려해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

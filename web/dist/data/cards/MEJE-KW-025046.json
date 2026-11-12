@@ -4,8 +4,8 @@
   "title": "비슷한 물건들 사이에 표적 숨기기",
   "original": "NeedleInAStackOfNeedles",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T00789",
+  "primary_tag_id": "ML-T00789",
   "description": {
     "definition": "찾는 대상과 매우 비슷한 물건을 많이 모아 놓아 그중 특정한 하나를 구별하기 어렵게 만드는 은닉 방식이다.",
     "detail": "작품 사례: 《[[젤다의 전설 티어스 오브 더 킹덤]]》의 보물 동굴에는 상자가 너무 많아 형제들이 진짜 보물 상자를 찾지 못한다. 야영지의 개를 돌보면 그 개가 올바른 상자로 안내한다.",
@@ -13,10 +13,10 @@
     "boundary": "물건을 완전히 보이지 않게 가리는 방식과 달리 눈앞에 있어도 식별하기 어려운 것이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "07",
+    "code": "07.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "비슷한 물건을 많이 모아 특정한 하나의 식별을 어렵게 한다. 숨긴 대상은 보이지만 주변과 구별되지 않는다.\n\n탐색자는 위치보다 차이를 찾는 정보를 필요로 한다. 실제 모습을 가리거나 다른 물건으로 위장한 방식과는 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "비슷한 물건을 많이 모아 특정한 하나의 식별을 어렵게 한다. 숨긴 대상은 보이지만 주변과 구별되지 않는다.\n\n탐색자는 위치보다 차이를 찾는 정보를 필요로 한다. 실제 모습을 가리거나 다른 물건으로 위장한 방식과는 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "목마른 사막",
   "original": "Thirsty Desert",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01277",
+  "primary_tag_id": "ML-T01277",
   "description": {
     "definition": "극심한 더위와 건조함 때문에 갈증과 물 부족이 주요 장애가 되는 사막 배경이다.",
     "detail": "작품 사례: [[Xuthal of the Dusk]]에서 Conan과 Natala는 물이 귀한 사막에 길을 잃어 쇠약해졌다가, Xuthal의 금빛 포도주를 마시고 회복한다.",
@@ -13,10 +13,10 @@
     "boundary": "사막이라는 장소만 등장하고 갈증이 작동하지 않는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "물이 부족하면 이동 거리와 휴식, 다음 목적지의 선택이 제한된다. 사막의 지형 자체보다 갈증이 행동 능력을 떨어뜨리고 물의 발견을 중요한 사건으로 만드는 인과 관계가 배경의 기능을 결정한다.\n\n모래나 더운 풍경만 제시되었다고 이 유형이 성립하지는 않는다. 인물에게 수분 부족이 장애로 작용해야 하며, 작품에 등장하는 회복 수단의 효능을 현실의 생존 지식으로 일반화하지 않는다.\n\n[[Xuthal of the Dusk]]에서 Conan과 Natala는 물이 귀한 사막에 길을 잃어 쇠약해졌다가, Xuthal의 금빛 포도주를 마시고 회복한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "물이 부족하면 이동 거리와 휴식, 다음 목적지의 선택이 제한된다. 사막의 지형 자체보다 갈증이 행동 능력을 떨어뜨리고 물의 발견을 중요한 사건으로 만드는 인과 관계가 배경의 기능을 결정한다.\n\n모래나 더운 풍경만 제시되었다고 이 유형이 성립하지는 않는다. 인물에게 수분 부족이 장애로 작용해야 하며, 작품에 등장하는 회복 수단의 효능을 현실의 생존 지식으로 일반화하지 않는다."
+      ],
+      [
+        "관련 작품",
+        "[[Xuthal of the Dusk]]에서 Conan과 Natala는 물이 귀한 사막에 길을 잃어 쇠약해졌다가, Xuthal의 금빛 포도주를 마시고 회복한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

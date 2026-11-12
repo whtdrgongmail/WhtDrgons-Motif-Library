@@ -4,8 +4,8 @@
   "title": "강을 따라가다 마주치는 폭포 위기",
   "original": "Inevitable Waterfall",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00614",
+  "primary_tag_id": "ML-T00614",
   "description": {
     "definition": "뗏목·수영·표류 등으로 강을 내려가던 인물이 폭포에 이르러 추락하거나 직전에 탈출하는 사건 구성이다.",
     "detail": "작품 사례: 《[[아바타: 아앙의 전설]]》의 「The Waterbending Scroll」에서 아앙과 카타라는 폭포 위에서 배를 멈추지만 추격선이 부딪치며 떨어지고, 아파가 이들을 구한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 강 여행이 늘 이런 위험에 이른다는 주장과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "뗏목을 타거나 수영하거나 표류하며 강을 내려가던 인물이 폭포에 이르러 추락 위기에 처하는 사건 구성이다. 강을 따라 이어지던 이동이 낙하의 위험으로 바뀌며, 실제 추락이나 직전의 탈출이 사건의 결과가 된다.\n\n폭포가 배경에 보이기만 하는 장면과는 구별된다. 강을 따라 이동하던 인물이 폭포 때문에 추락하거나 직전에 탈출하는 사건이어야 한다.\n\n[[아바타: 아앙의 전설]]의 「The Waterbending Scroll」에서 아앙과 카타라는 폭포 위에서 배를 멈춘다. 하지만 추격선이 부딪치면서 폭포 아래로 떨어지고, 아파가 이들을 구한다. 멈추는 데 성공한 뒤에도 충돌 때문에 추락이 발생하는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "뗏목을 타거나 수영하거나 표류하며 강을 내려가던 인물이 폭포에 이르러 추락 위기에 처하는 사건 구성이다. 강을 따라 이어지던 이동이 낙하의 위험으로 바뀌며, 실제 추락이나 직전의 탈출이 사건의 결과가 된다.\n\n폭포가 배경에 보이기만 하는 장면과는 구별된다. 강을 따라 이동하던 인물이 폭포 때문에 추락하거나 직전에 탈출하는 사건이어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[아바타: 아앙의 전설]]의 「The Waterbending Scroll」에서 아앙과 카타라는 폭포 위에서 배를 멈춘다. 하지만 추격선이 부딪치면서 폭포 아래로 떨어지고, 아파가 이들을 구한다. 멈추는 데 성공한 뒤에도 충돌 때문에 추락이 발생하는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

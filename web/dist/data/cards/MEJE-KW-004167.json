@@ -4,8 +4,8 @@
   "title": "서로 받아 부르는 노래",
   "original": "Call-and-Response Song",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02052",
+  "primary_tag_id": "ML-T02052",
   "description": {
     "definition": "한 사람이 노래한 구절에 다른 사람이 응답하는 방식으로 곡을 이어 간다. 목소리의 차례가 대화나 대립의 구조를 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "한 목소리의 구절에 다른 목소리가 응답하면서 이어지는 음악 형식이다. 같은 선율을 함께 부르는 합창과 달리 차례를 나눈 소리가 질문과 대답의 관계를 만든다.\n\n주장과 반박을 주고받으면 노래 안에서도 인물의 목표와 갈등이 진행된다. 독창과 집단의 응답을 결합하면 한 인물의 말이 공동체에 받아들여지는 과정과 참여의 에너지를 표현할 수 있다.\n\n단순히 각자 다른 절을 부른 모든 곡과는 다르다. 실제 구절의 대응과 발화자를 확인하며, 일부 대목의 형식과 곡 전체의 장르를 같은 의미로 취급하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "한 목소리의 구절에 다른 목소리가 응답하면서 이어지는 음악 형식이다. 같은 선율을 함께 부르는 합창과 달리 차례를 나눈 소리가 질문과 대답의 관계를 만든다.\n\n주장과 반박을 주고받으면 노래 안에서도 인물의 목표와 갈등이 진행된다. 독창과 집단의 응답을 결합하면 한 인물의 말이 공동체에 받아들여지는 과정과 참여의 에너지를 표현할 수 있다.\n\n단순히 각자 다른 절을 부른 모든 곡과는 다르다. 실제 구절의 대응과 발화자를 확인하며, 일부 대목의 형식과 곡 전체의 장르를 같은 의미로 취급하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

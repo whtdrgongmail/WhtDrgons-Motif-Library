@@ -4,8 +4,8 @@
   "title": "등에 짊어지는 대포",
   "original": "Backpack Cannon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "큰 화기를 등에 고정해 이동과 공격을 한 장비로 처리한다. 인물의 [[실루엣]]을 키우는 대신 무게와 조준의 제약도 생긴다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "등에 고정한 큰 화기가 인물의 몸과 함께 움직인다. 무기를 손에 따로 들지 않는 디자인은 양손의 동작을 자유롭게 보이게 하면서 몸 전체의 윤곽을 크게 바꾼다.\n\n사람뿐 아니라 네 발로 움직이는 존재나 로봇에도 배치할 수 있다. 몸의 방향과 무기의 방향이 연결되면 조준의 제약이 표현될 수 있지만, 작품이 작동을 단순화하면 외형적인 위압감과 이동성이 우선된다.\n\n탄약만 등에 메고 손의 총에 공급하는 장비와는 다르다. 발사 장치 자체가 등에 있어야 하며, [[회전 총열의 압도적 화력]]처럼 다른 무기 표현과 결합하더라도 장착 위치와 발사 방식은 구분해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "등에 고정한 큰 화기가 인물의 몸과 함께 움직인다. 무기를 손에 따로 들지 않는 디자인은 양손의 동작을 자유롭게 보이게 하면서 몸 전체의 윤곽을 크게 바꾼다.\n\n사람뿐 아니라 네 발로 움직이는 존재나 로봇에도 배치할 수 있다. 몸의 방향과 무기의 방향이 연결되면 조준의 제약이 표현될 수 있지만, 작품이 작동을 단순화하면 외형적인 위압감과 이동성이 우선된다.\n\n탄약만 등에 메고 손의 총에 공급하는 장비와는 다르다. 발사 장치 자체가 등에 있어야 하며, [[회전 총열의 압도적 화력]]처럼 다른 무기 표현과 결합하더라도 장착 위치와 발사 방식은 구분해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

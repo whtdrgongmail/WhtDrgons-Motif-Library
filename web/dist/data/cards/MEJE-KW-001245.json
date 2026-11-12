@@ -4,8 +4,8 @@
   "title": "서사 전체를 빌린 비유",
   "original": "Allegory",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "MEJE-KW-001245",
+  "primary_tag_id": "MEJE-KW-001245",
   "description": {
     "definition": "인물과 사건의 관계를 다른 사회적·철학적 문제에 대응시켜 이야기 전체로 뜻을 전하는 구성. 개별 상징 하나보다 여러 요소의 관계가 이어져 비유를 이룬다. [[개념을 대신 말하는 인물]]은 그중 인물 한 명에 초점을 둔다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "05",
-    "review_status": "provisional",
+    "code": "05.002.008",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이야기의 인물과 사건 관계를 다른 사회적 또는 철학적 문제에 대응시켜 뜻을 전한다. 하나의 상징을 넘어 여러 요소 사이의 연결이 비유를 구성한다.\n\n개별 장면의 뜻은 전체의 대응 관계 안에서 이어진다. 무엇이 무엇을 가리키는지뿐 아니라 사건들의 관계가 어떤 문제를 설명하는지도 중요하다.\n\n개념을 대표하는 인물 한 명에만 초점을 두는 방식과 구별한다. 서사 전체가 관계의 연결을 통해 비유를 형성해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이야기의 인물과 사건 관계를 다른 사회적 또는 철학적 문제에 대응시켜 뜻을 전한다. 하나의 상징을 넘어 여러 요소 사이의 연결이 비유를 구성한다.\n\n개별 장면의 뜻은 전체의 대응 관계 안에서 이어진다. 무엇이 무엇을 가리키는지뿐 아니라 사건들의 관계가 어떤 문제를 설명하는지도 중요하다.\n\n개념을 대표하는 인물 한 명에만 초점을 두는 방식과 구별한다. 서사 전체가 관계의 연결을 통해 비유를 형성해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

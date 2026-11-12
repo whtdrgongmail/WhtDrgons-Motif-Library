@@ -6,8 +6,8 @@
   "aliases": [
     "악한소설"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-031363",
+  "primary_tag_id": "MEJE-KW-031363",
   "description": {
     "definition": "낮은 사회적 위치의 영리한 주인공이 부패한 사회를 떠돌며 겪는 삽화적 모험을 통해 세태를 비추는 서사 형식이다.",
     "detail": "",
@@ -16,24 +16,27 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-08",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.102.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
     "easy_ko": "한 가지 큰 사명을 완수하기보다 살아남을 꾀를 내며 여러 사람과 사건을 차례로 만나는 이야기다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,9 +44,15 @@
   "references": [],
   "longform_article": {
     "text": "주인공의 이동은 사회의 여러 층위를 연결한다. 각 에피소드에서 생계와 욕망을 따라 벌인 일이 새로운 만남과 곤경으로 이어지고, 그 과정에서 주변의 위선과 부패가 드러난다. 주인공 역시 흠 없는 도덕적 기준점이라기보다 재치와 임기응변으로 버티는 인물인 경우가 많다.\n\n하나의 대의를 향한 직선적인 모험보다 느슨하게 이어지는 사건과 반복적으로 드나드는 인물들이 특징이다. 회고적인 일인칭 서술은 자기변명과 풍자의 간극을 만들 수 있지만 필수 형식은 아니다. 악역이 주인공이라는 이유만으로 분류하기보다는 사회적 위치, 생존 방식, 삽화적 구조가 함께 작동하는지 살펴야 한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "주인공의 이동은 사회의 여러 층위를 연결한다. 각 에피소드에서 생계와 욕망을 따라 벌인 일이 새로운 만남과 곤경으로 이어지고, 그 과정에서 주변의 위선과 부패가 드러난다. 주인공 역시 흠 없는 도덕적 기준점이라기보다 재치와 임기응변으로 버티는 인물인 경우가 많다.\n\n하나의 대의를 향한 직선적인 모험보다 느슨하게 이어지는 사건과 반복적으로 드나드는 인물들이 특징이다. 회고적인 일인칭 서술은 자기변명과 풍자의 간극을 만들 수 있지만 필수 형식은 아니다. 악역이 주인공이라는 이유만으로 분류하기보다는 사회적 위치, 생존 방식, 삽화적 구조가 함께 작동하는지 살펴야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

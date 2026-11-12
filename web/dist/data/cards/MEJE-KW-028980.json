@@ -4,8 +4,8 @@
   "title": "원본과 성별이 다른 복제체",
   "original": "Opposite-Sex Clone",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F12",
+  "tag_id": "MM-UNSET-000717",
+  "primary_tag_id": "MM-UNSET-000717",
   "description": {
     "definition": "원본 생명체를 복제하면서 성별을 다르게 만든 존재의 설정이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "별개의 평행 세계 인물이나 원본 자신의 변신과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "12",
-    "review_status": "provisional",
+    "code": "12.006.008",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "복제체가 원본과 닮은 정체성을 가지면서 성별에서는 차이를 보인다. 작품은 같은 인물의 다른 모습이라는 유사성과 서로 다른 사회적 경험이라는 차이를 함께 다룰 수 있다.\n\n원본과 복제체의 관계는 가족이나 동료, 경쟁자 등으로 구성될 수 있다. 성별 변화가 제작자의 목적에 포함되었는지와 복제체가 이를 어떻게 받아들이는지가 개별 서사의 조건이 된다.\n\n외형만 바꾼 변신이나 평행세계의 다른 버전과는 생성 과정이 다르다. [[원본보다 개조된 복제 생명체]]의 구체적인 변형으로 볼 수 있으나 능력 향상까지 필수로 요구하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "복제체가 원본과 닮은 정체성을 가지면서 성별에서는 차이를 보인다. 작품은 같은 인물의 다른 모습이라는 유사성과 서로 다른 사회적 경험이라는 차이를 함께 다룰 수 있다.\n\n원본과 복제체의 관계는 가족이나 동료, 경쟁자 등으로 구성될 수 있다. 성별 변화가 제작자의 목적에 포함되었는지와 복제체가 이를 어떻게 받아들이는지가 개별 서사의 조건이 된다.\n\n외형만 바꾼 변신이나 평행세계의 다른 버전과는 생성 과정이 다르다. [[원본보다 개조된 복제 생명체]]의 구체적인 변형으로 볼 수 있으나 능력 향상까지 필수로 요구하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

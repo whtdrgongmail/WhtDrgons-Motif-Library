@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F09",
   "description": {
-    "definition": "",
+    "definition": "여러 사람이 하나의 이름·가면·역할을 이어 쓰거나 함께 사용해 형성하는 공통의 인물상이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "09",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "여러 사람이 같은 이름과 모습으로 하나의 인물처럼 활동하는 방식이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "실제 담당자가 바뀌거나 여러 사람이 번갈아 활동하더라도 같은 이름과 상징이 유지되면 대중은 하나의 인물상으로 받아들일 수 있다. 이때 개인의 신원과 외부에 알려진 역할이 분리된다.\n\n얼굴이 알려지지 않은 인물은 복장이나 이름이 신원을 판단하는 주된 단서가 될 수 있다. 여러 사람이 그 표지를 함께 쓰는 설정에서는 누가 실제로 행동했는지와 대중이 누구의 행동으로 기억하는지가 달라질 수 있다.\n\n공식적인 계승이나 합의된 공동 역할과 동의 없는 사칭은 구별한다. 누군가가 몰래 기존 인물을 대신했다는 사실만으로 공동 정체성이 합의되어 있다고 볼 수 없다. 같은 이름이 쓰였는지뿐 아니라 그 역할을 공유하는 방식도 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "실제 담당자가 바뀌거나 여러 사람이 번갈아 활동하더라도 같은 이름과 상징이 유지되면 대중은 하나의 인물상으로 받아들일 수 있다. 이때 개인의 신원과 외부에 알려진 역할이 분리된다.\n\n얼굴이 알려지지 않은 인물은 복장이나 이름이 신원을 판단하는 주된 단서가 될 수 있다. 여러 사람이 그 표지를 함께 쓰는 설정에서는 누가 실제로 행동했는지와 대중이 누구의 행동으로 기억하는지가 달라질 수 있다.\n\n공식적인 계승이나 합의된 공동 역할과 동의 없는 사칭은 구별한다. 누군가가 몰래 기존 인물을 대신했다는 사실만으로 공동 정체성이 합의되어 있다고 볼 수 없다. 같은 이름이 쓰였는지뿐 아니라 그 역할을 공유하는 방식도 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

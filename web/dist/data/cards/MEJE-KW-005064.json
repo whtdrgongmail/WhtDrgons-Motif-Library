@@ -4,8 +4,8 @@
   "title": "절도 순간 나타나는 경비",
   "original": "Clairvoyant Security Force",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02530",
+  "primary_tag_id": "ML-T02530",
   "description": {
     "definition": "게임에서 평소 비어 보이던 장소도 [[플레이어]]가 물건을 집는 순간 경비가 나타난다. 플레이어의 행동에만 반응하는 세계의 규칙이 소유권을 지킨다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "목격자도 감시 장치도 보이지 않던 가게에서 [[플레이어]]가 남의 물건을 가져가자 즉시 경비가 출현하는 게임 규칙이다. 절도에 대가를 부과하려는 기능은 분명하지만 발견의 근거가 없으면 경비가 모든 행동을 초자연적으로 안다는 인상을 준다.",
     "review_status": "reviewed",
@@ -30,5 +38,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "평소 비어 있고 감시받지 않는 듯한 장소에 있다가 플레이어가 절도 등 금지 행동을 하는 순간 경비가 나타나는 게임 규칙이다. 경비의 정보 획득 과정이 보이지 않아, 세계가 행동을 즉시 알아차리는 것처럼 느껴진다.\n\n이 방식은 범죄의 대가를 확실하게 부과하고 특정 행동을 막는 간단한 설계가 된다. 그러나 발견될 가능성을 공간과 시야로 판단하던 플레이어에게는 숨겨진 규칙으로 보일 수 있어, 탐색과 실험의 기대가 깨질 수도 있다.\n\n실제 감시 장치나 목격자가 설명되어 있다면 같은 인상을 덜 준다. 핵심은 반응이 발생하는 조건과 경비가 알 수 있는 정보 사이의 간극이다. 다른 매체의 우연히 제때 도착한 경비와 닮았지만 반복 가능한 게임의 발동 조건이 있다는 점에서 구별할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "평소 비어 있고 감시받지 않는 듯한 장소에 있다가 플레이어가 절도 등 금지 행동을 하는 순간 경비가 나타나는 게임 규칙이다. 경비의 정보 획득 과정이 보이지 않아, 세계가 행동을 즉시 알아차리는 것처럼 느껴진다.\n\n이 방식은 범죄의 대가를 확실하게 부과하고 특정 행동을 막는 간단한 설계가 된다. 그러나 발견될 가능성을 공간과 시야로 판단하던 플레이어에게는 숨겨진 규칙으로 보일 수 있어, 탐색과 실험의 기대가 깨질 수도 있다.\n\n실제 감시 장치나 목격자가 설명되어 있다면 같은 인상을 덜 준다. 핵심은 반응이 발생하는 조건과 경비가 알 수 있는 정보 사이의 간극이다. 다른 매체의 우연히 제때 도착한 경비와 닮았지만 반복 가능한 게임의 발동 조건이 있다는 점에서 구별할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "의뢰인에게 반한 전문가",
   "original": "Horny Scientist",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00935",
+  "primary_tag_id": "ML-T00935",
   "description": {
     "definition": "전문 지식을 구하러 온 인물에게 서툴지만 뚜렷한 호감을 보이는 과학자·기술자 등 전문가 유형이다.",
     "detail": "작품 사례: 《[[나루토]]》에서 암호 해독 전문가 시호는 시카마루에게 곧바로 호감을 보인다. 전문 업무와 수줍은 개인적 관심이 겹치는 사례이다.",
@@ -13,10 +13,10 @@
     "boundary": "호감이 실제 연애로 이어질 필요는 없으며 공격적인 성희롱이나 광기 자체를 필수 조건으로 삼지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.006.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,33 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001303",
+      "work_card_id": "MM-MEDIA-002184",
       "description_ko": "《나루토》에서 암호 해독 전문가 시호는 시카마루에게 곧바로 호감을 보인다. 전문 업무와 수줍은 개인적 관심이 겹치는 사례이다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "전문가는 업무를 요청한 사람에게 지식을 제공하면서 개인적인 호감도 보인다. 능숙한 전문 활동과 서툰 감정 표현이 한 만남에 겹친다.\n\n상대가 정보를 얻으려는 목적과 전문가의 관심이 다르면 짧은 관계 장면을 만들 수 있다. 수줍음은 전문성의 부족과 같은 의미가 아니다.\n\n호감이 반드시 교제로 발전할 필요는 없다. 공격적인 행동이나 광기를 필수 조건으로 삼지 않고 뚜렷한 관심이 있는지를 확인한다.\n\n[[나루토]]의 암호 해독 전문가 시호는 시카마루에게 곧바로 호감을 보인다.\n\n[[나루토]]",
+    "sections": [
+      [
+        "상세 설명",
+        "전문가는 업무를 요청한 사람에게 지식을 제공하면서 개인적인 호감도 보인다. 능숙한 전문 활동과 서툰 감정 표현이 한 만남에 겹친다.\n\n상대가 정보를 얻으려는 목적과 전문가의 관심이 다르면 짧은 관계 장면을 만들 수 있다. 수줍음은 전문성의 부족과 같은 의미가 아니다.\n\n호감이 반드시 교제로 발전할 필요는 없다. 공격적인 행동이나 광기를 필수 조건으로 삼지 않고 뚜렷한 관심이 있는지를 확인한다."
+      ],
+      [
+        "사례",
+        "[[나루토]]의 암호 해독 전문가 시호는 시카마루에게 곧바로 호감을 보인다."
+      ],
+      [
+        "관련 작품",
+        "[[나루토]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

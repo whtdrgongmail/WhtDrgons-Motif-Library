@@ -2,24 +2,65 @@
   "id": "MM-MEDIA-003560",
   "kind": "work",
   "title": "레 미제라블(뮤지컬)",
-  "original": "",
+  "original": "Les Misérables",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00154",
+  "primary_tag_id": "ML-T00154",
   "description": {
-    "definition": "",
+    "definition": "《레 미제라블(뮤지컬)》은 빅토르 위고의 동명 소설을 무대로 옮긴 뮤지컬이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.015.002",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "장발장과 여러 인물의 삶을 노래와 연기로 보여 주는 무대 작품이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000161",
+      "card_id": "MM-MEDIA-003560",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://us-tour.lesmis.com/about-the-show/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "공식 공연 소개는 알랭 부블릴과 클로드미셸 쇤베르크가 만든 뮤지컬을 19세기 프랑스를 배경으로 한 이야기로 제시한다. 장 발장은 법의 추적을 받으면서도 삶을 바꾸고, 코제트와 마리우스의 행복을 위해 자신에게 중요한 것을 희생한다. 자베르를 통해 드러나는 법적 정의와 발장의 [[도덕적 선택]]의 충돌이 이야기의 한 축이다.\n\n〈I Dreamed a Dream〉, 〈On My Own〉, 〈Bring Him Home〉, 〈One Day More〉 등 공식 소개가 열거한 곡들은 인물별 감정과 목표를 무대 위에서 들려준다. 카드의 범위는 위고의 원작 소설 자체가 아니라 그것을 각색한 무대 뮤지컬이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "공식 공연 소개는 알랭 부블릴과 클로드미셸 쇤베르크가 만든 뮤지컬을 19세기 프랑스를 배경으로 한 이야기로 제시한다. 장 발장은 법의 추적을 받으면서도 삶을 바꾸고, 코제트와 마리우스의 행복을 위해 자신에게 중요한 것을 희생한다. 자베르를 통해 드러나는 법적 정의와 발장의 [[도덕적 선택]]의 충돌이 이야기의 한 축이다.\n\n〈I Dreamed a Dream〉, 〈On My Own〉, 〈Bring Him Home〉, 〈One Day More〉 등 공식 소개가 열거한 곡들은 인물별 감정과 목표를 무대 위에서 들려준다. 카드의 범위는 위고의 원작 소설 자체가 아니라 그것을 각색한 무대 뮤지컬이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

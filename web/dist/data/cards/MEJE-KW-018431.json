@@ -4,8 +4,8 @@
   "title": "집단에서 자녀 역할을 맡는 구성원",
   "original": "Team Kids",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01039",
+  "primary_tag_id": "ML-T01039",
   "description": {
     "definition": "팀 안에서 다른 구성원에게 부모 같은 돌봄을 받는 상대적으로 어린 구성원 또는 그 역할이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "나이만 어린 사람보다 집단 내 돌봄 관계가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.009.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "팀 안에서 다른 구성원에게 부모 같은 돌봄을 받는 자녀 역할의 인물이다. 실제 아동이 아니어도 경험과 정서적 위치가 상대적으로 어리면 이 관계가 성립할 수 있다.\n\n조언과 보호를 받는 대신 인정과 애정을 구하며 [[선택한 가족]]의 결속을 만든다. 여러 자녀 역할이 있으면 형제 같은 경쟁과 보살핌이 생기고, 부모 역할의 부재는 임시 보호자에게 부담을 준다.\n\n단순히 나이가 가장 적다는 사실과는 다르다. 팀 안의 일상과 결정에서 누가 돌보고 누가 기대는지가 반복적으로 드러나야 하며, 성장 후에도 관계의 정서적 틀은 남을 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "팀 안에서 다른 구성원에게 부모 같은 돌봄을 받는 자녀 역할의 인물이다. 실제 아동이 아니어도 경험과 정서적 위치가 상대적으로 어리면 이 관계가 성립할 수 있다.\n\n조언과 보호를 받는 대신 인정과 애정을 구하며 [[선택한 가족]]의 결속을 만든다. 여러 자녀 역할이 있으면 형제 같은 경쟁과 보살핌이 생기고, 부모 역할의 부재는 임시 보호자에게 부담을 준다.\n\n단순히 나이가 가장 적다는 사실과는 다르다. 팀 안의 일상과 결정에서 누가 돌보고 누가 기대는지가 반복적으로 드러나야 하며, 성장 후에도 관계의 정서적 틀은 남을 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "동화",
   "original": "Fairy Tale",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00226",
+  "primary_tag_id": "ML-T00226",
   "description": {
     "definition": "마법적 사건과 낯선 존재가 등장하며 민간에서 전해진 이야기 형식을 바탕으로 한 환상 설화 갈래다. [[동화를 재연하는 특별 회차]]은 기존 작품의 한 회차 안에서 동화의 인물과 사건을 다시 불러온다. [[여러 동화가 뒤섞인 이야기]]은 서로 다른 동화 여러 편을 하나의 이야기 안에서 만나게 한다. [[동화 인물을 빌린 상징]]은 동화의 줄거리 전체 대신 익숙한 인물과 사물을 상징으로 차용한다.",
     "detail": "",
@@ -13,17 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 4,
+  "updated_at": "2026-11-10",
+  "row_version": 5,
   "classification": {
-    "code": "03",
+    "code": "03.103.011",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "민간 이야기의 형식을 바탕으로 신비한 존재와 사건을 다룬다. 환상 설화의 전승과 창작을 잇는 이야기 갈래다. 갈래 이름에 요정이 들어가도 실제로 요정이 등장해야만 하는 것은 아니다.\n\n익숙한 인물과 사물은 짧은 설명으로 기대와 정서를 형성할 수 있다. 새 작품은 그 줄거리를 따르거나 여러 요소를 조합해 다른 해석을 만든다. 마법적인 장소와 사건이 익숙한 인물의 선택과 시험을 구성한다. 작품은 전승의 구조를 유지할 수도 있고 배경과 결말을 고쳐 새로운 시대의 질문을 넣을 수도 있다.\n\n동화 전체를 재연한 회차와 일부 상징만 빌린 사용은 다르다. 여러 동화의 인물과 세계를 만나게 하는 방식은 동화 갈래 안에서도 별도의 이야기 구성이 된다. [[동화를 재연하는 특별 회차]], [[여러 동화가 뒤섞인 이야기]], [[동화 인물을 빌린 상징]]은 각각 재연과 결합, 부분 차용이라는 다른 방식이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "민간 이야기의 형식을 바탕으로 신비한 존재와 사건을 다룬다. 환상 설화의 전승과 창작을 잇는 이야기 갈래다. 갈래 이름에 요정이 들어가도 실제로 요정이 등장해야만 하는 것은 아니다.\n\n익숙한 인물과 사물은 짧은 설명으로 기대와 정서를 형성할 수 있다. 새 작품은 그 줄거리를 따르거나 여러 요소를 조합해 다른 해석을 만든다. 마법적인 장소와 사건이 익숙한 인물의 선택과 시험을 구성한다. 작품은 전승의 구조를 유지할 수도 있고 배경과 결말을 고쳐 새로운 시대의 질문을 넣을 수도 있다.\n\n동화 전체를 재연한 회차와 일부 상징만 빌린 사용은 다르다. 여러 동화의 인물과 세계를 만나게 하는 방식은 동화 갈래 안에서도 별도의 이야기 구성이 된다. [[동화를 재연하는 특별 회차]], [[여러 동화가 뒤섞인 이야기]], [[동화 인물을 빌린 상징]]은 각각 재연과 결합, 부분 차용이라는 다른 방식이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

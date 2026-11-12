@@ -4,8 +4,8 @@
   "title": "두 사람의 사랑을 나타내는 음악 주제",
   "original": "Love Theme",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02018",
+  "primary_tag_id": "ML-T02018",
   "description": {
     "definition": "특정 연인이나 그들의 관계와 연결되어 사랑의 순간과 변화를 청각적으로 환기하는 음악이다.",
     "detail": "작품 사례: 《[[알라딘(1992년 애니메이션)]]》의 〈[[A Whole New World]]〉는 두 인물의 사랑과 연결되는 음악 주제의 사례로 원문에 제시된다. 관계를 곡의 기억과 함께 떠올리게 하는 방식이다.",
@@ -13,10 +13,10 @@
     "boundary": "일반적인 로맨틱 배경음악보다 특정 관계와의 연결이 중요하며 행복한 장면뿐 아니라 이별과 죽음에도 쓰일 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,10 +31,10 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-002733",
+      "work_card_id": "MM-MEDIA-002173",
       "description_ko": "《알라딘(1992년 애니메이션)》의 〈[[A Whole New World]]〉는 두 인물의 사랑과 연결되는 음악 주제의 사례로 원문에 제시된다. 관계를 곡의 기억과 함께 떠올리게 하는 방식이다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     },
     {
       "media_tag_id": "ML-T00139",
@@ -45,5 +45,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "특정 연인과 그 관계에 결부된 음악 주제다. 같은 선율이 다시 들리면 앞선 감정과 사건을 환기한다. 같은 선율이 두 사람의 만남과 이별에서 반복되면 과거의 감정이 현재 장면에 함께 환기된다.\n\n악기와 속도, 화성을 바꾸어 행복과 불안, 이별을 다르게 표현할 수 있다. 화면에 연인이 없어도 관계의 기억을 불러낼 수 있다. 정서가 낭만적이라는 이유만보다 특정 관계를 알아보게 하는 지속적인 대응이 필요하다.\n\n일반적으로 낭만적인 배경음악과는 연결 대상의 구체성이 다르다. 사랑의 주제라고 항상 밝거나 행복한 장면에만 쓰이는 것은 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 연인과 그 관계에 결부된 음악 주제다. 같은 선율이 다시 들리면 앞선 감정과 사건을 환기한다. 같은 선율이 두 사람의 만남과 이별에서 반복되면 과거의 감정이 현재 장면에 함께 환기된다.\n\n악기와 속도, 화성을 바꾸어 행복과 불안, 이별을 다르게 표현할 수 있다. 화면에 연인이 없어도 관계의 기억을 불러낼 수 있다. 정서가 낭만적이라는 이유만보다 특정 관계를 알아보게 하는 지속적인 대응이 필요하다.\n\n일반적으로 낭만적인 배경음악과는 연결 대상의 구체성이 다르다. 사랑의 주제라고 항상 밝거나 행복한 장면에만 쓰이는 것은 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

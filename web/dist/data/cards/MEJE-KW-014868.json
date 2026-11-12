@@ -4,8 +4,8 @@
   "title": "신앙 자체를 상징하는 도시",
   "original": "Holy City",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01303",
+  "primary_tag_id": "ML-T01303",
   "description": {
     "definition": "특정 종교의 역사·권위와 깊게 연결되어 도시 자체가 순례와 숭배, 특별한 수호의 대상이 되는 설정이다.",
     "detail": "작품 사례: [[Alfred J. Kwak]]에서는 서로 전쟁 중인 두 종파의 국가도 창시자의 고향 도시는 휴전 지대로 두어 양쪽 신자들이 순례하게 한다.",
@@ -13,10 +13,10 @@
     "boundary": "종교 시설이 많다는 사실이나 신정 정치의 수도라는 조건만으로 적용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "도시 전체가 종교적 기원과 헌신을 대표해 신자들의 공동 관심을 모으는 장소다. 특정 시설을 넘어 도시의 지위가 순례와 정치적 판단에 영향을 준다.\n\n종교 건물이 많거나 신정 국가의 수도라는 사실만으로 충분하지 않다. 도시가 신앙의 [[상징]]으로 기능하고 공동체의 규칙을 바꾸어야 한다.\n\n[[Alfred J. Kwak]]의 적대하는 종파 국가들은 창시자의 고향 도시를 휴전 지대로 둔다. 양쪽 신자의 순례가 허용되어 공통된 신앙의 장소가 전쟁의 예외가 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "도시 전체가 종교적 기원과 헌신을 대표해 신자들의 공동 관심을 모으는 장소다. 특정 시설을 넘어 도시의 지위가 순례와 정치적 판단에 영향을 준다.\n\n종교 건물이 많거나 신정 국가의 수도라는 사실만으로 충분하지 않다. 도시가 신앙의 [[상징]]으로 기능하고 공동체의 규칙을 바꾸어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Alfred J. Kwak]]의 적대하는 종파 국가들은 창시자의 고향 도시를 휴전 지대로 둔다. 양쪽 신자의 순례가 허용되어 공통된 신앙의 장소가 전쟁의 예외가 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

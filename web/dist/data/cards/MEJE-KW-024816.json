@@ -5,8 +5,8 @@
   "original": "Reducing or Skipping Capture Time",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T00480",
+  "primary_tag_id": "ML-T00480",
   "description": {
     "definition": "거점을 차지하는 데 걸리는 시간을 줄이거나 과정을 생략해 곧바로 점령하는 보정이다.",
     "detail": "작품 사례: 《[[젤다무쌍]]》의 거점 점령 보조 배지는 점령에 드는 시간을 줄인다.",
@@ -14,14 +14,22 @@
     "boundary": "적을 빠르게 처치하는 간접 효과보다 점령 과정 자체의 속도 변화이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
-    "row_version": 1
+    "code": "25.013.003",
+    "review_status": "reviewed",
+    "row_version": 2
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 2
+  },
   "easy_explanation": {
     "easy_ko": "오래 기다려야 할 거점을 더 빨리 자기 것으로 만든다.",
     "review_status": "reviewed",
@@ -39,5 +47,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "거점을 점령하는 데 필요한 시간을 줄이거나 과정을 생략해 즉시 확보한다. 전투의 위력보다 점령이라는 절차 자체에 보정이 붙는다.\n\n같은 거점을 차지하더라도 완료까지 걸리는 시간이 달라진다. 정본의 배지 사례처럼 특정 보조 효과가 목표 확보의 속도에 직접 관여한다.\n\n적을 빨리 쓰러뜨려 결과적으로 점령이 쉬워진 경우와 구별한다. 간접적인 전투 효과가 아니라 점령 과정의 시간 변화가 기준이다.\n\n《[[젤다무쌍]]》의 거점 점령 보조 배지는 점령에 드는 시간을 줄인다.\n\n[[젤다무쌍]]",
+    "sections": [
+      [
+        "상세 설명",
+        "거점을 점령하는 데 필요한 시간을 줄이거나 과정을 생략해 즉시 확보한다. 전투의 위력보다 점령이라는 절차 자체에 보정이 붙는다.\n\n같은 거점을 차지하더라도 완료까지 걸리는 시간이 달라진다. 정본의 배지 사례처럼 특정 보조 효과가 목표 확보의 속도에 직접 관여한다.\n\n적을 빨리 쓰러뜨려 결과적으로 점령이 쉬워진 경우와 구별한다. 간접적인 전투 효과가 아니라 점령 과정의 시간 변화가 기준이다."
+      ],
+      [
+        "사례",
+        "《[[젤다무쌍]]》의 거점 점령 보조 배지는 점령에 드는 시간을 줄인다."
+      ],
+      [
+        "관련 작품",
+        "[[젤다무쌍]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

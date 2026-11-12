@@ -4,8 +4,8 @@
   "title": "다음 판의 점수와 벌점 두 배",
   "original": "Double the Dollars",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
     "definition": "퀴즈나 경연의 후반 라운드에서 같은 규칙을 유지하되 보상과 불이익의 크기를 늘려 역전 가능성을 키우는 방식. 점수와 보상 조건이 승부의 방향을 바꾸는 다른 유형으로 [[잘하되 완벽하게는 말아야 하는 목표]]이 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-10",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.008",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "경연의 뒤 라운드에서 보상과 벌점의 규모를 함께 높이는 규칙이다. 앞선 점수 차이를 유지하면서도 역전의 가능성과 실수의 비용을 확대한다.\n\n같은 과제를 수행해도 후반의 선택이 더 큰 영향을 주므로 긴장이 상승한다. 난도까지 높아지면 참가자는 안전한 답과 큰 기회 사이에서 다른 판단을 해야 한다.\n\n보상만 증가하는 경우와는 위험 구조가 다르다. 후반 점수의 비중이 지나치면 앞 라운드의 성과가 무의미해질 수 있어 누적 경쟁과 최종 승부의 균형이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "경연의 뒤 라운드에서 보상과 벌점의 규모를 함께 높이는 규칙이다. 앞선 점수 차이를 유지하면서도 역전의 가능성과 실수의 비용을 확대한다.\n\n같은 과제를 수행해도 후반의 선택이 더 큰 영향을 주므로 긴장이 상승한다. 난도까지 높아지면 참가자는 안전한 답과 큰 기회 사이에서 다른 판단을 해야 한다.\n\n보상만 증가하는 경우와는 위험 구조가 다르다. 후반 점수의 비중이 지나치면 앞 라운드의 성과가 무의미해질 수 있어 누적 경쟁과 최종 승부의 균형이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

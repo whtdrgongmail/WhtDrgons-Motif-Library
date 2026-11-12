@@ -4,8 +4,8 @@
   "title": "대중문화의 이름을 행성에 남기기",
   "original": "Planet Shout-Out",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01993",
+  "primary_tag_id": "ML-T01993",
   "description": {
     "definition": "기존 허구 작품의 인물·장소나 창작자의 이름을 행성 이름으로 사용하여 대중문화의 참조를 만드는 방식이다.",
     "detail": "작품 사례: 《[[Captain French, or the Quest for Paradise]]》는 여러 선행 SF 작품에서 가져온 행성 이름을 사용하며 작중에서도 그 참조의 흔적을 설명한다.",
@@ -13,10 +13,10 @@
     "boundary": "그 대중문화 대상을 실제 신으로 믿는 설정과 달리 단순한 취향이나 기념만으로도 성립한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.009",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "선행 작품과 창작자의 이름을 행성에 붙인다. 우주의 장소가 대중문화의 기억과 참조를 전달한다.\n\n행성 이름을 알아보는 관객은 작품 바깥의 선행 창작과 연결한다. 작중에서도 이름의 출처를 말하면 인물의 취향과 문화 기억이 세계의 지명으로 남는다.\n\n이름의 대상을 신으로 믿어야 하는 것은 아니다. 취향과 기념만으로도 같은 작명이 성립한다.\n\n《[[Captain French, or the Quest for Paradise]]》는 여러 선행 SF 작품에서 가져온 행성 이름을 사용하며 작중에서도 그 참조의 흔적을 설명한다.\n\n[[Captain French, or the Quest for Paradise]]",
+    "sections": [
+      [
+        "상세 설명",
+        "선행 작품과 창작자의 이름을 행성에 붙인다. 우주의 장소가 대중문화의 기억과 참조를 전달한다.\n\n행성 이름을 알아보는 관객은 작품 바깥의 선행 창작과 연결한다. 작중에서도 이름의 출처를 말하면 인물의 취향과 문화 기억이 세계의 지명으로 남는다.\n\n이름의 대상을 신으로 믿어야 하는 것은 아니다. 취향과 기념만으로도 같은 작명이 성립한다."
+      ],
+      [
+        "사례",
+        "《[[Captain French, or the Quest for Paradise]]》는 여러 선행 SF 작품에서 가져온 행성 이름을 사용하며 작중에서도 그 참조의 흔적을 설명한다."
+      ],
+      [
+        "관련 작품",
+        "[[Captain French, or the Quest for Paradise]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -2,24 +2,65 @@
   "id": "MM-MEDIA-003583",
   "kind": "work",
   "title": "컬럼스",
-  "original": "",
+  "original": "Columns",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00076",
+  "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "",
+    "definition": "《컬럼스》는 내려오는 보석 조각을 배치해 같은 색을 연결하는 낙하형 퍼즐 비디오게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "02.016",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "medium_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "위에서 떨어지는 보석을 옮겨 같은 색끼리 맞추는 게임이다. 보석이 내려오는 동안 어디에 놓을지 결정해야 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000303",
+      "card_id": "MM-MEDIA-003583",
+      "label_ko": "세가 공식 매뉴얼",
+      "icon_key": "game",
+      "url": "https://manuals.sega.com/genesismini/manuals/columns/index.html",
+      "description_ko": "컬럼스의 보석 퍼즐 게임 안내",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "보석의 색과 배치가 다음 조각을 놓을 공간을 바꾼다. 따라서 개별 조각의 제거뿐 아니라 판에 남는 모양을 관리하는 판단이 진행에 영향을 준다.\n\n《[[뿌요뿌요]]》와 함께 낙하형 퍼즐로 분류할 수 있지만 조각의 형식과 제거 조건을 같은 규칙으로 취급하지 않는다. 세가가 제공하는 메가 드라이브판 공식 설명을 작품 확인 자료로 사용했다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보석의 색과 배치가 다음 조각을 놓을 공간을 바꾼다. 따라서 개별 조각의 제거뿐 아니라 판에 남는 모양을 관리하는 판단이 진행에 영향을 준다.\n\n《[[뿌요뿌요]]》와 함께 낙하형 퍼즐로 분류할 수 있지만 조각의 형식과 제거 조건을 같은 규칙으로 취급하지 않는다. 세가가 제공하는 메가 드라이브판 공식 설명을 작품 확인 자료로 사용했다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

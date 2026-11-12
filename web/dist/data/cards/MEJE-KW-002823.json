@@ -4,8 +4,8 @@
   "title": "정면 승부까지 잘하는 암살자",
   "original": "Battlemaster Assassins",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00919",
+  "primary_tag_id": "ML-T00919",
   "description": {
     "definition": "은밀하게 목표를 처리하는 역할의 인물이 공개된 전투에서도 뛰어난 능력을 보인다. 직업의 은폐성과 전투 영웅의 화려함을 한 몸에 겹친다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.005.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "은밀한 살해를 전문으로 하는 암살자가 정면전과 결투에서도 최상급 실력을 보이는 유형이다. 몰래 접근하는 능력과 공개적인 전투력이 한 인물에게 결합한다.\n\n발각 이후에도 위협을 유지하므로 암살 시도의 실패가 곧 적의 약화를 뜻하지 않는다. 주인공은 잠입을 막는 것과 직접 싸워 이기는 과제를 모두 해결해야 한다.\n\n무술을 배운 암살자라는 사실만으로 특별한 유형이 되는 것은 아니다. 은밀함을 잃어도 강한 전사를 압도한다는 대비가 강조될 때 정면전까지 숙달한 암살자의 인상이 분명해진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "은밀한 살해를 전문으로 하는 암살자가 정면전과 결투에서도 최상급 실력을 보이는 유형이다. 몰래 접근하는 능력과 공개적인 전투력이 한 인물에게 결합한다.\n\n발각 이후에도 위협을 유지하므로 암살 시도의 실패가 곧 적의 약화를 뜻하지 않는다. 주인공은 잠입을 막는 것과 직접 싸워 이기는 과제를 모두 해결해야 한다.\n\n무술을 배운 암살자라는 사실만으로 특별한 유형이 되는 것은 아니다. 은밀함을 잃어도 강한 전사를 압도한다는 대비가 강조될 때 정면전까지 숙달한 암살자의 인상이 분명해진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

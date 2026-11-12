@@ -4,28 +4,31 @@
   "title": "흑인 액션영화의 역사적 장르",
   "original": "Blaxploitation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00198",
+  "primary_tag_id": "ML-T00198",
   "description": {
-    "definition": "흑인 [[주인공]]과 도시의 권력 갈등을 전면에 세운 액션영화의 한 흐름. 그 시대의 표현과 관객층, 상업적 이용에 대한 비판을 함께 살핀다. 이 장르의 익숙한 표현을 다시 비틀면 [[흑인 액션영화 관습의 패러디]]가 된다.",
+    "definition": "흑인 [[주인공]]과 도시의 권력 갈등을 전면에 세운 액션영화의 한 흐름. 그 시대의 표현과 관객층이 특징이며 상업적 이용에 대한 비판도 관련된다. 이 장르의 익숙한 표현을 다시 비틀면 [[흑인 액션영화 관습의 패러디]]가 된다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-12",
+  "row_version": 5,
   "classification": {
-    "code": "03",
+    "code": "03.101",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "흑인 액션영화의 역사적 장르는 흑인 주인공과 도시의 갈등을 내세운 영화 흐름을 가리킵니다. 당시 관객에게 힘을 준 표현과 상업적으로 이미지를 소비한 방식이 함께 검토할 대상입니다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "흑인 주인공이 강한 행동력과 폭력적인 해결 능력으로 적과 권력에 맞서는 역사적인 영화 계열이다. 도시의 범죄와 권위, 독립적인 영웅의 이미지가 행동 중심의 오락과 결합한다.\n\n주인공은 정의로운 인물뿐 아니라 범죄 세계에서 벗어나려는 반영웅일 수도 있다. 강인함과 반항, 과시적인 말투가 매력의 근거가 되는 동시에 인종적 전형을 반복한다는 비판의 대상이 된다.\n\n흑인 배우가 중심이라는 사실만으로 모든 영화가 이 장르에 속하지는 않는다. 특정 시기의 제작과 소비, 액션과 이미지의 관습이 함께 중요하다. 긍정적인 주인공의 확장과 제한된 성격의 소비라는 두 측면을 같은 작품에서 확인할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "흑인 주인공이 강한 행동력과 폭력적인 해결 능력으로 적과 권력에 맞서는 역사적인 영화 계열이다. 도시의 범죄와 권위, 독립적인 영웅의 이미지가 행동 중심의 오락과 결합한다.\n\n주인공은 정의로운 인물뿐 아니라 범죄 세계에서 벗어나려는 반영웅일 수도 있다. 강인함과 반항, 과시적인 말투가 매력의 근거가 되는 동시에 인종적 전형을 반복한다는 비판의 대상이 된다.\n\n흑인 배우가 중심이라는 사실만으로 모든 영화가 이 장르에 속하지는 않는다. 특정 시기의 제작과 소비, 액션과 이미지의 관습이 함께 중요하다. 긍정적인 주인공의 확장과 제한된 성격의 소비라는 두 측면을 같은 작품에서 확인할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

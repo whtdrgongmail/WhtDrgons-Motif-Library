@@ -4,8 +4,8 @@
   "title": "연애 상대처럼 등장하는 경쟁자",
   "original": "Romantic False Lead",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000608",
+  "primary_tag_id": "MM-UNSET-000608",
   "description": {
     "definition": "주요 연애 상대의 관심을 실제로 끌어 기존 인물에게 질투와 불안을 주지만 최종 관계를 확정하는 역할은 아닌 인물 배치다.",
     "detail": "작품 사례: [[Sports Night]]에서 제러미는 내털리와 헤어진 동안 다른 여성을 사귀지만, 새 관계는 주된 연애를 이어받지 못하는 짧은 만남으로 남는다.",
@@ -13,14 +13,20 @@
     "boundary": "관심을 전혀 받지 못하는 일방적인 구애자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.002.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "새 인물에게 상대가 흔들리자 주인공은 사랑을 잃을까 걱정한다.",
     "review_status": "reviewed",
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주된 연애 관계에 새 후보로 등장해 긴장을 만드는 인물 역할이다. 상대의 관심을 실제로 얻지만 이야기의 중심 관계를 완전히 대신하지 않을 수 있다.\n\n처음부터 관심을 받지 못한 일방적인 구애자와 다르다. 실제 만남의 가능성과 주된 관계에 주는 영향이 있어야 한다.\n\n[[Sports Night]]의 제러미는 내털리와 헤어진 동안 다른 여성을 만난다. 새 관계는 중심 연애를 이어받지 못하고 짧은 만남으로 남아 다른 후보의 실제 등장과 한계를 보여 준다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주된 연애 관계에 새 후보로 등장해 긴장을 만드는 인물 역할이다. 상대의 관심을 실제로 얻지만 이야기의 중심 관계를 완전히 대신하지 않을 수 있다.\n\n처음부터 관심을 받지 못한 일방적인 구애자와 다르다. 실제 만남의 가능성과 주된 관계에 주는 영향이 있어야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Sports Night]]의 제러미는 내털리와 헤어진 동안 다른 여성을 만난다. 새 관계는 중심 연애를 이어받지 못하고 짧은 만남으로 남아 다른 후보의 실제 등장과 한계를 보여 준다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

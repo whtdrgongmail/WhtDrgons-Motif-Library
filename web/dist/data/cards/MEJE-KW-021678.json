@@ -4,8 +4,8 @@
   "title": "사소한 이유로 즉시 해고되는 직원",
   "original": "George Jetson Job Security",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000727",
+  "primary_tag_id": "MM-UNSET-000727",
   "description": {
     "definition": "상사가 하찮은 실수나 분명하지 않은 이유로 직원을 곧바로 해고하여 고용이 권한자의 기분에 달린 것처럼 보이는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "곧 다시 고용된다는 반복 구조는 필수 조건이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "작은 일 하나로도 언제든 일자리를 잃을 수 있다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "상사가 사소한 실수와 개인적인 기분 때문에 직원을 곧바로 해고하는 관계다. 오래 일한 성과보다 권한자의 순간적인 반응이 고용을 결정하는 듯 보인다.\n\n업무 밖의 부탁과 놀이까지 평가에 연결되면 직원은 언제나 눈치를 보게 된다. 곧바로 해고를 취소하는 변형은 권력의 변덕을 더 강조하며 희극적인 반복을 만들 수 있다.\n\n현실의 해고 제도가 실제로 이처럼 작동한다는 설명은 아니다. 작품 속 고용 불안과 상사의 전횡을 다루는 관습이며, 구체적인 법적 권리와 절차는 별개의 정보다.",
+    "sections": [
+      [
+        "상세 설명",
+        "상사가 사소한 실수와 개인적인 기분 때문에 직원을 곧바로 해고하는 관계다. 오래 일한 성과보다 권한자의 순간적인 반응이 고용을 결정하는 듯 보인다.\n\n업무 밖의 부탁과 놀이까지 평가에 연결되면 직원은 언제나 눈치를 보게 된다. 곧바로 해고를 취소하는 변형은 권력의 변덕을 더 강조하며 희극적인 반복을 만들 수 있다.\n\n현실의 해고 제도가 실제로 이처럼 작동한다는 설명은 아니다. 작품 속 고용 불안과 상사의 전횡을 다루는 관습이며, 구체적인 법적 권리와 절차는 별개의 정보다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

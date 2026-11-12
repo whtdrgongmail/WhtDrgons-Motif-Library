@@ -4,22 +4,48 @@
   "title": "독자 안내 주석",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T01954",
+  "primary_tag_id": "ML-T01954",
   "description": {
-    "definition": "",
+    "definition": "작품의 [[장면]]이나 [[대사]] 곁에 짧게 붙여 독자가 알아야 할 보조 정보를 전하는 글이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-09",
+  "row_version": 3,
+  "classification": {
+    "code": "23.004.007",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "그림이나 대사만으로는 놓치기 쉬운 내용을 독자에게 잠깐 알려 주는 짧은 글이다. 인물이 말하는 대사와 달리 작품을 읽는 사람을 향해 정보를 덧붙인다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "독자 안내 주석은 인물의 작은 동작, 눈에 띄지 않는 물건, 대사의 숨은 뜻처럼 본문을 이해하는 데 필요한 정보를 짧게 제공한다. 만화에서는 그림 옆에, 다른 매체에서는 화면이나 문장 곁에 별도의 설명으로 놓일 수 있다.\n\n이 주석은 사건 전체를 이어 설명하는 [[내레이션]]과 길이와 역할이 다르다. 인물의 진지한 태도에 건조한 주석을 붙이면 그 간격이 웃음을 만들 수도 있지만, 웃음은 필수 조건이 아니다.\n\n인물이 빈손이라고 주장하는 컷 옆에 ‘주머니에 열쇠가 있다’라는 짧은 문구를 붙인다면, 독자만 먼저 알 수 있는 정보를 주석이 제공한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "독자 안내 주석은 인물의 작은 동작, 눈에 띄지 않는 물건, 대사의 숨은 뜻처럼 본문을 이해하는 데 필요한 정보를 짧게 제공한다. 만화에서는 그림 옆에, 다른 매체에서는 화면이나 문장 곁에 별도의 설명으로 놓일 수 있다.\n\n이 주석은 사건 전체를 이어 설명하는 [[내레이션]]과 길이와 역할이 다르다. 인물의 진지한 태도에 건조한 주석을 붙이면 그 간격이 웃음을 만들 수도 있지만, 웃음은 필수 조건이 아니다."
+      ],
+      [
+        "사례",
+        "인물이 빈손이라고 주장하는 컷 옆에 ‘주머니에 열쇠가 있다’라는 짧은 문구를 붙인다면, 독자만 먼저 알 수 있는 정보를 주석이 제공한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

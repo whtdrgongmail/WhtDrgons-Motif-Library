@@ -4,23 +4,29 @@
   "title": "사랑을 강제한 마법의 후유증",
   "original": "Love Magic's Bitter Aftertaste",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
-    "definition": "상대의 선택을 바꾸는 마법으로 연애 감정을 얻으려 한 뒤 관계와 인물의 자율성에 해로운 결과가 남는 전개. 마법의 성공 여부보다 강제로 만든 [[친밀감]]이 남기는 손상을 살핀다. [[마법 계약에서 시작되는 연애]]는 계약 관계가 사랑으로 변하는 별도 구조다.",
+    "definition": "상대의 선택을 바꾸는 마법으로 연애 감정을 얻으려 한 뒤 관계와 인물의 자율성에 해로운 결과가 남는 전개. 마법의 성공 여부보다 강제로 만든 [[친밀감]]이 관계에 남기는 손상이 중심이다. [[마법 계약에서 시작되는 연애]]는 계약 관계가 사랑으로 변하는 별도 구조다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 4,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누군가의 감정을 마법으로 바꿔 사랑을 얻으려 했다가 신뢰와 자율성을 해치는 결과가 남는 이야기다. 만들어 낸 [[친밀감]]은 자유롭게 선택한 애정과 다르며, 마법을 풀어도 기억과 피해가 남아 관계 회복에 별도의 책임이 필요할 수 있다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "마법으로 상대의 선택과 연애 감정을 바꾸려 한 뒤 해로운 결과가 남는다. 강제로 얻으려던 친밀함이 관계와 자율성을 손상시키는 전개다.\n\n원하는 감정이 생겼는지만으로 사건이 끝나지 않는다. 그 감정이 만들어진 과정과 이후 관계에서 감당하는 피해가 마법의 의미를 바꾼다.\n\n초자연적 계약에서 출발해 사랑이 자라는 구조와 다르다. 현재 개념은 강요된 감정이 남기는 후유증을 중심으로 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "마법으로 상대의 선택과 연애 감정을 바꾸려 한 뒤 해로운 결과가 남는다. 강제로 얻으려던 친밀함이 관계와 자율성을 손상시키는 전개다.\n\n원하는 감정이 생겼는지만으로 사건이 끝나지 않는다. 그 감정이 만들어진 과정과 이후 관계에서 감당하는 피해가 마법의 의미를 바꾼다.\n\n초자연적 계약에서 출발해 사랑이 자라는 구조와 다르다. 현재 개념은 강요된 감정이 남기는 후유증을 중심으로 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

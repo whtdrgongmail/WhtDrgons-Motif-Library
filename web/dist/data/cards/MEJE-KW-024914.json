@@ -5,8 +5,8 @@
   "original": "Midair Boosts Extend the Flight",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02071",
+  "primary_tag_id": "ML-T02071",
   "description": {
     "definition": "발사 이후에도 조작이나 추가 추진·보너스 접촉으로 궤적을 바꾸어 이동 거리를 늘리는 발사형 게임의 구조이다.",
     "detail": "작품 사례: 《[[Jumping Finn]]》에서는 공중의 핀을 추가로 걷어차거나 더 멀리 실어 나를 대상을 늘리는 강화로 비행을 이어 갈 수 있다.",
@@ -14,10 +14,10 @@
     "boundary": "발사 뒤에는 무작위 결과만 지켜보는 구조와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.001.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "발사된 뒤에도 추가 조작이나 추진, 다른 대상과의 접촉으로 비행을 이어 간다. 최초 발사만으로 이동 거리가 결정되지 않는 게임 구조다.\n\n공중에 있는 동안의 개입이 궤적과 거리를 바꾸므로 비행 과정도 플레이의 대상이 된다. 추가 도움을 강화하는 선택은 발사 이후의 가능성을 넓힌다.\n\n쏜 다음에는 무작위 결과를 지켜보기만 하는 방식과 다르다. 비행 중 개입이 이동의 결과에 실제 영향을 주어야 한다.\n\n《[[Jumping Finn]]》에서는 공중의 핀을 추가로 걷어차거나 더 멀리 실어 나를 대상을 늘리는 강화로 비행을 이어 갈 수 있다.\n\n[[Jumping Finn]]",
+    "sections": [
+      [
+        "상세 설명",
+        "발사된 뒤에도 추가 조작이나 추진, 다른 대상과의 접촉으로 비행을 이어 간다. 최초 발사만으로 이동 거리가 결정되지 않는 게임 구조다.\n\n공중에 있는 동안의 개입이 궤적과 거리를 바꾸므로 비행 과정도 플레이의 대상이 된다. 추가 도움을 강화하는 선택은 발사 이후의 가능성을 넓힌다.\n\n쏜 다음에는 무작위 결과를 지켜보기만 하는 방식과 다르다. 비행 중 개입이 이동의 결과에 실제 영향을 주어야 한다."
+      ],
+      [
+        "사례",
+        "《[[Jumping Finn]]》에서는 공중의 핀을 추가로 걷어차거나 더 멀리 실어 나를 대상을 늘리는 강화로 비행을 이어 갈 수 있다."
+      ],
+      [
+        "관련 작품",
+        "[[Jumping Finn]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

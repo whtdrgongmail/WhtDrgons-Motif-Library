@@ -4,8 +4,8 @@
   "title": "같은 정부 안의 기관 경쟁",
   "original": "Inter-Service Rivalry",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T01330",
+  "primary_tag_id": "ML-T01330",
   "description": {
     "definition": "같은 정부나 군 조직의 여러 부문이 소속 의식·권한·자원을 둘러싸고 경쟁하여 협력이 어려워지는 관계이다.",
     "detail": "가벼운 조롱과 선의의 경쟁에서 작전 방해와 권력 다툼까지 이어진다. 지도자가 경쟁을 장려하거나 서로 견제하도록 분할하는 통치 방식도 가능하다.\n\n작품 사례: 《[[블리치]]》에서 11번대는 4번대를 전투에 쓸모없다고 무시하며, 추격 중 4번대 하나타로가 인질로 잡혀도 웃어넘긴다.",
@@ -13,30 +13,47 @@
     "boundary": "서로 다른 국가의 적대나 개인적 불화만 있는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "15",
+    "code": "15.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "한편이어야 할 군대나 관청끼리 서로 지기 싫어 일을 방해한다.\n\n작품 사례: 《[[블리치]]》에서 11번대는 4번대를 전투에 쓸모없다고 무시하며, 추격 중 4번대 하나타로가 인질로 잡혀도 웃어넘긴다.",
+    "easy_ko": "한편이어야 할 군대나 관청끼리 서로 지기 싫어 일을 방해한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
     {
       "media_tag_id": "ML-T02513",
-      "work_card_id": "MM-MEDIA-001295",
+      "work_card_id": "MM-MEDIA-002137",
       "description_ko": "《블리치》에서 11번대는 4번대를 전투에 쓸모없다고 무시하며, 추격 중 4번대 하나타로가 인질로 잡혀도 웃어넘긴다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "가벼운 조롱과 선의의 경쟁에서 작전 방해와 권력 다툼까지 이어진다. 지도자가 경쟁을 장려하거나 서로 견제하도록 분할하는 통치 방식도 가능하다.\n\n서로 다른 국가의 적대나 개인적 불화만 있는 경우와 구별한다.\n\n《[[블리치(만화)]]》에서 11번대는 4번대를 전투에 쓸모없다고 무시하며, 추격 중 4번대 하나타로가 인질로 잡혀도 웃어넘긴다.",
+    "sections": [
+      [
+        "상세 설명",
+        "가벼운 조롱과 선의의 경쟁에서 작전 방해와 권력 다툼까지 이어진다. 지도자가 경쟁을 장려하거나 서로 견제하도록 분할하는 통치 방식도 가능하다.\n\n서로 다른 국가의 적대나 개인적 불화만 있는 경우와 구별한다."
+      ],
+      [
+        "관련 작품",
+        "《[[블리치(만화)]]》에서 11번대는 4번대를 전투에 쓸모없다고 무시하며, 추격 중 4번대 하나타로가 인질로 잡혀도 웃어넘긴다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

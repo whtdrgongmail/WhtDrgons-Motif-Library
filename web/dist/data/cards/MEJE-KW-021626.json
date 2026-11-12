@@ -4,8 +4,8 @@
   "title": "주인의 관심을 독점하려는 반려동물",
   "original": "Jealous Pet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000480",
+  "primary_tag_id": "MM-UNSET-000480",
   "description": {
     "definition": "주인에게 강하게 애착을 가진 반려동물이 새 연인·아이·다른 동물을 관심을 빼앗는 경쟁자로 여겨 접근을 방해하는 관계 유형이다.",
     "detail": "작품 사례: 《[[슈퍼맨(연작)]]》의 크립토는 지미 올슨과 주인의 우정을 질투해 지미가 나쁘게 구는 악몽을 꾸지만, 깨어난 뒤 실제 지미는 그렇지 않음을 깨닫는다.",
@@ -13,14 +13,20 @@
     "boundary": "모든 낯선 사람을 경계하는 경비 동물이나 여러 동물에게 공통으로 미움받는 인물과 구별한다. 실제 품종의 성격을 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.007.007",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "주인이 다른 누군가를 좋아하면 반려동물이 끼어든다.",
     "review_status": "reviewed",
@@ -38,5 +44,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "주인에게 강한 애착을 가진 반려동물이 새로 가까워진 사람과 동물을 경쟁자로 여기는 관계다. 관심을 빼앗긴다는 감정이 접근 방해와 적대적인 행동으로 표현된다.\n\n새 연인과 아이, 다른 반려동물에게만 유독 거칠게 반응하게 하면 선택적인 질투가 드러난다. 주인은 두 관계를 조정해야 하고 새 인물은 자신이 거부당하는 이유를 파악하려 한다.\n\n누구에게나 공격적인 경비 동물과는 다르다. 특정 관계의 변화가 적대감의 계기라는 점이 중요하며, 허구의 희극적인 질투를 실제 동물의 안전한 행동과 동일하게 볼 수는 없다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주인에게 강한 애착을 가진 반려동물이 새로 가까워진 사람과 동물을 경쟁자로 여기는 관계다. 관심을 빼앗긴다는 감정이 접근 방해와 적대적인 행동으로 표현된다.\n\n새 연인과 아이, 다른 반려동물에게만 유독 거칠게 반응하게 하면 선택적인 질투가 드러난다. 주인은 두 관계를 조정해야 하고 새 인물은 자신이 거부당하는 이유를 파악하려 한다.\n\n누구에게나 공격적인 경비 동물과는 다르다. 특정 관계의 변화가 적대감의 계기라는 점이 중요하며, 허구의 희극적인 질투를 실제 동물의 안전한 행동과 동일하게 볼 수는 없다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "외딴 지하 감옥에 갇히기",
   "original": "Locked in the Dungeon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00861",
+  "primary_tag_id": "ML-T00861",
   "description": {
     "definition": "권력자나 악역이 인물을 외부에서 떨어진 감옥에 가두어 억압·심문·처벌의 대상으로 만드는 구도이다.",
     "detail": "작품 사례: 《[[겨울왕국]]》의 엘사는 한스에게 붙잡혀 자신이 다스리는 성의 지하 감옥에 갇힌다. 자신의 힘을 억압받던 공간에서 얼음 능력으로 탈출한다.",
@@ -13,10 +13,10 @@
     "boundary": "괴물과 보물을 탐험하는 게임상의 던전과 구별하며 감금과 권력의 폭력이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,25 @@
   "related_media": [
     {
       "media_tag_id": "ML-T02512",
-      "work_card_id": "MM-MEDIA-002111",
+      "work_card_id": "MM-MEDIA-001363",
       "description_ko": "《겨울왕국》의 엘사는 한스에게 붙잡혀 자신이 다스리는 성의 지하 감옥에 갇힌다. 자신의 힘을 억압받던 공간에서 얼음 능력으로 탈출한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "외부에서 떨어진 감옥에 인물을 가두어 통제한다. 은밀한 공간이 억압과 심문의 권력 차이를 강화한다.\n\n갇힌 사람은 주변의 도움과 정보를 얻기 어렵다. 지하라는 위치만으로 성립하지 않으며 감금과 처벌의 기능이 중요하다.",
+    "sections": [
+      [
+        "상세 설명",
+        "외부에서 떨어진 감옥에 인물을 가두어 통제한다. 은밀한 공간이 억압과 심문의 권력 차이를 강화한다.\n\n갇힌 사람은 주변의 도움과 정보를 얻기 어렵다. 지하라는 위치만으로 성립하지 않으며 감금과 처벌의 기능이 중요하다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

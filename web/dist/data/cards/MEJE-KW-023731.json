@@ -4,8 +4,8 @@
   "title": "운율을 갖춘 예언",
   "original": "Prophecies Rhyme All the Time",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01965",
+  "primary_tag_id": "ML-T01965",
   "description": {
     "definition": "미래를 알리는 [[예언]]을 운을 맞춘 구절로 표현한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "시적인 분위기만 있는 산문과 달리 반복되는 소리의 대응이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "미래를 알리는 [[예언]]을 운율과 압운이 있는 구절로 표현하는 방식이다. 정보에 리듬을 붙여 오래된 의식과 수수께끼의 인상을 만든다.\n\n짧고 기억하기 쉬운 문구는 인물들이 여러 번 되풀이하고 다르게 해석할 수 있게 한다. 정확한 뜻을 늦게 이해하도록 구성하면 소리의 규칙이 단서와 모호함을 함께 제공한다.\n\n예언이 언제나 시의 형태여야 하는 것은 아니다. 번역 즉시 같은 운이 맞는 표현은 편리한 관습일 수 있으며, 문학적인 형태와 실제 예언의 정확성은 별개의 조건이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "미래를 알리는 [[예언]]을 운율과 압운이 있는 구절로 표현하는 방식이다. 정보에 리듬을 붙여 오래된 의식과 수수께끼의 인상을 만든다.\n\n짧고 기억하기 쉬운 문구는 인물들이 여러 번 되풀이하고 다르게 해석할 수 있게 한다. 정확한 뜻을 늦게 이해하도록 구성하면 소리의 규칙이 단서와 모호함을 함께 제공한다.\n\n예언이 언제나 시의 형태여야 하는 것은 아니다. 번역 즉시 같은 운이 맞는 표현은 편리한 관습일 수 있으며, 문학적인 형태와 실제 예언의 정확성은 별개의 조건이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

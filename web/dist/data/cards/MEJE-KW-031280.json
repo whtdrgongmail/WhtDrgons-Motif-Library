@@ -4,8 +4,8 @@
   "title": "소중한 것을 건 개인 맹세",
   "original": "Personalized Pledge",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01964",
+  "primary_tag_id": "ML-T01964",
   "description": {
     "definition": "말하는 사람에게 특별히 소중한 대상을 내세워 약속의 신뢰성을 높이는 맹세다.",
     "detail": "",
@@ -13,19 +13,19 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.006.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
     "easy_ko": "누구나 쓰는 문구 대신 자신이 가장 아끼는 가족이나 명예를 걸고 약속한다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2
   },
   "applied_tags": [],
   "related_media": [],
@@ -33,9 +33,15 @@
   "references": [],
   "longform_article": {
     "text": "맹세의 무게는 대상의 객관적 가치보다 인물과의 관계에서 나온다. 무엇을 거는지 보여 주면 그 인물의 우선순위를 드러내는 동시에 약속을 어겼을 때의 의미를 키울 수 있다.\n\n공동체가 관습적으로 쓰는 서약은 개인화의 정도가 약하다. 소중해 보인 대상이 실제로는 존재하지 않거나 중요하지 않다고 밝혀지면 신뢰의 근거 자체가 무너지는 반전이 된다.",
-    "review_status": "draft",
-    "updated_at": "2026-11-08",
-    "row_version": 1,
+    "sections": [
+      [
+        "상세 설명",
+        "맹세의 무게는 대상의 객관적 가치보다 인물과의 관계에서 나온다. 무엇을 거는지 보여 주면 그 인물의 우선순위를 드러내는 동시에 약속을 어겼을 때의 의미를 키울 수 있다.\n\n공동체가 관습적으로 쓰는 서약은 개인화의 정도가 약하다. 소중해 보인 대상이 실제로는 존재하지 않거나 중요하지 않다고 밝혀지면 신뢰의 근거 자체가 무너지는 반전이 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 5,
     "replaces_short_fields": true
   }
 }

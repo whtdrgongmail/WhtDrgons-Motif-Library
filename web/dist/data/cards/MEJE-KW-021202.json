@@ -4,8 +4,8 @@
   "title": "악기처럼 들리는 목소리",
   "original": "Musical Instrument Voice",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T02045",
+  "primary_tag_id": "ML-T02045",
   "description": {
     "definition": "몸 안에 악기가 없는데도 목소리 자체가 악기의 음색처럼 들리는 표현이다.",
     "detail": "소리의 질감으로 인물을 구별한다.",
@@ -13,10 +13,10 @@
     "boundary": "실제 악기가 몸속에 들어 있어 대신 울리는 상황과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "24.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,18 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "인물이 말할 때 일반적인 음성 대신 악기의 음색이 들리는 표현이다. 관객은 단어를 알아듣지 못해도 대화의 리듬과 감정은 소리로 읽을 수 있다.\n\n현악기와 관악기, 전자음 등 선택한 소리가 인물의 움직임과 성격에 연결된다. 다른 인물은 말을 정상적으로 이해하는 것으로 설정하여 관객과 작중 인물의 정보 차이를 만들 수도 있다.\n\n실제 악기가 몸의 일부이거나 입에 들어가 소리를 내는 경우와는 구별된다. 목소리의 표현 방식이 핵심이며, 어떤 음색을 붙이느냐에 따라 우스꽝스러움과 낯섦 등 인상이 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "인물이 말할 때 일반적인 음성 대신 악기의 음색이 들리는 표현이다. 관객은 단어를 알아듣지 못해도 대화의 리듬과 감정은 소리로 읽을 수 있다.\n\n현악기와 관악기, 전자음 등 선택한 소리가 인물의 움직임과 성격에 연결된다. 다른 인물은 말을 정상적으로 이해하는 것으로 설정하여 관객과 작중 인물의 정보 차이를 만들 수도 있다.\n\n실제 악기가 몸의 일부이거나 입에 들어가 소리를 내는 경우와는 구별된다. 목소리의 표현 방식이 핵심이며, 어떤 음색을 붙이느냐에 따라 우스꽝스러움과 낯섦 등 인상이 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

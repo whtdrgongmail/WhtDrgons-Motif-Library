@@ -4,8 +4,8 @@
   "title": "위험한 환경 속의 자발적 은신처",
   "original": "Hideaway in the Danger Zone",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01323",
+  "primary_tag_id": "ML-T01323",
   "description": {
     "definition": "다른 사람이 살아남기 어려운 환경 안에 그곳을 견딜 수 있는 인물이나 집단이 스스로 거처를 마련하여 외부 접근을 막는 설정이다. 환경의 치명성이 은신처의 방어 수단이 된다.",
     "detail": "작품 사례: [[Candela Obscura]]의 네 번째 등대는 통과하는 대상을 보통 태워 없애는 차원 장벽 안에 세워져, 적대적인 환경 한가운데 거점을 둔다.",
@@ -13,10 +13,10 @@
     "boundary": "떠나고 싶어도 못 나오는 환경 감옥이나 단지 주민과 사이가 나쁜 평범한 마을과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "14",
+    "code": "14.010.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "외부인에게 치명적인 환경 안에 거주자가 스스로 거점을 마련하는 설정이다. 주변의 위험이 침입을 막는 장벽이 될 수 있다.\n\n실제 거주 구조와 위험한 환경, 자발적인 체류가 함께 필요하다. 떠나지 못하는 환경 감옥과 주민 사이가 나쁜 평범한 마을은 조건이 다르다.\n\n[[Candela Obscura]]의 네 번째 등대는 통과 대상을 보통 태워 없애는 차원 장벽 안에 있다. 외부에 적대적인 환경의 한가운데 거주 거점을 두는 사례다.",
+    "sections": [
+      [
+        "상세 설명",
+        "외부인에게 치명적인 환경 안에 거주자가 스스로 거점을 마련하는 설정이다. 주변의 위험이 침입을 막는 장벽이 될 수 있다.\n\n실제 거주 구조와 위험한 환경, 자발적인 체류가 함께 필요하다. 떠나지 못하는 환경 감옥과 주민 사이가 나쁜 평범한 마을은 조건이 다르다."
+      ],
+      [
+        "관련 작품",
+        "[[Candela Obscura]]의 네 번째 등대는 통과 대상을 보통 태워 없애는 차원 장벽 안에 있다. 외부에 적대적인 환경의 한가운데 거주 거점을 두는 사례다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

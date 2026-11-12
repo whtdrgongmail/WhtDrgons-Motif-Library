@@ -4,8 +4,8 @@
   "title": "부유한 배우자에게 부양받는 무직자",
   "original": "Socialite",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T00973",
+  "primary_tag_id": "ML-T00973",
   "description": {
     "definition": "자신은 직업을 갖지 않고 부유한 배우자의 재산에 기대어 생활하는 관계상의 역할이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-12",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "일하지 않는 인물이 부자인 배우자가 제공하는 자원으로 산다. 경제적인 부양 관계가 인물의 생활 위치를 설명한다.\n\n가구의 자원은 한쪽 배우자의 재산에서 나오고 다른 쪽은 고용 소득 없이 생활한다. 인물의 경제적 위치를 개인 직업보다 부부 사이의 부양 관계로 설명하는 설정이다.\n\n무직 상태 자체보다 배우자 자산에 대한 생활 의존이 필요하며 그 조건만으로 성격의 선악은 결정되지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "일하지 않는 인물이 부자인 배우자가 제공하는 자원으로 산다. 경제적인 부양 관계가 인물의 생활 위치를 설명한다.\n\n가구의 자원은 한쪽 배우자의 재산에서 나오고 다른 쪽은 고용 소득 없이 생활한다. 인물의 경제적 위치를 개인 직업보다 부부 사이의 부양 관계로 설명하는 설정이다.\n\n무직 상태 자체보다 배우자 자산에 대한 생활 의존이 필요하며 그 조건만으로 성격의 선악은 결정되지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

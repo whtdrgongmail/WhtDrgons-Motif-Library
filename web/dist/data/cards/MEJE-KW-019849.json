@@ -4,8 +4,8 @@
   "title": "외도 상대와 재혼하기",
   "original": "Remarried to the Mistress",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01025",
+  "primary_tag_id": "ML-T01025",
   "description": {
     "definition": "기존 배우자와 헤어진 인물이 혼인 중 비밀 관계를 맺었던 상대와 다시 결혼하는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "이혼 뒤 처음 만난 사람과 재혼하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.006",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "숨겨진 연인이 다음 결혼의 배우자가 된다.",
     "review_status": "reviewed",
@@ -30,5 +36,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "혼인 중 외도하던 상대와 기존 혼인이 끝난 뒤 정식으로 결혼하는 전개다. 비공식적이던 관계가 공적인 가족 관계로 바뀐다. 이전 배우자의 죽음이나 이혼 직후 빠르게 재혼하면 과거의 의심이 사실로 받아들여지는 계기가 될 수 있다.\n\n새 배우자가 이미 임신했거나 기존 집의 고용인이었다면 가족과 사회의 반응이 더 복잡해진다. 자녀는 과거의 배신과 현재의 가족 관계를 동시에 받아들여야 한다. 관계가 공개적으로 인정되어도 이전 행동의 기억이 사라지는 것은 아니다.\n\n원치 않은 중매결혼과 진정한 연인의 사정처럼 동정적인 배경이 제시될 수 있다. 반대로 친절한 배우자를 버린 경우에는 새 결혼도 이기적인 선택의 연장으로 보인다. 모두가 알고 동의했던 다중 관계와 비밀 외도를 구분하며, 결혼의 형식 변화만으로 도덕적 평가를 결정해서는 안 된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "혼인 중 외도하던 상대와 기존 혼인이 끝난 뒤 정식으로 결혼하는 전개다. 비공식적이던 관계가 공적인 가족 관계로 바뀐다. 이전 배우자의 죽음이나 이혼 직후 빠르게 재혼하면 과거의 의심이 사실로 받아들여지는 계기가 될 수 있다.\n\n새 배우자가 이미 임신했거나 기존 집의 고용인이었다면 가족과 사회의 반응이 더 복잡해진다. 자녀는 과거의 배신과 현재의 가족 관계를 동시에 받아들여야 한다. 관계가 공개적으로 인정되어도 이전 행동의 기억이 사라지는 것은 아니다.\n\n원치 않은 중매결혼과 진정한 연인의 사정처럼 동정적인 배경이 제시될 수 있다. 반대로 친절한 배우자를 버린 경우에는 새 결혼도 이기적인 선택의 연장으로 보인다. 모두가 알고 동의했던 다중 관계와 비밀 외도를 구분하며, 결혼의 형식 변화만으로 도덕적 평가를 결정해서는 안 된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

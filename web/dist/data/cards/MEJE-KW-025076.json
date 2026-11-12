@@ -5,8 +5,8 @@
   "original": "Lip-Syncing to Someone Else's Voice",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T00614",
+  "primary_tag_id": "ML-T00614",
   "description": {
     "definition": "목소리를 잃었거나 노래할 수 없는 인물을 대신해 다른 사람이 소리를 내고 당사자는 입 움직임을 맞추어 공연을 이어가는 해결 방식이다.",
     "detail": "작품 사례: 《[[마이 리틀 포니: 우정은 마법]]》의 「Filli Vanilli」에서 빅맥이 목소리를 잃자 플러터샤이가 낮은 목소리로 대신 노래하고 빅맥은 입을 맞춘다.",
@@ -14,10 +14,10 @@
     "boundary": "일반적인 후시 녹음 제작과 달리 작품 속 공연의 문제 해결로 사용된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "05",
+    "code": "05.001.003",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "소리를 낼 수 없는 사람이 다른 사람의 목소리에 입을 맞춘다. 공연을 멈추지 않기 위해 표현의 역할을 나눈다.\n\n관객 앞의 사람과 실제로 소리를 만드는 사람이 달라진다. 성공하려면 두 행동의 시간과 내용이 맞아야 한다.\n\n제작 과정의 일반적인 후시 녹음과 다르다. 작품 속 공연의 위기를 해결하는 사건이어야 한다.\n\n《[[마이 리틀 포니: 우정은 마법]]》의 「Filli Vanilli」에서 빅맥이 목소리를 잃자 플러터샤이가 낮은 목소리로 대신 노래하고 빅맥은 입을 맞춘다.\n\n[[마이 리틀 포니: 우정은 마법]]",
+    "sections": [
+      [
+        "상세 설명",
+        "소리를 낼 수 없는 사람이 다른 사람의 목소리에 입을 맞춘다. 공연을 멈추지 않기 위해 표현의 역할을 나눈다.\n\n관객 앞의 사람과 실제로 소리를 만드는 사람이 달라진다. 성공하려면 두 행동의 시간과 내용이 맞아야 한다.\n\n제작 과정의 일반적인 후시 녹음과 다르다. 작품 속 공연의 위기를 해결하는 사건이어야 한다."
+      ],
+      [
+        "사례",
+        "《[[마이 리틀 포니: 우정은 마법]]》의 「Filli Vanilli」에서 빅맥이 목소리를 잃자 플러터샤이가 낮은 목소리로 대신 노래하고 빅맥은 입을 맞춘다."
+      ],
+      [
+        "관련 작품",
+        "[[마이 리틀 포니: 우정은 마법]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

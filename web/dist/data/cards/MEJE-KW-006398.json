@@ -4,8 +4,8 @@
   "title": "만지며 알아보려는 호기심 많은 인물",
   "original": "Curious as a Monkey",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00938",
+  "primary_tag_id": "ML-T00938",
   "description": {
     "definition": "인물이 눈에 띄는 물건을 그냥 지나치지 못하고 만지고 분해하며 작동 원리를 확인하려 한다. 순수한 탐구심이 발견이나 소동을 부른다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "눈에 띄는 물건을 손으로 살피고 분해하면서 어떻게 작동하는지 알아보려 한다. 의도적인 방해보다 탐구의 욕구가 앞서므로 본인은 문제를 만들 생각이 없었는데 주변에 소동이 생길 수 있다.\n\n부품이 흩어진 장면은 설명 없이도 탐색의 결과를 보여 준다. 정교한 계획에 끼어들어 뜻밖의 해결책을 찾기도 하여 서툰 행동과 우연한 성공이 같은 성향에서 나올 수 있다.\n\n[[호기심이 부른 집단의 위험]]은 행동의 부정적인 결과다. 여기서는 인물의 반복적인 탐색 습관이 중심이며, 어린아이만의 필수 특징이나 실제 주의력과 지능을 진단하는 기준으로 일반화하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "눈에 띄는 물건을 손으로 살피고 분해하면서 어떻게 작동하는지 알아보려 한다. 의도적인 방해보다 탐구의 욕구가 앞서므로 본인은 문제를 만들 생각이 없었는데 주변에 소동이 생길 수 있다.\n\n부품이 흩어진 장면은 설명 없이도 탐색의 결과를 보여 준다. 정교한 계획에 끼어들어 뜻밖의 해결책을 찾기도 하여 서툰 행동과 우연한 성공이 같은 성향에서 나올 수 있다.\n\n[[호기심이 부른 집단의 위험]]은 행동의 부정적인 결과다. 여기서는 인물의 반복적인 탐색 습관이 중심이며, 어린아이만의 필수 특징이나 실제 주의력과 지능을 진단하는 기준으로 일반화하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

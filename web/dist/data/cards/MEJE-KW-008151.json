@@ -4,8 +4,8 @@
   "title": "죽음 직전의 화해",
   "original": "Dying Reconciliation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01032",
+  "primary_tag_id": "ML-T01032",
   "description": {
     "definition": "오랫동안 다투던 인물들이 한쪽의 죽음이 가까워지자 서로의 말을 거두고 관계를 풀어낸다. 죽음 앞의 화해가 원래 적대하던 상대 사이에서 이루어지면 [[죽음 앞에서 이루는 일시적 휴전]]의 성격도 띤다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.008.006",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "죽음이 가까워진 상황에서 오랫동안 다투던 인물들이 관계를 회복하는 전개이다. 남은 시간이 제한되면서 기존의 원한과 자존심의 의미가 달라진다.\n\n죽어 가는 사람이 먼저 사과하거나 그 소식을 들은 상대가 화해를 제안할 수 있다. 서로의 말을 거두고 감정을 인정하는 과정이 관계의 마지막 변화가 된다.\n\n공동의 위험 때문에 잠시 싸움을 멈추는 휴전과는 다르다. 과거의 갈등에 대한 정서적 정리가 중심이며, 죽음의 임박이 반드시 모든 잘못의 용서를 뜻하지는 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "죽음이 가까워진 상황에서 오랫동안 다투던 인물들이 관계를 회복하는 전개이다. 남은 시간이 제한되면서 기존의 원한과 자존심의 의미가 달라진다.\n\n죽어 가는 사람이 먼저 사과하거나 그 소식을 들은 상대가 화해를 제안할 수 있다. 서로의 말을 거두고 감정을 인정하는 과정이 관계의 마지막 변화가 된다.\n\n공동의 위험 때문에 잠시 싸움을 멈추는 휴전과는 다르다. 과거의 갈등에 대한 정서적 정리가 중심이며, 죽음의 임박이 반드시 모든 잘못의 용서를 뜻하지는 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

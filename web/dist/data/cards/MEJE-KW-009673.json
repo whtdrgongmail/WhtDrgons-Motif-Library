@@ -4,8 +4,8 @@
   "title": "가상 소수종이 격리된 구역",
   "original": "Fantastic Ghetto",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T01327",
+  "primary_tag_id": "ML-T01327",
   "description": {
     "definition": "작품 속 지배 집단이 다른 종족이나 집단을 거주지 한곳에 모아 분리하고 감시하는 공간 설정이다. 차별이 도시의 구조에 드러난다. 이 거주 구역은 [[가상 종족 사이의 차별]]이 도시 공간의 분리와 통제로 나타난 사례다.",
     "detail": "작품 사례: [[Wear Your Soul Round Your Neck]]의 괴물의 땅은 다양한 말폼과 불완전한 인간들을 가둔 오염된 황무지로, 완벽한 인간들의 사회와 강제로 분리되어 있다.",
@@ -13,10 +13,10 @@
     "boundary": "안전을 위해 스스로 숨어 지내는 마을이나 자발적 공동체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "14",
+    "code": "14.010.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "판타스틱 게토는 지배 집단이 다른 종족이나 집단을 특정 지역에 강제로 거주시켜 분리하는 공간 [[설정]]이다. 차별과 통제는 도시의 구획, 이동 제한, 감시 같은 물리적 구조로 표현된다.\n\n핵심은 거주 구역이 주민의 선택이 아니라 통제의 결과라는 점이다. 위험을 피해 자발적으로 모인 공동체나 스스로 외부와 거리를 둔 마을과 구별한다. 출입 제한, 감시, 다른 집단과의 공간적 분리가 확인되면 차별이 공간 구조를 통해 작동한다고 볼 근거가 된다.\n\n사례: [[Wear Your Soul Round Your Neck]]의 괴물의 땅은 여러 존재가 완벽한 인간들의 사회와 강제로 분리된 오염된 황무지다.",
+    "sections": [
+      [
+        "상세 설명",
+        "판타스틱 게토는 지배 집단이 다른 종족이나 집단을 특정 지역에 강제로 거주시켜 분리하는 공간 [[설정]]이다. 차별과 통제는 도시의 구획, 이동 제한, 감시 같은 물리적 구조로 표현된다.\n\n핵심은 거주 구역이 주민의 선택이 아니라 통제의 결과라는 점이다. 위험을 피해 자발적으로 모인 공동체나 스스로 외부와 거리를 둔 마을과 구별한다. 출입 제한, 감시, 다른 집단과의 공간적 분리가 확인되면 차별이 공간 구조를 통해 작동한다고 볼 근거가 된다."
+      ],
+      [
+        "사례",
+        "사례: [[Wear Your Soul Round Your Neck]]의 괴물의 땅은 여러 존재가 완벽한 인간들의 사회와 강제로 분리된 오염된 황무지다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "과로와 모욕을 견디는 보조자",
   "original": "Beleaguered Assistant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T02586",
+  "primary_tag_id": "ML-T02586",
   "description": {
     "definition": "상사의 대우 때문에 지치고 그만두고 싶어도 과도한 업무와 굴욕을 계속 떠안는 보조자 인물형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "MEJE-KW-002977의 상사 실수 수습·실질 운영까지는 현재 글에 없다. 과로와 낮은 처우 자체가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.012",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "보조자는 상사의 부족한 실무를 메우지만 존중과 보상은 충분히 얻지 못한다. 조직의 성과가 보이지 않는 과로에 의존하는 관계다.\n\n그만두고 싶은 마음과 생계와 책임의 필요가 충돌하면 떠나지 못하는 이유가 생긴다. 성실하게 일한다는 사실과 부당한 대우를 계속 받아야 한다는 의무는 다르며 학대의 미화를 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보조자는 상사의 부족한 실무를 메우지만 존중과 보상은 충분히 얻지 못한다. 조직의 성과가 보이지 않는 과로에 의존하는 관계다.\n\n그만두고 싶은 마음과 생계와 책임의 필요가 충돌하면 떠나지 못하는 이유가 생긴다. 성실하게 일한다는 사실과 부당한 대우를 계속 받아야 한다는 의무는 다르며 학대의 미화를 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

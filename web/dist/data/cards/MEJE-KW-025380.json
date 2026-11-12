@@ -4,8 +4,8 @@
   "title": "개별 플레이가 공동체의 게임 상태를 바꾸기",
   "original": "Player Data Sharing",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02149",
+  "primary_tag_id": "ML-T02149",
   "description": {
     "definition": "여러 이용자의 플레이 결과를 공유·누적해 팀이나 전체 공동체의 세계 상태와 보상을 바꾸는 구조다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "점수를 보여 주기만 하는 순위표와 달리 공유 상태나 공동 보상의 변화가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.009.007",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "서로 직접 같은 공간에서 플레이하지 않아도 개별 결과가 다른 이용자의 경험에 반영된다. 누적된 데이터는 공동 목표의 진행도와 세계의 상태를 바꾸는 자원이 된다.\n\n한 사람의 기여가 작아도 전체 합계에 참여한다는 감각이 생긴다. 공동 보상은 개인적인 행동과 집단의 성과를 연결하지만 기여와 혜택의 비율은 설계에 따라 달라진다.\n\n원문은 저장 데이터의 교환과 비동기 영향 전반을 포함한다. 정본은 공동체의 상태 변화에 한정하므로 모든 비동기 거래 기능이 같은 구조는 아니다.",
+    "sections": [
+      [
+        "상세 설명",
+        "서로 직접 같은 공간에서 플레이하지 않아도 개별 결과가 다른 이용자의 경험에 반영된다. 누적된 데이터는 공동 목표의 진행도와 세계의 상태를 바꾸는 자원이 된다.\n\n한 사람의 기여가 작아도 전체 합계에 참여한다는 감각이 생긴다. 공동 보상은 개인적인 행동과 집단의 성과를 연결하지만 기여와 혜택의 비율은 설계에 따라 달라진다.\n\n원문은 저장 데이터의 교환과 비동기 영향 전반을 포함한다. 정본은 공동체의 상태 변화에 한정하므로 모든 비동기 거래 기능이 같은 구조는 아니다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

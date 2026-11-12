@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F25",
   "description": {
-    "definition": "",
+    "definition": "게임에서 플레이어가 쓰러뜨린 대상의 수를 기록하거나 목표 수량과 비교하는 규칙이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "25",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "몇 명 또는 몇 마리의 적을 쓰러뜨렸는지 세는 게임 규칙이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "게임은 기록한 처치 수를 목표 수량과 비교하여 승리나 보상, 임무 완료를 판정할 수 있다. 목표 달성의 기준이 수치로 제시되면 플레이어는 진행 정도와 남은 요구량을 확인할 수 있다.\n\n무엇을 한 번의 처치로 인정하는지는 해당 규칙의 문제다. 수를 세는 단계와 의뢰인이 임무를 완료로 인정하는 단계가 같은지, 다른 조건도 필요한지에 따라 같은 수치가 갖는 의미는 달라진다.\n\n[[전리품]]을 제출하는 [[사냥 임무]]와는 구별해야 한다. 적을 쓰러뜨린 기록이 있어도 증거 물품을 확보하지 못했다면 제출 조건은 충족되지 않을 수 있으며, 반대로 수치 기록만으로 끝나는 임무에는 별도 물건이 필요하지 않을 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "게임은 기록한 처치 수를 목표 수량과 비교하여 승리나 보상, 임무 완료를 판정할 수 있다. 목표 달성의 기준이 수치로 제시되면 플레이어는 진행 정도와 남은 요구량을 확인할 수 있다.\n\n무엇을 한 번의 처치로 인정하는지는 해당 규칙의 문제다. 수를 세는 단계와 의뢰인이 임무를 완료로 인정하는 단계가 같은지, 다른 조건도 필요한지에 따라 같은 수치가 갖는 의미는 달라진다.\n\n[[전리품]]을 제출하는 [[사냥 임무]]와는 구별해야 한다. 적을 쓰러뜨린 기록이 있어도 증거 물품을 확보하지 못했다면 제출 조건은 충족되지 않을 수 있으며, 반대로 수치 기록만으로 끝나는 임무에는 별도 물건이 필요하지 않을 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

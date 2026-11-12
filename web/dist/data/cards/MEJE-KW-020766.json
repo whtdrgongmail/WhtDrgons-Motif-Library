@@ -5,8 +5,8 @@
   "original": "Screen-Obscuring Debris",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01917",
+  "primary_tag_id": "ML-T01917",
   "description": {
     "definition": "얼음·흙·잉크 같은 물질이 화면이나 표시창 위에 붙은 듯 표현되어 플레이어가 보던 장면을 일부 가리는 장치다.",
     "detail": "작품 사례: 《[[마리오 카트 DS]]》의 징오징오 아이템은 화면에 먹물을 뿌려 도로의 일부를 가리지만, 다른 화면의 지도는 계속 볼 수 있다.",
@@ -14,10 +14,10 @@
     "boundary": "세계 속 사물 뒤에 가려지는 일반적인 시야 차단과 구별한다. 화면 표면에 겹쳐진 층이 정보를 가린다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "22.010",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -39,5 +39,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "화면 표면에 물질이 붙은 듯 표현해 정보를 가린다. 플레이어는 세계를 보는 창 자체가 오염된 것처럼 경험한다.\n\n얼음과 잉크 등의 층이 보이는 범위를 줄인다. 세계 안의 환경과 관객용 표시가 맞닿는 표현이다.\n\n물체 뒤에 서서 시야가 막힌 경우와 다르다. 화면 위에 겹친 층이 차단의 원인이다.\n\n《[[마리오 카트 DS]]》의 징오징오 아이템은 화면에 먹물을 뿌려 도로의 일부를 가리지만, 다른 화면의 지도는 계속 볼 수 있다.\n\n[[마리오 카트 DS]]",
+    "sections": [
+      [
+        "상세 설명",
+        "화면 표면에 물질이 붙은 듯 표현해 정보를 가린다. 플레이어는 세계를 보는 창 자체가 오염된 것처럼 경험한다.\n\n얼음과 잉크 등의 층이 보이는 범위를 줄인다. 세계 안의 환경과 관객용 표시가 맞닿는 표현이다.\n\n물체 뒤에 서서 시야가 막힌 경우와 다르다. 화면 위에 겹친 층이 차단의 원인이다."
+      ],
+      [
+        "사례",
+        "《[[마리오 카트 DS]]》의 징오징오 아이템은 화면에 먹물을 뿌려 도로의 일부를 가리지만, 다른 화면의 지도는 계속 볼 수 있다."
+      ],
+      [
+        "관련 작품",
+        "[[마리오 카트 DS]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

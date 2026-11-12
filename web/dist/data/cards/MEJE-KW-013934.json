@@ -4,8 +4,8 @@
   "title": "치유하는 빛",
   "original": "Healing Light",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T01526",
+  "primary_tag_id": "ML-T01526",
   "description": {
     "definition": "빛 자체가 상처와 질환을 회복시키는 매개로 작동하는 능력이나 현상이다.",
     "detail": "작품 사례: [[Warhammer Fantasy Roleplay]]의 빛 계열 주문은 불빛에 닿는 이들의 질병을 이기도록 불을 강화하여, 빛을 치료의 매개로 쓴다.",
@@ -13,10 +13,10 @@
     "boundary": "치유할 때 빛이 장식적으로 나는 경우나 빛의 열로 지지는 방식과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "17",
+    "code": "17.005.001",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -38,5 +38,26 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "빛이 질병과 상처를 회복시키는 실제 매개로 작동한다. 빛에 닿는 일이 치료 효과와 연결된 능력이나 현상이다.\n\n밝음은 치료가 일어났다는 표지에 그치지 않고 회복을 전달한다. 어떤 빛과 접촉해야 하는지가 정해지면 치료의 범위와 적용 조건을 표현할 수 있다.\n\n다른 치유 능력에 장식적으로 빛이 따라오는 경우와 다르다. 빛의 열로 상처를 지지는 방식과도 구별되며 빛 자체의 회복 작용이 기준이다.\n\n[[Warhammer Fantasy Roleplay]]의 빛 계열 주문은 불빛에 닿는 이들의 질병을 이기도록 불을 강화하여, 빛을 치료의 매개로 쓴다.\n\n[[Warhammer Fantasy Roleplay]]",
+    "sections": [
+      [
+        "상세 설명",
+        "빛이 질병과 상처를 회복시키는 실제 매개로 작동한다. 빛에 닿는 일이 치료 효과와 연결된 능력이나 현상이다.\n\n밝음은 치료가 일어났다는 표지에 그치지 않고 회복을 전달한다. 어떤 빛과 접촉해야 하는지가 정해지면 치료의 범위와 적용 조건을 표현할 수 있다.\n\n다른 치유 능력에 장식적으로 빛이 따라오는 경우와 다르다. 빛의 열로 상처를 지지는 방식과도 구별되며 빛 자체의 회복 작용이 기준이다."
+      ],
+      [
+        "사례",
+        "[[Warhammer Fantasy Roleplay]]의 빛 계열 주문은 불빛에 닿는 이들의 질병을 이기도록 불을 강화하여, 빛을 치료의 매개로 쓴다."
+      ],
+      [
+        "관련 작품",
+        "[[Warhammer Fantasy Roleplay]]"
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

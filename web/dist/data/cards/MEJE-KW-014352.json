@@ -4,8 +4,8 @@
   "title": "속뜻을 밝히지 않는 선한 협력자",
   "original": "Hidden Agenda Hero",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00884",
+  "primary_tag_id": "ML-T00884",
   "description": {
     "definition": "주인공을 지속적으로 돕고 선한 행동을 하면서도 왜 돕는지와 별도의 계획을 감추는 인물이다. 가까이서 협력할 수 있지만 동기는 신뢰에 맡기도록 요구한다.",
     "detail": "작품 사례: [[Apollo Justice: Ace Attorney]]의 피닉스는 아폴로를 도우면서 속내를 감추지만, 배심 제도를 도입하고 자신에게 누명을 씌운 사람을 무너뜨리려는 계획을 진행한다.",
@@ -13,10 +13,10 @@
     "boundary": "멀리서 지원하는 강력한 후원자나 선악 자체가 불명확한 변덕스러운 인물과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.001.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,12 +31,29 @@
   "related_media": [
     {
       "media_tag_id": "ML-T00076",
-      "work_card_id": "MM-MEDIA-000059",
+      "work_card_id": "MM-MEDIA-002374",
       "description_ko": "Apollo Justice: Ace Attorney의 피닉스는 아폴로를 도우면서 속내를 감추지만, 배심 제도를 도입하고 자신에게 누명을 씌운 사람을 무너뜨리려는 계획을 진행한다.",
       "spoiler_level": "unreviewed",
-      "row_version": 1
+      "row_version": 2
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "도움을 제공하고 함께 행동할 수 있지만 속내와 최종 계획은 밝히지 않는 선한 협력자다. 선의에 관한 근거와 동기에 대한 공백이 동시에 존재한다.\n\n멀리서만 지원하는 후원자와는 다르다. 선악 자체가 불명확한 변덕스러운 인물과도 구별되며 협력 행동은 확인 가능해야 한다.\n\n[[Apollo Justice: Ace Attorney]]의 피닉스는 아폴로를 돕지만 계획을 모두 밝히지는 않는다. 배심 제도의 도입과 누명을 씌운 사람의 몰락을 추진하는 목적이 도움 뒤에 존재한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "도움을 제공하고 함께 행동할 수 있지만 속내와 최종 계획은 밝히지 않는 선한 협력자다. 선의에 관한 근거와 동기에 대한 공백이 동시에 존재한다.\n\n멀리서만 지원하는 후원자와는 다르다. 선악 자체가 불명확한 변덕스러운 인물과도 구별되며 협력 행동은 확인 가능해야 한다."
+      ],
+      [
+        "관련 작품",
+        "[[Apollo Justice: Ace Attorney]]의 피닉스는 아폴로를 돕지만 계획을 모두 밝히지는 않는다. 배심 제도의 도입과 누명을 씌운 사람의 몰락을 추진하는 목적이 도움 뒤에 존재한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

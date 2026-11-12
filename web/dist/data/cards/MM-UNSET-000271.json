@@ -5,21 +5,43 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": null,
+  "primary_tag_id": "ML-F13",
   "description": {
-    "definition": "",
+    "definition": "주문이나 초자연적 힘이 임신, 태아의 형성 또는 출생 결과에 직접 개입하는 허구적 설정.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 2,
+  "classification": {
+    "code": "13",
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "classification_semantics": null,
-  "easy_explanation": null,
+  "easy_explanation": {
+    "easy_ko": "이야기 속에서 마법이 임신이나 태어날 아이의 상태를 바꾸는 설정이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "이 설정에서는 마법의 효과가 임신이나 출생의 과정에 적용된다. 주문으로 아이의 외형이나 능력을 바꾸거나, 초자연적 조건 때문에 보통과 다른 출생이 일어나는 방식이 포함된다. 효과를 일으킨 원인과 변화한 결과가 작품 안에서 확인되어야 한다.\n\n임신한 사람의 감정이나 생각이 아이에게 전해진다고 믿는 [[임신 당시의 인상을 아이에게 새기는 설정]]과는 구별된다. 마법의 개입이 없는 유전적 닮음이나 임신 중의 물리적 노출도 이 카드의 범위에 넣지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "이 설정에서는 마법의 효과가 임신이나 출생의 과정에 적용된다. 주문으로 아이의 외형이나 능력을 바꾸거나, 초자연적 조건 때문에 보통과 다른 출생이 일어나는 방식이 포함된다. 효과를 일으킨 원인과 변화한 결과가 작품 안에서 확인되어야 한다.\n\n임신한 사람의 감정이나 생각이 아이에게 전해진다고 믿는 [[임신 당시의 인상을 아이에게 새기는 설정]]과는 구별된다. 마법의 개입이 없는 유전적 닮음이나 임신 중의 물리적 노출도 이 카드의 범위에 넣지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

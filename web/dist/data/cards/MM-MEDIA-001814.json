@@ -6,17 +6,17 @@
   "aliases": [
     "마다가스카의 펭귄"
   ],
-  "tag_id": null,
+  "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
     "definition": "《마다가스카의 펭귄(TV 애니메이션)》는 애니메이션 작품이다.",
-    "detail": "작품 사례: 《마다가스카의 펭귄(TV 애니메이션)》의 「Needle Point」에서 스키퍼는 주사를 두려워해 검진을 피하고 동료들이 그를 설득하려 한다. 주사를 맞아야 한다는 과제가 에피소드의 추격과 갈등을 이끈다.",
+    "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -41,6 +41,10 @@
   "related_media": [],
   "related_motifs": [
     {
+      "card_id": "MEJE-KW-016449",
+      "row_version": 2
+    },
+    {
       "card_id": "MEJE-KW-015332",
       "row_version": 1
     },
@@ -49,5 +53,18 @@
       "row_version": 1
     }
   ],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "《마다가스카의 펭귄》은 영화의 펭귄들을 중심으로 한 CGI TV 애니메이션이다. 스키퍼가 이끄는 네 펭귄은 센트럴파크 동물원에 살며 다양한 임무를 수행하고, 수달 말린과 여우원숭이 무리 등 다른 동물들과 관계를 맺는다.\n\n줄리언은 펭귄들을 방해하기도 하지만 어떤 임무에서는 협력 상대가 된다. 영화의 주인공 일행을 그대로 따라가기보다 동물원 안의 별도 생활과 작전을 전개하며, 영화와 다른 연속성을 가진 외전 시리즈로 구성된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "《마다가스카의 펭귄》은 영화의 펭귄들을 중심으로 한 CGI TV 애니메이션이다. 스키퍼가 이끄는 네 펭귄은 센트럴파크 동물원에 살며 다양한 임무를 수행하고, 수달 말린과 여우원숭이 무리 등 다른 동물들과 관계를 맺는다.\n\n줄리언은 펭귄들을 방해하기도 하지만 어떤 임무에서는 협력 상대가 된다. 영화의 주인공 일행을 그대로 따라가기보다 동물원 안의 별도 생활과 작전을 전개하며, 영화와 다른 연속성을 가진 외전 시리즈로 구성된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "처음부터 회차를 제한한 연속극",
   "original": "Miniseries",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T00565",
+  "primary_tag_id": "ML-T00565",
   "description": {
     "definition": "정해진 소수의 회차만 제작·방영할 계획으로 기획된 텔레비전 시리즈이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "인기가 없어 예상보다 빨리 취소된 시리즈와는 계획된 길이라는 점이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-10",
+  "row_version": 2,
   "classification": {
-    "code": "04",
+    "code": "04.002.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "제작 시작부터 회차 수와 이야기의 끝을 제한한 연속극이다. 무기한 연장보다 하나의 완결된 전개를 여러 편으로 나눈다.\n\n반응이 좋아 후속 기획이 생겨도 처음의 구성 원칙은 별도로 볼 수 있다. 중도 취소로 짧아진 시리즈와는 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "제작 시작부터 회차 수와 이야기의 끝을 제한한 연속극이다. 무기한 연장보다 하나의 완결된 전개를 여러 편으로 나눈다.\n\n반응이 좋아 후속 기획이 생겨도 처음의 구성 원칙은 별도로 볼 수 있다. 중도 취소로 짧아진 시리즈와는 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

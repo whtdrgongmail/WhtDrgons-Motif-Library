@@ -4,8 +4,8 @@
   "title": "입력 없이 기다릴 때 나오는 동작",
   "original": "Idle Animation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02070",
+  "primary_tag_id": "ML-T02070",
   "description": {
     "definition": "플레이어가 조작하지 않고 인물을 세워 두었을 때 자동으로 재생되는 짧은 동작이다. 멈춘 상태에 생동감과 인물의 개성을 더한다.",
     "detail": "주변을 살피기, 쉬기, 소지품 만지기, 동료와 상호작용하기, 플레이어를 재촉하기 등으로 변형된다.\n\n작품 사례: 《[[포켓몬 GO]]》의 플레이어 캐릭터는 가만히 두면 기지개를 켜거나 무언가 밟은 듯 신발 밑창을 살핀다.",
@@ -13,19 +13,19 @@
     "boundary": "플레이어가 버튼을 눌러 시키는 감정 표현이나 도발 동작과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.001",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "가만히 두면 캐릭터가 혼자 기지개를 켜거나 딴짓을 한다.\n\n작품 사례: 《[[포켓몬 GO]]》의 플레이어 캐릭터는 가만히 두면 기지개를 켜거나 무언가 밟은 듯 신발 밑창을 살핀다.",
+    "easy_ko": "가만히 두면 캐릭터가 혼자 기지개를 켜거나 딴짓을 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +38,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "플레이어가 입력하지 않은 시간이 동작을 발동시키는 조건이 된다. 쉬거나 주변을 살피고 소지품을 만지는 행동은 대기 상태에도 인물의 생활감과 개성을 부여한다.\n\n버튼으로 시킨 감정 표현이나 도발과는 시작 조건이 다르다. 항상 재생되는 걷기 동작과도 구분하여 무입력 대기라는 규칙을 확인해야 한다.\n\n《[[포켓몬 GO]]》의 플레이어 캐릭터는 가만히 두면 기지개를 켜거나 신발 밑을 본다. 입력이 없는 시간에 별도의 몸짓이 나타나는 방식이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "플레이어가 입력하지 않은 시간이 동작을 발동시키는 조건이 된다. 쉬거나 주변을 살피고 소지품을 만지는 행동은 대기 상태에도 인물의 생활감과 개성을 부여한다.\n\n버튼으로 시킨 감정 표현이나 도발과는 시작 조건이 다르다. 항상 재생되는 걷기 동작과도 구분하여 무입력 대기라는 규칙을 확인해야 한다."
+      ],
+      [
+        "관련 작품",
+        "《[[포켓몬 GO]]》의 플레이어 캐릭터는 가만히 두면 기지개를 켜거나 신발 밑을 본다. 입력이 없는 시간에 별도의 몸짓이 나타나는 방식이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

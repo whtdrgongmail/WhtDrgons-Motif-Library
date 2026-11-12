@@ -4,8 +4,8 @@
   "title": "무능한 장군",
   "original": "General Failure",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F09",
+  "tag_id": "ML-T00933",
+  "primary_tag_id": "ML-T00933",
   "description": {
     "definition": "악역 조직의 지휘관이 무능한 판단이나 기괴한 작전으로 부하를 위험에 빠뜨리고 실패를 자초하는 인물형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-11",
+  "row_version": 2,
   "classification": {
-    "code": "09",
+    "code": "09.006.004",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -30,5 +30,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "높은 군사적 지위나 조직의 지휘권을 가졌으면서도 무능한 판단으로 작전을 실패시키는 인물 유형이다. 잔혹함과 야심, 강력한 병력을 갖추었어도 그것을 성과로 연결하지 못한다.\n\n부하들은 계획의 허점을 알아보지만 권력 구조 때문에 제지하지 못하거나 불평에 그친다. 이 불균형은 악당 조직의 반복적인 패배를 설명하고, 지휘관의 위엄과 실제 능력 사이의 차이를 희극적으로 부각한다.\n\n단 한 번의 패배나 불리한 조건에서의 실패만으로 판단할 수는 없다. 병력을 위험에 빠뜨리는 비합리적 계획과 같은 문제가 반복되고, 주변이 그 결과를 감당하는 구조가 인물의 무능을 뒷받침한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "높은 군사적 지위나 조직의 지휘권을 가졌으면서도 무능한 판단으로 작전을 실패시키는 인물 유형이다. 잔혹함과 야심, 강력한 병력을 갖추었어도 그것을 성과로 연결하지 못한다.\n\n부하들은 계획의 허점을 알아보지만 권력 구조 때문에 제지하지 못하거나 불평에 그친다. 이 불균형은 악당 조직의 반복적인 패배를 설명하고, 지휘관의 위엄과 실제 능력 사이의 차이를 희극적으로 부각한다.\n\n단 한 번의 패배나 불리한 조건에서의 실패만으로 판단할 수는 없다. 병력을 위험에 빠뜨리는 비합리적 계획과 같은 문제가 반복되고, 주변이 그 결과를 감당하는 구조가 인물의 무능을 뒷받침한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

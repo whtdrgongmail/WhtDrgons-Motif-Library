@@ -4,8 +4,8 @@
   "title": "남에게 떠넘기는 숙제",
   "original": "Homework Slave",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01018",
+  "primary_tag_id": "ML-T01018",
   "description": {
     "definition": "다른 학생에게 위협·보호의 대가·친분·[[죄책감]]을 이용해 자기 학업 과제를 대신 수행하게 하는 [[관계 갈등]]이다.",
     "detail": "교사·권위자에게 위압을 주어 평가를 바꾸게 하거나 친분과 죄책감을 이용해 자녀에게 유리한 대우를 얻으려 할 수 있다.\n\n작품 사례: [[Zoey 101]]에서 상급반에 올라간 더스틴은 덩치 큰 학생에게 숙제를 떠맡고, 조이가 항의하자 오히려 다른 과목의 과제까지 강요받는다.",
@@ -13,19 +13,25 @@
     "boundary": "합의된 공동 공부나 답을 한 번 베끼는 행동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-12",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.006.007",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
-  "easy_explanation": {
-    "easy_ko": "한쪽은 놀고 다른 쪽은 불이익이 두려워 두 사람 몫의 숙제를 한다.\n\n작품 사례: [[Zoey 101]]에서 상급반에 올라간 더스틴은 덩치 큰 학생에게 숙제를 떠맡고, 조이가 항의하자 오히려 다른 과목의 과제까지 강요받는다.",
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "한쪽은 놀고 다른 쪽은 불이익이 두려워 두 사람 몫의 숙제를 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-09",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [
@@ -38,5 +44,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "숙제를 떠넘기는 쪽은 폭력의 위협뿐 아니라 다른 괴롭힘에서 보호해 준다는 조건이나 사회적 배제의 위협을 사용할 수 있다. 피해자는 자기 과제에 더해 상대의 과제까지 수행해야 한다.\n\n친구 관계에서도 일은 한쪽이 도맡고 다른 쪽은 친분이나 [[죄책감]]으로 이를 유지할 수 있다. 겉으로 공동 과제처럼 보여도 실제 수행과 이익이 한쪽으로 치우친다.\n\n핵심은 학업에 대한 자기 책임을 압박을 통해 타인에게 전가하는 데 있다. 서로 동의한 공동 공부나 일회적인 답안 베끼기와는 관계의 지속성과 강요 여부가 다르다.\n\n《[[Zoey 101]]》에서 상급반에 올라간 더스틴은 덩치 큰 학생에게 숙제를 떠맡고, 조이가 항의하자 오히려 다른 과목의 과제까지 강요받는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "숙제를 떠넘기는 쪽은 폭력의 위협뿐 아니라 다른 괴롭힘에서 보호해 준다는 조건이나 사회적 배제의 위협을 사용할 수 있다. 피해자는 자기 과제에 더해 상대의 과제까지 수행해야 한다.\n\n친구 관계에서도 일은 한쪽이 도맡고 다른 쪽은 친분이나 [[죄책감]]으로 이를 유지할 수 있다. 겉으로 공동 과제처럼 보여도 실제 수행과 이익이 한쪽으로 치우친다.\n\n핵심은 학업에 대한 자기 책임을 압박을 통해 타인에게 전가하는 데 있다. 서로 동의한 공동 공부나 일회적인 답안 베끼기와는 관계의 지속성과 강요 여부가 다르다."
+      ],
+      [
+        "관련 작품",
+        "《[[Zoey 101]]》에서 상급반에 올라간 더스틴은 덩치 큰 학생에게 숙제를 떠맡고, 조이가 항의하자 오히려 다른 과목의 과제까지 강요받는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

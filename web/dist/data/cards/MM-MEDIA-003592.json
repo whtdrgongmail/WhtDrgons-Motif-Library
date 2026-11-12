@@ -2,24 +2,69 @@
   "id": "MM-MEDIA-003592",
   "kind": "work",
   "title": "고스트 오브 마스",
-  "original": "",
+  "original": "John Carpenter's Ghosts of Mars",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00055",
+  "primary_tag_id": "ML-T00055",
   "description": {
-    "definition": "",
+    "definition": "《고스트 오브 마스》는 존 카펜터가 만든 2001년 화성 배경의 공상과학 공포 실사 영화다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.005.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "화성의 인간 거주지에서 경찰과 사람들이 위험한 화성의 영혼들에 맞서는 영화다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000185",
+      "card_id": "MM-MEDIA-003592",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.sonypictures.com/movies/johncarpentersghostsofmars",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "화성 식민지의 채굴 작업으로 풀려난 존재들이 인간의 몸을 차지하면서 경찰 일행이 위기에 빠진다. 소니 공식 표제는 《[[John Carpenter's Ghosts of Mars]]》다.\n\n경찰 멜라니 발라드는 범인을 데려오려던 임무 중 더 큰 위협과 마주한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "화성 식민지의 채굴 작업으로 풀려난 존재들이 인간의 몸을 차지하면서 경찰 일행이 위기에 빠진다. 소니 공식 표제는 《[[John Carpenter's Ghosts of Mars]]》다."
+      ],
+      [
+        "사례",
+        "경찰 멜라니 발라드는 범인을 데려오려던 임무 중 더 큰 위협과 마주한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 3,
+    "replaces_short_fields": true
+  }
 }

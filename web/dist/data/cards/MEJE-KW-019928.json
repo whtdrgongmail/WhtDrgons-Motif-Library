@@ -5,8 +5,8 @@
   "original": "Reporting Profanity Without Quoting It",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01952",
+  "primary_tag_id": "ML-T01952",
   "description": {
     "definition": "거친 발언의 내용은 직접 인용하지 않고 인물이 욕설을 했다는 사실과 반응만 알려 주는 서술이다.",
     "detail": "",
@@ -14,10 +14,10 @@
     "boundary": "효과음이나 기호로 음절을 덮는 검열 표현과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-11",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.004.005",
     "review_status": "provisional",
     "row_version": 1
   },
@@ -31,5 +31,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "욕설의 문구를 직접 인용하지 않고 욕했다는 사실과 주변의 반응만 서술한다. 발언의 정보는 남기되 구체적인 거친 언어는 독자의 상상에 맡긴다.\n\n인물의 말투를 그대로 재현하지 않아도 침묵과 당황 같은 반응으로 발언의 강도를 전달할 수 있다. 정확한 내용보다 그 말이 관계에 미친 영향에 관심을 집중시키는 방식이다.\n\n기호나 효과음으로 이미 발화된 음절을 덮는 표현과는 다르다. 무엇을 말했다는 서술 자체가 간접적이어야 하며 생략된 문구의 실제 내용과 강도를 임의로 확정하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "욕설의 문구를 직접 인용하지 않고 욕했다는 사실과 주변의 반응만 서술한다. 발언의 정보는 남기되 구체적인 거친 언어는 독자의 상상에 맡긴다.\n\n인물의 말투를 그대로 재현하지 않아도 침묵과 당황 같은 반응으로 발언의 강도를 전달할 수 있다. 정확한 내용보다 그 말이 관계에 미친 영향에 관심을 집중시키는 방식이다.\n\n기호나 효과음으로 이미 발화된 음절을 덮는 표현과는 다르다. 무엇을 말했다는 서술 자체가 간접적이어야 하며 생략된 문구의 실제 내용과 강도를 임의로 확정하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }

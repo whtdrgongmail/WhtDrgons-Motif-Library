@@ -4,8 +4,8 @@
   "title": "귀여운 소녀들과 군사 장비를 결합한 작품",
   "original": "Military Moe",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-028461",
+  "primary_tag_id": "MEJE-KW-028461",
   "description": {
     "definition": "귀여운 소녀 인물들의 관계와 생활을 군대 또는 군사 활동을 닮은 상황·장비 운용과 함께 감상의 중심에 놓는 작품 유형이다.",
     "detail": "작품 사례: 《[[걸즈 앤 판처]]》에서는 전차 운용이 여성적인 무도로 여겨지는 학교 스포츠다. 다수의 소녀 인물과 전차 전투가 작품의 중심을 이룬다.",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-06",
-  "row_version": 1,
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.407.002",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {
@@ -44,5 +47,22 @@
     }
   ],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "군사 모에 유형은 소녀 인물들의 관계와 일상을 군대 또는 군사 활동을 닮은 상황·장비 운용과 결합해 감상의 중심에 둔다. 부드럽거나 친근한 인물상과 무거운 장비·절차의 대비가 작품의 정서와 시각적 매력을 만들며, 군사적 활동도 인물들의 공동 경험으로 이어진다.\n\n개별 인물의 외모를 가리키는 말이 아니라 작품 전체의 구성 방식이다. 실제 군대 소속이나 가벼운 분위기를 반드시 요구하지도 않는다. 다른 군사 [[장르]]와 비교할 때는 장비의 사실성만 보지 말고 인물 관계와 생활 묘사가 감상의 중심에서 어떤 비중을 차지하는지 살펴본다.\n\n작품 사례: 《[[걸즈 앤 판처]]》에서는 소녀들이 전차를 운용하는 활동이 학교 스포츠로 제시된다. 인물들의 관계와 전차 운용이 작품의 주요 경험을 이룬다.",
+    "sections": [
+      [
+        "상세 설명",
+        "군사 모에 유형은 소녀 인물들의 관계와 일상을 군대 또는 군사 활동을 닮은 상황·장비 운용과 결합해 감상의 중심에 둔다. 부드럽거나 친근한 인물상과 무거운 장비·절차의 대비가 작품의 정서와 시각적 매력을 만들며, 군사적 활동도 인물들의 공동 경험으로 이어진다.\n\n개별 인물의 외모를 가리키는 말이 아니라 작품 전체의 구성 방식이다. 실제 군대 소속이나 가벼운 분위기를 반드시 요구하지도 않는다. 다른 군사 [[장르]]와 비교할 때는 장비의 사실성만 보지 말고 인물 관계와 생활 묘사가 감상의 중심에서 어떤 비중을 차지하는지 살펴본다."
+      ],
+      [
+        "관련 작품",
+        "작품 사례: 《[[걸즈 앤 판처]]》에서는 소녀들이 전차를 운용하는 활동이 학교 스포츠로 제시된다. 인물들의 관계와 전차 운용이 작품의 주요 경험을 이룬다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": false
+  }
 }

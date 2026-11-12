@@ -2,24 +2,63 @@
   "id": "MM-MEDIA-003517",
   "kind": "work",
   "title": "The Adventures of Figaro Pho",
-  "original": "",
+  "original": "The Adventures of Figaro Pho",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": null,
+  "tag_id": "ML-T00073",
+  "primary_tag_id": "ML-T00073",
   "description": {
-    "definition": "",
+    "definition": "《The Adventures of Figaro Pho》는 피가로 포의 여러 공포 경험을 다루는 오스트레일리아의 TV 애니메이션 시리즈다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
-  "content_status": "registered",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
-  "classification": null,
-  "classification_semantics": null,
-  "easy_explanation": null,
+  "content_status": "defined",
+  "updated_at": "2026-11-10",
+  "row_version": 3,
+  "classification": {
+    "code": "02.001.001",
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
+  "easy_explanation": {
+    "easy_ko": "겁이 많은 피가로 포를 주인공으로 한 TV 애니메이션이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-10",
+    "row_version": 1
+  },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [
+    {
+      "id": "REF-000132",
+      "card_id": "MM-MEDIA-003517",
+      "label_ko": "작품 공식 정보",
+      "icon_key": "website",
+      "url": "https://www.screenaustralia.gov.au/screen-guide/adventures-of-figaro-pho-the-30220/",
+      "description_ko": "제작·출판·공개 정보를 확인할 수 있다.",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
+  "longform_article": {
+    "text": "Screen Australia는 루크 유레비시우스의 선행 단편을 바탕으로 만든 이 작품을 2012년 완성된 22분짜리 13회 시리즈로 기록한다. 여러 공포증에 시달리는 피가로의 성격이 매번 다른 두려움을 다루는 회차들을 묶는 축이다. 공포의 대상이 바뀌어도 그것을 마주하는 인물이 같아 시리즈의 통일성이 생긴다.\n\n2009년의 《[[Figaro Pho]]》는 1분 30초짜리 26회 시리즈이고, 《[[The New Adventures of Figaro Pho]]》는 2015년에 완성된 후속 시리즈다. 세 작품은 주인공을 공유하지만 회차 길이와 제작 시기가 다르다. 괴물 식물 같은 특정 장면을 인용할 때에도 어느 시리즈에 속하는지 따로 확인해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "Screen Australia는 루크 유레비시우스의 선행 단편을 바탕으로 만든 이 작품을 2012년 완성된 22분짜리 13회 시리즈로 기록한다. 여러 공포증에 시달리는 피가로의 성격이 매번 다른 두려움을 다루는 회차들을 묶는 축이다. 공포의 대상이 바뀌어도 그것을 마주하는 인물이 같아 시리즈의 통일성이 생긴다.\n\n2009년의 《[[Figaro Pho]]》는 1분 30초짜리 26회 시리즈이고, 《[[The New Adventures of Figaro Pho]]》는 2015년에 완성된 후속 시리즈다. 세 작품은 주인공을 공유하지만 회차 길이와 제작 시기가 다르다. 괴물 식물 같은 특정 장면을 인용할 때에도 어느 시리즈에 속하는지 따로 확인해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-11",
+    "row_version": 4,
+    "replaces_short_fields": true
+  }
 }

@@ -4,8 +4,8 @@
   "title": "보르시 벨트식 유대인 코미디",
   "original": "Borscht Belt",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00306",
+  "primary_tag_id": "ML-T00306",
   "description": {
     "definition": "미국 유대인 휴양지의 무대 문화에서 발전한 [[말장난]]과 관객 소통의 [[코미디]] 흐름. 지역과 [[공동체]]의 역사 속에서 만들어진 공연 방식으로 읽는다.",
     "detail": "",
@@ -13,19 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-10",
+  "row_version": 4,
   "classification": {
-    "code": "03",
+    "code": "03.110",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "보르시 벨트식 유대인 코미디는 미국 유대인 휴양지의 공연 문화에서 나온 농담과 관객 소통 방식입니다. [[말장난]]만 흉내 내기보다 그 자리를 만든 공동체의 경험을 함께 살피는 편이 정확합니다.",
@@ -36,5 +39,18 @@
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": []
+  "references": [],
+  "longform_article": {
+    "text": "뉴욕주 캣스킬 지역의 유대인 휴양지 공연 문화와 연결되는 희극 양식이다. 자기비하와 불평, 가족과 결혼의 다툼, [[말장난]]을 빠른 대사로 전달하는 특징이 있다.\n\n같은 관객을 반복해서 만나는 공연 환경은 익숙한 생활의 문제를 계속 새 농담으로 바꾸게 했다. 일상적인 불만을 과장된 피해의식과 재치로 표현하는 방식은 무대 밖의 방송 희극에도 이어졌다.\n\n모든 유대인 코미디와 동일한 양식은 아니다. 이디시어와 특정한 복식은 인물을 알아보게 하는 표지가 될 수 있지만 실제 문화의 다양성과 무대에서 굳어진 정형을 구별해야 한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "뉴욕주 캣스킬 지역의 유대인 휴양지 공연 문화와 연결되는 희극 양식이다. 자기비하와 불평, 가족과 결혼의 다툼, [[말장난]]을 빠른 대사로 전달하는 특징이 있다.\n\n같은 관객을 반복해서 만나는 공연 환경은 익숙한 생활의 문제를 계속 새 농담으로 바꾸게 했다. 일상적인 불만을 과장된 피해의식과 재치로 표현하는 방식은 무대 밖의 방송 희극에도 이어졌다.\n\n모든 유대인 코미디와 동일한 양식은 아니다. 이디시어와 특정한 복식은 인물을 알아보게 하는 표지가 될 수 있지만 실제 문화의 다양성과 무대에서 굳어진 정형을 구별해야 한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-12",
+    "row_version": 2,
+    "replaces_short_fields": true
+  }
 }
