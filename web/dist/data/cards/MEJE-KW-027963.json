@@ -5,7 +5,7 @@
   "original": "",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "primary_tag_id": "ML-F03",
   "description": {
     "definition": "빠른 이동과 기동성 높은 전투를 중심에 둔 메카 게임 유형이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "총기를 사용하지 않는다는 뜻은 아니며 중량형과 같은 작품 안에 공존할 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "03",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "거대한 기체를 빠르게 움직여 근접전과 사격을 이어 간다.",
     "review_status": "reviewed",

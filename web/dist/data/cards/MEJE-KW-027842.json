@@ -4,8 +4,8 @@
   "title": "발사 전에만 방향을 정하는 맞추기 퍼즐",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02805",
+  "primary_tag_id": "ML-T02805",
   "description": {
     "definition": "조각이 움직이기 전에 방향이나 목적지를 정하고 출발 후에는 직접 조작할 수 없게 하는 퍼즐 방식이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "이동 중 위치를 계속 수정할 수 있는 낙하 조작과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

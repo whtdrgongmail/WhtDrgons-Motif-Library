@@ -4,8 +4,8 @@
   "title": "동시 공격자 수를 제한하는 전투 배치",
   "original": "Unit Slotting",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
     "definition": "적 인공지능에 실제로 직접 공격할 수 있는 자리 수를 제한해 많은 적 중 일부만 접근 공격하고 나머지는 대기하거나 원거리 행동을 하게 하는 설계다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "모든 게임이 이 구현을 쓴다고 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005",
     "review_status": "provisional",
     "row_version": 1
   },

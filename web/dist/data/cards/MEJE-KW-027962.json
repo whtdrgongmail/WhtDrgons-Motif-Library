@@ -5,7 +5,7 @@
   "original": "Mech Simulator",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "primary_tag_id": "ML-F03",
   "description": {
     "definition": "느린 기동과 장거리 무기 운용을 중심으로 거대한 메카의 전투를 경험하게 하는 게임 유형이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "일인칭은 흔한 표현 방식이지만 모든 작품의 필수 시점은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "03",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "조종석에서 무거운 병기를 운용하는 느낌을 강조한다.",
     "review_status": "reviewed",

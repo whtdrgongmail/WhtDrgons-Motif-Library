@@ -4,8 +4,8 @@
   "title": "주변 상황에 따라 공격 피해량을 바꾸기",
   "original": "Situational Damage Attack",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
     "definition": "공격자의 고정 능력치 이외의 외부 조건이 충족되는지에 따라 공격 피해량이 달라지는 게임 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "여러 사용자 능력치를 더하는 계산과 달리 외부 조건의 성립 여부가 위력 변화의 원인이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005",
     "review_status": "provisional",
     "row_version": 1
   },

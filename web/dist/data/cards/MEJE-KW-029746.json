@@ -5,7 +5,7 @@
   "original": "Museum Game",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "primary_tag_id": "ML-F03",
   "description": {
     "definition": "게임 전체의 주요 목적과 구성이 회사나 작품 시리즈의 과거를 되돌아보고 기념하도록 만들어진 게임 형식이다.",
     "detail": "오래된 회사의 기념 게임뿐 아니라 여러 작품을 가진 테마파크를 방문하는 독립 게임에서도 가능하다. 읽을 수 있는 전시 자료가 있으면 박물관 비유가 선명하지만 실제 건물 형태는 필수가 아니다.\n\n작품 사례: 《[[소닉 제너레이션즈]]》는 앞선 시리즈의 장소를 바탕으로 한 스테이지와 함께 초기 디자인 그림, 인물 정보, 과거 음악을 모아 놓는다. 이전 작품의 한 장면을 인용하는 수준을 넘어 시리즈의 역사를 탐방하는 게임 전체의 구성이 된다.",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "03",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "플레이하는 일이 한 시리즈의 역사관을 돌아보는 경험이 된다.",
     "review_status": "reviewed",

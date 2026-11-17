@@ -5,8 +5,8 @@
   "original": "A Fortification Only Buildable on the Point",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T00480",
+  "primary_tag_id": "ML-T00480",
   "description": {
     "definition": "특정 거점 영역에서만 만들 수 있는 방어물로 적의 점령 시도를 저지하는 규칙이다.",
     "detail": "",
@@ -14,14 +14,22 @@
     "boundary": "어디서나 설치 가능한 일반 방어 시설과 설치 가능 범위를 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
-    "row_version": 1
+    "code": "25.013.003",
+    "review_status": "reviewed",
+    "row_version": 2
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 2
+  },
   "easy_explanation": {
     "easy_ko": "아무 데나 세우는 포탑이 아니라 거점에 붙이는 방어 기능이다.",
     "review_status": "reviewed",

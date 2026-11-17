@@ -5,7 +5,7 @@
   "original": "Massively Multiplayer Online Role-Playing Game",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "primary_tag_id": "ML-F03",
   "description": {
     "definition": "많은 플레이어가 인터넷으로 같은 게임 환경에 접속하여 인물을 성장시키고 임무·협동·경쟁을 수행하는 역할극 게임 [[장르]]이다.",
     "detail": "[[길드]]·집단 임무·플레이어 간 대결·아이템 경제가 개인의 성장과 얽히며, 구독·부분 유료·선택적 구매 등 운영 모델은 별도로 설계한다.",
@@ -13,14 +13,20 @@
     "boundary": "대규모 온라인 접속 자체는 역할극 장르를 뜻하지 않는다. 같은 로비에서 상대를 찾는 게임과 공동 세계에서 활동하는 게임도 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "03",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 수많은 사람과 함께 살아가는 게임 세계에서 자신의 인물을 키운다.",
     "review_status": "reviewed",

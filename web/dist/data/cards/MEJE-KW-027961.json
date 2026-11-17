@@ -5,7 +5,7 @@
   "original": "Mecha Game",
   "aliases": [],
   "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "primary_tag_id": "ML-F03",
   "description": {
     "definition": "메카를 사용한 전투를 중심에 두는 게임 범주로, 액션·시뮬레이션·전략 등 서로 다른 진행 형식에 걸쳐 나타난다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "하나의 고정된 조작 [[장르]]는 아니다. 기체 맞춤 설정은 흔하지만 필수 조건은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "03",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "facet",
+    "parent_relation": "root",
+    "allowed_roles": [],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "로봇끼리 싸운다는 소재 아래 기체를 조작하거나 부품과 조종사를 고르는 방식이 달라진다.",
     "review_status": "reviewed",

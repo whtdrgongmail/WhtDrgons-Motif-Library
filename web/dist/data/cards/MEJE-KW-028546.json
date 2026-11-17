@@ -4,8 +4,8 @@
   "title": "본 보스에 앞서 배치하는 중간 보스",
   "original": "Mini-Boss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02804",
+  "primary_tag_id": "ML-T02804",
   "description": {
     "definition": "일반 적과 구별되는 강적을 주요 구간의 최종 보스 전에 독립적인 전투 고비로 배치하는 방식이다.",
     "detail": "작품 사례: 《[[콘트라]]》에서는 스테이지 중간에 등장하는 강적을 쓰러뜨려야 화면 진행이 이어지는 구간이 있다. 최종 보스 이전에 이동을 막는 별도의 전투 고비가 된다.",
@@ -13,11 +13,11 @@
     "boundary": "반드시 최종 보스보다 쉬워야 하는 것은 아니다. 보통 적처럼 피해서 지나갈 수 있는 강적과는 배치 역할이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

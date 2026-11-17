@@ -4,8 +4,8 @@
   "title": "거점을 점령해야 적 핵심부가 드러나기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T00480",
+  "primary_tag_id": "ML-T00480",
   "description": {
     "definition": "중립 거점을 확보하는 것이 상대 기지의 핵심 목표를 공격할 수 있게 만드는 선행 조건이다.",
     "detail": "작품 사례: 《[[Starwing Paradox]]》에서는 중립 거점을 확보해야 상대 기지의 핵심부가 드러나 공격할 수 있다.",
@@ -13,14 +13,22 @@
     "boundary": "거점 점수가 곧바로 승리를 결정하는 경우와 달리 마지막 목표를 여는 단계가 된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
-    "row_version": 1
+    "code": "25.013.003",
+    "review_status": "reviewed",
+    "row_version": 2
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 2
+  },
   "easy_explanation": {
     "easy_ko": "거점을 먼저 차지해야 적 본진의 핵을 노릴 수 있다.",
     "review_status": "reviewed",
