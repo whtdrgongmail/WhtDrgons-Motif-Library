@@ -4,8 +4,8 @@
   "title": "사소한 방법에 뚫리는 완벽한 보안",
   "original": "Myopic Architecture",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T02832",
+  "primary_tag_id": "ML-T02832",
   "description": {
     "definition": "실수를 막도록 치밀하게 설계했다는 보안이나 방어 장치가 설계자가 생각하지 못한 단순한 수단으로 무력화되는 구조이다.",
     "detail": "막으려던 위협에 몰두한 설계와 예상 밖 기본 행동을 대비한다.",
@@ -13,11 +13,11 @@
     "boundary": "방어를 정면으로 힘껏 부수거나 정교한 기술로 해킹하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "16",
-    "review_status": "provisional",
+    "code": "16.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

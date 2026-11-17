@@ -4,8 +4,8 @@
   "title": "권한 확인을 건너뛰는 만능 해제 명령",
   "original": "Override Command",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T02832",
+  "primary_tag_id": "ML-T02832",
   "description": {
     "definition": "장치나 시스템의 정상 인증에 실패해도 특별한 해제 명령 하나를 알면 접근 권한이나 제어권을 얻을 수 있다고 설정하는 장치다.",
     "detail": "작품 사례: 《[[슈퍼맨(코믹스)]]》의 클라크는 고독의 요새에 있는 크립톤 수송 상자의 음성 해제 코드를 알지 못해 출고 설정을 바꾸지 않았고, 그 코드를 아는 조드가 제어권을 이용한다.",
@@ -13,11 +13,11 @@
     "boundary": "허구의 편리한 명령을 현실의 모든 기기에 존재하는 보편 기능으로 가정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "16",
-    "review_status": "provisional",
+    "code": "16.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

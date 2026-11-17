@@ -4,8 +4,8 @@
   "title": "제한된 신호에 예와 아니오를 정하기",
   "original": "Once for Yes, Twice for No",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02682",
+  "primary_tag_id": "ML-T02682",
   "description": {
     "definition": "말을 충분히 할 수 없는 상황에서 신호의 횟수 같은 최소한의 차이에 긍정과 부정의 뜻을 정해 의사를 전달한다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "완전한 언어나 우연한 움직임과 달리 제한된 신호에 합의된 뜻이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.009.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
