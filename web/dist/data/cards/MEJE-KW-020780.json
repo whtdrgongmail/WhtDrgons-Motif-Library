@@ -5,8 +5,8 @@
   "original": "Undercover Inspector's Personal Bond",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02664",
+  "primary_tag_id": "ML-T02664",
   "description": {
     "definition": "부패를 조사하려 신분을 숨기고 동료 집단에 들어간 감찰 담당자가 조사 대상과 우정이나 사랑을 맺어 임무와 관계 사이에 갈등하는 구도다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "범죄 조직에 잠입한 수사자 일반과 구별한다. 자기 조직 내부를 조사하는 임무와 동료 관계가 겹친다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "감시해야 할 사람들이 가까운 동료가 되고, 정체가 밝혀질 때 신뢰가 흔들린다.",
     "review_status": "reviewed",

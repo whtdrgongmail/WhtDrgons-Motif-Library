@@ -4,8 +4,8 @@
   "title": "암호를 한 번 틀리면 끝나는 보안 장치",
   "original": "One Password Attempt Ever",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01445",
+  "primary_tag_id": "ML-T01445",
   "description": {
     "definition": "암호를 잘못 입력할 기회가 한 번도 허용되지 않아 첫 실패로 영구 잠금·자료 파괴·위험한 장치 작동 같은 되돌리기 어려운 결과가 생기는 설정이다.",
     "detail": "정당한 사용자도 실수할 수 있고, 접근을 방해하려는 적에게 실패 조건이 역이용될 수 있다는 설계상의 긴장을 만든다.\n\n작품 사례: 《[[닥터 후]]》에서 태양으로 추락하는 우주선의 잠긴 문은 상식 문제에 한 번 틀리면 재시도할 수 없다. 질문을 정한 승무원들마저 교대해 없어 단 한 번의 선택이 탈출을 어렵게 만든다.",
@@ -13,10 +13,10 @@
     "boundary": "정해진 횟수 뒤 잠시 잠기는 장치나 쉽게 맞혀 한 번에 통과하는 상황과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.005",
     "review_status": "provisional",
     "row_version": 1
   },

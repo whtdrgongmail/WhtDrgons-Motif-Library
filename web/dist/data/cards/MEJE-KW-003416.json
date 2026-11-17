@@ -4,8 +4,8 @@
   "title": "외모의 편견을 넘어 만나는 두 사람",
   "original": "Blind and the Beast",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "외모 때문에 소외된 사람과 시각장애가 있는 사람이 관계를 맺는다. 시각장애를 타인의 내면을 자동으로 알아보는 능력으로 만들지 않고 두 사람의 선택을 보여 준다. 외모를 단순한 결함으로 보지 않는 표현은 [[상처와 함께 아름답게 그려진 인물]]와도 연결된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "외모 때문에 차별받던 사람과 시각장애가 있는 사람이 서로를 알아가며 관계를 맺는 설정이다. 외모 평가가 대화의 전부가 아닌 만남을 보여 줄 수 있다. 시각장애가 있다고 내면을 자동으로 이해하는 것은 아니며 두 사람의 경험과 선택으로 신뢰가 형성된다.",
     "review_status": "reviewed",

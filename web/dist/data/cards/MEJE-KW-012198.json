@@ -4,8 +4,8 @@
   "title": "대를 잇는 영웅의 계보",
   "original": "Heroic Lineage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02673",
+  "primary_tag_id": "ML-T02673",
   "description": {
     "definition": "가족의 여러 세대가 영웅적 역할과 행적을 이어 가도록 설정하는 계보 모티프다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "[[능력]]만 유전되거나 유명한 조상이 있다는 사실과 달리 영웅적 역할이 세대에 걸쳐 이어져야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.043",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "부모가 지키던 사람들을 다음 세대도 지킨다.",
     "review_status": "reviewed",

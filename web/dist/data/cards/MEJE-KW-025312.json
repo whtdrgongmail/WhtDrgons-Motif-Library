@@ -5,8 +5,8 @@
   "original": "Answering Only the Literal Question",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02691",
+  "primary_tag_id": "ML-T02691",
   "description": {
     "definition": "질문의 문자적 조건만 만족시키는 답을 주어 질문자가 찾는 더 구체적인 정보를 숨긴다.",
     "detail": "",
@@ -14,11 +14,11 @@
     "boundary": "실제로 필요한 답을 모르거나 단순히 짧게 말하는 상황과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.006.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

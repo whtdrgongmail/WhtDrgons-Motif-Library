@@ -4,8 +4,8 @@
   "title": "모두에게 미움받는 폭압적 인물",
   "original": "Hated by All",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "무책임하고 가혹한 행동 때문에 주변 사람들이 공통으로 그 인물을 혐오한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "원문은 학대적 행동을 원인으로 제시해 원인과 선악을 제한하지 않는 기존 제안보다 좁다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "권력은 있어도 그를 좋아하는 사람이 없다.",
     "review_status": "reviewed",

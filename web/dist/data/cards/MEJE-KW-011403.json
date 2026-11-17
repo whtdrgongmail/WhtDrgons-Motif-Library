@@ -4,8 +4,8 @@
   "title": "요리로 호감 얻기",
   "original": "Through His Stomach",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "상대가 좋아할 [[식사]]를 마련해 자신의 배려와 매력을 전달하고 호감을 얻는 [[행동]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "음식 판매나 일상적 급식과 달리 호감 형성이 행동의 목적이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대를 위해 맛있는 음식을 만들어 [[관계]]를 발전시키려 한다.",
     "review_status": "reviewed",

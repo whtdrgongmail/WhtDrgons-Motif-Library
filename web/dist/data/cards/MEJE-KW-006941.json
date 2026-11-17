@@ -4,8 +4,8 @@
   "title": "동류에게서 타인을 지키기",
   "original": "Defends Against Their Own Kind",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "어떤 특성을 공유한 인물이 같은 부류의 위협으로부터 다른 집단을 보호한다. 공통 [[정체성]]이 곧 같은 가치관을 뜻하지 않음을 보여 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "같은 종족이나 특성을 가진 존재가 다른 동족의 위협에 맞서 외부 사람들을 지키는 전개다. 공유하는 [[정체성]]만으로 모두 같은 편과 가치관을 가졌다고 볼 수 없으며, 출신보다 행동과 선택으로 소속을 정하는 인물이 된다.",
     "review_status": "reviewed",

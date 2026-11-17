@@ -4,8 +4,8 @@
   "title": "숙적과 즐기는 일상 활동",
   "original": "Go-Karting with Bowser",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01020",
+  "primary_tag_id": "ML-T01020",
   "description": {
     "definition": "대립하는 인물들이 싸움을 잠시 접고 [[게임]]·[[식사]]·대화 같은 평화로운 활동을 함께 하는 [[관계]] [[장면]]이다.",
     "detail": "작품 사례: [[How It Should Have Ended]]의 Transformers Play Battleship에서 Optimus와 Megatron은 싸움 대신 작은 보드게임을 두며 영화 이야기를 나눈다.",
@@ -13,14 +13,20 @@
     "boundary": "공동의 적을 물리치기 위한 전술적 연합과 달리 일상적 교류가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
-    "code": "10",
+    "code": "10.007.001",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "평소 싸우던 [[영웅]]과 [[악당]]이 오늘은 함께 운동하거나 밥을 먹는다.",
     "review_status": "reviewed",

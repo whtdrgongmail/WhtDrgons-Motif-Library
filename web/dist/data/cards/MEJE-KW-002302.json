@@ -4,8 +4,8 @@
   "title": "기존 연인 사이를 깨뜨리려는 인물",
   "original": "Attempted Homewrecker",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "상대가 이미 맺은 관계를 알면서도 둘을 갈라놓고 자신과 이어지려는 사람이 등장한다. 유혹 자체보다 집요한 개입과 상대의 의사가 갈등이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이미 연인이 있는 사람에게 접근하며 기존 커플을 갈라놓으려는 인물이 등장하는 구도다. 거짓 정보를 흘리거나 갈등을 부추기는 개입이 사건을 만든다. 호감을 갖는 마음 자체보다 상대의 거절과 기존 관계의 선택을 존중하지 않는 행동이 문제다.",
     "review_status": "reviewed",

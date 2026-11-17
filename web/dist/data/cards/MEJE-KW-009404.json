@@ -4,8 +4,8 @@
   "title": "좋을 때만 곁에 있는 친구",
   "original": "Fair-Weather Friend",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02671",
+  "primary_tag_id": "ML-T02671",
   "description": {
     "definition": "순조로운 날에는 가까이 지내지만 도움이 필요한 순간에는 사라지는 친구다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.041",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "즐겁고 순조로운 때에는 친하지만 곤란한 일이 생기면 거리를 두는 친구다. 함께 시간을 보내는 친밀함과 어려움을 나눌 의지가 다를 수 있음을 보여 주며, 도움을 기대했던 인물은 문제가 생긴 뒤에야 관계의 조건을 알게 된다.",
     "review_status": "reviewed",

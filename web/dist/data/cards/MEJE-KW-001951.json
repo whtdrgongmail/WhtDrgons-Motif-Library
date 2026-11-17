@@ -4,8 +4,8 @@
   "title": "수족관에서 가까워지는 두 사람",
   "original": "Aquarium Date",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "두 인물이 수족관을 함께 거닐며 조용한 공간 속에서 관계를 살피거나 마음을 드러낸다. 물과 유리 너머의 풍경이 대화의 거리감을 비춘다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람이 수족관을 함께 구경하며 일상보다 조용하게 이야기를 나누는 만남이다. 유리 너머 생물을 보느라 잠시 침묵해도 어색하지 않아 감정을 표현할 시간을 얻을 수 있다. 장소가 주는 분위기와 별개로 대화와 반응이 실제 관계의 변화를 만든다.",
     "review_status": "reviewed",

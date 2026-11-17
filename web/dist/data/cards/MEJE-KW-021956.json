@@ -4,8 +4,8 @@
   "title": "비현실적인 고온까지 설정되는 오븐",
   "original": "Oven Logic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01469",
+  "primary_tag_id": "ML-T01469",
   "description": {
     "definition": "일반적인 조리 기구의 온도 조절 범위가 용도에 맞지 않을 만큼 극단적인 고온까지 올라가도록 설정되는 장치의 부조리이다.",
     "detail": "과장된 눈금과 기능이 기계 설계의 비합리성을 드러낸다.",
@@ -13,10 +13,10 @@
     "boundary": "조리 온도와 시간을 잘못 계산하는 인물의 오류와는 다르며, 이전002차 같은 원어 제안과 범위가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.007.006",
     "review_status": "provisional",
     "row_version": 1
   },

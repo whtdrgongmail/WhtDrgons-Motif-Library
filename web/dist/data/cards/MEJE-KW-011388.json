@@ -4,8 +4,8 @@
   "title": "기대를 꺾는 선물",
   "original": "My New Gift Is Lame",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "받은 선물이 기대와 다르거나 매력 없게 느껴져 수령자가 실망하는 상황이다.",
     "detail": "작품 사례: 영화 《[[반지의 제왕: 반지 원정대]]》에서 샘은 다른 동료들이 특별한 선물을 받을 때 자신에게는 밧줄이 주어져 실망한다. 그러나 그 밧줄은 나중에 특별한 기능을 발휘한다. 원작 소설의 선물 장면과는 구분되는 사례다.",
@@ -13,14 +13,20 @@
     "boundary": "주는 사람의 판단 오류 자체보다 받은 사람의 실망 반응이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "포장을 뜯은 뒤 바라던 것이 아니어서 표정이 굳는다.",
     "review_status": "reviewed",

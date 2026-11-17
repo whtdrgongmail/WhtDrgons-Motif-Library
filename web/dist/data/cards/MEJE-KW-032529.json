@@ -4,8 +4,8 @@
   "title": "인증 실패가 침입자 공격 장치를 작동시키기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01445",
+  "primary_tag_id": "ML-T01445",
   "description": {
     "definition": "보안 장치가 인증 실패를 침입으로 간주하고 접근한 사람을 해치는 함정을 작동시키는 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "자료의 삭제나 단순 경보와 달리 접근자에게 물리적 위해를 주는 반응이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.005",
     "review_status": "provisional",
     "row_version": 1
   },

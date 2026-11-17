@@ -4,8 +4,8 @@
   "title": "같은 편 졸개끼리도 충성하지 않기",
   "original": "NoSympathyBetweenMooks",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "악역의 하급 부하들이 같은 편이라는 이유만으로 서로를 지키거나 신뢰하지 않는 집단 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 조직에 속해 있어도 동료를 위해 위험을 감수하지 않는다.",
     "review_status": "reviewed",

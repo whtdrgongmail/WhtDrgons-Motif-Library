@@ -4,8 +4,8 @@
   "title": "인증 실패로 비밀 자료가 파괴되기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01445",
+  "primary_tag_id": "ML-T01445",
   "description": {
     "definition": "잘못된 인증이 비밀 자료의 삭제나 보관 장치의 자폭을 촉발하여 침입자가 내용을 얻지 못하게 하는 허구적 보안 설정이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "접근만 제한하는 잠금과 달리 보존 대상이 파괴되는 결과가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.005",
     "review_status": "provisional",
     "row_version": 1
   },

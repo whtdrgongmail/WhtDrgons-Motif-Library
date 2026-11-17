@@ -5,8 +5,8 @@
   "original": "The First Partner Befriends the Other Suitors",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "추가 구애자들이 나타나도 첫 연인이 질투보다 친절과 신뢰를 보이며 그들과 우정을 맺는 관계 구성이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "연애 경쟁 자체가 사라졌다는 뜻은 아니며 당사자의 무지·성격·신뢰 등 이유는 달라질 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "같은 사람을 좋아하는 경쟁자들과도 사이좋게 지낸다.",
     "review_status": "reviewed",

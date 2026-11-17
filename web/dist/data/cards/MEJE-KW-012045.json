@@ -4,8 +4,8 @@
   "title": "공포 관람을 통한 친밀감",
   "original": "Intimacy via Horror",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "무서운 오락을 함께 보면서 한 사람이 놀라는 반응을 다른 사람이 위로나 접촉의 기회로 삼는 [[연애]] [[장면]]이다.",
     "detail": "공포영화·귀신의 집·[[담력 시험]] 같은 상황을 의도적으로 마련한다. 무서운 척하는 쪽이 접촉을 유도할 수도 있고, 계획한 사람이 더 겁먹어 실패할 수도 있다.\n\n작품 사례: 《[[카구야 님은 고백받고 싶어 ~천재들의 연애 두뇌전~]]》에서 이시가미는 츠바메와 귀신의 집에서 가까워지려 하지만, 성별에 따라 갈라 놓는 규칙 때문에 계획이 막힌다.",
@@ -13,14 +13,20 @@
     "boundary": "실제 위험에서의 [[구조]]와 달리 함께 즐기는 [[공포]] 오락이 계기를 제공한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "공포영화를 보던 상대가 무서워하자 손을 잡으며 가까워진다.",
     "review_status": "reviewed",
