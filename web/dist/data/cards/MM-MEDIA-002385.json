@@ -7,14 +7,14 @@
   "tag_id": "ML-T02513",
   "primary_tag_id": "ML-T02513",
   "description": {
-    "definition": "《아실 탈롱》은 만화 작품이다.",
+    "definition": "그레그가 1963년 프랑스어권 잡지 《필로트》에서 시작한 유머 만화 시리즈다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.020",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《아실 탈롱》에서 탈롱은 이웃의 농담을 다음 날 길을 걷다가 이해한다. 마침 지나던 사람이 그 웃음을 자신을 향한 조롱으로 오해한다.",
+    "easy_ko": "학자처럼 말하기를 좋아하는 아실 탈롱과 주변 사람들이 벌이는 소동을 그린다. 잡지의 한 페이지짜리 만화에서 출발해 여러 권의 단행본으로 이어졌다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000495",
+      "card_id": "MM-MEDIA-002385",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.dargaud.com/auteurs/greg",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000496",
+      "card_id": "MM-MEDIA-002385",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.dargaud.com/bd/achille-talon/achille-talon-integrales/achille-talon-integrales-tome-0-le-summum-achille-talon",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《아실 탈롱》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "그레그가 글과 그림을 맡은 《아실 탈롱》은 1963년 《필로트》에 등장했다. 편집자 르네 고시니는 광고가 들어오면 막판에도 뺄 수 있는 한 페이지짜리 만화를 부탁했고, 그레그는 이 요청을 받아 탈롱을 창작했다.\n\n아실 탈롱의 주변에는 부모와 이웃 일라리옹 르퓌네스트, 잡지 《폴리트》의 사람들이 있다. 이들이 함께 등장하는 단편은 같은 인물들을 익숙한 관계 속에 두면서도 매번 다른 소동을 시작할 수 있는 연재 형식에 맞는다.",
     "sections": [
       [
         "상세 설명",
-        "《아실 탈롱》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "그레그가 글과 그림을 맡은 《아실 탈롱》은 1963년 《필로트》에 등장했다. 편집자 르네 고시니는 광고가 들어오면 막판에도 뺄 수 있는 한 페이지짜리 만화를 부탁했고, 그레그는 이 요청을 받아 탈롱을 창작했다.\n\n아실 탈롱의 주변에는 부모와 이웃 일라리옹 르퓌네스트, 잡지 《폴리트》의 사람들이 있다. 이들이 함께 등장하는 단편은 같은 인물들을 익숙한 관계 속에 두면서도 매번 다른 소동을 시작할 수 있는 연재 형식에 맞는다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

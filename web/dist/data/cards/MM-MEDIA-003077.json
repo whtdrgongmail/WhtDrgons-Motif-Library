@@ -7,14 +7,14 @@
   "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《데몬즈 크레스트》는 비디오게임 작품이다.",
+    "definition": "파이어브랜드가 여섯 개의 마석을 되찾으려는 슈퍼 닌텐도 액션 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《데몬즈 크레스트》는 하나로 완전히 이어진 세계 대신 분리된 스테이지를 사용하는 탐험 액션의 참조로 소개된다.",
+    "easy_ko": "파이어브랜드는 파랑크스보다 먼저 마석을 찾아야 한다. 적과 싸우고 길을 탐색하는 동안 비행과 여러 변신 능력을 이용한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 3
+    "updated_at": "2026-11-18",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000521",
+      "card_id": "MM-MEDIA-003077",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.nintendo.com/nl-nl/Games/Super-Nintendo/Demon-s-Crest--949463.html",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《데몬즈 크레스트》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "《데몬즈 크레스트》는 슈퍼 닌텐도의 액션 게임이다. 악마 세계를 무대로, 파이어브랜드는 숙적 파랑크스에게 마석 여섯 개가 들어가기 전에 이를 되찾으려 한다. 파이어브랜드는 날고 불을 뿜을 수 있으며 특수 능력이 서로 다른 여러 모습으로 변할 수 있다.\n\n변신마다 쓸 수 있는 능력이 달라 모험 중 어떤 모습으로 움직이느냐에 따라 대응 방법이 달라진다. 작품에는 세 가지 결말이 마련되어 있다. 마석을 찾는 하나의 목표를 향해 진행하지만, 모험이 끝나는 모습에는 여러 가능성이 있다.",
     "sections": [
       [
         "상세 설명",
-        "《데몬즈 크레스트》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "《데몬즈 크레스트》는 슈퍼 닌텐도의 액션 게임이다. 악마 세계를 무대로, 파이어브랜드는 숙적 파랑크스에게 마석 여섯 개가 들어가기 전에 이를 되찾으려 한다. 파이어브랜드는 날고 불을 뿜을 수 있으며 특수 능력이 서로 다른 여러 모습으로 변할 수 있다.\n\n변신마다 쓸 수 있는 능력이 달라 모험 중 어떤 모습으로 움직이느냐에 따라 대응 방법이 달라진다. 작품에는 세 가지 결말이 마련되어 있다. 마석을 찾는 하나의 목표를 향해 진행하지만, 모험이 끝나는 모습에는 여러 가능성이 있다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

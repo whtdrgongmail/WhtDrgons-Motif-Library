@@ -7,14 +7,14 @@
   "tag_id": "ML-T00130",
   "primary_tag_id": "ML-T00130",
   "description": {
-    "definition": "《왕좌의 게임 핀볼》은 핀볼 작품이다.",
+    "definition": "웨스테로스 가문의 기사가 되어 경쟁 가문에 맞서는 스턴 핀볼의 기계식 핀볼 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.018.005",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《왕좌의 게임 핀볼》의 티렐 가문은 특정 점수 배수가 계속 켜지는 이점 때문에 경쟁 플레이에서 자주 선택되는 사례로 제시된다.",
+    "easy_ko": "플레이어는 스타크나 라니스터 같은 가문에서 한 곳을 고른다. 공을 쳐서 다른 가문과 대결하고 금을 모아 장비에 쓴다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000522",
+      "card_id": "MM-MEDIA-003150",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.sternpinball.com/game/game-of-thrones/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000523",
+      "card_id": "MM-MEDIA-003150",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://sternpinball.com/wp-content/uploads/2019/07/GoT-2019-Update-Summary.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《왕좌의 게임 핀볼》라는 표제는 핀볼을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 핀볼을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "스턴의 《왕좌의 게임 핀볼》에서 플레이어는 스타크, 라니스터, 그레이조이, 바라테온, 마르텔, 티렐 가문 가운데 한 곳의 기사가 된다. 맞서 싸울 가문을 고르면서 웨스테로스의 일곱 왕국을 지배하는 목표에 가까워진다.\n\n범퍼를 이용하면 화면에서 세 개의 릴이 돌고, 같은 표시가 맞으면 보상을 받는다. 모은 금으로 필요한 무기나 기능을 살 수 있다. 제조사 업데이트 기록은 가문별 보상과 점수 계산도 다루며, 선택한 가문이 기기에서 실제로 수행하는 과제에 반영된다.",
     "sections": [
       [
         "상세 설명",
-        "《왕좌의 게임 핀볼》라는 표제는 핀볼을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 핀볼을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "스턴의 《왕좌의 게임 핀볼》에서 플레이어는 스타크, 라니스터, 그레이조이, 바라테온, 마르텔, 티렐 가문 가운데 한 곳의 기사가 된다. 맞서 싸울 가문을 고르면서 웨스테로스의 일곱 왕국을 지배하는 목표에 가까워진다.\n\n범퍼를 이용하면 화면에서 세 개의 릴이 돌고, 같은 표시가 맞으면 보상을 받는다. 모은 금으로 필요한 무기나 기능을 살 수 있다. 제조사 업데이트 기록은 가문별 보상과 점수 계산도 다루며, 선택한 가문이 기기에서 실제로 수행하는 과제에 반영된다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

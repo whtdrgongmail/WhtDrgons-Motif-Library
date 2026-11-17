@@ -7,14 +7,14 @@
   "tag_id": "ML-T00066",
   "primary_tag_id": "ML-T00066",
   "description": {
-    "definition": "《철도 시리즈》는 문학 작품이다.",
+    "definition": "윌버트 오드리가 아들에게 들려준 이야기를 바탕으로 1945년부터 나온 어린이 철도 이야기책 시리즈다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.007",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《철도 시리즈》의 「The Sad Story of Henry」는 비를 피해 터널로 들어간 기관차를 소개하는 다섯 행의 시로 시작한다. 짧은 운문이 사건과 인물의 행동을 간결하게 예고한다.",
+    "easy_ko": "토머스와 다른 기관차들이 일하고 다투고 서로 돕는 이야기다. 윌버트 오드리가 아들을 위해 지어낸 기관차 이야기가 시리즈의 출발점이었다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000500",
+      "card_id": "MM-MEDIA-002543",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/books/233997/thomas-and-the-runaway-pumpkins-thomas-friends-by-naomi-kleinberg-illustrated-by-richard-courtney/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000501",
+      "card_id": "MM-MEDIA-002543",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.penguinrandomhouse.com/promo_image/9781524716516_7005.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《철도 시리즈》라는 표제는 문학을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 문학을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "《철도 시리즈》의 기원은 1940년대 초 윌버트 오드리 목사가 아들 크리스토퍼를 위해 들려준 이야기다. 이 이야기들은 1945년에 처음 출판되었고, 기관차 토머스와 친구들이 등장하는 책으로 이어졌다.\n\n소도어섬의 기관차들은 철도에서 일하는 기계인 동시에 서로 관계를 맺는 등장인물이다. 책에서 출발한 이 배경과 인물들은 이후 텔레비전과 영화에서도 이야기를 이어 갔다.",
     "sections": [
       [
         "상세 설명",
-        "《철도 시리즈》라는 표제는 문학을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 문학을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "《철도 시리즈》의 기원은 1940년대 초 윌버트 오드리 목사가 아들 크리스토퍼를 위해 들려준 이야기다. 이 이야기들은 1945년에 처음 출판되었고, 기관차 토머스와 친구들이 등장하는 책으로 이어졌다.\n\n소도어섬의 기관차들은 철도에서 일하는 기계인 동시에 서로 관계를 맺는 등장인물이다. 책에서 출발한 이 배경과 인물들은 이후 텔레비전과 영화에서도 이야기를 이어 갔다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

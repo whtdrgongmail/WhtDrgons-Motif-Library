@@ -7,14 +7,14 @@
   "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
-    "definition": "《드래곤볼 Z: Super Android 13!》는 애니메이션 작품이다.",
+    "definition": "손오공 일행이 인조인간 13호·14호·15호와 맞붙는 1992년 《드래곤볼 Z》 극장판이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《드래곤볼 Z: Super Android 13!》의 마지막 장면에서 물고기가 물 밖으로 뛰어오른다. 물속 생물을 짧은 동작으로 드러내는 시각적 표현 사례다.",
+    "easy_ko": "손오공과 동료들이 닥터 게로가 남긴 인조인간들과 싸운다. 14호와 15호가 쓰러지자 13호가 두 인조인간의 부품을 흡수해 더 강해진다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000468",
+      "card_id": "MM-MEDIA-002144",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://en.dragon-ball-official.com/news/01_1000.html",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000469",
+      "card_id": "MM-MEDIA-002144",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://lineup.toei-anim.co.jp/en/movie/movie_dragonball_saiya/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《드래곤볼 Z: Super Android 13!》라는 표제는 애니메이션을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 애니메이션을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "1992년 공개된 《[[드래곤볼 Z]]》 극장판이다. 닥터 게로가 사라진 뒤에도 그의 컴퓨터는 손오공을 쓰러뜨리기 위해 인조인간 13호·14호·15호를 완성한다. 싸움이 빙하지대로 옮겨 가면서 손오공과 트랭크스에 이어 베지터도 전투에 뛰어든다.\n\n트랭크스와 베지터가 14호와 15호를 쓰러뜨리지만, 남은 13호가 두 인조인간의 부품을 흡수해 합체한다. 손오공 일행이 상대해야 할 적이 셋에서 하나로 줄어드는 순간에 전황이 오히려 뒤집힌다. 손오공은 모아 둔 원기옥의 에너지를 흡수해 합체한 13호에게 맞선다.",
     "sections": [
       [
         "상세 설명",
-        "《드래곤볼 Z: Super Android 13!》라는 표제는 애니메이션을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 애니메이션을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "1992년 공개된 《[[드래곤볼 Z]]》 극장판이다. 닥터 게로가 사라진 뒤에도 그의 컴퓨터는 손오공을 쓰러뜨리기 위해 인조인간 13호·14호·15호를 완성한다. 싸움이 빙하지대로 옮겨 가면서 손오공과 트랭크스에 이어 베지터도 전투에 뛰어든다.\n\n트랭크스와 베지터가 14호와 15호를 쓰러뜨리지만, 남은 13호가 두 인조인간의 부품을 흡수해 합체한다. 손오공 일행이 상대해야 할 적이 셋에서 하나로 줄어드는 순간에 전황이 오히려 뒤집힌다. 손오공은 모아 둔 원기옥의 에너지를 흡수해 합체한 13호에게 맞선다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

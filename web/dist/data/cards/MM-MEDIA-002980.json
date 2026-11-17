@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《I Will Always Love You (휘트니 휴스턴판)》는 음악·음향 작품이다.",
+    "definition": "돌리 파턴이 쓴 곡을 휘트니 휴스턴이 영화 《보디가드》 사운드트랙을 위해 다시 부른 1992년 녹음이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "휘트니 휴스턴의 〈I Will Always Love You (휘트니 휴스턴판)〉에서는 한 음절을 여러 음으로 길게 노래하는 멜리스마를 들을 수 있다.",
+    "easy_ko": "함께할 수 없어 떠나는 사람이 상대에게 좋은 일이 있기를 바라는 노래다. 휘트니 휴스턴은 그 마음을 조용히 전하다가 점차 힘주어 노래한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 3
+    "updated_at": "2026-11-18",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000517",
+      "card_id": "MM-MEDIA-002980",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.whitneyhouston.com/de/track/i-will-always-love-you/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000518",
+      "card_id": "MM-MEDIA-002980",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.whitneyhouston.com/music/bodyguard-original-soundtrack-album/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《I Will Always Love You (휘트니 휴스턴판)》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "휘트니 휴스턴의 〈I Will Always Love You〉는 1992년 《보디가드》의 사운드트랙에 담긴 녹음이다. 돌리 파턴이 쓴 곡을 휴스턴이 다시 불렀으며, 휴스턴은 새로 만든 편곡과 자기만의 발성을 파턴이 어떻게 들을지 걱정했다고 회고했다.\n\n휴스턴의 녹음은 반주 없이 목소리로 시작해 뒤로 갈수록 반주와 보컬이 모두 커진다. 후렴에서 한 음절을 여러 음에 걸쳐 늘이는 창법도 들린다. 한 곡 안에서 목소리가 홀로 들리는 구간과 넓은 음역을 강조하는 구간이 차례로 온다.",
     "sections": [
       [
         "상세 설명",
-        "《I Will Always Love You (휘트니 휴스턴판)》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "휘트니 휴스턴의 〈I Will Always Love You〉는 1992년 《보디가드》의 사운드트랙에 담긴 녹음이다. 돌리 파턴이 쓴 곡을 휴스턴이 다시 불렀으며, 휴스턴은 새로 만든 편곡과 자기만의 발성을 파턴이 어떻게 들을지 걱정했다고 회고했다.\n\n휴스턴의 녹음은 반주 없이 목소리로 시작해 뒤로 갈수록 반주와 보컬이 모두 커진다. 후렴에서 한 음절을 여러 음에 걸쳐 늘이는 창법도 들린다. 한 곡 안에서 목소리가 홀로 들리는 구간과 넓은 음역을 강조하는 구간이 차례로 온다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

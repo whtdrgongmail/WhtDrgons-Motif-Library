@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《Surface Pressure》는 음악·음향 작품이다.",
+    "definition": "괴력을 지닌 루이사가 가족에게 기대받는 일의 부담을 털어놓는 《엔칸토》의 노래다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《[[엔칸토: 마법의 세계]]》에서 루이사는 〈Surface Pressure〉로 미라벨에게 부담을 털어놓고 나중에는 이를 짧은 대화를 했다고 표현한다.",
+    "easy_ko": "루이사는 무거운 짐을 거뜬히 들지만, 늘 책임을 맡는 일이 힘들다고 동생 미라벨에게 이야기한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 3
+    "updated_at": "2026-11-18",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000526",
+      "card_id": "MM-MEDIA-003384",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=tQwVKr8rCYw",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000527",
+      "card_id": "MM-MEDIA-003384",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://news.disney.com/introducing-encanto",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Surface Pressure》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "〈Surface Pressure〉는 《[[엔칸토: 마법의 세계]]》에서 괴력을 지닌 루이사가 부르는 곡이다. 영어판 노래는 제시카 대로가 맡았다. 미라벨 앞에서 루이사는 가족이 기대하는 일을 계속 떠맡으며 겪는 불안을 드러낸다.\n\n노래 장면에서는 바깥에서 짐을 들어 올리는 능력과 마음속에서 감당하는 부담이 겹친다. 미라벨은 이 대화를 통해 늘 힘을 써 온 언니가 무거운 것을 옮기는 일과, 모든 요구를 견디는 일을 함께 겪고 있음을 알게 된다.",
     "sections": [
       [
         "상세 설명",
-        "《Surface Pressure》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "〈Surface Pressure〉는 《[[엔칸토: 마법의 세계]]》에서 괴력을 지닌 루이사가 부르는 곡이다. 영어판 노래는 제시카 대로가 맡았다. 미라벨 앞에서 루이사는 가족이 기대하는 일을 계속 떠맡으며 겪는 불안을 드러낸다.\n\n노래 장면에서는 바깥에서 짐을 들어 올리는 능력과 마음속에서 감당하는 부담이 겹친다. 미라벨은 이 대화를 통해 늘 힘을 써 온 언니가 무거운 것을 옮기는 일과, 모든 요구를 견디는 일을 함께 겪고 있음을 알게 된다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

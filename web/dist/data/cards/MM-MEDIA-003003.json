@@ -7,14 +7,14 @@
   "tag_id": "ML-T00066",
   "primary_tag_id": "ML-T00066",
   "description": {
-    "definition": "《파프리카》는 문학 작품이다.",
+    "definition": "츠츠이 야스타카의 장편 소설이다. 심리 치료사 치바 아쓰코가 다른 사람의 꿈에 들어가는 기술을 사용한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.007",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "소설 《파프리카》에서는 다른 사람의 꿈에 들어가고 그 내용을 기록하는 장치가 이야기를 이끈다.",
+    "easy_ko": "환자의 꿈에 들어갈 수 있는 심리 치료사 아쓰코는 파프리카라는 이름으로 몰래 치료한다. 더 강력한 장치가 도난당하면서 꿈과 현실의 경계가 흔들린다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000519",
+      "card_id": "MM-MEDIA-003003",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.chuko.co.jp/bunko/1997/04/202832.html",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000520",
+      "card_id": "MM-MEDIA-003003",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.hachette.co.uk/titles/yasutaka-tsutsui/paprika/9781399623254/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《파프리카》라는 표제는 문학을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 문학을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "츠츠이 야스타카의 《파프리카》에서 정신의학 연구소는 환자의 꿈을 실시간으로 들여다보는 기술을 개발한다. 치료사 치바 아쓰코는 꿈 안에 들어가 환자에게 직접 개입할 수 있는 장치를 사용한다. 공식 허가가 없기 때문에 그 일을 할 때는 파프리카라는 이름을 쓴다.\n\n더 강력한 시제품이 사라지자, 치료를 돕던 기술이 다른 사람을 통제하거나 해치는 데 쓰일 수 있다는 점이 드러난다. 아쓰코가 도난의 경위를 추적하는 동안 꿈과 깨어 있는 현실의 경계가 흐려지면서, 한 환자의 심리 안에서 벌어질 법한 일이 점차 여러 사람의 문제가 된다.",
     "sections": [
       [
         "상세 설명",
-        "《파프리카》라는 표제는 문학을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 문학을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "츠츠이 야스타카의 《파프리카》에서 정신의학 연구소는 환자의 꿈을 실시간으로 들여다보는 기술을 개발한다. 치료사 치바 아쓰코는 꿈 안에 들어가 환자에게 직접 개입할 수 있는 장치를 사용한다. 공식 허가가 없기 때문에 그 일을 할 때는 파프리카라는 이름을 쓴다.\n\n더 강력한 시제품이 사라지자, 치료를 돕던 기술이 다른 사람을 통제하거나 해치는 데 쓰일 수 있다는 점이 드러난다. 아쓰코가 도난의 경위를 추적하는 동안 꿈과 깨어 있는 현실의 경계가 흐려지면서, 한 환자의 심리 안에서 벌어질 법한 일이 점차 여러 사람의 문제가 된다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

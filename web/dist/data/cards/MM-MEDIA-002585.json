@@ -7,14 +7,14 @@
   "tag_id": "ML-T00143",
   "primary_tag_id": "ML-T00143",
   "description": {
-    "definition": "《Down Under》는 뮤직비디오 작품이다.",
+    "definition": "호주 밴드 멘 앳 워크의 노래 〈Down Under〉를, 가사 속 여행 이야기를 따라가는 장면으로 옮긴 공식 뮤직비디오다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008.004",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Down Under》의 뮤직비디오는 가사의 각 구절을 눈에 보이는 행동으로 옮겨 비현실적이고 우스운 장면을 만든다.",
+    "easy_ko": "여행자가 만난 사람들과 나눈 일을 노랫말로 들려주면서 화면에도 보여 준다. 베지마이트 샌드위치처럼 가사에 나온 물건이 영상 속 소품으로 나타난다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000505",
+      "card_id": "MM-MEDIA-002585",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.menatworkband.com/video/down-under-official-music-video/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000506",
+      "card_id": "MM-MEDIA-002585",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=XfR9iY5y94s",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Down Under》라는 표제는 뮤직비디오를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 뮤직비디오을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "멘 앳 워크의 〈Down Under〉 공식 뮤직비디오는 여행 중 겪은 에피소드를 노래와 짧은 상황극으로 보여 준다. 밴드의 연주 장면 사이로 가사의 만남이 화면에 나타나며, 샌드위치를 건네는 대목처럼 소리로 들리는 사건이 눈앞의 동작이 된다.\n\n영상은 호주를 떠나 있는 사람이 뜻밖의 장소에서 호주와 연관된 음식이나 사람을 만나는 이야기를 살린다. 가사의 물건과 행동을 그대로 화면에 놓는 연출 덕분에 국적을 드러내는 단서가 즉시 알아볼 수 있는 시각적 농담이 된다.",
     "sections": [
       [
         "상세 설명",
-        "《Down Under》라는 표제는 뮤직비디오를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 뮤직비디오을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "멘 앳 워크의 〈Down Under〉 공식 뮤직비디오는 여행 중 겪은 에피소드를 노래와 짧은 상황극으로 보여 준다. 밴드의 연주 장면 사이로 가사의 만남이 화면에 나타나며, 샌드위치를 건네는 대목처럼 소리로 들리는 사건이 눈앞의 동작이 된다.\n\n영상은 호주를 떠나 있는 사람이 뜻밖의 장소에서 호주와 연관된 음식이나 사람을 만나는 이야기를 살린다. 가사의 물건과 행동을 그대로 화면에 놓는 연출 덕분에 국적을 드러내는 단서가 즉시 알아볼 수 있는 시각적 농담이 된다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

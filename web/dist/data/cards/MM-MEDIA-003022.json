@@ -7,14 +7,14 @@
   "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《파이어 엠블렘: 창염의 궤적》은 비디오게임 작품이다.",
+    "definition": "용병 아이크가 크리미아 왕녀를 보호하며 전쟁에 휘말리는 2005년 게임큐브용 전략 RPG다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《파이어 엠블렘: 창염의 궤적》에서 그레일은 다시 폭주하는 상황을 염려해 자신을 막을 마지막 결정을 볼크에게 맡겨 둔다. 위험이 나타나기 전에 한 약속이라는 점이 핵심이다.",
+    "easy_ko": "아버지의 용병단에서 일하는 아이크가 적군에게 쫓기는 왕녀 엘린시아를 만난다. 플레이어는 아이크의 동료들을 이끌며, 쓰러진 전투원을 잃을 수 있는 전투를 치른다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000479",
+      "card_id": "MM-MEDIA-003022",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://my.nintendo.com/news/62755d4ed9f7b530",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000480",
+      "card_id": "MM-MEDIA-003022",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.nintendo.com/jp/fe/en/characters/smashbros/detail/ike01.html",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《파이어 엠블렘: 창염의 궤적》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "《파이어 엠블렘: 창염의 궤적》은 2005년 닌텐도 게임큐브로 나온 전략 RPG다. 텔리우스 대륙에는 베오크와 라그즈가 대립과 타협을 거듭해 온 역사가 있다. 그레일 용병단의 아이크는 크리미아와 데인의 국경을 정찰하던 중 데인 병사들을 피해 달아나던 크리미아 왕녀 엘린시아를 발견하고, 용병단은 그녀를 보호하기로 한다.\n\n전투는 입체 지형을 갖춘 지도에서 벌어지며, 전투원이 쓰러지면 이후 전투에서 잃는 영구 사망 규칙을 쓴다. 같은 동료와 여정을 이어 간다는 이야기와 맞물려, 눈앞의 교전을 끝낼 방법과 이후에도 부대를 유지할 방법을 함께 고려하게 된다.",
     "sections": [
       [
         "상세 설명",
-        "《파이어 엠블렘: 창염의 궤적》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "《파이어 엠블렘: 창염의 궤적》은 2005년 닌텐도 게임큐브로 나온 전략 RPG다. 텔리우스 대륙에는 베오크와 라그즈가 대립과 타협을 거듭해 온 역사가 있다. 그레일 용병단의 아이크는 크리미아와 데인의 국경을 정찰하던 중 데인 병사들을 피해 달아나던 크리미아 왕녀 엘린시아를 발견하고, 용병단은 그녀를 보호하기로 한다.\n\n전투는 입체 지형을 갖춘 지도에서 벌어지며, 전투원이 쓰러지면 이후 전투에서 잃는 영구 사망 규칙을 쓴다. 같은 동료와 여정을 이어 간다는 이야기와 맞물려, 눈앞의 교전을 끝낼 방법과 이후에도 부대를 유지할 방법을 함께 고려하게 된다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

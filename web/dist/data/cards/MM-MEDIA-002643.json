@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《Ma City》는 음악·음향 작품이다.",
+    "definition": "방탄소년단이 2015년 《화양연화 pt.2》에 수록한 곡으로, 멤버들의 고향에 대한 이야기를 담았다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "방탄소년단의 〈Ma City〉는 멤버들이 일산·부산·광주·대구 등 자신의 고향을 자랑하며 지역에 대한 애착을 표현하는 노래이다.",
+    "easy_ko": "방탄소년단의 멤버들이 자기 고향에서 기억하는 곳과 그곳이 자신에게 어떤 의미인지 랩으로 이야기한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,49 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000509",
+      "card_id": "MM-MEDIA-002643",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=RTz_LWyZSdI",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000510",
+      "card_id": "MM-MEDIA-002643",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://ibighit.com/legacy/bts/hwayangyeonhwa-young_forever-ko.html",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000511",
+      "card_id": "MM-MEDIA-002643",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://magazine.weverse.io/article/view/159?lang=ko",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 3,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Ma City》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "〈Ma City〉는 2015년 방탄소년단의 음반 《화양연화 pt.2》에 실렸고, 이후 《화양연화 Young Forever》에도 수록됐다. 멤버들은 가사에 자신이 자란 일산, 부산, 광주, 대구 같은 장소를 넣어, 한 곡 안에서 각기 다른 고향을 들려준다.\n\n곡은 고향을 찬양하는 말만 늘어놓기보다 장소마다 다른 기억과 말투로 애착을 드러낸다. 이를테면 슈가는 대구에 특별히 내세울 게 없다고 말하는 태도에서 오히려 자부심을 끌어낸다. 같은 주제 안에서도 도시와 인물마다 표현이 달라진다.",
     "sections": [
       [
         "상세 설명",
-        "《Ma City》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "〈Ma City〉는 2015년 방탄소년단의 음반 《화양연화 pt.2》에 실렸고, 이후 《화양연화 Young Forever》에도 수록됐다. 멤버들은 가사에 자신이 자란 일산, 부산, 광주, 대구 같은 장소를 넣어, 한 곡 안에서 각기 다른 고향을 들려준다.\n\n곡은 고향을 찬양하는 말만 늘어놓기보다 장소마다 다른 기억과 말투로 애착을 드러낸다. 이를테면 슈가는 대구에 특별히 내세울 게 없다고 말하는 태도에서 오히려 자부심을 끌어낸다. 같은 주제 안에서도 도시와 인물마다 표현이 달라진다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

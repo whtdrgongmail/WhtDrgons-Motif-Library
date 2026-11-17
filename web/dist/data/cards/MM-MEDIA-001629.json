@@ -7,14 +7,14 @@
   "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《프레이》는 비디오게임 작품이다.",
+    "definition": "아케인 스튜디오의 2017년 1인칭 SF 액션 게임이다. 주인공 모건 유는 외계 생명체 타이폰이 퍼진 우주 정거장 탈로스 I에서 깨어난다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《프레이》에서는 탈로스 I 우주 정거장에서 플레이어가 실제로 한 행동들이 이야기의 분기점을 결정한다.",
+    "easy_ko": "모건 유는 달 궤도의 우주 정거장에서 외계 생명체와 맞닥뜨린다. 정거장을 돌아다니며 살아남는 방법을 찾는 한편 자기에게 어떤 일이 있었는지 알아내야 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,59 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000488",
+      "card_id": "MM-MEDIA-001629",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://bethesda.net/game/buy-prey",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000489",
+      "card_id": "MM-MEDIA-001629",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://bethesda.net/en-US/news/prey-only-yu-can-save-the-world",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000490",
+      "card_id": "MM-MEDIA-001629",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://bethesda.net/en-US/news/prey-playing-with-powers",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 3,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000491",
+      "card_id": "MM-MEDIA-001629",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://bethesda.net/en-US/news/prey-release-date-gameplay-trailer-2-and-new-details",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 4,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《프레이》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "《프레이》에서 모건 유가 깨어나는 곳은 2032년의 달 궤도에 있는 탈로스 I이다. 이 정거장은 트랜스타가 외계 생명체 타이폰을 연구하던 시설이다. 모건은 타이폰이 퍼진 시설을 탐색하면서 자신이 실험에 어떻게 얽혔는지 추적한다.\n\n정거장에 남은 무기와 장비를 쓸 수 있고, 인간과 외계 생명체에게서 얻은 능력도 익힐 수 있다. 정거장의 위협에 대응하는 과정에서 내린 결정은 이후에도 영향을 주므로, 모건이 어떤 능력을 갖추고 어떤 선택을 하느냐가 같은 공간을 지나가는 경험을 바꾼다.",
     "sections": [
       [
         "상세 설명",
-        "《프레이》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "《프레이》에서 모건 유가 깨어나는 곳은 2032년의 달 궤도에 있는 탈로스 I이다. 이 정거장은 트랜스타가 외계 생명체 타이폰을 연구하던 시설이다. 모건은 타이폰이 퍼진 시설을 탐색하면서 자신이 실험에 어떻게 얽혔는지 추적한다.\n\n정거장에 남은 무기와 장비를 쓸 수 있고, 인간과 외계 생명체에게서 얻은 능력도 익힐 수 있다. 정거장의 위협에 대응하는 과정에서 내린 결정은 이후에도 영향을 주므로, 모건이 어떤 능력을 갖추고 어떤 선택을 하느냐가 같은 공간을 지나가는 경험을 바꾼다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

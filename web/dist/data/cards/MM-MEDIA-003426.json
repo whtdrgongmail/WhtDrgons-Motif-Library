@@ -7,14 +7,14 @@
   "tag_id": "ML-T02513",
   "primary_tag_id": "ML-T02513",
   "description": {
-    "definition": "《기동전사 건담씨》는 만화 작품이다.",
+    "definition": "오와다 히데키가 건담의 인물과 설정을 네 컷 개그로 재구성한 만화 시리즈다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.020",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《기동전사 건담씨》의 나마하게 에피소드에서 샤아는 지나가는 나마하게와 자신을 비교하며 상대가 자신보다 낫다고 느낀다. 전승 존재의 외형을 인물 개그에 가져온 사례다.",
+    "easy_ko": "샤아처럼 진지한 전쟁 이야기로 알려진 건담 인물들이 짧은 개그 만화에 나타난다. 여러 컷을 읽어 가다 보면 익숙한 인물에게서 엉뚱한 행동이 나온다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000528",
+      "card_id": "MM-MEDIA-003426",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.kadokawa.co.jp/product/200503000701/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000529",
+      "card_id": "MM-MEDIA-003426",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.kadokawa.co.jp/product/301305000291/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《기동전사 건담씨》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "《기동전사 건담씨》는 오와다 히데키의 개그 만화로, 단행본 첫 권은 2005년에 발행되었다. 《[[기동전사 건담(TV 애니메이션)]]》의 샤아와 같은 인물들을 데려오고, 그 인물들이 등장하는 이야기를 네 컷짜리 에피소드로 풀어낸다.\n\n긴 전투나 작전의 일부였던 인물에게도 한 편의 작은 소동을 맡길 수 있는 형식이다. 원작 인물을 알아볼 만한 외모와 관계를 남겨 둔 채 당황하거나 엉뚱하게 행동하는 모습을 보여 주면서, 원작을 기억하는 독자가 인물의 다른 면을 보게 한다.",
     "sections": [
       [
         "상세 설명",
-        "《기동전사 건담씨》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "《기동전사 건담씨》는 오와다 히데키의 개그 만화로, 단행본 첫 권은 2005년에 발행되었다. 《[[기동전사 건담(TV 애니메이션)]]》의 샤아와 같은 인물들을 데려오고, 그 인물들이 등장하는 이야기를 네 컷짜리 에피소드로 풀어낸다.\n\n긴 전투나 작전의 일부였던 인물에게도 한 편의 작은 소동을 맡길 수 있는 형식이다. 원작 인물을 알아볼 만한 외모와 관계를 남겨 둔 채 당황하거나 엉뚱하게 행동하는 모습을 보여 주면서, 원작을 기억하는 독자가 인물의 다른 면을 보게 한다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

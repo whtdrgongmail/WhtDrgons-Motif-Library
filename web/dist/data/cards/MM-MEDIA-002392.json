@@ -7,14 +7,14 @@
   "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《사일런트 힐》은 비디오게임 작품이다.",
+    "definition": "교통사고로 실종된 딸을 찾으러 안개 낀 마을로 들어가는 해리 메이슨을 그린 코나미의 1999년 플레이스테이션 공포 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《사일런트 힐》의 시빌 베넷은 경찰관임에도 민간인 [[주인공]]이 새로 발견한 통로에 먼저 들어가도록 비교적 쉽게 허용한다.",
+    "easy_ko": "해리는 딸 셰릴과 차로 이동하다가 사고를 당한다. 정신을 차렸을 때 딸이 사라져 있어, 해리는 주변의 작은 마을을 찾아간다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,49 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000497",
+      "card_id": "MM-MEDIA-002392",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.konami.com/games/eu/de/products/silenthill/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000498",
+      "card_id": "MM-MEDIA-002392",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://blog.de.playstation.com/?p=205999",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000499",
+      "card_id": "MM-MEDIA-002392",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.sonypictures.com/movies/silenthill",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 3,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《사일런트 힐》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "코나미의 첫 《사일런트 힐》은 1999년 플레이스테이션으로 나왔다. 해리 메이슨은 밤중에 도로로 나타난 사람의 형체를 피하려다 차가 길 밖으로 벗어나는 사고를 겪는다. 의식을 되찾은 해리는 함께 타고 있던 셰릴이 사라진 것을 알아차린다.\n\n해리는 딸을 찾기 위해 짙은 안개가 덮인 마을 사일런트 힐을 돌아다닌다. 사고로 헤어진 아이를 찾는 목표는 분명하지만, 안개에 가린 거리는 앞에 무엇이 있는지 한눈에 파악하기 어렵게 만든다. 게임의 실종과 수색 설정은 같은 제목의 《[[사일런트 힐(영화)]]》에도 이어졌다.",
     "sections": [
       [
         "상세 설명",
-        "《사일런트 힐》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "코나미의 첫 《사일런트 힐》은 1999년 플레이스테이션으로 나왔다. 해리 메이슨은 밤중에 도로로 나타난 사람의 형체를 피하려다 차가 길 밖으로 벗어나는 사고를 겪는다. 의식을 되찾은 해리는 함께 타고 있던 셰릴이 사라진 것을 알아차린다.\n\n해리는 딸을 찾기 위해 짙은 안개가 덮인 마을 사일런트 힐을 돌아다닌다. 사고로 헤어진 아이를 찾는 목표는 분명하지만, 안개에 가린 거리는 앞에 무엇이 있는지 한눈에 파악하기 어렵게 만든다. 게임의 실종과 수색 설정은 같은 제목의 《[[사일런트 힐(영화)]]》에도 이어졌다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

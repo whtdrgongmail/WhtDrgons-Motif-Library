@@ -7,14 +7,14 @@
   "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
-    "definition": "《사무라이 7》는 애니메이션 작품이다.",
+    "definition": "구로사와 아키라의 영화 《칠인의 사무라이》를 기계화 문명의 세계로 옮긴 곤조의 2004년 TV 애니메이션이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《사무라이 7》에서 일행은 자신들을 도운 정비공에게 협조 책임이 돌아가지 않도록 그가 억지로 제압당한 듯 보이게 한다.",
+    "easy_ko": "기계화한 도적들이 해마다 마을의 쌀을 빼앗는다. 농민들은 쌀을 대가로 사무라이를 고용해 마을을 지키려 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000513",
+      "card_id": "MM-MEDIA-002850",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.gonzo.co.jp/works/samurai7/index.html",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000514",
+      "card_id": "MM-MEDIA-002850",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://gonzo.co.jp/press/20240612.html",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《사무라이 7》라는 표제는 애니메이션을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 애니메이션을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "《사무라이 7》은 1954년 영화 《칠인의 사무라이》를 바탕으로 2004년 곤조가 제작한 TV 애니메이션이다. 전쟁이 끝난 뒤 기계화한 옛 무사들이 도적이 되어 칸나 마을의 수확물을 빼앗는다. 마을 사람들은 배부르게 먹을 만큼의 쌀을 조건으로 싸울 사무라이를 구하기로 한다.\n\n젊은 농민 리키치와 무녀 키라라, 동생 코마치가 도시로 가서 마을을 지켜 줄 사람을 찾는다. 제작진은 거대한 기계 무사들을 3D 컴퓨터 그래픽으로 표현해, 농민이 무사를 고용한다는 원작의 구도를 전쟁 뒤에도 기계 병기가 남은 세계에 옮겼다.",
     "sections": [
       [
         "상세 설명",
-        "《사무라이 7》라는 표제는 애니메이션을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 애니메이션을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "《사무라이 7》은 1954년 영화 《칠인의 사무라이》를 바탕으로 2004년 곤조가 제작한 TV 애니메이션이다. 전쟁이 끝난 뒤 기계화한 옛 무사들이 도적이 되어 칸나 마을의 수확물을 빼앗는다. 마을 사람들은 배부르게 먹을 만큼의 쌀을 조건으로 싸울 사무라이를 구하기로 한다.\n\n젊은 농민 리키치와 무녀 키라라, 동생 코마치가 도시로 가서 마을을 지켜 줄 사람을 찾는다. 제작진은 거대한 기계 무사들을 3D 컴퓨터 그래픽으로 표현해, 농민이 무사를 고용한다는 원작의 구도를 전쟁 뒤에도 기계 병기가 남은 세계에 옮겼다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

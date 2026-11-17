@@ -9,14 +9,14 @@
   "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
-    "definition": "《달의 요정 세일러문 R》는 애니메이션 작품이다.",
+    "definition": "츠키노 우사기가 치비우사와 만나고 블랙 문에 맞서는 1993년 세일러문 TV 시리즈의 두 번째 시즌이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -32,10 +32,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《달의 요정 세일러문 R》에서 하루나는 데이트가 취소된 뒤 학생들에게 과도하게 화를 내고 우사기와 나츠미를 작은 잘못으로 남긴다.",
+    "easy_ko": "하늘에서 내려온 치비우사가 우사기에게 은수정을 요구한다. 우사기는 정체를 알 수 없는 이 아이를 노리는 블랙 문과 싸우게 된다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -45,18 +45,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000481",
+      "card_id": "MM-MEDIA-003166",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://toei-animation-usa.com/sailor-moon.html",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000482",
+      "card_id": "MM-MEDIA-003166",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://lineup.toei-anim.co.jp/ja/tv/sailor_moon_r/character/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《달의 요정 세일러문 R》라는 표제는 애니메이션을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 애니메이션을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "《달의 요정 세일러문 R》은 1993년 시작한 《[[달의 요정 세일러문]]》 TV 시리즈의 두 번째 시즌이다. 앞부분은 마계수 편, 뒷부분은 블랙 문 편이다. 치비우사는 블랙 문 편에서 처음 등장해 츠키노 우사기에게 은수정을 요구하고, 우사기의 가족에게 자신을 사촌처럼 받아들이게 한다.\n\n우사기는 낯선 아이가 자기 가족의 일부가 된 상황에서 치비우사의 정체와 은수정을 아는 이유를 살펴야 한다. 동시에 블랙 문이 치비우사를 노리면서 아이를 보호할 이유도 생긴다. 세일러 플루토의 등장은 기존 다섯 명 외에도 세일러 전사가 있음을 보여 준다.",
     "sections": [
       [
         "상세 설명",
-        "《달의 요정 세일러문 R》라는 표제는 애니메이션을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 애니메이션을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "《달의 요정 세일러문 R》은 1993년 시작한 《[[달의 요정 세일러문]]》 TV 시리즈의 두 번째 시즌이다. 앞부분은 마계수 편, 뒷부분은 블랙 문 편이다. 치비우사는 블랙 문 편에서 처음 등장해 츠키노 우사기에게 은수정을 요구하고, 우사기의 가족에게 자신을 사촌처럼 받아들이게 한다.\n\n우사기는 낯선 아이가 자기 가족의 일부가 된 상황에서 치비우사의 정체와 은수정을 아는 이유를 살펴야 한다. 동시에 블랙 문이 치비우사를 노리면서 아이를 보호할 이유도 생긴다. 세일러 플루토의 등장은 기존 다섯 명 외에도 세일러 전사가 있음을 보여 준다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

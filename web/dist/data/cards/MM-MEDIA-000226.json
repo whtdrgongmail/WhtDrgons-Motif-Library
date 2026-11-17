@@ -7,14 +7,14 @@
   "tag_id": "ML-T00116",
   "primary_tag_id": "ML-T00116",
   "description": {
-    "definition": "이 카드는 미술 작품 《David》를 가리킨다. 이 라이브러리에서는 [[머리 대비 길게 늘인 영웅적 비례]]의 작품 사례와 연결된다.",
+    "definition": "미켈란젤로가 1501년부터 1504년까지 대리석으로 제작한 다비드 조각상이다. [[머리 대비 길게 늘인 영웅적 비례]]의 사례로 볼 수 있다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.018.002",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Michelangelo의 David는 머리에 비해 전체 몸을 길고 장대하게 잡는 고전적 영웅 비례의 사례로, 인물에게 이상적인 존재감을 부여한다.",
+    "easy_ko": "미켈란젤로가 다비드를 높이 5미터가 넘는 대리석상으로 새겼다. 완성된 조각은 피렌체 시청 입구에 놓였다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000464",
+      "card_id": "MM-MEDIA-000226",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.galleriaaccademiafirenze.it/opere/david/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000465",
+      "card_id": "MM-MEDIA-000226",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.galleriaaccademiafirenze.it/en/events/le-sculture-di-david-a-firenze-tra-storia-e-simbolo/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《David》라는 표제는 미술 작품을 가리킨다.\n\n모티프 라이브러리에서는 [[머리 대비 길게 늘인 영웅적 비례]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "text": "《David》는 미켈란젤로 부오나로티가 1501년 피렌체 대성당 측의 의뢰를 받아 제작한 조각이다. 다른 조각가들이 작업하다 남긴 대리석을 사용했으며, 조각한 받침까지 포함하면 높이가 517센티미터에 이른다. 현재 피렌체 아카데미아 미술관이 소장한다.\n\n대성당 바깥에 설치할 계획이었으나, 1504년 예술가들이 참여한 위원회는 베키오 궁전 입구에 세우기로 했다. 완성된 조각은 피렌체 시민의 힘과 독립을 상징했다. 원래 다비드가 든 돌팔매 끈에도 금빛 장식이 있었다.",
     "sections": [
       [
         "상세 설명",
-        "《David》라는 표제는 미술 작품을 가리킨다.\n\n모티프 라이브러리에서는 [[머리 대비 길게 늘인 영웅적 비례]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+        "《David》는 미켈란젤로 부오나로티가 1501년 피렌체 대성당 측의 의뢰를 받아 제작한 조각이다. 다른 조각가들이 작업하다 남긴 대리석을 사용했으며, 조각한 받침까지 포함하면 높이가 517센티미터에 이른다. 현재 피렌체 아카데미아 미술관이 소장한다.\n\n대성당 바깥에 설치할 계획이었으나, 1504년 예술가들이 참여한 위원회는 베키오 궁전 입구에 세우기로 했다. 완성된 조각은 피렌체 시민의 힘과 독립을 상징했다. 원래 다비드가 든 돌팔매 끈에도 금빛 장식이 있었다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

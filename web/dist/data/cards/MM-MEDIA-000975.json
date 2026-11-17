@@ -7,14 +7,14 @@
   "tag_id": "ML-T00067",
   "primary_tag_id": "ML-T00067",
   "description": {
-    "definition": "이 카드는 닥 새비지 소설 《The Green Eagle》을 가리킨다. 이 라이브러리에서는 [[살해를 제한하는 평화주의자]]의 작품 사례와 연결된다.",
-    "detail": "연결 사례: The Green Eagle의 닥 새비지는 포로를 창밖으로 떨어뜨려 동료들을 겁주지만, 아래에 그물을 준비해 실제로는 죽지 않게 한다.",
+    "definition": "레스터 덴트가 케네스 로브슨 명의로 발표한 1941년 닥 새비지 모험 소설이다. 와이오밍의 목장과 녹색 독수리 퍼즐이 사건을 잇는다.",
+    "detail": "포로가 추락하는 것을 본 인물들은 그가 죽었다고 믿지만, 뒤이어 그가 무사하다는 사실이 드러난다. 닥이 상대를 위협하면서도 목숨은 해치지 않는 이 장면은 [[살해를 제한하는 평화주의자]]의 사례다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.007.001",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《The Green Eagle》에서 닥 새비지는 포로를 창밖으로 떨어뜨려 동료들을 겁준다. 하지만 아래에 그물을 준비해 두어 포로는 살아남는다.",
+    "easy_ko": "한 남자가 닥 새비지에게 와이오밍의 목장으로 오라는 연락을 남긴다. 정작 그가 나타나지 않자 닥은 녹색 독수리 모양의 퍼즐이 무슨 비밀을 품고 있는지 찾아 나선다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,59 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000484",
+      "card_id": "MM-MEDIA-000975",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.fadedpage.com/books/20200312/html.php",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000485",
+      "card_id": "MM-MEDIA-000975",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.fadedpage.com/showbook.php?pid=20200312",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000486",
+      "card_id": "MM-MEDIA-000975",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://files.shsmo.org/manuscripts/columbia/C3071.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 3,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000487",
+      "card_id": "MM-MEDIA-000975",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://play.google.com/store/books/details/Lester_Bernard_Dent_The_Green_Eagle_A_Doc_Savage_A?id=Pol_EAAAQBAJ",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 4,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《The Green Eagle》라는 표제는 닥 새비지 소설을 가리킨다.\n\n모티프 라이브러리에서는 [[살해를 제한하는 평화주의자]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "text": "《The Green Eagle》은 레스터 덴트가 케네스 로브슨 이름으로 《Doc Savage》 잡지에 발표한 1941년 소설이다. 필라투스 케이시는 위험한 일이 벌어지고 있다며 닥 새비지에게 브로큰 서클 목장으로 와 달라고 한다. 자신에게 일이 생기면 녹색 독수리 퍼즐을 찾으라는 당부도 남긴다.\n\n닥은 퍼즐의 설명을 듣고 비슷하게 생긴 물건을 만들어, 그것을 가져가는 사람들이 어디로 향하는지 살핀다. 진짜 퍼즐은 납으로 만든 깃털을 배열해 지도의 단서를 얻는 물건이다. 퍼즐 자체가 값진 보물인 듯 보이다가, 실제로는 금이 묻힌 장소를 찾는 단서라는 점이 드러난다.",
     "sections": [
       [
         "상세 설명",
-        "《The Green Eagle》라는 표제는 닥 새비지 소설을 가리킨다.\n\n모티프 라이브러리에서는 [[살해를 제한하는 평화주의자]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+        "《The Green Eagle》은 레스터 덴트가 케네스 로브슨 이름으로 《Doc Savage》 잡지에 발표한 1941년 소설이다. 필라투스 케이시는 위험한 일이 벌어지고 있다며 닥 새비지에게 브로큰 서클 목장으로 와 달라고 한다. 자신에게 일이 생기면 녹색 독수리 퍼즐을 찾으라는 당부도 남긴다.\n\n닥은 퍼즐의 설명을 듣고 비슷하게 생긴 물건을 만들어, 그것을 가져가는 사람들이 어디로 향하는지 살핀다. 진짜 퍼즐은 납으로 만든 깃털을 배열해 지도의 단서를 얻는 물건이다. 퍼즐 자체가 값진 보물인 듯 보이다가, 실제로는 금이 묻힌 장소를 찾는 단서라는 점이 드러난다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }
