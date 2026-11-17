@@ -4,8 +4,8 @@
   "title": "우울한 불량 소년과 다정한 소녀의 사랑",
   "original": "Brooding Boy, Gentle Girl",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "기분이 어둡고 거친 소년과 친절하고 온화한 소녀가 사랑에 빠지는 대비형 로맨스이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-003947은 성별을 한정하지 않는 마음 닫힌 인물과 다정한 인물의 관계다. 현재는 특정 성별 배치와 로맨스가 명시된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "날카롭고 우울한 쪽과 따뜻한 쪽이 연인으로 연결된다.",
     "review_status": "reviewed",

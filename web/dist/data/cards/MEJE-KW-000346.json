@@ -4,8 +4,8 @@
   "title": "사후세계에서의 환영",
   "original": "Afterlife Welcome",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "죽은 인물이 사후세계에 이르자 먼저 떠난 지인이나 그곳의 존재가 맞이하는 장면. 죽음의 [[상실감]]과 재회의 [[안도감]]이 한 장면에 겹친다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "죽음을 맞은 인물이 사후세계에서 먼저 죽은 가족이나 지인의 환영을 받는 장면이다. 남겨진 세상과 헤어진 [[상실감]]에 다시 만났다는 [[안도감]]이 겹치며, 작품이 죽음 이후의 관계를 어떻게 상상하는지 보여 주는 설정이다.",
     "review_status": "reviewed",

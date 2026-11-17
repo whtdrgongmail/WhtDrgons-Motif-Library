@@ -4,8 +4,8 @@
   "title": "돌아와 구하겠다는 약속",
   "original": "Vow to Rescue",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02661",
+  "primary_tag_id": "ML-T02661",
   "description": {
     "definition": "위험에 남겨 두고 떠나야 하는 사람에게 반드시 돌아와 구조하겠다고 약속하는 관계 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "안전한 상대와 나중에 만나자는 일반적인 약속과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.031",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "지금은 함께 나갈 수 없어도 다시 와서 데려가겠다고 다짐한다.",
     "review_status": "reviewed",

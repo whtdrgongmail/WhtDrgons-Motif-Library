@@ -4,8 +4,8 @@
   "title": "늘 다퉈도 서로에게 충실한 짝",
   "original": "Like an Old Married Couple",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "자주 말다툼을 하면서도 서로를 믿고 끝까지 편이 되어 주는 안정적인 관계다.",
     "detail": "작품 사례: 《[[해리 포터와 아즈카반의 죄수(영화)]]》에서 스네이프는 시리우스와 루핀의 말다툼을 오래된 부부 같다고 지적한다. 친밀한 비연애 관계를 부부의 익숙한 다툼에 빗대는 장면이다.",
@@ -13,14 +13,20 @@
     "boundary": "말다툼만으로 숨은 사랑을 추정하지 않으며 서로를 해치는 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "투닥거리는 소리는 잦지만 위기에서는 서로를 버리지 않는다.",
     "review_status": "reviewed",

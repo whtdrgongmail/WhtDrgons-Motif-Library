@@ -4,8 +4,8 @@
   "title": "무서워서 함께 자러 오다",
   "original": "Fright-Induced Bunkmate",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "겁에 질린 인물이 믿는 사람에게 다가가 그날 밤 곁에서 자도 되는지 부탁해 관계의 친밀함을 보여 주는 장면. 어린 인물이 연장자에게 청하는 경우가 많다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "겁이 난 인물이 안심할 수 있는 사람에게 그날 밤 곁에서 자고 싶다고 부탁하는 장면이다. 두려움을 감추지 않고 의지한다는 점이 유대를 보여 주며, 함께 자는 행동이 반드시 연애나 성적인 관계를 뜻하지는 않는다.",
     "review_status": "reviewed",

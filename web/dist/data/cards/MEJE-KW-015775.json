@@ -4,8 +4,8 @@
   "title": "예의 바른 악역과 무례한 영웅의 대비",
   "original": "Polite Villains, Rude Heroes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "악역은 호감 가는 예절을 보이고 영웅은 거친 태도를 보이게 하여 겉의 친절함과 실제 도덕적 방향이 어긋나도록 만드는 인물 대비다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "예의 없는 영웅이나 다정한 악역 한 명만 등장하는 것보다 두 진영의 대비가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "말을 곱게 하는 쪽이 남을 해치고 퉁명스러운 쪽이 사람을 구한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "죽음과 적이 된 사람",
   "original": "Enemies with Death",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "죽음의 의인화가 특정 인물을 미워하거나 추적하며 두 존재 사이에 개인적 대립이 생긴다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "죽음을 인격화한 존재가 특정 인물을 개인적으로 싫어하거나 끈질기게 뒤쫓는 설정이다. 누구에게나 오는 자연스러운 끝이 의지를 가진 적으로 바뀌며, 살아남으려는 인물과 죽음을 수행하려는 존재 사이에 반복적인 대립이 생긴다.",
     "review_status": "reviewed",

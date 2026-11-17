@@ -4,8 +4,8 @@
   "title": "다시 만난 옛 연인에게 사랑이 남지 않음",
   "original": "Old Flame Fizzle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02671",
+  "primary_tag_id": "ML-T02671",
   "description": {
     "definition": "오래 떨어져 있던 연인이 재회하지만 기대와 달리 이전의 사랑이나 설렘이 되살아나지 않는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "사랑은 남았으나 외부 사정으로 헤어지는 경우와 달리 감정 자체가 지속되지 않았다는 발견이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.041",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다시 만나기만 하면 예전처럼 될 줄 알았는데 마음은 이미 달라져 있다.",
     "review_status": "reviewed",

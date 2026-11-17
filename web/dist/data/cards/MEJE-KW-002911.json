@@ -4,8 +4,8 @@
   "title": "작은 친절을 오래 기억하며 돕기",
   "original": "Because You Were Nice to Me",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "무시받던 인물이 한 번의 진심 어린 호의를 잊지 않고 어려운 순간 그 사람을 돕는다. 보답의 크기보다 처음 존중받았던 경험이 행동을 이끈다. 어려운 시기에 내민 손이 [[괴롭힘을 당하는 사람의 친구가 되기]]의 시작이 될 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "계약이나 이익만을 따르는 충성과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남들이 무시하던 때 받은 작은 친절을 오래 기억한 사람이 나중에 그 은인을 돕는 전개다. 큰 보상을 약속받아서가 아니라 존중받았던 경험이 행동의 이유가 된다. [[괴롭힘을 당하는 사람의 친구가 되기]]처럼 곁을 지켜 준 일이 오랜 신뢰의 시작일 수 있다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "동료의 배신을 대비한 비상 수단",
   "original": "Betrayal Insurance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "함께 싸우는 사람의 약점을 알아두거나 제압 수단을 미리 마련한다. 안전을 위한 준비와 상대에 대한 불신이 한 관계 안에 공존한다. 대비책을 실제로 쓰지 않아도 [[도와주기로 한 순간 손 놓아 배신하기]]를 의심하게 만들 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "동료가 적으로 돌아설 가능성에 대비해 약점을 조사하거나 제압 장비를 준비해 두는 설정이다. 실제 위기를 막을 수 있지만 발견되면 자신을 믿지 않았다는 상처를 줄 수 있다. 안전을 위한 판단과 관계 안의 불신이 동시에 존재하는 상황에 적용한다.",
     "review_status": "reviewed",

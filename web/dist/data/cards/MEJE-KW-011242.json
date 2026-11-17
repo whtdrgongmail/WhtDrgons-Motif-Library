@@ -4,8 +4,8 @@
   "title": "온정과 엄격 사이의 지도 갈등",
   "original": "Gentle Touch vs. Firm Hand",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "아이 또는 제자를 어떻게 이끌지를 두고 한쪽은 다정한 격려를, 다른 쪽은 엄격한 훈육을 주장하는 관계 갈등이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "아이와 제자를 이끄는 방법을 두고 다정한 격려와 엄격한 규율을 중시하는 인물들이 맞서는 관계다. 무엇이 도움이 되는지에 대한 생각이 다르며, 지도받는 사람의 필요와 반응보다 어른들의 원칙만 앞설 때 갈등이 더 커진다.",
     "review_status": "reviewed",

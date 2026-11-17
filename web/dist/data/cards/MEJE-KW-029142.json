@@ -4,8 +4,8 @@
   "title": "사냥 관계를 알면서도 서로에게 끌리기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "괴물과 사냥꾼이 적임을 알면서도 오랜 대립이나 강제 협력을 거치며 연애 감정을 품는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "죽여야 할 상대로 알던 존재와 시간을 보내며 마음이 바뀐다.",
     "review_status": "reviewed",

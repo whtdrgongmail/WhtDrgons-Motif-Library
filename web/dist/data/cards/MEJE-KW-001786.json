@@ -4,8 +4,8 @@
   "title": "성적 절정의 어려움을 서사화한 인물",
   "original": "Anorgasmia",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "성적 절정에 이르기 어려운 경험을 인물의 관계와 자기 이해를 다루는 소재로 삼는다. 특정 성별이나 단일한 해결책으로 환원하지 않고 작품 속 묘사와 갈등을 구분한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "성적 절정에 이르기 어려운 경험 때문에 인물이 자신의 몸이나 파트너와의 대화를 고민하는 이야기다. 관계의 기대와 실제 경험의 차이가 갈등이 될 수 있다. 특정 성별의 본성이나 의지 부족으로 설명하지 않으며, 한 번의 만남으로 해결된다고 정하지 않는다.",
     "review_status": "reviewed",

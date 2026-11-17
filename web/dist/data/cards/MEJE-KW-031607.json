@@ -4,8 +4,8 @@
   "title": "상대의 집착을 함께 즐기며 관계를 맺기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "한 가지에 강하게 몰두하는 인물의 관심을 다른 사람이 이해하거나 함께 즐기면서 소통과 친밀감의 통로가 생기는 관계 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상대의 관심을 이용해 속이는 조종과 구별한다. 모든 관계가 그 관심만으로 유지되어야 한다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 이야기에는 반응이 없던 사람도 좋아하는 주제를 공유하면 상대에게 친밀감을 보인다.",
     "review_status": "reviewed",

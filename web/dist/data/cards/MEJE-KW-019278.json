@@ -4,8 +4,8 @@
   "title": "붙잡은 영웅을 식사에 초대하는 악당",
   "original": "No, Mr. Bond, I Expect You to Dine",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "악역이 포로로 잡은 영웅을 해치기 전에 식사를 대접하며 손님처럼 대하는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "자유로운 관계에서 악역과 우연히 식사하거나 영웅을 먹으려는 초대와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "포로가 되었는데 악당은 격식을 갖춘 식탁으로 안내한다.",
     "review_status": "reviewed",

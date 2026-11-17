@@ -4,8 +4,8 @@
   "title": "곁에 있으면 괴롭고 없으면 그리운 관계",
   "original": "Can't Live With Them, Can't Live Without Them",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "서로 다투던 두 사람이 떨어진 뒤 함께하던 시간이 삶을 지탱했다는 사실을 깨닫는다. 다시 만날지 결정할 때 갈등의 원인도 남아 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "같이 있을 때는 자주 다투지만 떨어져 지내면 상대의 빈자리를 크게 느끼는 관계다. 갈등만 보던 인물이 함께한 도움과 익숙함을 새로 이해하게 된다. 다시 만나고 싶은 마음과 실제 문제가 해결되었는지는 다르므로 재회의 선택에 변화가 필요한 상황이다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "성관계를 맺으면 해가 생기는 연인",
   "original": "Can't Have Sex, Ever",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "서로 사랑하지만 성관계를 가지면 나쁜 결과가 생기는 조건 때문에 그 행위를 하지 못하는 관계 설정이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-004299는 저주나 신체 규칙으로 막힌 관계다. 현재는 나쁜 결과의 원인을 그 방식에 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께하고 싶은 마음과 행위의 위험한 결과가 충돌한다.",
     "review_status": "reviewed",

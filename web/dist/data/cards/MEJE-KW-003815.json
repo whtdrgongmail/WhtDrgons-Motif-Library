@@ -4,8 +4,8 @@
   "title": "침대까지 가져온 아침 식사",
   "original": "Breakfast in Bed",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "한 인물이 다른 사람의 침대 곁에 아침을 차려 돌봄이나 애정을 표현한다. 받는 사람의 편안함과 준비한 사람의 마음이 함께 보인다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람이 아직 누워 있는 상대에게 아침 식사를 가져다주어 돌봄이나 애정을 표현하는 장면이다. 평소의 생활 부담을 덜어 주거나 특별한 날을 기념하는 행동일 수 있다. 준비한 사람의 선의와 받는 사람의 편안함이 함께 확인될 때 따뜻한 관계가 드러난다.",
     "review_status": "reviewed",

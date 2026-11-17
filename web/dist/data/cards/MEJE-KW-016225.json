@@ -4,8 +4,8 @@
   "title": "떠나는 연인에게 행운의 증표 주기",
   "original": "The Lady's Favour",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "떠나는 사랑하는 사람에게 개인적으로 소중한 물건을 건네며 애정과 행운을 기원하는 행동이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "필수 장비나 돈을 지급하는 일과 달리 관계의 [[상징]]이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "먼 길 가는 연인에게 자기 손수건을 지니고 가라고 한다.",
     "review_status": "reviewed",

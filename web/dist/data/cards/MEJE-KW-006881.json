@@ -4,8 +4,8 @@
   "title": "배우자라고 선언하기",
   "original": "Declaration of Spousehood",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "다른 사람의 접근을 막거나 관계를 규정하려는 인물이 상대가 이미 자신의 배우자라고 주장한다. 사실 여부와 공개성에 따라 갈등이 생긴다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누군가가 상대를 자신의 배우자라고 말해 관계를 공개하거나 다른 사람의 접근을 막는 장면이다. 실제 혼인 사실을 밝힌 것인지 일방적인 주장인지에 따라 의미가 다르며, 그 말을 듣는 당사자의 동의와 반응이 관계의 성격을 드러낸다.",
     "review_status": "reviewed",

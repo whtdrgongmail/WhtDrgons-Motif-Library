@@ -4,8 +4,8 @@
   "title": "군주의 하렘",
   "original": "Royal Harem",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "군주나 통치자의 지위를 중심으로 여러 배우자 또는 연애 상대가 모이는 관계 집단이다. 통치권과 사적인 애정 관계가 같은 중심 인물에게 집중된다.",
     "detail": "작품 사례: [[Fushigi Yuugi]]에서 호우키는 왕실 하렘에 들어간 뒤 호토호리와 결혼하며, 후궁의 아들을 왕위에 올리려는 [[갈등]]도 군주의 가족 관계 안에서 발생한다.",
@@ -13,14 +13,20 @@
     "boundary": "모든 하렘의 구성원이 노예인 것은 아니며, 주인공의 지위가 군주가 아니면 이 하위 유형에 해당하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "왕의 여러 연애 상대가 궁정 안에서 하나의 집단을 이룬다.",
     "review_status": "reviewed",

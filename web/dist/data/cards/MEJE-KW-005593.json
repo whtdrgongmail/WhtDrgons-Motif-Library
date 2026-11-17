@@ -4,8 +4,8 @@
   "title": "자신감을 심어 주려 꾸민 사건",
   "original": "Confidence-Building Scheme",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "주변 사람이 인물의 자신감을 회복시키려고 성공 경험을 몰래 마련한다. 선의의 조작이 들키면 성취의 진실성이 다시 문제 된다. 자신감을 높이려고 몰래 꾸민 사건과 [[실패로 믿게 만드는 몰래 방해]]는 진실을 숨긴 개입이라는 점에서 반대 방향으로 작동한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "주변 사람이 자신감을 잃은 인물에게 일부러 성공할 상황을 마련해 주는 이야기다. 당사자는 자기 힘으로 해냈다고 믿을 수 있어 힘을 얻지만, 숨은 개입이 알려지면 성취와 신뢰가 흔들린다. [[실패로 믿게 만드는 몰래 방해]]와는 개입의 방향이 반대다.",
     "review_status": "reviewed",

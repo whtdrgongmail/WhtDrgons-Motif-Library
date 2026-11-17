@@ -5,8 +5,8 @@
   "original": "Appeasing a Monster with Its Favorite Food",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "위험한 존재가 유난히 좋아하는 먹이를 선물하여 공격을 멈추게 하거나 우호적인 관계를 만든다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "현재 원문은 갓파에게 오이를 주는 규칙으로 설명한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하는 음식을 주니 적이 친구가 된다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "영웅과 희미한 연애 암시만 있는 상대",
   "original": "Implied Love Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02645",
+  "primary_tag_id": "ML-T02645",
   "description": {
     "definition": "주인공과의 관계에 낭만적인 의미가 약하게 비치지만 분명한 연애 역할이나 공식 관계까지 확정되지는 않는 인물이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "646과 이전 003:2482는 연애 상대 역할을 뒷받침할 충분한 단서를 요구하지만 현재 항목은 희미한 함의까지 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사랑일 수도 있어 보이지만 단서는 희미하다.",
     "review_status": "reviewed",

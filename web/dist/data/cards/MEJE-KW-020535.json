@@ -4,8 +4,8 @@
   "title": "문화 일부의 비판이 나라 전체의 모욕이 되기",
   "original": "Offending a Foreign Country",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "한 나라의 특정 문화 요소에 대한 불평이 그 나라 전체를 깎아내리는 말로 기능하거나 받아들여지는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "특정 행위에 대한 근거 있는 비판이 언제나 모욕이라는 뜻은 아니다. 개별 평가가 집단 전체에 대한 평가로 확대되는 관계가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "하나의 관습을 문제 삼은 말이 국가와 공동체의 자존심을 건드리는 [[갈등]]으로 번진다.",
     "review_status": "reviewed",

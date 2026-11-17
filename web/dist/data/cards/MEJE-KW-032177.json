@@ -4,8 +4,8 @@
   "title": "보호를 내세워 여성의 참여를 막기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "여성을 안전하게 지켜야 한다는 신념을 이유로 당사자의 의사나 능력보다 남성 보호자의 판단을 앞세워 활동을 제한한다.",
     "detail": "작품 사례: 소설 《[[드라큘라]]》의 남성 일행은 미나를 위한 일이라고 생각하여 사냥에서 제외하고 집에 남기지만, 그 판단이 역효과를 내자 잘못을 배운다.",
@@ -13,14 +13,20 @@
     "boundary": "배려를 표방하는 관계가 자율성을 침해하는 구조이며 실제 여성의 능력이 부족하다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "도와준다는 사람이 위험한 일은 남자에게 맡기라며 여성을 집에 남긴다.",
     "review_status": "reviewed",

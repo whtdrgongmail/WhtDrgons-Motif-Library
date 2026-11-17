@@ -4,8 +4,8 @@
   "title": "도움을 청했지만 동료가 개입하지 않기",
   "original": "Backup Abstention",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "위기에 빠진 인물이 동료의 지원을 기대하지만 동료는 지켜보거나 떠난다. 두려움인지 책임을 묻는 선택인지에 따라 관계의 균열이 달라진다. 실제로 오지 않는 동료 대신 [[없는 지원군을 있는 듯 속이기]]로 시간을 벌 수도 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "위험에 처한 인물이 지원을 요청했지만 가까운 동료가 움직이지 않아 혼자 감당하게 되는 상황이다. 동료의 두려움과 판단, 이미 틀어진 관계가 이유일 수 있다. 오지 않은 이유에 따라 방관인지 약속 위반인지가 달라지고 이후 신뢰 회복의 조건도 달라진다.",
     "review_status": "reviewed",

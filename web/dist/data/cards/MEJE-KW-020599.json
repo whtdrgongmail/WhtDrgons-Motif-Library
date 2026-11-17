@@ -5,8 +5,8 @@
   "original": "Favor for a Future Debt",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02672",
+  "primary_tag_id": "ML-T02672",
   "description": {
     "definition": "지금 도움을 주는 대신 훗날 요청할 일을 반드시 들어주라는 약속을 받아 두는 거래 관계다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "무엇을 언제 갚을지 정해진 교환이나 조건 없는 호의와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.042",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "도움을 받을 때에는 구체적인 대가를 모르지만 이후 상대의 요구를 거절하기 어려워진다.",
     "review_status": "reviewed",

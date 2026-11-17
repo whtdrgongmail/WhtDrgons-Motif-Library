@@ -4,8 +4,8 @@
   "title": "교사와 학생의 부모 사이의 연애",
   "original": "Teacher/Parent Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "교사가 자신이 가르치는 학생의 부모와 사랑에 빠지거나 교제한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "교사와 학생 본인의 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "학교를 통해 만난 교사와 학부모가 연인이 된다.",
     "review_status": "reviewed",

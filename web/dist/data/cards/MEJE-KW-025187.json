@@ -5,8 +5,8 @@
   "original": "Remembering Every Detail of the First Meeting",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "사랑하는 사람과 만났던 과거 장면의 날씨·옷·음식 등 작은 요소를 자세히 기억하고 말해 그 경험의 중요성을 드러내는 방식이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "상대의 현재 습관에 대한 지식과 달리 함께한 특정 경험의 세부 기억이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "처음 만난 날의 작은 것까지 잊지 않았다.",
     "review_status": "reviewed",

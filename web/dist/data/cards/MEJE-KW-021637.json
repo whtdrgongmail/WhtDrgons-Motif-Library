@@ -4,8 +4,8 @@
   "title": "거친 인물을 선하게 만드는 특별한 상대",
   "original": "Morality Pet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "거친 인물이 특정 상대의 영향으로 그 앞에서는 연기가 아니라 실제로 다정하고 나은 행동을 보이는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "좋은 평가를 받으려고 친절한 척하는 위장과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람과 함께 있을 때만은 마음이 진짜로 부드러워진다.",
     "review_status": "reviewed",

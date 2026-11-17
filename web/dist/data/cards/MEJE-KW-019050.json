@@ -4,8 +4,8 @@
   "title": "압도적인 강자에게 가려진 실력자",
   "original": "Overshadowed by Awesome",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "충분한 실력을 지닌 인물이 훨씬 뛰어난 다른 인물들과 비교되는 탓에 약하거나 무능해 보이는 관계 구도이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제로 실력이 없는 인물이 겉으로만 강해 보이는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "보통 상대에게는 강하지만 괴물 같은 동료들 옆에서는 평범해 보인다.",
     "review_status": "reviewed",

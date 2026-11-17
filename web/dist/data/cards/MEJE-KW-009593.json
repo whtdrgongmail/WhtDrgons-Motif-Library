@@ -4,8 +4,8 @@
   "title": "같은 작품의 팬으로 가까워지기",
   "original": "Fan Bonding",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "서로 좋아하는 작품이 같다는 사실을 알게 된 인물들이 그 관심사를 통해 빠르게 친밀해지는 관계 장면이다. 같은 작품을 좋아하는 [[팬]]이라는 공통점이 인물 관계를 가깝게 만든다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "같은 작품을 좋아한다는 사실을 안 사람들이 그 관심사를 나누며 가까워지는 장면이다. 서로 낯설어도 [[팬]]으로서 아는 이야기와 감정을 공유할 수 있어, 다른 배경과 성격의 차이를 넘어 대화할 편안한 기반이 생긴다.",
     "review_status": "reviewed",

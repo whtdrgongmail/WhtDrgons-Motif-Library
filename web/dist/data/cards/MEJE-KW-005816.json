@@ -4,8 +4,8 @@
   "title": "포옹으로 폭주를 가라앉히기",
   "original": "Cooldown Hug",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "격앙되거나 힘을 통제하지 못하는 인물을 가까운 사람이 안아 진정시킨다. 위험을 무릅쓴 접촉이 관계의 신뢰를 보여 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "격한 감정이나 통제되지 않는 힘에 휩싸인 인물을 가까운 사람이 안아 진정시키는 장면이다. 위험한 상태에서도 관계의 기억이 닿는다는 표현이지만, 상대가 받아들이는 접촉인지에 따라 위안과 원치 않는 제약의 의미는 달라질 수 있다.",
     "review_status": "reviewed",

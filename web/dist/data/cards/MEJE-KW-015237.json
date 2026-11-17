@@ -6,8 +6,8 @@
   "aliases": [
     "타당한 이유 없는 적개심"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "상대에게 품는 강한 미움이 뚜렷한 이유나 피해 경험으로 설명되지 않는 관계이다.",
     "detail": "책임의 과장, 설명되지 않는 반감, 통제할 수 없는 특성에 대한 질투와 편견으로 나뉜다. 반대 증거를 무시하거나 같은 행동도 특정 상대에게만 문제 삼을 수 있다.\n\n작품 사례: 《[[나루토]]》에서 사스케는 이타치의 진실을 안 뒤 책임자뿐 아니라 평온하게 살아온 나뭇잎마을 전체를 복수의 대상으로 삼는다.",
@@ -15,14 +15,20 @@
     "boundary": "이유가 관객에게 아직 밝혀지지 않았을 뿐인 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "왜인지 설명하지 못하면서 특정 상대를 몹시 싫어한다.",
     "review_status": "reviewed",

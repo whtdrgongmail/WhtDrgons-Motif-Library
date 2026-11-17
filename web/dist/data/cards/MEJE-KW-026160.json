@@ -4,8 +4,8 @@
   "title": "동성에게서만 연애 감정을 받는 인물",
   "original": "Only Has Same-Sex Admirers",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "주변에서 자신을 좋아하는 사람들이 모두 자신과 같은 성별로 구성되어 있는 인물의 연애 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "당사자의 지향이나 그 사랑에 응하는지는 별도 조건이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "나를 좋아하는 사람은 모두 나와 같은 성별이다.",
     "review_status": "reviewed",

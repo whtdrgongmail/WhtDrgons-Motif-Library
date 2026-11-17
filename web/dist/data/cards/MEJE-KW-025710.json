@@ -5,8 +5,8 @@
   "original": "A Partner as a Trophy of Loyalty",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "연인이 자신의 우월함과 매력을 계속 증명하고 무조건적인 충성을 보여야 한다고 요구하는 관계다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "일반적 자기 중요성보다 상대에게 부여하는 도구적 역할에 초점을 두며 의학적 진단이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "연인에게 자기 체면을 세우는 역할만 맡긴다.",
     "review_status": "reviewed",

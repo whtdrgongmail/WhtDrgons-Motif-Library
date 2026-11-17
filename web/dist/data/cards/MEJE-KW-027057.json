@@ -4,8 +4,8 @@
   "title": "가장 필요할 때 도와준 사람에게 충성의 빚을 맹세하기",
   "original": "I Owe You My Life",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "절실한 순간에 자신을 도와준 사람에게 큰 빚을 졌다고 느껴 충성을 약속하는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "이전 004:3682는 생명을 구한 은혜이며 현재는 반드시 목숨의 구조가 아닌 절박한 도움도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가장 힘들 때 나를 도왔으니 그 은혜에 충성으로 답한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "작은 요정 동료",
   "original": "Fairy Companion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "영웅 곁에서 움직이는 작은 요정이 안내나 마법의 도움을 주는 동료 역할을 맡는다. [[도움을 주러 오는 대모 요정]]은 요정 [[조력자]]가 보호자처럼 개입하는 대표적인 유형이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "작은 요정이 영웅과 함께 움직이며 길을 안내하거나 마법으로 돕는 동료다. 몸집이 작아도 정보와 능력으로 중요한 역할을 하며, [[도움을 주러 오는 대모 요정]]처럼 보호자로 개입하는 유형과는 지속적인 동행의 성격이 다를 수 있다.",
     "review_status": "reviewed",

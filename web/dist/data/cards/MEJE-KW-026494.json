@@ -4,8 +4,8 @@
   "title": "신경적 차이 때문에 낙인받는 인물",
   "original": "Neurodivergence Stigma",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "일반적으로 기대되는 인지 방식과 다르다는 이유로 인물이 사회적 낙인과 불이익을 받는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "차이 자체를 도덕적 결함이나 위험성으로 인정하는 설명이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다르게 생각하거나 반응한다는 사실이 배척의 이유가 된다.",
     "review_status": "reviewed",

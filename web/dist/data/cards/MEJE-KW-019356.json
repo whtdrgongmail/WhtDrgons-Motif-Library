@@ -4,8 +4,8 @@
   "title": "어린이 놀이기구 때문에 받는 조롱",
   "original": "Kiddie Ride Ridicule",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "어린이용 놀이기구를 유치하거나 멋없다고 여기는 주변 시선 때문에 그것을 타거나 곁에 있는 인물이 창피한 처지가 되는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "놀이기구 자체가 실제로 열등하다는 뜻이 아니라 작품 속 사회적 평가다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "아이용 놀이기구를 즐긴다는 사실이 놀림거리가 된다.",
     "review_status": "reviewed",

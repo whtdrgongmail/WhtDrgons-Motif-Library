@@ -4,8 +4,8 @@
   "title": "상처 입은 여성들의 공동 대응",
   "original": "Alliance of Women Scorned",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02667",
+  "primary_tag_id": "ML-T02667",
   "description": {
     "definition": "해로운 관계나 부당한 대우를 겪은 여성들이 서로를 경쟁자로 보지 않고 힘을 합치는 전개. 협력의 목적은 복수일 수도 있고 보호와 회복일 수도 있다. [[공동 복수를 위해 맺은 동맹]]과 동기를 구분한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.037",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "해로운 관계를 겪은 여성들이 서로를 탓하거나 경쟁하는 대신 정보와 도움을 나누는 전개다. 안전을 확보하고 회복하는 일이 목적일 수도 있다. 특정 적을 처벌하는 [[공동 복수를 위해 맺은 동맹]]과 달리 공동 대응이 반드시 복수를 목표로 하지는 않는다.",
     "review_status": "reviewed",

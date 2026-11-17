@@ -4,8 +4,8 @@
   "title": "겉으로 짐작한 편견과 다른 이유로 연애를 반대하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "열린 부모가 관계에 반대하지만 상대의 눈에 띄는 정체나 배경에 대한 편견 때문은 아니었음이 밝혀진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제 편견을 보여 준 경우까지 무해한 동기로 바꾸어 해석하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "차별하는 줄 알았는데 다른 문제를 걱정했다.",
     "review_status": "reviewed",

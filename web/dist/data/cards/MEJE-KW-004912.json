@@ -4,8 +4,8 @@
   "title": "새로 온 사람에게 차가운 집단",
   "original": "Chilly Reception",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "기존 구성원들이 새로 들어온 사람을 이유 없이 경계하거나 홀대한다. 소속되기까지의 문턱이 집단의 규칙과 배타성을 보여 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "새로 들어온 사람에게 기존 구성원들이 반갑게 인사하기보다 냉담하고 배타적으로 반응하는 장면이다. 신입이 뚜렷한 잘못을 하지 않았어도 거리를 두기 때문에, 집단에 받아들여지려면 무엇을 증명해야 하는지가 갈등으로 생긴다.",
     "review_status": "reviewed",

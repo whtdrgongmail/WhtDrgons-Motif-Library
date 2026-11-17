@@ -6,8 +6,8 @@
   "aliases": [
     "마음에 들지 않아도 배제하지 않는 친구"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "친구 집단의 구성원으로 함께 다니면서도 같은 무리의 다른 사람들에게 대체로 미움받는 인물이다.",
     "detail": "작품 사례: 《[[퓨처라마]]》의 조이드버그는 함께 다니는 무리의 구성원이면서도 다른 친구들에게 호감을 얻지 못하는 인물로 제시된다. 이 관계가 집단 소개에서 그만 별도로 덧붙이는 농담의 바탕이 된다.",
@@ -15,14 +15,20 @@
     "boundary": "완전히 쫓겨난 외부인이나 서로 싫어하는 적대 집단과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "같이 어울리는 친구인데 정작 친구들은 그를 좋아하지 않는다.",
     "review_status": "reviewed",

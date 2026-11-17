@@ -4,8 +4,8 @@
   "title": "감사를 사양하는 겸손",
   "original": "Think Nothing of It",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02672",
+  "primary_tag_id": "ML-T02672",
   "description": {
     "definition": "도움을 준 [[인물]]이 대단한 일이 아니었다며 감사의 부담을 줄이거나 더 이상의 보답을 사양하는 반응이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "도운 사실을 숨기려고 핑계를 대는 태도와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.042",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "고맙다는 말에 당연히 할 일을 했다고 답한다.",
     "review_status": "reviewed",

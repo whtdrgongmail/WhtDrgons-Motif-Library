@@ -4,8 +4,8 @@
   "title": "연애의 상대역",
   "original": "Love Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "한 인물의 연애 감정이 향하거나 실제 낭만적 관계를 맺는 대상으로 이야기에 배치되는 역할이다.",
     "detail": "주인공·조력자·악역 등 다른 역할과 겹칠 수 있으며 관계의 성립 여부와 독립적인 인물성은 별개다.",
@@ -13,14 +13,20 @@
     "boundary": "단순한 성적 관심의 대상과 달리 낭만적 관계의 기능을 보며 반드시 구출받는 인물이거나 수동적이어야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이야기에서 누군가가 사랑하거나 함께하게 되는 상대다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "쓸모없어진 물건을 건네는 모욕",
   "original": "Handing Over the Crap Sack",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "받는 사람에게 가치가 없거나 상처가 될 것을 알면서 물건을 선물·반환의 형식으로 건네는 [[행동]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "단순히 선물 취향이 맞지 않는 경우보다 무가치함과 모욕이 [[장면]]의 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "소중한 물건을 망가뜨린 뒤 잔해를 돌려주며 상대를 괴롭힌다.",
     "review_status": "reviewed",

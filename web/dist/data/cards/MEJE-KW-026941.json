@@ -4,8 +4,8 @@
   "title": "다른 성별로 가장해 연애 상대의 친구가 되기",
   "original": "Gender-Bender Friendship",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02664",
+  "primary_tag_id": "ML-T02664",
   "description": {
     "definition": "인물이 반대 성별인 것처럼 가장한 상태에서 자신이 좋아하는 사람과 친구 관계를 맺는 전개이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-011145는 신체의 성별 변화가 전제다. 현재는 가장이므로 변장이나 역할 수행으로도 성립하며 신체 변화는 요구하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "원래 정체를 감춘 채 좋아하는 사람 곁에 친구로 다가간다.",
     "review_status": "reviewed",

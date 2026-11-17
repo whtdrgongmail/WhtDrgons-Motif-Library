@@ -4,8 +4,8 @@
   "title": "권위자에게 맞선 태도를 칭찬받기",
   "original": "Commended for Pushback",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "인물이 자신을 지배하던 권위자에게 맞섰다가 바로 그 권위자에게 성장한 태도와 판단을 인정받는 장면.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "자신을 지휘하거나 통제하던 사람에게 반대 의견을 낸 인물이 오히려 그에게 인정받는 장면이다. 무조건 복종하는 대신 스스로 판단한 태도가 성장의 증거가 되며, 권위자가 어떤 반대와 책임 있는 행동을 받아들이는지도 드러난다.",
     "review_status": "reviewed",

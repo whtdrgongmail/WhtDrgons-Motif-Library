@@ -6,8 +6,8 @@
   "aliases": [
     "상대를 낮춰 보는 동정"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "인물이 도움을 주면서도 상대를 동등한 사람보다 부족한 대상으로 대한다. 친절한 행동 속에 [[우월감]]이 남는다.",
     "detail": "",
@@ -15,14 +15,20 @@
     "boundary": "도움 자체를 모두 모욕으로 보는 개념이 아니다. 동정의 말과 행동에 우월한 위치에서 판단하는 태도가 확인되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "도움을 주는 사람이 상대를 동등한 사람보다 불쌍하고 부족한 존재로 대하는 관계다. 실제로 유익한 행동을 해도 태도에는 [[우월감]]이 남을 수 있으며, 받는 사람이 필요로 한 지원과 존중이 서로 다른 문제임을 드러낸다.",
     "review_status": "reviewed",

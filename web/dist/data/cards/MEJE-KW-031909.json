@@ -4,8 +4,8 @@
   "title": "원하지 않던 구애가 사라지자 자존심이 상하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02645",
+  "primary_tag_id": "ML-T02645",
   "description": {
     "definition": "상대의 사랑을 받아들일 생각은 없으면서도 자신을 좋아하던 마음이 사라졌다는 사실에는 모욕감을 느끼는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사귀고 싶지는 않지만 상대가 더는 좋아하지 않으면 화가 난다.",
     "review_status": "reviewed",

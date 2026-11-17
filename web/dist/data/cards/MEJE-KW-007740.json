@@ -4,8 +4,8 @@
   "title": "아는 사람을 닮은 연인",
   "original": "Doppelgänger Dating",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "새 연애 상대가 친구나 자신과 이미 가까운 인물의 외모·성격을 놀랄 만큼 닮아 주변이 그 유사성을 알아챈다. [[떠난 연인을 닮은 새 상대]]은 기존 연인을 잃은 뒤 그와 닮은 사람을 만나는 구체적인 관계 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "새 연인이 자신이나 친구처럼 가까운 사람을 놀라울 만큼 닮아 주변이 유사성을 알아차리는 설정이다. 무의식적인 호감의 방향이 농담이 될 수 있으며, [[떠난 연인을 닮은 새 상대]]와 달리 잃은 연인의 대체일 필요는 없다.",
     "review_status": "reviewed",

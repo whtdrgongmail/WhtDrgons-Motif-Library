@@ -4,8 +4,8 @@
   "title": "예의를 핑계로 위험한 첫 차례를 떠넘기기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "겉으로는 상대에게 먼저 갈 기회를 양보하지만 실제로는 앞에 있을 위험이나 불편을 상대가 먼저 겪게 하려는 상호작용이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제로 상대의 편의를 우선하는 양보와 동기가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "먼저 가시라고 하지만 사실은 앞의 위험을 피하고 싶다.",
     "review_status": "reviewed",

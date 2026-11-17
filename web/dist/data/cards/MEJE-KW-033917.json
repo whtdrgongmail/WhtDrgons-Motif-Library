@@ -4,8 +4,8 @@
   "title": "같은 편 사이의 차이를 넘어 협력하기",
   "original": "Overcome Their Differences",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02667",
+  "primary_tag_id": "ML-T02667",
   "description": {
     "definition": "공동의 목표를 가진 인물들이 성격·가치관·관계의 차이로 생긴 내부 [[갈등]]을 조정하여 함께 행동할 수 있게 되는 관계 전개다.",
     "detail": "작품 사례: 만화 《[[인크레더블 헐크]]》의 해머와 앤빌은 서로 적대적인 태도를 가지고도 감옥에서 벗어나려는 공동 목표 때문에 차이를 넘어 협력한다.",
@@ -13,14 +13,20 @@
     "boundary": "모든 의견 차이를 없애거나 같은 성격이 되어야 하는 것은 아니며 억지 갈등을 만든 뒤 교훈만 덧붙이는 구성과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.037",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "적과 싸우기 전에 서로의 차이부터 넘어 함께 움직인다.",
     "review_status": "reviewed",

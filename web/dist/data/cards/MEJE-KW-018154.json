@@ -4,8 +4,8 @@
   "title": "여성의 연대로 난관 극복하기",
   "original": "The Power of Sisterhood",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02667",
+  "primary_tag_id": "ML-T02667",
   "description": {
     "definition": "여성들이 공유하는 경험과 관심사를 바탕으로 서로를 지지하고 연결되어 어려움을 극복하는 관계 구조다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "여성 인물들이 같은 장소에 있다는 사실만으로는 부족하다. 공유된 경험과 지지가 극복의 수단으로 작용해야 하며 모든 여성의 경험이 같다고 가정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.037",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "비슷한 경험을 아는 여성들이 서로를 받쳐 주며 혼자 감당하기 어려운 일을 넘어선다.",
     "review_status": "reviewed",

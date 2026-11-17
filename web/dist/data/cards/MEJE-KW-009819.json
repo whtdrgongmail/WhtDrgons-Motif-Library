@@ -4,8 +4,8 @@
   "title": "사실은 같은 집단인 연인",
   "original": "Faux Interracial Relationship",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "서로 다른 민족이라 관계를 맺기 어렵다고 여기던 인물들이 결국 같은 집단임이 밝혀져 갈등이 사라지는 낡은 연애 [[서사]] 관습이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 민족이라 사랑이 어렵다고 여겼던 두 사람이 사실 같은 집단이라는 반전으로 갈등을 끝내는 관습이다. 편견 자체를 극복하기보다 차이가 없었다고 처리하므로, 관계를 막던 사회적 문제는 해결되지 않은 채 남을 수 있다.",
     "review_status": "reviewed",

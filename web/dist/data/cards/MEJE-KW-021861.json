@@ -4,8 +4,8 @@
   "title": "영웅에게 베푸는 무료 대접",
   "original": "Hospitality for Heroes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "영웅에게 대가를 받지 않고 머무를 장소를 제공하는 환대다.",
     "detail": "영웅의 활동을 돕거나 보답하는 수단이 될 수 있다.",
@@ -13,14 +13,20 @@
     "boundary": "영웅이 강제로 대가를 면제받는 특권과 달리 제공자의 자발적인 감사가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "도움을 받은 사람들이 영웅의 생활 부담을 자신이 줄여 주려 한다.",
     "review_status": "reviewed",

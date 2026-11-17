@@ -4,8 +4,8 @@
   "title": "배우자를 잃었다는 이유로 받는 냉대",
   "original": "Widow Mistreatment",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "배우자가 죽었다는 사실 때문에 생존한 배우자가 미움이나 부당한 대우의 대상이 되는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제 범행 책임이 확인되어 비판받는 경우나 단순한 슬픔과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사별한 사람에게 위로 대신 비난과 배척이 돌아온다.",
     "review_status": "reviewed",

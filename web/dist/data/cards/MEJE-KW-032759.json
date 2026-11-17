@@ -4,8 +4,8 @@
   "title": "거절하면 종족이 사라진다며 죄책감 주기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "관계를 원하지 않는 사람에게 그 거절이 집단의 멸종을 초래한다고 주장해 [[죄책감]]으로 선택을 압박한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제 동의가 필요 없다는 주장이 아니라 선택의 자유가 압박받는 서사적 [[갈등]]이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "싫다고 말하면 모두를 죽이는 셈이라는 부담을 지운다.",
     "review_status": "reviewed",

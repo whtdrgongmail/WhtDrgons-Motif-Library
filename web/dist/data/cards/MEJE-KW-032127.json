@@ -4,8 +4,8 @@
   "title": "옛 친구의 현재 정체성을 자연스럽게 받아들이기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "재회한 친구의 성별 전환을 알게 된 인물이 그 사실 때문에 관계를 부정하지 않고 상대의 현재 정체성을 존중하며 우정을 이어 가는 장면이다.",
     "detail": "작품 사례: 《[[우국의 모리아티]]》에서 허드슨과 존은 재회한 제임스 본드를 현재의 이름으로 부르며, 셜록은 겉모습이 달라도 같은 사람이라는 태도를 보인다.",
@@ -13,14 +13,20 @@
     "boundary": "이전 이름이나 정체성을 강요하는 반응과 구별한다. 수용의 말뿐 아니라 상대가 현재 자신을 어떻게 부르고 대하는지 존중하는 태도가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "예전과 모습은 달라도 같은 친구라는 점을 받아들이며 관계를 계속한다.",
     "review_status": "reviewed",

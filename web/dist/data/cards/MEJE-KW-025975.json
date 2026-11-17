@@ -5,8 +5,8 @@
   "original": "Reforming Your Bullying Ways to Win Love",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "남을 괴롭히던 인물이 마음에 둔 상대에게 인정받고자 자신의 공격적이거나 이기적인 행동을 고치려는 전개다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "개선 시도와 실제 변화는 구별한다. 연인이 될 보상이나 상대의 응답을 당연한 대가로 요구하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "그 사람에게 사랑받고 싶어서 남을 대하는 태도를 바꾸려 한다.",
     "review_status": "reviewed",

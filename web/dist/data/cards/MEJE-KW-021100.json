@@ -4,8 +4,8 @@
   "title": "아일랜드계와 유대계 인물의 짝",
   "original": "Irishman and a Jew",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "아일랜드계 인물과 유대계 인물을 협력자나 주요 짝으로 배치하고 서로 다른 문화적 배경을 관계의 재료로 사용하는 구성이다.",
     "detail": "성격이나 유머의 차이를 대비할 수 있지만 고정된 성격 배분이 필수는 아니다. 실제 집단의 타고난 성향을 말하는 개념이 아니라 작품의 짝짓기 관습이다.\n\n작품 사례: 《[[엑소시스트 3]]》에서 유대계 형사 킨더먼과 아일랜드계 다이어 신부는 서로 빈정거리는 농담을 주고받는 친구로 묶인다.",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "출신 문화가 다른 두 사람이 한 조가 되어 농담하고 협력한다.",
     "review_status": "reviewed",

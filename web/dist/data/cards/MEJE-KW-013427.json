@@ -4,8 +4,8 @@
   "title": "요란한 악역과 진지한 영웅",
   "original": "Hammy Villain, Serious Hero",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "과장되고 수다스러운 악역과 절제되고 진중한 [[영웅]]을 맞세워 [[성격]] 차이를 [[갈등]]과 매력의 원천으로 삼는 구성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "선악의 구도와 표현 강도의 대조가 함께 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "악역은 장난처럼 [[도발]]하고 영웅은 냉정하게 응한다.",
     "review_status": "reviewed",

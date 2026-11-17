@@ -4,8 +4,8 @@
   "title": "세 사람의 연애 관계를 떠올리게 하는 암시",
   "original": "Threesome Subtext",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "작품 안의 세 인물 사이 행동과 관계에 함께 연애 관계를 이룰 가능성을 읽을 만한 암시가 있으나 실제 관계 성립까지 확정되지는 않은 구성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "팬이 아무 근거 없이 선호하는 조합이나 이미 명시된 다인 연애 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "세 사람 사이에 연애로 읽힐 여지가 있지만 공식 관계라고 못 박지는 않는다.",
     "review_status": "reviewed",

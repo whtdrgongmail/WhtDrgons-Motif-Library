@@ -4,8 +4,8 @@
   "title": "왜 저 사람과 친구인지 의아해하기",
   "original": "Loser Friend Puzzles Outsiders",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "다른 사람들은 하찮게 여기거나 싫어하는 인물이 더 인기 있고 지위 높은 사람과 친하게 지내자 외부인이 그 우정을 이해하지 못하는 구도다.",
     "detail": "외부의 평가에 밀려 우정을 숨기거나 끊으려 했다가 친구의 친절·충성·관대함을 다시 인정하는 전개로 이어질 수 있다. 낮은 평가는 환경과 집단의 기준에 따라 달라진다.\n\n작품 사례: 《[[나루토(만화)]]》의 사스케 탈환 편에서 나루토와 지로보는 시카마루가 왜 약해 보이는 초지를 중시하는지 이해하지 못한다. 시카마루를 향한 모욕에 맞서는 초지의 행동이 그 우정의 가치를 드러낸다.",
@@ -13,14 +13,20 @@
     "boundary": "친구들이 실제로 그 인물을 싫어한다는 뜻은 아니며 의문은 관계 밖의 시선에서 생긴다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다들 별로라고 여기는 사람 곁에 멋진 친구가 있어 의아해한다.",
     "review_status": "reviewed",

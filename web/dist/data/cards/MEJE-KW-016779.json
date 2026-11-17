@@ -4,8 +4,8 @@
   "title": "세계 멸망을 막는 유일한 길이라며 복종시키기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "세계 전체의 파국을 피하려면 자신의 가혹한 방법밖에 없다고 주장해 지지를 확보하는 지배 방식이다.",
     "detail": "강요 없이도 위기를 해결하는 다른 선택이 입증되면 통치의 명분이 흔들린다.",
@@ -13,14 +13,20 @@
     "boundary": "실제로 악한 세력끼리 전쟁 중인 구도와 달리 복종을 얻는 명분이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이 방법을 따르지 않으면 모두 끝장난다고 설득한다.",
     "review_status": "reviewed",

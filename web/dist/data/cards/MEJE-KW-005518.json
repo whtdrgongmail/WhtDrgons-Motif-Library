@@ -4,8 +4,8 @@
   "title": "구해 준 방식에 불평하기",
   "original": "Complaining About Rescues They Don't Like",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "위험에서 벗어난 인물이 구조 자체보다 구조자가 거슬리게 행동한 점을 먼저 따지는 관계 장면.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "도움의 위험성과 문제를 정당하게 논의하는 상황과 무조건 같은 것으로 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "구조받은 인물이 고마움을 말하기보다 구조자의 거슬린 행동을 먼저 지적하는 장면이다. 생존의 안도와 평소의 불만이 어긋나 웃음을 만들 수 있으며, 도움을 받았다는 사실이 구조 과정에서 느낀 모욕이나 불편을 모두 없애지는 않는다.",
     "review_status": "reviewed",

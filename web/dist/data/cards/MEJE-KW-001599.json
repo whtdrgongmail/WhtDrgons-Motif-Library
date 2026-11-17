@@ -4,8 +4,8 @@
   "title": "애정 표현이 너무 강해 다치게 하기",
   "original": "And Call Him \"George\"",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "몸집이나 힘의 차이를 모르는 인물이 작은 상대를 껴안거나 쓰다듬다가 의도치 않게 해치는 장면. 선의와 신체적 결과가 어긋나는 것이 핵심이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대를 반기며 안거나 쓰다듬은 행동이 힘과 체격 차이 때문에 통증이나 부상을 만드는 장면이다. 다정한 의도와 실제 피해가 어긋나 인물이 힘을 조절하는 법을 배워야 한다. 웃음을 위한 장면이어도 아픈 상대의 중단 요구를 가볍게 취급하지 않는다.",
     "review_status": "reviewed",

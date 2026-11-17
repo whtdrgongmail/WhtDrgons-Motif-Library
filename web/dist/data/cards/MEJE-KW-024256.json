@@ -4,8 +4,8 @@
   "title": "성적 의미 없이 보여 주는 친밀함",
   "original": "Non-Sexual Intimacy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "신체적 가까움이나 다정한 행동이 성적 욕망보다 인물 사이의 정서적 연결을 보여 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "성적 긴장을 강조하면서 실제 행위만 생략하는 표현과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가까이 있다는 것이 반드시 성적인 뜻은 아니다.",
     "review_status": "reviewed",

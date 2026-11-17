@@ -4,8 +4,8 @@
   "title": "애정을 표현한다며 깨물기",
   "original": "Bite of Affection",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "인물이 좋아하는 상대를 깨무는 행동으로 친밀함을 표현한다. 의도와 별개로 상대가 원하고 편안해하는지 확인해야 하는 관계의 몸짓이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하는 상대를 가볍게 깨물며 애정을 표현하려는 행동이다. 둘이 원하고 편안해하면 친밀한 몸짓일 수 있지만 상대가 아프거나 싫어하면 중단해야 한다. 친한 사이라는 이유와 다정한 의도만으로 접촉에 대한 동의를 대신할 수는 없다.",
     "review_status": "reviewed",

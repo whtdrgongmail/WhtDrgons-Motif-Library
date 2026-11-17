@@ -4,8 +4,8 @@
   "title": "다툰 연인을 함께 자던 침대에서 내보내기",
   "original": "Exiled to the Couch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "연인이나 부부가 다툰 뒤 한쪽이 함께 쓰던 침대에서 자지 못하도록 밀려나는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-009106은 거실 소파를 특정한다. 현재는 소파 이외의 잠자리로 밀려나는 경우도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "마음이 틀어졌다는 사실을 잠자리의 분리로 보여 준다.",
     "review_status": "reviewed",

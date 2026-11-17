@@ -4,8 +4,8 @@
   "title": "유머 감각에 끌리는 관계",
   "original": "Attracted to Humor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "상대가 웃음을 만들어 내는 방식이 호감의 중요한 이유가 된다. 외모나 지위보다 함께 있을 때 생기는 편안함과 예상 밖의 재치를 관계의 동력으로 삼는다. 상대가 주류의 기준과 어긋나도 호감이 생기는 [[주류에서 벗어난 사람에게 끌리기]]과 함께 비교할 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 농담하거나 상황을 재치 있게 풀어내는 모습을 보며 연애 감정이 생기는 관계다. 함께 웃는 경험이 긴장을 줄이고 더 자주 만나고 싶게 한다. 웃기는 말의 수보다 서로 편안한지, 다른 사람을 해치는 농담까지 즐기는지는 별도로 판단해야 한다.",
     "review_status": "reviewed",

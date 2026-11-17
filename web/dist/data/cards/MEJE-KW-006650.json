@@ -4,8 +4,8 @@
   "title": "긴 연재에서 서로 연인이 되는 인물들",
   "original": "Dating Do-Si-Do",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "시리즈가 오래 이어지며 같은 인물 집단 안에서 연애 상대가 계속 바뀐다. 새로운 인물을 들이지 않아도 관계의 조합이 이야기를 이어 간다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "같은 인물 집단에서 연애 상대의 조합이 여러 차례 바뀌는 장기 연재의 관계 배열이다. 새 인물이 계속 합류하는 연애 구도나 한 번의 짝 교체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "긴 시리즈에서 같은 친구나 동료 집단 안의 연애 조합이 계속 바뀌는 구성이다. 새 인물을 계속 늘리지 않아도 관계의 긴장과 변화를 만들 수 있으며, 이전 연애의 기억이 다음 커플과 주변의 우정에도 영향을 남긴다.",
     "review_status": "reviewed",

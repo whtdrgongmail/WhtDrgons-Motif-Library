@@ -4,8 +4,8 @@
   "title": "전 연인과 반대인 새 연인",
   "original": "Contrasting New Love Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "이전 관계가 끝난 뒤 성격이나 생활 방식이 뚜렷이 다른 사람을 새로운 연인으로 만나 과거와 현재를 대비시키는 전개. 옛 연인과 반대되는 성격의 사람이 그 자리를 채우면 [[정반대 성격의 후임자]]의 연애 관계 변형이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이전 연인과 성격이나 생활 방식이 뚜렷이 다른 인물이 새 연인으로 등장하는 전개다. 같은 관계를 반복하기보다 달라진 선택을 보여 주며, [[정반대 성격의 후임자]]처럼 차이가 두드러질수록 과거의 문제와 현재의 기대가 선명해진다.",
     "review_status": "reviewed",

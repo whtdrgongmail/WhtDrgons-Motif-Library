@@ -4,8 +4,8 @@
   "title": "유명인과 팬 사이의 연애",
   "original": "Romance with the Fan",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "유명한 인물이 자신을 좋아하던 팬과 연애 관계를 맺으려 하거나 실제로 맺는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "일방적인 팬의 상상이나 일반적인 팬서비스와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하던 유명인의 연인이 된다.",
     "review_status": "reviewed",

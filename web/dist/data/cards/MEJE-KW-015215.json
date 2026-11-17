@@ -4,8 +4,8 @@
   "title": "이미 연인이 있는 상대에게 끌림",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "다른 사람과 관계를 맺고 있다는 상태가 반복적으로 연애적 관심의 대상이 되는 성향이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제로 관계를 깨뜨렸다는 조건까지 이 짧은 정의에서 가정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "유독 이미 사귀는 사람이 있는 상대에게 끌린다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "함께 목욕하며 가까워지기",
   "original": "Bathtub Bonding",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "두 인물이 같은 욕조나 온천에서 긴장을 풀고 평소 하지 못한 말을 나눈다. 공간의 친밀함이 관계 변화의 계기가 된다. 친밀함이 중심인 이 장면과 [[욕조 장면으로 인물을 바라보는 시선 만들기]]의 관객 시선은 구분할 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 인물이 목욕이나 온천을 함께하며 평소보다 긴장을 낮추고 대화하는 장면이다. 일상의 지위와 격식을 잠시 덜어내 속마음을 말할 수 있다. 관계의 친밀함이 중심이며, 몸을 관객에게 보여 주는 [[욕조 장면으로 인물을 바라보는 시선 만들기]]와는 초점이 다르다.",
     "review_status": "reviewed",

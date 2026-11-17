@@ -4,8 +4,8 @@
   "title": "천사 같은 인물과 악마 같은 인물의 연애",
   "original": "Angel/Devil Shipping",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "선량하고 순진한 인물과 위협적이거나 장난스러운 인물 사이의 대조를 연애 긴장으로 쓰는 관계 유형. 별명처럼 쓰인 천사와 악마가 실제 초자연적 [[정체성]]을 뜻하는지는 작품마다 다르다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다정하고 순진한 사람과 거칠거나 위험해 보이는 사람의 차이를 연애의 긴장으로 쓰는 구성이다. 천사와 악마라는 말이 성격의 비유일 수도 실제 [[정체성]]일 수도 있다. 인상의 대비가 매력을 만들더라도 위협과 가해 자체를 애정의 증거로 보지는 않는다.",
     "review_status": "reviewed",

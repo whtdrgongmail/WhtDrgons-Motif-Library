@@ -4,8 +4,8 @@
   "title": "위로가 분노와 절망을 키우기",
   "original": "Consolation Backfire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "기분을 달래려는 말이나 행동이 상대에게 상처·분노·더 큰 절망을 남긴다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "남은 좋은 것까지 잃었음을 나열하는 유형에 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "달래려다가 오히려 상대의 기분을 더 상하게 한다.",
     "review_status": "reviewed",

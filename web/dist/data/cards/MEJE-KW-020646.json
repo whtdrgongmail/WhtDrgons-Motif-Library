@@ -4,8 +4,8 @@
   "title": "서로 대조되는 두 두뇌 담당",
   "original": "Science Foils",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "성격이나 방식이 대비되는 두 인물이 함께 집단의 지적 해결 역할을 맡는 구성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "단지 두 사람이 똑똑하다는 사실만으로는 부족하다. 대비와 공동 역할이 관계를 형성해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "같은 문제를 다른 관점에서 풀며 팀의 지성이 한 사람에게만 집중되지 않는다.",
     "review_status": "reviewed",

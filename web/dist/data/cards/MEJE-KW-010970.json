@@ -4,8 +4,8 @@
   "title": "털복숭이 동물에게 위로받다",
   "original": "Fuzz Therapy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "상실과 불안을 겪는 인물이 사람 대신 반려동물과 가까이 지내며 정서적 안정을 찾는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상실이나 불안으로 지친 인물이 반려동물과 함께 지내며 마음의 안정을 얻는 장면이다. 말을 통해 해결하지 못한 감정을 조용한 접촉과 일상의 돌봄 속에서 견디게 되며, 동물과의 관계가 고립을 줄이는 위안으로 표현된다.",
     "review_status": "reviewed",

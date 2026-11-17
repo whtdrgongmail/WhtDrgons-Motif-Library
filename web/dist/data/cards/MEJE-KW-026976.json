@@ -4,8 +4,8 @@
   "title": "나와의 연애가 상대를 적의 위험에 노출하기",
   "original": "It's Not You, It's My Enemies",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "누군가와 [[연인]]으로 지낸다는 사실 때문에 그 상대가 자신의 적으로부터 해를 입을 위험에 놓이는 관계 조건이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "그 위험 때문에 반드시 헤어져야 하는 것은 아니다. 위험을 예상해 관계를 끝내는 선택은 이 조건에서 나오는 별도 행동이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "나를 사랑하면 내 적의 표적이 될 수 있다.",
     "review_status": "reviewed",

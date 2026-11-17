@@ -6,8 +6,8 @@
   "aliases": [
     "작은 남성과 큰 여성의 짝"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "키가 작은 남성과 키가 큰 여성을 짝지어 신장 차이를 강조하는 관계 디자인이다.",
     "detail": "",
@@ -15,14 +15,20 @@
     "boundary": "지속적인 연애나 여성의 지배성이 필수 조건은 아니며 몸집을 힘과 성격의 증거로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남성은 작고 여성은 큰 실루엣으로 나란히 선다.",
     "review_status": "reviewed",

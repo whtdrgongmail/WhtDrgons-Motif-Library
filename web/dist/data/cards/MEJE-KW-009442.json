@@ -4,8 +4,8 @@
   "title": "선물이 마음에 드는 척하기",
   "original": "Faked Gift Acceptance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "받은 사람이 주는 이 앞에서는 고마워하지만 혼자 남으면 선물을 버리거나 다른 곳에 넘긴다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실망을 바로 표현하는 장면과 달리 감정 은폐가 후속 사건을 만든다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "선물을 받은 사람이 주는 이 앞에서는 기뻐하는 척하다 혼자 있을 때 버리거나 다른 사람에게 넘기는 장면이다. 감사의 표현과 실제 취향이 어긋나며, 상대의 마음을 상하게 하지 않으려는 배려인지 기만인지에 따라 관계의 의미가 달라진다.",
     "review_status": "reviewed",

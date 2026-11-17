@@ -4,8 +4,8 @@
   "title": "나쁜 무리 속에서 더 편히 지내기",
   "original": "Better Off with the Bad Guys",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "평판이 나쁜 집단이 이전 [[공동체]]보다 한 인물을 잘 받아준다. 소속의 기준이 간판의 선악보다 실제 대우에서 드러난다. 새 집단의 생활 조건이 [[악당 밑에서 생활이 좋아지기]]와 연결된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "평판이 나쁜 집단에 들어간 인물이 이전 [[공동체]]에서보다 존중받고 편하게 지내는 상황이다. 좋은 간판과 실제 대우가 다를 수 있음을 보여 준다. [[악당 밑에서 생활이 좋아지기]]와 연결될 수 있지만 소속감이 생겼다고 집단의 가해가 정당화되지는 않는다.",
     "review_status": "reviewed",

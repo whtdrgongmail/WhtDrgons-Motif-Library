@@ -6,8 +6,8 @@
   "aliases": [
     "상대의 지능을 과소평가하기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "주변 인물들이 한 사람의 지성을 실제 수준보다 낮게 보고 판단하는 관계다.",
     "detail": "",
@@ -15,14 +15,20 @@
     "boundary": "스스로 능력을 과대평가하는 경우와 구별한다. 실제 능력과 외부 평가 사이의 격차가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "무시받던 인물은 다른 사람들이 예상한 것보다 더 많은 것을 이해하고 해낼 수 있다.",
     "review_status": "reviewed",

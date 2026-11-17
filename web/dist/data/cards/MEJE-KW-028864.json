@@ -4,8 +4,8 @@
   "title": "두 집에서 각각 반려동물로 지내기",
   "original": "Pet with a Double Life",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "한 동물이 서로 사정을 모르는 두 보호자나 가정 사이를 오가며 각자에게 자신의 반려동물로 받아들여지는 이중생활이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "처음부터 함께 합의하여 돌보는 공동 양육과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "양쪽 집이 모두 자기 반려동물이라고 생각한다.",
     "review_status": "reviewed",

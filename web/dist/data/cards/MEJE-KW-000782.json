@@ -4,8 +4,8 @@
   "title": "뉘우치는 사람에게 죄책감을 계속 강요하기",
   "original": "Accuser of the Brethren",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02668",
+  "primary_tag_id": "ML-T02668",
   "description": {
     "definition": "과거의 잘못을 인정하고 바꾸려는 인물에게 다른 인물이 거듭 비난을 들이밀어 [[관계 회복]]을 막는 구도. 사과를 받아들일 의무와 변화한 사람을 평가할 기준은 별개의 문제로 남는다. [[막을 수 있었는데 외면했다고 비난받기]]는 행동하지 않은 책임을 둘러싼 다른 갈등이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.038",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "잘못을 인정하고 달라지려는 사람에게 과거의 죄를 계속 들이대는 관계다. 피해자가 용서해야 한다는 뜻은 아니며, 책임을 묻는 일과 변화를 원천적으로 막는 일을 구별해 읽는다.",
     "review_status": "reviewed",

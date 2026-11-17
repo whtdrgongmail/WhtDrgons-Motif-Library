@@ -4,8 +4,8 @@
   "title": "원하는 곳에 묻어 달라는 마지막 부탁",
   "original": "Bury Me Not on the Lone Prairie",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02661",
+  "primary_tag_id": "ML-T02661",
   "description": {
     "definition": "죽음을 앞둔 인물이 유해를 둘 장소를 부탁하고 남은 사람이 그 약속을 지키려 한다. 길의 어려움이 관계의 책임을 보여 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.031",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "죽음을 앞둔 사람이 특정 장소에 유해를 안치해 달라고 부탁하고 남은 인물이 이를 이행하려는 이야기다. 이동의 위험이나 주변의 반대가 약속을 시험한다. 단순한 운반 임무보다 왜 그곳을 원했고 남은 사람이 그 부탁을 책임지는지가 관계를 드러낸다.",
     "review_status": "reviewed",

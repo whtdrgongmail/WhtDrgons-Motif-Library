@@ -4,8 +4,8 @@
   "title": "여성 친구에게 다른 여성의 연애 상담만 하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02645",
+  "primary_tag_id": "ML-T02645",
   "description": {
     "definition": "남성 친구 무리가 친한 여성을 자기 연애의 조언자나 임시 동행자로 대하면서도 그 자신은 연애 상대로 전혀 고려하지 않는 관계 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "여성 친구가 반드시 그들에게 연애 감정을 가져야 하는 것은 아니며 친밀한 친구와 연애 후보 사이 구분이 드러나는 경우다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가깝게 지내지만 연애 이야기는 늘 다른 여자에 관한 것이다.",
     "review_status": "reviewed",

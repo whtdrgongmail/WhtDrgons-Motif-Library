@@ -4,8 +4,8 @@
   "title": "순수함과 관능미로 대비한 여성 조합",
   "original": "Light Feminine and Dark Feminine",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "두 여성 [[인물]]을 순진하고 밝은 이미지와 [[성숙]]하고 관능적인 이미지로 대비시키는 구성이다.",
     "detail": "작품 사례: 《[[디지몬 세이버즈]]》의 메구미와 미키는 밝고 쾌활한 쪽과 진지하고 성숙한 쪽으로 대비된다. 외형과 파트너 디지몬의 색도 그 차이를 강조하지만 두 사람은 같은 편이다.",
@@ -13,14 +13,20 @@
     "boundary": "밝고 어두운 [[외형]]이 곧 선악을 뜻하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "둘 다 여성적인 차림이지만 한쪽은 소녀 같고 다른 쪽은 노련한 분위기를 띤다.",
     "review_status": "reviewed",

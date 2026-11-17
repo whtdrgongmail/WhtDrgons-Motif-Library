@@ -4,8 +4,8 @@
   "title": "상처받은 척하여 상대를 나쁘게 보이게 하기",
   "original": "Wounded Gazelle Gambit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "상대 때문에 상처받았다고 꾸며 다른 사람들에게 그 상대를 나쁜 사람으로 보이게 한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "현재 문맥의 hurt는 신체 피해로만 한정하지 않으며 실제 피해 신고를 거짓으로 간주하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "거짓 피해 연출로 상대의 평판을 무너뜨린다.",
     "review_status": "reviewed",

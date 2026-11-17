@@ -4,8 +4,8 @@
   "title": "함께 날며 가까워지는 연인",
   "original": "Flight of Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "두 인물이 하늘을 함께 나는 경험 속에서 서로를 믿고 가까워지며 낭만적인 관계의 변화를 맞는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 인물이 함께 하늘을 나는 동안 서로를 믿고 가까워지는 낭만적인 장면이다. 평소 발을 딛던 세계에서 벗어난 경치가 특별한 경험을 만들며, 상대에게 몸을 맡기는 신뢰와 함께 놀라움을 나누는 감정이 관계의 변화를 이끈다.",
     "review_status": "reviewed",

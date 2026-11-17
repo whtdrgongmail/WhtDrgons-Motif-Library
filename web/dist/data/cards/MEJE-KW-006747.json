@@ -4,8 +4,8 @@
   "title": "식어 버린 연인 관계",
   "original": "Dead Sparks",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02671",
+  "primary_tag_id": "ML-T02671",
   "description": {
     "definition": "한때 뜨거웠던 연인 사이의 애정과 설렘이 사라져 관계가 관성처럼 유지된다. 갈등이 없어 보여도 정서적 거리가 벌어진 상태다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.041",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한때 가까웠던 연인이 더는 설렘과 정서적인 친밀함을 느끼지 못하면서 관계를 유지하는 상태다. 눈에 띄는 싸움이 없어도 마음의 거리는 벌어져 있으며, 익숙함 때문에 함께하는 생활과 사랑을 계속 선택하는 마음이 구별된다.",
     "review_status": "reviewed",

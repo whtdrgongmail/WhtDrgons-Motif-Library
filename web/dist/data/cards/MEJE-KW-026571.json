@@ -5,8 +5,8 @@
   "original": "Immigration Dependence Used to Control a Spouse",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "낯선 지역에서의 불안정한 체류·생활 기반 때문에 배우자가 관계를 떠나기 어렵고 상대가 그 취약함을 이용하는 [[갈등]]이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "실제 이민 법률의 일반 규칙으로 단정하지 않고 작품 안에서 명시한 취약성을 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "혼인이 무너지면 머물 곳도 잃을 수 있어 통제를 벗어나기 어렵다.",
     "review_status": "reviewed",

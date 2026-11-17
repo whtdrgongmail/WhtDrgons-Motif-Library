@@ -4,8 +4,8 @@
   "title": "아름다운 여성과 괴물 같은 남성의 연애",
   "original": "Beast and Beauty",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "아름다운 여성과 문자 그대로 또는 비유적으로 괴물 같은 남성이 한 쌍이 되는 관계 구도이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-002864는 성별을 한정하지 않는 외형 대조다. 현재는 여성과 남성의 특정 역할 배치를 명시한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람의 아름다움과 괴물성의 대비가 로맨스의 중심이 된다.",
     "review_status": "reviewed",

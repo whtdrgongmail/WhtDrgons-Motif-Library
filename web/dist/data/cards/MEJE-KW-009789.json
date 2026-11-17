@@ -4,8 +4,8 @@
   "title": "운명처럼 거듭 마주치다",
   "original": "Fate Drives Us Together",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "두 인물이 우연히 같은 장소에서 계속 마주치며 마치 인연이 정해져 있는 듯 관계가 깊어진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 인물이 뜻밖의 장소에서 계속 만나 우연이 인연처럼 느껴지는 전개다. 처음에는 스쳐 간 만남도 반복될수록 서로를 의식하게 되며, 실제로 운명이 작용하는 설정인지 인물들이 만남에 의미를 부여하는지에 따라 분위기가 달라진다.",
     "review_status": "reviewed",

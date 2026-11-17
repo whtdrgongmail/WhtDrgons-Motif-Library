@@ -4,8 +4,8 @@
   "title": "다친 손가락을 입으로 위로하다",
   "original": "Finger-Suck Healing",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "인물이 다른 사람의 다친 손가락에 입을 대어 돌보며 치료의 효용보다 두 사람 사이의 [[친밀감]]을 강조하는 장면이다. [[입술에 손가락을 대어 말을 막다]]처럼 손가락이 인물 사이의 친밀감을 보여 주지만, 다친 손을 돌보는 상황에서 쓰인다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다친 손가락에 다른 인물이 입을 대는 행동으로 두 사람의 [[친밀감]]을 강조하는 장면이다. 치료 효과를 확인하는 설명과는 구별되며, [[입술에 손가락을 대어 말을 막다]]처럼 손가락의 가까운 접촉이 관계를 보여 주지만 돌봄의 상황에 놓인다.",
     "review_status": "reviewed",

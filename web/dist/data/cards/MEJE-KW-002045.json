@@ -4,8 +4,8 @@
   "title": "목소리에 끌리는 관계",
   "original": "Aroused by Their Voice",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "외모나 지위보다 말하는 소리와 리듬이 상대에게 강한 호감을 일으킨다. 특정 억양의 이국성이나 노래 실력과 구분되는 목소리 자체의 매력이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "모습을 보기 전부터 목소리의 음색이나 말의 리듬에 호감을 느끼는 관계다. 통화와 방송처럼 소리가 먼저 전달되는 상황에서 상대를 궁금해하는 계기가 된다. 노래 실력이 뛰어나거나 낯선 억양을 쓴다는 조건 없이 목소리 자체가 매력으로 작용한다.",
     "review_status": "reviewed",

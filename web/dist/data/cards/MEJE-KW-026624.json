@@ -4,8 +4,8 @@
   "title": "매력적이지 않다고 평가되는 남성과 미녀의 짝",
   "original": "Ugly Guy, Hot Wife",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "외모가 매력적이지 않다고 작품이 제시한 남성과 아름답다고 제시한 여성을 짝지어 대비하는 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "법적 혼인 여부나 관객 개인의 외모 취향은 짧은 정의의 필수 판단 기준이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남녀를 향한 외모 평가가 서로 다른 한 쌍이다.",
     "review_status": "reviewed",

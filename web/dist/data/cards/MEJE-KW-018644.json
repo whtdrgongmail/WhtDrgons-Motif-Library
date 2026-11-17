@@ -4,8 +4,8 @@
   "title": "두 인물의 관계상 위치가 뒤집혀 드러나기",
   "original": "Reverse Relationship Reveal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "우위와 종속 등 두 사람 사이의 위치가 관객이나 주변이 생각했던 것과 반대였음이 밝혀지는 반전이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "사건 뒤 새로 권력관계가 바뀌는 경우와 달리 이전의 인식이 틀렸다는 공개다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한쪽이 윗사람인 줄 알았는데 실제 관계는 반대였다.",
     "review_status": "reviewed",

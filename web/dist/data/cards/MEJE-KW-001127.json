@@ -4,8 +4,8 @@
   "title": "평소와 친밀한 관계의 주도성이 다른 인물",
   "original": "Aggressive Submissive",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "평소에는 강하게 자기 뜻을 드러내지만 성인 사이의 친밀한 관계에서는 상대에게 주도권을 맡기기를 선호하는 인물상. 성격과 동의, 관계의 역할을 같은 것으로 단순화하지 않는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "일상에서는 결단력이 강한 인물이 동의한 성인 사이의 친밀한 관계에서는 상대의 주도를 선호하는 경우다. 업무나 대인관계의 성격이 사적인 선호와 다를 수 있음을 보여 준다. 주도권을 맡기는 선택은 언제든 바꾸거나 중단할 수 있어야 한다.",
     "review_status": "reviewed",

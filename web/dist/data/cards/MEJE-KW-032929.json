@@ -4,8 +4,8 @@
   "title": "질투를 유도하다 상대를 포기시키기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "다른 연애를 보여 주어 관심을 끌려던 계획이 상대에게 이미 기회가 없다는 신호로 받아들여져 오히려 물러나게 만드는 역효과다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상대에게 원래부터 호감이 없는 경우만을 뜻하지 않으며 계획자가 전달하려던 뜻과 받은 뜻의 차이가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "질투하고 다가오길 바랐는데 상대는 잘 사귀라며 떠난다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "함께 연주하며 사랑에 빠지기",
   "original": "Duet Bonding",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "두 사람이 함께 음악을 연주하는 동안 서로에게 연애 감정을 느끼게 되는 전개이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-008085는 친밀감 전반이며 005차 802행은 노래와 다인 교류이다. 현재는 두 사람의 실제 연정 발생을 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "맞춰 가는 음악의 호흡이 사랑의 시작이 된다.",
     "review_status": "reviewed",

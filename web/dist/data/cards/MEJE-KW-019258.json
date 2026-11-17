@@ -6,8 +6,8 @@
   "aliases": [
     "참다 항의했는데 무례한 사람으로 몰리기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "실제로 무례하게 행동하는 사람에게 항의하거나 맞선 인물이 오히려 자신이 무례한 사람인 것처럼 평가받는 상황이다.",
     "detail": "일부 장면만 목격한 오해와 잘못을 알아도 조용히 넘어가려는 태도를 구별한다. 항의자의 별도 잘못이 실제로 있는 경우에는 그 책임도 따로 판단한다.\n\n작품 사례: 《[[얼티밋 스파이더맨]]》에서 피터가 플래시의 주먹을 막다가 플래시의 손이 다치자 그의 부모는 피터의 보호자들에게 비용을 청구한다. 먼저 공격한 사정보다 반격의 결과가 문제로 취급된다.",
@@ -15,14 +15,20 @@
     "boundary": "항의 과정에서 별도의 가해를 저질러 비판받는 경우와는 근거를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "먼저 괴롭힌 사람보다 그에게 따진 사람이 문제라는 말을 듣는다.",
     "review_status": "reviewed",

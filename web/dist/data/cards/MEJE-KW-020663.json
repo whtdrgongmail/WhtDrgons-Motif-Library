@@ -4,8 +4,8 @@
   "title": "자신보다 뛰어난 사람들 사이의 평범한 인물",
   "original": "Surrounded by Smart People",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "주변 구성원들이 자신보다 지적이거나 전문 능력이 높아 상대적으로 평범하거나 어수룩한 위치에 놓이는 인물 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "본인이 반드시 지능이 낮아야 하는 것은 아니다. 주변과의 상대적인 능력 차이가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "평소에는 보통 사람이던 인물이 유능한 집단에 들어가 배움과 적응을 요구받는다.",
     "review_status": "reviewed",

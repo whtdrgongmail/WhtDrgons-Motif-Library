@@ -4,8 +4,8 @@
   "title": "짧은 만남이 평생의 기준이 되다",
   "original": "Forever Fling",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "잠깐 이어진 연애가 끝난 뒤에도 인물에게 가장 특별한 관계로 남아 이후의 사랑과 비교되는 설정이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "아주 짧게 이어진 사랑이 끝난 뒤에도 인물에게 가장 특별한 관계로 남는 설정이다. 함께한 기간과 기억의 깊이가 꼭 비례하지 않으며, 이후의 상대를 그 경험과 비교하면서 현재의 사랑과 지나간 이상 사이에서 갈등할 수 있다.",
     "review_status": "reviewed",

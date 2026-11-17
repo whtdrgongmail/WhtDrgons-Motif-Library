@@ -4,8 +4,8 @@
   "title": "연애 상대가 전투 뒤 상처를 돌봐 주기",
   "original": "After-Action Patch-Up",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02534",
+  "primary_tag_id": "ML-T02534",
   "description": {
     "definition": "위험한 일을 마친 인물의 상처를 연애 상대가 돌봐 주며 둘 사이의 친밀감과 연애 가능성을 강조하는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-001087의 상처 돌봄 일반보다 연애 상대와 연애적 암시라는 조건이 좁다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.011",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상처를 치료하는 가까운 거리에서 두 사람의 마음도 드러난다.",
     "review_status": "reviewed",

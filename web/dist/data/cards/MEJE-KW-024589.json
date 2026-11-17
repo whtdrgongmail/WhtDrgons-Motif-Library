@@ -4,8 +4,8 @@
   "title": "개로 표현되는 경찰과 고양이 도둑의 대립",
   "original": "Policeman Dog",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "경찰을 개의 모습으로, 그 [[적대자]]인 도둑을 고양이의 모습으로 구성하여 동물의 대립을 직업 관계에 겹친다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "개 경찰의 모든 설정을 포괄하지 않고 현재 문장의 대립 구도에 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "쫓는 개 경찰과 도망가는 고양이 도둑을 짝짓는다.",
     "review_status": "reviewed",

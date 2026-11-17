@@ -4,8 +4,8 @@
   "title": "한 사람에게만 향하는 연애 끌림",
   "original": "Single-Target Sexuality",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "다른 누구에게도 같은 방식으로 끌리지 않는 인물이 오직 특정 한 사람에게만 연애나 성적 끌림을 느끼는 관계 설정이다. 상대 개인이 관심의 예외가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "한 사람과만 사귀거나 현재 짝사랑 상대가 하나라는 사실만으로 이 유형이 되지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "어떤 부류를 좋아하는 것이 아니라 오직 그 한 사람에게만 끌린다.",
     "review_status": "reviewed",

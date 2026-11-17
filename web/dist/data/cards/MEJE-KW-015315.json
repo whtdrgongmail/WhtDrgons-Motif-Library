@@ -4,8 +4,8 @@
   "title": "방식이 충돌하는 영웅 관계",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "영웅들이 성격·도덕 원칙·문제 해결 방식의 차이로 지속적인 적대를 보이는 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "잠깐의 전술적 의견 차이보다 인격과 가치관의 지속적 불일치가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "지키려는 대상은 같아도 어떻게 지킬지를 두고 계속 부딪힌다.",
     "review_status": "reviewed",

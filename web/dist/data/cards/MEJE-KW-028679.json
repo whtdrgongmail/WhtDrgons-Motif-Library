@@ -4,8 +4,8 @@
   "title": "거부 반응마저 보상으로 여기는 괴롭힘",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "상대가 화내거나 반격하는 반응 자체를 즐기기 때문에 거부를 당해도 원치 않는 괴롭힘을 계속하는 관계 양상이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "합의한 놀이와 구별한다. 행위자가 즐긴다는 사실은 상대의 동의를 대신하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 화를 내도 자신은 그 반응이 좋아서 멈추지 않는다.",
     "review_status": "reviewed",

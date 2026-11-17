@@ -4,8 +4,8 @@
   "title": "성인의 권력 차이를 친밀한 긴장으로 쓰기",
   "original": "Power Dynamics Kink",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "성인 인물 사이에 실제로 존재하는 지위·권한·의존의 차이가 성적 매력이나 친밀한 관계의 긴장으로 제시되는 모티프다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "권력 차이를 역할로 연기하는 것과 실제 사회적 관계를 구분하며 합의나 강압 여부는 별도로 기록한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람의 지위 차이가 관계의 매력을 만드는 요소가 된다.",
     "review_status": "reviewed",

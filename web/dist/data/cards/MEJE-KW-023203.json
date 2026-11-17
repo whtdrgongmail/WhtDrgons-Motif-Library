@@ -5,8 +5,8 @@
   "original": "Eating a Terrible Meal to Spare the Cook's Feelings",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "요리를 만든 사람의 감정을 상하게 하지 않으려 맛없거나 괴로운 음식을 참고 먹는 관계 장면이다.",
     "detail": "작품 사례: 《[[슈퍼배드 3]]》에서 그루는 아이들이 만든 젤리 곰과 고기 수프를 불편한 표정으로 먹는다. 아이들을 기쁘게 하려 맛없는 음식을 참는 관계의 사례다.",
@@ -14,14 +14,20 @@
     "boundary": "배고픔이나 물리적 강제로 먹는 경우와 달리 관계적 배려가 이유다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "맛이 나쁘다고 말하지 못해 억지로 먹는다.",
     "review_status": "reviewed",

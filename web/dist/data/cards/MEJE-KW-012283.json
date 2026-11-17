@@ -4,8 +4,8 @@
   "title": "친구의 긍정적 영향",
   "original": "Positive Friend Influence",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "친구 [[관계]]가 [[인물]]의 [[선택]]과 습관을 더 건강하거나 선한 방향으로 바꾸는 동력이 되는 관계 모티프다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "일시적인 도움을 받는 것보다 관계를 통한 지속적인 변화가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋은 친구와 지내면서 남을 대하는 태도가 달라진다.",
     "review_status": "reviewed",

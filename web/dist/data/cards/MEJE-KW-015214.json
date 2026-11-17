@@ -4,8 +4,8 @@
   "title": "지나치게 좁은 연애 기준",
   "original": "Ridiculously High Relationship Standards",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "연애 상대에게 매우 구체적이고 충족하기 어려운 조건을 요구해 관계 형성을 제한하는 성향이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "취향이 있다는 사실만으로 지나치게 높은 기준으로 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "원하는 조건이 너무 많고 좁아서 맞는 사람을 찾기 어렵다.",
     "review_status": "reviewed",

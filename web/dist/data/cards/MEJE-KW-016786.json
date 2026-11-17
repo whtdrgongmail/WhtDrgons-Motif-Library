@@ -4,8 +4,8 @@
   "title": "어릴 때부터 주입한 충성",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "어린 시절부터 특정 지도자를 사랑하고 두려워하며 따르도록 교육해 복종을 자연스러운 규범으로 만드는 구조다.",
     "detail": "작품 사례: 《[[베르세르크]]》의 모즈구스는 자신이 거둔 고아들을 고문과 살인을 수행하는 심문관으로 길러 낸다. 보호와 교육이 지도자를 따르는 방식까지 형성한다.",
@@ -13,14 +13,20 @@
     "boundary": "일반적인 교육 전체와 달리 권위에 대한 지속적 복종을 목표로 한 형성이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "자라면서 배운 모든 규칙이 그 지도자를 따르라는 방향이다.",
     "review_status": "reviewed",

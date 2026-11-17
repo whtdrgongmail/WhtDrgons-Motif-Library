@@ -4,8 +4,8 @@
   "title": "둘의 마음을 모두가 안다",
   "original": "Everyone Can See It",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "두 사람 사이의 호감을 주변 사람들이 알아차리지만 당사자 중 적어도 한쪽은 그 마음을 깨닫지 못하는 관계 구성. [[모두 연애 상대가 생기는 결말]]은 주변 인물의 연애 관계까지 빠짐없이 맺어 준다는 점에서 두 사람의 호감 묘사를 집단 전체로 넓힌다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람의 호감이 주변에는 분명하지만 적어도 한 당사자는 자기 마음이나 상대의 마음을 모르는 구성이다. 관객과 주변 인물이 먼저 알아차려 어긋난 대화를 지켜보며, 사소한 행동 하나도 당사자의 말보다 큰 애정의 신호로 읽힌다.",
     "review_status": "reviewed",

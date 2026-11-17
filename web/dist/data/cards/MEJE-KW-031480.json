@@ -4,8 +4,8 @@
   "title": "구애 놀이로 서로 쫓고 달아나기",
   "original": "Playful Pursuit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02669",
+  "primary_tag_id": "ML-T02669",
   "description": {
     "definition": "서로 즐기는 구애의 일부로 한 사람이 실제로 달아나고 다른 사람이 뒤쫓는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.039",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "잡아 보라는 듯 웃으며 달아나고 상대도 웃으며 따라간다.",
     "review_status": "reviewed",

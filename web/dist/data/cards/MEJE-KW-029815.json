@@ -4,8 +4,8 @@
   "title": "짐이 될까 봐 사랑하는 사람을 밀어내기",
   "original": "Shoo the Dog",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "자신이 사랑하는 상대에게 부담이나 해가 된다고 생각하여 관계에서 스스로 물러나거나 상대를 밀어내는 선택이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상대를 싫어해서 거절하거나 이미 확인된 상대의 거절을 받아들이는 상황과 다르다. 상대가 부담을 느낀다는 믿음이 사실일 필요는 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하지만 나와 함께하면 괴로워질 거라며 떠나게 한다.",
     "review_status": "reviewed",

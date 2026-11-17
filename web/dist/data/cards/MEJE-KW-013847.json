@@ -4,8 +4,8 @@
   "title": "알면서 처음 만난 척함",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02664",
+  "primary_tag_id": "ML-T02664",
   "description": {
     "definition": "이미 아는 사이인 인물들이 관계를 감추거나 상대를 놀리기 위해 초면인 듯 행동하는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "진짜 기억상실이나 착각과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 아는데 모르는 사람처럼 인사를 나눈다.",
     "review_status": "reviewed",

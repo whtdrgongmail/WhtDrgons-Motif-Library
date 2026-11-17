@@ -4,8 +4,8 @@
   "title": "발언 조각을 이어 새 문장 만들기",
   "original": "Frankenbite",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02700",
+  "primary_tag_id": "ML-T02700",
   "description": {
     "definition": "서로 다른 발언 조각을 연결해 화자가 실제로 말하지 않은 하나의 완결된 발언처럼 제시한다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "문장의 일부를 생략하는 것보다 서로 다른 조각의 합성이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.004.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

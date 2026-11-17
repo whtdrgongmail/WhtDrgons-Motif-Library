@@ -4,8 +4,8 @@
   "title": "애도 중인 사람과 곧바로 성적으로 가까워지기",
   "original": "Comforting the Widow",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "배우자를 잃은 사람을 위로하던 인물이 애도 직후 성적으로 가까워지는 전개. 상실의 충격과 위안의 욕구가 뒤섞이지만 지속적인 연인 관계를 뜻하지는 않는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "동의와 착취 여부는 별도로 판단하며 장기 연애가 성립했다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "배우자를 잃은 사람을 위로하던 인물이 애도 직후 그와 성적으로 가까워지는 전개다. 상실의 충격과 위안을 바라는 감정이 겹쳐 있으며, 한 번의 친밀한 접촉이 슬픔을 해결하거나 곧바로 새로운 연애의 약속이 되는 것은 아니다.",
     "review_status": "reviewed",

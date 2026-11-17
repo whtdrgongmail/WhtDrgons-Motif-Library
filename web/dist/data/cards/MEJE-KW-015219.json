@@ -4,8 +4,8 @@
   "title": "영웅을 원하는 여성 악역",
   "original": "Villainesses Want Heroes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "여성 악역이 선한 영웅을 연애적·성적 관심의 대상으로 삼는 대립 관계이다.",
     "detail": "작품 사례: [[Beast Wars]]의 블랙아라크니아는 적대 진영 출신이지만 영웅적인 실버볼트와 관계를 맺고, 그 유대가 생존을 위한 전향을 진정한 변화로 이어 주는 역할을 한다.",
@@ -13,14 +13,20 @@
     "boundary": "이성적인 동맹 제안이나 선역화 자체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "적이어야 할 영웅에게 여성 악역이 끌린다.",
     "review_status": "reviewed",

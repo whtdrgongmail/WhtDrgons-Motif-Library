@@ -4,8 +4,8 @@
   "title": "음식으로 건네는 사과",
   "original": "Food as Apology",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02668",
+  "primary_tag_id": "ML-T02668",
   "description": {
     "definition": "잘못한 인물이 직접 만든 음식이나 상대가 좋아하는 먹거리를 건네며 사과하고 관계를 풀려 한다. 먹거리가 사과의 표현을 넘어 상대의 행동을 바꾸기 위한 대가가 되면 [[음식으로 마음을 돌리다]]과 맞닿는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.038",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "잘못한 인물이 음식을 만들거나 상대가 좋아하는 먹거리를 건네 사과의 뜻을 전하는 장면이다. 먹거리 자체보다 잘못을 인정하는 태도가 중요하며, 협조를 얻으려는 [[음식으로 마음을 돌리다]]와 달리 관계의 상처를 풀려는 행동이 중심이다.",
     "review_status": "reviewed",

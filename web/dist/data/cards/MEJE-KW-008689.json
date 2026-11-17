@@ -4,8 +4,8 @@
   "title": "옛 연인들의 집합",
   "original": "Ensemble of Exes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "한 인물과 과거에 사귀었던 여러 사람이 한자리에 모이는 관계 구도다. 서로 다른 이별의 기억이 현재의 만남에 긴장이나 우스움을 더한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 인물의 옛 연인들이 여럿 같은 자리에 모이는 구성이다. 각자가 알고 있는 과거의 모습과 이별의 이유가 달라 현재의 대화에 여러 기억이 겹치며, 당사자가 감추고 싶었던 습관이나 관계의 반복이 드러날 수 있다.",
     "review_status": "reviewed",

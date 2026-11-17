@@ -6,8 +6,8 @@
   "aliases": [
     "비폭력의 고집이 문제 해결을 방해하는 인물"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "자신이나 주변 모두가 비폭력을 지켜야 한다는 요구에 몰두하여 일행의 목표 달성을 크게 제약하거나 진행을 막는 관계 구도다.",
     "detail": "작품 사례: 《[[파이널 판타지 VIII]]》의 도베 시장은 침공군과 협상하려 하며 시드가 마을을 방어하기 위해 싸우는 일을 막으려 한다. 상대의 의도가 협상과 맞지 않는 상황에서 그 원칙이 대응을 어렵게 만든다.",
@@ -15,14 +15,20 @@
     "boundary": "평화주의 전체에 대한 평가가 아니다. 비폭력적 선택이 실제로 어떤 제약을 만드는지 작품 안의 조건으로 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "싸우지 않겠다는 원칙이 그 상황에서는 동료들이 행동할 수 있는 수단까지 묶는다.",
     "review_status": "reviewed",

@@ -5,8 +5,8 @@
   "original": "Kindness to the Child Wins Over Their Caregiver",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02667",
+  "primary_tag_id": "ML-T02667",
   "description": {
     "definition": "영웅이 아이에게 친절을 베풀자 그 아이를 돌보는 사람이 영웅의 품성을 믿고 동료가 되는 전개이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "대가를 약속해 사람을 고용하거나 아이를 인질로 쓰는 경우와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.037",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "아이를 대하는 모습을 보고 보호자가 함께하기로 한다.",
     "review_status": "reviewed",

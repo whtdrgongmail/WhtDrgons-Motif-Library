@@ -4,8 +4,8 @@
   "title": "공동 목표보다 앞서는 개인적 증오",
   "original": "Personal Hate Before Common Goals",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "공동의 이익이나 위험에 대응해야 하는 상황에서도 개인적 적의 때문에 협력을 거부하거나 깨뜨리는 구조이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "협력 조건의 실제 불일치보다 개인적 감정이 방해 원인이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께해야 이길 수 있는데 서로가 싫어서 손을 잡지 않는다.",
     "review_status": "reviewed",

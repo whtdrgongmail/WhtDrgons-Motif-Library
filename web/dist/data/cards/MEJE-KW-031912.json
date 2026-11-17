@@ -4,8 +4,8 @@
   "title": "기대만큼 감정을 보이지 않는 상대에게 화내기",
   "original": "Offended by Another's Calmness",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "슬픔·두려움·기쁨 등을 드러내야 한다고 기대한 상황에서 상대가 차분하게 행동한다는 이유로 그 태도를 비난하는 [[갈등]]이다.",
     "detail": "작품 사례: 만화 《[[진격의 거인(만화)]]》의 마지막 대화에서 아르민은 에렌이 미카사의 마음을 대수롭지 않게 대하는 듯하자 분노한다. 이후 에렌이 감정을 드러내면서 차분한 겉모습과 내면의 차이가 나타난다.",
@@ -13,14 +13,20 @@
     "boundary": "적이 자신에게 무관심한 것에 대한 분노와 다르며 겉으로 침착하다고 실제 감정이 없는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이 상황에서 어떻게 그렇게 태연하냐고 따진다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "떠나야 선해질 수 있는 관계",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "특정 상대와 맺은 관계가 인물을 악한 행동에 붙들어 두며 그 관계가 사라진 뒤 더 나은 방향으로 바뀌는 구도다.",
     "detail": "작품 사례: 《[[배트맨 비욘드: 조커의 귀환]]》의 마지막에 살아남은 할리 퀸은 조커즈 갱에 들어간 손녀들을 꾸짖는다.",
@@ -13,14 +13,20 @@
     "boundary": "상대를 잃어 타락하는 도덕적 사슬과 반대 방향이며 모든 사별을 개심으로 해석하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "곁에 있던 사람이 사라진 뒤에야 나쁜 길에서 벗어난다.",
     "review_status": "reviewed",

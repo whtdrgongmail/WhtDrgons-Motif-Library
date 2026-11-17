@@ -4,8 +4,8 @@
   "title": "늑대인간과 흡혈귀의 대립",
   "original": "Fur Against Fang",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "야성적이고 육체적인 [[늑대인간]]과 차갑고 교활한 [[흡혈귀]]를 서로 대비되는 집단으로 놓고 오래된 적대 관계를 만든다. 괴물의 [[정체성]]을 갈등의 원천으로 삼는 이야기는 [[괴물성을 기꺼이 받아들이다]]과 연결된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 4,
+  "updated_at": "2026-11-17",
+  "row_version": 5,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "야성적인 [[늑대인간]]과 냉정하고 교활한 [[흡혈귀]]를 대비시켜 오래 싸운 집단으로 설정하는 구도다. 성격과 힘의 차이가 적대의 이유처럼 제시되며, 개인이 그 집단의 이미지를 그대로 따르는지 벗어나는지에 따라 갈등이 달라진다.",
     "review_status": "reviewed",

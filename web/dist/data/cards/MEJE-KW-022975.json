@@ -4,8 +4,8 @@
   "title": "사소한 흠 때문에 관계를 끝내기",
   "original": "Minor Flaw, Major Breakup",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "연애 상대의 작은 결점을 관계 전체를 유지할 수 없는 이유로 삼아 이별로 확대하는 전개다.",
     "detail": "작품 사례: 《[[사인펠드]]》의 제리는 연인의 큰 손이나 완두콩을 하나씩 먹는 방식처럼 사소한 특성을 견디지 못하고 관계를 끝낸다. 결별 이유가 상대보다 주인공의 까다로운 태도를 드러낸다.",
@@ -13,14 +13,20 @@
     "boundary": "폭력이나 중대한 신뢰 훼손을 사소한 흠으로 축소하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "큰 문제는 없는데 작은 흠 하나를 못 견뎌 헤어진다.",
     "review_status": "reviewed",

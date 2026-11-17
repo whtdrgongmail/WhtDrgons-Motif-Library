@@ -4,8 +4,8 @@
   "title": "연애 후보의 익숙한 역할이 뒤바뀌기",
   "original": "Betty and Veronica Switch",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "처음에는 얌전하거나 위험해 보인 두 사람이 가까워질수록 반대의 면을 보인다. [[주인공]]의 첫인상도 함께 시험받는다. 기존의 [[서로 다른 성격의 두 연애 후보]] 구도를 바꿔 첫인상을 의심하게 한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 연애 후보가 처음에는 정반대 성격처럼 보였으나 가까워진 뒤 예상과 다른 면이 드러나는 구성이다. 조용한 후보가 대담하거나 위험해 보인 후보가 배려 깊을 수 있다. [[주인공]]이 겉모습으로 판단한 [[서로 다른 성격의 두 연애 후보]] 구도가 바뀐다.",
     "review_status": "reviewed",

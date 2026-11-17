@@ -4,8 +4,8 @@
   "title": "사랑 때문에 진영 이탈",
   "original": "Defecting for Love",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "기존 소속의 명령과 사랑하는 사람 사이에서 갈등하던 인물이 관계를 택해 진영을 옮긴다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사랑하는 사람을 해치거나 떠나야 하는 소속의 요구를 거부하고 그 사람의 편으로 옮기는 전개다. 개인적인 애정이 기존의 충성보다 앞서며, 진영을 바꾸면서 잃는 동료와 새로 얻는 관계 사이에 책임과 갈등이 남는다.",
     "review_status": "reviewed",

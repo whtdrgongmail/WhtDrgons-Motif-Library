@@ -4,8 +4,8 @@
   "title": "연인의 나쁜 성향을 닮아가기",
   "original": "Toxic Lover Influence",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "인물이 친밀한 연인의 부정적인 성격과 행동 양식을 받아들여 자신도 비슷하게 변하는 관계 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "사랑 때문에 독자적으로 악행을 택하는 경우와 달리 성향의 전염이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "연인을 만나면서 그 사람이 하던 [[냉소]]와 무례를 따라 하게 된다.",
     "review_status": "reviewed",

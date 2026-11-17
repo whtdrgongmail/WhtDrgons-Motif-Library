@@ -4,8 +4,8 @@
   "title": "거창한 시도보다 통하는 작은 행동",
   "original": "The Simple Gesture Wins",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "큰 선물과 행사가 실패한 뒤 사소하지만 상대의 필요를 짚은 [[행동]]이 더 큰 감사를 얻는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "규모가 작다는 이유만으로 성공하는 것이 아니라 정서적 적합성이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "화려한 이벤트보다 조용한 배려에 상대가 감동한다.",
     "review_status": "reviewed",

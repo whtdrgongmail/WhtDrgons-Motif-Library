@@ -4,8 +4,8 @@
   "title": "범죄에 얽힌 사람과의 위험한 끌림",
   "original": "Criminally Attractive",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "수사관이나 피해자가 범죄에 얽힌 인물에게 끌려 자신의 판단과 안전 사이에서 흔들린다. 관계의 매력이 사건의 진실을 보거나 받아들이는 일을 어렵게 만든다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "수사관이나 피해자가 범죄에 연루된 상대에게 매력을 느끼는 관계다. 끌리는 감정과 사실을 공정하게 판단할 의무가 충돌하며, 상대를 이해하고 싶은 마음 때문에 경계해야 할 위험이나 피해를 축소해서 보는 갈등이 생길 수 있다.",
     "review_status": "reviewed",

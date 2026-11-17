@@ -4,8 +4,8 @@
   "title": "사물처럼 보여도 동료로 대하기",
   "original": "Companion Cube",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "말하지 않는 평범한 물건을 인물들이 진짜 동료처럼 대하며 관계와 감정을 쌓는 [[서사]] 장치. 동료처럼 대하는 사물이 음식이라면 [[먹지 않고 간직하는 음식 친구]]의 형태가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "말도 생각도 하지 않는 평범한 물건을 인물이 동료처럼 대하며 애착을 쌓는 장치다. 물건에 실제 인격이 있다는 사실과는 구별되며, 애착의 대상이 음식일 때는 [[먹지 않고 간직하는 음식 친구]]처럼 먹는 용도를 포기한 관계가 된다.",
     "review_status": "reviewed",

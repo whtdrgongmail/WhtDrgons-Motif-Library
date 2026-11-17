@@ -4,8 +4,8 @@
   "title": "너무 세게 끌어안는 큰 인물",
   "original": "Bear Hug",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "힘센 인물이 반가움에 상대를 꽉 안아 숨 막히게 한다. 애정의 표현과 힘 조절의 실패가 동시에 보이는 몸짓이다. [[곰을 다정한 친구로 그리기]]인 곰의 큰 몸짓도 지나치면 상대를 놀라게 할 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "체격이 크고 힘센 인물이 반가워하며 세게 끌어안아 상대가 숨 막히거나 아파하는 장면이다. 애정은 진심이어도 상대의 몸을 고려하지 못한 행동이라는 차이가 있다. [[곰을 다정한 친구로 그리기]]처럼 큰 존재를 친근하게 표현할 때도 힘 조절의 문제가 남는다.",
     "review_status": "reviewed",

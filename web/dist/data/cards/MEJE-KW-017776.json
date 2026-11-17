@@ -4,8 +4,8 @@
   "title": "연하 남성에게 구애하는 연상 여성",
   "original": "Mrs. Robinson",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02669",
+  "primary_tag_id": "ML-T02669",
   "description": {
     "definition": "자신보다 어린 남성에게 연애적 관심을 보이며 적극적으로 관계를 시도하는 연상 여성 유형.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "어머니라는 신분이나 상대가 친구의 자녀라는 조건은 필수가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.039",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "나이가 많은 여성이 관계를 주도하고 세대 차이가 구애의 특징이 된다.",
     "review_status": "reviewed",

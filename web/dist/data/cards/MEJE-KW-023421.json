@@ -5,8 +5,8 @@
   "original": "Loyalty to the One Who Restored Your Power",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "약해진 존재의 힘을 되살려 주거나 생존 조건을 회복해 준 사람이 깊은 보은과 충성을 받는다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "도움을 받으면 반드시 영구 복종해야 한다는 현실 규범을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "쓰러진 적을 살려 주자 충성하는 조력자가 된다.",
     "review_status": "reviewed",

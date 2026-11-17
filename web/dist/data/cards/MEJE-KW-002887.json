@@ -4,8 +4,8 @@
   "title": "잠든 사람을 애정 어린 눈으로 바라보기",
   "original": "Beautiful Dreamer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "잠든 상대를 깨우지 않고 조용히 지켜보는 인물의 표정으로 호감을 드러낸다. 호감의 표현에는 관계의 신뢰와 당사자의 사생활 경계가 함께 관련된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-12",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 인물이 잠든 상대의 얼굴을 보며 미소 짓거나 걱정하는 모습으로 감정을 드러내는 장면이다. 깨어 있을 때 하지 못한 애정 표현이 시선에 나타난다. 친한 관계라 해도 수면 중에는 의사를 표현하기 어려우므로 사생활 침해와 원치 않는 접촉은 구별해야 한다.",
     "review_status": "reviewed",

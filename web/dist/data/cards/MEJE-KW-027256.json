@@ -4,8 +4,8 @@
   "title": "사회적 고립을 메우는 사물과의 대화",
   "original": "Companion Cube",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "다른 사람과의 관계가 부족한 인물이 무생물에게 말을 걸며 교류의 빈자리를 메운다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "모든 물건 동료보다 사회적 관계의 결핍을 보상하는 조건을 강조한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사람 대신 물건이 대화 상대가 된다.",
     "review_status": "reviewed",

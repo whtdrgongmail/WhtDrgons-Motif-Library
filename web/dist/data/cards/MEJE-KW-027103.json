@@ -4,8 +4,8 @@
   "title": "사치품으로 용서를 얻기",
   "original": "Distracted by the Luxury",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02668",
+  "primary_tag_id": "ML-T02668",
   "description": {
     "definition": "고급 물건을 제공하여 상대의 불만을 누그러뜨리고 용서를 얻으려 한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "제공 대장의 여성 고정관념과 달리 현재 항목은 대상 성별을 제한하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.038",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사과의 효과를 비싼 선물에 기대한다.",
     "review_status": "reviewed",

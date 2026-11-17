@@ -4,8 +4,8 @@
   "title": "넌지시 주는 신호를 못 알아듣기",
   "original": "Oblivious to Hints",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "상대가 직접 말하지 않고 눈짓·말투·암시로 전하려는 뜻을 알아차리지 못해 소통이 어긋나는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "명확하게 전달된 말을 고의로 무시하는 행동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "계속 돌려 말해도 무슨 뜻인지 눈치채지 못한다.",
     "review_status": "reviewed",

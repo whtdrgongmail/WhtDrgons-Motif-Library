@@ -4,8 +4,8 @@
   "title": "장례식에 오지 못하게 하다",
   "original": "Funeral Banishment",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "고인과 생전 갈등을 겪은 사람을 유족이나 고인의 뜻에 따라 장례식에서 배제하는 관계 갈등이다. 장례식이 관계의 결말을 보여 주는 방식은 [[장례식으로 건너뛰는 죽음]]과도 이어진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "고인과 생전 갈등했던 사람이 유족이나 고인의 뜻 때문에 장례식에 참석하지 못하는 전개다. 죽음 이후에도 관계의 상처와 경계가 남아 있음을 보여 주며, 마지막 인사를 원하는 마음과 남은 사람들의 애도할 권리가 충돌할 수 있다.",
     "review_status": "reviewed",

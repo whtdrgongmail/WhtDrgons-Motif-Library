@@ -4,8 +4,8 @@
   "title": "선대를 넘어선 후계자",
   "original": "Superior Successor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02673",
+  "primary_tag_id": "ML-T02673",
   "description": {
     "definition": "역할이나 계보를 이어받은 인물이 이전 인물보다 능력·지능·힘 등의 면에서 뛰어나게 되는 계승 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "단순한 직책 승계와 구별하며 비교 가능한 우월성이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.043",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "배운 사람이나 자리를 물려받은 사람이 앞선 사람보다 더 잘한다.",
     "review_status": "reviewed",

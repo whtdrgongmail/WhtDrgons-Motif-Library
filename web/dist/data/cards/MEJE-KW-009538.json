@@ -4,8 +4,8 @@
   "title": "호감 가장 전략",
   "original": "False Flirting Stratagem",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "인물이 정보를 얻거나 원하는 반응을 끌어내기 위해 상대에게 연애 감정이 있는 척한다. 상대와의 친밀함을 수단으로 삼는다는 점에서 [[가짜 친구]]과 가깝다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "정보나 협조를 얻으려고 실제와 달리 상대를 좋아하는 척하는 행동이다. 연애 감정을 믿은 사람의 기대가 수단으로 이용되며, [[가짜 친구]]처럼 친밀한 관계의 겉모습을 목적 달성에 악용한다는 점에서 기만의 책임이 있다.",
     "review_status": "reviewed",

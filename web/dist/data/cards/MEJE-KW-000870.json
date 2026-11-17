@@ -4,8 +4,8 @@
   "title": "무시했던 제안이 좋은 생각이었다",
   "original": "Actually a Good Idea",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "가볍게 여기던 사람의 제안을 듣고 다른 인물이 예상 밖의 쓸모를 인정하는 순간. 말한 사람에 대한 선입견과 제안 자체의 가치를 분리하면서 관계의 힘이 잠시 뒤집힌다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "늘 가볍게 보던 사람이 낸 제안이 문제 해결에 도움이 되어 다른 인물이 자신의 평가를 수정하는 장면이다. 제안을 채택하는 행동이 발언자의 능력을 인정하는 계기가 되며, 아이디어 하나에 대한 동의가 모든 관계 갈등을 해결하지는 않는다.",
     "review_status": "reviewed",

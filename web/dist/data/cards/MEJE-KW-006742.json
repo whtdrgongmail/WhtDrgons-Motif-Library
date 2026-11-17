@@ -4,8 +4,8 @@
   "title": "죽은 사람과의 대화",
   "original": "Dead Person Conversation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "산 사람이 죽은 인물과 영혼, 환영, 기억 등의 형태로 대화를 나눈다. 죽음으로 끝난 관계가 대화를 통해 잠시 이어진다. 죽은 인물이 이후의 이야기에도 주체로 남는 설정이라면 [[시작부터 죽은 인물]]과 연결된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-12",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "살아 있는 인물이 죽은 사람을 영혼이나 환영 또는 기억의 형태로 만나 말을 주고받는 장면이다. 실제 초자연적 만남인지 마음속 대화인지는 작품마다 다르며, [[시작부터 죽은 인물]]이 여전히 사건의 주체로 남는 방식이 될 수 있다.",
     "review_status": "reviewed",

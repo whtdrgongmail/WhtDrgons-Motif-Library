@@ -4,8 +4,8 @@
   "title": "연인과 헤지라고 제삼자가 요구하기",
   "original": "Break-Up Demand",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "가족이나 권력자가 두 사람 중 한쪽에게 관계를 끝내라고 압박한다. 당사자의 선택과 외부의 통제가 맞부딪힌다. 외부 압박으로 헤어진 두 사람이 다시 선택을 모으면 [[헤어졌다 다시 화해하는 관계]]가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가족이나 권력자가 연인 중 한 사람에게 다른 사람과 헤어지라고 요구하며 압박하는 갈등이다. 위협과 의존 때문에 거절하기 어려울 수 있다. 이후 [[헤어졌다 다시 화해하는 관계]]로 이어져도 강요된 이별의 이유와 남은 피해를 해결하는 과정이 필요하다.",
     "review_status": "reviewed",

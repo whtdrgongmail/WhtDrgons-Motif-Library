@@ -6,8 +6,8 @@
   "aliases": [
     "선택한 인간의 삶을 뒤흔드는 신"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "신이 자신을 돕는 [[인물]]에게 번거로운 요구와 방해를 일으켜 협력 [[관계]] 자체를 어려움의 원인으로 만드는 모티프다.",
     "detail": "작품 사례: 《[[에반 올마이티]]》에서 신의 지시를 받는 에반은 갑자기 자라는 수염과 사무실로 몰려드는 새들 때문에 평범한 직장 생활을 유지하기 어려워진다.",
@@ -15,14 +15,20 @@
     "boundary": "신을 상대하는 과제가 어렵기만 한 경우보다 [[조력자]]에게 가하는 지속적인 곤란이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "신을 돕기로 했더니 신의 요구 때문에 일이 계속 꼬인다.",
     "review_status": "reviewed",

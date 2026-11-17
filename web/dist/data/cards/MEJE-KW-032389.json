@@ -4,8 +4,8 @@
   "title": "거의 모두가 뜻밖의 인연으로 이어진 관계망",
   "original": "One Degree of Separation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02670",
+  "primary_tag_id": "ML-T02670",
   "description": {
     "definition": "서로 다른 경로로 등장한 주요 인물들이 과거 만남이나 가족·지인을 통해 예상보다 촘촘하게 연결된 관계 구도다.",
     "detail": "작품 사례: 《[[파워 디지몬(TV 애니메이션)]]》의 오이카와는 이오리의 아버지와 친구였으며 켄의 아버지와도 알고, 타케루와 야마토의 어머니와 일한 적도 있다. 주요 인물들의 가족이 한 사람을 매개로 이미 이어져 있다.",
@@ -13,14 +13,20 @@
     "boundary": "단 한 번의 우연한 지인 발견보다 관계망 전반의 높은 연결 밀도가 핵심이며 모든 인물이 직접 아는 사이일 필요는 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.040",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "새로 만나는 사람마다 알고 보니 다른 누군가와 이미 인연이 있다.",
     "review_status": "reviewed",

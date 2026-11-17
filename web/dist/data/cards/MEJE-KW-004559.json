@@ -4,8 +4,8 @@
   "title": "옷소매를 붙잡아 마음 전하기",
   "original": "Caught the Heart on His Sleeve",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "떠나려는 사람의 소매를 살며시 잡아 더 머물러 달라는 마음을 전한다. 말을 고르지 못한 순간의 작은 접촉이 대화의 계기가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-12",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "떠나려는 사람의 옷소매를 살짝 잡아 더 있어 달라거나 전하고 싶은 말이 있다는 뜻을 보이는 몸짓이다. 말하기 어려운 마음이 작은 동작에 드러난다. 상대가 계속 떠나려 한다면 그 의사를 존중해야 하며 붙잡는 행동의 강도가 관계의 의미를 바꿀 수 있다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "자기 편과 적에게 동시에 미움받기",
   "original": "Contempt Crossfire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "한 인물이 소속 집단과 그 반대편 집단 모두에게 각각의 이유로 경멸과 적대를 받는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "반드시 중재자나 중립 인물일 필요는 없으며 양쪽의 적대 이유가 다를 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "자기 편도 적도 서로 다른 이유로 같은 사람을 싫어한다.",
     "review_status": "reviewed",

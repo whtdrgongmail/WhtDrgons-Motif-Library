@@ -4,8 +4,8 @@
   "title": "출전을 앞둔 연인에게 주는 증표",
   "original": "The Lady's Favour",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "전장에 나가는 연인에게 자신의 물건을 건네 애정과 지지를 지니고 가게 하는 [[행동]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "군수품 지급과 달리 두 사람의 [[관계]]를 상징하는 개인적 증표다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "떠나는 사람에게 손수건 같은 개인 물건을 맡겨 마음을 전한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "사귀지도 않는데 연애 소동의 당사자가 되기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "주변이 두 인물의 관계를 연애로 단정해 집단적으로 반응하고, 실제로는 연인이 아닌 당사자들이 원치 않는 관심과 해명을 감당하는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "두 인물이 일부러 연인인 척하는 위장 관계와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사귀는 사이도 아닌데 모두가 축하하거나 질투해 해명해야 한다.",
     "review_status": "reviewed",

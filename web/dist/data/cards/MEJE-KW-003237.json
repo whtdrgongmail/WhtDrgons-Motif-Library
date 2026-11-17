@@ -4,8 +4,8 @@
   "title": "닮은 사람끼리 맺는 관계",
   "original": "Birds of a Feather",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "취향이나 가치관이 비슷한 사람들이 서로에게 끌리고 관계를 이어 간다. 공통점이 친밀함을 만들지만 같은 약점을 공유할 수도 있다. 생일이라는 작은 공통점에서 [[생일이 같은 두 사람]]가 시작될 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "취향과 가치관이 비슷한 사람들이 공통점을 계기로 편안함을 느끼고 가까워지는 관계다. 서로 설명할 필요가 적어 친밀해지기 쉽지만 같은 약점을 강화할 수도 있다. [[생일이 같은 두 사람]]처럼 작은 우연에서 시작하더라도 이후의 경험이 유대를 유지한다.",
     "review_status": "reviewed",

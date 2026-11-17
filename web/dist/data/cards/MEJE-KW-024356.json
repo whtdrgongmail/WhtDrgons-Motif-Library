@@ -5,8 +5,8 @@
   "original": "The Encouragement That Saved Someone",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "가볍게 건넨 격려가 상대에게는 회복과 생존의 결정적 계기가 되지만 말한 사람은 그 중요성을 모른다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "악행을 가볍게 잊은 가해자라는 같은 계열의 다른 의미와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "내게는 작은 말이 누군가에게는 큰 힘이었다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "연애 감정과 별개로 나누는 입맞춤",
   "original": "Platonic Kissing",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "두 사람이 서로의 연애 감정을 표현하려는 목적 없이 입맞춤을 나눈다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "첫 입맞춤인지 여부는 필수가 아니며, 일방적 강요를 단순한 비연애적 친밀함으로 묶지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "입맞춤이 곧 사랑 고백은 아닌 관계의 장면이다.",
     "review_status": "reviewed",

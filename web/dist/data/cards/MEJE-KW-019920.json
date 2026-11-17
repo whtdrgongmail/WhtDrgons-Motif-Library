@@ -4,8 +4,8 @@
   "title": "같은 친구 무리에 속하지만 친하지 않은 둘",
   "original": "The Friends Who Never Hang",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02671",
+  "primary_tag_id": "ML-T02671",
   "description": {
     "definition": "친밀한 친구 집단에 함께 속한 두 인물이 정작 서로 단둘이 어울리거나 가까운 관계를 맺는 모습은 거의 없는 구성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "집단 전체가 가짜 우정이라는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.041",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "모두 친구라고 하지만 이 둘끼리는 특별히 친하지 않다.",
     "review_status": "reviewed",

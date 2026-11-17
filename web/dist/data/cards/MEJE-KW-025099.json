@@ -4,8 +4,8 @@
   "title": "서로 끌리지 않아 열정이 없는 관계",
   "original": "NoSparks",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02671",
+  "primary_tag_id": "ML-T02671",
   "description": {
     "definition": "관계를 맺고 있거나 짝으로 제시되어도 서로에 대한 매력을 느끼지 못해 낭만적·성적 열정이 생기지 않는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "한 사람의 능력 부족이나 인격적 결함으로 단정하지 않는다. 지향의 불일치도 별도로 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.041",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "조건이 맞아 보여도 함께 있을 때 마음이 움직이지 않는다.",
     "review_status": "reviewed",

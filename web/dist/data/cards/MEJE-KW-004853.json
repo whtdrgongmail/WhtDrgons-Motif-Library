@@ -4,8 +4,8 @@
   "title": "명예로운 기사와 기민한 도적의 대립",
   "original": "Chevalier vs. Rogue",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "엄격한 규범과 정면 승부를 중시하는 인물과 임기응변 및 우회를 택하는 인물이 맞선다. 어느 쪽이 옳은지보다 서로 다른 행동 원칙이 갈등을 만든다. 기사 쪽의 명예와 모험 규범을 오래된 문학 장르의 관점에서 읽을 수 있다: [[기사도 로망스]].",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "규칙과 정면 승부를 중시하는 기사형 인물과 빠른 판단과 우회를 중시하는 도적형 인물이 서로 맞서는 관계다. 같은 목표여도 방법이 달라 갈등한다. [[기사도 로망스]]의 명예 규범과 연결할 수 있지만 어느 방식이 항상 옳다는 평가로 고정하지 않는다.",
     "review_status": "reviewed",

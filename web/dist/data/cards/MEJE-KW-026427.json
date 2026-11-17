@@ -4,8 +4,8 @@
   "title": "반성하지 않는 가해자를 용서하라는 압박",
   "original": "No Sympathy for Grudgeholders",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02668",
+  "primary_tag_id": "ML-T02668",
   "description": {
     "definition": "피해자가 잘못을 저지른 상대를 용서하지 않는다는 이유로 비난받으며 가해자의 반성 여부는 무시된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "언젠가 회복하기를 바라는 배려와 다르게 용서하지 않는 피해자를 탓하는 압박이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.038",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대는 사과하지 않는데 피해자에게만 마음을 풀라고 한다.",
     "review_status": "reviewed",

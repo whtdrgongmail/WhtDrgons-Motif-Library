@@ -4,8 +4,8 @@
   "title": "원수가 손님으로 옴",
   "original": "Nemesis as Customer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "업무 중인 인물이 싫어하는 상대를 고객으로 맞아 직업적 의무와 개인적 적대 사이에 놓이는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "평범한 불친절 고객보다 기존 적대 관계가 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가장 싫은 사람이 하필 내가 응대해야 할 손님이다.",
     "review_status": "reviewed",

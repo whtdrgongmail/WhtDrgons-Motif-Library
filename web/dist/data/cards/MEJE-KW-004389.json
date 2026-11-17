@@ -4,8 +4,8 @@
   "title": "일과 연애 중 하나를 고르라고 압박받기",
   "original": "Career Versus Man",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "인물이 직업의 목표와 연애를 함께 이어 갈 수 없다는 요구를 받는다. 왜 두 길을 양립할 수 없다고 여기는지도 이야기의 문제다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "연인이나 주변인이 직업의 목표를 포기하지 않으면 관계를 끝내겠다고 요구하는 갈등이다. 시간과 위험 같은 현실 문제 때문에 조정이 필요할 수 있지만 무조건적인 양자택일은 선택권을 제한한다. 무엇이 양립을 어렵게 하는지와 서로 바꿀 수 있는 조건이 중요하다.",
     "review_status": "reviewed",

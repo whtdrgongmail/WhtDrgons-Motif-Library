@@ -4,8 +4,8 @@
   "title": "애정이 담긴 별명",
   "original": "Affectionate Nickname",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "가까운 사람이 특별한 호칭을 만들어 상대를 부르는 관계 표현. 이름을 붙인 쪽의 애정과 불리는 쪽의 수용 여부가 반드시 같지는 않다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "둘 사이의 기억이나 성격에서 나온 특별한 별명으로 상대를 부르며 가까움을 표현하는 방식이다. 다른 사람은 쓰지 않는 호칭이 관계의 변화를 보일 수 있다. 부르는 쪽의 애정과 별개로 상대가 싫어하면 놀림이나 경계 침범이 될 수 있다.",
     "review_status": "reviewed",

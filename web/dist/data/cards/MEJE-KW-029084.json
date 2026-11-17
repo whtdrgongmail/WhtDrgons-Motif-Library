@@ -4,8 +4,8 @@
   "title": "필멸자와 불멸자의 사랑",
   "original": "MayflyDecemberRomance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02656",
+  "primary_tag_id": "ML-T02656",
   "description": {
     "definition": "언젠가 죽는 존재와 죽지 않는 존재가 사랑하여 함께할 시간의 비대칭이 생기는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "두 장수 종족이나 단순히 수명이 다른 두 필멸자의 연애보다 좁다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.026",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한쪽은 끝이 있는 삶을 살고 다른 쪽은 그 이후도 살아간다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "돈으로 잘못을 덮으려 하기",
   "original": "Buy Them Off",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02668",
+  "primary_tag_id": "ML-T02668",
   "description": {
     "definition": "해를 끼친 사람이 직접 책임을 지기보다 물건이나 돈을 주며 일을 끝내려 한다. 보상과 용서가 같은 것은 아니다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.038",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "해를 끼친 사람이 돈이나 물건을 주는 것으로 대화를 끝내고 책임을 피하려는 상황이다. 피해 회복에 필요한 배상과 상대를 침묵시키기 위한 보상은 다르다. 선물을 받았다고 용서한 것은 아니며, 피해자가 필요한 사과와 변화를 요구할 권리는 남는다.",
     "review_status": "reviewed",

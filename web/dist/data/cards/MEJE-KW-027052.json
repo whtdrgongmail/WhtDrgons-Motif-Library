@@ -4,8 +4,8 @@
   "title": "함께 고난을 겪으며 동료가 되기",
   "original": "Fire-Forged Friends",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "어려운 시간을 함께 견딘 경험 때문에 인물들이 서로에게 가까워지고 동맹이나 친구가 되는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 010127의 함께 싸우는 위험한 전투보다 넓게 비전투적인 고난도 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "힘든 때를 같이 지나온 것이 서로를 묶는다.",
     "review_status": "reviewed",

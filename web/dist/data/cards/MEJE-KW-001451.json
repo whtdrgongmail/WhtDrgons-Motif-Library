@@ -4,8 +4,8 @@
   "title": "친구의 비공식 상담자",
   "original": "Amateur Therapist",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "전문 상담자가 아닌 인물이 주변 사람의 고민을 듣고 마음을 정리하도록 돕는 관계 장면. 이야기 속 위안과 실제 전문 치료의 역할을 구별한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "친구가 전문 자격과 치료 관계 없이 고민을 듣고 감정을 표현하도록 돕는 역할이다. 조언보다 함께 대화하는 시간이 위안이 될 수 있다. 친구가 모든 문제를 해결해야 하는 관계는 아니며, 이야기 속 도움을 전문 상담이나 치료와 같은 것으로 설명하지 않는다.",
     "review_status": "reviewed",

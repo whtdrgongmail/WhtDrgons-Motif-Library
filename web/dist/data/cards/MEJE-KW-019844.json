@@ -4,8 +4,8 @@
   "title": "외도로 잘못 받아들인 행동",
   "original": "Mistaken for Cheating",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "실제로 외도하지 않은 상대의 행동을 연애적 배신으로 오해하여 관계의 신뢰가 흔들리는 전개다.",
     "detail": "작품 사례: 《[[바쿠만]]》에서 타카기는 여성 캐릭터를 쓰기 위한 조언을 구하러 간 일을 연인에게 숨긴다. 이어 다른 여성에게 받은 책 속 편지가 발견되면서 미요시는 외도를 의심하지만 뒤에 오해가 풀린다.",
@@ -13,14 +13,20 @@
     "boundary": "알면서 거짓 고발하는 행위나 실제 외도가 밝혀지는 사건과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 이유로 한 일을 바람피운 증거로 읽어 버린다.",
     "review_status": "reviewed",

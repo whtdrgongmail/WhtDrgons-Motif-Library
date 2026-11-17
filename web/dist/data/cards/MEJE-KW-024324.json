@@ -5,8 +5,8 @@
   "original": "The Rescued Daydreams About the Rescuer",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "매력적인 구조 요원에게 도움을 받는 상황을 인연이나 친밀감의 시작으로 상상하거나 연출한다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "실제 구조 절차와 구별하는 허구의 낭만화다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "구조 장면이 로맨스에 대한 기대와 겹친다.",
     "review_status": "reviewed",

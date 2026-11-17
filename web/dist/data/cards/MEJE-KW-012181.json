@@ -6,8 +6,8 @@
   "aliases": [
     "서로 싫어하는 영웅"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "같은 선한 편에 속한 인물들이 서로의 [[성격]]과 방식 때문에 강한 반감과 마찰을 보이는 관계다.",
     "detail": "",
@@ -15,14 +15,20 @@
     "boundary": "서로 다른 진영의 선인들이 목표 때문에 대립하는 구도와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "둘 다 사람을 구하지만 함께 일할 때마다 부딪힌다.",
     "review_status": "reviewed",

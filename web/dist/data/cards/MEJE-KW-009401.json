@@ -4,8 +4,8 @@
   "title": "이익을 좇아 돌아온 옛 연인",
   "original": "Fair-Weather Ex",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "자기 편의 때문에 관계를 떠났던 인물이 상대에게 이익이 생기자 다시 가까워지려 한다. [[좋을 때만 곁에 있는 친구]]처럼 자기 이익을 위해서만 관계를 이어 가는 태도가 옛 연인에게 나타난다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이익이 없을 때는 떠났다가 옛 연인이 잘되자 다시 접근하는 인물이다. 재회의 말보다 상황에 따라 바뀌는 태도가 동기를 드러내며, [[좋을 때만 곁에 있는 친구]]의 조건부 친밀함이 끝난 연애 관계에서도 반복된다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "서로 지나치게 정중한 친구들",
   "original": "Overly Polite Pals",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "친구나 동료인 두 인물이 서로에게 일상적인 수준을 넘는 정중함을 반복해서 보여 희극을 만드는 관계 유형이다.",
     "detail": "작품 사례: 《[[아바타: 아앙의 전설]]》에서 아앙과 소카는 상류층 예절을 흉내 내며 서로 더 깊이 절하다가 이마를 부딪쳐, 공손함을 과장한 행동이 소동으로 이어진다.",
@@ -13,14 +13,20 @@
     "boundary": "일방의 아첨이나 예의로 위협을 숨기는 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "친한 사이인데도 둘 다 과장된 예의를 주고받아 웃음을 만든다.",
     "review_status": "reviewed",

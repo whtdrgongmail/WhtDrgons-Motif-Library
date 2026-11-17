@@ -4,8 +4,8 @@
   "title": "술집에서 대화하며 가까워지기",
   "original": "Bonding at the Bar",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "두 인물이 술집에서 함께 시간을 보내며 평소 못 하던 말을 나눈다. 술 자체보다 상대의 말을 듣고 응답하는 과정이 친밀함을 만든다. 술자리에서 나누는 공통의 불만이 [[함께 싫어하는 것에서 친해지기]]의 계기가 되기도 한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람이 술집에 앉아 일과 생활의 이야기를 나누며 가까워지는 장면이다. 평소보다 편한 자리에서 공통 경험을 발견할 수 있다. [[함께 싫어하는 것에서 친해지기]]가 계기가 되기도 하지만, 친밀함을 만드는 것은 음주 자체보다 서로 듣고 반응하는 과정이다.",
     "review_status": "reviewed",

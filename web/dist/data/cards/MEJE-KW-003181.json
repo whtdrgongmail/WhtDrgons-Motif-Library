@@ -4,8 +4,8 @@
   "title": "혐오하던 집단의 사람에게 끌리기",
   "original": "Bigot with a Crush",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "편견을 지닌 인물이 자신이 낮춰 보던 집단의 누군가에게 호감을 느낀다. 감정의 변화만으로 과거의 차별과 책임이 사라지지는 않는다. 호감이 생긴 뒤에도 [[편견 때문에 합리적 판단을 버리기]]의 선택을 되돌아봐야 한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "특정 집단을 싫어하던 인물이 그 집단의 한 사람에게 호감을 느껴 기존 생각과 충돌하는 전개다. 예외적인 한 사람으로만 여기면 편견은 남을 수 있다. [[편견 때문에 합리적 판단을 버리기]]와 관련해 감정 변화와 차별적 행동의 책임을 따로 다룬다.",
     "review_status": "reviewed",

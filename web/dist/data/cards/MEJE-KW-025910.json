@@ -4,8 +4,8 @@
   "title": "같은 외로움 때문에 가까워지기",
   "original": "Lonely Together",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "다른 공통점은 거의 없는 인물들이 서로의 외로움을 알아보고 정서적 지지·우정·사랑으로 연결되는 관계 형성이다.",
     "detail": "작품 사례: 만화 《[[나루토(만화)]]》의 나루토와 사스케는 집에서 기다리는 사람도 부담을 나눌 친구도 없는 외로움을 서로 이해하며 유대를 형성한다.",
@@ -13,14 +13,20 @@
     "boundary": "그저 함께 외로운 장소에 있거나 공통의 이익으로 협력하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "닮은 점은 없어 보여도 혼자였던 마음을 알아주며 가까워진다.",
     "review_status": "reviewed",

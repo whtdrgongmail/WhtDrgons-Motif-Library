@@ -4,8 +4,8 @@
   "title": "평생 한 사람만 사랑하도록 정해진 관계",
   "original": "One True Love",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "여러 장애와 다른 상대의 등장에도 한 사람만이 진정한 사랑으로 남는 운명적 연애 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "현재 한 사람을 충실히 사랑하는 현실 관계보다 작품이 유일성을 확정하는 방식이 기준이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 인연을 거쳐도 마음은 언제나 한 사람에게 돌아간다.",
     "review_status": "reviewed",

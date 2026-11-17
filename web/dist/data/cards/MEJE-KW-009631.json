@@ -4,8 +4,8 @@
   "title": "약자를 응원하는 팬",
   "original": "Fan of Underdog",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02662",
+  "primary_tag_id": "ML-T02662",
   "description": {
     "definition": "실패가 잦은 인물을 특별한 영웅처럼 좋아하는 팬이 그 사람의 실제 곤란함을 잘 모르는 관계 설정이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "실패하거나 곤란을 겪는 인물을 팬이 특별한 영웅처럼 믿고 좋아하는 관계다. 응원받는 사람의 실제 형편과 팬의 이상화된 이미지가 다르며, 기대에 부응하고 싶은 마음이 위안이 되거나 현실을 숨겨야 하는 부담이 될 수 있다.",
     "review_status": "reviewed",

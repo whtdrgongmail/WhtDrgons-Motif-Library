@@ -4,8 +4,8 @@
   "title": "지적 동료에게 배척당한 과학자",
   "original": "Intelligence Equals Isolation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "과학자가 동료의 배척과 고립을 경험하고 그것을 위험한 연구의 동기로 삼는 관계 구성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "배척이 반드시 부당한 것은 아니며 단순히 혼자 일하는 성향과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인정받지 못했다는 감정이 연구의 방향을 밀어붙인다.",
     "review_status": "reviewed",

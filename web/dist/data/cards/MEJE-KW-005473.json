@@ -4,8 +4,8 @@
   "title": "공통점을 발견하며 가까워지기",
   "original": "Commonality Connection",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "낯설거나 갈등하던 인물들이 취향과 경험의 뜻밖의 공통점을 발견해 서로를 새롭게 보는 관계 전환.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서먹하거나 적대하던 사람들이 예상 밖의 취향과 경험을 공유한다는 사실을 발견하는 장면이다. 기존의 인상만으로는 보이지 않던 공통점이 상대를 다시 이해하게 하며, 모든 갈등이 사라지지 않아도 대화할 작은 기반이 생긴다.",
     "review_status": "reviewed",

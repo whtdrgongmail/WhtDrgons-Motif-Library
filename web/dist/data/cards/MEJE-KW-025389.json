@@ -4,8 +4,8 @@
   "title": "아직 하지 않은 모욕을 예상해 화내기",
   "original": "Premature Aggravation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "상대가 모욕할 것이라고 앞서 상상한 인물이 실제 발언이 나오기도 전에 기분이 상한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제로 있었던 모욕이나 꿈속 사건에 대한 분노와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대의 말보다 자기 예상 때문에 먼저 화가 난다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "오래전에 사라진 연애 감정",
   "original": "Dead Sparks",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02671",
+  "primary_tag_id": "ML-T02671",
   "description": {
     "definition": "과거에는 서로 사랑했지만 그 연애 감정은 이미 오래전에 식어 사라진 관계 상태이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-006747은 식은 관계를 관성적으로 유지하는 구도다. 현재는 관계를 계속 유지하는지까지 조건으로 두지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.041",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한때의 사랑과 지금의 감정 사이에 큰 간격이 있다.",
     "review_status": "reviewed",

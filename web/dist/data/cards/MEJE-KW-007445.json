@@ -4,8 +4,8 @@
   "title": "새 동료를 싫어하는 팀원",
   "original": "Dislikes the New Guy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "기존 구성원 가운데 한 사람이 새로 들어온 동료를 경계하거나 못마땅하게 여겨 팀의 화합을 어렵게 한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "기존 팀원 중 누군가가 새로 합류한 사람을 못마땅해하며 거리를 두는 관계다. 집단 전체의 냉대와 달리 특정 인물의 불신이 두드러지며, 새 동료의 능력과 별개로 이전 경험이나 자리의 변화가 반감의 원인일 수 있다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "이별하며 선물 돌려주기",
   "original": "Take Back Your Gift",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "[[관계]]를 끝내면서 상대에게 받았던 물건을 반환해 [[결별]]의 [[의사]]를 표현하는 [[행동]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상품 반품이나 빌린 물건의 반환과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께한 [[시간]]을 떠올리게 하는 선물을 돌려주며 헤어짐을 알린다.",
     "review_status": "reviewed",

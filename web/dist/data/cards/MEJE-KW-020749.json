@@ -5,8 +5,8 @@
   "original": "Pride Blocks a Friend's Financial Help",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "경제적으로 곤란한 인물에게 부유한 친구가 돈으로 도울 수 있지만, 도움을 받는 사람이 자존심 때문에 이를 거절하고 스스로 벌려는 [[갈등]]이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "조건이 부당해서 도움을 거절하거나 돈을 줄 능력이 없는 경우와 구별한다. 도움의 수용과 자존심이 충돌한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "돈은 빌려주면 해결될 듯해도 친구 사이의 대등함을 지키고 싶은 마음이 가로막는다.",
     "review_status": "reviewed",

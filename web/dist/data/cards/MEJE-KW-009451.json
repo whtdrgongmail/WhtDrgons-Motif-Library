@@ -4,8 +4,8 @@
   "title": "관계가 진전된 듯한 가짜 첫 키스",
   "original": "Fake First Kiss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02534",
+  "primary_tag_id": "ML-T02534",
   "description": {
     "definition": "오래 이어진 연애 긴장 끝에 입맞춤이 일어나지만 꿈·변장·상황 탓 등으로 처리되어 두 사람의 관계는 그대로 남는다. [[들키지 않으려고 입맞춤하기]]은 둘의 관계를 확정하지 않는 입맞춤이 발각 회피라는 상황 때문에 일어난 사례다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "첫 입맞춤이라는 순서와 비연애적 목적을 함께 확인한다. 꿈·변장·착각 때문에 관계 진전이 무효화되는 경우만을 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
+    "code": "10.002.011",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "오랜 연애 긴장 끝에 입맞춤이 나오지만 꿈이나 오해 같은 이유로 실제 관계의 진전으로 인정되지 않는 구성이다. 관객의 기대는 잠깐 충족되지만 두 사람의 상태는 유지되며, [[들키지 않으려고 입맞춤하기]]도 이런 유예의 한 방식이 된다.",
     "review_status": "reviewed",

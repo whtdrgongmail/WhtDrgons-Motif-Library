@@ -4,8 +4,8 @@
   "title": "나라를 함께 다스리는 연인",
   "original": "Ruling Couple",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "연애나 부부 관계인 두 사람이 국가의 통치에 함께 참여하는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "통치자의 배우자라는 사실만으로는 부족하며 양쪽의 통치 역할이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람은 사랑하는 사이이면서 공동 통치자다.",
     "review_status": "reviewed",

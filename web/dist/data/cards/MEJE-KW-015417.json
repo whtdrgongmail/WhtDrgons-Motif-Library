@@ -4,8 +4,8 @@
   "title": "친구들의 압력으로 낮아지는 도덕 기준",
   "original": "Peer Pressure Makes You Evil",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "도덕적으로 문제 있는 또래나 동료의 영향 때문에 인물이 자신의 윤리적 기준을 낮추고 악행에 참여하는 전개다.",
     "detail": "현재 항목은 집단에 맞추어 따라가는 태도를 부정적으로 평가한다. 강한 외부 협박에 굴복하는 상황과 자발적인 동조는 구분한다.",
@@ -13,14 +13,20 @@
     "boundary": "외부의 직접 협박과 달리 소속 욕구와 동료 영향이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "처음엔 꺼리던 행동도 친구들에게 맞추다 점점 당연하게 받아들인다.",
     "review_status": "reviewed",

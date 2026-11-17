@@ -5,8 +5,8 @@
   "original": "Overattachment to the First Romantic Contact",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "연애 가능한 사람과 접촉할 기회가 없도록 사회적으로 차단되거나 관계에서 배제된 인물이 새로 만난 상대에게 강한 호감과 의존을 보이는 상황이다.",
     "detail": "과잉 보호, 관계의 부족, 주변과의 연애 선호 불일치 등에서 비롯될 수 있다.",
@@ -14,14 +14,20 @@
     "boundary": "새로운 사람을 좋아한다는 사실만으로는 부족하며 제한된 만남이 호감을 증폭해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다정하게 대해 주는 사람을 거의 만나지 못해 첫 호의를 특별한 사랑처럼 받아들인다.",
     "review_status": "reviewed",

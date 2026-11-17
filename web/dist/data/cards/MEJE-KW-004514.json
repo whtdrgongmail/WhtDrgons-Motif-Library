@@ -4,8 +4,8 @@
   "title": "둘이 함께 외치는 대표 말",
   "original": "Catch-Phrase Spouting Duo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "짝을 이룬 두 인물이 같은 구호나 말끝을 맞춰 관계를 알린다. 말의 반복이 둘의 호흡을 보여 주는 표지가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 인물이 늘 같은 구호를 함께 외치거나 말끝을 맞추며 한 쌍이라는 인상을 주는 표현이다. 반복되는 타이밍으로 익숙한 호흡과 공동의 정체성을 보인다. 대사가 같아도 두 사람이 모든 의견에 동의하는 것은 아니며 갈등 때 구호가 어긋나는 변화도 가능하다.",
     "review_status": "reviewed",

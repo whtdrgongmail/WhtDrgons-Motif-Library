@@ -4,8 +4,8 @@
   "title": "연민 때문에 맺는 성적 관계",
   "original": "Pity Sex",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "상대의 불운이나 힘든 처지를 가엾게 여긴다는 이유만으로 성적 관계를 맺는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "호감에 연민이 함께 있는 모든 관계가 아니라 연민이 핵심 동기인 경우다. 동의는 별도로 확인되는 조건이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "끌리는 마음보다 안타까운 마음이 관계의 이유가 된다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "위기 속에서도 이어지는 구애",
   "original": "Flirting Under Fire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02669",
+  "primary_tag_id": "ML-T02669",
   "description": {
     "definition": "위험이 가까이 닥친 순간에도 두 인물이 서로에게 농담과 호감을 건네며 연애 감정을 이어 가는 관계 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.039",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "위협이 바로 앞에 있는데도 두 인물이 농담과 호감을 주고받는 장면이다. 위험의 심각함과 여유로운 대화가 대비되어 대담함이 드러나며, 생존을 위한 협력 속에서도 서로를 의식한다는 사실이 관계의 긴장을 유지한다.",
     "review_status": "reviewed",

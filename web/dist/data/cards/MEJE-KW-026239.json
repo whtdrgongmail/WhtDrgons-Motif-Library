@@ -4,8 +4,8 @@
   "title": "전 연인 앞에서 유난히 어색해지기",
   "original": "Sorkin Relationship Moment",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "헤어진 상대와 함께 있을 때 인물이 지나치게 어색하거나 평소와 다르게 반응한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "어색함만으로 미련이나 재결합 의도를 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "헤어진 그 사람 앞에서는 자연스럽게 굴지 못한다.",
     "review_status": "reviewed",

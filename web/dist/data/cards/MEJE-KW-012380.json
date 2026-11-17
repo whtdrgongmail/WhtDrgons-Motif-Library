@@ -4,8 +4,8 @@
   "title": "정든 낡은 로봇",
   "original": "Good Old Robot",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "성능이 뒤떨어진 [[로봇]]을 단순한 구형 기계로 버리지 않고 추억·인격·[[관계]]의 가치 때문에 계속 곁에 두는 모티프다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "오래된 기술의 우수함을 주장하는 것과 달리 특정 로봇과 맺은 관계가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "새 로봇이 더 뛰어나도 오래 함께한 로봇을 가족처럼 여겨 바꾸지 않는다.",
     "review_status": "reviewed",

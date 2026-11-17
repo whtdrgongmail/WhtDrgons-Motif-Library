@@ -6,8 +6,8 @@
   "aliases": [
     "말을 끊어 불만을 표시하기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "상대에 대한 적의나 불만을 대화와 응답의 의도적인 중단으로 표현하는 관계 행동이다.",
     "detail": "침묵이 상대를 향한 신호나 압박으로 작용한다.",
@@ -15,14 +15,20 @@
     "boundary": "말을 못 하는 상태나 우연한 무응답과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "말을 하지 않음으로써 화가 났거나 거부한다는 뜻을 전한다.",
     "review_status": "reviewed",

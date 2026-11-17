@@ -4,8 +4,8 @@
   "title": "매력 때문에 공짜로 머무는 손님",
   "original": "Pretty Freeloaders",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "외모나 매력 때문에 숙박비를 내지 않고 다른 사람의 공간에 머물도록 허용되는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "여성이나 게으른 사람으로 한정하지 않는다. 상호 합의된 가사 분담을 무임승차로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "집주인이 매력에 끌려 집세 없이 지내게 해 준다.",
     "review_status": "reviewed",

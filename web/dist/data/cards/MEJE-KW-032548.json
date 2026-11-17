@@ -4,8 +4,8 @@
   "title": "숨기던 비인간적 특징을 아름답다고 받아주기",
   "original": "One's Freakiness, Another's Beauty",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "날개·뿔·꼬리 같은 비인간적 신체 특징을 부끄러워하거나 두려워하며 숨기던 인물이 다른 사람에게 그 특징 자체가 아름답다는 인정을 받는 관계 전개다.",
     "detail": "작품 사례: 《[[원피스(만화)]]》에서 푸딩은 놀림의 대상이던 세 번째 눈을 산지에게 드러내 겁먹게 하려 하지만 산지는 아름답다고 말한다. 숨기고 부끄러워하던 특징에 대한 인정이 푸딩의 감정을 흔든다.",
@@ -13,14 +13,20 @@
     "boundary": "낯선 모습에도 불구하고 참아 주는 태도와 달리 바로 그 특징에서 매력을 발견하는 반응이 필요하며 연애 관계에 한정되지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "없애고 싶던 자기 모습이 누군가에게는 가장 아름다운 부분이다.",
     "review_status": "reviewed",

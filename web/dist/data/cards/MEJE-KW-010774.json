@@ -4,8 +4,8 @@
   "title": "장난으로 하는 간지럼",
   "original": "Friendly Tickle Torture",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "가까운 사이의 인물들이 간지럼을 친밀한 장난이나 유혹으로 나누는 장면이다. 상대가 싫어한다면 장난이라는 의도와 별개로 멈춰야 한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가까운 인물들이 간지럼을 태우며 장난이나 호감을 나누는 장면이다. 웃음이라는 반응이 반드시 즐겁다는 동의를 뜻하지는 않으며, 상대가 그만하길 바라면 멈추는지가 친밀한 놀이와 원치 않는 접촉의 경계를 결정한다.",
     "review_status": "reviewed",

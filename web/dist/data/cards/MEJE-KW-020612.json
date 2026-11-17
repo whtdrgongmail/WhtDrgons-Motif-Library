@@ -6,8 +6,8 @@
   "aliases": [
     "마을의 바보에게 돌아가지 않는 존중"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "공동체에서 이해력과 판단력이 낮다고 여겨져 존중받지 못하고 따돌림을 겪는 인물 관계다.",
     "detail": "",
@@ -15,14 +15,20 @@
     "boundary": "구체적인 잘못에 책임을 묻는 것과 구별한다. 지적 평가가 인물 전체의 배제 근거로 쓰여야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "말과 행동을 진지하게 들어 주지 않아 집단의 한 구성원으로 대우받기 어렵다.",
     "review_status": "reviewed",

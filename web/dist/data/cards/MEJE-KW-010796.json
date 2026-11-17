@@ -4,8 +4,8 @@
   "title": "연애 약속 없이 만나는 성적 동반자",
   "original": "Friends with Benefits",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "서로 합의해 성적 관계를 맺지만 장기 연애나 배타적인 관계는 약속하지 않는 두 인물의 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 인물이 성적 관계에는 동의하지만 장기적인 연애와 배타적인 관계까지 약속하지는 않는 설정이다. 가벼운 감정으로 단정할 일은 아니며, 서로 이해한 경계와 기대가 달라지면 그 변화를 다시 이야기하는 과정이 갈등의 중심이 된다.",
     "review_status": "reviewed",

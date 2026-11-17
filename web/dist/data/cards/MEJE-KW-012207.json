@@ -6,8 +6,8 @@
   "aliases": [
     "영웅에게 베푸는 무료 대접"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "[[상인]]이나 주민이 [[영웅]]의 선행에 감사하여 상품·음식·서비스를 대가 없이 제공하는 [[관계]] 모티프다.",
     "detail": "작품 사례: 《[[나루토]]》에서 일락 라멘의 주인은 마을을 구한 나루토에게 무료로 음식을 대접한다. 일상적인 가게의 서비스가 선행에 대한 구체적인 보답이 된다.",
@@ -15,14 +15,20 @@
     "boundary": "계약된 임무 보수와 달리 자발적 감사와 환대가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 4,
+  "updated_at": "2026-11-17",
+  "row_version": 5,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사람들을 구한 손님에게 가게 주인이 돈을 받지 않는다.",
     "review_status": "reviewed",

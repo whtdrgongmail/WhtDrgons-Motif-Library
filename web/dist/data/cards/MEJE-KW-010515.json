@@ -4,8 +4,8 @@
   "title": "외국식 인사라며 감춘 작별 입맞춤",
   "original": "Foreign Farewell",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02534",
+  "primary_tag_id": "ML-T02534",
   "description": {
     "definition": "인물이 작별할 때 상대에게 입맞춤한 뒤 자신의 감정을 인정하지 않으려고 출신 문화의 인사법이라고 둘러대는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.011",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "작별하며 입맞춤한 인물이 감정을 들키지 않으려고 자기 문화의 평범한 인사라고 설명하는 장면이다. 실제로는 특별한 마음이 있으면서 말로는 의미를 줄이려 하며, 행동과 해명의 어긋남이 연애의 긴장이나 수줍은 웃음을 만든다.",
     "review_status": "reviewed",

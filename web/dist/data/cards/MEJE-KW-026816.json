@@ -4,8 +4,8 @@
   "title": "구출을 계기로 연애 상대가 되는 예속된 여성",
   "original": "Beautiful Slave Girl",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "예속된 처지의 여성이 구출되는 과정에서 구조자와 연애 관계의 후보로 연결되는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 002890의 외모를 장식으로 소비하는 묘사와 달리 구조와 관계 형성이 현재 설명의 중심이다. 구출이 관계의 의무를 만들지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "구해 준 사람과 구출된 사람이 사랑의 상대로 연결된다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "전에는 어울리지 않는다고 여겼던 상대에게 반하기",
   "original": "Previously Overlooked Paramour",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "이전에는 자신과 맞는 연애 상대라고 생각하지 않았던 사람을 새롭게 연애 후보로 받아들이는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "처음부터 이상형이었던 상대를 알아채지 못한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "예전에는 상상도 못 한 사람이 이제 마음에 든다.",
     "review_status": "reviewed",

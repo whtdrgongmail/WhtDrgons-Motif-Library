@@ -5,8 +5,8 @@
   "original": "Boundary setting",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02675",
+  "primary_tag_id": "ML-T02675",
   "description": {
     "definition": "관계에서 자신이 받아들이거나 거절할 요구와 행동의 범위를 정하고 상대에게 알리는 일이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.045",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가까운 사람에게도 어디까지는 괜찮고 어디부터는 어렵다고 말하며 관계의 한계를 정하는 일이다.",
     "review_status": "reviewed",

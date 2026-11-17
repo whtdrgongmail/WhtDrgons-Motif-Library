@@ -4,8 +4,8 @@
   "title": "비밀을 안다는 사실을 숨기는 인물",
   "original": "Secret Secret-Keeper",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02664",
+  "primary_tag_id": "ML-T02664",
   "description": {
     "definition": "상대의 비밀을 이미 알고 있으면서 자신이 안다는 사실은 상대에게 알리지 않는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "모두가 공개적으로 아는 비밀이나 알아차리지 못한 상태와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 비밀이라고 믿는 사실을 알고도 모르는 척한다.",
     "review_status": "reviewed",

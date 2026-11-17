@@ -4,8 +4,8 @@
   "title": "악한 편에 속한 상대의 용기를 인정하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "적이 악한 진영에 속했다는 사실과 별개로 그가 보여 준 용기와 대담함을 인정하는 태도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "적의 목적과 가해를 정당화하는 것과 다르며, 전투력이 비슷하다는 조건도 필수는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "적이라고 해서 그 사람의 용기까지 부정하지는 않는다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "과거의 인연이 드러나는 새 연애 상대",
   "original": "New Old Flame",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "새로운 연애 상대처럼 제시되는 인물과 주인공 사이에 이미 연애의 과거가 있었음이 설정되는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "처음부터 옛 연인 재회로 소개되는 장면과 달리 새 후보의 과거 관계라는 배치가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "새로 나타난 연애 상대인 줄 알았는데 둘에게는 옛 이야기가 있다.",
     "review_status": "reviewed",

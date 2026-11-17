@@ -4,8 +4,8 @@
   "title": "실패 뒤 서로에게 책임 떠넘기기",
   "original": "Blame Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "같은 실패에 관여한 사람들이 자기 몫을 인정하지 않고 상대에게 잘못을 돌린다. 책임의 위치보다 관계의 균열이 먼저 드러난다. 책임을 떠넘기는 상대가 조언자라면 [[조언을 따르고 조언자 탓하기]]의 형태가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께 추진한 일이 실패하자 각자가 자기 판단은 숨기고 다른 사람의 실수만 지적하는 상황이다. 원인을 확인하기보다 책임을 피하려 하여 다음 협력이 어려워진다. 상대가 조언자라면 [[조언을 따르고 조언자 탓하기]]와 겹치지만 각자의 실제 결정은 따로 확인해야 한다.",
     "review_status": "reviewed",

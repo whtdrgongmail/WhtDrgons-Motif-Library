@@ -4,8 +4,8 @@
   "title": "아이를 돌보며 연애 호감을 얻기",
   "original": "Pick Up Babes With Babes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "어린아이와 다정하게 어울리거나 능숙하게 돌보는 모습이 성인 인물의 연애적 매력을 높이는 장치다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "조카를 돌보는 모습을 본 상대가 그 사람의 다정함과 책임감에 새롭게 끌린다.",
     "review_status": "reviewed",

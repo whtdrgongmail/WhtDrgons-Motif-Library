@@ -4,8 +4,8 @@
   "title": "작품 제작 현장에서 시작되는 연애",
   "original": "Romance on the Set",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "같은 작품을 만드는 사람들 사이에 공동 작업을 계기로 사랑이 생긴다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "작품 속 인물의 연애와 실제 제작자의 관계를 구별한다. 실제 인물 사례는 확인된 공개 정보가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께 작품을 만들던 사람들이 연인이 된다.",
     "review_status": "reviewed",

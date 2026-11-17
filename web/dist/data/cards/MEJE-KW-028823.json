@@ -4,8 +4,8 @@
   "title": "영업상의 친근한 표현을 개인적 구애로 오해하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "서비스나 판매 상황에서 고객 응대와 소비 유도를 위한 친근한 표현을 사적인 연애 관심으로 받아들이는 오해다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "모든 친절한 서비스가 유혹이라는 뜻이 아니다. 직업적 맥락의 표현을 개인적 구애로 잘못 읽는 상황만 해당한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "손님으로 잘 대해 준 것을 자신에게 특별한 마음이 있어서라고 생각한다.",
     "review_status": "reviewed",

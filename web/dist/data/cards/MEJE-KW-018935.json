@@ -4,8 +4,8 @@
   "title": "호감을 얻으려고 병을 가장하기",
   "original": "Malingering Romance Ploy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "좋아하는 사람의 간호와 관심을 계속 받으려고 병을 앓는 척한다.",
     "detail": "작품 사례: 영화 《[[해리 포터와 아즈카반의 죄수(영화)]]》에서 론은 다친 다리를 걱정해 주는 헤르미온느의 관심을 즐기며 상태를 실제보다 심각하게 말한다.",
@@ -13,14 +13,20 @@
     "boundary": "실제 질병을 의심하거나 환자를 평가하는 기준으로 사용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하는 사람이 돌봐 주게 하려고 아픈 척한다.",
     "review_status": "reviewed",

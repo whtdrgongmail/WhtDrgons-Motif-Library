@@ -4,8 +4,8 @@
   "title": "성적 관계를 계기로 선한 편에 서기",
   "original": "Sex–Face Turn",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "영웅과의 성적 친밀함을 경험한 악역이 그 관계를 계기로 행동이나 진영을 선한 방향으로 바꾸는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "개심의 보상으로 관계를 얻는 경우나 도덕적 변화 없는 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대와 가까워진 뒤 이전의 악행과 소속을 계속 따를 수 없게 된다.",
     "review_status": "reviewed",

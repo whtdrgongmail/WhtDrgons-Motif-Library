@@ -4,8 +4,8 @@
   "title": "예술 창작을 통해 드러나는 친밀감",
   "original": "Intimate Artistry",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "인물을 그리거나 함께 작품을 만드는 과정과 결과에 참여자들의 친밀감·욕망·관계의 차이가 드러나는 장면이다.",
     "detail": "작가와 모델, 공동 제작자, 여러 모델 사이의 관계를 다룰 수 있다. 뒤늦게 작품을 보거나 제작 당시를 이야기하는 장면도 포함한다.\n\n작품 사례: 《[[카구야 님은 고백받고 싶어 ~천재들의 연애 두뇌전~]]》에서 카구야는 시로가네를 아름답게 그린 그림으로 마음이 들킬까 고치려 하고, 시로가네는 그녀의 아름다움을 담으려 거듭 다시 그린다.",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대를 자세히 보고 그림으로 옮기는 동안 숨긴 마음이 작품에 묻어난다.",
     "review_status": "reviewed",

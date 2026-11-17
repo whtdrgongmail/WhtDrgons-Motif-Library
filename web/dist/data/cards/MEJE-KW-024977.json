@@ -4,8 +4,8 @@
   "title": "엉뚱한 친구들과 지내며 마음이 열리기",
   "original": "Loony Friends Improve Your Personality",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "완고하거나 고립된 인물이 별난 친구들과 원치 않던 소동을 겪으며 타인을 받아들이고 성격이 긍정적으로 변하는 관계 전개다.",
     "detail": "작품 사례: 《[[해리 포터(소설 시리즈)]]》에서 논리적인 헤르미온느는 루나와 가까워지며 그녀의 엉뚱한 믿음마다 논쟁을 걸던 태도를 누그러뜨린다. 서로 다른 사람과 관계를 유지하는 법을 배우는 사례다.",
@@ -13,14 +13,20 @@
     "boundary": "친구들이 특이하다는 사실만으로는 부족하다. 함께 겪는 사건이 주인공의 지속적인 성장으로 이어져야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "처음에는 귀찮던 괴짜 친구들 덕분에 사람을 대하는 태도가 부드러워진다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "떠나도 함께 있다는 약속",
   "original": "Always with You",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02661",
+  "primary_tag_id": "ML-T02661",
   "description": {
     "definition": "이별이나 죽음 앞에서 한 인물이 자신이 사라진 뒤에도 기억과 마음으로 곁에 있겠다고 전하는 관계 장면. 물리적 동행과 정서적 지속을 구별한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.031",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "먼 곳으로 떠나거나 죽음을 앞둔 사람이 함께할 수 없게 되어도 기억 속의 관계는 이어진다고 말하는 장면이다. 남은 사람은 그 말을 떠올리며 슬픔을 견딜 수 있다. 실제로 곁에 남는 초자연적 존재인지 마음에 남는다는 표현인지는 구별한다.",
     "review_status": "reviewed",

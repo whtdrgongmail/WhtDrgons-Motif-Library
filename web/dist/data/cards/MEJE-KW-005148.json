@@ -4,8 +4,8 @@
   "title": "잠결에 서로를 붙잡고 자는 두 사람",
   "original": "Clingy Sleepers",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "함께 밤을 보낸 두 인물이 아침에 서로를 꼭 끌어안은 채 잠들어 있었음을 알게 된다. 의식하지 못한 친밀함이 깨어난 뒤의 어색함을 만든다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께 잠든 두 사람이 깨어나 보니 무의식중에 서로를 꼭 안고 있던 장면이다. 잠들기 전 말로 확인한 관계보다 몸의 거리가 가까워져 있으며, 이를 편안하게 받아들이는지 서둘러 떨어지는지에 따라 친밀함과 어색함이 드러난다.",
     "review_status": "reviewed",

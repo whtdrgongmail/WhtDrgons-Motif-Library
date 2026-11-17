@@ -4,8 +4,8 @@
   "title": "주인공과 핵심 동료의 물리적 충돌",
   "original": "Fighting the Lancer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "같은 편의 중심 인물과 경쟁적인 동료가 차이를 봉합하지 못해 물리적인 싸움으로 충돌하는 전개이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "불평이나 논쟁만 지속되는 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "말다툼을 넘어서 같은 편끼리 실제로 싸운다.",
     "review_status": "reviewed",

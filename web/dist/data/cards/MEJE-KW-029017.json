@@ -4,8 +4,8 @@
   "title": "재산과 무관하게 맺는 관계",
   "original": "Not with Them for the Money",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "부유한 사람의 재산이 아니라 그 사람 자체를 좋아하고 아껴 친구나 연인이 되는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "재산을 노리는 접근에 대한 불안을 실제 신뢰로 풀어 주는 관계 구도다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "돈이 없어져도 그 사람과 함께하려는 마음이 남는다.",
     "review_status": "reviewed",

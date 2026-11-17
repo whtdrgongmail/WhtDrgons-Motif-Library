@@ -5,8 +5,8 @@
   "original": "Refusing to Be Someone's Wager",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "누군가 자신을 내기의 보상처럼 다루자 당사자가 그 사람과의 관계를 거절하여 승부 결과와 무관하게 소유 주장을 무효로 만드는 전개다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "승자가 자동으로 연애 상대를 얻는 구조와 달리 구애받는 이의 선택이 독립적으로 작동한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누가 이겼든 나를 걸었다는 태도부터 받아들일 수 없다.",
     "review_status": "reviewed",

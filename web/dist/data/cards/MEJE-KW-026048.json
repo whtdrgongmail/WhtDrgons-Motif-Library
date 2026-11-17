@@ -5,8 +5,8 @@
   "original": "Love Ends When the Advantage Disappears",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "상대의 외모·재산·사회적 지위 같은 이익에 끌린 인물이 그 조건을 잃자 애정도 거두고 관계를 버리는 전개다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "관계의 해로운 행동 때문에 떠나는 경우와 구별한다. 상대가 제공하던 이익의 상실이 직접적인 계기여야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "그 사람이 가진 것이 사라지자 사랑도 사라진다.",
     "review_status": "reviewed",

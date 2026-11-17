@@ -4,8 +4,8 @@
   "title": "빈정대는 악역과 진지한 영웅을 대비하기",
   "original": "SnarkyVillainEarnestHero",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "가볍게 조롱하는 악역의 말투와 성실하고 진지하게 대응하는 영웅의 태도를 대비하여 역할 차이를 드러내는 관계 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제 사람의 말투만으로 선악을 판단하는 설명은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한쪽은 비웃고 다른 쪽은 진심으로 맞선다.",
     "review_status": "reviewed",

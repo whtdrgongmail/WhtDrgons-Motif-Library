@@ -4,8 +4,8 @@
   "title": "연인으로 오해받을 만큼 가까운 이성 친구",
   "original": "Platonic Life-Partners",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "성별이 다른 두 친구가 강한 친밀감을 드러내 연애 관계로 오해받을 만하지만 실제로는 우정인 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "현재 144번과 이전 005:497의 삶 전체의 가장 중요한 동반자 조건과 달리 성별 차이와 연애 오해가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남녀 친구가 너무 가까워 다들 사귀는 줄 안다.",
     "review_status": "reviewed",

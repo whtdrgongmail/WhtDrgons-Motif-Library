@@ -4,8 +4,8 @@
   "title": "연상에게 끌리는 취향",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "자신보다 나이가 많거나 삶의 경험이 풍부한 상대를 일관되게 연애 대상으로 선호하는 성향이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "특정 한 사람과 우연히 나이 차이가 나는 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "더 오래 살아 경험이 많은 상대에게 매력을 느낀다.",
     "review_status": "reviewed",

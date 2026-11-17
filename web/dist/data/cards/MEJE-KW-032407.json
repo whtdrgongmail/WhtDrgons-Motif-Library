@@ -4,8 +4,8 @@
   "title": "완벽한 언니라는 이상화를 거절하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02675",
+  "primary_tag_id": "ML-T02675",
   "description": {
     "definition": "상대가 자신에게 기대하는 완벽하고 동경받는 언니의 역할을 부담스러워하거나 원하지 않아 호칭과 관계의 틀을 거부하는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "특정 호칭의 거부만으로 성적 지향이나 애정의 부재를 자동 판정하지 않으며 작품이 밝힌 이유를 따른다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.045",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누군가의 흠 없는 우상이 되고 싶지 않아 그렇게 부르지 말라고 한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "자신보다 고귀하게 여기는 연인",
   "original": "Peerless Love Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02662",
+  "primary_tag_id": "ML-T02662",
   "description": {
     "definition": "사랑하는 상대를 자신이 감히 닿기 어려운 우월한 존재로 여기는 연애 구도다. 상대의 실제 신분보다도 연애 당사자가 느끼는 격차가 관계를 규정한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "사랑받는 인물이 단지 용기를 주는 역할인 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "주인공은 상대를 좋아하면서도 자신에게는 너무 과분한 사람이라고 생각한다.",
     "review_status": "reviewed",

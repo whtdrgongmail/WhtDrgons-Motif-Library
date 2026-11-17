@@ -4,8 +4,8 @@
   "title": "한 이불을 서로 끌어당기기",
   "original": "Blanket Tug O' War",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "함께 자는 두 사람이 잠결에 이불을 자기 쪽으로 끌어당긴다. 작은 몸짓이 친밀함과 사소한 불편을 동시에 보여 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께 누운 두 사람이 잠결에 이불을 자기 쪽으로 끌어당겨 다른 사람이 춥거나 불편해지는 장면이다. 가까운 생활에서 생기는 작은 갈등과 익숙함을 보여 준다. 한 번의 행동보다 깬 뒤 웃고 조정하는지 계속 불편을 무시하는지가 관계의 성격을 드러낸다.",
     "review_status": "reviewed",

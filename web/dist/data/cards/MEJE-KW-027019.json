@@ -4,8 +4,8 @@
   "title": "헤어진 연인과 다시 성적 관계 맺기",
   "original": "Sex with the Ex",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "연애 관계는 끝났지만 전 연인과 다시 성적 친밀함을 나누는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "새 연인이 있거나 외도가 되는 경우가 필수는 아니므로 이전의 배신 구도보다 넓다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "헤어졌어도 사적인 관계가 다시 이어진다.",
     "review_status": "reviewed",

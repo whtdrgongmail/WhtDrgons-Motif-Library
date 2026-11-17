@@ -4,8 +4,8 @@
   "title": "물건을 잡다 손이 닿기",
   "original": "Accidental Hand-Hold",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "두 인물이 같은 물건을 잡으려다 뜻밖에 손을 맞잡게 되는 장면. 손을 떼는 속도와 표정으로 서로의 호감이나 거리감을 드러낸다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람이 같은 물건을 잡으려다 우연히 손이 닿는다. 사소한 접촉이라도 바로 피하는지 잠시 멈추는지, 서로를 바라보는지에 따라 둘 사이의 거리와 감정이 드러난다.",
     "review_status": "reviewed",

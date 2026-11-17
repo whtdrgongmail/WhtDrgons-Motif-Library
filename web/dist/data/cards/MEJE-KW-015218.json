@@ -4,8 +4,8 @@
   "title": "엄격한 사람과 자유로운 연인의 끌림",
   "original": "Uptight Loves Wild",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "딱딱하고 규범적인 인물이 자유분방하고 별난 성격의 상대에게 끌리는 대조적 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "성격이 다르다는 사실만으로는 부족하며 엄격함과 자유로움이 대비된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "늘 긴장하던 사람이 거리낌 없이 사는 상대를 좋아한다.",
     "review_status": "reviewed",

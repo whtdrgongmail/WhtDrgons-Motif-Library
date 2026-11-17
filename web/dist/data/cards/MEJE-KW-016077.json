@@ -4,8 +4,8 @@
   "title": "다시 만날 것을 약속하기",
   "original": "Reunion Vow",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02661",
+  "primary_tag_id": "ML-T02661",
   "description": {
     "definition": "헤어지는 인물들이 훗날의 만남을 다짐하여 이별 뒤의 희망과 목표를 만드는 관계 장치다.",
     "detail": "위험한 일을 하러 떠나며 살아서든 사후에든 다시 만날 것을 약속하는 형태다.",
@@ -13,14 +13,20 @@
     "boundary": "재회가 우연히 일어나거나 인사말로만 끝나는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.031",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "돌려받을 물건을 남기며 다시 만나자고 약속한다.",
     "review_status": "reviewed",

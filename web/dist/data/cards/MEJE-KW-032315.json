@@ -4,8 +4,8 @@
   "title": "비전문가에게 초기 안내를 받고 전문가로 연결되기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02667",
+  "primary_tag_id": "ML-T02667",
   "description": {
     "definition": "해당 세부 분야의 전문가는 아니지만 관련 자격과 지식이 있는 사람이 긴급한 초기 안내를 제공하고 적합한 전문가에게 연결하는 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "모든 분야를 혼자 완벽히 해결하는 인물상과 달리 자신의 한계를 인정하고 역할을 이어 준다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.037",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "일단 아는 변호사에게 도움을 받고 실제 사건에 맞는 전문가를 찾는다.",
     "review_status": "reviewed",

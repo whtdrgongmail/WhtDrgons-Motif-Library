@@ -4,8 +4,8 @@
   "title": "머리를 쓰다듬는 애정 표현",
   "original": "Affectionate Gesture to the Head",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "한 인물이 다른 사람의 머리를 가볍게 쓰다듬어 친밀감이나 격려를 드러내는 몸짓. 받는 사람이 느끼는 보호와 부담은 관계에 따라 달라질 수 있다. [[코끝을 건드리는 애정 표현]]은 같은 감정을 다른 동작으로 보여 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "격려하거나 반가움을 표현하려고 상대의 머리를 가볍게 쓰다듬는 행동이다. 돌봄으로 받아들일 수도 있지만 성인이나 친하지 않은 사람에게는 무시당하는 느낌이 될 수 있다. 누가 누구에게 하는지와 받는 사람의 반응이 애정 표현의 의미를 정한다.",
     "review_status": "reviewed",

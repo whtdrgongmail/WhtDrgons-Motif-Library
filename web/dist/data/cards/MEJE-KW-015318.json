@@ -4,8 +4,8 @@
   "title": "질투로 적대하는 영웅 관계",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "한 영웅이 상대의 명성·관계·생활 조건을 부러워하여 선한 동료에게 지속적인 반감을 품는 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대의나 전술의 충돌보다 개인적 비교가 원인이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 가진 것을 부러워하는 마음이 동료를 미워하게 만든다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "해결 작업을 딴짓으로 오해하기",
   "original": "This Is No Time for Knitting",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "한 인물이 문제 해결에 필요한 행동을 하고 있지만 그 목적이 전달되지 않아 다른 사람에게는 우선순위를 잊고 딴짓하는 것으로 보이는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "정말 문제를 외면하는 행동이나 아무 설명 없는 우연한 도움이 되는 것과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "쓸데없는 일을 하는 줄 알았는데 사실 그것이 해결책이다.",
     "review_status": "reviewed",

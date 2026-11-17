@@ -4,8 +4,8 @@
   "title": "아이와의 첫 만남으로 인류를 판단하는 방문자",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "낯선 세계에서 온 존재가 먼저 만난 아이의 친절하고 순수한 태도를 바탕으로 사람들 전체에 호의적인 인상을 갖는 관계 형성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "아이들이 언제나 순수하다는 현실 일반화가 아니라 작품이 채택한 만남의 구조다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "낯선 세계에서 온 방문자는 먼저 만난 아이의 친절함을 보고 인류 전체에 호의적인 인상을 갖는다.",
     "review_status": "reviewed",

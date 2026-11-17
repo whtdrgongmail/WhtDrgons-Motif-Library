@@ -4,8 +4,8 @@
   "title": "필요할 때만 다정한 적",
   "original": "Fair-Weather Foe",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "상대를 미워하던 인물이 도움이나 이익을 얻으려는 순간에만 우호적인 태도를 보인다. [[좋을 때만 곁에 있는 친구]]은 적이 아니라 친구에게 조건부 호의를 보이는 짝 개념이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "평소 적대하던 사람이 자기에게 도움이 필요할 때만 친절하게 다가오는 관계다. 화해한 듯한 모습과 실제 이익 추구가 다르며, [[좋을 때만 곁에 있는 친구]]처럼 상황에 따라 달라지는 호의가 적 사이에 나타난다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "보호자가 없을 때 드러나는 불화",
   "original": "Chaos While They're Not Looking",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "공통으로 아끼는 인물이 자리를 비우면 두 사람이 즉시 다투고, 그가 돌아오면 아무 일 없었던 척하는 관계 패턴.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람이 함께 아끼거나 의식하는 인물이 있을 때는 사이좋은 척하다가 그가 사라지면 다투는 관계다. 돌아오자마자 태도를 바꾸는 모습이 숨겨 둔 불화를 보여 준다. 중재자가 갈등을 해결한 것과 달리, 그 사람 앞에서만 문제를 숨기는 상태가 반복된다.",
     "review_status": "reviewed",

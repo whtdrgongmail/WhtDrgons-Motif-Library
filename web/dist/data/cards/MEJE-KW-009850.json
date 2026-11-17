@@ -4,8 +4,8 @@
   "title": "친구 가족과 함께하는 만찬",
   "original": "Feast with the Friend's Family",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "인물이 친구의 가족 식탁에 초대받아 그 집안과 가까워지거나 낯선 관계의 긴장을 겪는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인물이 친구 집의 식사 자리에 초대받아 그 가족과 시간을 보내는 장면이다. 친구 한 명과의 친밀함이 집안 전체로 넓어지며, 낯선 식사 예절과 가족의 질문을 통해 환영받는 느낌이나 외부인으로서의 긴장이 드러날 수 있다.",
     "review_status": "reviewed",

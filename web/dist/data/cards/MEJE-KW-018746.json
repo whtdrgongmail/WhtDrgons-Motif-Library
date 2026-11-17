@@ -4,8 +4,8 @@
   "title": "팀원 선정에서 마지막까지 남기",
   "original": "Picked Last",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "집단의 편을 고르는 과정에서 특정 인물이 마지막까지 선택되지 않아 낮은 인기나 배제를 드러낸다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실력 평가와 따돌림의 의도는 작품의 맥락에서 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 사람은 다 뽑혔는데 혼자 마지막에 남는다.",
     "review_status": "reviewed",

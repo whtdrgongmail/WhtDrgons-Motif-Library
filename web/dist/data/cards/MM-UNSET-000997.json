@@ -4,8 +4,8 @@
   "title": "부조리극",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MM-UNSET-000997",
+  "primary_tag_id": "MM-UNSET-000997",
   "description": {
     "definition": "부조리극은 목적에 닿지 못하는 행동, 어긋나는 대화와 반복되는 상황 등을 통해 삶의 의미와 소통의 불확실성을 드러내는 연극의 경향이다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-11",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.111.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {

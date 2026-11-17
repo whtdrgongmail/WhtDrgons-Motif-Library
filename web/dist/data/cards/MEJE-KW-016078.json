@@ -4,8 +4,8 @@
   "title": "빌린 물건을 돌려주려 찾아가기",
   "original": "Returning the Handkerchief",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "다른 사람이 빌려준 물건을 돌려주겠다는 의지가 재접촉과 관계 진전의 동기가 되는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "물건 반환이 사건이나 관계에 의미 없는 일상 절차인 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "작은 소지품을 돌려주기 위해 상대를 다시 찾는다.",
     "review_status": "reviewed",

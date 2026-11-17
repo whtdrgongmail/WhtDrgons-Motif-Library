@@ -6,8 +6,8 @@
   "aliases": [
     "잃은 소중한 이를 대신할 존재"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "죽거나 떠난 인물이 차지하던 자리를 다른 인물로 대체하여 상실을 메우려는 관계 구도다.",
     "detail": "",
@@ -15,14 +15,20 @@
     "boundary": "연애 외의 관계도 포함하며 닮은 외모는 흔하지만 필수는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "잃은 사람과 비슷한 다른 이를 새 관계의 대상으로 삼는다.",
     "review_status": "reviewed",

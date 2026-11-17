@@ -5,8 +5,8 @@
   "original": "Lover Sets Limits on a Criminal Behavior",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "범죄자와 가까워진 연인이 해칠 대상과 행동의 한계를 요구하여 그 인물이 이전처럼 아무에게나 범행하지 못하게 만드는 관계 변화다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "연애만으로 모든 과거 행위가 용서되거나 자동으로 교화된다는 뜻은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께하려면 더는 예전처럼 사람을 해치지 말라는 요구가 생긴다.",
     "review_status": "reviewed",

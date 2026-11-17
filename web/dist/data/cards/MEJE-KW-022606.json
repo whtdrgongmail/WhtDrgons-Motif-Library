@@ -4,8 +4,8 @@
   "title": "가상 인격을 사랑하는 관계",
   "original": "Kiss Me, I'm Virtual",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02656",
+  "primary_tag_id": "ML-T02656",
   "description": {
     "definition": "인간이 모의 인격·복제된 성격·조종되는 대리 존재 등과 사랑에 빠지며, 상대에게 독립적인 마음과 선택이 있는지가 관계의 핵심 질문이 된다.",
     "detail": "상대의 정체를 알고 사랑하는 경우와 모르고 사랑하는 경우가 갈린다. 실제 인물을 바탕으로 만든 인격이면 원본 인물이 관계를 알게 되는 사건도 생긴다.\n\n작품 사례: 《[[Alien in a Small Town]]》에서 알렉세이가 연인으로 삼으려고 만든 [[로봇]] 킴을 택하자, 인디라는 킴에게 자유의지가 있는지를 문제 삼는다. 인간과 로봇의 사랑 자체보다 상대를 스스로 선택하는 존재로 대하는지가 [[갈등]]의 중심이다.",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.026",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사랑하는 상대가 스스로 생각하고 선택하는 존재인지 묻게 된다.",
     "review_status": "reviewed",

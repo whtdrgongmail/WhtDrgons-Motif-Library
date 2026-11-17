@@ -4,8 +4,8 @@
   "title": "성적 보상을 복종의 대가로 제시하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "지도자가 성적 친밀감이나 호의를 명령 수행의 보상으로 제시하여 부하의 행동을 유도하는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상호 합의한 친밀한 관계 전체를 통제 수단으로 일반화하지 않는다. 작품에서 보상과 복종이 실제로 연결되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "성적인 보상을 얻으려고 명령에 협력한다.",
     "review_status": "reviewed",

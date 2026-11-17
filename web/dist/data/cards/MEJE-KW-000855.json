@@ -4,8 +4,8 @@
   "title": "사랑을 증명하는 행동",
   "original": "Act of True Love",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "소중한 사람의 안녕을 위해 자신의 시간·안전·기회를 기꺼이 내놓아 애정을 행동으로 보이는 순간. 연애뿐 아니라 가족과 친구 사이에서도 나타나며, 상대가 원하는 것을 존중하는지가 희생의 의미를 바꾼다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "말로 좋아한다고 하는 데 그치지 않고 상대의 필요를 위해 시간이나 기회를 실제로 사용하는 장면이다. 위험을 함께 감당하거나 중요한 약속을 지키는 행동이 애정을 보인다. 상대가 원하지 않는 희생을 강요하는 경우까지 사랑의 증거로 보지는 않는다.",
     "review_status": "reviewed",

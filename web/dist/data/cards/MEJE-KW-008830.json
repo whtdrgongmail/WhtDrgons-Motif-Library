@@ -4,8 +4,8 @@
   "title": "선정적 충격을 앞세운 유럽 예술영화",
   "original": "Euroshlock",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "MEJE-KW-008830",
+  "primary_tag_id": "MEJE-KW-008830",
   "description": {
     "definition": "성적 표현이나 불편한 폭력으로 관객에게 충격을 주는 유럽 예술영화의 한 갈래를 가리키는 비평적 분류다.",
     "detail": "",
@@ -13,18 +13,21 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.410",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {

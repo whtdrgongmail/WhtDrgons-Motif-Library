@@ -5,8 +5,8 @@
   "original": "The Undead Can Fall in Love",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02656",
+  "primary_tag_id": "ML-T02656",
   "description": {
     "definition": "언데드 상태의 인물이 사랑을 느끼거나 연애 관계를 형성하는 설정이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "대장 MEJE-KW-002318의 매력적인 [[좀비]] 외형과 다르며 아름다운 모습은 현재 설명의 필수 조건이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.026",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "살아 있는 몸이 아니어도 사랑의 상대가 될 수 있다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "우편배달부를 적대하는 개",
   "original": "Mailman vs. Dog",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "개가 우편배달부의 접근을 반복적으로 적대하여 쫓거나 공격하는 희극적 관계 관습이다.",
     "detail": "작품 사례: 《[[심슨 가족]]》의 「Old Yeller Belly」에서 산타의 작은 도우미는 영화에서 본 인물과 닮은 콧수염을 이유로 우편배달부를 공격한다.",
@@ -13,14 +13,20 @@
     "boundary": "모든 개의 실제 행동을 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "배달부만 오면 개가 원수라도 만난 듯 반응한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "합리적인 계획을 내도 무시당하는 두뇌 담당",
   "original": "Steamrolled Smart Guy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "논리적이고 실행 가능한 해법을 내놓을 수 있는 인물이 집단에서 의견을 듣지 않아 영향력을 발휘하지 못하는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "계획이 부실해서 채택되지 않는 것과 구별한다. 유용한 판단과 집단의 수용 사이의 단절이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋은 생각을 말해도 다른 사람들이 밀어붙여 그 지성이 실제 행동으로 이어지지 않는다.",
     "review_status": "reviewed",

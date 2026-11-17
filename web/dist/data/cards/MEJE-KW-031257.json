@@ -4,8 +4,8 @@
   "title": "침울한 악역 곁의 발랄한 여성 부하",
   "original": "Perky Female Minion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "어둡거나 엄숙한 악역을 활기차고 명랑한 여성 부하와 짝지어 분위기와 성격을 대비시키는 인물 조합이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상관이 위협적으로 명령하는 옆에서 부하는 밝은 말투와 장난스러운 태도로 대답하는 경우다.",
     "review_status": "reviewed",

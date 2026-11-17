@@ -5,8 +5,8 @@
   "original": "Security Screening Keeps a Child from Friends",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "위험으로부터 아이를 보호하려는 경호·이동 제한·친구 심사가 일상적인 또래 교류까지 차단하는 관계 장벽이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "애정이 부족한 경우와 달리 보호 조치 자체가 고립을 낳는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "나쁜 사람을 막는 보호막이 친구도 못 들어오게 한다.",
     "review_status": "reviewed",

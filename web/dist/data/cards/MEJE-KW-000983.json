@@ -4,8 +4,8 @@
   "title": "동경하는 사람의 버릇 따라 하기",
   "original": "Admiration-Based Mimicry",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02662",
+  "primary_tag_id": "ML-T02662",
   "description": {
     "definition": "인물이 존경하거나 동경하는 사람의 말투와 몸짓을 닮아 가는 모습. 관계의 깊이를 보여 주거나 영향을 받은 사람의 정체를 뒤늦게 드러내는 단서가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하거나 존경하는 사람의 말투와 동작을 따라 하며 그 영향을 드러내는 모습이다. 주변 사람이 닮은 버릇을 보고 두 사람의 인연을 알아차릴 수도 있다. 처음에는 모방이었어도 성장하면서 자기 방식으로 바꾸는 과정이 관계 변화를 보여 준다.",
     "review_status": "reviewed",

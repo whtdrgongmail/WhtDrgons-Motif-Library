@@ -4,8 +4,8 @@
   "title": "마지막 순간을 함께해 주기",
   "original": "Comfort the Dying",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "죽음을 앞둔 사람 곁에 다른 인물이 머물며 두려움과 [[외로움]]을 덜어 준다. 문제를 해결할 수 없어도 함께 있는 시간이 돌봄이 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "죽음을 막을 수 없는 상황에서 누군가 곁에 머물며 마지막 시간을 함께하는 돌봄이다. 해결책을 주지 못해도 두려움과 [[외로움]]을 나눌 수 있으며, 남은 말과 손길이 죽어 가는 사람과 살아남는 사람 모두에게 관계의 기억이 된다.",
     "review_status": "reviewed",

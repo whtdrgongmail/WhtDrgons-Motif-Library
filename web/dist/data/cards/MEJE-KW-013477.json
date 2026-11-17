@@ -4,8 +4,8 @@
   "title": "팔뚝을 맞잡는 인사",
   "original": "Forearm Clasp",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "손바닥 대신 서로의 팔뚝을 잡아 존중과 동등함을 표시하는 인사 몸짓이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상대를 끌거나 제압하려는 팔 잡기와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "[[전사]]나 기사들이 악수 대신 팔을 맞잡으며 신뢰를 보인다.",
     "review_status": "reviewed",

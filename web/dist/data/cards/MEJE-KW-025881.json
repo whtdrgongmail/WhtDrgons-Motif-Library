@@ -5,8 +5,8 @@
   "original": "The Lover Who Never Appears",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "다른 인물의 연애 감정과 행동을 움직이지만 작품에 실제로 모습을 드러내지 않는 사랑의 대상이다.",
     "detail": "작품 사례: 《[[요정 여왕]]》의 글로리아나는 사랑과 행동을 움직이는 대상이지만 작품에 직접 등장하지 않는 사례로 제시된다.",
@@ -14,14 +14,20 @@
     "boundary": "늦게 등장하거나 회상에서 직접 보여 주는 대상과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누군가를 사랑한다는 이야기는 이어지는데 정작 그 사람은 나오지 않는다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "인간형 모습을 가진 상대와의 종간 연애",
   "original": "What Measure Is a Humanoid?",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02656",
+  "primary_tag_id": "ML-T02656",
   "description": {
     "definition": "서로 다른 종의 연애에서 적어도 한쪽이 인간과 닮은 형태를 지녀 외형과 종의 차이가 함께 관계에 작용한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "외형이 같다고 종과 경험의 차이가 사라지는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.026",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "종은 달라도 인간처럼 보이는 모습으로 사랑한다.",
     "review_status": "reviewed",

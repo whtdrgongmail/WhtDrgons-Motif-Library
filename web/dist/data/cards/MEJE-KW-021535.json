@@ -4,8 +4,8 @@
   "title": "신체 접촉을 친밀함의 표시로 삼기",
   "original": "Skinship Grope",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "서로의 몸을 가까이 만지는 접촉을 성적 관계와 구별되는 친밀감의 표현으로 제시하는 관습이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "친밀하다는 명분이 동의를 대신하지 않는다. 원치 않는 접촉이나 모든 성적 접촉을 같은 뜻으로 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가까운 사이라는 뜻을 말보다 몸의 접촉으로 드러낸다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "너무 매력적이라 다가가기 어려운 사람",
   "original": "Attractiveness Isolation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02645",
+  "primary_tag_id": "ML-T02645",
   "description": {
     "definition": "주변 사람들이 거절당할 것이라 지레짐작해 인물에게 접근하지 않는다. 겉으로는 인기가 많아 보이지만 정작 친밀한 관계를 맺기 어려운 역설이 생긴다. 주변의 외모 평가가 관계를 가로막는다는 점에서 [[외모에 따른 차별]]과 연결된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "외모가 뛰어나 누구나 좋아할 것처럼 보이지만 정작 사람들은 거절이 두려워 말을 걸지 않는 상황이다. 그래서 당사자는 인기가 많다는 평가와 달리 외로울 수 있다. 타인의 외모 평가가 관계를 제한한다는 점에서 [[외모에 따른 차별]]과 연결해 이해할 수 있다.",
     "review_status": "reviewed",

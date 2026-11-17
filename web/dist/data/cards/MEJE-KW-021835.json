@@ -4,8 +4,8 @@
   "title": "받아들여지지 않는 사과",
   "original": "Rejected Apology",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02668",
+  "primary_tag_id": "ML-T02668",
   "description": {
     "definition": "한 인물이 용서나 관계 회복을 구하는 사과를 하지만 상대가 그것을 받아들이지 않는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "사과가 진실한지 여부와 별개로 거절이 핵심이며 침묵만으로 수용 여부를 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.038",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "미안하다고 말해도 상대는 사과를 받아 줄 수 없다고 한다.",
     "review_status": "reviewed",

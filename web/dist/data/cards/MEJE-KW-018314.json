@@ -6,8 +6,8 @@
   "aliases": [
     "매혹을 위한 외형 변신"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02669",
+  "primary_tag_id": "ML-T02669",
   "description": {
     "definition": "환영이나 변신으로 상대에게 더 매력적인 외형을 취해 유혹하는 인물 또는 행동이다.",
     "detail": "외형 변화가 단순한 은신이 아니라 친밀감과 매력의 조작에 쓰인다.",
@@ -15,14 +15,20 @@
     "boundary": "유혹 목적 없이 정체를 숨기는 변장과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.039",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 좋아할 모습으로 바꾸어 마음을 끈다.",
     "review_status": "reviewed",

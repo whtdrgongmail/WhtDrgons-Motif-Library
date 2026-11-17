@@ -4,8 +4,8 @@
   "title": "다른 성격에 끌리는 연인",
   "original": "Opposites Attract",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "성격이 서로 다른 두 사람이 그 차이에도 불구하고 또는 바로 그 차이 때문에 서로에게 끌리는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "주변이 어울리지 않는다고 평가한다는 사실보다 당사자의 차이와 끌림이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "닮지 않았는데도 서로의 다른 면이 매력이 된다.",
     "review_status": "reviewed",

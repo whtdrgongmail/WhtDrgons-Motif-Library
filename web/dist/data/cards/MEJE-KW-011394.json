@@ -4,8 +4,8 @@
   "title": "가장 아끼는 물건을 내어주기",
   "original": "Prized Possession Giveaway",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "자신에게 특별히 소중한 물건을 다른 사람을 위해 포기하고 선물하는 [[행동]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "남는 물건을 정리하는 증여와 달리 주는 사람에게 실제 애착과 포기가 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "늘 간직하던 보물을 상대에게 넘기며 마음을 표현한다.",
     "review_status": "reviewed",

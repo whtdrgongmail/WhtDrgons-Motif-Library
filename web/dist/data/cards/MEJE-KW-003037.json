@@ -4,8 +4,8 @@
   "title": "주연 연애를 비추는 다른 커플",
   "original": "Beta Couple",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "이야기의 중심 연인 곁에 다른 방식으로 관계를 이어 가는 커플을 둔다. 두 관계를 비교하면서 주연의 선택을 더 잘 보게 된다. [[서로 다른 성격의 두 연애 후보]]의 선택을 비추는 다른 관계가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "주연 커플 옆에 다른 커플을 배치해 갈등 해결이나 애정 표현의 차이를 비교하게 하는 구성이다. 비슷한 상황에서 다른 선택을 하는 모습이 중심 연인의 문제를 이해하게 한다. 보조 커플이 주연을 설명하기만 하는 대신 자기 관계의 이유와 변화도 가질 수 있다.",
     "review_status": "reviewed",

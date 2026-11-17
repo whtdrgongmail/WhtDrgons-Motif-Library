@@ -4,8 +4,8 @@
   "title": "반려동물과 떠돌이의 대립",
   "original": "Pets Versus Strays",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "사람에게 돌봄받는 동물과 자유롭게 떠도는 동물이 서로의 생활을 멸시하거나 경쟁하는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "집에서 사는 동물은 떠돌이를 무례하다고 하고 떠돌이는 집동물을 자유 없는 존재라 비웃는다.",
     "review_status": "reviewed",

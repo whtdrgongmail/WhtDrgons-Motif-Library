@@ -4,8 +4,8 @@
   "title": "음식을 친구로 여기거나 집착하기",
   "original": "Companion Food",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "한 조각의 음식에 친구 같은 애정을 느끼거나 과도하게 집착하는 인물의 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "오래 보관하거나 먹지 않아야 한다는 기존 대장의 조건은 현재 정의에 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "먹을 것이 특별한 관계의 대상이 된다.",
     "review_status": "reviewed",

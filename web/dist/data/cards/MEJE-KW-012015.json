@@ -4,8 +4,8 @@
   "title": "고스 취향의 상대에게 끌림",
   "original": "Goes for Goths",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "고스·이모·펑크 등 대안적 문화의 외모와 태도를 매력으로 느끼는 [[연애]] 취향을 [[인물]]의 특징으로 삼는 표현이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "특정 문화를 실제 성적 성향이나 [[성격]]과 동일시하지 않으며 작품의 취향 묘사를 설명한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "주류 유행보다 검은 옷과 독특한 분위기의 상대를 좋아하는 인물이다.",
     "review_status": "reviewed",

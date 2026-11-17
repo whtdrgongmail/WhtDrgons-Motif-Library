@@ -4,8 +4,8 @@
   "title": "적이나 방관자의 영웅에 대한 연민",
   "original": "Sympathy for the Hero",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "[[영웅]]의 편이 아닌 [[인물]]이 영웅의 고통과 처지를 보고 순간적으로 동정과 안타까움을 드러내는 [[장면]]이다.",
     "detail": "현재 항목은 특히 악역이 영웅이 겪은 일을 알고 연민을 느끼는 방향이다.",
@@ -13,14 +13,20 @@
     "boundary": "완전한 개심이나 동맹 체결과 달리 일시적인 연민만으로도 성립한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 4,
+  "updated_at": "2026-11-17",
+  "row_version": 5,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "적도 영웅이 겪는 고통만큼은 외면하지 못한다.",
     "review_status": "reviewed",

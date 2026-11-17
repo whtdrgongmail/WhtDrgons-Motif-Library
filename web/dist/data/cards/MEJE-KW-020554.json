@@ -4,8 +4,8 @@
   "title": "고정관념대로 행동한다고 같은 집단 사람을 비난하기",
   "original": "Stop Being Stereotypical",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "같은 집단의 구성원이 집단에 흔히 붙는 이미지를 드러낸다고 다른 구성원이 못마땅해하고 공격하는 [[갈등]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제 가해 행동에 책임을 묻는 것과 구별한다. 집단 이미지와 개인 행동의 연결을 문제 삼아야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "동료의 행동이 외부의 편견을 확인해 줄까 봐 그 동료에게 집단답게 굴지 말라고 압박한다.",
     "review_status": "reviewed",

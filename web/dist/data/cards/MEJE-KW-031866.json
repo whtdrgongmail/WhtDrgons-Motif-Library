@@ -4,8 +4,8 @@
   "title": "발음하기 쉽다는 이유로 남의 이름을 임의로 바꾸기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "상대의 실제 이름을 배우는 대신 자신이 부르기 편한 이름을 일방적으로 붙여 이름을 둘러싼 존중과 권력의 [[갈등]]을 만드는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "본인은 원래 이름을 원하는데 상대가 편하다는 이유로 다른 이름을 부른다.",
     "review_status": "reviewed",

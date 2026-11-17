@@ -4,8 +4,8 @@
   "title": "남다름을 멋지게 보는 친구",
   "original": "Freaky Is Cool",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "스스로 이상하다고 여긴 인물이 다른 사람에게서는 바로 그 차이 때문에 호감과 우정을 얻는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "본인이 이상하다고 부끄러워한 특성을 다른 사람이 오히려 매력과 장점으로 받아들이는 장면이다. 모두에게 맞추기 위해 감추던 차이가 관계를 만드는 이유로 바뀌며, 자신을 바라보는 기준과 주변의 따뜻한 반응이 대비된다.",
     "review_status": "reviewed",

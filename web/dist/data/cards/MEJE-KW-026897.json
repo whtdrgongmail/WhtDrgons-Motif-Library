@@ -4,8 +4,8 @@
   "title": "추워하는 연애 상대에게 담요를 덮어 주기",
   "original": "Comforting Comforter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "추위를 느끼는 연애 상대를 담요로 감싸 주는 돌봄을 통해 두 사람의 애정과 가까움을 드러내는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-005413은 잠든 상대에게 이불을 덮는 장면이다. 현재는 잠이 아니라 추위와 연애적 접촉이 조건이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "따뜻하게 해 주려는 작은 행동이 마음의 표현이 된다.",
     "review_status": "reviewed",

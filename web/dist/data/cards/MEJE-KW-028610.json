@@ -4,8 +4,8 @@
   "title": "닮은 점과 다른 점을 함께 부각하는 인물 쌍",
   "original": "Mirror Foils",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "두 인물이 중요한 특성을 공유하면서도 핵심 선택이나 가치에서 달라 유사성과 대비가 동시에 서로를 설명하는 관계다.",
     "detail": "작품 사례: 《[[스파이더맨(만화)]]》에서 비슷한 과학자의 배경과 사고를 겪은 피터와 오토가 각각 영웅과 범죄자의 길을 택하는 대비가 이 관계를 보여 준다.",
@@ -13,14 +13,20 @@
     "boundary": "아무 공통점 없이 정반대인 인물 조합과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "비슷한 사람이 다른 결정을 내려 차이가 더 또렷해진다.",
     "review_status": "reviewed",

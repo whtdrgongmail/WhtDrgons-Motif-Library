@@ -4,8 +4,8 @@
   "title": "소나기를 피해 함께 머무는 연인 후보",
   "original": "Caught in the Rain",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "두 인물이 갑작스런 비를 피해 좁은 장소에서 시간을 보낸다. 함께 기다리는 동안 말하지 못한 감정이 드러난다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "갑자기 내린 비 때문에 두 사람이 처마나 좁은 대피 장소에 함께 머무는 장면이다. 예정에 없던 기다림이 대화와 감정을 표현할 시간을 만든다. 가까이 있다는 상황이 연애 가능성을 강조하지만 비를 피하려 함께 있었다는 사실만으로 접촉에 동의한 것은 아니다.",
     "review_status": "reviewed",

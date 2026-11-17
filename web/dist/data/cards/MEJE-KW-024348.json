@@ -5,8 +5,8 @@
   "original": "The Friend Who Never Grew Up",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02671",
+  "primary_tag_id": "ML-T02671",
   "description": {
     "definition": "옛 친구가 여전히 과격하게 놀지만 다른 사람들은 생활과 가치관이 달라져 그와 거리감을 느낀다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "나이 자체보다 관계 속 행동 기준의 변화가 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.041",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "예전에는 함께 놀았지만 이제는 한 사람만 그대로다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "예의를 지키며 주인을 꾸짖는 충신",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "충직한 고용인이나 가신이 주인이 전통과 도덕적 기준을 어기면 격식을 유지하면서도 단호하게 비판한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "모욕이나 권력 탈취가 목적이 아니며 관계를 버리지 않은 채 책임을 묻는 태도가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "끝까지 존댓말을 쓰지만 주인에게 그 행동은 잘못이라고 분명하게 말한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "까칠한 지성인과 다정한 둔한 인물의 짝",
   "original": "Smart Jerk and Nice Moron",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "영리하지만 대하기 어려운 인물과 판단은 둔해도 친절한 인물을 한 쌍으로 배치해 능력과 인간미를 대비하는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "단지 지능 차이가 있는 두 사람과 구별한다. 태도와 친화력의 반대되는 성격도 짝을 이루어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한쪽은 답을 잘 찾지만 사람을 불편하게 하고 다른 쪽은 실수하면서도 관계를 부드럽게 만든다.",
     "review_status": "reviewed",

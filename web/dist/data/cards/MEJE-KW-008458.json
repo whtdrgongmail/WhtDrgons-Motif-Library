@@ -4,8 +4,8 @@
   "title": "상류층 남성과 기생의 사랑",
   "original": "Elite Man–Courtesan Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "상류층 남성과 기생 또는 성노동에 종사하는 여성의 [[로맨스]]를 신분 차이와 사회적 시선 속에서 그리는 관습. 인물의 관계를 직업만으로 환원하지 않는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상류층 남성과 기생이나 성노동을 하는 여성의 [[로맨스]]를 신분과 사회적 시선 속에서 그리는 관습이다. 직업만으로 인물의 감정과 삶이 설명되는 것은 아니며, 서로를 향한 마음과 관계를 제한하는 제도의 차이가 갈등을 만든다.",
     "review_status": "reviewed",

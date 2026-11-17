@@ -4,8 +4,8 @@
   "title": "선대의 수준에 미치지 못하는 후계자",
   "original": "Inadequate Inheritor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02673",
+  "primary_tag_id": "ML-T02673",
   "description": {
     "definition": "이전 인물이 남긴 능력이나 성과의 기준을 이어받은 사람이 그 수준을 충족하지 못하는 계승 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상속을 앞두고 신뢰받지 못하는 경우보다 실제 후임의 성과 비교에 초점이 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.043",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "자리를 물려받았지만 전임자만큼 해내지 못한다.",
     "review_status": "reviewed",

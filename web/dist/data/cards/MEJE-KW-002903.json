@@ -4,8 +4,8 @@
   "title": "연인을 얻으려 성적 이미지로 바뀌기",
   "original": "Be a Whore to Get Your Man",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02669",
+  "primary_tag_id": "ML-T02669",
   "description": {
     "definition": "상대의 관심을 얻으려고 옷차림과 태도를 갑자기 성적으로 바꾼다. 원하는 변화인지 주변의 압력인지에 따라 인물의 선택권이 달라진다. 겉모습을 바꾸는 [[꾸밈을 바꾸자 뒤늦게 아름답다고 알아보기]]에 연애의 압력이 더해진 경우다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.039",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하는 사람에게 주목받으려고 옷차림과 행동을 갑자기 성적으로 바꾸는 전개다. 스스로 원하는 표현일 수도 있지만 원래 모습으로는 사랑받지 못한다는 압력 때문일 수도 있다. 바뀐 외형보다 당사자의 의사와 상대가 그것을 대하는 태도가 관계의 의미를 정한다.",
     "review_status": "reviewed",

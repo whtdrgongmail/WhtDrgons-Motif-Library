@@ -4,8 +4,8 @@
   "title": "가까운 사람에게는 평범한 영웅",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "많은 이에게 칭송받는 영웅을 일부 가까운 사람이 특별한 존재보다 일상의 평범한 사람으로 대하는 관계 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "반드시 인격의 결함을 알거나 존경을 잃어야 하는 것은 아니며 공개적 비난과도 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "세상은 전설이라 부르지만 함께 지낸 친구에게는 여전히 익숙한 그 사람이다.",
     "review_status": "reviewed",

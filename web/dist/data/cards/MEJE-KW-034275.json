@@ -4,8 +4,8 @@
   "title": "공포를 유발하는 기억을 피해 주변이 행동을 조정하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "인물에게 특정 기억이나 상황이 강한 공포를 불러온다는 사실을 알게 된 주변 사람들이 그 말을 피하고 다른 사람에게도 알려 주는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "현실의 권장 치료나 회피 전략을 제시하는 것이 아니라 작품 속 행동을 기술한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 힘들어하는 지점을 알고 조심한다.",
     "review_status": "reviewed",

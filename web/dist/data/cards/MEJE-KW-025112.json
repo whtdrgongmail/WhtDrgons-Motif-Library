@@ -4,8 +4,8 @@
   "title": "이루지 못한 사랑이 그 후손에게 향하기",
   "original": "Love Father, Love Son",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "사랑했던 상대와 맺어지지 못한 인물이 그 자녀나 후손에게 마음이 향하거나, 그 후손이 선조를 사랑한 인물에게 끌리는 관계 구도다.",
     "detail": "긴 수명이나 [[시간 이동]]이 세대 차이를 만들 수도 있다. 후손을 이전 사랑의 대체물로 취급하는지, 새로운 관계를 맺는지 구분한다.\n\n작품 사례: 《[[강철의 연금술사(2003년 애니메이션)]]》의 단테는 로제의 몸을 차지해 에드워드의 마음을 얻고, 그를 과거의 연인 호엔하임 대신으로 삼으려 한다. 후손을 이전 사랑의 대체물로 보는 위협적인 변형이다.",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "부모에게 이루지 못한 마음이 다음 세대의 인물과 얽힌다.",
     "review_status": "reviewed",

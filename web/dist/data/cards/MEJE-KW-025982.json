@@ -4,8 +4,8 @@
   "title": "마음을 받아들일 준비가 될 때까지 기다리겠다는 고백",
   "original": "IWillWaitForYou",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02533",
+  "primary_tag_id": "ML-T02533",
   "description": {
     "definition": "고백한 사람이 상대가 사랑을 받아들일 준비가 될 때까지 마음을 간직하고 기다리겠다고 약속하는 관계 장치다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "004:4130·005:2877의 떠난 사람의 귀환 기다리기와 달리 상대가 같은 감정을 가질 준비를 기다린다. 약속이 상대에게 응답의 의무를 만들지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.010",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "지금은 답할 수 없어도 기다리겠다고 말한다.",
     "review_status": "reviewed",

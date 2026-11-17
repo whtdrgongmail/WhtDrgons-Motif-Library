@@ -4,8 +4,8 @@
   "title": "연애보다 친구를 우선하라는 규칙",
   "original": "Bros Before Hoes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "인물이 연인과 친구 사이의 약속이 겹칠 때 친구를 무조건 먼저 두려 한다. 관계마다 필요한 책임을 단순한 서열로 정할 수 있는지 묻게 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "친구와 연인의 요구가 겹칠 때 언제나 친구를 먼저 선택해야 한다는 규칙을 따르는 상황이다. 우정을 지키려는 의도와 현재 필요한 책임이 충돌할 수 있다. 관계의 종류만으로 순위를 매기기보다 각 약속과 사정, 당사자의 의사를 어떻게 조정하는지가 중요하다.",
     "review_status": "reviewed",

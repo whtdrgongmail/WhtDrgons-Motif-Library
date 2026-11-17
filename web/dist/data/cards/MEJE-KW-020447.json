@@ -5,8 +5,8 @@
   "original": "Favorite-Food Incentive",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "상대가 강하게 좋아하는 음식을 보상이나 미끼로 제시하여 원하는 행동을 이끌어 내는 관계 장치다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "음식을 단순히 선물하거나 함께 먹는 장면과 구별한다. 음식에 대한 선호가 행동을 유도해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 부탁은 거절하던 인물이 좋아하는 먹거리를 받는 조건에는 움직이면서 취향이 협상의 약점이 된다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "전투하는 여자친구",
   "original": "Action Girlfriend",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "평범한 인물의 연인이지만 위험한 사건에서는 오히려 앞장서서 대응하는 여성 [[캐릭터]]와 그 관계 구도. 연인을 통해 사건 세계에 들어가는 시점 인물과 실제로 사건을 움직이는 인물 사이에 중심이 나뉠 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "연인이 위험에서 구해 주기를 기다리는 역할보다 직접 싸워 사건을 해결하는 여성 [[캐릭터]]를 배치한 관계다. 평범한 상대는 그녀를 통해 낯선 사건에 참여하게 된다. 두 사람의 전투 능력 차이가 있어도 연애에서의 선택권까지 정해지지는 않는다.",
     "review_status": "reviewed",

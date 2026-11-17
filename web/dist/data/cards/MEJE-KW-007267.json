@@ -4,8 +4,8 @@
   "title": "초월적 존재와 맺는 연애",
   "original": "Did You Just Romance Cthulhu?",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02656",
+  "primary_tag_id": "ML-T02656",
   "description": {
     "definition": "인간과 거대한 초자연적 존재 사이에 사랑이나 친밀한 관계가 형성된다. 공포의 대상이 감정적 관계의 상대가 되는 반전이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.026",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인간과 압도적인 초자연적 존재가 서로에게 사랑을 느끼는 관계다. 두려워하고 피해야 할 대상이 친밀한 상대가 되는 반전이 있으며, 큰 힘의 차이 속에서도 인간의 선택과 감정이 존중되는지가 관계의 중요한 조건이 된다.",
     "review_status": "reviewed",

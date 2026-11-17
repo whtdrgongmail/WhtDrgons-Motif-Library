@@ -4,8 +4,8 @@
   "title": "비밀스러운 모험 생활 때문에 연애가 어려워지기",
   "original": "The Masquerade Will Kill Your Dating Life",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "감춰야 하는 모험이나 비범한 활동에 참여하는 생활이 평범한 연애의 시간·신뢰·소통을 방해한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "단순히 일이 바쁜 경우보다 삶의 비밀을 숨겨야 하는 조건이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "비밀 임무와 데이트를 함께 지키기 어렵다.",
     "review_status": "reviewed",

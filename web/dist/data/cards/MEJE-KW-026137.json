@@ -4,8 +4,8 @@
   "title": "서로의 귀여운 면을 끌어내는 짝",
   "original": "Moe Couplet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "두 인물이 함께 있을 때 서로의 사랑스럽고 귀여운 특징이 더욱 드러나도록 관계를 구성한다.",
     "detail": "작품 사례: 《[[블리치(만화)]]》의 켄파치와 야치루는 단독으로는 위협적인 인물과 귀여운 인물이지만 함께 있을 때의 상호작용이 켄파치의 사랑스러운 면을 드러낸다.",
@@ -13,14 +13,20 @@
     "boundary": "실제로 연인 관계여야 하는 것은 아니며 관계가 만드는 표현 효과를 본다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "둘이 함께 있으면 서로를 더 귀엽게 만든다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "대가로 제안되는 연애 관계",
   "original": "Relationship as a Bribe",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "어떤 부탁이나 이익을 제공하는 대가로 특정 인물과의 연애 관계를 약속하거나 제안하는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "자발적인 구애나 관계 안의 상호 도움과 달리 관계 자체가 보상으로 취급된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "일을 해 주면 그 사람과 사귈 수 있게 해 주겠다는 거래가 나온다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "여성성 표현이 다른 세 여성",
   "original": "Town Girls",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "여성 [[인물]] 셋에게 활동적인 성향, 전통적인 여성성, 어느 쪽에도 고정되지 않은 성향을 나누어 대비하는 조합이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "두 인물을 대비하는 조합과 달리 중간이나 제삼의 위치가 포함된다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "세 친구가 같은 상황에서 서로 다른 취향과 태도로 반응한다.",
     "review_status": "reviewed",

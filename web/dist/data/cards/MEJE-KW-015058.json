@@ -4,8 +4,8 @@
   "title": "혼자가 아니라는 위로",
   "original": "You Are Not Alone",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "고난 속의 인물에게 곁에 남아 함께하겠다는 뜻을 전해 고립감을 덜어 주는 관계 장치이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "문제를 직접 해결해야 하는 것은 아니며 동행과 지지의 확인이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "힘든 일이 있어도 내가 곁에 있겠다고 말한다.",
     "review_status": "reviewed",

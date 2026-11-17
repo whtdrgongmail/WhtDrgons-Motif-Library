@@ -4,8 +4,8 @@
   "title": "무릎을 베개로 내어 주는 친밀함",
   "original": "Lap Pillow",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "한 사람이 다른 사람의 무릎에 머리를 얹고 쉬거나 위로받는 자세로 신뢰와 돌봄을 표현하는 관계 장면이다.",
     "detail": "머리를 쓰다듬는 행동이 더해질 수 있다. 문화적 맥락에 따라 귀를 손질하는 돌봄이 같은 친밀함의 일부로 나타나기도 한다.\n\n작품 사례: 《[[원피스(만화)]]》에서 어인섬의 전투 뒤 움직이지 못하는 쵸파는 로빈의 무릎에 기대어 쉰다. 연인 관계가 아니어도 몸을 맡길 수 있는 신뢰와 동료의 돌봄을 보여 준다.",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "머리를 무릎에 맡길 만큼 편안하고 믿는 사이다.",
     "review_status": "reviewed",

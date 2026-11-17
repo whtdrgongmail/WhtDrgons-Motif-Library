@@ -4,8 +4,8 @@
   "title": "최근 공적만 따지는 감사",
   "original": "What Have You Done for Me Lately?",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "과거에 받은 도움은 무시하고 최근에 이익을 주지 않았다는 이유로 은인을 평가절하하는 태도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "과거 공로와 별개로 현재의 잘못을 비판하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "큰 도움을 받았어도 요즘 해 준 게 없다고 말한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "사과를 대신 전하는 선물",
   "original": "Apology Gift",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02668",
+  "primary_tag_id": "ML-T02668",
   "description": {
     "definition": "잘못을 저지른 사람이 물건을 건네며 화해의 뜻을 전한다. 선물의 크기보다 책임을 인정하는 말과 행동이 뒤따르는지가 관계를 바꾼다. 한 사람에게 보내는 선물과 여러 피해자를 찾아가는 [[상처 준 사람들을 찾아가 사과하기]]는 회복의 범위가 다르다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.038",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "잘못한 사람이 선물을 주며 화해하고 싶다는 뜻을 전달하는 장면이다. 물건은 대화의 계기가 될 수 있어도 피해를 인정하는 말과 행동을 대신하지 못한다. [[상처 준 사람들을 찾아가 사과하기]]처럼 직접 책임을 인정해야 선물이 단순한 무마로 끝나지 않는다.",
     "review_status": "reviewed",

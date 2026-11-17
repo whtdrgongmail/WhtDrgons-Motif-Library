@@ -4,8 +4,8 @@
   "title": "비인간적 외모를 아름답다고 인정받기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "눈에 띄는 비인간적 신체 특징을 지닌 인물이 그 특징을 아름답게 여기는 상대를 만나 수용과 친밀감을 경험하는 관계 장치다. 낯설다고 배척될 수 있는 부분이 애정의 이유가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "비인간적 외모를 주기만 하는 설정과 다르다. 그 특징을 긍정적으로 받아들이는 관계가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "자신에게 달린 날개나 낯선 신체를 두려워하지 않고 아름답다고 보는 사람이 생긴다.",
     "review_status": "reviewed",

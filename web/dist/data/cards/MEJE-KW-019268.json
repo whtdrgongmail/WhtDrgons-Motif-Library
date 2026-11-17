@@ -4,8 +4,8 @@
   "title": "로봇을 좋아한다고 이상하게 취급하기",
   "original": "Robosexuals Are Creeps",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "[[로봇]]에게 연애적·성적 매력을 느끼는 인물을 주변이 기괴하거나 부적절한 사람으로 낙인찍는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "기술자로서 기계에 애착을 느끼는 것과 구별하며 낙인은 주변의 평가다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "로봇을 좋아한다는 사실만으로 이상한 사람 취급을 받는다.",
     "review_status": "reviewed",

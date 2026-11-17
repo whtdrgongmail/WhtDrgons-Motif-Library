@@ -4,8 +4,8 @@
   "title": "실수한 접촉이 성적 의도로 오해받기",
   "original": "Accidental Pervert",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "우연한 충돌이나 잘못 들어간 장소 때문에 인물의 행동이 성적 접근으로 받아들여지는 장면. 행동의 의도와 상대가 겪은 상황 사이의 차이가 갈등을 만든다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "실수로 몸에 닿거나 사적인 장소에 들어간 행동이 성적 접근처럼 보이는 장면이다. 오해를 설명하는 과정에서도 상대가 느낀 불쾌함과 사생활 침해는 실제로 남을 수 있으며, 의도가 없었다는 이유로 그 영향을 무시하지 않는다.",
     "review_status": "reviewed",

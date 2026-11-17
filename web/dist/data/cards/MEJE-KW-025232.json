@@ -4,8 +4,8 @@
   "title": "종말 이후에도 함께하는 반려견",
   "original": "PostApocalypticDog",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "문명 붕괴 뒤의 생존 세계에서 인간에게 곁을 지키는 가장 가까운 동료로 개를 배치하는 관계 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "일반적인 충직한 개 동료에 종말 이후의 고립과 동행이라는 배경 조건이 더해진다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "세상이 무너져도 개 친구는 함께 남는다.",
     "review_status": "reviewed",

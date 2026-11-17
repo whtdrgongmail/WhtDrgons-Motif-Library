@@ -4,8 +4,8 @@
   "title": "똑똑해진 인물을 예전처럼 되돌리려는 주변",
   "original": "We Want Our Idiot Back!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "어수룩하던 인물이 높은 지능을 얻은 뒤 주변 사람들이 어떤 이유로든 이전 상태를 더 원해 되돌리려는 [[갈등]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "인물이 스스로 원래 상태로 돌아가려는 경우와 구별한다. 주변의 되돌리고 싶은 요구가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "능력 향상이 모두에게 환영받지 않아 변한 당사자와 익숙한 관계를 원하는 사람들 사이에 긴장이 생긴다.",
     "review_status": "reviewed",

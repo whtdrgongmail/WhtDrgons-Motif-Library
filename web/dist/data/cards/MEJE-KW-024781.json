@@ -5,8 +5,8 @@
   "original": "The Abuser Falls Apart after Losing the Victim",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "학대하던 상대가 죽은 뒤에야 자신이 그에게 의존했음을 깨닫고 가해자가 무너지는 전개이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "그 고통이 과거의 학대를 상쇄하거나 피해자에게 책임을 돌리는 것으로 설명하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "괴롭히던 사람이 영영 사라진 다음에야 빈자리를 감당하지 못한다.",
     "review_status": "reviewed",

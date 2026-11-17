@@ -4,8 +4,8 @@
   "title": "낮과 밤으로 대비되는 두 인물",
   "original": "Night and Day Duo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "한 인물은 낮이나 해에, 다른 인물은 밤이나 달에 연결하여 두 사람의 성격과 관계를 대비하는 구성이다.",
     "detail": "인물의 성격 대비뿐 아니라 낮과 밤의 힘 자체를 대립항으로 삼을 수 있다.",
@@ -13,14 +13,20 @@
     "boundary": "천체 장식이 우연히 다른 경우와 달리 짝의 대조 기능이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람은 밝은 낮을, 다른 사람은 고요한 밤을 떠올리게 한다.",
     "review_status": "reviewed",

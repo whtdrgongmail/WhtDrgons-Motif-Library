@@ -4,8 +4,8 @@
   "title": "결점에서 느끼는 매력",
   "original": "Sexy Flaw",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "상대의 신체적·행동적 불완전함이나 통상 결점으로 여겨지는 특성을 매력의 원천으로 받아들이는 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "당사자의 장애나 차이를 실제 결함으로 규정하는 말은 아니며 작품 속 시선을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남들이 단점이라고 하는 모습이 자신에게는 매력적이다.",
     "review_status": "reviewed",

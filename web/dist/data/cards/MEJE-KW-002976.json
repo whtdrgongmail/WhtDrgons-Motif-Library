@@ -4,8 +4,8 @@
   "title": "떠난 뒤에야 사랑을 깨닫기",
   "original": "Belated Love Epiphany",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "곁에 있던 사람이 사라진 뒤 빈자리를 느끼며 자신의 감정을 새로 이해한다. 부재가 관계의 이름을 뒤늦게 바꾸는 전개다. 말다툼 속 감정을 숨긴 [[다투면서 끌리는 두 인물]]가 부재 뒤에 드러날 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "늘 곁에 있던 사람이 떠난 뒤 일상의 빈자리를 통해 자신이 사랑하고 있었음을 깨닫는 전개다. 함께 있을 때는 당연하게 여겼던 말과 도움이 다르게 기억된다. [[다투면서 끌리는 두 인물]]의 경우에도 가능하지만 깨달았다고 재회와 응답이 보장되지는 않는다.",
     "review_status": "reviewed",

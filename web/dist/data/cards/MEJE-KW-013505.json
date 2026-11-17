@@ -4,8 +4,8 @@
   "title": "새끼손가락 약속",
   "original": "Pinky Swear",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "새끼손가락을 서로 걸어 약속의 진지함과 [[관계]]의 신뢰를 표시하는 몸짓이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "손가락을 다치게 하는 처벌이나 단순히 손을 잡는 [[행동]]과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "말로 한 약속에 손가락 동작을 더해 반드시 지키겠다는 뜻을 전한다.",
     "review_status": "reviewed",

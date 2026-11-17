@@ -4,8 +4,8 @@
   "title": "부유한 무리 속에서만 가난한 인물",
   "original": "Penny Among Diamonds",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "일반적인 생활에는 큰 부족이 없지만 주변의 매우 부유한 사람들과 비교되면서 가난한 사람의 자리를 차지하는 인물이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "절대적인 생계 곤란과 집단 안에서의 상대적인 경제적 위치를 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "생활이 어려운 정도라기보다 주변 사람들이 훨씬 부자다.",
     "review_status": "reviewed",

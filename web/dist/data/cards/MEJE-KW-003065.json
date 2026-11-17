@@ -4,8 +4,8 @@
   "title": "사람보다 다른 존재와 쉽게 가까워지기",
   "original": "Better with Non-Human Company",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "동물이나 환상 생명과 깊은 신뢰를 쌓지만 사람과의 관계에는 어려움을 겪는 인물. 어느 관계도 열등하다고 단정하지 않고 소통의 방식 차이를 본다. 인간이 아닌 친구가 [[친절한 괴물들]]의 무리일 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사람들과는 대화가 어렵지만 동물이나 환상 생명과는 신뢰를 쌓고 편하게 지내는 인물의 관계 특성이다. 말과 몸짓을 주고받는 방식이 달라 상대를 이해할 수 있다. [[친절한 괴물들]]이 친구일 수도 있으며 어느 쪽 관계가 더 가치 있다고 정하지 않는다.",
     "review_status": "reviewed",

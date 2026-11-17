@@ -4,8 +4,8 @@
   "title": "연인의 옷으로 드러나는 친밀함",
   "original": "Her Boyfriend's Jacket",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "인물이 연인의 옷이나 착용물을 입어 두 사람의 친밀함과 관계의 지속성을 시각적으로 나타내는 장치다.",
     "detail": "작품 사례: [[The Goldbergs]]에서 Erica가 남자친구의 재킷을 받는 일은 고등학생의 청혼처럼 묘사되며, 헤어진 뒤에는 그 재킷을 돌려 던진다.",
@@ -13,14 +13,20 @@
     "boundary": "잠시 추위를 막아 주는 대여나 성적 만남 직후의 옷 바꿔 입기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누가 준 옷인지 알아보면 그 사람이 누구와 가까운지도 알 수 있다.",
     "review_status": "reviewed",

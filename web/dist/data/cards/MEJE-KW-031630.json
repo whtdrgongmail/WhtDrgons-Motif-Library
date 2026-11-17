@@ -4,8 +4,8 @@
   "title": "동료에게도 비폭력을 강요해 대응 수단을 막기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "스스로 폭력을 거부하는 데서 나아가 다른 동료도 같은 원칙을 따라야 한다고 요구하여 그들의 행동 선택을 제한하는 [[갈등]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "합의한 비폭력 전략을 함께 지키는 경우와 구별한다. 다른 구성원의 판단을 강하게 제약하는 점이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "본인의 선택이 일행 모두의 행동 규칙으로 확대된다.",
     "review_status": "reviewed",

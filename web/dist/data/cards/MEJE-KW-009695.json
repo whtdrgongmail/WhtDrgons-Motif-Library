@@ -4,8 +4,8 @@
   "title": "불가능한 조건을 건너는 환상 연애",
   "original": "Fantastic Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "초자연적 경계를 넘어야 성립할 수 있는 관계가 연애 이야기의 핵심이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-12",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "시간과 차원 또는 종족의 경계를 넘는 조건이 두 인물의 사랑에 필수적인 이야기다. 초자연적 장식이 배경에만 있는 것이 아니라 만남과 이별의 가능성을 결정하며, 사랑을 이어가려면 평범한 연애와 다른 세계의 규칙을 감당해야 한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "삶의 우선순위가 달라 끝난 연애",
   "original": "Differing Priorities Breakup",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "서로 사랑하는 두 사람이 미래에 원하는 삶이 양립할 수 없음을 알고 헤어진다. 감정의 부족보다 가치와 목표의 충돌이 결별의 이유다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로를 사랑하지만 각자 원하는 미래를 함께 살 수 없어 헤어지는 전개다. 누군가의 배신이나 마음이 식은 일이 필수 원인은 아니며, 일과 거주지와 삶의 가치 가운데 포기할 수 없는 것이 달라 애정만으로 해결되지 않는 이별이다.",
     "review_status": "reviewed",

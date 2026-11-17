@@ -4,8 +4,8 @@
   "title": "친구로 남기로 해도 끌림이 사라지지 않기",
   "original": "Stupid Sexy Friend",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02645",
+  "primary_tag_id": "ML-T02645",
   "description": {
     "definition": "친구 관계로 지내자는 합의와 별개로 한쪽이나 양쪽이 상대에게 성적 끌림을 계속 느낀다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "끌림이 관계 변경의 동의나 권리를 뜻하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "친구로 지내기로 했지만 여전히 매력적으로 보인다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "특정인에게만 허용하는 신체 접촉",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "평소 타인의 접촉을 거부하던 인물이 한 사람의 접촉만 받아들여 특별한 신뢰를 드러내는 관계 표현이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "모든 접촉 거부가 해소되었다고 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누가 손대는 것은 싫어하지만 믿는 한 사람에게는 허용한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "필요할 때 곁을 지키는 친구",
   "original": "The Reliable One",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "친구가 도움을 필요로 할 때 꾸준히 응답하고 의지할 수 있는 존재가 되는 관계 역할이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "능력이 뛰어나다는 사실보다 지원의 일관성이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "위기의 순간에도 믿고 찾아갈 수 있는 사람이다.",
     "review_status": "reviewed",

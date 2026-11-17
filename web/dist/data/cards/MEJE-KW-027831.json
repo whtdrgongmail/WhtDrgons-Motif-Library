@@ -4,8 +4,8 @@
   "title": "연애를 도와준 중매자를 사랑하게 되기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "다른 사람과 맺어지려고 도움을 받던 인물이 중매자와 시간을 보내며 원래 대상 대신 그 조력자에게 사랑을 느끼게 되는 전개이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "중매자 쪽에서 먼저 마음이 생기는 경우와 감정의 방향이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누군가를 만나려고 조언을 구했는데 도와준 사람과 가까워진다.",
     "review_status": "reviewed",

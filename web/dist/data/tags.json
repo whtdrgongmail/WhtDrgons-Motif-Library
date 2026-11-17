@@ -47485,6 +47485,1554 @@
         "row_version": 1
       },
       "semantics": null
+    },
+    {
+      "id": "MEJE-KW-004948",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-F03",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기독교 소재 창작물",
+      "classification": {
+        "code": "03.409",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "genre_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MEJE-KW-008830",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-F03",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "선정적 충격을 앞세운 유럽 예술영화",
+      "classification": {
+        "code": "03.410",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "genre_family",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "MM-UNSET-000997",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-T00317",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "부조리극",
+      "classification": {
+        "code": "03.111.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "narrative_genre",
+        "parent_relation": "is_a",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02619",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-F09",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "사회적 범주에 결부된 인물 전형",
+      "classification": {
+        "code": "09.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02620",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00880",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "관객의 이해를 대신하는 인물",
+      "classification": {
+        "code": "09.001.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02621",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00880",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "설명·정보를 제공하는 인물",
+      "classification": {
+        "code": "09.001.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02622",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-F09",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인물을 형성한 과거",
+      "classification": {
+        "code": "09.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02623",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00907",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "재산에 기반한 인물의 위치",
+      "classification": {
+        "code": "09.004.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02624",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00916",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "지휘·운영을 맡는 인물",
+      "classification": {
+        "code": "09.005.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02625",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00948",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "실제와 다른 신분·자격을 제시하는 인물",
+      "classification": {
+        "code": "09.008.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02626",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-F09",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "외적 매력이 강조되는 인물",
+      "classification": {
+        "code": "09.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02627",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-F09",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "발화·의사소통 방식이 특징인 인물",
+      "classification": {
+        "code": "09.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02628",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00929",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "전투 역량의 구성",
+      "classification": {
+        "code": "09.006.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02629",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00929",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인지·판단 역량의 구성",
+      "classification": {
+        "code": "09.006.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02630",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00938",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "생활 습관·기호가 특징인 인물",
+      "classification": {
+        "code": "09.007.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02631",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00948",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "실제와 어긋나는 인물의 평판",
+      "classification": {
+        "code": "09.008.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02632",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00929",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "몸의 지속적인 제약을 지닌 인물",
+      "classification": {
+        "code": "09.006.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02633",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-F09",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "생존·고립의 이력이 남은 인물",
+      "classification": {
+        "code": "09.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-018192",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00948",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "활동 정체성의 계승자",
+      "classification": {
+        "code": "09.008.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02634",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-F09",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "다른 인물과 대응하는 인물상",
+      "classification": {
+        "code": "09.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02635",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00880",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "배경·단역 인물",
+      "classification": {
+        "code": "09.001.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02636",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00880",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "다른 인물의 특징을 비추는 상대역",
+      "classification": {
+        "code": "09.001.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02637",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00916",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "미래를 예고하는 인물",
+      "classification": {
+        "code": "09.005.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02638",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00916",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "생물을 훈련·지휘하는 인물",
+      "classification": {
+        "code": "09.005.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02639",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00938",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인물이 기대는 원칙·신념",
+      "classification": {
+        "code": "09.007.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02640",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "호감의 계기와 연애 선호",
+      "classification": {
+        "code": "10.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02641",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "애정과 친밀감을 드러내는 표현",
+      "classification": {
+        "code": "10.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02642",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "함께하는 경험으로 가까워지기",
+      "classification": {
+        "code": "10.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02643",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대조와 대응으로 구성한 인물 조합",
+      "classification": {
+        "code": "10.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02644",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "관계 인식과 의도의 어긋남",
+      "classification": {
+        "code": "10.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02645",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연애 성립 전의 긴장과 우정의 경계",
+      "classification": {
+        "code": "10.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02646",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "이별과 관계 단절",
+      "classification": {
+        "code": "10.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02647",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "죽음과 부재 이후의 유대",
+      "classification": {
+        "code": "10.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02648",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "신뢰와 충성 및 보은과 헌신",
+      "classification": {
+        "code": "10.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02649",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "상대에 대한 인정과 존중",
+      "classification": {
+        "code": "10.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02650",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "집단의 수용과 배제",
+      "classification": {
+        "code": "10.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02651",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "가까운 관계와 협력의 마찰",
+      "classification": {
+        "code": "10.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02652",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공감과 위로 및 정서적 지지",
+      "classification": {
+        "code": "10.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02653",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "관계가 이끄는 인물의 변화",
+      "classification": {
+        "code": "10.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02654",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "성적 친밀감의 방식과 조건",
+      "classification": {
+        "code": "10.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02655",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연애를 가로막는 조건과 선택",
+      "classification": {
+        "code": "10.025",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02656",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "종과 존재 양식을 넘는 연애",
+      "classification": {
+        "code": "10.026",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02657",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "동물과 사물 및 비인간 동료의 유대",
+      "classification": {
+        "code": "10.027",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02658",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연애 관계망과 상대역 배치",
+      "classification": {
+        "code": "10.028",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02659",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기만과 조종으로 관계 이용하기",
+      "classification": {
+        "code": "10.029",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02660",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "관계에서의 통제와 자율성 침해",
+      "classification": {
+        "code": "10.030",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02661",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "관계를 구속하는 약속과 부탁",
+      "classification": {
+        "code": "10.031",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02662",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "동경과 이상화의 관계",
+      "classification": {
+        "code": "10.032",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02663",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "선물과 환대 및 예의에 담긴 관계의 의미",
+      "classification": {
+        "code": "10.033",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02664",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "비밀과 숨긴 정체가 규정하는 관계",
+      "classification": {
+        "code": "10.034",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02665",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "합의된 성적 비독점 관계",
+      "classification": {
+        "code": "10.035",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02666",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "적의와 반감의 관계",
+      "classification": {
+        "code": "10.036",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02667",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "협력과 동료의 합류",
+      "classification": {
+        "code": "10.037",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02668",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "사과와 용서의 교섭",
+      "classification": {
+        "code": "10.038",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02669",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "구애와 연애적 접근",
+      "classification": {
+        "code": "10.039",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02670",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인연과 관계망의 연결 구조",
+      "classification": {
+        "code": "10.040",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02671",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "친밀감의 냉각과 관계의 거리",
+      "classification": {
+        "code": "10.041",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02672",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "호의와 대가 및 부채의 관계",
+      "classification": {
+        "code": "10.042",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02673",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "선대와 후계자의 계승 관계",
+      "classification": {
+        "code": "10.043",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02674",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "의사소통과 교류를 잇는 동반자",
+      "classification": {
+        "code": "10.044",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02675",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "관계의 경계와 거리 정하기",
+      "classification": {
+        "code": "10.045",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "relationship_concept",
+        "parent_relation": "facet_member",
+        "allowed_roles": [],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T02676",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "논증 오류",
+      "classification": {
+        "code": "23.009.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02677",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "장식적 외국어 삽입",
+      "classification": {
+        "code": "23.009.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02678",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01972",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "발음의 문자 재현",
+      "classification": {
+        "code": "23.007.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02679",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01972",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대사 서식으로 목소리 표현",
+      "classification": {
+        "code": "23.007.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02680",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "발화 중단",
+      "classification": {
+        "code": "23.009.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02681",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01972",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "말의 유창성 붕괴",
+      "classification": {
+        "code": "23.007.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02682",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "비언어적 의사 전달",
+      "classification": {
+        "code": "23.009.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02683",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "용어의 뜻·지시 대상 오용",
+      "classification": {
+        "code": "23.009.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02684",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대화 속 용어·문법 정정",
+      "classification": {
+        "code": "23.006.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02685",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "말실수로 드러나는 속마음",
+      "classification": {
+        "code": "23.009.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02686",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "설명 중의 자기 깨달음",
+      "classification": {
+        "code": "23.006.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02687",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "좋은 소식·나쁜 소식의 평가 반전",
+      "classification": {
+        "code": "23.009.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02688",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "수치 규모의 비교 설명",
+      "classification": {
+        "code": "23.006.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02689",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01947",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "선언된 속성과 묘사의 간극",
+      "classification": {
+        "code": "23.004.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02690",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "행동을 정당화하는 변명",
+      "classification": {
+        "code": "23.006.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02691",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "필요한 답을 주지 않는 응답",
+      "classification": {
+        "code": "23.006.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02692",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "의미 연결이 무너진 발화",
+      "classification": {
+        "code": "23.009.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02693",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "소리 내는 내면 독백",
+      "classification": {
+        "code": "23.006.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02694",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "발언 직후의 자기 반증",
+      "classification": {
+        "code": "23.009.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02695",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "자기 비하 발언",
+      "classification": {
+        "code": "23.006.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02696",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "작중 언어의 번역 재현 약속",
+      "classification": {
+        "code": "23.009.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02697",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "신조어와 혼성어 만들기",
+      "classification": {
+        "code": "23.009.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02698",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "문자 대화의 어조 표지",
+      "classification": {
+        "code": "23.009.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000211",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "논리적 역설",
+      "classification": {
+        "code": "23.009.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02699",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01947",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "수치와 자료 선택을 통한 인상 왜곡",
+      "classification": {
+        "code": "23.004.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02700",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01947",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "맥락을 왜곡하는 편집",
+      "classification": {
+        "code": "23.004.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
     }
   ]
 }

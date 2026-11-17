@@ -4,8 +4,8 @@
   "title": "선물로 사려는 우정",
   "original": "Friendship Bribe",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "인물이 돈과 선물, 혜택으로 사람들의 관심을 붙잡아 친구처럼 보이는 관계를 유지하려는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "외로움을 느끼는 인물이 돈과 선물로 사람들의 관심을 붙잡으려는 관계다. 함께 있는 사람이 많아도 혜택이 사라지면 남을지 확신하기 어려우며, 우정을 얻으려는 마음과 관계를 거래처럼 유지하는 행동이 모순을 만든다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "멀리서 지켜보는 조문객",
   "original": "Distant Funeral Attendee",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "장례식에 함께할 수 없는 인물이 떨어진 곳에서 조용히 참석해 고인과의 숨은 관계를 드러낸다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "현장에 오지 않은 추모자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "장례식의 중심에 함께할 수 없는 인물이 멀찍이서 고인을 애도하는 장면이다. 공개하기 어려운 관계나 갈등 때문에 거리를 둘 수 있으며, 다른 참석자들이 모르는 개인적인 슬픔이 조용한 시선과 머무는 모습으로 드러난다.",
     "review_status": "reviewed",

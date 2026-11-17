@@ -4,8 +4,8 @@
   "title": "과도한 모방에 지치는 동경의 대상",
   "original": "Irritation Is the Sincerest Form of Flattery",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02662",
+  "primary_tag_id": "ML-T02662",
   "description": {
     "definition": "동경하는 사람의 옷·음식·행동을 의도적으로 따라 하는 인물이 지나치게 밀착하여 모방의 대상이 이를 불편해하고 중단시키려는 전개다.",
     "detail": "상대가 자기 모습을 찾도록 돕지만 모방자가 다른 대상에게 옮겨 가는 결말도 가능하다.\n\n작품 사례: 《[[네모바지 스폰지밥]]》에서 뚱이는 상을 타려고 스폰지밥의 모든 행동을 따라 하고, 처음에는 흐뭇했던 스폰지밥도 점차 지쳐 간다.",
@@ -13,14 +13,20 @@
     "boundary": "자연스럽게 버릇을 닮거나 일부러 상대를 놀리려고 흉내 내는 행동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "처음에는 팬이 생겨 좋았는데 모든 행동을 따라 하니 견딜 수 없어진다.",
     "review_status": "reviewed",

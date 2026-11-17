@@ -4,8 +4,8 @@
   "title": "떠난 이의 뜻이 붙드는 도덕적 선택",
   "original": "Morality Chain Beyond the Grave",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "소중한 사람이 죽거나 더는 함께할 수 없게 된 뒤, 그가 무엇을 원했을지를 생각하며 남은 인물이 자신의 선택을 다시 평가하는 구도다.",
     "detail": "복수·새 사랑의 거부·타인의 미완성 과업을 떠맡는 선택 등이 고인의 가치와 대조된다. 실제 사망뿐 아니라 장기 의식불명이나 영구적 부재에도 성립한다.\n\n작품 사례: 만화 《[[스파이더맨(만화)]]》에서 피터는 생활고 때문에 능력을 사익에 쓰고 싶을 때마다 벤 삼촌의 가르침을 떠올린다. 이미 세상을 떠난 삼촌의 뜻이 손해를 감수하고 옳은 일을 하게 붙든다.",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "그 사람이 원했을 행동인가를 생각해 멈추거나 방향을 바꾼다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "길에서 만난 동물이 반려동물이 되다",
   "original": "From Stray to Pet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "떠돌던 동물을 만난 인물이 돌봄과 생활을 함께하며 새로운 가족 관계를 맺는 이야기다. 길에서 만난 동물을 가족처럼 받아들인 뒤에는 [[친구는 팔 수 없다는 선택]]라는 선택이 가능해진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "떠돌던 동물을 만난 인물이 먹이와 안전을 제공하며 가족으로 받아들이는 이야기다. 잠깐의 구조가 함께 사는 책임으로 이어지며, 깊은 유대가 생기면 큰돈을 제안받아도 [[친구는 팔 수 없다는 선택]]을 하는 관계가 될 수 있다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "공유 신체의 주도권을 두고 다투는 인격들",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "한 몸을 함께 쓰는 별개의 의식이 몸의 전체 행동을 어느 쪽이 지휘할지를 두고 주도권을 다툰다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "각자 별도의 몸으로 경쟁하는 관계나 조화롭게 신체를 공동 조종하는 경우와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "같은 몸을 각자가 자기 뜻대로 움직이려 한다.",
     "review_status": "reviewed",

@@ -5,8 +5,8 @@
   "original": "Are They Friends or Lovers?",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02645",
+  "primary_tag_id": "ML-T02645",
   "description": {
     "definition": "두 사람의 유대가 우정인지 로맨스인지 명확히 구분되지 않도록 제시되는 관계이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "관계가 명시된 뒤 관객이 다른 해석을 선호하는 경우보다 작품의 제시 자체가 모호해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "아주 친한 친구인지 서로 사랑하는지 확신하기 어렵다.",
     "review_status": "reviewed",

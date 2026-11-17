@@ -4,8 +4,8 @@
   "title": "보호 선언",
   "original": "Declaration of Protection",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02661",
+  "primary_tag_id": "ML-T02661",
   "description": {
     "definition": "인물이 소중한 대상을 지키겠다는 뜻을 말로 밝히거나 마음속으로 다짐한다. 이후 선택과 갈등을 이끄는 관계의 약속이 된다.",
     "detail": "작품 사례: [[I Got My Wish and Reincarnated as the Villainess (Last Boss)!]]에서 엘리자베스는 카렌에게 귀여움을 느끼는 데서 나아가, 그녀를 지켜 주겠다는 뜻을 밝힌다.",
@@ -13,14 +13,20 @@
     "boundary": "순간적인 호의나 소유욕과 달리 명시적인 보호의 약속이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.031",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인물이 다른 사람을 지키겠다는 뜻을 직접 말하거나 마음속으로 다짐하는 장면이다. 단순한 호감보다 이후의 행동에 책임을 부여하는 약속이 되며, 보호하려는 마음과 상대가 스스로 원하는 선택이 다를 때 갈등이 생길 수 있다.",
     "review_status": "reviewed",

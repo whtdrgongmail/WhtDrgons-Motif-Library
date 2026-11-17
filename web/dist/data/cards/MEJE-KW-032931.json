@@ -4,8 +4,8 @@
   "title": "질투시키려 연결한 두 사람이 친해지기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "질투를 유도하려고 연적처럼 배치한 두 사람이 서로를 적대하지 않고 오히려 친해지거나 연애 감정을 느껴 계획의 구도가 무너진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "삼각관계가 모두의 동의로 결합하는 경우와 달리 계획자가 기대한 경쟁이 성립하지 않는 반전이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 경쟁하길 바랐던 두 사람이 뜻밖에 잘 맞는다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "피임을 둘러싼 기만",
   "original": "Contraception Deception",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01024",
+  "primary_tag_id": "ML-T01024",
   "description": {
     "definition": "한 사람이 피임이나 임신 가능성에 관해 상대에게 거짓말해 공동의 생식 선택을 침해하는 [[관계 갈등]].",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.007.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "피임 여부나 임신 가능성에 관해 한 사람이 거짓말해 상대의 생식에 관한 선택권을 침해하는 관계다. 단순한 의사소통의 실수가 아니라 중요한 정보를 숨긴 기만이며, 그 결과와 상관없이 동의와 신뢰를 훼손한 책임이 남는다.",
     "review_status": "reviewed",

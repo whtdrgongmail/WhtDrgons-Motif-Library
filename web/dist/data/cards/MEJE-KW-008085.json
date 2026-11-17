@@ -4,8 +4,8 @@
   "title": "함께 연주하며 가까워지는 두 사람",
   "original": "Duet Bonding",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "두 인물이 함께 음악을 연주하거나 노래하는 동안 서로를 새롭게 이해하고 친밀해지는 관계 전개. 두 사람이 함께 노래하며 가까워질 때 서로 다른 성격을 드러내는 [[차이를 노래하는 이중창]]이 쓰일 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 인물이 함께 연주하거나 노래하는 과정에서 서로의 감정과 성격을 이해하는 전개다. 말로 설명하지 못한 공감이 호흡을 맞추는 행동으로 드러나며, [[차이를 노래하는 이중창]]을 통해 다른 점을 유지하면서도 가까워질 수 있다.",
     "review_status": "reviewed",

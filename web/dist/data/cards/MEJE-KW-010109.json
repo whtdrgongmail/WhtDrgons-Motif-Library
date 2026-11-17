@@ -4,8 +4,8 @@
   "title": "서로의 문장을 완성하는 사이",
   "original": "Finishing Each Other's Sentences",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "가까운 두 사람이 상대가 하려던 말을 자연스럽게 이어 끝내며 오래 쌓인 [[친밀감]]과 사고의 유사함을 보인다. [[중단된 문장을 뒤늦게 마치다]]은 한 사람이 중단된 자기 말을 끝내는 표현으로, 상대의 문장을 잇는 이 카드와 구별된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람이 시작한 말을 가까운 상대가 자연스럽게 이어서 끝내는 장면이다. 서로의 사고와 말버릇을 잘 안다는 [[친밀감]]을 보여 주며, 중단된 자기 말을 나중에 잇는 [[중단된 문장을 뒤늦게 마치다]]와 달리 두 사람의 호흡이 중심이다.",
     "review_status": "reviewed",

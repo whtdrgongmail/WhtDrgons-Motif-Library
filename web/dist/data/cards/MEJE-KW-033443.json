@@ -4,8 +4,8 @@
   "title": "사랑하는 이를 지키려고 남는 영혼",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "남겨진 사람이 자신을 필요로 하거나 보호받아야 한다고 여겨 사후에도 현세에 머무는 영혼이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "죽음을 부정하는 산 사람의 [[애도]] 때문에 강제로 붙잡히는 규칙과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사랑하는 사람을 두고 떠날 수 없어 곁에 남는다.",
     "review_status": "reviewed",

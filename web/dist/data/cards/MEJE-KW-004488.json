@@ -4,8 +4,8 @@
   "title": "성적 취향을 특별한 사건 없이 드러내기",
   "original": "Casual Kink",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "인물이 동의한 성인 사이의 성적 취향을 일상적인 자신의 일부로 말한다. 주변이 이를 충격이나 문제로 만들지 않는 관계의 분위기가 중심이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "성인이 자신의 합의된 성적 취향을 대화에서 자연스럽게 밝히고 주변도 일상의 정보처럼 받아들이는 장면이다. 고백을 큰 반전이나 문제로 만들지 않는 관계의 분위기가 특징이다. 취향을 안다는 사실이 그 사람의 사적인 정보 공개나 행동 참여에 대한 동의는 아니다.",
     "review_status": "reviewed",

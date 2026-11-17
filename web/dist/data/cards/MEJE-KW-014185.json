@@ -4,8 +4,8 @@
   "title": "공격으로 오해받은 도움",
   "original": "Help Mistaken for Attack",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "상대를 구하거나 도우려는 행동이 외양·평판·정보 부족 때문에 위해를 가하려는 행동으로 받아들여지는 [[갈등]]이다.",
     "detail": "작품 사례: [[Lilo & Stitch (Dynamite)]]에서 Stitch가 조난객을 구하려고 여분의 팔과 빛나는 눈을 드러내자, 조난객들은 자신들을 노리는 괴물로 오해한다.",
@@ -13,14 +13,20 @@
     "boundary": "관객만 잠깐 오해하는 연출과 달리 도움받는 당사자의 오인이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "위험에서 끌어내려는데 상대는 납치하려는 줄 알고 저항한다.",
     "review_status": "reviewed",

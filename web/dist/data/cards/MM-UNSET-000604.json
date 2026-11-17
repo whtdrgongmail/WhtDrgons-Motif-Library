@@ -4,8 +4,8 @@
   "title": "관계의 마지막 경고",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02675",
+  "primary_tag_id": "ML-T02675",
   "description": {
     "definition": "가까운 사람이 반복된 문제 행동에 대해 관계를 지속할 수 있는 마지막 조건을 알리는 상황이다. 경고 뒤에는 행동의 변화나 [[결별]]이 뒤따를 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-11",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.045",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "친구나 가족이 더는 같은 행동을 견딜 수 없다며 관계를 계속할 조건을 분명히 말하는 일이다.",
     "review_status": "reviewed",

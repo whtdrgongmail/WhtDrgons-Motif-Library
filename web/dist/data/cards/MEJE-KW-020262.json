@@ -4,8 +4,8 @@
   "title": "잘못 쓴 단어의 뜻을 지적하기",
   "original": "You Keep Using That Word",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02684",
+  "primary_tag_id": "ML-T02684",
   "description": {
     "definition": "인물이 특정 단어를 엉뚱한 의미로 계속 쓰자 다른 인물이 그 뜻과 사용의 오류를 짚는 대화 장치이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "동의어 중 선호 표현을 강요하는 경우와 달리 실제 의미의 불일치가 문제이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.006.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

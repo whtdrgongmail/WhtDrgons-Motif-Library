@@ -4,8 +4,8 @@
   "title": "사랑으로 나쁜 남자가 이상적인 상대가 되기",
   "original": "Reformed Rakes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "문제적인 행동과 태도를 보이던 남성 연애 상대가 사랑의 영향으로 변하여 관계에 더 적합한 사람으로 그려지는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "악당의 선역 전환만이 아니라 관계 행동의 개선도 포함한다. 변화의 책임은 당사자에게 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "문제 많던 상대가 사랑하면서 달라진다.",
     "review_status": "reviewed",

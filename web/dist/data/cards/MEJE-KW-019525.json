@@ -4,8 +4,8 @@
   "title": "제삼자를 통해 전하는 입맞춤",
   "original": "Kiss Courier",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "직접 닿을 수 없는 상대에게 입맞춤을 전하기 위해 다른 인물을 전달자로 삼는다.",
     "detail": "전달자는 부탁을 진지하게 실행하거나 의미가 달라진다며 거절할 수 있다. 애정뿐 아니라 위협 같은 의미도 중간 사람을 거쳐 전달된다.\n\n작품 사례: 《[[토이 스토리 2]]》에서 보핍은 우디에게 전해 달라며 버즈의 볼에 입맞춤한다. 버즈는 자신이 전하면 뜻이 달라질 것이라고 지적하고 실제로 전달하지 않는다.",
@@ -13,14 +13,20 @@
     "boundary": "단순한 애정 메시지와 신체 행위의 전달을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 사람을 거쳐 입맞춤을 전해 달라고 한다.",
     "review_status": "reviewed",

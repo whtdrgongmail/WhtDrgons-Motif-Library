@@ -4,8 +4,8 @@
   "title": "지향이 맞지 않아도 타협해 맺는 관계",
   "original": "Settled for Gay",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "서로의 지향이 연애 관계와 맞지 않음을 알면서도 더 적합한 상대를 찾기 어렵다고 판단해 관계를 선택하는 설정이다. 사랑의 일치보다 기대와 현실의 타협이 중심이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "강요나 지향의 변화가 필수 조건은 아니며, 당사자들의 선택과 합의 내용을 구별해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이상적인 상대를 만나기 어렵다고 생각해 맞지 않는 관계에 머문다.",
     "review_status": "reviewed",

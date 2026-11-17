@@ -4,8 +4,8 @@
   "title": "차에 가득 탄 인기 있는 무리",
   "original": "Carload of Cool Kids",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "한 차에 탄 큰 무리가 길가의 다른 인물과 마주친다. 함께 이동하는 모습이 [[소속과 배제]]의 경계를 보여 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인기 있는 집단이 한 차에 함께 타고 다른 인물을 지나치거나 말을 거는 장면이다. 함께 이동할 자리가 있다는 사실이 그 무리의 [[소속과 배제]]를 눈에 보이게 한다. 차 안에 탄 구성원 모두가 같은 권한이나 감정을 가진 것은 아니므로 반응의 차이도 의미가 있다.",
     "review_status": "reviewed",

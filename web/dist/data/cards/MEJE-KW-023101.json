@@ -5,8 +5,8 @@
   "original": "A Family Heirloom Role",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02673",
+  "primary_tag_id": "ML-T02673",
   "description": {
     "definition": "가문의 유산처럼 이름·가면·활동 역할을 후손에게 물려주는 계승 구조이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "조상의 이름만 다시 짓는 명명과 달리 활동 역할을 잇는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.043",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 집안이 대대로 같은 영웅이나 역할을 이어 간다.",
     "review_status": "reviewed",

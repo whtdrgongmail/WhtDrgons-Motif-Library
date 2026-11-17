@@ -4,8 +4,8 @@
   "title": "죽은 옛 동료",
   "original": "Dead Partner",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "인물이 가까이 일하던 동료를 잃은 경험 때문에 새 동료를 거부하거나 복수에 집착한다. 현재 관계를 과거의 상실이 지배한다. 가까운 동료의 죽음이 남은 인물의 행동을 바꾼다는 점에서 [[죽은 조력자]]와 이어진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께 일하던 파트너의 죽음이 남은 인물의 현재 행동을 지배하는 설정이다. 새 동료를 받아들이기 두려워하거나 복수에 매달릴 수 있으며, [[죽은 조력자]]처럼 관계의 상실이 동기가 되지만 함께 일했던 책임과 기억이 특히 강조된다.",
     "review_status": "reviewed",

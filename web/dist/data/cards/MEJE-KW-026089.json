@@ -5,8 +5,8 @@
   "original": "An Ex-Partner or Former Spouse",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "과거에는 연애나 혼인으로 이어져 있었지만 지금은 그 관계가 끝난 사람들 사이의 관계 지위이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "현 연인과 잠시 떨어져 있거나 아직 관계 종료 여부가 불명확한 상태와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이제 연인은 아니어도 함께했던 과거가 현재 관계에 남아 있다.",
     "review_status": "reviewed",

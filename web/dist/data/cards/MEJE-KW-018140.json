@@ -4,8 +4,8 @@
   "title": "첫 만남에 서로 사랑에 빠지기",
   "original": "Love at First Sight",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "두 인물이 처음 만난 순간 서로에게 사랑을 느껴 연애 감정이 즉시 시작되는 관계 형성 방식이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "외모에 잠깐 관심을 갖거나 한쪽만 일방적으로 끌리는 경우와 구별한다. 관계가 오래 지속되는지는 별개의 문제다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "시간을 두고 알아가기 전에 첫 만남부터 서로 사랑에 빠진다.",
     "review_status": "reviewed",

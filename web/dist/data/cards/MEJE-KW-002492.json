@@ -4,8 +4,8 @@
   "title": "운전자 옆에서 끊임없이 지시하기",
   "original": "Backseat Driver",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "차를 모는 사람이 아닌 탑승자가 방향과 속도를 계속 지적한다. 실제 조종권과 말로 행사하는 통제욕이 부딪힌다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "운전하지 않는 동승자가 길과 속도, 운전 방식에 계속 지시하여 운전자와 다투는 상황이다. 도움을 주려는 말이 반복되면 실제 조종을 맡은 사람에게 간섭으로 느껴질 수 있다. 필요한 위험 알림과 습관적인 통제를 구별하는 반응이 관계를 보여 준다.",
     "review_status": "reviewed",

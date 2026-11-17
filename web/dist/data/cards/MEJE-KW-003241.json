@@ -4,8 +4,8 @@
   "title": "생일이 같은 두 사람",
   "original": "Birthday Buddies",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "두 인물이 생일을 공유한다는 사실을 알고 친해지거나 서로를 의식한다. 같은 날이 둘에게 지닌 의미는 다를 수 있다. 같은 생일이 [[닮은 사람끼리 맺는 관계]]의 첫 단서가 될 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람이 생일이 같다는 것을 알고 특별한 인연처럼 느끼는 설정이다. 함께 축하하거나 그날의 기억을 나누면서 대화가 시작될 수 있다. [[닮은 사람끼리 맺는 관계]]의 계기가 되기도 하지만 같은 날짜가 성격이나 운명까지 같다는 증거는 아니다.",
     "review_status": "reviewed",

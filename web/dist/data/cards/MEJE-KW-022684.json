@@ -4,8 +4,8 @@
   "title": "믿는 사람에게 자신의 제압 수단을 맡기기",
   "original": "Kryptonite Ring",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "강자가 자신이 폭주하거나 타락할 때를 대비하여 자신을 멈출 수 있는 약점과 도구를 신뢰하는 상대에게 자발적으로 맡기는 관계다.",
     "detail": "작품 사례: 《[[더 배트맨(2004)]]》에서 배트맨은 처음에는 크립토나이트를 숨기지만, 서로의 차이를 해결한 뒤에는 슈퍼맨이 그것을 보관하도록 허락한다.",
@@ -13,14 +13,20 @@
     "boundary": "상대 몰래 마련한 배신 대비책과 달리 자발적 위탁과 신뢰가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "내가 잘못되면 네가 나를 막아 달라며 약점을 건넨다.",
     "review_status": "reviewed",

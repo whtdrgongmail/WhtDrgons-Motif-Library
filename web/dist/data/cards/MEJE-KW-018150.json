@@ -4,8 +4,8 @@
   "title": "네 잘못이 아니라며 안심시키기",
   "original": "\"Not Your Fault\" Reassurance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "나쁜 결과를 자신의 탓으로 돌리는 인물에게 다른 사람이 책임이 그에게 있지 않다고 말하여 자책을 덜어 주는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제로 져야 할 책임을 회피하도록 돕는 장면과 구별한다. 자책과 그에 대한 타인의 위로가 함께 제시되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "자신 때문에 일이 망가졌다고 괴로워하는 사람에게 모두 네 탓은 아니라고 말해 준다.",
     "review_status": "reviewed",

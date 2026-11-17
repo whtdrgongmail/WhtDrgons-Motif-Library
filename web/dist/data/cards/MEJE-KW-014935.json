@@ -4,8 +4,8 @@
   "title": "이성 연애를 통해 동성 간 관계를 겨루기",
   "original": "Homosocial Heterosexuality",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "표면적으로는 이성의 연애 상대를 놓고 다투거나 협상하지만 실제 [[서사]]의 중심은 같은 성별 인물들 사이의 경쟁·유대·인정에 놓이는 관계 구성이다.",
     "detail": "작품 사례: [[Wicked]]에서 엘파바와 글린다는 피예로를 사이에 둔 연애 삼각관계에 놓이지만, 이야기의 중심은 두 여성 사이의 관계 변화에 놓인다.",
@@ -13,14 +13,20 @@
     "boundary": "같은 상대를 사랑한다는 사실만으로 적용하지 않으며 동성 간 성적 끌림을 필수로 하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누가 연인을 얻을지 다투는 동안 정작 중요한 변화는 경쟁자 두 사람 사이에서 일어난다.",
     "review_status": "reviewed",

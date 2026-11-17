@@ -4,8 +4,8 @@
   "title": "외도 허위 고발",
   "original": "False Adultery Accusation",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "한 인물이 실제로 외도하지 않았는데도 의심이나 거짓 고발로 관계의 신뢰가 흔들린다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "외도하지 않은 인물이 의심이나 거짓말 때문에 배신한 사람으로 몰리는 관계 갈등이다. 사실을 해명해야 하는 사람과 이미 상처받았다고 믿는 사람의 감정이 어긋나며, 혐의가 사라져도 서로를 얼마나 신뢰했는지에 대한 문제가 남을 수 있다.",
     "review_status": "reviewed",

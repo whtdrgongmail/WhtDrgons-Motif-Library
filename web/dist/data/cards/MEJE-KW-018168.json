@@ -4,8 +4,8 @@
   "title": "협력하는 영웅과 분열하는 악당",
   "original": "United Heroes, Divided Villains",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "영웅 진영은 서로 협력할 수 있지만 악당 진영은 내부 다툼과 분열 때문에 힘을 모으기 어려운 대비 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "한 번의 말다툼보다 두 진영의 협력 방식 차이가 [[갈등]]에 작용해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "영웅들은 함께 힘을 합치고 악당들은 서로 싸워 약해진다.",
     "review_status": "reviewed",

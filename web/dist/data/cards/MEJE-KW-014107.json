@@ -4,8 +4,8 @@
   "title": "애정이 흐르는 눈맞춤",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "서로 눈을 오래 바라보며 연애 감정과 가까워지고 싶은 마음을 전하는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "한쪽의 짝사랑 시선과 달리 서로 눈을 맞추어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "입맞춤 전 두 사람의 시선이 오래 머문다.",
     "review_status": "reviewed",

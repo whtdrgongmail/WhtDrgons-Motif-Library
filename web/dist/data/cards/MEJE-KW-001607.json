@@ -4,8 +4,8 @@
   "title": "악역이 강요하는 결혼",
   "original": "And Now You Must Marry Me",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "악역이 결혼을 내세워 상대의 선택권과 삶을 빼앗으려는 전개. 혼인 자체보다 강제와 권력 차이가 갈등의 핵심이며, 구조의 목표가 연애 성취처럼 보이지 않도록 피해자의 의사를 분명히 다룬다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "힘을 가진 악역이 혼인을 조건으로 상대를 협박하거나 도망가지 못하게 하는 전개다. 결혼식과 약속이 있어도 당사자에게 거절할 자유가 없다면 강요된 관계다. 다른 인물이 구할 때도 누구와 결혼할지보다 피해자가 안전과 선택권을 되찾는 일이 우선한다.",
     "review_status": "reviewed",

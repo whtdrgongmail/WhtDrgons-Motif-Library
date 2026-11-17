@@ -4,8 +4,8 @@
   "title": "호의와 냉담함이 엇갈리는 태도",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "같은 상대에게 다정함과 무관심 또는 적대적인 태도를 번갈아 보여, 상대가 자신과의 관계를 쉽게 판단하지 못하게 하는 성격 표현.",
     "detail": "어떤 경우에는 따뜻함과 서늘한 거리감 사이에서 바뀌고, 어떤 경우에는 노골적인 적대감까지 오간다.",
@@ -13,14 +13,20 @@
     "boundary": "항상 냉담한 인물이나 일방적으로 다정한 인물과 구분한다. 변화를 일으키는 감정이나 상황은 별도로 정해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가까워진 줄 알면 차가워지고, 거절당한 줄 알면 다시 다정해져 속마음을 알기 어렵다.",
     "review_status": "reviewed",

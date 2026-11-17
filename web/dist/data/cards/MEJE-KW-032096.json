@@ -4,8 +4,8 @@
   "title": "주인공보다 나이 많은 동행 조력자",
   "original": "Older Sidekick",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02667",
+  "primary_tag_id": "ML-T02667",
   "description": {
     "definition": "중심 영웅보다 연장자인 인물이 그 영웅의 활동을 지속적으로 보조하며 경험·보호·실무 능력을 제공하는 관계 배치다.",
     "detail": "작품 사례: 《[[달의 요정 세일러문]]》의 턱시도 가면은 세일러 문보다 나이 많은 보호자로 시작해 그녀의 활동을 돕는 조력자 역할로 자리한다. 원문은 대학생이라는 연령 설정을 이 애니메이션판에 한정해 설명한다.",
@@ -13,14 +13,20 @@
     "boundary": "연장자가 모든 결정을 대신하거나 조력 때문에 무능해져야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.037",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "나이는 더 많지만 이야기의 주역을 따라다니며 도와준다.",
     "review_status": "reviewed",

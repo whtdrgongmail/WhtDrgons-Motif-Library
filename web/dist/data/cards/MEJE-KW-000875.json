@@ -4,8 +4,8 @@
   "title": "뜻밖에도 감탄할 만한 성과",
   "original": "Actually Pretty Impressive",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "낮게 보던 인물의 행동이나 결과를 보고 상대가 실력을 인정하는 반응. 칭찬을 받아들일지는 별개이며, 평가하던 쪽의 태도 변화가 장면의 핵심이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "평소 별것 아니라고 여겼던 인물의 결과물을 직접 본 뒤 상대가 감탄하거나 칭찬하는 장면이다. 능력을 낮게 평가한 쪽이 태도를 바꾸는 과정이 중심이며, 성과를 낸 인물이 그 칭찬을 반기거나 즉시 화해해야 할 의무는 없다.",
     "review_status": "reviewed",

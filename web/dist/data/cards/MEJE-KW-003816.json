@@ -4,8 +4,8 @@
   "title": "지키려는 사람을 일부러 상처 주며 떠나기",
   "original": "Break His Heart to Save Him",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "곁에 있으면 위험해질 것이라 믿어 사랑하는 사람에게 모진 말을 하고 관계를 끊는다. 보호의 의도와 상대에게 준 상처가 동시에 남는다. 다른 사람의 압박이 이별의 원인이라면 [[연인과 헤지라고 제삼자가 요구하기]]의 갈등도 겹친다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "곁에 있으면 상대가 위험해질 것이라 생각한 사람이 일부러 모진 말을 해 관계를 끊는 전개다. 상대는 이유를 모른 채 거절당한 상처를 입을 수 있다. 보호하려는 의도가 있어도 설명과 선택의 기회를 빼앗은 결과가 남아 이후 재회에 별도의 대화가 필요하다.",
     "review_status": "reviewed",

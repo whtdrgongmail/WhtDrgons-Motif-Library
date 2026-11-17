@@ -4,8 +4,8 @@
   "title": "고립된 친구를 다른 사람들과 이어 주기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02674",
+  "primary_tag_id": "ML-T02674",
   "description": {
     "definition": "사회적 교류에 능숙한 사람이 친구가 거의 없는 상대를 도와 새 관계를 만들게 하거나 그 사람의 행동으로 생긴 마찰을 중재하는 우정이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "친구를 영구히 독점하는 관계와 반대로 연결망을 넓히는 도움이며 단순한 인기의 차이만으로 성립하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.044",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "말 잘하는 친구가 곁에서 다른 사람과 어울리도록 도와준다.",
     "review_status": "reviewed",

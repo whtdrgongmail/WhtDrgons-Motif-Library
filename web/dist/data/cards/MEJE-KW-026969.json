@@ -4,8 +4,8 @@
   "title": "죽이도록 의뢰받은 표적을 사랑하게 된 청부살인자",
   "original": "In Love with the Mark",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "직업적인 살인자가 죽여야 할 대상으로 지정된 사람에게 사랑을 느끼게 되는 [[관계 갈등]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "이전 004:2360은 사기와 다른 가해 임무까지 포함하며 현재는 [[청부살인자]]와 살해 표적이라는 구체 역할이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "없애야 할 사람을 오히려 사랑하게 된다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "부탁을 능력에 관한 질문으로만 받아들이기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01945",
+  "primary_tag_id": "ML-T01945",
   "description": {
     "definition": "행동을 요청하는 관용적 질문을 실제 능력의 유무를 묻는 말로만 해석해 가능하다고 답하고 행동하지 않는 대화 장치이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "요청을 이해했지만 거절하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "23",
+    "code": "23.003.005",
     "review_status": "provisional",
     "row_version": 1
   },

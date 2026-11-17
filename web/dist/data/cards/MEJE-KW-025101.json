@@ -4,8 +4,8 @@
   "title": "서로 싸우는 진영을 가로지르는 사랑",
   "original": "Love Across Battlelines",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "전쟁이나 격렬한 대립 중인 국가·집단·가문에 각각 속한 인물들이 서로 사랑하여 소속의 적대와 개인의 관계가 충돌하는 구도다.",
     "detail": "서로 사랑할 자유는 있어도 집단의 비난이나 자기 내부의 적대감이 대가가 될 수 있다. 어느 쪽이 절대적인 악이라는 구분도 필수는 아니다.\n\n작품 사례: 《[[로미오와 줄리엣]]》에서 폭력적으로 대립하는 몬터규와 캐풀렛 가문의 두 자녀가 사랑에 빠진다. 가문에 대한 소속과 개인의 애정이 같은 관계 안에서 충돌한다.",
@@ -13,14 +13,20 @@
     "boundary": "반드시 갈라놓이거나 비극으로 끝나야 하는 것은 아니다. 개인이 직접 악당인지보다 집단 사이의 전선이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로의 집단은 적인데 두 사람은 사랑한다.",
     "review_status": "reviewed",

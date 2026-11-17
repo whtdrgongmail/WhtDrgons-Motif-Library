@@ -4,8 +4,8 @@
   "title": "태동을 함께 느끼기",
   "original": "Feeling the Baby Kick",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "임신한 인물이 다른 사람의 손을 배에 대게 해 태아의 움직임을 함께 느끼고 관계를 가까이하는 장면이다. [[심장 박동을 손으로 전하기]]처럼 몸의 움직임을 함께 느끼며 [[친밀감]]과 생명의 존재를 확인한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "임신한 인물의 동의를 받아 다른 사람이 배에 손을 대고 태아의 움직임을 함께 느끼는 장면이다. 새 생명이 곧 다가온다는 감각이 [[친밀감]]을 만들며, [[심장 박동을 손으로 전하기]]처럼 설명보다 몸의 움직임으로 존재를 확인한다.",
     "review_status": "reviewed",

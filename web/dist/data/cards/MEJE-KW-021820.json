@@ -4,8 +4,8 @@
   "title": "남의 사정 때문에 아픈 척하도록 강요받기",
   "original": "Faking Another Person's Illness",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "자신이나 다른 사람의 목적을 위해 실제와 다른 병세를 연기하도록 요구받는 인물의 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "제삼자가 아프다고 말로 핑계 대는 기존 카드와 연기 주체가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 사람의 필요 때문에 환자인 척해야 한다.",
     "review_status": "reviewed",

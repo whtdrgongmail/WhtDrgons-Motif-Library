@@ -4,8 +4,8 @@
   "title": "연상 여성을 우상처럼 따르는 후배",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02662",
+  "primary_tag_id": "ML-T02662",
   "description": {
     "definition": "어린 여성 인물이 선배나 연상의 여성을 뛰어난 본보기로 받아들이며 강한 숭배와 동경을 표현하는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "연애 관계가 반드시 성립하는 것은 아니며 단순한 업무상 존중보다 이상화된 동경이 두드러진다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "선배의 말과 행동을 특별하게 여기고 가까이에서 따르고 싶어 한다.",
     "review_status": "reviewed",

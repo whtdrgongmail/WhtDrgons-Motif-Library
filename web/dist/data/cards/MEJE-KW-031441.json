@@ -4,8 +4,8 @@
   "title": "이별 앞에서 이루지 못할 일상을 약속하기",
   "original": "Planning for the Future Before the End",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "죽음이나 이별이 닥쳤음을 알면서도 감정을 직접 말하지 않고 함께할 일상과 미래 계획을 이야기하는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다시는 만나기 어렵다는 것을 알면서 다음번 식사 장소를 정하듯 대화를 이어 간다.",
     "review_status": "reviewed",

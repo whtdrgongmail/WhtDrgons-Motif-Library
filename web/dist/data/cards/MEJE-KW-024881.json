@@ -5,8 +5,8 @@
   "original": "Lonely Despite Staying in Touch",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02671",
+  "primary_tag_id": "ML-T02671",
   "description": {
     "definition": "친구나 친척과 만남은 이어지지만 상대의 진심이나 관심을 느끼지 못해 더 나은 관계를 갈망하는 구도이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "교류 자체가 없는 상태와 달리 관계의 형식과 정서적 내용이 어긋난다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.041",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께 지내기는 하는데 의무 때문에 옆에 있는 것 같아 더 외롭다.",
     "review_status": "reviewed",

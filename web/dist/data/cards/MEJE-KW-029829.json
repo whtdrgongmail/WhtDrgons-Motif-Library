@@ -4,8 +4,8 @@
   "title": "관계를 유지하며 다른 참여자와 성관계를 허용하기",
   "original": "Swingers",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02665",
+  "primary_tag_id": "ML-T02665",
   "description": {
     "definition": "지속적인 커플 관계를 유지하면서 비슷한 관계 방식에 참여하는 다른 사람들과의 성적 관계를 허용하는 합의형 관계 방식이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "다중 연애감정이 반드시 동반되는 것은 아니며 당사자들이 모르는 외도와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.035",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "연인 관계는 이어 가면서 다른 참여자와 성적 관계를 맺을 수 있다고 정한다.",
     "review_status": "reviewed",

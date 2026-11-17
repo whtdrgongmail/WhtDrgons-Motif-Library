@@ -4,8 +4,8 @@
   "title": "어린이 자리로 밀려난 손님",
   "original": "Dreaded Kids' Table",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "가족 모임의 식탁이 모자라자 나이가 어리거나 서열이 낮은 사람이 어린이용 자리에 앉게 되어 [[소외감]]을 느낀다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가족 식사에서 어린이 자리로 배정된 인물이 어른들의 대화에서 밀려났다고 느끼는 상황이다. 나이뿐 아니라 집안의 서열이 배치에 드러날 수 있으며, 같은 음식을 먹어도 동등한 구성원으로 인정받지 못한다는 [[소외감]]이 생긴다.",
     "review_status": "reviewed",

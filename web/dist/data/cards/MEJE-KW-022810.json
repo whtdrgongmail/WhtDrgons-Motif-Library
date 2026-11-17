@@ -4,8 +4,8 @@
   "title": "큰 몸 위를 잠자리로 삼기",
   "original": "Tummy Cushion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "몸집이 훨씬 작은 인물이 큰 인물의 몸 위에 누워 잠들며 편안함과 신뢰를 나타내는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상대를 제압해 올라탄 상황과 다르다. 크기 차이와 안전하게 몸을 맡기는 관계가 함께 표현되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "작은 친구가 큰 친구의 몸을 푹신한 잠자리처럼 쓴다.",
     "review_status": "reviewed",

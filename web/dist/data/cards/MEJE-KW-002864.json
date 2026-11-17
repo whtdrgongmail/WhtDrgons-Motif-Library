@@ -4,8 +4,8 @@
   "title": "괴물 같은 외형과 사랑의 관계",
   "original": "Beast and Beauty",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "한쪽 인물의 낯선 외형과 다른 쪽의 호감이 관계의 장애물과 기회가 된다. 아름다움과 거침이 성별이나 선악을 결정하지는 않으며 두 사람의 실제 선택에 따라 관계가 달라진다. 괴물의 외형이 [[동물 특징을 가진 인간형 존재]]의 종족 특징일 수도 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-12",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "무섭거나 괴물처럼 보이는 존재와 다른 인물이 서로 사랑하는 관계다. 주변의 외모 판단과 실제로 함께 지내며 알게 된 성격이 대비될 수 있다. [[동물 특징을 가진 인간형 존재]]처럼 종족의 생김새일 수도 있으며, 낯선 외형을 가해 행동과 같은 것으로 보지 않는다.",
     "review_status": "reviewed",

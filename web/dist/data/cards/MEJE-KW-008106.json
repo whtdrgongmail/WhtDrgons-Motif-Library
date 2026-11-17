@@ -4,8 +4,8 @@
   "title": "문자로 통보하는 이별",
   "original": "Dumped via Text Message",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "한 인물이 직접 만나 대화하지 않고 문자나 전자 메시지로 관계의 끝을 통보하는 전개.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 인물이 만나서 이야기하는 대신 문자나 전자 메시지로 이별을 알리는 전개다. 말을 보내는 사람에게는 거리를 둘 수 있는 방식이지만 받는 사람에게는 설명을 듣고 반응할 기회가 줄어들며, 관계의 끝이 일방적인 통보처럼 느껴질 수 있다.",
     "review_status": "reviewed",

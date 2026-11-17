@@ -4,8 +4,8 @@
   "title": "연애마다 위험한 상대를 만나다",
   "original": "Fatal Attractor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "한 인물이 사랑에 빠질 때마다 지속적인 관계를 맺기 어려운 상대를 만나 연애가 반복해서 무너진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인물이 사랑할 때마다 지속적인 관계를 맺기 어려운 상대에게 끌려 이별을 반복하는 설정이다. 한 번의 불운보다 비슷한 선택의 반복이 강조되며, 호감이 생기는 이유와 함께 살 수 있는 조건이 왜 다른지를 돌아보는 계기가 된다.",
     "review_status": "reviewed",

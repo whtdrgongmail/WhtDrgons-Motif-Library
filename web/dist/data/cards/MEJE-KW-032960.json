@@ -4,8 +4,8 @@
   "title": "유명해진 친구를 상품화해 이익을 얻기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "한 사람이 갑자기 유명해지자 가까운 사람이 그 명성과 이미지를 이용한 상품을 팔아 수익을 얻는 관계 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "친구의 동의나 수익 배분이 공정한지는 별도로 확인하며 명성 자체만으로 착취를 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "친구가 유명해지자 그 친구 이름으로 장사를 시작한다.",
     "review_status": "reviewed",

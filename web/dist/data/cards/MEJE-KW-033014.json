@@ -4,8 +4,8 @@
   "title": "동료에게 위험한 동행을 그만두라고 권하기",
   "original": "You Can Turn Back",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02675",
+  "primary_tag_id": "ML-T02675",
   "description": {
     "definition": "주인공이 위험을 함께 감수하려는 동료들에게 자신과 계속 가기보다 돌아가라고 설득하는 관계 장면이다.",
     "detail": "작품 사례: 소설 《[[해리 포터(소설 시리즈)]]》의 후반부에서 해리는 친구들에게 위험한 일에서 빠지라고 설득하지만 친구들은 거절한다. 동료의 안전을 바라는 말과 함께하겠다는 의지가 맞선다.",
@@ -13,14 +13,20 @@
     "boundary": "지도자가 선택권만 중립적으로 주는 경우보다 떠나도록 적극적으로 권하는 행동이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.045",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "나 때문에 위험해지지 말고 여기서 돌아가라고 한다.",
     "review_status": "reviewed",

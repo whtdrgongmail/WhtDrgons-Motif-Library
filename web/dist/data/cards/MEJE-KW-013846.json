@@ -4,8 +4,8 @@
   "title": "변한 모습 때문에 못 알아봄",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "원래 알던 사람이 변장이나 외모 변화로 달라져 재회한 상대가 같은 사람임을 알아채지 못하는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "관계의 기억 자체가 사라진 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "아는 사람이 눈앞에 있지만 모습이 달라 처음 보는 줄 안다.",
     "review_status": "reviewed",

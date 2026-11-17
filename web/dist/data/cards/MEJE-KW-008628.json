@@ -4,8 +4,8 @@
   "title": "적에게서 온 연민",
   "original": "Enemy Compassion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "오랜 적이 상대의 고통을 알아보고 뜻밖의 위로나 도움을 건네 적대 관계를 흔든다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 적대하던 인물 중 한쪽이 상대의 고통을 보고 뜻밖에 위로나 도움을 주는 장면이다. 싸움의 이유가 모두 사라지지 않아도 상대를 고통받는 사람으로 볼 수 있으며, 정해진 적의 모습이 흔들리면서 이후 관계의 가능성이 생긴다.",
     "review_status": "reviewed",

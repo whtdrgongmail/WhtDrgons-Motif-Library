@@ -4,8 +4,8 @@
   "title": "간접 입맞춤으로 받아들이는 물건 공유",
   "original": "Indirect Kiss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "좋아하는 사람이 입을 댄 음식·컵 등의 흔적을 공유하는 행위를 직접 입맞춤에 가까운 친밀함으로 의식한다.",
     "detail": "작품 사례: 《[[카구야 님은 고백받고 싶어 ~천재들의 연애 두뇌전~]]》에서 카구야는 찻잔을 바꾸어 시로가네의 반응을 보려다가 자신도 그의 잔으로 마시게 된다는 사실을 의식한다.",
@@ -13,14 +13,20 @@
     "boundary": "같은 물건을 써도 인물이 친밀함을 의식하지 않으면 해당 장면의 작동이 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 입 댄 곳에 자기 입이 닿는 것을 입맞춤처럼 느낀다.",
     "review_status": "reviewed",

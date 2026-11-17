@@ -4,8 +4,8 @@
   "title": "정당한 반격 때문에 가해자보다 나쁘게 평가받기",
   "original": "Fighting Back Is Wrong",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "괴롭힘에 정당하게 맞선 인물이 원래 가해자보다 더 나쁜 사람으로 평가된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "같이 처벌받는 학교 제도뿐 아니라 평판과 도덕적 평가를 포함해 기존 카드보다 범위가 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "당하고만 있지 않았다는 이유로 더 큰 비난을 받는다.",
     "review_status": "reviewed",

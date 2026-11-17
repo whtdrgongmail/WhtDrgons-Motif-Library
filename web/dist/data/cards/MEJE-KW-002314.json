@@ -4,8 +4,8 @@
   "title": "주류에서 벗어난 사람에게 끌리기",
   "original": "Attraction to Outliers",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "[[공동체]]가 낯설거나 부적합하다고 여기는 특징을 누군가는 매력으로 받아들인다. 인물의 취향과 사회의 평가가 부딪히며 관계의 의미가 드러난다. 사회의 판단과 개인의 호감이 갈리는 지점은 [[외모에 따른 차별]]을 살필 때도 중요하다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "주변 [[공동체]]가 어색하거나 부적절하다고 평가한 성격과 외형을 다른 인물은 매력으로 느끼는 관계다. 모두의 취향을 따라야 한다는 기대와 개인의 호감이 충돌한다. 낮게 평가받은 사람에게도 자기 의사와 상대를 선택할 권리가 있다는 점이 중요하다.",
     "review_status": "reviewed",

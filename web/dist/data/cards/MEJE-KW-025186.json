@@ -4,8 +4,8 @@
   "title": "상대의 사소한 점을 기억하여 애정을 드러내기",
   "original": "Loving Details",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "좋아하는 사람의 작은 습관이나 드문 정보까지 자세히 알고 있음을 말이나 행동으로 보여 주어 애정의 깊이를 드러내는 방식이다.",
     "detail": "작품 사례: 《[[심슨 가족]]》에서 마지는 호머가 대중교통을 피하고 내리막길을 좋아하며 깜박이는 불빛에 끌린다는 습관을 기억해 그를 찾아낸다. 사소한 관찰이 상대를 얼마나 알고 사랑하는지 보여 준다.",
@@ -13,14 +13,20 @@
     "boundary": "연애에 한정하지 않지만 애정이 있어야 한다. 정보의 양이 상대의 동의나 건강한 관계를 보장하지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "별것 아닌 취향과 버릇까지 기억하는 데서 마음이 보인다.",
     "review_status": "reviewed",

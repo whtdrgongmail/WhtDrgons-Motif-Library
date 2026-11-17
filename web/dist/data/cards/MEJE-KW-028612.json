@@ -4,8 +4,8 @@
   "title": "너무 닮아서 부딪히는 관계",
   "original": "Too Much Alike",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "성격·욕구·행동 방식이 지나치게 비슷하다는 점 때문에 두 사람이 오히려 함께 지내기 어려워지는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "다른 점 때문에 충돌하거나 단순히 같은 목표를 경쟁하는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "공통점이 친해질 이유가 아니라 충돌의 원인이 된다.",
     "review_status": "reviewed",

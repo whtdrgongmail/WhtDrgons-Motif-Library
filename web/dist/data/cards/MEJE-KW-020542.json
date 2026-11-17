@@ -4,8 +4,8 @@
   "title": "진짜 구성원이 사칭자를 비웃기",
   "original": "Pretender Diss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "어떤 집단에 실제로 속한 사람이 그 집단의 일원처럼 행세하는 상대를 가짜라고 조롱하는 [[갈등]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "신규 구성원이라는 이유만으로 배제하는 것과 구별한다. 행세와 실제 소속의 차이가 제시되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "소속을 주장하는 사람에게 진짜 경험과 자격이 없다고 지적하며 권위를 빼앗는다.",
     "review_status": "reviewed",

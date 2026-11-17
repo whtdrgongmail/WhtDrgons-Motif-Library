@@ -4,8 +4,8 @@
   "title": "예 아니요만 강요해 설명을 차단하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02676",
+  "primary_tag_id": "ML-T02676",
   "description": {
     "definition": "맥락이 필요한 질문에 양자택일 답변만 허용한 뒤 해명을 끊어 상대가 불리한 사실을 인정한 것처럼 만드는 대화 전략이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "복잡하지 않은 사실을 간단히 확인하는 질문과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.009.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "처음 합류한 명분과 달라진 집단을 의심하기",
   "original": "Not What I Signed on For",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "어떤 목적에 동의해 집단에 들어온 인물이 실제 목적이나 행동이 기대와 다르다는 사실을 알고 참여를 재고하는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "반드시 악당 조직이거나 즉시 탈퇴해야 하는 것은 아니다. 원래 알고 동의한 일이 힘들다는 불평과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋은 일인 줄 알고 가입했는데 하는 일을 보니 처음 약속과 달라 남아도 될지 고민한다.",
     "review_status": "reviewed",

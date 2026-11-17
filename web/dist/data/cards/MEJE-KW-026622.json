@@ -4,8 +4,8 @@
   "title": "다재다능한 여성과 평범한 남성의 짝",
   "original": "Talented Princess, Regular Guy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "여러 재능을 지닌 여성과 특별한 능력이 없는 보통 남성을 한 쌍으로 배치하는 관계이다.",
     "detail": "현재 항목은 평범한 남성을 관객이 자신을 대입하는 인물로 활용하는 설명을 덧붙인다.",
@@ -13,14 +13,20 @@
     "boundary": "여성이 높은 신분일 수 있지만 실제 공주 신분이나 남성의 열등감은 필수 조건이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "여성 쪽은 뛰어난 점이 많고 남성 쪽은 평범하다.",
     "review_status": "reviewed",

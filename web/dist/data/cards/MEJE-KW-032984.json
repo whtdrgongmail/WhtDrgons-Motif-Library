@@ -4,8 +4,8 @@
   "title": "다른 성격의 친구가 몰랐던 면을 끌어내기",
   "original": "Odd Friendship",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "서로 다른 기질을 가진 친구들이 관계를 통해 상대에게 없다고 여겼던 감정·강점·시각을 발견하는 구성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "차이가 드러나기만 하는 관계보다 상대 때문에 새로운 면을 보게 되는 변화가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 친구와 지내며 자신도 몰랐던 모습을 보인다.",
     "review_status": "reviewed",

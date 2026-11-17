@@ -4,8 +4,8 @@
   "title": "울어도 괜찮다고 허락해 주기",
   "original": "It's Okay to Cry",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "슬픔을 드러내면 약하다고 느껴 눈물을 참는 인물에게 다른 사람이 울어도 된다고 말해, 억눌린 감정을 표현할 수 있는 관계적 여지를 주는 장면이다.",
     "detail": "작품 사례: 《[[원피스]]》에서 노예 생활 탓에 울지 않도록 길들여진 코알라에게 피셔 타이거가 해치지 않겠다며 울어도 된다고 말하자, 코알라는 마침내 눈물을 흘린다.",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "울음을 참는 사람에게 약한 게 아니니 마음껏 울어도 된다고 해 준다.",
     "review_status": "reviewed",

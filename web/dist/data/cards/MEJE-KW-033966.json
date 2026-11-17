@@ -4,8 +4,8 @@
   "title": "서로 먼저 가라며 양보하다 움직이지 못하기",
   "original": "Canadian Standoff",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "문이나 통로에서 두 사람이 상대가 먼저 가야 한다고 거듭 양보하여 아무도 나아가지 못하거나 동시에 움직여 부딪히는 관계 농담이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "특정 국적의 실제 성격으로 일반화하지 않으며 위협을 숨긴 양보인지 선의의 예절인지는 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 먼저 가라고 하다가 둘 다 못 들어간다.",
     "review_status": "reviewed",

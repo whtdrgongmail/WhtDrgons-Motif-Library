@@ -4,8 +4,8 @@
   "title": "악역이 영웅의 자질을 진심으로 인정하기",
   "original": "Villain Respect",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "[[적대자]]가 영웅의 성취나 성품을 진심으로 칭찬하고 존중한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "조롱·매수용 가짜 칭찬과 구별하며 적대가 끝나야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "적이지만 그 점은 훌륭하다고 인정한다.",
     "review_status": "reviewed",

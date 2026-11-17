@@ -4,8 +4,8 @@
   "title": "실용적인 남성과 활기찬 여성의 짝",
   "original": "Savvy Guy, Energetic Girl",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "영리하고 현실적인 판단을 하는 남성과 열정적이고 활력이 넘치는 여성을 짝지어 대조하는 관계 구성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "성별이 실제로 특정 성격을 결정한다는 뜻이 아니라 인물 배치의 관습이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한쪽은 계산하고 정리하며 다른 쪽은 기운 있게 움직인다.",
     "review_status": "reviewed",

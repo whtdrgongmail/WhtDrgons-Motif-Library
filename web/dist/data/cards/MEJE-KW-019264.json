@@ -4,8 +4,8 @@
   "title": "동료 수감자에게도 배척받는 죄수",
   "original": "Pariah Prisoner",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "교도소 안의 다른 수감자들이 미워하거나 배척하여 그들 사이에서도 고립된 죄수다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "교도관과 대립한다는 사실만으로는 해당하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "감옥에 들어간 뒤에도 다른 죄수들에게 받아들여지지 않는다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "할 수 있는 일은 다 했다고 죄책감을 달래기",
   "original": "You Did Everything You Could",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02652",
+  "primary_tag_id": "ML-T02652",
   "description": {
     "definition": "실패를 자기 탓으로 돌리는 인물에게 주변 사람이 당시 가능한 노력을 다했다며 책임감과 자책을 완화하려는 대화다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "결과가 나빴다는 이유만으로 자신을 벌하지 말라고 위로한다.",
     "review_status": "reviewed",

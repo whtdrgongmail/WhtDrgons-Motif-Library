@@ -4,8 +4,8 @@
   "title": "코끝을 건드리는 애정 표현",
   "original": "Affectionate Gesture to the Nose",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "코끝을 가볍게 건드리는 동작으로 친근함을 표현하는 장면. 말보다 짧은 접촉이 두 인물의 거리와 장난스러운 분위기를 전한다. [[머리를 쓰다듬는 애정 표현]]과 함께 볼 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "손가락으로 상대의 코끝을 살짝 건드리며 장난스러운 애정을 표현하는 몸짓이다. 익숙한 사이에서는 둘만의 인사처럼 쓰일 수 있지만 원치 않는 접촉이면 불편하다. [[머리를 쓰다듬는 애정 표현]]처럼 관계와 수용 여부에 따라 의미가 달라진다.",
     "review_status": "reviewed",

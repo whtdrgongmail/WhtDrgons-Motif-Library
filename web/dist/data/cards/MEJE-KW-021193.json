@@ -4,8 +4,8 @@
   "title": "고립 속에서 기존 선호를 넘어서는 관계",
   "original": "Situational Sexuality",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "연애 상대를 만날 기회가 제한된 환경에서 인물들이 평소의 성별 선호와 다른 상대와 친밀한 관계를 맺는 서사적 상황이다.",
     "detail": "작품 속 조건과 당사자의 선택을 다루며 현실의 성적 지향이 고립 때문에 반드시 바뀐다고 일반화하지 않는다.",
@@ -13,14 +13,20 @@
     "boundary": "강요된 행위나 평소 선호와 일치하는 상대를 만나는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로만 의지할 수 있는 환경에서 평소와 다른 상대에게 친밀감을 느낀다.",
     "review_status": "reviewed",

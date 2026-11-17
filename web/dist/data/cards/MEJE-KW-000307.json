@@ -4,8 +4,8 @@
   "title": "무심코 껴안고 뒤늦게 어색해지기",
   "original": "Accidental Hug",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "기쁨이나 안도에 휩쓸린 두 인물이 순간적으로 껴안았다가 자신들의 관계를 의식하고 급히 떨어지는 장면. 짧은 접촉과 뒤늦은 반응이 숨은 [[친밀감]]을 암시한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "무사히 돌아온 기쁨이나 안도 때문에 생각할 겨를 없이 포옹했다가, 두 사람이 뒤늦게 행동의 의미를 의식하는 장면이다. 급히 떨어지거나 말을 더듬는 반응으로 [[친밀감]]이 드러나며, 곧바로 연인이 되었다는 의미까지 포함하지는 않는다.",
     "review_status": "reviewed",

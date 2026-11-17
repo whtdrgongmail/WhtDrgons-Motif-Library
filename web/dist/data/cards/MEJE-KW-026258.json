@@ -4,8 +4,8 @@
   "title": "평소 취향과 다른 사람에게 사랑에 빠지기",
   "original": "True Love is Exceptional",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "보통 자신이 좋아하는 유형에 속하지 않는 상대에게 특별한 연애 감정을 느낀다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "그 예외가 기존 지향 전체를 바꾼다고 자동으로 해석하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "내 취향이 아닌데 그 사람만은 다르다.",
     "review_status": "reviewed",

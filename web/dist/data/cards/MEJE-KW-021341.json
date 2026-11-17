@@ -4,8 +4,8 @@
   "title": "자기 문제라며 이별을 통보하기",
   "original": "It's Not You, It's Me",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "연인이나 구애 상대에게 관계를 이어 갈 수 없는 이유가 상대의 부족함이 아니라 자신에게 있다고 설명하는 이별·거절 방식이다.",
     "detail": "작품 사례: 《[[프렌즈]]》에서 인물들은 이별할 때 쓰는 말을 이야기하며, ‘네 문제가 아니다’가 실제로는 상대 때문이라는 뜻으로 쓰일 수 있다고 농담한다.",
@@ -13,14 +13,20 @@
     "boundary": "항상 거짓 핑계인 것은 아니다. 자신의 위험한 삶이나 정체성처럼 진짜 이유일 수도 있고 나중에 상대 탓이라고 말을 바꿀 수도 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "네가 잘못해서가 아니라 내 사정 때문에 헤어지자는 말이다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "식당 손님이 그곳의 종업원과 사랑에 빠지기",
   "original": "A Side Order of Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "식당을 찾은 손님이 자신을 응대하는 종업원에게 연애 감정을 느끼며 관계가 시작된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "직업상 친절을 실제 호감으로 단정하지 않고 작품에서 드러난 관계를 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "식당에 갔다가 그곳에서 사랑을 만난다.",
     "review_status": "reviewed",

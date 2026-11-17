@@ -4,8 +4,8 @@
   "title": "눈을 맞추면 진심이 보인다는 믿음",
   "original": "Eye Contact as Proof",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "상대의 눈을 바라보면 거짓과 진심을 판별할 수 있다고 여기며 눈맞춤을 증거로 삼는 관계 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대의 눈을 똑바로 보면 거짓말인지 알 수 있다고 여기며 눈맞춤을 요구하는 장면이다. 작품에서는 신뢰의 확인으로 쓰이지만 시선만으로 진실이 입증되는 것은 아니며, 바라보는 태도와 실제 사실이 다를 때 오해가 생길 수 있다.",
     "review_status": "reviewed",

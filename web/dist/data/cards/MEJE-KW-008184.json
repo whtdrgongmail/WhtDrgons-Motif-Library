@@ -4,8 +4,8 @@
   "title": "귀를 닦아 주는 친밀한 시간",
   "original": "Ear Cleaning",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "한 인물이 다른 사람의 귀를 닦아 주는 행동으로 돌봄과 가까운 관계를 드러내는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람이 다른 사람의 귀를 닦아 주는 행동으로 가까운 돌봄의 관계를 보여 주는 장면이다. 서로 신체를 맡길 만큼 편안한 거리가 강조되며, 행동 자체보다 돌보는 사람의 세심함과 받는 사람의 신뢰가 감정의 중심이 된다.",
     "review_status": "reviewed",

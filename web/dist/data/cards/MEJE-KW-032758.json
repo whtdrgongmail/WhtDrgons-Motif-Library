@@ -4,8 +4,8 @@
   "title": "종족을 잇기 위해 특정인에게 출산을 요구하기",
   "original": "Only You Can Repopulate My Race",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "종족의 존속을 위해 특정한 두 사람만 후손을 만들 수 있다는 설정이 개인에게 원치 않는 관계와 출산의 압박을 주는 구도다.",
     "detail": "작품 사례: 《[[퓨처라마]]》에서 릴라는 같은 종족이라고 주장하는 남성과 종족을 잇기 위해 결혼해야 한다고 여긴다. 이후 그가 여러 상대에게 같은 거짓말을 하던 변신 외계인임이 드러난다.",
@@ -13,14 +13,20 @@
     "boundary": "종족 재건 일반과 달리 특정인을 유일한 상대라고 지목하는 압박이 핵심이다. 허구의 번식 규칙을 실제 인구학으로 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "나만이 종족을 살릴 수 있다는 이유로 원하지 않는 결합을 요구받는다.",
     "review_status": "reviewed",

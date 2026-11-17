@@ -4,8 +4,8 @@
   "title": "헤어진 연인과 계속 함께 일하기",
   "original": "Working with the Ex",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "연애 관계는 끝났지만 직업상의 연결 때문에 서로 만나고 협력해야 하는 관계 설정이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "우연한 재회와 달리 업무가 지속적인 접촉을 요구한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "헤어진 뒤에도 직장에서 계속 얼굴을 봐야 한다.",
     "review_status": "reviewed",

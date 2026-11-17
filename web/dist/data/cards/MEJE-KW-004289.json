@@ -4,8 +4,8 @@
   "title": "사랑하는 상대에게는 저속한 행동을 삼가기",
   "original": "Can't Act Perverted Toward a Love Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "평소 친밀함을 가볍게 농담하던 인물이 진심으로 좋아하는 사람 앞에서는 태도를 바꾼다. 존중의 표현인지 상대를 이상화한 거리 두기인지 관계에서 드러난다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "평소에는 성적 농담이나 거친 말을 쉽게 하던 사람이 진심으로 좋아하는 상대에게는 행동을 조심하는 변화다. 상대를 존중하려는 마음일 수도 이상화하여 자연스럽게 대하지 못하는 것일 수도 있다. 특정 사람 앞에서 달라졌다고 평소의 부적절한 행동이 사라지지는 않는다.",
     "review_status": "reviewed",

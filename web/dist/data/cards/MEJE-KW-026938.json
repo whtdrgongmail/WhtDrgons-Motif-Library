@@ -4,8 +4,8 @@
   "title": "연애 감정 없는 성적 동반자",
   "original": "Friends with Benefits",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "서로 성적 관계를 맺으면서도 연인 관계를 맺지 않고 사랑에 빠지지 않는 두 사람의 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-010796은 장기성이나 배타성에 대한 약속의 부재를 조건으로 한다. 현재는 연애 감정이 없다는 조건을 명시한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께 성적 관계를 가지지만 서로를 연애 상대로 사랑하는 관계는 아니다.",
     "review_status": "reviewed",

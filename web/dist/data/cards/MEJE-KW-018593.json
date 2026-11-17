@@ -4,8 +4,8 @@
   "title": "가치를 돌려주어야 하는 빚",
   "original": "Debt",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02672",
+  "primary_tag_id": "ML-T02672",
   "description": {
     "definition": "한쪽이 다른 쪽에게 돈·물건 등 가치 있는 것을 돌려주어야 하는 의무를 지는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "채무를 집행하는 제도 전체와 구별하며 단순한 고마움은 같은 의무가 아닐 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.042",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "받거나 빌린 가치 때문에 상대에게 갚아야 할 것이 생긴다.",
     "review_status": "reviewed",

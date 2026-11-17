@@ -4,8 +4,8 @@
   "title": "크로스오버에서 서로를 비추는 인물",
   "original": "Crossover Foil",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "다른 작품의 인물 둘이 공동 이야기에서 성격과 가치관의 차이로 서로를 더 뚜렷하게 만든다. 대립하거나 협력하는 과정이 각자의 특징을 비춘다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 작품에서 온 두 인물이 함께 등장해 성격과 가치관의 차이를 선명하게 보여 주는 조합이다. 꼭 적이 될 필요는 없으며, 같은 사건에 각기 다르게 반응하는 모습을 통해 원래 작품에서는 드러나지 않던 특징을 강조한다.",
     "review_status": "reviewed",

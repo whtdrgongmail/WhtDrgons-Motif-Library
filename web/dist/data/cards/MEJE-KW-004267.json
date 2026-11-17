@@ -4,8 +4,8 @@
   "title": "사랑하는 사람에게 치명타를 주지 못하기",
   "original": "Cannot Kill Their Loved Ones",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "상대가 적이 되었어도 인물은 오래 쌓인 애정 때문에 그를 죽이지 못한다. 결정을 미루는 동안 남은 사람들의 위험도 커질 수 있다. [[필요해서 적을 살려 두기]]가 상대의 필요성 때문이라면 여기서는 개인적 애정이 결정을 멈춘다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "적이 된 상대를 쓰러뜨릴 기회가 있어도 과거의 애정 때문에 죽이는 행동을 하지 못하는 장면이다. 개인적인 관계와 다른 사람을 지켜야 하는 책임이 충돌한다. [[필요해서 적을 살려 두기]]처럼 활용 가치 때문이 아니라 사랑이 결정에 영향을 주는 경우다.",
     "review_status": "reviewed",

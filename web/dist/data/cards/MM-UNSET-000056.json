@@ -4,8 +4,8 @@
   "title": "역할 분담",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02667",
+  "primary_tag_id": "ML-T02667",
   "description": {
     "definition": "여러 사람이 공동의 생활이나 목표를 위해 맡을 일과 책임 범위를 나누는 관계 방식이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.037",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께 해야 할 일을 한 사람이 전부 맡지 않도록 각자의 몫을 정하는 것이다. 서로의 능력과 상황에 맞게 조정할 수 있지만, 책임을 계속 한쪽에 떠넘기는 상태와는 구별된다.",
     "review_status": "reviewed",

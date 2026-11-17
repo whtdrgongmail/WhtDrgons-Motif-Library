@@ -6,8 +6,8 @@
   "aliases": [
     "적대 관계에서도 보답으로 빚을 정리하기"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02672",
+  "primary_tag_id": "ML-T02672",
   "description": {
     "definition": "이전의 도움에 상응하는 도움을 돌려주며 서로 빚진 [[관계]]가 정리되었다고 여기는 반응이다.",
     "detail": "",
@@ -15,14 +15,20 @@
     "boundary": "새로운 [[친밀감]]의 약속이나 무조건적 헌신과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.042",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "경쟁자를 구한 뒤 이제 서로 갚았다고 말한다.",
     "review_status": "reviewed",

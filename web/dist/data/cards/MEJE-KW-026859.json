@@ -4,8 +4,8 @@
   "title": "사랑을 입증하려고 하는 행동",
   "original": "Act of True Love",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "말로 주장하는 데 그치지 않고 자신의 사랑이 사실임을 보여 주기 위해 어떤 행동을 하는 관계 장치이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-000855는 상대의 안녕을 위한 자기 희생에 한정된다. 현재 항목은 행동의 방식이나 희생의 유무를 특정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사랑한다는 말이 진심이라는 것을 행동으로 보여 주려 한다.",
     "review_status": "reviewed",

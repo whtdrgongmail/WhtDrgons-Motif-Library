@@ -4,8 +4,8 @@
   "title": "청혼으로 오해받은 말과 행동",
   "original": "Accidental Proposal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "반지나 무심코 한 말이 상대에게 청혼으로 해석되어 관계가 갑자기 진전되는 듯 보이는 장면. 실제 의도를 설명하기 어려워질수록 오해가 커진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "단순한 선물이나 즉흥적인 발언을 상대가 결혼 제안으로 받아들이는 상황이다. 한쪽은 기뻐하며 미래를 계획하는데 다른 쪽은 의미를 바로잡지 못하면서 갈등이 커진다. 실제 청혼과 달리 말한 의도와 받아들인 뜻의 차이가 중심이다.",
     "review_status": "reviewed",

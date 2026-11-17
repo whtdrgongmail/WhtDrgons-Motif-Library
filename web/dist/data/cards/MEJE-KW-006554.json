@@ -4,8 +4,8 @@
   "title": "춤추며 시작되는 로맨스",
   "original": "Dance of Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "가까이 춤추는 동안 두 인물이 전에 없던 설렘이나 호감을 깨닫는다. 함께 맞춘 발걸음이 관계의 변화를 이끈다. 두 인물의 가까운 춤은 [[사교 무도회]]의 사회적 공간에서 자주 일어난다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 인물이 함께 춤추며 서로의 가까운 거리와 호흡 속에서 호감을 깨닫는 장면이다. 평소의 대화와 다른 방식으로 상대를 의식하게 되며, [[사교 무도회]] 같은 공개적인 자리에서도 둘만의 감정 변화가 중심이 될 수 있다.",
     "review_status": "reviewed",

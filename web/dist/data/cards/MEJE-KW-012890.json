@@ -4,8 +4,8 @@
   "title": "동료의 죽음으로 꺾이는 팀",
   "original": "Losing the Team Spirit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "구성원의 [[죽음]]이 팀 전체의 의욕과 결속을 약화하여 공동 [[행동]]을 어렵게 만드는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "개인 한 명의 슬픔만으로는 부족하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "늘 활기 있던 팀이 사별 뒤 목표를 놓친다.",
     "review_status": "reviewed",

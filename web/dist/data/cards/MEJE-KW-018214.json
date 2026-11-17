@@ -4,8 +4,8 @@
   "title": "본인보다 더 사랑받는 사칭자",
   "original": "Preferable Impersonator",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "누군가의 신분을 흉내 내는 사칭자가 실제 그 인물보다 주변 사람들에게 더 좋은 평가나 호감을 얻는 관계 구도다.",
     "detail": "외형의 유사성보다 대하는 방식이나 행동으로 평가가 뒤집히는 데 초점을 둔다.",
@@ -13,14 +13,20 @@
     "boundary": "정체를 몰라 원래의 평판을 그대로 이어받는 것만으로는 해당하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가짜가 진짜보다 사람들에게 더 환영받는다.",
     "review_status": "reviewed",

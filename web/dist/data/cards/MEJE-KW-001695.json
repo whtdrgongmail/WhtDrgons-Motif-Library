@@ -4,8 +4,8 @@
   "title": "종이 다르다는 이유로 대립하는 동물들",
   "original": "Animal Jingoism",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "작품 속 동물 종들이 개별 인물의 경험과 무관하게 오래된 적대 관계를 가진 것처럼 행동하는 설정. 실제 생태 관계의 재현이라기보다 이야기 속 집단 규범과 편견으로 구성된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-12",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "작품 속 동물들이 개인적으로 만난 적이 없어도 종이 다르다는 이유로 서로 적대하는 설정이다. 집단이 가르친 규칙 때문에 친구가 되기 어려운 상황을 만들 수 있다. 현실의 모든 동물이 같은 적대 관계를 갖는다고 단정하는 생태 설명은 아니다.",
     "review_status": "reviewed",

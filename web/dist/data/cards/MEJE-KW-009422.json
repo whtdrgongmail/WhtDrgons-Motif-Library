@@ -4,8 +4,8 @@
   "title": "적을 믿는 결정적 순간",
   "original": "Faith in the Foe",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "다른 사람들은 의심하는 인물을 오랜 적만이 신뢰하며 그 믿음이 진실이나 협력의 계기가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 사람들이 어떤 인물을 의심할 때 오랜 적이 오히려 그를 믿는 장면이다. 선량하다고 생각해서가 아니라 오래 맞서며 원칙과 성격을 잘 알기 때문일 수 있으며, 그 신뢰가 뜻밖의 협력과 진실 확인의 계기가 된다.",
     "review_status": "reviewed",

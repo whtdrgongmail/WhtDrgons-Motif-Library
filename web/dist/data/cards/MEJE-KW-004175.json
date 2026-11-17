@@ -4,8 +4,8 @@
   "title": "연락 없이 늦게 돌아와 혼나기",
   "original": "Calling Out for Not Calling",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "예정보다 오래 자리를 비운 인물이 연락하지 않아 기다린 사람의 걱정과 분노를 마주한다. 돌아온 이유만큼 남겨진 사람의 시간이 중요하다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "돌아오기로 한 시간을 넘기고도 연락하지 않은 사람이 귀가한 뒤 기다린 사람의 화와 걱정을 마주하는 장면이다. 늦어진 이유만 설명하면 상대가 겪은 불안은 남을 수 있다. 안전을 확인하려는 대화와 외출을 과도하게 통제하는 행동은 구별해야 한다.",
     "review_status": "reviewed",

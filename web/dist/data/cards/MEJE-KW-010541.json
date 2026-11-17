@@ -4,8 +4,8 @@
   "title": "용서했지만 남은 상처",
   "original": "Forgiven, but Not Forgotten",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02668",
+  "primary_tag_id": "ML-T02668",
   "description": {
     "definition": "피해자가 상대를 용서하더라도 기억과 불신은 남아 이전과 같은 관계로 곧바로 돌아가지 못하는 상태다. 상처가 남아 있는 관계에서 [[용서]]는 곧바로 신뢰의 회복을 뜻하지 않는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.038",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "피해자가 더는 상대를 벌하거나 원망하지 않기로 해도 상처의 기억과 경계는 남는 관계다. [[용서]]가 모든 일을 없던 일로 만드는 것은 아니므로, 이전처럼 가까워지려면 별도의 시간과 책임 있는 행동이 필요하다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "같은 집안 규칙을 환대 방식으로 다르게 전달하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "신발을 벗게 하는 동일한 요구라도 앉을 자리·대체 신발·보관 장소를 마련하는지에 따라 배려나 냉대를 드러내는 장면 구성이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제 모든 문화의 예절을 평가하는 기준이 아니라 작품 속 세부 행동의 관계적 기능이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "무엇을 시키는지뿐 아니라 손님이 편히 따를 수 있게 하는지가 태도를 보여 준다.",
     "review_status": "reviewed",

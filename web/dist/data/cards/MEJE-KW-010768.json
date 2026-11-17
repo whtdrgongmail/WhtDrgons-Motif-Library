@@ -4,8 +4,8 @@
   "title": "서로를 키우는 우호적 경쟁",
   "original": "Friendly Rivalry",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01021",
+  "primary_tag_id": "ML-T01021",
   "description": {
     "definition": "두 인물이 맞서 이기려 하면서도 상대의 실력을 존중하고 다음 대결을 통해 함께 성장한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 인물이 서로 이기려고 노력하면서도 상대의 실력을 존중하고 발전을 기뻐하는 관계다. 승리만 위해 방해하는 적대와 달리 좋은 경쟁자가 계속 있어 주기를 바라며, 패배도 다음 만남을 준비하고 성장하는 계기가 된다.",
     "review_status": "reviewed",

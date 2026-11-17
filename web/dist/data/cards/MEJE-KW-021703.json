@@ -4,8 +4,8 @@
   "title": "명백히 수상해도 신뢰받는 악인",
   "original": "Devil in Plain Sight",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "악한 의도를 의심할 표지가 드러나는데도 주변 인물들이 그 사람을 믿어 갈등이나 위험이 커지는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "경계하는 인물이 반드시 한 명 있어야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "수상한데도 모두가 믿고 따른다.",
     "review_status": "reviewed",

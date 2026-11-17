@@ -4,8 +4,8 @@
   "title": "나이 든 영웅과 젊은 악역의 대결",
   "original": "Older Hero vs. Younger Villain",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "연륜이 많은 영웅을 육체적 전성기에 가까운 젊은 악역과 맞세워 나이·체력·경험의 차이를 [[갈등]]의 중요한 조건으로 삼는 대결 구도다.",
     "detail": "작품 사례: 《[[배트맨: 다크 나이트 리턴즈]]》의 나이 든 배트맨은 젊고 강한 뮤턴트 우두머리와 정면으로 싸우다 패배한다. 재대결에서는 환경과 경험을 이용해 상대의 신체적 우세를 무너뜨린다.",
@@ -13,14 +13,20 @@
     "boundary": "태도만 어른스럽거나 유치한 대비와 달리 실제 연령 차이가 기본 조건이다. 노년 영웅의 승리가 항상 보장되지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "젊은 힘과 오래 쌓인 경험이 맞붙는다.",
     "review_status": "reviewed",

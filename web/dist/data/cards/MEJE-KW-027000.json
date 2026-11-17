@@ -4,8 +4,8 @@
   "title": "사랑한다고 하면서 서로 미워하듯 행동하기",
   "original": "The Masochism Tango",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "두 사람은 자신들이 사랑하는 사이라고 말하지만 실제 관계에서는 증오하는 듯한 적대적 행동을 보인다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "결혼했거나 다정함과 싸움을 교대로 보여야 하는 이전 제안의 조건은 필요하지 않다. 해악을 사랑의 증거로 정당화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "말은 사랑인데 행동은 미움에 가깝다.",
     "review_status": "reviewed",

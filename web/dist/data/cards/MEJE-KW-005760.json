@@ -4,8 +4,8 @@
   "title": "뜻밖에 맞아떨어지는 은밀한 취향",
   "original": "Conveniently Common Kink",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "말하기 어렵다고 여긴 친밀한 취향을 상대가 우연히 똑같이 공유해 관계의 거리감이 줄어드는 전개.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "말하기 민망하다고 느낀 친밀한 취향을 상대도 우연히 공유하고 있음을 아는 전개다. 혼자만 이상할 것이라는 걱정이 줄면서 거리가 가까워지며, 취향이 같다는 발견과 실제 행동에 대한 각자의 동의는 별도로 확인되는 관계다.",
     "review_status": "reviewed",

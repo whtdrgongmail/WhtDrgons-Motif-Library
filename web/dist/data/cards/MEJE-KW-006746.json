@@ -4,8 +4,8 @@
   "title": "죽은 조력자",
   "original": "Dead Sidekick",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "[[주인공]]과 가까웠던 [[조력자]]가 죽으며 주인공의 목표와 태도가 크게 달라진다. 관계의 상실이 복수나 결심의 계기가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "[[주인공]]과 가까운 [[조력자]]가 죽어 주인공의 목표와 행동이 크게 달라지는 전개다. 도움을 잃는 실용적인 손실에 애도와 죄책감이 겹칠 수 있으며, 복수나 새로운 결심이 그 관계의 기억에서 비롯된다는 점이 중요하다.",
     "review_status": "reviewed",

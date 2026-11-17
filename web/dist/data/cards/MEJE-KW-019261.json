@@ -4,8 +4,8 @@
   "title": "고향에서 환영받지 못하는 인물",
   "original": "Never Accepted in His Hometown",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "다른 곳에서 어떤 평가를 받든 자기 고향의 사람들에게는 미움이나 배척을 받는 인물 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "낯선 도시의 차가운 환대와 달리 원래 소속되었던 고향의 관계다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "돌아갈 고향이 있어도 그곳 사람들은 자신을 반기지 않는다.",
     "review_status": "reviewed",

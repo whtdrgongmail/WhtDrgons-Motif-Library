@@ -4,8 +4,8 @@
   "title": "상대의 이름을 무시하는 호명",
   "original": "Do Not Call Me \"Paul\"",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "한 인물이 다른 인물의 이름과 선호하는 호칭을 존중하지 않아 개별 정체성을 부정하는 관계를 드러낸다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "본명을 거부하는 당사자의 선언보다 호명하는 쪽의 태도에 초점을 둔다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "원하는 이름을 불러 주지 않는 것으로 상대를 무시한다.",
     "review_status": "reviewed",

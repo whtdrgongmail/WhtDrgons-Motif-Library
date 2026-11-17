@@ -4,8 +4,8 @@
   "title": "신적 동료와 대등한 친구가 되기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "인간과 신적 위력을 가진 존재가 주인과 소유물의 위계 대신 서로를 대등한 친구로 대하는 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "신에게 기도하거나 일시적으로 도움을 얻는 관계, 명령과 복종만 남은 소유 관계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "함께 다니는 신 같은 생물을 부하가 아니라 친구로 여긴다.",
     "review_status": "reviewed",

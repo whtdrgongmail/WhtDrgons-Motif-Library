@@ -4,8 +4,8 @@
   "title": "양쪽에서 모두 경멸받는 중간 입장",
   "original": "Contempt Crossfire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "대립한 두 진영 사이에서 한쪽에 약간 가까운 인물이 양쪽 모두에게 무시당한다. 조정하려는 말도 배신이나 편들기로 오해받는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "갈라진 두 진영 사이에 있는 사람이 어느 쪽에서도 존중받지 못하는 상황이다. 한쪽과 조금 더 가깝더라도 완전한 동료로 여겨지지 않고 반대쪽에는 적으로 보일 수 있어, 조정하려는 말마저 배신이나 편들기로 오해받는다.",
     "review_status": "reviewed",

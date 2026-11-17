@@ -4,8 +4,8 @@
   "title": "편견과 다른 동기의 행동을 차별로 오해하기",
   "original": "Mistaken for Racist",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "특정 집단에 대한 적대처럼 들리는 말이나 행동이 실제로는 다른 맥락과 동기에서 나왔는데 주변이 차별적 편견의 증거로 판단하는 상황이다.",
     "detail": "작품 사례: 《[[스파이더맨: 클론 사가]]》에서 벤 라일리는 상사의 전 남편에 대해 들은 말을 바탕으로 적대적으로 대한다. 상대는 벤과 전 아내의 관계를 모르기 때문에 그 행동을 인종적 편견으로 해석한다.",
@@ -13,14 +13,20 @@
     "boundary": "작품이 실제 편견을 보여 주는 경우나 차별의 영향을 단순히 의도 없었다는 말로 지우는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 이유로 한 말을 집단 전체를 미워한다는 뜻으로 읽는다.",
     "review_status": "reviewed",

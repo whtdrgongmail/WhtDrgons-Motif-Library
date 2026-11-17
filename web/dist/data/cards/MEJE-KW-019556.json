@@ -4,8 +4,8 @@
   "title": "부유한 무리 속의 평범하거나 가난한 인물",
   "original": "Penny Among Diamonds",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "빈곤하거나 보통 계층인 인물이 부와 특권이 큰 사람들 사이에 놓여 생활 조건의 차이가 두드러진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "인물의 실제 가치와 경제적 지위를 동일시하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "주변은 모두 부자인데 자신만 형편이 다르다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "상대를 차지할 권리가 있다고 믿다",
   "original": "Entitled to Have You",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "한 인물이 소속 집단이나 관계를 이유로 다른 사람이 자신과 사귀거나 결혼해야 한다고 여기는 왜곡된 기대다. 상대의 선택을 지우는 태도가 갈등을 만든다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 인물이 신분이나 과거의 관계를 이유로 상대가 자신과 연애하거나 결혼해야 한다고 믿는 태도다. 호감과 동의가 필요한 관계를 권리처럼 취급하며, 기대를 거절하는 사람을 탓하거나 통제하려 할 때 갈등과 가해가 커진다.",
     "review_status": "reviewed",

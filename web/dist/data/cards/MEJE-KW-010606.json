@@ -4,8 +4,8 @@
   "title": "널 위해서라는 강요",
   "original": "For Your Own Good",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "보호자나 권한을 가진 인물이 상대의 의사를 무시한 결정을 '너를 위해서'라고 정당화하는 관계 갈등이다. 실제 이익과 [[통제 욕구]]가 뒤섞일 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "보호자나 권력자가 상대가 싫다고 해도 그를 위한 일이라며 결정을 강행하는 관계다. 실제로 이익이 있을 수 있어도 의사를 무시했다는 문제는 별개이며, 보호하려는 마음과 자신의 뜻을 따르게 하려는 [[통제 욕구]]가 섞일 수 있다.",
     "review_status": "reviewed",

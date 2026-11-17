@@ -4,8 +4,8 @@
   "title": "자신을 향한 연애 감정을 모르기",
   "original": "Oblivious to Love",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "다른 사람이 자신을 사랑하거나 좋아한다는 신호를 보여도 그 감정을 알아차리지 못하는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "알면서 응답하지 않거나 거절하는 것과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대는 호감을 표현하는데 자신은 전혀 그런 뜻으로 읽지 못한다.",
     "review_status": "reviewed",

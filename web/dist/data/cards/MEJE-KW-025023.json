@@ -5,8 +5,8 @@
   "original": "The Guest Who Outstays Their Welcome",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "남의 집에 머무는 사람이 호의가 허용한 기간을 넘겨 계속 체류하면서 부담스럽거나 무례한 존재로 평가되는 관계다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "합의한 장기 동거나 필요한 돌봄과 달리 머무름이 상대의 기대를 넘는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "처음에는 반가웠던 손님이 너무 오래 떠나지 않는다.",
     "review_status": "reviewed",

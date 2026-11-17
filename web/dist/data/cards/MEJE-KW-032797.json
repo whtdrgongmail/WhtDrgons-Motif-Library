@@ -4,8 +4,8 @@
   "title": "이별 직후의 대체 연인이 되기를 거부하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02675",
+  "primary_tag_id": "ML-T02675",
   "description": {
     "definition": "호감이 있더라도 상대가 갓 헤어진 상태라 자신을 상처를 메울 임시 대체자로 삼을까 우려해 교제를 미루거나 거절한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "관심이 없어서 거절하는 경우와 달리 시점과 관계의 진정성을 걱정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.045",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하지만 전 연인을 잊지 못한 것 같아 기다린다.",
     "review_status": "reviewed",

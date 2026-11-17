@@ -4,8 +4,8 @@
   "title": "악행 때문에 가까운 사람들에게 버림받기",
   "original": "Karmic Shunning",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "인물이 저지른 심각한 잘못 때문에 가족·친구·연인 등 가까운 사람들이 관계를 끊고 떠나는 전개다.",
     "detail": "작품 사례: 《[[어벤저스: 이니셔티브]]》에서 3-D 맨은 동료로 싸운 스크럴 크루세이더를 죽인 뒤 종족을 이유로 정당화한다. 다른 영웅들은 동료를 죽인 그를 받아들이지 않고, 그는 조직을 떠난다.",
@@ -13,14 +13,20 @@
     "boundary": "오해나 외부 선동 때문에 버림받는 경우와 달리 실제 행동이 관계 단절의 이유다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가장 가까웠던 사람들조차 그 행동은 받아들일 수 없다며 등을 돌린다.",
     "review_status": "reviewed",

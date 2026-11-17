@@ -4,8 +4,8 @@
   "title": "영웅적 행동 뒤에야 믿어 주는 공동체",
   "original": "Untrusting Community",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "주인공을 처음에는 불신하고 싫어하던 공동체가 그가 영웅적인 일을 해낸 뒤에야 받아들이는 관계 변화다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "처음부터 호의적인 집단이나 공헌 뒤에도 배척하는 관계와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "마을을 위해 행동으로 증명한 뒤에야 사람들이 그를 신뢰한다.",
     "review_status": "reviewed",

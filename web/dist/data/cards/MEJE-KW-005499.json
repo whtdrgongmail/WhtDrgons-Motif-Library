@@ -4,8 +4,8 @@
   "title": "정신건강 문제를 겪는 인물에게 공감하기",
   "original": "Compassion for the Mentally Ill",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "정신건강 문제를 겪는 인물을 주변 사람이 괴짜나 짐으로만 보지 않고 자신의 어려움과 바람을 가진 사람으로 대하는 관계 변화.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "정신건강의 어려움을 겪는 사람을 다른 인물이 부담이나 기이한 대상으로만 보지 않는 관계다. 증상만으로 인격 전체를 설명하지 않고 본인의 바람과 감정을 듣는 태도가 중요하며, 도움을 주는 과정에서도 선택과 존엄을 존중한다.",
     "review_status": "reviewed",

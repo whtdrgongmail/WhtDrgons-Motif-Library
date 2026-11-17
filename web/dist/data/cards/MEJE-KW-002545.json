@@ -4,8 +4,8 @@
   "title": "말하지 않아도 호흡이 맞는 실력자들",
   "original": "Badass Minds Think Alike",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02667",
+  "primary_tag_id": "ML-T02667",
   "description": {
     "definition": "미리 계획하지 않았는데도 두 인물이 싸움 속에서 서로의 다음 행동을 정확히 맞춘다. 공유한 경험이나 비슷한 판단 방식이 대화의 빈자리를 채운다. 말없이 협력하는 호흡은 [[구성원 모두가 실력자인 팀]]의 팀워크를 보여 주는 한 방식이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.037",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람이 자세히 지시하지 않아도 상대의 움직임을 예상해 빈틈을 메우는 협력 장면이다. 오랜 경험이나 비슷한 판단 기준이 전투 중 행동으로 드러난다. [[구성원 모두가 실력자인 팀]]에서도 나타날 수 있지만, 실력만 높다고 자동으로 호흡이 맞지는 않는다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "성노동자와 상류층 인물의 로맨스",
   "original": "Elite Man–Courtesan Romance",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "성노동에 종사하는 인물과 높은 사회적 지위를 가진 인물이 사랑의 관계를 맺는 구도이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-008458은 상류층 남성과 여성 성노동자에 한정된다. 현재 정의는 양쪽의 성별을 지정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 다른 사회적 위치에 있는 두 사람이 연인으로 연결된다.",
     "review_status": "reviewed",

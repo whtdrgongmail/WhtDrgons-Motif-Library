@@ -4,8 +4,8 @@
   "title": "귀환 불가 계획을 몰랐던 동료들",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "지도자를 따라온 동료들은 탈출 계획이 있을 것으로 믿었지만 뒤늦게 지도자가 자기희생과 함께 그들의 생환도 전제하지 않았다는 사실을 알게 되는 [[갈등]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "전원이 처음부터 위험과 목적을 알고 자발적으로 참여한 임무와 달리 정보와 동의의 불균형이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "따라온 사람들은 살 방법이 있는 줄 알았는데 계획은 처음부터 편도였다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "유대인 인물과 비유대인 연인의 관계",
   "original": "Shiksa Goddess",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "유대인 인물의 사랑 상대가 비유대인으로 설정되어 종교·문화 배경의 차이가 관계의 특징이 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "배경 차이가 반드시 갈등이나 가족의 반대를 만든다고 가정하지 않는다. 원문의 평가적 호칭을 상대에 대한 비하로 옮기지 않았다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 다른 문화적 배경의 두 사람이 사랑한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "세상을 떠난 연인과 경쟁하기",
   "original": "Competing with a Corpse",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "현재의 연인이 이미 세상을 떠난 옛 연인의 기억과 비교당한다고 느껴 관계 안에서 경쟁심과 불안을 겪는 상황. 살아 있는 구혼자끼리 공개적인 승부를 벌일 때에는 [[구혼 경쟁자에게 승부를 제안하기]]으로 이어진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "현재의 연인이 세상을 떠난 옛 연인의 기억과 비교된다고 느끼며 불안해하는 상황이다. 실제로 맞설 사람이 없어 이상화된 기억과 경쟁하게 되며, 살아 있는 경쟁자에게 직접 도전하는 [[구혼 경쟁자에게 승부를 제안하기]]와 달리 애도와 현재 관계가 얽힌다.",
     "review_status": "reviewed",

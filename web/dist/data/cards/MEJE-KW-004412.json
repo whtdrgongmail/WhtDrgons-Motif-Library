@@ -4,8 +4,8 @@
   "title": "차 안에서 라디오 선곡으로 다투기",
   "original": "Car Radio Dispute",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "함께 탄 사람들이 어떤 음악을 들을지를 두고 실랑이한다. 작은 취향 차이가 좁은 공간에서 관계의 힘겨루기가 된다. 선곡 다툼을 끝내고 함께 놀기로 하면 [[차 안에서 하는 길찾기 놀이]]가 차 안의 새 규칙이 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "차를 함께 탄 사람들이 라디오나 음악 재생기를 누가 조작할지, 어떤 곡을 틀지 다투는 장면이다. 좁은 공간에서 작은 취향 차이가 주도권 문제로 커질 수 있다. [[차 안에서 하는 길찾기 놀이]]처럼 함께 할 활동을 바꾸어 갈등을 줄이는 전개도 가능하다.",
     "review_status": "reviewed",

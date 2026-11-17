@@ -4,8 +4,8 @@
   "title": "바뀐 성별을 이용한 친밀감 계획",
   "original": "Gender-Bender Friendship",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02664",
+  "primary_tag_id": "ML-T02664",
   "description": {
     "definition": "신체가 바뀐 인물이 원래 좋아하던 상대와 가까워지려고 새로운 친구 관계를 맺으며 감정을 숨기는 관계 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "신체가 바뀐 인물이 좋아하던 사람에게 새 친구처럼 다가가며 원래의 감정을 숨기는 전개다. 겉으로 인식되는 관계와 본인이 바라는 관계가 달라지며, 정체를 알리지 않은 친밀함이 나중의 신뢰와 선택에 영향을 줄 수 있다.",
     "review_status": "reviewed",

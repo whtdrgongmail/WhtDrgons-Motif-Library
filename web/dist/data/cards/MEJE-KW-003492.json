@@ -4,8 +4,8 @@
   "title": "쌓인 감정이 터지는 관계의 큰 싸움",
   "original": "Blowout Fight",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "가까운 사람들이 오래 숨긴 불만을 한꺼번에 꺼내며 크게 다툰다. 한 번의 말다툼보다 그 뒤 관계가 어떻게 바뀌는지가 중요하다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가까운 사람들이 오랫동안 참았던 불만을 한 번의 다툼에서 한꺼번에 표현하는 장면이다. 사소한 계기로 시작해도 과거의 문제가 겹쳐 크게 번질 수 있다. 싸움의 강도만이 아니라 무엇을 인정하고 이후 행동을 바꾸는지가 관계의 방향을 결정한다.",
     "review_status": "reviewed",

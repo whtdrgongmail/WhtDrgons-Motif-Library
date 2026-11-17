@@ -6,8 +6,8 @@
   "aliases": [
     "지금이 마지막이라 여겨 하는 고백의 입맞춤"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02534",
+  "primary_tag_id": "ML-T02534",
   "description": {
     "definition": "죽음이나 영원한 이별이 임박했다고 믿는 인물이 더는 미루지 않고 사랑을 드러내며 입맞추는 장면이다.",
     "detail": "",
@@ -15,14 +15,20 @@
     "boundary": "실제로 죽거나 영원히 헤어져야 하는 것은 아니다. 마지막 기회라는 믿음이 행동을 앞당기는 조건이며 실제로 끝이 되는 마지막 입맞춤과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.011",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "지금 아니면 못 할 것 같아 입맞춤했는데 둘의 시간은 더 남아 있었다.",
     "review_status": "reviewed",

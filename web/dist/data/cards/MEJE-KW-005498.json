@@ -4,8 +4,8 @@
   "title": "도움이라는 이름의 가혹한 비평",
   "original": "Compassionate Critic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "상대를 위해서라며 지나치게 매서운 평가를 내리는 인물의 관계 태도. 진심 어린 조언과 공격의 경계가 이야기의 갈등이 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대에게 도움이 되려는 마음으로 매우 매서운 평가를 하는 인물이다. 진심이 선하더라도 표현이 상처를 줄 수 있어, 정확한 지적과 모욕을 구별해야 하며 조언을 받는 사람이 실제로 어떤 도움을 얻는지가 관계의 쟁점이 된다.",
     "review_status": "reviewed",

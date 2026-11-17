@@ -4,8 +4,8 @@
   "title": "연인의 옷차림을 바꾸려 하기",
   "original": "I Want My Beloved to Be Fashionable",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "사랑하는 상대의 현재 차림을 못마땅해하며 자신의 취향이나 사회적 기대에 맞게 바꾸려 하는 [[관계 갈등]]이다. 애정과 상대의 표현 방식에 대한 통제가 맞물린다.",
     "detail": "부모에게 좋은 인상을 주려는 실용적 동기도 있을 수 있지만, 상대는 지금 모습으로 받아들여지지 않는다고 느낄 수 있다.\n\n작품 사례: 《[[얼티밋 스파이더맨]]》에서 해리는 메리 제인에게 안경을 벗으면 더 예쁘다며 바꾸려 하지만, 그녀는 안경을 써도 예쁘다고 맞선다.",
@@ -13,14 +13,20 @@
     "boundary": "상대가 요청한 스타일 조언이나 안전을 위한 복장 선택과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하는 사람이지만 입는 옷만큼은 자기 뜻대로 고치고 싶어 한다.",
     "review_status": "reviewed",

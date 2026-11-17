@@ -4,8 +4,8 @@
   "title": "떨어져 있는 동안 다른 사람과 맺는 관계",
   "original": "Absence Makes the Heart Go Yonder",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "연인과 물리적으로 떨어져 지내는 동안 다른 사람과 새 연애 관계를 시작해 기존 관계의 충실함이 흔들리는 전개다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "헤어진 뒤 새 연애를 시작하거나 단순히 멀리 산다는 사실과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "멀리 있는 연인 대신 가까운 사람에게 마음이 옮겨 간다.",
     "review_status": "reviewed",

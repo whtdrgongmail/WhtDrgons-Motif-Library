@@ -4,8 +4,8 @@
   "title": "자기 이익을 위한 우정",
   "original": "Self-Serving Friendship",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "상대와의 친교 자체보다 자기가 얻을 이익을 목적으로 친구 관계를 맺는 방식이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "서로 이익을 주고받는 모든 우정이 아니라 관계를 선택한 주된 동기가 자기 이득인 경우다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "친해서가 아니라 도움이 될 것 같아서 친구가 된다.",
     "review_status": "reviewed",

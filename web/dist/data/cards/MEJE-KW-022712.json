@@ -5,8 +5,8 @@
   "original": "Experimenting on a Beloved Pet",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "가까이 돌보던 반려동물을 실험 대상으로 삼아 애정 관계와 연구 목적의 충돌을 드러내는 전개다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "실험 동물에게 나중에 애착을 갖는 방향과 반대이며 연구의 구체적 실행법을 다루지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사랑받던 동물이 주인의 실험 대상이 된다.",
     "review_status": "reviewed",

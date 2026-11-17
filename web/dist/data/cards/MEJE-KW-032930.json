@@ -4,8 +4,8 @@
   "title": "질투의 미끼로 쓰인 연인이 상처받기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "누군가의 질투를 끌어내려고 맺은 관계에서 제삼자는 진짜 사랑이라고 믿었다가 자신이 수단이었다는 사실을 알고 상처받거나 분노한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "양쪽이 목적을 알고 동의한 가짜 연애와 달리 관계의 목적에 대한 정보 차이가 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 사람은 연애를 연기했지만 다른 사람은 진심이었다.",
     "review_status": "reviewed",

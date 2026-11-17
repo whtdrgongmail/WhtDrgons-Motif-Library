@@ -4,8 +4,8 @@
   "title": "양쪽 혈통 사이에서 배제되는 혼혈",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "두 집단의 혈통을 함께 지닌 인물이 어느 쪽에서도 온전한 구성원으로 인정받지 못하거나 한쪽 소속만을 택하도록 압박받는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "혼혈이라는 사실 자체와 사회적 배제는 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 뿌리를 가졌지만 모두에게 받아들여지지는 않는다.",
     "review_status": "reviewed",

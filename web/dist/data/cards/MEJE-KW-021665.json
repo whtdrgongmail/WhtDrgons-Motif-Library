@@ -7,8 +7,8 @@
     "다르다는 이유로 배척받는 인물",
     "공동체에서 따돌림받는 인물"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "외형·성향·출신 등이 집단의 기준과 다르다는 이유로 인물이 따돌림과 배제를 겪는다.",
     "detail": "",
@@ -16,14 +16,20 @@
     "boundary": "배척받은 뒤 공동체를 구해야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남들과 다르다고 따돌림받는다.",
     "review_status": "reviewed",

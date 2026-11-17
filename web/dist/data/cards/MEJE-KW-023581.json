@@ -4,8 +4,8 @@
   "title": "우산 하나를 나누며 가까워지기",
   "original": "Umbrella of Togetherness",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "두 사람이 하나의 우산 아래 함께 머물거나 한쪽이 상대를 더 가려 주며 친밀감과 호감을 보여 주는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "그저 같은 비를 피할 뿐 관계 의미가 없는 상황과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좁은 우산 아래 가까이 서는 일이 연애의 신호가 된다.",
     "review_status": "reviewed",

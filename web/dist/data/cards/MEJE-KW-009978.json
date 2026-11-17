@@ -4,8 +4,8 @@
   "title": "연인의 충실함을 시험하다",
   "original": "Fidelity Test",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "연인이 상대의 성실함을 확인하려고 제삼자를 보내거나 변장해 유혹하는 시험을 꾸미는 관계 갈등이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "연인이 다른 사람에게 흔들리는지 알아보려고 누군가 접근하는 상황을 꾸미는 전개다. 신뢰를 확인하려는 목적과 상대를 몰래 시험하는 기만이 충돌하며, 유혹을 거절해도 시험 자체가 밝혀지면 관계의 신뢰가 손상될 수 있다.",
     "review_status": "reviewed",

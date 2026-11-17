@@ -5,8 +5,8 @@
   "original": "A Kiss Shows Affection",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "연인·가족·친구가 입맞춤을 통해 애정과 친밀함을 나타내는 행동이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "관계와 문화적 맥락을 함께 기록하며 비동의적 접촉을 애정의 증거로 단정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "입맞춤의 의미가 항상 연애 감정인 것은 아니다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "남성적인 여성과 여성적인 남성의 짝",
   "original": "Masculine Girl, Feminine Boy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "전통적으로 남성적이라고 읽히는 여성이 여성적이라고 읽히는 남성과 짝을 이루어 성별 표현의 대비를 만드는 관계이다.",
     "detail": "대조되는 두 인물을 연인으로 짝짓는 형태가 있다. 같은 대비를 만드는 비연애 관계도 원문 범위 안에 두었다.",
@@ -13,14 +13,20 @@
     "boundary": "외형만으로 성 정체성이나 성적 지향을 단정하지 않으며 반드시 연애일 필요는 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "거친 쪽은 여자이고 섬세한 쪽은 남자인 두 사람이 한 쌍을 이룬다.",
     "review_status": "reviewed",

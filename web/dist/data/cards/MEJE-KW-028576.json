@@ -4,8 +4,8 @@
   "title": "예의 바른 태도에 숨긴 간접적 적대",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "겉으로는 친절하고 대립을 피하는 태도를 유지하면서 불만이나 적의를 간접적으로 드러내는 관계 표현이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "친절한 모든 사람을 의심하는 기준이 아니며 간접적 적대가 행동이나 맥락으로 드러나야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "웃으며 예의를 지키지만 상대가 불편해지도록 속뜻을 전한다.",
     "review_status": "reviewed",

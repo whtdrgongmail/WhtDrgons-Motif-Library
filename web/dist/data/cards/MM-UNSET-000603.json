@@ -4,8 +4,8 @@
   "title": "사회적 다리 역할",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02674",
+  "primary_tag_id": "ML-T02674",
   "description": {
     "definition": "사회적 연결이 적은 인물을 다른 사람들과 이어 주기 위해 소개·동행·갈등 중재를 맡는 관계 역할이다. 단순히 친한 친구라는 사실만으로는 성립하지 않는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-11",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.044",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "친구가 새로운 사람을 만나기 어려워할 때 다른 사람을 소개하거나 사이의 오해를 풀어 주는 역할이다.",
     "review_status": "reviewed",

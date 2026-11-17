@@ -5,8 +5,8 @@
   "original": "Trust",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "상대의 행동을 완전히 확인하거나 통제할 수 없어도 그가 자신의 기대와 맡긴 가치를 저버리지 않으리라 여기고 의지하는 관계적 태도다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 나를 속이거나 해치지 않을 것이라고 믿고 중요한 일을 맡기거나 도움을 받아들이는 마음이에요. 모든 증거를 확인한 상태가 아니어서 배신당할 위험도 남아요.",
     "review_status": "reviewed",

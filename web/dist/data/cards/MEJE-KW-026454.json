@@ -4,8 +4,8 @@
   "title": "정신적으로 어려운 인물을 숨겨 두기",
   "original": "Madwoman in the Attic",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "가족이나 집단이 여러 이유로 정신적 어려움을 겪는 인물을 다른 사람에게 보이지 않도록 감춘다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "현재 정의는 성별이나 다락방이라는 장소에 한정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "어려움을 겪는 사람이 돌봄 대신 비밀 취급을 받는다.",
     "review_status": "reviewed",

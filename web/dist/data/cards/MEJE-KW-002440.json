@@ -4,8 +4,8 @@
   "title": "서로 다투던 사람이 진심을 드러내기",
   "original": "Aw, Look! They Really Do Love Each Other",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "평소 싸우고 비꼬던 두 사람이 한쪽의 위험 앞에서는 먼저 걱정하고 돕는다. 익숙한 적대의 말투 아래 남아 있던 애정이 행동으로 드러난다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "평소에는 비꼬고 싸우던 사람들이 한쪽이 다치거나 위험해지자 먼저 구하고 걱정하는 장면이다. 말과 행동의 차이로 숨겨진 애정이 드러난다. 걱정이 진심이어도 평소의 모욕이나 상처가 자동으로 정당화되는 것은 아니므로 관계 변화에는 다른 태도도 필요하다.",
     "review_status": "reviewed",

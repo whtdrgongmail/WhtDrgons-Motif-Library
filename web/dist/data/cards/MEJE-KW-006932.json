@@ -4,8 +4,8 @@
   "title": "패배 뒤 인정",
   "original": "Defeat Means Respect",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "상대를 얕보던 인물이 패한 뒤 그 실력을 인정하고 존중하게 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대를 얕보던 인물이 직접 패한 뒤 그 능력과 의지를 인정하는 관계 변화다. 졌다고 곧 친구가 되는 것은 아니며, 적대가 남아 있어도 무시하는 태도에서 제대로 된 경쟁자로 대하는 태도로 바뀐다는 점이 중요하다.",
     "review_status": "reviewed",

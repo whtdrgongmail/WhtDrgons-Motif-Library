@@ -4,8 +4,8 @@
   "title": "큰 남성과 작은 여성의 짝",
   "original": "Huge Guy, Tiny Girl",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "남성이 여성보다 현저히 크도록 두 인물을 짝지어 체격의 대비를 관계의 특징으로 만드는 구도다.",
     "detail": "작품 사례: [[Buffy the Vampire Slayer]]에서 Buffy는 Angel이 준 가죽 재킷을 입으며 소매를 말아 올려, 두 사람의 관계와 체격 차이를 동시에 드러낸다.",
@@ -13,14 +13,20 @@
     "boundary": "연애일 필요는 없지만 두 인물이 지속적인 한 쌍으로 제시되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "둘이 나란히 서면 한쪽이 다른 쪽을 내려다보는 차이가 크게 드러난다.",
     "review_status": "reviewed",

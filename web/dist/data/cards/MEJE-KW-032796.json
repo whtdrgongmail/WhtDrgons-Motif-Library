@@ -4,8 +4,8 @@
   "title": "이별의 빈자리를 급한 새 연애로 메우기",
   "original": "On the Rebound",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "이별로 상처받고 이전 관계를 정리할 준비가 되지 않은 인물이 허전함이나 고통을 메우려 빠르게 새로운 연애에 들어간다.",
     "detail": "작품 사례: 《[[내가 그녀를 만났을 때]]》에서 로빈은 테드와의 이별로 괴로워하던 시기에 아르헨티나 여행에서 가엘과 사귄다. 새 연애가 이별의 상처를 메우려는 선택으로 설명된다.",
@@ -13,14 +13,20 @@
     "boundary": "새 연인을 위해 기존 상대와 헤어지는 일이나 충분히 회복한 뒤의 연애를 포함하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "헤어진 마음을 추스르기 전에 다른 사람과 사귀며 아픔을 덮으려 한다.",
     "review_status": "reviewed",

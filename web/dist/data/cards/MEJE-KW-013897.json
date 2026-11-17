@@ -4,8 +4,8 @@
   "title": "소유욕을 드러내는 손목 붙잡기",
   "original": "Possessive Wrist Grab",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "상대의 손목을 붙잡아 이동을 제지하며 지배나 소유의 태도를 드러내는 몸짓이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "위험에서 구하거나 잠깐 주의를 끄는 접촉만으로는 적용하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "손목을 놓지 않는 행동으로 상대를 통제하려는 마음이 보인다.",
     "review_status": "reviewed",

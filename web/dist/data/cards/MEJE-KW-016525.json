@@ -4,8 +4,8 @@
   "title": "인간의 냄새를 싫어하는 비인간",
   "original": "Humans Are Smelly",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02666",
+  "primary_tag_id": "ML-T02666",
   "description": {
     "definition": "비인간 종족이 보통 인간에게서 나는 냄새를 불쾌하게 느끼는 설정이다. 몸의 냄새나 인간이 쓰는 인공 향이 종족 사이의 감각 차이와 멸시를 드러낸다.",
     "detail": "자연적인 체취보다 향수나 세정제 냄새를 더 싫어하는 반전도 가능하다.\n\n작품 사례: 《[[매트릭스]]》에서 스미스 요원은 모피어스에게 인간의 냄새를 견딜 수 없다고 털어놓으며 인간 세계에 대한 혐오를 드러낸다.",
@@ -13,14 +13,20 @@
     "boundary": "특별히 씻지 않는 한 개인의 악취만으로는 성립하지 않으며 일반적인 인간을 향한 감각이어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.036",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사람끼리는 모르던 인간 냄새를 다른 종족은 견디기 힘들어한다.",
     "review_status": "reviewed",

@@ -5,8 +5,8 @@
   "original": "Mistaking a Friend for a Rival to the Throne",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "지도자가 동료에게 자리를 빼앗길까 경계하지만 정작 그 동료는 지도자가 될 생각이 없는 관계 구도이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "실제 권력 탈취 계획이 있는 경쟁자와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "부하가 대장 자리를 탐낸다고 혼자 의심한다.",
     "review_status": "reviewed",

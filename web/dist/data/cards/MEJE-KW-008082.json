@@ -4,8 +4,8 @@
   "title": "서로를 유혹하는 두 인물의 대결",
   "original": "Duel of Seduction",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "각자의 목적을 위해 두 인물이 서로를 끌어들이려 하며 매력과 속내를 겨루는 관계 구도. 서로를 끌어들이려던 두 인물이 진심으로 가까워지는 장면은 [[함께 연주하며 가까워지는 두 사람]]과 대비된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 인물이 각자의 목적을 이루려고 서로를 매혹하려는 관계다. 호감의 표현과 계산한 행동이 겹쳐 누가 주도권을 잡는지가 긴장을 만들며, 진심으로 호흡을 맞추는 [[함께 연주하며 가까워지는 두 사람]]과는 출발의 의도가 다를 수 있다.",
     "review_status": "reviewed",

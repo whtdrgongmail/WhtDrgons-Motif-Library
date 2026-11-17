@@ -4,8 +4,8 @@
   "title": "격정적인 관계로 망가진 주변",
   "original": "Destructo-Nookie",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "인물들의 성적 [[친밀감]]이 끝난 뒤 가구나 공간이 부서진 모습으로 과도한 힘과 관계의 열기를 암시한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "성적 [[친밀감]]을 나눈 뒤 방과 가구가 부서져 있는 모습으로 두 인물의 힘과 열기를 과장하는 장면이다. 행위 자체보다 남은 흔적이 관계를 암시하며, 특별한 신체 능력의 표현인지 소란스러운 희극인지에 따라 분위기가 달라진다.",
     "review_status": "reviewed",

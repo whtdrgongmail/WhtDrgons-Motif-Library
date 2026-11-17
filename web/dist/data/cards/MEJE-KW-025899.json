@@ -4,8 +4,8 @@
   "title": "결과만 보고 유일한 원인을 단정하기",
   "original": "Converse Error",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02676",
+  "primary_tag_id": "ML-T02676",
   "description": {
     "definition": "어떤 원인이 특정 결과를 만든다는 사실에서 그 결과가 나타났으니 반드시 그 원인이 있었다고 추론하는 오류이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "그 결과를 만드는 다른 원인이 배제되거나 필요충분 관계가 입증된 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.009.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "입술에 손가락을 대어 말을 막다",
   "original": "Finger Muzzle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "한 인물이 다른 인물의 입술에 손가락을 얹어 말을 멈추게 하며 친밀감이나 장난스러운 긴장을 드러낸다. [[손가락으로 가리는 욕설]]도 입술 앞의 손가락을 쓰지만 상대의 말을 막는 몸짓과 영상 검열은 기능이 다르다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 사람의 입술에 손가락을 대어 말을 멈추게 하는 몸짓이다. 친밀한 장난이나 긴장을 나타낼 수 있지만 상대의 반응에 따라 무례한 통제가 되며, 화면 속 욕을 가리는 [[손가락으로 가리는 욕설]]과는 기능이 다르다.",
     "review_status": "reviewed",

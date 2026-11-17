@@ -4,8 +4,8 @@
   "title": "꿈속 행동 때문에 현실의 상대에게 화내기",
   "original": "Mad at a Dream",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "인물이 꿈이나 시뮬레이션 속에서 상대가 한 행동을 현실의 상대에게 책임 지우며 화를 내거나 벌한다.",
     "detail": "작품 사례: 《[[슈퍼맨의 친구 지미 올슨]]》에서 지미는 꿈속의 루시가 슈퍼맨과의 관계를 방해했다는 이유로 현실의 루시가 건 데이트 제안을 거절한다. 루시는 자신이 하지 않은 일의 책임을 받는다.",
@@ -13,14 +13,20 @@
     "boundary": "상대가 꿈을 실제로 조종한 경우와 구별하며 현실에서의 책임이 없다는 점이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "꿈에서 나를 괴롭혔다는 이유로 실제 친구에게 화낸다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "위험한 괴물을 반려동물로 기르기",
   "original": "Pet Monstrosity",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "보통은 매우 위험한 괴물로 취급되는 존재를 한 인물이 개인적인 반려동물로 데리고 사는 관계이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "작고 무해한 환상 반려동물 일반과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남들이 달아날 괴물을 주인은 다정하게 부르고 돌본다.",
     "review_status": "reviewed",

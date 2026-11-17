@@ -4,8 +4,8 @@
   "title": "지식에 이끌리는 호감",
   "original": "Geeky Turn-On",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "상대가 전문 지식을 능숙하게 말하거나 좋아하는 분야를 깊이 이해하는 모습을 보고 연애 감정이 커지는 관계 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 좋아하는 분야를 깊이 이해하거나 전문 지식을 능숙하게 설명하는 모습을 보고 호감이 커지는 장면이다. 외모보다 몰입과 실력에 매력을 느끼며, 평소 수줍던 인물이 익숙한 주제에서 자신감을 보일 때 인상이 달라질 수 있다.",
     "review_status": "reviewed",

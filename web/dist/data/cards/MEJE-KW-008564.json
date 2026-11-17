@@ -4,8 +4,8 @@
   "title": "주인의 마음을 따라 보이는 반려동물",
   "original": "Empathy Pet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "동물 동료가 주인의 감정에 맞춰 반응하거나 주인이 숨기는 마음까지 대신 드러내는 관계 표현이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "동물 동료가 주인의 기분에 맞춰 행동하거나 숨긴 감정을 대신 보여 주는 관계 표현이다. 말로는 태연한 인물 곁에서 동물이 불안해하면 실제 마음을 짐작하게 되며, 둘의 가까운 유대가 대사 없이 전달된다.",
     "review_status": "reviewed",

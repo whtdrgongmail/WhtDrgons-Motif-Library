@@ -4,8 +4,8 @@
   "title": "다른 사람과는 사귀지만 유독 나만 거절하기",
   "original": "Sleeps with Everyone but You",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02645",
+  "primary_tag_id": "ML-T02645",
   "description": {
     "definition": "여러 사람과 쉽게 연애하는 인물이 특정 한 사람에게만 관계를 허용하지 않아 예외적인 배제를 만든다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "거절의 이유가 혐오인지 보호인지 등은 작품에서 확인해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다른 사람은 다 되는데 나만 안 된다.",
     "review_status": "reviewed",

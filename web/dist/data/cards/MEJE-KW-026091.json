@@ -5,8 +5,8 @@
   "original": "Expressing Romantic Interest",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02669",
+  "primary_tag_id": "ML-T02669",
   "description": {
     "definition": "다른 사람에게 연애 또는 성적 관심이 있음을 말과 행동으로 드러내는 구애이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "상대의 호응이나 동의는 자동으로 따라오지 않으며 친절한 행동 전체를 구애로 해석하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.039",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "관심이 있다는 신호를 보내 관계가 가능할지 알아본다.",
     "review_status": "reviewed",

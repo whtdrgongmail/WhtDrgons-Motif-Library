@@ -4,8 +4,8 @@
   "title": "좋아하는 사람이 있는 자리에서는 저속함을 삼가기",
   "original": "Can't Act Perverted Toward a Love Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "사랑하는 사람이 곁에 있으면 저속하거나 성적으로 부적절한 행동을 하지 않으려는 태도이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-004289는 평소 가벼운 인물이 사랑하는 상대를 대하는 태도 변화다. 현재는 평소 성격을 한정하지 않고 상대가 있는 자리에서의 행동 통제를 정의한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "그 사람에게 보이고 싶지 않은 모습이라 자제한다.",
     "review_status": "reviewed",

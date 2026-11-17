@@ -4,8 +4,8 @@
   "title": "다른 사람이 죽었어야 한다는 원망",
   "original": "You Should Have Died Instead",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02647",
+  "primary_tag_id": "ML-T02647",
   "description": {
     "definition": "소중한 이를 잃은 [[슬픔]]을 생존자에게 돌리며 그가 대신 죽었어야 한다고 비난하는 반응이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "[[죽음]]의 실제 책임을 입증하는 판단과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남은 사람에게 고인의 자리를 바꿀 수 없다는 [[분노]]를 쏟는다.",
     "review_status": "reviewed",

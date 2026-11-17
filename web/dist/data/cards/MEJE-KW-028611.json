@@ -4,8 +4,8 @@
   "title": "또 다른 자신에게 짜증 내기",
   "original": "Other Me Annoys Me",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "자신의 다른 버전과 만나거나 공존하는 인물이 그 상대의 모습과 행동을 불편하고 성가시게 여기는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "모든 닮은 사람에 대한 혐오가 아니라 동일 인물의 다른 버전이라는 관계가 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "남이 하면 참을 일도 또 다른 내가 하니 유난히 거슬린다.",
     "review_status": "reviewed",

@@ -5,8 +5,8 @@
   "original": "Choosing a Friend over Popularity",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "또래 집단에서 누리던 인기를 유지하려면 친구를 저버려야 하는 상황에서 지위보다 관계를 선택하는 행동이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "처음부터 인기에 관심 없는 인물과 달리 실제로 잃을 사회적 지위가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "잘나가는 무리에서 밀려나더라도 친구를 버리지 않는다.",
     "review_status": "reviewed",

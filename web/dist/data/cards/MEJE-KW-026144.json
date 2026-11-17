@@ -4,8 +4,8 @@
   "title": "과거에 연애했던 사이가 있는 인물들",
   "original": "New Old Flame",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "두 인물 사이에 이전의 연애 경험이 있어 현재의 만남과 관계에 과거의 감정이 남아 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "새 연애 후보처럼 등장한 뒤 과거가 드러나야 하는 646번의 소개 방식은 필수가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "두 사람은 예전에 사랑한 적이 있다.",
     "review_status": "reviewed",

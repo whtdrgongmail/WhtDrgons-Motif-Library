@@ -4,8 +4,8 @@
   "title": "성장 속도가 달라 따라잡지 못하기",
   "original": "Can't Catch Up",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "함께 시작한 동료 중 한 사람이 훨씬 빨리 강해져 나머지가 거리를 느낀다. 실력의 격차가 관계 속 위치의 변화로 이어질 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-12",
-  "row_version": 2,
+  "updated_at": "2026-11-17",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "비슷한 실력으로 시작한 동료 중 한 사람이 빠르게 강해져 다른 사람이 뒤처졌다고 느끼는 전개다. 함께 맡던 임무를 더는 나눌 수 없거나 비교로 자존감이 흔들릴 수 있다. 능력 차이가 곧 우정의 가치 차이라는 뜻은 아니며 협력 방식을 새로 정할 수 있다.",
     "review_status": "reviewed",
