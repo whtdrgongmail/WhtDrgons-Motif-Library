@@ -4,8 +4,8 @@
   "title": "피격 판정 영역",
   "original": "hurtbox",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02806",
+  "primary_tag_id": "ML-T02806",
   "description": {
     "definition": "공격을 받았을 때 피해나 경직이 발생하는 캐릭터 신체의 논리적 영역이다. 공격 판정과의 겹침이 실제 피격 여부를 정한다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "공격을 내보내는 영역이나 캐릭터를 밀고 막는 모든 충돌 영역과 동일시하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

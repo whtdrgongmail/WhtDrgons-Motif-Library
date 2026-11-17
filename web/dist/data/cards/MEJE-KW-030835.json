@@ -4,8 +4,8 @@
   "title": "급정지해 추격 차량의 충돌을 유도하기",
   "original": "Ram by Braking",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02790",
+  "primary_tag_id": "ML-T02790",
   "description": {
     "definition": "쫓기는 차량이 갑자기 속도를 줄이거나 멈춰 뒤따르는 추격 차량이 자신에게 충돌하도록 만든다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "우발적인 추돌과 달리 추격을 역이용하려는 의도가 있는 허구의 액션이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

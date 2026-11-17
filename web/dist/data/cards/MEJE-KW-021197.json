@@ -4,8 +4,8 @@
   "title": "이등각투영",
   "original": "Dimetric projection",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T02795",
+  "primary_tag_id": "ML-T02795",
   "description": {
     "definition": "입체를 사선에서 평행 투영할 때 두 축의 축척은 같고 나머지 축은 다르게 표현하는 방식이다.",
     "detail": "픽셀 게임에서는 대각선을 그리기 쉬운 비율을 택해 등각처럼 보이는 화면을 만들곤 한다.",
@@ -13,11 +13,11 @@
     "boundary": "세 축의 축척이 모두 같은 엄밀한 [[등각투영]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "22",
-    "review_status": "provisional",
+    "code": "22.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

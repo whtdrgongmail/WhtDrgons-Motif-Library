@@ -4,8 +4,8 @@
   "title": "큰 차량 아래를 통과하기",
   "original": "Under the Truck",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02790",
+  "primary_tag_id": "ML-T02790",
   "description": {
     "definition": "추격 중 낮은 차량이 더 큰 차량 아래의 빈 공간을 가로질러 지나가며 장애물을 벗어나는 액션 장면이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "지붕이 뜯겨 나가는 파손형과 구분하며 실제 운전의 안전한 행동으로 제안하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

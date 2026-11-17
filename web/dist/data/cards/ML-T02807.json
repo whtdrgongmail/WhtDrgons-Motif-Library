@@ -1,0 +1,48 @@
+{
+  "id": "ML-T02807",
+  "kind": "keyword",
+  "title": "점프와 공중 이동 규칙",
+  "original": "Jumping and Aerial Movement Rules",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T02807",
+  "primary_tag_id": "ML-T02807",
+  "description": {
+    "definition": "플레이어가 점프, 발판 밟기, 벽 차기, 공중 입력으로 이동 경로나 체공 시간을 바꾸는 게임 규칙을 묶는다. 단순한 점프 묘사나 낙하 피해 수치만은 포함하지 않는다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "플레이어가 점프, 발판 밟기, 벽 차기, 공중 입력으로 이동 경로나 체공 시간을 바꾸는 게임 규칙을 묶는다. 단순한 점프 묘사나 낙하 피해 수치만은 포함하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.023",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "뛰거나 공중에서 움직여 길을 건너는 방법과 제한을 찾는 태그다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "점프는 바닥을 떠나는 순간만이 아니라 공중에서 다시 입력하거나 벽을 차는 방식에 따라 경로가 달라진다. 적을 밟거나 폭발 반동을 이용하면 일반적인 이동 범위가 넓어진다.\n\n플레이어의 이동 가능성과 판정이 어떻게 바뀌는지 확인한다. 도약이 이야기의 동작으로만 나오고 게임 규칙이 제시되지 않으면 적용하지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "점프는 바닥을 떠나는 순간만이 아니라 공중에서 다시 입력하거나 벽을 차는 방식에 따라 경로가 달라진다. 적을 밟거나 폭발 반동을 이용하면 일반적인 이동 범위가 넓어진다.\n\n플레이어의 이동 가능성과 판정이 어떻게 바뀌는지 확인한다. 도약이 이야기의 동작으로만 나오고 게임 규칙이 제시되지 않으면 적용하지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

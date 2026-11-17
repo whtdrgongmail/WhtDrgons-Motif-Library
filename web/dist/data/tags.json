@@ -50338,6 +50338,456 @@
         "row_version": 1
       },
       "semantics": null
+    },
+    {
+      "id": "ML-T02781",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "몸짓으로 전달하는 인물 정보",
+      "classification": {
+        "code": "22.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02782",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "얼굴과 눈의 시각 신호",
+      "classification": {
+        "code": "22.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02783",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "동물 캐릭터의 신체 디자인",
+      "classification": {
+        "code": "22.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02784",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "괴물·비인간 존재의 외형 디자인",
+      "classification": {
+        "code": "22.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02785",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "만화적 신체와 물리 과장",
+      "classification": {
+        "code": "22.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02786",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "위력과 피해의 시각 단서",
+      "classification": {
+        "code": "22.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02787",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "실수와 오해가 낳는 사건",
+      "classification": {
+        "code": "07.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02788",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "주변 대상을 임시 도구로 쓰기",
+      "classification": {
+        "code": "07.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02789",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "장난과 모욕을 위한 행동",
+      "classification": {
+        "code": "07.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02790",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "탈것과 운전 중의 소동",
+      "classification": {
+        "code": "07.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02791",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "뜻밖의 신체 반응으로 생기는 소동",
+      "classification": {
+        "code": "07.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02792",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "방임과 주의 소홀로 생긴 피해",
+      "classification": {
+        "code": "07.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02793",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "장소에 따른 성적 친밀 행위",
+      "classification": {
+        "code": "07.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02794",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "음주와 취기가 바꾸는 행동",
+      "classification": {
+        "code": "07.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02795",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "평행·축측 투영",
+      "classification": {
+        "code": "22.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02796",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "반사상으로 드러내는 정체",
+      "classification": {
+        "code": "22.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02797",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "렌즈 플레어와 빛 번짐",
+      "classification": {
+        "code": "22.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02798",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "화면비와 영상 여백",
+      "classification": {
+        "code": "22.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02799",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "색조로 만드는 장면 인상",
+      "classification": {
+        "code": "22.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02800",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "편의적으로 행동하는 적 병력",
+      "classification": {
+        "code": "22.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02801",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "미래 공간의 복잡한 출입문",
+      "classification": {
+        "code": "22.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02802",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "입체 모델의 손그림 양식화",
+      "classification": {
+        "code": "22.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02803",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "게임 난도의 설정과 변화",
+      "classification": {
+        "code": "25.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02804",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "보스 조우와 전투의 구성",
+      "classification": {
+        "code": "25.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02805",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "퍼즐의 규칙과 풀이 구조",
+      "classification": {
+        "code": "25.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02806",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "충돌과 명중의 판정",
+      "classification": {
+        "code": "25.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02807",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "점프와 공중 이동 규칙",
+      "classification": {
+        "code": "25.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02808",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "게임 진행의 저장 조건",
+      "classification": {
+        "code": "25.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02809",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "사망 뒤 이어지는 플레이의 근거",
+      "classification": {
+        "code": "25.025",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02810",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "임무별 플레이 수단 제한",
+      "classification": {
+        "code": "25.026",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
     }
   ]
 }

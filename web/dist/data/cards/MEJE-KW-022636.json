@@ -4,8 +4,8 @@
   "title": "진실쟁이와 거짓말쟁이의 갈림길 수수께끼",
   "original": "Knights and Knaves",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02805",
+  "primary_tag_id": "ML-T02805",
   "description": {
     "definition": "항상 진실을 말하는 문지기와 항상 거짓을 말하는 문지기에게 제한된 질문을 하여 안전한 길을 찾아야 하는 [[논리 퍼즐]]이다.",
     "detail": "다른 문지기의 대답을 묻고 반대 길을 택하거나, 자기 대답을 다시 묻는 이중 질문으로 진실과 거짓의 결과를 정렬하는 풀이가 제시된다.\n\n작품 사례: 《[[킹덤 컴: 딜리버런스]]》의 떠돌이 수수께끼꾼은 진실·거짓·둘 다 가능한 지혜라는 세 존재의 응답으로 신원을 추론하는 변형을 낸다.",
@@ -13,11 +13,11 @@
     "boundary": "거짓말쟁이의 신원 확인만으로 끝나는 문제와 구별한다. 말의 규칙과 알아내야 할 정보가 명확해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

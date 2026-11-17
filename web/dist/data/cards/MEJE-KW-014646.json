@@ -4,8 +4,8 @@
   "title": "머리만 내밀고 사격할 수 있는 판정",
   "original": "head glitching",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02806",
+  "primary_tag_id": "ML-T02806",
   "description": {
     "definition": "사격 경로를 총구 대신 눈이나 조준 시점에서 시작하게 하여 총이 엄폐물에 가려져도 머리 일부만 노출하고 공격할 수 있는 현상이다. 시야와 총구 위치의 불일치가 일방적인 엄폐 이점을 만든다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "총구를 실제로 내밀어 사격하거나 장애물을 관통하는 무기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

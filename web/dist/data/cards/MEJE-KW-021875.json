@@ -4,8 +4,8 @@
   "title": "뜻을 잘못 알아 한 엉뚱한 주문",
   "original": "Dinner Order Flub",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02787",
+  "primary_tag_id": "ML-T02787",
   "description": {
     "definition": "메뉴의 언어·용어·글씨를 제대로 이해하지 못해 원하지 않은 음식이나 음식이 아닌 항목을 주문하는 실수다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "반드시 모르는 척을 숨겼을 필요는 없고 주문 결과가 음식일 수도 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

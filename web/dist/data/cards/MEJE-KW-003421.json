@@ -4,8 +4,8 @@
   "title": "앞을 보지 못한 채 차를 운전하기",
   "original": "Blind Driving",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02790",
+  "primary_tag_id": "ML-T02790",
   "description": {
     "definition": "인물이 시야를 잃거나 눈을 가린 상황에서 차량을 움직여야 한다. 위험한 장면의 연출이므로 동행자의 안내와 결과를 [[서사]] 안에서 다룬다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "적을 밟아 더 높이 뛰기",
   "original": "Goomba Springboard",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02807",
+  "primary_tag_id": "ML-T02807",
   "description": {
     "definition": "적 위에 착지하면 일반 점프보다 높게 튀어 오르는 [[규칙]]을 이용하는 [[이동]] 방식이다. 연속 밟기나 적의 위치 유도로 장애물을 넘을 수 있다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "적을 밟아 피해만 주는 공격이나 적 위에 계속 타는 [[행동]]과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

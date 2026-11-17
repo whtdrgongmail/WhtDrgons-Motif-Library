@@ -4,8 +4,8 @@
   "title": "맞서다 도망치는 게임 보스",
   "original": "Cowardly Boss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02804",
+  "primary_tag_id": "ML-T02804",
   "description": {
     "definition": "게임 보스가 전투 중 피해를 받으면 달아나고 [[플레이어]]가 다시 찾아 싸워야 하는 전투 구조. 일정 구간에서는 직접 맞서므로 계속 도망만 다니는 적과 구분된다. 위험 앞에 먼저 달아나는 우두머리에게는 [[겁 많은 악역 부하들]]이 뒤따르기 쉽다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

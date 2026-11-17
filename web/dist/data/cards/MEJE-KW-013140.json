@@ -6,8 +6,8 @@
   "aliases": [
     "히트스캔"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02806",
+  "primary_tag_id": "ML-T02806",
   "description": {
     "definition": "발사체의 비행 과정을 따로 계산하지 않고 발사 순간 직선 경로에서 먼저 만나는 대상에 명중을 판정하는 [[게임]] 방식이다.",
     "detail": "",
@@ -15,11 +15,11 @@
     "boundary": "화면에 탄도 효과가 보이더라도 실제 판정에 비행 [[시간]]이 있는지와는 별개이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

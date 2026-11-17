@@ -1,0 +1,48 @@
+{
+  "id": "ML-T02805",
+  "kind": "keyword",
+  "title": "퍼즐의 규칙과 풀이 구조",
+  "original": "Puzzle Rules and Solution Structures",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T02805",
+  "primary_tag_id": "ML-T02805",
+  "description": {
+    "definition": "단서, 배치, 이동, 조합, 논리 조건을 이용해 정해진 목표 상태나 답에 도달하는 게임 퍼즐의 규칙과 풀이 구조를 묶는다. 퍼즐이 배경에 있다는 사실이나 정답과 무관한 카메라 연출은 포함하지 않는다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "단서, 배치, 이동, 조합, 논리 조건을 이용해 정해진 목표 상태나 답에 도달하는 게임 퍼즐의 규칙과 풀이 구조를 묶는다. 퍼즐이 배경에 있다는 사실이나 정답과 무관한 카메라 연출은 포함하지 않는다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.021",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "무엇을 단서로 삼고 어떤 규칙에 따라 퍼즐을 풀어야 하는지 찾는 태그다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "퍼즐은 주어진 정보와 허용된 행동 사이의 관계를 이해하게 한다. 블록을 옮기거나 단어를 맞추고, 앞선 퍼즐의 답을 다음 문제에 쓰는 등 풀이 방식이 다르다.\n\n목표와 풀이를 제한하는 규칙이 카드의 핵심이어야 한다. 게임을 어렵게 만드는 정보 부족이나 입력 오류만으로는 퍼즐 규칙에 넣지 않는다.",
+    "sections": [
+      [
+        "상세 설명",
+        "퍼즐은 주어진 정보와 허용된 행동 사이의 관계를 이해하게 한다. 블록을 옮기거나 단어를 맞추고, 앞선 퍼즐의 답을 다음 문제에 쓰는 등 풀이 방식이 다르다.\n\n목표와 풀이를 제한하는 규칙이 카드의 핵심이어야 한다. 게임을 어렵게 만드는 정보 부족이나 입력 오류만으로는 퍼즐 규칙에 넣지 않는다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

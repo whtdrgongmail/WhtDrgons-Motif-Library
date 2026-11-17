@@ -4,8 +4,8 @@
   "title": "움직이는 탈것에서 뛰쳐나오기",
   "original": "Vamoose from the Vehicle",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02790",
+  "primary_tag_id": "ML-T02790",
   "description": {
     "definition": "탈것이 완전히 멈추기 전에 탑승자가 밖으로 이탈한다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "정차 뒤 하차와 구별하는 허구의 액션 장면이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

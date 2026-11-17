@@ -4,8 +4,8 @@
   "title": "게임이 진행 내용을 스스로 저장하기",
   "original": "Auto-Save",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02808",
+  "primary_tag_id": "ML-T02808",
   "description": {
     "definition": "[[플레이어]]가 명령하지 않아도 정해진 지점이나 시간에 게임 상태를 기록한다. 편의 기능인 동시에 되돌릴 수 있는 [[선택]]의 범위를 바꾸는 규칙이다. 진행 속도가 강제되는 [[화면이 저절로 전진하는 게임 구간]]에서는 저장 시점이 특히 중요하다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

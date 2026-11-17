@@ -4,8 +4,8 @@
   "title": "피해보다 늦게 도착하는 장식 탄환",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02806",
+  "primary_tag_id": "ML-T02806",
   "description": {
     "definition": "명중과 피해는 발사 순간 처리하지만 화면에는 뒤늦게 이동하는 탄환이나 궤적을 보여 주어 시각적 탄착과 실제 판정 사이에 시간차가 생기는 방식이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "발사체가 닿는 시점에 피해를 계산하거나 네트워크 지연만으로 반응이 엇갈리는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

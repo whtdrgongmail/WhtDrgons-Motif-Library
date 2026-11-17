@@ -4,8 +4,8 @@
   "title": "갑자기 열린 차 문에 부딪히기",
   "original": "Toyota Tripwire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02790",
+  "primary_tag_id": "ML-T02790",
   "description": {
     "definition": "차량의 문이 갑자기 열리면서 지나가던 사람이나 다른 탈것이 그 문에 충돌한다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "차체와의 일반적인 충돌보다 문이 새 장애물로 튀어나오는 순간이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

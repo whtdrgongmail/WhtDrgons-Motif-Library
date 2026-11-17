@@ -4,8 +4,8 @@
   "title": "숫자가 하나씩 멈추는 비밀번호 해독 화면",
   "original": "Password Slot Machine",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01917",
+  "primary_tag_id": "ML-T01917",
   "description": {
     "definition": "해독 중인 비밀번호의 각 자리를 회전하는 문자처럼 보여 주다가 정답 위치부터 하나씩 고정하는 화면 연출이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.010",
     "review_status": "provisional",
     "row_version": 1
   },

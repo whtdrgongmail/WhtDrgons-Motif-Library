@@ -4,8 +4,8 @@
   "title": "주행 중 운전대가 빠지기",
   "original": "Removable Steering Wheel",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02790",
+  "primary_tag_id": "ML-T02790",
   "description": {
     "definition": "차를 운전하거나 추격하는 도중 운전대가 통째로 빠져 조종이 곤란해진다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "의도적으로 분리하는 정상 구조와 달리 갑작스러운 통제 상실을 만든다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

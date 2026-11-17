@@ -5,8 +5,8 @@
   "original": "Basic Jump Height Equals a Character's Height",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02807",
+  "primary_tag_id": "ML-T02807",
   "description": {
     "definition": "인물의 기본 점프 높이를 몸길이 정도나 그 이상으로 설정해 높은 발판을 이동할 수 있게 한다.",
     "detail": "",
@@ -14,11 +14,11 @@
     "boundary": "게임별 구현과 사용 조건을 확인하며 현실의 운동 법칙이나 실행 방법으로 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

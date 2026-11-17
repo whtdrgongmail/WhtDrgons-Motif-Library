@@ -4,8 +4,8 @@
   "title": "외형보다 큰 판정 영역",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02806",
+  "primary_tag_id": "ML-T02806",
   "description": {
     "definition": "게임 물체의 실제 접촉·피격 범위가 보이는 외형 바깥까지 확장되어 빈 공간의 접촉도 명중·충돌로 처리되는 설계다. 대상에 따라 회피나 좁은 통로 사용을 어렵게 만든다.",
     "detail": "적의 피격 범위를 키우면 맞히기 쉬워지지만 플레이어·투사체의 충돌 범위를 키우면 회피나 엄폐 이용이 어려워질 수 있다.",
@@ -13,11 +13,11 @@
     "boundary": "사거리만 긴 공격이나 범위를 정확히 표시한 광역 공격과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

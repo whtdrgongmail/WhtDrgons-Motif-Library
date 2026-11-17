@@ -4,8 +4,8 @@
   "title": "음주 운전자",
   "original": "Drunk Driver",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02790",
+  "primary_tag_id": "ML-T02790",
   "description": {
     "definition": "술을 마신 상태로 차량을 몰아 자신과 주변 인물을 위험에 빠뜨리는 행동이다. [[근무 중 음주]]은 운전이라는 책임을 수행하는 동안 술을 마시거나 취한 상태가 되는 경우다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

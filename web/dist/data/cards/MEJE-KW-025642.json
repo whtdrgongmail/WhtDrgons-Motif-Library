@@ -4,8 +4,8 @@
   "title": "영상 사방을 둘러싼 이중 여백",
   "original": "windowboxing",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T02798",
+  "primary_tag_id": "ML-T02798",
   "description": {
     "definition": "이미 상하 여백이 있는 영상을 다시 좌우 여백 안에 넣거나 그 반대로 처리해 영상의 사방에 틀이 생긴다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "상하 또는 좌우 한 쌍의 여백만 있는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "22",
-    "review_status": "provisional",
+    "code": "22.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
