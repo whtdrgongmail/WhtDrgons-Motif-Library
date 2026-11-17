@@ -4,8 +4,8 @@
   "title": "시간이 달라졌다고 잘못 믿기",
   "original": "Perceived Time Anomaly",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T02742",
+  "primary_tag_id": "ML-T02742",
   "description": {
     "definition": "실제 시간의 흐름에는 변화가 없는데 인물이 멈춤·가속·이동 같은 시간적 이상이 생겼다고 판단하는 상황이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "실제 시간 왜곡이나 인물의 주관적 시간감 변화 자체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "08",
-    "review_status": "provisional",
+    "code": "08.006.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

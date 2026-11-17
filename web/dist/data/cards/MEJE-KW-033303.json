@@ -4,8 +4,8 @@
   "title": "인물 출입을 기준으로 장면 나누기",
   "original": "FrenchScenes",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F04",
+  "tag_id": "ML-T02708",
+  "primary_tag_id": "ML-T02708",
   "description": {
     "definition": "장소와 시간이 그대로여도 대화에 인물이 들어오거나 나가면 새 [[장면]]으로 번호를 붙이는 극의 구분 방식이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "04",
-    "review_status": "provisional",
+    "code": "04.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

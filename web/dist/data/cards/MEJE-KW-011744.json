@@ -4,8 +4,8 @@
   "title": "심판 부재로 무효가 된 승리",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F26",
+  "tag_id": "ML-T02748",
+  "primary_tag_id": "ML-T02748",
   "description": {
     "definition": "승리 조건을 충족하는 [[행동]]이 이루어졌지만 이를 확인할 심판이 없어 경기가 끝나지 않는 연출이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "선수가 실제 승리 조건을 충족하지 못한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "26",
-    "review_status": "provisional",
+    "code": "26.010.001",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

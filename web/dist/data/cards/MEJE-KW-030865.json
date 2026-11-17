@@ -4,8 +4,8 @@
   "title": "시동 대신 와이퍼를 켜 버리기",
   "original": "Wiper Start",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F19",
+  "tag_id": "MM-UNSET-000328",
+  "primary_tag_id": "MM-UNSET-000328",
   "description": {
     "definition": "자동차를 출발시키려던 인물이 조작을 혼동해 시동 대신 와이퍼만 작동시킨다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "의도적인 와이퍼 사용과 달리 출발 의도와 결과가 어긋나는 실수다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "19",
-    "review_status": "provisional",
+    "code": "19.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

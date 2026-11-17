@@ -4,8 +4,8 @@
   "title": "모유를 일반 우유로 알고 마시기",
   "original": "You're Drinking Breast Milk",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T02742",
+  "primary_tag_id": "ML-T02742",
   "description": {
     "definition": "인물이 모유인 줄 모르고 일반적인 동물성 우유라고 생각해 마신 뒤 정체를 알게 되는 상황이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "모유임을 알고 먹거나 실제 우유인 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "08",
-    "review_status": "provisional",
+    "code": "08.006.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

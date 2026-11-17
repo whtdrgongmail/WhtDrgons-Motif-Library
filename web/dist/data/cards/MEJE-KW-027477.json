@@ -4,8 +4,8 @@
   "title": "시트콤",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T00309",
+  "primary_tag_id": "ML-T00309",
   "description": {
     "definition": "반복되는 인물과 상황에서 생기는 유머를 중심으로 한 상황 희극 형식이다.",
     "detail": "",
@@ -13,14 +13,23 @@
     "boundary": "코미디 장르 전반이 아니라 상황과 고정 인물의 반복이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "24",
+    "code": "03.110.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "narrative_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "익숙한 인물들이 반복되는 상황에서 웃음을 만드는 희극 형식이다.",
     "review_status": "reviewed",

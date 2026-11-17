@@ -49033,6 +49033,936 @@
         "row_version": 1
       },
       "semantics": null
+    },
+    {
+      "id": "ML-T02701",
+      "facet_id": "ML-F24",
+      "parent_id": "ML-F24",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "노랫말의 주제와 발화 태도",
+      "classification": {
+        "code": "24.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02702",
+      "facet_id": "ML-F24",
+      "parent_id": "ML-F24",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "노랫말의 구성과 언어 형식",
+      "classification": {
+        "code": "24.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02703",
+      "facet_id": "ML-F24",
+      "parent_id": "ML-F24",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기존 곡·녹음의 재해석과 변형",
+      "classification": {
+        "code": "24.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02704",
+      "facet_id": "ML-F24",
+      "parent_id": "ML-F24",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "작품 음악의 선택과 배치",
+      "classification": {
+        "code": "24.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02705",
+      "facet_id": "ML-F24",
+      "parent_id": "ML-F24",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "음악의 기초 개념과 기보",
+      "classification": {
+        "code": "24.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000328",
+      "facet_id": "ML-F19",
+      "parent_id": "ML-F19",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "유머",
+      "classification": {
+        "code": "19.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02706",
+      "facet_id": "ML-F19",
+      "parent_id": "ML-F19",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "사건과 정서의 불일치",
+      "classification": {
+        "code": "19.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000990",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00576",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "마시니마",
+      "classification": {
+        "code": "04.004.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02707",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-F04",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "등장인물 구성",
+      "classification": {
+        "code": "04.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02708",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-F04",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공연·방송의 구획",
+      "classification": {
+        "code": "04.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02709",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00576",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "음악으로 전개하는 극적 서사",
+      "classification": {
+        "code": "04.004.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02710",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-F04",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "작품·회차 제목 구성",
+      "classification": {
+        "code": "04.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02711",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00592",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "움직이는 만화",
+      "classification": {
+        "code": "04.006.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000475",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-F04",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "서사 밀도",
+      "classification": {
+        "code": "04.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02712",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-F04",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "내면 사건 중심 구성",
+      "classification": {
+        "code": "04.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02713",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-F04",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "비인간 중심 서사",
+      "classification": {
+        "code": "04.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MM-UNSET-000152",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-F04",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "앙상블",
+      "classification": {
+        "code": "04.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02714",
+      "facet_id": "ML-F29",
+      "parent_id": "ML-T02359",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "현실 문화·관습 참조",
+      "classification": {
+        "code": "29.001.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-017502",
+      "facet_id": "ML-F29",
+      "parent_id": "ML-T02359",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "현대에 전해지는 도시전설",
+      "classification": {
+        "code": "29.001.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02715",
+      "facet_id": "ML-F29",
+      "parent_id": "ML-F29",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "실존 인물 참조",
+      "classification": {
+        "code": "29.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02716",
+      "facet_id": "ML-F06",
+      "parent_id": "ML-F06",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인물의 특성·역량 입증",
+      "classification": {
+        "code": "06.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02717",
+      "facet_id": "ML-F06",
+      "parent_id": "ML-F06",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "위기 탈출 수단·지원",
+      "classification": {
+        "code": "06.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02718",
+      "facet_id": "ML-F06",
+      "parent_id": "ML-T00679",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "탐색·쟁탈 목표로 사건 추진",
+      "classification": {
+        "code": "06.002.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02719",
+      "facet_id": "ML-F06",
+      "parent_id": "ML-F06",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "갈등 생성·지속",
+      "classification": {
+        "code": "06.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02720",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "수용 반응·정서",
+      "classification": {
+        "code": "30.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02721",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "의도와 실제 수용의 어긋남",
+      "classification": {
+        "code": "30.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02722",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "수용 인식·기억의 오류",
+      "classification": {
+        "code": "30.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02723",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "평가·인지도의 변화와 격차",
+      "classification": {
+        "code": "30.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02724",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "문화권·집단별 수용 차이",
+      "classification": {
+        "code": "30.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02725",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "감상·관심 이탈과 진입 회피",
+      "classification": {
+        "code": "30.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02726",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "비평 기준·평가 담론",
+      "classification": {
+        "code": "30.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02727",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "수용의 현실 영향",
+      "classification": {
+        "code": "30.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02728",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "배우·창작자 이미지와 수용",
+      "classification": {
+        "code": "30.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02729",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "외부 논란·평판 전이",
+      "classification": {
+        "code": "30.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02730",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "이용자 유형·감상 동기",
+      "classification": {
+        "code": "30.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02731",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연령 등급·공개 장소 자율 표시",
+      "classification": {
+        "code": "30.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02732",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "감상 시간·연속 소비",
+      "classification": {
+        "code": "30.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02733",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "관객을 향한 매력·동일시 설계",
+      "classification": {
+        "code": "30.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02734",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "원작·후속작·현지화 판본 비교 수용",
+      "classification": {
+        "code": "30.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02735",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-F30",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "독해·접근 장벽",
+      "classification": {
+        "code": "30.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02736",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-F08",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "안전·생존 위협 조건",
+      "classification": {
+        "code": "08.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02737",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-T02736",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "문명 존속 위협 조건",
+      "classification": {
+        "code": "08.009.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02738",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-T00866",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "강압적 행동 강요",
+      "classification": {
+        "code": "08.007.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02739",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-F08",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대결의 취약성과 우열 조건",
+      "classification": {
+        "code": "08.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02740",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-F08",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대결의 구성과 승부 조건",
+      "classification": {
+        "code": "08.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02741",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-F08",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대상 확보와 보상 배분 경쟁",
+      "classification": {
+        "code": "08.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-004502",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-T00858",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "서로가 선행 조건인 막다른 문제",
+      "classification": {
+        "code": "08.006.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "MEJE-KW-030474",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-T00858",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "함정",
+      "classification": {
+        "code": "08.006.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02742",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-T00858",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "사실·정체·의도의 오인 조건",
+      "classification": {
+        "code": "08.006.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02743",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-F08",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "책임 귀속과 권한 행사 쟁점",
+      "classification": {
+        "code": "08.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02744",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공연 형식·프로그램",
+      "classification": {
+        "code": "26.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02745",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공연 집단·역할·페르소나",
+      "classification": {
+        "code": "26.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02746",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연기·표현 수행",
+      "classification": {
+        "code": "26.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02747",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "프로레슬링 경기 형식",
+      "classification": {
+        "code": "26.009.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02748",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "프로레슬링 역할·연기 관습",
+      "classification": {
+        "code": "26.010.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02749",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "작품 수용·해석·팬덤 갈등",
+      "classification": {
+        "code": "26.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02750",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "온라인 팬 지식·파생 창작 담론",
+      "classification": {
+        "code": "26.006.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02751",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "게임 실황의 공연·참여 구성",
+      "classification": {
+        "code": "26.009.002",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02752",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "부정 반응·호응 실패",
+      "classification": {
+        "code": "26.005.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02753",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공연 시간·현장 조정",
+      "classification": {
+        "code": "26.004.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02754",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "마술·곡예·서커스 공연",
+      "classification": {
+        "code": "26.009.003",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02755",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공연의 객석 관계·참여 구성",
+      "classification": {
+        "code": "26.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
     }
   ]
 }

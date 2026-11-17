@@ -4,8 +4,8 @@
   "title": "놀이기구의 키 제한에 막히기",
   "original": "You Must Be This Tall to Ride",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00858",
+  "primary_tag_id": "ML-T00858",
   "description": {
     "definition": "인물이 놀이기구의 최소 신장 조건을 충족하지 못해 타고 싶은 기구를 이용하지 못하는 상황이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "다른 연령·건강·요금 조건 때문에 거절되는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.006",
     "review_status": "provisional",
     "row_version": 1
   },

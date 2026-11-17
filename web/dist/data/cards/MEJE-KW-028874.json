@@ -4,8 +4,8 @@
   "title": "화장실을 다른 시설이나 물건으로 오해하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T02742",
+  "primary_tag_id": "ML-T02742",
   "description": {
     "definition": "실제 화장실이나 변기를 다른 용도의 공간과 물건으로 판단해 그 목적에 맞지 않게 이용하는 상황이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "다른 장소를 화장실로 착각하는 경우와 방향이 반대다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "08",
-    "review_status": "provisional",
+    "code": "08.006.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

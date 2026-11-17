@@ -4,8 +4,8 @@
   "title": "감사를 들먹이며 압박하기",
   "original": "Audit Threat",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T02738",
+  "primary_tag_id": "ML-T02738",
   "description": {
     "definition": "조사나 회계 감사의 가능성을 협상 상대에게 제시해 행동을 바꾸게 한다. 실제 조사보다 그 절차가 드러낼 비밀과 비용이 압박의 핵심이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "08",
-    "review_status": "provisional",
+    "code": "08.007.007",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

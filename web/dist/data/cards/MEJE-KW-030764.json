@@ -4,8 +4,8 @@
   "title": "무해한 현상을 핵 공격으로 오해하기",
   "original": "Nuclear False Alarm",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T02742",
+  "primary_tag_id": "ML-T02742",
   "description": {
     "definition": "실제 핵 공격이 아닌 신호나 사건을 핵무기 공격의 시작으로 받아들여 위기 대응이 벌어지는 상황이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "실제 공격에 대한 정확한 경보나 가벼운 위험 오인과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "08",
-    "review_status": "provisional",
+    "code": "08.006.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

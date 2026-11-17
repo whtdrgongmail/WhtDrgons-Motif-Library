@@ -4,8 +4,8 @@
   "title": "도구 공격을 점수로 세는 경기",
   "original": "Hard Ten Match",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F26",
+  "tag_id": "ML-T02747",
+  "primary_tag_id": "ML-T02747",
   "description": {
     "definition": "도구 공격과 테이블 [[파괴]] 같은 [[행동]]에 점수를 배정하고 목표 점수와 점수 차를 충족하면 이기는 경기다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "상대를 폴하거나 항복시켜 득점하는 경기와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "26",
-    "review_status": "provisional",
+    "code": "26.009.001",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

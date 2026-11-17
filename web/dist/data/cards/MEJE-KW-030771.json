@@ -4,8 +4,8 @@
   "title": "비슷한 물건을 다른 물건으로 잘못 집기",
   "original": "Similar Item Confusion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T02742",
+  "primary_tag_id": "ML-T02742",
   "description": {
     "definition": "모양이나 상황이 비슷한 두 물건 중 하나를 다른 것으로 알아보고 사용하거나 전달하는 오인이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "물건을 의도적으로 바꿔치기한 행위 자체와 구별하며 잘못된 식별이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "08",
-    "review_status": "provisional",
+    "code": "08.006.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

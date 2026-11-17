@@ -4,8 +4,8 @@
   "title": "방송 종료가 경기 종료가 되는 규칙",
   "original": "TV Time-Limit Match",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F26",
+  "tag_id": "ML-T02747",
+  "primary_tag_id": "ML-T02747",
   "description": {
     "definition": "방송 [[시간]] 안에 승패가 나지 않으면 무승부로 처리하여 편성 시간이 경기의 제한 조건이 되게 하는 형식이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "방송만 끝나고 실제 승패는 계속 결정되는 중계 중단과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "26",
-    "review_status": "provisional",
+    "code": "26.009.001",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

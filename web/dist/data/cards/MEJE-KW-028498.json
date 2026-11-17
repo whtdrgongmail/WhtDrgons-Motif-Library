@@ -4,8 +4,8 @@
   "title": "잘못 계산한 경과 시간 때문에 안전 장치가 설비를 멈추기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T00847",
+  "primary_tag_id": "ML-T00847",
   "description": {
     "definition": "시스템이 날짜를 잘못 읽어 장비를 지나치게 오래 가동했다고 판단하고 안전을 위한 자동 정지 절차를 발동해 필요한 설비가 멈추는 상황이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "의도적인 파괴나 단순 정전과 구별하며 정상적인 안전 기능에 잘못된 시간 정보가 들어간 경우다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "08",
+    "code": "08.004.002",
     "review_status": "provisional",
     "row_version": 1
   },

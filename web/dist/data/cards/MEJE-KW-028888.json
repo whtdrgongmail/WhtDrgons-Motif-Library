@@ -4,8 +4,8 @@
   "title": "동물의 성별을 잘못 알고 지내기",
   "original": "Your Tomcat Is Pregnant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T02742",
+  "primary_tag_id": "ML-T02742",
   "description": {
     "definition": "동물의 성별을 실제와 다르게 판단해 돌보다 임신이나 산란 같은 사건으로 그 판단이 틀렸음을 깨닫는 상황이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "동물이 실제로 성을 바꾸는 세계 규칙과 달리 사람의 처음 판단이 잘못된 경우다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "08",
-    "review_status": "provisional",
+    "code": "08.006.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

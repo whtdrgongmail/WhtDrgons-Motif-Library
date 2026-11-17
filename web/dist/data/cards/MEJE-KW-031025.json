@@ -4,8 +4,8 @@
   "title": "귀중품이 남아 있어 다른 범행 동기를 의심하기",
   "original": "Suspicious Lack of Theft",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F06",
+  "tag_id": "ML-T00707",
+  "primary_tag_id": "ML-T00707",
   "description": {
     "definition": "범죄 현장의 가치 있는 물건이 그대로 남아 있다는 사실을 재물 이외의 동기를 추론하는 단서로 삼는다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "물건의 잔존만으로 단일 동기를 확정하지 않으며 [[서사]] 안의 가설 형성으로 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "06",
+    "code": "06.006",
     "review_status": "provisional",
     "row_version": 1
   },
