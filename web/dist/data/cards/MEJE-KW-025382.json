@@ -4,8 +4,8 @@
   "title": "발사체에서 다시 갈라져 나오는 발사체",
   "original": "Recursive Ammo",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01408",
+  "primary_tag_id": "ML-T01408",
   "description": {
     "definition": "이미 발사된 미사일이나 탄체가 다시 여러 발사체를 내보내 공격을 확장한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "한 발사대에서 여러 탄을 동시에 쏘는 것과 구별하며 제작법이나 실제 성능을 다루지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.001",
     "review_status": "provisional",
     "row_version": 1
   },

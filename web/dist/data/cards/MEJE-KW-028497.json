@@ -4,8 +4,8 @@
   "title": "날짜를 축약해 저장한 탓에 세기를 잘못 읽기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02605",
+  "primary_tag_id": "ML-T02605",
   "description": {
     "definition": "날짜의 연도 일부를 생략하여 저장한 시스템이 세기가 바뀐 뒤 같은 숫자를 이전 세기의 날짜로 해석하여 시간 계산을 어긋나게 만드는 기술적 설정이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "모든 전산 오류가 같은 원인인 것은 아니며 축약된 연도 해석이라는 구체적 조건에 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "13",
-    "review_status": "provisional",
+    "code": "13.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

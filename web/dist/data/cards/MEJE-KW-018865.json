@@ -4,8 +4,8 @@
   "title": "요청을 잘못 알아듣는 가상 비서",
   "original": "Virtual Assistant Blunder",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F13",
+  "tag_id": "ML-T02605",
+  "primary_tag_id": "ML-T02605",
   "description": {
     "definition": "말로 명령을 받는 지능형 기기나 가상 비서가 사용자의 요청을 잘못 이해하여 엉뚱하게 반응하는 상황이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "명령을 정확히 이해했지만 권한 때문에 실행하지 않는 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "13",
-    "review_status": "provisional",
+    "code": "13.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

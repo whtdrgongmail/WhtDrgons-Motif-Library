@@ -6,8 +6,8 @@
   "aliases": [
     "발생 지점에 가기 전까지 계속 오는 장애물"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "[[플레이어]]가 특정 구간에 있을 때만 보이지 않는 근원에서 장애물이 날아오고, 근원에 접근하면 발생이 중단되는 [[게임]] 장애물이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "관측 가능한 적의 공격이나 환경 법칙에 따라 계속 발생하는 낙석과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-17",
+  "row_version": 4,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },

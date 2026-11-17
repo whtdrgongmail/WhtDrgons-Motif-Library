@@ -4,8 +4,8 @@
   "title": "지형 방향을 뒤집은 재사용 구간",
   "original": "Flipped levels",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "기존 구간의 공간 배치를 좌우·상하로 뒤집거나 바닥과 벽 같은 축의 역할을 바꾸어 새 구간을 만든다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "플레이어의 출발점과 목적지만 바꾸는 경로 역전과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-17",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },
