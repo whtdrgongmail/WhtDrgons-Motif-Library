@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《해피니스 인 슬레이버리》는 음악·음향 작품이다.",
+    "definition": "〈해피니스 인 슬레이버리〉는 나인 인치 네일스의 1992년 음반 《Broken》에 수록된 곡이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "나인 인치 네일스의 〈해피니스 인 슬레이버리〉는 구속의 이미지를 음악 산업과의 관계에 대한 비유로 쓰는 사례다.",
+    "easy_ko": "〈해피니스 인 슬레이버리〉는 나인 인치 네일스의 1992년 음반 《Broken》에 수록된 곡이다. 후속 음반 《Fixed》에는 별도 재해석 버전이 실렸다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000463",
+      "card_id": "MM-MEDIA-001744",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "website",
+      "url": "https://www.nin.com/discography/",
+      "description_ko": "작품의 줄거리·제작 정보에 관한 공식 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《해피니스 인 슬레이버리》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "〈해피니스 인 슬레이버리〉는 나인 인치 네일스의 음반 《Broken》(1992)에 실린 곡이다. 밴드의 공식 음반 목록은 이를 해당 음반의 다섯 번째 트랙으로 표기한다.\n\n나인 인치 네일스의 공식 자료는 후속 음반 《Fixed》에 이 곡의 재해석 버전이 별도 트랙으로 수록됐다고 기록한다. 이 카드의 대상은 《Broken》에 수록된 원곡이며, 후대 재해석 버전이나 뮤직비디오를 같은 음원으로 합치지 않는다.",
     "sections": [
       [
         "상세 설명",
-        "《해피니스 인 슬레이버리》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "〈해피니스 인 슬레이버리〉는 나인 인치 네일스의 음반 《Broken》(1992)에 실린 곡이다. 밴드의 공식 음반 목록은 이를 해당 음반의 다섯 번째 트랙으로 표기한다.\n\n나인 인치 네일스의 공식 자료는 후속 음반 《Fixed》에 이 곡의 재해석 버전이 별도 트랙으로 수록됐다고 기록한다. 이 카드의 대상은 《Broken》에 수록된 원곡이며, 후대 재해석 버전이나 뮤직비디오를 같은 음원으로 합치지 않는다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

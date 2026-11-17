@@ -4,8 +4,8 @@
   "title": "적 병력끼리 싸우게 만들기",
   "original": "Set a Mook to Kill a Mook",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
     "definition": "플레이어가 적대 병력들이 서로 공격하도록 유도하여 그들의 전투력을 상대를 없애는 수단으로 활용한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "두 영웅 사이의 오해와 달리 적 병력을 서로 충돌시키는 게임 행동이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005",
     "review_status": "provisional",
     "row_version": 1
   },

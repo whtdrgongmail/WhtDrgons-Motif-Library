@@ -4,8 +4,8 @@
   "title": "출발과 도착을 바꾼 재사용 구간",
   "original": "Flipped paths",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02079",
+  "primary_tag_id": "ML-T02079",
   "description": {
     "definition": "이전에 통과한 구간의 끝에서 출발해 시작점 쪽으로 향하도록 동선을 바꾸어 재사용한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "변화 없이 같은 장소를 다시 지나가는 단순 귀환과 구별하며 적·목표·환경 조건을 바꿀 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.002",
     "review_status": "provisional",
     "row_version": 1
   },

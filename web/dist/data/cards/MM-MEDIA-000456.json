@@ -7,14 +7,14 @@
   "tag_id": "ML-T00142",
   "primary_tag_id": "ML-T00142",
   "description": {
-    "definition": "이 카드는 음반 《I Dreamed A Dream》를 가리킨다. 이 라이브러리에서는 [[싱글 히트곡 없이 성공한 음반]]의 작품 사례와 연결된다.",
+    "definition": "《I Dreamed A Dream》은 수잔 보일의 2009년 음반으로, 동명의 노래와 구별되는 12곡짜리 앨범이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
     "code": "02.008.003",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "I Dreamed A Dream은 그해 미국에서 가장 많이 팔린 음반이 되었지만 톱 40에 오른 싱글은 없었다. 개별 히트곡 없이 음반 전체가 큰 성공을 거둔 경우다.",
+    "easy_ko": "《I Dreamed A Dream》은 수잔 보일의 2009년 음반이다. 동명 노래와 구별되는 앨범이며 영국 공식 음반 차트 1위를 기록했다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000459",
+      "card_id": "MM-MEDIA-000456",
+      "label_ko": "공식 작품 소개",
+      "icon_key": "website",
+      "url": "https://www.officialcharts.com/albums/susan-boyle-i-dreamed-a-dream/",
+      "description_ko": "작품의 줄거리·제작 정보에 관한 공식 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《I Dreamed A Dream》라는 표제는 음반을 가리킨다.\n\n모티프 라이브러리에서는 [[싱글 히트곡 없이 성공한 음반]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "text": "《I Dreamed A Dream》은 수잔 보일이 발표한 2009년 음반이다. Apple Music은 이 음반을 12곡으로 구성된 앨범으로 등록한다. 제목이 같은 노래와 《[[레 미제라블]]》의 무대 수록곡은 음반 자체와 구별해야 한다.\n\n영국 Official Charts의 음반 차트 기록에서 이 음반의 최고 순위는 1위다. 음반 차트는 여러 곡을 묶은 앨범 단위의 성적을 기록하므로, 각 노래의 싱글 차트 순위와 별도로 판단한다. 이 구분은 [[싱글 히트곡 없이 성공한 음반]]이라는 관련 개념을 검토할 때 필요하다.",
     "sections": [
       [
         "상세 설명",
-        "《I Dreamed A Dream》라는 표제는 음반을 가리킨다.\n\n모티프 라이브러리에서는 [[싱글 히트곡 없이 성공한 음반]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+        "《I Dreamed A Dream》은 수잔 보일이 발표한 2009년 음반이다. Apple Music은 이 음반을 12곡으로 구성된 앨범으로 등록한다. 제목이 같은 노래와 《[[레 미제라블]]》의 무대 수록곡은 음반 자체와 구별해야 한다.\n\n영국 Official Charts의 음반 차트 기록에서 이 음반의 최고 순위는 1위다. 음반 차트는 여러 곡을 묶은 앨범 단위의 성적을 기록하므로, 각 노래의 싱글 차트 순위와 별도로 판단한다. 이 구분은 [[싱글 히트곡 없이 성공한 음반]]이라는 관련 개념을 검토할 때 필요하다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }
