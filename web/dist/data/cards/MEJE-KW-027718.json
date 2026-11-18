@@ -4,8 +4,8 @@
   "title": "기존 캐릭터들을 모은 대전 게임",
   "original": "Mascot Fighter",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00416",
+  "primary_tag_id": "ML-T00416",
   "description": {
     "definition": "이미 알려진 작품의 인물들을 모아 서로 싸우게 하는 대전 게임으로 팬들이 익숙한 능력과 관계를 새로운 규칙에서 체험하게 하는 형식이다.",
     "detail": "작품 사례: 《[[대난투 스매시브라더스]]》는 여러 게임의 인물들을 하나의 대전 규칙에 모아 원작의 기술과 개성을 싸움의 방식으로 바꾼다.",
@@ -14,16 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-18",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.201.002",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },

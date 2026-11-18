@@ -51313,6 +51313,351 @@
         "row_version": 1
       },
       "semantics": null
+    },
+    {
+      "id": "ML-T02846",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "촬영 중 배경·전경 합성",
+      "classification": {
+        "code": "22.025",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02847",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-T01891",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "피사체 주위를 도는 촬영",
+      "classification": {
+        "code": "22.007.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02848",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "시야가 끊긴 사이의 급변",
+      "classification": {
+        "code": "22.026",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02849",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-T01873",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "신체의 매력을 강조하는 화면",
+      "classification": {
+        "code": "22.005.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02850",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "이야기 층위를 구별하는 시각 양식 전환",
+      "classification": {
+        "code": "22.027",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02851",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "과거 사건의 패턴이 현재에 되풀이되기",
+      "classification": {
+        "code": "05.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02852",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "주변 인물에게 넘기는 이야기의 중심",
+      "classification": {
+        "code": "05.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02853",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "몸 상태의 변화가 중심인 회차",
+      "classification": {
+        "code": "05.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02854",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "여가 방문이 사건을 조직하는 이야기",
+      "classification": {
+        "code": "05.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02855",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "장르나 기본 전제의 지속적인 변화",
+      "classification": {
+        "code": "05.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02856",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "적대 위협이 일단락된 뒤 다시 이어지기",
+      "classification": {
+        "code": "05.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02857",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "결정적 순간에 작동하지 않는 도구",
+      "classification": {
+        "code": "05.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02858",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "개선이나 예방을 위한 행동의 역효과",
+      "classification": {
+        "code": "05.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02859",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-F27",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "별도 시범작과 정규 시리즈의 출발",
+      "classification": {
+        "code": "27.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02860",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-F27",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "정규 공개의 공백을 메우는 임시 콘텐츠",
+      "classification": {
+        "code": "27.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02861",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-F27",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "작품 밖 창작자 발언과 설정 정보",
+      "classification": {
+        "code": "27.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02862",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-F27",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "다른 화면비를 위한 영상 판본 변환",
+      "classification": {
+        "code": "27.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02863",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-F27",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "자막의 저장과 표시 설계",
+      "classification": {
+        "code": "27.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02864",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-F27",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "시각 구현 제약을 반영한 디자인",
+      "classification": {
+        "code": "27.025",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02865",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-F27",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "여러 관객층을 위한 콘텐츠 설계",
+      "classification": {
+        "code": "27.026",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02866",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-F27",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "음악 그룹 편성의 장기 지속",
+      "classification": {
+        "code": "27.027",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02867",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-F27",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "실재 시기·기관과 어긋나는 복식 재현",
+      "classification": {
+        "code": "27.028",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02868",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-F27",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "한 작품의 여러 물리 매체 분할",
+      "classification": {
+        "code": "27.029",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
     }
   ]
 }

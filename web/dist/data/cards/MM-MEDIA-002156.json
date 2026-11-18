@@ -7,14 +7,14 @@
   "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
-    "definition": "《마이 리틀 사이드》는 테이블톱 게임 작품이다.",
+    "definition": "폼 왕국에서 동물 탐험가 두 마리를 움직이며 트로피 네 개를 모으는 가족용 [[보드게임]]이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《마이 리틀 사이드》는 아이들에게 원작의 규칙을 설명하기 어렵다는 문제에서 출발해 규칙을 간결하게 만든 변형판이다. 이후 독자적인 브랜딩으로 정식 출판되었다.",
+    "easy_ko": "남은 트로피 하나를 얻으려면 사과를 성으로 나를까, 모아 둔 파이로 승부를 걸까? 차례마다 다른 길이 열린다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000614",
+      "card_id": "MM-MEDIA-002156",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://store.stonemaiergames.com/products/my-little-scythe",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000615",
+      "card_id": "MM-MEDIA-002156",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://c.tabletopia.com/games/my-little-scythe/rules/mls-rulebook-r6/en",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《마이 리틀 사이드》라는 표제는 테이블톱 게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 테이블톱 게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "한 사람에서 여섯 사람까지 참가한다. 자기 차례에는 이동, 탐색, 만들기 가운데 하나를 고른다. 탐색 주사위로 자원을 찾으면 사과와 보석을 에버프리 성까지 배달할 수 있다.\n\n트로피는 여덟 부문에 걸려 있다. 친구를 사귀고 의뢰를 마치는 일도, 파이 싸움에서 이기는 일도 트로피로 이어지므로 각자 가진 자원에 따라 다른 목표를 좇을 수 있다.",
     "sections": [
       [
         "상세 설명",
-        "《마이 리틀 사이드》라는 표제는 테이블톱 게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 테이블톱 게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "한 사람에서 여섯 사람까지 참가한다. 자기 차례에는 이동, 탐색, 만들기 가운데 하나를 고른다. 탐색 주사위로 자원을 찾으면 사과와 보석을 에버프리 성까지 배달할 수 있다.\n\n트로피는 여덟 부문에 걸려 있다. 친구를 사귀고 의뢰를 마치는 일도, 파이 싸움에서 이기는 일도 트로피로 이어지므로 각자 가진 자원에 따라 다른 목표를 좇을 수 있다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "이 카드는 Weezer의 노래 ‘Island in the Sun’을 가리킨다. 이 라이브러리에서는 [[오도 관계의 순환 화음 진행]]의 작품 사례와 연결된다.",
+    "definition": "위저가 2001년 발표한 앨범 《Weezer》의 두 번째 싱글로, 결혼식과 동물들을 각각 내세운 두 [[뮤직비디오]]로도 알려진 노래다.",
     "detail": "연결 사례: Weezer의 Island in the Sun에는 오도 관계의 순환 진행 중 일부가 나타나, 전체 순환을 모두 쓰지 않고도 그 흐름을 활용하는 사례가 된다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Weezer의 노래 ‘Island in the Sun’에는 오도 관계의 순환 화음 진행이 일부 나타난다. 전체 순환을 모두 쓰지 않고 일부 구간만 활용한 사례다.",
+    "easy_ko": "같은 노래를 틀어도 한 영상에서는 위저가 결혼식 축하 밴드가 되고, 다른 영상에서는 멤버들이 동물들 곁에서 시간을 보낸다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000634",
+      "card_id": "MM-MEDIA-000484",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=erG5rgNYSdk",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000635",
+      "card_id": "MM-MEDIA-000484",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.udiscovermusic.com/news/weezer-island-in-the-sun-spotify-billions-club/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Island in the Sun》라는 표제는 Weezer의 노래를 가리킨다.\n\n모티프 라이브러리에서는 [[오도 관계의 순환 화음 진행]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "text": "초록색 표지로 ‘그린 앨범’이라고 불리는 《Weezer》에서 〈Hash Pipe〉에 이어 싱글로 나온 곡이다. 첫 뮤직비디오는 멕시코식 결혼식을 배경으로 밴드가 하객들 앞에서 연주하는 모습을 담았다.\n\n스파이크 존즈가 연출한 또 하나의 영상은 무대를 바꾼다. 멤버들이 곰과 침팬지, 고양이 같은 동물들과 어울리는 장면을 이어 붙여 같은 노래에 전혀 다른 볼거리를 만들었다.",
     "sections": [
       [
         "상세 설명",
-        "《Island in the Sun》라는 표제는 Weezer의 노래를 가리킨다.\n\n모티프 라이브러리에서는 [[오도 관계의 순환 화음 진행]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+        "초록색 표지로 ‘그린 앨범’이라고 불리는 《Weezer》에서 〈Hash Pipe〉에 이어 싱글로 나온 곡이다. 첫 뮤직비디오는 멕시코식 결혼식을 배경으로 밴드가 하객들 앞에서 연주하는 모습을 담았다.\n\n스파이크 존즈가 연출한 또 하나의 영상은 무대를 바꾼다. 멤버들이 곰과 침팬지, 고양이 같은 동물들과 어울리는 장면을 이어 붙여 같은 노래에 전혀 다른 볼거리를 만들었다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

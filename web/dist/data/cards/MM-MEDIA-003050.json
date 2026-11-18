@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《Mistakes Like Fractures》는 음악·음향 작품이다.",
+    "definition": "미국 밴드 노크드 루스가 과거의 잘못을 살갗 아래 보이지 않는 골절에 빗대어 [[노래]]한 곡이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Knocked Loose의 〈Mistakes Like Fractures〉는 비트다운 양식의 곡이다.",
+    "easy_ko": "주인공은 풀숲 너머에서 뿔을 보고 도망치고 싶어 한다. 하지만 그를 따라오는 것은 어디에도 내려놓을 수 없는 자기 잘못이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 3
+    "updated_at": "2026-11-18",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000644",
+      "card_id": "MM-MEDIA-003050",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://knockedloose.bandcamp.com/track/mistakes-like-fractures-2",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Mistakes Like Fractures》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "2019년 4월 공개한 노래에서 화자는 땅에 묶인 채 키 큰 풀 사이로 뿔이 보인다고 말한다. 지난 잘못이 피부 아래 부러진 뼈처럼 숨었다는 이미지가 후렴에서 되풀이된다.\n\n화자는 자기가 한 일을 속죄하겠다며 신에게 외치지만 대답을 듣지 못한다. 끝내 심판 앞에서 손을 잡아 줄 이를 찾지 못하고, 처음에 보였던 뿔은 그가 내려가는 길까지 따라온다.",
     "sections": [
       [
         "상세 설명",
-        "《Mistakes Like Fractures》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "2019년 4월 공개한 노래에서 화자는 땅에 묶인 채 키 큰 풀 사이로 뿔이 보인다고 말한다. 지난 잘못이 피부 아래 부러진 뼈처럼 숨었다는 이미지가 후렴에서 되풀이된다.\n\n화자는 자기가 한 일을 속죄하겠다며 신에게 외치지만 대답을 듣지 못한다. 끝내 심판 앞에서 손을 잡아 줄 이를 찾지 못하고, 처음에 보였던 뿔은 그가 내려가는 길까지 따라온다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

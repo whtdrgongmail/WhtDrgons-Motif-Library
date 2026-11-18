@@ -4,8 +4,8 @@
   "title": "기존 캐릭터를 역할수행 게임으로 확장하기",
   "original": "Mascot RPG",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00434",
+  "primary_tag_id": "ML-T00434",
   "description": {
     "definition": "다른 [[장르]]에서 알려진 캐릭터나 여러 작품의 인물을 모아 능력치 성장·전투·이야기 선택을 갖춘 역할수행 게임으로 전개하는 형식이다.",
     "detail": "작품 사례: 《[[슈퍼 마리오 RPG]]》는 마리오의 모험을 성장과 전투 중심의 역할수행 게임으로 바꾸면서 타이밍 입력으로 원작의 액션 감각을 이어 간다.",
@@ -14,18 +14,21 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-18",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.204",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
-    "row_version": 1
+    "row_version": 2
   },
   "easy_explanation": {
     "easy_ko": "익숙한 캐릭터로 레벨을 올리고 더 긴 모험과 이야기를 경험한다.",

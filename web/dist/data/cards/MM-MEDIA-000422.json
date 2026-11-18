@@ -7,14 +7,14 @@
   "tag_id": "ML-T00140",
   "primary_tag_id": "ML-T00140",
   "description": {
-    "definition": "이 카드는 노래 《Heads Carolina, Tails California》를 가리킨다. 이 라이브러리에서는 [[집을 떠나 여행하고 싶은 노래]]의 작품 사례와 연결된다.",
+    "definition": "조 디 메시나가 부른 [[컨트리]] 노래로, 연인이 동전을 던져 함께 떠날 곳을 정하자는 마음을 담았다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
     "code": "02.008.001",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Heads Carolina, Tails California의 화자는 지금 있는 곳을 떠나고 싶은 마음이 커서, 목적지는 동전 던지기로 정해도 좋다고 노래한다.",
+    "easy_ko": "앞면이면 캐롤라이나, 뒷면이면 캘리포니아다. 어느 쪽이 나오든 지금 사는 곳에서 함께 떠날 수 있다는 게 노래 속 제안이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000632",
+      "card_id": "MM-MEDIA-000422",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.markdsanders.me/new-page",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000633",
+      "card_id": "MM-MEDIA-000422",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=dTBvMrQXfVg",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Heads Carolina, Tails California》라는 표제는 노래를 가리킨다.\n\n모티프 라이브러리에서는 [[집을 떠나 여행하고 싶은 노래]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "text": "공동 작곡가 팀 니컬스는 책에서 한 인물이 동전을 던져 다음 행선지를 정하는 대목을 읽었다. 그가 마크 D. 샌더스의 작업실에서 들려준 이야기가 두 지명을 앞뒷면처럼 나란히 놓는 노래로 발전했다.\n\n1996년 메시나의 이름을 딴 앨범에 실린 녹음은 바이런 갤리모어와 팀 맥그로가 제작했다. 두 작곡가가 만든 동전 던지기라는 장치를 메시나가 여행을 청하는 사람의 목소리로 들려준다.",
     "sections": [
       [
         "상세 설명",
-        "《Heads Carolina, Tails California》라는 표제는 노래를 가리킨다.\n\n모티프 라이브러리에서는 [[집을 떠나 여행하고 싶은 노래]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+        "공동 작곡가 팀 니컬스는 책에서 한 인물이 동전을 던져 다음 행선지를 정하는 대목을 읽었다. 그가 마크 D. 샌더스의 작업실에서 들려준 이야기가 두 지명을 앞뒷면처럼 나란히 놓는 노래로 발전했다.\n\n1996년 메시나의 이름을 딴 앨범에 실린 녹음은 바이런 갤리모어와 팀 맥그로가 제작했다. 두 작곡가가 만든 동전 던지기라는 장치를 메시나가 여행을 청하는 사람의 목소리로 들려준다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

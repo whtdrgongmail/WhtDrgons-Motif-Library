@@ -7,14 +7,14 @@
   "tag_id": "ML-T00148",
   "primary_tag_id": "ML-T00148",
   "description": {
-    "definition": "《더 섀도》는 라디오 드라마 작품이다.",
+    "definition": "부유한 라몬트 크랜스턴이 범죄자들 앞에 정체를 감춘 섀도로 나타나는 미국 [[라디오 드라마]]다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.011.001",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "라디오 작품 《더 섀도》의 영웅은 낮에는 부유한 사교인처럼 행동하고 밤에는 범죄에 맞선다. 은밀한 정체와 도시 범죄 수사가 결합된 탐정형 영웅을 보여 준다.",
+    "easy_ko": "범죄자들은 곁에서 들리는 섀도의 목소리만으로 그가 와 있음을 안다. 청취자와 범죄자가 같은 단서에 귀를 기울이는 셈이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000630",
+      "card_id": "MM-MEDIA-003410",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://blogs.loc.gov/now-see-hear/2019/03/an-evening-of-old-time-radio-at-the-packard-campus-april-6-2019/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《더 섀도》라는 표제는 라디오 드라마를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 라디오 드라마을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "라몬트 크랜스턴은 범죄 세계에서 섀도라는 이름으로 알려져 있다. 모습은 볼 수 없고 목소리만 들린다는 설정 덕분에 라디오 청취자도 극중 인물과 같은 방식으로 그의 등장을 알아챈다.\n\n1938년 3월 20일 방송된 에피소드 〈The White Legion〉에는 오슨 웰스와 애그니스 무어헤드가 출연했다. 미국 의회도서관은 2019년 이 회차를 음향 효과와 라이브 오르간 연주를 곁들여 재현하는 공연을 기획했다.",
     "sections": [
       [
         "상세 설명",
-        "《더 섀도》라는 표제는 라디오 드라마를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 라디오 드라마을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "라몬트 크랜스턴은 범죄 세계에서 섀도라는 이름으로 알려져 있다. 모습은 볼 수 없고 목소리만 들린다는 설정 덕분에 라디오 청취자도 극중 인물과 같은 방식으로 그의 등장을 알아챈다.\n\n1938년 3월 20일 방송된 에피소드 〈The White Legion〉에는 오슨 웰스와 애그니스 무어헤드가 출연했다. 미국 의회도서관은 2019년 이 회차를 음향 효과와 라이브 오르간 연주를 곁들여 재현하는 공연을 기획했다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

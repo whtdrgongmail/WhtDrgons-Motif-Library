@@ -1,0 +1,48 @@
+{
+  "id": "ML-T02846",
+  "kind": "keyword",
+  "title": "촬영 중 배경·전경 합성",
+  "original": "In-Camera Foreground and Background Compositing",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T02846",
+  "primary_tag_id": "ML-T02846",
+  "description": {
+    "definition": "그림·모형·별도 영상을 실사 전경과 촬영 중에 결합하여 서로 다른 요소를 한 공간처럼 기록하는 기법이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "촬영을 마친 다음 하는 크로마키·디지털 합성, 실제 장소나 완성 세트의 일반 촬영, 카메라 화각·초점 운용 자체는 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "22.025",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "배우 뒤에 그림이나 영상을 배치하거나 거울에 비친 모형을 함께 찍어, 서로 다른 요소를 같은 장소에 있는 것처럼 보이게 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "그림·모형·영상과 실제 배우가 한 장소에 있는 것처럼 보이려면 각 요소의 크기와 원근이 촬영 위치에서 맞아야 한다. 그림을 유리판에 그려 실사 공간을 연장할 수도 있고, [[거울 반사를 이용한 쉬프탄 합성]]처럼 거울의 반사 영역에는 모형을, 투명 영역에는 배우를 함께 담을 수도 있다.\n\n배경 영상을 스크린에 투사하거나 카메라 움직임에 맞춰 LED 배경을 바꾸면 배우와 배경이 촬영 시점에 함께 기록된다. 필름의 서로 다른 영역을 나누어 노출하는 방식도 촬영 단계에서 결합이 이루어진다. 단색 배경을 먼저 찍고 완성 영상에서 다른 화면으로 교체하는 [[크로마키]]는 후반 합성에 해당한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "그림·모형·영상과 실제 배우가 한 장소에 있는 것처럼 보이려면 각 요소의 크기와 원근이 촬영 위치에서 맞아야 한다. 그림을 유리판에 그려 실사 공간을 연장할 수도 있고, [[거울 반사를 이용한 쉬프탄 합성]]처럼 거울의 반사 영역에는 모형을, 투명 영역에는 배우를 함께 담을 수도 있다.\n\n배경 영상을 스크린에 투사하거나 카메라 움직임에 맞춰 LED 배경을 바꾸면 배우와 배경이 촬영 시점에 함께 기록된다. 필름의 서로 다른 영역을 나누어 노출하는 방식도 촬영 단계에서 결합이 이루어진다. 단색 배경을 먼저 찍고 완성 영상에서 다른 화면으로 교체하는 [[크로마키]]는 후반 합성에 해당한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

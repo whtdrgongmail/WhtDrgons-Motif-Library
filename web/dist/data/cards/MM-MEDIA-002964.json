@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《두 자매》는 음악·음향 작품이다.",
+    "definition": "한 여인의 [[죽음]]을 알리는 악기가 등장하는 전승 발라드로, 차일드 발라드 목록의 10번 곡이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "〈두 자매〉는 여러 북유럽 지역에서 이름과 판본을 달리하며 전해진 이야기 민요다.",
+    "easy_ko": "죽은 사람은 말을 할 수 없지만 그 몸으로 만든 악기는 소리를 낸다. 노래가 전해진 곳에 따라 그 소리가 밝히는 사실도 다르다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 3
+    "updated_at": "2026-11-18",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000626",
+      "card_id": "MM-MEDIA-002964",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://blogs.loc.gov/folklife/2017/10/more-scary-songs-for-halloween/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《두 자매》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "널리 전해진 이야기에서 자매 가운데 한 사람이 다른 한 사람을 죽인다. 뒤이어 나타난 악사가 희생자의 유해로 악기를 만들면, 오래된 이본에서는 그 악기가 범인의 정체를 알린다.\n\n미국 음악가 킬비 스노가 부른 판본에서는 연인이 가해자다. 희생자의 유해로 만든 피들은 슬픈 곡을 켜서 비극을 알린다. 스노는 이 이야기를 오토하프 반주에 맞춰 불렀다.",
     "sections": [
       [
         "상세 설명",
-        "《두 자매》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "널리 전해진 이야기에서 자매 가운데 한 사람이 다른 한 사람을 죽인다. 뒤이어 나타난 악사가 희생자의 유해로 악기를 만들면, 오래된 이본에서는 그 악기가 범인의 정체를 알린다.\n\n미국 음악가 킬비 스노가 부른 판본에서는 연인이 가해자다. 희생자의 유해로 만든 피들은 슬픈 곡을 켜서 비극을 알린다. 스노는 이 이야기를 오토하프 반주에 맞춰 불렀다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

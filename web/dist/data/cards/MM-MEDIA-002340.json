@@ -7,14 +7,14 @@
   "tag_id": "ML-T02513",
   "primary_tag_id": "ML-T02513",
   "description": {
-    "definition": "《단구》는 만화 작품이다.",
+    "definition": "왕의 임무를 수행하던 전사와 그가 남긴 아이를 뒤쫓는 세력을 그린 박중기의 [[판타지]] [[만화]]다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.020",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《단구》에서는 주술적인 혈청으로 만들어진 전사들의 능력이 자녀에게도 이어진다. 후천적으로 생긴 힘이 다음 세대의 타고난 능력으로 바뀌는 설정이다.",
+    "easy_ko": "치명상을 입은 주인을 지키고 싶어도 곁에 남을 수 없다. 그의 아이를 찾아 숨겨 주겠다는 약속 때문이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,49 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000616",
+      "card_id": "MM-MEDIA-002340",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://images.darkhorse.com/common/salestools/catalogs/DH_Backlist_2009.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000617",
+      "card_id": "MM-MEDIA-002340",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://images.darkhorse.com/common/salestools/catalogs/DH_Books_Spring_2010.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000618",
+      "card_id": "MM-MEDIA-002340",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://m.yes24.com/Goods/Detail/14313496",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 3,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《단구》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "두 전사는 왕의 명령을 받고 사막에서 길을 나선다. 야랑이 치명상을 입자 바투는 아이를 지키러 떠나고, 홀로 추격자를 맞은 야랑은 그동안 감춰 온 전사의 힘을 드러낸다.\n\n바투가 홀로 키운 아이 야키는 아버지와 같은 만신의 운명을 짊어지고 전장으로 나간다. 마지막 권에서 야키가 맞서는 쿠가이 군대는 아버지를 처형한 인물이 이끌고 있다.",
     "sections": [
       [
         "상세 설명",
-        "《단구》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "두 전사는 왕의 명령을 받고 사막에서 길을 나선다. 야랑이 치명상을 입자 바투는 아이를 지키러 떠나고, 홀로 추격자를 맞은 야랑은 그동안 감춰 온 전사의 힘을 드러낸다.\n\n바투가 홀로 키운 아이 야키는 아버지와 같은 만신의 운명을 짊어지고 전장으로 나간다. 마지막 권에서 야키가 맞서는 쿠가이 군대는 아버지를 처형한 인물이 이끌고 있다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

@@ -7,14 +7,14 @@
   "tag_id": "ML-T00094",
   "primary_tag_id": "ML-T00094",
   "description": {
-    "definition": "이 카드는 웹영상 《Limited Life SMP》를 가리킨다. 이 라이브러리에서는 [[소심한 악행 과시]]의 작품 사례와 연결된다.",
+    "definition": "그리안이 기획한 [[마인크래프트]] 멀티플레이 영상 시리즈로, 참가자의 남은 시간을 생존 자원으로 삼는다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.009.001",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Limited Life SMP의 배드 보이스는 검은 가죽 재킷으로 악동 이미지를 과시하지만 초반에는 사소한 민폐에 머물러, 겉으로 내세우는 악함과 실제 행동의 규모가 어긋난다.",
+    "easy_ko": "누구에게나 하루치 시간이 주어진다. 한 번 죽고 나면 한 시간이 줄고 다른 참가자를 쓰러뜨리면 자기 시계에 시간이 보태진다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000636",
+      "card_id": "MM-MEDIA-000544",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=gzaIHdjLIyM",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000637",
+      "card_id": "MM-MEDIA-000544",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=77k1cU6FT_c",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Limited Life SMP》라는 표제는 웹영상을 가리킨다.\n\n모티프 라이브러리에서는 [[소심한 악행 과시]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "text": "참가자들은 24시간씩을 받고 시작한다. 시계는 플레이하는 동안 줄어들며 한 번 죽으면 한 시간을 더 잃는다. 다른 참가자를 쓰러뜨려 벌 수 있는 시간은 한 명당 30분이다.\n\n누군가를 공격해 버는 시간은 한 번 죽어서 잃는 시간의 절반이다. 여기에 특정 참가자가 다른 사람을 노리게 되는 부기맨 역할이 돌아오면서, 같은 생존 시간이라도 맡은 역할에 따라 공격을 감수할 이유가 달라진다.",
     "sections": [
       [
         "상세 설명",
-        "《Limited Life SMP》라는 표제는 웹영상을 가리킨다.\n\n모티프 라이브러리에서는 [[소심한 악행 과시]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+        "참가자들은 24시간씩을 받고 시작한다. 시계는 플레이하는 동안 줄어들며 한 번 죽으면 한 시간을 더 잃는다. 다른 참가자를 쓰러뜨려 벌 수 있는 시간은 한 명당 30분이다.\n\n누군가를 공격해 버는 시간은 한 번 죽어서 잃는 시간의 절반이다. 여기에 특정 참가자가 다른 사람을 노리게 되는 부기맨 역할이 돌아오면서, 같은 생존 시간이라도 맡은 역할에 따라 공격을 감수할 이유가 달라진다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

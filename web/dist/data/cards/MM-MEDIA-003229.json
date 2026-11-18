@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《관타나메라》는 음악·음향 작품이다.",
+    "definition": "쿠바 시인 호세 마르티의 시구를 호세 페르난데스 디아스의 선율에 얹어 부르는 노래로, 제목은 관타나모 출신 여성을 뜻한다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "민요 〈관타나메라〉의 제목은 영어의 음식 관련 구절과 비슷하게 들려, 다른 뜻으로 잘못 해석되기도 한다.",
+    "easy_ko": "쿠바를 떠난 가수 셀리아 크루스는 무대에서 이 노래를 거듭 불렀다. 제목 속 고향 지명은 그녀의 삶과도 이어졌다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 3
+    "updated_at": "2026-11-18",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000639",
+      "card_id": "MM-MEDIA-003229",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://blogs.loc.gov/music/2025/11/celia-cruz-at-100/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《관타나메라》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "셀리아 크루스는 쿠바를 떠난 뒤 이 곡을 자신의 주요 레퍼토리로 삼았다. 미국 의회도서관이 소개하는 크루스의 가장 이른 녹음은 1967년 멕시코에서 남긴 것이다.\n\n미국에서는 [[포크]] 가수 피트 시거와 보컬 그룹 샌드파이퍼스의 가창으로도 널리 퍼졌다. 한 시인의 시구와 쿠바의 선율이 언어와 국경을 넘어 여러 가수의 레퍼토리로 이어진 사례다.",
     "sections": [
       [
         "상세 설명",
-        "《관타나메라》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "셀리아 크루스는 쿠바를 떠난 뒤 이 곡을 자신의 주요 레퍼토리로 삼았다. 미국 의회도서관이 소개하는 크루스의 가장 이른 녹음은 1967년 멕시코에서 남긴 것이다.\n\n미국에서는 [[포크]] 가수 피트 시거와 보컬 그룹 샌드파이퍼스의 가창으로도 널리 퍼졌다. 한 시인의 시구와 쿠바의 선율이 언어와 국경을 넘어 여러 가수의 레퍼토리로 이어진 사례다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

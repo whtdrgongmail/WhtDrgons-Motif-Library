@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《더 휘슬블로어스》는 음악·음향 작품이다.",
+    "definition": "슬로베니아 그룹 라이바흐의 앨범 《Spectre》를 여는 곡으로, 모르텐 트로비크가 리가에서 [[뮤직비디오]]를 찍었다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Laibach의 〈더 휘슬블로어스〉는 이 음악 양식의 실제 곡 사례다.",
+    "easy_ko": "화면을 옆으로 길게 뽑자 위아래 여백 사이로 영상이 띠처럼 놓였다. 감독이 삼색기의 가운데 줄에 비유한 바로 그 화면이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000642",
+      "card_id": "MM-MEDIA-001739",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.laibach.org/the-whistleblowers-video/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000643",
+      "card_id": "MM-MEDIA-001739",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://laibach.bandcamp.com/album/spectre",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《더 휘슬블로어스》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "라이바흐는 정치적 선언문에 빗댄 앨범 《Spectre》의 첫 곡으로 3분 31초의 이 노래를 놓았다. 뮤직비디오의 연출은 노르웨이 예술가 모르텐 트로비크가 맡았다.\n\n리가 촬영에서는 소련제 로모 렌즈를 사용했다. 감독은 이 선택이 영상의 질감과 극단적으로 넓은 화면 비율을 함께 결정했다고 설명하며, 가로 삼색기의 가운데 띠에 영상을 넣은 모습에 비유했다.",
     "sections": [
       [
         "상세 설명",
-        "《더 휘슬블로어스》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "라이바흐는 정치적 선언문에 빗댄 앨범 《Spectre》의 첫 곡으로 3분 31초의 이 노래를 놓았다. 뮤직비디오의 연출은 노르웨이 예술가 모르텐 트로비크가 맡았다.\n\n리가 촬영에서는 소련제 로모 렌즈를 사용했다. 감독은 이 선택이 영상의 질감과 극단적으로 넓은 화면 비율을 함께 결정했다고 설명하며, 가로 삼색기의 가운데 띠에 영상을 넣은 모습에 비유했다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

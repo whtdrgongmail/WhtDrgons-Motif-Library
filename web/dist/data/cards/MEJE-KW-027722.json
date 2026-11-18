@@ -4,8 +4,8 @@
   "title": "아이템 전투를 결합한 캐릭터 레이싱",
   "original": "Mascot Racer",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00473",
+  "primary_tag_id": "ML-T00473",
   "description": {
     "definition": "익숙한 캐릭터들이 경주하며 트랙에서 얻는 강화·공격 아이템과 장애물을 이용해 순위를 다투는 레이싱 형식이다.",
     "detail": "작품 사례: 《[[크레이지레이싱 카트라이더]]》는 기존 캐릭터 세계를 온라인 경주 게임으로 확장한 사례로, 캐릭터와 아이템 경주의 결합을 보여 준다.",
@@ -14,16 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-18",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
+    "code": "03.208.007",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "collection_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },

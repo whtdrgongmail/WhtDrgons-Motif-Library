@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《개구리가 구애하러 갔네》는 음악·음향 작품이다.",
+    "definition": "개구리가 생쥐에게 청혼하고 작은 동물들이 결혼 잔치에 모이는 이야기를 되풀이되는 후렴으로 부르는 민요다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "〈개구리가 구애하러 갔네〉는 동물의 구애를 이야기하는 민요의 사례로 제시된다.",
+    "easy_ko": "뒤영벌은 악기를 켜고 벼룩은 그 옆에서 춤을 춘다. 작은 동물들이 한 마리씩 등장해 개구리의 잔치 한 장면을 보탠다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000627",
+      "card_id": "MM-MEDIA-002966",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://tile.loc.gov/storage-services/service/afc/afc1985001/afc1985001_st033/afc1985001_st033.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《개구리가 구애하러 갔네》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "1941년 채록된 루스 후버의 [[노래]]에서 개구리는 무장을 하고 길을 떠나 생쥐의 문을 두드린다. 청혼 뒤에는 어디에서 무엇을 먹을지 묻고 답하면서 결혼 잔치의 모습이 갖춰진다.\n\n장소는 속이 빈 나무이고 음식은 콩과 차다. 뒤영벌이 피들을 켜면 벼룩이 그 곁에서 춤을 춘다. 이 판본은 장면이 바뀔 때마다 같은 짧은 후렴을 끼워 넣는다.",
     "sections": [
       [
         "상세 설명",
-        "《개구리가 구애하러 갔네》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "1941년 채록된 루스 후버의 [[노래]]에서 개구리는 무장을 하고 길을 떠나 생쥐의 문을 두드린다. 청혼 뒤에는 어디에서 무엇을 먹을지 묻고 답하면서 결혼 잔치의 모습이 갖춰진다.\n\n장소는 속이 빈 나무이고 음식은 콩과 차다. 뒤영벌이 피들을 켜면 벼룩이 그 곁에서 춤을 춘다. 이 판본은 장면이 바뀔 때마다 같은 짧은 후렴을 끼워 넣는다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

@@ -7,14 +7,14 @@
   "tag_id": "ML-T00094",
   "primary_tag_id": "ML-T00094",
   "description": {
-    "definition": "《Epic Rap Battles of History》는 웹영상 작품이다.",
+    "definition": "역사 속 실존 인물과 대중문화의 가상 인물을 한 무대에서 [[랩]]으로 겨루게 하는 유튜브 시리즈다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.009.001",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Epic Rap Battles of History》의 마리오 형제와 라이트 형제 대결은 Bowser라는 이름을 나누어 앞부분을 행 끝의 운에 맞춘 뒤 뒷부분을 이어 말한다. 단어를 끝까지 완성하면서도 중간 소리를 각운으로 활용한다.",
+    "easy_ko": "서로 만날 수 없던 인물들이 랩으로 상대의 약점을 찌른다. 다음 대결에 누가 나올지는 시청자도 댓글로 제안할 수 있다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000628",
+      "card_id": "MM-MEDIA-003107",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://erbofhistory.com/about",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Epic Rap Battles of History》라는 표제는 웹영상을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 웹영상을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "나이스 피터로 활동하는 피터 슈코프와 에픽로이드로 활동하는 로이드 앨퀴스트가 시리즈를 만들었다. 제작진은 영상 댓글에 올라온 제안에서 다음에 맞붙을 인물 조합을 고른다.\n\n인물들이 주고받는 가사에는 각자의 이력과 작품 속 세부 사항이 들어간다. 제작진은 이를 위해 인물 자료를 조사하고, 스눕 독이나 위어드 알 얀코빅 같은 초대 연기자도 대결에 참여시켰다.",
     "sections": [
       [
         "상세 설명",
-        "《Epic Rap Battles of History》라는 표제는 웹영상을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 웹영상을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "나이스 피터로 활동하는 피터 슈코프와 에픽로이드로 활동하는 로이드 앨퀴스트가 시리즈를 만들었다. 제작진은 영상 댓글에 올라온 제안에서 다음에 맞붙을 인물 조합을 고른다.\n\n인물들이 주고받는 가사에는 각자의 이력과 작품 속 세부 사항이 들어간다. 제작진은 이를 위해 인물 자료를 조사하고, 스눕 독이나 위어드 알 얀코빅 같은 초대 연기자도 대결에 참여시켰다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《Rule of Nines》는 음악·음향 작품이다.",
+    "definition": "캐나다 밴드 스피릿박스가 2019년 싱글로 발표하고 [[보컬]] 코트니 라플랜트가 원테이크 라이브로 다시 부른 곡이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Spiritbox의 〈Rule of Nines〉는 뉴 메탈코어 곡이다.",
+    "easy_ko": "완성된 싱글로 들었던 노래를, 이번에는 가수가 마이크 앞에서 한 번에 끝까지 부르는 모습으로도 접할 수 있다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 3
+    "updated_at": "2026-11-18",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000646",
+      "card_id": "MM-MEDIA-003051",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://spiritboxofficial.bandcamp.com/track/rule-of-nines",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000647",
+      "card_id": "MM-MEDIA-003051",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=vVDXTFeGYwc",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Rule of Nines》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "스피릿박스는 2019년 11월 29일 이 곡을 독립된 싱글로 공개했다. 밴드의 발매 목록에서 이 곡은 같은 해의 《Singles Collection》과 이듬해 싱글 〈Blessed Be〉 사이에 놓인다.\n\n이듬해 5월 밴드는 라플랜트가 한 번에 노래한 라이브 영상을 공개했다. 보컬 마이크로 슈어 SM7B를 사용하고 인이어 모니터로 소리를 들으며 녹음한 별도 공연이다.",
     "sections": [
       [
         "상세 설명",
-        "《Rule of Nines》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "스피릿박스는 2019년 11월 29일 이 곡을 독립된 싱글로 공개했다. 밴드의 발매 목록에서 이 곡은 같은 해의 《Singles Collection》과 이듬해 싱글 〈Blessed Be〉 사이에 놓인다.\n\n이듬해 5월 밴드는 라플랜트가 한 번에 노래한 라이브 영상을 공개했다. 보컬 마이크로 슈어 SM7B를 사용하고 인이어 모니터로 소리를 들으며 녹음한 별도 공연이다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

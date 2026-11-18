@@ -4,8 +4,8 @@
   "title": "다수가 함께 접속하는 온라인 역할극 게임",
   "original": "Massively Multiplayer Online Role-Playing Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T00440",
+  "primary_tag_id": "ML-T00440",
   "description": {
     "definition": "많은 플레이어가 인터넷으로 같은 게임 환경에 접속하여 인물을 성장시키고 임무·협동·경쟁을 수행하는 역할극 게임 [[장르]]이다.",
     "detail": "[[길드]]·집단 임무·플레이어 간 대결·아이템 경제가 개인의 성장과 얽히며, 구독·부분 유료·선택적 구매 등 운영 모델은 별도로 설계한다.",
@@ -14,16 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-18",
-  "row_version": 3,
+  "row_version": 4,
   "classification": {
-    "code": "03",
+    "code": "03.204.006",
     "review_status": "provisional",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
+    "semantic_kind": "game_genre",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
     "review_status": "provisional",
     "row_version": 1
   },
