@@ -4,8 +4,8 @@
   "title": "약실의 한 발을 별도로 계산하지 않기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04113",
+  "primary_tag_id": "ML-T04113",
   "description": {
     "definition": "탄창을 교환하는 무기의 탄약 수를 표시할 때 약실에 남을 수 있는 탄환을 별도의 상태로 추적하지 않는 게임의 단순화다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "탄창의 잔량을 공통 재고로 합치는 규칙과 독립적이며 실제 무기 운용의 조언이 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.012.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

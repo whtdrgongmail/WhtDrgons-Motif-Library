@@ -1,0 +1,48 @@
+{
+  "id": "ML-T03674",
+  "kind": "keyword",
+  "title": "예정된 진행 순서의 우회",
+  "original": "Sequence Breaking",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T03674",
+  "primary_tag_id": "ML-T03674",
+  "description": {
+    "definition": "예상된 필수 절차나 사건 차례를 건너뛴 채 뒤의 구역에 도달하거나 후속 사건을 먼저 실행하는 플레이 방식이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "원래부터 분기나 자유 순서가 제공되는 진행과 제작자가 허용한 지름길은 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.057",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "게임이 먼저 하라고 정해 둔 단계를 거치지 않고 더 뒤의 장소나 사건으로 들어간다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "순서의 제약은 대사나 화면 안내와 별개로 고유 능력, 물리적 경계, 상태 표시 등에서 생길 수 있다. 우회한 뒤에도 게임이 이전 완료 상태를 요구하면 다음 사건이 정상적으로 이어지지 않을 수 있다.\n\n일부 플레이는 이런 우회를 반복 가능하게 만들어 목표까지 걸리는 시간을 줄인다. 여러 순서를 원래 지원하는지는 선택 가능한 경로와 사건의 전제에서 확인한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "순서의 제약은 대사나 화면 안내와 별개로 고유 능력, 물리적 경계, 상태 표시 등에서 생길 수 있다. 우회한 뒤에도 게임이 이전 완료 상태를 요구하면 다음 사건이 정상적으로 이어지지 않을 수 있다.\n\n일부 플레이는 이런 우회를 반복 가능하게 만들어 목표까지 걸리는 시간을 줄인다. 여러 순서를 원래 지원하는지는 선택 가능한 경로와 사건의 전제에서 확인한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

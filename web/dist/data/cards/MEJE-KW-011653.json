@@ -4,8 +4,8 @@
   "title": "일반 소모품을 요구하는 임무",
   "original": "Give Me Your Inventory Item",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02105",
+  "primary_tag_id": "ML-T02105",
   "description": {
     "definition": "비플레이어 [[인물]]이 퀘스트 전용 물건이 아니라 [[플레이어]]가 자신을 위해 쓸 수 있는 유용한 소지품을 요구해 진행이나 [[보상]] 조건으로 삼는 장치다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "처음부터 전달만 하도록 만든 전용 퀘스트 아이템이나 단순 상점 거래와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.004.008",
     "review_status": "provisional",
     "row_version": 1
   },

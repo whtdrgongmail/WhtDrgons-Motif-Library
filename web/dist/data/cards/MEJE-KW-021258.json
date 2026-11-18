@@ -4,8 +4,8 @@
   "title": "공격 자체로 아이템을 만들어 내기",
   "original": "Loot-Making Attack",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03030",
+  "primary_tag_id": "ML-T03030",
   "description": {
     "definition": "특정 공격을 맞힌 결과로 적이 아이템으로 바뀌거나 추가 물품이 생성되어, 공격 행위가 보상 생산 수단이 되는 게임 능력이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "일반적인 처치 뒤 전리품이 나오는 규칙과 달리 특정 공격 방식 자체가 아이템 생성의 원인이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.008.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

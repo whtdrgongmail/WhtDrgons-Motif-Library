@@ -4,8 +4,8 @@
   "title": "허점을 반복 이용해 점수를 크게 불리기",
   "original": "Score Milking",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02519",
+  "primary_tag_id": "ML-T02519",
   "description": {
     "definition": "게임 규칙이나 진행의 빈틈을 활용하여 통상적인 플레이보다 많은 점수를 반복적으로 확보하는 행동이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "단순히 잘 플레이해 높은 점수를 얻는 경우와 구별하며 허점 이용이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.014.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "점수가 계속 나오는 빈틈을 찾아 최대한 뽑아낸다.",
     "review_status": "reviewed",

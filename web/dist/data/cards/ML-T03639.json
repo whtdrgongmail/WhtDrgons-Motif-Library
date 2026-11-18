@@ -1,0 +1,48 @@
+{
+  "id": "ML-T03639",
+  "kind": "keyword",
+  "title": "열거 순서의 어긋남",
+  "original": "Broken Enumeration Pattern",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T03639",
+  "primary_tag_id": "ML-T03639",
+  "description": {
+    "definition": "이어지는 번호나 글자에 일정 규칙을 설정한 뒤 일부 항목에서 반복·누락·예외가 나타나는 표현이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "처음부터 일정한 간격으로 수를 세는 방식과 순서 규칙이 없는 목록은 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "23.030",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "차례대로 이어져야 할 항목에서 하나를 빼먹거나 같은 번호를 되풀이한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "반복되는 규칙이 충분히 제시되어야 작은 어긋남이 관객에게 보인다. 숫자 순서는 다음 항목이 쉽게 예측되므로 누락이나 반복을 즉시 알아차리게 한다.\n\n실수처럼 보이는 예외를 의도적으로 배치하면 발표자의 당황, 목록 규칙의 한계, 듣는 사람의 지적을 보여 줄 수 있다. 생략된 항목에 중요한 정보가 있었는지는 별개다.",
+    "sections": [
+      [
+        "상세 설명",
+        "반복되는 규칙이 충분히 제시되어야 작은 어긋남이 관객에게 보인다. 숫자 순서는 다음 항목이 쉽게 예측되므로 누락이나 반복을 즉시 알아차리게 한다.\n\n실수처럼 보이는 예외를 의도적으로 배치하면 발표자의 당황, 목록 규칙의 한계, 듣는 사람의 지적을 보여 줄 수 있다. 생략된 항목에 중요한 정보가 있었는지는 별개다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

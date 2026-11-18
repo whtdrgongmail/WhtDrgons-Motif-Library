@@ -4,8 +4,8 @@
   "title": "위험한 진행 전에 별도 저장 파일 남기기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02808",
+  "primary_tag_id": "ML-T02808",
   "description": {
     "definition": "되돌리기 어렵거나 큰 위험이 있는 구간으로 들어가기 전 기존 진행을 덮어쓰지 않는 별도 저장 파일을 남겨 복귀 가능성을 보존한다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "일반적인 한 슬롯 덮어쓰기와 달리 다른 분기를 보존하는 복구 수단이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

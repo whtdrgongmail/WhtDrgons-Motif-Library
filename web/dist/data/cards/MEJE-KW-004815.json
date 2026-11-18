@@ -4,8 +4,8 @@
   "title": "허점을 파고드는 편법 전략",
   "original": "Cheese Strategy",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02519",
+  "primary_tag_id": "ML-T02519",
   "description": {
     "definition": "[[플레이어]]가 게임의 규칙이나 적 행동의 빈틈을 찾아 의도된 난도를 크게 낮춘다. 능숙한 연구와 공정하지 않다는 평가가 함께 따라붙을 수 있다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.014.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "적이 올라오지 못하는 위치에서 공격하거나 같은 행동을 유도해 안전하게 반복하는 식으로 난도를 크게 줄이는 게임 전략이다. [[플레이어]]가 규칙을 연구한 결과일 수 있지만 정면 대응을 거의 생략하므로 기발한 해결과 재미를 줄이는 편법이라는 평가가 함께 생긴다.",
     "review_status": "reviewed",

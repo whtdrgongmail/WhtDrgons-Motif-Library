@@ -4,8 +4,8 @@
   "title": "여성도 반하는 여성 인물",
   "original": "Even the Girls Want Her",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "한 여성 인물의 매력에 남성뿐 아니라 여성 인물들도 호감이나 연애 감정을 드러낸다. [[남성도 반하는 남성 인물]]은 매력의 대상과 인물 성별을 바꾼 짝 개념이다.",
     "detail": "작품 사례: [[Kushiel's Legacy]]의 Phedre는 남녀 모두에게 최고의 상대로 평가받는 인물로 등장해, 여성에게도 통하는 매력을 지닌 것으로 그려진다.",
@@ -13,14 +13,20 @@
     "boundary": "실제 성적 지향의 변화 원리를 설명하지 않으며 작품 속 반응 묘사에 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "매력적인 여성 인물에게 여성들도 호감과 연애 감정을 보이는 설정이다. 매력이 한 성별의 시선에만 한정되지 않음을 보여 주며, [[남성도 반하는 남성 인물]]과 짝을 이루지만 각 인물의 감정과 정체성은 개별적으로 이해해야 한다.",
     "review_status": "reviewed",

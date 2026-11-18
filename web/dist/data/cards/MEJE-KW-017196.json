@@ -4,8 +4,8 @@
   "title": "적이 쓰던 장비를 가져갈 수 없음",
   "original": "Unusable Enemy Equipment",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03030",
+  "primary_tag_id": "ML-T03030",
   "description": {
     "definition": "적이 실제 사용하던 장비가 쓰러진 뒤에도 플레이어의 수집·사용 대상이 되지 않는 게임 제약.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "장비가 파괴되었거나 크기·능력 조건상 쓸 수 없는 사유가 설정된 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.008.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

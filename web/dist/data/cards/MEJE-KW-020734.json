@@ -4,8 +4,8 @@
   "title": "본편 밖에서 선택적으로 진행하는 부가 임무",
   "original": "Sidequest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03675",
+  "primary_tag_id": "ML-T03675",
   "description": {
     "definition": "플레이어가 수행할지 선택할 수 있으며 주요 흐름에 필수는 아닌 별도의 사건이나 임무다.",
     "detail": "단발 사건으로 끝날 수도 있고 여러 선택 임무가 연결되어 별도의 이야기 갈래를 이룰 수도 있다.",
@@ -13,11 +13,11 @@
     "boundary": "본편을 진행하기 위해 반드시 거쳐야 하는 임무와 구별한다. 사건의 발생과 수행에 선택의 여지가 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.058",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

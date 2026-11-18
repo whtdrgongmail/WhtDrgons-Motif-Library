@@ -4,8 +4,8 @@
   "title": "상대의 반응을 말 한마디까지 예측하기",
   "original": "Improbably Predictable",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "인물을 잘 아는 사람이 그가 할 말과 행동을 미리 재현하고, 실제 반응이 그 예측과 거의 그대로 일치한다.",
     "detail": "작품 사례: 《[[해리 포터와 불의 잔]]》에서 해리는 볼드모트에 관한 꿈을 들은 론과 헤르미온느의 반응을 예상하고 실제로 비슷한 반응을 듣는다.",
@@ -13,14 +13,20 @@
     "boundary": "일반적인 방향을 짐작한 것보다 표현이나 타이밍까지 맞는 정밀한 일치가 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "친구가 뭐라고 할지 먼저 말했더니 잠시 뒤 똑같이 말한다.",
     "review_status": "reviewed",

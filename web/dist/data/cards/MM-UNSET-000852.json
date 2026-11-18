@@ -4,8 +4,8 @@
   "title": "선의의 실패",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "상대를 돕거나 좋은 결과를 얻으려는 의도가 실제로는 그 목적을 이루지 못하거나 해로운 결과를 낳는 상황.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "도우려 했지만 상대에게 필요한 도움과 어긋나 오히려 일이 나빠지는 경우다.",
     "review_status": "reviewed",

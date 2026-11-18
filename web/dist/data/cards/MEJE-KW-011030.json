@@ -4,8 +4,8 @@
   "title": "발견된 허점이 바꾼 게임 방식",
   "original": "Gameplay Derailment",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02519",
+  "primary_tag_id": "ML-T02519",
   "description": {
     "definition": "이용자들이 제작진이 예상하지 못한 조합이나 허점을 찾아 기존 전술과 승부의 기준을 바꾸어 놓는다. 발견된 허점이 특정 선택을 지나치게 강하게 만들면 [[균형을 무너뜨리는 게임 요소]]가 된다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.014.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "이용자들이 예상 밖의 규칙 조합을 발견한 뒤 원래 중요했던 방법 대신 새 방식으로 진행과 대전을 하게 되는 변화다. 단순한 한 번의 실수보다 전체 전략의 기준이 달라지는 영향이 있다. [[균형을 무너뜨리는 게임 요소]]가 될 수 있지만 새로운 재미로 받아들여져 이후 설계에 반영될 수도 있다.",
     "review_status": "reviewed",

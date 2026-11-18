@@ -4,8 +4,8 @@
   "title": "전투 패배를 비치명적으로 처리해 인물을 유지하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03032",
+  "primary_tag_id": "ML-T03032",
   "description": {
     "definition": "전투에서 패배한 인물을 사망한 것으로 처리하지 않아 이후 대화와 사건에 다시 참여할 수 있도록 하는 규칙이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "죽었다가 부활하는 세계관 규칙과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

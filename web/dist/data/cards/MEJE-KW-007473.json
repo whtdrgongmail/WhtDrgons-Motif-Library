@@ -4,8 +4,8 @@
   "title": "속편에서 사라진 연인",
   "original": "Disposable Love Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "전편에서 연인이었던 인물이 속편에서 사라졌지만 작품은 관계가 끝난 경위를 설명하지 않는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "앞선 작품에서 중요했던 연인이 속편에서는 사라졌는데도 결별이나 부재의 설명이 없는 구성이다. 인물에게는 큰 관계였을 사건이 관객에게 전달되지 않아 빈칸이 생기며, 새 이야기는 이전의 애정을 중요하지 않은 듯 취급하게 된다.",
     "review_status": "reviewed",

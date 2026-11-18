@@ -4,8 +4,8 @@
   "title": "친구라는 말을 부정하다",
   "original": "Friendship Denial",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "서로 믿고 돕는 사이인데도 한 인물이 자존심이나 두려움 때문에 관계를 우정이라고 인정하지 않는 장면이다. 친구라는 말을 부정하던 인물이 결정적인 도움을 주면 [[우정이 드러나는 순간]]이 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "서로 돕고 신뢰하면서도 한쪽이 친구라는 말을 인정하지 않는 관계다. 자존심이나 상처받을 두려움 때문에 표현을 피할 수 있으며, 중요한 순간 도움을 주는 [[우정이 드러나는 순간]]이 말로 한 부정보다 실제 유대를 보여 준다.",
     "review_status": "reviewed",

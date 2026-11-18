@@ -1,0 +1,48 @@
+{
+  "id": "ML-T04074",
+  "kind": "keyword",
+  "title": "카드 상태와 배열에 직접 개입하는 대전 규칙",
+  "original": "Competitive Manipulation of Card State and Order",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T04074",
+  "primary_tag_id": "ML-T04074",
+  "description": {
+    "definition": "카드 배열과 구성 또는 필드의 보유 상태를 직접 바꾸어 현재와 이후의 선택을 재구성하는 규칙이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "퍼즐의 방해 블록과 카드를 정상 순서로 뽑는 일 자체는 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.013.004",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "카드 순서나 보유 상태를 변경해 상대와 나의 다음 선택에 영향을 준다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "자신의 다음 카드를 일부 관찰한 뒤 배열하면 덱 전체를 검색하는 효과보다 사용할 수 있는 정보가 좁다.\n\n상대 덱의 강제 셔플은 카드 수를 유지하면서도 이미 알던 뽑기 순서나 전략을 무너뜨릴 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "자신의 다음 카드를 일부 관찰한 뒤 배열하면 덱 전체를 검색하는 효과보다 사용할 수 있는 정보가 좁다.\n\n상대 덱의 강제 셔플은 카드 수를 유지하면서도 이미 알던 뽑기 순서나 전략을 무너뜨릴 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

@@ -4,8 +4,8 @@
   "title": "몸이 보이지 않는 1인칭 게임 시점",
   "original": "First-Person Ghost",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02529",
+  "primary_tag_id": "ML-T02529",
   "description": {
     "definition": "게임 화면은 인물의 눈을 대신하지만 아래를 보아도 몸통과 다리가 보이지 않아 [[카메라]]만 떠다니는 듯 느껴지는 표현이다. 몸이 보이지 않는 문제는 게임에서 [[인물의 눈을 빌린 1인칭 시점]]을 화면으로 구현할 때 생기는 표현상의 한계다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "[[인물의 눈을 빌린 1인칭 시점]]인데 바닥으로 고개를 돌려도 자기 발과 몸이 보이지 않는 화면이다. 이동은 하지만 [[카메라]]만 공간에 떠 있는 듯 느껴질 수 있다. 극중 인물이 실제로 투명하다는 설정과 달리 몸을 화면에 구현하지 않은 표현이며 몰입과 조작의 편의를 다르게 평가하게 한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "대각선 이동 속도 이득",
   "original": "Diagonal Speed Boost",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02071",
+  "primary_tag_id": "ML-T02071",
   "description": {
     "definition": "격자형 게임에서 대각선 한 칸을 옮기는 비용을 가로세로 이동과 같게 계산해 실제로 더 먼 거리를 같은 시간에 이동한다. 지도 위 이동 규칙에서 생기는 속도 차이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.001.001",
     "review_status": "provisional",
     "row_version": 1
   },

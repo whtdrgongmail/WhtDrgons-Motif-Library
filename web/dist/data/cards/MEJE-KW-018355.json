@@ -4,8 +4,8 @@
   "title": "다른 사람의 창작에 영감을 주는 인물",
   "original": "The Muse",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02653",
+  "primary_tag_id": "ML-T02653",
   "description": {
     "definition": "다른 인물의 상상력과 창작 의욕을 자극하는 역할을 하는 존재.",
     "detail": "영감의 원천이라는 관계적 역할이 중심이며 연애 감정은 필수 조건이 아니다.",
@@ -13,14 +13,20 @@
     "boundary": "재료나 기술을 가르치는 조력자와 다르며 작품의 모델이라는 이유만으로 항상 영감을 주는 역할은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "그 사람을 만나거나 생각하면 새로운 작품의 발상이 떠오른다.",
     "review_status": "reviewed",

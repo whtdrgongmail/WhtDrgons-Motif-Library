@@ -4,8 +4,8 @@
   "title": "상대 덱의 강제 재섞기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04074",
+  "primary_tag_id": "ML-T04074",
   "description": {
     "definition": "상대 덱을 다시 섞게 하여 예정된 뽑기 순서나 축적한 예측 정보를 무너뜨리는 카드 효과이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "단순한 카드 제거와 달리 순서와 예측을 바꾸는 개입이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.013.004",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

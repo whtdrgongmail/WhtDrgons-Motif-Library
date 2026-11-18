@@ -4,8 +4,8 @@
   "title": "움직이는 대상만 감지하는 존재",
   "original": "Living Motion Detector",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T03942",
+  "primary_tag_id": "ML-T03942",
   "description": {
     "definition": "생물·괴물·[[로봇]]이 움직임을 통해서만 대상을 감지하여 정지한 대상을 놓치는 감각 규칙이다.",
     "detail": "작품 사례: 《[[오징어 게임]]》의 무궁화 꽃이 피었습니다 게임에서 거대한 인형은 눈의 움직임 감지기로 참가자의 동작을 찾아내고, 감지된 참가자를 겨냥하도록 총기에 신호를 보낸다.",
@@ -13,11 +13,11 @@
     "boundary": "004차 856행은 생물의 시각에 한정한다. 현재는 로봇의 감지기와 소리·진동 기반 감각까지 포함하므로 더 넓다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "17",
-    "review_status": "provisional",
+    "code": "17.042",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

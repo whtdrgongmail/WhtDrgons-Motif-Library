@@ -4,8 +4,8 @@
   "title": "시키는 대로 하자 화내기",
   "original": "Upset At Obedience",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "상대에게 명령하거나 요구한 일을 상대가 그대로 수행했는데도 그 행동에 화를 내거나 탓하는 상호작용이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "명령을 왜곡했거나 새로운 위험 때문에 지시를 명확히 철회한 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "하라고 해 놓고 정말 하니 왜 했느냐며 화낸다.",
     "review_status": "reviewed",

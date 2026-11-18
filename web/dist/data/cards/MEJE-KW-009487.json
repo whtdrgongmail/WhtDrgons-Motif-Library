@@ -4,8 +4,8 @@
   "title": "통화 잡음 흉내",
   "original": "Fake Static",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02690",
+  "primary_tag_id": "ML-T02690",
   "description": {
     "definition": "통화를 끝내거나 말을 피하려는 인물이 직접 잡음 소리를 내며 연결 상태가 나쁜 척한다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "실제로 발생한 통신 장애와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.006.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

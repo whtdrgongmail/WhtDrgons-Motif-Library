@@ -4,8 +4,8 @@
   "title": "주인과 대등한 지성을 지닌 애완동물",
   "original": "Sapient Pet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02657",
+  "primary_tag_id": "ML-T02657",
   "description": {
     "definition": "애완동물의 지위에 있으면서도 소유자와 같은 수준으로 생각하고 인격적 주체로 대할 만한 지성을 가진 존재다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "명령을 잘 따르거나 말을 흉내 내는 동물과 구별한다. 소유 관계와 대등한 인격 사이의 긴장이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.027",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "돌봄을 받는 동물이 단순한 소유물이 아니라 의견과 판단을 가진 상대가 된다.",
     "review_status": "reviewed",

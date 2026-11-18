@@ -4,8 +4,8 @@
   "title": "거대한 실패를 소수점 실수 한마디로 설명하기",
   "original": "Misplaced a Decimal Point",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T04104",
+  "primary_tag_id": "ML-T04104",
   "description": {
     "definition": "복잡한 계산을 믿고 세운 계획이 실패한 뒤 소수점의 위치를 틀렸다고 말해 그 실패를 간단한 산술 오류로 압축하는 관습이다.",
     "detail": "작품 사례: 《[[슈퍼맨: 레드 선]]》에서 루터는 슈퍼맨을 제거했다고 믿지만 밀도 계산의 소수점 오류 때문에 슈퍼맨이 살아남는다. 큰 계획의 허점이 작은 산술 실수로 설명된다.",
@@ -13,11 +13,11 @@
     "boundary": "모든 계산 오류가 실제로 소수점 문제라는 뜻은 아니다. 수학·과학의 현실적 업무 방식에 대한 일반화와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.004.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

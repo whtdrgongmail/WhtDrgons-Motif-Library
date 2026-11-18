@@ -4,8 +4,8 @@
   "title": "동물을 매개로 호감을 얻는 인물",
   "original": "Animal Chick Magnet",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "인물이 반려동물과의 교감을 대화의 계기로 삼아 다른 사람의 관심을 얻는 관계 장치. 동물을 소품으로만 쓰는지 실제 유대가 있는지도 인물 평가에 영향을 준다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "반려동물과 잘 어울리는 모습을 계기로 다른 사람과 대화하고 호감을 얻는 장면이다. 동물을 함께 돌보는 경험이 두 사람의 성격을 보여 줄 수 있다. 관심을 끌기 위해 동물을 이용만 하는지 실제로 필요를 존중하는지에 따라 인물의 인상이 달라진다.",
     "review_status": "reviewed",

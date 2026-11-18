@@ -4,8 +4,8 @@
   "title": "지속 위험 지대 공격",
   "original": "Hazard Attack",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03666",
+  "primary_tag_id": "ML-T03666",
   "description": {
     "definition": "발동 동작이 끝난 뒤에도 공간에 피해나 상태 이상을 주는 효과가 남아 적의 이동과 행동을 제한하는 공격이다.",
     "detail": "작품 사례: [[Star Trek Online]]에서는 방사선 지대나 얼음, 플라스마 구름이 공간에 남아 접근하는 적에게 피해를 주므로, 공격 뒤에도 이동 경로가 제한된다.",
@@ -13,11 +13,11 @@
     "boundary": "누군가 건드릴 때까지 비활성인 숨겨진 함정과 달리 위험 효과가 이미 활성화되어 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.049",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

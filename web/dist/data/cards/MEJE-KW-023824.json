@@ -4,8 +4,8 @@
   "title": "무표정한 사람을 웃기려 애쓰기",
   "original": "Must Make Her Laugh",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "장난스럽거나 익살스러운 인물이 표정을 드러내지 않는 상대에게 웃음을 끌어내려 시도하는 관계 구도다.",
     "detail": "노력하는 쪽의 자존심과 상대의 무반응이 희극을 만들 수 있다. 연애로 이어지는 경우도 있지만 우정에서도 성립한다. 의도한 농담보다 예상치 못한 일이 첫 웃음을 만들기도 한다.\n\n작품 사례: 《[[틴 타이탄]]》에서 비스트 보이는 첫 만남에 레이븐을 웃게 했던 일을 되풀이하려고 계속 농담을 시도한다. 평소 감정을 억제하는 상대에게 웃음을 끌어내는 일이 두 인물의 반복적인 관계 장면이 된다.",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "늘 무표정인 사람을 꼭 웃겨 보려고 여러 장난을 시도한다.",
     "review_status": "reviewed",

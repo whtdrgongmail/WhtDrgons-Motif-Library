@@ -4,8 +4,8 @@
   "title": "추가 콘텐츠를 원래 달성률 위에 더하기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04058",
+  "primary_tag_id": "ML-T04058",
   "description": {
     "definition": "원래 게임의 전체를 100퍼센트로 계산한 기준을 그대로 두고 추가된 콘텐츠의 완료분을 그 위에 누적하는 방식이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "전체 분모를 새로 계산하여 언제나 최대 100퍼센트가 되는 방식과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.003.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

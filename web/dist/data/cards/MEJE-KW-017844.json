@@ -4,8 +4,8 @@
   "title": "처형 방법을 고르게 하는 적",
   "original": "How Would You Like to Die?",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "사로잡힌 인물을 죽이려는 적이 마지막 선택인 것처럼 죽는 방식을 고르게 하는 상황.",
     "detail": "작품 사례: 1959년 TV 시리즈 《[[환상특급]]》에서 쓸모없다고 판정된 인물은 처형 방식을 고를 수 있다. 그는 방송되는 자신의 처형 장소에 집행자를 함께 가두어 체제의 모순을 드러낸다.",
@@ -13,14 +13,20 @@
     "boundary": "마지막 말을 묻는 장면과 달리 죽는 방식의 선택을 요구한다. 실제 위해 수단을 안내하는 카드가 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "선택권을 주는 척하지만 죽음 자체는 강요하여 권력과 잔혹함을 드러낸다. 피해자가 그 선택을 이용해 틈을 만들기도 한다.",
     "review_status": "reviewed",

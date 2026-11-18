@@ -1,0 +1,48 @@
+{
+  "id": "ML-T03691",
+  "kind": "keyword",
+  "title": "기술 연출 중 전투 진행 정지",
+  "original": "Combat Pause During Move Animations",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T03691",
+  "primary_tag_id": "ML-T03691",
+  "description": {
+    "definition": "게임의 기술 연출을 보여 주는 동안 전투 시간이나 다른 행동 처리를 잠시 멈추는 설계다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "정상 진행 속에서 재생되는 장식 효과와 일반 일시정지 메뉴는 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.074",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "화려한 기술이 나올 때 다른 전투 행동은 잠시 기다린다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "특정 기술의 발동을 시각적으로 분리하면 상대의 반응과 기술 효과가 처리되는 순서를 읽기 쉽다.\n\n시계·입력·상대 행동 중 무엇까지 정지하는지에 따라 플레이어가 연출을 쓰는 전략적 효과가 달라진다.",
+    "sections": [
+      [
+        "상세 설명",
+        "특정 기술의 발동을 시각적으로 분리하면 상대의 반응과 기술 효과가 처리되는 순서를 읽기 쉽다.\n\n시계·입력·상대 행동 중 무엇까지 정지하는지에 따라 플레이어가 연출을 쓰는 전략적 효과가 달라진다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

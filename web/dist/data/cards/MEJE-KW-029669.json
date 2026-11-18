@@ -4,8 +4,8 @@
   "title": "한 인물의 여러 시기와 형태를 별도 선택 캐릭터로 나누기",
   "original": "Multi-Slot Character",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04083",
+  "primary_tag_id": "ML-T04083",
   "description": {
     "definition": "동일 인물의 나이·성장 시점·변신·능력 구성을 여러 독립적인 선택 캐릭터나 게임 말로 분리하는 구성이다.",
     "detail": "어린 시절과 성장 후, 변신 전후, 능력을 얻거나 잃기 전후를 나누는 방식이 있다. 서로 다른 기술 구성을 만들거나 팬이 원하는 모습을 제공하며, 수집형 게임의 의상·기간 한정 버전과 결합할 수도 있다. 실물 카드와 미니어처 게임에서도 같은 인물의 시기별 게임 단위를 만들 수 있다.\n\n작품 사례: 《[[블리치 리버스 오브 소울즈]]》에서는 서로 다른 이야기 시기의 이치고가 별도의 선택 가능한 버전으로 등장한다. 성장 시기마다 사용할 수 있는 능력과 변신 구성이 달라 한 인물이 여러 전투 선택지를 차지한다.",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.009.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

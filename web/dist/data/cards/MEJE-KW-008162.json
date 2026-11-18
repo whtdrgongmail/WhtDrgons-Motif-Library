@@ -4,8 +4,8 @@
   "title": "게임 중 필요한 데이터를 이어 불러오기",
   "original": "Dynamic Loading",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04093",
+  "primary_tag_id": "ML-T04093",
   "description": {
     "definition": "게임이 플레이 도중 필요한 구역의 [[데이터]]만 메모리에 들이고 이전 데이터를 내보내 끊김을 줄인다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.010.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

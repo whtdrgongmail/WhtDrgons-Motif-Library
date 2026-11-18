@@ -4,8 +4,8 @@
   "title": "접근전 뒤 드러나는 폭발물",
   "original": "Grenade Tag",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03780",
+  "primary_tag_id": "ML-T03780",
   "description": {
     "definition": "가까이 접촉한 뒤 상대에게 [[폭발물]]을 남겨 두었다는 사실을 뒤늦게 드러내는 [[전투]] [[장면]] 장치다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "처음부터 발사해 맞히는 공격과 달리 근접 접촉 뒤 위험을 늦게 알아차리는 전달 [[구조]]가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.083",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

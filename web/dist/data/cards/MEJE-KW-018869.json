@@ -4,8 +4,8 @@
   "title": "무기를 손에서 놓치기",
   "original": "Weapon Grip Failure",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03448",
+  "primary_tag_id": "ML-T03448",
   "description": {
     "definition": "대결이나 위험 상황에서 인물이 쥐고 있던 무기를 붙잡아 두지 못해 사용 수단을 잃는 사건이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "계획적으로 무기를 버리거나 공격을 위해 던진 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.006.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

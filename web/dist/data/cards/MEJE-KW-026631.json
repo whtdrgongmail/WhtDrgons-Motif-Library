@@ -6,8 +6,8 @@
   "aliases": [
     "연인을 해치는 상대에게 폭력적으로 맞서는 여자친구"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02648",
+  "primary_tag_id": "ML-T02648",
   "description": {
     "definition": "자기 연인이 위험에 놓였을 때 강한 공격적 보호 행동에 나서는 여성 연인 유형이다.",
     "detail": "",
@@ -15,14 +15,20 @@
     "boundary": "질투로 연인의 자율성을 억압하는 행동과 위협에 맞서는 보호를 혼동하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대를 지키려는 마음이 거친 반격으로 나온다.",
     "review_status": "reviewed",

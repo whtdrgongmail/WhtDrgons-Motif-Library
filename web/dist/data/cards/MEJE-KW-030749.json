@@ -4,8 +4,8 @@
   "title": "누설을 막기 위해 마지막 순간에 공개하는 명령",
   "original": "Sealed Orders",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "ML-T03543",
+  "primary_tag_id": "ML-T03543",
   "description": {
     "definition": "민감한 임무의 내용을 미리 알리지 않고 실행 직전이나 정해진 시점까지 봉해 두어 정보 유출을 줄이는 명령 전달 방식이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "단순히 지시가 늦어진 경우와 구별하며 비밀 유지가 공개 지연의 목적이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "15",
-    "review_status": "provisional",
+    "code": "15.005.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

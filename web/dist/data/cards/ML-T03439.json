@@ -1,0 +1,48 @@
+{
+  "id": "ML-T03439",
+  "kind": "keyword",
+  "title": "택시를 잡는 시간에 좌우되는 이동",
+  "original": "Travel Determined by Taxi Availability",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T03439",
+  "primary_tag_id": "ML-T03439",
+  "description": {
+    "definition": "자기 차량이 없는 인물이 택시를 바로 만나는지 번번이 놓치는지에 따라 계획한 이동 시점과 진행이 바뀌는 사건이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "택시가 이미 출발한 뒤 벌어지는 주행 소동과 택시가 장소의 배경으로만 나오는 장면은 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "07.003.012",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "택시가 마침 와서 갈 수 있거나, 차를 계속 놓쳐 떠나지 못한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "즉시 교통편이 나타나면 걸어서는 늦을 목표에도 바로 대응할 수 있다. 지나는 차가 있는데도 인물이 타지 못하면 기다림과 급한 용무 사이의 차이가 커진다.\n\n두 전개에서는 같은 교통수단이 상반된 역할을 한다. 차를 타기 전의 접근 조건이 사건의 시간표를 바꿨는지 확인하면 일반 주행 장면과 구별된다.",
+    "sections": [
+      [
+        "상세 설명",
+        "즉시 교통편이 나타나면 걸어서는 늦을 목표에도 바로 대응할 수 있다. 지나는 차가 있는데도 인물이 타지 못하면 기다림과 급한 용무 사이의 차이가 커진다.\n\n두 전개에서는 같은 교통수단이 상반된 역할을 한다. 차를 타기 전의 접근 조건이 사건의 시간표를 바꿨는지 확인하면 일반 주행 장면과 구별된다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

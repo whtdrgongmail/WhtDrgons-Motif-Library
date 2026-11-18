@@ -4,8 +4,8 @@
   "title": "성과보다 과시를 위한 게임 선택지",
   "original": "Bragging Rights Option",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "MEJE-KW-004670",
+  "primary_tag_id": "MEJE-KW-004670",
   "description": {
     "definition": "[[플레이어]]가 더 어렵거나 화려한 방식을 골라 실력과 취향을 드러낸다. 보상보다 [[선택]]을 해냈다는 경험이 목적이 된다. 과시를 위해 고른 선택의 끝에 [[쓸 시기가 지나서 얻는 강력한 보상]]가 놓일 수도 있다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "능력치 이득은 없거나 오히려 불리하지만 어려운 조건으로 완수했다는 기록을 남기려고 고르는 옵션이다. [[플레이어]]는 빠른 승리보다 자기 실력을 시험하고 보여 주는 성취를 추구하며 보상의 실용성과 도전을 해냈다는 만족이 서로 분리된다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "님 게임",
   "original": "Game of Nim",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02514",
+  "primary_tag_id": "ML-T02514",
   "description": {
     "definition": "여러 더미에서 차례로 물건을 가져가며 마지막 선택으로 승부가 정해지는 차례제 수학 놀이이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "참가자가 번갈아 한 더미의 물건을 줄여 마지막 물건을 누가 가져가는지로 승부하는 놀이이다. 단순한 동작 안에서 상대에게 어떤 개수를 남길지 계산하게 한다. 마지막에 가져간 사람이 이기는지 지는지에 따라 목표가 달라질 수 있어 등장하는 규칙의 변형을 구별해야 한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "요금 납부를 놓쳐 생기는 빚",
   "original": "Forgot to Pay the Bill",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03795",
+  "primary_tag_id": "ML-T03795",
   "description": {
     "definition": "생활 서비스의 요금을 제때 내지 않아 미납 채무가 생기는 사건이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "서비스가 중단되는 결과까지 필수로 삼지는 않으며 고의적인 사기와도 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.098",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

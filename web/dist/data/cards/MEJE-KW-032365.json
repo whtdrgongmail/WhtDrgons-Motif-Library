@@ -4,8 +4,8 @@
   "title": "동시에 존재할 수 있는 오브젝트 수 제한",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04086",
+  "primary_tag_id": "ML-T04086",
   "description": {
     "definition": "게임의 같은 종류의 물체나 개체가 일정 수를 넘지 못하게 하여 추가 생성을 막거나 기존 개체를 제거하는 규칙이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "탄환에 한정되지 않으며 시간 경과만으로 사라지는 물체와 달리 동시 개수의 상한이 기준이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.004.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

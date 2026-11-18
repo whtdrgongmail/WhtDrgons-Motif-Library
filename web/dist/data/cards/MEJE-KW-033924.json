@@ -4,8 +4,8 @@
   "title": "낮은 촬영 속도로 동작을 빠르게 보이기",
   "original": "Undercranking",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T01900",
+  "primary_tag_id": "ML-T01900",
   "description": {
     "definition": "재생보다 낮은 프레임 수로 촬영하여 기준 속도로 재생할 때 동작이 실제보다 빠르게 보이도록 만드는 표현이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "영상의 일부 장면만 생략하는 편집과 촬영 속도 조작을 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "22.008",
     "review_status": "provisional",
     "row_version": 1
   },

@@ -4,8 +4,8 @@
   "title": "한 번에 끝내는 공격",
   "original": "One-Hit Kill",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03032",
+  "primary_tag_id": "ML-T03032",
   "description": {
     "definition": "유효하게 적중하면 대상의 전투나 생존 상태를 한 번에 끝내는 공격 규칙.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "여러 차례 누적된 피해의 마지막 타격과 구분한다. 조건부 즉사와 큰 피해량에 의한 단발 처치를 함께 구분해 설명할 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "운명이라 믿은 잘못된 상대",
   "original": "False Soulmate",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "깊이 사랑하고 운명적인 상대라고 믿었지만 서로의 관계가 지속될 수 없거나 기대했던 모습과 다름을 깨닫는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "깊이 사랑해 운명적인 짝이라고 믿었던 사람이 오래 함께할 상대는 아님을 깨닫는 전개다. 당시의 감정이 전부 거짓이었다는 뜻은 아니며, 강렬한 만남의 의미와 실제로 관계를 유지할 조건이 다르다는 사실이 드러난다.",
     "review_status": "reviewed",

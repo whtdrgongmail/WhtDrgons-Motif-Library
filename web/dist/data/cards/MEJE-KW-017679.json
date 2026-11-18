@@ -4,8 +4,8 @@
   "title": "보호 임무 중 죽는 경비",
   "original": "So Long, Sentry",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T03765",
+  "primary_tag_id": "ML-T03765",
   "description": {
     "definition": "잠재적 피해자를 지키던 경비나 보호자가 먼저 죽어 안전 장치가 제거되는 전개.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "죽음이 보호망 붕괴의 기능을 하는지 확인한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "05",
-    "review_status": "provisional",
+    "code": "05.047",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

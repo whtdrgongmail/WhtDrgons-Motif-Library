@@ -4,8 +4,8 @@
   "title": "영입 여부를 고를 수 있는 동료",
   "original": "Optional Party Member",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03685",
+  "primary_tag_id": "ML-T03685",
   "description": {
     "definition": "플레이어의 선택에 따라 동행 파티에 들어오거나 들어오지 않을 수 있는 인물이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "이미 필수 영입된 인물을 잠시 전투 조합에서 빼는 것과 구별한다. 동료가 되는 여부 자체가 선택 사항이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.068",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

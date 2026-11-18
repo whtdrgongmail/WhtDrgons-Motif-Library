@@ -4,8 +4,8 @@
   "title": "대전을 기다리는 게임 대기실",
   "original": "Game Lobby",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02531",
+  "primary_tag_id": "ML-T02531",
   "description": {
     "definition": "온라인 게임에서 참가자들이 한곳에 모여 경기의 조건과 인원을 맞춘 뒤 동시에 플레이를 시작한다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "경기를 시작하기 전에 사람들이 모여 팀과 규칙을 정하고 준비 여부를 확인하는 온라인 공간이다. 실제 인물이 돌아다니는 방일 수도 참가자 목록만 있는 화면일 수도 있다. 단순한 접속 대기와 달리 함께할 구성과 조건을 맞추는 기능이 있으며 누가 시작을 결정하는지도 중요하다.",
     "review_status": "reviewed",

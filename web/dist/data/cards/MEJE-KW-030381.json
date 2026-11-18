@@ -4,8 +4,8 @@
   "title": "선택 임무를 놓쳐 완전 달성이 불가능해지기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03688",
+  "primary_tag_id": "ML-T03688",
   "description": {
     "definition": "다시 수행할 수 없는 선택 임무가 업적이나 완전 달성의 조건에 연결되어 이를 놓치면 현재 진행에서는 모든 과제를 끝낼 수 없게 되는 규칙이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "본편 결말을 볼 수 없는 것과는 다르며 새로 시작하면 회복할 수 있는 경우를 포함한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.071",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "시전자도 위험한 공격 구역",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03666",
+  "primary_tag_id": "ML-T03666",
   "description": {
     "definition": "자신이 만든 지속 위험 구역의 효과에서 시전자도 예외가 아니어서 위치를 잘못 잡으면 자기 공격에 당하는 기제이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "시전자에게 자동으로 면역이 부여되는 구역 공격과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.049",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

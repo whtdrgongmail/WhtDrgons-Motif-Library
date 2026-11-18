@@ -4,8 +4,8 @@
   "title": "수 표현 범위를 벗어나 생기는 오류",
   "original": "Overflow Error",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04067",
+  "primary_tag_id": "ML-T04067",
   "description": {
     "definition": "프로그램이 다룰 수 있는 수의 범위보다 값이 커지거나 작아져 계산과 상태가 의도와 다르게 처리되는 오류다.",
     "detail": "원래의 기능이나 진행 기대와 실제 결과 사이의 차이가 핵심이다.",
@@ -13,11 +13,11 @@
     "boundary": "단순 오타나 설계된 최대 수치 제한과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.012.008",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

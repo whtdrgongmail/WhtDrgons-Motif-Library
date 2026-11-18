@@ -4,8 +4,8 @@
   "title": "게임 사진 모드",
   "original": "Photo Mode",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02529",
+  "primary_tag_id": "ML-T02529",
   "description": {
     "definition": "게임 화면을 촬영하기 위해 진행을 멈추고 시점이나 화면 효과 등을 조절하도록 제공하는 기능이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "전투의 멋진 순간을 멈춘 뒤 카메라를 돌리고 화면 표시를 숨겨 원하는 사진을 남긴다.",
     "review_status": "reviewed",

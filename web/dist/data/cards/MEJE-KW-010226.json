@@ -4,8 +4,8 @@
   "title": "정해진 수치만큼 피해를 주는 공격",
   "original": "Fixed Damage Attack",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03032",
+  "primary_tag_id": "ML-T03032",
   "description": {
     "definition": "게임에서 공격력과 방어력의 일반 계산을 무시하고 맞은 대상에게 언제나 같은 양의 피해를 입히는 기술이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

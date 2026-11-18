@@ -4,8 +4,8 @@
   "title": "전장을 실시간으로 계산하는 조종사",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T03920",
+  "primary_tag_id": "ML-T03920",
   "description": {
     "definition": "조종사가 주변 물체의 속도·방향·거리와 미래 위치를 즉시 계산해 비행 경로와 공격 시점을 정한다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "계기가 제공한 계산 결과를 읽는 것과 조종사 자신의 초월적 계산을 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "17",
-    "review_status": "provisional",
+    "code": "17.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

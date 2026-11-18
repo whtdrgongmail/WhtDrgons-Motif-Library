@@ -4,8 +4,8 @@
   "title": "집단의 모든 사람이 잠입자인 상황",
   "original": "Flock of Wolves",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02664",
+  "primary_tag_id": "ML-T02664",
   "description": {
     "definition": "겉으로는 정상적인 모임처럼 보이지만 소속된 모든 사람이 정체나 목적을 숨긴 잠입자인 구도이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "대장 MEJE-KW-010340의 특정 인물이 이를 알아차리는 반전보다 집단 구성 자체를 정의하므로 발견 장면이 필수는 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가짜 구성원을 찾으려 했더니 진짜 구성원이 아무도 없다.",
     "review_status": "reviewed",

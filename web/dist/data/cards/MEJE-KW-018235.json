@@ -4,8 +4,8 @@
   "title": "의도된 순서를 벗어나는 게임 진행",
   "original": "Sequence Breaking",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03674",
+  "primary_tag_id": "ML-T03674",
   "description": {
     "definition": "플레이어가 게임이 예상한 절차를 거치지 않고 뒤의 사건이나 구역을 먼저 수행하는 진행 방식이다.",
     "detail": "원래의 기능이나 진행 기대와 실제 결과 사이의 차이가 핵심이다.",
@@ -13,11 +13,11 @@
     "boundary": "처음부터 여러 순서를 허용하는 자유 진행이나 정해진 지름길과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.057",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

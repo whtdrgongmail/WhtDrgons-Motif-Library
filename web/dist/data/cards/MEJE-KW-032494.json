@@ -4,8 +4,8 @@
   "title": "여러 인물용 게임을 한 캐릭터만으로 진행하기",
   "original": "Solo-Character Run",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "MEJE-KW-004670",
+  "primary_tag_id": "MEJE-KW-004670",
   "description": {
     "definition": "여러 캐릭터를 활용하도록 만들어진 게임에서 한 캐릭터만 사용하는 플레이 방식이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "처음부터 한 캐릭터만 조종하는 게임과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "원래는 팀으로 해야 할 게임을 한 명으로 끝까지 해 본다.",
     "review_status": "reviewed",

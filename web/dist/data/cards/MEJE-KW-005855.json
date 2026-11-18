@@ -4,8 +4,8 @@
   "title": "상대의 사적 신체 부위를 만지기",
   "original": "Copping a Feel",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "인물이 상대의 사적인 신체 부위를 만지는 장면. 동의가 있을 때 [[친밀감]]으로, 동의가 없을 때 성적 침해로 읽혀 관계의 의미가 크게 달라진다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인물이 상대의 사적인 신체 부위를 만지는 장면이다. 서로 원한 접촉이면 [[친밀감]]을 나타낼 수 있지만 허락 없는 접촉은 성적 침해이며, 두 사람이 친하거나 연인이라는 사실만으로 그 순간의 동의를 대신할 수는 없다.",
     "review_status": "reviewed",

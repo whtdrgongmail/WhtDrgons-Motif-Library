@@ -1,0 +1,48 @@
+{
+  "id": "ML-T04078",
+  "kind": "keyword",
+  "title": "일반 적의 위치 유지와 접근 행동",
+  "original": "Enemy Positioning and Approach Behavior",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T04078",
+  "primary_tag_id": "ML-T04078",
+  "description": {
+    "definition": "적이 공간에서 자리를 지키고 돌아다니거나 은밀히 접근하는 방식이 조우를 결정한다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "시간과 지역만 정한 출현 빈도와 개별 피해 수치 조정은 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.005.015",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "적이 제자리를 지키는지, 발견하면 다가오는지에 따라 통과법이 달라진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "순찰하는 적은 같은 구역 안에서도 어느 순간에 접근하는가에 따라 위험에 걸릴 가능성을 달리한다.\n\n은신과 수면은 둘 다 처음에는 조우가 없다고 느끼게 할 수 있지만 경계가 풀리는 조건과 움직임은 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "순찰하는 적은 같은 구역 안에서도 어느 순간에 접근하는가에 따라 위험에 걸릴 가능성을 달리한다.\n\n은신과 수면은 둘 다 처음에는 조우가 없다고 느끼게 할 수 있지만 경계가 풀리는 조건과 움직임은 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

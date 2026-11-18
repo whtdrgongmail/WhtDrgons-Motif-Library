@@ -4,8 +4,8 @@
   "title": "지역 한정 동료",
   "original": "Region-Bound Party Member",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04061",
+  "primary_tag_id": "ML-T04061",
   "description": {
     "definition": "특정 지역에 있는 동안만 [[플레이어]] 일행에 [[합류]]하고 그 경계를 벗어나면 동행하지 않는 동료이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "활동 제한의 기준이 지역이라는 점에서 임무나 [[시간]]에 따른 일시 동료와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.009.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

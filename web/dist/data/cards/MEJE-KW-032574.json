@@ -4,8 +4,8 @@
   "title": "한 번 방문한 뒤 영구히 닫히는 지역",
   "original": "One-Time Dungeon",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04110",
+  "primary_tag_id": "ML-T04110",
   "description": {
     "definition": "대체로 이전 장소로 돌아갈 수 있는 게임에서 특정 던전이나 지역만 사건·파괴·진행 제한 때문에 한 번 떠나면 다시 들어갈 수 없게 되는 구조다.",
     "detail": "작품 사례: 《[[배트맨: 아캄 어사일럼]]》의 킬러 크록 소굴은 줄거리상 필요한 한 번만 들어갈 수 있다. 다만 그 안에는 놓칠 리들러 수집물이 없어 재방문 제한과 수집 실패를 분리한다.",
@@ -13,11 +13,11 @@
     "boundary": "원래 모든 스테이지를 일방향으로 진행하는 게임은 제외하며 재방문 가능한 세계 안의 예외적 폐쇄가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.002.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

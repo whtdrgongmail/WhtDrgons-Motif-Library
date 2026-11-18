@@ -4,8 +4,8 @@
   "title": "비전투 상태에서 보장되는 공격 면제",
   "original": "Non-Combatant Immunity",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03677",
+  "primary_tag_id": "ML-T03677",
   "description": {
     "definition": "인물이 아직 무장을 하거나 전투에 참여하지 않은 동안 적의 공격 대상으로 취급되지 않는 보호 규칙이다.",
     "detail": "무장이나 전투 개입이 보호 종료의 조건이 될 수 있다.",
@@ -13,11 +13,11 @@
     "boundary": "게임 전체에서 피해를 받지 않는 고정 민간인이나 잠시 체력을 높이는 능력과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.060",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

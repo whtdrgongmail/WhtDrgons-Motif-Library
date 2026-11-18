@@ -1,0 +1,48 @@
+{
+  "id": "ML-T03669",
+  "kind": "keyword",
+  "title": "탄의 조준 시점과 표적 위치",
+  "original": "Projectile Targeting Timing",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T03669",
+  "primary_tag_id": "ML-T03669",
+  "description": {
+    "definition": "발사 시 표적의 현재 위치나 추정한 미래 위치를 이용하여 탄의 방향을 결정하는 게임 규칙과 그에 대한 회피 방식이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "대상을 고려하지 않는 고정 탄막과 발사 뒤 계속 표적을 추적하는 유도탄은 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.052",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "적이 방금 있던 곳을 쏘는지 앞으로 갈 곳을 쏘는지에 따라 피하는 방식이 달라진다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "조준을 발사 시점에 고정하면 이후 움직임은 탄의 방향에 반영되지 않는다. 발사 간격을 읽을 수 있으면 작은 이동을 반복해 다음 탄을 옆으로 빗나가게 할 수 있다.\n\n속도와 방향으로 미래 위치를 추정하면 같은 경로를 계속 달리는 상대를 맞히기 쉬워진다. 표적이 갑자기 방향이나 속도를 바꾸면 그 추정이 틀릴 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "조준을 발사 시점에 고정하면 이후 움직임은 탄의 방향에 반영되지 않는다. 발사 간격을 읽을 수 있으면 작은 이동을 반복해 다음 탄을 옆으로 빗나가게 할 수 있다.\n\n속도와 방향으로 미래 위치를 추정하면 같은 경로를 계속 달리는 상대를 맞히기 쉬워진다. 표적이 갑자기 방향이나 속도를 바꾸면 그 추정이 틀릴 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

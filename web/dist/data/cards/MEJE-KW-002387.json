@@ -4,8 +4,8 @@
   "title": "화면이 저절로 전진하는 게임 구간",
   "original": "Auto-Scrolling Level",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02529",
+  "primary_tag_id": "ML-T02529",
   "description": {
     "definition": "[[플레이어]]의 위치와 관계없이 화면이 일정한 속도로 이동한다. 탐색보다 즉각적인 이동과 장애물 회피를 요구해 같은 게임의 리듬을 바꾼다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "캐릭터가 멈춰도 화면이 오른쪽이나 위쪽으로 계속 이동하여 뒤처지면 실패하는 스테이지다. [[플레이어]]가 진행 속도를 자유롭게 정할 수 없으므로 숨은 물건을 천천히 찾기보다 다가오는 발판과 장애물에 정해진 시간 안에 반응해야 한다.",
     "review_status": "reviewed",

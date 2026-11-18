@@ -1,0 +1,48 @@
+{
+  "id": "ML-T03625",
+  "kind": "keyword",
+  "title": "게임 전경과 조작 대상의 가시성",
+  "original": "Foreground Occlusion in Gameplay",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T03625",
+  "primary_tag_id": "ML-T03625",
+  "description": {
+    "definition": "전경 요소가 조작 대상과 겹칠 때 그 가림을 보존하거나 투명도 등을 바꿔 화면 정보의 접근성을 조절하는 표현이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "안개·어둠처럼 앞뒤 요소의 겹침 없이 가시성을 줄이는 장치"
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "22.005.016",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "카메라 앞쪽 물체가 조작할 인물을 가리면 가리는 물체만 투명하게 할 수 있다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "전경 개체는 배경보다 카메라 가까이에 있어 공간의 깊이를 설명하지만 이동하는 캐릭터의 일부를 가릴 수도 있다.\n\n겹침이 생길 때만 가리는 물체의 투명도를 바꾸면 평소에는 공간의 형태를 보존하고 필요한 조작 정보에 다시 접근할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전경 개체는 배경보다 카메라 가까이에 있어 공간의 깊이를 설명하지만 이동하는 캐릭터의 일부를 가릴 수도 있다.\n\n겹침이 생길 때만 가리는 물체의 투명도를 바꾸면 평소에는 공간의 형태를 보존하고 필요한 조작 정보에 다시 접근할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

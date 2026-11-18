@@ -4,8 +4,8 @@
   "title": "적 전용 유닛을 아군으로 쓰기",
   "original": "Enemy Exchange Program",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04117",
+  "primary_tag_id": "ML-T04117",
   "description": {
     "definition": "평소 적 진영만 보유하는 유닛의 통제권을 얻어 아군 전력으로 활용하는 게임 장치이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "무기 아이템의 회수와 달리 독립된 유닛의 지휘권이 바뀐다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.005.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

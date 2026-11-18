@@ -4,8 +4,8 @@
   "title": "부탁받지 않은 호의가 부른 참사",
   "original": "Tragically Misguided Favor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "소중한 사람을 위해 스스로 한 도움이 상대의 필요와 상황을 잘못 짚어 큰 피해를 낳는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "일반적인 선행의 역효과 중 관계와 오해한 호의가 중심인 유형이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋아하는 사람을 도우려다가 원치 않은 일을 저질러 버린다.",
     "review_status": "reviewed",

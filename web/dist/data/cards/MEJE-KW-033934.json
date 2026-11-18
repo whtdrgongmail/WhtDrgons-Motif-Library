@@ -4,8 +4,8 @@
   "title": "최솟값 아래로 내려가자 큰 값으로 돌아가기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04067",
+  "primary_tag_id": "ML-T04067",
   "description": {
     "definition": "일정 범위의 정수를 순환하도록 처리하는 게임에서 값을 최솟값보다 줄이면 큰 값 쪽으로 되돌아가 예상 밖의 자원이나 상태가 생기는 현상이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "일반적인 부동소수점 언더플로와 같은 뜻으로 단정하지 않으며 적용되는 수치 구현을 전제로 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.012.008",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

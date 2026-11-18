@@ -4,8 +4,8 @@
   "title": "추적 공격의 표적 고정을 알리는 연출",
   "original": "Missile Lock-On",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T03608",
+  "primary_tag_id": "ML-T03608",
   "description": {
     "definition": "유도 공격을 발사하기 전에 표적을 고정하는 과정을 조준선과 점점 이어지는 신호음 등으로 보여 주는 표현이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "모든 유도 공격이 반드시 사전 고정을 요구하는 것은 아니다. 게임 카메라가 적을 따라보는 기능과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "22",
-    "review_status": "provisional",
+    "code": "22.010.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

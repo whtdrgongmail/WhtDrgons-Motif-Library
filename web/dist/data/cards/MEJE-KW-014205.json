@@ -4,8 +4,8 @@
   "title": "가까운 대상에게 이어지는 연쇄 공격",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03668",
+  "primary_tag_id": "ML-T03668",
   "description": {
     "definition": "첫 대상을 맞힌 공격이 일정 거리 안의 다음 대상으로 옮겨 가며 여러 대상을 차례로 타격하는 게임 규칙이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "한 영역을 한꺼번에 공격하는 효과와 달리 대상 사이의 순차 연결이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.051",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

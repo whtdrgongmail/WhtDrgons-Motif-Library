@@ -4,8 +4,8 @@
   "title": "현재 위치를 노리는 발사",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03669",
+  "primary_tag_id": "ML-T03669",
   "description": {
     "definition": "게임의 적이 표적의 진행 방향을 계산하지 않고 발사 시점에 있는 위치로 공격하는 조준 방식이다. 이동 중인 플레이어는 그 자리를 벗어나는 것만으로 공격을 피할 수 있다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "표적의 미래 위치를 계산하는 예측 조준과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.052",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

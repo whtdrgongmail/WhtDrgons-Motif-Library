@@ -4,8 +4,8 @@
   "title": "부정행위를 정당화하는 플레이어",
   "original": "God Modders",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02519",
+  "primary_tag_id": "ML-T02519",
   "description": {
     "definition": "[[게임]]의 결함이나 편법으로 일방적 이익을 얻으면서 이를 정당한 실력과 전략이라고 우기는 참여자 유형이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "허용된 전략으로 이기려는 승부욕이나 정상적인 숙련 플레이와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.014.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "버그로 이긴 사람이 버그를 고치면 오히려 항의하는 모습이다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "비밀 구조자의 정체가 연애 상대와 연결되기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02664",
+  "primary_tag_id": "ML-T02664",
   "description": {
     "definition": "위기 때만 나타나던 정체불명의 조력자가 이미 알고 있던 연애 상대이거나 이후 연인이 되는 인물로 밝혀지는 관계 전환이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "모든 비밀 조력자가 연애 상대인 것은 아니다. 정체 공개만 있고 연애 연결이 없으면 이 하위 구도는 성립하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "구해 주던 낯선 사람과 마음에 두던 사람이 같은 인물임을 알게 된다.",
     "review_status": "reviewed",

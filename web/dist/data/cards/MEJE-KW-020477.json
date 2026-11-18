@@ -5,8 +5,8 @@
   "original": "Puzzle Elements in One View",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02529",
+  "primary_tag_id": "ML-T02529",
   "description": {
     "definition": "학습이나 퍼즐 해결에 관련된 대상들을 한 시야에 담아 그 사이의 위치와 관계를 파악하게 하는 카메라 배치다.",
     "detail": "",
@@ -14,14 +14,22 @@
     "boundary": "단지 화면이 넓거나 풍경을 보여 주는 것과 구별한다. 필요한 정보의 관계를 읽히는 것이 목적이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "도구와 작동 대상이 함께 보이면 플레이어는 어디에 무엇을 써야 할지 연결해 생각할 수 있다.",
     "review_status": "reviewed",

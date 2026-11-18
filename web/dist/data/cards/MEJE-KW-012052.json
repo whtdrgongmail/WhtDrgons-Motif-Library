@@ -4,8 +4,8 @@
   "title": "게임 전투를 구경하는 관중",
   "original": "NPC Battle Audience",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02530",
+  "primary_tag_id": "ML-T02530",
   "description": {
     "definition": "[[플레이어]]가 직접 조작하지 않는 관객들이 [[게임]]의 [[전투]]를 지켜보고 그 진행에 반응하도록 배치하는 요소다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "[[배경]]에 정지된 [[인물]] 그림만 있는 경우보다 전투 관람의 역할이 확인되어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "싸우는 동안 주변 관중이 환호하거나 놀라는 반응을 보인다.",
     "review_status": "reviewed",

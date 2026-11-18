@@ -4,8 +4,8 @@
   "title": "전경이 플레이에 필요한 화면을 가리기",
   "original": "Obstructive Foreground",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T03625",
+  "primary_tag_id": "ML-T03625",
   "description": {
     "definition": "화면 앞쪽의 [[전경]] 요소가 조작 대상이나 장애물의 모습을 가려 플레이어가 필요한 상황 정보를 보기 어렵게 만드는 게임 표현이다.",
     "detail": "작품 사례: 게임 《[[배트맨 포에버]]》의 슈퍼 패미컴판에서는 은행 구역의 기둥 같은 전경이 캐릭터의 행동을 가려 플레이 상황을 파악하기 어렵게 한다.",
@@ -13,11 +13,11 @@
     "boundary": "일반적인 시야 제한과 달리 화면의 앞뒤 배치가 직접 원인이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "22",
-    "review_status": "provisional",
+    "code": "22.005.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

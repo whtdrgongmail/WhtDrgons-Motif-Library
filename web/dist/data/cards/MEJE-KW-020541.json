@@ -4,8 +4,8 @@
   "title": "플레이어가 선택하는 도발 동작",
   "original": "Practical Taunt",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03676",
+  "primary_tag_id": "ML-T03676",
   "description": {
     "definition": "플레이어가 공격 대상이나 상대 캐릭터를 향해 조롱하는 행동을 선택할 수 있도록 마련한 게임 기능이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "자동으로 나오는 대사와 구별한다. 도발이 반드시 피해나 보너스를 주는 규칙일 필요는 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.059",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

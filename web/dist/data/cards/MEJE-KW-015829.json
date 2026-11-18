@@ -4,8 +4,8 @@
   "title": "도움이 되면서도 무서운 공포물의 동료",
   "original": "Unstable Horror Ally",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02667",
+  "primary_tag_id": "ML-T02667",
   "description": {
     "definition": "공포 이야기에서 주인공을 돕는 역할을 하면서도 모습이나 행동이 두려움을 일으키는 동료를 배치하는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "숨겨진 적이라는 반전이 필수는 아니며 실제 조력과 공포감이 함께 존재하는 것이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.037",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "우리 편이라는 것은 알지만 곁에 있으면 여전히 마음이 놓이지 않는다.",
     "review_status": "reviewed",

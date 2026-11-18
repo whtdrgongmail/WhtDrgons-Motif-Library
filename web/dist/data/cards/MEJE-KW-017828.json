@@ -4,8 +4,8 @@
   "title": "부탁하는 말부터 시키기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02663",
+  "primary_tag_id": "ML-T02663",
   "description": {
     "definition": "요구를 받은 인물이 정중한 부탁이나 감사의 말을 먼저 하게 한 뒤에야 협조하는 상호작용.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.033",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 필요한 것을 얻기 위해 어떤 말투를 써야 하는지를 통제한다.",
     "review_status": "reviewed",

@@ -6,8 +6,8 @@
   "aliases": [
     "쓰러뜨릴 수 없는 하급 적"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03032",
+  "primary_tag_id": "ML-T03032",
   "description": {
     "definition": "보스가 아닌 적이 플레이어의 공격에 완전히 무적이어서 피해를 누적해 처치할 수 없는 전투 조건이다. 적과의 관계를 공격 이외의 방식으로 풀어야 한다.",
     "detail": "구역의 경계를 지키거나 은신과 이동을 요구하는 기능을 맡는다. 드문 특수 무기만 통하는 예외나 훈련용 대상의 무적 판정도 가능하다.\n\n드문 무기나 일시적인 강화 수단을 사용할 때만 제거 가능한 변형도 있다. 통상적인 공격으로는 처리할 수 없다는 공통 조건을 유지한다.\n\n작품 사례: 《[[슈퍼 마리오브라더스]]》의 용암에서 튀어나오는 불덩이 적은 일반 적처럼 쓰러뜨릴 수 없어 움직임을 피하며 통과해야 한다.",
@@ -15,11 +15,11 @@
     "boundary": "피해는 입지만 체력이 아주 높거나 특정 공격만 막는 적과 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

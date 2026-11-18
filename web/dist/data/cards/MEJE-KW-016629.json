@@ -4,8 +4,8 @@
   "title": "보관 중에는 사라지는 장비 무게",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03656",
+  "primary_tag_id": "ML-T03656",
   "description": {
     "definition": "장비를 인벤토리에 넣어 둘 때는 무게의 불이익이 없다가 실제로 꺼내 쓰거나 착용할 때만 힘과 중량의 제약이 적용되는 규칙이다. 보관과 사용이 서로 다른 물리적 부담을 갖는다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "보관 중에도 같은 무게를 계산하는 시스템이나 별도의 공간 [[마법]]으로 무게가 제거된다고 명시한 설정과 구별해서 본다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.039",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

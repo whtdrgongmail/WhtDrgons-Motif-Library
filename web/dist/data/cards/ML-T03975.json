@@ -1,0 +1,48 @@
+{
+  "id": "ML-T03975",
+  "kind": "keyword",
+  "title": "가상 화면에 재현한 실물의 빛과 촬영 인상",
+  "original": "Photorealistic Rendering and Simulated Camerawork",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T03975",
+  "primary_tag_id": "ML-T03975",
+  "description": {
+    "definition": "입체 그래픽에서 빛·재질·공간의 반응과 카메라처럼 보이는 표현을 현실 관찰이나 촬영 결과에 가깝게 구현하는 방식이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "삼차원 데이터를 만들기만 한 상태와 의도적으로 손그림이나 추상 형태만 따르는 양식은 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "22.050",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "컴퓨터로 만든 물체와 사람이 현실의 빛 아래 카메라로 찍은 것처럼 보인다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "대상 표면의 반사와 그림자, 거리에 따른 공간 표현을 맞추면 여러 물체가 같은 장소에 있는 것처럼 보인다. 사용한 재질의 차이가 화면에 드러나는 것도 이 구현의 일부다.\n\n가상 카메라는 실제 촬영의 흔들림이나 움직임을 닮게 할 수 있다. 자연스러운 재질과 빛만으로 사실적으로 보이도록 하고 의도된 카메라 움직임은 두지 않을 수도 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "대상 표면의 반사와 그림자, 거리에 따른 공간 표현을 맞추면 여러 물체가 같은 장소에 있는 것처럼 보인다. 사용한 재질의 차이가 화면에 드러나는 것도 이 구현의 일부다.\n\n가상 카메라는 실제 촬영의 흔들림이나 움직임을 닮게 할 수 있다. 자연스러운 재질과 빛만으로 사실적으로 보이도록 하고 의도된 카메라 움직임은 두지 않을 수도 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

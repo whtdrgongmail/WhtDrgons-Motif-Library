@@ -4,8 +4,8 @@
   "title": "밟기 공격을 막는 가시 적",
   "original": "The Spiny",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02110",
+  "primary_tag_id": "ML-T02110",
   "description": {
     "definition": "몸 위의 가시 때문에 점프로 내려찍는 공격이 통하지 않거나 공격자에게 위험이 돌아가는 적 유형이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "아무 곳에나 가시 장식이 있다는 외형과 달리 밟기 판정의 차이가 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005.004",
     "review_status": "provisional",
     "row_version": 1
   },

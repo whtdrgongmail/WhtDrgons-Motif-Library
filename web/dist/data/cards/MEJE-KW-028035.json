@@ -4,8 +4,8 @@
   "title": "근접전에서 상대 무기 빼앗기",
   "original": "Melee Disarming",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03448",
+  "primary_tag_id": "ML-T03448",
   "description": {
     "definition": "근접무기나 맨손으로 상대가 쥔 무기를 떨어뜨리거나 빼앗아 전투 능력을 낮추는 행동이다.",
     "detail": "작품 사례: 《[[젤다의 전설 스카이워드 소드]]》에서 기라힘은 링크의 검을 맨손으로 잡아 빼앗아 전투의 우위를 바꾼다.",
@@ -13,11 +13,11 @@
     "boundary": "총으로 멀리서 무기를 쏘아 떨어뜨리는 장치와 구별한다. 무기 파괴는 별도로 겹칠 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.006.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

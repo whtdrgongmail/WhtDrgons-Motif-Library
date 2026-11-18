@@ -4,8 +4,8 @@
   "title": "탑승 중에는 다치지 않는 운전자",
   "original": "In-Vehicle Invulnerability",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03677",
+  "primary_tag_id": "ML-T03677",
   "description": {
     "definition": "게임에서 차량이 파괴되지 않는 동안 운전자가 충돌이나 외부 공격으로 직접 다치지 않는 보호 규칙이다.",
     "detail": "충돌에만 면역인 방식과 무기·환경 피해를 차량이 대신 받는 방식이 있다. 차량과 운전자의 체력을 공유하는 설계는 별개이다.\n\n작품 사례: 《[[월드 오브 워크래프트]]》의 공성 차량 중에는 탑승자의 몸이 노출되어 있어도 피해를 차량이 받아 운전자와 승객을 보호하는 것이 있다.",
@@ -13,11 +13,11 @@
     "boundary": "차량 자체가 무적이라는 뜻은 아니며 현실의 안전성을 설명하는 개념도 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.060",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

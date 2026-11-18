@@ -4,8 +4,8 @@
   "title": "모든 출입구를 막는 시설 봉쇄",
   "original": "Lockdown",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03457",
+  "primary_tag_id": "ML-T03457",
   "description": {
     "definition": "구역의 출입구를 닫거나 통제하여 안팎의 이동을 차단하는 조치이다.",
     "detail": "작품 사례: 《[[에이리언: 로물루스]]》에서는 냉각 연료를 제거하면서 저장실의 페이스허거가 깨어나고 자동 봉쇄가 걸린다. 안에 있는 사람을 구하려면 출입 권한 문제부터 해결해야 한다.",
@@ -13,11 +13,11 @@
     "boundary": "한 사람을 한 방에 가두는 행동보다 구역의 통행 통제에 초점을 둔다. 외부 침입과 내부 유출을 막는 목적 모두 가능하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.003.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "공유된 고립",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02642",
+  "primary_tag_id": "ML-T02642",
   "description": {
     "definition": "둘 이상의 인물이 다른 사람들과의 관계가 부족한 상태를 서로 공통된 처지로 경험하는 구도다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "각자 외롭게 지내던 사람들이 서로도 비슷하게 고립되어 있음을 알게 되는 상황이다.",
     "review_status": "reviewed",

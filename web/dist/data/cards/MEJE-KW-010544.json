@@ -4,8 +4,8 @@
   "title": "우발적 접촉을 이해하고 넘기다",
   "original": "Forgiving the Accidental Pervert",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "의도하지 않은 성적 신체 접촉이나 노출을 겪은 인물이 상황을 살펴 상대의 의도를 판단하고 갈등을 줄이는 장면이다. 불편함을 느끼는 반응 역시 정당할 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "뜻하지 않은 접촉이나 노출로 불편을 겪은 인물이 상황을 이해하고 상대가 고의가 아니었다고 판단하는 장면이다. 사고였다는 설명이 불편 자체를 없애지는 않으며, 용서하거나 거리를 두는 선택 모두 당사자의 감정에 따라 가능하다.",
     "review_status": "reviewed",

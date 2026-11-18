@@ -4,8 +4,8 @@
   "title": "알파벳 엑스 항목만 예외로 채우기",
   "original": "X for Exception",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T03639",
+  "primary_tag_id": "ML-T03639",
   "description": {
     "definition": "알파벳 순서로 단어를 나열하면서 x 차례에는 x로 시작하지 않는 단어를 대신 넣는다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "모든 항목이 자유로운 목록과 달리 유지해 온 첫 글자 규칙을 한 자리에서 깨야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

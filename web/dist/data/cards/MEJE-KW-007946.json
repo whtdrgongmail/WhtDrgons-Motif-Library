@@ -4,8 +4,8 @@
   "title": "같은 옷을 입고 마주치기",
   "original": "Dresses the Same",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "같은 행사에서 똑같은 옷을 입은 사람을 만나 서로의 개성과 체면이 겹쳤다고 느끼며 갈등하거나 당황한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "특별한 행사에서 다른 사람과 같은 옷을 입은 사실을 알고 당황하거나 경쟁하는 장면이다. 본인만의 선택이라고 생각한 외형이 겹치면서 개성과 체면에 대한 기대가 흔들리며, 상대와 비교하려는 태도가 작은 우연을 갈등으로 만든다.",
     "review_status": "reviewed",

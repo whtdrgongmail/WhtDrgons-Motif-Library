@@ -5,8 +5,8 @@
   "original": "Reordering the Top Cards of the Deck",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04074",
+  "primary_tag_id": "ML-T04074",
   "description": {
     "definition": "곧 뽑을 카드 몇 장을 미리 확인한 다음 자신에게 유리하도록 다시 배열하는 규칙이다.",
     "detail": "",
@@ -14,11 +14,11 @@
     "boundary": "덱 전체를 자유롭게 검색하거나 카드의 내용을 바꾸는 기능과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.013.004",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

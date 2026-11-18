@@ -5,8 +5,8 @@
   "original": "Expert Patient Disputes the Treating Clinicians",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "의료 지식이 있는 환자가 자신의 판단을 앞세우며 담당 의료진의 진단과 처치 의견에 이의를 제기하여 역할 충돌을 만드는 구성이다.",
     "detail": "",
@@ -14,14 +14,20 @@
     "boundary": "질문과 의견 제시 자체를 문제 행동으로 여기지 않고 [[갈등]]으로 묘사된 상황을 다룬다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "환자가 전문가라서 자신을 치료하는 사람과 판단을 다툰다.",
     "review_status": "reviewed",

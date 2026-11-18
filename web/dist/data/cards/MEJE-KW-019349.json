@@ -4,8 +4,8 @@
   "title": "소수자 인물끼리만 짝지어 주기",
   "original": "Token Minority Couple",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "주요 집단에서 소수자 역할인 인물에게 역시 소수자인 연애 상대를 배정하는 구성 관습이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "소수자 커플의 존재 자체가 문제라는 뜻이 아니며 토큰 역할과 짝짓기의 배치를 함께 본다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "주인공 무리의 소수자 인물은 다른 소수자와 짝을 이룬다.",
     "review_status": "reviewed",

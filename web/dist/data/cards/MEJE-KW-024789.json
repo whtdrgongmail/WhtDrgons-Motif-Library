@@ -4,8 +4,8 @@
   "title": "데이터를 기다리게 하는 로딩 화면",
   "original": "Loading Screen",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03689",
+  "primary_tag_id": "ML-T03689",
   "description": {
     "definition": "게임이 다음 구간의 데이터를 준비하는 동안 대기 중임을 알리고 화면을 채우는 인터페이스이다.",
     "detail": "작품 사례: 《[[토탈 어나이얼레이션: 킹덤즈]]》는 로딩 진행을 스테인드글라스 창의 회색 조각이 색을 얻어 가는 모습으로 표시해 배경 세계의 미감과 대기를 연결한다.",
@@ -13,11 +13,11 @@
     "boundary": "일반적인 장면 전환이나 일시 정지와 달리 데이터 준비를 위한 대기 상태에 대응한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.072",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "게임 화면의 깊이 혼란",
   "original": "Depth Perplexion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02806",
+  "primary_tag_id": "ML-T02806",
   "description": {
     "definition": "게임의 배경과 전경, [[캐릭터]] 층이 제대로 구분되지 않아 물체 사이의 거리나 충돌 관계를 알기 어려운 문제. 화면에서 보이는 위치와 실제 판정이 어긋난다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.022",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "팔지 않는 음식을 주문하기",
   "original": "Wrong Restaurant",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02787",
+  "primary_tag_id": "ML-T02787",
   "description": {
     "definition": "방문한 식당이 취급하지 않는 종류의 음식을 요청하여 주문이 성립하지 않거나 대화가 엇나가는 장면이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "메뉴에 있지만 일시 품절인 음식이나 주문 이름을 틀린 경우와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

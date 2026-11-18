@@ -4,8 +4,8 @@
   "title": "자동으로 환전되는 게임 화폐",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02097",
+  "primary_tag_id": "ML-T02097",
   "description": {
     "definition": "낮은 단위의 화폐가 일정량 모이면 [[교환]] 행위 없이 높은 단위로 바뀌거나 필요한 잔돈으로 자동 분할되는 [[게임]] [[규칙]]이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "고정 환율 자체와 달리 환전 절차와 잔돈의 제약까지 생략한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.004",
     "review_status": "provisional",
     "row_version": 1
   },

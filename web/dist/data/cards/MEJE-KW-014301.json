@@ -4,8 +4,8 @@
   "title": "조준 탄막을 조금씩 유도하기",
   "original": "streaming",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03669",
+  "primary_tag_id": "ML-T03669",
   "description": {
     "definition": "현재 위치를 향해 발사되는 탄막에 맞추어 작은 이동을 이어 가며 공격 방향을 한쪽으로 유도하는 슈팅 게임 회피 기법이다. 큰 이동 없이도 이전 위치로 향하는 탄을 흘릴 수 있다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "아무 방향으로 급히 피하는 동작이나 고정된 탄막의 빈틈만 통과하는 행동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.052",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

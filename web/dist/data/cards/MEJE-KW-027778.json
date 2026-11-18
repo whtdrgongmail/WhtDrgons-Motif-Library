@@ -4,8 +4,8 @@
   "title": "처치 증거를 가져오는 사냥 임무",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04064",
+  "primary_tag_id": "ML-T04064",
   "description": {
     "definition": "적을 쓰러뜨렸다는 주장을 확인하기 위해 신체 일부나 전리품을 의뢰인에게 제출하도록 하는 게임 임무 구조이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "처치 수를 자동 집계하는 규칙과 구별하며 증거의 입수 가능성과 요구 수량이 진행 부담을 만든다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.008.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

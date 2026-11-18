@@ -4,8 +4,8 @@
   "title": "우월한 종족에게 복종을 거부하기",
   "original": "Screw You, Elves!",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "능력이나 위상이 우월하다고 여겨지는 종족을 무조건 떠받들지 않고, 그 구성원에게 항의하거나 거부의 뜻을 드러내는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상대 종족을 무조건 열등하다고 비하하는 태도와 구별한다. 우월하다는 지위가 요구하는 복종에 대한 반발이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "더 뛰어난 종족이라고 해서 시키는 대로 따르지는 않겠다고 맞선다.",
     "review_status": "reviewed",

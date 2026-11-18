@@ -4,8 +4,8 @@
   "title": "2차원 그림으로 만든 1인칭 3D 화면",
   "original": "Faux First Person 3D",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02529",
+  "primary_tag_id": "ML-T02529",
   "description": {
     "definition": "초기 게임에서 여러 장의 평면 그림을 조합해 실제 입체 계산 없이 1인칭 시점의 공간 이동처럼 보이게 하는 그래픽 방식이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "인물의 눈앞에 보일 벽과 길의 그림을 상황에 맞게 바꾸어 입체 공간을 걷는 듯 느끼게 하는 화면 방식이다. 실제로 모든 물체를 삼차원으로 만들지 않아도 앞뒤와 방향을 전달한다. 자유롭게 어떤 각도로든 보는 화면과 달리 준비된 그림과 이동 단위가 표현 가능한 시야를 정한다.",
     "review_status": "reviewed",

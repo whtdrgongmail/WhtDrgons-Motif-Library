@@ -4,8 +4,8 @@
   "title": "새로 온 사람에게 쏟아지는 질문",
   "original": "Grilling the Newbie",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02650",
+  "primary_tag_id": "ML-T02650",
   "description": {
     "definition": "새 [[인물]]이 [[집단]]에 들어오자 기존 구성원들이 호기심과 [[의심]]에서 질문을 집중적으로 던지는 소개 [[장면]]이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "수사기관의 공식 심문이나 신체적 신고식과 달리 새 구성원에 대한 집단적 관심이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "전학생이 앉기도 전에 이름과 과거·취향을 묻는 목소리가 한꺼번에 몰린다.",
     "review_status": "reviewed",

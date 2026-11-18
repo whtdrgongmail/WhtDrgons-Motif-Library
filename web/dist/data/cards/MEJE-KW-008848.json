@@ -4,8 +4,8 @@
   "title": "남성도 반하는 남성 인물",
   "original": "Even the Guys Want Him",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "한 남성 인물의 매력에 여성뿐 아니라 남성 인물들도 호감이나 연애 감정을 드러낸다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "매력적인 남성 인물을 남성들도 연애의 상대로 좋아하거나 동경하는 설정이다. 여성의 관심만으로 매력을 증명하는 구도에서 벗어나며, 호감을 느끼는 인물마다 그 감정이 동경인지 사랑인지는 관계의 맥락에 따라 달라질 수 있다.",
     "review_status": "reviewed",

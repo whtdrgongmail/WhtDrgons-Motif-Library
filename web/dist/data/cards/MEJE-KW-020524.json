@@ -6,8 +6,8 @@
   "aliases": [
     "중재자를 향해 손잡은 적들"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02651",
+  "primary_tag_id": "ML-T02651",
   "description": {
     "definition": "말다툼을 중재하려던 인물이 양쪽의 공동 비난 대상이 되면서 원래 다툼이 멈추는 역효과다.",
     "detail": "작품 사례: 《[[포켓몬스터(오리지널 시리즈)]]》에서 지우가 두 체육관의 싸움을 말리자 양쪽 지도자는 서로 싸우는 대신 함께 지우를 공격한다.",
@@ -15,14 +15,20 @@
     "boundary": "중재가 단순히 실패해 원래 싸움이 계속되는 경우와 구별한다. 공격의 표적이 중재자로 바뀌어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "싸우던 두 사람은 화해해서가 아니라 중재자에게 함께 화를 내느라 서로의 언쟁을 중단한다.",
     "review_status": "reviewed",

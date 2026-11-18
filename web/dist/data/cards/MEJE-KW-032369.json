@@ -4,8 +4,8 @@
   "title": "실제 탄약 수와 무관하게 반복되는 장전 동작",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T03981",
+  "primary_tag_id": "ML-T03981",
   "description": {
     "definition": "재장전 때 넣을 수 있는 탄약 수가 달라져도 정해진 애니메이션을 그대로 보여 주어 화면의 수량과 게임의 실제 상태가 어긋나는 표현이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "실제로 자원이 추가되는 규칙이 아니라 시각적 동작의 생략·고정에 관한 현상이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "22",
-    "review_status": "provisional",
+    "code": "22.056",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

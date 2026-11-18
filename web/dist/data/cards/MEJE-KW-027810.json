@@ -4,8 +4,8 @@
   "title": "특수 능력 없이 기본 행동만 하는 유닛",
   "original": "Vanilla Unit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04112",
+  "primary_tag_id": "ML-T04112",
   "description": {
     "definition": "별도의 고유 능력 없이 기본 공격과 통상 행동의 성능으로 역할을 맡는 유닛이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "특수 능력이 없다고 반드시 약한 것은 아니며 기본 성능의 보상이 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.005.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

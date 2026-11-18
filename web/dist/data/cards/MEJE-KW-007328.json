@@ -4,8 +4,8 @@
   "title": "식사 후 계산하지 않고 떠나기",
   "original": "Dine and Dash",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03795",
+  "primary_tag_id": "ML-T03795",
   "description": {
     "definition": "인물이 식당에서 음식을 먹은 뒤 값을 치르지 않고 자리를 떠나는 사건. 경제적 곤란이나 뻔뻔함, 순간적인 소동을 드러낼 수 있다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.098",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

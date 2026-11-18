@@ -4,8 +4,8 @@
   "title": "화면에 남은 탄환 수가 다음 발사를 제한하기",
   "original": "One Bullet at a Time",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04086",
+  "primary_tag_id": "ML-T04086",
   "description": {
     "definition": "발사 후 지난 시간이 아니라 동시에 존재하는 [[발사체]]의 수에 따라 새 공격을 허용하거나 막는 게임 규칙이다.",
     "detail": "발사체가 적에 닿거나 화면을 벗어나면 슬롯이 비어 다시 쏠 수 있다. 가까운 거리에서는 더 빨리 슬롯이 비므로 위험을 감수한 접근에 보상이 생길 수 있다.\n\n작품 사례: 《[[디시디아 파이널 판타지]]》에서 황제의 플레어는 느리게 오래 남으며 동시에 두 개까지만 존재할 수 있다. 발사체의 지속 시간과 개수 상한이 공격의 연속 사용을 제한한다.",
@@ -13,11 +13,11 @@
     "boundary": "일정한 시간 간격만으로 정해지는 발사 속도와 구별하며 상한이 반드시 한 발일 필요는 없다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.004.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

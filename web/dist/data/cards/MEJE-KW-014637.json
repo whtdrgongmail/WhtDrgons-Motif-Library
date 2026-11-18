@@ -4,8 +4,8 @@
   "title": "피해를 상태 이상으로 바꾸기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03032",
+  "primary_tag_id": "ML-T03032",
   "description": {
     "definition": "타격의 강도에 따라 상처·공포 등 정해진 상태를 부여하고 같은 상태가 이미 있으면 약한 추가 타격이 수치처럼 누적되지 않는 피해 처리 방식이다.",
     "detail": "작품 사례: [[Ironclaw]] 2판에서 한 공격으로 피해 2점을 받으면 상처와 공포 상태가 생긴다. 이어 피해 1점을 받아도 이미 같은 상태라면 상태가 더 나빠지지 않는다.",
@@ -13,11 +13,11 @@
     "boundary": "모든 피해를 무조건 누적하는 체력제나 부상 이름만 붙인 점수제와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "약한 수단으로 강적을 끝내기",
   "original": "Cherry Tapping",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "MEJE-KW-004670",
+  "primary_tag_id": "MEJE-KW-004670",
   "description": {
     "definition": "강한 적을 이길 때 더 좋은 무기 대신 일부러 허술한 공격을 선택한다. 승리 자체보다 상대를 압도했다는 과시나 우스운 마무리가 중심이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "보스의 체력이 조금 남았을 때 강한 기술 대신 약한 기본 공격이나 장난스러운 물건으로 마지막 타격을 하는 행동이다. 빨리 이기는 효율보다 여유 있는 승리를 보여 주거나 우스운 결말을 만드는 데 목적이 있으며 상대가 회복하면 위험해질 수도 있다.",
     "review_status": "reviewed",

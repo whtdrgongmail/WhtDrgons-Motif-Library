@@ -1,0 +1,48 @@
+{
+  "id": "ML-T04113",
+  "kind": "keyword",
+  "title": "현실 조건을 줄여 유지하는 게임 상태",
+  "original": "Selective Abstraction of World State",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T04113",
+  "primary_tag_id": "ML-T04113",
+  "description": {
+    "definition": "실제 생활의 시간, 비용, 공간 혹은 준비 동작을 계산하지 않거나 일부만 남겨 진행 가능한 상태를 만든다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "정해진 현실 제약을 잘못 적용해 게임 결과가 모순되는 경우는 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.012.013",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "현실에서 신경 써야 할 일부 조건을 게임 안에서는 따로 관리하지 않는다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "보관 용기가 알아서 따라오거나 무기 소지가 움직임을 막지 않으면 과제의 주요 조작을 유지하면서 준비를 줄일 수 있다.\n\n공유된 장소를 개인의 성과와 무관하게 유지하면 여러 사용자가 같은 콘텐츠를 차례로 경험할 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "보관 용기가 알아서 따라오거나 무기 소지가 움직임을 막지 않으면 과제의 주요 조작을 유지하면서 준비를 줄일 수 있다.\n\n공유된 장소를 개인의 성과와 무관하게 유지하면 여러 사용자가 같은 콘텐츠를 차례로 경험할 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

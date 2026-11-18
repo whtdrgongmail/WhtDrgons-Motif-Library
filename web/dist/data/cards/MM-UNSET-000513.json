@@ -4,8 +4,8 @@
   "title": "장비 무게",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03034",
+  "primary_tag_id": "ML-T03034",
   "description": {
     "definition": "게임에서 장비에 부여해 착용·휴대의 부담과 행동 제약을 계산하는 무게 값이다. 실제 물리 질량의 정밀한 재현보다 해당 게임의 하중 규칙에서 맡는 기능이 기준이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

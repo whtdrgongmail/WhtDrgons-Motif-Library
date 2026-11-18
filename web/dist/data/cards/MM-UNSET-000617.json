@@ -4,8 +4,8 @@
   "title": "고용 관계의 취약점",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "MM-UNSET-000727",
+  "primary_tag_id": "MM-UNSET-000727",
   "description": {
     "definition": "돈을 대가로 협력하는 관계에서 더 큰 보수나 보수 중단 때문에 충성·협력의 방향이 바뀔 수 있는 조건이다. 모든 고용 관계가 동일한 위험을 가진다고 일반화하지 않는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-11",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.003.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "돈을 받고 일하는 사람이 더 좋은 제안을 받으면 기존 의뢰인을 떠날 수 있는 관계상의 약점이다. 실제로 마음이 바뀌었는지는 그 사람의 선택을 확인해야 한다.",
     "review_status": "reviewed",

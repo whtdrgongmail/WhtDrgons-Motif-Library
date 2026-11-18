@@ -4,8 +4,8 @@
   "title": "손재주 게임",
   "original": "Dexterity Game",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02514",
+  "primary_tag_id": "ML-T02514",
   "description": {
     "definition": "전략 계산보다 손의 정확성과 빠른 반응 같은 [[신체 능력]]을 겨루는 테이블 게임이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "블록을 무너지지 않게 빼거나 작은 말을 손가락으로 튕겨 목표에 넣는 것처럼 직접 물체를 다루는 정확성이 중요한 놀이이다. 좋은 계획만 세워서는 부족하고 손의 안정성과 거리 조절 같은 [[신체 능력]]이 결과에 관여하여 실수와 성공이 즉시 눈앞에 드러난다.",
     "review_status": "reviewed",

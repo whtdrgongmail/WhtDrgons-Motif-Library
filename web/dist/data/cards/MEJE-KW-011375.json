@@ -4,8 +4,8 @@
   "title": "선물을 흔들어 내용 알아내기",
   "original": "Gift Shake",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03446",
+  "primary_tag_id": "ML-T03446",
   "description": {
     "definition": "포장된 선물을 열기 전에 흔들었을 때 나는 소리나 움직임으로 내용물을 추측하는 [[행동]]이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "포장을 열어 미리 확인하는 행동과 구별한다. 흔드는 과정이 깨지기 쉬운 물건을 손상시키는 원인이 될 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.002.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

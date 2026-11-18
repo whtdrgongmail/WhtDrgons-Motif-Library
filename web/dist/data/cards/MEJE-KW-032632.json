@@ -4,8 +4,8 @@
   "title": "네트워크 접속이 필요한 온라인 게임",
   "original": "Online Games",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04070",
+  "primary_tag_id": "ML-T04070",
   "description": {
     "definition": "인터넷 같은 광역 네트워크에 접속한 상태를 플레이의 전제로 삼아 서버와 이용자 단말의 연결 속에서 진행되는 게임 형식이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "온라인 기능이 선택 사항인 오프라인 게임과 구별하며 대규모 동시 이용이나 특정 [[장르]]가 반드시 필요한 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.009.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

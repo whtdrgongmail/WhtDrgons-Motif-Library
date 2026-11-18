@@ -4,8 +4,8 @@
   "title": "패배 회피 접속 종료",
   "original": "plug-pulling",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02522",
+  "primary_tag_id": "ML-T02522",
   "description": {
     "definition": "패배가 예상될 때 고의로 접속을 끊어 경기 결과나 불이익의 기록을 피하려는 부정행위다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "장애로 인한 비자발적 단절이나 허용된 기권과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.014.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "지기 직전에 연결을 끊고 패배가 아니었다고 처리되길 노린다.",
     "review_status": "reviewed",

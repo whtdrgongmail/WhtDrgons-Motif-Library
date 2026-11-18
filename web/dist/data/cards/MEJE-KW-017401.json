@@ -4,8 +4,8 @@
   "title": "한창 바쁠 때 강제로 소환되기",
   "original": "Inconvenient Summons",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03460",
+  "primary_tag_id": "ML-T03460",
   "description": {
     "definition": "다른 장소에서 자신의 일을 하던 인물이 소환자의 부름에 갑자기 이동되어 하던 행동과 일상을 중단하는 상황이다. 소환 능력의 편리함이 불려 오는 쪽에는 곤란이 된다.",
     "detail": "잠·식사·데이트·목욕·독서·중요한 임무 등 중단되는 행동은 다양하지만, 활동의 종류보다 예고 없이 끊기는 구조가 중심이다.\n\n작품 사례: 《[[나루토]]》에서 두꺼비들은 나루토가 이치라쿠 라멘을 먹으려는 순간 역소환하고, 대신 준비한 벌레 요리 때문에 나루토는 뒤늦게 상황을 알아차린다.",
@@ -13,11 +13,11 @@
     "boundary": "소환된 존재가 처음부터 만들어지거나 시간이 흐르지 않는 곳에 보관된 설정과 다르다. 원래 위기에서 구해 주는 순간 이동은 불편한 중단과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.070",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

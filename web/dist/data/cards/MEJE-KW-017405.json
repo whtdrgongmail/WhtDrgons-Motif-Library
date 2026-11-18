@@ -4,8 +4,8 @@
   "title": "필수 주의사항이 뒤늦게 나오는 설명",
   "original": "Incorrect Instruction Order",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02787",
+  "primary_tag_id": "ML-T02787",
   "description": {
     "definition": "누군가 지시를 듣는 즉시 실행하는 동안 설명자는 중요한 선행 조건이나 금지 사항을 뒤늦게 알려, 이미 한 행동을 되돌리기 어렵게 만드는 장면이다. 설명의 순서와 실행 속도가 어긋난다.",
     "detail": "작품 사례: 《[[토이 스토리 3]]》에서 햄이 버즈의 초기화 방법을 읽는 사이 렉스가 먼저 손가락을 넣고, 5초를 넘기지 말라는 주의사항을 너무 늦게 듣는다.",
@@ -13,11 +13,11 @@
     "boundary": "정확한 순서의 설명을 듣고도 일부러 무시하는 경우와 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "전장을 대표하는 영웅 유닛",
   "original": "Hero Unit",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02169",
+  "primary_tag_id": "ML-T02169",
   "description": {
     "definition": "전략 게임에서 주요 인물이나 플레이어의 분신을 전장의 개별 유닛으로 구현한 것이다. 일반 병력과 구별되는 능력·강화 효과·생존 조건을 통해 전술과 [[서사]]를 연결한다.",
     "detail": "작품 사례: [[Battle for Wesnoth]]에서는 병력을 모집하는 플레이어 대표 유닛이 전장에 있으며, 일부 주요 인물 유닛은 죽으면 임무 자체가 실패한다.",
@@ -13,10 +13,10 @@
     "boundary": "단지 생산 비용이 높고 강한 일반 병기와 구별한다. 영웅 유닛의 생존이 반드시 승리 조건이어야 하는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.012",
     "review_status": "provisional",
     "row_version": 1
   },

@@ -4,8 +4,8 @@
   "title": "음모 조직의 내부자가 익명으로 단서 흘리기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02664",
+  "primary_tag_id": "ML-T02664",
   "description": {
     "definition": "음모에 접근할 수 있는 내부자가 신분을 숨긴 채 외부의 조사자에게 정보를 주어 자기 조직의 비밀을 추적하게 하는 관계다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "내부 사정을 아는 사람이 드러나지 않으면서 추적을 돕는다.",
     "review_status": "reviewed",

@@ -1,0 +1,48 @@
+{
+  "id": "ML-T03293",
+  "kind": "keyword",
+  "title": "게임 실행 중 한시적인 성능 상태",
+  "original": "Temporary Gameplay Modifiers",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T03293",
+  "primary_tag_id": "ML-T03293",
+  "description": {
+    "definition": "기술·아이템·조건의 작용으로 대상의 성능 또는 통상 피해에 대한 취약성이 한동안 바뀌었다가 조건이 끝나면 되돌아오는 규칙이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "항상 남는 성장이나 능력 변경, 공격이 닿았는지 계산하는 규칙, 위치나 자세만 바뀌는 피격 효과는 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.038",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "일정 시간이나 조건 동안만 적이나 주인공의 성능이 바뀌는 게임 규칙이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "능력을 잠시 강화하면 평소에는 피해야 하는 상황에서 다른 선택을 할 수 있다. 반대로 피격과 함께 강화가 끝나는 경우에는 공격보다 효과를 유지하는 데 관심을 둘 수 있다.\n\n상태가 끝나는 조건은 시간, 피격 여부, 행동의 중단 등으로 달라질 수 있다. 어떤 능력이 바뀌고 언제 평소 상태로 돌아오는지가 동일한 외형의 변화와 구별되는 기준이다.",
+    "sections": [
+      [
+        "상세 설명",
+        "능력을 잠시 강화하면 평소에는 피해야 하는 상황에서 다른 선택을 할 수 있다. 반대로 피격과 함께 강화가 끝나는 경우에는 공격보다 효과를 유지하는 데 관심을 둘 수 있다.\n\n상태가 끝나는 조건은 시간, 피격 여부, 행동의 중단 등으로 달라질 수 있다. 어떤 능력이 바뀌고 언제 평소 상태로 돌아오는지가 동일한 외형의 변화와 구별되는 기준이다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

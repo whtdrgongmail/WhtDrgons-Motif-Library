@@ -4,8 +4,8 @@
   "title": "사랑하는 이를 스스로 죽여야 하기",
   "original": "Kill the Ones You Love",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "서로의 관계를 알고 아끼는 인물 중 한 사람이 문제를 끝내기 위해 사랑하는 상대를 직접 죽이는 비극적 구도다.",
     "detail": "작품 사례: 《[[킹덤 오브 헤븐]]》 감독판에서 시빌라는 아들이 오빠와 같은 병의 고통을 겪을 것이라 여기고 직접 아들의 생명을 끝낸다. 아들을 아끼는 마음과 살해의 선택이 충돌하는 비극으로 제시된다.",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "구하고 싶은 사람이지만 자신이 그를 죽여야만 한다고 판단한다.",
     "review_status": "reviewed",

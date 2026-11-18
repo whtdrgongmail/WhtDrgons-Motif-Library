@@ -4,8 +4,8 @@
   "title": "원점에서 멀어질수록 좌표 정밀도가 흔들리는 세계",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04067",
+  "primary_tag_id": "ML-T04067",
   "description": {
     "definition": "큰 좌표값을 다루면서 위치 표현의 세밀함이 줄어들어 시작점에서 먼 구역의 물리나 화면이 불안정해지는 게임 구현 현상이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "정수 값이 최댓값에서 최솟값으로 순환하는 현상과는 별개의 정밀도 문제다. 모든 게임 엔진과 좌표 구현에 같은 결과가 생기는 것은 아니다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.012.008",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

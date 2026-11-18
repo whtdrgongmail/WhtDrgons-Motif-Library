@@ -4,8 +4,8 @@
   "title": "철회할 수 없게 된 명령",
   "original": "Irrevocable Order",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03464",
+  "primary_tag_id": "ML-T03464",
   "description": {
     "definition": "한번 내려진 명령을 취소하거나 수정하려 해도 통신·권한·보안 규칙 때문에 집행을 멈출 수 없는 상황이다.",
     "detail": "명령 위조를 막기 위한 장치나 지휘권의 부재가 정당한 철회까지 막을 수 있다.\n\n작품 사례: 《[[닥터 스트레인지러브]]》에서 공격 철회 명령이 마련되어도 무전기가 망가진 폭격기는 이를 듣지 못해 임무를 계속한다.",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.073",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

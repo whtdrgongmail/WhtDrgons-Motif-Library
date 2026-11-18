@@ -4,8 +4,8 @@
   "title": "결혼식의 성별 들러리 관습 바꾸기",
   "original": "Best Woman",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "신랑과 신부가 전통적인 성별 구분보다 가까운 친구를 들러리로 고른다. 역할의 이름보다 누구와 함께 서고 싶은지가 중심이 된다. 의례의 이름보다 곁에 둘 [[가장 가까운 친구]]를 고르는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "결혼식 들러리를 성별 관습대로 정하지 않고 신랑과 신부가 실제로 가까운 친구를 고르는 장면이다. 정해진 역할보다 누구에게 곁을 부탁하고 싶은지가 중요하다. [[가장 가까운 친구]]가 기대와 다른 위치에 서면서 두 사람의 신뢰가 드러날 수 있다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "위장 신분의 기본 정보를 모름",
   "original": "Cover Identity Anomaly",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T04102",
+  "primary_tag_id": "ML-T04102",
   "description": {
     "definition": "다른 사람인 척하는 인물이 그 신분이라면 알아야 할 간단한 사실에 답하지 못한다. 준비가 덜 된 변장이 짧은 질문 하나로 흔들린다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.003.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

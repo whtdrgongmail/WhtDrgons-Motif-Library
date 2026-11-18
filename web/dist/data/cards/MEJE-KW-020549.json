@@ -4,8 +4,8 @@
   "title": "외적 매력을 점수로 매기기",
   "original": "Sexiness Score",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T04030",
+  "primary_tag_id": "ML-T04030",
   "description": {
     "definition": "인물의 매력과 성적 호감도를 숫자나 등급으로 평가해 비교하는 표현이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "객관적으로 측정 가능한 능력 평가와 구별한다. 점수는 평가자의 취향과 시선을 드러내는 장치다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.008.012",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

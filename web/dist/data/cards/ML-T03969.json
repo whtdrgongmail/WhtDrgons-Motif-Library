@@ -1,0 +1,48 @@
+{
+  "id": "ML-T03969",
+  "kind": "keyword",
+  "title": "평면 이미지로 만드는 입체 공간의 깊이",
+  "original": "Flat Images Simulate Depth in a 3D Environment",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T03969",
+  "primary_tag_id": "ML-T03969",
+  "description": {
+    "definition": "입체 환경의 일부를 완전한 부피 대신 평면 이미지나 표면에 부여해 관찰자에게 멀리 있거나 실제 형태가 있는 것처럼 보이게 하는 구현이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "완전한 입체 모델과 공간적 깊이인 것처럼 쓰지 않는 독립된 평면 화면은 구별한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "22.044",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "화면에서는 멀거나 두꺼운 물체처럼 보이지만 실제 구현에는 얇은 그림이나 둘러친 배경이 쓰인다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "의도한 방향에서 보면 평면과 공간의 다른 부분을 자연스럽게 연결할 수 있다. 옆으로 크게 이동할 때 평면의 방향이 보이면 기대한 깊이와 차이가 생길 수 있다.\n\n먼 풍경은 실제 이동할 목적지로 만들지 않아도 배경으로 존재한다는 인상을 줄 수 있다. 가까운 장식은 가까이에서 보이는 각도와 다른 물체의 가림을 더 고려한다.",
+    "sections": [
+      [
+        "상세 설명",
+        "의도한 방향에서 보면 평면과 공간의 다른 부분을 자연스럽게 연결할 수 있다. 옆으로 크게 이동할 때 평면의 방향이 보이면 기대한 깊이와 차이가 생길 수 있다.\n\n먼 풍경은 실제 이동할 목적지로 만들지 않아도 배경으로 존재한다는 인상을 줄 수 있다. 가까운 장식은 가까이에서 보이는 각도와 다른 물체의 가림을 더 고려한다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

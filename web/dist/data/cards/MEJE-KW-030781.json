@@ -4,8 +4,8 @@
   "title": "평범한 사람이 뜻밖에 구세주로 숭배받기",
   "original": "Unwanted False Faith",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02644",
+  "primary_tag_id": "ML-T02644",
   "description": {
     "definition": "실제 구세주가 아닌 보통 인물이 우연한 오해 때문에 메시아로 믿음을 얻는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제로 선택된 구세주나 계획된 [[사칭]]과 구별하며 오해에서 시작한 믿음이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "보통 사람인데 사람들이 구원자라고 떠받든다.",
     "review_status": "reviewed",

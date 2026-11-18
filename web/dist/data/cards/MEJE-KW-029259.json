@@ -4,8 +4,8 @@
   "title": "플레이어를 위험물로 밀어 넣는 적",
   "original": "PushyMooks",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02901",
+  "primary_tag_id": "ML-T02901",
   "description": {
     "definition": "단순한 직접 피해보다 플레이어의 위치를 밀어 위험한 환경에 닿게 하는 방식으로 위협하는 적이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.005.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

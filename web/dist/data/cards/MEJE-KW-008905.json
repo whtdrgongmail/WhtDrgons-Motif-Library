@@ -4,8 +4,8 @@
   "title": "모두가 지키려는 막내",
   "original": "Everyone's Baby Sister",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01012",
+  "primary_tag_id": "ML-T01012",
   "description": {
     "definition": "약해 보이는 한 인물을 적이 건드리자 평소 다른 이유로 떨어져 있던 사람들까지 모두 보호에 나선다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 인물이 위협받자 평소 서로 다른 입장에 있던 주변 사람들까지 함께 보호에 나서는 관계다. 약해 보이던 당사자가 사실은 넓은 애정과 유대를 가진 존재였음이 드러나며, 공격자는 한 사람을 건드려 여러 사람의 분노를 사게 된다.",
     "review_status": "reviewed",

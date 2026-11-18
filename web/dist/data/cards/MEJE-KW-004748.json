@@ -4,8 +4,8 @@
   "title": "캐릭터에 따라 달라지는 대화",
   "original": "Character-Specific Dialogue",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02530",
+  "primary_tag_id": "ML-T02530",
   "description": {
     "definition": "게임에서 선택한 인물이나 동행 조합에 따라 대사와 대화 선택지가 바뀌는 상호작용 설계.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "같은 주민에게 말을 걸어도 조종 인물이 누구인지나 어떤 동료가 함께 있는지에 따라 반응이 달라지는 기능이다. 오래된 지인을 데려가면 개인적인 이야기를 듣는 식으로 구성원의 배경을 드러내며 파티 편성이 전투 밖의 정보와 관계에도 의미를 갖게 한다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "순진한 상대를 노리는 매력",
   "original": "Innocence Fetish",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02659",
+  "primary_tag_id": "ML-T02659",
   "description": {
     "definition": "타락시키거나 부적절하게 접근하려는 인물이 상대의 순진함과 경험 부족을 특별한 매력으로 삼는 관계 구도이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "순수한 성격을 존중하는 호감과 달리 착취나 타락의 의도가 있는 문맥에 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.029",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 세상을 모른다는 점에 끌려 접근한다.",
     "review_status": "reviewed",

@@ -5,8 +5,8 @@
   "original": "Changing Party Members Only Outside Combat",
   "original_basis": "editorial_english_label",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03662",
+  "primary_tag_id": "ML-T03662",
   "description": {
     "definition": "파티 구성의 교체를 전투 중에는 막고 전투가 끝난 상태에서만 허용하는 게임 규칙이다.",
     "detail": "",
@@ -14,11 +14,11 @@
     "boundary": "교체 조건을 따로 확인하며 전투 인원 수의 제한만으로 같은 규칙이라 보지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.045",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

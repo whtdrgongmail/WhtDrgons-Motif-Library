@@ -4,8 +4,8 @@
   "title": "적이 아니라 다행인 동료",
   "original": "Glad He's On Our Side",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02649",
+  "primary_tag_id": "ML-T02649",
   "description": {
     "definition": "동료의 압도적 [[능력]]이나 위험성을 본 [[인물]]이 그가 자기편이라는 사실에 안도하는 반응이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "단순한 칭찬보다 적으로 돌렸을 때의 위험과 현재의 협력 [[관계]]를 함께 인식한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "동료가 해낸 일을 보고 저 사람이 적이었다면 감당할 수 없었겠다고 생각한다.",
     "review_status": "reviewed",
