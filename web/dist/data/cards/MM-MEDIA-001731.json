@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《왓 어 데이》는 음악·음향 작품이다.",
+    "definition": "스로빙 그리슬의 《20 Jazz Funk Greats》 후반부에 놓인 [[초기형 인더스트리얼]] 곡이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Throbbing Gristle의 〈왓 어 데이〉는 이 음악 양식의 실제 곡 사례다.",
+    "easy_ko": "음반 제목만 보면 재즈나 펑크 모음집을 떠올리기 쉽지만, 이 곡에서는 스로빙 그리슬의 인더스트리얼 음악을 듣게 된다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000691",
+      "card_id": "MM-MEDIA-001731",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://throbbinggristle.bandcamp.com/album/20-jazz-funk-greats",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《왓 어 데이》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "밴드의 수록 목록에서 〈What A Day〉는 〈Walkabout〉에 이어 열 번째로 나온다. 3분이 채 안 되는 앞 곡에 비해 4분 35초 동안 이어지는 비교적 긴 자리를 차지한다.\n\n음반 제목이 내세우는 장르와 이 곡이 초기 인더스트리얼의 사례로 불린다는 사실 사이에는 간격이 있다. 수록곡을 직접 들어 보면 제목만으로는 예상하기 어려운 음악이 놓인 까닭을 살펴볼 수 있다.",
     "sections": [
       [
         "상세 설명",
-        "《왓 어 데이》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "밴드의 수록 목록에서 〈What A Day〉는 〈Walkabout〉에 이어 열 번째로 나온다. 3분이 채 안 되는 앞 곡에 비해 4분 35초 동안 이어지는 비교적 긴 자리를 차지한다.\n\n음반 제목이 내세우는 장르와 이 곡이 초기 인더스트리얼의 사례로 불린다는 사실 사이에는 간격이 있다. 수록곡을 직접 들어 보면 제목만으로는 예상하기 어려운 음악이 놓인 까닭을 살펴볼 수 있다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

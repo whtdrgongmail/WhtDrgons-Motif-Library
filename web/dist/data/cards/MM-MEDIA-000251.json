@@ -7,14 +7,14 @@
   "tag_id": "ML-T00106",
   "primary_tag_id": "ML-T00106",
   "description": {
-    "definition": "이 카드는 팬픽션 《Divergent Points: ML Salt》를 가리킨다. 이 라이브러리에서는 [[팬 창작에서 선역을 악마화하기]]의 작품 사례와 연결된다.",
+    "definition": "《미라큘러스》의 마리네뜨와 친구들이 원작 인물을 가혹하게 다루는 여러 대체 세계를 거쳐 집으로 돌아가려는 팬픽션이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
     "code": "02.004",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Divergent Points: ML Salt는 선한 인물을 지나치게 벌주는 팬픽을 비판하며, 그런 전개를 만들기 위해 원래 성격을 얼마나 비틀어야 하는지 드러낸다.",
+    "easy_ko": "친구 넷은 낯선 세계에서 익숙한 얼굴들을 만난다. 그런데 그곳의 친구들은 자신들이 알던 모습과 사뭇 다르게 행동한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000678",
+      "card_id": "MM-MEDIA-000251",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://www.fanfiction.net/s/13651649/1/Divergent-Points-ML-Salt",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Divergent Points: ML Salt》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다.",
+    "text": "FlightfootKeyseeker가 쓴 ‘Pointsverse’의 여섯 번째 작품이다. 마리네뜨, 아드리앙, 알리야, 니노가 여러 세계를 지나 집을 찾아가는 여정을 열한 장으로 완결했다.\n\n여러 세계의 인물을 나란히 만나게 함으로써 원래 선한 인물을 벌주려는 이야기에서 성격과 관계를 얼마나 바꾸어야 하는지 보여 준다. [[팬 창작에서 선역을 악마화하기]]가 여행의 소재가 된다.",
     "sections": [
       [
         "상세 설명",
-        "《Divergent Points: ML Salt》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다."
+        "FlightfootKeyseeker가 쓴 ‘Pointsverse’의 여섯 번째 작품이다. 마리네뜨, 아드리앙, 알리야, 니노가 여러 세계를 지나 집을 찾아가는 여정을 열한 장으로 완결했다.\n\n여러 세계의 인물을 나란히 만나게 함으로써 원래 선한 인물을 벌주려는 이야기에서 성격과 관계를 얼마나 바꾸어야 하는지 보여 준다. [[팬 창작에서 선역을 악마화하기]]가 여행의 소재가 된다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

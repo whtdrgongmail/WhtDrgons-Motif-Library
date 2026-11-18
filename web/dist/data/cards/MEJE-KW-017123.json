@@ -4,8 +4,8 @@
   "title": "피격 경직을 견디는 능력",
   "original": "Immune to Flinching",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02901",
+  "primary_tag_id": "ML-T02901",
   "description": {
     "definition": "공격을 맞아 피해를 입더라도 동작이 중단되거나 밀려나는 피격 반응을 무시하는 게임 규칙.",
     "detail": "허용 피격 횟수, 특정 기술의 동작 구간, 강화 상태, 보스의 기본 성질 등으로 적용 범위를 제한할 수 있다.\n\n작품 사례: 《[[그랜드체이스]]》의 슈퍼 아머는 맞을 때의 경직을 막지만 일부 공격에는 넘어지며, 하이퍼 아머는 대부분의 넘어짐까지 막는다.",
@@ -13,11 +13,11 @@
     "boundary": "공격 피해 자체를 받지 않는 무적 상태와는 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.005.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

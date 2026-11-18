@@ -7,14 +7,14 @@
   "tag_id": "ML-T02492",
   "primary_tag_id": "ML-T02492",
   "description": {
-    "definition": "《Brave New World: An AU Pokémon RP》는 《[[포켓몬스터]]》의 대체 설정을 표방하는 저널 기반 온라인 역할놀이 작품이다. 제공 원문에는 저널 역할놀이의 작품 목록으로 실려 있다.",
-    "detail": "제공 원문은 작품 이름과 역할놀이 형식만 확인해 준다. 구체적인 사건·규칙·운영 기간은 별도의 작품 자료를 확보하기 전까지 확정하지 않는다.",
+    "definition": "인간과 포켓몬의 전쟁이 끝난 지 오백 년 뒤, 도시 유니언을 거점으로 바깥세계를 탐사하는 [[포켓몬스터]] 대체 세계의 공동 역할놀이다.",
+    "detail": "운영 커뮤니티는 드림위드의 Brave New World이며, 유니언의 주민들이 바깥세계를 알아가는 이야기를 공동으로 진행했다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.006.004",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "포켓몬의 다른 설정을 내세운 온라인 역할놀이 작품이다. 현재 확보한 자료로는 작품명과 형식만 확인된다.",
+    "easy_ko": "포켓몬의 주인이라고 믿었던 인간들이 전쟁으로 문명을 잃었다. 살아남은 도시의 사람들은 이제 바깥에 무엇이 있는지 다시 알아가야 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-10",
-    "row_version": 3
+    "updated_at": "2026-11-18",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,39 @@
       "row_version": 2
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000748",
+      "card_id": "MM-MEDIA-002134",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://web.archive.org/web/20251112195905/https://tvtropes.org/pmwiki/pmwiki.php/Roleplay/BraveNewWorldAnAUPokemonRP",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000749",
+      "card_id": "MM-MEDIA-002134",
+      "label_ko": "보충 자료",
+      "icon_key": "website",
+      "url": "https://bravenewworld.dreamwidth.org/profile",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Brave New World: An AU Pokémon RP》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다.",
+    "text": "이 세계의 옛 전쟁은 한 여성이 나서서 싸움을 평화롭게 끝내면서 멎었다. 오백 년 뒤 재건된 유니언은 주민들에게 알려진 마지막 문명의 보루이며, 탐사는 그들이 알고 있는 세계의 경계를 넓히는 일이다.\n\n참가자들은 드림위드의 저널을 이용해 이 세계에서 맡은 인물을 연기했다. 기존 작품의 인물뿐 아니라 직접 만든 인물도 참가할 수 있었고, 공동으로 진행한 이야기는 2016년에 마무리됐다.",
     "sections": [
       [
         "상세 설명",
-        "《Brave New World: An AU Pokémon RP》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다."
+        "이 세계의 옛 전쟁은 한 여성이 나서서 싸움을 평화롭게 끝내면서 멎었다. 오백 년 뒤 재건된 유니언은 주민들에게 알려진 마지막 문명의 보루이며, 탐사는 그들이 알고 있는 세계의 경계를 넓히는 일이다.\n\n참가자들은 드림위드의 저널을 이용해 이 세계에서 맡은 인물을 연기했다. 기존 작품의 인물뿐 아니라 직접 만든 인물도 참가할 수 있었고, 공동으로 진행한 이야기는 2016년에 마무리됐다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

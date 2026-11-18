@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《Venue Killer》는 음악·음향 작품이다.",
+    "definition": "미국 뉴저지 밴드 이어스 스펜트 콜드가 공연장을 망가뜨리는 이미지를 거친 공연 태도와 연결한 곡이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Years Spent Cold의 〈Venue Killer〉는 공연장 파괴를 과격한 공연 태도의 주제로 삼는다. 실제 가사를 길게 인용하지 않고 그 주제와 행동 이미지만 사례로 기록했다.",
+    "easy_ko": "얼마나 과격한 공연인지 설명하는 대신, 연주가 끝나면 공연장에 무엇이 남을지 상상하게 하는 노래다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000753",
+      "card_id": "MM-MEDIA-003053",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://sonichits.com/artist/Years_Spent_Cold",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000754",
+      "card_id": "MM-MEDIA-003053",
+      "label_ko": "보충 자료",
+      "icon_key": "website",
+      "url": "https://nogoodcause.blogspot.com/2008/12/",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Venue Killer》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "제목의 ‘venue’는 공연이 열리는 장소를 가리킨다. 곡은 그 공간이 부서지는 이미지를 전면에 놓아, 무대 위 음악의 격렬함을 공연장 자체가 입는 피해로 바꾸어 표현한다.\n\n2005년 음반 《Retribution》의 공개된 수록 순서에서 이 곡은 〈Bitter End〉 뒤에 놓인 여덟 번째 곡이다. 가상의 공연장 파괴를 노래하는 트랙으로 음반이 끝난다.",
     "sections": [
       [
         "상세 설명",
-        "《Venue Killer》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "제목의 ‘venue’는 공연이 열리는 장소를 가리킨다. 곡은 그 공간이 부서지는 이미지를 전면에 놓아, 무대 위 음악의 격렬함을 공연장 자체가 입는 피해로 바꾸어 표현한다.\n\n2005년 음반 《Retribution》의 공개된 수록 순서에서 이 곡은 〈Bitter End〉 뒤에 놓인 여덟 번째 곡이다. 가상의 공연장 파괴를 노래하는 트랙으로 음반이 끝난다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

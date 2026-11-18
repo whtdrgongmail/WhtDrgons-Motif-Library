@@ -7,14 +7,14 @@
   "tag_id": "ML-T02512",
   "primary_tag_id": "ML-T02512",
   "description": {
-    "definition": "《토마스와 친구들: 빅 월드 어드벤처》는 애니메이션 작품이다.",
+    "definition": "경주용 자동차 에이스의 이야기를 들은 토마스가 세계 여행을 떠나 케냐의 기관차 니아와 동행하는 애니메이션 영화다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.019",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《토마스와 친구들: 빅 월드 어드벤처》의 〈[[Sometimes You Make a Friend]]〉에서 토마스는 자신이 한 일을 후회하며 니아에게 사과하고 싶은 마음을 노래한다.",
+    "easy_ko": "다른 대륙을 달려 보겠다는 토마스의 꿈은 여행길에서 만난 친구를 어떻게 대할 것인가 하는 문제로 이어진다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000664",
+      "card_id": "MM-MEDIA-002978",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://raisingchildren.net.au/guides/movie-reviews/thomas-friends-big-world-big-adventures-the-movie",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000665",
+      "card_id": "MM-MEDIA-002978",
+      "label_ko": "보충 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=Ndm2xavZrdE",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《토마스와 친구들: 빅 월드 어드벤처》라는 표제는 애니메이션을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 애니메이션을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "에이스는 세계 여러 곳을 지나는 자동차 경주 이야기를 들려준다. 여행에 나선 토마스는 니아와 함께 움직이며 리우데자네이루와 샌프란시스코를 비롯한 먼 지역을 지난다.\n\n여행 중 갈등을 겪은 토마스는 〈[[Sometimes You Make a Friend]]〉에서 자신이 한 일을 후회한다. 낯선 장소를 찾아가는 모험 사이에 동행한 친구를 돌아보는 시간이 생긴다.",
     "sections": [
       [
         "상세 설명",
-        "《토마스와 친구들: 빅 월드 어드벤처》라는 표제는 애니메이션을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 애니메이션을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "에이스는 세계 여러 곳을 지나는 자동차 경주 이야기를 들려준다. 여행에 나선 토마스는 니아와 함께 움직이며 리우데자네이루와 샌프란시스코를 비롯한 먼 지역을 지난다.\n\n여행 중 갈등을 겪은 토마스는 〈[[Sometimes You Make a Friend]]〉에서 자신이 한 일을 후회한다. 낯선 장소를 찾아가는 모험 사이에 동행한 친구를 돌아보는 시간이 생긴다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

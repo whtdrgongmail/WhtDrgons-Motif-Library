@@ -7,14 +7,14 @@
   "tag_id": "ML-T00142",
   "primary_tag_id": "ML-T00142",
   "description": {
-    "definition": "《Jazzmatazz》는 앨범 작품이다.",
+    "definition": "래퍼 구루가 재즈 음원의 샘플과 재즈 음악가들의 새 연주를 랩에 결합한 음반 기획이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008.003",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Jazzmatazz》는 재즈 음원의 샘플링과 재즈 연주자들의 실제 연주를 랩에 결합해 두 음악의 만남을 구성한다.",
+    "easy_ko": "기존 재즈 음반에서 소리를 따오는 일과 재즈 연주자를 불러 함께 녹음하는 일이 한 랩 음반 안에서 만난다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000706",
+      "card_id": "MM-MEDIA-002086",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://music.apple.com/us/album/loungin-feat-donald-byrd/1362365584?i=1362366412",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Jazzmatazz》라는 표제는 앨범을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 앨범을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "1993년에 나온 첫 권은 소개 트랙 뒤에 도널드 버드가 참여한 〈Loungin’〉을 놓는다. 앨범 전체의 장르 이름을 보는 것보다 실제 연주자가 어느 곡에서 래퍼와 만나는지 확인할 수 있다.\n\n〈Transit Ride〉에는 브랜퍼드 마살리스가, 〈No Time to Play〉에는 로니 조던과 디시 리가 참여했다. 곡이 바뀔 때마다 함께하는 연주자와 보컬의 조합도 바뀐다.",
     "sections": [
       [
         "상세 설명",
-        "《Jazzmatazz》라는 표제는 앨범을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 앨범을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "1993년에 나온 첫 권은 소개 트랙 뒤에 도널드 버드가 참여한 〈Loungin’〉을 놓는다. 앨범 전체의 장르 이름을 보는 것보다 실제 연주자가 어느 곡에서 래퍼와 만나는지 확인할 수 있다.\n\n〈Transit Ride〉에는 브랜퍼드 마살리스가, 〈No Time to Play〉에는 로니 조던과 디시 리가 참여했다. 곡이 바뀔 때마다 함께하는 연주자와 보컬의 조합도 바뀐다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

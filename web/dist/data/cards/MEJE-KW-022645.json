@@ -4,8 +4,8 @@
   "title": "상대를 공중으로 띄우는 피격 효과",
   "original": "Knocked Up",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02901",
+  "primary_tag_id": "ML-T02901",
   "description": {
     "definition": "피격한 인물을 위로 띄워 공중 상태로 만들고 후속 공격의 기회를 여는 게임 효과다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "단순한 수평 밀침이나 스스로 뛰어오르는 행동과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.005.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

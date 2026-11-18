@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《I've Been Everywhere》는 음악·음향 작품이다.",
+    "definition": "제프 맥이 쓴 여행 노래로, 수많은 지명을 빠르게 이어 불러 화자가 가 보았다는 곳들을 펼쳐 보인다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "〈I've Been Everywhere〉는 많은 지명을 이어 부르는 형식으로 여행의 범위를 전달한다. 원문은 제프 맥의 호주 지명 판본과 행크 스노의 북미 지명 판본처럼 지역을 바꾼 개작도 설명한다.",
+    "easy_ko": "여행담을 길게 풀어놓지 않아도 숨 돌릴 새 없이 이어지는 도시 이름만으로 얼마나 멀리 다녔는지 전해진다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000673",
+      "card_id": "MM-MEDIA-002569",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://www.nfsa.gov.au/sites/default/files/11-2016/nfsa_the_first_wave_aust_1955-1963_amended.pdf",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《I've Been Everywhere》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "럭키 스타가 부른 호주 판본에서는 호주 지명들이 노래의 목록을 이룬다. 이야기의 뼈대가 긴 일화보다 장소의 나열에 있어 지명을 바꾸면 같은 형식으로 다른 여행을 노래할 수 있다.\n\n실제로 럭키 스타의 EP 《Lucky’s Been Everywhere》에는 호주 판본과 다른 나라 지명을 넣어 가사를 바꾼 세 판본이 함께 실렸다. 한 장의 음반 안에서도 여행 지도가 달라지는 셈이다.",
     "sections": [
       [
         "상세 설명",
-        "《I've Been Everywhere》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "럭키 스타가 부른 호주 판본에서는 호주 지명들이 노래의 목록을 이룬다. 이야기의 뼈대가 긴 일화보다 장소의 나열에 있어 지명을 바꾸면 같은 형식으로 다른 여행을 노래할 수 있다.\n\n실제로 럭키 스타의 EP 《Lucky’s Been Everywhere》에는 호주 판본과 다른 나라 지명을 넣어 가사를 바꾼 세 판본이 함께 실렸다. 한 장의 음반 안에서도 여행 지도가 달라지는 셈이다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

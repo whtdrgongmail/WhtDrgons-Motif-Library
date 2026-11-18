@@ -4,8 +4,8 @@
   "title": "사건에 맞춰 흐르는 게임 시간",
   "original": "Event-Driven Clock",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02160",
+  "primary_tag_id": "ML-T02160",
   "description": {
     "definition": "게임의 낮과 밤이 실제 경과 시간보다 [[플레이어]]의 진행 사건에 맞춰 바뀌어 장면의 분위기를 유지한다. 게임 속 시간 변화도 진행 상태를 저장하는 [[이벤트 플래그]]와 맞물릴 수 있다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
-    "code": "25",
+    "code": "25.011",
     "review_status": "provisional",
     "row_version": 1
   },

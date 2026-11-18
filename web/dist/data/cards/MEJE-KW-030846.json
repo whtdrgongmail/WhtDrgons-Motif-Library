@@ -4,8 +4,8 @@
   "title": "다른 일을 하려고 동승자에게 운전 넘기기",
   "original": "Take the Wheel",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02790",
+  "primary_tag_id": "ML-T02790",
   "description": {
     "definition": "운전자가 급히 처리할 다른 일이 생겨 동승자에게 운전대를 맡기고 자신은 다른 행동을 한다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "정차 뒤의 평범한 운전자 교대와 달리 진행 중인 사건의 우선순위가 역할을 바꾼다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

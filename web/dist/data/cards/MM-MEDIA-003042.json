@@ -7,14 +7,14 @@
   "tag_id": "ML-T00106",
   "primary_tag_id": "ML-T00106",
   "description": {
-    "definition": "《Harry Potter and the Read Through》는 팬픽 작품이다.",
+    "definition": "해리 포터의 등장인물들이 자신을 배역으로 삼은 팬픽션 대본을 읽고 논평하는 Clell65619의 패러디다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.004",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Harry Potter and the Read Through》에서는 원작의 등장인물들이 새로 받은 팬픽션 대본을 읽고 비평한다. 자신을 배역과 구분하는 인물들이 창작 행위를 바라보는 이야기다.",
+    "easy_ko": "해리와 친구들이 이번에는 사건을 겪는 대신 대본을 받아 든다. 남이 써 준 ‘나’의 행동에 이의를 제기할 수도 있다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000680",
+      "card_id": "MM-MEDIA-003042",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://deluded-musings.fanficauthors.net/The_Read_Through/The_Read_Through/",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Harry Potter and the Read Through》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다.",
+    "text": "등장인물들이 새 작품의 대본을 읽는다는 설정은 같은 이름을 가진 두 자리를 만든다. 장면 안에서 행동하는 배역과 그 행동을 읽고 평가하는 인물이 한자리에 놓인다.\n\n독자는 대본 속 사건과 그 사건을 대하는 인물들의 반응을 번갈아 따라간다. 팬픽션이 인물에게 어떤 말과 행동을 부여하는지, 그 결정을 정작 당사자는 어떻게 여길지가 웃음의 재료다.",
     "sections": [
       [
         "상세 설명",
-        "《Harry Potter and the Read Through》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다."
+        "등장인물들이 새 작품의 대본을 읽는다는 설정은 같은 이름을 가진 두 자리를 만든다. 장면 안에서 행동하는 배역과 그 행동을 읽고 평가하는 인물이 한자리에 놓인다.\n\n독자는 대본 속 사건과 그 사건을 대하는 인물들의 반응을 번갈아 따라간다. 팬픽션이 인물에게 어떤 말과 행동을 부여하는지, 그 결정을 정작 당사자는 어떻게 여길지가 웃음의 재료다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

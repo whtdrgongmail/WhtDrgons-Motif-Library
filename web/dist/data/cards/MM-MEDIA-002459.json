@@ -7,14 +7,14 @@
   "tag_id": "ML-T02487",
   "primary_tag_id": "ML-T02487",
   "description": {
-    "definition": "《메리 크리스마스, 드레이크 앤 조쉬》는 영화 작품이다.",
+    "definition": "산타 복장을 한 드레이크가 한 소녀에게 가족 모두를 위한 최고의 크리스마스를 약속하면서 벌어지는 코미디 영화다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.005",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《메리 크리스마스, 드레이크 앤 조쉬》에서는 눈을 바라는 아이를 위해 결국 치즈로 눈 같은 모습을 만든다. 진짜 강설 대신 눈의 인상을 선물하는 변형이다.",
+    "easy_ko": "아이가 산타에게 부탁한 선물은 물건 하나가 아니라 가족과 보낼 하루다. 약속을 지킬 방법을 형제가 함께 찾아야 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000666",
+      "card_id": "MM-MEDIA-002459",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://www.primevideo.com/detail/0PQ30OUSGGSEUC2SM78TNZ30EY",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《메리 크리스마스, 드레이크 앤 조쉬》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다.",
+    "text": "산타로 분장한 드레이크 앞에 한 소녀가 나타나 가족에게 근사한 크리스마스를 선사해 달라고 부탁한다. 그 자리에서 한 약속은 조시까지 함께 나서서 이루어야 할 일이 된다.\n\n눈을 바라는 아이의 소원을 들어주는 대목에서 형제는 치즈를 눈처럼 보이게 한다. 날씨를 바꿀 수 없는 형제가 아이의 눈앞에 겨울 풍경을 만들어 내는 장난스러운 해결책이다.",
     "sections": [
       [
         "상세 설명",
-        "《메리 크리스마스, 드레이크 앤 조쉬》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다."
+        "산타로 분장한 드레이크 앞에 한 소녀가 나타나 가족에게 근사한 크리스마스를 선사해 달라고 부탁한다. 그 자리에서 한 약속은 조시까지 함께 나서서 이루어야 할 일이 된다.\n\n눈을 바라는 아이의 소원을 들어주는 대목에서 형제는 치즈를 눈처럼 보이게 한다. 날씨를 바꿀 수 없는 형제가 아이의 눈앞에 겨울 풍경을 만들어 내는 장난스러운 해결책이다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

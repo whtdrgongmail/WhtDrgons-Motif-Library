@@ -7,14 +7,14 @@
   "tag_id": "ML-T02499",
   "primary_tag_id": "ML-T02499",
   "description": {
-    "definition": "《디즈니 어드벤처스》는 잡지 작품이다.",
+    "definition": "1990년부터 2007년까지 미국에서 발행된 어린이용 소형 잡지로, 디즈니 만화와 다양한 읽을거리를 함께 실었다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.010.003",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《디즈니 어드벤처스》는 다양한 교육성 주제와 만화를 담던 잡지에서 홍보성 인물·캐릭터 기사 쪽으로 범위가 좁아진 사례로 원문에 제시된다.",
+    "easy_ko": "한 손에 들 만한 작은 잡지 안에서 만화를 읽다가 교육 기사나 인기 캐릭터 이야기로 넘어갈 수 있었다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000722",
+      "card_id": "MM-MEDIA-002837",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://www.comics.org/series/4150/",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《디즈니 어드벤처스》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다.",
+    "text": "미국판은 1990년 11월에 시작해 2007년 11월까지 이어졌다. 다이제스트 크기의 잡지 한 권에 연재만화와 기사를 함께 담아 독자는 같은 호 안에서 서로 다른 종류의 글을 만날 수 있었다.\n\n초기의 폭넓은 교육 주제와 만화를 함께 싣던 구성은 시간이 흐르며 홍보 성격이 강한 인물·캐릭터 기사 쪽으로 좁아졌다. 긴 발행 기간을 따라 보면 같은 제호 아래 편집의 관심이 어떻게 달라졌는지 읽을 수 있다.",
     "sections": [
       [
         "상세 설명",
-        "《디즈니 어드벤처스》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다."
+        "미국판은 1990년 11월에 시작해 2007년 11월까지 이어졌다. 다이제스트 크기의 잡지 한 권에 연재만화와 기사를 함께 담아 독자는 같은 호 안에서 서로 다른 종류의 글을 만날 수 있었다.\n\n초기의 폭넓은 교육 주제와 만화를 함께 싣던 구성은 시간이 흐르며 홍보 성격이 강한 인물·캐릭터 기사 쪽으로 좁아졌다. 긴 발행 기간을 따라 보면 같은 제호 아래 편집의 관심이 어떻게 달라졌는지 읽을 수 있다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

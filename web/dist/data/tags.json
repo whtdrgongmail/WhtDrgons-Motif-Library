@@ -51658,6 +51658,351 @@
         "row_version": 1
       },
       "semantics": null
+    },
+    {
+      "id": "ML-T02900",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "경쟁 선택지의 상대 성능 조절",
+      "classification": {
+        "code": "25.031",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02901",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02106",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "피격 뒤의 위치·행동 판정",
+      "classification": {
+        "code": "25.005.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02902",
+      "facet_id": "ML-F28",
+      "parent_id": "ML-T02323",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "각색에서 인물 설정·관계 변경",
+      "classification": {
+        "code": "28.003.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02869",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "증여와 선물 건네기",
+      "classification": {
+        "code": "07.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02870",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "은혜에 대한 행동으로서의 보답",
+      "classification": {
+        "code": "07.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02871",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "재난과 광역 기반 기능의 중단",
+      "classification": {
+        "code": "07.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02872",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "우연에 맡기는 결정",
+      "classification": {
+        "code": "07.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02873",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "처벌을 유예하거나 거두는 행동",
+      "classification": {
+        "code": "07.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02874",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "제안이나 요구를 거부하는 결정",
+      "classification": {
+        "code": "07.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02875",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "은밀한 물품 전달",
+      "classification": {
+        "code": "07.025",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02876",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-T02548",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "특정 자극을 향한 두려움",
+      "classification": {
+        "code": "11.009.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02877",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-T02548",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "하지 않았거나 달리했을 일을 돌아보는 후회",
+      "classification": {
+        "code": "11.009.002",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02878",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "과거 외상의 재활성화",
+      "classification": {
+        "code": "11.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02879",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "감정이 흐리는 판단",
+      "classification": {
+        "code": "11.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02880",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기억을 잃거나 새로 남기지 못하는 상태",
+      "classification": {
+        "code": "11.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02881",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "상황의 단서가 불러오는 기억",
+      "classification": {
+        "code": "11.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02882",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-T02548",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "평가받는 수행을 앞둔 불안",
+      "classification": {
+        "code": "11.009.003",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02883",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연애 감정의 형성과 자각",
+      "classification": {
+        "code": "11.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02884",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "도덕적 원칙이 부딪치는 내적 선택",
+      "classification": {
+        "code": "11.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02930",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01364",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "조직 내 채용·임명·승진 기준",
+      "classification": {
+        "code": "15.005.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02931",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-F15",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "문자 표기 단위와 배열 규칙",
+      "classification": {
+        "code": "15.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02932",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01347",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공적 권력의 친밀 관계·출산 통제",
+      "classification": {
+        "code": "15.003.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02933",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01330",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "통치권에 맞서는 조직적 저항",
+      "classification": {
+        "code": "15.001.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
     }
   ]
 }

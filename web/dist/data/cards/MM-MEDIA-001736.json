@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《해커》는 음악·음향 작품이다.",
+    "definition": "데스 그립스의 2012년 음반 《The Money Store》를 맺는 [[인더스트리얼 힙합]] 곡이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Death Grips의 〈해커〉는 이 음악 양식의 실제 곡 사례다.",
+    "easy_ko": "목소리로 박자를 밀어붙이는 랩과 거칠게 일그러진 전자음이 음반 마지막까지 함께 달린다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000699",
+      "card_id": "MM-MEDIA-001736",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://music.apple.com/us/album/the-money-store/515449028",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《해커》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "《The Money Store》는 공격적인 테크노 음색과 외치듯 내는 랩, 왜곡된 반복 반주를 겹친 음반이다. 〈Hacker〉는 열세 곡 가운데 맨 마지막 자리에 놓였다.\n\n곡을 따로 들으면 보컬이 만드는 리듬과 전자 반주의 질감을 따라갈 수 있다. 〈Get Got〉에서 시작해 음반 순서대로 들으면 같은 재료들이 마지막 곡에서 어디에 이르는지도 들을 수 있다.",
     "sections": [
       [
         "상세 설명",
-        "《해커》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "《The Money Store》는 공격적인 테크노 음색과 외치듯 내는 랩, 왜곡된 반복 반주를 겹친 음반이다. 〈Hacker〉는 열세 곡 가운데 맨 마지막 자리에 놓였다.\n\n곡을 따로 들으면 보컬이 만드는 리듬과 전자 반주의 질감을 따라갈 수 있다. 〈Get Got〉에서 시작해 음반 순서대로 들으면 같은 재료들이 마지막 곡에서 어디에 이르는지도 들을 수 있다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

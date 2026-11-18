@@ -6,8 +6,8 @@
   "aliases": [
     "병실로 몰래 들여온 물건"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02875",
+  "primary_tag_id": "ML-T02875",
   "description": {
     "definition": "입원 중인 사람에게 병실에서 허용하지 않는 물품을 몰래 전달하는 [[행동]]이다.",
     "detail": "",
@@ -15,11 +15,11 @@
     "boundary": "허용된 병문안 선물과 구별하며 반입 금지를 우회한다는 상황이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

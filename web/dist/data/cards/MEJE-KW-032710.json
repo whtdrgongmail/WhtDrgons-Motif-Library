@@ -4,8 +4,8 @@
   "title": "새 게임이 기존 기록을 지운다고 먼저 알리기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02156",
+  "primary_tag_id": "ML-T02156",
   "description": {
     "definition": "저장 공간이 하나인 게임에서 새로 시작하면 자동 저장이 이전 진행을 덮어쓸 수 있음을 확인 절차나 경고로 알려 주는 기능이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "기록을 여러 개 선택하는 메뉴와 달리 기존 기록의 손실을 인지시키는 절차가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.010.005",
     "review_status": "provisional",
     "row_version": 1
   },

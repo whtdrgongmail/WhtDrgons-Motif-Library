@@ -4,8 +4,8 @@
   "title": "일어나는 중 반격할 수 있는 회복 공격",
   "original": "Recovery Attack",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02901",
+  "primary_tag_id": "ML-T02901",
   "description": {
     "definition": "공격에 쓰러진 [[캐릭터]]가 자세를 회복하면서 상대에게 공격하여 일방적으로 맞는 상태를 끊는 행동이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "일어나는 동안 무조건 피해를 받지 않는 규칙과 다르며 공격과 무적은 별개로 설정될 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.005.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

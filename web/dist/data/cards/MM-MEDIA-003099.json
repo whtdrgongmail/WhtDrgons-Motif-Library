@@ -7,14 +7,14 @@
   "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
-    "definition": "《Battlefield Evolution》는 테이블톱 게임 작품이다.",
+    "definition": "현대 및 근미래 군대를 미니어처와 게임 규칙으로 표현하는 몽구스 퍼블리싱의 테이블톱 전쟁 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Battlefield Evolution》은 중동 연합이라는 세력을 전장 진영으로 설정한다. 실제 여러 나라를 하나의 가상 군사 주체로 묶는 구성의 사례이다.",
+    "easy_ko": "탁자 위의 말들은 병사와 차량을 나타낸다. 어떤 군대를 하나의 진영으로 묶을지도 게임을 만든 사람들이 정한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000711",
+      "card_id": "MM-MEDIA-003099",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://www.mongoosepublishing.com/products/battlefield-evolution-modern-combat-ebook",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Battlefield Evolution》라는 표제는 테이블톱 게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 테이블톱 게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "《Modern Combat》는 실제 국가들이 보유한 장비뿐 아니라 개발 중인 체계까지 미니어처 게임의 대상으로 삼는다. 현실의 군대를 출발점으로 삼아 가상의 대결을 구성하는 방식이다.\n\n원작의 중동 연합은 지역의 여러 나라를 단일 진영으로 묶은 예다. 플레이어가 선택하는 편의 이름은 게임이 정한 설정이므로, 실제 국가들과 미니어처 전장의 편성이 일대일로 대응하지 않는다.",
     "sections": [
       [
         "상세 설명",
-        "《Battlefield Evolution》라는 표제는 테이블톱 게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 테이블톱 게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "《Modern Combat》는 실제 국가들이 보유한 장비뿐 아니라 개발 중인 체계까지 미니어처 게임의 대상으로 삼는다. 현실의 군대를 출발점으로 삼아 가상의 대결을 구성하는 방식이다.\n\n원작의 중동 연합은 지역의 여러 나라를 단일 진영으로 묶은 예다. 플레이어가 선택하는 편의 이름은 게임이 정한 설정이므로, 실제 국가들과 미니어처 전장의 편성이 일대일로 대응하지 않는다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

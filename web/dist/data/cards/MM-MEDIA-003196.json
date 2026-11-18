@@ -7,14 +7,14 @@
   "tag_id": "ML-T00133",
   "primary_tag_id": "ML-T00133",
   "description": {
-    "definition": "《CN 시티》는 광고 작품이다.",
+    "definition": "카툰 네트워크의 여러 만화 캐릭터가 가상의 한 도시에서 함께 생활하는 모습으로 채널을 알린 짧은 방송 영상 시리즈다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.018.001",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《CN 시티》의 짧은 영상에서 시장은 프랭키의 옛 스타일 밴을 보고 그녀를 비트족으로 생각해 내쫓으려 한다. 이동 수단의 이미지가 문화적 소속의 추정으로 바뀐다.",
+    "easy_ko": "서로 다른 만화의 등장인물들이 같은 거리를 오간다. 한 작품의 시장이 다른 작품의 인물과 마주치는 일도 도시의 일상처럼 보인다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000755",
+      "card_id": "MM-MEDIA-003196",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://www.awn.com/vfxworld/animal-logic-helps-cartoon-network-3d-rebranding",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《CN 시티》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다.",
+    "text": "애니멀 로직은 카툰 네트워크가 2004년에 채널 디자인을 바꿀 때 입체적인 도시 공간을 만들었다. 서로 다른 그림체와 배경을 가진 캐릭터들이 이 거리를 공유하자 작품 경계를 넘는 짧은 상황극이 가능해졌다.\n\n한 영상에서 시장은 프랭키의 오래된 스타일 밴을 보고 그녀를 비트족으로 짐작해 내쫓으려 한다. 시청자가 아는 인물의 실제 성격과 차림새만 보고 내린 시장의 판단이 엇갈린다.",
     "sections": [
       [
         "상세 설명",
-        "《CN 시티》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다."
+        "애니멀 로직은 카툰 네트워크가 2004년에 채널 디자인을 바꿀 때 입체적인 도시 공간을 만들었다. 서로 다른 그림체와 배경을 가진 캐릭터들이 이 거리를 공유하자 작품 경계를 넘는 짧은 상황극이 가능해졌다.\n\n한 영상에서 시장은 프랭키의 오래된 스타일 밴을 보고 그녀를 비트족으로 짐작해 내쫓으려 한다. 시청자가 아는 인물의 실제 성격과 차림새만 보고 내린 시장의 판단이 엇갈린다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

@@ -4,8 +4,8 @@
   "title": "진행 기록을 하나만 유지하는 게임",
   "original": "Only One Save File",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02808",
+  "primary_tag_id": "ML-T02808",
   "description": {
     "definition": "플레이어가 서로 다른 시점이나 플레이 경로의 저장본을 여러 개 보존하지 못하고 하나의 진행 기록만 갱신하도록 제한한 저장 구조다.",
     "detail": "작품 사례: 《[[젤다의 전설 트라이포스 삼총사]]》는 저장 파일을 하나만 두며 새로 시작하려면 설정에서 기존 데이터를 삭제해야 한다. 이전 진행을 남긴 채 별도의 여정을 동시에 시작할 수 없다.",
@@ -13,11 +13,11 @@
     "boundary": "저장 기능이 전혀 없는 게임과 다르며 계정·프로필·난이도별 저장 범위와 자동 저장 사본은 구체적으로 구분해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

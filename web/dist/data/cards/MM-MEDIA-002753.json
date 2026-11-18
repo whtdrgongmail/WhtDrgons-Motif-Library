@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《중독(Overdose)》는 음악·음향 작품이다.",
+    "definition": "사랑에 깊이 빠져 벗어나기 어려운 상태를 과도한 복용에 빗댄 엑소의 두 번째 미니 앨범 타이틀곡이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "EXO의 〈중독(Overdose)〉는 사랑을 과도한 복용과 끊기 어려운 중독의 이미지에 연결한다. 가수 이름을 작품으로 등록하지 않고 실제 노래를 사례로 삼았다.",
+    "easy_ko": "보통은 설렌다고 할 마음을 이 노래에서는 스스로 조절할 수 없는 몸의 상태처럼 표현한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000667",
+      "card_id": "MM-MEDIA-002753",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://music.apple.com/us/song/874164828",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000668",
+      "card_id": "MM-MEDIA-002753",
+      "label_ko": "보충 자료",
+      "icon_key": "website",
+      "url": "https://music.apple.com/us/album/the-2nd-mini-album-overdose-ep/874290401",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《중독(Overdose)》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "노래는 상대에게 이끌리는 감정을 점점 더 필요로 하고 끊기 어려워지는 상태에 겹친다. 제목의 ‘중독’이라는 말은 화자가 느끼는 사랑의 강도를 몸의 감각으로 옮긴다.\n\n2014년 5월에 나온 EXO-K의 동명 미니 앨범에 실렸고 EXO-M의 음반에서도 첫 곡으로 들을 수 있다. 두 팀이 각각 발표한 음원에는 같은 영어 제목이 붙어 있다.",
     "sections": [
       [
         "상세 설명",
-        "《중독(Overdose)》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "노래는 상대에게 이끌리는 감정을 점점 더 필요로 하고 끊기 어려워지는 상태에 겹친다. 제목의 ‘중독’이라는 말은 화자가 느끼는 사랑의 강도를 몸의 감각으로 옮긴다.\n\n2014년 5월에 나온 EXO-K의 동명 미니 앨범에 실렸고 EXO-M의 음반에서도 첫 곡으로 들을 수 있다. 두 팀이 각각 발표한 음원에는 같은 영어 제목이 붙어 있다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

@@ -4,8 +4,8 @@
   "title": "피격 경직으로 행동 끊기",
   "original": "Flinching",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02901",
+  "primary_tag_id": "ML-T02901",
   "description": {
     "definition": "공격을 맞은 순간 짧은 반응 동작이 발생하여 진행 중인 행동을 중단시키는 게임 규칙이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "큰 위치 이동이나 오랜 행동 불능이 반드시 따르지는 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.005.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

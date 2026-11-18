@@ -1,0 +1,48 @@
+{
+  "id": "ML-T02901",
+  "kind": "keyword",
+  "title": "피격 뒤의 위치·행동 판정",
+  "original": "Post-Hit Position and Action Rules",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T02901",
+  "primary_tag_id": "ML-T02901",
+  "description": {
+    "definition": "공격이 적중한 뒤 대상의 위치·자세·행동 가능 상태 또는 곧이어 받는 공격의 허용 여부를 바꾸거나 유지하는 전투 규칙이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "최초 공격의 명중 여부, 체력의 증감만 다루는 효과, 조작이나 전투 상태를 바꾸지 않는 애니메이션·음향, 피격으로 시작하지 않는 선제적 무적은 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.005.010",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "공격을 맞고 밀리거나 쓰러지거나 행동을 계속할 수 있는지 정하는 전투 규칙을 찾는 태그다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "맞은 인물이 옆이나 위로 밀리면 다음 공격의 거리와 방향이 달라진다. 잠깐 행동을 멈추게 하면 뒤이은 공격이 쉬워지고, 경직을 버틸 수 있으면 먼저 시작한 동작을 끝낼 수 있다.\n\n피격 뒤 잠시 다시 맞지 않도록 하거나 쓰러진 상태에서 특정 반격을 허용하는 것도 대응 기회를 조절한다. 맞았는지 계산하는 범위나 단순한 아픔의 소리는 이 규칙과 별도로 볼 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "맞은 인물이 옆이나 위로 밀리면 다음 공격의 거리와 방향이 달라진다. 잠깐 행동을 멈추게 하면 뒤이은 공격이 쉬워지고, 경직을 버틸 수 있으면 먼저 시작한 동작을 끝낼 수 있다.\n\n피격 뒤 잠시 다시 맞지 않도록 하거나 쓰러진 상태에서 특정 반격을 허용하는 것도 대응 기회를 조절한다. 맞았는지 계산하는 범위나 단순한 아픔의 소리는 이 규칙과 별도로 볼 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

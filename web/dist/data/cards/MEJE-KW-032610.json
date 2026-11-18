@@ -4,8 +4,8 @@
   "title": "같은 정해진 말만 되풀이하는 게임 인물",
   "original": "Welcome to Corneria",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02530",
+  "primary_tag_id": "ML-T02530",
   "description": {
     "definition": "플레이어가 다시 말을 걸어도 게임의 비조작 인물이 고정된 짧은 대사만 반복하는 대화 구조다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "상황에 따라 여러 대사를 선택하는 체계와 달리 발화의 변화가 거의 없는 반복이 특징이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "다시 말을 걸어도 언제나 같은 답만 나온다.",
     "review_status": "reviewed",

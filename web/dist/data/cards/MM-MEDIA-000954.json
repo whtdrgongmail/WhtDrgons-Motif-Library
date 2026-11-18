@@ -7,14 +7,14 @@
   "tag_id": "ML-T00084",
   "primary_tag_id": "ML-T00084",
   "description": {
-    "definition": "이 카드는 테이블톱 게임 《The Dragon Tree Spell Book》를 가리킨다. 이 라이브러리에서는 [[부두교를 인형 저주와 좀비 마법으로 축소하기]]의 작품 사례와 연결된다.",
+    "definition": "판타지 역할놀이에 덧붙여 사용할 주문을 모은 드래건 트리 프레스의 게임 보충서다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.013",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "The Dragon Tree Spell Book의 부두 주문은 피해자를 닮은 인형을 매개로 삼고, 인형에 가한 손상이 대상에게도 생기게 한다.",
+    "easy_ko": "주문 하나마다 누가 쓸 수 있는지, 무엇이 필요한지, 상대가 효과를 피할 수 있는지 게임 규칙으로 적혀 있다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000724",
+      "card_id": "MM-MEDIA-000954",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://files.spawningpool.net/docs/Vault2.0.-.TTRPG-Gamebooks/Dragon%20Tree%20Press%20%28osr%29/The%20Dragon%20Tree%20Spell%20Book.pdf",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《The Dragon Tree Spell Book》라는 표제는 테이블톱 게임을 가리킨다.\n\n모티프 라이브러리에서는 [[부두교를 인형 저주와 좀비 마법으로 축소하기]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "text": "수록된 주문 가운데 ‘Baron Samidi’s Voodoo Spell’은 마법사가 특정한 인물과 닮은 인형을 만드는 일을 다룬다. 게임은 사용할 수 있는 인물과 대상의 수, 저항 판정을 구별해 제시한다.\n\n대상이 판정에 성공하면 인형을 통한 효과는 생기지 않는다. 이처럼 인형과 사람의 연결을 조건부 규칙으로 만들었으며, 이 대목에서 ‘부두’라는 이름은 실제 종교가 아니라 판타지의 저주 도식을 가리킨다.",
     "sections": [
       [
         "상세 설명",
-        "《The Dragon Tree Spell Book》라는 표제는 테이블톱 게임을 가리킨다.\n\n모티프 라이브러리에서는 [[부두교를 인형 저주와 좀비 마법으로 축소하기]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+        "수록된 주문 가운데 ‘Baron Samidi’s Voodoo Spell’은 마법사가 특정한 인물과 닮은 인형을 만드는 일을 다룬다. 게임은 사용할 수 있는 인물과 대상의 수, 저항 판정을 구별해 제시한다.\n\n대상이 판정에 성공하면 인형을 통한 효과는 생기지 않는다. 이처럼 인형과 사람의 연결을 조건부 규칙으로 만들었으며, 이 대목에서 ‘부두’라는 이름은 실제 종교가 아니라 판타지의 저주 도식을 가리킨다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

@@ -7,14 +7,14 @@
   "tag_id": "ML-T00106",
   "primary_tag_id": "ML-T00106",
   "description": {
-    "definition": "이 카드는 Ouran High School Host Club 팬픽 ‘It's a Wonderfully Splendid Magnificent Life’를 가리킨다. 이 라이브러리에서는 [[관객의 동정을 끊는 악행]]의 작품 사례와 연결된다.",
+    "definition": "《오란고교 호스트부》의 타마키가 일본에 온 일을 후회하다가 자신이 없었다면 주변 사람들의 삶이 어땠을지 돌아보는 단편 팬픽션이다.",
     "detail": "연결 사례: It's a Wonderfully Splendid Magnificent Life에서 Tamaki의 할머니는 병든 어머니를 찾아가면 치료비를 끊겠다고 협박해, 가족에게도 관계를 부정당한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
     "code": "02.004",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Ouran High School Host Club 팬픽 ‘It's a Wonderfully Splendid Magnificent Life’에서 유즈루는 타마키의 할머니를 이름이나 호칭으로 부르지 않고 계속 ‘그녀’라고만 부른다. 상대를 가족으로 인정하지 않는 태도를 드러내는 장면이다.",
+    "easy_ko": "자기 선택이 잘못이었다고 여기는 타마키에게, 자신을 만나지 못한 친구들의 삶을 보여 준다면 어떤 대답이 돌아올까?",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000679",
+      "card_id": "MM-MEDIA-000485",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://www.fanfiction.net/s/3311845/1/It-s-a-Wonderfully-Splendid-Magnificent-Life",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《It's a Wonderfully Splendid Magnificent Life》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다.",
+    "text": "작가 sciathan file은 《멋진 인생》과 디킨스의 《크리스마스 캐럴》에서 이야기의 실마리를 가져왔다고 밝혔다. 타마키가 일본행을 재고하는 순간에 개입이 일어나 그 선택이 다른 이들에게 남긴 흔적을 보여 준다.\n\n병든 어머니를 찾아가면 치료비를 끊겠다는 할머니의 위협은 타마키가 가족을 쉽게 만날 수 없는 이유를 구체화한다. 가족에게도 자신의 선택을 인정받지 못한 타마키가 다른 관계들의 가치를 되짚게 된다.",
     "sections": [
       [
         "상세 설명",
-        "《It's a Wonderfully Splendid Magnificent Life》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다."
+        "작가 sciathan file은 《멋진 인생》과 디킨스의 《크리스마스 캐럴》에서 이야기의 실마리를 가져왔다고 밝혔다. 타마키가 일본행을 재고하는 순간에 개입이 일어나 그 선택이 다른 이들에게 남긴 흔적을 보여 준다.\n\n병든 어머니를 찾아가면 치료비를 끊겠다는 할머니의 위협은 타마키가 가족을 쉽게 만날 수 없는 이유를 구체화한다. 가족에게도 자신의 선택을 인정받지 못한 타마키가 다른 관계들의 가치를 되짚게 된다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

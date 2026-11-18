@@ -7,14 +7,14 @@
   "tag_id": "ML-T00050",
   "primary_tag_id": "ML-T00050",
   "description": {
-    "definition": "이 카드는 일본 만화 《The Sword Of Roaring Flames Yagyu Jubei》를 가리킨다. 이 라이브러리에서는 [[시장의 관객에 맞춰 바꾼 제목]]의 작품 사례와 연결된다.",
+    "definition": "막부의 명을 받은 야규 주베가 세상에서 가장 단단한 금속으로 이루어진 괴물 누에와 맞서는 사와다 하지메의 검객 만화다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.012.001",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "The Sword Of Roaring Flames Yagyu Jubei는 일본판 제목 앞의 금속명 히히이로카네를 영어 제목에서 빼고, 불타는 검과 주인공을 앞세운다.",
+    "easy_ko": "검으로 물리치기 어렵다는 괴물이 나타났다. 막부가 그 괴물을 쓰러뜨리라고 보낸 검객은 불꽃 같은 검을 든 야규 주베다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000723",
+      "card_id": "MM-MEDIA-001064",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://ebookjapan.yahoo.co.jp/books/335560/A001577506/",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《The Sword Of Roaring Flames Yagyu Jubei》라는 표제는 일본 만화를 가리킨다.\n\n모티프 라이브러리에서는 [[시장의 관객에 맞춰 바꾼 제목]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "text": "누에의 몸을 이룬 금속은 히히이로카네다. 작품은 좀처럼 쓰러뜨릴 수 없는 괴물을 제시한 뒤 막부의 토벌 명령을 받은 야규 주베를 맞세워, 검객의 솜씨를 시험하는 대결을 마련한다.\n\n일본어 제목은 먼저 괴물을 이루는 금속 ‘히히이로카네’를 내세운다. 영어 제목에서는 금속 이름이 빠지고 불꽃을 연상시키는 검과 야규 주베가 전면에 나와, 같은 대결의 서로 다른 면을 예고한다.",
     "sections": [
       [
         "상세 설명",
-        "《The Sword Of Roaring Flames Yagyu Jubei》라는 표제는 일본 만화를 가리킨다.\n\n모티프 라이브러리에서는 [[시장의 관객에 맞춰 바꾼 제목]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+        "누에의 몸을 이룬 금속은 히히이로카네다. 작품은 좀처럼 쓰러뜨릴 수 없는 괴물을 제시한 뒤 막부의 토벌 명령을 받은 야규 주베를 맞세워, 검객의 솜씨를 시험하는 대결을 마련한다.\n\n일본어 제목은 먼저 괴물을 이루는 금속 ‘히히이로카네’를 내세운다. 영어 제목에서는 금속 이름이 빠지고 불꽃을 연상시키는 검과 야규 주베가 전면에 나와, 같은 대결의 서로 다른 면을 예고한다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

@@ -7,14 +7,14 @@
   "tag_id": "ML-T02487",
   "primary_tag_id": "ML-T02487",
   "description": {
-    "definition": "《미션 임파서블》은 영화 작품이다.",
+    "definition": "팀원들을 죽였다는 누명을 쓴 첩보원 이단 헌트가 사건의 진상을 추적하는 1996년 영화다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.005",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《미션 임파서블》에서 이단 헌트는 바닥을 건드리면 경보가 울리는 공간에 줄로 매달려 내려와 컴퓨터에 접근한다. 몸과 바닥 사이의 작은 간격이 장면의 긴장을 만든다.",
+    "easy_ko": "이단은 자신을 쫓는 조직의 감시를 피하면서 그 조직이 지키는 기밀에 접근해야 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000652",
+      "card_id": "MM-MEDIA-003184",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://www.paramountpictures.com/movies/mission-impossible",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《미션 임파서블》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다.",
+    "text": "톰 크루즈가 연기한 헌트는 동료들이 목숨을 잃은 뒤에 오히려 범인으로 몰린다. 자신을 뒤쫓는 요원들보다 한발 앞서 움직여야 동료들에게 일어난 일을 밝힐 수 있다.\n\nCIA 보안실에 들어가는 장면에서 헌트는 줄에 매달린 채 바닥에 닿지 않고 컴퓨터를 조작한다. 달리는 열차 지붕에 매달리는 추격전과 달리, 여기서는 작은 움직임 하나가 긴장을 만든다.",
     "sections": [
       [
         "상세 설명",
-        "《미션 임파서블》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다."
+        "톰 크루즈가 연기한 헌트는 동료들이 목숨을 잃은 뒤에 오히려 범인으로 몰린다. 자신을 뒤쫓는 요원들보다 한발 앞서 움직여야 동료들에게 일어난 일을 밝힐 수 있다.\n\nCIA 보안실에 들어가는 장면에서 헌트는 줄에 매달린 채 바닥에 닿지 않고 컴퓨터를 조작한다. 달리는 열차 지붕에 매달리는 추격전과 달리, 여기서는 작은 움직임 하나가 긴장을 만든다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

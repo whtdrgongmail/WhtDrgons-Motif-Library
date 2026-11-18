@@ -4,8 +4,8 @@
   "title": "중심 인물의 생존이 전략 게임의 조건",
   "original": "Hero Must Survive",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
     "definition": "다수 부대를 지휘하는 전략 게임에서 플레이어가 조작하는 특정 [[서사]] 인물이 죽으면 전투 상황과 무관하게 임무가 즉시 실패하는 규칙이다.",
     "detail": "작품 사례: [[The Battle For Wesnoth]]에서는 지도자를 전장에 내보내 강하게 키울 수 있지만 죽지 않게 지켜야 한다. 안전한 성채에서 병력을 모집하게 할지, 위험을 감수하고 싸우게 할지가 선택이 된다.",
@@ -13,10 +13,10 @@
     "boundary": "조작할 수 없는 인물을 보호하는 호위 임무나 소규모 파티의 주인공 사망 규칙과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.008",
     "review_status": "provisional",
     "row_version": 1
   },

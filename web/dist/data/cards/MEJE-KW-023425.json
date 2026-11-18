@@ -1,20 +1,22 @@
 {
   "id": "MEJE-KW-023425",
   "kind": "keyword",
-  "title": "붉은 아기 모습의 물 요괴",
+  "title": "가와아카고",
   "original": "kawa akago",
-  "aliases": [],
+  "aliases": [
+    "붉은 아기 모습의 물 요괴"
+  ],
   "tag_id": "ML-T01126",
   "primary_tag_id": "ML-T01126",
   "description": {
-    "definition": "물가의 요괴를 붉은 피부의 아기 같은 형상으로 표현한다.",
+    "definition": "가와아카고는 일본의 요괴 그림에서 산골 물가의 수초 사이에 아기 같은 모습으로 나타나는 물 요괴다.",
     "detail": "",
     "usage": "",
     "boundary": "원문에서 설명하지 않은 소리나 공격 방식을 추가하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
     "code": "12.004.003",
     "review_status": "provisional",
@@ -22,26 +24,37 @@
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "강에서 만난 붉은 아기 같은 존재다.",
+    "easy_ko": "물풀 사이로 아기처럼 보이는 요괴가 모습을 내민다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000648",
+      "card_id": "MEJE-KW-023425",
+      "label_ko": "박물관 소장 판본",
+      "icon_key": "website",
+      "url": "https://museumcollection.tokyo/works/6477763/",
+      "description_ko": "가와아카고가 실린 1779년 요괴 그림책의 박물관 소장 기록",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "붉은 아기 모습의 물 요괴는 물가의 초자연적 존재를 붉은 피부의 어린아이 형상으로 나타낸 유형이다. 붉은색과 아기 같은 외형이 식별 조건이며, 같은 외형을 가진 전승들이 모두 하나의 기원과 성격을 공유한다는 뜻은 아니다.",
+    "text": "도리야마 세키엔은 1779년에 간행한 《곤자쿠 가즈 조쿠 햐키》에 가와아카고를 그렸다. 그림에는 수초 사이로 몸을 내민 아기 같은 형상과, 물 위에 떠 있는 뗏목에서 낚시하는 사람이 함께 등장한다.\n\n도판의 설명은 이 존재를 산골 물가의 수초에서 볼 수 있는 아기 모양의 괴이로 소개하고, 가와타로 등 [[갓파]]와 가까운 유형일 가능성을 제기한다. 피부를 붉게 설명하는 후대 소개도 있지만, 옛 도판에서 먼저 확인되는 특징은 아기 같은 형상과 물가라는 장소다.",
     "sections": [
       [
         "상세 설명",
-        "붉은 아기 모습의 물 요괴는 물가의 초자연적 존재를 붉은 피부의 어린아이 형상으로 나타낸 유형이다. 붉은색과 아기 같은 외형이 식별 조건이며, 같은 외형을 가진 전승들이 모두 하나의 기원과 성격을 공유한다는 뜻은 아니다."
+        "도리야마 세키엔은 1779년에 간행한 《곤자쿠 가즈 조쿠 햐키》에 가와아카고를 그렸다. 그림에는 수초 사이로 몸을 내민 아기 같은 형상과, 물 위에 떠 있는 뗏목에서 낚시하는 사람이 함께 등장한다.\n\n도판의 설명은 이 존재를 산골 물가의 수초에서 볼 수 있는 아기 모양의 괴이로 소개하고, 가와타로 등 [[갓파]]와 가까운 유형일 가능성을 제기한다. 피부를 붉게 설명하는 후대 소개도 있지만, 옛 도판에서 먼저 확인되는 특징은 아기 같은 형상과 물가라는 장소다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《Can You Feel My Heart?》는 음악·음향 작품이다.",
+    "definition": "브링 미 더 호라이즌의 2013년 음반 《Sempiternal》에 실린 곡으로, 잇따른 질문을 통해 도움을 바라는 목소리를 들려준다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Bring Me the Horizon의 〈Can You Feel My Heart?〉는 모던 메탈코어 곡이다.",
+    "easy_ko": "들을 수 없는 것을 듣고 보이지 않는 것을 보아 달라는 질문이 이어진다. 화자는 상대가 자기 마음까지 느낄 수 있을지 묻는다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 3
+    "updated_at": "2026-11-18",
+    "row_version": 4
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000694",
+      "card_id": "MM-MEDIA-003049",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://music.apple.com/us/song/598282643",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Can You Feel My Heart?》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "올리버 사이크스가 부르는 첫 대목은 침묵을 듣거나 어둠을 볼 수 있는지 되묻는다. 서로 어긋나는 감각을 짝지은 질문이 반복되면서 어떤 답을 기다리는지가 차츰 드러난다.\n\n연주 크레디트에는 기타와 베이스, 드럼 외에 조던 피시의 프로그래밍이 올라 있다. 사람의 목소리와 밴드 연주에 전자음이 결합하는 방식을 들을 수 있는 [[모던 메탈코어]] 곡이다.",
     "sections": [
       [
         "상세 설명",
-        "《Can You Feel My Heart?》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "올리버 사이크스가 부르는 첫 대목은 침묵을 듣거나 어둠을 볼 수 있는지 되묻는다. 서로 어긋나는 감각을 짝지은 질문이 반복되면서 어떤 답을 기다리는지가 차츰 드러난다.\n\n연주 크레디트에는 기타와 베이스, 드럼 외에 조던 피시의 프로그래밍이 올라 있다. 사람의 목소리와 밴드 연주에 전자음이 결합하는 방식을 들을 수 있는 [[모던 메탈코어]] 곡이다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

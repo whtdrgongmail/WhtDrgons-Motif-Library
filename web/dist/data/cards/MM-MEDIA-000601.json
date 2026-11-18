@@ -7,14 +7,14 @@
   "tag_id": "ML-T00106",
   "primary_tag_id": "ML-T00106",
   "description": {
-    "definition": "이 카드는 House of Mouse 팬픽 ‘Midnight Mayhem’을 가리킨다. 이 라이브러리에서는 [[급한 용변을 볼 곳이 없는 상황]]의 작품 사례와 연결된다.",
+    "definition": "구피가 보름달이 뜨는 밤에 하우스 오브 마우스의 손님들 몰래 늑대인간으로 변하려 애쓰는 팬픽션이다.",
     "detail": "연결 사례: Midnight Mayhem에서 구피는 늑대인간으로 변하는 모습을 숨기려고 남자 화장실을 차지하지만, 도널드의 용변이 급해지자 나와야 한다.",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
     "code": "02.004",
     "review_status": "provisional",
@@ -28,10 +28,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "House of Mouse 팬픽 ‘Midnight Mayhem’에서 구피는 늑대인간으로 변하는 동안 남자 화장실에 숨어 있다. 도널드가 화장실을 급히 써야 하자 구피는 더는 그곳을 차지하고 있을 수 없다.",
+    "easy_ko": "보름달이 뜨는데 구피는 근무 중이다. 화장실 문을 닫으면 숨을 수 있을 것 같지만, 하필 도널드에게도 그 방이 급하다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -41,18 +41,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000733",
+      "card_id": "MM-MEDIA-000601",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://archive.transformativeworks.org/tags/Duchess%20%28Disney%3A%20Aristocats%29/works",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Midnight Mayhem》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다.",
+    "text": "KittenAround와 TheVeniceAngel이 쓴 이야기에서 구피는 그날 밤이 보름이라는 사실을 잊고 출근한다. 손님들 앞에서 변하지 않으려고 숨을 곳을 찾으면서 일하던 장소 자체가 곤란의 무대가 된다.\n\n구피는 남자 화장실을 차지해 변신을 감추려 하지만 도널드가 급히 들어와야 해서 자리를 비워야 한다. 한 인물의 안전한 은신처가 다른 인물에게는 당장 필요한 시설이라는 점에서 두 사정이 충돌한다.",
     "sections": [
       [
         "상세 설명",
-        "《Midnight Mayhem》는 특정 창작물을 구분하는 고유 제목이다.\n\n모티프 라이브러리에서는 이 제목으로 식별된 작품을 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 작품이나 다른 매체와 자동으로 같은 항목으로 취급하지 않는다."
+        "KittenAround와 TheVeniceAngel이 쓴 이야기에서 구피는 그날 밤이 보름이라는 사실을 잊고 출근한다. 손님들 앞에서 변하지 않으려고 숨을 곳을 찾으면서 일하던 장소 자체가 곤란의 무대가 된다.\n\n구피는 남자 화장실을 차지해 변신을 감추려 하지만 도널드가 급히 들어와야 해서 자리를 비워야 한다. 한 인물의 안전한 은신처가 다른 인물에게는 당장 필요한 시설이라는 점에서 두 사정이 충돌한다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

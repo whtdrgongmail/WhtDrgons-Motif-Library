@@ -4,8 +4,8 @@
   "title": "플레이어의 치료가 적을 살림",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02804",
+  "primary_tag_id": "ML-T02804",
   "description": {
     "definition": "플레이어가 사용한 회복 행동이 보스에게 이득이 되어 잘못된 선택을 벌하거나 전투를 어렵게 만드는 기제이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "보스를 의도적으로 살려야 하는 임무와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.020",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

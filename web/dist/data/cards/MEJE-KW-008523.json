@@ -4,8 +4,8 @@
   "title": "도중에 서둘러 연료 채우기",
   "original": "Emergency Refuelling",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02790",
+  "primary_tag_id": "ML-T02790",
   "description": {
     "definition": "연료가 거의 떨어진 탈것이 임무나 도주를 이어 가기 위해 위험한 상황에서 급유해야 하는 사건이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -7,14 +7,14 @@
   "tag_id": "ML-T00139",
   "primary_tag_id": "ML-T00139",
   "description": {
-    "definition": "《Eagle》는 음악·음향 작품이다.",
+    "definition": "먼 곳에서 찾아온 새들의 이야기를 들으며 자신도 독수리가 되어 날기를 꿈꾸는 아바의 노래다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.008",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "아바의 앨범 《[[The Album]]》은 가장 긴 곡인 〈Eagle〉로 시작해 긴 곡을 도입부에 배치한다.",
+    "easy_ko": "새들이 들려주는 여행담을 듣다 보면 어느새 화자도 그 옆에서 날고 있다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000653",
+      "card_id": "MM-MEDIA-002673",
+      "label_ko": "작품 자료",
+      "icon_key": "website",
+      "url": "https://abbasite.com/discography/",
+      "description_ko": "작품 정보와 사례를 확인하는 외부 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Eagle》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "화자는 낯선 곳에서 온 새들이 자신이 가 보지 못한 땅과 지평선을 안다는 데 매혹된다. 노래가 후렴에 이르면 이야기를 듣던 사람은 산과 숲과 바다 위를 나는 독수리의 시점으로 옮겨 간다.\n\n《[[The Album]]》은 이 곡으로 시작한다. 밤새 새들과 대화하던 화자가 자신이 정말 날고 있는지 되묻는 대목은 후렴에서 거듭 펼쳐지는 비행에 꿈의 성격을 남긴다.",
     "sections": [
       [
         "상세 설명",
-        "《Eagle》라는 표제는 음악·음향 작품을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 음악·음향을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "화자는 낯선 곳에서 온 새들이 자신이 가 보지 못한 땅과 지평선을 안다는 데 매혹된다. 노래가 후렴에 이르면 이야기를 듣던 사람은 산과 숲과 바다 위를 나는 독수리의 시점으로 옮겨 간다.\n\n《[[The Album]]》은 이 곡으로 시작한다. 밤새 새들과 대화하던 화자가 자신이 정말 날고 있는지 되묻는 대목은 후렴에서 거듭 펼쳐지는 비행에 꿈의 성격을 남긴다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }
