@@ -4,8 +4,8 @@
   "title": "한 전장에서 탑승 전투와 도보 전투 바꾸기",
   "original": "On-Ride/On-Foot Combat",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04124",
+  "primary_tag_id": "ML-T04124",
   "description": {
     "definition": "같은 스테이지나 세계 안에서 탈것·기체에 탄 전투와 내려서 하는 전투가 흔하게 전환되는 게임 방식이다.",
     "detail": "작품 사례: 《[[오버워치]]》의 D.Va는 메카에서 싸우다가 탈출하면 도보로 전투를 계속하며, 조건을 채워 새 메카를 호출해 다시 탑승한다.",
@@ -13,11 +13,11 @@
     "boundary": "서로 다른 스테이지에 탑승 구간과 도보 구간을 따로 배정한 것과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-19",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.001.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

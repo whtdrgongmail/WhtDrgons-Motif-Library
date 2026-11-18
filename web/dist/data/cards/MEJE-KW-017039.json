@@ -4,8 +4,8 @@
   "title": "이미지 중심 익명 게시판",
   "original": "Imageboards",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F15",
+  "tag_id": "MEJE-KW-028204",
+  "primary_tag_id": "MEJE-KW-028204",
   "description": {
     "definition": "이미지 게시와 그에 이어지는 대화를 중심으로 여러 주제별 게시판을 운영하는 온라인 공동체 형식.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-19",
+  "row_version": 3,
   "classification": {
-    "code": "15",
-    "review_status": "provisional",
+    "code": "02.009.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "platform",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "그림 한 장으로 대화글을 시작하고 익명의 이용자들이 댓글과 이미지를 덧붙이는 게시판이다.",
     "review_status": "reviewed",

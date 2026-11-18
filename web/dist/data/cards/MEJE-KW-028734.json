@@ -4,8 +4,8 @@
   "title": "공식 공간 번호에 남은 빈 번호",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F14",
+  "tag_id": "ML-T04037",
+  "primary_tag_id": "ML-T04037",
   "description": {
     "definition": "층·방·구역 번호가 이어지다가 특정 번호를 건너뛰어 이름 붙은 공간의 목록에 공백을 남기는 구성이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "번호의 공백만으로 비밀방이나 실제 공간의 소멸을 확정하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-19",
+  "row_version": 2,
   "classification": {
-    "code": "14",
-    "review_status": "provisional",
+    "code": "23.009.026",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

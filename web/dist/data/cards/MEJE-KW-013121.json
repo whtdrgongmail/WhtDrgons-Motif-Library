@@ -4,8 +4,8 @@
   "title": "같은 무기의 보조 공격 모드",
   "original": "Secondary Fire",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04124",
+  "primary_tag_id": "ML-T04124",
   "description": {
     "definition": "하나의 무기에서 서로 다른 공격 방식을 선택하여 전환할 수 있게 하는 [[게임]] 기능이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "새 부착물을 장착하는 행위나 독립된 두 무기를 함께 드는 것과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-19",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.001.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

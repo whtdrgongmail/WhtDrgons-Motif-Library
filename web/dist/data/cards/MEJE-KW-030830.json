@@ -4,8 +4,8 @@
   "title": "차에 부딪혀도 멀쩡한 보행자가 차를 부수기",
   "original": "Pedestrian Crushes Car",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T03914",
+  "primary_tag_id": "ML-T03914",
   "description": {
     "definition": "움직이는 자동차와 보행자가 충돌했는데 사람이 다치지 않고 오히려 차량에 큰 손상을 준다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "사람이 도구로 정차 차량을 부수는 경우와 달리 충돌의 일반적인 힘 관계가 뒤집힌다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-19",
+  "row_version": 2,
   "classification": {
-    "code": "17",
-    "review_status": "provisional",
+    "code": "17.023",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

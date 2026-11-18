@@ -6,8 +6,8 @@
   "aliases": [
     "응답자가 제거된 경비 연락망"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T00692",
+  "primary_tag_id": "ML-T00692",
   "description": {
     "definition": "지휘자가 차례로 경비초소에 연락하지만 이미 제압된 경비원들이 응답하지 않아 침입자의 접근을 드러내는 긴장 연출이다.",
     "detail": "",
@@ -15,10 +15,10 @@
     "boundary": "통신기 고장 자체보다 경비 병력이 제거되었다는 의미가 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-19",
+  "row_version": 3,
   "classification": {
-    "code": "22",
+    "code": "06.003.006",
     "review_status": "provisional",
     "row_version": 1
   },

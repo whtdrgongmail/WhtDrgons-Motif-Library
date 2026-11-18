@@ -4,8 +4,8 @@
   "title": "해충을 명령하는 능력",
   "original": "Pest Controller",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T04140",
+  "primary_tag_id": "ML-T04140",
   "description": {
     "definition": "해충으로 여겨지는 작은 생물들을 자신의 의지에 따라 움직이게 하는 능력이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "벌레를 죽이거나 쫓는 방제 기술과 달리 살아 있는 무리의 행동을 지휘한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-19",
+  "row_version": 2,
   "classification": {
-    "code": "17",
-    "review_status": "provisional",
+    "code": "17.002.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

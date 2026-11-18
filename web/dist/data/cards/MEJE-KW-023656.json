@@ -4,8 +4,8 @@
   "title": "토크와 여러 놀이를 섞는 예능 프로그램",
   "original": "Variety show",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T00063",
+  "primary_tag_id": "ML-T00063",
   "description": {
     "definition": "고정 진행자와 회차별 출연자가 대화·게임 등 여러 짧은 활동을 함께 수행하는 방송 형식이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "서구 버라이어티의 역사적 형식이나 모든 리얼리티 프로그램과 동일하지 않다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-19",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "02.014.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "is_a",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 프로그램 안에서 이야기하고 놀며 다양한 코너를 진행한다.",
     "review_status": "reviewed",

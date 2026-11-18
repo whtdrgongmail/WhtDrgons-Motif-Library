@@ -4,8 +4,8 @@
   "title": "장비를 최소화하여 게임을 끝내는 도전",
   "original": "MinimalistRun",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F26",
+  "tag_id": "MEJE-KW-004670",
+  "primary_tag_id": "MEJE-KW-004670",
   "description": {
     "definition": "사용하거나 획득하는 장비를 가능한 적게 제한하면서 게임을 완료하려는 플레이 방식이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "낮은 레벨 도전은 성장 수치를 줄이며 현재 항목은 장비의 양을 줄이는 조건에 한정한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-19",
+  "row_version": 2,
   "classification": {
-    "code": "26",
-    "review_status": "provisional",
+    "code": "25.015",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "play_conduct",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "좋은 장비를 많이 모으지 않고 꼭 필요한 것만으로 끝낸다.",
     "review_status": "reviewed",

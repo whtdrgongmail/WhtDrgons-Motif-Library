@@ -4,8 +4,8 @@
   "title": "희극",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F30",
+  "tag_id": "ML-T00306",
+  "primary_tag_id": "ML-T00306",
   "description": {
     "definition": "웃음이나 풍자 등 희극적 효과를 주요하게 사용하는 작품 또는 장르다.",
     "detail": "",
@@ -13,14 +13,23 @@
     "boundary": "가벼운 장면 하나만으로 작품 전체를 희극이라 분류하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-19",
+  "row_version": 2,
   "classification": {
-    "code": "30",
+    "code": "03.110",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "genre_family",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "provisional",
+    "row_version": 2
+  },
   "easy_explanation": {
     "easy_ko": "희극은 웃음이나 풍자를 중요한 효과로 삼는 작품입니다.",
     "review_status": "reviewed",
