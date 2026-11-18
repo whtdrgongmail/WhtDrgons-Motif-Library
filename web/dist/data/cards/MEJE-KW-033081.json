@@ -4,8 +4,8 @@
   "title": "평범한 사람들이 중심인 뮤직비디오",
   "original": "Ordinary People's Music Video",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F22",
+  "tag_id": "ML-T00143",
+  "primary_tag_id": "ML-T00143",
   "description": {
     "definition": "화려한 의상과 스타의 과시 대신 거리나 직장에서 만날 법한 평범한 사람들의 모습을 중심에 둔 뮤직비디오 형식이다.",
     "detail": "작품 사례: 더 블랙 키스의 〈[[Lonely Boy]]〉 뮤직비디오는 경비원 데릭 T. 터글이 혼자 춤추고 립싱크하는 모습을 중심으로 이어진다. 유명 가수의 화려한 이미지 대신 일상적인 사람의 몸짓이 화면을 채운다.",
@@ -13,14 +13,22 @@
     "boundary": "출연자가 실제로 비전문가인지 여부보다 영상이 일상적인 사람의 모습에 초점을 맞추는지가 중요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-19",
+  "row_version": 2,
   "classification": {
-    "code": "22",
+    "code": "02.008.004",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "work_form",
+    "parent_relation": "contextual",
+    "allowed_roles": [
+      "medium"
+    ],
+    "review_status": "provisional",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "보통 사람의 표정과 몸짓이 노래의 화면이 된다.",
     "review_status": "reviewed",

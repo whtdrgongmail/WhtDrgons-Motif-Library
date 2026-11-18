@@ -4,8 +4,8 @@
   "title": "플레이어 밖의 생활 일정이 있는 NPC",
   "original": "NPC Scheduling",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T04199",
+  "primary_tag_id": "ML-T04199",
   "description": {
     "definition": "비플레이어 인물이 플레이어의 접근에만 반응하는 대신 자기 생활과 일정에 따라 행동하는 구성이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "대기하다가 말을 걸면 대사만 하는 인물과 구별한다. 플레이어의 직접 요구 밖에서도 생활이 이어진다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-19",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.077",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
