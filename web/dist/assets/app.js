@@ -20,7 +20,6 @@
   const norm = s => (s || '').normalize('NFKC').toLocaleLowerCase().replace(/[\s_-]+/g, '');
   const esc = s => String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const seenKey = 'meje-seen-cards-v1';
-  const favoriteKey = 'meje-favorite-cards-v1';
   // Public GA4 measurement ID. Leave blank until the property is ready.
   const analyticsMeasurementId = 'G-6YDW0J42W6';
   if (/^G-[A-Z0-9]+$/.test(analyticsMeasurementId)) {
@@ -41,22 +40,14 @@
     } catch (_) { return new Set(); }
   }
   let seenCards = readCardIds(seenKey);
-  let favoriteCards = readCardIds(favoriteKey);
   const track = (name, params) => { if (typeof window.gtag === 'function') window.gtag('event', name, params); };
   function seenButtonHTML(id, title) {
     const marked = seenCards.has(id);
     const label = `${title} · ${marked ? '본 카드 표시 해제' : '본 카드로 표시'}`;
     return `<button type="button" class="seen-button" data-seen-card="${esc(id)}" data-seen-title="${esc(title)}" aria-pressed="${marked}" aria-label="${esc(label)}" title="${esc(label)}"><span class="heart" aria-hidden="true">${marked ? '♥' : '♡'}</span></button>`;
   }
-  function diamondButtonHTML(id, title) {
-    const marked = favoriteCards.has(id);
-    const label = `${title} · ${marked ? '관심 카드에서 제거' : '관심 카드에 저장'} (내 관심 카드 ${favoriteCards.size}개)`;
-    return `<button type="button" class="diamond-button" data-favorite-card="${esc(id)}" data-favorite-title="${esc(title)}" aria-pressed="${marked}" aria-label="${esc(label)}" title="${esc(label)}"><span class="diamond-symbol" aria-hidden="true">◆</span><span class="diamond-count" aria-hidden="true">${favoriteCards.size}</span></button>`;
-  }
-  function cardActionsHTML(id, title, detail = false) {
-    const heart = seenButtonHTML(id, title);
-    const diamond = diamondButtonHTML(id, title);
-    return `<div class="card-actions">${detail ? heart + diamond : diamond + heart}</div>`;
+  function cardActionsHTML(id, title) {
+    return `<div class="card-actions">${seenButtonHTML(id, title)}</div>`;
   }
   function refreshSeenButtons(id) {
     document.querySelectorAll('button[data-seen-card]').forEach(button => {
@@ -67,16 +58,6 @@
       button.setAttribute('aria-label', label);
       button.title = label;
       button.querySelector('.heart').textContent = marked ? '♥' : '♡';
-    });
-  }
-  function refreshDiamondButtons() {
-    document.querySelectorAll('button[data-favorite-card]').forEach(button => {
-      const marked = favoriteCards.has(button.dataset.favoriteCard);
-      const label = `${button.dataset.favoriteTitle} · ${marked ? '관심 카드에서 제거' : '관심 카드에 저장'} (내 관심 카드 ${favoriteCards.size}개)`;
-      button.setAttribute('aria-pressed', String(marked));
-      button.setAttribute('aria-label', label);
-      button.title = label;
-      button.querySelector('.diamond-count').textContent = favoriteCards.size;
     });
   }
   document.addEventListener('click', event => {
@@ -92,33 +73,17 @@
     refreshSeenButtons(id);
     track('motif_seen_toggle', {card_id: id, seen_status: marked ? 'marked' : 'unmarked'});
   });
-  document.addEventListener('click', event => {
-    const button = event.target.closest('button[data-favorite-card]');
-    if (!button) return;
-    event.preventDefault();
-    event.stopPropagation();
-    const id = button.dataset.favoriteCard;
-    if (!cardIdPattern.test(id)) return;
-    const marked = !favoriteCards.has(id);
-    if (marked) favoriteCards.add(id); else favoriteCards.delete(id);
-    try { localStorage.setItem(favoriteKey, JSON.stringify([...favoriteCards])); } catch (_) {}
-    refreshDiamondButtons();
-    track('motif_favorite_toggle', {card_id: id, favorite_status: marked ? 'saved' : 'removed'});
-  });
   addEventListener('storage', event => {
     if (event.key === seenKey) {
       seenCards = readCardIds(seenKey);
       refreshSeenButtons();
-    } else if (event.key === favoriteKey) {
-      favoriteCards = readCardIds(favoriteKey);
-      refreshDiamondButtons();
     }
   });
   const detailCard = $('.detail-reading[data-card-id]');
   if (detailCard) {
     const heading = detailCard.querySelector('h1');
     const cover = $('.detail-cover-card');
-    if (cover) cover.insertAdjacentHTML('beforeend', cardActionsHTML(detailCard.dataset.cardId, heading?.textContent?.trim() || '카드', true));
+    if (cover) cover.insertAdjacentHTML('beforeend', cardActionsHTML(detailCard.dataset.cardId, heading?.textContent?.trim() || '카드'));
   }
   const input = $('#card-search') || $('#tree-search');
   document.addEventListener('keydown', event => {
