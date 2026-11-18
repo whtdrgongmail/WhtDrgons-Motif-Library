@@ -4,8 +4,8 @@
   "title": "주위를 도는 입자 방패",
   "original": "Orbiting Particle Shield",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T03064",
+  "primary_tag_id": "ML-T03064",
   "description": {
     "definition": "에너지 구체·돌·다른 물체가 인물이나 대상의 주위를 돌며 공격을 막거나 접촉한 적에게 피해를 주는 방어 능력이다.",
     "detail": "방어 물체를 공격 수단으로 던지는 변형도 있다. 게임에서는 강화 요소나 보스의 방어 패턴으로 사용할 수 있다.\n\n작품 사례: 《[[킹덤 하츠 II]]》에서 MCP는 회전하는 보호 장벽 안에 있다. 플레이어는 패널을 없애거나 회전이 느려지는 때를 기다려 본체를 공격해야 하므로 장벽의 움직임과 틈이 전투의 규칙이 된다.",
@@ -13,11 +13,11 @@
     "boundary": "이어진 단일 막과 달리 입자 사이의 간격이나 개별 물체의 파괴가 약점이 될 수 있다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "17",
-    "review_status": "provisional",
+    "code": "17.018",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

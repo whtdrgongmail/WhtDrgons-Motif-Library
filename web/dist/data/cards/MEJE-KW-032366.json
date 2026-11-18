@@ -4,8 +4,8 @@
   "title": "기존 적을 쓰러뜨려야 생기는 새 적",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03031",
+  "primary_tag_id": "ML-T03031",
   "description": {
     "definition": "동시에 활동하는 적의 수에 상한을 두고 기존 적이 제거된 뒤에만 다음 적을 등장시키는 생성 규칙이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "일정 시간이 되면 무조건 증원되는 방식이나 모든 적을 없애야 종료되는 전투와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.005.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

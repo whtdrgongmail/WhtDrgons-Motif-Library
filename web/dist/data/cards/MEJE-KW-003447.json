@@ -4,8 +4,8 @@
   "title": "막기만 하면 피해를 전혀 받지 않는 규칙",
   "original": "Blocking Stops All Damage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
     "definition": "공격의 크기와 종류에 관계없이 막기 동작이 성공하면 피해가 사라진다. 방어의 타이밍이 세계의 물리적 결과보다 중요한 게임 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005",
     "review_status": "provisional",
     "row_version": 1
   },

@@ -4,8 +4,8 @@
   "title": "원격 설비 조작으로 현장 임무를 돕기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03006",
+  "primary_tag_id": "ML-T03006",
   "description": {
     "definition": "현장 밖 지원자가 통신으로 주변의 문·카메라·무인장비 등 연결된 설비를 제어하여 수행자의 행동을 돕는 구성이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "현실 시스템의 침입 방법을 뜻하지 않으며 작품에서 허용한 연결과 권한의 조건에 따른다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

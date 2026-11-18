@@ -4,8 +4,8 @@
   "title": "날짜를 묻는데 불필요하게 복잡한 시간 계산으로 답하기",
   "original": "UnnecessaryTimePrecision",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T02691",
+  "primary_tag_id": "ML-T02691",
   "description": {
     "definition": "단순히 과거 날짜나 시점을 알려 달라는 요청에 복잡하고 지나치게 정밀한 시간 계산을 동원하여 대답하는 표현 방식이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "정확한 숫자를 말하는 일반 습관보다 날짜 회상의 질문과 과도한 계산의 불일치가 조건이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "23",
-    "review_status": "provisional",
+    "code": "23.006.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -52003,6 +52003,1356 @@
         "row_version": 1
       },
       "semantics": null
+    },
+    {
+      "id": "ML-T02934",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "회차 변화와 기본 상태의 유지",
+      "classification": {
+        "code": "05.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02935",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "계획이 어긋난 뒤의 대안 전환",
+      "classification": {
+        "code": "05.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02936",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "증거에 따른 수사 방향 전환",
+      "classification": {
+        "code": "05.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02937",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "일부 장면을 숨기는 사건 제시",
+      "classification": {
+        "code": "05.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02938",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "목표 성취 직전의 좌절",
+      "classification": {
+        "code": "05.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02939",
+      "facet_id": "ML-F05",
+      "parent_id": "ML-F05",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "이야기의 목표를 위한 인원 결집",
+      "classification": {
+        "code": "05.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02940",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-T02277",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "장기 제작에서 표현이 굳어지거나 달라지기",
+      "classification": {
+        "code": "27.005.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02941",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-T02293",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "내용과 어긋나는 작품 판촉",
+      "classification": {
+        "code": "27.007.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02942",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-T02277",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "팬 기대에 따른 본편 조정",
+      "classification": {
+        "code": "27.005.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02943",
+      "facet_id": "ML-F27",
+      "parent_id": "ML-T02285",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "시장의 범위에 따라 달라지는 판본 구성",
+      "classification": {
+        "code": "27.006.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02960",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "가려진 대상과 정체의 공개",
+      "classification": {
+        "code": "22.028",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02961",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "풍경과 날씨로 맞추거나 어긋내는 정서",
+      "classification": {
+        "code": "22.029",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02962",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "화면으로 드러내는 인물의 지각 변화",
+      "classification": {
+        "code": "22.030",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02963",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "발화에 맞물리는 시각 신호",
+      "classification": {
+        "code": "22.031",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02964",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "끝을 알리는 종결 화면",
+      "classification": {
+        "code": "22.032",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02965",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기계 외형과 작동을 감상시키는 화면",
+      "classification": {
+        "code": "22.033",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02966",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "외형으로 부여하는 악역의 표지",
+      "classification": {
+        "code": "22.034",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02967",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "신체 상태를 짐작하게 하는 관용적 표지",
+      "classification": {
+        "code": "22.035",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02968",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기존 장면과 이미지의 시각적 재현 인용",
+      "classification": {
+        "code": "22.036",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02969",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "갑작스러운 화면과 소리의 놀람",
+      "classification": {
+        "code": "22.037",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02970",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "위해를 예고하는 말",
+      "classification": {
+        "code": "23.006.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02971",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "말을 바꾸거나 거두는 응답",
+      "classification": {
+        "code": "23.006.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02972",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "청중을 향한 작중 인물의 직접 발화",
+      "classification": {
+        "code": "23.006.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02973",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "안심을 주거나 유지하려는 말",
+      "classification": {
+        "code": "23.006.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02974",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "의도적으로 변형한 글자 표기",
+      "classification": {
+        "code": "23.009.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02975",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01993",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "상투 표현의 의도적 변주",
+      "classification": {
+        "code": "23.009.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02976",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-F23",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "발화의 청취·이해가 어긋나는 장면",
+      "classification": {
+        "code": "23.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02977",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01947",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "작품의 개연성을 대사로 짚기",
+      "classification": {
+        "code": "23.004.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02978",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01947",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "덧붙인 설정 설명이 만드는 새 충돌",
+      "classification": {
+        "code": "23.004.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02979",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-F23",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "말의 끝에서 다른 뜻으로 꺾이는 농담",
+      "classification": {
+        "code": "23.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02980",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-F23",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "여러 농담을 짧은 간격으로 이어 붙이기",
+      "classification": {
+        "code": "23.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02981",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-F23",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기록 형식으로 드러나는 이야기",
+      "classification": {
+        "code": "23.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02982",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-F23",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "말한 사람의 주장과 근거를 짚는 반박",
+      "classification": {
+        "code": "23.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02983",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-T01917",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "얼굴의 특징을 덜어 내는 작화",
+      "classification": {
+        "code": "22.010.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02984",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "숙련된 동작을 감상시키는 연출",
+      "classification": {
+        "code": "22.038",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02985",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "일상 작업을 극적 장면처럼 연출하기",
+      "classification": {
+        "code": "22.039",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02986",
+      "facet_id": "ML-F22",
+      "parent_id": "ML-F22",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "움직이는 실제 인형의 영상 연기",
+      "classification": {
+        "code": "22.040",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02987",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "전적과 힘을 앞세우는 자기 과시",
+      "classification": {
+        "code": "23.006.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02988",
+      "facet_id": "ML-F23",
+      "parent_id": "ML-T01962",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "부정적인 말을 칭찬으로 받아들이는 응답",
+      "classification": {
+        "code": "23.006.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03030",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02133",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "전투·채집 전리품의 발생과 배정",
+      "classification": {
+        "code": "25.008.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03031",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02106",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "적의 재등장과 생성 수 제한",
+      "classification": {
+        "code": "25.005.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03032",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공격 이후의 피해·생존 판정",
+      "classification": {
+        "code": "25.032",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03033",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "일반 적과 보스의 지위 변형",
+      "classification": {
+        "code": "25.033",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03034",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "장비의 장착 조건과 슬롯 구성",
+      "classification": {
+        "code": "25.034",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03035",
+      "facet_id": "ML-F28",
+      "parent_id": "ML-T02615",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "외모와 복장에 부여되는 성별 자격",
+      "classification": {
+        "code": "28.011.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03036",
+      "facet_id": "ML-F28",
+      "parent_id": "ML-T02617",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "특정 인물에게 예외적으로 주어지는 생존",
+      "classification": {
+        "code": "28.013.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03060",
+      "facet_id": "ML-F17",
+      "parent_id": "ML-T01499",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공동 의식과 다중 신체",
+      "classification": {
+        "code": "17.002.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03061",
+      "facet_id": "ML-F17",
+      "parent_id": "ML-F17",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "자연의 규칙을 직접 바꾸는 능력",
+      "classification": {
+        "code": "17.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03062",
+      "facet_id": "ML-F17",
+      "parent_id": "ML-F17",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "본래 몸에서 분리되는 의식",
+      "classification": {
+        "code": "17.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03063",
+      "facet_id": "ML-F17",
+      "parent_id": "ML-F17",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "음향과 물질 진동의 제어",
+      "classification": {
+        "code": "17.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03064",
+      "facet_id": "ML-F17",
+      "parent_id": "ML-F17",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "물체와 접촉을 막는 힘의 장벽",
+      "classification": {
+        "code": "17.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03065",
+      "facet_id": "ML-F17",
+      "parent_id": "ML-F17",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "추적하거나 반사되는 투사체",
+      "classification": {
+        "code": "17.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03066",
+      "facet_id": "ML-F17",
+      "parent_id": "ML-F17",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기계의 초자연적 감지와 제어",
+      "classification": {
+        "code": "17.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03067",
+      "facet_id": "ML-F17",
+      "parent_id": "ML-T01508",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공간 통로를 열어 보내거나 가져오기",
+      "classification": {
+        "code": "17.003.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03068",
+      "facet_id": "ML-F21",
+      "parent_id": "ML-T01832",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "일본 갸루 계열의 외형 표현",
+      "classification": {
+        "code": "21.008.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03069",
+      "facet_id": "ML-F21",
+      "parent_id": "ML-T02772",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "낯선 입과 턱의 신체 조형",
+      "classification": {
+        "code": "21.011.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03070",
+      "facet_id": "ML-F21",
+      "parent_id": "ML-F21",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "표지의 인물 배치와 연작 구성",
+      "classification": {
+        "code": "21.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03071",
+      "facet_id": "ML-F21",
+      "parent_id": "ML-F21",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "과장된 몸짓과 표정의 연기",
+      "classification": {
+        "code": "21.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03072",
+      "facet_id": "ML-F21",
+      "parent_id": "ML-F21",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "익숙한 화풍과 화면 문법의 차용",
+      "classification": {
+        "code": "21.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03073",
+      "facet_id": "ML-F21",
+      "parent_id": "ML-F21",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "외형의 기대와 성격의 대비",
+      "classification": {
+        "code": "21.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03000",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "규율 위반 뒤에 가하는 징계",
+      "classification": {
+        "code": "07.026",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03001",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "받은 해에 대한 보복 행동",
+      "classification": {
+        "code": "07.027",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03002",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "규칙과 경고를 알고도 어기는 행동",
+      "classification": {
+        "code": "07.028",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03003",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "위급함을 타인에게 알리는 행동",
+      "classification": {
+        "code": "07.029",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03004",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "다른 사람의 일과 결정을 대신 맡기",
+      "classification": {
+        "code": "07.030",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03005",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "지위의 획득·상실을 알리는 인사 조치",
+      "classification": {
+        "code": "07.031",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03006",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공동 목표를 위한 합의와 행동 조율",
+      "classification": {
+        "code": "07.032",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03007",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "숨긴 정보와 대화를 몰래 듣거나 얻기",
+      "classification": {
+        "code": "07.033",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03008",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대응이 문제를 더 키우는 역효과",
+      "classification": {
+        "code": "07.034",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03009",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "자기 정체성의 충돌과 재구성",
+      "classification": {
+        "code": "11.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03010",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "성적 지향과 성별 정체성의 자각",
+      "classification": {
+        "code": "11.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03011",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "정해 둔 위해 금지선을 지키기",
+      "classification": {
+        "code": "11.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03012",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "도움이나 책임을 지속하다 겪는 소진",
+      "classification": {
+        "code": "11.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03013",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연애와 애착에서 거리를 두려는 동기",
+      "classification": {
+        "code": "11.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03014",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "사람이나 세계를 이상적으로 받아들이기",
+      "classification": {
+        "code": "11.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03015",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "타인의 안녕을 위한 자발적 도움",
+      "classification": {
+        "code": "11.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03016",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "고통과 해악 자체에서 느끼는 즐거움",
+      "classification": {
+        "code": "11.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03017",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "자신을 향한 책임과 죄책감의 과잉",
+      "classification": {
+        "code": "11.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03018",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "귀에 들리는 듯한 내면의 목소리",
+      "classification": {
+        "code": "11.025",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03019",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "예속 상태를 유지하려는 동기",
+      "classification": {
+        "code": "11.026",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03020",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "유령이 현세에 계속 머물려는 동기",
+      "classification": {
+        "code": "11.027",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03021",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "간단한 인상으로 사람을 단정하는 판단",
+      "classification": {
+        "code": "11.028",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03022",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "남은 목표를 다시 찾는 동기 변화",
+      "classification": {
+        "code": "11.029",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03023",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "선행과 자제에 작용하는 실리",
+      "classification": {
+        "code": "11.030",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03024",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "행사의 기대를 깨뜨리는 소동",
+      "classification": {
+        "code": "07.035",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03025",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "다른 사람의 연애를 주선하는 행동",
+      "classification": {
+        "code": "07.036",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03026",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "동의 없이 행동을 맡기거나 시키기",
+      "classification": {
+        "code": "07.037",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03027",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "물건이나 사람의 소재를 숨기기",
+      "classification": {
+        "code": "07.038",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03028",
+      "facet_id": "ML-F07",
+      "parent_id": "ML-F07",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "법정에서 다루는 심리와 판단",
+      "classification": {
+        "code": "07.039",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03029",
+      "facet_id": "ML-F11",
+      "parent_id": "ML-F11",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "반대 경험으로 흔들리거나 돌아오는 신념",
+      "classification": {
+        "code": "11.031",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
     }
   ]
 }

@@ -4,8 +4,8 @@
   "title": "스스로 표적을 추적하는 발사체",
   "original": "Homing Projectile",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T03065",
+  "primary_tag_id": "ML-T03065",
   "description": {
     "definition": "발사된 뒤에도 목표의 움직임에 맞춰 경로를 바꾸며 의도한 대상을 쫓는 투사체나 공격이다.",
     "detail": "작품 사례: [[Elden Ring]]의 부패의 권속이 쏜 가시는 도망가는 플레이어를 따라 궤도를 꺾어, 중간에 발판을 두고 피하려 해도 쫓아온다.",
@@ -13,11 +13,11 @@
     "boundary": "발사자가 계속 수동으로 조종하는 무기나 이유 없이 판정만 따라가는 투사체와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "17",
-    "review_status": "provisional",
+    "code": "17.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

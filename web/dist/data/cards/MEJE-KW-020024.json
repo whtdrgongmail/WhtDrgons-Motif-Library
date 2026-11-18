@@ -4,8 +4,8 @@
   "title": "쇠약해질수록 특정 행동에 취약해지는 규칙",
   "original": "Injured Vulnerability",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
     "definition": "체력이 낮아지거나 상태 이상에 걸린 대상에게 특정 기술이 더 잘 통하거나 추가 효과가 생기도록 설계한 전투 규칙이다.",
     "detail": "작품 사례: 《[[갓 오브 워]]》에서는 여러 적을 먼저 약화시켜야 붙잡을 수 있어, 체력을 줄이는 공격과 마무리 행동의 순서가 연결된다.",
@@ -13,10 +13,10 @@
     "boundary": "체력이 단순히 줄었다는 사실과 별개로 다른 효과의 조건과 성공률이 바뀐다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005",
     "review_status": "provisional",
     "row_version": 1
   },

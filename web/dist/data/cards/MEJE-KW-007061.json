@@ -4,8 +4,8 @@
   "title": "식사를 빼앗는 벌",
   "original": "Denied Food as Punishment",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03000",
+  "primary_tag_id": "ML-T03000",
   "description": {
     "definition": "권한을 가진 인물이 불복종이나 잘못을 이유로 상대의 식사를 금지하는 처벌 장면. 음식에 대한 통제가 두 사람 사이의 권력 차이를 드러낸다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "맛없는 음식이라도 주는 징벌과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.026",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

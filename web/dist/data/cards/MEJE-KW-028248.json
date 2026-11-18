@@ -4,8 +4,8 @@
   "title": "금속 탐지 경보가 몸의 비밀을 드러내기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F23",
+  "tag_id": "ML-T01948",
+  "primary_tag_id": "ML-T01948",
   "description": {
     "definition": "소지한 금속 물품이 없는데도 탐지기가 반응하여 인물의 몸이나 정체에 숨은 비정상적인 요소를 의심하게 하는 단서다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "금속 물품을 숨겼다는 일반적인 적발과 다르다. 외부에서 찾을 수 없는 원인과 정체의 연결이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "23",
+    "code": "23.004.001",
     "review_status": "provisional",
     "row_version": 1
   },

@@ -4,8 +4,8 @@
   "title": "잠수 시간이 끝나면 피해 없이 자동으로 떠오르기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02160",
+  "primary_tag_id": "ML-T02160",
   "description": {
     "definition": "캐릭터가 일정 시간 잠수하면 죽거나 피해를 받는 대신 자동으로 수면에 떠오르게 하여 잠수의 길이만 제한하는 이동 규칙이다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "수면으로 나올 수 없는 지형과의 충돌은 별도로 설계해야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.011",
     "review_status": "provisional",
     "row_version": 1
   },

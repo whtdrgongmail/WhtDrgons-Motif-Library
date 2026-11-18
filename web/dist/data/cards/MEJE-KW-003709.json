@@ -4,8 +4,8 @@
   "title": "추락한 플레이어를 자동으로 건져 주기",
   "original": "Bottomless Pit Rescue Service",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02133",
+  "primary_tag_id": "ML-T02133",
   "description": {
     "definition": "깊은 구덩이에 빠진 순간 조력자나 장치가 인물을 다시 안전한 곳으로 올린다. 실패는 남기되 진행을 끊지 않는 구제 규칙이다. [[바닥이 보이지 않는 낙하 구덩이]]에 빠졌을 때 실패 대신 복귀를 주는 구제 장치다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
+    "code": "25.008",
     "review_status": "provisional",
     "row_version": 1
   },

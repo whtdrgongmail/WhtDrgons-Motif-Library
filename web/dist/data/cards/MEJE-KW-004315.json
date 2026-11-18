@@ -4,8 +4,8 @@
   "title": "경고 표지를 지나 금지된 일을 하기",
   "original": "Can't You Read the Sign?",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03002",
+  "primary_tag_id": "ML-T03002",
   "description": {
     "definition": "인물이 분명한 안내가 있는데도 이미 하려던 행동을 멈추지 않는다. 표지의 내용과 바로 뒤의 행동이 짧은 아이러니를 만든다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

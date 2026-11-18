@@ -4,8 +4,8 @@
   "title": "과도한 수확을 막는 적 생성 중단",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03031",
+  "primary_tag_id": "ML-T03031",
   "description": {
     "definition": "반복 생성되는 적에게서 보상을 지나치게 얻지 못하도록 일정 시간이 지나거나 조건에 도달하면 생성이 멈추게 하는 제한이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.005.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

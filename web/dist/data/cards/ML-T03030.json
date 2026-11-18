@@ -1,0 +1,48 @@
+{
+  "id": "ML-T03030",
+  "kind": "keyword",
+  "title": "전투·채집 전리품의 발생과 배정",
+  "original": "Loot Generation and Allocation",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T03030",
+  "primary_tag_id": "ML-T03030",
+  "description": {
+    "definition": "적을 처치하거나 대상을 채집한 결과 어떤 전리품이 생기고 누가 어떤 절차로 얻는지를 정하는 보상 규칙이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "퀘스트 완료 보상 일반, 얻은 자원을 판매하는 과정, 전투 효과 자체를 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.008.009",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "적을 이기거나 자원을 캐면 무엇이 나오고 누가 가져가는지 정하는 규칙이다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "전리품은 자동으로 지급되거나 별도의 회수 행동을 거쳐 얻을 수 있다. 특정 행동과 재료의 관계에 따라 같은 대상에서도 결과가 달라질 수 있다.\n\n여러 이용자가 같은 대상에 접근할 때 보상을 각자 계산할 수도 있다. 이렇게 보상의 생성과 귀속을 구분하면 자원 흐름이나 참여 방식이 어떻게 달라지는지 알 수 있다.",
+    "sections": [
+      [
+        "상세 설명",
+        "전리품은 자동으로 지급되거나 별도의 회수 행동을 거쳐 얻을 수 있다. 특정 행동과 재료의 관계에 따라 같은 대상에서도 결과가 달라질 수 있다.\n\n여러 이용자가 같은 대상에 접근할 때 보상을 각자 계산할 수도 있다. 이렇게 보상의 생성과 귀속을 구분하면 자원 흐름이나 참여 방식이 어떻게 달라지는지 알 수 있다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

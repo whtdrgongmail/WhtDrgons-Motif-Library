@@ -6,8 +6,8 @@
   "aliases": [
     "증거가 지나치게 많아 드러나는 모함"
   ],
-  "tag_id": null,
-  "primary_tag_id": "ML-F05",
+  "tag_id": "ML-T02936",
+  "primary_tag_id": "ML-T02936",
   "description": {
     "definition": "특정 결론을 가리키는 증거가 지나치게 많이 모여 오히려 자연스럽지 않다는 이유로 조작이나 누명을 알아채는 추리 전개다.",
     "detail": "특정 용의자에게 모든 정황이 지나치게 잘 들어맞는 경우에는 누군가의 모함 가능성을 검토하게 된다.",
@@ -15,11 +15,11 @@
     "boundary": "증거가 많다는 사실만으로 가짜가 되는 것은 아니다. 불필요하게 과도하거나 인위적인 집적이라는 판단 과정이 있어야 한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "05",
-    "review_status": "provisional",
+    "code": "05.021",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

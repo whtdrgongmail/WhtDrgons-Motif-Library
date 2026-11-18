@@ -4,8 +4,8 @@
   "title": "의료진의 조언을 무시하기",
   "original": "Ignoring the Doctor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T03002",
+  "primary_tag_id": "ML-T03002",
   "description": {
     "definition": "건강이나 치료에 관한 의료 전문가의 경고를 알고도 따르지 않아 상태 악화 등의 결과를 부르는 행동이다.",
     "detail": "식사, 휴식, 약물 복용 등 다양한 조언에 적용된다. 특정 식품이나 병의 [[인과]]를 현실 의학의 일반 법칙으로 단정하지 않는다.\n\n작품 사례: 《[[원피스]]》에서 네코마무시는 쵸파가 말린 목욕과 과식, 격한 움직임을 모두 하고 회복 중인 상처가 다시 벌어져 피를 흘린다.",
@@ -13,11 +13,11 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

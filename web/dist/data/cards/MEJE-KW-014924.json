@@ -4,8 +4,8 @@
   "title": "일정 거리 뒤에 시작되는 유도",
   "original": "Roboteching",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T03065",
+  "primary_tag_id": "ML-T03065",
   "description": {
     "definition": "투사체가 발사 직후에는 그대로 날아가다가 일정 거리를 지난 뒤에야 표적을 추적하도록 방향을 바꾸는 공격 방식이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "발사 순간부터 계속 목표를 쫓는 유도탄과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "17",
-    "review_status": "provisional",
+    "code": "17.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

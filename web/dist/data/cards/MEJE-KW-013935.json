@@ -4,8 +4,8 @@
   "title": "회복만 반복하는 전투 교착",
   "original": "Healing Loop",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02106",
+  "primary_tag_id": "ML-T02106",
   "description": {
     "definition": "적의 공격을 버티려 매 차례 회복해야 하므로 공격이나 도주로 진전하지 못하고 당장의 패배만 미루는 게임 전투 상태이다.",
     "detail": "작품 사례: [[Undertale]]의 몰살 경로 최종전에서는 회복만 반복하면 살아남아도 전투가 진전하지 않아, 빗나가더라도 공격할 기회를 만들어야 한다.",
@@ -13,10 +13,10 @@
     "boundary": "적이 스스로 회복한다는 사실만으로 성립하지 않으며 플레이어가 회복 행동에 갇히는 구조가 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
+    "code": "25.005",
     "review_status": "provisional",
     "row_version": 1
   },

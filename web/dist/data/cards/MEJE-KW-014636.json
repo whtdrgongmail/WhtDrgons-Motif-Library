@@ -4,8 +4,8 @@
   "title": "개별 부상을 단계로 기록하기",
   "original": "wound track",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03032",
+  "primary_tag_id": "ML-T03032",
   "description": {
     "definition": "누적된 총체력 하나 대신 각각의 상처와 심각도·상태를 기록하여 부상과 행동 가능성을 판정하는 피해 체계다. 피해가 합계 수치뿐 아니라 구체적 상태로 남는다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "단일 체력 수치에 부상이라는 이름만 붙인 체계와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.032",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "경사로를 이용한 차량 도약",
   "original": "Ramp Jump",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F07",
+  "tag_id": "ML-T02790",
+  "primary_tag_id": "ML-T02790",
   "description": {
     "definition": "탈것이 경사면을 타고 솟아올라 틈이나 장애물을 넘어가는 액션이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "일반적인 경사로 주행과 달리 공중으로 이탈하는 도약이 핵심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "07",
-    "review_status": "provisional",
+    "code": "07.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

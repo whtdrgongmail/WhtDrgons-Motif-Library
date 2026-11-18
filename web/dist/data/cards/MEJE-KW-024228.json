@@ -4,8 +4,8 @@
   "title": "사용 조건이 붙은 강력한 장비와 소비품",
   "original": "Level-Locked Loot",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03034",
+  "primary_tag_id": "ML-T03034",
   "description": {
     "definition": "아이템을 보유해도 캐릭터의 레벨·직업·능력치·명성·성향 등 추가 조건을 충족해야 사용할 수 있도록 제한한다.",
     "detail": "작품 사례: 《[[킹덤 오브 로딩]]》에서는 장비에 능력치 조건을, 소비품에는 레벨 조건을 둔다. 강한 물건을 먼저 얻어도 사용 조건을 충족하기 전에는 쓸 수 없다.",
@@ -13,11 +13,11 @@
     "boundary": "레벨만의 제한으로 한정하지 않는다. 특정 장면에만 등장하는 임시 아이템과도 다르다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.034",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "벽에 반사되어 이어지는 광선",
   "original": "Reflecting Laser",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F17",
+  "tag_id": "ML-T03065",
+  "primary_tag_id": "ML-T03065",
   "description": {
     "definition": "레이저나 빔이 주변 표면에 부딪혀 꺾이며 다음 구간으로 계속 나아가는 공격 설정이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "허공에서 부드럽게 휘어 목표를 추적하는 광선과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "17",
-    "review_status": "provisional",
+    "code": "17.019",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "한 매체에 여러 시스템용 프로그램 담기",
   "original": "hybrid release",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F27",
+  "tag_id": "ML-T02285",
+  "primary_tag_id": "ML-T02285",
   "description": {
     "definition": "서로 다른 컴퓨터나 운영체제용 실행 판본을 하나의 물리적 저장 매체에 함께 제공한다.",
     "detail": "",
@@ -13,10 +13,10 @@
     "boundary": "하나의 동일한 실행 파일이 모든 환경에서 작동한다는 뜻은 아니며 플랫폼별 판본을 묶는 배포 방식이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "27",
+    "code": "27.006",
     "review_status": "provisional",
     "row_version": 1
   },

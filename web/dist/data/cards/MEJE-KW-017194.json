@@ -4,8 +4,8 @@
   "title": "돈을 떨어뜨리는 동물형 적",
   "original": "Money Spider",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T03030",
+  "primary_tag_id": "ML-T03030",
   "description": {
     "definition": "화폐를 사용할 이유가 없는 동물이나 괴물을 처치하면 돈이 전리품으로 나오는 규칙.",
     "detail": "작품 사례: 《[[메이플스토리]]》에서는 몬스터를 처치하면 동전이나 지폐 형태의 메소가 떨어진다. 화폐를 소지할 이유가 불명확한 적도 수입원이 되는 규칙이다.",
@@ -13,11 +13,11 @@
     "boundary": "인간형 적의 소지금이나 현상금의 지급은 제외한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.008.009",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,
