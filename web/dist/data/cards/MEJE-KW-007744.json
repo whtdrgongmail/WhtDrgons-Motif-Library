@@ -4,8 +4,8 @@
   "title": "떠난 연인을 닮은 새 상대",
   "original": "Doppelgänger Replacement Love Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02658",
+  "primary_tag_id": "ML-T02658",
   "description": {
     "definition": "잃거나 헤어진 연인과 거의 같은 모습의 다른 인물을 새 사랑의 상대로 만나 관계를 다시 시작한다. [[아는 사람을 닮은 연인]]은 잃은 연인의 대체자가 아니라 다른 가까운 인물을 닮았을 때도 일어날 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.028",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "잃거나 헤어진 연인과 거의 똑같은 다른 인물을 만나 새 사랑을 시작하는 전개다. 새 상대를 독립적인 사람으로 볼 수 있는지가 중요하며, [[아는 사람을 닮은 연인]]보다 이전 사랑의 상실과 대체하려는 기대가 직접적으로 얽힌다.",
     "review_status": "reviewed",

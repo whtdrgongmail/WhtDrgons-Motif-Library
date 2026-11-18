@@ -4,8 +4,8 @@
   "title": "사건 관련 물건을 가진 것만으로 유죄로 보기",
   "original": "Possession Presumes Guilt",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F08",
+  "tag_id": "ML-T02742",
+  "primary_tag_id": "ML-T02742",
   "description": {
     "definition": "범행이나 사건에 연결된 물건을 소지했다는 사실만으로 그 사람이 책임자라고 추정하는 상황이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "다른 증거까지 확인해 책임이 입증된 경우와 구별하며 현실의 법적 추정 원칙으로 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "08",
-    "review_status": "provisional",
+    "code": "08.006.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

@@ -4,8 +4,8 @@
   "title": "관계망",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02670",
+  "primary_tag_id": "ML-T02670",
   "description": {
     "definition": "인물·집단·장소 등이 맺는 관계와 그 연결 구조다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "개별 관계 하나보다 여러 연결의 구조를 가리킨다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.040",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "누가 누구와 어떤 관계인지 이어 놓은 구조다.",
     "review_status": "reviewed",

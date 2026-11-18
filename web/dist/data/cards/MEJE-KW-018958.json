@@ -4,8 +4,8 @@
   "title": "흉터의 사연을 묻는 친밀한 대화",
   "original": "Scar Survey",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02641",
+  "primary_tag_id": "ML-T02641",
   "description": {
     "definition": "호의적인 관계의 인물이 상대 몸의 흉터를 보고 그 사연을 물어 과거와 취약함을 공유한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "흉터를 보고 위협하거나 심문하는 장면과 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.011",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "가까워지는 사람이 흉터가 생긴 이야기를 듣는다.",
     "review_status": "reviewed",

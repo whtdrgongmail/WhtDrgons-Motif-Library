@@ -4,8 +4,8 @@
   "title": "성적 친밀감",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "성적 의미를 지닌 접촉·행동·대화로 두 사람 사이의 친밀함을 나타내는 상태다.",
     "detail": "",
@@ -14,13 +14,19 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-18",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "성적인 행동이나 접촉을 통해 드러나는 가까운 관계다.",
     "review_status": "reviewed",

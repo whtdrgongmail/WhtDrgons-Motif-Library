@@ -4,8 +4,8 @@
   "title": "돌아오지 않는 사람을 그만 기다리라는 압박",
   "original": "You Have Waited Long Enough",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02600",
+  "primary_tag_id": "ML-T02600",
   "description": {
     "definition": "오랫동안 떠난 연인을 기다리는 인물에게 주변 사람들이 충분히 기다렸다며 새 관계나 혼인을 받아들이도록 압박하는 상황이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "당사자가 자발적으로 관계를 정리한 선택과 다르다. 기다림을 끝내라는 외부 요구가 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.014",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "아직 돌아오기를 믿는데 가족과 주변은 다른 사람과 결혼하라고 재촉한다.",
     "review_status": "reviewed",

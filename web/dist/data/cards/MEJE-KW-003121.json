@@ -4,8 +4,8 @@
   "title": "형이나 누나 같은 조언자",
   "original": "Big Brother Mentor",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02643",
+  "primary_tag_id": "ML-T02643",
   "description": {
     "definition": "혈연은 아니지만 먼저 겪은 일을 나누며 한 인물을 지지하는 친구나 스승. 가까움의 근거가 나이보다 신뢰와 행동에 있다. 동경이 생기면 [[형이나 누나를 동경하기]]와 닮은 관계가 된다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "혈연은 없어도 경험이 많은 사람이 먼저 겪은 일을 설명하고 어려울 때 지지해 주는 관계다. 상대는 그를 형이나 누나처럼 믿고 의지한다. [[형이나 누나를 동경하기]]와 닮을 수 있지만, 조언자가 자기 방식에 복종하도록 요구하지 않는지가 중요하다.",
     "review_status": "reviewed",

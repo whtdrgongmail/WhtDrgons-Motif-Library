@@ -4,8 +4,8 @@
   "title": "자유를 빼앗겼다고 여기는 보호자",
   "original": "Resentful Guardian",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01012",
+  "primary_tag_id": "ML-T01012",
   "description": {
     "definition": "아이를 돌보게 되면서 자신의 독립적인 생활을 잃었다고 느껴 그 아이나 보호자 역할에 불만을 품는 인물 유형이다.",
     "detail": "불만의 중심은 재산 탈취가 아니라 돌봄 책임이 가져온 생활 변화다.",
@@ -13,14 +13,20 @@
     "boundary": "단순히 피곤한 보호자나 아이의 돈만을 노리는 가해자와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.006.001",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "아이를 맡은 뒤 내 삶이 없어졌다며 원망한다.",
     "review_status": "reviewed",

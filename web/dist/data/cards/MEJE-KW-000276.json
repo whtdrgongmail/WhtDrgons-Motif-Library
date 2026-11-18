@@ -4,8 +4,8 @@
   "title": "낯선 말투에 끌리는 관심",
   "original": "Accent Interest",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02640",
+  "primary_tag_id": "ML-T02640",
   "description": {
     "definition": "인물이 다른 사람의 독특한 억양이나 말투에 주의를 기울이고 그 소리에 호감이나 호기심을 느끼는 장면. 듣는 이의 반응이 두 사람의 관계를 시작하거나 변화시킨다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-10-31",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.010",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 말하는 내용뿐 아니라 억양이나 말끝의 독특함에 귀를 기울이면서 관심을 갖게 되는 장면이다. 그 말투를 다시 듣고 싶어 대화를 이어 가는 식으로 관계가 시작될 수 있지만, 특정 지역 출신은 모두 매력적이라는 뜻은 아니다.",
     "review_status": "reviewed",

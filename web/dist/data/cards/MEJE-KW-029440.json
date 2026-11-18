@@ -4,8 +4,8 @@
   "title": "조종자의 동작을 복사하는 메카",
   "original": "Motion-Capture Mecha",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F16",
+  "tag_id": "ML-T01454",
+  "primary_tag_id": "ML-T01454",
   "description": {
     "definition": "조종자의 몸동작을 읽어 기체가 같은 움직임을 수행하게 하는 조종 방식이다.",
     "detail": "공간이나 슈트가 자유로운 몸동작을 감지하는 방식과 조종자가 기계 틀에 들어가 움직이는 방식이 있다. 추진기와 내장 무기 등 몸에 없는 기능에는 별도 입력이 필요할 수 있다.\n\n작품 사례: 《[[아바타(2009년 영화)]]》의 AMP 슈트는 조종자가 팔과 손을 움직이면 같은 동작을 하며, 물체의 저항도 조종자의 몸에 되돌려 준다.",
@@ -13,10 +13,10 @@
     "boundary": "버튼으로 미리 정한 동작을 선택하는 조종과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "16",
+    "code": "16.006",
     "review_status": "provisional",
     "row_version": 1
   },

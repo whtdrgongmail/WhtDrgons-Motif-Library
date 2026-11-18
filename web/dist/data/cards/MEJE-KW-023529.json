@@ -4,8 +4,8 @@
   "title": "연인이 아닌 두 사람의 입맞춤 연습",
   "original": "Practice Kiss",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02654",
+  "primary_tag_id": "ML-T02654",
   "description": {
     "definition": "서로 연애 관계에 있지 않은 두 사람이 앞으로의 실제 연애에 대비한다는 명목으로 입맞춤을 연습한다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "혼자 물건을 상대로 연습하거나, 두 사람이 서로 연인이 될 수 있는지 시험하는 목적과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.024",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "사귀지는 않지만 연습 삼아 입맞춤해 본다.",
     "review_status": "reviewed",

@@ -4,8 +4,8 @@
   "title": "초자연적 존재의 소유 선언",
   "original": "Claimed by the Supernatural",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "신이나 악마 같은 존재가 특정 인물을 자신의 것이라 주장한다. 인간의 의사보다 강자의 욕망이 앞서는 관계가 갈등을 만든다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "초자연적 강자가 특정 인물을 자기 소유라고 주장하는 관계다. 보호나 애정이라는 말을 내세워도 당사자의 뜻이 존중되는지 별도로 봐야 하며, 인간이 거부하거나 다른 삶을 선택하려 할 때 힘의 불균형이 본격적인 갈등이 된다.",
     "review_status": "reviewed",

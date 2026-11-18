@@ -4,8 +4,8 @@
   "title": "침을 묻혀 맹세하는 악수",
   "original": "Spit Shake",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02661",
+  "primary_tag_id": "ML-T02661",
   "description": {
     "definition": "손에 침을 묻힌 뒤 악수하여 약속이나 동맹을 성립시키는 관습적 몸짓이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "실제 위생·[[계약]]의 기준이 아니라 작품 속 약속의 [[표지]]이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-03",
-  "row_version": 4,
+  "updated_at": "2026-11-18",
+  "row_version": 5,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.031",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "보통의 악수에 특별한 절차를 더해 맹세임을 강조한다.",
     "review_status": "reviewed",

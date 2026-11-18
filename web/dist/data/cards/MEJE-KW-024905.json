@@ -4,8 +4,8 @@
   "title": "앨범에서 가장 긴 곡을 맨 앞에 놓기",
   "original": "Longest Song Goes First",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F24",
+  "tag_id": "ML-T03195",
+  "primary_tag_id": "ML-T03195",
   "description": {
     "definition": "스튜디오 앨범이나 EP의 원래 곡 순서에서 가장 긴 하나의 곡을 첫 본격적인 곡으로 배치하는 구성이다.",
     "detail": "작품 사례: 아바의 앨범 《[[The Album]]》은 가장 긴 곡인 〈[[Eagle]]〉로 시작해 긴 곡을 도입부에 배치한다.",
@@ -13,11 +13,11 @@
     "boundary": "절대적인 곡 길이가 아니라 같은 앨범 안의 비교다. 여러 트랙을 합한 길이·재발매 보너스·각 면의 첫 곡을 따로 세지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "24",
-    "review_status": "provisional",
+    "code": "24.014",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

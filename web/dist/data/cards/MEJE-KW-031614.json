@@ -4,8 +4,8 @@
   "title": "같은 상품에 대한 집착이 경쟁을 만들기",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01021",
+  "primary_tag_id": "ML-T01021",
   "description": {
     "definition": "상품에 강하게 몰두한 인물들이 서로의 열정을 공유하기보다 확보와 소유를 두고 경쟁하는 광고의 관계 장치다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상품이 단순한 경품인 경쟁과 달리 그 상품 자체에 대한 집착이 관계를 움직인다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.002",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "같은 상품을 좋아한다는 공통점이 친구가 될 이유 대신 쟁탈전의 이유가 된다.",
     "review_status": "reviewed",

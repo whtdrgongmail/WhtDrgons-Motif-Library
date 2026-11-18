@@ -7547,6 +7547,17 @@
       "allowed_roles": [],
       "review_status": "reviewed",
       "row_version": 1
+    },
+    {
+      "tag_id": "ML-T03220",
+      "semantic_kind": "game_genre",
+      "parent_relation": "facet_member",
+      "allowed_roles": [
+        "genre",
+        "subject"
+      ],
+      "review_status": "reviewed",
+      "row_version": 1
     }
   ]
 }

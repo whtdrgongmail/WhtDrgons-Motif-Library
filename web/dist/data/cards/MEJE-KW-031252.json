@@ -4,8 +4,8 @@
   "title": "위험한 순간에 하는 청혼",
   "original": "Perilous Marriage Proposal",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02669",
+  "primary_tag_id": "ML-T02669",
   "description": {
     "definition": "안정된 미래를 약속하는 청혼이 생존의 위협이나 심각한 혼란 속에서 이루어지는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.039",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "무사히 돌아갈 수 있을지 모르는 상황에서 더 미룰 수 없다며 결혼을 제안하는 경우다.",
     "review_status": "reviewed",

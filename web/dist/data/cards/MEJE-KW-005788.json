@@ -4,8 +4,8 @@
   "title": "사랑 때문에 종교를 바꾸기",
   "original": "Converting for Love",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02655",
+  "primary_tag_id": "ML-T02655",
   "description": {
     "definition": "연인과의 관계나 결혼을 위해 한 인물이 새로운 종교에 들어가며 신앙과 가족 관계를 다시 조정하는 전개.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.025",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "연인과 함께하거나 결혼하기 위해 인물이 상대의 종교를 받아들이는 전개다. 사랑의 선택이 가족과 신앙 공동체의 관계에도 영향을 주며, 스스로 믿음을 갖게 된 것인지 관계의 압박 때문에 바꾼 것인지에 따라 갈등의 성격이 달라진다.",
     "review_status": "reviewed",

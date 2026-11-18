@@ -53353,6 +53353,885 @@
         "row_version": 1
       },
       "semantics": null
+    },
+    {
+      "id": "ML-T03100",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "재난이나 배척을 피해 모이는 보호 공간",
+      "classification": {
+        "code": "14.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03101",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "임무 사이에 되돌아오는 활동 거점",
+      "classification": {
+        "code": "14.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03102",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기계와 설비가 위험을 만드는 작업 공간",
+      "classification": {
+        "code": "14.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03103",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "다른 세계와 시공간을 잇는 통로",
+      "classification": {
+        "code": "14.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03104",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인물의 내면에 형성된 공간",
+      "classification": {
+        "code": "14.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03105",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "용암이 바꾸는 공간과 이동 조건",
+      "classification": {
+        "code": "14.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03106",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "보육과 생활 보호를 위한 시설",
+      "classification": {
+        "code": "14.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03107",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "특이한 생물을 수용하거나 보호하는 공간",
+      "classification": {
+        "code": "14.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03108",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "그 지역이나 시대에 맞지 않는 생물 배치",
+      "classification": {
+        "code": "14.023",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03109",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "실내 거주를 제한하는 감금 공간",
+      "classification": {
+        "code": "14.024",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03110",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01391",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "행운을 빌고 불운을 물리치는 동작",
+      "classification": {
+        "code": "15.008.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03111",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01400",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "음악·복식·여가 취향을 공유하는 하위문화",
+      "classification": {
+        "code": "15.009.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03112",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01373",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "영웅·생물·현상을 신앙의 대상으로 삼기",
+      "classification": {
+        "code": "15.006.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03113",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01330",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "국가와 세력 사이의 교섭과 관계 조정",
+      "classification": {
+        "code": "15.001.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03114",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01347",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "공식 신분의 등록과 제도적 인정",
+      "classification": {
+        "code": "15.003.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03115",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01339",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "연령과 경력으로 정해지는 일상 역할",
+      "classification": {
+        "code": "15.002.008",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03116",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01398",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "부계와 모계에 따라 이어지는 친족 소속",
+      "classification": {
+        "code": "15.008.007.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03117",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-F15",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "언어 차이로 조직되는 공동체",
+      "classification": {
+        "code": "15.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03118",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-F15",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "읽고 쓰는 지식이 제한된 사회",
+      "classification": {
+        "code": "15.012",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03119",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-F15",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "여러 종족과 문화가 공존하는 사회",
+      "classification": {
+        "code": "15.013",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03120",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-F15",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "허구 종족의 생활양식과 가치관",
+      "classification": {
+        "code": "15.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03121",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-F15",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "같은 생활권에서 분리되어 사는 공동체",
+      "classification": {
+        "code": "15.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03122",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-F15",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "이주와 분산 뒤에 이어지는 공동체",
+      "classification": {
+        "code": "15.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03123",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-F15",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "추첨으로 희생이나 생존을 정하는 제도",
+      "classification": {
+        "code": "15.017",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03124",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-F15",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "재판 밖에서 이어지는 평판과 집단 배제",
+      "classification": {
+        "code": "15.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03125",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01355",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "위험과 손실을 배분하는 보험 약정",
+      "classification": {
+        "code": "15.004.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03126",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-F15",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "교육 접근과 자격 인정의 제도",
+      "classification": {
+        "code": "15.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03127",
+      "facet_id": "ML-F14",
+      "parent_id": "ML-F14",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "외부에 드러나지 않은 탐사 지역",
+      "classification": {
+        "code": "14.025",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03128",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01347",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "특정 지위나 요건에 따라 달라지는 법 적용",
+      "classification": {
+        "code": "15.003.010",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03129",
+      "facet_id": "ML-F15",
+      "parent_id": "ML-T01330",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "붕괴한 체제에 충성하는 잔존 세력",
+      "classification": {
+        "code": "15.001.011",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03130",
+      "facet_id": "ML-F12",
+      "parent_id": "ML-F12",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "꿈에서 생겨 현실에서 사는 존재",
+      "classification": {
+        "code": "12.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03131",
+      "facet_id": "ML-F12",
+      "parent_id": "ML-F12",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "생각과 감정이 낳은 독립 존재",
+      "classification": {
+        "code": "12.019",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03132",
+      "facet_id": "ML-F12",
+      "parent_id": "ML-F12",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "존재 범주가 확정되지 않는 대상",
+      "classification": {
+        "code": "12.020",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03133",
+      "facet_id": "ML-F12",
+      "parent_id": "ML-F12",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "전승과 창작에 나타나는 요정의 형태",
+      "classification": {
+        "code": "12.021",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03134",
+      "facet_id": "ML-F12",
+      "parent_id": "ML-T02769",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "마력과 비물질을 먹는 존재",
+      "classification": {
+        "code": "12.013.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03135",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-T02644",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "겉으로 드러난 단서를 근거로 한 오인",
+      "classification": {
+        "code": "10.014.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03136",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "생일 축하에 나타나는 관심의 차이",
+      "classification": {
+        "code": "10.046",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03137",
+      "facet_id": "ML-F10",
+      "parent_id": "ML-F10",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "보는 사람에 따라 바뀌는 친분 표현",
+      "classification": {
+        "code": "10.047",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03160",
+      "facet_id": "ML-F16",
+      "parent_id": "ML-F16",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "세대 교체와 장비의 실제 성능 차이",
+      "classification": {
+        "code": "16.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03161",
+      "facet_id": "ML-F16",
+      "parent_id": "ML-F16",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "인형과 미니어처 놀이 도구",
+      "classification": {
+        "code": "16.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03162",
+      "facet_id": "ML-F16",
+      "parent_id": "ML-F16",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "물건을 감추는 생활 공간의 은닉처",
+      "classification": {
+        "code": "16.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03163",
+      "facet_id": "ML-F20",
+      "parent_id": "ML-T01737",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "음식으로 드러내는 결핍과 과잉",
+      "classification": {
+        "code": "20.005.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03164",
+      "facet_id": "ML-F20",
+      "parent_id": "ML-F20",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "오메가로 나타내는 끝과 서열",
+      "classification": {
+        "code": "20.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03165",
+      "facet_id": "ML-F18",
+      "parent_id": "ML-F18",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "전쟁의 영광과 피해에 대한 평가",
+      "classification": {
+        "code": "18.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03166",
+      "facet_id": "ML-F18",
+      "parent_id": "ML-T01619",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "생명을 창조하는 행위의 가치 평가",
+      "classification": {
+        "code": "18.008.007",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03190",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-F08",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "전장의 지형과 환경 조건",
+      "classification": {
+        "code": "08.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03191",
+      "facet_id": "ML-F08",
+      "parent_id": "ML-F08",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "지도부 상실이 부른 집단의 붕괴",
+      "classification": {
+        "code": "08.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03192",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-T00880",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "사건의 향방을 결정하지 못하는 중심인물",
+      "classification": {
+        "code": "09.001.018",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03193",
+      "facet_id": "ML-F09",
+      "parent_id": "ML-F09",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "먹히는 관계를 의식하는 식용 동물과 식품 인물",
+      "classification": {
+        "code": "09.022",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03194",
+      "facet_id": "ML-F24",
+      "parent_id": "ML-T02701",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "가사와 선율로 지식을 익히는 노래",
+      "classification": {
+        "code": "24.009.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03195",
+      "facet_id": "ML-F24",
+      "parent_id": "ML-F24",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "음반의 첫 곡과 마지막 곡 배치",
+      "classification": {
+        "code": "24.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03196",
+      "facet_id": "ML-F24",
+      "parent_id": "ML-T02701",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "발라드 형식의 전승 이야기 노래",
+      "classification": {
+        "code": "24.009.002",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03197",
+      "facet_id": "ML-F24",
+      "parent_id": "ML-F24",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "자장가가 불안과 각성을 일으키는 표현",
+      "classification": {
+        "code": "24.015",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03198",
+      "facet_id": "ML-F24",
+      "parent_id": "ML-F24",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "높이가 정해진 음판을 두드리는 악기",
+      "classification": {
+        "code": "24.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03220",
+      "facet_id": "ML-F03",
+      "parent_id": "ML-F03",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "탑승 기체의 운용을 중심에 둔 메카 전투 게임",
+      "classification": {
+        "code": "03.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": {
+        "semantic_kind": "game_genre",
+        "parent_relation": "facet_member",
+        "allowed_roles": [
+          "genre",
+          "subject"
+        ],
+        "review_status": "reviewed",
+        "row_version": 1
+      }
+    },
+    {
+      "id": "ML-T03221",
+      "facet_id": "ML-F04",
+      "parent_id": "ML-T00576",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "기존 화면·사진을 만화 컷으로 구성하기",
+      "classification": {
+        "code": "04.004.016",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03222",
+      "facet_id": "ML-F26",
+      "parent_id": "ML-F26",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "게임 실황의 해설과 진행자 구성",
+      "classification": {
+        "code": "26.014",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T03223",
+      "facet_id": "ML-F30",
+      "parent_id": "ML-T02730",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "팬이 우선하여 지지하는 대상의 선택",
+      "classification": {
+        "code": "30.018.001",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
     }
   ]
 }

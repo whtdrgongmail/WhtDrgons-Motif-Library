@@ -4,8 +4,8 @@
   "title": "욕망의 충족 도구로 취급되는 상대",
   "original": "Lust Object",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01018",
+  "primary_tag_id": "ML-T01018",
   "description": {
     "definition": "다른 인물을 독립적인 의사와 삶을 가진 사람보다 자신의 성적 욕망을 채울 대상으로 주로 상상하고 대하는 관계 구도이다.",
     "detail": "작품 사례: 《[[심슨 가족]]》의 「Marge and Homer Turn a Couple Play」에서는 호머가 타비사의 몸을 자신의 상상 대상으로 말해 상대를 욕망의 충족 도구로 보는 시선을 드러낸다.",
@@ -13,14 +13,20 @@
     "boundary": "연인을 매력적으로 여기거나 성적 생각을 한다는 사실만으로 해당하지 않는다. 상대의 주체성을 지우는 방식이 필요하다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.006.007",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대가 어떤 사람인지보다 자신에게 무엇을 해 줄지만 생각한다.",
     "review_status": "reviewed",

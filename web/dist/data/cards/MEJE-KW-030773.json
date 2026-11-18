@@ -4,8 +4,8 @@
   "title": "경찰과 경찰 차림 공연자를 혼동하기",
   "original": "Stripper/Cop Confusion",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T03135",
+  "primary_tag_id": "ML-T03135",
   "description": {
     "definition": "실제 경찰을 경찰 복장으로 공연하는 성인 유흥 공연자라고 보거나 반대로 공연자를 진짜 경찰로 판단하는 상황이다.",
     "detail": "",
@@ -13,11 +13,11 @@
     "boundary": "경찰 신분을 범죄 목적으로 사칭한 경우와 구별하며 공연자와 실제 직업의 오인이 중심이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.014.001",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": null,

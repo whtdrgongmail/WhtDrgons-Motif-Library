@@ -4,8 +4,8 @@
   "title": "상대의 원한을 위해 죽음을 받아들이기",
   "original": "Please Kill Me If It Satisfies You",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01022",
+  "primary_tag_id": "ML-T01022",
   "description": {
     "definition": "인물이 자신은 죽어 마땅하다고 믿거나 상대의 원한을 인정하여 실제로 죽임당할 것을 예상하면서 생명을 맡기는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "상대가 끝내 죽이지 않을 것이라고 믿고 양심을 시험하는 도박과 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.007.003",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "나를 죽여야 마음이 풀린다면 받아들이겠다며 저항하지 않는다.",
     "review_status": "reviewed",

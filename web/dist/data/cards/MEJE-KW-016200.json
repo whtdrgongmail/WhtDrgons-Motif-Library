@@ -4,8 +4,8 @@
   "title": "유명한 영웅의 후손",
   "original": "Heroic Lineage",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02673",
+  "primary_tag_id": "ML-T02673",
   "description": {
     "definition": "과거에 활약한 영웅을 조상으로 둔 인물에게 그 혈통의 기대·유산·정체성이 연결되는 설정이다.",
     "detail": "작품 사례: [[Renfield (2023)]]의 Rebecca는 범죄 가문에 굴복하지 않았던 아버지처럼 정직한 경찰로 살아가며, 아버지가 맞섰던 악에 자신도 저항한다.",
@@ -13,14 +13,20 @@
     "boundary": "스승에게 기술을 배운 계보나 단순히 조상을 영웅이라고 믿는 상태와 구별한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.043",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "유명한 영웅의 자녀나 후손에게 그 사람의 명성과 기대가 따라붙는다.",
     "review_status": "reviewed",

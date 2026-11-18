@@ -4,8 +4,8 @@
   "title": "고속 기동 중심 메카 게임",
   "original": "",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F03",
+  "tag_id": "ML-T03220",
+  "primary_tag_id": "ML-T03220",
   "description": {
     "definition": "빠른 이동과 기동성 높은 전투를 중심에 둔 메카 게임 유형이다.",
     "detail": "",
@@ -14,17 +14,20 @@
   },
   "content_status": "defined",
   "updated_at": "2026-11-18",
-  "row_version": 2,
+  "row_version": 3,
   "classification": {
-    "code": "03",
-    "review_status": "provisional",
+    "code": "03.001",
+    "review_status": "reviewed",
     "row_version": 1
   },
   "classification_semantics": {
-    "semantic_kind": "facet",
-    "parent_relation": "root",
-    "allowed_roles": [],
-    "review_status": "provisional",
+    "semantic_kind": "game_genre",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "genre",
+      "subject"
+    ],
+    "review_status": "reviewed",
     "row_version": 1
   },
   "easy_explanation": {

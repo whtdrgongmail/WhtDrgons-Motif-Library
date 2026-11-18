@@ -4,8 +4,8 @@
   "title": "조직을 떠난 친구와 안에 남은 친구",
   "original": "Outside Man, Inside Man",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02646",
+  "primary_tag_id": "ML-T02646",
   "description": {
     "definition": "같은 조직에서 함께 활동하던 두 사람이 부당한 명령을 계기로 갈라져 한쪽은 떠나 저항하고 다른 쪽은 조직 안에 남아 서로 다른 길을 걷는 관계다.",
     "detail": "작품 사례: 《[[디지몬 제볼루션]]》에서 듀크몬은 위그드라실의 제거 명령에 반대해 떠나는 반면 오메가몬은 처음에는 로열 나이츠에 남는다. 같은 조직의 동료들이 명령의 정당성을 두고 갈라지는 관계가 형성된다.",
@@ -13,14 +13,20 @@
     "boundary": "단순한 지역 이동이나 잠시 다른 임무를 맡는 관계와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.016",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "한 친구는 이 조직이 틀렸다며 떠나고 다른 친구는 남는다.",
     "review_status": "reviewed",

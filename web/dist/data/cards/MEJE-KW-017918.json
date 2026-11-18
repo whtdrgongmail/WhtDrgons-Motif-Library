@@ -4,8 +4,8 @@
   "title": "노년 남성과 아동의 강제 혼인",
   "original": "Old Man Marrying a Child",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02660",
+  "primary_tag_id": "ML-T02660",
   "description": {
     "definition": "나이가 많은 남성과 아동의 결혼이 성립하며 아동의 자발적 선택이 지워지는 관계다. 큰 연령·권력 격차와 보호자의 결정이 어린 인물의 삶을 묶는다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "성인 사이의 나이 차가 큰 연애와 구분한다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-02",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
-    "review_status": "provisional",
+    "code": "10.030",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "facet_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "어린아이의 미래가 자신보다 훨씬 나이 많은 남성과의 혼인으로 정해진다.",
     "review_status": "reviewed",

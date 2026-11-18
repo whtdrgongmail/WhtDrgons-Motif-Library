@@ -4,8 +4,8 @@
   "title": "잘 버틴다는 이유로 돌봄에서 밀리기",
   "original": "Because You Can Cope",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T01016",
+  "primary_tag_id": "ML-T01016",
   "description": {
     "definition": "보호자가 더 약해 보이는 다른 사람에게 힘을 쏟으며 자립적인 인물은 혼자 감당하리라 여긴다. 능력이 있다는 평가가 필요한 도움을 가리는 관계다. 부모의 명령을 앞세운 [[부모라는 이유만으로 명령하기]]에서도 아이의 필요가 가려질 수 있다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "10",
+    "code": "10.006.005",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "혼자서도 잘 버틴다고 여겨지는 사람이 도움이 필요한 순간에도 돌봄에서 제외되는 관계다. 보호자는 더 힘들어 보이는 사람에게만 관심을 쓰고 그 사람의 부담을 알아채지 못한다. 유능하거나 말없이 참는다는 사실이 지원이 필요 없다는 뜻은 아니다.",
     "review_status": "reviewed",

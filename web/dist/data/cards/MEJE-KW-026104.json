@@ -4,8 +4,8 @@
   "title": "사랑한다는 말을 너무 일찍 꺼내 상대를 불편하게 하기",
   "original": "The \"I Love You\" Stigma",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F10",
+  "tag_id": "ML-T02533",
+  "primary_tag_id": "ML-T02533",
   "description": {
     "definition": "관계의 진행 속도에 비해 이르게 사랑이라는 말을 사용하여 상대가 부담과 불편함을 느끼는 장면이다.",
     "detail": "",
@@ -13,14 +13,20 @@
     "boundary": "감정이 거짓이라는 뜻이 아니라 표현의 시점과 상대의 준비 정도가 맞지 않는 것이다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-04",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "10",
+    "code": "10.002.010",
     "review_status": "provisional",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "relationship_concept",
+    "parent_relation": "collection_member",
+    "allowed_roles": [],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "아직 그 말이 부담스러운 단계인데 사랑한다고 해 버린다.",
     "review_status": "reviewed",
