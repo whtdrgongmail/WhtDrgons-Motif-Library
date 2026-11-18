@@ -7,14 +7,14 @@
   "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《서바이벌 키즈》는 비디오게임 작품이다.",
+    "definition": "《서바이벌 키즈》는 무인도에 표류한 아이의 생존을 다룬 코나미의 1999년 게임보이 컬러용 모험 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《서바이벌 키즈》는 무인도에 고립된 아이가 살아남으며 구조를 찾는 게임으로 원문에 제시된다. 문명에서 떨어진 생존 과제가 진행의 중심이다.",
+    "easy_ko": "폭풍을 만난 뒤 모르는 섬의 해변에서 깨어난다. 플레이어는 아이를 움직여 먹을 것과 쉴 곳을 찾고, 섬에서 주운 물건으로 필요한 도구를 만든다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,49 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000553",
+      "card_id": "MM-MEDIA-002249",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.nintendo.com/jp/topics/article/e0e8cb5c-c09f-49b5-b2eb-45dbf854760f",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000554",
+      "card_id": "MM-MEDIA-002249",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.videogamemanual.com/gbc/Survival%20Kids%20%28USA%29.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000555",
+      "card_id": "MM-MEDIA-002249",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.konami.com/games/us/en/topics/2852/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 3,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《서바이벌 키즈》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "열 번째 생일을 기념해 배를 탄 아이가 폭풍에 휩쓸려 무인도에 닿는 이야기다. 시작할 때 남자아이와 여자아이 가운데 하나를 골라 이름을 붙인다. 섬을 탐색하면서 먹을거리와 식수를 확보하고, 쉴 곳을 찾는 것이 초기 목표다.\n\n게임은 체력 외에 배고픔, 갈증, 피로를 따로 표시한다. 플레이어는 탐색을 계속할지, 은신처를 마련하고 쉴지 판단해야 한다. 발견한 재료를 조합해 새로운 물건을 만들 수 있어, 섬에서 무엇을 찾아 챙기는지도 생존에 영향을 준다.",
     "sections": [
       [
         "상세 설명",
-        "《서바이벌 키즈》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "열 번째 생일을 기념해 배를 탄 아이가 폭풍에 휩쓸려 무인도에 닿는 이야기다. 시작할 때 남자아이와 여자아이 가운데 하나를 골라 이름을 붙인다. 섬을 탐색하면서 먹을거리와 식수를 확보하고, 쉴 곳을 찾는 것이 초기 목표다.\n\n게임은 체력 외에 배고픔, 갈증, 피로를 따로 표시한다. 플레이어는 탐색을 계속할지, 은신처를 마련하고 쉴지 판단해야 한다. 발견한 재료를 조합해 새로운 물건을 만들 수 있어, 섬에서 무엇을 찾아 챙기는지도 생존에 영향을 준다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

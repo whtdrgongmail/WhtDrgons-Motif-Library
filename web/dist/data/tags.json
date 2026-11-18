@@ -51223,6 +51223,96 @@
         "row_version": 1
       },
       "semantics": null
+    },
+    {
+      "id": "ML-T02840",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "대화의 사회적 영향 판정",
+      "classification": {
+        "code": "25.027",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02841",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "플레이어와 컴퓨터의 규칙 비대칭",
+      "classification": {
+        "code": "25.028",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02842",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "무작위 판정의 재추첨과 결과 선택",
+      "classification": {
+        "code": "25.029",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02843",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-F25",
+      "node_kind": "group",
+      "taggable": true,
+      "row_version": 1,
+      "label": "게임 안의 미니게임",
+      "classification": {
+        "code": "25.030",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02844",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02106",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "적 집단의 전투 지원",
+      "classification": {
+        "code": "25.005.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
+    },
+    {
+      "id": "ML-T02845",
+      "facet_id": "ML-F25",
+      "parent_id": "ML-T02079",
+      "node_kind": "tag",
+      "taggable": true,
+      "row_version": 1,
+      "label": "특정 적 유형 중심의 구간 설계",
+      "classification": {
+        "code": "25.002.009",
+        "review_status": "reviewed",
+        "row_version": 1
+      },
+      "semantics": null
     }
   ]
 }

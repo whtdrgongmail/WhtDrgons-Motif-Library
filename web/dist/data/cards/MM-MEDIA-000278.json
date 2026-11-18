@@ -7,14 +7,14 @@
   "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "이 카드는 비디오게임 《Dune 2000》를 가리킨다. 이 라이브러리에서는 [[막판에 도착하는 지원 세력]]의 작품 사례와 연결된다.",
+    "definition": "《Dune 2000》은 아라키스의 스파이스를 두고 세 가문이 맞서는 1998년 실시간 전략게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "Dune 2000에서 오르도스의 우주항을 30분 동안 지켜내면 대규모 지원군이 계속 도착해, 힘겨웠던 방어전의 형세가 바뀐다.",
+    "easy_ko": "사막에서 스파이스를 모아 기지를 키운다. 자원만 챙기다가는 채집 차량을 잃을 수 있어, 기지와 채집 현장에 어느 부대를 보낼지 결정해야 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000534",
+      "card_id": "MM-MEDIA-000278",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.bestoldgames.net/download/games/dune-2000/dune-2000-win-manual.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000535",
+      "card_id": "MM-MEDIA-000278",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.gamespot.com/articles/dune-2000-qanda/1100-2463781/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Dune 2000》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 [[막판에 도착하는 지원 세력]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "text": "아트레이데스, 하코넨, 오르도스 가운데 한 가문을 선택해 아라키스의 패권을 다툰다. 가문마다 멘타트가 임무를 설명하고, 플레이어는 한 임무를 마치면 다음 작전에 들어간다. 고를 수 있는 병력과 특수 장비에도 가문별 차이가 있다.\n\n수확기가 스파이스를 캐서 정제소로 가져오면 그 자원으로 시설을 짓고 부대를 생산할 수 있다. 사막의 모래벌레는 모래 위의 차량을 위협한다. 확장에 필요한 자원을 얻으려면 채집 자체도 작전의 일부로 관리해야 한다.",
     "sections": [
       [
         "상세 설명",
-        "《Dune 2000》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 [[막판에 도착하는 지원 세력]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+        "아트레이데스, 하코넨, 오르도스 가운데 한 가문을 선택해 아라키스의 패권을 다툰다. 가문마다 멘타트가 임무를 설명하고, 플레이어는 한 임무를 마치면 다음 작전에 들어간다. 고를 수 있는 병력과 특수 장비에도 가문별 차이가 있다.\n\n수확기가 스파이스를 캐서 정제소로 가져오면 그 자원으로 시설을 짓고 부대를 생산할 수 있다. 사막의 모래벌레는 모래 위의 차량을 위협한다. 확장에 필요한 자원을 얻으려면 채집 자체도 작전의 일부로 관리해야 한다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

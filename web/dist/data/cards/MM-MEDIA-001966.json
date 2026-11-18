@@ -7,14 +7,14 @@
   "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《삼국지》는 비디오게임 작품이다.",
+    "definition": "《삼국지》는 코에이가 1985년 첫 편을 내놓은 역사 전략 시뮬레이션 게임 시리즈다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《삼국지》의 코에이 전략게임 시리즈에서는 세계의 시간이 빠르게 흘러 계절과 해가 바뀌며 장기적인 진행을 보여 준다.",
+    "easy_ko": "중국 대륙의 군웅이 되어 세력을 이끈다. 군사를 움직이는 한편 땅을 돌보고 다른 세력과 손을 잡으면서 통일을 노린다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000543",
+      "card_id": "MM-MEDIA-001966",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.gamecity.ne.jp/sangokushi40th/jp/history/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《삼국지》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "시리즈 첫 편은 중국 대륙의 지도를 무대로 삼아 군주를 고르고 세력권을 넓히는 역사 시뮬레이션이다. 전투 준비와 영토 운영이 함께 진행되며, 어느 인물에게 일을 맡기고 어느 세력을 먼저 상대할지 정하는 과정이 장기적인 판세를 바꾼다.\n\n후속작들은 통일을 향한 과정에 서로 다른 규칙을 더했다. 《삼국지 II》에서는 다른 세력에 원군을 청하거나 공동 작전을 펼칠 수 있고, 《삼국지 III》에서는 도시 단위로 영토를 넓힌다. III의 전장에서는 시간과 날씨의 변화도 전투 여건에 영향을 준다.",
     "sections": [
       [
         "상세 설명",
-        "《삼국지》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "시리즈 첫 편은 중국 대륙의 지도를 무대로 삼아 군주를 고르고 세력권을 넓히는 역사 시뮬레이션이다. 전투 준비와 영토 운영이 함께 진행되며, 어느 인물에게 일을 맡기고 어느 세력을 먼저 상대할지 정하는 과정이 장기적인 판세를 바꾼다.\n\n후속작들은 통일을 향한 과정에 서로 다른 규칙을 더했다. 《삼국지 II》에서는 다른 세력에 원군을 청하거나 공동 작전을 펼칠 수 있고, 《삼국지 III》에서는 도시 단위로 영토를 넓힌다. III의 전장에서는 시간과 날씨의 변화도 전투 여건에 영향을 준다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

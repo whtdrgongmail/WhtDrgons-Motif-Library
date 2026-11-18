@@ -7,14 +7,14 @@
   "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
-    "definition": "《게임센터 CX》는 텔레비전 작품이다.",
+    "definition": "《게임센터 CX》는 코미디언 아리노 신야가 오래된 비디오게임의 엔딩에 도전하는 일본 후지TV의 예능 프로그램이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《게임센터 CX》는 원문이 일본의 [[게임 실황]] 확산과 연결해 드는 실제 프로그램이다. 이 문단은 형식의 참조 대상을 제시하며 특정 회차의 반응이나 사건까지 설명하지는 않는다.",
+    "easy_ko": "아리노 과장이 옛날 게임을 직접 플레이한다. 한 번에 끝내기 어려운 게임을 계속 붙들고, 어떤 시도 끝에 엔딩까지 가는지 보여 준다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,49 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000565",
+      "card_id": "MM-MEDIA-002449",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.fujitv.co.jp/b_hp/130718game/index.html",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000566",
+      "card_id": "MM-MEDIA-002449",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://otn.fujitv.co.jp/b_hp/915200069l.html",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000567",
+      "card_id": "MM-MEDIA-002449",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.fujitv.co.jp/b_hp/game_cx/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 3,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《게임센터 CX》라는 표제는 텔레비전을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 텔레비전을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "2003년 후지TV 위성 채널에서 시작한 프로그램이다. 코미디언 아리노 신야가 ‘아리노 과장’으로 등장하는 중심 코너에서는 오래된 게임 한 편을 골라 엔딩을 목표로 플레이한다. 2004년 방송에는 《마계촌》을 공략하는 회차도 있다.\n\n본편은 되풀이되는 실패와 다시 도전하는 시간을 함께 보여 준다. 방송사는 관객 앞에서 진행하는 공개 도전과 24시간 생방송도 편성했다. 후지TV는 과거 도전 회차를 골라 별도의 아카이브 프로그램으로 소개했다.",
     "sections": [
       [
         "상세 설명",
-        "《게임센터 CX》라는 표제는 텔레비전을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 텔레비전을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "2003년 후지TV 위성 채널에서 시작한 프로그램이다. 코미디언 아리노 신야가 ‘아리노 과장’으로 등장하는 중심 코너에서는 오래된 게임 한 편을 골라 엔딩을 목표로 플레이한다. 2004년 방송에는 《마계촌》을 공략하는 회차도 있다.\n\n본편은 되풀이되는 실패와 다시 도전하는 시간을 함께 보여 준다. 방송사는 관객 앞에서 진행하는 공개 도전과 24시간 생방송도 편성했다. 후지TV는 과거 도전 회차를 골라 별도의 아카이브 프로그램으로 소개했다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

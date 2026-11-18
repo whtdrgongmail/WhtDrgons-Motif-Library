@@ -7,14 +7,14 @@
   "tag_id": "ML-T00066",
   "primary_tag_id": "ML-T00066",
   "description": {
-    "definition": "《Doctor Who New Adventures》는 문학 작품이다.",
+    "definition": "《Doctor Who New Adventures》는 버진 출판사가 일곱 번째 닥터의 이후 이야기를 이어 간 소설 시리즈다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.007",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Doctor Who New Adventures》 소설에서 베니는 제이슨에게 긴 입맞춤을 한 직후 주먹질하는 방식으로 인사하기도 한다. 애정의 재회가 곧바로 다툼으로 뒤집히는 관계를 압축한다.",
+    "easy_ko": "텔레비전에서 일곱 번째 닥터의 이야기가 멈춘 뒤에도 닥터는 책 속에서 여행을 계속한다. 그 길에서 고고학자 버니스 서머필드가 새 동료가 된다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000556",
+      "card_id": "MM-MEDIA-002292",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.bigfinish.com/news/v/have-you-heard-bernice-summerfield",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Doctor Who New Adventures》라는 표제는 문학을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 문학을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "텔레비전 방영이 중단된 뒤 버진은 일곱 번째 닥터의 여행을 새 소설로 이어 갔다. 폴 코넬의 1992년작 《Love and War》에서는 고고학자 버니스 서머필드가 행성 헤븐에서 닥터를 만난다. 버니스는 이후 그와 타디스를 타고 여러 세계를 여행한다.\n\n버니스는 제이슨 케인과 결혼한 뒤 닥터와 헤어진다. 버진이 닥터 후 소설의 출판권을 잃은 뒤에는 버니스를 중심으로 《New Adventures》가 이어졌다. 빅 피니시는 이후 이 버니스 소설의 일부를 오디오 드라마로 각색했다.",
     "sections": [
       [
         "상세 설명",
-        "《Doctor Who New Adventures》라는 표제는 문학을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 문학을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "텔레비전 방영이 중단된 뒤 버진은 일곱 번째 닥터의 여행을 새 소설로 이어 갔다. 폴 코넬의 1992년작 《Love and War》에서는 고고학자 버니스 서머필드가 행성 헤븐에서 닥터를 만난다. 버니스는 이후 그와 타디스를 타고 여러 세계를 여행한다.\n\n버니스는 제이슨 케인과 결혼한 뒤 닥터와 헤어진다. 버진이 닥터 후 소설의 출판권을 잃은 뒤에는 버니스를 중심으로 《New Adventures》가 이어졌다. 빅 피니시는 이후 이 버니스 소설의 일부를 오디오 드라마로 각색했다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

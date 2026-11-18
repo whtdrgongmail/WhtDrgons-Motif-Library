@@ -7,14 +7,14 @@
   "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "이 카드는 비디오게임 《LISA》를 가리킨다. 이 라이브러리에서는 [[처음에는 약한 성장형 능력]]의 작품 사례와 연결된다.",
+    "definition": "《LISA》는 올레이스의 황무지를 배경으로 동료와 생존을 두고 선택하는 딩얼링 프로덕션스의 횡스크롤 역할수행 게임 《LISA: The Painful》을 가리킨다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "LISA의 Terry는 처음에는 소모가 크고 회복량이 적은 응원만 쓰지만, 성장하면 동료의 체력을 완전히 채우는 응원을 배운다.",
+    "easy_ko": "폐허에서 함께 움직일 동료를 모은다. 일행이 위기에 처하면 주인공이 대신 대가를 치를지, 동료를 포기할지 선택해야 할 때가 온다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-02",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000536",
+      "card_id": "MM-MEDIA-000545",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://serenityforge.com/games/lisa-definitive-edition",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000537",
+      "card_id": "MM-MEDIA-000545",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://store.steampowered.com/app/335670/LISA_The_Painful/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《LISA》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 [[처음에는 약한 성장형 능력]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다.",
+    "text": "2014년에 처음 나온 《LISA: The Painful》은 올레이스라는 황무지를 가로지르는 역할수행 게임이다. 마을과 야영지에서 서로 다른 능력을 가진 인물을 영입하고, 새로 만나는 적과 싸우면서 길을 찾는다. 거친 상황 곳곳에 익살스러운 인물과 대사가 끼어든다.\n\n특정 상황에서는 동료를 지키기 위해 주인공이 부상을 감수할 수 있고, 그때 내린 결정은 이후의 플레이에도 영향을 남긴다. 《LISA: Definitive Edition》은 이 본편의 개정판과 후속편 《LISA: The Joyful》을 함께 묶어 공개했다.",
     "sections": [
       [
         "상세 설명",
-        "《LISA》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 [[처음에는 약한 성장형 능력]]의 작품 사례를 연결하는 참조 단위로 사용한다. 이 참조는 해당 표제의 작품을 가리키며, 동명의 다른 작품이나 다른 매체까지 한데 묶지는 않는다."
+        "2014년에 처음 나온 《LISA: The Painful》은 올레이스라는 황무지를 가로지르는 역할수행 게임이다. 마을과 야영지에서 서로 다른 능력을 가진 인물을 영입하고, 새로 만나는 적과 싸우면서 길을 찾는다. 거친 상황 곳곳에 익살스러운 인물과 대사가 끼어든다.\n\n특정 상황에서는 동료를 지키기 위해 주인공이 부상을 감수할 수 있고, 그때 내린 결정은 이후의 플레이에도 영향을 남긴다. 《LISA: Definitive Edition》은 이 본편의 개정판과 후속편 《LISA: The Joyful》을 함께 묶어 공개했다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

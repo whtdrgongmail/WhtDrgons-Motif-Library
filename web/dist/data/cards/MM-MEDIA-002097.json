@@ -7,14 +7,14 @@
   "tag_id": "ML-T00094",
   "primary_tag_id": "ML-T00094",
   "description": {
-    "definition": "《스크린 랜트 피치 미팅》은 웹영상 작품이다.",
+    "definition": "《스크린 랜트 피치 미팅》은 라이언 조지가 영화나 드라마의 기획 회의를 연기하며 줄거리의 허점과 관습을 풍자하는 웹 코미디다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.009.001",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《스크린 랜트 피치 미팅》의 해리 포터 영화 편은 엄브리지가 볼드모트보다 더 미움을 받을 인물이라는 대사를 통해 이 수용의 역전을 직접 농담으로 다룬다.",
+    "easy_ko": "한 사람이 두 역할을 맡는다. 작가가 영화 이야기를 신나게 설명하면 제작자가 이상한 대목을 묻고, 작가가 그 질문을 태연하게 넘기면서 웃음을 만든다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,49 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000550",
+      "card_id": "MM-MEDIA-002097",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://itsryangeorge.wordpress.com/portfolio/pitch-meetings/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000551",
+      "card_id": "MM-MEDIA-002097",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=t8uJtWtDkk4",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000552",
+      "card_id": "MM-MEDIA-002097",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/channel/UC9Kq-yEt1iYsbUzNOoIRK0g",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 3,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《스크린 랜트 피치 미팅》라는 표제는 웹영상을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 웹영상을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "라이언 조지는 2017년 11월부터 스크린 랜트 유튜브 채널에서 이 코미디를 선보였다. 작품별로 가상의 회의를 마련하고, 각본을 설명하는 작가와 이를 받아들이는 제작자를 오가며 연기한다. 이미 공개된 영화나 드라마의 설정과 전개가 회의 도중 막 결정된 일처럼 제시된다.\n\n에피소드마다 등장인물은 바뀌어도 회의의 두 역할과 문답 형식은 이어진다. 별도 공식 채널이 2022년 3월에 문을 열었으며, 그 채널은 해리 포터 영화 여덟 편의 패러디를 한 영상에 모아 공개하기도 했다.",
     "sections": [
       [
         "상세 설명",
-        "《스크린 랜트 피치 미팅》라는 표제는 웹영상을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 웹영상을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "라이언 조지는 2017년 11월부터 스크린 랜트 유튜브 채널에서 이 코미디를 선보였다. 작품별로 가상의 회의를 마련하고, 각본을 설명하는 작가와 이를 받아들이는 제작자를 오가며 연기한다. 이미 공개된 영화나 드라마의 설정과 전개가 회의 도중 막 결정된 일처럼 제시된다.\n\n에피소드마다 등장인물은 바뀌어도 회의의 두 역할과 문답 형식은 이어진다. 별도 공식 채널이 2022년 3월에 문을 열었으며, 그 채널은 해리 포터 영화 여덟 편의 패러디를 한 영상에 모아 공개하기도 했다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

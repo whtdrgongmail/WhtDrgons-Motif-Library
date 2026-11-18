@@ -7,14 +7,14 @@
   "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《T2: 디 아케이드 게임》은 비디오게임 작품이다.",
+    "definition": "《T2: 디 아케이드 게임》은 영화 《터미네이터 2: 심판의 날》을 바탕으로 미드웨이가 만든 1991년 오락실 슈팅게임과 그 이식판을 가리킨다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《T2: 디 아케이드 게임》의 아케이드판은 고정된 기관총형 조작기를 사용한다. 원문은 가정용 이식판에서는 광선총을 쓰는 차이를 함께 설명한다.",
+    "easy_ko": "플레이어는 T-800을 맡아 화면에 나타나는 적을 겨냥한다. 오락실에서는 캐비닛에 붙은 총 모양 조작기를 움직이며 진행한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,49 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000568",
+      "card_id": "MM-MEDIA-002521",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://manuals.plus/m/e0a793f5ea01a887ced549418004f56ab2cb84e3098fb6c8c712f41a4c4e11cc.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000569",
+      "card_id": "MM-MEDIA-002521",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=QDShF4hKcWY",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000570",
+      "card_id": "MM-MEDIA-002521",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.digitpress.com/library/manuals/snes/mortal%20kombat.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 3,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《T2: 디 아케이드 게임》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "미드웨이의 오락실판은 1명 또는 2명이 T-800 역할을 맡는 슈팅게임이다. 화면이 다음 구간으로 이동하는 동안 등장하는 적을 조준한다. 영화의 아널드 슈워제네거, 로버트 패트릭, 에드워드 펄롱의 모습도 디지털 영상으로 반영했다.\n\n오락실 기기에는 기체에 고정된 기관총 모양 조작기가 달려 있다. 가정용으로 이식된 판본에서는 《T2: The Arcade Game》이라는 제목을 사용했다. 어클레임의 슈퍼 NES용 광고는 존 코너를 보호하는 장면과 함께 슈퍼 스코프 조작을 소개한다.",
     "sections": [
       [
         "상세 설명",
-        "《T2: 디 아케이드 게임》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "미드웨이의 오락실판은 1명 또는 2명이 T-800 역할을 맡는 슈팅게임이다. 화면이 다음 구간으로 이동하는 동안 등장하는 적을 조준한다. 영화의 아널드 슈워제네거, 로버트 패트릭, 에드워드 펄롱의 모습도 디지털 영상으로 반영했다.\n\n오락실 기기에는 기체에 고정된 기관총 모양 조작기가 달려 있다. 가정용으로 이식된 판본에서는 《T2: The Arcade Game》이라는 제목을 사용했다. 어클레임의 슈퍼 NES용 광고는 존 코너를 보호하는 장면과 함께 슈퍼 스코프 조작을 소개한다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

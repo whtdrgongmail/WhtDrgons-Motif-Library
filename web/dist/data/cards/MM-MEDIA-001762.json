@@ -7,14 +7,14 @@
   "tag_id": "ML-T00094",
   "primary_tag_id": "ML-T00094",
   "description": {
-    "definition": "《드래곤볼 Z 어브리지드》는 웹영상 작품이다.",
+    "definition": "《드래곤볼 Z 어브리지드》는 팀 포 스타가 《드래곤볼 Z》 애니메이션을 편집하고 영어 대사를 새로 녹음한 웹 패러디 연작이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.009.001",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《드래곤볼 Z 어브리지드》에서 베지터가 미스터 포포에게 계속 무례하게 군 끝에 떨어지는 장면은, 카린이 그 결과가 올지보다 언제 올지만 문제였다는 태도를 보이며 마무리된다.",
+    "easy_ko": "손오공 일행과 라데츠가 마주치는 익숙한 장면이 새 영어 대사를 만나 코미디가 된다. 인물들이 무슨 말을 하느냐에 따라 같은 표정과 몸짓도 다르게 읽힌다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-03",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -55,18 +55,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000538",
+      "card_id": "MM-MEDIA-001762",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=2nYozPLpJRE",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000539",
+      "card_id": "MM-MEDIA-001762",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.youtube.com/watch?v=3IvHXD7UoVI",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《드래곤볼 Z 어브리지드》라는 표제는 웹영상을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 웹영상을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "팀 포 스타가 공개한 첫 회는 라데츠의 등장을 다룬다. 원작 애니메이션 화면을 짧게 이어 붙이고 성우진이 인물별 대사를 다시 녹음해, 괴력을 지닌 적이 나타나는 도입부를 말다툼과 반응을 살린 희극으로 바꾼다.\n\n연작은 라데츠가 등장하는 초반부터 셀과의 대결 이후까지 이어진다. 한 성우가 여러 인물을 맡기도 한다. 예를 들어 첫 회에서 라니페이터는 피콜로, 크리링, 베지터 등의 목소리를 연기했다. 제작진이 따로 공개한 60화 후일담도 있다.",
     "sections": [
       [
         "상세 설명",
-        "《드래곤볼 Z 어브리지드》라는 표제는 웹영상을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 웹영상을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "팀 포 스타가 공개한 첫 회는 라데츠의 등장을 다룬다. 원작 애니메이션 화면을 짧게 이어 붙이고 성우진이 인물별 대사를 다시 녹음해, 괴력을 지닌 적이 나타나는 도입부를 말다툼과 반응을 살린 희극으로 바꾼다.\n\n연작은 라데츠가 등장하는 초반부터 셀과의 대결 이후까지 이어진다. 한 성우가 여러 인물을 맡기도 한다. 예를 들어 첫 회에서 라니페이터는 피콜로, 크리링, 베지터 등의 목소리를 연기했다. 제작진이 따로 공개한 60화 후일담도 있다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

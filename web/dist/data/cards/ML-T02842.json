@@ -1,0 +1,48 @@
+{
+  "id": "ML-T02842",
+  "kind": "keyword",
+  "title": "무작위 판정의 재추첨과 결과 선택",
+  "original": "Rerolls and Random Outcome Selection",
+  "original_basis": "editorial_english_label",
+  "aliases": [],
+  "tag_id": "ML-T02842",
+  "primary_tag_id": "ML-T02842",
+  "description": {
+    "definition": "같은 확률 판정의 결과를 다시 뽑거나, 복수 후보 중 채택할 결과를 고르거나 후보의 순서를 바꿀 수 있게 하는 공식 규칙이다.",
+    "detail": "",
+    "usage": "",
+    "boundary": "고정 확률 보정, 단순 추첨 보상, 저장 파일을 불러와 시도를 반복하는 플레이는 제외한다."
+  },
+  "content_status": "defined",
+  "updated_at": "2026-11-18",
+  "row_version": 1,
+  "classification": {
+    "code": "25.029",
+    "review_status": "reviewed",
+    "row_version": 1
+  },
+  "classification_semantics": null,
+  "easy_explanation": {
+    "easy_ko": "공식 [[규칙]]이 무작위 판정의 결과를 다시 뽑거나 여러 후보 중 채택할 결과를 고르게 한다.",
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1
+  },
+  "applied_tags": [],
+  "related_media": [],
+  "related_motifs": [],
+  "references": [],
+  "longform_article": {
+    "text": "주사위나 카드의 첫 결과를 버리고 다시 뽑는 방식, 여러 결과를 동시에 얻은 뒤 하나를 고르는 방식, 상대의 유리한 결과를 다시 굴리게 하는 방식이 있다. 각각 새로운 결과를 반드시 받아들이는지와 선택권을 누가 갖는지에 따라 전략적 가치가 달라진다.\n\n기본 확률을 높이는 수치 보정과 구분한다. 저장 파일을 불러와 같은 시도를 반복하는 행동도 게임이 한 판정 안에서 공식적으로 허용한 재추첨과는 다르다.",
+    "sections": [
+      [
+        "상세 설명",
+        "주사위나 카드의 첫 결과를 버리고 다시 뽑는 방식, 여러 결과를 동시에 얻은 뒤 하나를 고르는 방식, 상대의 유리한 결과를 다시 굴리게 하는 방식이 있다. 각각 새로운 결과를 반드시 받아들이는지와 선택권을 누가 갖는지에 따라 전략적 가치가 달라진다.\n\n기본 확률을 높이는 수치 보정과 구분한다. 저장 파일을 불러와 같은 시도를 반복하는 행동도 게임이 한 판정 안에서 공식적으로 허용한 재추첨과는 다르다."
+      ]
+    ],
+    "review_status": "reviewed",
+    "updated_at": "2026-11-18",
+    "row_version": 1,
+    "replaces_short_fields": false
+  }
+}

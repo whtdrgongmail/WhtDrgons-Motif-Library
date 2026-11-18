@@ -1,20 +1,20 @@
 {
   "id": "MEJE-KW-023426",
   "kind": "keyword",
-  "title": "불을 만드는 강의 요괴",
+  "title": "불덩이와 함께 전해지는 가와텐구",
   "original": "kawatengu",
   "aliases": [],
   "tag_id": "ML-T01126",
   "primary_tag_id": "ML-T01126",
   "description": {
-    "definition": "강의 덴구라는 이름으로 불리는 물가 요괴에게 불을 만드는 능력을 부여한다.",
+    "definition": "가와텐구는 강가와 물가에서 나타나는 괴이의 이름이며, 일부 전승은 밤의 불덩이나 큰 불길과 이 존재를 연결한다.",
     "detail": "",
     "usage": "",
-    "boundary": "이름만으로 일반 덴구의 모든 외형과 능력을 옮기지 않는다."
+    "boundary": "가와텐구의 모든 전승에서 불을 직접 만들어 내거나 같은 외형을 지녔다고 일반화하지 않는다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-10",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
     "code": "12.004.003",
     "review_status": "provisional",
@@ -22,26 +22,47 @@
   },
   "classification_semantics": null,
   "easy_explanation": {
-    "easy_ko": "물가에 살지만 불을 만들어 낸다.",
+    "easy_ko": "강가에 나타난 불덩이나 큰 불길을 가와텐구와 연결하는 이야기다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
   "related_motifs": [],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000532",
+      "card_id": "MEJE-KW-023426",
+      "label_ko": "국제일본문화연구센터 가와텐구 전승",
+      "icon_key": "website",
+      "url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=0150013",
+      "description_ko": "일본 지역 민속 전승의 기록과 해설",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000533",
+      "card_id": "MEJE-KW-023426",
+      "label_ko": "국제일본문화연구센터 강가 불덩이 전승",
+      "icon_key": "website",
+      "url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=C1450062-000",
+      "description_ko": "일본 지역 민속 전승의 기록과 해설",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "불을 만드는 강의 요괴는 물가의 존재에게 불을 일으키는 힘을 부여한 표현이다. 강의 덴구라는 호칭과 관련되지만, 여기서는 물가라는 영역과 불의 능력이 결합한다는 범위만을 다룬다. 지역별 전승의 유래나 구체적인 행동은 이 조건과 별도로 구분한다.",
+    "text": "가와텐구는 물가의 괴이를 가리키는 지역적 호칭이다. 일본의 민속 기록에는 밤의 강가에서 굴러오는 불덩이나 길을 막는 큰 불길을 가와텐구의 출현과 연결한 사례가 있다. 불이 이 존재와 함께 나타난다는 전승을 곧바로 모든 가와텐구가 불을 생성하는 능력을 지녔다는 설정으로 바꾸어서는 안 된다.",
     "sections": [
       [
         "상세 설명",
-        "불을 만드는 강의 요괴는 물가의 존재에게 불을 일으키는 힘을 부여한 표현이다. 강의 덴구라는 호칭과 관련되지만, 여기서는 물가라는 영역과 불의 능력이 결합한다는 범위만을 다룬다. 지역별 전승의 유래나 구체적인 행동은 이 조건과 별도로 구분한다."
+        "가와텐구는 물가의 괴이를 가리키는 지역적 호칭이다. 일본의 민속 기록에는 밤의 강가에서 굴러오는 불덩이나 길을 막는 큰 불길을 가와텐구의 출현과 연결한 사례가 있다. 불이 이 존재와 함께 나타난다는 전승을 곧바로 모든 가와텐구가 불을 생성하는 능력을 지녔다는 설정으로 바꾸어서는 안 된다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }
