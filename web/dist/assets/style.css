@@ -112,11 +112,17 @@ main{max-width:1560px;padding:0 4.6% 100px;margin:auto;min-height:65vh}.page-hea
 .seen-button:hover{color:#bf344d;border-color:#bf344d;background:color-mix(in srgb,#e95c72 9%,var(--card))}
 .seen-button[aria-pressed=true]{color:#c62645;border-color:color-mix(in srgb,#c62645 48%,var(--line));background:color-mix(in srgb,#e95c72 12%,var(--card))}
 .seen-button .heart{font-size:20px;line-height:1;transform:translateY(-1px)}
-.catalog-card>.seen-button{position:absolute;top:10px;right:10px;z-index:2}
+.card-actions{position:absolute;top:10px;right:10px;z-index:3;display:flex;align-items:center;gap:5px}
 .catalog-card .thumb-title{margin-top:26px}
-.detail-seen-button{display:inline-flex;align-items:center;justify-content:center;gap:7px;width:auto;min-height:34px;padding:4px 11px;margin:0 0 15px;border-radius:19px;box-shadow:none}
-.detail-seen-button .heart{font-size:19px}.detail-seen-button .seen-label{font-size:12px;font-weight:600}
-@media(max-width:540px){.catalog-card>.seen-button{top:9px;right:9px;width:30px;height:30px}.catalog-card>.seen-button .heart{font-size:18px}}
+.detail-cover-card .card-actions{top:12px;right:12px}
+.detail-cover-card .cover-top{padding-right:95px;min-height:32px}
+.card-actions .seen-button{width:34px;height:34px;flex:none;background:var(--card)}
+.card-actions .seen-button .heart{font-size:20px}
+.card-actions .diamond-button{display:inline-flex;align-items:center;justify-content:center;gap:4px;min-width:42px;height:34px;padding:0 8px;border:1px solid var(--line-strong);border-radius:18px;background:var(--card);color:var(--text-muted);box-shadow:0 2px 7px var(--shadow);font-size:11px;font-weight:700;cursor:pointer}
+.card-actions .diamond-button:hover,.card-actions .diamond-button[aria-pressed=true]{border-color:#2b9fdb;background:color-mix(in srgb,#39a9e4 10%,var(--card));color:#167cb6}
+.card-actions .diamond-symbol{color:#26a8ee;font-size:14px;line-height:1}
+.card-actions .diamond-count{font-variant-numeric:tabular-nums}
+@media(max-width:540px){.card-actions{top:9px;right:9px;gap:4px}.card-actions .seen-button{width:31px;height:31px}.card-actions .seen-button .heart{font-size:18px}.card-actions .diamond-button{height:31px;min-width:39px;padding:0 6px}.detail-cover-card .cover-top{padding-right:85px}}
 
 /* Official MEJE wordmark: white source for dark mode, black silhouette on white. */
 .brand-cluster{display:flex;align-items:center;gap:14px;flex-shrink:0;min-width:0}

@@ -20,6 +20,7 @@
   const norm = s => (s || '').normalize('NFKC').toLocaleLowerCase().replace(/[\s_-]+/g, '');
   const esc = s => String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const seenKey = 'meje-seen-cards-v1';
+  const favoriteKey = 'meje-favorite-cards-v1';
   // Public GA4 measurement ID. Leave blank until the property is ready.
   const analyticsMeasurementId = 'G-6YDW0J42W6';
   if (/^G-[A-Z0-9]+$/.test(analyticsMeasurementId)) {
@@ -33,18 +34,29 @@
     document.head.append(analyticsScript);
   }
   const cardIdPattern = /^(?:MEJE-KW-\d+|ML-[FT]\d+|MM-[A-Z]+-[A-Z0-9-]+)$/;
-  function readSeenCards() {
+  function readCardIds(key) {
     try {
-      const saved = JSON.parse(localStorage.getItem(seenKey) || '[]');
+      const saved = JSON.parse(localStorage.getItem(key) || '[]');
       return new Set(Array.isArray(saved) ? saved.filter(id => typeof id === 'string' && cardIdPattern.test(id)) : []);
     } catch (_) { return new Set(); }
   }
-  let seenCards = readSeenCards();
+  let seenCards = readCardIds(seenKey);
+  let favoriteCards = readCardIds(favoriteKey);
   const track = (name, params) => { if (typeof window.gtag === 'function') window.gtag('event', name, params); };
-  function seenButtonHTML(id, title, detail = false) {
+  function seenButtonHTML(id, title) {
     const marked = seenCards.has(id);
     const label = `${title} · ${marked ? '본 카드 표시 해제' : '본 카드로 표시'}`;
-    return `<button type="button" class="seen-button${detail ? ' detail-seen-button' : ''}" data-seen-card="${esc(id)}" data-seen-title="${esc(title)}" aria-pressed="${marked}" aria-label="${esc(label)}" title="${esc(label)}"><span class="heart" aria-hidden="true">${marked ? '♥' : '♡'}</span>${detail ? `<span class="seen-label">${marked ? '봤어요' : '본 카드로 표시'}</span>` : ''}</button>`;
+    return `<button type="button" class="seen-button" data-seen-card="${esc(id)}" data-seen-title="${esc(title)}" aria-pressed="${marked}" aria-label="${esc(label)}" title="${esc(label)}"><span class="heart" aria-hidden="true">${marked ? '♥' : '♡'}</span></button>`;
+  }
+  function diamondButtonHTML(id, title) {
+    const marked = favoriteCards.has(id);
+    const label = `${title} · ${marked ? '관심 카드에서 제거' : '관심 카드에 저장'} (내 관심 카드 ${favoriteCards.size}개)`;
+    return `<button type="button" class="diamond-button" data-favorite-card="${esc(id)}" data-favorite-title="${esc(title)}" aria-pressed="${marked}" aria-label="${esc(label)}" title="${esc(label)}"><span class="diamond-symbol" aria-hidden="true">◆</span><span class="diamond-count" aria-hidden="true">${favoriteCards.size}</span></button>`;
+  }
+  function cardActionsHTML(id, title, detail = false) {
+    const heart = seenButtonHTML(id, title);
+    const diamond = diamondButtonHTML(id, title);
+    return `<div class="card-actions">${detail ? heart + diamond : diamond + heart}</div>`;
   }
   function refreshSeenButtons(id) {
     document.querySelectorAll('button[data-seen-card]').forEach(button => {
@@ -55,8 +67,16 @@
       button.setAttribute('aria-label', label);
       button.title = label;
       button.querySelector('.heart').textContent = marked ? '♥' : '♡';
-      const text = button.querySelector('.seen-label');
-      if (text) text.textContent = marked ? '봤어요' : '본 카드로 표시';
+    });
+  }
+  function refreshDiamondButtons() {
+    document.querySelectorAll('button[data-favorite-card]').forEach(button => {
+      const marked = favoriteCards.has(button.dataset.favoriteCard);
+      const label = `${button.dataset.favoriteTitle} · ${marked ? '관심 카드에서 제거' : '관심 카드에 저장'} (내 관심 카드 ${favoriteCards.size}개)`;
+      button.setAttribute('aria-pressed', String(marked));
+      button.setAttribute('aria-label', label);
+      button.title = label;
+      button.querySelector('.diamond-count').textContent = favoriteCards.size;
     });
   }
   document.addEventListener('click', event => {
@@ -72,16 +92,33 @@
     refreshSeenButtons(id);
     track('motif_seen_toggle', {card_id: id, seen_status: marked ? 'marked' : 'unmarked'});
   });
+  document.addEventListener('click', event => {
+    const button = event.target.closest('button[data-favorite-card]');
+    if (!button) return;
+    event.preventDefault();
+    event.stopPropagation();
+    const id = button.dataset.favoriteCard;
+    if (!cardIdPattern.test(id)) return;
+    const marked = !favoriteCards.has(id);
+    if (marked) favoriteCards.add(id); else favoriteCards.delete(id);
+    try { localStorage.setItem(favoriteKey, JSON.stringify([...favoriteCards])); } catch (_) {}
+    refreshDiamondButtons();
+    track('motif_favorite_toggle', {card_id: id, favorite_status: marked ? 'saved' : 'removed'});
+  });
   addEventListener('storage', event => {
-    if (event.key !== seenKey) return;
-    seenCards = readSeenCards();
-    refreshSeenButtons();
+    if (event.key === seenKey) {
+      seenCards = readCardIds(seenKey);
+      refreshSeenButtons();
+    } else if (event.key === favoriteKey) {
+      favoriteCards = readCardIds(favoriteKey);
+      refreshDiamondButtons();
+    }
   });
   const detailCard = $('.detail-reading[data-card-id]');
   if (detailCard) {
     const heading = detailCard.querySelector('h1');
-    const after = detailCard.querySelector(':scope > .original-term') || heading;
-    if (after) after.insertAdjacentHTML('afterend', seenButtonHTML(detailCard.dataset.cardId, heading?.textContent?.trim() || '카드', true));
+    const cover = $('.detail-cover-card');
+    if (cover) cover.insertAdjacentHTML('beforeend', cardActionsHTML(detailCard.dataset.cardId, heading?.textContent?.trim() || '카드', true));
   }
   const input = $('#card-search') || $('#tree-search');
   document.addEventListener('keydown', event => {
@@ -117,7 +154,7 @@
     const collator = new Intl.Collator('ko');
     const cardHTML = c => {
       const chips = (c.thumbnail_tags || []).map((label, index) => `<span class="thumb-chip ${index ? 'thumb-chip-applied' : 'thumb-chip-primary'}">${esc(label)}</span>`).join('');
-      return `<div class="catalog-card"><a class="motif-card ${c.kind === 'work' ? 'work-card' : 'concept-card'}" data-card-id="${esc(c.id)}" data-row-version="${esc(c.row_version)}" href="${esc(c.entry_url || `cards/${c.id}/index.html`)}" style="--accent:${esc(c.accent)};--tab:${esc(c.tab)}"><div class="thumb-mark" aria-hidden="true"></div><h3 class="thumb-title">${esc(c.title)}</h3><div class="thumb-tags">${chips}</div></a>${seenButtonHTML(c.id, c.title)}</div>`;
+      return `<div class="catalog-card"><a class="motif-card ${c.kind === 'work' ? 'work-card' : 'concept-card'}" data-card-id="${esc(c.id)}" data-row-version="${esc(c.row_version)}" href="${esc(c.entry_url || `cards/${c.id}/index.html`)}" style="--accent:${esc(c.accent)};--tab:${esc(c.tab)}"><div class="thumb-mark" aria-hidden="true"></div><h3 class="thumb-title">${esc(c.title)}</h3><div class="thumb-tags">${chips}</div></a>${cardActionsHTML(c.id, c.title)}</div>`;
     };
     function readURL() {
       const p = new URLSearchParams(location.search);
