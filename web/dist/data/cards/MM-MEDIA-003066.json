@@ -7,14 +7,14 @@
   "tag_id": "ML-T02513",
   "primary_tag_id": "ML-T02513",
   "description": {
-    "definition": "《학원 앨리스》는 만화 작품이다.",
+    "definition": "《학원 앨리스》는 시골에서 자란 미캉이 전학 간 친구 호타루를 찾아 특별한 재능을 지닌 아이들의 [[학교]]로 가는 히구치 다치바나의 [[만화]]다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.020",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《학원 앨리스》의 유카는 다른 사람의 앨리스를 빼내어 앨리스 스톤으로 만든다. 일반적인 물체가 아니라 남의 능력 자체가 작용 대상이 된다.",
+    "easy_ko": "단짝 호타루가 갑자기 도시로 떠나자 미캉은 뒤를 따라간다. 친구가 들어간 곳은 특별한 능력을 가진 학생만 받아 주는 앨리스 학원이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000602",
+      "card_id": "MM-MEDIA-003066",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.hakusensha.co.jp/comicslist/41019/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000603",
+      "card_id": "MM-MEDIA-003066",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.hakusensha.co.jp/comicslist/41291/",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《학원 앨리스》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "시골 마을에서 함께 자란 미캉과 호타루는 단짝이다. 호타루가 도시로 떠났다는 소식을 듣고 뒤를 좇은 미캉은 특별한 재능을 가진 아이들만 입학한다는 앨리스 학원의 문 앞에 도착한다.\n\n12권에서 미캉과 호타루는 일행에서 떨어진 나츠메를 찾는다. 그 과정에서 루카에게 나츠메가 학원에 들어온 사정과 동생 아오이의 [[실종]]을 전해 듣고, 페르소나에게서 나츠메를 구하려고 나선다.",
     "sections": [
       [
         "상세 설명",
-        "《학원 앨리스》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "시골 마을에서 함께 자란 미캉과 호타루는 단짝이다. 호타루가 도시로 떠났다는 소식을 듣고 뒤를 좇은 미캉은 특별한 재능을 가진 아이들만 입학한다는 앨리스 학원의 문 앞에 도착한다.\n\n12권에서 미캉과 호타루는 일행에서 떨어진 나츠메를 찾는다. 그 과정에서 루카에게 나츠메가 학원에 들어온 사정과 동생 아오이의 [[실종]]을 전해 듣고, 페르소나에게서 나츠메를 구하려고 나선다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

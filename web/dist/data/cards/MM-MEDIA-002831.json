@@ -7,14 +7,14 @@
   "tag_id": "ML-T02513",
   "primary_tag_id": "ML-T02513",
   "description": {
-    "definition": "《셀레스티얼 마돈나 사가》는 만화 작품이다.",
+    "definition": "《셀레스티얼 마돈나 사가》는 미래에 강력한 존재를 낳을 사람을 찾으려는 정복자 캉과 어벤져스의 대결을 그린 마블 [[만화]] [[어벤져스(코믹스)]]의 연속 이야기다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.020",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《셀레스티얼 마돈나 사가》에서 맨티스는 우주에서 가장 강력한 존재를 낳으리라는 예언의 대상으로 밝혀지고 더 높은 존재 단계에 이른다.",
+    "easy_ko": "캉은 [[예언]] 속 인물이 누구인지 몰라 세 사람을 한꺼번에 [[납치]]한다. 정체가 맨티스로 밝혀지자 그를 지키려 나선 소즈맨이 위험에 처한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000598",
+      "card_id": "MM-MEDIA-002831",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.marvel.com/characters/kang/in-comics",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000599",
+      "card_id": "MM-MEDIA-002831",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.marvel.com/teams-and-groups/avengers/in-comics",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《셀레스티얼 마돈나 사가》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "미래의 아이의 아버지가 되려는 캉은 아가사 하크니스, 맨티스, 스칼렛 위치를 후보로 좁힌다. 어벤져스의 편에는 캉 자신의 미래 모습인 라마투트가 가담해 과거의 자신과 맞선다.\n\n맨티스를 노린 캉의 공격을 소즈맨이 대신 맞고 죽는다. 뒤에 식물형 [[외계 생명]]체 코타티가 소즈맨의 몸을 빌려 맨티스와 [[결혼]]한다. 같은 예식에서 스칼렛 위치와 비전도 부부가 된다.",
     "sections": [
       [
         "상세 설명",
-        "《셀레스티얼 마돈나 사가》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "미래의 아이의 아버지가 되려는 캉은 아가사 하크니스, 맨티스, 스칼렛 위치를 후보로 좁힌다. 어벤져스의 편에는 캉 자신의 미래 모습인 라마투트가 가담해 과거의 자신과 맞선다.\n\n맨티스를 노린 캉의 공격을 소즈맨이 대신 맞고 죽는다. 뒤에 식물형 [[외계 생명]]체 코타티가 소즈맨의 몸을 빌려 맨티스와 [[결혼]]한다. 같은 예식에서 스칼렛 위치와 비전도 부부가 된다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

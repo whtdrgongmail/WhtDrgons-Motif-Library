@@ -4,8 +4,8 @@
   "title": "쓰러진 플레이어를 계속 공격하는 적",
   "original": "Beating a Dead Player",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02530",
+  "primary_tag_id": "ML-T02530",
   "description": {
     "definition": "[[캐릭터]]가 이미 전투 불능이 됐는데도 상대의 공격 동작이 잠시 이어진다. 게임의 적 판단 규칙과 화면에 보이는 결과가 어긋나는 순간이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-01",
-  "row_version": 2,
+  "updated_at": "2026-11-18",
+  "row_version": 3,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "체력이 없어져 더는 조작할 수 없는 [[캐릭터]]에게 적이 여전히 연속 공격을 하거나 발사체를 보내는 모습이다. 새 피해의 실질적 의미가 없는데도 이전 명령이 끝나지 않은 결과일 수 있으며 적의 잔혹한 성격을 의도한 장면인지 판단 로직의 관성인지 구분해야 한다.",
     "review_status": "reviewed",

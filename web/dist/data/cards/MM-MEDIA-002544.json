@@ -7,14 +7,14 @@
   "tag_id": "ML-T00061",
   "primary_tag_id": "ML-T00061",
   "description": {
-    "definition": "《토스트 오브 틴셀타운》은 텔레비전 작품이다.",
+    "definition": "《토스트 오브 틴셀타운》은 런던 배우 스티븐 토스트가 영화배우로 성공하려 할리우드로 건너가는 과정을 그린 영국의 6부작 [[코미디]]다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.014",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《토스트 오브 틴셀타운》의 스티븐 토스트는 런던에서 로스앤젤레스로 가 성공을 노리지만 낯선 문화와 제한된 배역 기회 때문에 어려움을 겪는다. 무대를 옮기는 꿈과 새 시장의 현실이 충돌한다.",
+    "easy_ko": "토스트는 [[스타워즈]] 영화에 출연한다는 기대를 안고 미국으로 간다. 정작 촬영을 기다리는 동안 매니저가 보내 주는 일은 번번이 집사 역할이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000592",
+      "card_id": "MM-MEDIA-002544",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.objectivemedia.group/programmes/view/toast-of-tinseltown",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000593",
+      "card_id": "MM-MEDIA-002544",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.objectivefiction.com/programmes/view/toast-of-tinseltown",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《토스트 오브 틴셀타운》라는 표제는 텔레비전을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 텔레비전을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "런던에서 [[연극]]과 목소리 연기를 하던 토스트는 미국행 비행기에서 러스 나이트라이프를 만난다. 현지에 아는 사람이라곤 새 에이전트 브룩뿐이고 묵을 곳도 없던 토스트는 러스의 집에 머물게 된다.\n\n브룩이 소개하는 배역을 받아들이며 기다리는 사이, 토스트는 [[연속극]]에서 의사를 연기해 성공을 거두기도 하고 사막에서 길을 잃기도 한다. 맷 베리가 주연을 맡고 아서 매슈스와 함께 각본을 썼다.",
     "sections": [
       [
         "상세 설명",
-        "《토스트 오브 틴셀타운》라는 표제는 텔레비전을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 텔레비전을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "런던에서 [[연극]]과 목소리 연기를 하던 토스트는 미국행 비행기에서 러스 나이트라이프를 만난다. 현지에 아는 사람이라곤 새 에이전트 브룩뿐이고 묵을 곳도 없던 토스트는 러스의 집에 머물게 된다.\n\n브룩이 소개하는 배역을 받아들이며 기다리는 사이, 토스트는 [[연속극]]에서 의사를 연기해 성공을 거두기도 하고 사막에서 길을 잃기도 한다. 맷 베리가 주연을 맡고 아서 매슈스와 함께 각본을 썼다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

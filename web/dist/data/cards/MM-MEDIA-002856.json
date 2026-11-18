@@ -7,14 +7,14 @@
   "tag_id": "ML-T02513",
   "primary_tag_id": "ML-T02513",
   "description": {
-    "definition": "《피터 파커, 스펙터큘러 스파이더맨》은 만화 작품이다.",
+    "definition": "《피터 파커, 스펙터큘러 스파이더맨》은 피터 파커와 뉴욕의 범죄자들, 그리고 동료 블랙 캣의 관계를 다룬 마블의 1976년 창간 [[만화]] [[시리즈]]다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.020",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《피터 파커, 스펙터큘러 스파이더맨》 98호에서 피터는 펠리시아가 킹핀에게 능력을 받았다는 사실을 받아들이지 못해 관계를 끝낸다.",
+    "easy_ko": "첫 호에서는 타란툴라가 적으로 등장한다. 나중에는 블랙 캣이 피터와 함께 싸우면서 두 사람이 범죄에 맞서는 동료이자 연인이 된다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000600",
+      "card_id": "MM-MEDIA-002856",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.marvel.com/comics/issue/14542/spectacular-spider-man-1976-1",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000601",
+      "card_id": "MM-MEDIA-002856",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.marvel.com/comics/collection/104948/marvel_masterworks_the_spectacular_spider-man_vol_6_hardcover",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《피터 파커, 스펙터큘러 스파이더맨》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "1976년 12월호로 발행된 첫 호는 제리 콘웨이가 쓰고 샐 부셰마가 그렸다. 스파이더맨은 자신과 마찬가지로 거미를 이름에 내세운 타란툴라와 맞서며 새 연재의 첫 사건을 치른다.\n\n67~79호를 묶은 구간에서는 킹핀이 부메랑을 고용하면서 사건이 시작된다. 빌 맨틀로는 스파이더맨과 블랙 캣의 협력과 연애를 이어 가면서, 킹핀의 [[범죄 조직]]과 닥터 옥토퍼스 같은 적들을 두 사람의 이야기 안에 끌어들인다.",
     "sections": [
       [
         "상세 설명",
-        "《피터 파커, 스펙터큘러 스파이더맨》라는 표제는 만화를 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 만화을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "1976년 12월호로 발행된 첫 호는 제리 콘웨이가 쓰고 샐 부셰마가 그렸다. 스파이더맨은 자신과 마찬가지로 거미를 이름에 내세운 타란툴라와 맞서며 새 연재의 첫 사건을 치른다.\n\n67~79호를 묶은 구간에서는 킹핀이 부메랑을 고용하면서 사건이 시작된다. 빌 맨틀로는 스파이더맨과 블랙 캣의 협력과 연애를 이어 가면서, 킹핀의 [[범죄 조직]]과 닥터 옥토퍼스 같은 적들을 두 사람의 이야기 안에 끌어들인다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

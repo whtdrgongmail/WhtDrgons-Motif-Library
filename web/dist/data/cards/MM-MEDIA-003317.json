@@ -7,14 +7,14 @@
   "tag_id": "ML-T00100",
   "primary_tag_id": "ML-T00100",
   "description": {
-    "definition": "《Shrek Retold》는 웹애니메이션 작품이다.",
+    "definition": "《Shrek Retold》는 인터넷 창작자 200여 명이 드림웍스의 첫 《[[슈렉]]》을 [[장면 단위]]로 [[리메이크]]해 한 편으로 이어 붙인 3GI의 팬 영화다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.009.002",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Shrek Retold》는 원작 영화 전체를 여러 제작자가 영상과 소리부터 다시 만드는 협업으로, 애니메이션과 실사 표현을 함께 사용한다.",
+    "easy_ko": "슈렉의 모험은 이어지지만 다음 장면에서는 인물의 모습도 움직임도 달라진다. 같은 이야기를 이어받은 창작자들이 각자 다른 방법으로 찍거나 그렸기 때문이다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000608",
+      "card_id": "MM-MEDIA-003317",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://the3gi.com/pages/shrek-retold",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000609",
+      "card_id": "MM-MEDIA-003317",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://the3gi.com/products/shrek-retold-blu-ray-pre-order",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Shrek Retold》라는 표제는 웹애니메이션을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 웹애니메이션을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "3GI는 원작 [[장편]]을 장면별로 나누어 다시 만드는 공동 작업을 조직했다. 참여자들은 각자 맡은 부분을 자기 방식으로 연출했고, 이 장면들이 원작의 순서를 따라 이어지면서 한 편의 [[장편]]이 됐다.\n\n한 장면은 실제 배우가 연기하고, 다른 장면은 그림을 움직이거나 인형을 조금씩 옮겨 촬영하는 [[스톱 모션]] 기법으로 만들어졌다. 연출자가 바뀌는 경계가 화면에 그대로 드러나므로 같은 인물을 여러 사람의 해석으로 연달아 볼 수 있다.",
     "sections": [
       [
         "상세 설명",
-        "《Shrek Retold》라는 표제는 웹애니메이션을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 웹애니메이션을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "3GI는 원작 [[장편]]을 장면별로 나누어 다시 만드는 공동 작업을 조직했다. 참여자들은 각자 맡은 부분을 자기 방식으로 연출했고, 이 장면들이 원작의 순서를 따라 이어지면서 한 편의 [[장편]]이 됐다.\n\n한 장면은 실제 배우가 연기하고, 다른 장면은 그림을 움직이거나 인형을 조금씩 옮겨 촬영하는 [[스톱 모션]] 기법으로 만들어졌다. 연출자가 바뀌는 경계가 화면에 그대로 드러나므로 같은 인물을 여러 사람의 해석으로 연달아 볼 수 있다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

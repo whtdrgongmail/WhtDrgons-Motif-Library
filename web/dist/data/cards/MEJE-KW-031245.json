@@ -4,8 +4,8 @@
   "title": "빈틈 없는 대응을 반복하는 게임 인공지능",
   "original": "Perfect Play A.I.",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02530",
+  "primary_tag_id": "ML-T02530",
   "description": {
     "definition": "공격과 방어의 규칙을 정확하게 활용하여 불리한 행동을 거의 하지 않고 플레이어의 빈틈에 대응하는 게임 상대다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-08",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.017",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "플레이어가 공격할 때마다 막고 반격하면서 자신은 틈을 잘 내주지 않는 상대다.",
     "review_status": "reviewed",

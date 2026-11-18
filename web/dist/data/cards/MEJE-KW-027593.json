@@ -4,8 +4,8 @@
   "title": "덱 고갈을 노리는 카드 제거",
   "original": "milling",
   "aliases": [],
-  "tag_id": null,
-  "primary_tag_id": "ML-F25",
+  "tag_id": "ML-T02514",
+  "primary_tag_id": "ML-T02514",
   "description": {
     "definition": "더 이상 뽑을 카드가 없으면 패배하는 규칙을 이용하여 상대 덱의 카드를 빠르게 제거하는 승리 전략이다.",
     "detail": "",
@@ -13,14 +13,22 @@
     "boundary": "특정 카드 한 장만 없애는 방해보다 덱 고갈 자체가 목표다."
   },
   "content_status": "defined",
-  "updated_at": "2026-11-06",
-  "row_version": 1,
+  "updated_at": "2026-11-18",
+  "row_version": 2,
   "classification": {
-    "code": "25",
-    "review_status": "provisional",
+    "code": "25.013",
+    "review_status": "reviewed",
     "row_version": 1
   },
-  "classification_semantics": null,
+  "classification_semantics": {
+    "semantic_kind": "game_mechanic",
+    "parent_relation": "facet_member",
+    "allowed_roles": [
+      "subject"
+    ],
+    "review_status": "reviewed",
+    "row_version": 1
+  },
   "easy_explanation": {
     "easy_ko": "상대 체력 대신 남은 카드 더미를 바닥낸다.",
     "review_status": "reviewed",

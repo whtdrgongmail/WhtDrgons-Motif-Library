@@ -7,14 +7,14 @@
   "tag_id": "ML-T00076",
   "primary_tag_id": "ML-T00076",
   "description": {
-    "definition": "《Prime World》는 비디오게임 작품이다.",
+    "definition": "《Prime World》는 영웅을 골라 치르는 팀 [[전투]]와 자기 성의 운영, 영웅의 재능 수집을 결합한 니발의 [[MOBA]] 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.016",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Prime World》에서는 주된 영웅 전투에 익숙하지 않은 이용자가 구슬 맞추기 형태의 미니게임으로 지원할 수 있다.",
+    "easy_ko": "한 경기가 끝나도 할 일이 남는다. 돌아갈 성을 키우고 영웅에게 쓸 재능을 모아 다음 [[전투]]에 내보낼 전력을 준비한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,29 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000610",
+      "card_id": "MM-MEDIA-003331",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://nival.com/games/pc-games/prime-world",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Prime World》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "[[플레이어]]는 프라이아 세계에 자신의 성을 두고 여러 영웅을 모은다. 한 판씩 벌어지는 [[전투]]와 성을 발전시키는 활동을 오가며, 모아 둔 재능으로 자신이 운용할 영웅들의 전력을 갖춘다.\n\n영웅 한 명의 성장 밖에는 클랜 간의 경쟁이 있다. 다른 클랜과 이익을 나눌 동맹을 맺을 수도 있고 [[전투]]로 굴복시킬 수도 있어, 여러 경기에서 키운 전력이 집단 사이의 관계로 이어진다.",
     "sections": [
       [
         "상세 설명",
-        "《Prime World》라는 표제는 비디오게임을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 비디오게임을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "[[플레이어]]는 프라이아 세계에 자신의 성을 두고 여러 영웅을 모은다. 한 판씩 벌어지는 [[전투]]와 성을 발전시키는 활동을 오가며, 모아 둔 재능으로 자신이 운용할 영웅들의 전력을 갖춘다.\n\n영웅 한 명의 성장 밖에는 클랜 간의 경쟁이 있다. 다른 클랜과 이익을 나눌 동맹을 맺을 수도 있고 [[전투]]로 굴복시킬 수도 있어, 여러 경기에서 키운 전력이 집단 사이의 관계로 이어진다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }

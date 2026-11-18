@@ -7,14 +7,14 @@
   "tag_id": "ML-T00130",
   "primary_tag_id": "ML-T00130",
   "description": {
-    "definition": "《Monster Bash (Williams)》는 핀볼 작품이다.",
+    "definition": "《Monster Bash》는 [[플레이어]]가 여섯 괴물의 미션을 시작하고 악기를 모아 괴물 밴드를 완성하는 윌리엄스의 [[핀볼]] 게임이다.",
     "detail": "",
     "usage": "",
     "boundary": ""
   },
   "content_status": "defined",
-  "updated_at": "2026-11-09",
-  "row_version": 3,
+  "updated_at": "2026-11-18",
+  "row_version": 4,
   "classification": {
     "code": "02.018.005",
     "review_status": "provisional",
@@ -30,10 +30,10 @@
     "row_version": 1
   },
   "easy_explanation": {
-    "easy_ko": "《Monster Bash (Williams)》의 드라큘라 표적은 정지했을 때보다 움직일 때 맞히면 두 배의 점수를 준다.",
+    "easy_ko": "플리퍼로 공을 보내 미라, [[드라큘라 백작]] 같은 괴물을 한 명씩 불러낸다. 괴물을 모으는 목표를 넘어서려면 각자의 미션을 끝내 악기까지 얻어야 한다.",
     "review_status": "reviewed",
-    "updated_at": "2026-11-06",
-    "row_version": 2
+    "updated_at": "2026-11-18",
+    "row_version": 3
   },
   "applied_tags": [],
   "related_media": [],
@@ -43,18 +43,39 @@
       "row_version": 1
     }
   ],
-  "references": [],
+  "references": [
+    {
+      "id": "REF-000606",
+      "card_id": "MM-MEDIA-003309",
+      "label_ko": "공식 작품 자료",
+      "icon_key": "website",
+      "url": "https://www.chicago-gaming.com/manuals/MB_Manual_Rev_1.pdf",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 1,
+      "row_version": 1
+    },
+    {
+      "id": "REF-000607",
+      "card_id": "MM-MEDIA-003309",
+      "label_ko": "공식 보충 자료",
+      "icon_key": "website",
+      "url": "https://www.chicago-gaming.com/coinop/monster-bash",
+      "description_ko": "작품의 제작 정보, 줄거리 또는 구성 확인 자료",
+      "sort_order": 2,
+      "row_version": 1
+    }
+  ],
   "longform_article": {
-    "text": "《Monster Bash (Williams)》라는 표제는 핀볼을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 핀볼을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다.",
+    "text": "괴물마다 공을 보내야 하는 곳이 다르다. 미라의 미션은 범퍼를 거듭 맞혀 열고, [[늑대인간]]의 미션은 고리 모양 길로 공을 보내 달의 위상을 모아 연다. [[프랑켄슈타인의 피조물]]은 신체 부품 표적을 모은 뒤 경사로를 맞히면 멀티볼이 시작된다.\n\n각 미션을 시작하면 해당 괴물을 모은 것으로 세며, 여섯 괴물을 모으면 ‘Monster Bash’가 켜진다. 한 단계 더 나아가 미션을 끝까지 수행해 악기 여섯 개를 모으면 별도의 ‘Monsters of Rock’ 모드가 열린다.",
     "sections": [
       [
         "상세 설명",
-        "《Monster Bash (Williams)》라는 표제는 핀볼을 가리킨다.\n\n모티프 라이브러리에서는 이 표제의 핀볼을 작품 사례와 연결하는 참조 단위로 사용한다. 동명의 다른 창작물과는 매체와 수록 범위를 구분한다."
+        "괴물마다 공을 보내야 하는 곳이 다르다. 미라의 미션은 범퍼를 거듭 맞혀 열고, [[늑대인간]]의 미션은 고리 모양 길로 공을 보내 달의 위상을 모아 연다. [[프랑켄슈타인의 피조물]]은 신체 부품 표적을 모은 뒤 경사로를 맞히면 멀티볼이 시작된다.\n\n각 미션을 시작하면 해당 괴물을 모은 것으로 세며, 여섯 괴물을 모으면 ‘Monster Bash’가 켜진다. 한 단계 더 나아가 미션을 끝까지 수행해 악기 여섯 개를 모으면 별도의 ‘Monsters of Rock’ 모드가 열린다."
       ]
     ],
     "review_status": "reviewed",
-    "updated_at": "2026-11-12",
-    "row_version": 1,
+    "updated_at": "2026-11-18",
+    "row_version": 2,
     "replaces_short_fields": false
   }
 }
